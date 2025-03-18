@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1875/</link>
 		<description>Updates about HB 1875</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 16 Mar 2025 05:35:49 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 07:35:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -204,7 +204,7 @@
 			<guid isPermaLink="false">2025-03-10/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - L'Oreal</title>
+			<title>👎Sandra Mochizuki - Northwest Immigrant Rights Project</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Sun, 16 Mar 2025 01:24:33 GMT</pubDate>
 			<category>testifier</category>
@@ -212,7 +212,7 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-16 01:24:33</guid>
 		</item>
 		<item>
-			<title>👎Ronald Mochizuki - L'Oreal</title>
+			<title>👎Ronald Mochizuki - Northwest Immigrant Rights Project</title>
 			<description>Ronald Mochizuki signed up to testify Con.</description>
 			<pubDate>Sun, 16 Mar 2025 01:25:14 GMT</pubDate>
 			<category>testifier</category>
@@ -220,12 +220,68 @@
 			<guid isPermaLink="false">testifier/Ronald/Mochizuki/2025-03-16 01:25:14</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - L'Oreal</title>
+			<title>👎TaraLyn Fray - Northwest Immigrant Rights Project</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Sun, 16 Mar 2025 05:35:49 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-16 05:35:49</guid>
+		</item>
+		<item>
+			<title>👎Teresa Sanders - Northwest Immigrant Rights Project</title>
+			<description>Teresa Sanders signed up to testify Con.</description>
+			<pubDate>Mon, 17 Mar 2025 06:41:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Teresa/Sanders/2025-03-17 06:41:21</guid>
+		</item>
+		<item>
+			<title>👍Yvette Magana - Legal Voice</title>
+			<description>Yvette Magana signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/legal_voice/"&gt;Legal Voice&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Mar 2025 09:27:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Yvette/Magana/2025-03-17 09:27:01</guid>
+		</item>
+		<item>
+			<title>👍Guillermos Zazueta - OneAmerica</title>
+			<description>Guillermos Zazueta signed up to testify Pro. They are signed up to represent OneAmerica.</description>
+			<pubDate>Mon, 17 Mar 2025 09:49:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Guillermos/Zazueta/2025-03-17 09:49:07</guid>
+		</item>
+		<item>
+			<title>👍Jeremiah Miller - Fair Work Center</title>
+			<description>Jeremiah Miller signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/fair_work_center/"&gt;Fair Work Center&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Mar 2025 09:49:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeremiah/Miller/2025-03-17 09:49:07</guid>
+		</item>
+		<item>
+			<title>👍Vanessa Guitierrez - Northwest Immigrant Rights Project</title>
+			<description>Vanessa Guitierrez signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_immigrant_rights_project/"&gt;Northwest Immigrant Rights Project&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Mar 2025 09:49:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vanessa/Guitierrez/2025-03-17 09:49:07</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - Northwest Immigrant Rights Project</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 07:25:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-03-18 07:25:02</guid>
+		</item>
+		<item>
+			<title>❓💵Rose Gundersen - WA Retail Association</title>
+			<description>Rose Gundersen signed up to testify Other. They are signed up to represent WA Retail Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 18 Mar 2025 07:35:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rose/Gundersen/2025-03-18 07:35:46</guid>
 		</item>
 	</channel>
 </rss>

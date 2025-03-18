@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Mon 03/17 04:00 PM - Transportation (TRAN): SHB 1264 Ferry system salaries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165844&caId=26434&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165844&caId=26434&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165844&caId=26434&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165844&caId=26434&tId=4)
-
-#### 36 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Robert Hodge - Boilermakers local 104
 * Jeff Coughlin

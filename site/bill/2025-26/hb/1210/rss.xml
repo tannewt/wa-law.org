@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1210/</link>
 		<description>Updates about HB 1210</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 08:05:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 10:24:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -198,12 +198,28 @@
 			<guid isPermaLink="false">testifier/Suellen/Mele/2025-03-16 05:40:54</guid>
 		</item>
 		<item>
+			<title>👍💵Seth Worley - Government Affairs Director, United Association of Plumbers &amp; Steamfitters Local 598</title>
+			<description>Seth Worley signed up to testify Pro. They are signed up to represent Government Affairs Director, United Association of Plumbers &amp; Steamfitters Local 598. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Mar 2025 03:07:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Seth/Worley/2025-03-17 03:07:49</guid>
+		</item>
+		<item>
 			<title>👎Kathleen M. Saul - Sierra Club</title>
 			<description>Kathleen M. Saul signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/sierra_club/"&gt;Sierra Club&lt;/a&gt;.</description>
 			<pubDate>Mon, 17 Mar 2025 08:05:29 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kathleen M./Saul/2025-03-17 08:05:29</guid>
+		</item>
+		<item>
+			<title>👎Cathryn Chudy - Sierra Club</title>
+			<description>Cathryn Chudy signed up to testify Con.</description>
+			<pubDate>Mon, 17 Mar 2025 10:24:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cathryn/Chudy/2025-03-17 10:24:00</guid>
 		</item>
 	</channel>
 </rss>

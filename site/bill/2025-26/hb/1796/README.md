@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=HB%201796)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201796)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201796)
 
@@ -18,9 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165744&caId=26375&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165744&caId=26375&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Jon Holmen - Lake Washington School District
+* Lindsey Yocum - Lake Washington School District, Board of Directors
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 58 👎 - Con
+#### 445 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

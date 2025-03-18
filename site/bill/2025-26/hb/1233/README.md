@@ -19,11 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=4)
 
-#### 53 👍 - Pro
+#### 90 👍 - Pro
+Testifying:
+* Tuan Quach - Equity in Education Center
+* Jermaine Williams - The Black Rose Collective
+* Jacob Schmitt - Just Us Solutions
 
-#### 24 👎 - Con
+#### 133 👎 - Con
+Testifying:
+* Teresa Sanders
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jason Bennett - Department of Corrections
+* Kristen Morgan - Department of Corrections
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): HB 1233 Work programs/incarceration
 #### 42 👍 - Pro

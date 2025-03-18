@@ -16,7 +16,7 @@ Testifying:
 * Nancy Coleman-Chavez - Public Policy Manager, Western States, DailyPay, Inc.
 * Nicole Miller - Deputy General Counsel at EarnIn
 * Alice Jacobsohn - PayrollOrg
-* Tahra Jirari - Chamber of Progress
+* Tahra Jirari - [Chamber of Progress](/org/chamber_of_progress/)
 * Garth McAdam - ZayZoon
 * Phil Goldfeder - American Fintech Council
 * Sarah Mamula - Financial Technology Association

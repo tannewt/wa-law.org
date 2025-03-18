@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=4)
 
-#### 12 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Dr Ann Varkados
+* 💵Devin Gombosky - ESD 105 Schools Coalition
 
 #### 0 👎 - Con
 

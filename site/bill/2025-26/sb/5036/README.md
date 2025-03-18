@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [The Center Square](/org/the_center_square/) - [Washington Senate passes bill to speed up carbon emission data updates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9234e3c6-0358-11f0-83ee-03ad68a61e92.html#:~:text=Senate%20Bill%205036)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205036:)
 
 ## Meetings
@@ -17,12 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165892&caId=26575&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165892&caId=26575&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Keira Domer
 * Todd Myers - Washington Policy Center
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Human Services (HS): SHB 1171 Mandated reporting/higher ed
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165720&caId=26401&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165720&caId=26401&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165720&caId=26401&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165720&caId=26401&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Paul Holland
 * Rhea Yo - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Aubrey Stahl - Washington Defender Association and Washington Association of Criminal Defense Lawyers
 
-#### 27 👎 - Con
+#### 31 👎 - Con
 
 #### 0 ❓ - Other
 

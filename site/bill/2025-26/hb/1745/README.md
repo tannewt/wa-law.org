@@ -23,5 +23,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Lori Larsen - Washington State Association of County Auditors
-* 💵Michael Shaw - Washington State Association of County Auditors
+* Lori Larsen - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)

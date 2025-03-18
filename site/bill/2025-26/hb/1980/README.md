@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Nikki Stuck - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* Jared Nieuwenhuis - Councilmember, City of Bellevue
 
 #### 0 👎 - Con
 

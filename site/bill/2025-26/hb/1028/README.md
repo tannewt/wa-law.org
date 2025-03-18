@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=HB%201028)
 * 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201028)
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Human Services (HS): HB 1028 Child exposure to violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165718&caId=26399&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165718&caId=26399&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165718&caId=26399&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165718&caId=26399&tId=4)
-
-#### 135 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Hillery Gladden - Dawson Place
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)

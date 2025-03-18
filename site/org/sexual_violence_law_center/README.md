@@ -13,8 +13,9 @@
 * 👍💵 Elizabeth Hendren
 * 👍💵 Elizabeth Hendren
 
-### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍2  
+### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍2 👎1 
 * 👍💵 Elizabeth Hendren
+* 👎💵 Elizabeth Hendren
 
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
@@ -30,8 +31,9 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Elizabeth Hendren
 
-### [SB 5202](/bill/2025-26/sb/5202/) - Judicial orders 👍1  
+### [SB 5202](/bill/2025-26/sb/5202/) - Judicial orders 👍2  
 * 👍 Alexander Bejaran Estevez
+* 👍💵 Elizabeth Hendren
 
 ### [SB 5254](/bill/2025-26/sb/5254/) - Health care information 👍1  
 * 👍 Riddhi Mukhopadhyay

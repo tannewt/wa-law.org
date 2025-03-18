@@ -81,7 +81,7 @@
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓💵 Altinay Karasapan
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 

@@ -8,6 +8,8 @@
 
 ### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
@@ -45,7 +47,7 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍2  
+### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍3  
 
 ### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍2  
 

@@ -8,19 +8,18 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205509)
+
 ## Meetings
 ### Tue 03/18 10:30 AM - Local Government (LG): ESSB 5509 Child care center siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165823&caId=26524&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165823&caId=26524&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165823&caId=26524&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165823&caId=26524&tId=4)
-
-#### 35 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Scott Bonjukian
 * Alex Galeana - Children's Campaign Fund Action
 * Alexis Cortes
+* Alexis Cortes
+* Alex Galeana - Children's Campaign Fund Action
 
 #### 0 👎 - Con
 

@@ -55,6 +55,6 @@ Testifying:
 * 💵Rose Feliciano - TechNet
 * Zach Lilly - NetChoice
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 
 #### 0 ❓ - Other

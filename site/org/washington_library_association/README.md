@@ -12,7 +12,7 @@
 
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue   ❓1
 
-### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
+### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍2  
 
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍1  
 

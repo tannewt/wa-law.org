@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [The Center Square](/org/the_center_square/) - [Gender expansive students to be protected class under bill advancing in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_39c73256-0381-11f0-8f42-07089bc0cdd3.html#:~:text=Senate%20Bill%205123)
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205123)
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205123)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205123)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205123)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=Senate%20Bill%205123)
@@ -28,13 +31,7 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Education (ED): SSB 5123 Discrimination in schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=4)
-
-#### 891 👍 - Pro
+#### 1028 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Paree Raval - Washington Legislative Youth Advisory Board
@@ -105,9 +102,17 @@ Testifying:
 * Deborah Maranville
 * Amy Compestine
 * June Thomasson
+* Eugene Oliver
+* Kevin Glackin-Coley
+* Judith Mason
+* Michaelyn Olson
+* Michaelyn Olson
+* Bryan-Virgil Raiz
+* Judy LeBlanc
 * 💵Kristin Ang - Faith Action Network (FAN)
+* April Hall
 
-#### 1895 👎 - Con
+#### 2058 👎 - Con
 Testifying:
 * Tonya Hickman - Lynden School Board
 * Jennifer Heine-Withee - FPIW Action
@@ -120,6 +125,7 @@ Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 * Anthony Mixer - Washington State Young Republicans
+* Amanda Bush
 
 #### 1 ❓ - Other
 

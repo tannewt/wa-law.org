@@ -59,4 +59,4 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * Michael Han - MultiCare Health System
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)

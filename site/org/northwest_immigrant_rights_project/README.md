@@ -6,7 +6,9 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍4  
 * 👍 Tim Warden-Hertz
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍4  
@@ -23,8 +25,11 @@
 
 ### [HB 1816](/bill/2025-26/hb/1816/) - Civilian crisis resp. teams 👍1  
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍5  
 * 👍💵 Malou Chavez
+* 👍 Vanessa Guitierrez
+
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
 

@@ -10,25 +10,24 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5202 Judicial orders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165593&caId=26455&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165593&caId=26455&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165593&caId=26455&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165593&caId=26455&tId=4)
-
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Sandra Shanahan - KCPAO RDVFEU
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Kimberly Wyatt - King County Prosecuting Attorney's Office
 
-#### 281 👎 - Con
+#### 550 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Ronald Mochizuki
 * Ronald Mochizuki
+* Teresa Sanders
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5202 Judicial orders
 #### 10 👍 - Pro

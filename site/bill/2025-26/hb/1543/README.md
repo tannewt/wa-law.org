@@ -18,11 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=4)
 
-#### 10 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Jason Morse - [Issaquah School District](/org/issaquah_school_district/)
+* Martin Turney - Puget Sound Schools Coalition
 
-#### 10 👎 - Con
+#### 13 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Suzie Hanson - Washington Federation of Independent Schools
+* 💵Amber Carter - Port of Vancouver USA
 
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1543 Clean buildings standard
 #### 18 👍 - Pro

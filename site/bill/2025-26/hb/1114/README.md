@@ -11,17 +11,17 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Health & Long Term Care (HLTC): HB 1114 Respiratory care compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165690&caId=26378&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165690&caId=26378&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165690&caId=26378&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165690&caId=26378&tId=4)
-
-#### 229 👍 - Pro
+#### 299 👍 - Pro
+Testifying:
+* Miriam O'Day - American Association for Respiratory Care
+* Carl Hinkson - PRMCE
+* Gary Wickman - RCSW
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Carl Sims - The Council of State Governments
 
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1114 Respiratory care compact
 #### 221 👍 - Pro

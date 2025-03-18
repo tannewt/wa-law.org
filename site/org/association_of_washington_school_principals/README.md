@@ -76,7 +76,7 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍3  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍3  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍4  
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
@@ -84,7 +84,7 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
 
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program.   ❓1
 * ❓💵 Roz Thompson
@@ -114,7 +114,7 @@
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
 * ❓💵 Roz Thompson
 
-### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍2  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 

@@ -15,7 +15,7 @@
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 * 👍 Mindy Brooks
 
-### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍2  
 * 👍 Mindy Brooks
 
 ## [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 

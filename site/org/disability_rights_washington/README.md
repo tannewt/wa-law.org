@@ -42,6 +42,8 @@
 
 ### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program   ❓1
 
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+
 ### [HB 1396](/bill/2025-26/hb/1396/) - Office of corrections ombuds   ❓1
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
@@ -82,12 +84,14 @@
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 * 👍💵 Andrea Kadlec
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍3  
+* 👍 cecelia black
 * 👍 cecelia black
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍3  
+* 👍 cecelia black
 * 👍 cecelia black
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  

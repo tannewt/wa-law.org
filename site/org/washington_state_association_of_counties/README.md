@@ -36,6 +36,9 @@
 * ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling   ❓1
+* ❓💵 Travis Dutton
+
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services  👎1 
 * 👎💵 Brad Banks
 
@@ -108,8 +111,9 @@
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits   ❓1
 * ❓💵 Paul Jewell
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  ❓1
 * ❓💵 Travis Dutton
+* 👍💵 Travis Dutton
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
@@ -139,7 +143,7 @@
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 
-### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍1  
+### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍2  
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 * 👍💵 Paul Jewell
@@ -246,9 +250,10 @@
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓2
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓3
 * ❓💵 Travis Dutton
 * ❓💵 Paul Jewell
+* ❓💵 Travis Dutton
 
 ### [SB 5288](/bill/2025-26/sb/5288/) - Concerning vacancies on boards of county commissioners. 👍1  
 * 👍💵 Paul Jewell

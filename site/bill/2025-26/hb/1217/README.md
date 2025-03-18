@@ -47,6 +47,7 @@
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201217)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201217)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201217)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [House and Senate Shift Back to Committee Activity This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03182025#:~:text=H.B.%201217)
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Housing (HSG): EHB 1217 Residential tenants
@@ -56,7 +57,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
 
-#### 1194 👍 - Pro
+#### 2725 👍 - Pro
 Testifying:
 * Makayla Pugmire
 * Kyle Matheson - Self advocate
@@ -70,8 +71,24 @@ Testifying:
 * Shirley Messick
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Carolyn Stetson
+* Jose Ramirez - Familias Unidas por la Justicia
+* Octavia Santiago Martinez - Familias Unidas por la Justicia
+* Tomas Ramon Vasquez - Familias Unidas por la Justicia
+* Catherine Davis
+* Julie Staggers
+* 💵Bryce Yadon - Futurewise and Habitat for Humanity Seattle-King & Kittitas Counties
+* Duana Ricks-Johnson - Resident Action Program
+* Tina Hammond
+* Kathy Yasi
+* Kelley Rinehart
+* Kerri Burnside - Bellingham Tenants Union
+* Madeline Foutch - SEIU 775
+* 💵Sarah Cherin - UFCW 3000
+* Deborah Wilson
+* Caroline Hardy - Secretary AMHO and Leisure Manor Tenants Association
+* Kendra Rachal
 
-#### 1484 👎 - Con
+#### 2542 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
@@ -109,12 +126,33 @@ Testifying:
 * Michael Urquhart
 * Patrick Gilroy - Washington Self Storage Association
 * Lilly Zheng
+* Hongmin Couturier
+* Christa Connelly - West Prairie Village MHP
+* Dan Piantanida - GP Realty Finance
+* Monica Grant
+* Jacob Bond - Collective Communities
+* Dakota Manley - Washington State Young Republicans
 * JIN YANG
+* Cory Brewer - WPM NW Inc.
+* Yoel Kelman - Three Pillar Communities
+* Arden Olson
+* Benedict Tesoro
+* Elsine Armstrong - CCRA
+* Wesley Larson - Sound West Group
 * Martha Schaefer
+* Christopher Gurdjian
+* Rick Glenn - President, Yakima Valley Landlords' Association
+* Jake Hanby
+* Tristen Mikelson
+* TaraLyn Fray
+* Emilia Furmanczyk
+* Mike Nykreim
 
-#### 27 ❓ - Other
+#### 44 ❓ - Other
 Testifying:
 * David Toler - Olympia for All
+* Catina M Clare - Community
+* Art Chippendale - Vashon Household
 
 ### Mon 02/03 04:00 PM - Appropriations (APP): SHB 1217 Residential tenants
 #### 3607 👍 - Pro

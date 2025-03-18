@@ -44,6 +44,8 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍1  
+
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
 ## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 

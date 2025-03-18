@@ -15,16 +15,12 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5338 Veterans affairs adv. comm.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=4)
-
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * David Puente - WA State Department of Veterans Affairs
 * Miguel De Jesus Padilla - VLC Member at Large
+* Miguel DJ Padilla - VLC Member at Large
+* Miguel DJ Padilla - VLC Member at Large
 
 #### 0 👎 - Con
 

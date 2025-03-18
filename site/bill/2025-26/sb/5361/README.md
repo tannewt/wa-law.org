@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165671&caId=26497&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165671&caId=26497&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Dwight De Leon
+* Joe Barrett - Key Recovery And Life Skills Center
+* Sheri Sawyer - Office of Financial Management
 
 #### 0 👎 - Con
 

@@ -36,5 +36,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Vicky Dalton - Washington State Association of County Auditors
+* Vicky Dalton - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

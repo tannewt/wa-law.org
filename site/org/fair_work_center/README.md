@@ -19,8 +19,9 @@
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 * 👍 Danielle Alvarado
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 * 👍 Danielle Alvarado
+* 👍 Jeremiah Miller
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍5  
 * 👍 Danielle Alvarado

@@ -27,7 +27,8 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍3  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
@@ -68,7 +69,7 @@
 * 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
 
-### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
 
@@ -80,11 +81,11 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍2  
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

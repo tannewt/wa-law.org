@@ -12,7 +12,7 @@
 #### 9 👍 - Pro
 Testifying:
 * Kai Lightner
-* Tom Vogl - The Mountaineers
+* Tom Vogl - [The Mountaineers](/org/the_mountaineers/)
 * MICHAEL LARY - [Washington Indoor Climbing Coalition](/org/washington_indoor_climbing_coalition/)
 * Michele Lang - Insight Climbing & Movement
 * Tod Bloxham - Edgeworks Climbing

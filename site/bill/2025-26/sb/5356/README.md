@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5356 Criminal justice trainings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165657&caId=26461&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165657&caId=26461&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165657&caId=26461&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165657&caId=26461&tId=4)
-
-#### 23 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Naira Gonzales Aranda
 * Andrea Piper-Wentland - Washington State Criminal Justice Training Commission

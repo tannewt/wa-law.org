@@ -9,7 +9,7 @@
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍1  
 
-### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍1  
+### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍2  
 
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
 
@@ -20,6 +20,8 @@
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
 
 ### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍1  
+
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 * 👎💵 Kelly Fukai

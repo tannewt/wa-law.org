@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SB%205498)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205498)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5498)
 * 02/16/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Children's Day, affordable housing and a key date arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/16/this-week-in-the-senate-week-6-childrens-day-affordable-housing-and-a-key-date-arrives/#:~:text=Senate%20Bill%205498)
@@ -20,13 +21,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=4)
 
-#### 562 👍 - Pro
+#### 669 👍 - Pro
+Testifying:
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 820 👎 - Con
+#### 991 👎 - Con
 Testifying:
 * Matthew Jackmond - A long time WA Resident and a very concerned taxpayer!
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/18 10:30 AM - Health & Long Term Care (HLTC): SB 5498 Contraceptive coverage
 #### 540 👍 - Pro

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205570)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205570)
 * 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding education and equity - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/18/expanding-education-and-equity/#:~:text=Senate%20Bill%205570)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205570)

@@ -14,7 +14,7 @@
 
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
 
-### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍2  
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍3  
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
@@ -27,7 +27,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 
-### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
@@ -37,13 +37,13 @@
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 
-## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
+## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
 
 ## 2023-24
 
-### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍1  
+### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍2  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

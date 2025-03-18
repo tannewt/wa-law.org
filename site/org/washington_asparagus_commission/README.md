@@ -1,6 +1,8 @@
 # Washington Asparagus Commission
 ## 2025-26
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+
 ## [SB 5722](/bill/2025-26/sb/5722/) - Local farming grant program 👍1  
 * 👍 Charlie Brown
 

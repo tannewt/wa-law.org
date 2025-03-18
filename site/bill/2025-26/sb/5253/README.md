@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205253)
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SSB%205253)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205253)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205253)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SSB%205253)
@@ -22,17 +24,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165482&caId=26483&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165482&caId=26483&tId=4)
 
-#### 26 👍 - Pro
+#### 196 👍 - Pro
 Testifying:
 * JAMES Derouin jr
+* Annalisa Lembo
 * 💵Arzu Forough - Washington Autism Alliance
+* Cathy Murahashi - The Arc of Washington
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Emma Kohl
 
-#### 235 👎 - Con
+#### 436 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Annie Slade
 
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5253 Special education services
 #### 108 👍 - Pro

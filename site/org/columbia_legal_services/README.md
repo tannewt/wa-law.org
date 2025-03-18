@@ -36,8 +36,9 @@
 
 ### [HB 1229](/bill/2025-26/hb/1229/) - Persistent offenders 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍4  
 * 👍💵 Antonio Ginatta
+* 👍💵 Hannah Woerner
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍2  
 * 👍💵 Hannah Woerner
@@ -117,10 +118,11 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓1
 * 👎💵 Sarah Nagy
+* ❓💵 Sarah Nagy
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 

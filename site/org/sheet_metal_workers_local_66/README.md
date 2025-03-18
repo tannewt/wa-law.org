@@ -11,7 +11,8 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
 
-### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍2  
+* 👍 Christina Bayaniyan
 * 👍 Christina Bayaniyan
 
 ## [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  

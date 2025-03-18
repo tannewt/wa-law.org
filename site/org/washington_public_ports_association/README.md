@@ -152,7 +152,7 @@
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 * 👍 Chris Herman
 
-### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  ❓1
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Chris Herman

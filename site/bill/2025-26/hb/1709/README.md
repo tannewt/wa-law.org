@@ -18,14 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=4)
 
-#### 293 👍 - Pro
+#### 312 👍 - Pro
 Testifying:
 * Mark Harper
 * Kathryn Mueller
+* Dawn Harper
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Taylor Mason - School Nurse Organization of Washington (SNOW)
 
 ### Mon 02/10 01:30 PM - Education (ED): HB 1709 Adrenal insufficiency care
 #### 216 👍 - Pro

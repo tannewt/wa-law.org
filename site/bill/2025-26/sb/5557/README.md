@@ -23,11 +23,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165676&caId=26499&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165676&caId=26499&tId=4)
 
-#### 52 👍 - Pro
+#### 82 👍 - Pro
 
-#### 140 👎 - Con
+#### 556 👎 - Con
 Testifying:
 * Theresa Schrempp - theresaschrempp922@gmail.com
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

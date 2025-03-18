@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165661&caId=26465&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165661&caId=26465&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Captain Chris Westby - [City of Lakewood](/org/city_of_lakewood/)
+* Sonny Weathers - [City of Medical Lake](/org/city_of_medical_lake/)
 
 #### 0 👎 - Con
 

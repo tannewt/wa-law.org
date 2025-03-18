@@ -9,9 +9,11 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESHB%201296)
 * 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201296)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201296)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201296)
+* 03/14/2025 [House Democrats](/org/house_democrats/) - [House passes Stonier bill to keep students safe – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/14/house-passes-stonier-bill-to-keep-students-safe/#:~:text=House%20Bill%201296)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201296)
 * 03/13/2025 [KIRO7](/org/kiro7/) - [No more waiting – Schools must notify parents immediately under reworked House bill – KIRO 7 News Seattle](https://www.kiro7.com/news/local/no-more-waiting-schools-must-notify-parents-immediately-under-reworked-house-bill/QRUHQCY6TNFDVIKWLGJ2SUA2KM/#:~:text=House%20Bill%201296)
 * 03/13/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA schools must notify parents immediately under revamped House bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_384d7c88-0060-11f0-9875-9bf03e87f107.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)
@@ -52,14 +54,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=4)
 
-#### 417 👍 - Pro
+#### 622 👍 - Pro
 Testifying:
 * Emily Carmichael
 * Maggie Anderson
+* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
+* Samantha Fogg - Seattle Council PTSA Co-President
+* Jerrett Burk
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* LINDEN JORDAN - PFLAG Skagit
+* Danni Askini - Gender Justice League
+* Jenna Comstock - QLAW Association
+* Adrianna Suluai
+* 💵Catherine Holm - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Tim Voie - WEA Chinook Council
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Emma Kohl
 
-#### 1006 👎 - Con
+#### 2023 👎 - Con
 Testifying:
 * Matthew Jackmond - A long time WA Resident and a very concerned voter!
 * laurielayne1@gmail.com Layne
@@ -71,7 +85,12 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * Diane Kong
 * thomas Grauer
+* Khushdip Brar - School Board Member
+* Trish Huddleston - School Board Director
 * Amanda McKinney - Yakima County Commissioner
+* Eric Lundberg
+* JENNIFER KILLMAN
+* Elizabeth New - Washington Policy Center
 
 #### 0 ❓ - Other
 

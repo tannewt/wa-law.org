@@ -23,13 +23,19 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
-### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
+### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍2  
 
-### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
+
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍2  
 
 ### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
+
+### [HB 1186](/bill/2025-26/hb/1186/) - Medication dispensing 👍1  
+
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
@@ -37,9 +43,11 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
-### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍1  
+### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍2  
+
+### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍1  
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍35  
 * 👍 Eric Winge
@@ -58,7 +66,7 @@
 
 ### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
 
-### [HB 1271](/bill/2025-26/hb/1271/) - State fire service deploy. 👍1  
+### [HB 1271](/bill/2025-26/hb/1271/) - State fire service deploy. 👍2  
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
@@ -80,7 +88,7 @@
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
 
 ### [HB 1453](/bill/2025-26/hb/1453/) - Scrap metal/stolen copper 👍1  
 
@@ -124,11 +132,15 @@
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍2  
 
-### [HB 1633](/bill/2025-26/hb/1633/) - Public works/bidding 👍1  
+### [HB 1628](/bill/2025-26/hb/1628/) - Fire service policy board 👍1  
+
+### [HB 1633](/bill/2025-26/hb/1633/) - Public works/bidding 👍2  
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
+
+### [HB 1644](/bill/2025-26/hb/1644/) - Working minors 👍1  
 
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
 
@@ -140,7 +152,7 @@
 
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍3  
 
 ### [HB 1697](/bill/2025-26/hb/1697/) - Newborn screening additions 👍1  
 
@@ -190,9 +202,9 @@
 
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
-### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍1  
+### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍2  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
@@ -212,7 +224,7 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍2  
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍3  
 
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles 👍1  
 
@@ -220,11 +232,13 @@
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
@@ -236,7 +250,7 @@
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 
@@ -264,7 +278,7 @@
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
 
-### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
 
 ### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎1 
 
@@ -274,7 +288,7 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
@@ -284,7 +298,7 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
-### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍2  
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
@@ -312,9 +326,15 @@
 
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
+### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
+
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
+
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
-### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍1  
+### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍2  
+
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
@@ -322,25 +342,27 @@
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
-### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
+### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍2  
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍2  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 
 ### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
 
 ### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
 
+### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
+
 ### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
 
 ### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
 
-### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
+### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍2  
 
-### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍2  
+### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍3  
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍2  
 
@@ -358,11 +380,13 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
+### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation 👍1  
+
 ### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects 👍1  
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
@@ -370,7 +394,7 @@
 
 ### [SB 5693](/bill/2025-26/sb/5693/) - Teacher residency & apprent.  👎1 
 
-### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍2  
+### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍3  
 
 ### [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍1  
 

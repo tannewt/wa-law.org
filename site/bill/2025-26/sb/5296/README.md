@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Opening of new Washington juvenile detention center is delayed • Washington State Standard](https://washingtonstatestandard.com/2025/03/17/opening-of-new-washington-juvenile-detention-center-is-delayed/#:~:text=Senate%20Bill%205296)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205296)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Wilson bills to reform juvenile rehabilitation systems - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/03/10/senate-passes-wilson-bills-to-reform-juvenile-rehabilitation-systems/#:~:text=5296)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205296:)
@@ -26,20 +27,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=4)
 
-#### 42 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Katie Hurley - King County Department of Public Defense
+* Dana Kaplan - National Institute for Criminal Justice Reform
+* Rashida Robbins
+* 💵Karen Pillar - TeamChild
 
-#### 281 👎 - Con
+#### 605 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * JAMES Derouin jr
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Sandra Mochizuki
 * TaraLyn Fray
+* Teresa Sanders
+* LaDon Linde - Yakima County Commissioner
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5296 Juvenile offenses
 #### 25 👍 - Pro

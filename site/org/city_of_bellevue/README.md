@@ -39,11 +39,11 @@
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 
-### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings   ❓1
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings   ❓2
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓2
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
 
@@ -62,7 +62,7 @@
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 
-### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
@@ -93,6 +93,8 @@
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
 * ❓ Thara Johnson
 
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments  👎1 
+
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓2
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓2
@@ -115,7 +117,7 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 
@@ -138,6 +140,8 @@
 ### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎2 
+
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 

@@ -49,7 +49,7 @@
 * 👍💵 Morgan Irwin
 * 👍💵 Morgan Irwin
 
-### [HB 1114](/bill/2025-26/hb/1114/) - Concerning the respiratory care interstate compact. 👍1  
+### [HB 1114](/bill/2025-26/hb/1114/) - Concerning the respiratory care interstate compact. 👍2  
 
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 
@@ -90,7 +90,7 @@
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Lindsey Hueer
 
-### [HB 1186](/bill/2025-26/hb/1186/) - Medication dispensing 👍1  
+### [HB 1186](/bill/2025-26/hb/1186/) - Medication dispensing 👍2  
 
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
 * 👎💵 Peter Godlewski
@@ -326,7 +326,7 @@
 
 ### [HB 1870](/bill/2025-26/hb/1870/) - Public health clinics/tax  👎1 
 
-### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍1  
+### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍2  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
 * 👎💵 Emily Wittman
@@ -409,8 +409,9 @@
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion   ❓1
 * ❓💵 Lindsey Hueer
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  ❓1
 * 👍💵 Morgan Irwin
+* ❓💵 Peter Godlewski
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
@@ -454,7 +455,8 @@
 
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎3 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
@@ -491,7 +493,8 @@
 
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎2 
+* 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 
 ### [SB 5405](/bill/2025-26/sb/5405/) - Estate tax exclusion amount 👍1  
@@ -516,14 +519,16 @@
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
 * ❓💵 Morgan Irwin
 
-### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎2 
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
 ### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
 * 👍💵 Peter Godlewski
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 ❓1
 * 👎💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
 
@@ -544,7 +549,7 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍4  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
@@ -574,7 +579,7 @@
 
 ### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍1  
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding  👎1 
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding  👎2 
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
@@ -599,9 +604,10 @@
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎2 
 * 👎💵 Lindsey Hueer
 
-### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍2  
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍2  ❓1
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  
 * 👍💵 Morgan Irwin

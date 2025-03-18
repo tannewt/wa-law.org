@@ -14,19 +14,13 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Housing (HOUS): ESB 5471 Middle housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165513&caId=26508&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165513&caId=26508&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165513&caId=26508&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165513&caId=26508&tId=4)
-
-#### 80 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 11 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SSB%205104)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5104)
 * 02/15/2025 [Senate Democrats](/org/senate_democrats/) - [Public testimony, public banking - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/02/14/public-testimony-public-banking/#:~:text=5104)
 * 02/13/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill intends to protect immigrants from coercion in the workplace • Washington State Standard](https://washingtonstatestandard.com/2025/02/12/wa-bill-intends-to-protect-immigrants-from-coercion-in-the-workplace/#:~:text=Senate%20Bill%205104)

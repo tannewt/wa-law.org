@@ -42,7 +42,7 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
-* Ruth Whittaker - Chamber of Progress
+* Ruth Whittaker - [Chamber of Progress](/org/chamber_of_progress/)
 
 ### Wed 02/14 08:00 AM - Local Government (LG): ESSB 5334 Affordable housing funding
 #### 188 👍 - Pro
@@ -62,7 +62,7 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Ruth Whittaker - Chamber of Progress
+* Ruth Whittaker - [Chamber of Progress](/org/chamber_of_progress/)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 03/30 08:00 AM - Finance (FIN): ESSB 5334 Affordable housing funding

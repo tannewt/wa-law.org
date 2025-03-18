@@ -11,6 +11,7 @@
 ## 📰 Articles
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205752)
 * 02/18/2025 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Tough Budget Choices Ahead: Lawmakers Weigh Deep Cuts & Delays - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02182025#:~:text=S.B.%205752)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [House and Senate Shift Back to Committee Activity This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03182025#:~:text=f%20S.B.%205752)
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5752 Child care & early dev.

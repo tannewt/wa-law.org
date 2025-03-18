@@ -33,7 +33,7 @@ Testifying:
 * 💵Rose Feliciano - TechNet
 * 💵Morgan Irwin - AWB
 * Rexine Bennett
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Evan Randall
 * Jayson Reimer
 * Jennifer Hanley - Meta
@@ -60,7 +60,7 @@ Testifying:
 #### 6 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * 💵Morgan Irwin - AWB
 
 #### 0 ❓ - Other

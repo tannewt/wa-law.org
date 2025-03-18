@@ -20,7 +20,7 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* 💵Michael Shaw - Washington State Association of County Auditors
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
 ### Fri 01/17 10:30 AM - State Government & Elections (SGE): SB 5011 Ballot drop box labeling
 #### 496 👍 - Pro

@@ -162,6 +162,9 @@
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 * 👍💵 Mark Johnson
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+* 👎💵 Amber Carter
+
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
@@ -218,7 +221,7 @@
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
-### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍3  
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Mark Johnson
@@ -226,9 +229,10 @@
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Amber Carter
 
-### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍2  
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍2  ❓1
 * 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
+* ❓💵 Crystal Leatherman
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 

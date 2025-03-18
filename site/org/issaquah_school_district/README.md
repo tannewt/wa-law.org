@@ -16,10 +16,14 @@
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 * 👍 Martin Turney
 
-### [HB 1709](/bill/2025-26/hb/1709/) - Adrenal insufficiency care 👍3  
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+* 👍 Jason Morse
+
+### [HB 1709](/bill/2025-26/hb/1709/) - Adrenal insufficiency care 👍4  
 * 👍 Laura Carmichael
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
+* 👍 Martin Turney
 * 👍 Martin Turney
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍3  
@@ -42,11 +46,13 @@
 * 👍 Martin Turney
 * 👍 Jason Morse
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍4  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍6  
 * 👍 Heather Tow-Yick
+* 👍 Martin Turney
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍5  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍7  
 * 👍 Heather Tow-Yick
+* 👍 Martin Turney
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
 * 👍 Heather Tow-Yick

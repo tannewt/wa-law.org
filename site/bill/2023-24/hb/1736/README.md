@@ -19,7 +19,7 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Thad Duvall - Washington State Association of County Auditors
+* Thad Duvall - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
 ### Wed 02/15 04:00 PM - Transportation (TR): HB 1736 Vehicle odometer readings
 #### 1 👍 - Pro
@@ -31,4 +31,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Thad Duvall - Washington State Association of County Auditors
+* Thad Duvall - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)

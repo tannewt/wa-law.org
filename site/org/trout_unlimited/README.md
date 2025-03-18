@@ -15,7 +15,8 @@
 
 ### [HB 1976](/bill/2025-26/hb/1976/) - Release of pets & plants 👍1  
 
-### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
+### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
+* 👍💵 Alexei Calambokidis
 * 👍💵 Alexei Calambokidis
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  

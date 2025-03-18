@@ -16,7 +16,7 @@
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): SB 5459 Election info. requests
 #### 24 👍 - Pro
 Testifying:
-* Lori Larsen - Washington State Association of County Auditors
+* Lori Larsen - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
 #### 414 👎 - Con
 Testifying:

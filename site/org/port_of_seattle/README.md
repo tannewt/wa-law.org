@@ -81,6 +81,8 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
 ### [SB 5518](/bill/2025-26/sb/5518/) - Sales tax sourcing impact 👍1  

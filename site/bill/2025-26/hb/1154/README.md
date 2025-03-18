@@ -19,17 +19,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=4)
 
-#### 174 👍 - Pro
+#### 310 👍 - Pro
 Testifying:
 * Wendy Wickersham
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 281 👎 - Con
+#### 558 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Anthony Holan
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Jaime Bodden - WSALPHO
+* 💵Nick Streuli - WRRA
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
 ### Thu 02/13 04:00 PM - Appropriations (APP): SHB 1154 Solid waste handling
 #### 321 👍 - Pro

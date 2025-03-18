@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165586&caId=26443&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165586&caId=26443&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Joe Verdoes
+* Aaron Dufault - WDFW
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Kyle Crews
+* Brian Allison
+* Brian Mackey
 
 #### 0 ❓ - Other
 

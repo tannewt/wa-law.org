@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESB%205235)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205235)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205235)
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Education (ED): ESB 5235 Public school statutes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165509&caId=26481&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165509&caId=26481&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165509&caId=26481&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165509&caId=26481&tId=4)
-
 #### 3 👍 - Pro
 
 #### 0 👎 - Con

@@ -3,7 +3,7 @@
 
 ### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍1  
 
-### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
+### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍2  
 
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings 👍1  
 
@@ -12,11 +12,11 @@
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 
-## [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
+## [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎2 
 
 ## 2023-24
 
-### [SB 5463](/bill/2023-24/sb/5463/) - Industrial insurance/duties  👎1 
+### [SB 5463](/bill/2023-24/sb/5463/) - Industrial insurance/duties  👎2 
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
 

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205023)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205023)
 * 03/06/2025 [KIRO7](/org/kiro7/) - [Domestic workers rights bill passes Washington State Senate – KIRO 7 News Seattle](https://www.kiro7.com/news/local/domestic-workers-rights-bill-passes-washington-state-senate/NQW2BWHQGZGRTGLCSGSIE47WJU/#:~:text=Senate%20Bill%205023)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Senado aprueba propuesta de ley sobre derechos laborales de personas trabajadoras del hogar - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/03/05/senado-aprueba-propuesta-de-ley-sobre-derechos-laborales-de-personas-trabajadoras-del-hogar/#:~:text=La%20propuesta%20de%20ley%20del%20Senado%205023)
@@ -20,27 +21,24 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5023 Domestic workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165793&caId=26512&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165793&caId=26512&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165793&caId=26512&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165793&caId=26512&tId=4)
-
-#### 117 👍 - Pro
+#### 320 👍 - Pro
 Testifying:
 * Anarosa Bello Nieto - [Fair Work Center](/org/fair_work_center/)
 * Danielle Alvarado - Fair Work Center- Working Washington
 * 💵Heather Villanueva
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 280 👎 - Con
+#### 575 👎 - Con
 Testifying:
 * Dena Burke
 * Nicole Nickeson
 * Aluska Maria Hebert
 * Sandra Mochizuki
 * TaraLyn Fray
+* Teresa Sanders
+* Anthony Holan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5023 Domestic workers
 #### 460 👍 - Pro

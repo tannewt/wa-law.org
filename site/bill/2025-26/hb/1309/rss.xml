@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1309/</link>
 		<description>Updates about HB 1309</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 08:12:13 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 11:24:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -100,7 +100,7 @@
 			<guid isPermaLink="false">testifier/john/worthington/2025-02-16 12:26:14</guid>
 		</item>
 		<item>
-			<title>👍TaraLyn Fray - Environmental Coalition of Pierce County</title>
+			<title>👍TaraLyn Fray - Olympic Environmental Council</title>
 			<description>TaraLyn Fray signed up to testify Pro.</description>
 			<pubDate>Tue, 18 Feb 2025 05:15:51 GMT</pubDate>
 			<category>testifier</category>
@@ -236,7 +236,7 @@
 			<guid isPermaLink="false">testifier/Elaine/Packard/2025-03-16 03:37:11</guid>
 		</item>
 		<item>
-			<title>❓Laura Butler - Environmental Coalition of Pierce County</title>
+			<title>❓Laura Butler - Olympic Environmental Council</title>
 			<description>Laura Butler signed up to testify Other.</description>
 			<pubDate>Sun, 16 Mar 2025 04:19:37 GMT</pubDate>
 			<category>testifier</category>
@@ -274,6 +274,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Marilyn/Sheldon/2025-03-17 08:12:13</guid>
+		</item>
+		<item>
+			<title>👎joe breskin - Olympic Environmental Council</title>
+			<description>joe breskin signed up to testify Con. They are signed up to represent Olympic Environmental Council.</description>
+			<pubDate>Mon, 17 Mar 2025 09:41:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/joe/breskin/2025-03-17 09:41:37</guid>
+		</item>
+		<item>
+			<title>👎ERIC SEIBEL - Olympic Environmental Council</title>
+			<description>ERIC SEIBEL signed up to testify Con.</description>
+			<pubDate>Mon, 17 Mar 2025 11:07:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/ERIC/SEIBEL/2025-03-17 11:07:44</guid>
+		</item>
+		<item>
+			<title>👍David Beugli - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)</title>
+			<description>David Beugli signed up to testify Pro. They are signed up to represent Willapa-Grays Harbor Oyster Growers Association (WGHOGA).</description>
+			<pubDate>Mon, 17 Mar 2025 11:24:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Beugli/2025-03-17 11:24:27</guid>
+		</item>
+		<item>
+			<title>👍Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)</title>
+			<description>Marilyn Sheldon signed up to testify Pro. They are signed up to represent Willapa-Grays Harbor Oyster Growers Association (WGHOGA).</description>
+			<pubDate>Mon, 17 Mar 2025 11:24:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marilyn/Sheldon/2025-03-17 11:24:27</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5771/</link>
 		<description>Updates about SB 5771</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,8 +69,8 @@
 			<guid isPermaLink="false">testifier/Brad/Tower/2025-02-25 09:08:48</guid>
 		</item>
 		<item>
-			<title>👍Emma Scalzo - Balance Our Tax Code</title>
-			<description>Emma Scalzo signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/balance_our_tax_code/"&gt;Balance Our Tax Code&lt;/a&gt;.</description>
+			<title>👍💵Emma Scalzo - Balance Our Tax Code</title>
+			<description>Emma Scalzo signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/balance_our_tax_code/"&gt;Balance Our Tax Code&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Tue, 25 Feb 2025 10:14:29 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -98,6 +98,13 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Senate Rules "X" file.</title>
+			<description>Senate Rules "X" file.</description>
+			<pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-17/Senate Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

@@ -12,15 +12,16 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5492 Tourism promotion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165499&caId=26539&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165499&caId=26539&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165499&caId=26539&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165499&caId=26539&tId=4)
-
-#### 45 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * 💵Teresa Taylor
+* Annie McGrath - State of Washington Tourism
+* David Blandford - State of Washington Tourism
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Gabriel Neuman - GSBA (Greater Seattle Business Association)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce
 
 #### 0 👎 - Con
 

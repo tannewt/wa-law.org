@@ -18,7 +18,7 @@
 #### 4 ❓ - Other
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
-* 💵Michael Shaw - Washington State Association of County Auditors
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
 ### Tue 01/28 01:30 PM - State Government & Elections (SGE): SB 5050 Presidential primary privacy
 #### 178 👍 - Pro

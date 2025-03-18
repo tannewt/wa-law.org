@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SSB%205501)
 * 03/14/2025 [PubliCola](/org/publicola/) - [To End Car Dependency, We Must Change Who Has A Seat At the Table - PubliCola](https://publicola.com/2025/03/14/to-end-car-dependency-we-must-change-who-has-a-seat-at-the-table/#:~:text=another%20bill)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205501)
 

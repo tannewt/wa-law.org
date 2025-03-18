@@ -18,18 +18,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165849&caId=26436&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165849&caId=26436&tId=4)
 
-#### 9 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Nigel Herbig - Mayor, City of Kenmore
+* Scott Pingel - City Manager, City of Newcastle
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 
-#### 292 👎 - Con
+#### 627 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * Sandra Mochizuki
 * TaraLyn Fray
+* Teresa Sanders
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
 
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1791 Local real estate excise tax
 #### 21 👍 - Pro

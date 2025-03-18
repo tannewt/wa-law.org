@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165667&caId=26466&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165667&caId=26466&tId=4)
 
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 
-#### 0 👎 - Con
+#### 36 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sarah Sytsma - Department of Corrections
 
 ### Tue 01/21 01:30 PM - Human Services (HS): SB 5139 Reentry council members
 #### 31 👍 - Pro

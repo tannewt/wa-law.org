@@ -7,13 +7,13 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
 
-## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍6  
 * 👍💵 Margaret Heldring
 * 👍 Jennifer Dolan-Waldman
 
 ## 2023-24
 
-### [SB 5098](/bill/2023-24/sb/5098/) - Weapons in certain areas 👍2  
+### [SB 5098](/bill/2023-24/sb/5098/) - Weapons in certain areas 👍6  
 * 👍💵 Margaret Heldring
 * 👍 Jennifer Dolan-Waldman
 

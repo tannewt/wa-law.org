@@ -15,7 +15,7 @@
 * 👍 Rhea Yo
 * 👍 Rhea Yo
 
-### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍2  
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍3  
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
@@ -124,7 +124,7 @@
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
-### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
 
 ## [SB 5761](/bill/2025-26/sb/5761/) - Dependency/attorney appt.   ❓1
 * ❓ Rhea Yo

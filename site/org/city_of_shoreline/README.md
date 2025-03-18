@@ -5,7 +5,7 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍3  
 * 👍 Mayor Chris Roberts
 
 ## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  

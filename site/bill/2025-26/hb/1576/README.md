@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1576 Historic landmarks/cities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165857&caId=26429&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165857&caId=26429&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165857&caId=26429&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165857&caId=26429&tId=4)
-
-#### 141 👍 - Pro
+#### 163 👍 - Pro
 Testifying:
 * Max Chinowsky
 * Benjamin Maritz
@@ -27,14 +21,20 @@ Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Barb Wilson - [Microsoft](/org/microsoft/)
 * Ian Brown
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 81 👎 - Con
+#### 99 👎 - Con
 Testifying:
 * Anthony Culanag
 * Kathryn Merlino
 * Eugenia Woo - Historic Seattle
+* Holly Taylor
+* Susan Boyle - N/A
+* David Peterson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Wed 02/05 08:00 AM - Local Government (LG): HB 1576 Historic landmarks/cities
 #### 93 👍 - Pro

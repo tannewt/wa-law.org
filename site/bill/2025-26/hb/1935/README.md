@@ -9,15 +9,11 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1935 Project permit definition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165915&caId=26578&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165915&caId=26578&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165915&caId=26578&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165915&caId=26578&tId=4)
-
-#### 68 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Marian Dacca - Washington Assn. of Building Officials
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 1 👎 - Con
 

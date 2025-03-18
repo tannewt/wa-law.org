@@ -62,10 +62,12 @@
 * ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
-### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
+### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
+* 👍 Duane Emmons
 * 👍 Duane Emmons
 
-### [SB 5170](/bill/2025-26/sb/5170/) - DNR boundary line surveys   ❓1
+### [SB 5170](/bill/2025-26/sb/5170/) - DNR boundary line surveys   ❓2
+* ❓ Duane Emmons
 * ❓ Duane Emmons
 
 ### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍2  

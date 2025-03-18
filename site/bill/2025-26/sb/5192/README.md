@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESSB%205192)
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205192)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205192)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205192)
 * 03/14/2025 [KIRO7](/org/kiro7/) - [School budgets under pressure amid federal funding concerns – KIRO 7 News Seattle](https://www.kiro7.com/news/local/school-budgets-under-pressure-amid-federal-funding-concerns/263JTL7AZJHNFBFWLLTVBMDQWQ/#:~:text=state%20senators%20have%20passed)
@@ -48,7 +50,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=4)
 
-#### 1173 👍 - Pro
+#### 1763 👍 - Pro
 Testifying:
 * Holly Muenchow - Northshore Council PTSA
 * Malorie Larson - Shoreline PTA Council
@@ -66,12 +68,21 @@ Testifying:
 * Doug Vanderleest - WA Association of Maintenance and Operation Administrators
 * 💵Mitch Denning - Alliance of Educational Associations
 * Angela Steck - Washington State PTA
+* Shaun Carey - WA Association of School Admin President-Elect
+* Jason Perrins - Chewelah School District
+* Rafael Brewer
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
+* Kaitlin Murdock - Pathfinder PTSA, 34LD
+* Ryan Arnold - East Valley School District
+* Rob Bryant - CFO - Federal Way Public Schools
+* Jim Kowalkowski - Rural Education Center
+* Juston Pollestad - Pullman Public Schools
 
-#### 836 👎 - Con
+#### 1061 👎 - Con
 Testifying:
 * Hailey Irvine
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Mary Templeton - [School Alliance](/org/school_alliance/)
 

@@ -49,7 +49,7 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 

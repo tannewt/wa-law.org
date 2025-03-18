@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165876&caId=26559&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165876&caId=26559&tId=4)
 
-#### 3 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* 💵Steve Taylor - Cowlitz Cnty Public Utility District No. 1
+* Stefanie Johnson - Seattle City Light
+* Ray Johnson - Deputy General Manager, Tacoma Power
+* 💵Bill Clarke - Grant County PUD
+* Ian Hunter - Snohomish County Public Utility District #1
+* Mary Wiencke - [Public Generating Pool](/org/public_generating_pool/)
 
-#### 307 👎 - Con
+#### 528 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Ronald Mochizuki

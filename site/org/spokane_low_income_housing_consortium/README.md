@@ -1,10 +1,12 @@
 # Spokane Low Income Housing Consortium
 ## 2025-26
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
 * 👍💵 Ben Stuckart
+
+### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍1  
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 

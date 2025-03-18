@@ -41,11 +41,15 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
-## [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
+
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs   ❓1
+
+## [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ## 2023-24
 
-### [SB 5587](/bill/2023-24/sb/5587/) - Affordable housing dev.  👎1 
+### [SB 5729](/bill/2023-24/sb/5729/) - Housing permitting  👎1 
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

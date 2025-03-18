@@ -24,6 +24,10 @@
 ### [HB 1719](/bill/2025-26/hb/1719/) - Liquor licensee events 👍1  
 * 👍 Josh McDonald
 
+### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍1  
+
+### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
+
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption   ❓2
 * ❓ Josh McDonald
 * ❓ Josh McDonald
@@ -32,18 +36,23 @@
 * 👎 Josh McDonald
 * 👎 Josh McDonald
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+
 ### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎1 ❓1
 * ❓ Josh McDonald
 * 👎 Josh McDonald
 
-### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
+* 👍 Josh McDonald
 * 👍 Josh McDonald
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+
+## [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
+### [SB 5777](/bill/2023-24/sb/5777/) - Payment card processing/tax 👍1  
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓ Josh McDonald

@@ -14,6 +14,8 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍2  
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍1  
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍2  
@@ -43,7 +45,9 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
+
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve

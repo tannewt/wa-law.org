@@ -22,14 +22,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165963&caId=26597&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165963&caId=26597&tId=4)
 
-#### 30 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival](/org/civil_survival/)
+* 💵Alex Tischenko - Institute for Responsive Government
+* Lai King - Pacific islander Health Board
+* 💵Alex Alston - WA Voting Justice Coalition
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Kari Bull - FairVote Washington
 
-#### 318 👎 - Con
+#### 792 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
+* Sharon Damoff
+* Teresa Sanders
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Anthony Holan
 
 #### 1 ❓ - Other
 Testifying:

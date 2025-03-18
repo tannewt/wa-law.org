@@ -4,6 +4,8 @@
 ### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍3  
 * 👍 Kathleen Barry Johnson
 
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities  👎1 
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
 ## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  

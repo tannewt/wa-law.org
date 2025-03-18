@@ -8,8 +8,9 @@
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 * 👍💵 Jenny Morgan
+* 👍💵 Catherine Holm
 
 ### [HB 1393](/bill/2025-26/hb/1393/) - Commencement/cultural exp. 👍1  
 * 👍 Lauren Mendez
@@ -18,7 +19,7 @@
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support   ❓1
 * ❓💵 Catherine Holm
@@ -34,11 +35,13 @@
 
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍2  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍3  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 

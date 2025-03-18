@@ -12,7 +12,7 @@
 Testifying:
 * Pablo Benavente - Turo
 * James Bangasser
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 
 #### 7 👎 - Con
 Testifying:

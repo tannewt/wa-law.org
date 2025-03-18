@@ -19,12 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165878&caId=26561&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165878&caId=26561&tId=4)
 
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Jessica Spiegel - WSPA
 
-#### 69 👎 - Con
+#### 446 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SB%205189)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205189)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205189)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205189)

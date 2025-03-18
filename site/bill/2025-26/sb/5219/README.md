@@ -21,14 +21,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165659&caId=26463&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165659&caId=26463&tId=4)
 
-#### 92 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Erin Lopez
 * April Provost - Washington Recovery Alliance
+* Carrie Stanley - Department of Corrections
+* Megan Pirie - Department of Corrections
 
-#### 43 👎 - Con
+#### 159 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Teresa Sanders
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other
 

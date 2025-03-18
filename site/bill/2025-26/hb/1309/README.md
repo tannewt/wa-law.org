@@ -9,20 +9,16 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1309 Burrowing shrimp
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165833&caId=26364&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165833&caId=26364&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165833&caId=26364&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165833&caId=26364&tId=4)
-
-#### 599 👍 - Pro
+#### 626 👍 - Pro
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 * Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 * Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
+* David Beugli - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
+* Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 
-#### 27 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * John Garner - Environmental Coalition of Pierce County
 * Darlene Schanfald
@@ -30,6 +26,8 @@ Testifying:
 * Anne Mosness
 * Elaine Packard
 * Marilyn Showalter
+* joe breskin - Olympic Environmental Council
+* ERIC SEIBEL
 
 #### 1 ❓ - Other
 Testifying:

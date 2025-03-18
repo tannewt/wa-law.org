@@ -15,14 +15,14 @@
 #### 1930 👍 - Pro
 Testifying:
 * Brenda Morgan - SEIU 775
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Michael Johnson
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Misha Werschkul - Washington State Budget and Policy Center
 * Tymmony Keegan
 * Micaela Romero - WashingtonCAN
 * Brenda Morgan - SEIU 775
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Michael Johnson
 
 #### 244 👎 - Con

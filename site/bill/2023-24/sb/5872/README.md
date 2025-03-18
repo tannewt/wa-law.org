@@ -24,7 +24,7 @@ Testifying:
 #### 23 👎 - Con
 Testifying:
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Jeff Gombosky - [Tesla](/org/tesla/)
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Ashley Sutton - TechNet

@@ -13,7 +13,7 @@
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5555 Zoning regulations
 #### 4 👍 - Pro
 Testifying:
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 22 👎 - Con

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1615 Water system classifications
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165835&caId=26365&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165835&caId=26365&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165835&caId=26365&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165835&caId=26365&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * Jack Dunne - South Head Water Association

@@ -7,7 +7,8 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍2  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍3  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
@@ -39,7 +40,8 @@
 
 ### [HB 1552](/bill/2025-26/hb/1552/) - Real estate broker fee 👍1  
 
-### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
@@ -61,7 +63,8 @@
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 * 👍💵 Dan Bertolet
 
-### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  

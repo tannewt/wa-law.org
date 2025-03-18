@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): ESHB 1620 Parenting plan limitations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=4)
-
-#### 306 👍 - Pro
+#### 576 👍 - Pro
 Testifying:
 * Brandon Williams - Brandon Williams PLLC, Family Law Attorney
 * Tamara Emerson - Concerned Citizen
@@ -50,10 +44,18 @@ Testifying:
 * Jessica Ormond
 * Isabelle Latour - DV survivor mother
 * Liz Jeppesen
+* Jane Briant - Justice4Nicolaas&Ashley
+* Maria Garcia
+* Hellen Alee
 * Danielle Pollack - National Family Violence Law Center at GW
 * Emma Cole
+* Jeanette Turner
+* Carolyn Carroll - Justice for Nicolaas and Ashley Padilla
+* Viktoria Devai
+* Julie Nee
+* Karah Dickson - Domestic Abuse Victim
 
-#### 421 👎 - Con
+#### 644 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Jim Clark - National Parents Organization
@@ -61,13 +63,29 @@ Testifying:
 * Rael LaPenta - Mothers Against Child Abuse- MACA
 * Eric Coltrain - Coalition for Effective Family Courts
 * Sandra Mochizuki
+* Debra Long - New Hope
+* Dana Raigrodski - Washington State Supreme Court Gender and Justice Commission
+* Karin White - WA State Coalition Against Domestic Violence
+* Monica Cary - Superior Court Judges' Association
+* 💵Paula Sardinas - WBBA
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Janet Helson - Superior Court Judges' Association
+* Chandra Ifie
+* Kristin Ferrera - Superior Court Judges' Association
+* Mary Welch - NW Justice Project
+* Sally Winn - YWCA Spokane
+* Dawn Sydney
+* Debbie Gonzalez - New Hope
+* Bogdan Lendel
+* Ilie Lupan
 * Kyle Spencer
 
-#### 4 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Kassidy Gee - Court Napping, Tanawah Downing, Court Fraud, Parents against CPS, CPS Corruption
 * Sean Kuhlmeyer
 * Erin Pease - VITAL Justice Project
+* Yash Joshi
 * LMFT, LCSW-R, Linda Gottlieb - Turning Points for Families
 
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1620 Parenting plan limitations

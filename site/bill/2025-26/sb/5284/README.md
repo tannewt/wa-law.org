@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=E2SSB%205284)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205284)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=(SB%205284))
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=Senate%20Bill%205284)
@@ -22,13 +23,7 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Environment & Energy (ENVI): E2SSB 5284 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=4)
-
-#### 1387 👍 - Pro
+#### 1649 👍 - Pro
 Testifying:
 * Sydney Harris - [Upstream](/org/upstream/)
 * 💵Caleb Weaver - [Ridwell](/org/ridwell/)
@@ -41,8 +36,11 @@ Testifying:
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * 💵Brooke Davies - [Washington Beverage Association](/org/washington_beverage_association/)
 * 💵Edwin Borbon - AMERIPEN
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* Rebecca Thomas - Glass Packaging Institute
+* 💵Megan Lane - Coalition for High Performance Recycling
 
-#### 807 👎 - Con
+#### 861 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
@@ -61,11 +59,15 @@ Testifying:
 * Brad Lovaas - Washington Refuse and Recycling Association
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Lyset Cadena - WM (Waste Management)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Rick Vahl - Waste Connections
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Amber Carter - [Coalition for Protein Packaging](/org/coalition_for_protein_packaging/)
+* Ronald Cotterman
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5284 Solid waste management
 #### 864 👍 - Pro

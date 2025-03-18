@@ -17,12 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165723&caId=26404&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165723&caId=26404&tId=4)
 
-#### 11 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Raymond Williams - Just Us Solutions
 * Jacob Schmitt - Just Us Solutions
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

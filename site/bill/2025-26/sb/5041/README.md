@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205041)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205041)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=Senate%20Bill%205041:)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves bill making striking workers eligible for unemployment insurance - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/07/senate-approves-bill-making-striking-workers-eligible-for-unemployment-insurance/#:~:text=Senate%20Bill%205041)
@@ -20,15 +21,20 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5041 Unemp ins/strikes & lockouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=4)
+#### 2319 👍 - Pro
+Testifying:
+* April Sims - Washington State Labor Council, AFL-CIO
+* Jan "Mikey" Abapo - International Association of Machinists, 751
+* Alexa Tapia - National Employment Law Project
+* 💵Erin Haick - SEIU local 925
+* Pearl Johnson - UNITE HERE Local 8
+* Alex Hufstetler - IBEW local 56
+* 💵Brenda Wiest - Teamsters local 117
+* Jerry Sinclair - Association of Flight Attendants, Alaska Airlines/CWA
+* Alex Hufstetler - IBEW local 46
+* Tom Bosserman - Starbucks Workers United
 
-#### 1913 👍 - Pro
-
-#### 574 👎 - Con
+#### 1783 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Miriam Battson - Gig Harbor Chamber of Commerce
@@ -40,9 +46,23 @@ Testifying:
 * Marissa Rathbone - Washington State School Directors' Association
 * Sandra Mochizuki
 * Ronald Mochizuki
+* Teresa Sanders
+* Joel Bouchey
 * Jon Holmen - Lake Washington School District
+* Lilly Howard - Seattle Metro Chamber
+* 💵Lindsey Hueer
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* 💵Cory Shaw - Washington Aggregate & Concrete Association
+* 💵Julia Gorton - WA Hospitality Association
+* 💵Patrick Connor - NFIB
+* 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Carolyn Logue - Washington Food Industry Association
+* 💵Christine Brewer - Associated General Contractors
+* Jerry Chase - Aerospace Futures Alliance
+* 💵Bill Clarke - WA PUD Association
+* Anthony Holan
 
-#### 20 ❓ - Other
+#### 26 ❓ - Other
 Testifying:
 * Fred Rundle - [School Alliance](/org/school_alliance/)
 

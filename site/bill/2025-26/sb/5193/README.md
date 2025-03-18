@@ -13,23 +13,18 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Education (ED): SSB 5193 Remote testing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165479&caId=26480&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165479&caId=26480&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165479&caId=26480&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165479&caId=26480&tId=4)
-
-#### 92 👍 - Pro
+#### 193 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - Stride/K12
 * Felicia Kern - Parent of online school student
+* Sana Chaudhary
 
-#### 456 👎 - Con
+#### 465 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5193 Remote testing
 #### 514 👍 - Pro

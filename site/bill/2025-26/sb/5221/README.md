@@ -9,13 +9,10 @@
 
 ## Meetings
 ### Tue 03/18 08:00 AM - Finance (FIN): SSB 5221 Personal property distraint
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165496&caId=26493&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165496&caId=26493&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165496&caId=26493&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165496&caId=26493&tId=4)
-
-#### 2 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Jeff Gadman - President, WA Association of County Treasurers
+* 💵Jennifer Wallace - WA Association of County Officials
 
 #### 1 👎 - Con
 

@@ -12,21 +12,19 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5292 Family & medical leave rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165795&caId=26514&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165795&caId=26514&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165795&caId=26514&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165795&caId=26514&tId=4)
+#### 10 👍 - Pro
+Testifying:
+* Joe Kendo - washington state labor council, afl-cio
 
-#### 1 👍 - Pro
-
-#### 317 👎 - Con
+#### 569 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * Ronald Mochizuki
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Elizabeth New - Washington Policy Center
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5292 Family & medical leave rates
 #### 9 👍 - Pro

@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Mon 03/17 04:00 PM - Transportation (TRAN): ESHB 1923 Passenger-only ferries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=4)
-
-#### 364 👍 - Pro
+#### 428 👍 - Pro
 Testifying:
 * Jake Beattie - Northwest Maritime
 * Vicky de Monterey Richoux - VashonBePrepared
@@ -33,12 +27,19 @@ Testifying:
 * Jeff Coughlin
 * Ashley Mathews - Mayor City of Bainbridge Island
 * Walt Elliott - Kingston North Kitsap Rotary
+* Curt Gordon - Port of South Whidbey
+* Jim Hedrick - Port of Evertt
+* 💵Jasmine Vasavada - [Port of Olympia](/org/port_of_olympia/)
 * Bruce Agnew - Pacific NW Economic Region Accelerator
 * Dylan Doty - [Kitsap Transit](/org/kitsap_transit/)
+* Kari McVeigh - [San Juan County](/org/san_juan_county/)
+* Tom McBride - Kitsap County
+* Lindsay Browning - Bainbridge Island Chamber of Commerce
+* Eric ffitch - Washington Public Ports Associations
 
 #### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 02/19 04:00 PM - Transportation (TR): HB 1923 Passenger-only ferries
 #### 783 👍 - Pro

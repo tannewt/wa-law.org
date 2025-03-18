@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=E2SSB%205263)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205263)
 * 03/14/2025 [KIRO7](/org/kiro7/) - [School budgets under pressure amid federal funding concerns – KIRO 7 News Seattle](https://www.kiro7.com/news/local/school-budgets-under-pressure-amid-federal-funding-concerns/263JTL7AZJHNFBFWLLTVBMDQWQ/#:~:text=In%20SB%205263,)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [42nd LD Town Hall This Saturday, March 15! Plus, An Important Update on Education Funding. - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2025/03/13/2870/#:~:text=SB%205263)
@@ -42,7 +43,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=4)
 
-#### 281 👍 - Pro
+#### 780 👍 - Pro
 Testifying:
 * Mary Templeton - [School Alliance](/org/school_alliance/)
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
@@ -56,6 +57,12 @@ Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵Mitch Denning - Alliance of Educational Associations
 * Angela Steck - President, Washington State PTA
+* Shaun Carey - WA Association of School Admin President-Elect
+* Paree Raval
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Ryan Arnold - East Valley School District
+* Rob Bryant - CFO - Federal Way Public Schools
 
 #### 3 👎 - Con
 

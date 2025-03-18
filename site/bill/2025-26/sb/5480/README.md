@@ -32,19 +32,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165781&caId=26468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165781&caId=26468&tId=4)
 
-#### 358 👍 - Pro
+#### 632 👍 - Pro
 Testifying:
 * Katerina LaMarche - Washington State Hospital Association (WSHA)
 * Lonnie Johns-Brown - Health Care For All Washington
 * Adam Zarrij - The Leukemia & Lymphoma Society
 * Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
+* Katrina LaMarche - Washington State Hospital Association (WSHA)
 * Jeremy Griffin
+* Teddi McGuire - Providence Health
 
-#### 51 👎 - Con
+#### 189 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 * Kris Quigley - CDIA
+* Teresa Sanders
 
 #### 0 ❓ - Other
 

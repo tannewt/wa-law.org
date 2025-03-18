@@ -1,6 +1,8 @@
 # Bellwether Housing
 ## 2025-26
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
 
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  

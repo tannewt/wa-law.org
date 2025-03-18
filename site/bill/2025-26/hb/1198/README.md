@@ -144,7 +144,7 @@ Testifying:
 * Tim Stokes - South Puget Sound Community College, State Board for Community and Technical Colleges
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Po Leapai
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * 💵Nora Selander - Western Washington University
 * 💵Lisa Daugaard - Purpose Dignity Action (PDA)
 * Carolanne Sanders Lundgren - Purpose Dignity Action (PDA)

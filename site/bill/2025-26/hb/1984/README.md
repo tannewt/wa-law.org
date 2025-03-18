@@ -23,7 +23,7 @@ Testifying:
 
 #### 25 👎 - Con
 Testifying:
-* Tahra Jirari - Chamber of Progress
+* Tahra Jirari - [Chamber of Progress](/org/chamber_of_progress/)
 * Jeff Gombosky - [Tesla](/org/tesla/)
 * 💵Brooke Davies - TechNet
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

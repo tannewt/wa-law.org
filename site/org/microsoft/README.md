@@ -28,13 +28,17 @@
 
 ### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
-### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍2  
+
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices 👍1  
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎2 
 

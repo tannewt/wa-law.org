@@ -1,7 +1,8 @@
 # Public Generating Pool
 ## 2025-26
 
-### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
+### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍2  
+* 👍 Mary Wiencke
 * 👍 Mary Wiencke
 
 ## [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  

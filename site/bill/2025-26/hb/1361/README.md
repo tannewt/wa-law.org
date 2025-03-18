@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): HB 1361 Process service
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165621&caId=26426&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165621&caId=26426&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165621&caId=26426&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165621&caId=26426&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Scott Douglas - Office of the Secretary of State

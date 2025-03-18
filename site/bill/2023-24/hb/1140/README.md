@@ -174,7 +174,7 @@ Testifying:
 * Israel Gonzalez - WA Immigrant Solidarity Network
 * Michael Byun - Asian Counseling Referral Service
 * 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
-* Betsy Robblee - The Mountaineers
+* Betsy Robblee - [The Mountaineers](/org/the_mountaineers/)
 * Stephanie Neil - SDMC
 * Julie Patino - A Way Home Washington
 * Ren Autrey - OutsidersInn.org

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5177/</link>
 		<description>Updates about SB 5177</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 16 Mar 2025 06:03:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 07:37:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -215,6 +215,29 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-16 06:03:07</guid>
+		</item>
+		<item>
+			<title>👎Teresa Sanders - Legislative Youth Advisory Council (LYAC)</title>
+			<description>Teresa Sanders signed up to testify Con.</description>
+			<pubDate>Mon, 17 Mar 2025 06:56:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Teresa/Sanders/2025-03-17 06:56:07</guid>
+		</item>
+		<item>
+			<title>Week 10: Senate Advances Special Education Bill - WSPTA</title>
+			<description>News article "Week 10: Senate Advances Special Education Bill - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 17 Mar 2025 18:27:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SB%205177</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - Legislative Youth Advisory Council (LYAC)</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 07:37:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-03-18 07:37:06</guid>
 		</item>
 	</channel>
 </rss>

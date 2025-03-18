@@ -9,16 +9,13 @@
 
 ## Meetings
 ### Mon 03/17 04:00 PM - Transportation (TR): SSB 5690 Utility relocation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=4)
-
-#### 19 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 * James Dykes
+* 💵Bill Clarke - WA PUD Association
+* Kristin Masteller - Mason PUD No. 1
+* George Sidhu - Skagit PUD
 
 #### 0 👎 - Con
 

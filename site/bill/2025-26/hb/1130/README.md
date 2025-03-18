@@ -11,15 +11,10 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Human Services (HS): HB 1130 Dev. disabilities waiver use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165719&caId=26400&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165719&caId=26400&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165719&caId=26400&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165719&caId=26400&tId=4)
-
-#### 35 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Jessica Renner - Self Advocates in Leadership SAIL
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 
 #### 0 👎 - Con
 

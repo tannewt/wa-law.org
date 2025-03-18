@@ -33,6 +33,9 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1
 * ❓ Sarah Cho
 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting   ❓1
+* ❓ Karl Almgren
+
 ## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ## 2023-24

@@ -15,7 +15,7 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 * 👍 Jacinda Steltjes

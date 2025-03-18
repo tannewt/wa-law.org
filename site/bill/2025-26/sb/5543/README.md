@@ -17,16 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=4)
 
-#### 8 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Troy Goracke - WA State Board for Community and Technical Colleges
 
-#### 236 👎 - Con
+#### 432 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SB 5543 College bound scholarship
 #### 14 👍 - Pro

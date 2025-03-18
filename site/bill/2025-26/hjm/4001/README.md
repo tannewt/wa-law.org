@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165941&caId=26590&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165941&caId=26590&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Abhay Sankar
 
 #### 0 👎 - Con
 

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=2SSB%205186)
 * 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/10/halfway-there/#:~:text=5186)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=2SSB%205186)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205186:)

@@ -26,7 +26,7 @@ Testifying:
 #### 2067 👎 - Con
 Testifying:
 * Arne Christensen
-* 💵Michael Shaw - Washington State Association of County Auditors
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Cemal Richards
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 

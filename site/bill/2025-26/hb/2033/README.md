@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=HB%202033)
+
 ## Meetings
 ### Thu 03/20 01:30 PM - Finance (FIN): HB 2033 Nicotine product taxation
 Sign up to testify:
@@ -16,9 +19,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Thomas Eshleman - Doyles Sheehan
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Doug Ball - Jacksons Food Stores
+* Glenda Giles - Jacksons Food Stores
+* Tiffany Coberly - Jacksons Food Stores
 
 #### 0 ❓ - Other

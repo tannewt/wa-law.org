@@ -153,7 +153,8 @@
 ### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development  👎1 
 * 👎💵 Bryce Yadon
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
+* 👎💵 Bryce Yadon
 
 ### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
 

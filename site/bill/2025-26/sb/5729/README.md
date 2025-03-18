@@ -12,23 +12,26 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Local Government (LG): ESB 5729 Housing permitting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165887&caId=26571&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165887&caId=26571&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165887&caId=26571&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165887&caId=26571&tId=4)
-
-#### 71 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * Mike Nykreim - Newport West LLC
 * Samuel Hooper - Institute for Justice / Legislative Counsel
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 4 👎 - Con
+#### 19 👎 - Con
 Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Tammie Sueirro - American Institute of Architects Washington Council (AIAWA)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Micah Chappell - Washington Assn of Building Officials
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
+* Marjorie Lund - [Board of Registration for Professional Engineers and Land Surveyors](/org/board_of_registration_for_professional_engineers_and_land_surveyors/)
 
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5729 Housing permitting
 #### 394 👍 - Pro

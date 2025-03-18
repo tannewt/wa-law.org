@@ -30,7 +30,7 @@ Testifying:
 * 💵Molly Jones - [Payactiv](/org/payactiv/)
 * Ryan Naples - DailyPay
 * 💵Kelsi Hamilton - WA Collectors Assoc.
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Kevin Lefton
 * Angelena Bradfield - Financial Technology Association
 * Eric Schuller - [Alliance for Responsible Consumer Legal Funding](/org/alliance_for_responsible_consumer_legal_funding/)

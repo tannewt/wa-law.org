@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Environment & Energy (ENVI): ESSB 5466 Electric transmission system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165566&caId=26488&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165566&caId=26488&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165566&caId=26488&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165566&caId=26488&tId=4)
-
-#### 281 👍 - Pro
+#### 373 👍 - Pro
 Testifying:
 * 💵Emily Moore - [Sightline Institute](/org/sightline_institute/)
 * 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
@@ -31,18 +25,24 @@ Testifying:
 * 💵Brooke Davies - Northwest & Intermountain Power Producers Coalition
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Jason Hudson - IBEW 77
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Dave Arbaugh - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
 
-#### 625 👎 - Con
+#### 657 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * 💵Brandon Houskeeper - Alliance for Western Energy Consumers
 * TaraLyn Fray
+* Nicolas B Garcia - Washington Public Utility Districts Association
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * Peter Brehm - CTC Global
 * 💵Dawn Vyvyan - Yakama Nation Puyallup Tribe
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Dave Warren - Okanogan PUD, Klickitat PUD
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5466 Electric transmission system
 #### 260 👍 - Pro

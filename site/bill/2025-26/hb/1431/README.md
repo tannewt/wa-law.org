@@ -10,7 +10,7 @@
 ### Wed 02/05 01:30 PM - Consumer Protection & Business (CPB): HB 1431 Rental car agreements
 #### 2 👍 - Pro
 Testifying:
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 
 #### 3 👎 - Con
 Testifying:

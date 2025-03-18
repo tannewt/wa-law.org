@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165731&caId=26398&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165731&caId=26398&tId=4)
 
-#### 32 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Sarah Olson - Village Cohousing Works
@@ -22,7 +22,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dale Gavey
 
 ### Fri 02/14 08:00 AM - Consumer Protection & Business (CPB): HB 1760 Manufactured homes/org. sale
 #### 94 👍 - Pro

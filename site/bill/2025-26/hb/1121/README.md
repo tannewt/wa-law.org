@@ -9,15 +9,17 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Commerce (LC): SHB 1121 Work restrictions/age 16, 17
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165870&caId=26569&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165870&caId=26569&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165870&caId=26569&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165870&caId=26569&tId=4)
-
-#### 88 👍 - Pro
+#### 278 👍 - Pro
 Testifying:
 * Dakota Manley - Washington State Young Republicans
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Abbas Zaidi
+* Aidan Mozingo
+* Dhruv Sarnot
+* Eric Marcu
+* Gajanan Dhongade
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
+* 💵Michele Willms - Associated General Contractors of Washington (AGC)
 
 #### 0 👎 - Con
 

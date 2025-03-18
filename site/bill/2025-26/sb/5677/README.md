@@ -13,20 +13,15 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): ESSB 5677 Associate development orgs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165500&caId=26540&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165500&caId=26540&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165500&caId=26540&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165500&caId=26540&tId=4)
+#### 15 👍 - Pro
 
-#### 8 👍 - Pro
-
-#### 7 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * JAMES Derouin jr - self
 
-#### 9 ❓ - Other
+#### 35 ❓ - Other
 Testifying:
+* 💵Lynnette Buffington - Seattle Metropolitan Chamber of Commerce
 * Michael Cade - Thurston Economic Development Council (ADO for Thurston County)
 * Roni Holder-Diefenbach - Economic Alliance (ADO for Okanogan County)
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)

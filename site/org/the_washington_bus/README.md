@@ -8,7 +8,8 @@
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+* 👍 Bailey Medilo
 * 👍 Bailey Medilo
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  

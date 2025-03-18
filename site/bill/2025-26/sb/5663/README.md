@@ -16,17 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=4)
 
-#### 10 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Kathryn Cox
 * Marina Aminy - California Community Colleges, California Virtual Campus
 
-#### 221 👎 - Con
+#### 412 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Arlen Harris - Sbctc
 
 ### Thu 02/13 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5663 Virtual campus/colleges
 #### 10 👍 - Pro

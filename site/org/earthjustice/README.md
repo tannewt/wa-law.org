@@ -21,16 +21,18 @@
 
 ### [HB 1712](/bill/2025-26/hb/1712/) - Qualified biomass facilities  👎1 
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓ Eric Gonzalez Alfaro
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓1
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  ❓1
 
 ## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 * 👍 Eric Gonzalez Alfaro

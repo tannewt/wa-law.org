@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [MyNorthwest](/org/mynorthwest/) - [State senate bill may benefit smaller news organizations](https://mynorthwest.com/mynorthwest-politics/senate-bill-big-tech/4064006#:~:text=Senate%20Bill%205400)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting local news and pilots - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205400)
 * 01/29/2025 [The Center Square](/org/the_center_square/) - [News at what cost? WA bill pits journalists against higher education funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1cba676e-de8d-11ef-a8ea-f33addf8deba.html#:~:text=Senate%20Bill%205400)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [Liias bill supporting local journalism to be heard in committee Tuesday - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/27/liias-bill-supporting-local-journalism-to-be-heard-in-committee-tuesday/#:~:text=Senate%20Bill%205400)
@@ -22,21 +23,31 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=4)
 
-#### 95 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Dee Anne Finken - League of Women Voters of Washington
 * Keith Shipman - Washington State Association of Broadcasters
 * Ellen Hiatt - Washington Newspaper Publishers Association
 * Sharon Maeda - (retired)
 * Karen Keiser - no
+* Mauri Ingram - Whatcom Community Foundation
 * Emmett O'Connell - N/A
+* Mindie Reule - Community Foundation of South Puget Sound
+* ROBERT McCLURE - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Carolyn Boatsman
+* Sharon Miracle - Yakima Valley Community Foundation and Washington Press Forward Chapter
 
-#### 27 👎 - Con
+#### 167 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
 * 💵Kelly Fukai - WTIA
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Teresa Sanders
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kate Armstrong - Department of Revenue
 
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5400 Local news journalism
 #### 424 👍 - Pro

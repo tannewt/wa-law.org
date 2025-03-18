@@ -19,13 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Christine Reid - IBEW
 * Eileen Nix - [Communications Workers of America](/org/communications_workers_of_america/)
 * Krystal Rivas - [Communications Workers of America](/org/communications_workers_of_america/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

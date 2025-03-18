@@ -17,21 +17,24 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Commerce (LC): ESHB 1875 Sick leave/immigration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165779&caId=26414&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165779&caId=26414&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165779&caId=26414&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165779&caId=26414&tId=4)
+#### 202 👍 - Pro
+Testifying:
+* Yvette Magana - [Legal Voice](/org/legal_voice/)
+* Guillermos Zazueta - OneAmerica
+* Jeremiah Miller - [Fair Work Center](/org/fair_work_center/)
+* Vanessa Guitierrez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
-#### 43 👍 - Pro
-
-#### 349 👎 - Con
+#### 748 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Ronald Mochizuki
 * TaraLyn Fray
+* Teresa Sanders
+* Anthony Holan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Rose Gundersen - WA Retail Association
 
 ### Tue 02/18 10:30 AM - Labor & Workplace Standards (LAWS): HB 1875 Sick leave/immigration
 #### 108 👍 - Pro

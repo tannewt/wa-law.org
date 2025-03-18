@@ -76,7 +76,8 @@
 ### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
 * 👍 Sean DeWitz
 
-### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
+### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎2 
+* 👎💵 Julia Gorton
 
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎 Sean DeWitz
@@ -103,6 +104,9 @@
 * 👎💵 Julia Gorton
 
 ### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
+
+### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
+* 👎 Sean DeWitz
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
@@ -150,8 +154,9 @@
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 * ❓ Sean DeWitz
 
-### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
 * 👍💵 Julia Gorton
+* 👍 Sean DeWitz
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 * 👎💵 Samantha Louderback

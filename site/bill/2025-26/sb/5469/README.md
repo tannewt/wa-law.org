@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SSB%205469)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=SB%205469)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205469)
 
@@ -19,11 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165947&caId=26603&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165947&caId=26603&tId=4)
 
-#### 87 👍 - Pro
+#### 228 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner member AMHO
+* Karen Ceurvorst
+* Lee Hepner - American Economic Liberties Project
+* Steve Sundstrom
 
-#### 1 👎 - Con
+#### 41 👎 - Con
 
 #### 0 ❓ - Other
 

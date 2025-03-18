@@ -38,7 +38,7 @@ Testifying:
 * 💵Kelly Fukai - WTIA
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Feliciano - TECHNET
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 
 #### 2 ❓ - Other
 Testifying:

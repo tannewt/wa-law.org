@@ -16,15 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=4)
 
-#### 14 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Rael Candelaria - Framatome
+* 💵Seth Worley - Government Affairs Director, United Association of Plumbers & Steamfitters Local 598
 
-#### 166 👎 - Con
+#### 288 👎 - Con
 Testifying:
 * 💵Suellen Mele - 350 Washington Civic Action Team
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
+* Cathryn Chudy
 
 #### 0 ❓ - Other
 

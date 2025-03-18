@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [KING5](/org/king5/) - [King County reduces some precinct staffing amid budget constraints | king5.com](https://www.king5.com/article/news/local/public-safety/king-county-sheriffs-office-reduces-minimum-staffing-some-precincts/281-e77b80d4-a1e9-4cc2-8fb0-f8ad38f8d201#:~:text=Bill%202015)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%202015)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%202015)
 * 03/12/2025 [Washington State Standard](/org/washington_state_standard/) - [$100M plan for police hiring gets greenlight from Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/03/11/100m-plan-for-police-hiring-gets-greenlight-from-washington-house/#:~:text=House%20Bill%202015)

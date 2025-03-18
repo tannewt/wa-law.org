@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Agriculture and Natural Resources (AGNR): SB 5485 Livestock identification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33047&aId=165585&caId=26442&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33047&aId=165585&caId=26442&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33047&aId=165585&caId=26442&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33047&aId=165585&caId=26442&tId=4)
-
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brennan Kimbel - Washington State Department of Agriculture
 
 ### Mon 02/03 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5485 Livestock identification
 #### 112 👍 - Pro

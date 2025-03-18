@@ -22,9 +22,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165726&caId=26407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165726&caId=26407&tId=4)
 
-#### 421 👍 - Pro
+#### 993 👍 - Pro
+Testifying:
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
+* Lesly Avila
+* Liliana Chumpitasi - La Resistencia
+* 💵Paul Benz - Washington Partners for Social Change
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 45 👎 - Con
+#### 363 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 2 ❓ - Other
 

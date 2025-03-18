@@ -23,17 +23,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=4)
 
-#### 170 👍 - Pro
+#### 261 👍 - Pro
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * 💵Leah Missik
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 
-#### 74 👎 - Con
+#### 499 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Jessica Spiegel - WSPA
+* TaraLyn Fray
 
 #### 2 ❓ - Other
 Testifying:

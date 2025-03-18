@@ -56,8 +56,9 @@
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓1
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  ❓1
 * ❓💵 Carl Schroeder
+* 👍💵 Carl Schroeder
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters  👎1 ❓1
 * ❓💵 Carl Schroeder
@@ -169,6 +170,9 @@
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 * 👎💵 Candice Bock
 
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities   ❓1
+* ❓💵 Carl Schroeder
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍💵 Candice Bock
 
@@ -219,7 +223,7 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
@@ -250,7 +254,8 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ### [HB 1953](/bill/2025-26/hb/1953/) - Unclaimed property/local gov 👍1  
@@ -396,7 +401,8 @@
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
 * 👍💵 Carl Schroeder
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎2 
@@ -430,6 +436,8 @@
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
+### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
+
 ### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 * 👍💵 Carl Schroeder
 
@@ -438,6 +446,9 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
+
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+* 👎💵 Carl Schroeder
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍2  
 

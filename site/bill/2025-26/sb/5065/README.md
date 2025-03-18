@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESB%205065)
+
 ## Meetings
 ### Tue 03/18 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESB 5065 Traveling animal acts
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=4)
 
-#### 302 👍 - Pro
+#### 376 👍 - Pro
 Testifying:
 * Josh Diamond
 * Isabel Starnes
@@ -22,13 +25,18 @@ Testifying:
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * Kris Cameron
 * Cindy Volyn
+* Alyne Fortgang - Friends of Woodland Park Zoo Elephants
+* Alyne Fortgang - Friends of Woodland Park Zoo Elephants
 * Drew McCormick - Animal Defenders International
+* Wendy Linton
 
-#### 10 👎 - Con
+#### 67 👎 - Con
 Testifying:
 * Debbie Goodrich - Flight Club Foundation
 * Kim Connolly
 * DEBBIE GOODRICH - Flight Club Foundation
+* DEBBIE GOODRICH - Flight Club Foundation
+* Teresa Sanders
 
 #### 0 ❓ - Other
 

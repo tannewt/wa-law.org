@@ -16,6 +16,9 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+* 👍 Jennifer Gregerson
+
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
@@ -26,7 +29,10 @@
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
-### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
+* 👍 Jennifer Gregerson
+
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
@@ -49,17 +55,21 @@
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍 Dan Templeman
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍2  
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+
+### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
 
 ### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 

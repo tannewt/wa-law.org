@@ -14,26 +14,23 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): 2SHB 1183 Building codes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165906&caId=26576&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165906&caId=26576&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165906&caId=26576&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165906&caId=26576&tId=4)
-
-#### 224 👍 - Pro
+#### 297 👍 - Pro
 Testifying:
 * Julie Blazek - HKP Architects
 * Connor Stein
 * michael eliason - larch lab
+* Angela Rozmyn - Natural and Built Environments
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 803 👎 - Con
+#### 911 👎 - Con
 Testifying:
 * Sandra Brock
 * Sandra Mochizuki
 * TaraLyn Fray
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 

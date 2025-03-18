@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165699&caId=26387&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165699&caId=26387&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Dr. Anne-Marie Amies Oelschlager - American College of Obstetrics and Gynecology
 
 #### 0 👎 - Con
 

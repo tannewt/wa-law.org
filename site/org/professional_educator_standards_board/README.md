@@ -6,6 +6,9 @@
 ### [HB 1259](/bill/2025-26/hb/1259/) - Concerning supervision requirements for behavioral health professionals in elementary and secondary public schools.   ❓1
 * ❓💵 Zackary Turner
 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.   ❓1
+* ❓ Dr. Erica Hernandez-Scott
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 
 ## 2023-24

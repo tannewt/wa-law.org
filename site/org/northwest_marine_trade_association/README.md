@@ -18,7 +18,7 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
 ## [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍2  
 * 👍 Roman Daniels-Brown

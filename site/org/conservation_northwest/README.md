@@ -53,7 +53,7 @@
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍2  
 * 👍💵 Paula Swedeen
@@ -66,7 +66,7 @@
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 

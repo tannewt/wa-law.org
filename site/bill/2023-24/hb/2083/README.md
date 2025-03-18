@@ -27,7 +27,7 @@ Testifying:
 * 💵Molly Jones - [Payactiv](/org/payactiv/)
 * Ryan Naples - DailyPay
 * 💵Kelsi Hamilton
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Phil Goldfeder - American Fintech Council (AFC)
 * Kevin Lefton - Wagestream
 * Angelena Bradfield

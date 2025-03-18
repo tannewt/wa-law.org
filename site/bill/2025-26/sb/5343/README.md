@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Mon 03/17 04:00 PM - Appropriations (APP): SB 5343 NE WA wolf-livestock account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165790&caId=26450&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165790&caId=26450&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165790&caId=26450&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165790&caId=26450&tId=4)
-
-#### 176 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * John Axtell
 * Sandra Brock
 * Julie Gorman
+* Teresa Jenkins - Ferry County Board of County Commissioners
+* Dee Tole
 
-#### 16 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Ronald Reed - Retired
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)

@@ -23,7 +23,7 @@ Testifying:
 #### 8 ❓ - Other
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
-* Thad Duvall - Washington State Association of County Auditors
+* Thad Duvall - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Beau Perschbacher - WA Dept. of Licensing
 
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5326 Vehicle insurance verif.
@@ -38,4 +38,4 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
-* Thad Duvall - Washington State Association of County Auditors
+* Thad Duvall - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)

@@ -9,7 +9,8 @@
 * 👍💵 Yvette Maganya
 * 👍💵 Yvette Maganya
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
+* 👍 Yvette Magana
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 * 👍💵 Yvette Maganya

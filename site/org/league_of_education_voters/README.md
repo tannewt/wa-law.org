@@ -48,6 +48,8 @@
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
@@ -60,7 +62,7 @@
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
 ## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 

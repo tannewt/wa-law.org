@@ -2,18 +2,18 @@
 ## 2025-26
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
-* ❓ Emma Scalzo
+* ❓💵 Emma Scalzo
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
-* ❓ Emma Scalzo
+* ❓💵 Emma Scalzo
 
 ## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
-* 👍 Emma Scalzo
+* 👍💵 Emma Scalzo
 
 ## 2023-24
 
 ### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
-* 👍 Emma Scalzo
+* 👍💵 Emma Scalzo
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 
@@ -27,14 +27,14 @@
 ### [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
 ### [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍2  
-* 👍 Emma Scalzo
-* 👍 Emma Scalzo
+* 👍💵 Emma Scalzo
+* 👍💵 Emma Scalzo
 
 ### [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
-* 👍 Emma Scalzo
+* 👍💵 Emma Scalzo
 
 ### [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
-* 👍 Emma Scalzo
+* 👍💵 Emma Scalzo
 
 ### [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
@@ -48,10 +48,10 @@
 ### [SB 5766](/bill/2023-24/sb/5766/) - Emissions exemptions  👎1 
 
 ### [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
-* 👍 Emma Scalzo
+* 👍💵 Emma Scalzo
 
 ### [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍2  
-* 👍 Emma Scalzo
-* 👍 Emma Scalzo
+* 👍💵 Emma Scalzo
+* 👍💵 Emma Scalzo
 
 ## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  

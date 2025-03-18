@@ -9,8 +9,13 @@
 
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+* 👎💵 Neil Strege
+
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 * 👍💵 Neil Strege
+
+### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship  👎1 
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍💵 Neil Strege

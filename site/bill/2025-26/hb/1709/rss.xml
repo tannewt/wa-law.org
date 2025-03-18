@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1709/</link>
 		<description>Updates about HB 1709</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Mar 2025 03:28:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 08:51:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-29/First reading, referred to Education.</guid>
 		</item>
 		<item>
-			<title>👍Mark Harper - WA State Noxious Weed Control Board</title>
+			<title>👍Mark Harper - School Nurse Organization of Washington (SNOW)</title>
 			<description>Mark Harper signed up to testify Pro.</description>
 			<pubDate>Sun, 09 Feb 2025 10:39:58 GMT</pubDate>
 			<category>testifier</category>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Mark/Harper/2025-02-09 10:39:58</guid>
 		</item>
 		<item>
-			<title>👍Kathryn Mueller - WA State Noxious Weed Control Board</title>
+			<title>👍Kathryn Mueller - School Nurse Organization of Washington (SNOW)</title>
 			<description>Kathryn Mueller signed up to testify Pro.</description>
 			<pubDate>Sun, 09 Feb 2025 10:45:14 GMT</pubDate>
 			<category>testifier</category>
@@ -132,6 +132,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kathryn/Mueller/2025-03-14 03:28:08</guid>
+		</item>
+		<item>
+			<title>❓Taylor Mason - School Nurse Organization of Washington (SNOW)</title>
+			<description>Taylor Mason signed up to testify Other. They are signed up to represent School Nurse Organization of Washington (SNOW).</description>
+			<pubDate>Mon, 17 Mar 2025 03:01:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Taylor/Mason/2025-03-17 03:01:36</guid>
+		</item>
+		<item>
+			<title>👍Dawn Harper - WA State Noxious Weed Control Board</title>
+			<description>Dawn Harper signed up to testify Pro.</description>
+			<pubDate>Mon, 17 Mar 2025 08:51:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dawn/Harper/2025-03-17 08:51:14</guid>
 		</item>
 	</channel>
 </rss>

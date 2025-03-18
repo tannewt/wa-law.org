@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5142 Eminent domain purchase back
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=4)
-
-#### 37 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Emily Weaver
 * Emily Weaver
@@ -29,8 +23,12 @@ Testifying:
 * John Houston - The Houston Family Land Justice Project
 * Jerry Evans - No organization but would in person testify as a panel or individually.
 * JAMES Derouin jr - self
+* Shaylynn Houston
+* James Houston
 
-#### 3 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Tyler Douglas
 
 #### 3 ❓ - Other
 Testifying:

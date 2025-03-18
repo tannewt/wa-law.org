@@ -37,7 +37,8 @@
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓2
+* ❓ Jenna McInnis
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
@@ -53,7 +54,7 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍3  
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 

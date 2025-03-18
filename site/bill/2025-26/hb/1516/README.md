@@ -16,13 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=4)
 
-#### 36 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* 💵Bill Clarke - WA REALTORS
 
-#### 51 👎 - Con
+#### 401 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1516 Insurance/affordable units
 #### 51 👍 - Pro

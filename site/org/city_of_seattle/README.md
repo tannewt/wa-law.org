@@ -96,7 +96,7 @@
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 
-### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
@@ -111,7 +111,7 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍2  
 
@@ -119,7 +119,7 @@
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍2  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 * 👍 AP Diaz
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
@@ -137,6 +137,8 @@
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
+
+### [SB 5214](/bill/2025-26/sb/5214/) - Mobile market programs 👍1  
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
 
@@ -162,7 +164,7 @@
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 
@@ -183,6 +185,8 @@
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
 
 ### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects 👍1  
+
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
 ## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 

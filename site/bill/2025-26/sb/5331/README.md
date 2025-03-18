@@ -18,12 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=4)
 
-#### 118 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
 
-#### 56 👎 - Con
+#### 426 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

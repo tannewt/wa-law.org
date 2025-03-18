@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESB%205559)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Town Hall coming up on Saturday! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/03/12/lizs-loveletter-town-hall-coming-up-on-saturday/#:~:text=SB%205559)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205559)
 

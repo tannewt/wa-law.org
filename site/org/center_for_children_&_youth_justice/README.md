@@ -14,7 +14,7 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
 
@@ -31,6 +31,8 @@
 ### [HB 1752](/bill/2025-26/hb/1752/) - Juvenile misdemeanor jdx  👎1 
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
+### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
 
@@ -53,7 +55,7 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓1
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓2
 * 👎 William Hairston
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  

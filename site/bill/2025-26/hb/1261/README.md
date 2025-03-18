@@ -9,18 +9,13 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1261 Open space incidental use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165839&caId=26367&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165839&caId=26367&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165839&caId=26367&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165839&caId=26367&tId=4)
-
-#### 128 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Christmas Tree Growers](/org/washington_christmas_tree_growers/)
 * Linda Neunzig - Snohomish County
 * Sandra Brock
 * Julie Gorman
+* Scott Luckie - Luckie Farms
 
 #### 3 👎 - Con
 

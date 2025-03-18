@@ -9,7 +9,8 @@
 * 👍 Jack Murphy
 * 👍 George Moya
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses   ❓1
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses   ❓2
+* ❓ Jack Murphy
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍2  
 * 👍 Linnea Anderson

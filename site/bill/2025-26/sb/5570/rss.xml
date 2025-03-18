@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5570/</link>
 		<description>Updates about SB 5570</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 13 Mar 2025 09:08:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 18:27:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -262,6 +262,13 @@
 			<guid isPermaLink="false">2025-03-08/First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/First reading, referred to Education.</guid>
+		</item>
+		<item>
 			<title>👍Bernard Koontz - Highline Public Schools</title>
 			<description>Bernard Koontz signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/highline_public_schools/"&gt;Highline Public Schools&lt;/a&gt;.</description>
 			<pubDate>Mon, 10 Mar 2025 08:13:16 GMT</pubDate>
@@ -347,6 +354,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Elese/Washines/2025-03-13 09:08:30</guid>
+		</item>
+		<item>
+			<title>Week 10: Senate Advances Special Education Bill - WSPTA</title>
+			<description>News article "Week 10: Senate Advances Special Education Bill - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 17 Mar 2025 18:27:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205570</guid>
 		</item>
 	</channel>
 </rss>

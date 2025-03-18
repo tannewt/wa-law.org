@@ -19,11 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=4)
 
-#### 3 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
+* Kemp Garcia - Dig Law Advocates / National Utility Contractors Association
+* Jon Cornelius - Dig Law Advocates
+* Nick Massie - Rotschy Inc
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Josie Cummings - Avista
+* 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative
+* 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 
 ### Fri 02/14 10:30 AM - Environment, Energy & Technology (ENET): SB 5627 Safe excavation
 #### 90 👍 - Pro

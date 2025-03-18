@@ -12,18 +12,12 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Housing (HOUS): ESB 5313 Rental agreement provisions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165512&caId=26507&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165512&caId=26507&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165512&caId=26507&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165512&caId=26507&tId=4)
-
-#### 93 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * Emily Rosenzweig
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 500 👎 - Con
+#### 515 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray

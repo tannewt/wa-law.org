@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1440/</link>
 		<description>Updates about HB 1440</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 07:38:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 12:40:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2025-03-12 07:38:11</guid>
+		</item>
+		<item>
+			<title>👎Teresa Sanders - Department of Licensing</title>
+			<description>Teresa Sanders signed up to testify Con.</description>
+			<pubDate>Mon, 17 Mar 2025 06:39:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Teresa/Sanders/2025-03-17 06:39:11</guid>
+		</item>
+		<item>
+			<title>❓Michele Walker - City of Kent</title>
+			<description>Michele Walker signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_kent/"&gt;City of Kent&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Mar 2025 10:39:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michele/Walker/2025-03-17 10:39:54</guid>
+		</item>
+		<item>
+			<title>❓Melena Thompson - Washington Department of Fish and Wildlife</title>
+			<description>Melena Thompson signed up to testify Other. They are signed up to represent Washington Department of Fish and Wildlife.</description>
+			<pubDate>Mon, 17 Mar 2025 12:40:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Melena/Thompson/2025-03-17 12:40:46</guid>
 		</item>
 	</channel>
 </rss>

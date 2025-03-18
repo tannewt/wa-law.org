@@ -17,7 +17,7 @@ Testifying:
 * 💵Nancy Sapiro - Cedar River Clinics, American College of Obstetrics and Gynecology, End of Life WA
 * 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
 
-#### 818 👎 - Con
+#### 820 👎 - Con
 Testifying:
 * Sandra Brock
 * Sandra Mochizuki

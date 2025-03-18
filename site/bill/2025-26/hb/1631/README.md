@@ -20,10 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=4)
 
-#### 60 👍 - Pro
+#### 251 👍 - Pro
 Testifying:
 * Katherine Staatz
 * Fred Felleman - [Port of Seattle](/org/port_of_seattle/)
+* Jodie Toft
+* Julianna Sullivan - Port Gamble S'Klallam Tribe
+* Miguela Marzolf - Seattle Aquarium
+* Tisa Annette
+* Tuesday Laxton
+* Andrew Abrahamson
+* Katherine Staatz
+* 💵Brenda Campbell - [Snoqualmie Tribe](/org/snoqualmie_tribe/)
 
 #### 0 👎 - Con
 

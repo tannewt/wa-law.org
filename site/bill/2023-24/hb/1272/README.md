@@ -51,7 +51,7 @@ Testifying:
 * Sara Betnel - Washington State School Directors' Association (WSSDA)
 * Jim Stoffer - Jim Stoffer Concerned Citizen
 * 💵Michael Shaw - Washington State County Officials
-* Lori Larsen - Washington State Association of County Auditors
+* Lori Larsen - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
 #### 254 👎 - Con
 Testifying:

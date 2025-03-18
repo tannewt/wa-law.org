@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1796/</link>
 		<description>Updates about HB 1796</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 18:27:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,6 +111,45 @@
 			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-12/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>👍Jon Holmen - Lake Washington School District</title>
+			<description>Jon Holmen signed up to testify Pro. They are signed up to represent Lake Washington School District.</description>
+			<pubDate>Mon, 17 Mar 2025 02:54:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jon/Holmen/2025-03-17 02:54:50</guid>
+		</item>
+		<item>
+			<title>👍Lindsey Yocum - Lake Washington School District, Board of Directors</title>
+			<description>Lindsey Yocum signed up to testify Pro. They are signed up to represent Lake Washington School District, Board of Directors.</description>
+			<pubDate>Mon, 17 Mar 2025 02:56:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lindsey/Yocum/2025-03-17 02:56:13</guid>
+		</item>
+		<item>
+			<title>👍Martin Turney - Issaquah School District</title>
+			<description>Martin Turney signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/issaquah_school_district/"&gt;Issaquah School District&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Mar 2025 08:46:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Martin/Turney/2025-03-17 08:46:29</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Issaquah School District</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 17 Mar 2025 12:06:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-17 12:06:03</guid>
+		</item>
+		<item>
+			<title>Week 10: Senate Advances Special Education Bill - WSPTA</title>
+			<description>News article "Week 10: Senate Advances Special Education Bill - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 17 Mar 2025 18:27:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=HB%201796</guid>
 		</item>
 	</channel>
 </rss>

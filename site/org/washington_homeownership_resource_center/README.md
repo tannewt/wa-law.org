@@ -29,13 +29,13 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍2  
+## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍4  
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍2  
+### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍4  
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 

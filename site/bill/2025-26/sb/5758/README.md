@@ -17,7 +17,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 54 👎 - Con
+#### 428 👎 - Con
+Testifying:
+* Rolando Rodriguez - Green Roads - Social Equity Retailer
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

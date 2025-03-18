@@ -15,7 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165698&caId=26386&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165698&caId=26386&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Mackenzie Brewer - Olympia Orthopaedic Associates
+* Ben Shah - Olympia Orthopaedic Associates
+* Gregory Byrd - 7238 Huckleberry Rd NW
+* Darrin Trask - Olympia Orthopaedic Associates
 
 #### 0 👎 - Con
 

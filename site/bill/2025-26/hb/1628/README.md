@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165531&caId=26430&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165531&caId=26430&tId=4)
 
-#### 8 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Steve Brooks - Washington Fire Chiefs
+* Andrew Schaffran - Washington State Fire Fighters' Association
+* 💵Nicholas Gullickson - Washington State Council of Firefighters
 
 #### 0 👎 - Con
 

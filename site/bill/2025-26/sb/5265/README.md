@@ -19,7 +19,7 @@ Sign up to testify:
 Testifying:
 * Shree Thirunagari - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

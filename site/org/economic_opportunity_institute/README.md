@@ -11,7 +11,7 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
-### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍2  
+### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍3  
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1
 * ❓ Sam Hatzenbeler
@@ -20,7 +20,7 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍3  
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
@@ -38,7 +38,7 @@
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍4  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
@@ -54,7 +54,7 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
 
-### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
 
@@ -74,11 +74,11 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemptions 👍1  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemptions 👍2  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

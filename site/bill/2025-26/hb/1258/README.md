@@ -19,11 +19,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Alex Scott - Spokane City Administrator
+* James Tieken - AFSCME Local 270, Spokane City Employees
+* Julie O'Berg - Spokane Fire Department Chief
 
-#### 2 👎 - Con
+#### 61 👎 - Con
+Testifying:
+* Teresa Sanders
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Adam Wasserman - WA State 911 Coordinator/MIL Dept Emergency Management Division
 
 ### Thu 01/30 01:30 PM - Finance (FIN): HB 1258 Regional 911 funding
 #### 218 👍 - Pro

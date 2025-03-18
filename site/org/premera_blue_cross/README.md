@@ -12,6 +12,8 @@
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program  👎1 
 * 👎💵 Christine Brewer
 
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
+
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health  👎1 

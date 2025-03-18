@@ -20,7 +20,7 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Brenda Chilton - Washington State Association of County Auditors
+* Brenda Chilton - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5504 Open vehicle safety recalls
 #### 8 👍 - Pro
@@ -34,5 +34,5 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Thad Duvall - Washington State Association of County Auditors
+* Thad Duvall - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Beau Perschbacher - WA Dept. of Licensing

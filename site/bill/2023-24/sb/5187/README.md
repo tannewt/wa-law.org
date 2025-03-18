@@ -441,7 +441,7 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Alma Williams - North Cascades Institute
 * Chris Liu - No Child Left Inside Coalition
-* Betsy Robblee - The Mountaineers
+* Betsy Robblee - [The Mountaineers](/org/the_mountaineers/)
 * 💵Trevor Justin - Recreational Boating Assoc. of Washington
 * Dave Arbaugh - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
 * Kurt Hellmann - [Conservation Northwest](/org/conservation_northwest/)

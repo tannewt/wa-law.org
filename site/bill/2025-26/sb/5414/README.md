@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165643&caId=26536&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165643&caId=26536&tId=4)
 
-#### 112 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Scott Frank - Washington State Auditor
 * 💵Scott Nelson - Washington State Auditor
 
-#### 887 👎 - Con
+#### 1418 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

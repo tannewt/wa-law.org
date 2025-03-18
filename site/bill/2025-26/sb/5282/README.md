@@ -8,18 +8,13 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205282)
 * 02/03/2025 [The Center Square](/org/the_center_square/) - [Fake kids, real charges: Lawmakers push additional oversight for net nanny stings | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0b158f16-e27f-11ef-97c1-3beecc5b7c85.html#:~:text=Senate%20Bill%205282)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205282)
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5282 Missing children adv. board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165655&caId=26459&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165655&caId=26459&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165655&caId=26459&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165655&caId=26459&tId=4)
-
-#### 259 👍 - Pro
+#### 282 👍 - Pro
 Testifying:
 * Council Charlene Tillequots - Yakama Nation Tribal Council
 * Matthew Perry - Jewish Prisoner Services International

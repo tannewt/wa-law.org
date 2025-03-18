@@ -7,17 +7,19 @@
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
 
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍3  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍1  
 
@@ -42,13 +44,13 @@
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel  👎1 
 
@@ -86,11 +88,11 @@
 
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
-## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
 
 ## 2023-24
 
-### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍2  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

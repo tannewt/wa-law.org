@@ -23,16 +23,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165969&caId=26592&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165969&caId=26592&tId=4)
 
-#### 21 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Naira Gonzales Aranda
+* 💵Collin Bannister - The Washington Student Association
+* Jacob Vigdor - University of Washington Faculty
+* Meredith Massey
+* Rachael Medalia
 
-#### 244 👎 - Con
+#### 469 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Blair Daly - Washington Initiative for Boys and Men
+* Kristen Lewis - Family Law Professional
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5355 Higher education safety
 #### 126 👍 - Pro

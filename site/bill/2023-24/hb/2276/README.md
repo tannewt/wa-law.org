@@ -45,7 +45,7 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Peter Wolf
 * 💵Kristin Ang - Faith Action Network (FAN)
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Latrice Williams - Realtor
 * 💵Preston Parish
 * Robert Wardell

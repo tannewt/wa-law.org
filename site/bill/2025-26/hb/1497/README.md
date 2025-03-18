@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=2SHB%201497)
+
 ## Meetings
 ### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1497 Waste material management
 Sign up to testify:
@@ -16,16 +19,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165874&caId=26557&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165874&caId=26557&tId=4)
 
-#### 211 👍 - Pro
+#### 371 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Kate White Tudor - NRDC
+* Holly Yanai - Divert
+* 💵Nick Streuli - WRRA
+* Kate Kurtz - Seattle Public Utilities
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 298 👎 - Con
+#### 596 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Teresa Sanders
+* Anthony Holan
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jenna McInnis - [City of Kirkland](/org/city_of_kirkland/)
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1497 Waste material management
 #### 234 👍 - Pro

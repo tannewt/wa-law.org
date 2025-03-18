@@ -57,7 +57,8 @@
 
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
 
-### [SB 5158](/bill/2025-26/sb/5158/) - Student athlete insurance 👍1  
+### [SB 5158](/bill/2025-26/sb/5158/) - Student athlete insurance 👍2  
+* 👍 Joe Dacca
 * 👍 Joe Dacca
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1

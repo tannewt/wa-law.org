@@ -11,10 +11,10 @@
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 * 👍💵 Jake García
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 * 👍💵 Jake García
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
 ### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍1  
 
@@ -51,6 +51,8 @@
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 

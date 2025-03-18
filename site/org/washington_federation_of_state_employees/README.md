@@ -56,8 +56,9 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
 
-### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools  👎2 
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools  👎3 
 * 👎 Brittany Barber
+* 👎 Mike Yestramski
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎2 ❓1
 * 👎 Kati Durkin

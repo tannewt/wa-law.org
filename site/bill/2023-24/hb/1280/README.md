@@ -20,4 +20,4 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
-* Thad Duvall - Washington State Association of County Auditors
+* Thad Duvall - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)

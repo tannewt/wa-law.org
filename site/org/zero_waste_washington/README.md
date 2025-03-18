@@ -12,7 +12,8 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍4  
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍5  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -38,7 +39,8 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍2  
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
@@ -81,7 +83,7 @@
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules   ❓1
 * ❓💵 Heather Trim
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍2  
 * 👍 Moji Igun
@@ -101,10 +103,11 @@
 
 ### [SB 5556](/bill/2025-26/sb/5556/) - Adopt-a-highway program 👍1  
 
-### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1 👎1 
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍2 👎1 
 * 👎💵 Heather Trim
+* 👍💵 Heather Trim
 
-### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍3  
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍4  
 
 ## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎3 
 

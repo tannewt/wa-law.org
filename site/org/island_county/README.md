@@ -12,7 +12,7 @@
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 * 👍 Island County Commissione Jill Johnson
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 * 👍 Janet St Clair

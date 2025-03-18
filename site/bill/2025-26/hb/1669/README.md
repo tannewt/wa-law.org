@@ -22,7 +22,7 @@ Sign up to testify:
 Testifying:
 * Sherry Jennings PhD
 
-#### 0 👎 - Con
+#### 35 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -28,7 +28,9 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
+* 👍💵 Courtney Normand
+* 👍💵 Nicole Kern
 * 👍💵 Courtney Normand
 
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
@@ -51,7 +53,7 @@
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
 
-### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍2  
 
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
 
@@ -61,7 +63,11 @@
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
+### [HB 1718](/bill/2025-26/hb/1718/) - Health care prof. well-being 👍1  
+
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
+
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
@@ -77,6 +83,8 @@
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
+
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
@@ -124,7 +132,8 @@
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
-### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
+### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍2  
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  

@@ -21,7 +21,7 @@ Testifying:
 * Nancy Coleman-Chavez - Public Policy and Government Relations Manager, DailyPay
 * Zach Drucker - Public Affairs Specialist, Earnin
 * Phil Goldfeder - CEO at American Fintech Council
-* Robert Singleton - Senior Director of Policy & Public Affairs for California and the Western US at Chamber of Progress
+* 💵Robert Singleton - Senior Director of Policy & Public Affairs for California and the Western US at Chamber of Progress
 * Dayana Melgar
 * Brittany Davis - EWA User
 

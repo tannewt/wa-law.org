@@ -11,18 +11,12 @@
 
 ## Meetings
 ### Mon 03/17 04:00 PM - Appropriations (APP): SB 5109 Mortgage lending fraud acc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165788&caId=26448&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165788&caId=26448&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165788&caId=26448&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165788&caId=26448&tId=4)
-
-#### 6 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Hugo Torres - King County Prosecuting Attorney's Office
 * Patrick Hinds - King County Prosecuting Attorney's Office
 
-#### 531 👎 - Con
+#### 561 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Sandra Brock

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1784/</link>
 		<description>Updates about HB 1784</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 12:03:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-02-03/First reading, referred to Health Care &amp; Wellness (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
-			<title>👍MD, Darrin Trask - Public Disclosure Commission</title>
+			<title>👍MD, Darrin Trask - Olympia Orthopaedic Associates</title>
 			<description>MD, Darrin Trask signed up to testify Pro.</description>
 			<pubDate>Mon, 10 Feb 2025 01:17:59 GMT</pubDate>
 			<category>testifier</category>
@@ -119,6 +119,38 @@
 			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-07/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Mackenzie Brewer - Olympia Orthopaedic Associates</title>
+			<description>Mackenzie Brewer signed up to testify Pro. They are signed up to represent Olympia Orthopaedic Associates.</description>
+			<pubDate>Mon, 17 Mar 2025 10:02:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mackenzie/Brewer/2025-03-17 10:02:23</guid>
+		</item>
+		<item>
+			<title>👍Ben Shah - Olympia Orthopaedic Associates</title>
+			<description>Ben Shah signed up to testify Pro. They are signed up to represent Olympia Orthopaedic Associates.</description>
+			<pubDate>Mon, 17 Mar 2025 10:12:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Shah/2025-03-17 10:12:48</guid>
+		</item>
+		<item>
+			<title>👍Gregory Byrd - 7238 Huckleberry Rd NW</title>
+			<description>Gregory Byrd signed up to testify Pro. They are signed up to represent 7238 Huckleberry Rd NW.</description>
+			<pubDate>Mon, 17 Mar 2025 10:24:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gregory/Byrd/2025-03-17 10:24:47</guid>
+		</item>
+		<item>
+			<title>👍Darrin Trask - Olympia Orthopaedic Associates</title>
+			<description>Darrin Trask signed up to testify Pro. They are signed up to represent Olympia Orthopaedic Associates.</description>
+			<pubDate>Mon, 17 Mar 2025 12:03:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Darrin/Trask/2025-03-17 12:03:23</guid>
 		</item>
 	</channel>
 </rss>

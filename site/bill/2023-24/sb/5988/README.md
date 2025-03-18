@@ -14,7 +14,7 @@
 #### 852 👍 - Pro
 Testifying:
 * Dan Olmstead - Poverty Bay Coffee Company
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Michael Johnson
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Misha Werschkul - Washington State Budget and Policy Center
@@ -23,7 +23,7 @@ Testifying:
 * Tymmony Keegan
 * Micaela Romero - WashingtonCAN
 * Dan Olmstead - Poverty Bay Coffee Company
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Michael Johnson
 * Suresh Chanmugam - [Tech 4 Housing](/org/tech_4_housing/)
 

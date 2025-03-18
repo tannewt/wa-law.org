@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165859&caId=26377&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165859&caId=26377&tId=4)
 
-#### 6 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Amber Paulson - Kaleidoscope Preschool and Child Care Center
+* Fabiola Macedonio - ESD 105 Early Learning
+* 💵Katy Warren - WA St. Assn of Head Start and ECEAP
 
 #### 1 👎 - Con
 

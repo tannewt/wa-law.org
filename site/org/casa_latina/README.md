@@ -1,14 +1,18 @@
 # Casa Latina
 ## 2025-26
 
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+
 ### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍3  
 * 👍 Silvia Gonzalez
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
 

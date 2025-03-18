@@ -5,7 +5,7 @@
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
-### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
+### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
 * 👍 Jessica Helsley
 
 ## [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  

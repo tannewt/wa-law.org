@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165746&caId=26529&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165746&caId=26529&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Chris Mulick - Washington State University
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
 
-#### 246 👎 - Con
+#### 481 👎 - Con
 Testifying:
 * TaraLyn Fray
 

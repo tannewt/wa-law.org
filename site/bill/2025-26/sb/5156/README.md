@@ -14,22 +14,21 @@
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Housing (HOUS): SSB 5156 Elevators/smaller apartments
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=4)
-
-#### 56 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * michael eliason - larch lab
 * Stephen Smith - Center for Building in North America
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 28 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * Lindsay LaBrosse - Elevator Constructors Union Local 19
+* Michael Halpin - INTERNATIONAL UNION OF ELEVATOR CONSTRUCTORS
+* Tom McBride - National Elevator Industry, Inc.
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Tim Woodard - Washington Assn. of Building Officials
 
 ### Fri 01/17 10:30 AM - Housing (HSG): SB 5156 Elevators/smaller apartments
 #### 53 👍 - Pro

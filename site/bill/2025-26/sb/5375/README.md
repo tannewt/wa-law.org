@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SB%205375)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=Senate%20Bill%205375)
 * 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington Senate passes bill to make clergy mandatory reporters of child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/02/28/washington-senate-passes-bill-to-make-clergy-members-mandatory-reporters/#:~:text=Senate%20Bill%205375)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Bill to make clergy mandatory reporters of child abuse passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/28/bill-to-make-clergy-mandatory-reporters-of-child-abuse-passes-senate-2/#:~:text=Senate%20Bill%205375)

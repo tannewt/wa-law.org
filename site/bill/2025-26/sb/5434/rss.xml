@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5434/</link>
 		<description>Updates about SB 5434</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Mar 2025 15:02:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -208,6 +208,13 @@
 			<pubDate>Fri, 14 Mar 2025 15:02:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_3c4b0f94-010f-11f0-a793-73d96e1931d5.html#:~:text=Substitute%20Senate%20Bill%205434</guid>
+		</item>
+		<item>
+			<title>Senate Rules "X" file.</title>
+			<description>Senate Rules "X" file.</description>
+			<pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-17/Senate Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

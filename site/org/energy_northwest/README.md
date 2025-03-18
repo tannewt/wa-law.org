@@ -25,6 +25,8 @@
 ### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍1  
 * 👍 Richard Shaff
 
+### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
+
 ## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ## 2023-24

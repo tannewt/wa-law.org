@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1755/</link>
 		<description>Updates about HB 1755</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 08:56:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -74,6 +74,22 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-11/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Michael Chen MD - Harborview Medical Center Division of Cardiology</title>
+			<description>Michael Chen MD signed up to testify Pro. They are signed up to represent Harborview Medical Center Division of Cardiology.</description>
+			<pubDate>Tue, 18 Mar 2025 08:56:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Chen MD/2025-03-18 08:56:54</guid>
+		</item>
+		<item>
+			<title>👍Rashi Gupta - UW Medicine</title>
+			<description>Rashi Gupta signed up to testify Pro. They are signed up to represent UW Medicine.</description>
+			<pubDate>Tue, 18 Mar 2025 08:56:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rashi/Gupta/2025-03-18 08:56:54</guid>
 		</item>
 	</channel>
 </rss>

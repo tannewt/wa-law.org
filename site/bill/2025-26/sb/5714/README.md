@@ -21,9 +21,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165782&caId=26469&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165782&caId=26469&tId=4)
 
-#### 248 👍 - Pro
+#### 446 👍 - Pro
+Testifying:
+* Soumyo Lahiri-Gupta - OneAmerica
 
-#### 335 👎 - Con
+#### 582 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

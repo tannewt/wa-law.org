@@ -17,6 +17,8 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍2  
 * 👍 Tricia Bennon
 

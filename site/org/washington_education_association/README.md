@@ -374,7 +374,7 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White
 
-### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 👍1  
+### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 👍2  
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
 
@@ -417,7 +417,7 @@
 
 ### [SB 5235](/bill/2025-26/sb/5235/) - Public school statutes 👍1  
 
-### [SB 5240](/bill/2025-26/sb/5240/) - Anaphylaxis med. in schools   ❓1
+### [SB 5240](/bill/2025-26/sb/5240/) - Anaphylaxis med. in schools   ❓2
 
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
@@ -439,6 +439,8 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍3  
 
 ### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍2  
@@ -454,7 +456,7 @@
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
-### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍2  
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍3  
 
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
 

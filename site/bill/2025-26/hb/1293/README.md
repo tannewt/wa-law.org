@@ -21,10 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165875&caId=26558&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165875&caId=26558&tId=4)
 
-#### 18 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Amber Carter - [American Recyclable Plastic Bag Alliance](/org/american_recyclable_plastic_bag_alliance/)
+* Susan Vossler - Eastside Litterbusters
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
 #### 0 👎 - Con
 

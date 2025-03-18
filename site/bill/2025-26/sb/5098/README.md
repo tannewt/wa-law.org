@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=E2SSB%205098)
+* 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=E2SSB%205098)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205098)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205098)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205098)
@@ -39,17 +41,25 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5098 Weapons in certain areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=4)
-
-#### 475 👍 - Pro
+#### 1364 👍 - Pro
 Testifying:
+* Betty Taylor
+* Julia Berus
+* 💵Margaret Heldring - Grandmothers for Gun Responsibility
+* Ann Madsen
+* Erin Cizmas
+* Jason Magdalena
+* Anne Auguiste
+* Cora Breuner - WA Chapter of the American Academy of Pediatrics
+* Gwen Loosmore - WA PTA
+* Sarah Rumbaugh - [City of Tacoma](/org/city_of_tacoma/)
+* Abby Wu
+* April Schentrup
+* Jane Weiss
+* Odessa Paul
 * Sarah Rumbaugh - Council Member, City of Tacoma
 
-#### 2437 👎 - Con
+#### 3791 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Teodorin Morca
@@ -76,12 +86,40 @@ Testifying:
 * Andrew Balerud
 * Sandra Mochizuki
 * Ronald Mochizuki
+* Elizabeth Bienas
+* Matthew Turner
+* Russell Bachman
+* Jay Maisano
+* Bea Christophersen
+* Matthew Jackmond - A long time WA Resident and a very concerned voter!
+* Chris Carney
+* Teresa Sanders
+* Michael McKinley
 * Robert Smith
 * Wayne Schakel
 * Saundra Smith
+* Dan Cochran
+* Andrew Bunn
 * Anderson Kim
+* Dakota Manley - Washington State Young Republicans
+* Lisa Olson
+* Alberto Castillo
+* Paul Barker
+* Adrian Wyatt
+* 💵George Allen
+* 💵George Allen
+* Nicholas Wopat
+* Eric Courtemanche
+* Bailey Miller
+* Justin Gatewood
+* Shay Jones
+* Kristin Pappas-Buri
+* Mason Beauchamp
+* Steve King - 14908 240th st E
+* Alicia Jonas
+* Anthony Holan
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Cory Causey
 

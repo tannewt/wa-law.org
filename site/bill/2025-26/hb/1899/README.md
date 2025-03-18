@@ -18,13 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Catina M Clare - Community
 
 ### Thu 02/13 08:00 AM - Housing (HOUS): HB 1899 Homelessness point-in-time
 #### 7 👍 - Pro

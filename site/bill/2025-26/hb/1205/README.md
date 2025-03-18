@@ -24,5 +24,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * 💵Rose Feliciano - TechNet

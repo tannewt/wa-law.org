@@ -14,6 +14,8 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
 
+### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations  👎1 
+
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍2  

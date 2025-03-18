@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1445/</link>
 		<description>Updates about HB 1445</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 19:28:43 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 17:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 10 Feb 2025 19:28:43 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201445</guid>
+		</item>
+		<item>
+			<title>We Could Have Had Universal Healthcare - The Stranger</title>
+			<description>News article "We Could Have Had Universal Healthcare - The Stranger" from The Stranger.</description>
+			<pubDate>Mon, 17 Mar 2025 17:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thestranger.com/news/2025/03/17/79971060/we-could-have-had-universal-healthcare#:~:text=House%20Bill%201445</guid>
 		</item>
 	</channel>
 </rss>

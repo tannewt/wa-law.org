@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165960&caId=26611&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165960&caId=26611&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Shawn O'Neill - Washington State Health Care Authority
 

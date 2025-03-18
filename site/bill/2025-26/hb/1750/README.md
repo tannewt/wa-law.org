@@ -23,7 +23,7 @@ Testifying:
 
 #### 1990 👎 - Con
 Testifying:
-* 💵Michael Shaw - Washington State Association of County Auditors
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Kathleen Schweiger

@@ -14,7 +14,7 @@
 ### Tue 01/16 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5987 Gift certificates
 #### 775 👍 - Pro
 Testifying:
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Michael Johnson
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Misha Werschkul - Washington State Budget and Policy Center

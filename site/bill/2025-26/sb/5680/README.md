@@ -14,14 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165949&caId=26593&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165949&caId=26593&tId=4)
 
-#### 50 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * Marsha Cutting
+* Erin Musser - Disability Mobility initiative
+* Cheyne Clark
+* Matthew Clark
+* Elizabeth Gordon - Governor's Committee on Disability Issues and Employment
 * Jerral Rhoads - KC  Help (Knights Community Hospital Equipment Lend Program)
+* Erin Musser - Disability Mobility initiative
+* Andy Pedack
+* cecelia black - [Disability Rights Washington](/org/disability_rights_washington/)
+* Laura Macready - WashPIRG
+* Daniel Selby - 11239 Monarch Ridge Ave
+* Dave Carl
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Wayne Grau - National Coalition for Assistive and Rehab Technology
 
 ### Fri 02/14 10:30 AM - Environment, Energy & Technology (ENET): SB 5680 Mobility equipment repair
 #### 416 👍 - Pro

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=4)
 
-#### 166 👍 - Pro
+#### 231 👍 - Pro
 Testifying:
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
@@ -25,8 +25,18 @@ Testifying:
 * Julie Clark - Washington State Developmental Disabilities Council
 * Tracy Turner
 * 💵Corinna Fale
+* Eric Matthes
+* Tanika Aden
+* Robert Wardell
+* craig Sicilia
+* Jeanette Merkey
+* mike raymond - People First of Mason County
+* Jeanette Merkey - People First of Washington state
+* Elizabeth Johnston
+* John Lemus - AtWork!
+* Laura Ivanova Smith - Private citizen
 
-#### 118 👎 - Con
+#### 184 👎 - Con
 Testifying:
 * Brittany Barber - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Jeff Carter - Friends of Rainier
@@ -50,5 +60,14 @@ Testifying:
 * Bryan Marsh - Bonney Lake House
 * Joey Dormady
 * Leslie Moon
+* Julianne Moore
+* Gregory Cobb - Union Gap Police Department (Union Gap, WA)
+* Rusty Allphin
+* Sher Kirkpatrick
+* Brittany Barber - WA Federation of State Employees
+* Mike Yestramski - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Nicole Gomez - WA Federation of State Employees/Lobbyist
+* Willis McNabb - citizen
+* Diana Aresu
 
 #### 2 ❓ - Other

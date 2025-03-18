@@ -25,7 +25,11 @@
 
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
 
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement 👍2  ❓40
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍79  
 

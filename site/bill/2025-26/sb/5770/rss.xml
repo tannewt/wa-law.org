@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5770/</link>
 		<description>Updates about SB 5770</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 01:33:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -104,6 +104,13 @@
 			<pubDate>Wed, 05 Mar 2025 01:33:30 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5770</guid>
+		</item>
+		<item>
+			<title>Senate Rules "X" file.</title>
+			<description>Senate Rules "X" file.</description>
+			<pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-17/Senate Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

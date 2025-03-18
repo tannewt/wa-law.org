@@ -17,15 +17,11 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1686 Health care entity registry
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165694&caId=26382&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165694&caId=26382&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165694&caId=26382&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165694&caId=26382&tId=4)
-
-#### 201 👍 - Pro
+#### 266 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* Pam MacEwan - Purchasers Business Group on Health
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 0 👎 - Con
 

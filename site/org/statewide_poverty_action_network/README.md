@@ -14,7 +14,7 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 
@@ -84,7 +84,7 @@
 
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
 
-### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍3  
 

@@ -15,17 +15,15 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Commerce (LC): 2SHB 1162 Health care work violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165778&caId=26413&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165778&caId=26413&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165778&caId=26413&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165778&caId=26413&tId=4)
-
-#### 76 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * Josef Mansour - WA
+* Brad Rathke - Washington State Nurses Association
+* 💵Jessica Hauffe - Washington State Nurses Association
+* Maurya Robinson - Washington State Nurses Association
+* 💵Remy Kerr - Washington State Hospital Association
 
-#### 0 👎 - Con
+#### 32 👎 - Con
 
 #### 0 ❓ - Other
 

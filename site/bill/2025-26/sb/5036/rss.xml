@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5036/</link>
 		<description>Updates about SB 5036</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 16 Mar 2025 09:30:57 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 13:09:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -141,6 +141,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Todd/Myers/2025-03-16 09:30:57</guid>
+		</item>
+		<item>
+			<title>Washington Senate passes bill to speed up carbon emission data updates | Washington | thecentersquare.com</title>
+			<description>News article "Washington Senate passes bill to speed up carbon emission data updates | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 17 Mar 2025 13:09:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_9234e3c6-0358-11f0-83ee-03ad68a61e92.html#:~:text=Senate%20Bill%205036</guid>
 		</item>
 	</channel>
 </rss>

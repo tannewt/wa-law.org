@@ -16,7 +16,7 @@
 #### 195 👍 - Pro
 Testifying:
 * John Wilson - Office of Assessments/King County Assessor John Wilson
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * 💵Emily Vyhnanek - Washington State Budget and Policy Center
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 

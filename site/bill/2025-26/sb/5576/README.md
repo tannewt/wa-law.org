@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 03/18 08:00 AM - Finance (FIN): ESSB 5576 Affordable housing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=4)
-
-#### 21 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
 * Judy Lightfoot
@@ -29,9 +23,14 @@ Testifying:
 * Caitlin Sullivan
 * Councilmember Lindsey Schromen-Wawrin
 * Barbara Rossing - Faith Lutheran Church
+* Zeke Reister - resident of Leavenworth
 * Kurt Peterson
+* E John Agnew
+* 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
+* Sarah Dickmeyer - Plymouth Housing
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 89 👎 - Con
+#### 336 👎 - Con
 Testifying:
 * Richard Moser - Washington Hosts Collaborative Alliance
 * Allison Moser - Washington Hosts Collaborative Alliance
@@ -46,8 +45,39 @@ Testifying:
 * Steve Carr
 * Zaida Edmundson
 * Dushyant Khatri
+* Maria Neman
+* James McQuillan
+* Brett Faulds
+* Kevin Echols II
+* GARRETT SALLEE - 603 south jurupa st
+* Joseph Hunt
+* Teresa Sanders
+* Jordan Van Voast
+* Hamed Navid Samadi
+* Twin Thompson
+* YENS JIMENEZ STELLER
+* Suzy Oubre Loyd - Self Employeed
+* John Leaver
+* michelle boyle
+* Allison Decker
+* John Leaver
+* Cyndy Matthews - Gorge Sunland PM
+* Heather Cunningham
+* Rachael Ramirez
+* Leslie Hubbard
+* Colin Campbell
+* Donna Davis
+* Sean Lynn - Love Leavenworth Vacation Rentals
+* Owen Johnson - Northwestpads.com
+* Yuri Mamchur
+* Anneka Vossler
+* Warren Newton
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Yohannes Gedlu
+* Jeff Gundersen - CFO/COO, Seabrook Holding Company
+* 💵Troy Nichols - Seabrook Land Company LLC
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5576 Affordable housing funding
 #### 43 👍 - Pro

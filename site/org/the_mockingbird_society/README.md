@@ -5,7 +5,7 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍2  
 
-### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍1  
+### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍2  
 * 👍💵 Samuel Martin
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
@@ -57,6 +57,8 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
 * ❓💵 Samuel Martin
 * ❓💵 Charles Smith
+
+### [SB 5199](/bill/2025-26/sb/5199/) - Providing compensation to members of the department of children, youth, and families oversight board with direct lived experience. 👍1  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 

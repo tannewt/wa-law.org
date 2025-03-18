@@ -17,7 +17,7 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Misha Werschkul - Washington State Budget and Policy Center
 * Brenda Morgan - SEIU 775
-* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Michael Johnson
 * Suresh Chanmugam - [Tech 4 Housing](/org/tech_4_housing/)

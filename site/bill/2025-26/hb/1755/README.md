@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165703&caId=26390&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165703&caId=26390&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Michael Chen MD - Harborview Medical Center Division of Cardiology
+* Rashi Gupta - UW Medicine
 
 #### 0 👎 - Con
 

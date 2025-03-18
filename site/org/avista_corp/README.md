@@ -1,7 +1,7 @@
 # Avista Corp
 ## 2025-26
 
-### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
+### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍2  
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓2
 * ❓💵 John Rothlin
@@ -28,11 +28,14 @@
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  
 * 👍💵 John Rothlin
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓1
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓2
+* ❓💵 John Rothlin
 * ❓💵 John Rothlin
 
 ## [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  

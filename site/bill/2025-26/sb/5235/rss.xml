@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5235/</link>
 		<description>Updates about SB 5235</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 08 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 18:27:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,20 @@
 			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-08/First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>Week 10: Senate Advances Special Education Bill - WSPTA</title>
+			<description>News article "Week 10: Senate Advances Special Education Bill - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 17 Mar 2025 18:27:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESB%205235</guid>
 		</item>
 	</channel>
 </rss>

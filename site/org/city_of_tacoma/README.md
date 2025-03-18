@@ -53,7 +53,8 @@
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
+* 👍 Sarah Rumbaugh
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 

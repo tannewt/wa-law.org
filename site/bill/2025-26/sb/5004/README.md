@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESSB%205004)
 * 03/05/2025 [KING5](/org/king5/) - [Washington considers 'Alyssa’s Law' for heightened school security | king5.com](https://www.king5.com/article/news/local/mother-who-lost-daughter-school-shooting-wants-schools-upgrade-security/281-436bb972-fb82-4df5-aa65-388f0d0aca80#:~:text=Senate%20Bill%205004)
 * 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=ESSB%205004)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205004)

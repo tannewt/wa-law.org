@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165532&caId=26431&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165532&caId=26431&tId=4)
 
-#### 3 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Jake Dunthorn - IUOE Local 612
 
 #### 0 👎 - Con
 

@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165815&caId=26486&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165815&caId=26486&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * 💵Erica Hallock - School Nurse Organization of Washington (SNOW)
 * Liz Pray - School Nurse Organization of Washington (SNOW)

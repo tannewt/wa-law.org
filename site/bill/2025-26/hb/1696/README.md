@@ -24,16 +24,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=4)
 
-#### 182 👍 - Pro
+#### 286 👍 - Pro
 Testifying:
 * Tracy Brown
 * LaKeisha Davis - Habitat for Humanity Spokane
 
-#### 4249 👎 - Con
+#### 5543 👎 - Con
 Testifying:
 * Hailey Irvine
+* TaraLyn Fray
 
-#### 9 ❓ - Other
+#### 14 ❓ - Other
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1696 Covenant homeownership prg.
 #### 27 👍 - Pro

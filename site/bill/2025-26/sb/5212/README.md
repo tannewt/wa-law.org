@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=4)
 
-#### 14 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Bill Clarke - [Ag Water Board of Whatcom County](/org/ag_water_board_of_whatcom_county/)
 
 #### 0 👎 - Con
 

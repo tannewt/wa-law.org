@@ -11,7 +11,8 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 
-### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍4  
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍5  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍2  

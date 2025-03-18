@@ -119,4 +119,4 @@ Testifying:
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Anthony Mixer - Conservative Advocate
 * Judge Whitney Rivera - District & Municipal Court Judges' Association
-* Lori Larsen - Washington State Association of County Auditors
+* Lori Larsen - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)

@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165669&caId=26495&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165669&caId=26495&tId=4)
 
-#### 21 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
 #### 1 👎 - Con
 

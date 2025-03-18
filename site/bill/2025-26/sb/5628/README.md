@@ -16,13 +16,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165895&caId=26573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165895&caId=26573&tId=4)
 
-#### 15 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Reza Pedram
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Katie Fellows - Hazardous Waste Management Program of Seattle & King County
+* 💵Nick Federici - Toxics Free Future
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Charlie Brown - Assoc. of Home Appliance Manufacturers
+* 💵Jacob Cassady - Assoc. of Home Appliance Manufacturers
+* 💵Kevin Messner - Group SEB
+* dean Tryon - Wood Stone Corporation
+* 💵Katie Beeson - Washington Food Industry Association
+* 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
+* Kimberly Goetz - Department of Ecology
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5628 Lead in cookware
 #### 9 👍 - Pro

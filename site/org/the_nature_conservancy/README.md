@@ -59,6 +59,9 @@
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 
+### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
+* 👍 Scott Richards
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
 
@@ -83,7 +86,7 @@
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍2  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
 * 👍 Skippy Shaw

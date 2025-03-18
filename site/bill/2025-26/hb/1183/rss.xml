@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1183/</link>
 		<description>Updates about HB 1183</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 12:10:51 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 12:19:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -288,7 +288,7 @@
 			<guid isPermaLink="false">testifier/Julie/Blazek/2025-03-14 02:45:21</guid>
 		</item>
 		<item>
-			<title>👎Sandra Brock - Habitat for Humanity Seattle-King &amp; Kittitas Counties</title>
+			<title>👎Sandra Brock - Sightline Institute</title>
 			<description>Sandra Brock signed up to testify Con.</description>
 			<pubDate>Sat, 15 Mar 2025 08:04:35 GMT</pubDate>
 			<category>testifier</category>
@@ -296,7 +296,7 @@
 			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-15 08:04:35</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - Habitat for Humanity Seattle-King &amp; Kittitas Counties</title>
+			<title>👎Sandra Mochizuki - Sightline Institute</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Sat, 15 Mar 2025 12:38:40 GMT</pubDate>
 			<category>testifier</category>
@@ -304,7 +304,7 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-15 12:38:40</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Habitat for Humanity Seattle-King &amp; Kittitas Counties</title>
+			<title>👎TaraLyn Fray - Sightline Institute</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Sun, 16 Mar 2025 06:52:14 GMT</pubDate>
 			<category>testifier</category>
@@ -336,12 +336,36 @@
 			<guid isPermaLink="false">testifier/michael/eliason/2025-03-17 09:08:12</guid>
 		</item>
 		<item>
+			<title>👍Angela Rozmyn - Natural and Built Environments</title>
+			<description>Angela Rozmyn signed up to testify Pro. They are signed up to represent Natural and Built Environments.</description>
+			<pubDate>Mon, 17 Mar 2025 10:56:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angela/Rozmyn/2025-03-17 10:56:31</guid>
+		</item>
+		<item>
 			<title>👍💵Ryan Donohue - Habitat for Humanity Seattle-King &amp; Kittitas Counties</title>
 			<description>Ryan Donohue signed up to testify Pro. They are signed up to represent Habitat for Humanity Seattle-King &amp; Kittitas Counties. They are a registered lobbyist.</description>
 			<pubDate>Mon, 17 Mar 2025 12:10:51 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ryan/Donohue/2025-03-17 12:10:51</guid>
+		</item>
+		<item>
+			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Mar 2025 12:12:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-03-17 12:12:48</guid>
+		</item>
+		<item>
+			<title>👍💵Dan Bertolet - Sightline Institute</title>
+			<description>Dan Bertolet signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sightline_institute/"&gt;Sightline Institute&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Mar 2025 12:19:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Bertolet/2025-03-17 12:19:34</guid>
 		</item>
 	</channel>
 </rss>

@@ -65,7 +65,7 @@
 
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
 
-### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍2  
 
@@ -149,6 +149,8 @@
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
 ### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
+
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ## [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1587/</link>
 		<description>Updates about HB 1587</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 15 Mar 2025 07:57:54 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 18:27:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -202,6 +202,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-15 07:57:54</guid>
+		</item>
+		<item>
+			<title>Week 10: Senate Advances Special Education Bill - WSPTA</title>
+			<description>News article "Week 10: Senate Advances Special Education Bill - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 17 Mar 2025 18:27:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=2SHB%201587</guid>
 		</item>
 	</channel>
 </rss>

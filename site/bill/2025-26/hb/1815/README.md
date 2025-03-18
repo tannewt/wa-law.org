@@ -16,14 +16,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=4)
 
-#### 59 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Stacy Stanaway - Kids are Kids
 * Jessica Levin - Center for Civil Rights and Critical Justice
+* Elisa Cozad - TeamChild
+* Liz Mustin - Washington State Office of Public Defense
+* Ari McLaren-Simpson
+* Randy Roberson
+* Christen Ativalu-Ford
+* Bryan Hernandez-Rodriguez
+* Caya Lanay
+* Tatum Pickett
+* Amanda Vazquez
+* Faraji Blakeney - Yoga Behind Bars
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Grete Schultz - TeamChild
+* Rashida Robbins
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
-#### 3 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys

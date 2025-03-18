@@ -11,15 +11,21 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): SB 5463 Industrial insurance/duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165796&caId=26515&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165796&caId=26515&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165796&caId=26515&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165796&caId=26515&tId=4)
+#### 172 👍 - Pro
+Testifying:
+* Christina Bayaniyan - [Sheet Metal Workers Local 66](/org/sheet_metal_workers_local_66/)
+* Chris Shepard
+* April Frazier - SEIU Healthcare 1199NW
+* Brian Wright - Washington State Association for Justice
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Rondi Thorp - Washington State Association for Justice
 
-#### 70 👍 - Pro
-
-#### 73 👎 - Con
+#### 169 👎 - Con
+Testifying:
+* 💵Christine Brewer - Washington Self Insurers Association
+* Teresa Sanders
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* Anthony Holan
 
 #### 0 ❓ - Other
 

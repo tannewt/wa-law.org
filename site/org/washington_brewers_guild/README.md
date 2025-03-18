@@ -33,6 +33,9 @@
 * ❓💵 Daniel Olson
 * 👎💵 Daniel Olson
 
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+* 👍💵 Daniel Olson
+
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 * 👎💵 Daniel Olson
 

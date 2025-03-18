@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1232/</link>
 		<description>Updates about HB 1232</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 09:10:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -223,6 +223,54 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-11/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍💵Hannah Woerner - Columbia Legal Services</title>
+			<description>Hannah Woerner signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/columbia_legal_services/"&gt;Columbia Legal Services&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Mar 2025 05:01:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hannah/Woerner/2025-03-17 05:01:30</guid>
+		</item>
+		<item>
+			<title>👍Lesly Avila - Columbia Legal Services</title>
+			<description>Lesly Avila signed up to testify Pro.</description>
+			<pubDate>Mon, 17 Mar 2025 05:01:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lesly/Avila/2025-03-17 05:01:30</guid>
+		</item>
+		<item>
+			<title>👍Liliana Chumpitasi - La Resistencia</title>
+			<description>Liliana Chumpitasi signed up to testify Pro. They are signed up to represent La Resistencia.</description>
+			<pubDate>Mon, 17 Mar 2025 05:01:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Liliana/Chumpitasi/2025-03-17 05:01:30</guid>
+		</item>
+		<item>
+			<title>👍💵Paul Benz - Washington Partners for Social Change</title>
+			<description>Paul Benz signed up to testify Pro. They are signed up to represent Washington Partners for Social Change. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Mar 2025 05:01:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Benz/2025-03-17 05:01:30</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Washington State Catholic Conference</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 17 Mar 2025 12:34:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-17 12:34:39</guid>
+		</item>
+		<item>
+			<title>👍💵Jean Hill - Washington State Catholic Conference</title>
+			<description>Jean Hill signed up to testify Pro. They are signed up to represent Washington State Catholic Conference. They are a registered lobbyist.</description>
+			<pubDate>Tue, 18 Mar 2025 09:10:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jean/Hill/2025-03-18 09:10:56</guid>
 		</item>
 	</channel>
 </rss>

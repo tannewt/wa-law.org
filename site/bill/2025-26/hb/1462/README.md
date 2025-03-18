@@ -22,15 +22,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=4)
 
-#### 181 👍 - Pro
+#### 307 👍 - Pro
+Testifying:
+* Christina Starr - Environmental Investigation Agency
+* Cory Eckert - Alpine Ductless
+* Ruth Ivory-Moore - Hudson Technologies
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Kate White Tudor - Natural Resources Defense Council
+* Rebecca Robinson - PCC Markets
+* Beth Porter - Environmental Investigation Agency
 
-#### 323 👎 - Con
+#### 671 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * Ronald Mochizuki
+* Teresa Sanders
+* Blaine Meek - Washington Potato and Onion Association
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - WA ACCA
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1462 Hydrofluorocarbons
 #### 435 👍 - Pro

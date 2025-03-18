@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SB%205177)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205177)
 * 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to improve equity in educator training resources - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/10/senate-passes-nobles-bill-to-improve-equity-in-educator-training-resources/#:~:text=Senate%20Bill%205177)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205177)
@@ -23,20 +24,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=4)
 
-#### 397 👍 - Pro
+#### 536 👍 - Pro
 Testifying:
 * Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
 * Bryan-Virgil Raiz
 * Jenny Holmstrom
 
-#### 1149 👎 - Con
+#### 1661 👎 - Con
 Testifying:
 * Steven Sjolie
 * Sandra Mochizuki
 * Harolee Fairley
 * TaraLyn Fray
+* Teresa Sanders
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/23 10:30 AM - Early Learning & K-12 Education (EDU): SB 5177 Professional dev. resources
 #### 247 👍 - Pro

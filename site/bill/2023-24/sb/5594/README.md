@@ -11,7 +11,7 @@
 #### 25 👍 - Pro
 Testifying:
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Jeff Gombosky
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Brent Ludeman - Waymo
@@ -41,14 +41,14 @@ Testifying:
 ### Tue 02/07 04:00 PM - Transportation (TRAN): SB 5594 Fully autonomous vehicles
 #### 26 👍 - Pro
 Testifying:
-* Jamie Pascal - Chamber of Progress
+* Jamie Pascal - [Chamber of Progress](/org/chamber_of_progress/)
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
 * ryan spiller - Alliance for automotive innovation
 * Bruce Agnew - ACES NW Network
 * 💵Ashley Sutton - TechNet
 * Aidan Ali-Sullivan - Waymo
 * Paul Escobar - Zoox
-* Alain Xiong-Calmes - Chamber of Progress
+* Alain Xiong-Calmes - [Chamber of Progress](/org/chamber_of_progress/)
 * Jose Alvarado - Cruise
 * Katie Stevens - Coalition for Safe Autonomous Vehicles and Electrification (SAVE Coalition)
 

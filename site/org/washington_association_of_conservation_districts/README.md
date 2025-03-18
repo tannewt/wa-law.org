@@ -1,7 +1,7 @@
 # Washington Association of Conservation Districts
 ## 2025-26
 
-### [HB 1309](/bill/2025-26/hb/1309/) - Burrowing shrimp 👍1  
+### [HB 1309](/bill/2025-26/hb/1309/) - Burrowing shrimp 👍2  
 
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits 👍1  
 * 👍💵 Brynn Brady

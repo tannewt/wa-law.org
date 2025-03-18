@@ -13,11 +13,11 @@
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍2  
 * 👍💵 Erin Dziedzic
 
-## [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+## [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
 ## 2023-24
 
-### [SB 5480](/bill/2023-24/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2023-24/sb/5480/) - Medical debt 👍2  
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

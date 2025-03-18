@@ -17,7 +17,7 @@ Testifying:
 * Alaina Dahlquist - [National Safety Council](/org/national_safety_council/)
 * Alejandro Sanchez - Department of Licensing
 
-#### 89 👎 - Con
+#### 90 👎 - Con
 Testifying:
 * Sandra Brock
 

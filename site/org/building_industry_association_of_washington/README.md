@@ -73,12 +73,12 @@
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license   ❓1
 * ❓ Mike Ennis
 
-### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 * 👍💵 Brent Ludeman
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
 
-### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
+### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍2  
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval 👍1  
 * 👍💵 Andrea Smiley
@@ -98,7 +98,7 @@
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 
-### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities   ❓1
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  ❓1
 * ❓💵 Bill Stauffacher
 
 ### [HB 1626](/bill/2025-26/hb/1626/) - PFML grants/school districts  👎1 
@@ -114,7 +114,7 @@
 
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time  👎1 
 
-### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍1  
+### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍2  
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues  👎1 
 
@@ -156,12 +156,14 @@
 
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates 👍2  
 
-### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍2  
 * 👍💵 Andrea Smiley
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences  👎1 
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
+
+### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 
@@ -174,11 +176,12 @@
 ### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍4  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
-### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍2  
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
@@ -217,6 +220,8 @@
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
+
 ### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍1 👎2 
 * 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
@@ -225,7 +230,7 @@
 * 👎💵 Brent Ludeman
 * 👎💵 Andrea Smiley
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
 ### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
 
@@ -242,7 +247,8 @@
 * 👍💵 Andrea Smiley
 * 👍💵 Brent Ludeman
 
-### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍1  
+### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍3  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
@@ -252,7 +258,7 @@
 ### [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration  👎1 
 * 👎💵 Bill Stauffacher
 
-### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  ❓1
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  ❓1
 * ❓💵 Bill Stauffacher
 
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍1  
@@ -260,8 +266,9 @@
 
 ### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍2  
 
-### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍2  
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍3  
 * 👍💵 Bill Stauffacher
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
@@ -290,9 +297,11 @@
 
 ### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development 👍1  
 
-### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners 👍1  
+### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners 👍2  
+* 👍💵 Andrea Smiley
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍2  
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍4  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
 ### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA 👍2  

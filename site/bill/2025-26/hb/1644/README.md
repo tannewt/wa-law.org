@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Commerce (LC): ESHB 1644 Working minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165818&caId=26416&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165818&caId=26416&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165818&caId=26416&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165818&caId=26416&tId=4)
-
-#### 114 👍 - Pro
+#### 155 👍 - Pro
 Testifying:
 * April Sims - Washington State Labor Council, AFL-CIO
 * 💵Minna Long - Washington State Building & Construction Trades Council
@@ -33,9 +27,14 @@ Testifying:
 * Justin Bourgault - SMART Local 66
 * Mike Bridges - Longview/Kelso Building and Construction Trades Council
 
-#### 127 👎 - Con
+#### 259 👎 - Con
 Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Brandon Houskeeper - Southwest WA Contractors Association / Associated Builders & Contractors - Western WA
+* Anthony Holan
+* 💵Michele Willms - Associated General Contractors of Washington (AGC)
 
 #### 1 ❓ - Other
 

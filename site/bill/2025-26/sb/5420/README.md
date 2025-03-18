@@ -11,15 +11,10 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SB 5420 Veteran benefits access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165501&caId=26541&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165501&caId=26541&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165501&caId=26541&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165501&caId=26541&tId=4)
-
-#### 2 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * JAMES Derouin jr - self
+* Tammie Perreault - Department of Defense
 
 #### 1 👎 - Con
 

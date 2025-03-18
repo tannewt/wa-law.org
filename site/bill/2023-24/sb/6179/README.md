@@ -28,7 +28,7 @@ Testifying:
 Testifying:
 * Jessica Ng - CLEAR
 * Tyler Blackney - Amazon
-* Robert Singleton - Chamber of Progress
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Shannon Patch - Delaware North, concessions operator at Climate Pledge Arena
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * Shannon Patch - Delaware North, concessions operator at Climate Pledge Arena

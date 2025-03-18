@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1947/</link>
 		<description>Updates about HB 1947</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 09:05:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 09:43:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -119,6 +119,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Matt/Schanz/2025-03-17 09:05:04</guid>
+		</item>
+		<item>
+			<title>👍Christal Gillo - Northeast Tri County Health Dist</title>
+			<description>Christal Gillo signed up to testify Pro.</description>
+			<pubDate>Mon, 17 Mar 2025 09:43:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christal/Gillo/2025-03-17 09:43:19</guid>
 		</item>
 	</channel>
 </rss>
