@@ -20,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=4)
 
-#### 130 👍 - Pro
+#### 153 👍 - Pro
 
 #### 5 👎 - Con
 
-#### 12 ❓ - Other
+#### 13 ❓ - Other
 
 ### Wed 01/29 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1395 Home care worker background
 #### 196 👍 - Pro

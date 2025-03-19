@@ -20,14 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165947&caId=26603&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165947&caId=26603&tId=4)
 
-#### 228 👍 - Pro
+#### 327 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner member AMHO
 * Karen Ceurvorst
 * Lee Hepner - American Economic Liberties Project
 * Steve Sundstrom
+* Lisa Kent
+* Gloria Hazen - Private Citizen
 
-#### 41 👎 - Con
+#### 287 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 12:08:29 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 06:50:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -402,6 +402,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-17 12:08:29</guid>
+		</item>
+		<item>
+			<title>👎Kristi Winters - WSPA</title>
+			<description>Kristi Winters signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 03:50:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kristi/Winters/2025-03-18 03:50:59</guid>
+		</item>
+		<item>
+			<title>❓Joel Creswell - Washington State Department of Ecology</title>
+			<description>Joel Creswell signed up to testify Other. They are signed up to represent Washington State Department of Ecology.</description>
+			<pubDate>Tue, 18 Mar 2025 04:10:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joel/Creswell/2025-03-18 04:10:35</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - WSPA</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 05:13:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-18 05:13:22</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 18 Mar 2025 06:50:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-03-18 06:50:13</guid>
 		</item>
 	</channel>
 </rss>

@@ -13,28 +13,25 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1154 Solid waste handling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=4)
-
-#### 310 👍 - Pro
+#### 330 👍 - Pro
 Testifying:
 * Wendy Wickersham
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Nancy Lust - Friends of Rocky Top
+* 💵Scott Cave - Friends of Rocky Top
 
-#### 558 👎 - Con
+#### 571 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Anthony Holan
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Jaime Bodden - WSALPHO
 * 💵Nick Streuli - WRRA
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* Troy LAUTENBACH - Lautenbach Recycling
 
 ### Thu 02/13 04:00 PM - Appropriations (APP): SHB 1154 Solid waste handling
 #### 321 👍 - Pro

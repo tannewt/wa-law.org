@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - State Government & Elections (SGE): HB 1633 Public works/bidding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165532&caId=26431&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165532&caId=26431&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165532&caId=26431&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165532&caId=26431&tId=4)
-
-#### 15 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Jake Dunthorn - IUOE Local 612
 

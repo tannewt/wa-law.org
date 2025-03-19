@@ -102,7 +102,7 @@
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
-### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍2  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
@@ -223,8 +223,9 @@
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍3  
 * 👍 Jared Mason-Gere
 
-### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍3 👎1 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍4 👎1 
 * 👎💵 Lorrell Noahr
+* 👍💵 Lorrell Noahr
 * 👍💵 Lorrell Noahr
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
@@ -323,7 +324,8 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
+* 👍 Jared Mason-Gere
 * 👍 Jared Mason-Gere
 * 👍 Jared Mason-Gere
 
@@ -345,7 +347,7 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees. 👍1  
 
-### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍2  
+### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍3  
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍5  
 * 👍 Jared Mason-Gere
@@ -487,7 +489,7 @@
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
-### [SB 5414](/bill/2025-26/sb/5414/) - Social equity impact/audits 👍1  
+### [SB 5414](/bill/2025-26/sb/5414/) - Social equity impact/audits 👍2  
 
 ### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍1  
 
@@ -526,7 +528,7 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
-### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
+### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍2  
 
 ### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍1  
 

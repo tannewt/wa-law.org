@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=4)
 
-#### 451 👍 - Pro
+#### 503 👍 - Pro
 Testifying:
 * Donna Kristaponis - WACCRA
 * Kimberly HIckman - WACCRA
@@ -26,7 +26,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5691 Continuing care oversight
 #### 638 👍 - Pro

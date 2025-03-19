@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): SSB 5400 Local news journalism
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=4)
-
-#### 188 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * Dee Anne Finken - League of Women Voters of Washington
 * Keith Shipman - Washington State Association of Broadcasters
@@ -35,9 +29,12 @@ Testifying:
 * Mindie Reule - Community Foundation of South Puget Sound
 * ROBERT McCLURE - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * Carolyn Boatsman
+* Florangela Davila - [South Seattle Emerald](/org/south_seattle_emerald/)
 * Sharon Miracle - Yakima Valley Community Foundation and Washington Press Forward Chapter
+* Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
+* Teresa Wippel - My Neighborhood News Network
 
-#### 167 👎 - Con
+#### 189 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
 * 💵Kelly Fukai - WTIA

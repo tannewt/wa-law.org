@@ -11,6 +11,8 @@
 
 ### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍2  
 
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
 ## [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
 ## 2023-24

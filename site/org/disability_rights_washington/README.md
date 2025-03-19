@@ -36,6 +36,8 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
 ### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍2  
 
 ### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍2  
@@ -70,9 +72,10 @@
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 * 👍💵 Chloe Merino
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍1 👎2 
 * 👎💵 Rachael Seevers
 * 👎💵 Rachael Seevers
+* 👍💵 Rachael Seevers
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍2  
 * 👍💵 Chloe Merino

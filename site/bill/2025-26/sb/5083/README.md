@@ -25,11 +25,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=4)
 
-#### 165 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 51 👎 - Con
+#### 91 👎 - Con
+Testifying:
+* Elizabeth New - Washington Policy Center
+* Alex Town - Samaritan Healthcare
+* MD, Andrew Jones - [Confluence Health](/org/confluence_health/)
+* Ashley Thurow - Providence Swedish
+* Chris Bredeson - EvergreenHealth
+* Suzanne Daly - MultiCare
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Candy Hulse
+* Suzanne Beitel - Seattle Children's
 
 #### 0 ❓ - Other
 

@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Housing (HOUS): E2SSB 5686 Foreclosure mediation prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165516&caId=26511&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165516&caId=26511&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165516&caId=26511&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165516&caId=26511&tId=4)
-
-#### 103 👍 - Pro
+#### 140 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Steve Horvath - HOA United
@@ -28,13 +22,16 @@ Testifying:
 * Heidi Anderson - Attorney General's Office
 * 💵Paula Sardinas - FMSGS/WBBA
 * Inye Wokoma
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* Marc Coté - [Parkview Services](/org/parkview_services/)
+* Tom McKay - [Northwest Justice Project](/org/northwest_justice_project/)
 
-#### 62 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * Bennett Taylor - Washington State Community Association Institute
 * Teresa Sanders
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5686 Foreclosure mediation prg.
 #### 233 👍 - Pro

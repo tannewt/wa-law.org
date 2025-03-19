@@ -57,7 +57,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
 
-#### 2725 👍 - Pro
+#### 4533 👍 - Pro
 Testifying:
 * Makayla Pugmire
 * Kyle Matheson - Self advocate
@@ -87,8 +87,18 @@ Testifying:
 * Deborah Wilson
 * Caroline Hardy - Secretary AMHO and Leisure Manor Tenants Association
 * Kendra Rachal
+* Ellen torres
+* Marcos Munoz
+* Claudia Barrera Vasquez
+* Linda Burt - Laurel Park Manufactured Home Community
+* Leigh Christianson - Oly Rollers Mobile Home Resident Association
+* Deb Swope
+* William Dean - Retired
+* Vanessa Kritzer - Redmond City Council President
+* Jennifer Johnson
+* Lauren Moffat
 
-#### 2542 👎 - Con
+#### 3597 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
@@ -145,10 +155,25 @@ Testifying:
 * Jake Hanby
 * Tristen Mikelson
 * TaraLyn Fray
+* John Shanstrom
+* Jeff Brookes
+* Sean McNealley
+* Kristi Winters
+* johvin perry
+* Michael Kubacki - First Commercial Properties NW
+* Phil Baker
+* Jon Fox
+* Cathy Fox
+* Sandra Mochizuki
+* James Helms
 * Emilia Furmanczyk
 * Mike Nykreim
+* Susan Watkins
+* Emily Cain
+* Mischa Heide
+* Trina Homan
 
-#### 44 ❓ - Other
+#### 52 ❓ - Other
 Testifying:
 * David Toler - Olympia for All
 * Catina M Clare - Community

@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SB 5286 State hospitals/police costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165661&caId=26465&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165661&caId=26465&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165661&caId=26465&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165661&caId=26465&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Captain Chris Westby - [City of Lakewood](/org/city_of_lakewood/)
 * Sonny Weathers - [City of Medical Lake](/org/city_of_medical_lake/)
+* Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
+* Terri Cooper - Mayor, City of Medical Lake
 
 #### 0 👎 - Con
 

@@ -31,16 +31,16 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 * 👍💵 Sarah Nagy
 
 ### [HB 1229](/bill/2025-26/hb/1229/) - Persistent offenders 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍4  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍5  
 * 👍💵 Antonio Ginatta
 * 👍💵 Hannah Woerner
 
-### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍2  
+### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍3  
 * 👍💵 Hannah Woerner
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=4)
 
-#### 231 👍 - Pro
+#### 273 👍 - Pro
 Testifying:
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
@@ -35,8 +35,14 @@ Testifying:
 * Elizabeth Johnston
 * John Lemus - AtWork!
 * Laura Ivanova Smith - Private citizen
+* Katrina Boik
+* 💵Darla Helt - PEACE
+* Russell (Rusty) Allphin - Taxpayer in Ellensburg
+* Dennis Smiley
+* Resa Hayes
+* Melanie Baker - self advocate
 
-#### 184 👎 - Con
+#### 374 👎 - Con
 Testifying:
 * Brittany Barber - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Jeff Carter - Friends of Rainier
@@ -69,5 +75,15 @@ Testifying:
 * 💵Nicole Gomez - WA Federation of State Employees/Lobbyist
 * Willis McNabb - citizen
 * Diana Aresu
+* Tazia Duncan
+* Mckenna Reagan
+* Mary Jo Harrison
+* Mark Kirkpatrick
+* Shannon Patton
+* Karina Tharge
+* Micah Balasbas
+* Dustin Soptich - Selah PD
+* Roger Bell - City of Selah
+* Julianne Moore - Friends of Yakima Valley School
 
 #### 2 ❓ - Other

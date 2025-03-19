@@ -15,12 +15,14 @@
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
-## [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+## [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+* 👍 Adam LeMieux
 * 👍 Adam LeMieux
 
 ## 2023-24
 
-### [SB 5649](/bill/2023-24/sb/5649/) - Supply chain competitiveness 👍1  
+### [SB 5649](/bill/2023-24/sb/5649/) - Supply chain competitiveness 👍2  
+* 👍 Adam LeMieux
 * 👍 Adam LeMieux
 
 ### [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  

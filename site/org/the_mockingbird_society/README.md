@@ -15,7 +15,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Charles Smith
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
@@ -70,7 +70,7 @@
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍3  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 

@@ -15,24 +15,19 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5219 Partial confinement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165659&caId=26463&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165659&caId=26463&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165659&caId=26463&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165659&caId=26463&tId=4)
-
-#### 133 👍 - Pro
+#### 136 👍 - Pro
 Testifying:
 * Erin Lopez
 * April Provost - Washington Recovery Alliance
 * Carrie Stanley - Department of Corrections
 * Megan Pirie - Department of Corrections
 
-#### 159 👎 - Con
+#### 169 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Teresa Sanders
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
 #### 0 ❓ - Other
 

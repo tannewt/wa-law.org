@@ -43,7 +43,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=4)
 
-#### 780 👍 - Pro
+#### 1764 👍 - Pro
 Testifying:
 * Mary Templeton - [School Alliance](/org/school_alliance/)
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
@@ -61,12 +61,15 @@ Testifying:
 * Paree Raval
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Renee Schulz
+* Christian Rider
 * Ryan Arnold - East Valley School District
 * Rob Bryant - CFO - Federal Way Public Schools
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5263 Special education funding
 #### 3091 👍 - Pro

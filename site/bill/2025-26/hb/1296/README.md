@@ -54,7 +54,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=4)
 
-#### 622 👍 - Pro
+#### 847 👍 - Pro
 Testifying:
 * Emily Carmichael
 * Maggie Anderson
@@ -71,9 +71,14 @@ Testifying:
 * Tim Voie - WEA Chinook Council
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Madeline Brown
+* Tim Voie - WEA Chinook Council
+* Tyler Crone
 * Emma Kohl
+* Amasai Jeke - UTOPIA Washington
+* Amelia Fruzzetti
 
-#### 2023 👎 - Con
+#### 3007 👎 - Con
 Testifying:
 * Matthew Jackmond - A long time WA Resident and a very concerned voter!
 * laurielayne1@gmail.com Layne
@@ -90,7 +95,16 @@ Testifying:
 * Amanda McKinney - Yakima County Commissioner
 * Eric Lundberg
 * JENNIFER KILLMAN
+* Jennifer Heine-Withee
+* Christine McShurley
+* Ronda Litzenberger - Eatonville School Board
+* Sandra Mochizuki
 * Elizabeth New - Washington Policy Center
+* Mandi George
+* TaraLyn Fray
+* Anna Burt
+* Gabriel Jacobs
+* Gabriel Jacobs
 
 #### 0 ❓ - Other
 

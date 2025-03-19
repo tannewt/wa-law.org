@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5219/</link>
 		<description>Updates about SB 5219</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 11:10:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 01:12:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -194,6 +194,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Megan/Pirie/2025-03-17 11:10:53</guid>
+		</item>
+		<item>
+			<title>👎💵Anne Anderson - Washington State Narcotics Investigators Association</title>
+			<description>Anne Anderson signed up to testify Con. They are signed up to represent Washington State Narcotics Investigators Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 18 Mar 2025 01:12:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anne/Anderson/2025-03-18 01:12:49</guid>
 		</item>
 	</channel>
 </rss>

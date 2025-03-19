@@ -12,15 +12,19 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
+
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
-## [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍2  
+### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍2  
+
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
 ## 2023-24
 
-### [SB 5514](/bill/2023-24/sb/5514/) - Clean buildings standard 👍2  
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 

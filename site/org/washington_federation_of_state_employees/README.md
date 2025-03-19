@@ -113,7 +113,8 @@
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍3  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
+* 👍💵 Nicole Gomez
 * 👍💵 Nicole Gomez
 * 👍💵 Nicole Gomez
 

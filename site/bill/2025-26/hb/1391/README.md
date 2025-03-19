@@ -19,12 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165725&caId=26406&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165725&caId=26406&tId=4)
 
-#### 39 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Joshua Wheeldon - TeamChild youth Advisary Baord
+* Hayden Quillen
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* 💵Radu Smintina - School's Out Washington
+* Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 1 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other
 

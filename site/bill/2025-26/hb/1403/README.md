@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=4)
 
-#### 133 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Mike Nykreim - Newport West LLC
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -27,7 +27,7 @@ Testifying:
 * Dave Hamilton - Councilmember, City of Bellevue
 * 💵Bill Clarke - WA REALTORS
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Steve Horvath - HOA United
 

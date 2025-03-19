@@ -23,12 +23,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165676&caId=26499&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165676&caId=26499&tId=4)
 
-#### 82 👍 - Pro
+#### 100 👍 - Pro
+Testifying:
+* 💵Zosia Stanley - Washington State Hospital Association
+* Lacy Fehrenbach - Washington State Department of Health
+* Dr. Shannon Bailey - American College of Obstetricians and Gynecologists
 
-#### 556 👎 - Con
+#### 762 👎 - Con
 Testifying:
 * Theresa Schrempp - theresaschrempp922@gmail.com
 * TaraLyn Fray
+* Kristi Winters
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

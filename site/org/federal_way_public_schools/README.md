@@ -7,11 +7,11 @@
 * 👍 Rob Bryant
 * 👍 Charlie Brown
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍4  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍5  
 * 👍 Rob Bryant
 * 👍 Charlie Brown
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
 * 👍 Rob Bryant
 * 👍 Charlie Brown
 

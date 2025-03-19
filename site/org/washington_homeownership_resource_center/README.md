@@ -11,7 +11,8 @@
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
-### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍3  
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍4  
+* 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
@@ -29,13 +30,15 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍4  
+## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍5  
+* 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍4  
+### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍5  
+* 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 

@@ -15,7 +15,7 @@
 
 ### [HB 1105](/bill/2025-26/hb/1105/) - DOC employee bargaining 👍1  
 
-### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 
 ### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
 
@@ -41,7 +41,7 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
@@ -74,15 +74,21 @@
 
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍2  
 
+### [HB 1291](/bill/2025-26/hb/1291/) - Maternity services costs 👍1  
+
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
 ### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
-### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍2  
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍3  
 
 ### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding 👍1  
 
 ### [HB 1363](/bill/2025-26/hb/1363/) - Child care licensing  👎1 
+
+### [HB 1395](/bill/2025-26/hb/1395/) - Home care worker background 👍1  
 
 ### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
 
@@ -90,15 +96,19 @@
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
 
+### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
+
 ### [HB 1453](/bill/2025-26/hb/1453/) - Scrap metal/stolen copper 👍1  
 
 ### [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies  👎1 
+
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools  👎1 
 
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍1  
 
 ### [HB 1476](/bill/2025-26/hb/1476/) - Nursing home rate rebase  👎2 
 
-### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍1  
+### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍2  
 
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
@@ -122,7 +132,7 @@
 
 ### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
 
-### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍1  
+### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍2  
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍4  
 
@@ -142,7 +152,7 @@
 
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors 👍1  
 
-### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍1 👎1 
 
 ### [HB 1668](/bill/2025-26/hb/1668/) - Community custody 👍3  
 
@@ -171,6 +181,8 @@
 ### [HB 1783](/bill/2025-26/hb/1783/) - Law enf. officers/colleges  👎1 
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍3  
+
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
 
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
 
@@ -216,7 +228,7 @@
 
 ### [HB 1927](/bill/2025-26/hb/1927/) - Rent payment reporting 👍1  
 
-### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
+### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍2  
 
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
 
@@ -246,13 +258,13 @@
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
-### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍2  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
@@ -282,7 +294,7 @@
 
 ### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎1 
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
 ### [SB 5283](/bill/2025-26/sb/5283/) - Prohibiting the energy facility site evaluation council from preempting local laws that forbid the siting of certain storage facilities in critical areas.  👎1 
 
@@ -312,7 +324,7 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
 
-### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
+### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎2 
 
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates 👍1  
 
@@ -344,7 +356,7 @@
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍2  
 
-### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍2  
 
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍2  
 
@@ -366,7 +378,7 @@
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍2  
 
-### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
+### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍2  
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 
@@ -388,7 +400,7 @@
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
-### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
 
 ### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍2  
 
@@ -400,7 +412,7 @@
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍2  
 
-### [SB 5716](/bill/2025-26/sb/5716/) - Transit conduct/ferries 👍1  
+### [SB 5716](/bill/2025-26/sb/5716/) - Transit conduct/ferries 👍2  
 
 ### [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍2  
 

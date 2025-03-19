@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): EHB 1329 Wholesale power purchases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165876&caId=26559&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165876&caId=26559&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165876&caId=26559&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165876&caId=26559&tId=4)
-
-#### 25 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Steve Taylor - Cowlitz Cnty Public Utility District No. 1
 * Stefanie Johnson - Seattle City Light
@@ -22,8 +16,9 @@ Testifying:
 * 💵Bill Clarke - Grant County PUD
 * Ian Hunter - Snohomish County Public Utility District #1
 * Mary Wiencke - [Public Generating Pool](/org/public_generating_pool/)
+* Lauren McCloy - NW Energy Coalition
 
-#### 528 👎 - Con
+#### 538 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Ronald Mochizuki

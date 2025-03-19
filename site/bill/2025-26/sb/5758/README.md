@@ -15,12 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165950&caId=26594&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165950&caId=26594&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 
-#### 428 👎 - Con
+#### 597 👎 - Con
 Testifying:
 * Rolando Rodriguez - Green Roads - Social Equity Retailer
 * TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

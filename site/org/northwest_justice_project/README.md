@@ -28,8 +28,9 @@
 * 👍 Julia Kellison
 * 👍 Julia Kellison
 
-### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍3  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍4  
 * 👍 Tareva Marshall
+* 👍 Tom McKay
 
 ## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 * 👎 Christopher Brunetti

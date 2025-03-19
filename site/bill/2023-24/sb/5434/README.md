@@ -17,7 +17,7 @@ Testifying:
 * 💵Roxana Gomez - ACLU of Washington
 * Alexandra Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Divya Natarajan - Washington Chapter of the American Academy of Pediatrics
-* Dominique Davis - Community Passageways
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * Julissa Sanchez - Choose 180
 * Alexandra Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 

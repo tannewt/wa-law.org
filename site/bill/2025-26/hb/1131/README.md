@@ -14,18 +14,13 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Human Services (HS): E2SHB 1131 Clemency and pardons
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165722&caId=26403&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165722&caId=26403&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165722&caId=26403&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165722&caId=26403&tId=4)
-
-#### 210 👍 - Pro
+#### 225 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - Political Director, Washington Community Action Network
 * Barbara Serrano - Former Senior Policy Advisor to Former Gov. Jay Inslee
+* Cindy Arends Elsberry - [Washington Defender Association](/org/washington_defender_association/)
 
-#### 634 👎 - Con
+#### 663 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Sandra Mochizuki

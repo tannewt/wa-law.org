@@ -24,7 +24,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 ### Tue 02/11 01:30 PM - Health Care & Wellness (HCW): HB 1784 Certified medical assistants
 #### 5 👍 - Pro

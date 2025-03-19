@@ -15,17 +15,11 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Consumer Protection & Business (CPB): SSB 5714 Bail bond agents/immigration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165782&caId=26469&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165782&caId=26469&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165782&caId=26469&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165782&caId=26469&tId=4)
-
-#### 446 👍 - Pro
+#### 475 👍 - Pro
 Testifying:
 * Soumyo Lahiri-Gupta - OneAmerica
 
-#### 582 👎 - Con
+#### 601 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

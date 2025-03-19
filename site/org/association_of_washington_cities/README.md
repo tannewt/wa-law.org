@@ -372,7 +372,8 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 
-### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
@@ -431,7 +432,7 @@
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
 * 👎💵 Carl Schroeder
 
-### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
+### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 ❓1
 * 👎💵 Kelsey Hulse
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1

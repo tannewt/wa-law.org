@@ -58,7 +58,7 @@
 ### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA  👎1 
 * 👎💵 Bryce Yadon
 
-### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍2  
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍3  
 
 ### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
 * 👍💵 Bryce Yadon

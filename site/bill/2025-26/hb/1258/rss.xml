@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1258/</link>
 		<description>Updates about HB 1258</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 11:14:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 11:38:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -299,6 +299,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Julie/O'Berg/2025-03-17 11:14:16</guid>
+		</item>
+		<item>
+			<title>❓Steve Ewing - Dept. of Revenue</title>
+			<description>Steve Ewing signed up to testify Other. They are signed up to represent Dept. of Revenue.</description>
+			<pubDate>Tue, 18 Mar 2025 01:32:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Steve/Ewing/2025-03-18 01:32:18</guid>
+		</item>
+		<item>
+			<title>👎Jason Fritz - APCO-NENA</title>
+			<description>Jason Fritz signed up to testify Con. They are signed up to represent APCO-NENA.</description>
+			<pubDate>Tue, 18 Mar 2025 10:27:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jason/Fritz/2025-03-18 10:27:31</guid>
+		</item>
+		<item>
+			<title>👎Katy Myers - State 911 Advisory Committee</title>
+			<description>Katy Myers signed up to testify Con. They are signed up to represent State 911 Advisory Committee.</description>
+			<pubDate>Tue, 18 Mar 2025 10:27:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Katy/Myers/2025-03-18 10:27:31</guid>
+		</item>
+		<item>
+			<title>👎Frank Soto Jr - Spokane Valley Fire Department</title>
+			<description>Frank Soto Jr signed up to testify Con. They are signed up to represent Spokane Valley Fire Department.</description>
+			<pubDate>Tue, 18 Mar 2025 11:38:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Frank/Soto Jr/2025-03-18 11:38:59</guid>
 		</item>
 	</channel>
 </rss>

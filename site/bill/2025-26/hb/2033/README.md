@@ -17,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33018&aId=165506&caId=26494&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33018&aId=165506&caId=26494&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 10 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Thomas Eshleman - Doyles Sheehan
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)

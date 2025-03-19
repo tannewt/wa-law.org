@@ -19,16 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165878&caId=26561&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165878&caId=26561&tId=4)
 
-#### 14 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Jessica Spiegel - WSPA
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 446 👎 - Con
+#### 584 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joel Creswell - Washington State Department of Ecology
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1975 Climate commitment act
 #### 95 👍 - Pro

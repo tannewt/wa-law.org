@@ -175,11 +175,13 @@
 ### [SB 5605](/bill/2025-26/sb/5605/) - Microenterprise home kitchen  👎1 
 * 👎💵 Samantha Louderback
 
-## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  ❓1
+* ❓💵 Samantha Louderback
 
 ## 2023-24
 
-### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  
+### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  ❓1
+* ❓💵 Samantha Louderback
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

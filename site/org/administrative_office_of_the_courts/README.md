@@ -17,7 +17,8 @@
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
+* 👍 Haily Perkins
 
 ### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍2  
 * 👍 Scott Ahlf

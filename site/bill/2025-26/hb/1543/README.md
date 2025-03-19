@@ -18,17 +18,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=4)
 
-#### 28 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Jason Morse - [Issaquah School District](/org/issaquah_school_district/)
 * Martin Turney - Puget Sound Schools Coalition
+* Rae-Lynn Barden - Downtown Spokane Partnership
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Mitch Denning - Alliance of Educational Associations
+* Travis Bown - WA Association of Maintenance and Operation Administrators
+* Emily Salzberg - WA State
 
-#### 13 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* Peter Hasegawa - 19802 62nd Ave S #105
+* 💵Zachary Snyder - IBEW LOCAL 46
+* Roderick Jefferson - IBEW Local 46
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Suzie Hanson - Washington Federation of Independent Schools
 * 💵Amber Carter - Port of Vancouver USA
+* 💵Matthew Ellsworth - [Association of Washington Public Hospital Districts](/org/association_of_washington_public_hospital_districts/)
+* Kerry Meade - Building Potential
 
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1543 Clean buildings standard
 #### 18 👍 - Pro

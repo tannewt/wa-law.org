@@ -10,19 +10,13 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): ESHB 1210 Urban area tax preferences
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=4)
-
-#### 92 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Rael Candelaria - Framatome
 * 💵Seth Worley - Government Affairs Director, United Association of Plumbers & Steamfitters Local 598
 
-#### 288 👎 - Con
+#### 310 👎 - Con
 Testifying:
 * 💵Suellen Mele - 350 Washington Civic Action Team
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)

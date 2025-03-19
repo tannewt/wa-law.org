@@ -16,10 +16,11 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5017 Uniformed & overseas voting
-#### 223 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * Linda Farmer - WSACA Legislative Co Chair
 * Alyssa Barba - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Stuart Holmes - Office of Secretary of State, Director of Elections
 
 #### 742 👎 - Con
 Testifying:

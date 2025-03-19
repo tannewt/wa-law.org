@@ -23,22 +23,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=4)
 
-#### 261 👍 - Pro
+#### 331 👍 - Pro
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * 💵Leah Missik
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 
-#### 499 👎 - Con
+#### 744 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Jessica Spiegel - WSPA
 * TaraLyn Fray
+* Kristi Winters
+* Sandra Mochizuki
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Todd Myers - Washington Policy Center
+* Joel Creswell - Washington State Department of Ecology
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1409 Clean fuels program
 #### 26 👍 - Pro

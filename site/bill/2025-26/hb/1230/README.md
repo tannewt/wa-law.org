@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165688&caId=26371&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165688&caId=26371&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
 #### 0 👎 - Con
 

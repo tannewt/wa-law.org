@@ -23,11 +23,13 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍5  
+* 👍 Patrick Murphy
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍5  ❓1
+* 👍 Patrick Murphy
 * 👍 Patrick Murphy
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  

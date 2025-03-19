@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=4)
 
-#### 106 👍 - Pro
+#### 136 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Stacy Stanaway - Kids are Kids
@@ -34,12 +34,15 @@ Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Grete Schultz - TeamChild
 * Rashida Robbins
+* Amity Bjork - Wacdl/wda
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Alexandra Narvaez - Partnership Council on Juvenile Justice
 
-#### 11 👎 - Con
+#### 74 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Kristi Winters
 
 #### 1 ❓ - Other
 Testifying:

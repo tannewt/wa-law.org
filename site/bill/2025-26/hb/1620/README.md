@@ -55,7 +55,7 @@ Testifying:
 * Julie Nee
 * Karah Dickson - Domestic Abuse Victim
 
-#### 644 👎 - Con
+#### 645 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Jim Clark - National Parents Organization
@@ -76,6 +76,7 @@ Testifying:
 * Sally Winn - YWCA Spokane
 * Dawn Sydney
 * Debbie Gonzalez - New Hope
+* Debbie Gonzalez Long - New Hope
 * Bogdan Lendel
 * Ilie Lupan
 * Kyle Spencer

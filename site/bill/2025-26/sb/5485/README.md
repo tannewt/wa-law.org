@@ -8,7 +8,9 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Agriculture and Natural Resources (AGNR): SB 5485 Livestock identification
-#### 9 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 
 #### 0 👎 - Con
 

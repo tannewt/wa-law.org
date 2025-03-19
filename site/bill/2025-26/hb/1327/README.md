@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165843&caId=26373&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165843&caId=26373&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Amanda Benton - Washington Horse Racing Commission
 * Douglas Moore - Washington Horse Racing Commission

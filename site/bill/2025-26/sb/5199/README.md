@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5199 DCYF oversight board comp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165537&caId=26472&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165537&caId=26472&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165537&caId=26472&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165537&caId=26472&tId=4)
-
-#### 17 👍 - Pro
+#### 22 👍 - Pro
 
 #### 1 👎 - Con
 

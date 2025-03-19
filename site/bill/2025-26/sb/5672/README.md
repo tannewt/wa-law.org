@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165677&caId=26500&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165677&caId=26500&tId=4)
 
-#### 11 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Allison Lally - Brookdale Senior Living
+* 💵Courtney Williams - Director of Government Affairs and Advocacy for The Adult Family Home Council
+* Lauri St Ours - WHCA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/18 10:30 AM - Health & Long Term Care (HLTC): SB 5672 Home care aide certification
 #### 57 👍 - Pro

@@ -39,7 +39,8 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 

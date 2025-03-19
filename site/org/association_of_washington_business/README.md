@@ -105,7 +105,7 @@
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Peter Godlewski
 
-### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences   ❓1
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences  👎1 ❓1
 * ❓ Max Martin
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
@@ -165,7 +165,8 @@
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎2 
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎2 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎3 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
@@ -202,7 +203,8 @@
 
 ### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
 
-### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎3 
@@ -348,7 +350,8 @@
 
 ### [HB 1970](/bill/2025-26/hb/1970/) - Highway alt. contracting 👍1  
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍2  
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍3  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
@@ -586,6 +589,8 @@
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.  👎1 
 * 👎💵 Morgan Irwin
+
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets  👎2 
 * 👎💵 Morgan Irwin

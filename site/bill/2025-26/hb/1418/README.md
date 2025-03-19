@@ -20,14 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=4)
 
-#### 15 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Erik Lowe - Spokane Reimagined
 * CONSTANCE OHANA - PFLAG Bellingham/Whatcom County
 * Clark Gilman - Former chair, Intercity Transit Authority
 
-#### 46 👎 - Con
+#### 305 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -37,7 +37,8 @@
 ### [SB 5482](/bill/2025-26/sb/5482/) - Use of dogs to hunt  👎2 
 * 👎💵 Mark Streuli
 
-### [SB 5485](/bill/2025-26/sb/5485/) - Livestock identification 👍1  
+### [SB 5485](/bill/2025-26/sb/5485/) - Livestock identification 👍2  
+* 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
 
 ## [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation 👍2  

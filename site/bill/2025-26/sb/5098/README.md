@@ -41,7 +41,7 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5098 Weapons in certain areas
-#### 1364 👍 - Pro
+#### 1366 👍 - Pro
 Testifying:
 * Betty Taylor
 * Julia Berus
@@ -59,7 +59,7 @@ Testifying:
 * Odessa Paul
 * Sarah Rumbaugh - Council Member, City of Tacoma
 
-#### 3791 👎 - Con
+#### 3792 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Teodorin Morca

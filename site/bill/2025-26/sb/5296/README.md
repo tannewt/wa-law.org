@@ -21,21 +21,20 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): E2SSB 5296 Juvenile offenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=4)
-
-#### 80 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Katie Hurley - King County Department of Public Defense
 * Dana Kaplan - National Institute for Criminal Justice Reform
 * Rashida Robbins
 * 💵Karen Pillar - TeamChild
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Tysen Shaw
+* Liz Trautman - Stand for Children Washington
+* 💵Sandra Toussaint - ACLU Washington
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 
-#### 605 👎 - Con
+#### 626 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * JAMES Derouin jr
@@ -45,9 +44,10 @@ Testifying:
 * Teresa Sanders
 * LaDon Linde - Yakima County Commissioner
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Judge Cindy Larsen - Superior Court Judges' Association
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5296 Juvenile offenses
 #### 25 👍 - Pro
@@ -71,7 +71,7 @@ Testifying:
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Emily Justin
-* Dominique Davis - Community Passageways
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * 💵Karen Pillar - TeamChild
 * Dr. Eric Trupin
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission

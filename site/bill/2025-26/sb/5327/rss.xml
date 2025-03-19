@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5327/</link>
 		<description>Updates about SB 5327</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 18:27:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 12:21:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,7 +84,7 @@
 			<guid isPermaLink="false">2025-02-12/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - State Board of Education</title>
+			<title>👎John Axtell - Pearson</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Sun, 23 Feb 2025 08:37:55 GMT</pubDate>
 			<category>testifier</category>
@@ -170,6 +170,14 @@
 			<pubDate>Mon, 17 Mar 2025 18:27:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205327</guid>
+		</item>
+		<item>
+			<title>👍Nora Palattao Burnes - Pearson</title>
+			<description>Nora Palattao Burnes signed up to testify Pro. They are signed up to represent Pearson.</description>
+			<pubDate>Tue, 18 Mar 2025 12:21:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nora/Palattao Burnes/2025-03-18 12:21:03</guid>
 		</item>
 	</channel>
 </rss>

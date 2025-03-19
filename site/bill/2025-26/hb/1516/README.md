@@ -16,15 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=4)
 
-#### 70 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* Brady Nordstrom - Housing Development Consortium
 * 💵Bill Clarke - WA REALTORS
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 401 👎 - Con
+#### 544 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Kristi Winters
+* Sandra Mochizuki
 
 #### 2 ❓ - Other
 

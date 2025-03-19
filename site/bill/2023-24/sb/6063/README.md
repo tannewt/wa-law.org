@@ -20,7 +20,7 @@ Testifying:
 * Raymond Williams
 * Kari Reardon - WDA/WACDL
 * Anita Khandelwal - King County Department of Public Defense
-* Dominique Davis - Community Passageways
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * Raymond Williams
 
 #### 12 👎 - Con

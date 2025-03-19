@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=4)
 
-#### 17 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Bill Clarke - [Ag Water Board of Whatcom County](/org/ag_water_board_of_whatcom_county/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ria Berns - Washington State Department of Ecology
 
 ### Fri 03/14 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5212 Water adjudication in WRIA 1
 #### 0 👍 - Pro

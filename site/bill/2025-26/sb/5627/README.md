@@ -13,22 +13,17 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Environment & Energy (ENVI): ESSB 5627 Safe excavation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=4)
-
-#### 51 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 * Kemp Garcia - Dig Law Advocates / National Utility Contractors Association
 * Jon Cornelius - Dig Law Advocates
 * Nick Massie - Rotschy Inc
+* 💵Jason Hudson - IBEW Local 77
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Josie Cummings - Avista
 * 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative

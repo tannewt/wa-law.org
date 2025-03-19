@@ -27,7 +27,7 @@ Testifying:
 ### Fri 01/19 08:00 AM - Health Care & Wellness (HCW): HB 2197 Medical assist./prevention
 #### 14 👍 - Pro
 Testifying:
-* Dominique Davis - Community Passageways
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * Eleuthera Lisch - King County Regional Office of Gun Violence Prevention
 * Kyle Fischer - The Health Alliance for Violence Intervention
 

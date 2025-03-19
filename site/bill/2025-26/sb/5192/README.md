@@ -50,7 +50,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=4)
 
-#### 1763 👍 - Pro
+#### 2794 👍 - Pro
 Testifying:
 * Holly Muenchow - Northshore Council PTSA
 * Malorie Larson - Shoreline PTA Council
@@ -73,16 +73,18 @@ Testifying:
 * Rafael Brewer
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * Kaitlin Murdock - Pathfinder PTSA, 34LD
+* Renee Schulz
 * Ryan Arnold - East Valley School District
 * Rob Bryant - CFO - Federal Way Public Schools
 * Jim Kowalkowski - Rural Education Center
 * Juston Pollestad - Pullman Public Schools
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 1061 👎 - Con
+#### 1140 👎 - Con
 Testifying:
 * Hailey Irvine
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Mary Templeton - [School Alliance](/org/school_alliance/)
 

@@ -15,13 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=4)
 
-#### 48 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Dr Ann Varkados
 * 💵Devin Gombosky - ESD 105 Schools Coalition
+* Lynn Scharff - Great Northern School District
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

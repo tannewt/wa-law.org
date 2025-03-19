@@ -21,7 +21,8 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 
-### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
+* 👍💵 Nancy Sapiro
 
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
 * 👍💵 Ellicott Dandy

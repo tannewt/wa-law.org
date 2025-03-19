@@ -11,7 +11,7 @@
 #### 26 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
-* Dominique Davis - Community Passageways
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * Nicole McGrath - Legal Counsel for Youth and Children (LCYC)
 * Julian Cooper - TeamChild
 * Judge Jennifer Forbes - Superior Court Judges' Association

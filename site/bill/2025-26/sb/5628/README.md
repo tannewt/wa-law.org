@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Environment & Energy (ENVI): ESSB 5628 Lead in cookware
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165895&caId=26573&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165895&caId=26573&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165895&caId=26573&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165895&caId=26573&tId=4)
-
-#### 24 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Reza Pedram
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
@@ -25,7 +19,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 9 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Charlie Brown - Assoc. of Home Appliance Manufacturers
 * 💵Jacob Cassady - Assoc. of Home Appliance Manufacturers
@@ -36,6 +30,7 @@ Testifying:
 * Kimberly Goetz - Department of Ecology
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5628 Lead in cookware
 #### 9 👍 - Pro

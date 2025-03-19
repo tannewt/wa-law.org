@@ -19,15 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165744&caId=26375&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165744&caId=26375&tId=4)
 
-#### 16 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Jon Holmen - Lake Washington School District
 * Lindsey Yocum - Lake Washington School District, Board of Directors
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 445 👎 - Con
+#### 572 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

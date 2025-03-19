@@ -11,17 +11,11 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5543 College bound scholarship
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=4)
-
-#### 20 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Troy Goracke - WA State Board for Community and Technical Colleges
 
-#### 432 👎 - Con
+#### 447 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray

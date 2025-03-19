@@ -35,6 +35,8 @@
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
 ### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
@@ -47,6 +49,8 @@
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍1  
+
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
 ### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍1  
 
@@ -62,7 +66,7 @@
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
-### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍2  
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
@@ -104,6 +108,8 @@
 
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
 
+### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
+
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 * 👍 Alexis Mercedes Rinck
 
@@ -136,7 +142,7 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍2  
 
 ### [SB 5214](/bill/2025-26/sb/5214/) - Mobile market programs 👍1  
 

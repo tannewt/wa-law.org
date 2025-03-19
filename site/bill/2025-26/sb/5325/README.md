@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5325 State cactus
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165639&caId=26535&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165639&caId=26535&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165639&caId=26535&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165639&caId=26535&tId=4)
-
-#### 26 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Adam Fyall - Benton County
 * Gail Sklar - WNPS
@@ -23,6 +17,7 @@ Testifying:
 * Pan Kantiyavong - City of Seattle Parks and Recreation Department - Volunteer Park Conservatory
 * Theresa Oyoung - President, Cascade Cactus and Succulent Society (CCSS)
 * Kai Reising
+* Denise Mahnke - Washington Native Plant Society
 
 #### 0 👎 - Con
 

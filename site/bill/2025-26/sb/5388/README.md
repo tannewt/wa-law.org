@@ -15,12 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Marc Stern
 * Kellett Sayre - Department of Corrections
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 36 👎 - Con
+#### 268 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

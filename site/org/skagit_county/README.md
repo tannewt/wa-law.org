@@ -3,6 +3,8 @@
 
 ### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
 
+### [HB 1102](/bill/2025-26/hb/1102/) - Veteran support and services 👍1  
+
 ### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets  👎1 
 
 ### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects  👎1 ❓3

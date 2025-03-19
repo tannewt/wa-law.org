@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5148/</link>
 		<description>Updates about SB 5148</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 10:29:54 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 09:18:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -271,6 +271,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alex/Hur/2025-03-17 10:29:54</guid>
+		</item>
+		<item>
+			<title>❓Dave Andersen - Washington Department of Commerce</title>
+			<description>Dave Andersen signed up to testify Other. They are signed up to represent Washington Department of Commerce.</description>
+			<pubDate>Tue, 18 Mar 2025 02:04:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dave/Andersen/2025-03-18 02:04:00</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Master Builders Association of King and Snohomish Counties</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 09:18:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-18 09:18:33</guid>
 		</item>
 	</channel>
 </rss>

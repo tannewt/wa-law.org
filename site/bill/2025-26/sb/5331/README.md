@@ -18,14 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=4)
 
-#### 194 👍 - Pro
+#### 246 👍 - Pro
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
+* Cathleen MacCaul - AARP Washington State
+* Michael DeLong - Consumer Federation of America
 
-#### 426 👎 - Con
+#### 576 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Kristi Winters
 
 #### 0 ❓ - Other
 

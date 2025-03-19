@@ -13,19 +13,13 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Human Services (HS): ESHB 1233 Work programs/incarceration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=4)
-
-#### 90 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Tuan Quach - Equity in Education Center
 * Jermaine Williams - The Black Rose Collective
 * Jacob Schmitt - Just Us Solutions
 
-#### 133 👎 - Con
+#### 143 👎 - Con
 Testifying:
 * Teresa Sanders
 * Anthony Holan

@@ -9,6 +9,8 @@
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 * 👍💵 Eric Gonzalez
 
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
@@ -34,13 +36,14 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  ❓1
 
-## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
+### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 * 👍 Eric Gonzalez Alfaro
+
+## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 
 ## 2023-24
 
-### [SB 5519](/bill/2023-24/sb/5519/) - Ocean vessels/environment 👍1  
-* 👍 Eric Gonzalez Alfaro
+### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
 

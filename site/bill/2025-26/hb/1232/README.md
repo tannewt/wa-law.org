@@ -22,19 +22,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165726&caId=26407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165726&caId=26407&tId=4)
 
-#### 993 👍 - Pro
+#### 1741 👍 - Pro
 Testifying:
 * 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * Lesly Avila
 * Liliana Chumpitasi - La Resistencia
 * 💵Paul Benz - Washington Partners for Social Change
+* Kristina Walker - Councilmember, City of Tacoma
 * 💵Jean Hill - Washington State Catholic Conference
+* Irvin Enriquez - Latino Civic Alliance
+* isela bonilla - Student Lobbyist
+* Ashley Ramirez - Student, LD 27th
+* 💵Michelle Carrillo - Student LD 13th
+* isela Bonilla
 
-#### 363 👎 - Con
+#### 502 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Kristi Winters
+* Sandra Mochizuki
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1232 Private detention facilities
 #### 336 👍 - Pro

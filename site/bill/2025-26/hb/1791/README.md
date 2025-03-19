@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): SHB 1791 Local real estate excise tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165849&caId=26436&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165849&caId=26436&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165849&caId=26436&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165849&caId=26436&tId=4)
-
-#### 51 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -26,7 +20,7 @@ Testifying:
 * Scott Pingel - City Manager, City of Newcastle
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 
-#### 627 👎 - Con
+#### 661 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * Sandra Mochizuki

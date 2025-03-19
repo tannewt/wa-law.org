@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5655 Child care centers/buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165538&caId=26473&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165538&caId=26473&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165538&caId=26473&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165538&caId=26473&tId=4)
-
-#### 120 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * Robyn Denson - Pierce County Council
 * Tricia Bennon - [Pierce County](/org/pierce_county/)

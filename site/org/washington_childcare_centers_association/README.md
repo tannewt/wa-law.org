@@ -9,7 +9,7 @@
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 
-### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍2  
 
 ### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
 
@@ -41,7 +41,7 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
-### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
+### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
 
 ## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 

@@ -21,7 +21,9 @@
 
 ### [HB 1207](/bill/2025-26/hb/1207/) - Superior court clerk fees   ❓1
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
 ### [HB 1248](/bill/2025-26/hb/1248/) - Juvenile justice programs 👍1  
 * 👍💵 Roxana Gomez
@@ -32,13 +34,14 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍2  
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍2  
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍3  
+* 👍💵 Roxana Gomez
 * 👍💵 Roxana Gomez
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
@@ -102,9 +105,9 @@
 
 ### [SB 5272](/bill/2025-26/sb/5272/) - School safety/penalties  👎1 
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓1
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓2
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍3  
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍3  
 * 👍 Alex Narvaez

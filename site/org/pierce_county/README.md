@@ -24,7 +24,7 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
-### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍1  
+### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍2  
 
 ### [HB 1654](/bill/2025-26/hb/1654/) - International fire code  👎1 
 
@@ -45,7 +45,7 @@
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 
-### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍3  
+### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍4  
 * 👍 Tricia Bennon
 * 👍 Tricia Bennon
 

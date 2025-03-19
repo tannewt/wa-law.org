@@ -21,13 +21,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Joseph Tovar
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 39 👎 - Con
+#### 281 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 1 ❓ - Other
 Testifying:

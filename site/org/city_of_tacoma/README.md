@@ -15,7 +15,7 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
@@ -32,6 +32,8 @@
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍2  
+
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 

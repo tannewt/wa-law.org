@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1232/</link>
 		<description>Updates about HB 1232</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 09:10:56 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 11:45:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -257,12 +257,36 @@
 			<guid isPermaLink="false">testifier/Paul/Benz/2025-03-17 05:01:30</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Washington State Catholic Conference</title>
+			<title>👎TaraLyn Fray - Student LD 13th</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 17 Mar 2025 12:34:39 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-17 12:34:39</guid>
+		</item>
+		<item>
+			<title>👍Kristina Walker - Councilmember, City of Tacoma</title>
+			<description>Kristina Walker signed up to testify Pro. They are signed up to represent Councilmember, City of Tacoma.</description>
+			<pubDate>Tue, 18 Mar 2025 03:28:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristina/Walker/2025-03-18 03:28:32</guid>
+		</item>
+		<item>
+			<title>👎Kristi Winters - Student LD 13th</title>
+			<description>Kristi Winters signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 03:51:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kristi/Winters/2025-03-18 03:51:24</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Student LD 13th</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 06:49:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-18 06:49:35</guid>
 		</item>
 		<item>
 			<title>👍💵Jean Hill - Washington State Catholic Conference</title>
@@ -271,6 +295,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jean/Hill/2025-03-18 09:10:56</guid>
+		</item>
+		<item>
+			<title>👍Irvin Enriquez - Latino Civic Alliance</title>
+			<description>Irvin Enriquez signed up to testify Pro. They are signed up to represent Latino Civic Alliance.</description>
+			<pubDate>Tue, 18 Mar 2025 09:29:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Irvin/Enriquez/2025-03-18 09:29:51</guid>
+		</item>
+		<item>
+			<title>👍isela bonilla - Student Lobbyist</title>
+			<description>isela bonilla signed up to testify Pro. They are signed up to represent Student Lobbyist.</description>
+			<pubDate>Tue, 18 Mar 2025 10:44:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/isela/bonilla/2025-03-18 10:44:40</guid>
+		</item>
+		<item>
+			<title>👍Ashley Ramirez - Student, LD 27th</title>
+			<description>Ashley Ramirez signed up to testify Pro. They are signed up to represent Student, LD 27th.</description>
+			<pubDate>Tue, 18 Mar 2025 11:45:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ashley/Ramirez/2025-03-18 11:45:25</guid>
+		</item>
+		<item>
+			<title>👍💵Michelle Carrillo - Student LD 13th</title>
+			<description>Michelle Carrillo signed up to testify Pro. They are signed up to represent Student LD 13th. They are a registered lobbyist.</description>
+			<pubDate>Tue, 18 Mar 2025 11:45:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michelle/Carrillo/2025-03-18 11:45:25</guid>
+		</item>
+		<item>
+			<title>👍isela Bonilla - Student LD 13th</title>
+			<description>isela Bonilla signed up to testify Pro.</description>
+			<pubDate>Tue, 18 Mar 2025 11:45:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/isela/Bonilla/2025-03-18 11:45:25</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): SB 5777 Payment card processing/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165862&caId=26548&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165862&caId=26548&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165862&caId=26548&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165862&caId=26548&tId=4)
-
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Kimberly Ford - Fiserv
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * DENNY ELIASON
 
-#### 59 👎 - Con
+#### 65 👎 - Con
 Testifying:
 * Teresa Sanders
 * Anthony Holan

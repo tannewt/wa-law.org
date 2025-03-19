@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5110/</link>
 		<description>Updates about SB 5110</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 16 Mar 2025 05:52:39 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 01:25:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,7 +170,7 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205110</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - self</title>
+			<title>👎Sandra Mochizuki - SBCTC</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Sun, 16 Mar 2025 02:03:20 GMT</pubDate>
 			<category>testifier</category>
@@ -178,12 +178,20 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-16 02:03:20</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - self</title>
+			<title>👎TaraLyn Fray - SBCTC</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Sun, 16 Mar 2025 05:52:39 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-16 05:52:39</guid>
+		</item>
+		<item>
+			<title>👍Maya Esquivido - SBCTC</title>
+			<description>Maya Esquivido signed up to testify Pro. They are signed up to represent SBCTC.</description>
+			<pubDate>Tue, 18 Mar 2025 01:25:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maya/Esquivido/2025-03-18 01:25:24</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,13 +7,15 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍1  
+
 ### [HB 1290](/bill/2025-26/hb/1290/) - Water quality trading prog.  👎1 
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍3  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍4  
 * 👍💵 Clifford Traisman
 * 👍💵 Clifford Traisman
 
@@ -91,6 +93,8 @@
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓2
 * ❓ Caitlin Krenn
 * ❓💵 Clifford Traisman
+
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 Clifford Traisman

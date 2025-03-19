@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): SHB 1271 State fire service deploy.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165894&caId=26568&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165894&caId=26568&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165894&caId=26568&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165894&caId=26568&tId=4)
-
-#### 39 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Leonard Johnson - McLane Black Lake FD / Washington Fire Chiefs
 

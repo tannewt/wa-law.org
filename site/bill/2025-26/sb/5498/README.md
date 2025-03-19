@@ -15,17 +15,11 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Health Care & Wellness (HCW): SB 5498 Contraceptive coverage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=4)
-
-#### 669 👍 - Pro
+#### 695 👍 - Pro
 Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 991 👎 - Con
+#### 1007 👎 - Con
 Testifying:
 * Matthew Jackmond - A long time WA Resident and a very concerned taxpayer!
 

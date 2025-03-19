@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=4)
 
-#### 77 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 * Mike Nykreim - Newport West LLC
@@ -24,9 +24,12 @@ Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * kurt wilson
 * Jenn Kovitz - [Hayden Homes](/org/hayden_homes/)
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * Preston Frederickson
 
-#### 4 👎 - Con
+#### 37 👎 - Con
+Testifying:
+* Kristi Winters
 
 #### 2 ❓ - Other
 Testifying:

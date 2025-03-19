@@ -4,6 +4,9 @@
 ### [HB 1119](/bill/2025-26/hb/1119/) - Supervision compliance 👍1  
 * 👍 Cindy Elsberry
 
+### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
+* 👍 Cindy Arends Elsberry
+
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 * 👍 Cindy Elsberry
 

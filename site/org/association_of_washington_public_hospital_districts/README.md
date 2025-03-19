@@ -12,6 +12,9 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard   ❓1
+* ❓💵 Matthew Ellsworth
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 
@@ -21,6 +24,8 @@
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 
 ## [SB 5683](/bill/2025-26/sb/5683/) - Health carrier payment times 👍1  
 

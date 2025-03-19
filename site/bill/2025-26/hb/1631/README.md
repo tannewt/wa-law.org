@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - State Government & Elections (SGE): HB 1631 State marine forest
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=4)
-
-#### 251 👍 - Pro
+#### 338 👍 - Pro
 Testifying:
 * Katherine Staatz
 * Fred Felleman - [Port of Seattle](/org/port_of_seattle/)
@@ -32,10 +26,13 @@ Testifying:
 * Andrew Abrahamson
 * Katherine Staatz
 * 💵Brenda Campbell - [Snoqualmie Tribe](/org/snoqualmie_tribe/)
+* Andrew Abrahamson
+* Katherine Staatz
+* Naleana Gunder
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/04 01:30 PM - State Government & Tribal Relations (SGOV): HB 1631 State marine forest
 #### 569 👍 - Pro

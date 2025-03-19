@@ -4,7 +4,9 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍 Holly Ferguson
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
+
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 

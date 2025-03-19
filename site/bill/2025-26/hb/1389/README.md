@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): HB 1389 Timber purchase reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165851&caId=26438&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165851&caId=26438&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165851&caId=26438&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165851&caId=26438&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)

@@ -6,7 +6,7 @@
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
 
-### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 

@@ -17,6 +17,8 @@
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍13  
 
+### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍1  
+
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍46  
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎1 

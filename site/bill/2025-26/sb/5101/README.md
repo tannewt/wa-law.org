@@ -21,9 +21,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=4)
 
-#### 9 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* Miri Cypers - ADL Pacific Northwest
+* Cindy Sandino-Chang - Crime Survivor Services, City of Seattle
+* 💵Gabriel Neuman - GSBA
 
-#### 33 👎 - Con
+#### 49 👎 - Con
 
 #### 0 ❓ - Other
 

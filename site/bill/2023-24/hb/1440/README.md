@@ -11,7 +11,7 @@
 #### 99 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
-* Dominique Davis - Community Passageways
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * Dr. Eric Trupin - UW Department of Psychiatry & Behavioral Sciences
 * Nicole McGrath - Law Office of Nicole K McGrath
 * Dr. Alexandra Obremskey - Washington Chapter of the American Academy of Pediatrics

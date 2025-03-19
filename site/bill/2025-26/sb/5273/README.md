@@ -18,7 +18,7 @@ Testifying:
 * Sofia Jalso
 * Kyle Fischer - The Health Alliance for Violence Intervention
 * William Hairston - Center for Children and Youth Justice
-* Dominique Davis - Community Passageways
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * Laura Johnson - Harborview Medical Center, Violence Intervention & Prevention Program
 * Karyn Brownson - King County Public Health
 * Lars Almquist - University of WA, HVIP Researcher

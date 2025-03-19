@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Commerce (LC): EHB 1173 High-hazard facility wages
-#### 77 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * 💵Erin Frasier - WA State Building & Construction Trades Council
 * Zach McCown - Western States Regional Council of Carpenters (WSRCC)

@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33025&aId=165904&caId=26566&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33025&aId=165904&caId=26566&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 36 👎 - Con
+#### 262 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

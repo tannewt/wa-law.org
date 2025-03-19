@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): HB 1109 Public facilities districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165916&caId=26581&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165916&caId=26581&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165916&caId=26581&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165916&caId=26581&tId=4)
-
-#### 45 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Betty Erickson - Public Facilities District State Chair
 * Adam Cook - Tacoma PFD

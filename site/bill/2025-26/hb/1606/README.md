@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - State Government & Elections (SGE): SHB 1606 Journal access/state empl.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165533&caId=26432&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165533&caId=26432&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165533&caId=26432&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165533&caId=26432&tId=4)
-
-#### 72 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * Natalie Marshall - Washington AgForestry Leadership Program
 * Stacey Rasmussen - Washington AgForestry Leadership Program

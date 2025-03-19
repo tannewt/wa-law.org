@@ -25,13 +25,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165798&caId=26517&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165798&caId=26517&tId=4)
 
-#### 186 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Stephanie Metcalf
+* Brooke Iverson - Teamsters 174
+* Ellie Klein - PEPS
+* Haley Bannow - Teamsters 174
+* 💵Nancy Sapiro - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 
-#### 31 👎 - Con
+#### 33 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chalia Stallings-Ala'ilima - Attorney General's Office
 
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5217 Pregnancy accommodations
 #### 358 👍 - Pro

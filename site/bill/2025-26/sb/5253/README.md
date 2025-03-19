@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Education (ED): SSB 5253 Special education services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165482&caId=26483&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165482&caId=26483&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165482&caId=26483&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165482&caId=26483&tId=4)
-
-#### 196 👍 - Pro
+#### 223 👍 - Pro
 Testifying:
 * JAMES Derouin jr
 * Annalisa Lembo
@@ -32,8 +26,9 @@ Testifying:
 * Cathy Murahashi - The Arc of Washington
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * Emma Kohl
+* Kathy McDonald - none
 
-#### 436 👎 - Con
+#### 461 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray

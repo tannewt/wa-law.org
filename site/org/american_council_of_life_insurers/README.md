@@ -1,7 +1,8 @@
 # American Council of Life Insurers
 ## 2025-26
 
-### [HB 1230](/bill/2025-26/hb/1230/) - Disability insurer filings 👍1  
+### [HB 1230](/bill/2025-26/hb/1230/) - Disability insurer filings 👍2  
+* 👍 John Mangan
 * 👍 John Mangan
 
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎2 

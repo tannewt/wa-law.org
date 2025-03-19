@@ -13,25 +13,23 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): ESHB 1258 Regional 911 funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=4)
-
-#### 19 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * Alex Scott - Spokane City Administrator
 * James Tieken - AFSCME Local 270, Spokane City Employees
 * Julie O'Berg - Spokane Fire Department Chief
 
-#### 61 👎 - Con
+#### 73 👎 - Con
 Testifying:
 * Teresa Sanders
+* Jason Fritz - APCO-NENA
+* Katy Myers - State 911 Advisory Committee
+* Frank Soto Jr - Spokane Valley Fire Department
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Adam Wasserman - WA State 911 Coordinator/MIL Dept Emergency Management Division
+* Steve Ewing - Dept. of Revenue
 
 ### Thu 01/30 01:30 PM - Finance (FIN): HB 1258 Regional 911 funding
 #### 218 👍 - Pro

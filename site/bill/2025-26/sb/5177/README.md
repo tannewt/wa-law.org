@@ -18,19 +18,14 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Education (ED): SB 5177 Professional dev. resources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=4)
-
-#### 536 👍 - Pro
+#### 579 👍 - Pro
 Testifying:
 * Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
 * Bryan-Virgil Raiz
 * Jenny Holmstrom
+* Amanda Hohlfeld - Attorney General's Office
 
-#### 1661 👎 - Con
+#### 1722 👎 - Con
 Testifying:
 * Steven Sjolie
 * Sandra Mochizuki
@@ -38,8 +33,9 @@ Testifying:
 * TaraLyn Fray
 * Teresa Sanders
 * Anthony Holan
+* Gabriel Jacobs
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 01/23 10:30 AM - Early Learning & K-12 Education (EDU): SB 5177 Professional dev. resources
 #### 247 👍 - Pro

@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1462 Hydrofluorocarbons
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=4)
-
-#### 307 👍 - Pro
+#### 322 👍 - Pro
 Testifying:
 * Christina Starr - Environmental Investigation Agency
 * Cory Eckert - Alpine Ductless
@@ -32,7 +26,7 @@ Testifying:
 * Rebecca Robinson - PCC Markets
 * Beth Porter - Environmental Investigation Agency
 
-#### 671 👎 - Con
+#### 692 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

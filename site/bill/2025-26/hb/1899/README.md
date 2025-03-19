@@ -18,9 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Tedd Kelleher - Department of Commerce
 
 #### 0 👎 - Con
 

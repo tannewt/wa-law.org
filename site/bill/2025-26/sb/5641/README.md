@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Education (ED): SB 5641 Blood donation/school instr.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165481&caId=26482&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165481&caId=26482&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165481&caId=26482&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165481&caId=26482&tId=4)
-
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Juan Cotto - BloodworksNW
 * Mark Dyce - [Bloodworks Northwest](/org/bloodworks_northwest/)
 * Naomi Howatt - Naomi Howatt, Volunteer Resources Manager, Bloodworks NW
 * Christina Melief - National Cord Blood Network
+* 💵Michael Martinez - Vitalant
 
 #### 0 👎 - Con
 

@@ -19,15 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165696&caId=26384&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165696&caId=26384&tId=4)
 
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * Nico Janssen - Office of the Insurance Commissioner
 
-#### 34 👎 - Con
+#### 279 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/28 01:30 PM - Health Care & Wellness (HCW): HB 1382 All payers claim database
 #### 13 👍 - Pro

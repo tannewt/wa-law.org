@@ -34,7 +34,7 @@ Testifying:
 * Alex Hufstetler - IBEW local 46
 * Tom Bosserman - Starbucks Workers United
 
-#### 1783 👎 - Con
+#### 1784 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Miriam Battson - Gig Harbor Chamber of Commerce
@@ -49,6 +49,7 @@ Testifying:
 * Teresa Sanders
 * Joel Bouchey
 * Jon Holmen - Lake Washington School District
+* Lilly Hayward - Seattle Metro Chamber
 * Lilly Howard - Seattle Metro Chamber
 * 💵Lindsey Hueer
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)

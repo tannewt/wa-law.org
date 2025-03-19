@@ -4,6 +4,8 @@
 ### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍3  
 * 👍 Kathleen Barry Johnson
 
+### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
+
 ### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities  👎1 
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  

@@ -25,11 +25,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=4)
 
-#### 230 👍 - Pro
+#### 289 👍 - Pro
 Testifying:
 * Breck Lebegue
 
-#### 3340 👎 - Con
+#### 3517 👎 - Con
 Testifying:
 * Laurie Layne
 * Leah Houser
@@ -51,8 +51,9 @@ Testifying:
 * Angela Dye
 * Natalie Chavez
 * Tanya Goodman
+* Makiah Hunnicutt
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 
 ### Fri 01/31 08:00 AM - Health Care & Wellness (HCW): HB 1531 Communicable disease
 #### 169 👍 - Pro

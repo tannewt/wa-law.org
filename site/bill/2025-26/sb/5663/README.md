@@ -10,25 +10,20 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): ESSB 5663 CTC online course offerings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=4)
-
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Kathryn Cox
 * Marina Aminy - California Community Colleges, California Virtual Campus
 
-#### 412 👎 - Con
+#### 429 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Arlen Harris - Sbctc
+* Melissa Beard - Council of Presidents
 
 ### Thu 02/13 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5663 Virtual campus/colleges
 #### 10 👍 - Pro

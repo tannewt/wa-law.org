@@ -36,7 +36,9 @@ Testifying:
 * Anthony Holan
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tammy Fellin - Dept. of Labor & Industries
 
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1644 Working minors
 #### 69 👍 - Pro

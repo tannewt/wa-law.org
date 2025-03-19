@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Consumer Protection & Business (CPB): SB 5680 Mobility equipment repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165949&caId=26593&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165949&caId=26593&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165949&caId=26593&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165949&caId=26593&tId=4)
-
-#### 182 👍 - Pro
+#### 221 👍 - Pro
 Testifying:
 * Marsha Cutting
 * Erin Musser - Disability Mobility initiative
@@ -28,6 +22,7 @@ Testifying:
 * Laura Macready - WashPIRG
 * Daniel Selby - 11239 Monarch Ridge Ave
 * Dave Carl
+* Aiden Hunter
 
 #### 0 👎 - Con
 

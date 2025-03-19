@@ -5,9 +5,10 @@
 * ❓ Jack Murphy
 * ❓ Jack Murphy
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍3  
 * 👍 Jack Murphy
 * 👍 George Moya
+* 👍 Linnea Anderson
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses   ❓2
 * ❓ Jack Murphy

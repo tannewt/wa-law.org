@@ -96,7 +96,7 @@
 
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
-### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards   ❓1
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  ❓1
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 

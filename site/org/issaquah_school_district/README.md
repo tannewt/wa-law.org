@@ -46,11 +46,11 @@
 * 👍 Martin Turney
 * 👍 Jason Morse
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍6  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍7  
 * 👍 Heather Tow-Yick
 * 👍 Martin Turney
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍7  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍8  
 * 👍 Heather Tow-Yick
 * 👍 Martin Turney
 

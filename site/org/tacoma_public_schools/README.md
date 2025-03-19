@@ -6,6 +6,8 @@
 
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
 
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
+
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
@@ -16,8 +18,12 @@
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
+
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍2  
 * 👍 Doug Hostetter
+
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
 ### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
 

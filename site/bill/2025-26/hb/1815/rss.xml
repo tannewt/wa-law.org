@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1815/</link>
 		<description>Updates about HB 1815</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 08:11:26 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 09:44:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -351,12 +351,36 @@
 			<guid isPermaLink="false">testifier/Rashida/Robbins/2025-03-17 12:26:31</guid>
 		</item>
 		<item>
+			<title>👎Kristi Winters - WA Association of Prosecuting Attorneys</title>
+			<description>Kristi Winters signed up to testify Con.</description>
+			<pubDate>Tue, 18 Mar 2025 03:51:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kristi/Winters/2025-03-18 03:51:51</guid>
+		</item>
+		<item>
+			<title>👍Amity Bjork - Wacdl/wda</title>
+			<description>Amity Bjork signed up to testify Pro. They are signed up to represent Wacdl/wda.</description>
+			<pubDate>Tue, 18 Mar 2025 04:19:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amity/Bjork/2025-03-18 04:19:22</guid>
+		</item>
+		<item>
 			<title>👍Keri-Anne Jetzer - WA State Sentencing Guidelines Commission</title>
 			<description>Keri-Anne Jetzer signed up to testify Pro. They are signed up to represent WA State Sentencing Guidelines Commission.</description>
 			<pubDate>Tue, 18 Mar 2025 08:11:26 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2025-03-18 08:11:26</guid>
+		</item>
+		<item>
+			<title>👍Alexandra Narvaez - Partnership Council on Juvenile Justice</title>
+			<description>Alexandra Narvaez signed up to testify Pro. They are signed up to represent Partnership Council on Juvenile Justice.</description>
+			<pubDate>Tue, 18 Mar 2025 09:44:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alexandra/Narvaez/2025-03-18 09:44:35</guid>
 		</item>
 	</channel>
 </rss>

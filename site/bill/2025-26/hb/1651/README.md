@@ -25,9 +25,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165743&caId=26374&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165743&caId=26374&tId=4)
 
-#### 239 👍 - Pro
+#### 256 👍 - Pro
+Testifying:
+* 💵Lorrell Noahr - [Washington Education Association](/org/washington_education_association/)
 
-#### 4 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* Kristi Winters
 
 #### 1 ❓ - Other
 Testifying:

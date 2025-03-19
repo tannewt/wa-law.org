@@ -9,7 +9,7 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓3
 
-### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍3  
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
 
@@ -53,6 +53,8 @@
 
 ### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
 
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
@@ -72,6 +74,8 @@
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+
+### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 
@@ -110,7 +114,7 @@
 ### [SB 5251](/bill/2025-26/sb/5251/) - Lodging tax revenues 👍1  
 * 👍💵 Briahna Murray
 
-### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍2  
 
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
 
@@ -136,7 +140,7 @@
 
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
-### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍2  
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 

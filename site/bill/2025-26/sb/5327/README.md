@@ -15,17 +15,12 @@
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Education (ED): SSB 5327 Learning standards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165483&caId=26484&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165483&caId=26484&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165483&caId=26484&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165483&caId=26484&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Alissa Muller - State Board of Education
+* Nora Palattao Burnes - Pearson
 
-#### 67 👎 - Con
+#### 71 👎 - Con
 
 #### 0 ❓ - Other
 

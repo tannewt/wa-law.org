@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33017&aId=165921&caId=26596&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33017&aId=165921&caId=26596&tId=4)
 
-#### 40 👍 - Pro
+#### 84 👍 - Pro
+Testifying:
+* Adam LeMieux - [Port of Everett](/org/port_of_everett/)
+* Chris Herman - www.washingtonports.org
+* Sean Eagan - Northwest Seaport Alliance
+* Timothy Greene Sr. - Chairman of the Makah Tribe
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

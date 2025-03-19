@@ -13,19 +13,13 @@
 
 ## Meetings
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5542 HS completers/CTC tuition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165747&caId=26530&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165747&caId=26530&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165747&caId=26530&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165747&caId=26530&tId=4)
-
-#### 18 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Troy Goracke - WA State Board for Community and Technical Colleges
 * Sarah Stiffler - Spokane Community College
 * Morgan McCluskey
 
-#### 447 👎 - Con
+#### 463 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray

@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165825&caId=26526&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165825&caId=26526&tId=4)
 
-#### 6 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * AICP, Scott Chesney - Spokane County Building & Planning
 * Richa Sigdel - City of Pasco, Deputy City Manager

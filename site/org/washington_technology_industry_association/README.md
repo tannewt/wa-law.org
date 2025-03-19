@@ -19,7 +19,7 @@
 
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
 
-### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍1  
+### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 
