@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=state%20clam)
+
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Elections (SGE): SB 5560 State clam
 #### 11 👍 - Pro

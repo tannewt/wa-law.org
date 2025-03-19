@@ -13,15 +13,11 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Local Government (LG): SSB 5749 Housing opportunity zones
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165826&caId=26527&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165826&caId=26527&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165826&caId=26527&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165826&caId=26527&tId=4)
+#### 64 👍 - Pro
 
-#### 44 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 ❓ - Other
 

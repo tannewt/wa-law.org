@@ -115,6 +115,9 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+* 👎💵 Morgan Irwin
+
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
@@ -371,6 +374,9 @@
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax  👎1 
 
 ### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍1  
+
+### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
+* 👎 Max Martin
 
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
 

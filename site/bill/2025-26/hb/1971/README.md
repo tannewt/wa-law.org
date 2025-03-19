@@ -24,15 +24,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=4)
 
-#### 186 👍 - Pro
+#### 268 👍 - Pro
 Testifying:
 * Tela Hogle
 * Fernanda Grether Zdanowsky
 * Jenna Comstock - QLAW Association
 * Erik Janson - Planned Parenthood Great Northwest
 * Amasai Jeke - UTOPIA Washington
+* Aspen Coyle
+* Zoë Schirmer
 
-#### 70 👎 - Con
+#### 148 👎 - Con
 
 #### 0 ❓ - Other
 

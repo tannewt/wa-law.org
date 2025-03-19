@@ -64,7 +64,7 @@
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
-### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍3  
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍2  
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington bill aims to end fees for child care providers | Cascade PBS](https://www.cascadepbs.org/politics/2025/01/new-washington-bill-aims-end-fees-child-care-providers#:~:text=Senate%20Bill%205297)
+
 ## Meetings
 ### Thu 02/06 04:00 PM - Ways & Means (WM): SB 5297 Early learning facilities
 #### 133 👍 - Pro

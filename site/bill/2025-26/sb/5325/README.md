@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=the%20state%20cactus)
+
 ## Meetings
 ### Tue 03/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5325 State cactus
 #### 28 👍 - Pro

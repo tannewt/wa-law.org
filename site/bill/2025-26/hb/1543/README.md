@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Environment, Energy & Technology (ENET): SHB 1543 Clean buildings standard
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165880&caId=26563&tId=4)
-
-#### 42 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Jason Morse - [Issaquah School District](/org/issaquah_school_district/)
 * Martin Turney - Puget Sound Schools Coalition
@@ -28,7 +22,7 @@ Testifying:
 * Travis Bown - WA Association of Maintenance and Operation Administrators
 * Emily Salzberg - WA State
 
-#### 21 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Peter Hasegawa - 19802 62nd Ave S #105
 * 💵Zachary Snyder - IBEW LOCAL 46

@@ -166,11 +166,15 @@
 
 ### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 
-## [SB 5747](/bill/2025-26/sb/5747/) - Affordable housing/exemption  👎1 
+### [SB 5747](/bill/2025-26/sb/5747/) - Affordable housing/exemption  👎1 
+
+## [SB 5749](/bill/2025-26/sb/5749/) - Housing opportunity zones  👎1 
+* 👎💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5747](/bill/2023-24/sb/5747/) - Affordable housing/exemption  👎1 
+### [SB 5749](/bill/2023-24/sb/5749/) - Housing opportunity zones  👎1 
+* 👎💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

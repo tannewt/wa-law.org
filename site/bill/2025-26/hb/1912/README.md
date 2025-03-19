@@ -14,12 +14,6 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1912 Agricultural fuel/CCA ex.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165879&caId=26562&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165879&caId=26562&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165879&caId=26562&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165879&caId=26562&tId=4)
-
 #### 266 👍 - Pro
 Testifying:
 * 💵Mark Streuli - WA Assoc of Wheat Growers, WA Potato and Onion Assoc, WA Cattlemen's Assoc

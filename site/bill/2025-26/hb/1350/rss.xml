@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1350/</link>
 		<description>Updates about HB 1350</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-16/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>New Washington bill aims to end fees for child care providers | Cascade PBS</title>
+			<description>News article "New Washington bill aims to end fees for child care providers | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Wed, 29 Jan 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2025/01/new-washington-bill-aims-end-fees-child-care-providers#:~:text=House%20Bill%201350</guid>
 		</item>
 	</channel>
 </rss>

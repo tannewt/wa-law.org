@@ -17,20 +17,14 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1409 Clean fuels program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33085&aId=165877&caId=26560&tId=4)
-
-#### 331 👍 - Pro
+#### 340 👍 - Pro
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * 💵Leah Missik
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 
-#### 744 👎 - Con
+#### 826 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Jessica Spiegel - WSPA

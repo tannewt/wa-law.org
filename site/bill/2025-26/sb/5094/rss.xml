@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5094/</link>
 		<description>Updates about SB 5094</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 08:57:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Feb 2025 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/emi/koyama/2025-01-16 08:57:59</guid>
+		</item>
+		<item>
+			<title>Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS</title>
+			<description>News article "Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Wed, 05 Feb 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations#:~:text=Senate%20Bill%205094</guid>
 		</item>
 	</channel>
 </rss>

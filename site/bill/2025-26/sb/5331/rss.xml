@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5331/</link>
 		<description>Updates about SB 5331</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 10:21:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 07:43:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michael/DeLong/2025-03-18 10:21:23</guid>
+		</item>
+		<item>
+			<title>❓Kenton BRINE - NW Insurance Council</title>
+			<description>Kenton BRINE signed up to testify Other. They are signed up to represent NW Insurance Council.</description>
+			<pubDate>Wed, 19 Mar 2025 07:43:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kenton/BRINE/2025-03-19 07:43:22</guid>
+		</item>
+		<item>
+			<title>❓Kris Tefft - American Property Casualty Insurance Association</title>
+			<description>Kris Tefft signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/american_property_casualty_insurance_association/"&gt;American Property Casualty Insurance Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 19 Mar 2025 07:43:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kris/Tefft/2025-03-19 07:43:22</guid>
 		</item>
 	</channel>
 </rss>

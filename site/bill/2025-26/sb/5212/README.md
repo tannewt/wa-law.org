@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Agriculture and Natural Resources (AGNR): SSB 5212 Water adjudication in WRIA 1
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165588&caId=26445&tId=4)
-
-#### 20 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Bill Clarke - [Ag Water Board of Whatcom County](/org/ag_water_board_of_whatcom_county/)
 

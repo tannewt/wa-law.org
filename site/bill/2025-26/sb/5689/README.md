@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165707&caId=26544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165707&caId=26544&tId=4)
 
-#### 9 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Juan Cotto - BloodworksNW
 * 💵Juan Cotto - BloodworksNW
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Angel Montes - American Red Cross
 
 ### Thu 02/20 04:00 PM - Transportation (TRAN): SB 5689 Drivers' licenses/blood type
 #### 122 👍 - Pro

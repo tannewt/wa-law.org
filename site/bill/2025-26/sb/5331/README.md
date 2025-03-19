@@ -18,19 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=4)
 
-#### 246 👍 - Pro
+#### 272 👍 - Pro
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
 * Cathleen MacCaul - AARP Washington State
 * Michael DeLong - Consumer Federation of America
 
-#### 576 👎 - Con
+#### 649 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Kristi Winters
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kenton BRINE - NW Insurance Council
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 ### Thu 01/30 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5331 Insurance code violations
 #### 38 👍 - Pro

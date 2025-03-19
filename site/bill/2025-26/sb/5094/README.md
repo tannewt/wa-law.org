@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations#:~:text=Senate%20Bill%205094)
+
 ## Meetings
 ### Thu 01/16 10:30 AM - Law & Justice (LAW): SB 5094 Sexually explicit depictions
 #### 142 👍 - Pro

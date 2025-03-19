@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5649/</link>
 		<description>Updates about SB 5649</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 12:03:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 07:39:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Timothy/Greene Sr./2025-03-18 12:03:56</guid>
+		</item>
+		<item>
+			<title>👍Paul Jarkiewicz - Port of Port Angeles</title>
+			<description>Paul Jarkiewicz signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/port_of_port_angeles/"&gt;Port of Port Angeles&lt;/a&gt;.</description>
+			<pubDate>Wed, 19 Mar 2025 07:39:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Jarkiewicz/2025-03-19 07:39:27</guid>
 		</item>
 	</channel>
 </rss>

@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165927&caId=26585&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165927&caId=26585&tId=4)
 
-#### 54 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Angela Nemeth - Tri-Tech Skills Center
 * Ethan Wodehouse - Tri-Tech Skills Center

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Bills, budget and how we got here - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205192)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESSB%205192)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205192)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205192)
@@ -25,6 +26,7 @@
 * 03/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate passes increased school funding bill sans accountability amendment | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f7605b20-fad1-11ef-8936-bfec441dc776.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205192)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5192)
 * 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=SSB%205192)
+* 02/27/2025 [Cascade PBS](/org/cascade_pbs/) - [Friday deadline looms for WA’s free-school-meals-for-all bill | Cascade PBS](https://www.cascadepbs.org/briefs/2025/02/friday-deadline-looms-was-free-school-meals-all-bill#:~:text=school%20operations)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205192)
 * 02/26/2025 [FOX13](/org/fox13/) - [What’s moving along, and what’s not, in the WA Legislature? | FOX 13 Seattle](https://www.fox13seattle.com/news/whats-moving-along-whats-not-wa-legislature#:~:text=materials%20and%20operating%20costs)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=Senate%20Bill%205192)
@@ -50,7 +52,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=4)
 
-#### 2794 👍 - Pro
+#### 3138 👍 - Pro
 Testifying:
 * Holly Muenchow - Northshore Council PTSA
 * Malorie Larson - Shoreline PTA Council
@@ -80,7 +82,7 @@ Testifying:
 * Juston Pollestad - Pullman Public Schools
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 1140 👎 - Con
+#### 1161 👎 - Con
 Testifying:
 * Hailey Irvine
 

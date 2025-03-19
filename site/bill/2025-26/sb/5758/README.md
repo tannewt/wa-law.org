@@ -20,7 +20,7 @@ Testifying:
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
 
-#### 597 👎 - Con
+#### 670 👎 - Con
 Testifying:
 * Rolando Rodriguez - Green Roads - Social Equity Retailer
 * TaraLyn Fray

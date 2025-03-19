@@ -9,9 +9,11 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/18/2025 [The Center Square](/org/the_center_square/) - [Let's Go Washington files second initiative to uphold parental rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3d0d3860-044a-11f0-9db3-7709437f2a9b.html#:~:text=HB%201296)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESHB%201296)
 * 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201296)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201296)
+* 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=The%20House%20version)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201296)
 * 03/14/2025 [House Democrats](/org/house_democrats/) - [House passes Stonier bill to keep students safe – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/14/house-passes-stonier-bill-to-keep-students-safe/#:~:text=House%20Bill%201296)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201296)
@@ -54,7 +56,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=4)
 
-#### 847 👍 - Pro
+#### 949 👍 - Pro
 Testifying:
 * Emily Carmichael
 * Maggie Anderson
@@ -77,8 +79,9 @@ Testifying:
 * Emma Kohl
 * Amasai Jeke - UTOPIA Washington
 * Amelia Fruzzetti
+* Amy Cannava - Washington State Association of School Psychologists
 
-#### 3007 👎 - Con
+#### 3372 👎 - Con
 Testifying:
 * Matthew Jackmond - A long time WA Resident and a very concerned voter!
 * laurielayne1@gmail.com Layne

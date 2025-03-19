@@ -22,9 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=4)
 
-#### 19 👍 - Pro
+#### 21 👍 - Pro
 
-#### 1 👎 - Con
+#### 69 👎 - Con
+Testifying:
+* Mindy Chumbley - [Washington Collectors Association](/org/washington_collectors_association/)
 
 #### 0 ❓ - Other
 

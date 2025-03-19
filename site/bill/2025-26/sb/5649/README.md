@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Wed 03/19 09:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SB 5649 Supply chain competitiveness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33017&aId=165921&caId=26596&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33017&aId=165921&caId=26596&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33017&aId=165921&caId=26596&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33017&aId=165921&caId=26596&tId=4)
-
-#### 84 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Adam LeMieux - [Port of Everett](/org/port_of_everett/)
 * Chris Herman - www.washingtonports.org
 * Sean Eagan - Northwest Seaport Alliance
 * Timothy Greene Sr. - Chairman of the Makah Tribe
+* Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
 
 #### 5 👎 - Con
 

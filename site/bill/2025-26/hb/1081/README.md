@@ -12,15 +12,9 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1081 Solicited real estate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=4)
+#### 93 👍 - Pro
 
-#### 65 👍 - Pro
-
-#### 35 👎 - Con
+#### 48 👎 - Con
 Testifying:
 * Kristi Winters
 

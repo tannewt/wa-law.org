@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Bills, budget and how we got here - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205263)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=E2SSB%205263)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205263)
 * 03/14/2025 [KIRO7](/org/kiro7/) - [School budgets under pressure amid federal funding concerns – KIRO 7 News Seattle](https://www.kiro7.com/news/local/school-budgets-under-pressure-amid-federal-funding-concerns/263JTL7AZJHNFBFWLLTVBMDQWQ/#:~:text=In%20SB%205263,)
@@ -43,7 +44,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=4)
 
-#### 1764 👍 - Pro
+#### 2129 👍 - Pro
 Testifying:
 * Mary Templeton - [School Alliance](/org/school_alliance/)
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
@@ -65,11 +66,16 @@ Testifying:
 * Christian Rider
 * Ryan Arnold - East Valley School District
 * Rob Bryant - CFO - Federal Way Public Schools
+* Colleen Fuchs - Early Childhood Development Association of WA
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Julie Shin - [Boyer Children's Clinic](/org/boyer_children's_clinic/)
+* Gregory Smith
 
-#### 4 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Eric Fisk
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5263 Special education funding
 #### 3091 👍 - Pro

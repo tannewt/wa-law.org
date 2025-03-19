@@ -3,6 +3,8 @@
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+
 ## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Dave Arbaugh
 

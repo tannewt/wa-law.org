@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165913&caId=26579&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165913&caId=26579&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Dr. Douglas Seiler - TRA Medical Imaging
+* Sarah Russell - Inland Imaging
+* Jim Hedrick - Washington State Radiological Society (WSRS)
 
 #### 0 👎 - Con
 

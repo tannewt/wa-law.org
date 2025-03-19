@@ -16,6 +16,8 @@
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Nadine Nadow
 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  

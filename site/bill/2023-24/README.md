@@ -11,11 +11,11 @@
 * [HB 1240](hb/1240) - Firearms/assault weapons 63📰 2828👍 10425👎 26❓ - C 162 L 23
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 43📰 3402👍 8858👎 16❓ - C 161 L 23
 * [HB 1469](hb/1469) - Health care services/access 32📰 6406👍 4534👎 9❓ - C 193 L 23
-* [HB 2114](hb/2114) - Residential tenants 59📰 7035👍 3700👎 50❓ - HRules 3C
+* [HB 2114](hb/2114) - Residential tenants 60📰 7035👍 3700👎 50❓ - HRules 3C
 * [SB 5599](sb/5599) - Protected health care/youth 38📰 569👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 24📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - HHC/Wellness
-* [SB 5770](sb/5770) - Property tax 38📰 516👍 7579👎 203❓ - SRules X
+* [SB 5770](sb/5770) - Property tax 39📰 516👍 7579👎 203❓ - SRules X
 * [HB 1110](hb/1110) - Middle housing 96📰 5098👍 1228👎 53❓ - C 332 L 23
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - SWays & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - HRules X
@@ -55,7 +55,7 @@
 * [HB 1655](hb/1655) - Provider contract comp. 2939👍 10👎 12❓ - HApprops
 * [HB 1628](hb/1628) - Real estate excise tax 17📰 1357👍 1518👎 5❓ - HRules X
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 8📰 2527👍 293👎 16❓ - C 255 L 24
-* [HB 1589](hb/1589) - Clean energy 81📰 542👍 2183👎 42❓ - C 351 L 24
+* [HB 1589](hb/1589) - Clean energy 82📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 37📰 2545👍 46👎 35❓ - SRules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - HRules 3C
 * [HB 1832](hb/1832) - Vehicle per mile charge 8📰 62👍 2527👎 34❓ - HTransportation
@@ -883,7 +883,7 @@
 * [SB 5622](sb/5622) - Municipal water supply 35👍 65👎 0❓ - SAg/Water/Natur
 * [SB 6230](sb/6230) - Tax increment areas 68👍 32👎 0❓ - SLoc Gov, Land
 * [HB 1067](hb/1067) - High-hazard facility wages 55👍 44👎 0❓ - HRules X
-* [HB 1446](hb/1446) - Law enf. officers/increase 5📰 95👍 4👎 0❓ - HLocal Govt
+* [HB 1446](hb/1446) - Law enf. officers/increase 6📰 95👍 4👎 0❓ - HLocal Govt
 * [HB 1551](hb/1551) - Lead in cookware 6📰 86👍 1👎 12❓ - C 340 L 24
 * [HB 1797](hb/1797) - Real estate appraisers/eval. 1📰 97👍 0👎 2❓ - C 464 L 23
 * [HB 2128](hb/2128) - Certificate of need program 92👍 0👎 7❓ - HRules 3C
@@ -950,7 +950,7 @@
 * [SB 5632](sb/5632) - Labor disputes/health care 3📰 51👍 32👎 0❓ - C 263 L 24
 * [HB 1342](hb/1342) - Embodied carbon reductions 51👍 25👎 6❓ - HCap Budget
 * [HB 2465](hb/2465) - State building code council 79👍 0👎 3❓ - HRules X
-* [SB 6076](sb/6076) - Criminal justice local tax 3📰 41👍 41👎 0❓ - SWays & Means
+* [SB 6076](sb/6076) - Criminal justice local tax 4📰 41👍 41👎 0❓ - SWays & Means
 * [HB 1543](hb/1543) - Horse program/Coyote Ridge 1📰 81👍 0👎 0❓ - HRules X
 * [HB 1781](hb/1781) - Boater safety and education 3👍 77👎 1❓ - HInnov, Comm &
 * [SB 5230](sb/5230) - Extended foster care 3📰 72👍 7👎 2❓ - SWays & Means

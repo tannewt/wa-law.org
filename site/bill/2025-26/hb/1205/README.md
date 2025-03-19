@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations#:~:text=House%20Bill%201205)
+
 ## Meetings
 ### Mon 03/17 10:30 AM - Law & Justice (LAW): SHB 1205 Forged digital likeness
 #### 1 👍 - Pro

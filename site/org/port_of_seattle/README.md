@@ -97,7 +97,7 @@
 * 👍 John Flanagan
 * 👍 John Flanagan
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 * 👍💵 Brooke Davies
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 

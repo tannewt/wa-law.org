@@ -19,12 +19,14 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 11 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Thomas Eshleman - Doyles Sheehan
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Doug Ball - Jacksons Food Stores
 * Glenda Giles - Jacksons Food Stores
 * Tiffany Coberly - Jacksons Food Stores
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

@@ -16,7 +16,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍9  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
@@ -27,7 +27,7 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍2  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍3  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍4  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 

@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165677&caId=26500&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165677&caId=26500&tId=4)
 
-#### 64 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Allison Lally - Brookdale Senior Living
 * 💵Courtney Williams - Director of Government Affairs and Advocacy for The Adult Family Home Council
 * Lauri St Ours - WHCA
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 

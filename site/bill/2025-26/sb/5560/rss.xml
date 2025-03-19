@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5560/</link>
 		<description>Updates about SB 5560</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 10:13:30 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 11:58:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Madeline/Matson/2025-02-18 10:13:30</guid>
+		</item>
+		<item>
+			<title>Dead or alive: Which bills have a chance this legislative session? | Cascade PBS</title>
+			<description>News article "Dead or alive: Which bills have a chance this legislative session? | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 14 Mar 2025 11:58:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=state%20clam</guid>
 		</item>
 	</channel>
 </rss>

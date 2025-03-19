@@ -19,7 +19,8 @@
 
 ### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍1  
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
+* 👍 Paul Jarkiewicz
 * 👍 Paul Jarkiewicz
 
 ## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  

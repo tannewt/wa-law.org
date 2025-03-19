@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=4)
 
-#### 503 👍 - Pro
+#### 532 👍 - Pro
 Testifying:
 * Donna Kristaponis - WACCRA
 * Kimberly HIckman - WACCRA

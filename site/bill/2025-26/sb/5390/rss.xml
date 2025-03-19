@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5390/</link>
 		<description>Updates about SB 5390</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 10:25:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 09:03:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -282,6 +282,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Melena/Thompson/2025-03-18 10:25:56</guid>
+		</item>
+		<item>
+			<title>❓Kelly Jiang - Issaquah Alps Trails Club</title>
+			<description>Kelly Jiang signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/issaquah_alps_trails_club/"&gt;Issaquah Alps Trails Club&lt;/a&gt;.</description>
+			<pubDate>Tue, 18 Mar 2025 10:26:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kelly/Jiang/2025-03-18 10:26:38</guid>
+		</item>
+		<item>
+			<title>❓Ted Jackson - WA ATV Association</title>
+			<description>Ted Jackson signed up to testify Other. They are signed up to represent WA ATV Association.</description>
+			<pubDate>Wed, 19 Mar 2025 08:26:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Ted/Jackson/2025-03-19 08:26:45</guid>
+		</item>
+		<item>
+			<title>❓Philip wolff - WA ATV Association</title>
+			<description>Philip wolff signed up to testify Other.</description>
+			<pubDate>Wed, 19 Mar 2025 09:03:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Philip/wolff/2025-03-19 09:03:45</guid>
 		</item>
 	</channel>
 </rss>

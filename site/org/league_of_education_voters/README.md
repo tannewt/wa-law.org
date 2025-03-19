@@ -15,6 +15,8 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
 ### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding   ❓1
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
@@ -50,7 +52,7 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 

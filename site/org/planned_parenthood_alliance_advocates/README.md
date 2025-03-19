@@ -26,7 +26,7 @@
 
 ### [HB 1215](/bill/2025-26/hb/1215/) - Natural death act/pregnancy 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
 * 👍💵 Courtney Normand

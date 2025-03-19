@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=4)
 
-#### 4 👍 - Pro
+#### 426 👍 - Pro
 Testifying:
 * Jim Thornton
+* Alisa Fedorenko
 
-#### 3 👎 - Con
+#### 65 👎 - Con
 Testifying:
 * Dusty Hoerler - Craftsman Plumbing
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Matthew Thormodson
 
 ### Tue 02/11 10:30 AM - Local Government (LG): HB 1814 SEPA/trails and paths
 #### 16 👍 - Pro

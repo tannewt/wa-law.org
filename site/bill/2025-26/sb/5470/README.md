@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=detached%20accessory%20dwelling%20units)
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205470)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205470)
 

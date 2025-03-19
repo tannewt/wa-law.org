@@ -24,7 +24,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=4)
 
-#### 333 👍 - Pro
+#### 337 👍 - Pro
 Testifying:
 * Tracy Brown
 * LaKeisha Davis - Habitat for Humanity Spokane
@@ -38,8 +38,9 @@ Testifying:
 * Lisa DeBrock - Washington State Housing Finance Commission
 * Michael Fornerette
 * Patience Malaba - Housing Development Consortium Seattle-King County
+* Susan Cozzens - Quaker Voice on Washington Public Policy
 
-#### 6980 👎 - Con
+#### 7399 👎 - Con
 Testifying:
 * Hailey Irvine
 * TaraLyn Fray
@@ -47,7 +48,7 @@ Testifying:
 * Matthew Jackmond - A long time WA Resident and a very concerned taxpayer!
 * Tim Eyman - Initiative Activist
 
-#### 15 ❓ - Other
+#### 17 ❓ - Other
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1696 Covenant homeownership prg.
 #### 27 👍 - Pro

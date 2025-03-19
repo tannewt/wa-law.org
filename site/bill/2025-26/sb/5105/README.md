@@ -13,6 +13,7 @@
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205105)
 * 02/08/2025 [Senate Democrats](/org/senate_democrats/) - [Week four recap: Bill updates, State Route 509 construction forum, and resources for immigrants and refugees - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/02/07/week-four-recap-bill-updates-state-route-509-construction-forum-and-resources-for-immigrants-and-refugees/#:~:text=Senate%20Bill%205105)
 * 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate Passes Bill Banning AI-Generated Child Sexual Abuse Material - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/02/05/senate-passes-bill-banning-ai-generated-child-sexual-abuse-material/#:~:text=Senate%20Bill%205105)
+* 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations#:~:text=SB%205105)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205105)
 
 ## Meetings

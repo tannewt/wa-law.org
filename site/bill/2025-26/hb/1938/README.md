@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=a%20new%20state%20flag)
 * 02/25/2025 [KUOW](/org/kuow/) - [KUOW - Does the Washington flag need a facelift?](https://www.kuow.org/stories/does-the-washington-flag-need-a-facelift#:~:text=HB%201938)
 * 02/22/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2025/02/22/rip-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%201938)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Lawmakers consider bill that would redesign the Washington state flag | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b12da9e4-eef8-11ef-adfc-87d7e083c00e.html#:~:text=House%20Bill%201938)

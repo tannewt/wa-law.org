@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1546/</link>
 		<description>Updates about HB 1546</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 08:22:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,30 @@
 			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-12/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Dr. Douglas Seiler - TRA Medical Imaging</title>
+			<description>Dr. Douglas Seiler signed up to testify Pro. They are signed up to represent TRA Medical Imaging.</description>
+			<pubDate>Wed, 19 Mar 2025 08:17:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Douglas/Seiler/2025-03-19 08:17:38</guid>
+		</item>
+		<item>
+			<title>👍Sarah Russell - Inland Imaging</title>
+			<description>Sarah Russell signed up to testify Pro. They are signed up to represent Inland Imaging.</description>
+			<pubDate>Wed, 19 Mar 2025 08:17:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Russell/2025-03-19 08:17:38</guid>
+		</item>
+		<item>
+			<title>👍Jim Hedrick - Washington State Radiological Society (WSRS)</title>
+			<description>Jim Hedrick signed up to testify Pro. They are signed up to represent Washington State Radiological Society (WSRS).</description>
+			<pubDate>Wed, 19 Mar 2025 08:22:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Hedrick/2025-03-19 08:22:07</guid>
 		</item>
 	</channel>
 </rss>

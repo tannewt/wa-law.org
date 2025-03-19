@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=House%20Bill%201132)
+* 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=to%20limit%20bulk%20purchases%20of%20guns%20and%20ammunition)
 * 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=House%20Bill%201132)
 * 01/31/2025 [MyNorthwest](/org/mynorthwest/) - [Washington committee advances 3 controversial firearm bills](https://mynorthwest.com/mynorthwest-politics/firearm-bills/4037773#:~:text=House%20Bill%201132)
 * 01/31/2025 [FOX13](/org/fox13/) - [3 controversial WA gun bills move out of committee | FOX 13 Seattle](https://www.fox13seattle.com/news/controversial-gun-bills-move-committee#:~:text=HB%201132)

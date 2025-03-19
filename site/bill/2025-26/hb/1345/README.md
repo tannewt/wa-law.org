@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=in%20rural%20areas)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201345)
 
 ## Meetings

@@ -4,7 +4,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Aaron Yared
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
 ### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 

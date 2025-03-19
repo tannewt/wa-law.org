@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165859&caId=26377&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165859&caId=26377&tId=4)
 
-#### 88 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Amber Paulson - Kaleidoscope Preschool and Child Care Center
 * Fabiola Macedonio - ESD 105 Early Learning

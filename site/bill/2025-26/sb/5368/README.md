@@ -23,7 +23,7 @@ Sign up to testify:
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 0 👎 - Con
+#### 65 👎 - Con
 
 #### 0 ❓ - Other
 

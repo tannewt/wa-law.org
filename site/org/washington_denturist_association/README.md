@@ -4,13 +4,15 @@
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices   ❓1
 * ❓💵 Carolyn Logue
 
-## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices   ❓1
+## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices 👍1  ❓1
 * ❓💵 Carolyn Logue
+* 👍💵 Carolyn Logue
 
 ## 2023-24
 
-### [SB 5351](/bill/2023-24/sb/5351/) - Dental insurance practices   ❓1
+### [SB 5351](/bill/2023-24/sb/5351/) - Dental insurance practices 👍1  ❓1
 * ❓💵 Carolyn Logue
+* 👍💵 Carolyn Logue
 
 ### [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 
 

@@ -16,13 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * 💵John Rothlin - Avista Corporation
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

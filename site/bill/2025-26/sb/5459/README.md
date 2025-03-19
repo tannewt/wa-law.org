@@ -13,19 +13,13 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5459 Call center retention
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=4)
-
-#### 24 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Christine Reid - IBEW
 * Eileen Nix - [Communications Workers of America](/org/communications_workers_of_america/)
 * Krystal Rivas - [Communications Workers of America](/org/communications_workers_of_america/)
 
-#### 29 👎 - Con
+#### 40 👎 - Con
 
 #### 0 ❓ - Other
 

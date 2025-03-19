@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Bills, budget and how we got here - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205721)
+
 ## Meetings
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5721 Automobile insurance
 #### 83 👍 - Pro

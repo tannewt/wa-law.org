@@ -20,7 +20,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Luke Masselink - OSA - available for questions
 
 ### Thu 01/23 04:00 PM - Ways & Means (WM): SB 5357 Actuarial pension funding
 #### 20 👍 - Pro

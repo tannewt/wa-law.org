@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/11/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington House passes ‘rent stabilization’ bill, moves to Senate | Cascade PBS](https://www.cascadepbs.org/politics/2025/03/washington-house-passes-rent-stabilization-bill-moves-senate#:~:text=A%20bill%20with%20a%207%%20cap%20on%20rent%20increases)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [House sends rent stabilization to the Senate, moving toward predictability for Washington renters – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/house-sends-rent-stabilization-to-the-senate-moving-toward-predictability-for-washington-renters/#:~:text=similar%20legislation)
 * 01/16/2025 [Axios](/org/axios/) - [Washington Legislature weighs new bill to limit rent increases - Axios Seattle](https://www.axios.com/local/seattle/2025/01/16/rent-increase-cap-law-washington-state#:~:text=similar%20bill)
 * 01/11/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington lawmakers revive plan for state cap on rent increases | Cascadia Daily News](https://www.cascadiadaily.com/2025/jan/11/washington-lawmakers-revive-plan-for-state-cap-on-rent-increases/#:~:text=where%20the%20plan%20left%20off%20last%20year)

@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): 2SHB 1516 Insurance/affordable units
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165842&caId=26372&tId=4)
-
-#### 88 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
@@ -24,7 +18,7 @@ Testifying:
 * 💵Bill Clarke - WA REALTORS
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 544 👎 - Con
+#### 598 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Kristi Winters

@@ -1,6 +1,9 @@
 # Washington Collectors Association
 ## 2025-26
 
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions  👎1 
+* 👎 Mindy Chumbley
+
 ## [SB 5720](/bill/2025-26/sb/5720/) - Uniform debt default act   ❓1
 * ❓ kevin underwood
 

@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Human Services (HS): 2SHB 1391 Court alternatives/youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165725&caId=26406&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165725&caId=26406&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165725&caId=26406&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165725&caId=26406&tId=4)
-
-#### 61 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Joshua Wheeldon - TeamChild youth Advisary Baord
@@ -29,7 +23,7 @@ Testifying:
 * 💵Radu Smintina - School's Out Washington
 * Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 20 👎 - Con
+#### 29 👎 - Con
 
 #### 0 ❓ - Other
 

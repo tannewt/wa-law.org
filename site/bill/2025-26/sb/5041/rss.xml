@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5041/</link>
 		<description>Updates about SB 5041</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 07:30:40 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 12:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1327,6 +1327,13 @@
 			<guid isPermaLink="false">testifier/Paul/Jewell/2025-03-12 05:31:22</guid>
 		</item>
 		<item>
+			<title>The view from Olympia: Meet our new state politics reporter | Cascade PBS</title>
+			<description>News article "The view from Olympia: Meet our new state politics reporter | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Wed, 12 Mar 2025 11:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/inside-cascade-pbs/2025/03/view-olympia-meet-our-new-state-politics-reporter#:~:text=striking%20workers%20to%20receive%20unemployment%20insurance</guid>
+		</item>
+		<item>
 			<title>👎Miriam Battson - Gig Harbor Chamber of Commerce</title>
 			<description>Miriam Battson signed up to testify Con. They are signed up to represent Gig Harbor Chamber of Commerce.</description>
 			<pubDate>Fri, 14 Mar 2025 01:32:53 GMT</pubDate>
@@ -1349,6 +1356,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Elizabeth/New/2025-03-14 04:01:31</guid>
+		</item>
+		<item>
+			<title>Dead or alive: Which bills have a chance this legislative session? | Cascade PBS</title>
+			<description>News article "Dead or alive: Which bills have a chance this legislative session? | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 14 Mar 2025 11:58:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=Senate%20Bill%205041</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
@@ -1627,6 +1641,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tom/Bosserman/2025-03-18 07:30:40</guid>
+		</item>
+		<item>
+			<title>WA bill aims to extend unemployment benefits to workers on strike | Cascade PBS</title>
+			<description>News article "WA bill aims to extend unemployment benefits to workers on strike | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Tue, 18 Mar 2025 12:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2025/03/wa-bill-aims-extend-unemployment-benefits-workers-strike#:~:text=Senate%20Bill%205041</guid>
 		</item>
 	</channel>
 </rss>

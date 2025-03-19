@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5192/</link>
 		<description>Updates about SB 5192</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 10:32:03 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 16:34:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -992,6 +992,13 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205192</guid>
 		</item>
 		<item>
+			<title>Friday deadline looms for WA’s free-school-meals-for-all bill | Cascade PBS</title>
+			<description>News article "Friday deadline looms for WA’s free-school-meals-for-all bill | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Thu, 27 Feb 2025 21:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/02/friday-deadline-looms-was-free-school-meals-all-bill#:~:text=school%20operations</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
@@ -1376,6 +1383,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Patrick/Murphy/2025-03-18 10:32:03</guid>
+		</item>
+		<item>
+			<title>Bills, budget and how we got here - Sen. Derek Stanford</title>
+			<description>News article "Bills, budget and how we got here - Sen. Derek Stanford" from Senate Democrats.</description>
+			<pubDate>Wed, 19 Mar 2025 16:34:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205192</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/19/2025 [KUOW](/org/kuow/) - [KUOW - The steep climb to unionize REI](https://www.kuow.org/stories/the-steep-climb-to-unionize-rei#:~:text=House%20Bill%201635)
+* 02/14/2025 [Cascade PBS](/org/cascade_pbs/) - [WA bill would force REI co-op to reserve board seats for workers | Cascade PBS](https://www.cascadepbs.org/briefs/2025/02/wa-bill-would-force-rei-co-op-reserve-board-seats-workers#:~:text=House%20Bill%201635)
 * 02/13/2025 [KUOW](/org/kuow/) - [KUOW - 'Green vest’ workers fight for union representation on REI board](https://www.kuow.org/stories/green-vest-workers-fight-for-union-representation-on-rei-board#:~:text=House%20Bill%201635)
 
 ## Meetings

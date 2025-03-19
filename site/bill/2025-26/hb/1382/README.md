@@ -25,7 +25,7 @@ Testifying:
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * Nico Janssen - Office of the Insurance Commissioner
 
-#### 279 👎 - Con
+#### 364 👎 - Con
 Testifying:
 * TaraLyn Fray
 

@@ -20,9 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165567&caId=26491&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165567&caId=26491&tId=4)
 
-#### 18 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
-#### 67 👎 - Con
+#### 68 👎 - Con
 
 #### 0 ❓ - Other
 

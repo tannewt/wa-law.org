@@ -18,12 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165970&caId=26614&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165970&caId=26614&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Sherry Jennings PhD
 * Nicole Ver Kuilen
+* Shane Solomon
 
-#### 250 👎 - Con
+#### 327 👎 - Con
 Testifying:
 * TaraLyn Fray
 

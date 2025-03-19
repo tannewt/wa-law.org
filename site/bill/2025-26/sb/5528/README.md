@@ -9,22 +9,17 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5528 Transp. electrification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165801&caId=26520&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165801&caId=26520&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165801&caId=26520&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165801&caId=26520&tId=4)
-
-#### 178 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Peter Hasegawa - IBEW Local 46
+* 💵Matthew Hepner - IBEW/ceww
 * Anthony Geren - Licensed Journey-level Electrician
 * Bernie Kotlier - International Co-Chair, EVITP
 * 💵Christine Reid - IBEW Local 77
 * 💵Nicole Grant - IBEW Local 46
 * Vernon Counsellor II - Ozz Electric WA Inc.
 
-#### 556 👎 - Con
+#### 609 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Peter Hasegawa - IBEW Local 46

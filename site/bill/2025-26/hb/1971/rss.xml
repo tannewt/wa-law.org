@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1971/</link>
 		<description>Updates about HB 1971</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 10:32:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 09:41:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -209,6 +209,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amasai/Jeke/2025-03-18 10:32:59</guid>
+		</item>
+		<item>
+			<title>👍Aspen Coyle - UTOPIA Washington</title>
+			<description>Aspen Coyle signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Mar 2025 09:33:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Aspen/Coyle/2025-03-19 09:33:23</guid>
+		</item>
+		<item>
+			<title>👍Zoë Schirmer - UTOPIA Washington</title>
+			<description>Zoë Schirmer signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Mar 2025 09:41:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Zoë/Schirmer/2025-03-19 09:41:44</guid>
 		</item>
 	</channel>
 </rss>

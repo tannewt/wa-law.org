@@ -10,12 +10,6 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Local Government (LG): ESSB 5719 Local gov. hearing examiners
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=4)
-
 #### 84 👍 - Pro
 Testifying:
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
@@ -27,7 +21,7 @@ Testifying:
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * Preston Frederickson
 
-#### 37 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * Kristi Winters
 

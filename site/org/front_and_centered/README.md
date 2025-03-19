@@ -13,6 +13,8 @@
 * 👍 Nico Wedekind
 * 👍💵 Guillermo Rogel
 
+### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 * 👍💵 Guillermo Rogel
 

@@ -27,6 +27,8 @@
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  

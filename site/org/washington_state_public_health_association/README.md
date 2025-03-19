@@ -89,6 +89,8 @@
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
+### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
+
 ## [SB 5762](/bill/2025-26/sb/5762/) - 988 line tax 👍1  
 
 ## 2023-24

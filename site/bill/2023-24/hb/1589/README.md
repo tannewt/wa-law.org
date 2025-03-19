@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 02/12/2025 [Sightline Institute](/org/sightline_institute/) - [Ending Subsidies for New Gas Hook-Ups Can Save Cascadians Millions | Sightline Institute](https://www.sightline.org/2025/02/11/ending-subsidies-for-new-gas-hook-ups-can-save-cascadians-millions/#:~:text=HB%201589)
+* 12/13/2024 [Cascade PBS](/org/cascade_pbs/) - [Dueling lawsuits fuel debate over WA natural gas initiative | Cascade PBS](https://www.cascadepbs.org/environment/2024/12/dueling-lawsuits-fuel-debate-over-wa-natural-gas-initiative#:~:text=House%20Bill%201589)
 * 12/12/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington’s voter-approved natural gas measure snared in two lawsuits • Washington State Standard](https://washingtonstatestandard.com/2024/12/11/washingtons-voter-approved-natural-gas-measure-snared-in-two-lawsuits/#:~:text=House%20Bill%201589)
 * 12/11/2024 [The Center Square](/org/the_center_square/) - [Natural Gas group touts I-2066 as evidence Americans love natural gas | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_44c0fcb4-b782-11ef-b121-bf48facfc70c.html#:~:text=House%20Bill%201589%20,)
 * 12/11/2024 [Gorge News Center](/org/gorge_news_center/) - [Washington’s voter-approved natural gas measure snared in two lawsuits](https://gorgenewscenter.com/2024/12/11/washingtons-voter-approved-natural-gas-measure-snared-in-two-lawsuits/#:~:text=House%20Bill%201589)

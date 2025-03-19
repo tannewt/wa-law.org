@@ -25,11 +25,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=4)
 
-#### 289 👍 - Pro
+#### 319 👍 - Pro
 Testifying:
 * Breck Lebegue
 
-#### 3517 👎 - Con
+#### 3670 👎 - Con
 Testifying:
 * Laurie Layne
 * Leah Houser
@@ -52,6 +52,13 @@ Testifying:
 * Natalie Chavez
 * Tanya Goodman
 * Makiah Hunnicutt
+* Chuck Gades
+* Michael Williams
+* Judy ann Williams
+* Nanette Gemmer
+* Colleen Wise
+* Maurya Broadsword
+* Theresa Caron
 
 #### 5 ❓ - Other
 

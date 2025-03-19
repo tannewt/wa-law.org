@@ -57,7 +57,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
 
-#### 4533 👍 - Pro
+#### 5005 👍 - Pro
 Testifying:
 * Makayla Pugmire
 * Kyle Matheson - Self advocate
@@ -97,8 +97,10 @@ Testifying:
 * Vanessa Kritzer - Redmond City Council President
 * Jennifer Johnson
 * Lauren Moffat
+* Kimberly Marquette - Gideonglassart
+* Kimberly Marquette - Gideonglassart
 
-#### 3597 👎 - Con
+#### 3996 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
@@ -168,16 +170,37 @@ Testifying:
 * James Helms
 * Emilia Furmanczyk
 * Mike Nykreim
+* Tim Eyman - Initiative Activist
+* Ben Assa
+* Dakota Manley - Washington State Young Republicans
 * Susan Watkins
 * Emily Cain
 * Mischa Heide
 * Trina Homan
+* Chris Rossman - NAIOP WA State
+* Emily Thompson - GMD Development LLC
+* Morgan Shook - ECOnorthwest
+* Chris Rossman - NAIOP WA State
+* John Girgis
+* 💵Brett Waller - Weidner Apartment Homes
+* Carl Shorett - AvalonBay Communities
+* Carter Nelson
+* Michael Gustavson - Kitsap Alliance of Property Owners
+* 💵Andrea Smiley - BIAW
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Nick Streuli - REaltors
+* Cory Brewer
+* Dave Dearth
+* Kathy Dobler
+* 💵Katherine Mahoney - [April Housing](/org/april_housing/)
+* Eyman Tim - Initiative Activist
 
-#### 52 ❓ - Other
+#### 56 ❓ - Other
 Testifying:
 * David Toler - Olympia for All
 * Catina M Clare - Community
 * Art Chippendale - Vashon Household
+* 💵Casey Brown - Southport Financial Services
 
 ### Mon 02/03 04:00 PM - Appropriations (APP): SHB 1217 Residential tenants
 #### 3607 👍 - Pro

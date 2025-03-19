@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/27/2025 [Cascade PBS](/org/cascade_pbs/) - [Friday deadline looms for WA’s free-school-meals-for-all bill | Cascade PBS](https://www.cascadepbs.org/briefs/2025/02/friday-deadline-looms-was-free-school-meals-all-bill#:~:text=its%20version%20of%20the%20legislation)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=SB%205352)
 * 02/04/2025 [FOX13](/org/fox13/) - [WA lawmakers consider expanding free food for students | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-expanding-free-food-students#:~:text=Senate%20Bill%205352)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205352)

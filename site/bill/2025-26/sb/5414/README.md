@@ -22,7 +22,7 @@ Testifying:
 * Scott Frank - Washington State Auditor
 * 💵Scott Nelson - Washington State Auditor
 
-#### 1637 👎 - Con
+#### 1738 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Kristi Winters

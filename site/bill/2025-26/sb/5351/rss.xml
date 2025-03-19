@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5351/</link>
 		<description>Updates about SB 5351</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 12:12:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 09:54:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Linda/Seltzer/2025-01-24 05:02:57</guid>
 		</item>
 		<item>
-			<title>👍Robert Chaddock - Washington State Dental Association</title>
+			<title>👍Robert Chaddock - Delta Dental of WA</title>
 			<description>Robert Chaddock signed up to testify Pro.</description>
 			<pubDate>Sun, 26 Jan 2025 11:51:39 GMT</pubDate>
 			<category>testifier</category>
@@ -39,7 +39,7 @@
 			<guid isPermaLink="false">testifier/Robert/Chaddock/2025-01-26 11:51:39</guid>
 		</item>
 		<item>
-			<title>👍Arezoo Holdaway - Washington State Dental Association</title>
+			<title>👍Arezoo Holdaway - Delta Dental of WA</title>
 			<description>Arezoo Holdaway signed up to testify Pro.</description>
 			<pubDate>Mon, 27 Jan 2025 04:36:18 GMT</pubDate>
 			<category>testifier</category>
@@ -47,7 +47,7 @@
 			<guid isPermaLink="false">testifier/Arezoo/Holdaway/2025-01-27 04:36:18</guid>
 		</item>
 		<item>
-			<title>👍David Chi - Washington State Dental Association</title>
+			<title>👍David Chi - Delta Dental of WA</title>
 			<description>David Chi signed up to testify Pro.</description>
 			<pubDate>Mon, 27 Jan 2025 10:59:02 GMT</pubDate>
 			<category>testifier</category>
@@ -55,7 +55,7 @@
 			<guid isPermaLink="false">testifier/David/Chi/2025-01-27 10:59:02</guid>
 		</item>
 		<item>
-			<title>👍Andrew Kim - Washington State Dental Association</title>
+			<title>👍Andrew Kim - Delta Dental of WA</title>
 			<description>Andrew Kim signed up to testify Pro.</description>
 			<pubDate>Tue, 28 Jan 2025 02:04:45 GMT</pubDate>
 			<category>testifier</category>
@@ -327,6 +327,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kjersten/Heron/2025-03-18 12:12:25</guid>
+		</item>
+		<item>
+			<title>👍💵Carolyn Logue - Washington Denturist Association</title>
+			<description>Carolyn Logue signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_denturist_association/"&gt;Washington Denturist Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 19 Mar 2025 06:32:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2025-03-19 06:32:31</guid>
+		</item>
+		<item>
+			<title>👍💵Sean Pickard - Delta Dental of WA</title>
+			<description>Sean Pickard signed up to testify Pro. They are signed up to represent Delta Dental of WA. They are a registered lobbyist.</description>
+			<pubDate>Wed, 19 Mar 2025 09:54:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Pickard/2025-03-19 09:54:04</guid>
 		</item>
 	</channel>
 </rss>

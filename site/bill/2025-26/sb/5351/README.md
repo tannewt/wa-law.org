@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=4)
 
-#### 724 👍 - Pro
+#### 751 👍 - Pro
 Testifying:
 * Rachael Snell
 * Jane Beyer - Office of the Insurance Commissioner
 * Dave Field - Washington State Dental Association
 * 💵Kevin Schilling - Washington State Dental Association
 * Kjersten Heron - Washington State Dental Association
+* 💵Carolyn Logue - [Washington Denturist Association](/org/washington_denturist_association/)
+* 💵Sean Pickard - Delta Dental of WA
 
 #### 11 👎 - Con
 

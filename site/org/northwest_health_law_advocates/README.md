@@ -51,7 +51,7 @@
 ### [SB 5258](/bill/2025-26/sb/5258/) - Medicaid concurrent enroll.  👎1 
 * 👎💵 Vanessa Saavedra
 
-### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍1  
+### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍2  
 
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍💵 Vanessa Saavedra

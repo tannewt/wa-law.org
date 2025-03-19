@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=4)
 
-#### 151 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Mike Nykreim - Newport West LLC
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties

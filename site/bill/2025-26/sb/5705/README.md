@@ -14,17 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165709&caId=26546&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165709&caId=26546&tId=4)
 
-#### 9 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * BRIAN HORSLEY - National Traffic Safety Institute
 
-#### 10 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Barbara Schmidt
 * David sedelmeier
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
 
 ### Thu 02/13 04:00 PM - Transportation (TRAN): SB 5705 Traffic infraction penalties
 #### 83 👍 - Pro
