@@ -23,10 +23,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165860&caId=26392&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165860&caId=26392&tId=4)
 
-#### 34 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * 💵Jayme Shoun - Washington STEM
 * Jenny Veltri - Career Connect NW/NWESD 189
+* 💵Myle Tang - Stand for Children Washington
+* 💵Sienna Jarrard - Associated Students of UW Bothell
 
 #### 0 👎 - Con
 

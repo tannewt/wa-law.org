@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=4)
 
-#### 426 👍 - Pro
+#### 1064 👍 - Pro
 Testifying:
 * Jim Thornton
 * Alisa Fedorenko
 
-#### 65 👎 - Con
+#### 414 👎 - Con
 Testifying:
 * Dusty Hoerler - Craftsman Plumbing
+* TaraLyn Fray
+* Josh Brower - Ballard Cycle Track Coalition
+* 💵Jay Jennings - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
+* dave gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
+* Eugene Wasserman - North Seattle Industrial Association
 
 #### 1 ❓ - Other
 Testifying:

@@ -5,7 +5,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍2  
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍3  
 
@@ -133,7 +133,7 @@
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
-### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
+### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍2  
 * 👍💵 Ethan Frenchman
 
 ### [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program  👎1 

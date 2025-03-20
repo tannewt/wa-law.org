@@ -5,7 +5,7 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 

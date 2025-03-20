@@ -50,13 +50,7 @@
 
 ## Meetings
 ### Thu 03/20 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1296 Public education system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=4)
-
-#### 949 👍 - Pro
+#### 1356 👍 - Pro
 Testifying:
 * Emily Carmichael
 * Maggie Anderson
@@ -79,9 +73,19 @@ Testifying:
 * Emma Kohl
 * Amasai Jeke - UTOPIA Washington
 * Amelia Fruzzetti
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Aidan Key - Gender Diversity
+* April Eslami
+* Siobhana McEwen - Southwest Washington Equity Coalition
 * Amy Cannava - Washington State Association of School Psychologists
+* Kathryn Salveson - Washington State Association of School Psychologists
+* Albert Johnson
+* Katherine Fromherz
+* Margaret Albaugh
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Michelle Harris
 
-#### 3372 👎 - Con
+#### 5528 👎 - Con
 Testifying:
 * Matthew Jackmond - A long time WA Resident and a very concerned voter!
 * laurielayne1@gmail.com Layne
@@ -108,8 +112,34 @@ Testifying:
 * Anna Burt
 * Gabriel Jacobs
 * Gabriel Jacobs
+* samantha zistatsis
+* Robert Bleu
+* Shengquan Liang
+* Teresa Sanders
+* Li Yan
+* Haiyan Ju
+* Gina Luo
+* Shan Ou
+* Ruth-Fiam Nord - Washington State Young Republicans
+* Anna Xin
+* Helen Anderson
+* Yingshan Jin
+* Jingjing Huang
+* Zhen Wang
+* Xiaohua Chen
+* Tony Wu
+* Hongxia Crowell
+* Luke Zhang
+* Robert Gao
+* Pan Teng
+* Shi Chen
+* Jianghui Wang
+* Yixuan Zhao
+* Claire Han
+* Teresa Sanders
+* Louise Nardi
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
 
 ### Thu 01/23 08:30 AM - Education (ED): HB 1296 Public education system
 #### 1213 👍 - Pro

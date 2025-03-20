@@ -94,9 +94,10 @@
 
 ### [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
 
-### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍3  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍4  
 * 👍 Molly Gallagher
 * 👍 Molly Molly
+* 👍 Molly Gallagher
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 

@@ -25,11 +25,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=4)
 
-#### 319 👍 - Pro
+#### 381 👍 - Pro
 Testifying:
 * Breck Lebegue
+* Caitlin Safford - Office of the Governor
+* 💵Carey Morris - Parent
+* Tao Kwan-Gett - State Health Officer, Washington Department of Health
+* Jan Nichols - Polio Pioneers
+* Jay Miller - Health Officer, Tacoma Pierce County Health Department
+* Sheila Berschauer - Moses Lake Community Health Center
+* Beth Ebel - WA Chapter, American Academy of Pediatrics
+* Carrie Horwitch - MD, MPH
+* Tyler Breier - Parent, Public Health Nurse
+* Rex Johnson - Washington Advocates for Patient Safety
 
-#### 3670 👎 - Con
+#### 4208 👎 - Con
 Testifying:
 * Laurie Layne
 * Leah Houser
@@ -52,13 +62,50 @@ Testifying:
 * Natalie Chavez
 * Tanya Goodman
 * Makiah Hunnicutt
+* Beth Ensley
+* Kathleen Fitzpatrick
+* TaraLyn Fray
+* Gary Englund
+* Joseph Cassidy
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Jenni Brown
+* Donna Prewitt
+* Claude Asher
+* Greg Baltmiskis
+* Carolyn Anderson - RWWC
+* Mary Harju
+* sandy rozumny - None
+* Christine Thurman
+* Coya Erickson
+* Coya Erickson
+* Kory Slaatthaug
+* Kory Slaatthaug
+* Denise Baker
 * Chuck Gades
+* Delbert Burke
+* Candace Moore
 * Michael Williams
 * Judy ann Williams
 * Nanette Gemmer
 * Colleen Wise
 * Maurya Broadsword
+* Deborah Bowen
+* Barbara Connelly - FR
+* Patricia Keene - NO
+* Michelle Andres - legal citizen/legal voter/tax payer
+* Brian Keene - NO
+* Kristie Minkoff
+* Michelle Cuykendall
+* Susan Ward
+* Michelle Haneberg
+* Karen Roberts
 * Theresa Caron
+* Shari Stremler
+* Linda Jennings
+* Regina Kegley
+* LAURA GAHAN - retired
+* tod kimpe
+* Richard Weiss
 
 #### 5 ❓ - Other
 

@@ -385,7 +385,7 @@
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 * 👎💵 Lindsey Hueer
 
-### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
+### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍2  
 * 👍💵 Peter Godlewski
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
@@ -405,7 +405,7 @@
 * 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 
 * 👎💵 Emily Wittman
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions 👍1  
@@ -428,7 +428,7 @@
 
 ### [SB 5118](/bill/2025-26/sb/5118/) - International medical grads 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
@@ -604,6 +604,8 @@
 ### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact  👎1 
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees 👍1  
 

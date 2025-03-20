@@ -11,18 +11,12 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - State Government & Tribal Relations (SGOV): SB 5414 Social equity impact/audits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165643&caId=26536&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165643&caId=26536&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165643&caId=26536&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165643&caId=26536&tId=4)
-
 #### 142 👍 - Pro
 Testifying:
 * Scott Frank - Washington State Auditor
 * 💵Scott Nelson - Washington State Auditor
 
-#### 1738 👎 - Con
+#### 1759 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Kristi Winters

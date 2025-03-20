@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Appropriations (APP): SB 5616 WA saves trust account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165956&caId=26607&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165956&caId=26607&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165956&caId=26607&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165956&caId=26607&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -19,20 +19,14 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Appropriations (APP): E2SSB 5083 Health carrier reimbursement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=4)
-
-#### 361 👍 - Pro
+#### 385 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 109 👎 - Con
+#### 114 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 * Alex Town - Samaritan Healthcare
@@ -45,7 +39,9 @@ Testifying:
 * Candy Hulse
 * Suzanne Beitel - Seattle Children's
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chris Bandoli - [Americas Health Insurance Plans](/org/americas_health_insurance_plans/)
 
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5083 Health carrier reimbursement
 #### 591 👍 - Pro

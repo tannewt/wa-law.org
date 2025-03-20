@@ -18,9 +18,10 @@ Sign up to testify:
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 352 👎 - Con
+#### 494 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

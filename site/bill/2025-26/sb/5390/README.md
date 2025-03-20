@@ -22,22 +22,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * 💵Mark Brown - Former State Parks Commissioner
 * John Floberg - Washington State Parks Foundation
 
-#### 24 👎 - Con
+#### 133 👎 - Con
 
-#### 6 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Jeff Chapman - [Back Country Horsemen of Washington](/org/back_country_horsemen_of_washington/)
 * Graham Clumpner
 * Melena Thompson - Washington Department of Fish and Wildlife
 * Kelly Jiang - [Issaquah Alps Trails Club](/org/issaquah_alps_trails_club/)
+* Nicky Pasi - Mountains to Sound Greenway Trust
+* Kevin Vanderhorst
 * Ted Jackson - WA ATV Association
 * Philip wolff
+* Kyle Farrar
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5390 Discover pass, day-use cost
 #### 49 👍 - Pro

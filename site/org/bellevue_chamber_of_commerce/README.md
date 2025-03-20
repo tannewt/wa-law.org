@@ -3,7 +3,7 @@
 
 ### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎2 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎3 
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 

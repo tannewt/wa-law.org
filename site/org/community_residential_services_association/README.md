@@ -7,7 +7,8 @@
 
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+* ❓💵 Melissa Johnson
 * ❓💵 Melissa Johnson
 
 ### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
@@ -15,6 +16,9 @@
 ### [SB 5125](/bill/2025-26/sb/5125/) - Residential services rate 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+* ❓💵 Melissa Johnson
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Melissa Johnson
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1

@@ -9,6 +9,25 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): ESHB 1430 APRN & PA reimbursement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=4)
+
+#### 24 👍 - Pro
+Testifying:
+* Andrea Phillips
+* Madison Hultquist
+
+#### 10 👎 - Con
+Testifying:
+* Claire Brutocao
+* Kevin McLean
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 01:30 PM - Health Care & Wellness (HCW): HB 1430 APRN & PA reimbursement
 #### 568 👍 - Pro
 Testifying:

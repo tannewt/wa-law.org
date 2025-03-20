@@ -14,6 +14,19 @@
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [House and Senate Shift Back to Committee Activity This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03182025#:~:text=f%20S.B.%205752)
 
 ## Meetings
+### Tue 03/25 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5752 Child care & early dev.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5752 Child care & early dev.
 #### 36 👍 - Pro
 Testifying:

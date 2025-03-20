@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/19/2025 [KING5](/org/king5/) - [Horses rescued from cockfighting bust near Yelm find new hope | king5.com](https://www.king5.com/article/news/local/horses-rescued-cockfighting-bust-near-yelm-find-new-hope/281-8a46f86c-dab0-404d-8a4a-4272fe1d57fd#:~:text=House%20Bill%201149)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201149)
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201149)
 

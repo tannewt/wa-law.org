@@ -20,19 +20,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=4)
 
-#### 170 👍 - Pro
+#### 321 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Erik Lowe - Spokane Reimagined
 * CONSTANCE OHANA - PFLAG Bellingham/Whatcom County
 * Clark Gilman - Former chair, Intercity Transit Authority
+* 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
+* Judy Jones
 * Saunatina Sanchez
 
-#### 388 👎 - Con
+#### 593 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/27 04:00 PM - Transportation (TR): HB 1418 PTBA governing body members
 #### 286 👍 - Pro

@@ -55,7 +55,8 @@
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎2 
 
-### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎4 
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎5 
+* 👎 Mary Long
 
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools  👎2 
 
@@ -169,7 +170,7 @@
 
 ### [SB 5622](/bill/2025-26/sb/5622/) - Diet pills and supplements  👎3 
 
-### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎1 
+### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎2 
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 

@@ -15,6 +15,19 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201503)
 
 ## Meetings
+### Tue 03/25 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1503 Digital equity
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1503 Digital equity
 #### 59 👍 - Pro
 Testifying:

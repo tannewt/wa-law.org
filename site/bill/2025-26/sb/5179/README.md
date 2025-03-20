@@ -24,6 +24,19 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/#:~:text=SB%205179)
 
 ## Meetings
+### Mon 03/24 01:30 PM - Education (ED): 2SSB 5179 Education complaint process
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5179 Education complaint process
 #### 304 👍 - Pro
 Testifying:

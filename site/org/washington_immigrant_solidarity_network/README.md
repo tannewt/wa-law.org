@@ -80,7 +80,7 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍5  
 
-### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
+### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍2  
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 

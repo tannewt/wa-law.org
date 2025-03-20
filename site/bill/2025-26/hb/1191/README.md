@@ -23,13 +23,7 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 03/19 01:30 PM - Housing (HSG): EHB 1191 Manufactured home titles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165897&caId=26552&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165897&caId=26552&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165897&caId=26552&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165897&caId=26552&tId=4)
-
-#### 106 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 

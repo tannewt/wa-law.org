@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1912/</link>
 		<description>Updates about HB 1912</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 08:34:36 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 05:43:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -308,6 +308,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jessica/Spiegel/2025-03-17 08:34:36</guid>
+		</item>
+		<item>
+			<title>👍💵Clifford Traisman - Washington Conservation Action</title>
+			<description>Clifford Traisman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_conservation_action/"&gt;Washington Conservation Action&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 19 Mar 2025 05:43:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Clifford/Traisman/2025-03-19 05:43:34</guid>
 		</item>
 	</channel>
 </rss>

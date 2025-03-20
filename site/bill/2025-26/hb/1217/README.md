@@ -51,13 +51,7 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Housing (HSG): EHB 1217 Residential tenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
-
-#### 5005 👍 - Pro
+#### 5253 👍 - Pro
 Testifying:
 * Makayla Pugmire
 * Kyle Matheson - Self advocate
@@ -99,8 +93,16 @@ Testifying:
 * Lauren Moffat
 * Kimberly Marquette - Gideonglassart
 * Kimberly Marquette - Gideonglassart
+* Daryl Lawrence
+* Isaac Cavazos
+* Aracely Santiago
+* Sharron Hall
+* Rhea de Ruyter
+* Brenda Dill
+* Charity Grice
+* Natasha Fecteau Minger
 
-#### 3996 👎 - Con
+#### 4143 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
@@ -194,8 +196,11 @@ Testifying:
 * Kathy Dobler
 * 💵Katherine Mahoney - [April Housing](/org/april_housing/)
 * Eyman Tim - Initiative Activist
+* Spencer Boudreau - DHI Properties
+* Joseph Hammond
+* Jules James - 425 72nd Ave ne
 
-#### 56 ❓ - Other
+#### 58 ❓ - Other
 Testifying:
 * David Toler - Olympia for All
 * Catina M Clare - Community

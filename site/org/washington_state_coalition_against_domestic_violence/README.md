@@ -15,6 +15,9 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓ Sherrie Tinocco
+
 ### [HB 1205](/bill/2025-26/hb/1205/) - Forged digital likeness 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
@@ -43,6 +46,9 @@
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Sherrie Tinocco
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 * 👍💵 Melanie Smith

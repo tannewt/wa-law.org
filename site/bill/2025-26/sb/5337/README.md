@@ -13,6 +13,21 @@
 * 02/08/2025 [Senate Democrats](/org/senate_democrats/) - [Week four recap: Bill updates, State Route 509 construction forum, and resources for immigrants and refugees - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/02/07/week-four-recap-bill-updates-state-route-509-construction-forum-and-resources-for-immigrants-and-refugees/#:~:text=SB%205337)
 
 ## Meetings
+### Wed 03/26 01:30 PM - Health Care & Wellness (HCW): E2SSB 5337 Memory care services
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Teresa Matthews
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5337 Memory care services
 #### 3 👍 - Pro
 Testifying:

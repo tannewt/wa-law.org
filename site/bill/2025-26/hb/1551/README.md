@@ -13,6 +13,19 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201551)
 
 ## Meetings
+### Fri 03/28 08:00 AM - Labor & Commerce (LC): ESHB 1551 Cannabis social equity prg.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166135&caId=26654&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166135&caId=26654&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166135&caId=26654&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166135&caId=26654&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 01:30 PM - Consumer Protection & Business (CPB): HB 1551 Cannabis social equity prg.
 #### 6 👍 - Pro
 Testifying:

@@ -13,6 +13,19 @@
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Healthcare bills aimed to lower costs and increase accessibility pass house with overwhelming bipartisan support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/healthcare-bills-aimed-to-lower-costs-and-increase-accessibility-pass-house-with-overwhelming-bipartisan-support/#:~:text=HB%201589)
 
 ## Meetings
+### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1589 Health carriers & providers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=4)
+
+#### 66 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1589 Health carriers & providers
 #### 879 👍 - Pro
 Testifying:

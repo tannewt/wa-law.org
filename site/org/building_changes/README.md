@@ -1,7 +1,8 @@
 # Building Changes
 ## 2025-26
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+* ❓💵 Aaron Yared
 * ❓💵 Aaron Yared
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
@@ -33,6 +34,9 @@
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+* ❓💵 Aaron Yared
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Aaron Yared
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  

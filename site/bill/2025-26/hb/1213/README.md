@@ -19,6 +19,19 @@
 * 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=House%20Bill%201213)
 
 ## Meetings
+### Mon 03/24 10:30 AM - Labor & Commerce (LC): E2SHB 1213 Paid family & medical leave
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1213 Paid family & medical leave
 #### 193 👍 - Pro
 Testifying:

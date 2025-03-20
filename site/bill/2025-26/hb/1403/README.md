@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Housing bills to watch as WA's legislative session enters its final weeks • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/housing-bills-to-watch-as-the-washington-legislative-session-enters-its-final-weeks/#:~:text=House%20Bill%201403)
 * 03/12/2025 [House Democrats](/org/house_democrats/) - [Taylor bill could bring more condo construction to WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/taylor-bill-could-bring-more-condo-construction-to-wa/#:~:text=House%20Bill%201403)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201403)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201403)
@@ -19,13 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=4)
 
-#### 154 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * Mike Nykreim - Newport West LLC
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Dave Hamilton - Councilmember, City of Bellevue
 * 💵Bill Clarke - WA REALTORS
+* Brady Nordstrom
+* Sandesh Sadalge - Councilmember, City of Tacoma
 
 #### 3 👎 - Con
 Testifying:

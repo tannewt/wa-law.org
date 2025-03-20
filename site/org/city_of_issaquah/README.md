@@ -18,6 +18,8 @@
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
+
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍2  
 
 ## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  

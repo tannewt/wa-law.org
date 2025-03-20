@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Health Care & Wellness (HCW): SSB 5691 Continuing care oversight
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165678&caId=26501&tId=4)
-
-#### 532 👍 - Pro
+#### 539 👍 - Pro
 Testifying:
 * Donna Kristaponis - WACCRA
 * Kimberly HIckman - WACCRA
@@ -23,6 +17,7 @@ Testifying:
 * Adele martz
 * 💵Glen Melin - LeadingAge Washington
 * Donna Kristaponis
+* Paul Kostek
 
 #### 0 👎 - Con
 

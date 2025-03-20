@@ -13,23 +13,22 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Health & Long Term Care (HLTC): EHB 1382 All payers claim database
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165696&caId=26384&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165696&caId=26384&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165696&caId=26384&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165696&caId=26384&tId=4)
-
-#### 16 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * Nico Janssen - Office of the Insurance Commissioner
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 364 👎 - Con
+#### 552 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
 ### Tue 01/28 01:30 PM - Health Care & Wellness (HCW): HB 1382 All payers claim database
 #### 13 👍 - Pro

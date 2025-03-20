@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Health Care & Wellness (HCW): SSB 5351 Dental insurance practices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=4)
-
-#### 751 👍 - Pro
+#### 761 👍 - Pro
 Testifying:
 * Rachael Snell
 * Jane Beyer - Office of the Insurance Commissioner

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5141/</link>
 		<description>Updates about SB 5141</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 17:24:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,6 +132,20 @@
 			<pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-18/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CPB - Majority; do pass.</title>
+			<description>CPB - Majority; do pass.</description>
+			<pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-18/CPB - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Post house of origin cutoff update! - Sen. Adrian Cortes</title>
+			<description>News article "Post house of origin cutoff update! - Sen. Adrian Cortes" from Senate Democrats.</description>
+			<pubDate>Wed, 19 Mar 2025 17:24:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5141</guid>
 		</item>
 	</channel>
 </rss>

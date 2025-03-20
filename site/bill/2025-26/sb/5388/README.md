@@ -9,21 +9,16 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5388 DOC behavioral health cert.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=4)
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Marc Stern
 * Kellett Sayre - Department of Corrections
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 346 👎 - Con
+#### 481 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sjm/8000/</link>
 		<description>Updates about SJM 8000</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Transportation.</guid>
 		</item>
 		<item>
-			<title>👍Gwen Allen-Carston - Walla Walla Public Schools</title>
+			<title>👍Gwen Allen-Carston - Washington Education Association Association of Higher Education</title>
 			<description>Gwen Allen-Carston signed up to testify Pro.</description>
 			<pubDate>Mon, 20 Jan 2025 11:30:37 GMT</pubDate>
 			<category>testifier</category>
@@ -71,6 +71,13 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-19/TR - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

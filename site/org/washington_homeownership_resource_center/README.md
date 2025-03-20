@@ -30,6 +30,8 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
+
 ## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍5  
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez

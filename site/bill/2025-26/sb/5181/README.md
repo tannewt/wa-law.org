@@ -48,6 +48,22 @@
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205181)
 
 ## Meetings
+### Mon 03/24 01:30 PM - Education (ED): ESSB 5181 Parents rights in education
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=4)
+
+#### 2 👍 - Pro
+
+#### 69 👎 - Con
+Testifying:
+* Laurie Layne
+* Tim Eyman - Initiative Activist
+
+#### 0 ❓ - Other
+
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5181 Parents rights in education
 #### 875 👍 - Pro
 Testifying:

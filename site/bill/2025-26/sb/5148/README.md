@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Housing bills to watch as WA's legislative session enters its final weeks • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/housing-bills-to-watch-as-the-washington-legislative-session-enters-its-final-weeks/#:~:text=Senate%20Bill%205148)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Housing Accountability Act passes Senate - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/03/11/housing-accountability-act-passes-senate/#:~:text=Senate%20Bill%205148)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Housing Accountability Act passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/11/housing-accountability-act-passes-senate/#:~:text=Senate%20Bill%205148)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205148)
@@ -19,24 +20,21 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5148 GMA housing element
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165946&caId=26602&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165946&caId=26602&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165946&caId=26602&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165946&caId=26602&tId=4)
-
-#### 157 👍 - Pro
+#### 333 👍 - Pro
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 360 👎 - Con
+#### 521 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Dave Andersen - Washington Department of Commerce
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5148 GMA housing element
 #### 594 👍 - Pro

@@ -44,8 +44,9 @@
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 
-### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍1  ❓1
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍2  ❓1
 * ❓💵 Clifford Traisman
+* 👍💵 Clifford Traisman
 * 👍💵 Clifford Traisman
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2

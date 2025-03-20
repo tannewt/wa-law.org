@@ -14,18 +14,13 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Environment & Energy (ENVI): E2SSB 5175 Photovoltaic modules
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165567&caId=26491&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165567&caId=26491&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165567&caId=26491&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165567&caId=26491&tId=4)
-
-#### 21 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
+* nora hawkins - Washington Department of Commerce
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
-#### 68 👎 - Con
+#### 69 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -22,13 +22,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=4)
 
-#### 21 👍 - Pro
-
-#### 69 👎 - Con
+#### 42 👍 - Pro
 Testifying:
+* 💵Adam Zarrin - The Leukemia & Lymphoma Society
+* Amanda Martin - NW Consumer Law Center
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Sam Leonard - Washington State Association for Justice
+* Russell Brandt
+
+#### 396 👎 - Con
+Testifying:
+* TaraLyn Fray
 * Mindy Chumbley - [Washington Collectors Association](/org/washington_collectors_association/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
 
 ### Mon 02/10 10:30 AM - Law & Justice (LAW): SB 5651 Garnishment exemption amount
 #### 52 👍 - Pro

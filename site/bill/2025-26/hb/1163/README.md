@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/19/2025 [The Center Square](/org/the_center_square/) - [WSP plans for major workload increase if permit-to-purchase gun bill passes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9c966d80-2b21-4876-b558-b747a4a008bc.html#:~:text=House%20Bill%201163%20,)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=House%20Bill%201163)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201163)
 * 03/12/2025 [Cascade PBS](/org/cascade_pbs/) - [The view from Olympia: Meet our new state politics reporter | Cascade PBS](https://www.cascadepbs.org/inside-cascade-pbs/2025/03/view-olympia-meet-our-new-state-politics-reporter#:~:text=permits%20to%20purchase%20firearms)
@@ -35,6 +36,70 @@
 * 01/14/2025 [MyNorthwest](/org/mynorthwest/) - [Pimps take over Seattle, but Washington Dems take away our guns](https://mynorthwest.com/ktth/ktth-opinion/rantz-will-dangerous-pimps-taking-over-seattle-follow-washington-democrats-gun-laws/4028108#:~:text=House%20Bill%201163)
 
 ## Meetings
+### Tue 03/25 08:00 AM - Law & Justice (LAW): E2SHB 1163 Firearm purchase
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=4)
+
+#### 4 👍 - Pro
+
+#### 1480 👎 - Con
+Testifying:
+* Jane Milhans
+* Jonathan Mendoza
+* Ashley Soderman
+* Wayne Schakel
+* Zachary Andersen
+* Shannon Chris Shuck
+* Jeff Walmsley
+* Benjamin Reed
+* Brandon Filbeck
+* Matthew Jasper
+* travis arnott
+* Alexander Lawrence
+* Jeremy Raymond
+* 💵George Allen
+* Richard White White
+* 💵George Allen
+* Jason Kazmark
+* Derek Chambers
+* Dylan Valorz
+* Scott Theibert
+* Scott Theibert
+* Paul Hanson
+* Timothy Sieverkropp
+* Tamara Hanson
+* Britney Inglis
+* Carson Nichols
+* Derek Berry
+* Christopher Gorney
+* Dwight Smith
+* Grey Kumar
+* Skyler F
+* MICHAEL NIM
+* PHILLIP Johnson
+* Josh Eigenraam
+* Andrew Taft
+* Daniel Holmes
+* Jonathan Tronson
+* Michelle Schreiber
+* Brandon Sharp
+* Christopher Thompson
+* Jessica Straub
+* William Hinzman
+* Joseph DiMarco
+* Donald Miniken
+* Dennis Cherry
+* Justin Moran
+* Regina Mcgovern
+* Bronc Hutsell
+
+#### 1 ❓ - Other
+Testifying:
+* Cory Causey
+
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1163 Firearm purchase
 #### 634 👍 - Pro
 Testifying:

@@ -20,7 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Charles Wharton - AMVETS Legislative Director
 
 #### 0 👎 - Con
 

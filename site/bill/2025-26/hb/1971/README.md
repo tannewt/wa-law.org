@@ -24,7 +24,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=4)
 
-#### 268 👍 - Pro
+#### 496 👍 - Pro
 Testifying:
 * Tela Hogle
 * Fernanda Grether Zdanowsky
@@ -33,8 +33,12 @@ Testifying:
 * Amasai Jeke - UTOPIA Washington
 * Aspen Coyle
 * Zoë Schirmer
+* Syzygy Blankenship - Self
+* Jaycee Stephens
 
-#### 148 👎 - Con
+#### 520 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

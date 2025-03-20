@@ -13,7 +13,7 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Jeff DeLuca
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 

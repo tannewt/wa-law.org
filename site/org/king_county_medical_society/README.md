@@ -9,6 +9,8 @@
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
 
+### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
+
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  

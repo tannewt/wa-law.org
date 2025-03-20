@@ -5,6 +5,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎1 
+
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍1  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  

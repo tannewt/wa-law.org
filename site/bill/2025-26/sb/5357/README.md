@@ -16,13 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165958&caId=26609&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165958&caId=26609&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Sheri Sawyer - Office of Financial Management
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Luke Masselink - OSA - available for questions
+* 💵Emmett Mills - Washington State School Retirees' Association
 
 ### Thu 01/23 04:00 PM - Ways & Means (WM): SB 5357 Actuarial pension funding
 #### 20 👍 - Pro

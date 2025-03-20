@@ -11,6 +11,19 @@
 * 03/11/2025 [House Democrats](/org/house_democrats/) - [Thomas bill updates reimbursement rates for relocation required for government projects.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/thomas-bill-updates-reimbursement-rates-for-relocation-required-for-government-projects/#:~:text=House%20Bill%201733)
 
 ## Meetings
+### Mon 03/24 10:30 AM - Law & Justice (LAW): SHB 1733 Agency displacement expenses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Transportation (TR): SHB 1733 Agency displacement expenses
 #### 11 👍 - Pro
 Testifying:

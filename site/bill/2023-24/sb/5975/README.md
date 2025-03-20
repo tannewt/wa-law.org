@@ -15,7 +15,7 @@
 #### 191 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
-* Tiffani McCoy - House Our Neighbors
+* Tiffani McCoy - [House Our Neighbors](/org/house_our_neighbors/)
 * Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
 
 #### 406 👎 - Con

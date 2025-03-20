@@ -16,6 +16,23 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201113)
 
 ## Meetings
+### Mon 03/24 10:30 AM - Law & Justice (LAW): ESHB 1113 Misdemeanor dismissal
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Courtney Hesla - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
+
+#### 1 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1113 Misdemeanor dismissal
 #### 28 👍 - Pro
 Testifying:

@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1414 CTE careers work group
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165927&caId=26585&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165927&caId=26585&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165927&caId=26585&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165927&caId=26585&tId=4)
-
-#### 84 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Angela Nemeth - Tri-Tech Skills Center
 * Ethan Wodehouse - Tri-Tech Skills Center
@@ -29,6 +23,7 @@ Testifying:
 * Joel Bouchey
 * Lynette Brower - Washington State Skills Center Association
 * Katelyn Kean - Northwest Maritime
+* Dave Gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
 
 #### 1 👎 - Con
 

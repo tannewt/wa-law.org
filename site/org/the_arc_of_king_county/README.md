@@ -87,7 +87,8 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍5  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  

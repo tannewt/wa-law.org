@@ -10,17 +10,15 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - State Government & Tribal Relations (SGOV): ESSB 5143 Ethics in public service
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165964&caId=26598&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165964&caId=26598&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165964&caId=26598&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33063&aId=165964&caId=26598&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Senator Jamie Pedersen
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Brady Horenstein - Attorney at Law
 
 ### Tue 01/21 01:30 PM - State Government & Elections (SGE): SB 5143 Ethics in public service
 #### 6 👍 - Pro

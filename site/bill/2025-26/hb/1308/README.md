@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 03/24 10:30 AM - Labor & Commerce (LC): SHB 1308 Access to personnel records
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Patrick McGah
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/22 08:00 AM - Labor & Workplace Standards (LAWS): HB 1308 Access to personnel records
 #### 266 👍 - Pro
 Testifying:

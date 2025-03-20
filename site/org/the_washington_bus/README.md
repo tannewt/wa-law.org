@@ -47,11 +47,13 @@
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍3  
 * 👍 Bailey Medilo
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎2 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith

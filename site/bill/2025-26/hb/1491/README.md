@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Housing bills to watch as WA's legislative session enters its final weeks • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/housing-bills-to-watch-as-the-washington-legislative-session-enters-its-final-weeks/#:~:text=House%20Bill%201491)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201491)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201491)
 * 03/10/2025 [KUOW](/org/kuow/) - [KUOW - Bill to allow more housing near bus stops and rail stations progresses in Olympia](https://www.kuow.org/stories/bill-to-allow-more-housing-near-bus-stops-and-rail-stations-progresses-in-olympia#:~:text=House%20Bill%201491)

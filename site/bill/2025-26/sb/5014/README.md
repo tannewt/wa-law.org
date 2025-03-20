@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 03/25 01:30 PM - State Government & Tribal Relations (SGOV): ESSB 5014 Election security
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/21 01:30 PM - State Government & Elections (SGE): SB 5014 Election security
 #### 166 👍 - Pro
 Testifying:

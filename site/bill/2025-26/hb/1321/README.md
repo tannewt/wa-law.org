@@ -19,6 +19,19 @@
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201321)
 
 ## Meetings
+### Tue 03/25 01:30 PM - State Government & Elections (SGE): SHB 1321 Outside militia activities
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=4)
+
+#### 99 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 01:30 PM - State Government & Tribal Relations (SGOV): HB 1321 Outside militia activities
 #### 406 👍 - Pro
 Testifying:

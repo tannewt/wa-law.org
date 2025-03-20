@@ -11,9 +11,9 @@
 
 ### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 
-### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍2  
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍3  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
 

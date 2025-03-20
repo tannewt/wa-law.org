@@ -60,7 +60,7 @@
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
 * 👍💵 Dan Bertolet
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍2  
@@ -95,13 +95,13 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet
 
-## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍2  
+## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍3  
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ## 2023-24
 
-### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍2  
+### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍3  
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 

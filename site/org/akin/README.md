@@ -3,8 +3,9 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 ❓1
 * ❓ Samantha Masters
+* 👎 Heather Cantamessa
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
 
@@ -17,6 +18,9 @@
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
+* 👎 Heather Cantamessa
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 

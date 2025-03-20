@@ -5,8 +5,9 @@
 * 👍 Paula Reed
 * 👍 Paula Reed
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
 * ❓ PAULA REED
+* ❓ Paula Reed
 
 ### [HB 1211](/bill/2025-26/hb/1211/) - Clergy, duty to report abuse 👍1  
 
@@ -24,6 +25,9 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ PAULA REED
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Paula Reed
 
 ### [SB 5227](/bill/2025-26/sb/5227/) - Child sex dolls 👍1  
 

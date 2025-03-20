@@ -46,7 +46,7 @@
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓2
 

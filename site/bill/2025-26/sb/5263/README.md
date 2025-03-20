@@ -38,13 +38,7 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Appropriations (APP): E2SSB 5263 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=4)
-
-#### 2129 👍 - Pro
+#### 2615 👍 - Pro
 Testifying:
 * Mary Templeton - [School Alliance](/org/school_alliance/)
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
@@ -69,13 +63,19 @@ Testifying:
 * Colleen Fuchs - Early Childhood Development Association of WA
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 * Julie Shin - [Boyer Children's Clinic](/org/boyer_children's_clinic/)
+* Brooke Wickham
+* Preston Dwoskin
 * Gregory Smith
+* Collete Paulson - Parent
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Eric Fisk
 
-#### 6 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Annie Slade
 
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5263 Special education funding
 #### 3091 👍 - Pro

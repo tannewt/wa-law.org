@@ -81,7 +81,8 @@
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 

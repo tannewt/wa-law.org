@@ -10,19 +10,23 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Environment & Energy (ENVI): ESSB 5445 Local energy resilience
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165891&caId=26574&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165891&caId=26574&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165891&caId=26574&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165891&caId=26574&tId=4)
+#### 34 👍 - Pro
+Testifying:
+* 💵Andy Barth - [Inland Power & Light](/org/inland_power_&_light/)
+* Joel Hansen - AMERESCO
+* 💵Liz Anderson - Washington Public Utility Districts Association
+* Ryan Collins - Snohomish PUD
+* Sheila Corson - Mason County PUD No. 3
+* 💵Dave Warren - WA Green Hydrogen Alliance
 
-#### 21 👍 - Pro
-
-#### 379 👎 - Con
+#### 521 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Charlee Thompson - NW Energy Coalition
 
 ### Tue 02/04 01:30 PM - Environment, Energy & Technology (ENET): SB 5445 Local energy resilience
 #### 323 👍 - Pro

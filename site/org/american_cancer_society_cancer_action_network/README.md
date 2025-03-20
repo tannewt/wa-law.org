@@ -11,14 +11,19 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation 👍2  
+* 👍 Audrey Miller Garcia
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Audrey Miller Garcia
 
-## [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍2  
+### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍2  
+
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
 ## 2023-24
 
-### [SB 5455](/bill/2023-24/sb/5455/) - Cancer research endowment 👍2  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemptions 👍1  
 
 ### [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
 * 👍 Matt Helder

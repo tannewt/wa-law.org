@@ -15,25 +15,22 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5613 Residential development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=4)
-
-#### 10 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * Joseph Tovar
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Ezra Hammer
 
-#### 370 👎 - Con
+#### 526 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5613 Residential development
 #### 194 👍 - Pro

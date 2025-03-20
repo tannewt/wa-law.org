@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5101/</link>
 		<description>Updates about SB 5101</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 01:50:45 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 08:53:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -114,7 +114,7 @@
 			<guid isPermaLink="false">2025-02-03/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - GSBA</title>
+			<title>👎TaraLyn Fray - WA State Coalition Against Domestic Violence</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Tue, 11 Feb 2025 07:09:20 GMT</pubDate>
 			<category>testifier</category>
@@ -209,6 +209,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Gabriel/Neuman/2025-03-18 01:50:45</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - WA State Coalition Against Domestic Violence</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 19 Mar 2025 02:33:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-19 02:33:15</guid>
+		</item>
+		<item>
+			<title>👍💵Carey Morris - WA State Coalition Against Domestic Violence</title>
+			<description>Carey Morris signed up to testify Pro. They are signed up to represent WA State Coalition Against Domestic Violence. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Mar 2025 08:53:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carey/Morris/2025-03-20 08:53:55</guid>
 		</item>
 	</channel>
 </rss>

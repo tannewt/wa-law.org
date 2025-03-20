@@ -12,6 +12,19 @@
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201390)
 
 ## Meetings
+### Mon 03/24 01:30 PM - Human Services (HS): SHB 1390 Community protection program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166243&caId=26638&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166243&caId=26638&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166243&caId=26638&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166243&caId=26638&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1390 Community protection program
 #### 39 👍 - Pro
 Testifying:

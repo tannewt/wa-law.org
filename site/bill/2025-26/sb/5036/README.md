@@ -12,21 +12,18 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Environment & Energy (ENVI): SB 5036 Statewide emissions data
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165892&caId=26575&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165892&caId=26575&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165892&caId=26575&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33043&aId=165892&caId=26575&tId=4)
-
-#### 9 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Keira Domer
 * Todd Myers - Washington Policy Center
 * Tad Sommerville
+* Dakota Manley - Washington state young republicans
 
-#### 2 👎 - Con
+#### 32 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joel Creswell - Washington State Department of Ecology
 
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SB 5036 Statewide emissions data
 #### 132 👍 - Pro

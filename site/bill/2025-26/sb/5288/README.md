@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 03/25 10:30 AM - Local Government (LG): SB 5288 County board vacancies
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/27 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5288 County board vacancies
 #### 38 👍 - Pro
 Testifying:

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Transportation (TR): SB 5702 Toll rate setting process
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165708&caId=26545&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165708&caId=26545&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165708&caId=26545&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165708&caId=26545&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Reema Griffith - Wash. State Transportation Commission

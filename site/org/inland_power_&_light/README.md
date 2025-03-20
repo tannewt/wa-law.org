@@ -8,11 +8,13 @@
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Andy Barth
 
-## [SB 5445](/bill/2025-26/sb/5445/) - Local energy resilience 👍1  
+## [SB 5445](/bill/2025-26/sb/5445/) - Local energy resilience 👍2  
+* 👍💵 Andy Barth
 
 ## 2023-24
 
-### [SB 5445](/bill/2023-24/sb/5445/) - Local energy resilience 👍1  
+### [SB 5445](/bill/2023-24/sb/5445/) - Local energy resilience 👍2  
+* 👍💵 Andy Barth
 
 ### [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍2  
 * 👍💵 Andy Barth

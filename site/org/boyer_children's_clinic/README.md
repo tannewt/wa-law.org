@@ -4,12 +4,12 @@
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 * 👍 Mike Stewart
 
-## [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍6  
+## [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍8  
 * 👍 Julie Shin
 
 ## 2023-24
 
-### [SB 5263](/bill/2023-24/sb/5263/) - Special education funding 👍6  
+### [SB 5263](/bill/2023-24/sb/5263/) - Special education funding 👍8  
 * 👍 Julie Shin
 
 ### [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍20  

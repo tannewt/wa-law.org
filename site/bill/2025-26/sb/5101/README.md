@@ -21,14 +21,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=4)
 
-#### 56 👍 - Pro
+#### 171 👍 - Pro
 Testifying:
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * Miri Cypers - ADL Pacific Northwest
 * Cindy Sandino-Chang - Crime Survivor Services, City of Seattle
 * 💵Gabriel Neuman - GSBA
+* 💵Carey Morris - WA State Coalition Against Domestic Violence
 
-#### 122 👎 - Con
+#### 472 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

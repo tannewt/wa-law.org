@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5181/</link>
 		<description>Updates about SB 5181</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 18:37:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 06:35:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -703,6 +703,22 @@
 			<pubDate>Tue, 18 Mar 2025 18:37:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_3d0d3860-044a-11f0-9db3-7709437f2a9b.html#:~:text=SB%205181</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - WA State LGBTQ Commission</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Wed, 19 Mar 2025 04:39:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-03-19 04:39:40</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Wed, 19 Mar 2025 06:35:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2025-03-19 06:35:31</guid>
 		</item>
 	</channel>
 </rss>

@@ -17,11 +17,13 @@ Sign up to testify:
 
 #### 5 👍 - Pro
 
-#### 8 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sheri Sawyer - Office of Financial Management
 
 ### Tue 02/11 10:30 AM - Labor & Commerce (LC): SB 5503 Public employee bargaining
 #### 60 👍 - Pro

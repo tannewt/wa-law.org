@@ -18,9 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165861&caId=26393&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165861&caId=26393&tId=4)
 
-#### 6 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Aniya Clark - Student Government of Olympic College
+* Daniel Ngoy - Associated Student Government of Bellevue College
+* Love Adu - Student Representative, California Community College Board of Governors
+* Heba Qatrani - South Seattle College Student and the Washington Student Association
+* 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
+* Terrell Stalworth - Associated Students of Tacoma Community College
 
-#### 2 👎 - Con
+#### 58 👎 - Con
 Testifying:
 * Max Chen
 

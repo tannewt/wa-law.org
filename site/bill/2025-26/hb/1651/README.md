@@ -19,17 +19,11 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1651 Teacher residency & apprent.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165743&caId=26374&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165743&caId=26374&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165743&caId=26374&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165743&caId=26374&tId=4)
-
-#### 258 👍 - Pro
+#### 259 👍 - Pro
 Testifying:
 * 💵Lorrell Noahr - [Washington Education Association](/org/washington_education_association/)
 
-#### 51 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * Kristi Winters
 

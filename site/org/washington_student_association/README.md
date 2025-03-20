@@ -7,7 +7,8 @@
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍💵 Sean Behl
 
-### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍3  
+### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍4  
+* 👍💵 Sean Behl
 * 👍💵 Sean Behl
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  

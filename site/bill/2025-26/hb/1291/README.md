@@ -16,19 +16,16 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Health & Long Term Care (HLTC): ESHB 1291 Maternity services costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165695&caId=26383&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165695&caId=26383&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165695&caId=26383&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165695&caId=26383&tId=4)
+#### 18 👍 - Pro
 
-#### 11 👍 - Pro
-
-#### 379 👎 - Con
+#### 629 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Tue 01/28 01:30 PM - Health Care & Wellness (HCW): HB 1291 Maternity services costs
 #### 26 👍 - Pro

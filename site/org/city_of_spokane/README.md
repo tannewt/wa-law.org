@@ -6,6 +6,8 @@
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
 ### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍3  
 
 ### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍2  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5375/</link>
 		<description>Updates about SB 5375</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -593,6 +593,13 @@
 			<pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SB%205375</guid>
+		</item>
+		<item>
+			<title>ELHS - Executive action taken by committee.</title>
+			<description>ELHS - Executive action taken by committee.</description>
+			<pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-19/ELHS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

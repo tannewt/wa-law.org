@@ -7,13 +7,16 @@
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl.  👎1 
 * 👎 Chris Bandoli
 
-## [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed  👎1 
+### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed  👎1 
 * 👎 Chris Bandoli
+
+## [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement   ❓1
+* ❓ Chris Bandoli
 
 ## 2023-24
 
-### [HB 1754](/bill/2023-24/hb/1754/) - Medicare suppl./guaranteed  👎1 
-* 👎 Chris Bandoli
+### [SB 5083](/bill/2023-24/sb/5083/) - Health carrier reimbursement   ❓1
+* ❓ Chris Bandoli
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

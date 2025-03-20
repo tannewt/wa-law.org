@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1975 Climate commitment act
-#### 67 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Jessica Spiegel - WSPA

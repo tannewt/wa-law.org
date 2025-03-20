@@ -12,6 +12,19 @@
 * 03/03/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bill to expand childcare access to military families - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/03/senate-passes-bill-to-expand-childcare-access-to-military-families/#:~:text=Senate%20Bill%205545)
 
 ## Meetings
+### Wed 03/26 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5545 Family home prov./military
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/12 10:30 AM - Early Learning & K-12 Education (EDU): SB 5545 Family home prov./military
 #### 27 👍 - Pro
 Testifying:

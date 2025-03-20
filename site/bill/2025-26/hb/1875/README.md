@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Immigration proceedings would become eligible use for sick leave under Washington bill • Washington State Standard](https://washingtonstatestandard.com/2025/03/19/immigration-proceedings-would-become-eligible-use-of-sick-leave-under-washington-bill/#:~:text=House%20Bill%201875)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers advance bill allowing paid sick leave for immigration proceedings | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7388cffc-fb9f-11ef-95f6-6725474250a6.html#:~:text=Engrossed%20Substitute%20House%20Bill%201875)
 * 03/06/2025 [House Democrats](/org/house_democrats/) - [Workers Could Soon Use Paid Sick Leave for Immigration Proceedings – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/workers-could-soon-use-paid-sick-leave-for-immigration-proceedings/#:~:text=House%20Bill%201875)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201875)

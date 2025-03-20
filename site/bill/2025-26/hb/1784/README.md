@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Health & Long Term Care (HLTC): SHB 1784 Certified medical assistants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165698&caId=26386&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165698&caId=26386&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165698&caId=26386&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165698&caId=26386&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Mackenzie Brewer - Olympia Orthopaedic Associates
@@ -24,7 +18,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Transportation (TR): ESB 5689 Drivers' licenses/blood type
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165707&caId=26544&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165707&caId=26544&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165707&caId=26544&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33028&aId=165707&caId=26544&tId=4)
-
-#### 20 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Juan Cotto - BloodworksNW
 * 💵Juan Cotto - BloodworksNW

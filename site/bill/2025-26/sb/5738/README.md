@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Appropriations (APP): SSB 5738 Retired employees/work
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165957&caId=26608&tId=4)
-
 #### 55 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center

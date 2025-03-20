@@ -19,6 +19,9 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Roxana Gomez
+
 ### [HB 1207](/bill/2025-26/hb/1207/) - Superior court clerk fees   ❓1
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
@@ -84,6 +87,9 @@
 ### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
+* ❓💵 Roxana Gomez
 
 ### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎1 
 

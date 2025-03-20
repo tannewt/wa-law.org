@@ -13,6 +13,19 @@
 * 02/10/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers push back against Trump's deportation policies with new clemency bill](https://mynorthwest.com/mynorthwest-politics/wa-trump-policies/4043376#:~:text=Senate%20Bill%205103)
 
 ## Meetings
+### Thu 03/27 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SB 5103 Sentence review/deportation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33123&aId=166078&caId=26747&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33123&aId=166078&caId=26747&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33123&aId=166078&caId=26747&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33123&aId=166078&caId=26747&tId=4)
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 01:30 PM - Human Services (HS): SB 5103 Sentence review/deportation
 #### 11 👍 - Pro
 Testifying:

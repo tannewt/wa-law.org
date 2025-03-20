@@ -28,6 +28,9 @@
 * 👍 Julia Kellison
 * 👍 Julia Kellison
 
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions   ❓1
+* ❓ Julia Kellison
+
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍4  
 * 👍 Tareva Marshall
 * 👍 Tom McKay

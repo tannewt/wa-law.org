@@ -185,7 +185,7 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
-### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎3 
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎4 
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍💵 Brent Ludeman

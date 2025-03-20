@@ -140,7 +140,8 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍2  
 
-### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍2  
+### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍3  
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
 ### [SB 5577](/bill/2025-26/sb/5577/) - HIV antiviral drugs/medicaid 👍2  

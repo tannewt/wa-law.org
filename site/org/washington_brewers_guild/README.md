@@ -29,8 +29,9 @@
 * 👎💵 Daniel Olson
 * 👎 Daniel Olsen
 
-### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎1 ❓1
+### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎2 ❓1
 * ❓💵 Daniel Olson
+* 👎💵 Daniel Olson
 * 👎💵 Daniel Olson
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  

@@ -5,6 +5,8 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
 
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices 👍1  
+
 ## [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care   ❓1
 * ❓ Roman Daniels-Brown
 

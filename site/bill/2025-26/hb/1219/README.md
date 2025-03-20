@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 03/25 08:00 AM - Law & Justice (LAW): EHB 1219 Interbranch advisory comm.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165993&caId=26660&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165993&caId=26660&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165993&caId=26660&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165993&caId=26660&tId=4)
+
+#### 1 👍 - Pro
+
+#### 6 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/22 01:30 PM - State Government & Tribal Relations (SGOV): HB 1219 Interbranch advisory comm.
 #### 3 👍 - Pro
 

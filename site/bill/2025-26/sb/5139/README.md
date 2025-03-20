@@ -12,21 +12,21 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5139 Reentry council members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165667&caId=26466&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165667&caId=26466&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165667&caId=26466&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165667&caId=26466&tId=4)
+#### 35 👍 - Pro
+Testifying:
+* Dr. Esther Matthews - Statewide Reentry Council
+* Janel McFeat - Statewide Reentry Council
 
-#### 26 👍 - Pro
-
-#### 385 👎 - Con
+#### 599 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Sarah Sytsma - Department of Corrections
+* Annie Slade
+* Annie Slade
 
 ### Tue 01/21 01:30 PM - Human Services (HS): SB 5139 Reentry council members
 #### 31 👍 - Pro

@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Housing (HSG): 2SHB 1696 Covenant homeownership prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=4)
-
-#### 337 👍 - Pro
+#### 365 👍 - Pro
 Testifying:
 * Tracy Brown
 * LaKeisha Davis - Habitat for Humanity Spokane
@@ -39,8 +33,9 @@ Testifying:
 * Michael Fornerette
 * Patience Malaba - Housing Development Consortium Seattle-King County
 * Susan Cozzens - Quaker Voice on Washington Public Policy
+* Merlin Rainwater - Quaker Voice on Washington Public Policy
 
-#### 7399 👎 - Con
+#### 7515 👎 - Con
 Testifying:
 * Hailey Irvine
 * TaraLyn Fray

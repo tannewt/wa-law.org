@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166044&caId=26620&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166044&caId=26620&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)
 
 #### 0 👎 - Con
 

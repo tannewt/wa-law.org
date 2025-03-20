@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Post house of origin cutoff update! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5193)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205193)
 * 02/01/2025 [Senate Democrats](/org/senate_democrats/) - [My first newsletter as your senator! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/01/31/my-first-newsletter-as-your-senator/#:~:text=SB%205193)
 

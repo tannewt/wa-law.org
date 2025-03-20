@@ -9,11 +9,11 @@
 * 👍 Chloe Gale
 * 👍 Chloe Gale
 
-## [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
+## [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
 
 ## 2023-24
 
-### [SB 5148](/bill/2023-24/sb/5148/) - GMA housing element 👍2  
+### [SB 5148](/bill/2023-24/sb/5148/) - GMA housing element 👍3  
 
 ### [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
 

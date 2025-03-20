@@ -18,6 +18,9 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓ Megan Moore
+
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
@@ -40,7 +43,7 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍2  
 
-### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍2  
 
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎2 
 * 👎 Megan Moore
@@ -61,6 +64,9 @@
 
 ### [HB 1932](/bill/2025-26/hb/1932/) - Cannabis consumption  👎1 
 
+### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation 👍1  
+* 👍 Megan Moore
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
@@ -68,6 +74,9 @@
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓💵 Amy Brackenbury
 
 ### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising  👎1 
 

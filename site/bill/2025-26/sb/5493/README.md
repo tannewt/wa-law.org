@@ -14,6 +14,19 @@
 * 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=Senate%20Bill%205493)
 
 ## Meetings
+### Tue 03/25 01:30 PM - Health Care & Wellness (HCW): SSB 5493 Hospital price transparency
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33118&aId=166050&caId=26724&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33118&aId=166050&caId=26724&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33118&aId=166050&caId=26724&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33118&aId=166050&caId=26724&tId=4)
+
+#### 36 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/13 08:00 AM - Health & Long Term Care (HLTC): SB 5493 Hospital price transparency
 #### 33 👍 - Pro
 Testifying:

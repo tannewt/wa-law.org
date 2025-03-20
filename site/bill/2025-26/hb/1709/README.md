@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1709 Adrenal insufficiency care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=4)
-
-#### 336 👍 - Pro
+#### 345 👍 - Pro
 Testifying:
 * Mark Harper
 * Kathryn Mueller

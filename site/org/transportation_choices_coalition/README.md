@@ -5,7 +5,11 @@
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Matthew Sutherland
 
+### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
+
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
+### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍1  
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Kirk Hovenkotter

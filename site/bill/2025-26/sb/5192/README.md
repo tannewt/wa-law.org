@@ -46,13 +46,7 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Appropriations (APP): ESSB 5192 School district materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=4)
-
-#### 3138 👍 - Pro
+#### 3532 👍 - Pro
 Testifying:
 * Holly Muenchow - Northshore Council PTSA
 * Malorie Larson - Shoreline PTA Council
@@ -82,11 +76,11 @@ Testifying:
 * Juston Pollestad - Pullman Public Schools
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 1161 👎 - Con
+#### 1169 👎 - Con
 Testifying:
 * Hailey Irvine
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Mary Templeton - [School Alliance](/org/school_alliance/)
 

@@ -90,7 +90,7 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓3
 * ❓ Thara Johnson
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments  👎1 
@@ -116,6 +116,8 @@
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
+
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 

@@ -13,6 +13,21 @@
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA House passes bill to help farmers avoid paying CCA fuel taxes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_742c349a-0120-11f0-8822-b79d305dd486.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201912)
 
 ## Meetings
+### Tue 03/25 01:30 PM - Environment, Energy & Technology (ENET): E2SHB 1912 Agricultural fuel/CCA ex.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/19 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1912 Agricultural fuel/CCA ex.
 #### 266 👍 - Pro
 Testifying:

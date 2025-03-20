@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 03/25 10:30 AM - Labor & Commerce (LC): ESHB 1332 Transp. network companies
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 08:00 AM - Labor & Workplace Standards (LAWS): HB 1332 Transp. network companies
 #### 110 👍 - Pro
 Testifying:

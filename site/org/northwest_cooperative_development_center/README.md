@@ -15,6 +15,8 @@
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
+
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍2  
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion

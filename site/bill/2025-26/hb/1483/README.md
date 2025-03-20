@@ -17,6 +17,19 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201483)
 
 ## Meetings
+### Wed 03/26 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1483 Digital electronics/repair
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=4)
+
+#### 69 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/31 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1483 Digital electronics/repair
 #### 525 👍 - Pro
 Testifying:

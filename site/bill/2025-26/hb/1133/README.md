@@ -12,6 +12,19 @@
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201133)
 
 ## Meetings
+### Mon 03/24 10:30 AM - Law & Justice (LAW): SHB 1133 Sexually violent predators
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1133 Sexually violent predators
 #### 408 👍 - Pro
 Testifying:

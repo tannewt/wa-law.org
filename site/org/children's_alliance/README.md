@@ -3,6 +3,9 @@
 
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Reid Saaris
+
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  

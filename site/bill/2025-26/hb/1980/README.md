@@ -15,14 +15,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=4)
 
-#### 9 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Nikki Stuck - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Jared Nieuwenhuis - Councilmember, City of Bellevue
+* 💵Rose Feliciano - TechNet
+* Kelli Refer - Move Redmond
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jeremy Une
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Michael Shaw - Washington State Transit Association
 
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1980 Employer transp. services
 #### 15 👍 - Pro

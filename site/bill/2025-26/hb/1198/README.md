@@ -10,6 +10,62 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=HB%201198)
 
 ## Meetings
+### Tue 03/25 04:00 PM - Appropriations (APP): PSHB 1198 -Making 2025-2027 fiscal biennium operating appropriations. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Danny Orrantia - Evergreen High School
+* Joe McDermott - State Relations Director | King County
+* 💵Brad Forbes - Alzheimer's Association
+
+#### 1 👎 - Con
+Testifying:
+* Heather Cantamessa - [Akin](/org/akin/)
+
+#### 37 ❓ - Other
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction (OSPI)
+* Kim Justice - Partners for Our Children
+* 💵Myle Tang - Stand for Children Washington
+* Henterson Carlisle - Center for High School Success
+* Jim Theofelis - NorthStar Advocates
+* Sam Pike - Washington Family Support Network
+* Pauli Owen
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* 💵Joel Anderson - Washington Student Achievement Council
+* Cynthia Green
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* 💵Reid Saaris - [Children's Alliance](/org/children's_alliance/)
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* Sara Robbins - Washington State Office of Civil Legal Aid
+* Fina Iredia
+* Fina Iredia
+* 💵Aaron Yared - [Building Changes](/org/building_changes/)
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* Ashley Dutton - Wonderland Child and Family Services
+* 💵Sean Graham - Washington State Medical Association
+* Sandra Gorman-Brown - Washington Association for Children and Families
+* Whitney Carlson - Washington Association for Children and Families
+* 💵Jill May - Washington Association for Children and Families
+* Sherrie Tinocco - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
+* Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Alison Eisinger - Seattle / King County Coalition on Homelessness
+* Annalise Martucci - Office of Civil Legal Aid
+* Suzi Fode - New Hope
+* 💵Laurel Redden - King County Sexual Assault Resource Center/Sexual Assault Working Group
+* 💵Melanie Smith - WA State LTC Ombuds Program
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Giannina Ferrara - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* Roger Rogoff - Office of Independent Investigations
+* 💵Dawn Rains - [Treehouse](/org/treehouse/)
+
 ### Mon 01/13 04:00 PM - Appropriations (APP): HB 1198 Operating budget
 #### 164 👍 - Pro
 Testifying:

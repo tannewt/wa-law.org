@@ -9,7 +9,8 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+* ❓ Giannina Ferrara
 * ❓ Giannina Ferrara
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
@@ -49,6 +50,9 @@
 * 👍 Morgan Silverman
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+* ❓ Nicholas Oakley
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Nicholas Oakley
 
 ### [SB 5199](/bill/2025-26/sb/5199/) - Providing compensation to members of the department of children, youth, and families oversight board with direct lived experience. 👍3  

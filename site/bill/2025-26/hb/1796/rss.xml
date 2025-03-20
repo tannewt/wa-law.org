@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1796/</link>
 		<description>Updates about HB 1796</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 10:09:39 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 12:12:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,7 +137,7 @@
 			<guid isPermaLink="false">testifier/Martin/Turney/2025-03-17 08:46:29</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Schools Alliance</title>
+			<title>👎TaraLyn Fray - LWPTSA</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 17 Mar 2025 12:06:03 GMT</pubDate>
 			<category>testifier</category>
@@ -152,7 +152,7 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=HB%201796</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - Schools Alliance</title>
+			<title>👎Sandra Mochizuki - LWPTSA</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Tue, 18 Mar 2025 04:58:12 GMT</pubDate>
 			<category>testifier</category>
@@ -166,6 +166,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2025-03-18 10:09:39</guid>
+		</item>
+		<item>
+			<title>👍Zahra Eslami - LWPTSA</title>
+			<description>Zahra Eslami signed up to testify Pro. They are signed up to represent LWPTSA.</description>
+			<pubDate>Wed, 19 Mar 2025 12:12:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Zahra/Eslami/2025-03-19 12:12:09</guid>
 		</item>
 	</channel>
 </rss>

@@ -12,23 +12,18 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Health & Long Term Care (HLTC): SHB 1669 Prosthetic limb coverage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165970&caId=26614&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165970&caId=26614&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165970&caId=26614&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165970&caId=26614&tId=4)
-
-#### 9 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Sherry Jennings PhD
 * Nicole Ver Kuilen
 * Shane Solomon
 
-#### 327 👎 - Con
+#### 486 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/11 01:30 PM - Health Care & Wellness (HCW): HB 1669 Prosthetic limb coverage
 #### 42 👍 - Pro

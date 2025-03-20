@@ -241,6 +241,9 @@
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
 
+### [SB 5245](/bill/2025-26/sb/5245/) - Legislature oath of office 👍1  
+* 👍💵 Derek Young
+
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 * 👍💵 Kelsey Hulse
 

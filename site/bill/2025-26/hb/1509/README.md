@@ -8,6 +8,23 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 03/24 01:30 PM - Human Services (HS): SHB 1509 Family reconciliation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Kim Justice - Partners for Our Children
+* Jim Theofelis - NorthStar Advocates
+* 💵Casey Trupin - Raikes Foundation
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 1509 Family reconciliation
 #### 14 👍 - Pro
 Testifying:

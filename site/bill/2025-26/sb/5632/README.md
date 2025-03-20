@@ -22,9 +22,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=4)
 
-#### 140 👍 - Pro
+#### 221 👍 - Pro
+Testifying:
+* Mo West
 
-#### 70 👎 - Con
+#### 1339 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -70,8 +70,9 @@
 
 ### [HB 1189](/bill/2025-26/hb/1189/) - Addressing parental involvement through volunteering in schools after a criminal conviction. 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 ❓1
 * 👎💵 Larry Delaney
+* ❓💵 Larry Delaney
 
 ### [HB 1200](/bill/2025-26/hb/1200/) - DD parental caregivers 👍1  
 
@@ -176,7 +177,7 @@
 
 ### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
 
-### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍1  
+### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍2  
 
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
@@ -375,6 +376,9 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓💵 Larry Delaney
 
 ### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 👍2  
 
@@ -585,6 +589,8 @@
 ### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax 👍1  
 
 ### [SB 5772](/bill/2025-26/sb/5772/) - Student enrollment  👎1 
+
+### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

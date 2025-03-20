@@ -78,7 +78,8 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
-### [SB 5529](/bill/2025-26/sb/5529/) - ADU tax exemptions 👍1  
+### [SB 5529](/bill/2025-26/sb/5529/) - ADU tax exemptions 👍2  
+* 👍💵 Briahna Murray
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
@@ -86,7 +87,7 @@
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
-### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓2
 * ❓💵 Briahna Murray
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1

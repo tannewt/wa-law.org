@@ -9,6 +9,21 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Tue 03/25 08:00 AM - Law & Justice (LAW): 2SHB 1359 Criminal insanity
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1359 Criminal insanity
 #### 11 👍 - Pro
 Testifying:

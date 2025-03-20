@@ -19,6 +19,23 @@
 * 02/25/2025 [House Democrats](/org/house_democrats/) - [House Bill 2015 Advances: A Bold Step Toward Justice, Community Safety, and Accountability – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/25/house-bill-2015-advances-a-bold-step-toward-justice-community-safety-and-accountability/#:~:text=House%20Bill%202015)
 
 ## Meetings
+### Tue 03/25 08:00 AM - Law & Justice (LAW): ESHB 2015 Public safety funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 11 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+
+#### 0 ❓ - Other
+
 ### Thu 02/27 09:00 AM - Appropriations (APP): HB 2015 Public safety funding
 #### 21 👍 - Pro
 Testifying:

@@ -53,7 +53,8 @@
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
 * 👍💵 Anna Zivarts
 
-### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
+### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍2  
+* 👍💵 Anna Zivarts
 * 👍💵 Anna Zivarts
 
 ### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍3  

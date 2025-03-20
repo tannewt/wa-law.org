@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1814/</link>
 		<description>Updates about HB 1814</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 09:29:28 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 09:09:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -91,12 +91,28 @@
 			<guid isPermaLink="false">testifier/Dusty/Hoerler/2025-03-18 03:29:34</guid>
 		</item>
 		<item>
-			<title>❓Matthew Thormodson - Craftsman Plumbing</title>
+			<title>❓Matthew Thormodson - North Seattle Industrial Association</title>
 			<description>Matthew Thormodson signed up to testify Other.</description>
 			<pubDate>Tue, 18 Mar 2025 11:08:05 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Matthew/Thormodson/2025-03-18 11:08:05</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Craftsman Plumbing</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 19 Mar 2025 02:30:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-19 02:30:15</guid>
+		</item>
+		<item>
+			<title>👎Josh Brower - Ballard Cycle Track Coalition</title>
+			<description>Josh Brower signed up to testify Con. They are signed up to represent Ballard Cycle Track Coalition.</description>
+			<pubDate>Wed, 19 Mar 2025 03:35:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Josh/Brower/2025-03-19 03:35:51</guid>
 		</item>
 		<item>
 			<title>👍Alisa Fedorenko - Health Care Authority (HCA) - Special Assistant, Legislative &amp; Policy Affairs</title>
@@ -105,6 +121,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alisa/Fedorenko/2025-03-19 09:29:28</guid>
+		</item>
+		<item>
+			<title>👎💵Jay Jennings - Northwest Marine Trade Association</title>
+			<description>Jay Jennings signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_marine_trade_association/"&gt;Northwest Marine Trade Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 19 Mar 2025 09:58:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jay/Jennings/2025-03-19 09:58:16</guid>
+		</item>
+		<item>
+			<title>👎dave gering - Manufacturing Industrial Council of Seattle</title>
+			<description>dave gering signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/manufacturing_industrial_council_of_seattle/"&gt;Manufacturing Industrial Council of Seattle&lt;/a&gt;.</description>
+			<pubDate>Wed, 19 Mar 2025 10:17:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/dave/gering/2025-03-19 10:17:17</guid>
+		</item>
+		<item>
+			<title>👎Eugene Wasserman - North Seattle Industrial Association</title>
+			<description>Eugene Wasserman signed up to testify Con. They are signed up to represent North Seattle Industrial Association.</description>
+			<pubDate>Thu, 20 Mar 2025 09:09:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eugene/Wasserman/2025-03-20 09:09:44</guid>
 		</item>
 	</channel>
 </rss>

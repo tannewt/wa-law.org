@@ -6,11 +6,15 @@
 
 ### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Emily Brice
+
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code. 👍1  
 
 ### [HB 1379](/bill/2025-26/hb/1379/) - Health carrier reporting 👍1  
 
-### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍2  
+### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍3  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1
@@ -26,6 +30,8 @@
 ### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
+
+### [HB 1669](/bill/2025-26/hb/1669/) - Prosthetic limb coverage 👍1  
 
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍3  
 * 👍💵 Emily Brice
@@ -48,6 +54,9 @@
 
 ### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓💵 Emily Brice
+
 ### [SB 5258](/bill/2025-26/sb/5258/) - Medicaid concurrent enroll.  👎1 
 * 👎💵 Vanessa Saavedra
 
@@ -63,7 +72,7 @@
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍1 👎2 
 * 👎💵 Vanessa Saavedra
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍2  

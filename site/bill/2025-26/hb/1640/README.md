@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Thu 03/20 08:00 AM - Health & Long Term Care (HLTC): HB 1640 Med. & PA licensure compacts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165697&caId=26385&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165697&caId=26385&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165697&caId=26385&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33072&aId=165697&caId=26385&tId=4)
-
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Taylor Bacharach-Nixon - Washington Medical Commission
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

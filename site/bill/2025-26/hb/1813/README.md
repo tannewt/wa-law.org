@@ -10,6 +10,19 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1813 Medical assist reprocurement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=4)
+
+#### 31 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1813 Medical assist reprocurement
 #### 139 👍 - Pro
 Testifying:
