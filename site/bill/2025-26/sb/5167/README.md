@@ -22,11 +22,15 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Sophia Byrd McSherry - Washington State Office of Public Defense
 * Sara Robbins - Washington State Office of Civil Legal Aid
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Dawn Marie Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -39,10 +43,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Aida Rodriguez
 * 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* 💵Emily Mikkelsen - Early Learning Action Alliance
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -68,9 +73,13 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
+* 💵Karen Strickland - American Federation of Teachers - WA
+* Tonya Drake - [Western Governors University](/org/western_governors_university/)
+* 💵Sue Nightingale - Association of Higher Education/Washington Education Association
+* Bill Lyne - United Faculty of WA/Washington Education Association
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Human services. (Remote Testimony Available).
 Sign up to testify:
@@ -79,16 +88,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33128&aId=166390&caId=26686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33128&aId=166390&caId=26686&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Brad Forbes - Alzheimer's Association
 * Joe McDermott - State Relations Director | King County
+* 💵Jaime Bodden - WSALPHO
 
 #### 1 👎 - Con
 Testifying:
 * Heather Cantamessa - [Akin](/org/akin/)
 
-#### 24 ❓ - Other
+#### 45 ❓ - Other
 Testifying:
 * Kim Justice - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
@@ -110,9 +120,30 @@ Testifying:
 * Kate Krug - King County Sexual Assault Resource Center/Sexual Assault Working Group
 * Suzi Fode - New Hope
 * 💵Melanie Smith - WA State LTC Ombuds Program
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Jeff Abdullah - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Diane Figley - Catholic Community Services
+* Hollianne Monson - Catholic Community Services
+* Julie McGuire
+* Mike Bonck
+* Naoko Shatz - International Families Justice Coalition
+* Terry Kinjo - International Families Justice Coalition
+* Eli Oscherowitz - Caldera Care
+* Elizabeth Fachting - Lacey Post Acute & Rehabilitation
+* Heather Graham - Cherrywood Care Assisted Living
+* Nikki Storms - Chehalis West Assisted Living
+* Jessika Booth - Ensign Services/Pennant WA
+* Matthew Wilson - Oasis Youth Center
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Courtney Williams - The Adult Family Home Council
 * Katie Hurley - King County Department of Public Defense
 * Nicholas Oakley - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* 💵Karina Patel - The Tubman Center for Health and Freedom
+* 💵Karen Pillar - TeamChild
+* LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
+* Jolynn Kenney - MENTOR Washington
+* 💵Lynda Hall - [Treehouse](/org/treehouse/)
+* Marc Cote - [Parkview Services](/org/parkview_services/)
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -121,20 +152,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33128&aId=166385&caId=26681&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33128&aId=166385&caId=26681&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Eric Carlson - Royal High School
 * Charlem Bala
+* Courtney McCoy - Royal High School
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Liz Trautman - Stand for Children Washington
 * Dr Doug Judge - Center for High School Success
 * Henterson Carlisle - Center for High School Success
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction (OSPI)
+* Heather Christianson - Public School Employees of WA/SEIU 1948
+* Rick Chisa - Public School Employees of WA/SEIU 1948
+* Samantha Fogg - Seattle Council PTSA Co-President
+* Adam Aguilera - Evergreen Education Association
+* Sezi Fleming - Washington MESA
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Mental health. (Remote Testimony Available).
 Sign up to testify:
@@ -147,7 +184,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Anni-Michele Jean-Pierre - [Children's Alliance](/org/children's_alliance/)
+* Lelach Rave - WCAAP
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Natural resources. (Remote Testimony Available).
 Sign up to testify:

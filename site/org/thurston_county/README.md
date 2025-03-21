@@ -1,7 +1,7 @@
 # Thurston County
 ## 2025-26
 
-### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 * 👍 Commissioner Rachel Grant
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  

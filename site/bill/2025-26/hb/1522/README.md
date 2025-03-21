@@ -21,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166080&caId=26619&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166080&caId=26619&tId=4)
 
-#### 3 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * 💵John Rothlin - Avista Corporation

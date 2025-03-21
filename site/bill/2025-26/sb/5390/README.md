@@ -16,21 +16,21 @@
 
 ## Meetings
 ### Thu 03/20 04:00 PM - Appropriations (APP): ESSB 5390 Discover pass
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=4)
-
-#### 14 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * 💵Mark Brown - Former State Parks Commissioner
 * John Floberg - Washington State Parks Foundation
+* Mark Secord - Friends of Fort Flagler State Park
+* Brian Considine - State Parks, Legislative Director
+* Scott Merriman - State Parks Commissioner
+* Stet Palmer - Friends of Schafer and Lake Sylvia State Parks (FOSLS)
 
-#### 133 👎 - Con
+#### 147 👎 - Con
+Testifying:
+* Cameron Sloan - Race Cascadia
 
-#### 10 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Jeff Chapman - [Back Country Horsemen of Washington](/org/back_country_horsemen_of_washington/)
 * Graham Clumpner
@@ -41,6 +41,8 @@ Testifying:
 * Ted Jackson - WA ATV Association
 * Philip wolff
 * Kyle Farrar
+* Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Jakob Perry - Washington Off-Highway Vehicle Alliance
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5390 Discover pass, day-use cost
 #### 49 👍 - Pro

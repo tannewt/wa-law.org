@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5139/</link>
 		<description>Updates about SB 5139</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 12:04:13 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Janel/McFeat/2025-03-19 12:04:13</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-20/CS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

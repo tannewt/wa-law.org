@@ -10,6 +10,8 @@
 * 👎💵 Diana Carlen
 * 👍💵 Diana Carlen
 
+### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 
 ## [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users 👍1  

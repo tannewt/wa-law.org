@@ -12,6 +12,9 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Dawn Rains
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓💵 Lynda Hall
+
 ## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ## 2023-24

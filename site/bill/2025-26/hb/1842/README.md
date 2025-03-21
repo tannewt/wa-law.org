@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166079&caId=26618&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166079&caId=26618&tId=4)
 
-#### 4 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Ron Gibbs - Chelan County PUD
 * Ryan Smolinsky - Chelan County Public Utility District

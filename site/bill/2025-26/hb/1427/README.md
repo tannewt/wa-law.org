@@ -16,7 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166326&caId=26633&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166326&caId=26633&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Joshua Wallace - Peer Washington
+* Joshua Wallace - Peer Washington
 
 #### 0 👎 - Con
 

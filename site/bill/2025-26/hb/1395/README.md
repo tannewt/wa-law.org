@@ -20,13 +20,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=4)
 
-#### 176 👍 - Pro
+#### 230 👍 - Pro
+Testifying:
+* Maria Osegueda
+* Nelly Prieto
+* Shaine Truscott
+* Melissah Watts - Parent Provider
+* 💵Brad Banks - WA Home Care Coalition
 
-#### 404 👎 - Con
+#### 562 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
+* Sandra Brock
 
-#### 13 ❓ - Other
+#### 14 ❓ - Other
+Testifying:
+* Annie Slade
 
 ### Wed 01/29 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1395 Home care worker background
 #### 196 👍 - Pro

@@ -15,11 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165804&caId=26523&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165804&caId=26523&tId=4)
 
-#### 5 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Melissa Staples - SEIU Healthcare 1199NW
+* SEIU Austreng - SEIU Healthcare 1199NW
 
-#### 11 👎 - Con
+#### 41 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Doug Morrill - Summit Law Group
+* 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Sandra Brock
 
 #### 1 ❓ - Other
 Testifying:

@@ -5,7 +5,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍2  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍4  
 
 ## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍6  
 * 👍💵 Margaret Heldring

@@ -17,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=4)
 
-#### 31 👍 - Pro
+#### 75 👍 - Pro
+Testifying:
+* Mike Jackson - Clark-Cowlitz Fire Rescue
+* Rachel Grant - Thurston County Commissioner
 
 #### 0 👎 - Con
 

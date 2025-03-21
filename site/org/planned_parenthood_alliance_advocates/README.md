@@ -98,9 +98,12 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Nicole Kern
 
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
-### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍2  
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
 ### [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍1  

@@ -21,9 +21,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166026&caId=26617&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166026&caId=26617&tId=4)
 
-#### 3 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Anita Petra - Benton County Prosecuting Attorney Office
+* Coreen Schnepf - Pierce County Prosecuting Attorney's Office
+* Lindsay Chenelia - Pierce County Prosecuting Attorney's Office
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Kate Benward
+* John Marlow - [Washington Innocence Project](/org/washington_innocence_project/)
+* Kari Reardon - WACDL/WDA
 
 #### 0 ❓ - Other
 

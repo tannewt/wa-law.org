@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165703&caId=26390&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165703&caId=26390&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Michael Chen MD - Harborview Medical Center Division of Cardiology
 * Rashi Gupta - UW Medicine
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Katherine Mahoney
+* Teddi McGuire - Providence Health
 
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1755 Coronary interventions/CN
 #### 2 👍 - Pro

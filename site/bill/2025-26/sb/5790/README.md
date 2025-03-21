@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Sue Nightingale - Washington Education Association Association of Higher Education
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 ❓ - Other

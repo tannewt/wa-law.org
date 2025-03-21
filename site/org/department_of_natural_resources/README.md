@@ -87,9 +87,10 @@
 ### [SB 5385](/bill/2025-26/sb/5385/) - Timberland definition/REET 👍1  
 * 👍 Duane Emmons
 
-### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  
+### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  ❓1
 * 👍 Sam Hensold
 * 👍 Sam Hensold
+* ❓ Sam Hensold
 
 ### [SB 5444](/bill/2025-26/sb/5444/) - New special license plates 👍1  
 * 👍 Pat Sullivan

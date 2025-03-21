@@ -5,7 +5,7 @@
 
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍1  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍3  
 
 ### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍1  
 

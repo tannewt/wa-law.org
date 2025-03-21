@@ -16,6 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Jferrich Oba - Black Excellence In Cannabis
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 
 #### 0 ❓ - Other

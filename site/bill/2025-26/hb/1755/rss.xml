@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1755/</link>
 		<description>Updates about HB 1755</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 08:56:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 10:14:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -90,6 +90,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rashi/Gupta/2025-03-18 08:56:54</guid>
+		</item>
+		<item>
+			<title>❓💵Katherine Mahoney - UW Medicine</title>
+			<description>Katherine Mahoney signed up to testify Other. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Mar 2025 07:11:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Katherine/Mahoney/2025-03-20 07:11:24</guid>
+		</item>
+		<item>
+			<title>❓Teddi McGuire - Providence Health</title>
+			<description>Teddi McGuire signed up to testify Other. They are signed up to represent Providence Health.</description>
+			<pubDate>Thu, 20 Mar 2025 10:14:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Teddi/McGuire/2025-03-20 10:14:02</guid>
 		</item>
 	</channel>
 </rss>

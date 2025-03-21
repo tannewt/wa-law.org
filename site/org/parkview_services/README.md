@@ -1,6 +1,9 @@
 # Parkview Services
 ## 2025-26
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Marc Cote
+
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
 ## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍9  

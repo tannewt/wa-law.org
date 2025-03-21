@@ -25,7 +25,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍2  
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍3  
 
 ### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍1  
 
@@ -41,6 +41,8 @@
 * ❓ Nicholas Oakley
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 

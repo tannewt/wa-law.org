@@ -43,9 +43,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 
-#### 1480 👎 - Con
+#### 1972 👎 - Con
 Testifying:
 * Jane Milhans
 * Jonathan Mendoza
@@ -85,15 +85,38 @@ Testifying:
 * Daniel Holmes
 * Jonathan Tronson
 * Michelle Schreiber
+* Patricia Goben
+* Bea Christophersen
 * Brandon Sharp
 * Christopher Thompson
+* MARTIN LOUGH - NRA firearms instructor
+* Anderson Kim
+* Chris Gronlund
+* Julia Evans
+* Milton S
 * Jessica Straub
 * William Hinzman
 * Joseph DiMarco
+* Austin Schneider
+* 💵Aoibheann Cline - NRA
+* Kaitlyn Chantry
+* Anthony Miranti
 * Donald Miniken
+* Xiaojian Cong
+* Garret Butts
+* Ilya Zlatkovsky
+* Ilya Zlatkovsky
 * Dennis Cherry
+* Dominic Gillo
+* Christal Gillo
 * Justin Moran
 * Regina Mcgovern
+* Andrew Barrera
+* Ty Kirkham
+* Alexander Dominguez
+* Elizabeth Bienas
+* Samuel Kniveton
+* Billy Urquhart
 * Bronc Hutsell
 
 #### 1 ❓ - Other

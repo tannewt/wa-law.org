@@ -19,6 +19,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Colleen Frerks - Quincy School District
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jim Kowalkowski - Rural Education Center
+* 💵Erica Hallock - Start Early Washington

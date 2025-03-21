@@ -7,7 +7,8 @@
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
 * 👎 Charlie Brown
 
-### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study 👍2  
+### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study 👍3  
+* 👍 Charlie Brown
 * 👍 Charlie Brown
 * 👍 Charlie Brown
 

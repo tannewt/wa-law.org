@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1003/</link>
 		<description>Updates about HB 1003</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 03:48:06 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-12 03:48:06</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-20/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

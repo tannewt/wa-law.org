@@ -8,7 +8,8 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
-### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍2  
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍3  
+* 👍 Jesse Wing
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
 

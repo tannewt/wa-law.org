@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5503/</link>
 		<description>Updates about SB 5503</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 08:06:11 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 09:49:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -112,6 +112,54 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Sheri/Sawyer/2025-03-19 08:06:11</guid>
+		</item>
+		<item>
+			<title>👎Doug Morrill - Summit Law Group</title>
+			<description>Doug Morrill signed up to testify Con. They are signed up to represent Summit Law Group.</description>
+			<pubDate>Thu, 20 Mar 2025 01:49:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Doug/Morrill/2025-03-20 01:49:37</guid>
+		</item>
+		<item>
+			<title>👎💵James Cockburn - Washington Public Ports Association</title>
+			<description>James Cockburn signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_ports_association/"&gt;Washington Public Ports Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Mar 2025 05:04:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Cockburn/2025-03-20 05:04:07</guid>
+		</item>
+		<item>
+			<title>👍Melissa Staples - SEIU Healthcare 1199NW</title>
+			<description>Melissa Staples signed up to testify Pro. They are signed up to represent SEIU Healthcare 1199NW.</description>
+			<pubDate>Thu, 20 Mar 2025 07:10:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Staples/2025-03-20 07:10:30</guid>
+		</item>
+		<item>
+			<title>👎💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Mar 2025 08:23:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2025-03-20 08:23:52</guid>
+		</item>
+		<item>
+			<title>👎Sandra Brock - Washington State Association of Counties</title>
+			<description>Sandra Brock signed up to testify Con.</description>
+			<pubDate>Thu, 20 Mar 2025 08:35:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-20 08:35:13</guid>
+		</item>
+		<item>
+			<title>👍SEIU Austreng - SEIU Healthcare 1199NW</title>
+			<description>SEIU Austreng signed up to testify Pro. They are signed up to represent SEIU Healthcare 1199NW.</description>
+			<pubDate>Thu, 20 Mar 2025 09:49:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/SEIU/Austreng/2025-03-20 09:49:06</guid>
 		</item>
 	</channel>
 </rss>

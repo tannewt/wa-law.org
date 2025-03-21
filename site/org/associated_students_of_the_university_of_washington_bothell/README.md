@@ -19,6 +19,8 @@
 
 ### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
 
+### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍1  
+
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
 ### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍1  
@@ -35,11 +37,15 @@
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍2  
 
-## [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
+### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+* 👎💵 Sienna Jarrard
 
 ## 2023-24
 
-### [SB 5523](/bill/2023-24/sb/5523/) - Higher ed. gov./students 👍1  
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
+* 👎💵 Sienna Jarrard
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 

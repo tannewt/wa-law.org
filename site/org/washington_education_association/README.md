@@ -285,6 +285,8 @@
 
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax 👍1  
 
+### [HB 2024](/bill/2025-26/hb/2024/) - Primary residence/tax 👍1  
+
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
@@ -474,6 +476,8 @@
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍2  
 
+### [SB 5357](/bill/2025-26/sb/5357/) - Actuarial pension funding   ❓1
+
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
@@ -590,7 +594,11 @@
 
 ### [SB 5772](/bill/2025-26/sb/5772/) - Student enrollment  👎1 
 
-### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+* 👎💵 Larry Delaney
+
+### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎2 
+* 👎💵 Larry Delaney
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

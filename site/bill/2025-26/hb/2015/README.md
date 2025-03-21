@@ -26,11 +26,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Mac Nicholson - [King County](/org/king_county/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 11 👎 - Con
+#### 492 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

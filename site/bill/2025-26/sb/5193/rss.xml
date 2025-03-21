@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5193/</link>
 		<description>Updates about SB 5193</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 17:24:35 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -186,6 +186,13 @@
 			<pubDate>Wed, 19 Mar 2025 17:24:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5193</guid>
+		</item>
+		<item>
+			<title>ED - Majority; do pass with amendment(s).</title>
+			<description>ED - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-20/ED - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

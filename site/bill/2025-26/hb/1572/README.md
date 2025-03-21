@@ -10,17 +10,11 @@
 
 ## Meetings
 ### Thu 03/20 01:30 PM - Higher Education & Workforce Development (HEWD): ESHB 1572 Higher ed. accreditation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165937&caId=26587&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165937&caId=26587&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165937&caId=26587&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165937&caId=26587&tId=4)
-
-#### 63 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Dave Thurman - Northeastern University Seattle
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -263,7 +263,8 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Candice Bock
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
@@ -334,7 +335,7 @@
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
-### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍2  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 * 👍 Amy Ockerlander

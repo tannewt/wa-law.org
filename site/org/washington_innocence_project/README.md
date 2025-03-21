@@ -8,11 +8,15 @@
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. 👍2  
 * 👍💵 Lara Zarowsky
 
-## [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
+### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
+
+## [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎1 
+* 👎 John Marlow
 
 ## 2023-24
 
-### [HB 1178](/bill/2023-24/hb/1178/) - Sentencing enhancements 👍1  
+### [SB 5169](/bill/2023-24/sb/5169/) - Testimony of children  👎1 
+* 👎 John Marlow
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 * 👍💵 Lara Zarowsky

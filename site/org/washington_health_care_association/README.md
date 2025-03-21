@@ -1,6 +1,9 @@
 # Washington Health Care Association
 ## 2025-26
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓ Carma Matti-Jackson
+
 ### [HB 1476](/bill/2025-26/hb/1476/) - Nursing home rate rebase  👎4 
 * 👎 Carma Matti-Jackson
 

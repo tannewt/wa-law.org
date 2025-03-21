@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165731&caId=26398&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165731&caId=26398&tId=4)
 
-#### 35 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Sarah Olson - Village Cohousing Works

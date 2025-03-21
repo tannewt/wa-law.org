@@ -12,7 +12,8 @@
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍💵 Daniel Olson
 
-### [HB 1602](/bill/2025-26/hb/1602/) - Liquor food service options 👍2  
+### [HB 1602](/bill/2025-26/hb/1602/) - Liquor food service options 👍3  
+* 👍💵 Daniel Olson
 * 👍💵 Daniel Olson
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎2 

@@ -24,7 +24,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=4)
 
-#### 69 👍 - Pro
+#### 144 👍 - Pro
+Testifying:
+* Steven Rhine - Rhine Labs
+* Eduard Sinelnikov
+* Antoni Plocica
 
 #### 0 👎 - Con
 

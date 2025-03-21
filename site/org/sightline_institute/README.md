@@ -5,6 +5,8 @@
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍3  
@@ -21,7 +23,7 @@
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
-### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍3  
 * 👍💵 Dan Bertolet

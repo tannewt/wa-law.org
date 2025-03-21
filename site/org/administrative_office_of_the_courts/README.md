@@ -13,16 +13,20 @@
 * 👍 James Wells
 * 👍 Haily Perkins
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍2  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍2  ❓3
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
+* ❓ Christopher Stanley
+* ❓ Brittany Gregory
+* ❓ Dawn Marie Rubio
 
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
 * 👍 Haily Perkins
 
-### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍2  
+### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍3  
 * 👍 Scott Ahlf
 * 👍 Brittany Gregory
+* 👍 Scott Ahlf
 
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 * 👍 Brittany Gregory
@@ -32,6 +36,11 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Christopher Stanley
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓3
+* ❓ Christopher Stanley
+* ❓ Brittany Gregory
+* ❓ Dawn Marie Rubio
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 Haily Perkins

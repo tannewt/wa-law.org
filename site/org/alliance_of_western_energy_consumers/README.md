@@ -1,7 +1,7 @@
 # Alliance of Western Energy Consumers
 ## 2025-26
 
-### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
+### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍2  
 * 👍💵 Brandon Houskeeper
 
 ### [HB 1598](/bill/2025-26/hb/1598/) - Community solar  👎1 
@@ -23,7 +23,7 @@
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍2  
 
-### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  
+### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍2  
 
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers   ❓1
 * ❓ Curt Augustine

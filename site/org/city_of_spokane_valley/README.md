@@ -134,6 +134,8 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
+
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 
 ### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 

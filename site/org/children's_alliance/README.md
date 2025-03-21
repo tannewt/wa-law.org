@@ -3,8 +3,9 @@
 
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
 * ❓💵 Reid Saaris
+* ❓ Anni-Michele Jean-Pierre
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
@@ -27,6 +28,9 @@
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Anni-Michele Jean-Pierre
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 

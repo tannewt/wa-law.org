@@ -3,7 +3,7 @@
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development   ❓1
 
-### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
+### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍2  
 
 ### [HB 1712](/bill/2025-26/hb/1712/) - Qualified biomass facilities  👎1 
 

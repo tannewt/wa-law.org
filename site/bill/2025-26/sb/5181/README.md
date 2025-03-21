@@ -55,12 +55,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=4)
 
-#### 2 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Jessica Cole
+* Tiffany Kelly
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 69 👎 - Con
+#### 134 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
+* Dawn Land - Reject 5599 PAC
+* Tonya Hickman - Lynden School Board
+* Sharon Hanek
 
 #### 0 ❓ - Other
 

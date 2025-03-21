@@ -25,7 +25,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=4)
 
-#### 381 👍 - Pro
+#### 552 👍 - Pro
 Testifying:
 * Breck Lebegue
 * Caitlin Safford - Office of the Governor
@@ -37,9 +37,12 @@ Testifying:
 * Beth Ebel - WA Chapter, American Academy of Pediatrics
 * Carrie Horwitch - MD, MPH
 * Tyler Breier - Parent, Public Health Nurse
+* Ashlin Mountjoy
+* 💵Jaime Bodden - WSALPHO
+* 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Rex Johnson - Washington Advocates for Patient Safety
 
-#### 4208 👎 - Con
+#### 4530 👎 - Con
 Testifying:
 * Laurie Layne
 * Leah Houser
@@ -103,11 +106,19 @@ Testifying:
 * Shari Stremler
 * Linda Jennings
 * Regina Kegley
+* Sandra Mochizuki
+* Carol Griswold-Bacigalupi - your BOSS, NEIGHBOR please LISTEN
+* Linda Germick
 * LAURA GAHAN - retired
 * tod kimpe
 * Richard Weiss
+* Sandra Brock
+* Linda Hisey
+* SCOTT BOE
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Kathy Doolin
 
 ### Fri 01/31 08:00 AM - Health Care & Wellness (HCW): HB 1531 Communicable disease
 #### 169 👍 - Pro

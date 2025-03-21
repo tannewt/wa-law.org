@@ -19,14 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166047&caId=26623&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166047&caId=26623&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Carrie Tellefson - RNDC
+* Charlie Brown - [Diageo](/org/diageo/)
 * 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
 
-#### 390 👎 - Con
+#### 489 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 

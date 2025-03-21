@@ -151,7 +151,8 @@
 
 ### [HB 1996](/bill/2025-26/hb/1996/) - Behavioral health diversion 👍1  
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍2  

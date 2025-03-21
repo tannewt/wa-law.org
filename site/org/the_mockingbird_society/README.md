@@ -58,6 +58,10 @@
 * ❓💵 Samuel Martin
 * ❓💵 Charles Smith
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
+* ❓💵 Charles Smith
+* ❓ Jeff Abdullah
+
 ### [SB 5199](/bill/2025-26/sb/5199/) - Providing compensation to members of the department of children, youth, and families oversight board with direct lived experience. 👍1  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  

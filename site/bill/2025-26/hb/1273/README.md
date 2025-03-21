@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Thu 03/20 01:30 PM - Higher Education & Workforce Development (HEWD): 2SHB 1273 Dual credit program access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165860&caId=26392&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165860&caId=26392&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165860&caId=26392&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165860&caId=26392&tId=4)
-
-#### 108 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * 💵Jayme Shoun - Washington STEM
 * Jenny Veltri - Career Connect NW/NWESD 189

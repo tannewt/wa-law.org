@@ -23,13 +23,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Courtney Hesla - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
+* Katie Hurley - King County Department of Public Defense
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
 
 #### 0 ❓ - Other
 

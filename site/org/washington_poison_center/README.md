@@ -8,6 +8,8 @@
 ### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
 * 👍 Dr. Scott Phillips
 
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  

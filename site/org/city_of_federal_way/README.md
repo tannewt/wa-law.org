@@ -1,6 +1,9 @@
 # City of Federal Way
 ## 2025-26
 
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
+* 👎 Mayor Jim Ferrell
+
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
 * 👍 Mayor Jim Ferrell
 

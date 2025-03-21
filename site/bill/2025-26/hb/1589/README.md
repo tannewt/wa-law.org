@@ -20,11 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=4)
 
-#### 66 👍 - Pro
+#### 396 👍 - Pro
+Testifying:
+* Jessica Schule
+* 💵Patrick Connor - NFIB
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1589 Health carriers & providers
 #### 879 👍 - Pro

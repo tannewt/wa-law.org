@@ -21,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=4)
 
-#### 171 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * Miri Cypers - ADL Pacific Northwest
@@ -29,11 +29,15 @@ Testifying:
 * 💵Gabriel Neuman - GSBA
 * 💵Carey Morris - WA State Coalition Against Domestic Violence
 
-#### 472 👎 - Con
+#### 604 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Angelique Rodriguez - CAIR Washington
+* Sabrene Odeh - CAIR Washington
 
 ### Thu 02/13 04:00 PM - Ways & Means (WM): SSB 5101 Worker leave/hate crimes
 #### 44 👍 - Pro

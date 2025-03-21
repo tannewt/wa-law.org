@@ -55,6 +55,9 @@
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 * ❓💵 Curtis Steinhauer
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Paul Jewell
+
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 * 👍 BRIAN ENSLOW
 
@@ -106,7 +109,7 @@
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 
-### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
 
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits   ❓1
 * ❓💵 Paul Jewell
@@ -181,6 +184,9 @@
 
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+* 👍💵 Curtis Steinhauer
+
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍2  
 * 👍💵 Paul Jewell
 
@@ -230,6 +236,9 @@
 * 👎💵 Paul Jewell
 
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
+* ❓💵 Paul Jewell
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Paul Jewell
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
@@ -303,6 +312,9 @@
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓2
 * ❓💵 Travis Dutton
 * ❓💵 Paul Jewell
+
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
+* 👎💵 Paul Jewell
 
 ### [SB 5510](/bill/2025-26/sb/5510/) - Conservation district limits   ❓1
 * ❓💵 Paul Jewell

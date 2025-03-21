@@ -21,11 +21,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166059&caId=26689&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166059&caId=26689&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dr. MaryAnn Curl - Department of Corrections
 
 ### Tue 01/21 01:30 PM - Human Services (HS): SB 5182 Incarcerated parents
 #### 31 👍 - Pro

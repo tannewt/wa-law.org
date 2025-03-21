@@ -19,8 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165974&caId=26694&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165974&caId=26694&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
+* Dee Anne Finken - League of Women Voters of Washington
 * Shelby Reynolds - Action for Media Education
 
 #### 0 👎 - Con

@@ -24,7 +24,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=4)
 
-#### 496 👍 - Pro
+#### 1170 👍 - Pro
 Testifying:
 * Tela Hogle
 * Fernanda Grether Zdanowsky
@@ -33,12 +33,30 @@ Testifying:
 * Amasai Jeke - UTOPIA Washington
 * Aspen Coyle
 * Zoë Schirmer
+* Calvin Bedner
+* Amanda Sprynczynatyk
+* Isabelle Edwards
+* Dahlia McCabe
+* Emily DeNio
+* Nathan Bays - Governor's Office
+* Alexis Ochoa
+* Ash Powers
+* Sienna Payne
+* Jordan Bachman-Whitman
+* Winter Gacusana
+* Courtney Miner
 * Syzygy Blankenship - Self
 * Jaycee Stephens
+* Halle Aaby
+* Noah Peterson
+* Blake Burgess
+* Caroline Gibney - 1849 91st ave sw
 
-#### 520 👎 - Con
+#### 737 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
+* Sandra Brock
 
 #### 0 ❓ - Other
 

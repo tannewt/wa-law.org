@@ -6,6 +6,9 @@
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  
 * 👍 Adam Eitmann
 
+### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs   ❓1
+* ❓ Tad O'Neill
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
 * 👍 Maureen Johnston
 

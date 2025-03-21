@@ -43,7 +43,8 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍2  
 
-### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍2  
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍4  
+* 👍💵 Amy Brackenbury
 
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎2 
 * 👎 Megan Moore

@@ -4,8 +4,9 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Denise Rodriguez
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  ❓1
 * 👍💵 Denise Rodriguez
+* ❓💵 Denise Rodriguez
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 

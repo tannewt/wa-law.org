@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2012/</link>
 		<description>Updates about HB 2012</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 18:11:25 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 11:55:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,30 @@
 			<pubDate>Mon, 10 Mar 2025 18:11:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=HB%202012</guid>
+		</item>
+		<item>
+			<title>👎Colleen Frerks - Quincy School District</title>
+			<description>Colleen Frerks signed up to testify Con. They are signed up to represent Quincy School District.</description>
+			<pubDate>Thu, 20 Mar 2025 01:29:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Colleen/Frerks/2025-03-20 01:29:55</guid>
+		</item>
+		<item>
+			<title>❓Jim Kowalkowski - Rural Education Center</title>
+			<description>Jim Kowalkowski signed up to testify Other. They are signed up to represent Rural Education Center.</description>
+			<pubDate>Thu, 20 Mar 2025 02:50:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jim/Kowalkowski/2025-03-20 02:50:45</guid>
+		</item>
+		<item>
+			<title>❓💵Erica Hallock - Start Early Washington</title>
+			<description>Erica Hallock signed up to testify Other. They are signed up to represent Start Early Washington. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Mar 2025 11:55:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Erica/Hallock/2025-03-20 11:55:21</guid>
 		</item>
 	</channel>
 </rss>

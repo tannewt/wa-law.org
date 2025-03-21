@@ -27,7 +27,7 @@ Testifying:
 Testifying:
 * Heather Cantamessa - [Akin](/org/akin/)
 
-#### 37 ❓ - Other
+#### 87 ❓ - Other
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction (OSPI)
 * Kim Justice - Partners for Our Children
@@ -61,10 +61,60 @@ Testifying:
 * Suzi Fode - New Hope
 * 💵Laurel Redden - King County Sexual Assault Resource Center/Sexual Assault Working Group
 * 💵Melanie Smith - WA State LTC Ombuds Program
+* 💵Karen Strickland - American Federation of Teachers - WA
+* 💵Alyssa Odegaard - LeadingAge Washington
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* Demas Nesterenko - SEIU 775
+* Alejandra Perdomo-Menera - Cherrywood Care Assisted Living
+* Bret Heiner - Ensign Services/Pennant WA
+* Chaim Wolmark - Caldera Care
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Chris Beckers - Parkside Retirement Community
+* Christina McPeak - Lacey Post Acute & Rehabilitation
+* 💵Juliet Schindler - [Western Governors University](/org/western_governors_university/)
+* Rick Chisa - Public School Employees of WA/SEIU 1948
+* Danielle St. Germain - Stafholt Health & Rehabilitation of Cascadia
+* Eli Oscherowitz - Caldera Care
+* Naoko Shatz - International Families Justice Coalition
+* Terry Kinjo - International Families Justice Coalition
+* Jane Davis - Landmark Care & Rehabilitation
+* Jason Odenthal - Evergreen Healthcare
+* Jim Roe - Sapphire at Woodway Senior Living
+* Rachel Erickson - Fir Lane Care
+* Scott Carlston - Avamere Rehabilitation of Ridgemont
+* Zack Wester - Noble Healthcare
+* Abigail Robles Vazquez
+* Lisa Dye - Lacey Post Acute & Rehabilitation
+* Anna Phetsomphou - Caldera Care
+* Amy Seils - Cascadia Healthcare
+* Carol Ann Andrews - Olympic View Care
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Asher Lang - Everett High School
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Dawn Marie Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Anni-Michele Jean-Pierre - [Children's Alliance](/org/children's_alliance/)
+* Matthew Wilson - Oasis Youth Center
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Jaime Bodden - WSALPHO
+* 💵Sue Nightingale - Washington Education Association/Association of Higher Education
+* Bill Lyne - United Faculty of WA/Washington Education Association
+* Adam Aguilera - Evergreen Education Association
+* 💵Courtney Williams - The Adult Family Home Council
+* 💵Emily Mikkelsen - Early Learning Action Alliance
 * Giannina Ferrara - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
 * Roger Rogoff - Office of Independent Investigations
 * 💵Dawn Rains - [Treehouse](/org/treehouse/)
+* Sezi Fleming - Washington MESA
+* Nancy Chamberlain - Washington State PTA
+* Kathryn Gardow - Chair, Public Works Board
+* 💵Karina Patel - The Tubman Center for Health and Freedom
+* 💵Karen Pillar - TeamChild
+* Jolynn Kenney - MENTOR Washington
+* LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
+* Lelach Rave - WCAAP
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Traci Underwood - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 
 ### Mon 01/13 04:00 PM - Appropriations (APP): HB 1198 Operating budget
 #### 164 👍 - Pro

@@ -11,18 +11,14 @@
 
 ## Meetings
 ### Thu 03/20 01:30 PM - Finance (FIN): HB 2033 Nicotine product taxation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33018&aId=165506&caId=26494&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33018&aId=165506&caId=26494&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33018&aId=165506&caId=26494&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33018&aId=165506&caId=26494&tId=4)
-
-#### 24 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Drew Johnson
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 71 👎 - Con
+#### 74 👎 - Con
 Testifying:
 * Thomas Eshleman - Doyles Sheehan
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)

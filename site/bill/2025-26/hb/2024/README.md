@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166181&caId=26698&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166181&caId=26698&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 10 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes

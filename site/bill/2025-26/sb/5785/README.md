@@ -14,15 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166355&caId=26678&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166355&caId=26678&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 
-#### 362 👎 - Con
+#### 1250 👎 - Con
 Testifying:
 * 💵Mykhail Lembke - Graduate and Professional Student Senate at the University of Washington
 * 💵Karen Strickland - AFT Washington
 * Edyn Totten - CWU Student
 * Bill Lyne - United Faculty of Washington State
 * Harleen Dhillon
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * Jaleh Kupai - University of Washington Tacoma
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

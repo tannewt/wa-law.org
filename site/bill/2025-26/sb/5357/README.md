@@ -10,19 +10,13 @@
 
 ## Meetings
 ### Thu 03/20 04:00 PM - Appropriations (APP): ESSB 5357 Actuarial pension funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165958&caId=26609&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165958&caId=26609&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165958&caId=26609&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165958&caId=26609&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
 #### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Luke Masselink - OSA - available for questions
 * 💵Emmett Mills - Washington State School Retirees' Association

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166125&caId=26644&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166125&caId=26644&tId=4)
 
-#### 0 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* Nan Gibson - JP Morgan Chase
 
 #### 0 👎 - Con
 

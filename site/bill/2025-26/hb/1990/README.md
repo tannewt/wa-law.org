@@ -16,17 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=4)
 
-#### 57 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * 💵John Rothlin - Avista Corporation
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * Leslie Baldik
 * Teresa Sanders
+* Sandra Brock
+* Sandra Brock
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tad O'Neill - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1990 Utility disaster costs
 #### 101 👍 - Pro

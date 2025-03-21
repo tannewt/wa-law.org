@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=4)
 
-#### 7 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Charles Wharton - AMVETS Legislative Director
+* Susan Woods - Veteran's Legislative Coalition
+* Allen Acosta - Veterans Legislative Coalition
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

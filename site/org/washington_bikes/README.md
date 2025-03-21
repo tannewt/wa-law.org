@@ -3,7 +3,7 @@
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
-### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍4  
+### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍5  
 * 👍 Vicky Clarke
 * 👍 Lee Lambert
 

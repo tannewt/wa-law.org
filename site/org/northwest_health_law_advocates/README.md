@@ -24,6 +24,8 @@
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍2  
 
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
+
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
 * 👍💵 Vanessa Saavedra
 
@@ -43,7 +45,7 @@
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 * 👍💵 Emily Brice
 
-### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 * 👍💵 Emily Brice
@@ -89,7 +91,7 @@
 ### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍2  
 * 👍💵 Emily Brice
 
-### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
 
 ## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 

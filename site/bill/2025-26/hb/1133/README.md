@@ -23,7 +23,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Annie Slade
 
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1133 Sexually violent predators
 #### 408 👍 - Pro

@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165865&caId=26551&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165865&caId=26551&tId=4)
 
-#### 14 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * John Whitehead - Human Resources Director, City of Spokane Valley
 * Kelly Konkright - City Attorney, City of Spokane Valley
+* Marci Patterson
+* Patricia Rhoades
+* Deanna Horton
 
 #### 0 👎 - Con
 

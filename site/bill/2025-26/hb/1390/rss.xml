@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1390/</link>
 		<description>Updates about HB 1390</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 09 Mar 2025 20:31:35 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Mar 2025 12:46:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,22 @@
 			<pubDate>Sun, 09 Mar 2025 20:31:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201390</guid>
+		</item>
+		<item>
+			<title>👍💵Noah Seidel - Office of Developmental Disabilities Ombuds</title>
+			<description>Noah Seidel signed up to testify Pro. They are signed up to represent Office of Developmental Disabilities Ombuds. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Mar 2025 02:06:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Noah/Seidel/2025-03-20 02:06:30</guid>
+		</item>
+		<item>
+			<title>👍Kris Pederson - DSHS Developmental Disabilities Administration</title>
+			<description>Kris Pederson signed up to testify Pro. They are signed up to represent DSHS Developmental Disabilities Administration.</description>
+			<pubDate>Thu, 20 Mar 2025 12:46:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kris/Pederson/2025-03-20 12:46:23</guid>
 		</item>
 	</channel>
 </rss>

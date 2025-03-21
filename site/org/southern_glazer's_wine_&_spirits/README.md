@@ -3,7 +3,7 @@
 
 ### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits  👎3 
 
-### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study 👍7  
+### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study 👍8  
 * 👍 devan pierce
 
 ### [SB 5371](/bill/2025-26/sb/5371/) - Wine & spirit sales limits 👍1 👎2 

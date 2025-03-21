@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 03/20 04:00 PM - Transportation (TRAN): SHB 1980 Employer transp. services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165940&caId=26589&tId=4)
-
-#### 77 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Nikki Stuck - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Jared Nieuwenhuis - Councilmember, City of Bellevue

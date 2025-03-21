@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 03/20 04:00 PM - Appropriations (APP): SB 5478 Authorized PEBB benefits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165960&caId=26611&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165960&caId=26611&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165960&caId=26611&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165960&caId=26611&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * Shawn O'Neill - Washington State Health Care Authority

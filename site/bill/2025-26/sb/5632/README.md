@@ -22,13 +22,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=4)
 
-#### 221 👍 - Pro
+#### 249 👍 - Pro
 Testifying:
 * Mo West
+* Adam Eitmann - Attorney General's Office
+* Chris Smith
+* Dr. Crystel Beal
+* Mo West
 
-#### 1339 👎 - Con
+#### 1751 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
+* Sandra Brock
 
 #### 0 ❓ - Other
 

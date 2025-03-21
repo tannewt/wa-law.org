@@ -65,6 +65,8 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
+### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍1  
+
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
 * ❓💵 Bryce Yadon
 

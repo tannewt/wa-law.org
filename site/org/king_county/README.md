@@ -13,7 +13,8 @@
 ### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍1  
 * 👍 Mac Nicholson
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
+* 👍 Mac Nicholson
 * 👍 Mac Nicholson
 * 👍 Mac Nicholson
 

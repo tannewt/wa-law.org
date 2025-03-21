@@ -128,7 +128,7 @@
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 * 👍💵 Peter Godlewski
 
-### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍2  
 
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 

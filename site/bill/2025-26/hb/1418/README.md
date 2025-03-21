@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 03/20 04:00 PM - Transportation (TRAN): SHB 1418 PTBA governing body members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165939&caId=26588&tId=4)
-
-#### 321 👍 - Pro
+#### 344 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Erik Lowe - Spokane Reimagined
@@ -30,7 +24,7 @@ Testifying:
 * Judy Jones
 * Saunatina Sanchez
 
-#### 593 👎 - Con
+#### 613 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

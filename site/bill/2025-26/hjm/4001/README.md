@@ -9,15 +9,12 @@
 
 ## Meetings
 ### Thu 03/20 04:00 PM - Transportation (TRAN): SHJM 4001 Russ Blount memorial bridge
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165941&caId=26590&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165941&caId=26590&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165941&caId=26590&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33053&aId=165941&caId=26590&tId=4)
-
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Abhay Sankar
+* 💵Michael Transue - [City of Fife](/org/city_of_fife/)
+* Debra Blount - Blount family
+* Kim Roscoe
 
 #### 0 👎 - Con
 

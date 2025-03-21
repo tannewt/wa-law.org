@@ -16,15 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=4)
 
-#### 24 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Andrea Phillips
 * Madison Hultquist
 
-#### 10 👎 - Con
+#### 79 👎 - Con
 Testifying:
+* 💵Patrick Connor - NFIB
 * Claire Brutocao
+* ALISSA Hemke - Washington State Psychiatric Association
 * Kevin McLean
+* Neeru Bakshi
 
 #### 0 ❓ - Other
 

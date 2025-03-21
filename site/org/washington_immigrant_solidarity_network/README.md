@@ -9,7 +9,7 @@
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 

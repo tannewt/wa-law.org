@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 03/20 01:30 PM - Higher Education & Workforce Development (HEWD): SHB 1486 Student member on SBCTC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165861&caId=26393&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165861&caId=26393&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165861&caId=26393&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33080&aId=165861&caId=26393&tId=4)
-
-#### 16 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Aniya Clark - Student Government of Olympic College
 * Daniel Ngoy - Associated Student Government of Bellevue College
@@ -26,12 +20,15 @@ Testifying:
 * Heba Qatrani - South Seattle College Student and the Washington Student Association
 * 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Terrell Stalworth - Associated Students of Tacoma Community College
+* Matthew Furey-Soper - Seattle Central Student
 
-#### 58 👎 - Con
+#### 60 👎 - Con
 Testifying:
 * Max Chen
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Arlen Harris - State Board for Community & Technical Colleges
 
 ### Wed 02/12 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1486 Student member on SBCTC
 #### 57 👍 - Pro

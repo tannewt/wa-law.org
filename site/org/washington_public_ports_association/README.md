@@ -44,7 +44,7 @@
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity   ❓1
 * ❓ Chris Herman
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍3  
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍 Eric ffitch
@@ -69,7 +69,7 @@
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1  
 * 👍 Chris Herman
 
-### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍2  
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 Chris Herman
@@ -143,6 +143,9 @@
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
 
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
+* 👎💵 James Cockburn
+
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels
 
@@ -151,6 +154,8 @@
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 * 👍 Chris Herman
+
+### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍1  
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  ❓1
 

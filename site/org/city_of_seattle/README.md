@@ -43,7 +43,7 @@
 
 ### [HB 1388](/bill/2025-26/hb/1388/) - Mobile market programs 👍1  
 
-### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 * 👍 Rico Quirindongo
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
@@ -105,6 +105,8 @@
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+
+### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍2  
 
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
 

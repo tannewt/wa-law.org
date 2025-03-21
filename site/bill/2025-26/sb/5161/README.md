@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33107&aId=166435&caId=26677&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33107&aId=166435&caId=26677&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Joe McDermott - State Relations Director | King County
+* Councilmember Megan Dunn - Snohomish County
 
 #### 0 👎 - Con
 
