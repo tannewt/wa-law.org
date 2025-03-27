@@ -4,11 +4,14 @@
 ### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
 * 👍 Heather Evans
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 ❓1
 * ❓💵 Morgan Hickel
+* 👎💵 Morgan Hickel
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍💵 Morgan Hickel
+
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
@@ -25,6 +28,8 @@
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍3  
 * 👍 Charles Marcus
 * 👍 Charles Marcus
+
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍2  
 
@@ -64,6 +69,9 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Morgan Hickel
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Joe Dacca
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
@@ -79,11 +87,13 @@
 
 ### [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍1  
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎52 
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎82 ❓1
+* ❓ Joe Dacca
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎52 
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎82 ❓1
+* ❓ Joe Dacca
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

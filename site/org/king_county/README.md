@@ -5,6 +5,9 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
+* ❓💵 Misha Lujan
+
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
@@ -20,6 +23,9 @@
 
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
+* ❓💵 Misha Lujan
+
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
@@ -33,11 +39,13 @@
 ### [SB 5745](/bill/2025-26/sb/5745/) - Invol. treatment counsel   ❓1
 * ❓💵 Michael White
 
-## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
 ## 2023-24
 
-### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 * 👍 Bradley Finegood

@@ -11,19 +11,24 @@
 
 ## Meetings
 ### Mon 03/24 04:00 PM - Appropriations (APP): HB 2012 Transition to kindergarten
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33152&aId=166173&caId=26696&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33152&aId=166173&caId=26696&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33152&aId=166173&caId=26696&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33152&aId=166173&caId=26696&tId=4)
+#### 33 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 5 👎 - Con
+#### 1073 👎 - Con
 Testifying:
 * Colleen Frerks - Quincy School District
+* Mark Jacobson - St. John School District
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Sandra Mochizuki
+* Sandra Brock
+* Charlie Brown - South Sound Superintendents
+* Anthony Holan
+* TaraLyn Fray
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * 💵Erica Hallock - Start Early Washington
+* Wade Smith - Superintendent, Walla Walla Public Schools
+* Kimberly Headrick - Medical Lake School District
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)

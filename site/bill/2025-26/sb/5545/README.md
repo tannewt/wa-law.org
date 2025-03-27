@@ -13,15 +13,12 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5545 Family home prov./military
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166158&caId=26741&tId=4)
+#### 126 👍 - Pro
+Testifying:
+* Sam Loberg
+* 💵Jake Mayson - Greater Spokane Incorporated
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

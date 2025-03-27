@@ -17,23 +17,33 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): ESHB 1113 Misdemeanor dismissal
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165988&caId=26655&tId=4)
-
-#### 6 👍 - Pro
+#### 227 👍 - Pro
 Testifying:
 * Courtney Hesla - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
 * Katie Hurley - King County Department of Public Defense
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* AJ Johnson - WSCFF
+* Brandi McNeil - [Purpose Dignity Action](/org/purpose_dignity_action/)
+* Damon Shadid - I am testifying in my solo capacity as a duly elected judge
+* Joshua Wallace - Joshua Wallace
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* 💵Sandra Toussaint - ACLU Washington
+* Victoria Rivera - Catholic Charities
 
-#### 2 👎 - Con
+#### 296 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Anthony Mixer - Washington State Young Republicans
+* Corey Sherwood - Washington State Young Republicans
+* Sandra Brock
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Judge Karl Williams - District & Municipal Court Judges' Association
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
 
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1113 Misdemeanor dismissal
 #### 28 👍 - Pro

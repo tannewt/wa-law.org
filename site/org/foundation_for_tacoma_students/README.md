@@ -42,11 +42,13 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

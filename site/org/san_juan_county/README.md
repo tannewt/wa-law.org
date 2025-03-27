@@ -3,6 +3,9 @@
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
 
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+* 👍 Richard Uri
+
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍2  
 * 👍 Councilmember Justin Paulsen
 

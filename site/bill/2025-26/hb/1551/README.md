@@ -20,9 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166135&caId=26654&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166135&caId=26654&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Paula Sardinas - WBBA/FMS Global Strategies
 
-#### 0 👎 - Con
+#### 389 👎 - Con
+Testifying:
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
+* Liza Simmonds
 
 #### 0 ❓ - Other
 

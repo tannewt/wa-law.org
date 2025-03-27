@@ -1,7 +1,8 @@
 # American Heart Association
 ## 2025-26
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+* ❓💵 Alex Hamasaki
 * ❓💵 Alex Hamasaki
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
@@ -15,6 +16,9 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Alex Hamasaki
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
+* 👎💵 Alex Hamasaki
 
 ## [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍2  
 

@@ -14,7 +14,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
@@ -43,6 +43,8 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍2  
 
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍4  
 * 👍💵 Amy Brackenbury
 
@@ -59,7 +61,9 @@
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
-### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
+
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1884](/bill/2025-26/hb/1884/) - Cannabis regulation  👎1 
 
@@ -67,6 +71,8 @@
 
 ### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation 👍1  
 * 👍 Megan Moore
+
+### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis   ❓1
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
@@ -79,7 +85,7 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Amy Brackenbury
 
-### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising  👎1 
+### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising  👎2 
 
 ### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍1  
 
@@ -91,7 +97,7 @@
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍2  
 * 👍💵 Amy Brackenbury
 
-### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍1  
+### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍2  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 

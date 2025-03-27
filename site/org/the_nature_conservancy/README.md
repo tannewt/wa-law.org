@@ -5,8 +5,9 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  ❓1
 * 👍 Scott Richards
+* ❓ Scott Richards
 
 ### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects 👍1  
 
@@ -46,9 +47,12 @@
 
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+* 👍 Skippy Shaw
+
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
-### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍1  ❓1
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍2  ❓1
 * ❓💵 David Mendoza
 
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
@@ -65,6 +69,9 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Scott Richards
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
@@ -76,6 +83,8 @@
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍2  
+
+### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍1  
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍2  
 * 👍💵 Justin Allegro

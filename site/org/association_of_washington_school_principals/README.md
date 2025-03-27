@@ -70,7 +70,7 @@
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
-### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍2  
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍3  
 

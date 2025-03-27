@@ -17,9 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166009&caId=26666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166009&caId=26666&tId=4)
 
-#### 1 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Jake Hughes - Department of Social and Health Services
+* Kaha Arte - Attorney at Northwest Justice Project and Member of the Governor's Child Support Workgroup
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵James Clark - 2023 Child Support Schedule Workgroup member, National Parents Organization, Washington State chair
+* John Meyer - N/A
 
 #### 0 ❓ - Other
 

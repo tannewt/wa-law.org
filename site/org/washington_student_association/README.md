@@ -1,6 +1,9 @@
 # Washington Student Association
 ## 2025-26
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Isela Bonilla
+
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 * 👍 Heba Qatrani
 
@@ -18,22 +21,27 @@
 * 👍 Fernanda Armas
 * 👍 Heba Qatrani
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓💵 Isela Bonilla
+
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
 
-## [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍6  
+### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍6  
 * 👍💵 Sean Behl
 * 👍 Heba Qatrani
 * 👍💵 Sean Behl
 * 👍 Heba Qatrani
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
+* 👎💵 Isela Bonilla
+* 👎 Heba Qatrani
 
 ## 2023-24
 
-### [SB 5523](/bill/2023-24/sb/5523/) - Higher ed. gov./students 👍6  
-* 👍💵 Sean Behl
-* 👍 Heba Qatrani
-* 👍💵 Sean Behl
-* 👍 Heba Qatrani
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎2 
+* 👎💵 Isela Bonilla
+* 👎 Heba Qatrani
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): EHB 1602 Liquor food service options
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166129&caId=26648&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166129&caId=26648&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166129&caId=26648&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166129&caId=26648&tId=4)
-
-#### 1 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Michael Perozzo - Vice Beer LLC
 
 #### 0 👎 - Con
 

@@ -58,6 +58,8 @@
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍3  
 
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
@@ -90,13 +92,20 @@
 
 ### [SB 5475](/bill/2025-26/sb/5475/) - Salmon recovery maintenance 👍1  
 
+### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
+* 👍 Neal Black
+
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
+### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
+
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
+
+### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍1  
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
 

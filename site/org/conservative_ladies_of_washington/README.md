@@ -24,7 +24,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences.  👎1 
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎2 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎3 
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions  👎2 
 
@@ -39,7 +39,7 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎3 
 
-### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities  👎2 
+### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities  👎3 
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs  👎2 
 
@@ -127,11 +127,11 @@
 ### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics.  👎4 
 * 👎 Jeannie Magdua
 
-### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process  👎4 
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process  👎5 
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.  👎1 
 
-### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education  👎1 
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education  👎2 
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding  👎3 
 
@@ -171,6 +171,9 @@
 ### [SB 5622](/bill/2025-26/sb/5622/) - Diet pills and supplements  👎3 
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎2 
+
+### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed.  👎2 
+* 👎 Mary Long
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 

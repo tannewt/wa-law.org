@@ -22,7 +22,7 @@
 
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍2  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
 
@@ -39,6 +39,8 @@
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
+
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
@@ -62,6 +64,8 @@
 ### [SB 5258](/bill/2025-26/sb/5258/) - Medicaid concurrent enroll.  👎1 
 * 👎💵 Vanessa Saavedra
 
+### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍1  
+
 ### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍2  
 
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
@@ -83,7 +87,7 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
-### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
 
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 * 👍💵 Emily Brice

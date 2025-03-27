@@ -10,17 +10,24 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5291 Long-term services trust
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166157&caId=26740&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166157&caId=26740&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166157&caId=26740&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166157&caId=26740&tId=4)
+#### 447 👍 - Pro
+Testifying:
+* Ned Gaines - Office of the Insurance Commissioner
+* Tyler Langford - Office of the Insurance Commissioner
+* 💵Alyssa Odegaard - Leading Age Washington
+* Laura Cepoi - Washington Association of Area Agencies on Aging / Olympic Area Agency on Aging
+* Mark Stensager
+* Stephen Forman - Long Term Care Associates, Inc.
 
-#### 3 👍 - Pro
+#### 547 👎 - Con
+Testifying:
+* Liza Simmonds
+* TaraLyn Fray
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Felicia Spivack - [Trustmark Benefits](/org/trustmark_benefits/)
+* Ben Veghte - Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA)
 
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5291 Long-term services trust
 #### 226 👍 - Pro

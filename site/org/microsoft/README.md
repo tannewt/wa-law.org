@@ -13,6 +13,8 @@
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
 
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
@@ -33,6 +35,8 @@
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
+
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education  👎2 
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 

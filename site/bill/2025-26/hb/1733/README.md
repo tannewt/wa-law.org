@@ -12,13 +12,11 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): SHB 1733 Agency displacement expenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165991&caId=26658&tId=4)
-
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Keith Edwards - The Joint Chiropractic West Seattle
+* Jordan Crawley - Alki Beach Academy
+* Mac Nicholson - King County Council
 
 #### 0 👎 - Con
 

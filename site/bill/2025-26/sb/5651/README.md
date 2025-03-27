@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5651 Garnishment exemptions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166025&caId=26616&tId=4)
-
-#### 169 👍 - Pro
+#### 177 👍 - Pro
 Testifying:
 * 💵Adam Zarrin - The Leukemia & Lymphoma Society
 * Amanda Martin - NW Consumer Law Center
@@ -31,8 +25,9 @@ Testifying:
 * Adam Eitmann - Attorney General's Office
 * Russell Brandt
 * Natasha Fecteau Minger
+* Nick Fielden - Attorney General's Office
 
-#### 522 👎 - Con
+#### 610 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Mindy Chumbley - [Washington Collectors Association](/org/washington_collectors_association/)

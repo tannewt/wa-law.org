@@ -1,7 +1,8 @@
 # Community Employment Alliance
 ## 2025-26
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍3  
+* 👍💵 Aaron Dickson
 * 👍💵 Aaron Dickson
 
 ### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
@@ -16,6 +17,9 @@
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
+* 👍💵 Aaron Dickson
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍💵 Aaron Dickson
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  

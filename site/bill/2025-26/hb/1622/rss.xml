@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1622/</link>
 		<description>Updates about HB 1622</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 05:56:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -248,6 +248,46 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-11/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👎💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 21 Mar 2025 02:08:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2025-03-21 02:08:16</guid>
+		</item>
+		<item>
+			<title>👎💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 23 Mar 2025 06:01:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2025-03-23 06:01:25</guid>
+		</item>
+		<item>
+			<title>❓Angela Kleis - WaTech (Washington Technology Soluctions)</title>
+			<description>Angela Kleis signed up to testify Other. They are signed up to represent WaTech (Washington Technology Soluctions).</description>
+			<pubDate>Wed, 26 Mar 2025 02:52:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Angela/Kleis/2025-03-26 02:52:11</guid>
+		</item>
+		<item>
+			<title>❓Sheri Sawyer - Office of Financial Management</title>
+			<description>Sheri Sawyer signed up to testify Other. They are signed up to represent Office of Financial Management.</description>
+			<pubDate>Wed, 26 Mar 2025 02:52:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sheri/Sawyer/2025-03-26 02:52:11</guid>
+		</item>
+		<item>
+			<title>👎Rob Putaansuu - Port Orchard, Mayor</title>
+			<description>Rob Putaansuu signed up to testify Con. They are signed up to represent Port Orchard, Mayor.</description>
+			<pubDate>Wed, 26 Mar 2025 05:56:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rob/Putaansuu/2025-03-26 05:56:43</guid>
 		</item>
 	</channel>
 </rss>

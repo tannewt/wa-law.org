@@ -20,9 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33123&aId=166078&caId=26747&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33123&aId=166078&caId=26747&tId=4)
 
-#### 6 👍 - Pro
+#### 403 👍 - Pro
+Testifying:
+* Aliana Pineda
+* Keira Fernando
 
-#### 1 👎 - Con
+#### 661 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Liza Simmonds
 
 #### 0 ❓ - Other
 

@@ -46,7 +46,7 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍3  
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
 * 👍 Eric ffitch
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria   ❓1
@@ -106,6 +106,9 @@
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 * 👍 Chris Herman
 
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
+* 👍 Chris Herman
+
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍2  
 * 👍 Chris Herman
 * 👍 Chris Herman
@@ -128,8 +131,9 @@
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 ❓1
 * ❓💵 Carly Michiels
 
-### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍1  
+### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍2  
 * 👍 Eric ffitch
+* 👍💵 James Cockburn
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
 * 👎💵 Carly Michiels
@@ -155,7 +159,7 @@
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 * 👍 Chris Herman
 
-### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍1  
+### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍2  
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  ❓1
 

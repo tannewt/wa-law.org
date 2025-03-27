@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1541/</link>
 		<description>Updates about HB 1541</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 13 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 12:06:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,70 @@
 			<pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-13/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👎Candice Baughman - WA State Department of Veterans Affairs</title>
+			<description>Candice Baughman signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 02:45:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candice/Baughman/2025-03-21 02:45:28</guid>
+		</item>
+		<item>
+			<title>👎Louis Ihrig - WA State Department of Veterans Affairs</title>
+			<description>Louis Ihrig signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 03:14:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Louis/Ihrig/2025-03-21 03:14:57</guid>
+		</item>
+		<item>
+			<title>👎Michael Shoemaker - WA State Department of Veterans Affairs</title>
+			<description>Michael Shoemaker signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 03:14:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Shoemaker/2025-03-21 03:14:57</guid>
+		</item>
+		<item>
+			<title>👎Rory Andes - WA State Department of Veterans Affairs</title>
+			<description>Rory Andes signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 04:04:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rory/Andes/2025-03-21 04:04:02</guid>
+		</item>
+		<item>
+			<title>👎Tuan Quach - Equity in Education Center</title>
+			<description>Tuan Quach signed up to testify Con. They are signed up to represent Equity in Education Center.</description>
+			<pubDate>Fri, 21 Mar 2025 09:07:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tuan/Quach/2025-03-21 09:07:39</guid>
+		</item>
+		<item>
+			<title>👍Heidi Audette - WA State Department of Veterans Affairs</title>
+			<description>Heidi Audette signed up to testify Pro. They are signed up to represent WA State Department of Veterans Affairs.</description>
+			<pubDate>Mon, 24 Mar 2025 04:58:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heidi/Audette/2025-03-24 04:58:33</guid>
+		</item>
+		<item>
+			<title>👎Kurtis Robinson - I Did The Time/ Revive Center For Returning Citizens</title>
+			<description>Kurtis Robinson signed up to testify Con. They are signed up to represent I Did The Time/ Revive Center For Returning Citizens.</description>
+			<pubDate>Tue, 25 Mar 2025 07:30:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kurtis/Robinson/2025-03-25 07:30:32</guid>
+		</item>
+		<item>
+			<title>👎Thomas Digiorgio - I Did The Time/ Revive Center For Returning Citizens</title>
+			<description>Thomas Digiorgio signed up to testify Con.</description>
+			<pubDate>Tue, 25 Mar 2025 12:06:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Thomas/Digiorgio/2025-03-25 12:06:34</guid>
 		</item>
 	</channel>
 </rss>

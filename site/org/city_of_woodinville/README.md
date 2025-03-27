@@ -1,13 +1,14 @@
 # City of Woodinville
 ## 2025-26
 
-## [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎2 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎2 
 * 👎 Jared Hill
+
+## [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
 
 ## 2023-24
 
-### [HB 1299](/bill/2023-24/hb/1299/) - Minimum parking requirements  👎2 
-* 👎 Jared Hill
+### [HB 1622](/bill/2023-24/hb/1622/) - Collective bargaining/AI use  👎1 
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
 

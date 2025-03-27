@@ -6,9 +6,10 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses.  👎1 
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍3  
+* 👍 Katherine Chamberlain
 
-### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍3  
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍4  
 * 👍 Jesse Wing
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
@@ -21,6 +22,8 @@
 ### [HB 1619](/bill/2025-26/hb/1619/) - Dockworkers/family leave 👍1  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+
+### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍1  
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
 * 👍💵 Nancy Sapiro

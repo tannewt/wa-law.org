@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5101 Worker leave/hate crimes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33099&aId=165803&caId=26522&tId=4)
-
-#### 199 👍 - Pro
+#### 208 👍 - Pro
 Testifying:
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * Miri Cypers - ADL Pacific Northwest
@@ -29,7 +23,7 @@ Testifying:
 * 💵Gabriel Neuman - GSBA
 * 💵Carey Morris - WA State Coalition Against Domestic Violence
 
-#### 604 👎 - Con
+#### 675 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

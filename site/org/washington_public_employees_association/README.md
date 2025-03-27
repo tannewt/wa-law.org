@@ -8,7 +8,8 @@
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+* ❓💵 Seamus Petrie
 * ❓💵 Seamus Petrie
 
 ### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍1  
@@ -42,6 +43,9 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Seamus Petrie
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
+* 👎💵 Seamus Petrie
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
 

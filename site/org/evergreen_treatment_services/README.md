@@ -3,17 +3,24 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓ Chloe Gale
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
 ### [HB 1897](/bill/2025-26/hb/1897/) - Community safety/liability 👍2  
 * 👍 Chloe Gale
 * 👍 Chloe Gale
 
-## [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
+
+## [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
+* 👎 Chloe Gale
 
 ## 2023-24
 
-### [SB 5148](/bill/2023-24/sb/5148/) - GMA housing element 👍3  
+### [SB 5167](/bill/2023-24/sb/5167/) - Operating budget  👎1 
+* 👎 Chloe Gale
 
 ### [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
 

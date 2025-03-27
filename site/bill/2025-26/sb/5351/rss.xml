@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5351/</link>
 		<description>Updates about SB 5351</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 09:54:04 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -343,6 +343,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sean/Pickard/2025-03-19 09:54:04</guid>
+		</item>
+		<item>
+			<title>HCW - Majority; do pass.</title>
+			<description>HCW - Majority; do pass.</description>
+			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-25/HCW - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

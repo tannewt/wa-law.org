@@ -64,7 +64,7 @@
 ### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
 * 👎💵 Lindsey Hueer
 
-### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎2 
 
 ### [HB 1142](/bill/2025-26/hb/1142/) - In-home care training 👍2  
 * 👍💵 Emily Wittman
@@ -97,7 +97,7 @@
 
 ### [HB 1197](/bill/2025-26/hb/1197/) - Operating budget, supp.  👎1 
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎2 
 * 👎 Max Martin
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
@@ -110,13 +110,17 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎3 
 * 👎💵 Lindsey Hueer
+* 👎💵 Morgan Irwin
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 * 👎💵 Morgan Irwin
+
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
+* ❓💵 Morgan Irwin
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
@@ -137,7 +141,8 @@
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
-### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎2 
+* 👎💵 Morgan Irwin
 
 ### [HB 1313](/bill/2025-26/hb/1313/) - Mass layoffs  👎1 
 
@@ -190,21 +195,22 @@
 ### [HB 1507](/bill/2025-26/hb/1507/) - Health care nondisclosure  👎1 
 * 👎💵 Emily Wittman
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
 * 👎 Max Martin
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
 
-### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
+### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ### [HB 1527](/bill/2025-26/hb/1527/) - Health care claims mediation 👍1  
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact  👎1 
 
-### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
+### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍2  
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍2  
 * 👍💵 Peter Godlewski
@@ -223,6 +229,8 @@
 ### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
+
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers  👎1 
 
 ### [HB 1598](/bill/2025-26/hb/1598/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
@@ -363,7 +371,8 @@
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles  👎1 
 * 👎💵 Morgan Irwin
 
-### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  
+### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat.  👎1 
@@ -375,10 +384,14 @@
 
 ### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍1  
 
+### [HB 2024](/bill/2025-26/hb/2024/) - Primary residence/tax  👎1 
+
 ### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
 * 👎 Max Martin
 
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
+
+### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources   ❓1
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -430,8 +443,14 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
 
+### [SB 5160](/bill/2025-26/sb/5160/) - Transportation budget, supp.   ❓1
+
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
@@ -508,7 +527,8 @@
 
 ### [SB 5405](/bill/2025-26/sb/5405/) - Estate tax exclusion amount 👍1  
 
-### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍2  
+* 👍💵 Lindsey Hueer
 * 👍💵 Lindsey Hueer
 
 ### [SB 5430](/bill/2025-26/sb/5430/) - Utility wildfire mitigation 👍1  

@@ -1,7 +1,8 @@
 # Ducks Unlimited
 ## 2025-26
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎2 
+* 👎 Kirk Struble
 * 👎 Kirk Struble
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎2 

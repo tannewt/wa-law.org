@@ -11,15 +11,12 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Agriculture and Natural Resources (AGNR): SB 5391 Sustainable farms grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33115&aId=166028&caId=26701&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33115&aId=166028&caId=26701&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33115&aId=166028&caId=26701&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33115&aId=166028&caId=26701&tId=4)
+#### 67 👍 - Pro
+Testifying:
+* Dani Madrone - State Conservation Commission
+* Bonny Jo Peterson
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 34 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - State Government & Elections (SGE): E2SHB 1102 Veteran support and services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165864&caId=26550&tId=4)
-
-#### 62 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * Charles Wharton - AMVETS Legislative Director
 * Susan Woods - Veteran's Legislative Coalition

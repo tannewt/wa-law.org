@@ -19,13 +19,7 @@
 
 ## Meetings
 ### Fri 03/21 08:00 AM - Health & Long Term Care (HLTC): ESHB 1531 Communicable disease
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=4)
-
-#### 552 👍 - Pro
+#### 569 👍 - Pro
 Testifying:
 * Breck Lebegue
 * Caitlin Safford - Office of the Governor
@@ -41,8 +35,9 @@ Testifying:
 * 💵Jaime Bodden - WSALPHO
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Rex Johnson - Washington Advocates for Patient Safety
+* Maria Huang - WA Chapter of the American Academy of Pediatrics
 
-#### 4530 👎 - Con
+#### 4689 👎 - Con
 Testifying:
 * Laurie Layne
 * Leah Houser
@@ -113,8 +108,11 @@ Testifying:
 * tod kimpe
 * Richard Weiss
 * Sandra Brock
+* Marla Alexander
 * Linda Hisey
 * SCOTT BOE
+* Janice Anderson
+* Dwight Tizzard
 
 #### 7 ❓ - Other
 Testifying:

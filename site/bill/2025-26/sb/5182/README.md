@@ -15,19 +15,14 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5182 Incarcerated parents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166059&caId=26689&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166059&caId=26689&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166059&caId=26689&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166059&caId=26689&tId=4)
+#### 22 👍 - Pro
 
-#### 2 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Dr. MaryAnn Curl - Department of Corrections
+* David Flynn - Department of Corrections
 
 ### Tue 01/21 01:30 PM - Human Services (HS): SB 5182 Incarcerated parents
 #### 31 👍 - Pro

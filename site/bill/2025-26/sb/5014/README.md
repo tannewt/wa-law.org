@@ -10,17 +10,18 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - State Government & Tribal Relations (SGOV): ESSB 5014 Election security
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33176&aId=166285&caId=26725&tId=4)
+#### 53 👍 - Pro
+Testifying:
+* Kylee Zabel - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 👍 - Pro
+#### 69 👎 - Con
+Testifying:
+* Sharon Hanek
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 01/21 01:30 PM - State Government & Elections (SGE): SB 5014 Election security
 #### 166 👍 - Pro

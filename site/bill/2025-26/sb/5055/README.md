@@ -9,20 +9,19 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Local Government (LG): SSB 5055 Agritourism
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166271&caId=26734&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166271&caId=26734&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166271&caId=26734&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166271&caId=26734&tId=4)
+#### 80 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 5 👎 - Con
+#### 521 👎 - Con
 Testifying:
 * Mikala Staples Hughes - Western Washington Agricultural Association
 * Ellen Bynum - Friends of Skagit County
+* Liza Simmonds
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dustin Curb - Washington State Building Code Council
+* Tim Woodard - Washington Assn. of Building Officials
 
 ### Thu 01/16 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5055 Agritourism
 #### 30 👍 - Pro

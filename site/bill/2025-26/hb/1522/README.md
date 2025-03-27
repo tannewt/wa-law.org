@@ -15,17 +15,12 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Environment, Energy & Technology (ENET): ESHB 1522 Utility wildfire mitigation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166080&caId=26619&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166080&caId=26619&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166080&caId=26619&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=166080&caId=26619&tId=4)
-
-#### 37 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * 💵John Rothlin - Avista Corporation
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 👎 - Con
 

@@ -14,12 +14,6 @@
 
 ## Meetings
 ### Fri 03/21 08:00 AM - Health & Long Term Care (HLTC): ESHB 1395 Home care worker background
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165914&caId=26580&tId=4)
-
 #### 230 👍 - Pro
 Testifying:
 * Maria Osegueda
@@ -28,13 +22,13 @@ Testifying:
 * Melissah Watts - Parent Provider
 * 💵Brad Banks - WA Home Care Coalition
 
-#### 562 👎 - Con
+#### 639 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * Sandra Brock
 
-#### 14 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Annie Slade
 

@@ -4,13 +4,23 @@
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Christine Brewer
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+* 👎💵 Christine Brewer
+
 ### [HB 1256](/bill/2025-26/hb/1256/) - Public works/made in US   ❓1
 * ❓💵 Jerry Vanderwood
+
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎2 
 * 👎 Lauren Gubbe
 
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
+* 👎💵 Christine Brewer
+
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
 ## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 * 👎 Lauren Gubbe

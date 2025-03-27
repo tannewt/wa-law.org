@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): SB 5786 Liquor license fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166126&caId=26645&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166126&caId=26645&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166126&caId=26645&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166126&caId=26645&tId=4)
+#### 1 👍 - Pro
 
-#### 0 👍 - Pro
+#### 783 👎 - Con
+Testifying:
+* Jim Hedrick - Washington Distillers' Guild - Craft Distillers
+* Sandra Mochizuki
+* 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
+* Sandra Brock
+* Charlie Brown - [Diageo](/org/diageo/)
+* Anthony Holan
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

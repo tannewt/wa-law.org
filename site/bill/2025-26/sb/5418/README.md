@@ -9,15 +9,15 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Education (ED): SSB 5418 Charter school contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165973&caId=26693&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165973&caId=26693&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165973&caId=26693&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165973&caId=26693&tId=4)
+#### 120 👍 - Pro
+Testifying:
+* Marcus Harden - WA State Charter School Commission
+* James Bowers - Why Not You Academy
+* 💵Vicki Christophersen - Washington State Charter School Association
 
-#### 3 👍 - Pro
-
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Lindssy Roe
 
 #### 0 ❓ - Other
 

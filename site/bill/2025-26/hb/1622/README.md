@@ -23,11 +23,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166134&caId=26653&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166134&caId=26653&tId=4)
 
-#### 3 👍 - Pro
+#### 19 👍 - Pro
 
-#### 1 👎 - Con
+#### 399 👎 - Con
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Rob Putaansuu - Port Orchard, Mayor
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Angela Kleis - WaTech (Washington Technology Soluctions)
+* Sheri Sawyer - Office of Financial Management
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 1622 Collective bargaining/AI use
 #### 161 👍 - Pro

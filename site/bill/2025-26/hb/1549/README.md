@@ -15,17 +15,18 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - State Government & Elections (SGE): E2SHB 1549 Responsible bidder criteria
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166197&caId=26672&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166197&caId=26672&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166197&caId=26672&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166197&caId=26672&tId=4)
+#### 73 👍 - Pro
+Testifying:
+* Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - Cement Masons & Plasterers Local 528
+* Jensen Webster
 
-#### 0 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tiffany Scroggs - Thurston Economic Development Council
 
 ### Tue 02/25 09:00 AM - Capital Budget (CB): SHB 1549 Responsible bidder criteria
 #### 108 👍 - Pro

@@ -13,7 +13,7 @@
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system  👎1 
 * 👎💵 Brandon Houskeeper
 
-### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity  👎1 
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1 👎1 
 * 👎💵 Brandon Houskeeper
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 

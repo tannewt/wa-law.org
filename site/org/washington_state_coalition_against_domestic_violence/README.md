@@ -1,13 +1,17 @@
 # Washington State Coalition Against Domestic Violence
 ## 2025-26
 
+### [HB 1014](/bill/2025-26/hb/1014/) - Implementing recommendations of the 2023 child support schedule work group. 👍1  
+
 ### [HB 1028](/bill/2025-26/hb/1028/) - Child exposure to violence 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍2  
+
+### [HB 1133](/bill/2025-26/hb/1133/) - Sexually violent predators 👍1  
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍3  
 
@@ -26,6 +30,8 @@
 
 ### [HB 1265](/bill/2025-26/hb/1265/) - Commercial sexual exploit. 👍1  
 
+### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍1  
+
 ### [HB 1498](/bill/2025-26/hb/1498/) - Domestic viol. co-responders   ❓1
 * ❓💵 Sherrie Tinoco
 
@@ -40,18 +46,26 @@
 
 ### [HB 1848](/bill/2025-26/hb/1848/) - Traumatic brain injuries 👍1  
 
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  
+
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 * 👍 Rosalind Arch
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
+### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
+
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
+
+### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Sherrie Tinocco
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 * 👍💵 Melanie Smith
+
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
 
 ### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍2  
 

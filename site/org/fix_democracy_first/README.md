@@ -30,7 +30,7 @@
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 
-### [SB 5014](/bill/2025-26/sb/5014/) - Election security 👍1  
+### [SB 5014](/bill/2025-26/sb/5014/) - Election security 👍2  
 
 ### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting 👍1  
 
@@ -39,13 +39,17 @@
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍5  
 * 👍💵 Cindy Black
 
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍2  
 
-## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
+
+## [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1  
 
 ## 2023-24
 
-### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍3  
+### [SB 5637](/bill/2023-24/sb/5637/) - Media literacy & civic ed. 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

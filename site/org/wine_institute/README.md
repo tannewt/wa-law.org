@@ -9,6 +9,8 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
 
+### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎1 
+
 ## [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages  👎1 
 
 ## 2023-24

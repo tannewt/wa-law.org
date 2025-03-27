@@ -18,13 +18,19 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Aida Rodriguez
 
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 
-## [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
 ## 2023-24
 
-### [SB 5500](/bill/2023-24/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
 
 ### [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Pauli Owen

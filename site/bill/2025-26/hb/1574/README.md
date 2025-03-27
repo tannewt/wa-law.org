@@ -8,19 +8,23 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): EHB 1574 Substance use/care, services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165990&caId=26657&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165990&caId=26657&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165990&caId=26657&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165990&caId=26657&tId=4)
+#### 12 👍 - Pro
+Testifying:
+* Fabian Pekez - Lake Washington High School
+* Gil Perkins - Lake Washington High School
+* Logan Lee - Lake Washington High School
+* Caleb Banta-Green - University of Washington, School of Medicine, Addictions, Drug & Alcohol Institute (Professor)
 
-#### 2 👍 - Pro
-
-#### 2 👎 - Con
+#### 283 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Sandra Brock
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Malika Lamont - VOCAL-WA
 
 ### Thu 02/13 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1574 Substance use/care, services
 #### 37 👍 - Pro

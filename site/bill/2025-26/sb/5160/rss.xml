@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5160/</link>
 		<description>Updates about SB 5160</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 11:00:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,46 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍💵Justin Leighton - Washington State Transit Association</title>
+			<description>Justin Leighton signed up to testify Pro. They are signed up to represent Washington State Transit Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Mar 2025 04:45:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Justin/Leighton/2025-03-24 04:45:35</guid>
+		</item>
+		<item>
+			<title>👍Matt Ransom - Southwest Washington Regional Transportation Council</title>
+			<description>Matt Ransom signed up to testify Pro. They are signed up to represent Southwest Washington Regional Transportation Council.</description>
+			<pubDate>Mon, 24 Mar 2025 05:12:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Ransom/2025-03-24 05:12:15</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Mon, 24 Mar 2025 11:50:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2025-03-24 11:50:17</guid>
+		</item>
+		<item>
+			<title>👍Tom McBride - Kitsap County</title>
+			<description>Tom McBride signed up to testify Pro. They are signed up to represent Kitsap County.</description>
+			<pubDate>Tue, 25 Mar 2025 01:06:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/McBride/2025-03-25 01:06:04</guid>
+		</item>
+		<item>
+			<title>❓Mary Paterson - Initiative Activist</title>
+			<description>Mary Paterson signed up to testify Other.</description>
+			<pubDate>Tue, 25 Mar 2025 11:00:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mary/Paterson/2025-03-25 11:00:38</guid>
 		</item>
 	</channel>
 </rss>

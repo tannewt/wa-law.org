@@ -1,6 +1,9 @@
 # Cosmetologists of Washington United
 ## 2025-26
 
+### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact   ❓1
+* ❓💵 Brooke Davies
+
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed   ❓1
 * ❓💵 Brooke Davies
 

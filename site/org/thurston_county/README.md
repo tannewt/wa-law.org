@@ -4,6 +4,8 @@
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 * 👍 Commissioner Rachel Grant
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  

@@ -49,27 +49,379 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Education (ED): ESSB 5181 Parents rights in education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=166298&caId=26695&tId=4)
-
-#### 24 👍 - Pro
+#### 1203 👍 - Pro
 Testifying:
 * Jessica Cole
 * Tiffany Kelly
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Albert Johnson
+* NCSP, Carrie Suchy - Washington State Association of School Psychologists
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Sara Betnel
+* LINDEN JORDAN - PFLAG Skagit
 
-#### 134 👎 - Con
+#### 4951 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 * Dawn Land - Reject 5599 PAC
 * Tonya Hickman - Lynden School Board
 * Sharon Hanek
+* Khushdip Brar
+* kathleen Koch
+* Penny Cox
+* Bob Runnells - Informed Choice Washington
+* Bobbi Moody
+* Kelly Randall
+* Michelle Dunn - Non
+* Scott Carlyle
+* Antoinette Nepper
+* mike johnson
+* Michael Cantrell
+* Mary Mead
+* Melanie Middleton
+* Jennifer Heine-Withee - FPIW Action
+* Chad Alexander
+* Steven Hayes
+* Terrica Sallee
+* Patrick Harper
+* Andy hilton
+* Matthew Van Hoy
+* Gary Swift
+* Patti Thomas
+* Dannielle Richins
+* Linda Wow
+* Sandra Mochizuki
+* Mark Emmett
+* Will Swoveland
+* Eric Lundberg
+* L Bassett
+* Linda Yang
+* Yu XiA
+* Gang Hua
+* Hailey Irvine
+* Kathleen Backous - KathleenBackous@yahoo.com
+* Mathew Leonard
+* Kathleen Backous
+* Janene Petersen
+* Xiue Jiang
+* Janene Petersen
+* Michael Stephenson
+* Brooks Beaupain
+* Brooks Beaupain
+* Michael Stephenson
+* Jeff Solbrack
+* Cindy Solvie
+* Joshua Mellor
+* Phillip Povero
+* Edie Baxter
+* Tamera Nason
+* Chad Martin
+* Ce Chen
+* Daniel Jones
+* Keith Knutsen
+* Judith Warren
+* Mark Newton
+* Steven Church
+* Mark Davies
+* Barbara Schmidt
+* Laurie Layne
+* Micah Welch
+* Jeffery Sandman
+* Tamara Richardson
+* Sandra Brock
+* Irene Dong
+* Timothy Joostens
+* C.arissa Rineho,d
+* Sylvia Miller
+* Loretta Van Corbach-Beck
+* Joseph Mcminn
+* Jenny Zhou
+* Connie Agnew
+* Marie-Anne Harkness
+* Candace Horch
+* Michael Gray
+* Shannon Hayes
+* Henry Taylor
+* Stephen Spencer
+* Todd Lytle
+* Ardith Lupton
+* betty barbee - na
+* Bradley Corner
+* Lewis McMurran
+* Patricia Bowlin
+* Kari Sabye
+* Duane Lee
+* Jesus Enriquez Enriquez
+* Seth Stewart
+* Anne Chapman
+* Jodi Ausbun
+* Jasmine Deng
+* Mingyan Li
+* Janice Miller
+* INEZ PETERSEN - none
+* Michael Hertel
+* Fred Kaiser
+* Tyson Barber
+* Donald Ladely
+* Donald Ladely
+* Rodney Haywood
+* Marty Munson
+* Dam Pham
+* Rana Smith
+* Joel Easling
+* Kan Qiu - American Coalition for Equality
+* Elizabeth New - Washington policy center
+* Dana Schrader
+* Anna Hardin
+* Michael Carroll
+* John grey - John Grey
+* Anthony Mixer - Washington State Young Republicans
+* Grace Yan
+* James Fowler
+* Joyce Rong
+* Dan Watt
+* Elizabeth Eckels
+* Elizabeth Eckels
+* Amanda Kletke
+* Evelyne Bishopp
+* GINA NATUCCI
+* Kevin Hauenstein
+* Russ Larson
+* Heidi Forslund
+* Bryan Hoog
+* Stephen Blai
+* Kelly O’Brien
+* Joshua Rochek
+* John Axtell
+* Gerald Chaney
+* Janice Wheat
+* Wendy Chaney
+* Bo Pang
+* Lance Farris
+* Zack Zinter
+* C Carter
+* Derek Aunko
+* Paul Sadler
+* Khushdip Brar
+* Clinton Fretz
+* Tawny Hiett
+* Ping Chen
+* Jessica Trotter
+* Gregory Powers
+* mike johnson
+* Ida Bear Robb
+* Michael Lamagna
+* Mary Falk
+* Kathy Nelsen
+* Steven Duenkel
+* Hayley Dennison
+* Peter O'Brien
+* Jeffrey Fullington
+* Patty Stephens
+* betty Barbee - na
+* Clifford Garrison
+* Michael Jefferson
+* Heidi Forsyth
+* andy krasnow
+* Margaret Melling
+* Christina Patterson
+* Stephen Del Real
+* Timothy Patterson
+* Anthony Holan
+* Janeen Headley
+* Rana Smith
+* Denis Miller
+* Anthony Kaestner
+* Lauren Colas
+* Cooper Leishman
+* Robert Garrett
+* Wendy Martinez
+* Mark Martinez
+* Bianca Tibeau
+* Emmet Tibeau
+* Kathleen Edman
+* Veronica Graves
+* Amanda Kletke
+* Cathy Huff
+* Keaton Forrest
+* Fred Retana - No
+* Kelly Allard
+* Daniel Rivas
+* Patricia Gillogly
+* Michele Marshall
+* matt beaton
+* Bobby Penney
+* Xiaobing Wang
+* Joseph Payne
+* Josh Buis
+* Rebecca Rempp
+* Robert Shrum
+* Craig Waldron
+* Ryan Stevens
+* Brent Diaz
+* Susan Kienle
+* Mark Avdeyev
+* Sam Schoesler
+* Barbara Videtich
+* Mary k Neff - 42 adams rd s
+* Robert Rettig
+* Lori VanRoeyen
+* Cole VanderYacht
+* Steve Kealy
+* James F & SArah J White
+* Bill Dickerson
+* Kevin Roberts
+* Alexandra Sammons
+* Lester Liu
+* Brian Mouracade
+* Amanda Mouracade
+* Nina Davisson
+* Ed Botts
+* Krista Drumhiller
+* Jennifer Schrank
+* Ronald Cassidy
+* Claudia Boettcher
+* Kathleen Backous
+* Carol Fish
+* Amy Tabino
+* Renay Bennett
+* Sheena Gardner
+* William RouLaine
+* Michael Stange
+* Pamela Mulkey
+* Glen Mulkey
+* Jenn Fletcher
+* Philip Bayley
+* Troy Schwab
+* Jeana Weng
+* Andy Weng
+* Bruce Tretzen
+* Stephen Larkin
+* Brianne Neyens
+* John Davidson
+* Jordan John
+* Marilyn Adams
+* Dan Lambert
+* Wade Williamson
+* Robert Watson
+* Corina Heinlen
+* Karen Reis
+* Melinda Knight
+* Kerry McEwen
+* Shannon Gill
+* Michael Scully
+* Timothy Schwering - 4924 S Pittsburg Street
+* HAROLD Bond
+* Matthew Van Hoy
+* Kristine BENGOCHEA
+* Anna Burt
+* Nicholas Stoll
+* Amanda McKinney - Yakima County Commissioner
+* John Doe
+* Shelly Zielinski
+* Shawnee Hanson
+* Lisa Willoughby
+* Sheri Houghton
+* Andrea Hymer
+* Nathan Staunton
+* Talena Carter
+* Thomas Callahan
+* Richard Cosner
+* Paul Sogge
+* Susan Nystrom
+* Kirsten Ison
+* Michael Ison
+* Heather Forthofer
+* Deb Puku
+* Amy Kalma
+* Matthew Rourke
+* David Reed
+* Ken Heard - Oregon Cam Grinding, Inc.
+* Katje Patsch
+* Steven Lewey
+* Stevelle Resutek
+* Tim Hallam
+* Paul Ewart
+* Heidi Sukert
+* Ken Sukert
+* Don Robertson
+* Connie Watson
+* Mark Wald
+* Cathie Mcshane
+* Yang Lu
+* Bryan Calamia
+* Russell Franklin
+* Jennifer McKenzie
+* Lonny Rice
+* Robin Beeson
+* Alan Van Cleave - Integrity Floor Inspections & Consultations
+* Melanie Lee
+* Katie Gordon
+* Shirley Bachmeier
+* Michael Shill Sr
+* Kathryn Deleon
+* 💵Amy Johnson
+* Rachel Rodriguez
+* Karen Blankenship
+* Chris Mott
+* Brent Gathwright
+* Michele Brown
+* Michael Bode
+* Janeen Headley
+* Patricia Bowlin
+* Janeen Headley
+* Carrianne Litowitz
+* Laurel Mayer
+* TaraLyn Fray
+* Brenda Milewski
+* Jessica Haselby
+* Lisa Templeton - Informed Choice Washington
+* Hillary Kilby
+* Theresa McCann
+* Kathy price
+* Edith Faylor
+* Steve Locke
+* TinaMarie King
+* TinaMarie King
+* Jobie ONeil
+* Linda Thomason
+* Karen Wright
+* Mary Fors
+* Gerald Voss
+* Danielle McCarter
+* Cassidy McGuire
+* Cari OLoughlinBritt
+* Laurie Angiuli
+* Amy Martucci
+* Jingjing Huang
+* Zhen Wang
+* David Presley
+* Rachel Ross
+* George Oberhofer
+* Franklin Campbell
+* Hillary Sewell
+* Lindsay Gates
+* Juli Marshall
+* Jason VanRoeyen
+* Eliesha Kent
+* Kristine Quinn
+* Mark Emmett
+* Stephan Cossette - n/a
+* Tami NORTHUP - yes ?
+* Matthew Lovelass
+* Tricia Sanjyo
+* Rudy Van Ry
+* John. Vitkauskas
+* Patty Hale
+* John Patterson
+* Matthew Curry
+* Casey Andrews
 
-#### 0 ❓ - Other
+#### 15 ❓ - Other
+Testifying:
+* Trevor Watson
 
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5181 Parents rights in education
 #### 875 👍 - Pro

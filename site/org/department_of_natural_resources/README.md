@@ -75,10 +75,12 @@
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 * 👍 Pat Sullivan
 
-### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍1  
+### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍2  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
-### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍2  
+### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍3  
+* 👍 Erika Odem
 * 👍 Erika Odem
 * 👍 Erika Odem
 
@@ -99,7 +101,8 @@
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
-### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍1  
+### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍2  
+* 👍 Tom Gorman
 * 👍 Tom Gorman
 
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1

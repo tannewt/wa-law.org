@@ -1,9 +1,12 @@
 # Washington Youth Alliance Action Fund
 ## 2025-26
 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+
 ### [HB 1259](/bill/2025-26/hb/1259/) - Concerning supervision requirements for behavioral health professionals in elementary and secondary public schools. 👍1  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍2  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
+* 👍💵 Chetan Soni
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍2  
 

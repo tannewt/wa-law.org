@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2035/</link>
 		<description>Updates about HB 2035</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 11:55:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,6 +109,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2025-03-17 11:55:00</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-25/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

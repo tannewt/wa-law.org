@@ -10,17 +10,15 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Health Care & Wellness (HCW): ESSB 5594 Biosimilar medicines
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166063&caId=26744&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166063&caId=26744&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166063&caId=26744&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166063&caId=26744&tId=4)
-
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jenny Arnold - Washington State Pharmacy Association
 
 ### Tue 02/11 10:30 AM - Health & Long Term Care (HLTC): SB 5594 Biosimilar medicines
 #### 8 👍 - Pro

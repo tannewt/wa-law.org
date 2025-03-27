@@ -11,23 +11,108 @@
 
 ## Meetings
 ### Tue 03/25 04:00 PM - Appropriations (APP): PSHB 1198 -Making 2025-2027 fiscal biennium operating appropriations. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33167&aId=166235&caId=26726&tId=4)
-
-#### 3 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Danny Orrantia - Evergreen High School
 * Joe McDermott - State Relations Director | King County
 * 💵Brad Forbes - Alzheimer's Association
+* Kate Krug - King County Sexual Assault Resource Center/Sexual Assault Working Group
+* Laura Cepoi - Washington Association of Area Agencies on Aging (W4A)
+* Sumayo Mohamed
+* Cathy Murahashi - The Arc of Washington
+* Gordon Mc Henry Jr. - United Way of King County
+* Molly Lawson - CHSS-9th Grade Success
+* Teresa Clark - Washington Low Income Housing Alliance
+* Tasha Mae - Advocacy Queen
+* Deborah ONeal - American Renewal 1870
+* Deborah ONeal - American Renewal 1870
+* Terri Anderson - Tenants Union of Washington State
+* 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
+* 💵Mark Streuli - NW Ironworkers, and  International union of painters
+* Blaze Vincent - Freedom Project
+* Preston Dwoskin
+* Laura Dow - Kinship Navigator Program
+* Davida Ingram - SAARC
+* Ryan Moody - Chelan County Sheriff's Office
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
+* Alex Motteler - Trillium
+* John Lemus - AtWork!
+* 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
+* 💵Cindi Laws - Federal Way Public Market
+* John Lemus - AtWork!
+* Carla Myers - WA Assoc for Behavioral Analysis
+* JESSE WINEBERRY - WASHINGTON EQUITY NOW ALLIANCE (WENA)
+* 💵Kelly Campbell - Visitor & Conventon Bureau of Thurston Conty, dba Experience Olympia & Beyond
+* Shannon Marshall
+* Laura Cepoi - Washington Association of Area Agencies on Aging (W4A)
+* Tara Kinzy - American Renewal 1870
+* Irene Pellegrini
+* Brooke Ahlegian Pressly - The City of Mount Vernon Parks and Enrichment Services
+* DAVID DUNPHY - Youth Experiential Training Institute (Y.E.T.I.)
+* 💵Jacqueline Reyes - The Wilderness Society and The No Child Left Inside Program
+* Madison Kenney - [Friends of the Columbia Gorge](/org/friends_of_the_columbia_gorge/)
+* Terri Anderson - Tenants Union of Washington State
+* Terri Anderson - Tenants Union of Washington State
 
-#### 1 👎 - Con
+#### 159 👎 - Con
 Testifying:
 * Heather Cantamessa - [Akin](/org/akin/)
+* Tim Eyman - Initiative Activist
+* Danielle Garrett
+* Mark Von Walter - Action DD
+* Carolanne Sanders Lundgren - [Purpose Dignity Action](/org/purpose_dignity_action/)
+* Diane Radischat - SHAG Arrowhead Gardens Residents Community
+* Audrey Miller García - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* Kathryn Kurtz - [Pacific Education Institute](/org/pacific_education_institute/)
+* Susie Richards - South Whidbey Elementary School
+* Jordan Duncan - Chehalis School District
+* Febe Fekadu - ETS-REACH
+* Tim Merlino - ESD 112
+* Chase Buffington - Washington Outdoor School Coalition
+* John Hayes - Washington Outdoor School Coalition
+* Meredith von Trapp - Washington Outdoor School Coalition
+* Charlie Brown - South Sound Superintendents, Federal Way Schools, School Alliance
+* Megan Karch - IslandWood
+* John Heckel - Washington State Music Therapy Task Force
+* Rob Roettger - NEWESD 101
+* Melissa McCabe Gombosky - AESD Network
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
+* Kristen Keltz - Skagit Tourism Bureau
+* Tammy Dunn - Snohomish County Sports Commission
+* 💵Lisa Thatcher - Eastern Washington Historical Society
+* 💵Nathan Tippmann - Evergreen Geoduck Student Union
+* Ismael Vivanco - NWESD 189
+* Victoria Love - Private citizen, environmental educator
+* Tim Merlino - ESD 112, Superintendent
+* Janice Rabe
+* Vidal Vincent
+* TODD CHAPUT - [Economic Alliance of Lewis County](/org/economic_alliance_of_lewis_county/)
+* Febe Fekadu - Evergreen Treatment Services REACH
+* Jon Grant - Low Income Housing Institute
+* Nichole Alexander - [Purpose Dignity Action](/org/purpose_dignity_action/)
+* Cameron James - Woodinville Wine Country
+* Chris Mulick - Washington State University
+* Michael Woody - Visit Seattle
+* Dean Burke - Tacoma Regional Convention & Visitor Bureau and Sports Commission
+* Miriam Battson - Gig Harbor Chamber of Commerce
+* 💵Nora Selander - Western Washington University
+* Gary Furr - Ridgefield Living Center
+* Eyman Tim - Political Activist
+* 💵Kelly Campbell - Visitor & Convention Bureau of Thruston County, dba Experience Olympia & Beyond
+* John Carmichael - President, The Evergreen State College
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* Ron Banner - [Clover Park School District](/org/clover_park_school_district/)
+* 💵Oliver Miska
+* Laurie Layne
+* Lori McRea Keller - Bellevue College
+* Bill Hole - U.S. Licensing
+* Hailey Tsang - Student, Lake Stevens High School
+* Kathy Schmit - Customer Success Manager, CCI Learning – former CTE Teacher
+* Patty Eckelman - Teacher, Auburn Mountainview High School
 
-#### 87 ❓ - Other
+#### 249 ❓ - Other
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction (OSPI)
 * Kim Justice - Partners for Our Children
@@ -109,15 +194,165 @@ Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Karina Patel - The Tubman Center for Health and Freedom
 * 💵Karen Pillar - TeamChild
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 * Jolynn Kenney - MENTOR Washington
 * LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
 * Lelach Rave - WCAAP
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * 💵Traci Underwood - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* Hannah Brendemuhl - [Full Life Care](/org/full_life_care/)
+* Cricket Farr - [Full Life Care](/org/full_life_care/)
+* 💵Patricia Hunter - WA State Long Term Care Ombuds
+* 💵Scott Nelson - Office of the Washington State Auditor
+* Patricia Castaneda - Manzanita House
+* 💵Nancyrose Houston - [New Americans Alliance for Policy and Research](/org/new_americans_alliance_for_policy_and_research/)
+* Sayed Mohammad Faqiri - [New Americans Alliance for Policy and Research](/org/new_americans_alliance_for_policy_and_research/)
+* Anna Bondarenko
+* Chief Justice Debra Stephens - Board for Judicial Administration
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Guillermo Zazueta - OneAmerica
+* 💵Vanessa Gutierrez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Vanessa Reyes - Washington Immigrant Solidarity Network (WAISN)
+* 💵Mia Shigemura - Washington State Budget and Policy Center
+* Travor kagochi - Stand for Children
+* Jim Freeburg - Patient Coalition of Washington
+* 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
+* Stacy Christ - [Full Life Care](/org/full_life_care/)
+* Samantha Fogg - Seattle Council PTSA Co-President
+* Po Leapai - N/A
+* Zane McKnight - Everett High School
+* Marissa Rathbone - Washington State School Directors' Association
+* Tyler Running Deer - eCityGov Alliance Executive Director
+* David Buri - Eastern Washington University
+* Naeem Anis - Catholic Community Services
+* 💵Emmett Mills - Washington State School Retirees' Association
+* Melanie Harding - MRSC -- Municipal Research & Services Center
+* Robin Miller - WASE
+* Noel Gomez - Washington against sexual exploitation (WASE Forward)
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
+* Mindy Schaffner - Ensign Services
+* Mark Sanders - Willow Springs Care and Rehabilitation
+* Will Daugherty - [Pacific Science Center](/org/pacific_science_center/)
+* Zeta Strickland - [Pacific Science Center](/org/pacific_science_center/)
+* Lynn Kimball - Washington Association of Area Agencies on Aging
+* Adam Sessions - Unified Care Systems
+* Daniel Gomez Nava - Latino Community Fund WA
+* 💵Shawn Latham - Serlf Advocates In Leadership
+* 💵Radu Smintina - School's Out Washington
+* Steve Stein - PISCES International
+* Aaron Hayden - [Highline College](/org/highline_college/)
+* Deb Well - [Central Washington University](/org/central_washington_university/)
+* Mark Neufville - Spokane Falls Community College
+* 💵Kurt Spiegel - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
+* Brooks Riendl - [City of Poulsbo](/org/city_of_poulsbo/)
+* Doug Fessler - Kittitas County
+* Payton Grande - Former Student PISCES International
+* Trevor Sellars - Stevens County
+* Tristan Eddy - Justice for Girls
+* 💵Daniel Lugo - YMCA of Greater Seattle
+* Clair Olivers - Retired Public Employees Council of WA
+* Mike Peroni - [Northwest Agriculture Business Center](/org/northwest_agriculture_business_center/)
+* Annie McGrath - State of Washington Tourism
+* Mike Moe - State of Washington Tourism
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* 💵Daniel Lugo
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Elaine Purchase - Pediatric Interim Care Center
+* Jeri Moomaw - [Innovations Human Trafficking Collaborative](/org/innovations_human_trafficking_collaborative/)
+* Rebecca Dodt
+* 💵Amber Carter - [Washington Workforce Association](/org/washington_workforce_association/)
+* Mark Mattke - Spokane Workforce Council
+* Melinda Yaeger - Indessa Lighting
+* William Westmoreland - Pacific Mountain WDC
+* Kyla Shkerich Blair - Maddies Place
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
+* Sam Ligon - EWU Faculty Legislative Rep
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tammy Dunn - Snohomish County Sports Commission
+* Pauline McDaniel - Three Rivers Care
+* Josie Larsen - Puget Sound Care
+* Cathryne Jenson - Three Rivers Care
+* Jessica Pendleton - Three Rivers Care
+* Kristina Phillips - Puget Sound Care
+* Jen Clark - Three Rivers Care
+* Christina Michelena - Three Rivers Care
+* Ashley Hogue - Three Rivers Care
+* Bill Ulrich - Consolidated Billing Services, Inc.
+* Maile Hadley - [First Five Fundamentals](/org/first_five_fundamentals/)
+* 💵Lisa Daugaard - [Purpose Dignity Action](/org/purpose_dignity_action/)
+* Dr. Chris Bailey - Interim Executie Director, WA State Board for Community & Technical Colleges
+* 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
+* Terry Gifford - Willowbrook Manor English Teahouse & Farm Stay
+* Michelle Merriweather - Urban League of Metropolitan Seattle
+* Tiffany Olson - Crisis Connections
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* Whitney Fey - YMCA of Greater Seattle
+* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
+* Nieisha Elder - YMCA of Greater Seattle
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* Katie Kolan - Washington State Hospital Association
+* 💵Jesse Taylor - WA Association for Career & Technical Education
+* Caitlin Duncan - Save The Children
+* Miguel Puente - Principal, Sun Valley Elementary School, Sunnyside School District
+* 💵Evan Woods - We Train WA Grocery Apprenticeship Program
+* Pam Hinsaker - Senior Advisor, The Dollywood Foundation
+* Maria Batayola - Environmental Justice Council
+* 💵Gabriel Neuman - GSBA - Washingtons LGBTQ Chamber of Commerce
+* 💵Gabriel Neuman - GSBA - Washingtons LGBTQ Chamber of Commerce
+* Brian Kim - WSU Student
+* Alison Mondi - Arcora Foundation
+* Jack Murphy - Douglas County Juvenile Court Administrator
+* Sai Samineni
+* 💵Dorothy Miller - Seattle Children’s Hospital
+* Cliff Myers - Visit Vancouver Washington
+* Kurtis Robinson - Revive
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Mohamed Khalif - The International Medical Graduates Academy
+* Rashi Gupta - UW Medicine
+* 💵Bill Clarke - WA PUD Association
+* Victoria Woodards - Mayor, City of Tacoma
+* Kevin Lewis - Visit Tri-Cities
+* Philippe Knab - The Washington State Office of Civil Legal Aid
+* Jerald Bledsoe - Green River College
+* Sabine von Preyss MD CMD FACP - Transitional Care Center
+* Mike Hamilton - PISCES Founder and Community Coordinator
+* 💵Anna Nepomuceno - NAMI Washington
+* Alyssa Rodrigo - Caldera Care
+* 💵Karen Strickland - American Federation of Teachers, Washington
+* Miri Cypers - ADL Pacific Northwest
+* John Cooper - Yakima Valley Tourism
+* Leslie Swindell - Ridgefield Living Center
+* Carl Moody - Mira Vista Care Center
+* Anthony Powers - [Equal Justice Coalition](/org/equal_justice_coalition/)
+* Sean Flynn - Public Disclosure Commission
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
+* Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
+* Guy Glaeser - Visit Walla Walla
+* Angela French - Imagination Library of Washington
+* Brittany Williams - United Way of Snohomish County
+* Steve Hobbs - Office of the Secretary of State
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Rose Noble - Visit Spokane
+* Adam Acampora - Woodinville Wine Country
+* Ashley Sinner - Visit Wenatchee/Wenatchee Valley Chamber of Commerce
+* Ryan Davis - Financial Empowerment Network
+* Dave Ellenwood - AFT Seattle Local 1789
+* Elizabeth Jennings - Community Action of Skagit County
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Rachel Dorn - AFT Washington
+* Cindy Larsen - Snohomish County Superior Court Judge
+* Jennifer Forbes - Kitsap County Superior Court Judge
+* Kristin Ferrera - President of the Superior Court Judges Association
+* Tara Kinzy - American Renewal 1870
+* Sheley Secrest - NAACP State Area Conference President of AK, OR, WA
 
 ### Mon 01/13 04:00 PM - Appropriations (APP): HB 1198 Operating budget
-#### 164 👍 - Pro
+#### 165 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Sara Robbins - Washington State Office of Civil Legal Aid
@@ -171,8 +406,9 @@ Testifying:
 * Ramona Brandes - Washington Defender Association/ Washington Association of Criminal Defense Lawyers
 * ADAM SMITH
 * David Beckstrom
+* Sheri Sawyer - Office of Financial Management
 
-#### 61 👎 - Con
+#### 89 👎 - Con
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)

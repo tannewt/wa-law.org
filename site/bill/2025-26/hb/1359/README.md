@@ -10,17 +10,18 @@
 
 ## Meetings
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): 2SHB 1359 Criminal insanity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165995&caId=26662&tId=4)
-
-#### 2 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Judge Michael Finkle - District & Municipal Court Judges' Association
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
+* Kari Reardon - WACDL/WDA
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* 💵Michael Transue - National Alliance on Mental Illness (NAMI)
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other
 

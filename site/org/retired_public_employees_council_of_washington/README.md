@@ -47,6 +47,8 @@
 
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
 
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+
 ## [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
 ## 2023-24

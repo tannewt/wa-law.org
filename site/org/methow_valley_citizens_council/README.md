@@ -15,6 +15,8 @@
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
@@ -28,6 +30,8 @@
 ### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
+
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
 ### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
 * 👍 Jasmine Minbashian
@@ -54,7 +58,7 @@
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
 
-### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍1  
+### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍2  
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 

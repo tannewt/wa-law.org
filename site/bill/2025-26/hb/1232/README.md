@@ -16,17 +16,26 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Human Services (HS): E2SHB 1232 Private detention facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166417&caId=26640&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166417&caId=26640&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166417&caId=26640&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166417&caId=26640&tId=4)
-
-#### 36 👍 - Pro
+#### 572 👍 - Pro
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
+* Irvin Enriquez - Latino Civic Alliance
+* 💵Isela Bonilla - Student
+* Kristina Walker - Councilmember, City of Tacoma
+* Perla Vasquez - La Resistencia
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
+* Lesly Avila - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* 💵Kristin Ang - Faith Action Network (FAN)
+* 💵Paul Benz - WA Partners for Social Change
+* Ashley Ramirez - student
+* 💵Isela Bonilla - student
+* 💵Michelle Carrillo - Student
 
-#### 0 👎 - Con
+#### 712 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Sandra Brock
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

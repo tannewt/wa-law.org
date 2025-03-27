@@ -52,6 +52,9 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Andrew Villeneuve
+
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍 Andrew Villeneuve
 
@@ -65,7 +68,7 @@
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍2  
 * 👍 Andrew Villeneuve
 
-### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
+### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍2  
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
 

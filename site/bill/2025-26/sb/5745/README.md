@@ -11,19 +11,20 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5745 Invol. treatment counsel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166374&caId=26704&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166374&caId=26704&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166374&caId=26704&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166374&caId=26704&tId=4)
-
-#### 1 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Christina Parreira - WA Association of Designated Crisis Responders
+* Kelly Canary - Washington State Office of Public Defense
+* Rashi Gupta - UW Medicine
+* Nathan Olson - Office of the Governor
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Michael Brunson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joe McDermott - State Relations Director | King County
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5745 Invol. treatment counsel
 #### 6 👍 - Pro

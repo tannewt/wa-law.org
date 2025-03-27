@@ -1,6 +1,9 @@
 # Innovations Human Trafficking Collaborative
 ## 2025-26
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓ Jeri Moomaw
+
 ### [HB 1265](/bill/2025-26/hb/1265/) - Commercial sexual exploit. 👍1  
 * 👍 Jeri Moomaw
 

@@ -8,20 +8,21 @@
 
 ## Meetings
 ### Mon 03/24 04:00 PM - Ways & Means (WM): HB 1858 Deed of trust assignment/fee
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166357&caId=26680&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166357&caId=26680&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166357&caId=26680&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166357&caId=26680&tId=4)
-
-#### 24 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * CADENCE MILLER
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Sarah Dickmeyer - Plymouth Housing
 
-#### 0 👎 - Con
+#### 644 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Sandra Brock
+* Anthony Holan
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 02/13 04:00 PM - Appropriations (APP): HB 1858 Deed of trust assignment/fee
 #### 292 👍 - Pro

@@ -9,6 +9,9 @@
 
 ### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍1  
 
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  
+* 👍💵 Clifford Traisman
+
 ### [HB 1290](/bill/2025-26/hb/1290/) - Water quality trading prog.  👎1 
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
@@ -39,7 +42,7 @@
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍 Caitlin Krenn
 
-### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍2  
 * 👍 Darcy Nonemacer
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
@@ -57,6 +60,9 @@
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
+
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
+* ❓💵 Clifford Traisman
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 

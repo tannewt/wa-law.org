@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Environment, Energy & Technology (ENET): EHB 1814 SEPA/trails and paths
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165886&caId=26565&tId=4)
-
-#### 1314 👍 - Pro
+#### 1387 👍 - Pro
 Testifying:
 * Jim Thornton
 * Alisa Fedorenko
 * Lee Lambert - Executive Director, Washington Bikes/Cascade Bicycle Club
 * Matthew Cohen - Stoel Rives
+* John Teutsch - Managing Director, Ballard Landmark (senior living community in Ballard)
+* Max Genereaux - Ballard business owner
 
-#### 571 👎 - Con
+#### 661 👎 - Con
 Testifying:
 * Dusty Hoerler - Craftsman Plumbing
 * TaraLyn Fray
@@ -35,6 +31,7 @@ Testifying:
 * Sandra Brock
 * Eugene Wasserman - North Seattle Industrial Association
 * 💵Jay Jennings - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
+* 💵Tony Sermonti - Operating Engineers Local 302
 
 #### 1 ❓ - Other
 Testifying:

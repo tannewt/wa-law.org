@@ -8,17 +8,23 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5319 Surface mine reclamation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166033&caId=26730&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166033&caId=26730&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166033&caId=26730&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166033&caId=26730&tId=4)
+#### 6 👍 - Pro
+Testifying:
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Michael Transue - WA Aggregate and Concrete Association
+* Erika Odem
 
-#### 0 👍 - Pro
-
-#### 1 👎 - Con
+#### 644 👎 - Con
 Testifying:
 * Brian winkler
+* Timothy Hemphill - Co-owner of Hemphill Brothers, Inc. and Lane Mountain Company
+* Kory Hedrick - Versatile Industries Inc
+* Jim Derrer - Copenhaver Construction, Inc
+* Liza Simmonds
+* TaraLyn Fray
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Kory Hedrick - Versatile Industries Inc
+* Jessica Garza - Port of Pend Oreille
 
 #### 0 ❓ - Other
 

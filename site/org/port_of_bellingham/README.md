@@ -3,7 +3,11 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍4  
+* 👍 Michael Hogan
+* 👍 Michael Hogan
+
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 * 👍 Michael Hogan
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  

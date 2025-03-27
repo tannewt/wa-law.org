@@ -1,10 +1,16 @@
 # Washington Association of Conservation Districts
 ## 2025-26
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓ Tom Salzer
+
 ### [HB 1309](/bill/2025-26/hb/1309/) - Burrowing shrimp 👍2  
 
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits 👍1  
 * 👍💵 Brynn Brady
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Tom Salzer
 
 ## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 

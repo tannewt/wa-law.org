@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 04/03 08:00 AM - Finance (FIN): SB 5682 Employment training program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166733&caId=26800&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166733&caId=26800&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166733&caId=26800&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166733&caId=26800&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SB 5682 Employment training program
 #### 9 👍 - Pro
 Testifying:

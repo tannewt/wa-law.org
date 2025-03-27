@@ -10,15 +10,22 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Consumer Protection & Business (CPB): ESSB 5403 Cannabis industry
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166018&caId=26737&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166018&caId=26737&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166018&caId=26737&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166018&caId=26737&tId=4)
+#### 74 👍 - Pro
+Testifying:
+* BRANDON PARK
+* 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Anna Shreeve - The Bakeree
+* Amy Ross - OZ Gardenz
+* Nate Loving - Loving Farms
+* Micah Sherman
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Shea Hynes - Lux Pot Shop
+* Jerina Pillert - Hashtag Cannabis
+* Tamara Weinmann
+* 💵Ezra Eickmeyer - Producers NW
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

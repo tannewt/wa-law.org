@@ -11,17 +11,28 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Workplace Standards (LAWS): E2SSB 5061 Public works wages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166214&caId=26705&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166214&caId=26705&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166214&caId=26705&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166214&caId=26705&tId=4)
+#### 576 👍 - Pro
+Testifying:
+* Elizabeth Velasquez - NECA
+* Tim O'Donnell - ibew 76
+* Christina Cauthron
+* Jensen Webster
+* Matthew Remillard
+* 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
+* Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
 
-#### 0 👍 - Pro
+#### 723 👎 - Con
+Testifying:
+* 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* Anthony Holan
+* TaraLyn Fray
+* 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* Tiffany Scroggs - Thurston Economic Development Council
+* Tammy Fellin
 
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5061 Public works wages
 #### 291 👍 - Pro

@@ -11,6 +11,8 @@
 ### [HB 1765](/bill/2025-26/hb/1765/) - Subscriber emails/PRA  👎3 
 * 👎 ROBERT McCLURE
 
+### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA   ❓1
+
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA  👎1 
 * 👎 Colette Weeks
 

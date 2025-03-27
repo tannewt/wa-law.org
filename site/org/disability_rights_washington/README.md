@@ -7,7 +7,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍2  
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍5  
 * 👍💵 Rachael Seevers
@@ -29,8 +29,13 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Chloe Merino
+
 ### [HB 1220](/bill/2025-26/hb/1220/) - Concerning appropriate response to assaults by individuals in behavioral health crisis. 👍1  
 * 👍💵 Todd Carlisle
+
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
 
@@ -42,7 +47,7 @@
 
 ### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍2  
 
-### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program   ❓1
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  ❓1
 
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 
@@ -81,6 +86,8 @@
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍2  
 * 👍💵 Chloe Merino
 * 👍 Todd H Carlisle
+
+### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
 
 ### [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement 👍1  
 * 👍💵 Anna Zivarts

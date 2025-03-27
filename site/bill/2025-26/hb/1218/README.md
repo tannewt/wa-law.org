@@ -21,13 +21,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166010&caId=26667&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166010&caId=26667&tId=4)
 
-#### 1 👍 - Pro
+#### 33 👍 - Pro
+Testifying:
+* David Frockt - Deputy Policy Director, Office of Governor Bob Ferguson
+* 💵Kimberly Mosolf - Trueblood Plaintiff Counsel
+* Kevin Bovenkamp - DSHS Behavioral Health Administration
+* Thomas Kinlen - DSHS Behavioral Health Administration
+* Joe McDermott - State Relations Director | King County
+* Jani Hitchen
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
 
-#### 1 👎 - Con
+#### 631 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Gabrielle Charlton - King County Prosecutor's Office
+* Rebecca Vasquez - Snohomish County Prosecutor's Office
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kari Reardon - WDA/WACDL
 
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1218 Competency eval. & restor.
 #### 8 👍 - Pro

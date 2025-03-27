@@ -53,7 +53,7 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍2  
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍3  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -72,13 +72,15 @@
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
-### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍2  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.    ❓1
+
+### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions   ❓1
 
@@ -96,7 +98,7 @@
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 * 👍💵 Roxana Gomez
 
-### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍2  
 * 👍💵 Roxana Gomez
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  

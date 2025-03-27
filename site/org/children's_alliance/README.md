@@ -29,8 +29,9 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 
-### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
 * ❓ Anni-Michele Jean-Pierre
+* ❓ Max Lau
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
@@ -38,15 +39,23 @@
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
-## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍7  
+### [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍7  
 * 👍 Stephan Blanford
 * 👍💵 Reid Saaris
+
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍7  
-* 👍 Stephan Blanford
-* 👍💵 Reid Saaris
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

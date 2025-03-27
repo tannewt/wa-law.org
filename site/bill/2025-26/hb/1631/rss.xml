@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1631/</link>
 		<description>Updates about HB 1631</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 09:36:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -266,6 +266,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Naleana/Gunder/2025-03-18 09:36:32</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-25/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

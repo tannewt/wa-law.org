@@ -9,19 +9,24 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5408 Wage and salary disclosures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166384&caId=26708&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166384&caId=26708&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166384&caId=26708&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166384&caId=26708&tId=4)
+#### 59 👍 - Pro
+Testifying:
+* 💵Amber Carter - WA Retail
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Breanne Martell - Littler
 
-#### 0 👍 - Pro
-
-#### 1 👎 - Con
+#### 52 👎 - Con
 Testifying:
 * 💵Vasu Reddy - National Women's Law Center
+* Lisa Utter - Washington state (NOW) National Organization for women
+* Kevin Heim
+* Sandra Distelhorst - American Association of University Women of Washington (AAUW-WA)
+* 💵Gabriela Quintana - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* DESTINEE MOLIGA
+* Hannah Hamley - Emery Reddy
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5408 Wage and salary disclosures
 #### 105 👍 - Pro

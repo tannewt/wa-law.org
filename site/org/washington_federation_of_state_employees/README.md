@@ -31,8 +31,9 @@
 ### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings  👎1 
 * 👎 Kati Durkin
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
 * ❓ Kati Durkin
+* ❓💵 Kurt Spiegel
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
@@ -103,6 +104,8 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
+### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍2  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
@@ -120,7 +123,8 @@
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍2  
 
-### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
+* ❓ Kati Durkin
 * ❓ Kati Durkin
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
@@ -128,6 +132,10 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Nicole Gomez
 * 👍💵 Nicole Gomez
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎2 
+* 👎 Kati Durkin
+* 👎 Mike Yestramski
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
@@ -169,7 +177,7 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍2  
+### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍3  
 
 ## [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
 * 👍 Kati Durkin

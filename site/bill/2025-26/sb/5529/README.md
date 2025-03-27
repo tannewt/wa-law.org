@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Fri 03/21 01:30 PM - Finance (FIN): ESB 5529 ADU tax exemptions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166044&caId=26620&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166044&caId=26620&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166044&caId=26620&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166044&caId=26620&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)

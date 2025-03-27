@@ -17,7 +17,7 @@
 ### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
 * 👍💵 Stacy Dym
 
-### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍2  
 
 ### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
 
@@ -25,6 +25,9 @@
 * 👍💵 Stacy Dym
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
+* 👍💵 Stacy Dym
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
 

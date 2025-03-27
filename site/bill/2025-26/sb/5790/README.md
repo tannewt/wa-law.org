@@ -8,17 +8,21 @@
 
 ## Meetings
 ### Mon 03/24 04:00 PM - Ways & Means (WM): SB 5790 CTC employee COLAs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166356&caId=26679&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166356&caId=26679&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166356&caId=26679&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33127&aId=166356&caId=26679&tId=4)
+#### 13 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 3 👎 - Con
+#### 1307 👎 - Con
 Testifying:
 * 💵Sue Nightingale - Washington Education Association Association of Higher Education
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* Ty Saxon - Bellevue College/Washington Education Association
+* Suzanne Southerland - Clark College Association of Higher Edu., Washington Education Association
+* Sandra Mochizuki
+* Tina Cabrera
+* Betsy Norton
+* Rachel Dorn - AFT Yakima
+* Jennifer Hoene - AFT-WA
+* TaraLyn Fray
+* Jackie Franklin - Comm. College of Spokane AHE/Washington Education Association
 
 #### 0 ❓ - Other

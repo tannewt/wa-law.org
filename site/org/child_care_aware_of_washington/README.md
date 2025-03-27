@@ -20,6 +20,8 @@
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications   ❓1
 
+### [HB 2012](/bill/2025-26/hb/2012/) - Transition to kindergarten   ❓1
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
@@ -39,11 +41,15 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 
-## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
+### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
+
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.   ❓1
+* ❓💵 Emily Murphy
 
 ## 2023-24
 
-### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍2  
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.   ❓1
+* ❓💵 Emily Murphy
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

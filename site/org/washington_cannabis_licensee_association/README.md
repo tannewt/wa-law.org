@@ -3,6 +3,9 @@
 
 ### [HB 1067](/bill/2025-26/hb/1067/) - Cannabis/dept of agriculture  👎1 
 
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+* 👎 Brandon Park
+
 ### [HB 1346](/bill/2025-26/hb/1346/) - Cannabis industry  👎1 
 * 👎💵 Trent Matson
 
@@ -12,8 +15,15 @@
 ### [HB 1410](/bill/2025-26/hb/1410/) - Inactive cannabis producers 👍1  
 * 👍💵 Trent Matson
 
-### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising 👍1  
+### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis  👎1 
+* 👎💵 Trent Matson
+
+### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising 👍2  
 * 👍 Bethany Rondeaux
+* 👍💵 Trent Matson
+
+### [SB 5403](/bill/2025-26/sb/5403/) - Cannabis industry 👍1  
+* 👍💵 Trent Matson
 
 ## [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry  👎1 
 * 👎💵 Trent Matson

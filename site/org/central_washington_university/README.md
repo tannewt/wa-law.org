@@ -9,7 +9,9 @@
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓3
+* ❓ Steve DuPont
+* ❓ Deb Well
 * ❓ Steve DuPont
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
@@ -30,6 +32,9 @@
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+* ❓ Steve DuPont
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Steve DuPont
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  

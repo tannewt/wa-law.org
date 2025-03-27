@@ -9,11 +9,15 @@
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍3  
 
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
+
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍1  
+
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
 
 ### [HB 1748](/bill/2025-26/hb/1748/) - Insurance & credit study 👍1  
 
-### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -32,7 +36,7 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
-### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
 
 ## [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 

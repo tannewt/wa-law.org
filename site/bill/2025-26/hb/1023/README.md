@@ -12,17 +12,17 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): SHB 1023 Cosmetology compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166124&caId=26643&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166124&caId=26643&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166124&caId=26643&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166124&caId=26643&tId=4)
+#### 6 👍 - Pro
+Testifying:
+* Maria Tobin - South Sound Military and Communities Partnership
+* Tammie Perreault - Department of Defense
 
-#### 0 👍 - Pro
+#### 5 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Todd Myers - Washington Policy Center
+* 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
 
 ### Wed 01/29 04:00 PM - Appropriations (APP): HB 1023 Cosmetology compact
 #### 8 👍 - Pro

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - State Government & Elections (SGE): HB 1934 Employment investigation/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165865&caId=26551&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165865&caId=26551&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165865&caId=26551&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33037&aId=165865&caId=26551&tId=4)
-
-#### 27 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -26,7 +20,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1934 Employment investigation/PRA
 #### 27 👍 - Pro

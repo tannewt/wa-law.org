@@ -10,26 +10,54 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): ESHB 1430 APRN & PA reimbursement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166327&caId=26634&tId=4)
-
-#### 65 👍 - Pro
+#### 764 👍 - Pro
 Testifying:
 * Andrea Phillips
 * Madison Hultquist
+* Gabriella Romero
+* Melissa Mossar
+* Paul Surette
+* Natalie Paul - Lavender Spectrum Health
+* Justin Gill - President, Washington State Nurses Association
+* ARNP, DNP, PHMNP, Kathleen Johnson - Association of Advanced Practice Psychiatric Nurses (AAPPN)
+* Jennifer Malone - Tumwater Family Practice Clinic
+* MBA, PA-C, David Wood - Washington Academy of Physician Assistants (WAPA)
+* PHMNP, Kristine Highlander - Association of Advanced Practice Psychiatric Nurses (AAPPN)
+* ARNP, Linda van Hoff - ARNPs United of Washington State (AUWS)
+* ARNP, Shannon Fitzgerald - ARNPs United of Washington State (AUWS)
+* MSN, ARNP, FAANP, Maddy Wiley - ARNPs United of Washington State (AUWS)
+* Dan Richer
+* Karen Rogers
+* Kathleen King
 
-#### 79 👎 - Con
+#### 837 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * Claire Brutocao
 * ALISSA Hemke - Washington State Psychiatric Association
 * Kevin McLean
 * Neeru Bakshi
+* Phillip[ Shaffer - PHYSICIANS FOR PATIENT PROTECTION
+* Hannah Burns
+* Spencer Steadman
+* MD, Tobias Dang
+* Dr. Ramaswamy Viswanathan - President, American Psychiatric Association
+* Breck Lebegue
+* Rebecca Allen
+* Katherine Jong
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Whitney Allar
+* Annie McGrath - Washington State Psychiatric Association (WSPA)
+* Dr. Robin Berger - Washington State Psychiatric Association (WSPA)
+* Nancy L. Belcher - King County Medical Society - Seattle, WA
+* TaraLyn Fray
+* Tanya Keeble
+* 💵Jennifer Muhm - Regence BlueShield
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* ND, Angela Ross - [Washington Association of Naturopathic Physicians](/org/washington_association_of_naturopathic_physicians/)
+* MD, MPH, Gary Franklin - Department of Labor & Industries
 
 ### Wed 01/29 01:30 PM - Health Care & Wellness (HCW): HB 1430 APRN & PA reimbursement
 #### 568 👍 - Pro

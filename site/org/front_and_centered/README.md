@@ -15,6 +15,8 @@
 
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 * 👍💵 Guillermo Rogel
 
@@ -59,11 +61,13 @@
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

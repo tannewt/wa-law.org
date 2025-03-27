@@ -9,19 +9,15 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Human Services (HS): SHB 1509 Family reconciliation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33171&aId=166244&caId=26639&tId=4)
-
-#### 6 👍 - Pro
+#### 126 👍 - Pro
 Testifying:
 * Kim Justice - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
 * 💵Casey Trupin - Raikes Foundation
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
+* Joseph Alonzo - [Cocoon House](/org/cocoon_house/)
 
-#### 0 👎 - Con
+#### 54 👎 - Con
 
 #### 0 ❓ - Other
 

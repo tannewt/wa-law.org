@@ -4,6 +4,8 @@
 ### [HB 1645](/bill/2025-26/hb/1645/) - Automobile insurance  👎1 
 * 👎 Kris Tefft
 
+### [SB 5262](/bill/2025-26/sb/5262/) - Insurance statutes 👍1  
+
 ### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations   ❓2
 * ❓ Kris Tefft
 * ❓ Kris Tefft

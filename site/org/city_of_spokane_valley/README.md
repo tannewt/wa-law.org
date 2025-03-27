@@ -11,6 +11,8 @@
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍3  
 
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
+
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
@@ -19,7 +21,9 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 ❓1
+
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element  👎1 
 
@@ -55,7 +59,7 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
-### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍3  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -73,6 +77,8 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
@@ -81,15 +87,15 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍1  
+### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍2  
 
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍2  
 
-### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍2  
+### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍3  
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat.   ❓1
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
@@ -116,7 +122,7 @@
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍2  
 
-### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍2  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
@@ -150,7 +156,7 @@
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development  👎1 
 
-### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload  👎1 
+### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload  👎2 
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 

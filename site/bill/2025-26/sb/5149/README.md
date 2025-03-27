@@ -13,17 +13,21 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5149 Early childhood court prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166156&caId=26739&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166156&caId=26739&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166156&caId=26739&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33150&aId=166156&caId=26739&tId=4)
-
-#### 1 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* Amelia Watson - Washington State Office of Public Defense
+* Tonia McClanahan - Washington State Office of Public Defense
+* Candle Kaltenbach
+* Elizabeth Ballou
+* Nicholas Oakley - Center for Children & Youth Justice (CCYJ)
+* Rosalynn Guillen - Administrative Office of the Courts (AOC)
+* Terreca Defehr
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Maria Castillo
 
 ### Wed 01/22 08:00 AM - Human Services (HS): SB 5149 Early childhood court prg.
 #### 21 👍 - Pro

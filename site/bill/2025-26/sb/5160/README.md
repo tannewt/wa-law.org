@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Tue 03/25 04:00 PM - Transportation (TRAN): SB 5160 Transportation budget, supp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33107&aId=166434&caId=26676&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33107&aId=166434&caId=26676&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33107&aId=166434&caId=26676&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33107&aId=166434&caId=26676&tId=4)
+#### 36 👍 - Pro
+Testifying:
+* 💵Justin Leighton - Washington State Transit Association
+* Matt Ransom - Southwest Washington Regional Transportation Council
+* Tom McBride - Kitsap County
 
-#### 0 👍 - Pro
+#### 44 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Mary Paterson

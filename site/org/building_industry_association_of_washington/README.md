@@ -43,6 +43,9 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+* 👎💵 Jan Himebaugh
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 * 👎💵 Brent Ludeman
 
@@ -141,6 +144,8 @@
 
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats 👍1  
 
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+
 ### [HB 1840](/bill/2025-26/hb/1840/) - Middle housing 👍1  
 
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins.  👎1 
@@ -238,7 +243,7 @@
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 
-### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
+### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍2  
 
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig.   ❓1
 * ❓💵 Andrea Smiley
@@ -261,7 +266,7 @@
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  ❓1
 * ❓💵 Bill Stauffacher
 
-### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍1  
+### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍2  
 * 👍💵 Bill Stauffacher
 
 ### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍2  

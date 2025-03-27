@@ -3,7 +3,7 @@
 
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  ❓2
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 
@@ -12,6 +12,8 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
 * ❓ James Dorsey
 * ❓ Yokiko Hayashi-Saguil
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
 
 ## [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
 * 👍 Yokiko Hayashi-Saguil

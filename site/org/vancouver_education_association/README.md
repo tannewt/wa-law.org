@@ -4,13 +4,20 @@
 ### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
 * 👍 Kiera O'Brien
 
-## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
+### [HB 2012](/bill/2025-26/hb/2012/) - Transition to kindergarten  👎1 
+
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+
+### [SB 5579](/bill/2025-26/sb/5579/) - Health/contract terminations 👍1  
+
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 * 👎 Kyle Kielty
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
 ## 2023-24
 
-### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎1 
-* 👎 Kyle Kielty
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
 
 ### [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍2  
 

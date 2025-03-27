@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Environment, Energy & Technology (ENET): 2SHB 1990 Utility disaster costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33086&aId=165885&caId=26564&tId=4)
-
-#### 94 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * 💵John Rothlin - Avista Corporation
@@ -25,6 +19,7 @@ Testifying:
 * Teresa Sanders
 * Sandra Brock
 * Sandra Brock
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 3 👎 - Con
 

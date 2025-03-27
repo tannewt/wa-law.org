@@ -3,7 +3,7 @@
 
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
-### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers  👎1 
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers  👎2 
 * 👎💵 Carrie Tellefson
 
 ### [HB 1706](/bill/2025-26/hb/1706/) - Prior auth. APIs/health 👍1  

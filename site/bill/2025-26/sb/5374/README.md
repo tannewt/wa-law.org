@@ -12,15 +12,12 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Local Government (LG): SSB 5374 Transportation/tribal rep.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166269&caId=26732&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166269&caId=26732&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166269&caId=26732&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166269&caId=26732&tId=4)
+#### 36 👍 - Pro
 
-#### 2 👍 - Pro
-
-#### 0 👎 - Con
+#### 519 👎 - Con
+Testifying:
+* Liza Simmonds
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -10,11 +10,16 @@
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
 * 👎💵 Brad Tower
 
+### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees  👎1 
+* 👎💵 Brad Tower
+
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee  👎1 
 
 ### [HB 1900](/bill/2025-26/hb/1900/) - Financial fraud protections  👎1 
 
 ### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍1  
+
+### [HB 2024](/bill/2025-26/hb/2024/) - Primary residence/tax  👎1 
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 

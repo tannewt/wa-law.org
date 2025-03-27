@@ -33,8 +33,9 @@
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍3  
 * 👍 Cassia Hershenow
 
-### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍5  
+### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍6  
 * 👍💵 Prachi Dave
+* 👍💵 Kelly Olson
 * 👍💵 Kelly Olson
 
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
@@ -54,6 +55,8 @@
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍1  
+
+### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
 
 ## [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍2  
 

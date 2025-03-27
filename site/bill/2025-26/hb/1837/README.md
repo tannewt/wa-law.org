@@ -13,6 +13,21 @@
 * 02/05/2025 [The Urbanist](/org/the_urbanist/) - [State Lawmakers Chart Path to Double Amtrak Cascades Service - The Urbanist](https://www.theurbanist.org/2025/02/05/lawmakers-path-to-double-amtrak-cascades-service/#:~:text=House%20Bill%201837)
 
 ## Meetings
+### Tue 04/01 04:00 PM - Transportation (TRAN): ESHB 1837 Intercity passenger rail
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Breck Lebegue - WA Physicians for Social Responsibility
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1837 Intercity passenger rail
 #### 1032 👍 - Pro
 Testifying:

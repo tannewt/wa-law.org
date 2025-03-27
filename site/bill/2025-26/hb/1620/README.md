@@ -10,7 +10,7 @@
 
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): ESHB 1620 Parenting plan limitations
-#### 576 👍 - Pro
+#### 573 👍 - Pro
 Testifying:
 * Brandon Williams - Brandon Williams PLLC, Family Law Attorney
 * Tamara Emerson - Concerned Citizen
@@ -30,7 +30,6 @@ Testifying:
 * Amy Annette
 * Gina Bloom - Victim Advocate
 * Brandon Padilla
-* Sarah Hulteen - DV Survivor Mother
 * Natalie Sullivan
 * Yash Joshi
 * Yash Joshi - A student
@@ -105,7 +104,7 @@ Testifying:
 * Kristina Peterson
 * Grace Amos - DV Survivor
 
-#### 137 👎 - Con
+#### 136 👎 - Con
 Testifying:
 * 💵Evangeline Stratton
 * Tamara Emerson - 3221 s 17th st
@@ -117,7 +116,6 @@ Testifying:
 * Shira Cole - One of the many survivors in the HB 2237/1620 workgroup all of which who were ignored - PAYES
 * Emily Farris
 * Melanie Kraintz
-* Sarah Hulteen
 * Heidi Padilla - For Ashley, & Nicolaas- my 17 yr old son who was killed escaping Domestic Violence in August 2024
 * Shannon Draughon - Carnation Legal, LLC
 * Chelsi Eastwood

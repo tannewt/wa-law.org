@@ -8,17 +8,23 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Consumer Protection & Business (CPB): ESB 5206 Cannabis advertising
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166017&caId=26736&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166017&caId=26736&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166017&caId=26736&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166017&caId=26736&tId=4)
+#### 8 👍 - Pro
+Testifying:
+* BRANDON PARK
+* 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Jerina Pillert - Hashtag Cannabis (retailer)
+* 💵Paula Sardinas - FMSGS/ Washington Build Back Black Alliance (WBBA)
 
-#### 0 👍 - Pro
+#### 12 👎 - Con
+Testifying:
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Sarah Ross-Viles - Public Health - Seattle & King County
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* JULIA DILLEY
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5206 Cannabis advertising
 #### 3 👍 - Pro

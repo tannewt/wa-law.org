@@ -3,12 +3,12 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
-## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
+## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍3  
 * 👍 Lisa Ganuelas
 
 ## 2023-24
 
-### [SB 5570](/bill/2023-24/sb/5570/) - Tribes/K-12 instruction 👍2  
+### [SB 5570](/bill/2023-24/sb/5570/) - Tribes/K-12 instruction 👍3  
 * 👍 Lisa Ganuelas
 
 ### [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  

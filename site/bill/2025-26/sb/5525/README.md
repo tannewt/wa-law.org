@@ -13,17 +13,17 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5525 Layoffs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166215&caId=26706&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166215&caId=26706&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166215&caId=26706&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33164&aId=166215&caId=26706&tId=4)
+#### 19 👍 - Pro
+Testifying:
+* Christopher Weber
 
-#### 0 👍 - Pro
+#### 140 👎 - Con
+Testifying:
+* Anthony Holan
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
 
 ### Mon 02/03 10:30 AM - Labor & Commerce (LC): SB 5525 Layoffs
 #### 25 👍 - Pro

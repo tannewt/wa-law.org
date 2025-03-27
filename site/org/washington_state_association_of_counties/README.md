@@ -64,6 +64,9 @@
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+* ❓💵 Paul Jewell
+
 ### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
 * 👎💵 Brad Banks
 
@@ -78,8 +81,9 @@
 * 👎💵 Kelsey Hulse
 * 👎💵 Kelsey Hulse
 
-### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  ❓1
 * ❓💵 Paul Jewell
+* 👍💵 Paul Jewell
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses  👎1 
 
@@ -109,7 +113,7 @@
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 
-### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍3  
 
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits   ❓1
 * ❓💵 Paul Jewell
@@ -137,7 +141,8 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎3 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
@@ -210,6 +215,9 @@
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 * 👍💵 Brad Banks
 
+### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
+* ❓💵 Paul Jewell
+
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 * 👍💵 Derek Young
 
@@ -238,12 +246,16 @@
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
 * ❓💵 Paul Jewell
 
-### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  ❓1
 * ❓💵 Paul Jewell
+* 👍💵 Derek Young
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+* ❓💵 Paul Jewell
 
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Kelsey Hulse
@@ -267,7 +279,8 @@
 * ❓💵 Paul Jewell
 * ❓💵 Travis Dutton
 
-### [SB 5288](/bill/2025-26/sb/5288/) - Concerning vacancies on boards of county commissioners. 👍1  
+### [SB 5288](/bill/2025-26/sb/5288/) - Concerning vacancies on boards of county commissioners. 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses  👎1 
@@ -366,13 +379,18 @@
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
 * 👎💵 Curtis Steinhauer
 
-## [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
+### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
 * 👎💵 Kelsey Hulse
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍2  
+* 👍 County Commissioner Heidi Eisenhour
+* 👍 County Commissioner Lisa Janicki
 
 ## 2023-24
 
-### [SB 5732](/bill/2023-24/sb/5732/) - Housing supply/GMA  👎1 
-* 👎💵 Kelsey Hulse
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍2  
+* 👍 County Commissioner Heidi Eisenhour
+* 👍 County Commissioner Lisa Janicki
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

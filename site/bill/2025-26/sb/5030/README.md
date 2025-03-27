@@ -12,17 +12,13 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5030 Vital records access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166151&caId=26717&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166151&caId=26717&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166151&caId=26717&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166151&caId=26717&tId=4)
+#### 38 👍 - Pro
+Testifying:
+* Alexandra Clifthorne
 
-#### 0 👍 - Pro
+#### 3 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5030 Vital records access
 #### 25 👍 - Pro

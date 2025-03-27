@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5543/</link>
 		<description>Updates about SB 5543</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 16 Mar 2025 05:57:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -143,6 +143,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-16 05:57:07</guid>
+		</item>
+		<item>
+			<title>PEW - Executive action taken by committee.</title>
+			<description>PEW - Executive action taken by committee.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/PEW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

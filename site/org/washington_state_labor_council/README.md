@@ -1,6 +1,9 @@
 # Washington State Labor Council
 ## 2025-26
 
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
+* 👍💵 John Traynor
+
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 * 👍 Cherika Carter
 

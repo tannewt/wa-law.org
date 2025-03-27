@@ -43,11 +43,13 @@
 
 ### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎2 
+* 👎💵 Amy Anderson
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎1 
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎2 
+* 👎💵 Amy Anderson
 
 ### [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 

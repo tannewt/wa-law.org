@@ -24,7 +24,7 @@
 
 ### [HB 1938](/bill/2025-26/hb/1938/) - State flag redesign  👎1 
 
-### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍1  
+### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍2  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎2 
 

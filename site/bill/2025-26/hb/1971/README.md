@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Fri 03/21 08:00 AM - Health & Long Term Care (HLTC): ESHB 1971 Prescription hormone therapy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=4)
-
-#### 1170 👍 - Pro
+#### 1357 👍 - Pro
 Testifying:
 * Tela Hogle
 * Fernanda Grether Zdanowsky
@@ -51,14 +45,17 @@ Testifying:
 * Noah Peterson
 * Blake Burgess
 * Caroline Gibney - 1849 91st ave sw
+* Georgia Schnepf
+* Cora Bruener - WA Chapter of the American Academy of Pediatrics
+* Nathan Paul
 
-#### 737 👎 - Con
+#### 843 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * Sandra Brock
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1971 Prescription hormone therapy
 #### 78 👍 - Pro

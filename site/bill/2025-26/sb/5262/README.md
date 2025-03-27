@@ -12,17 +12,15 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - Consumer Protection & Business (CPB): SSB 5262 Insurance statutes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166014&caId=26716&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166014&caId=26716&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166014&caId=26716&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166014&caId=26716&tId=4)
+#### 5 👍 - Pro
+Testifying:
+* Dory Nicpon - Office of the Insurance Commissioner
 
-#### 0 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 
 ### Thu 01/30 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5262 Insurance statutes
 #### 6 👍 - Pro

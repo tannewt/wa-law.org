@@ -105,6 +105,8 @@
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor 👍1  
 * 👍💵 Mark Johnson
 
+### [HB 1562](/bill/2025-26/hb/1562/) - Diaper changing stations 👍1  
+
 ### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax 👍1  
 * 👍💵 Amber Carter
 
@@ -133,6 +135,9 @@
 * 👎💵 Rose Gundersen
 
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products  👎1 
+
+### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍1  
+* 👍💵 Crystal Leatherman
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 

@@ -42,6 +42,8 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures   ❓1
+
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 * 👍 Danielle Alvarado
 

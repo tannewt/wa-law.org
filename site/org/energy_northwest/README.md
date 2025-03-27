@@ -20,9 +20,12 @@
 * 👍 David Jordan
 * 👍 Chris La Plante
 
+### [HB 1610](/bill/2025-26/hb/1610/) - Critical energy infra./PRA 👍1  
+
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
-### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍1  
+### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍2  
+* 👍 Richard Shaff
 * 👍 Richard Shaff
 
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  

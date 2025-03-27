@@ -13,7 +13,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
 
 ### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
 
@@ -60,9 +60,11 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
 
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍3  
 
@@ -108,6 +110,8 @@
 
 ### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍2  
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
@@ -117,7 +121,8 @@
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+* 👍 Dan Eder
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 

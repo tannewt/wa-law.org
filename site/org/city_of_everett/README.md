@@ -25,6 +25,8 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
@@ -46,7 +48,8 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍 Jennifer Gregerson
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+* 👍 Jennifer Gregerson
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
@@ -56,6 +59,9 @@
 * 👍 Dan Templeman
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
+* 👍 Jennifer Gregerson
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 

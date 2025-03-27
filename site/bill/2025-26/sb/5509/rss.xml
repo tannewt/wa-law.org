@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5509/</link>
 		<description>Updates about SB 5509</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 11:11:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -165,6 +165,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alex/Galeana/2025-03-17 11:11:32</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-25/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

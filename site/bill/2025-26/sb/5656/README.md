@@ -11,15 +11,13 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5656 Aquatic lease inflation rate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166032&caId=26729&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166032&caId=26729&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166032&caId=26729&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33116&aId=166032&caId=26729&tId=4)
+#### 7 👍 - Pro
+Testifying:
+* Tarin Todd
+* Tom Gorman - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Roman Daniels-Brown - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -25,19 +25,28 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Education (ED): 2SSB 5179 Education complaint process
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165971&caId=26691&tId=4)
+#### 62 👍 - Pro
+Testifying:
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
-#### 1 👍 - Pro
-
-#### 1 👎 - Con
+#### 2485 👎 - Con
 Testifying:
 * Tonya Hickman - Lynden School Board
+* Dawn Land - Reject 5599 PAC
+* Khushdip Brar
+* Jason Perrins - Chewelah School District
+* Sandra Mochizuki
+* Sandra Brock
+* John Axtell
+* Khushdip Brar
+* mike johnson
+* Anthony Holan
+* TaraLyn Fray
+* Sharon Hanek
+* Beth Daranciang
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5179 Education complaint process
 #### 304 👍 - Pro

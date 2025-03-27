@@ -1,9 +1,10 @@
 # Transportation Choices Coalition
 ## 2025-26
 
-### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍2  
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍2 👎1 
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Matthew Sutherland
+* 👎💵 Kirk Hovenkotter
 
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 
@@ -19,7 +20,11 @@
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍1  
 * 👍💵 Matthew Sutherland
 
-### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
+### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
+* 👍💵 Kirk Hovenkotter
+
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍2  
+* 👍💵 Kirk Hovenkotter
 * 👍💵 Kirk Hovenkotter
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  

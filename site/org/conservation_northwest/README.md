@@ -35,7 +35,7 @@
 ### [HB 1685](/bill/2025-26/hb/1685/) - Fish and wildlife governance   ❓1
 * ❓ Jen Syrowitz
 
-### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍2  
 
 ### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
 * 👍 Joe Scott
@@ -45,6 +45,9 @@
 
 ### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission   ❓1
 * ❓ Jen Syrowitz
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
+* 👎💵 Paula Swedeen
 
 ### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation 👍1  
 * 👍💵 Paula Swedeen

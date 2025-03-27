@@ -1,6 +1,9 @@
 # Washington Association of Vehicle Subagents
 ## 2025-26
 
+### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
+* 👍 Marci Straub
+
 ## [SB 5432](/bill/2025-26/sb/5432/) - License plate production 👍1  
 * 👍 Brian Cullinane
 

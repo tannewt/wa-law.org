@@ -11,6 +11,19 @@
 * 03/03/2025 [House Democrats](/org/house_democrats/) - [New Bill Lets Drivers Cut Suspension Time—But There’s a Catch! – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/03/new-bill-lets-drivers-cut-suspension-time-but-theres-a-catch/#:~:text=House%20Bill%201244)
 
 ## Meetings
+### Mon 03/31 04:00 PM - Transportation (TRAN): SHB 1244 Driver training alternative
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/17 10:30 AM - Law & Justice (LAW): SHB 1244 Driver training alternative
 #### 5 👍 - Pro
 Testifying:

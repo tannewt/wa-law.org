@@ -10,13 +10,13 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍9  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍5  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
@@ -31,7 +31,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍5  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍6  
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍4  
 
@@ -62,7 +62,8 @@
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍2  
 
-### [SB 5436](/bill/2025-26/sb/5436/) - Worship/access interference 👍2  
+### [SB 5436](/bill/2025-26/sb/5436/) - Worship/access interference 👍4  
+* 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍5  
@@ -73,11 +74,13 @@
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍2  
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍5  
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍5  
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍5  
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

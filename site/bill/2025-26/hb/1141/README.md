@@ -17,17 +17,30 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): ESHB 1141 Ag. cannabis workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166128&caId=26647&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166128&caId=26647&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166128&caId=26647&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166128&caId=26647&tId=4)
+#### 129 👍 - Pro
+Testifying:
+* Mike Asai - Black Exvcellence in Cannabis
+* Peter Manning - Black Excellence in Cannabis
+* Diba Kamayo
+* Faye Guenther - UFCW 3000
+* 💵John Traynor - Washington State Labor Council AFL-CIO
+* Stephanie Taylor
 
-#### 14 👍 - Pro
+#### 604 👎 - Con
+Testifying:
+* Brandon Park - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Anthony Holan
+* Jordan Zager - Dewey Botanicals/Dewey Cannabis Co.
+* Scott Haggberg - Grow Op Farms
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* TaraLyn Fray
+* 💵Ezra Eickmeyer - Producers NW
+* 💵Scott Dilley - WAFLA - Worker and Farmer Labor Association
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1141 Ag. cannabis workers
 #### 193 👍 - Pro

@@ -5,8 +5,10 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍4  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓3
 * ❓ Jeff DeLuca
+* ❓ Jeff DeLuca
+* ❓💵 Linda Garcia
 
 ### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing 👍1  
 
@@ -32,6 +34,10 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
+* ❓ Jeff DeLuca
+* ❓💵 Linda Garcia
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Jeff DeLuca

@@ -15,17 +15,21 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5752 Child care & early dev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166155&caId=26721&tId=4)
+#### 22 👍 - Pro
 
-#### 0 👍 - Pro
+#### 299 👎 - Con
+Testifying:
+* Kerra Bower - Little Scholars Development Center, LLC and Raze Development Inc
+* 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
+* Colleen Condon - Lilac City Early Learning Center
+* Laura Murphey - Taylor Tots Childcare
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* 💵Kristin Wiggins - Perigee Fund, Akin
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5752 Child care & early dev.
 #### 36 👍 - Pro

@@ -12,15 +12,18 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - Consumer Protection & Business (CPB): SB 5280 Virtual currency kiosks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166013&caId=26715&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166013&caId=26715&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166013&caId=26715&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33112&aId=166013&caId=26715&tId=4)
+#### 9 👍 - Pro
+Testifying:
+* 💵Paul Dillon - City of Spokane / Council President Pro Tem
+* Timothy Schwering - Spokane Police Department
+* Drew Bouton - Washington State Department of Financial Institutions
+* Cathleen MacCaul - AARP Washington State
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 59 👎 - Con
+Testifying:
+* Kevin Lolli - CoinFlip
+* Arry Yu - WTIA
+* Ethan McClelland - [Bitcoin Depot](/org/bitcoin_depot/)
 
 #### 0 ❓ - Other
 

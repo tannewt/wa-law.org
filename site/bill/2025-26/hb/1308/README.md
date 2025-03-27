@@ -9,20 +9,26 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): SHB 1308 Access to personnel records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166122&caId=26641&tId=4)
-
-#### 3 👍 - Pro
+#### 260 👍 - Pro
 Testifying:
 * Patrick McGah
 * Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵John Traynor - [Washington State Labor Council](/org/washington_state_labor_council/)
+* Michael Mead - IAM 2202
+* Jane Dale - Washington State Association for Justice
+* Sandra Brock
 
-#### 0 👎 - Con
+#### 483 👎 - Con
+Testifying:
+* 💵Amber Carter - WA Retail
+* 💵Patrick Connor - NFIB
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Anthony Holan
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/22 08:00 AM - Labor & Workplace Standards (LAWS): HB 1308 Access to personnel records
 #### 266 👍 - Pro

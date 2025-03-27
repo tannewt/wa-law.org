@@ -10,7 +10,8 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+* ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
 ### [HB 1200](/bill/2025-26/hb/1200/) - DD parental caregivers 👍1  
@@ -40,7 +41,7 @@
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
-### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍2  
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections   ❓1
 * ❓💵 Esther Warwick
@@ -70,9 +71,14 @@
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
+* ❓💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
+
 ### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 👍1  
 
-### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍5  
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍7  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
@@ -113,6 +119,8 @@
 
 ### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍1  
 
+### [SB 5486](/bill/2025-26/sb/5486/) - Motion picture captioning 👍1  
+
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
@@ -127,11 +135,11 @@
 
 ### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎2 
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎1 
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎2 
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

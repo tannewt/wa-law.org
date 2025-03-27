@@ -13,17 +13,13 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5268 Unlawful firearm possession
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166060&caId=26690&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166060&caId=26690&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166060&caId=26690&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33119&aId=166060&caId=26690&tId=4)
-
-#### 3 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* 💵Anne Anderson
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

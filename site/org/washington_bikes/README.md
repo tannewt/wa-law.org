@@ -1,6 +1,9 @@
 # Washington Bikes
 ## 2025-26
 
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  
+* 👍 Lee Lambert
+
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
 ### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍5  
@@ -11,6 +14,9 @@
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍2  
 * 👍 Vicky Clarke
+
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
+* 👍 Lee Lambert
 
 ### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
 

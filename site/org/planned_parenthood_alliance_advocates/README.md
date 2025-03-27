@@ -51,13 +51,13 @@
 
 ### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍2  
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍2  
 
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
 
-### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍2  
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍3  
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
@@ -70,6 +70,8 @@
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1870](/bill/2025-26/hb/1870/) - Public health clinics/tax 👍1  
 
@@ -96,6 +98,9 @@
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+* ❓💵 Nicole Kern
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Nicole Kern
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  

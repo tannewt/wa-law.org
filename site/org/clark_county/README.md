@@ -11,6 +11,8 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
+### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
+
 ### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍2  
 
 ## [SB 5696](/bill/2025-26/sb/5696/) - Mental health treatment/tax 👍1  

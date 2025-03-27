@@ -10,17 +10,20 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - State Government & Elections (SGE): ESHB 1610 Critical energy infra./PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166199&caId=26674&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166199&caId=26674&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166199&caId=26674&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166199&caId=26674&tId=4)
+#### 17 👍 - Pro
+Testifying:
+* DEVER HAFFNER-RATLIFFE - Cowlitz PUD
+* 💵Nicolas Garcia - WA PUD Association
+* Elizabeth King - Washington State Department of Commerce
 
-#### 1 👍 - Pro
+#### 580 👎 - Con
+Testifying:
+* ROBERT McCLURE
+* TaraLyn Fray
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 
 ### Tue 02/04 01:30 PM - State Government & Tribal Relations (SGOV): HB 1610 Critical energy infra./PRA
 #### 7 👍 - Pro

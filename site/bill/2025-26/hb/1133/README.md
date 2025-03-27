@@ -13,19 +13,18 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): SHB 1133 Sexually violent predators
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33109&aId=165989&caId=26656&tId=4)
+#### 194 👍 - Pro
+Testifying:
+* Steve Worthington - City of University Place, WA
+* Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 
-#### 1 👍 - Pro
+#### 4 👎 - Con
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Annie Slade
+* Annie Slade
+* Kelly Canary - Washington State Office of Public Defense
 
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1133 Sexually violent predators
 #### 408 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1947/</link>
 		<description>Updates about HB 1947</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 09:43:19 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -127,6 +127,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Christal/Gillo/2025-03-17 09:43:19</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

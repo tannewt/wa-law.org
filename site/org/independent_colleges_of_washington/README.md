@@ -17,11 +17,15 @@
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
+* 👎 Ph.D., Terri Standish-Kuon
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎2 
+* 👎 Ph.D., Terri Standish-Kuon
 
 ### [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams   ❓1
 * ❓ Terri Standish-Kuon

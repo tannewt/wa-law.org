@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Tue 03/25 08:00 AM - Finance (FIN): HB 2024 Primary residence/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166181&caId=26698&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166181&caId=26698&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166181&caId=26698&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166181&caId=26698&tId=4)
+#### 10 👍 - Pro
+Testifying:
+* 💵Mia Shigemura - Washington State Budget and Policy Center
 
-#### 2 👍 - Pro
-
-#### 21 👎 - Con
+#### 156 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Anthony Holan
+* Jonathan Manheim - NAIOP Washington State
 
 #### 0 ❓ - Other

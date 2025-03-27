@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1018/</link>
 		<description>Updates about HB 1018</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,13 @@
 			<pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-18/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

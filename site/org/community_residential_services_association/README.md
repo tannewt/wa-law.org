@@ -11,6 +11,8 @@
 * ❓💵 Melissa Johnson
 * ❓💵 Melissa Johnson
 
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
+
 ### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
 
 ### [SB 5125](/bill/2025-26/sb/5125/) - Residential services rate 👍1  

@@ -12,17 +12,18 @@
 
 ## Meetings
 ### Wed 03/26 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5490 Jail searches/gender
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33122&aId=166073&caId=26746&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33122&aId=166073&caId=26746&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33122&aId=166073&caId=26746&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33122&aId=166073&caId=26746&tId=4)
-
-#### 22 👍 - Pro
+#### 443 👍 - Pro
 Testifying:
 * Lucy Nasenbeny
+* Hailey Ockinga - Beyond These Walls
+* Renee Knight - ExLifer Gone Right
+* Neal Black - [City of Kirkland](/org/city_of_kirkland/)
+* Jenna Comstock - QLAW Association
 
-#### 0 👎 - Con
+#### 770 👎 - Con
+Testifying:
+* Liza Simmonds
+* TaraLyn Fray
 
 #### 2 ❓ - Other
 Testifying:

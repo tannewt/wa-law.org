@@ -23,8 +23,12 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Denise Rodriguez
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍5  
 * 👍💵 Denise Rodriguez

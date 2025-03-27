@@ -3,8 +3,12 @@
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎2 
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
 * 👎💵 Cory Shaw
+
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
 
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎2 
 * 👎💵 Cory Shaw

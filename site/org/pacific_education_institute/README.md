@@ -1,13 +1,17 @@
 # Pacific Education Institute
 ## 2025-26
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎3 
+* 👎 Kathryn Kurtz
 * 👎 Kathryn Kurtz
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Kathryn Kurtz
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
+* 👍 Molly Griffiths
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 

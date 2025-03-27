@@ -27,14 +27,16 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎3 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 * 👍 Sean DeWitz
 
-### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎2 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
@@ -51,15 +53,17 @@
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 * ❓💵 Samantha Louderback
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
+* 👍 Sean DeWitz
 * 👍 Sean DeWitz
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees  👎1 ❓1
 * 👎💵 Julia Gorton
 * ❓💵 Julia Gorton
 
-### [HB 1562](/bill/2025-26/hb/1562/) - Diaper changing stations 👍1  
+### [HB 1562](/bill/2025-26/hb/1562/) - Diaper changing stations 👍2  
 * 👍 Samatha Louderback
+* 👍💵 Samantha Louderback
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 
@@ -175,13 +179,16 @@
 ### [SB 5605](/bill/2025-26/sb/5605/) - Microenterprise home kitchen  👎1 
 * 👎💵 Samantha Louderback
 
-## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  ❓1
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  ❓1
 * ❓💵 Samantha Louderback
+
+## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
+* 👎 Sean DeWitz
 
 ## 2023-24
 
-### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  ❓1
-* ❓💵 Samantha Louderback
+### [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎1 
+* 👎 Sean DeWitz
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

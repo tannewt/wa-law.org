@@ -13,17 +13,13 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5032 Juvenile rehab. ombuds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166152&caId=26718&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166152&caId=26718&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166152&caId=26718&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33149&aId=166152&caId=26718&tId=4)
-
-#### 4 👍 - Pro
+#### 25 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Patrick Dowd - WA State Office of the Family & Children's Ombuds
 
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5032 Juvenile rehab. ombuds
 #### 16 👍 - Pro

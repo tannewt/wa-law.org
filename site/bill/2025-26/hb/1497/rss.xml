@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1497/</link>
 		<description>Updates about HB 1497</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 07:32:42 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -322,6 +322,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Anthony/Holan/2025-03-18 07:32:42</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

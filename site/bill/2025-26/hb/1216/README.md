@@ -11,6 +11,32 @@
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201216)
 
 ## Meetings
+### Tue 04/01 08:00 AM - Capital Budget (CB): PSHB 1216 - Concerning the capital budget. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* 💵Karina Patel - The Tubman Center for Health and Freedom
+* 💵Mitch Denning - Alliance of Educational Associations
+* Joe Vessey - community health center of snohomish county
+
+#### 0 👎 - Con
+
+#### 8 ❓ - Other
+Testifying:
+* 💵Erica Hallock - Start Early Washington
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Caroline Villanova - Mountains to Sound Greenway Trust
+* Jordan Rash - Backcountry Hunters and Anglers
+* 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
+* Kathryn Gardow - Chair, Public Works Board
+* Tyson Johnston - Council, Quinault Indian Nation
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
 #### 45 👍 - Pro
 Testifying:

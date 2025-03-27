@@ -38,7 +38,7 @@
 ### [HB 1464](/bill/2025-26/hb/1464/) - Home equity sharing  👎2 
 * 👎 Molly Gallagher
 
-### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍2  
 * 👍💵 Alex Hur
@@ -53,7 +53,7 @@
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
-### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍2  
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
@@ -71,7 +71,7 @@
 
 ### [SB 5254](/bill/2025-26/sb/5254/) - Health care information 👍1  
 
-### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍2  
 
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher

@@ -43,8 +43,9 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍4  
 * 👍 Moji Igun
+* 👍💵 Heather Trim
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍3  
 * 👍💵 Heather Trim
@@ -66,8 +67,9 @@
 
 ### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware  👎1 
 
-### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials  👎1 
+### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials  👎1 ❓1
 * 👎💵 Heather Trim
+* ❓💵 Heather Trim
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍5  
 * 👍💵 Heather Trim

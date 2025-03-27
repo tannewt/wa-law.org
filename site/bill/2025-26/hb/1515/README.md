@@ -13,15 +13,15 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): 2SHB 1515 Alcohol service in public
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166130&caId=26649&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166130&caId=26649&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166130&caId=26649&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166130&caId=26649&tId=4)
+#### 17 👍 - Pro
+Testifying:
+* Marc Jones - Seattle Center
+* Zack Zappone - City of Spokane Council Member
+* Gloria Connors - SeaFWC26 Local Organizing Committee
+* Michael Hogan - [Port of Bellingham](/org/port_of_bellingham/)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 0 👍 - Pro
-
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

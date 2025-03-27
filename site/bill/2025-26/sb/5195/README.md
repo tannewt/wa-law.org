@@ -10,6 +10,87 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205195)
 
 ## Meetings
+### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: All other. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Erica Hallock - Start Early Washington
+* Kathryn Gardow - Chair, Public Works Board
+
+### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Higher education. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Housing, behavioral health, and human services. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Karina Patel - The Tubman Center for Health and Freedom
+* Joe Vessey - community health center of snohomish county
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+
+### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: K-12 public schools.  (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Mitch Denning - Alliance of Educational Associations
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Natural resources. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 5 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Caroline Villanova - Mountains to Sound Greenway Trust
+* Jordan Rash - Backcountry Hunters and Anglers
+* 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
+* Tyson Johnston - Council, Quinault Indian Nation
+
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: All other. (Remote Testimony Available).
 #### 11 👍 - Pro
 Testifying:

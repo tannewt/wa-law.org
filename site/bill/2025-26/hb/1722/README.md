@@ -12,15 +12,20 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): HB 1722 Secondary career education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166132&caId=26651&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166132&caId=26651&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166132&caId=26651&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166132&caId=26651&tId=4)
+#### 253 👍 - Pro
+Testifying:
+* Rosalia Watson - Clover Park Technical College, Nursing Assistant Certified Programs
+* Angela Nemeth - Tri-Tech Skills Center
+* Ethan Wodehouse - Tri-Tech Skills Center
+* Nathen Allington - Tri-Tech Skills Center
+* Paul Randall - Tri-Tech Skills Center
+* Jinho (Jacob) Lee
+* Krishna Pratheek Madamala
+* Walter Lumpkin
+* Charlie Brown - Washington Skills Centers Directors
+* Katelyn Kean - Northwest Maritime
 
-#### 13 👍 - Pro
-
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -3,8 +3,9 @@
 
 ### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  ❓1
 * 👍💵 Aaron Czyzewski
+* ❓💵 Aaron Czyzewski
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍3  
 
@@ -31,6 +32,9 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  
 * 👍💵 Aaron Czyzewski
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓💵 Aaron Czyzewski
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 

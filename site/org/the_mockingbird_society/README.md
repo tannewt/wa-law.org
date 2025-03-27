@@ -32,7 +32,7 @@
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 * 👍 Jalayna Ruland
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍2  
 
 ### [HB 1830](/bill/2025-26/hb/1830/) - Concerning record checks for certain volunteers and contractors who will have access to children or persons with developmental disabilities. 👍1  
 
@@ -52,7 +52,7 @@
 * 👍 Rocket Garcia
 * 👍 Jalayna Ruland
 
-### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍1  
+### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
 * ❓💵 Samuel Martin

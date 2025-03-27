@@ -33,8 +33,9 @@
 
 ### [HB 1112](/bill/2025-26/hb/1112/) - Removing the city residency requirement for judges pro tempore in municipalities with a population of more than 400,000 inhabitants. 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎2 
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎3 
 * 👎💵 Candice Bock
+* 👎💵 Derrick Nunnally
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
@@ -64,7 +65,8 @@
 * ❓💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
@@ -72,15 +74,17 @@
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 * 👍💵 Carl Schroeder
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 ❓1
 * 👎💵 Candice Bock
+* ❓💵 Candice Bock
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎2 
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎2 ❓1
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
+* ❓💵 Derrick Nunnally
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 * ❓💵 Carl Schroeder
@@ -151,7 +155,7 @@
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 * 👎💵 Candice Bock
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍4  
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
@@ -176,7 +180,8 @@
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍💵 Candice Bock
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎3 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
@@ -231,6 +236,8 @@
 
 ### [HB 1835](/bill/2025-26/hb/1835/) - Aligning cannabis licensing decisions by the liquor and cannabis board with local zoning ordinances. 👍1  
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍💵 Carl Schroeder
 
@@ -270,6 +277,9 @@
 
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
 * ❓💵 Candice Bock
+
+### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
+* 👍💵 Carl Schroeder
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -319,6 +329,9 @@
 * ❓💵 Carl Schroeder
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+* ❓💵 Candice Bock
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Candice Bock
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  ❓1

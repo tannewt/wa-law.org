@@ -3,6 +3,9 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
+* 👍 Scott Kennedy
+
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
 * ❓ Scott Kennedy
 

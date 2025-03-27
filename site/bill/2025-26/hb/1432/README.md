@@ -14,19 +14,33 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1432 Mental health services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166330&caId=26637&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166330&caId=26637&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166330&caId=26637&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166330&caId=26637&tId=4)
-
-#### 101 👍 - Pro
+#### 856 👍 - Pro
 Testifying:
 * Madison Hultquist
+* Brian Allender
+* Samantha Mossuto - " I Did The Time"
+* Terri Mosher - " I Did The time"
+* Delika Steele - Office of the Insurance Commissioner
+* 💵London Breedlove - Washington State Psychological Association
+* 💵Anna Nepomuceno - NAMI WA
+* Jürgen Unützer - UW Medicine
+* Jake Swanton - Inseparable
+* Mark Griffin
+* Jennifer Cohen
+* 💵Chetan Soni - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Ben Packard - Washington State Society for Clinical Social Work
 
-#### 0 👎 - Con
+#### 67 👎 - Con
+Testifying:
+* Anthony Holan
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Sasha Waring - Molina Healthcare
+* Donna Baker-Miller - MCG Health
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1432 Mental health services
 #### 529 👍 - Pro

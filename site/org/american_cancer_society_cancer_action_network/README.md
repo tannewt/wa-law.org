@@ -6,8 +6,9 @@
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 ❓1
 * ❓ Audrey Miller Garcia
+* 👎 Audrey Miller García
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
@@ -16,6 +17,9 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Audrey Miller Garcia
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
+* 👎 Audrey Miller Garcia
 
 ### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍2  
 

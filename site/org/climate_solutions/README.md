@@ -7,10 +7,14 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Altinay Karasapan
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍💵 Leah Missik
 
-### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
@@ -46,7 +50,7 @@
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 * 👍💵 Leah Missik
 
-### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍2  
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍3  
 * 👍💵 Leah Missik
 * 👍💵 Altinay Karasapan
 
@@ -67,8 +71,12 @@
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎2 
 * 👎💵 Leah Missik
 
-### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  ❓1
 * 👍💵 Leah Missik
+* ❓💵 Leah Missik
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓💵 Altinay Karasapan
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 

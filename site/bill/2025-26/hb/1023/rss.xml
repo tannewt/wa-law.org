@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1023/</link>
 		<description>Updates about HB 1023</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Mar 2025 08:08:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -114,7 +114,7 @@
 			<guid isPermaLink="false">testifier/D'Arcy/Harrison/2025-01-25 12:38:20</guid>
 		</item>
 		<item>
-			<title>👍Tammie Perreault - Washington State Association of Head Start &amp; ECEAP</title>
+			<title>👍Tammie Perreault - Cosmetologists of Washington United</title>
 			<description>Tammie Perreault signed up to testify Pro.</description>
 			<pubDate>Tue, 28 Jan 2025 03:22:28 GMT</pubDate>
 			<category>testifier</category>
@@ -193,6 +193,38 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-11/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Maria Tobin - South Sound Military and Communities Partnership</title>
+			<description>Maria Tobin signed up to testify Pro. They are signed up to represent South Sound Military and Communities Partnership.</description>
+			<pubDate>Sun, 23 Mar 2025 08:27:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maria/Tobin/2025-03-23 08:27:05</guid>
+		</item>
+		<item>
+			<title>❓Todd Myers - Washington Policy Center</title>
+			<description>Todd Myers signed up to testify Other. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Sun, 23 Mar 2025 09:53:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Todd/Myers/2025-03-23 09:53:04</guid>
+		</item>
+		<item>
+			<title>❓💵Brooke Davies - Cosmetologists of Washington United</title>
+			<description>Brooke Davies signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/cosmetologists_of_washington_united/"&gt;Cosmetologists of Washington United&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Mar 2025 07:35:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brooke/Davies/2025-03-24 07:35:16</guid>
+		</item>
+		<item>
+			<title>👍Tammie Perreault - Department of Defense</title>
+			<description>Tammie Perreault signed up to testify Pro. They are signed up to represent Department of Defense.</description>
+			<pubDate>Mon, 24 Mar 2025 08:08:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammie/Perreault/2025-03-24 08:08:35</guid>
 		</item>
 	</channel>
 </rss>

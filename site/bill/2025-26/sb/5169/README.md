@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5169 Testimony of children
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166026&caId=26617&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166026&caId=26617&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166026&caId=26617&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166026&caId=26617&tId=4)
-
-#### 17 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Anita Petra - Benton County Prosecuting Attorney Office
 * Coreen Schnepf - Pierce County Prosecuting Attorney's Office

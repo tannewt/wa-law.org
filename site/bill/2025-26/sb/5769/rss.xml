@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5769/</link>
 		<description>Updates about SB 5769</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 18:11:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -138,6 +138,13 @@
 			<pubDate>Mon, 10 Mar 2025 18:11:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205769</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,7 +11,7 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎2 
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.   ❓1
 
@@ -28,6 +28,9 @@
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting   ❓1
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
+* ❓ Lacey Jane Wolfe
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 
@@ -52,7 +55,7 @@
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍 Bianca Siegl
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
@@ -80,11 +83,11 @@
 
 ### [HB 1996](/bill/2025-26/hb/1996/) - Behavioral health diversion   ❓1
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓2
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓3
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 

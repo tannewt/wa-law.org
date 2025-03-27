@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Local Government (LG): SB 5288 County board vacancies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33173&aId=166263&caId=26709&tId=4)
-
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Commissioner Art Swannack
 
 #### 0 👎 - Con
 

@@ -30,13 +30,16 @@
 
 ### [SB 5365](/bill/2025-26/sb/5365/) - Library funding alternate 👍1  
 
-## [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍3  
+### [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍3  
 * 👍💵 Carolyn Logue
+
+## [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed.   ❓1
+* ❓💵 Carolyn Logue
 
 ## 2023-24
 
-### [SB 5551](/bill/2023-24/sb/5551/) - School library info and tech 👍3  
-* 👍💵 Carolyn Logue
+### [SB 5637](/bill/2023-24/sb/5637/) - Media literacy & civic ed.   ❓1
+* ❓💵 Carolyn Logue
 
 ### [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍5  
 * 👍 Sarah Logan

@@ -18,21 +18,24 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1483 Digital electronics/repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166409&caId=26632&tId=4)
-
-#### 144 👍 - Pro
+#### 916 👍 - Pro
 Testifying:
 * Steven Rhine - Rhine Labs
 * Eduard Sinelnikov
 * Antoni Plocica
+* Steven Bock - Computer Programmer / Digital Rights Advocate
+* Khalid Pagan - Lenovo US
+* Steven Rhine - Rhine Labs
+* 💵Charlie Fisher - Public Interest Research Group
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Sean Sullivan - Google
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Darbi Gottlieb - AdvaMed
 
 ### Fri 01/31 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1483 Digital electronics/repair
 #### 525 👍 - Pro

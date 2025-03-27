@@ -10,17 +10,20 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): ESHB 1332 Transp. network companies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33144&aId=166131&caId=26650&tId=4)
+#### 379 👍 - Pro
+Testifying:
+* Nurayne Fofana - Drivers Union
+* Omar Ali
+* Tsegai Abraha
 
-#### 0 👍 - Pro
+#### 553 👎 - Con
+Testifying:
+* Zahid Arab - Uber
+* TaraLyn Fray
+* Jon Walker - Lyft
+* 💵Vicki Christophersen - TechNet
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 31 ❓ - Other
 
 ### Wed 01/29 08:00 AM - Labor & Workplace Standards (LAWS): HB 1332 Transp. network companies
 #### 110 👍 - Pro

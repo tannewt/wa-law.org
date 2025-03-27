@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Housing (HSG): EHB 1403 Condominium construction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165898&caId=26553&tId=4)
-
-#### 200 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * Mike Nykreim - Newport West LLC
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -30,6 +24,7 @@ Testifying:
 * Brady Nordstrom
 * Nicholas Carr - Office of the Governor
 * Sandesh Sadalge - Councilmember, City of Tacoma
+* Bill Cornell - Preg O'Donnell Gillette
 
 #### 7 👎 - Con
 Testifying:

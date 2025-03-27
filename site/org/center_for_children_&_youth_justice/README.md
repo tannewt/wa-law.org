@@ -48,7 +48,7 @@
 
 ### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
-### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍2  
+### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍3  
 * 👍 Morgan Silverman
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
@@ -76,11 +76,11 @@
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎2 
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎1 
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎2 
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

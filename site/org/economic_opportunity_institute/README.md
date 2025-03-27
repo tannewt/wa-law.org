@@ -20,6 +20,8 @@
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1
 * ❓ Sam Hatzenbeler
 
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
+
 ### [HB 1626](/bill/2025-26/hb/1626/) - PFML grants/school districts  👎1 
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
@@ -46,6 +48,9 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Sam Hatzenbeler
+
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
@@ -58,9 +63,12 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
 
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures  👎1 
+* 👎💵 Gabriela Quintana
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
-### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
 
 ### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍2  
 * 👍💵 Gabriela Quintana
@@ -78,11 +86,15 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
+
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+
+## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemptions 👍2  
+### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

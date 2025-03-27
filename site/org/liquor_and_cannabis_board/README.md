@@ -1,12 +1,15 @@
 # Liquor and Cannabis Board
 ## 2025-26
 
-## [HB 1067](/bill/2025-26/hb/1067/) - Cannabis/dept of agriculture   ❓1
+### [HB 1067](/bill/2025-26/hb/1067/) - Cannabis/dept of agriculture   ❓1
+* ❓ Marc Webster
+
+## [HB 2037](/bill/2025-26/hb/2037/) - Cannabis   ❓1
 * ❓ Marc Webster
 
 ## 2023-24
 
-### [HB 1067](/bill/2023-24/hb/1067/) - Cannabis/dept of agriculture   ❓1
+### [HB 2037](/bill/2023-24/hb/2037/) - Cannabis   ❓1
 * ❓ Marc Webster
 
 ### [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  

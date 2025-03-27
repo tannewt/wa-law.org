@@ -16,17 +16,27 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1503 Digital equity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166088&caId=26626&tId=4)
+#### 136 👍 - Pro
+Testifying:
+* 💵Amber Carter - [Washington Workforce Association](/org/washington_workforce_association/)
+* Sarah Leon
+* Erica Limón-Trefielo - Communities in Schools
+* Nancy Chang - Skagit County resident
+* Sonee Kulaga Wilson - Franklin County resident
+* David Keyes - King County resident
+* Sai Samineni - King County resident
+* Will Booth - Creative Pathways
+* 💵Blake Baldwin - Thriving Together NCW
+* Sarah León - King County resident
 
-#### 0 👍 - Pro
+#### 778 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Patrick Stickney - Washington State Office of Equity
+* Dave Pringle - Dept. of Commerce
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1503 Digital equity
 #### 59 👍 - Pro

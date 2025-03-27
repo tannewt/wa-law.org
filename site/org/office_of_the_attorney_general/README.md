@@ -1,6 +1,9 @@
 # Office of the Attorney General
 ## 2025-26
 
+### [HB 1133](/bill/2025-26/hb/1133/) - Sexually violent predators 👍1  
+* 👍 Adam Eitmann
+
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  

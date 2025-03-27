@@ -14,20 +14,28 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1589 Health carriers & providers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166328&caId=26635&tId=4)
-
-#### 396 👍 - Pro
+#### 1176 👍 - Pro
 Testifying:
 * Jessica Schule
 * 💵Patrick Connor - NFIB
+* Toni Napoli - Counseling West Seattle
+* Gloria Voeller - Puget Sound Family Health
+* Melissa Seipel
+* Lisa Egbert - WSDA
+* Angela Ross - WA Association of Naturopathic Physicians
+* Kendra Holloway - Washington Speech-Language-Hearing Association
+* 💵Lori Grassi - WA State Chiropractic Association (and large coalition of independent providers)
+* Shannon Thompson - Mental Health Counselors Association
+* Meg Curtin Rey-Bear
 
-#### 0 👎 - Con
+#### 66 👎 - Con
+Testifying:
+* Chris Bandoli - Cigna
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Marissa Ingalls - Coordinated Care
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1589 Health carriers & providers
 #### 879 👍 - Pro

@@ -29,15 +29,16 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 * 👍💵 Sarah Nagy
 
 ### [HB 1229](/bill/2025-26/hb/1229/) - Persistent offenders 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍5  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍6  
 * 👍💵 Antonio Ginatta
+* 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍3  
@@ -107,6 +108,8 @@
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5131](/bill/2025-26/sb/5131/) - Religious celebrations/DOC 👍1  
+
+### [SB 5182](/bill/2025-26/sb/5182/) - Incarcerated parents 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5632 Confidentiality/interstate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33050&aId=166024&caId=26615&tId=4)
-
-#### 249 👍 - Pro
+#### 256 👍 - Pro
 Testifying:
 * Mo West
 * Adam Eitmann - Attorney General's Office
@@ -30,7 +24,7 @@ Testifying:
 * Dr. Crystel Beal
 * Mo West
 
-#### 1751 👎 - Con
+#### 1978 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

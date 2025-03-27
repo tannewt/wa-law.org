@@ -4,12 +4,17 @@
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍2  
 * 👍💵 Malou Chavez
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍2  
+* 👍💵 Malou Chavez
+
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Vanessa Gutierrez
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍4  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍5  
 * 👍 Tim Warden-Hertz
+* 👍 Lesly Avila
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍4  
 * 👍💵 Malou Chavez
@@ -34,6 +39,9 @@
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
+* ❓ Malou Chávez
 
 ### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎1 
 * 👎💵 Malou Chavez

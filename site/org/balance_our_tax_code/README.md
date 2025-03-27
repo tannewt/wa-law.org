@@ -7,13 +7,14 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Emma Scalzo
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
 * 👍💵 Emma Scalzo
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
-* 👍💵 Emma Scalzo
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

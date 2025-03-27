@@ -4,6 +4,8 @@
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎 Ryan Likkel
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
 
 ### [HB 1723](/bill/2025-26/hb/1723/) - School construction projects  👎1 

@@ -14,19 +14,30 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - Environment, Energy & Technology (ENET): E2SHB 1912 Agricultural fuel/CCA ex.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33124&aId=166408&caId=26627&tId=4)
-
-#### 6 👍 - Pro
+#### 499 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* Ryan Poe - [Washington Association of Wheat Growers](/org/washington_association_of_wheat_growers/)
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* 💵Mark Streuli - WA Potato and Onion Assoc, WA Cattlemen's Assoc
+* Jay Gordon - Washington State Dairy Federation
+* Travis Coulter - Co-Energy
+* 💵David Ducharme - Washington State Tree Fruit Association
+* Joel Creswell - Washington State Department of Ecology
+* 💵Kate Brouns - Governor Ferguson's Policy Office
+* Ben Buchholz - NW Ag CoopCouncil, WA Friends of Farms and Forests, Far West Agribusiness Assoc, NW Grain Growers
 
-#### 0 👎 - Con
+#### 117 👎 - Con
+Testifying:
+* Bridget Coon - WA Farm Bureau/Bar U Ranch
+* Bob Landgren - Vanguard Nursery
+* Dennis Lagler - Lagler Dairy
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Jessica Spiegel - WSPA
+* Jon Paul Driver - DD Farms
+* Dave Pringle - Washington State Department of Commerce
 
 ### Wed 03/19 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1912 Agricultural fuel/CCA ex.
 #### 266 👍 - Pro

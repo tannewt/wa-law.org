@@ -11,20 +11,28 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1813 Medical assist reprocurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33182&aId=166329&caId=26636&tId=4)
-
-#### 75 👍 - Pro
+#### 219 👍 - Pro
 Testifying:
 * Mike Jackson - Clark-Cowlitz Fire Rescue
 * Rachel Grant - Thurston County Commissioner
+* Wendy Sisk - Peninsula Behavioral Health & WA Council for Behavioral Health
+* Richard Uri - [San Juan County](/org/san_juan_county/)
+* Caitlin Safford - Office of the Governor, Sr. Policy Advisor
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* Commissioner Mark Ozias - WSAC / Clallam County Commissioner
+* Chief Cole Langdon - Lynnwood Police Department
+* Dennis Neal - Northwest Resources II Inc
+* Bradley Banks - WA State Association of Counties & Behavioral Health Administrative Services Organizations
+* Steve O'Ban - Former State Senator
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Dunia Faulx - Elevance Health
+* 💵Kristen Federici - Molina Healthcare
+* Marissa Ingalls - Coordinated Care
+* 💵Brian Enslow - in for Dunia Faulx
 
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1813 Medical assist reprocurement
 #### 139 👍 - Pro

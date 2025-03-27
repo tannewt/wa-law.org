@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5021 Retention of court exhibits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166372&caId=26702&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166372&caId=26702&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166372&caId=26702&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33187&aId=166372&caId=26702&tId=4)
-
-#### 6 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Tim Fitzgerald - Washington State Association of County Clerks
+* Catherine Cornwall - King County Superior Court Clerk
+* 💵Michael Shaw - [Washington Association of County Officials](/org/washington_association_of_county_officials/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Michael Brunson
 
 #### 0 ❓ - Other
 

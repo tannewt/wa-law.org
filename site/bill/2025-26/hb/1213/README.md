@@ -20,17 +20,35 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): E2SHB 1213 Paid family & medical leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166123&caId=26642&tId=4)
+#### 208 👍 - Pro
+Testifying:
+* Claudia Franson
+* 💵Maggie Humphreys - MomsRising
+* Margarita Mota
+* Piedad Belinda Brito Guadalupe
+* Joe Kendo - Washington State Labor Council AFL-CIO
+* Katherine Chamberlain - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Nich Gullickson - WA State Council of Firefighters
 
-#### 32 👍 - Pro
+#### 1132 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
+* 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
+* Andra Mobley - A & J Market
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* Sandra Mochizuki
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Kerri Lonergan-Dreke - Lombardi’s Italian Restaurant
+* 💵Amber Carter - WA Retail
+* Sandra Brock
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Anthony Holan
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1213 Paid family & medical leave
 #### 193 👍 - Pro

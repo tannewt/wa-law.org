@@ -199,6 +199,8 @@
 
 ### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍2  
 
+### [HB 1562](/bill/2025-26/hb/1562/) - Diaper changing stations 👍1  
+
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
 
 ### [HB 1567](/bill/2025-26/hb/1567/) - Health care administrators 👍1  
@@ -282,6 +284,9 @@
 ### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍1  
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
+
+### [HB 2012](/bill/2025-26/hb/2012/) - Transition to kindergarten  👎1 
+* 👎💵 Nasue Nishida
 
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax 👍1  
 
@@ -384,12 +389,13 @@
 
 ### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 👍2  
 
-### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍2  
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 * 👍💵 Nasue Nishida
 
-### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍2  
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍7  ❓2
@@ -515,7 +521,7 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
-### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍3  
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
@@ -554,6 +560,8 @@
 * ❓💵 Nasue Nishida
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
+
+### [SB 5579](/bill/2025-26/sb/5579/) - Health/contract terminations 👍1  
 
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍💵 Julie Salvi
@@ -594,11 +602,24 @@
 
 ### [SB 5772](/bill/2025-26/sb/5772/) - Student enrollment  👎1 
 
-### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎4 
+* 👎💵 Larry Delaney
+* 👎💵 Larry Delaney
+* 👎 Suzanne Southerland
+
+### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎3 
+* 👎💵 Larry Delaney
 * 👎💵 Larry Delaney
 
-### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎2 
-* 👎💵 Larry Delaney
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

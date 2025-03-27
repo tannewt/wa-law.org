@@ -8,19 +8,25 @@
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): EHB 1747 Job applicants and employees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166125&caId=26644&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166125&caId=26644&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166125&caId=26644&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33143&aId=166125&caId=26644&tId=4)
-
-#### 52 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Nan Gibson - JP Morgan Chase
+* Jim Campbell - Rainier Club
+* Catherine Goetz
+* Beth Avery - National Employment Law Project
+* Sophia Thomas
+* 💵Paul Dillon - City of Spokane / Council President Pro Tem
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 
-#### 0 👎 - Con
+#### 744 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Sandra Brock
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/11 10:30 AM - Labor & Workplace Standards (LAWS): HB 1747 Job applicants and employees
 #### 172 👍 - Pro

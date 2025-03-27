@@ -27,7 +27,7 @@
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍3  
 
-### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍2  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
@@ -55,13 +55,14 @@
 
 ### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍2  
 
-## [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
+### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 * 👍💵 Aaron Yared
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5617](/bill/2023-24/sb/5617/) - Juvenile detention/CHINS 👍1  
-* 👍💵 Aaron Yared
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

@@ -8,18 +8,34 @@
 
 ## Meetings
 ### Tue 03/25 08:00 AM - Finance (FIN): HB 2037 Cannabis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166180&caId=26697&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166180&caId=26697&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166180&caId=26697&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33153&aId=166180&caId=26697&tId=4)
+#### 8 👍 - Pro
+Testifying:
+* Andy Brassington
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Paula Sardinas - FMSGS/WBBA
 
-#### 0 👍 - Pro
-
-#### 4 👎 - Con
+#### 141 👎 - Con
 Testifying:
 * Jferrich Oba - Black Excellence In Cannabis
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
+* Bethany Rondeaux - Falcanna
+* Jason Hutto - Cultivar Farms
+* 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Brandon Park
+* Bill Wagenseller - Washington Bud Company
+* Shawn DeNae Wagenseller - Washington Bud Company
+* Jana House - Evergreen Market
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Anthony Holan
+* Carlondo Mitchell - 5th House Farms
+* Shea Hynes - Lux Pot Shop
+* Logan Bowers
+* Brad Bekendam
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Marc Webster - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)
+* 💵Ezra Eickmeyer - Producers nw
+* Kate Armstrong - Department of Revenue

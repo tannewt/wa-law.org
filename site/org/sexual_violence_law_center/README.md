@@ -1,6 +1,8 @@
 # Sexual Violence Law Center
 ## 2025-26
 
+### [HB 1014](/bill/2025-26/hb/1014/) - Implementing recommendations of the 2023 child support schedule work group. 👍1  
+
 ### [HB 1118](/bill/2025-26/hb/1118/) - Concerning restoration of the right to possess a firearm.  👎1 
 * 👎💵 Elizabeth Hendren
 
@@ -29,7 +31,8 @@
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
-### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍2  
+* 👍💵 Elizabeth Hendren
 * 👍💵 Elizabeth Hendren
 
 ### [SB 5202](/bill/2025-26/sb/5202/) - Judicial orders 👍2  

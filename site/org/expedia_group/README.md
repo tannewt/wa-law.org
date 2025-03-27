@@ -9,13 +9,16 @@
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
-## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 * 👍💵 Brent Ludeman
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+* 👎 Richard de Sam Lazaro
 
 ## 2023-24
 
-### [SB 5576](/bill/2023-24/sb/5576/) - Affordable housing funding 👍1  
-* 👍💵 Brent Ludeman
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+* 👎 Richard de Sam Lazaro
 
 ### [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 * 👍 Krista Bentley

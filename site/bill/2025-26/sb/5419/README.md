@@ -9,17 +9,17 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Consumer Protection & Business (CPB): SSB 5419 Reports of fire losses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166019&caId=26738&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166019&caId=26738&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166019&caId=26738&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33113&aId=166019&caId=26738&tId=4)
-
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* MIKE BUCY - Stevens Fire District 1
+* Bryon Welch - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jean Leonard - WA Insurers
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 
 ### Wed 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5419 Reports of fire losses
 #### 4 👍 - Pro

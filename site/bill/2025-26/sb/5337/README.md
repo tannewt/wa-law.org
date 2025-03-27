@@ -14,19 +14,23 @@
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Health Care & Wellness (HCW): E2SSB 5337 Memory care services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33120&aId=166061&caId=26742&tId=4)
-
-#### 1 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Teresa Matthews
+* 💵Glen Melin - LeadingAge Washington
+* 💵Brad Forbes - Alzheimer's Association
+* Anthony Ledesma
+* Demas Nesterenko - SEIU775
+* Ginger Jackson
+* Marco Aguilar
+* Jennifer Furch
+* Judy Underhill
+* Gina Marie Beaudette
+* Cathleen MacCaul - AARP Washington State
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5337 Memory care services
 #### 3 👍 - Pro

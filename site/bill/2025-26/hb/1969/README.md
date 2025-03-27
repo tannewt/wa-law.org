@@ -9,17 +9,14 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - State Government & Elections (SGE): SHB 1969 Law enf. aviation support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166200&caId=26675&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166200&caId=26675&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166200&caId=26675&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166200&caId=26675&tId=4)
-
-#### 15 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Patti Cole-Tindall - King County Sheriff
+* David Ellis - Spokane Valley Police Department
+* JOHN NOWELS - SPOKANE COUNTY SHERIFF'S OFFICE
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

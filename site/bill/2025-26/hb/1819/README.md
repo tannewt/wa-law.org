@@ -14,19 +14,18 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1819 Transmission capacity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166089&caId=26628&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166089&caId=26628&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166089&caId=26628&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166089&caId=26628&tId=4)
-
-#### 2 👍 - Pro
+#### 161 👍 - Pro
 Testifying:
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Nicolas Garcia - WPUDA
+* 💵Peter Godlewski - Association Of Washington Business
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Peter Brehm - CTC Global
 
 ### Tue 02/11 04:00 PM - Environment & Energy (ENVI): HB 1819 Transmission capacity
 #### 110 👍 - Pro

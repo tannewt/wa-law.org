@@ -24,12 +24,14 @@
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
-## [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍2  
+## [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍4  
+* 👍 Roman Daniels-Brown
 * 👍 Roman Daniels-Brown
 
 ## 2023-24
 
-### [SB 5656](/bill/2023-24/sb/5656/) - Aquatic lease inflation rate 👍2  
+### [SB 5656](/bill/2023-24/sb/5656/) - Aquatic lease inflation rate 👍4  
+* 👍 Roman Daniels-Brown
 * 👍 Roman Daniels-Brown
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution  👎4 

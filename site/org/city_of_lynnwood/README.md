@@ -4,7 +4,7 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 * ❓ Karl Almgren
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 ❓1
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓2
 * ❓ Karl Almgren

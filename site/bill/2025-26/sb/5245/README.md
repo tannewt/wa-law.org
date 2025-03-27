@@ -14,17 +14,11 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Local Government (LG): SSB 5245 Legislature oath of office
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166270&caId=26733&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166270&caId=26733&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166270&caId=26733&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33174&aId=166270&caId=26733&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * 💵Derek Young - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

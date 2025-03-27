@@ -37,15 +37,36 @@
 
 ## Meetings
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): E2SHB 1163 Firearm purchase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165997&caId=26664&tId=4)
+#### 911 👍 - Pro
+Testifying:
+* 💵Jean Hill - Washington State Catholic Conference
+* Angel Stokes
+* Finlley Gonzales
+* Alex McCourt - Johns Hopkins
+* Jim Parsons
+* Mike Van Dyke
+* Jennifer Dolan-Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Rebecca Elbaum
+* Tahana Salvadalena
+* 💵Jean Hill - WA State Catholic Conference (WSCC)
+* Mahika Malladi
+* Megan Moore - WA State Public Health Association
+* Diane Studley
+* Erin Cizmas
+* Karyn Brownson - King County Public Health
+* April Schentrup
+* Liz Hjelmesth
+* 💵Margaret Heldring - Grandmothers for Gun Responsibility
+* Dr. Gwen Loosmore - WA PTA
+* Kate Telis - Everytown
+* Paula Barnes
+* Add Madsen
+* Angel Stokes
+* Finlley Gonzales
+* Nick Brown - Attorney General's Office
+* Nancy Dombrowski
 
-#### 6 👍 - Pro
-
-#### 1972 👎 - Con
+#### 8255 👎 - Con
 Testifying:
 * Jane Milhans
 * Jonathan Mendoza
@@ -115,11 +136,95 @@ Testifying:
 * Ty Kirkham
 * Alexander Dominguez
 * Elizabeth Bienas
+* Michael McKinley
 * Samuel Kniveton
 * Billy Urquhart
 * Bronc Hutsell
+* Roy Lafromboise - N/a
+* Robert Bates
+* Eric Pratt - America
+* Natalie Schubert
+* Kristopher Page
+* Michael Schubert
+* Joseph Wittig
+* brian keelean - Washington State Rifle and Pistol Association,  Tacoma Rifle and Revolver Club,  Paul Bunyan Sports.
+* 💵Troy Nichols - National Shooting Sports Foundation
+* Charles McElrath
+* Anthony Mixer - Washington State Young Republicans
+* Kallee Orton
+* Dylan Ouellet
+* Jacob Mack
+* Jeff Greinke
+* Shawn Downs
+* Damon Samoska
+* Dylan VanOgle
+* Thomas Kosloske
+* Pedro Lopes
+* Pete Singh
+* Eric Stanton
+* Shannon Stanton
+* Mark Williams
+* Ken Pontelandolfo
+* Michael moore - REPRESENT As a  CITIZENS NO ON HB 1163
+* Jeremy Shearer - Second amendment
+* Cesar Matute
+* Rob Dahl
+* Enrique Rico - An individual
+* Wayne J cope
+* Dorian Olson
+* Jeremy Ball
+* Mario Brusasco
+* Thomas DellaRocco
+* Cody Shipley
+* Aurora Skipper
+* Kirk Struble - [Ducks Unlimited](/org/ducks_unlimited/)
+* Rachell Nordberg
+* Sandy Hoar
+* Nicholas snoey
+* Alex Dorr - Washington Gun Rights
+* Robert Logsdon
+* Isaac Stowers
+* Randall Chapman
+* Chad Marlow
+* Bryan Ostbye
+* Alina Dillon
+* Thomas Olson
+* Talon Sorensen
+* Linda Wow
+* Jose Garcia
+* Jacob Smith
+* Anthony Holan
+* Elizabeth VanSteertegem - Grandmother for self-defense
+* Robert Waters
+* Liza Simmonds
+* Spencer Lieser
+* Chris Jarnutowski
+* Thomas Godsil
+* Brett Carvo
+* 💵Aoibheann Cline - NRA
+* Jeffrey Slotnick - Setracon Inc.
+* 💵Troy Nichols - National Shooting Sports Foundation
+* Dan Mitchell - WA Civil Rights Association
+* Jane Milhans
+* Robin Ball
+* Rachel Nicacio
+* Amanda McKinney - Yakima County Commissioner
+* Elizabeth Bienas
+* Francis Plumb
+* TaraLyn Fray
+* Micheal Picon II
+* Chris denham
+* Darryl Davis
+* Teodorin Morca
+* Richard Gaeth
+* Melissa Cory
+* Tom Shofner
+* Fabian Rubenstein
+* Anthony Skeels
+* Tarisa Childers
+* Robert Wilson
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Cory Causey
 

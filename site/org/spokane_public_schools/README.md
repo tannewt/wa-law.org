@@ -25,11 +25,13 @@
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
-## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
+
+## [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
 
 ## 2023-24
 
-### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎1 
+### [SB 5790](/bill/2023-24/sb/5790/) - CTC employee COLAs  👎1 
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
 

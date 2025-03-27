@@ -14,7 +14,7 @@
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 * 👍 Josh McDonald
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍 Josh McDonald
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍2  
@@ -49,11 +49,13 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 
-## [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
+### [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
+
+## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
 
 ## 2023-24
 
-### [SB 5777](/bill/2023-24/sb/5777/) - Payment card processing/tax 👍1  
+### [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎1 
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓ Josh McDonald

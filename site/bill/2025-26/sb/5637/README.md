@@ -13,20 +13,32 @@
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Education (ED): SB 5637 Media literacy & civic ed.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165974&caId=26694&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165974&caId=26694&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165974&caId=26694&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33103&aId=165974&caId=26694&tId=4)
-
-#### 5 👍 - Pro
+#### 300 👍 - Pro
 Testifying:
 * Dee Anne Finken - League of Women Voters of Washington
 * Shelby Reynolds - Action for Media Education
+* Jen Ligot
+* Nancy Lenihan - Washington State Council for Social Studies
+* Ryan Hauck
+* Susie Gerard
+* Sabina Kolovyansky - Washington Legislative Youth Advisory Council
+* Eleanor Lenihan
+* Kireeti Kompella - Escape Velocity Robotics
+* Anoushka Oka
+* Sana Hoque
+* Abby Sirois - Lake Washington High School
+* Adi Hurvitz - Lake Washington High School
+* Kate Fluegel - Lake Washington High School
+* Danica Noble
 
-#### 0 👎 - Con
+#### 1268 👎 - Con
+Testifying:
+* L Bassett
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 
 ### Tue 02/11 08:00 AM - Early Learning & K-12 Education (EDU): SB 5637 Media literacy & civic ed.
 #### 28 👍 - Pro

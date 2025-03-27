@@ -6,8 +6,9 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ John Wolfe
 
-### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  ❓1
 * ❓ Sean Eagan
+* 👍 Sean Eagan
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 * 👍 Sean Eagan
@@ -19,7 +20,8 @@
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
-### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
+* ❓ Sean Eagan
 * ❓ Sean Eagan
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  

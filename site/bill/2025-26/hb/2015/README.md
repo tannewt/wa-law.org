@@ -20,24 +20,38 @@
 
 ## Meetings
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): ESHB 2015 Public safety funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33110&aId=165996&caId=26663&tId=4)
-
-#### 7 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mac Nicholson - [King County](/org/king_county/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Nathan Olson - Office of the Governor
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Mary Lou Pauly - Mayor, City of Issaquah
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* Jeff DeVere - WACOPS-Washington Council of Police & Sheriffs
+* Mary Robnett - Pierce County Prosecutor
+* Ryan Mello - Pierce County Executive
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Dan Eder - [City of Seattle](/org/city_of_seattle/)
+* Patti Cole-Tindall - Sheriff | King County
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
+* James Schrimpsher - Washington Fraternal Order of Police
 
-#### 492 👎 - Con
+#### 3312 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Jacob Foreman
+* Anthony Holan
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Dana Ralph - Mayor, City of Kent
+* Susan Cozzens
+* 💵Paul Benz - Wa Coalition for Police Accountability
 
 ### Thu 02/27 09:00 AM - Appropriations (APP): HB 2015 Public safety funding
 #### 21 👍 - Pro

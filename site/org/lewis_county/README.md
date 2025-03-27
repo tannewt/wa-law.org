@@ -3,6 +3,8 @@
 
 ### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
+
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters  👎1 
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 

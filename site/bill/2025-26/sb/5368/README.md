@@ -13,25 +13,22 @@
 
 ## Meetings
 ### Fri 03/21 01:30 PM - Finance (FIN): ESSB 5368 Alcohol taxes and fees study
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166047&caId=26623&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166047&caId=26623&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166047&caId=26623&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33020&aId=166047&caId=26623&tId=4)
-
-#### 8 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Carrie Tellefson - RNDC
 * Charlie Brown - [Diageo](/org/diageo/)
 * 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
+* Jack Morrow - Southern Glazers Wine and Spirits
+* Lisa Cole - Southern Glazers Wine and Spirits
 
-#### 489 👎 - Con
+#### 558 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
 #### 0 ❓ - Other
 

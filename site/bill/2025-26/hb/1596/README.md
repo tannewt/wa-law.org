@@ -17,6 +17,22 @@
 * 01/31/2025 [The Center Square](/org/the_center_square/) - [Street racers, meet your worst nightmare: A state-mandated speed-limiter | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5226c20a-e007-11ef-8075-cb6f1996bb3d.html#:~:text=House%20Bill%201596)
 
 ## Meetings
+### Mon 03/31 04:00 PM - Transportation (TRAN): ESHB 1596 Speeding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* DAVID SALE
+* Lori Markowitz
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/30 04:00 PM - Transportation (TR): HB 1596 Speeding
 #### 71 👍 - Pro
 Testifying:

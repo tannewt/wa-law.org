@@ -57,10 +57,12 @@
 * 👍 Brian Hatfield
 * 👍 Brian Hatfield
 
-### [SB 5014](/bill/2025-26/sb/5014/) - Election security 👍3  
+### [SB 5014](/bill/2025-26/sb/5014/) - Election security 👍5  
 * 👍 Kylee Zabel
 * 👍 Steve Hobbs
 * 👍 Kevin McMahan
+* 👍 Kylee Zabel
+* 👍 Steve Hobbs
 
 ### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting 👍3  
 * 👍 Steve Hobbs

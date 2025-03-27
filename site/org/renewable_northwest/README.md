@@ -7,6 +7,8 @@
 
 ### [HB 1712](/bill/2025-26/hb/1712/) - Qualified biomass facilities  👎1 
 
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
 
 ### [SB 5283](/bill/2025-26/sb/5283/) - Prohibiting the energy facility site evaluation council from preempting local laws that forbid the siting of certain storage facilities in critical areas.  👎1 

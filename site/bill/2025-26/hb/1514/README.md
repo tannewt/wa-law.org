@@ -13,15 +13,15 @@
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1514 Low carbon thermal energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166090&caId=26629&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166090&caId=26629&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166090&caId=26629&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33125&aId=166090&caId=26629&tId=4)
+#### 332 👍 - Pro
+Testifying:
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* Michael Hogan - [Port of Bellingham](/org/port_of_bellingham/)
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 557 👎 - Con
+Testifying:
+* Liza Simmonds
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

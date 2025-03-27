@@ -20,17 +20,17 @@
 
 ## Meetings
 ### Tue 03/25 01:30 PM - State Government & Elections (SGE): SHB 1321 Outside militia activities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33159&aId=166195&caId=26670&tId=4)
+#### 413 👍 - Pro
+Testifying:
+* Nick Fielden - Attorney General’s Office
 
-#### 185 👍 - Pro
-
-#### 7 👎 - Con
+#### 1304 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Laurie Layne
+* Liza Simmonds
+* TaraLyn Fray
+* ANTHONY WOLFORD
 
 #### 0 ❓ - Other
 

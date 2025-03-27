@@ -5,7 +5,7 @@
 
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks 👍1  
 
-### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies  👎1 
+### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies  👎2 
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍1  
 
@@ -13,9 +13,12 @@
 
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
+
+### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍1  
+* 👍💵 Kelly Fukai
 
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
 

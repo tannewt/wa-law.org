@@ -21,7 +21,7 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
-### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍1  
+### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍2  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍3  
 
@@ -44,6 +44,8 @@
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
@@ -57,6 +59,8 @@
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍1  
+
+### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
@@ -88,11 +92,13 @@
 
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
-## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
+### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍2  
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
