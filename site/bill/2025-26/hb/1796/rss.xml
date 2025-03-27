@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1796/</link>
 		<description>Updates about HB 1796</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 12:12:09 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Mar 2025 17:06:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -174,6 +174,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Zahra/Eslami/2025-03-19 12:12:09</guid>
+		</item>
+		<item>
+			<title>Bring On the Budgets (and the Revenue Ideas!) - WSPTA</title>
+			<description>News article "Bring On the Budgets (and the Revenue Ideas!) - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 24 Mar 2025 17:06:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%201796</guid>
 		</item>
 	</channel>
 </rss>

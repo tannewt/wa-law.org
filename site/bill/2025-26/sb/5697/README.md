@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Quick update on week 10! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/21/quick-update-on-week-10/#:~:text=5697)
+
 ## Meetings
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SB 5697 Social services/property tax
 #### 8 👍 - Pro

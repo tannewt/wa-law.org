@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Lawmakers condemn protest at home of Democratic WA legislator • Washington State Standard](https://washingtonstatestandard.com/2025/03/26/lawmakers-condemn-protest-at-home-of-democratic-wa-legislator/#:~:text=House%20Bill%201125)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201125)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201125)
 * 02/06/2025 [FOX13](/org/fox13/) - [WA lawmakers advance proposal for inmate resentencing | FOX 13 Seattle](https://www.fox13seattle.com/news/lawmakers-advance-proposal-inmate-resentencing#:~:text=House%20Bill%201125)

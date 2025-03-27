@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205785)
+
 ## Meetings
 ### Mon 03/24 04:00 PM - Ways & Means (WM): SB 5785 Higher education costs
 #### 63 👍 - Pro

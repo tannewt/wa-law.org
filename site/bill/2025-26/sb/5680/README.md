@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Session update + townhalls tomorrow - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/03/21/session-update-townhalls-tomorrow/#:~:text=SB%205680)
+
 ## Meetings
 ### Tue 03/18 01:30 PM - Consumer Protection & Business (CPB): SB 5680 Mobility equipment repair
 #### 221 👍 - Pro

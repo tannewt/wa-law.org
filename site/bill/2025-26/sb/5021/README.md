@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205021)
+
 ## Meetings
 ### Tue 03/25 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5021 Retention of court exhibits
 #### 34 👍 - Pro

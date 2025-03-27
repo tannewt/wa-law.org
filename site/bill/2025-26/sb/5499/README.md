@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/25/2025 [FOX13](/org/fox13/) - [WA officials investigate 2 fentanyl overdoses in jail | FOX 13 Seattle](https://www.fox13seattle.com/news/fentanyl-overdoses-thurston-wa-jail#:~:text=state's%20new%20law)
+
 ## Meetings
 ### Tue 02/04 01:30 PM - Human Services (HS): SB 5499 DOC body scanner program
 #### 8 👍 - Pro

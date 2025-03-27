@@ -24,10 +24,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * DAVID SALE
 * Lori Markowitz
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* Peter Bengtson - Parents of Ellen Bengtson
 
 #### 0 👎 - Con
 

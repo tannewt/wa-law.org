@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/20/2025 [The Center Square](/org/the_center_square/) - [$58 million cut could put disability centers on the chopping block in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5bba924e-ceb3-491d-b381-6940937b60b3.html#:~:text=House%20Bill%201472)
+
 ## Meetings
 ### Wed 03/19 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1472 Yakima & Rainier schools
 #### 282 👍 - Pro

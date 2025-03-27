@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/20/2025 [Axios](/org/axios/) - [Prosecutors push to clarify Washington state hate crime law - Axios Seattle](https://www.axios.com/local/seattle/2025/03/20/hate-crime-enforcement-law-change#:~:text=House%20Bill%201052)
 * 02/18/2025 [The Center Square](/org/the_center_square/) - [House passes hate crime bill amid concerns over ‘absolute freedom of conscience’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c22f46e6-ee42-11ef-8c7d-f3e5ae9ccaab.html#:~:text=House%20Bill%201052)
 * 01/16/2025 [The Center Square](/org/the_center_square/) - [Washington hate crime bill advances through House committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_96c2967e-d444-11ef-b397-0f9fc918d5b2.html#:~:text=House%20Bill%201052)
 * 01/14/2025 [The Center Square](/org/the_center_square/) - [Washington bill would broaden definition of ‘hate crime’ under existing law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fdba083e-d297-11ef-b60e-47a8dd3b96b4.html#:~:text=House%20Bill%201052)

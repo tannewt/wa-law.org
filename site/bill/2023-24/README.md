@@ -55,7 +55,7 @@
 * [HB 1655](hb/1655) - Provider contract comp. 2939👍 10👎 12❓ - HApprops
 * [HB 1628](hb/1628) - Real estate excise tax 17📰 1357👍 1518👎 5❓ - HRules X
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 8📰 2527👍 293👎 16❓ - C 255 L 24
-* [HB 1589](hb/1589) - Clean energy 82📰 542👍 2183👎 42❓ - C 351 L 24
+* [HB 1589](hb/1589) - Clean energy 83📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 37📰 2545👍 46👎 35❓ - SRules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - HRules 3C
 * [HB 1832](hb/1832) - Vehicle per mile charge 8📰 62👍 2527👎 34❓ - HTransportation
@@ -104,7 +104,7 @@
 * [SB 5217](sb/5217) - Musculoskeletal injuries/L&I 3📰 1114👍 603👎 37❓ - C 112 L 23
 * [SB 6095](sb/6095) - Secretary of health orders 35👍 1716👎 1❓ - C 100 L 24
 * [SB 6264](sb/6264) - Competency-based education 3📰 41👍 1640👎 4❓ - SRules 3
-* [HB 2276](hb/2276) - Housing/taxes 15📰 1372👍 291👎 6❓ - HRules R
+* [HB 2276](hb/2276) - Housing/taxes 16📰 1372👍 291👎 6❓ - HRules R
 * [SB 5882](sb/5882) - Prototypical school staffing 8📰 773👍 871👎 16❓ - C 191 L 24
 * [HB 1363](hb/1363) - Vehicular pursuits 44📰 706👍 938👎 14❓ - HRules X
 * [SB 6161](sb/6161) - Provider contract comp. 1644👍 6👎 5❓ - SHealth & Long
@@ -163,7 +163,7 @@
 * [HB 2331](hb/2331) - Public school materials 16📰 350👍 788👎 5❓ - C 316 L 24
 * [HB 1698](hb/1698) - Gray wolf management 135👍 997👎 7❓ - HApprops
 * [HB 1012](hb/1012) - Extreme weather events 6📰 742👍 385👎 2❓ - C 172 L 24
-* [HB 1260](hb/1260) - Work-limiting disability 6📰 1114👍 1👎 4❓ - C 289 L 23
+* [HB 1260](hb/1260) - Work-limiting disability 7📰 1114👍 1👎 4❓ - C 289 L 23
 * [SB 5851](sb/5851) - Holocaust and genocide edu. 8📰 946👍 112👎 48❓ - SRules X
 * [SB 5955](sb/5955) - Large port districts 6📰 482👍 616👎 2❓ - C 194 L 24
 * [HB 1670](hb/1670) - Property tax limit factor 9📰 68👍 1030👎 1❓ - HRules X
@@ -291,7 +291,7 @@
 * [HB 2372](hb/2372) - Tribes/health facilities 3📰 31👍 622👎 1❓ - HRules 3C
 * [SB 5035](sb/5035) - Controlled sub. possession 2📰 533👍 115👎 4❓ - SLaw & Justice
 * [SB 5047](sb/5047) - Voting rights act 2📰 207👍 438👎 6❓ - SRules X
-* [HB 1652](hb/1652) - Child support pass through 8📰 637👍 1👎 5❓ - C 174 L 24
+* [HB 1652](hb/1652) - Child support pass through 9📰 637👍 1👎 5❓ - C 174 L 24
 * [HB 2476](hb/2476) - Creating a covered lives assessment professional services rate account. 606👍 33👎 4❓ - HApprops
 * [HB 1676](hb/1676) - Special ed. early support 1📰 632👍 0👎 2❓ - HApprops
 * [SB 5238](sb/5238) - Academic employee bargaining 1📰 611👍 20👎 2❓ - C 115 L 23
@@ -1972,7 +1972,7 @@
 * [SB 5490](sb/5490) - PEBB/deferred coverage 5👍 0👎 2❓ - C 15 L 23
 * [SB 5751](sb/5751) - Nonhighway vehicles 4👍 1👎 2❓ - SRules X
 * [SB 5787](sb/5787) - Electronic estate planning 6👍 1👎 0❓ - C 188 L 24
-* [SB 5797](sb/5797) - Concerning fines levied upon authorized insurers. 2👍 5👎 0❓ - SBusiness, Fin
+* [SB 5797](sb/5797) - Concerning fines levied upon authorized insurers. 1📰 2👍 5👎 0❓ - SBusiness, Fin
 * [SB 5801](sb/5801) - Special deposits 6👍 1👎 0❓ - C 23 L 24
 * [SB 5841](sb/5841) - DUI/financial support 3📰 6👍 0👎 1❓ - SRules 3
 * [SB 5844](sb/5844) - Dilapidated RV disposal 3👍 0👎 4❓ - SEnvironment, E

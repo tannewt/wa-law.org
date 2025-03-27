@@ -53,9 +53,11 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Rachel Downes - Housing Hope
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: K-12 public schools.  (Remote Testimony Available).
 Sign up to testify:
@@ -70,7 +72,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Natural resources. (Remote Testimony Available).
 Sign up to testify:

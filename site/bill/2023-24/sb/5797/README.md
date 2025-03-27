@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [Senate Republicans](/org/senate_republicans/) - [Tax Madness - Senate Republican Caucus](https://src.wastateleg.org/tax-madness/#:~:text=Senate%20Bill%205797)
+
 ## Meetings
 ### Thu 01/11 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5797 Authorized insurer fines
 #### 2 👍 - Pro

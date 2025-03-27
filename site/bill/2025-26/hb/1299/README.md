@@ -20,7 +20,7 @@
 #### 608 👍 - Pro
 Testifying:
 * Daniel Herriges - Parking Reform Network
-* Ron Davis - Sightline, on behalf of the coalition we have gathered
+* 💵Ron Davis - Sightline, on behalf of the coalition we have gathered
 * Sonja Max
 * Scott Bonjukian
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)

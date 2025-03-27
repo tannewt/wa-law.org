@@ -19,7 +19,7 @@
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
-* Ron Davis
+* 💵Ron Davis
 * Lisa Rivera
 
 #### 1592 👎 - Con

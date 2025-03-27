@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5268/</link>
 		<description>Updates about SB 5268</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 12:31:03 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 13:42:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -128,12 +128,26 @@
 			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2025-03-21 04:12:09</guid>
 		</item>
 		<item>
+			<title>The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 21 Mar 2025 21:19:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205268</guid>
+		</item>
+		<item>
 			<title>👍💵Anne Anderson - WA State Sentencing Guidelines Commission</title>
 			<description>Anne Anderson signed up to testify Pro. They are a registered lobbyist.</description>
 			<pubDate>Mon, 24 Mar 2025 12:31:03 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anne/Anderson/2025-03-24 12:31:03</guid>
+		</item>
+		<item>
+			<title>Republican-backed bill addresses ‘vexing problem’ of unlawful gun possession | Washington | thecentersquare.com</title>
+			<description>News article "Republican-backed bill addresses ‘vexing problem’ of unlawful gun possession | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 25 Mar 2025 13:42:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_57f547c1-66c8-47a9-b0b5-88dcae2194d4.html#:~:text=Senate%20Bill%205268</guid>
 		</item>
 	</channel>
 </rss>

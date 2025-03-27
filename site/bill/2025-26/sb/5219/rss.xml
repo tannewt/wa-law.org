@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5219/</link>
 		<description>Updates about SB 5219</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 01:12:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,13 @@
 			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205219</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205219</guid>
 		</item>
 		<item>
@@ -202,6 +209,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Anne/Anderson/2025-03-18 01:12:49</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/CS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

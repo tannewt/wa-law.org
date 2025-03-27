@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/20/2025 [The Center Square](/org/the_center_square/) - [WA bill could allow noncitizens to police, prosecute U.S. citizens | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2fcfa491-7ad2-4e1c-9f73-4b6b3fb0802b.html#:~:text=Senate%20Bill%205068)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205068)
 
 ## Meetings

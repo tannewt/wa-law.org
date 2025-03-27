@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5327/</link>
 		<description>Updates about SB 5327</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 12:21:03 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Mar 2025 17:06:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -154,6 +154,13 @@
 			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205327</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205327</guid>
 		</item>
 		<item>
@@ -178,6 +185,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nora/Palattao Burnes/2025-03-18 12:21:03</guid>
+		</item>
+		<item>
+			<title>Bring On the Budgets (and the Revenue Ideas!) - WSPTA</title>
+			<description>News article "Bring On the Budgets (and the Revenue Ideas!) - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 24 Mar 2025 17:06:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SSB%205327</guid>
 		</item>
 	</channel>
 </rss>

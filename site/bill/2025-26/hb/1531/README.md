@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/24/2025 [The Center Square](/org/the_center_square/) - [Debate lingers over Washington bill's impact on public health policies | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b239acc7-3f9a-422f-8294-7acadc018802.html#:~:text=House%20Bill%201531)
+* 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531)
 * 03/10/2025 [The Center Square](/org/the_center_square/) - [WA House Dems pass public health bill touted as 'best science' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f68a9b5a-fe02-11ef-8b9e-4b5a2aa5e974.html#:~:text=Engrossed%20Substitute%20House%20Bill%201531)
 * 02/23/2025 [MyNorthwest](/org/mynorthwest/) - [Public health and political power: Democratic bill says 'best science' must be followed](https://mynorthwest.com/mynorthwest-politics/public-health/4050369#:~:text=House%20Bill%201531)

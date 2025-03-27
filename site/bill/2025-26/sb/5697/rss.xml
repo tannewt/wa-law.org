@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5697/</link>
 		<description>Updates about SB 5697</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Mar 2025 17:39:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -73,6 +73,13 @@
 			<pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-14/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Quick update on week 10! - Sen. Vandana Slatter</title>
+			<description>News article "Quick update on week 10! - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Fri, 21 Mar 2025 17:39:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/03/21/quick-update-on-week-10/#:~:text=5697</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/24/2025 [The Center Square](/org/the_center_square/) - [WA bill would slash parking mandates to boost housing supply statewide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e609eb7-f108-40f5-a6f7-3b8b4ee9e080.html#:~:text=Senate%20Bill%205184)
 * 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Housing bills to watch as WA's legislative session enters its final weeks • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/housing-bills-to-watch-as-the-washington-legislative-session-enters-its-final-weeks/#:~:text=Senate%20Bill%205184)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5184)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205184)
@@ -35,7 +36,7 @@ Testifying:
 * Dana Christiansen - Kids unlimited
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Nicholas Carr - Office of the Governor
-* Ron Davis - Sightline, on Behalf of the Coalition in Support of Parking Reform
+* 💵Ron Davis - Sightline, on Behalf of the Coalition in Support of Parking Reform
 * Joe Tovar
 * Jennifer Gregerson
 * Sonja Max
@@ -101,7 +102,7 @@ Testifying:
 * Daniel Herriges - Parking Reform Network
 * Michone Preston - Habitat for Humanity of Washington State
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* Ron Davis - Sightline
+* 💵Ron Davis - Sightline
 * Riley Benge - Washington REALTORS
 * Wes Stewart - Sierra Club Washington
 * Susan Davenport - Thurston Housing Land Trust

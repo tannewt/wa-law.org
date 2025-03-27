@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Quick update on week 10! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/21/quick-update-on-week-10/#:~:text=5775)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5775)
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205775)
 

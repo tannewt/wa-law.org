@@ -9,9 +9,16 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/25/2025 [MyNorthwest](/org/mynorthwest/) - [Tim Eyman: Parents no longer No. 1 as House Bill 1296 reverses hard-won rights](https://mynorthwest.com/jason-rantz/eyman-parents-house-bill-1296/4067629#:~:text=House%20Bill%201296)
+* 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESHB%201296)
+* 03/22/2025 [House Republicans](/org/house_republicans/) - [Democrats unveil their tax proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/democrats-unveil-their-tax-proposals/#:~:text=House%20Bill%201296)
+* 03/21/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Democrats announce nearly $20 billion in new and higher taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-90-million-per-year-higher-taxes-businesses/#:~:text=Learn%20more)
+* 03/20/2025 [FOX13](/org/fox13/) - [Fight over parental rights heats up in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/fight-over-parental-rights-washington#:~:text=House%20Bill%201296,)
+* 03/20/2025 [The Center Square](/org/the_center_square/) - [WATCH: Public testimony heats up over bill that would undo some of parents’ rights initiative | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_26909205-81fd-4002-8f63-16766b8c4435.html#:~:text=House%20Bill%201296)
 * 03/18/2025 [The Center Square](/org/the_center_square/) - [Let's Go Washington files second initiative to uphold parental rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3d0d3860-044a-11f0-9db3-7709437f2a9b.html#:~:text=HB%201296)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESHB%201296)
 * 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201296)
+* 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201296)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201296)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=The%20House%20version)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201296)

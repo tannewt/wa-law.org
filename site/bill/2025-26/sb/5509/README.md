@@ -16,10 +16,10 @@
 #### 70 👍 - Pro
 Testifying:
 * Scott Bonjukian
-* Alex Galeana - Children's Campaign Fund Action
+* 💵Alex Galeana - Children's Campaign Fund Action
 * Alexis Cortes
 * Alexis Cortes
-* Alex Galeana - Children's Campaign Fund Action
+* 💵Alex Galeana - Children's Campaign Fund Action
 
 #### 0 👎 - Con
 
@@ -28,7 +28,7 @@ Testifying:
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5509 Child care center siting
 #### 50 👍 - Pro
 Testifying:
-* Alex Galeana - Children's Campaign Fund Action
+* 💵Alex Galeana - Children's Campaign Fund Action
 * Phanta Tofa
 
 #### 3 👎 - Con
@@ -39,7 +39,7 @@ Testifying:
 #### 164 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Alex Galeana - Children's Campaign Fund Action
+* 💵Alex Galeana - Children's Campaign Fund Action
 * Alexis Cortes - Parent
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 

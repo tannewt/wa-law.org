@@ -25,7 +25,7 @@ Sign up to testify:
 
 #### 19 👍 - Pro
 
-#### 399 👎 - Con
+#### 498 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

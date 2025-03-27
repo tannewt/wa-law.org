@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=House%20Bill%202015)
 * 03/17/2025 [KING5](/org/king5/) - [King County reduces some precinct staffing amid budget constraints | king5.com](https://www.king5.com/article/news/local/public-safety/king-county-sheriffs-office-reduces-minimum-staffing-some-precincts/281-e77b80d4-a1e9-4cc2-8fb0-f8ad38f8d201#:~:text=Bill%202015)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=a%20Ferguson-backed%20bill%20to%20provide%20$100%20million%20in%20grants)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%202015)

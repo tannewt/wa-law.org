@@ -24,7 +24,7 @@ Sign up to testify:
 Testifying:
 * 💵Paula Sardinas - WBBA/FMS Global Strategies
 
-#### 389 👎 - Con
+#### 491 👎 - Con
 Testifying:
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis

@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/21/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Democrats announce nearly $20 billion in new and higher taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-90-million-per-year-higher-taxes-businesses/#:~:text=Senate%20Bill%205060)
+* 03/20/2025 [Senate Democrats](/org/senate_democrats/) - [New regional police training campus in Arlington to welcome first class | HeraldNet.com](https://senatedemocrats.wa.gov/lovick/2025/03/24/new-regional-police-training-campus-in-arlington-to-welcome-first-class/#:~:text=A%20bill%20in%20the%20state%20Legislature)
 * 03/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Debate heats up over Ferguson’s request for $100M to hire more police in Washington • Washington State Standard](https://washingtonstatestandard.com/2025/03/10/debate-heats-up-over-fergusons-request-for-100m-to-hire-more-police-in-washington/#:~:text=Senate%20Bill%205060)
 * 02/19/2025 [Senate Democrats](/org/senate_democrats/) - [Liias co-sponsors bills to reduce impaired driving, increase law enforcement - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/19/liias-co-sponsors-bills-to-reduce-impaired-driving-increase-law-enforcement/#:~:text=Senate%20Bill%205060)
 * 01/21/2025 [FOX13](/org/fox13/) - [Legislators consider police hiring grant program  | FOX 13 Seattle](https://www.fox13seattle.com/news/police-funding-bill-wa-constitution#:~:text=Senate%20Bill%205060)

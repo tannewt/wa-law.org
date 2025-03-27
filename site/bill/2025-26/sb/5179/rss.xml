@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5179/</link>
 		<description>Updates about SB 5179</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 12:27:58 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Mar 2025 17:06:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -377,6 +377,13 @@
 			<guid isPermaLink="false">testifier/Jason/Perrins/2025-03-21 11:05:53</guid>
 		</item>
 		<item>
+			<title>The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 21 Mar 2025 21:19:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205179</guid>
+		</item>
+		<item>
 			<title>👎Sandra Mochizuki - Chewelah School District</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 02:51:44 GMT</pubDate>
@@ -463,6 +470,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ramona/Hattendorf/2025-03-24 12:27:58</guid>
+		</item>
+		<item>
+			<title>Bring On the Budgets (and the Revenue Ideas!) - WSPTA</title>
+			<description>News article "Bring On the Budgets (and the Revenue Ideas!) - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 24 Mar 2025 17:06:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=2SSB%205179</guid>
 		</item>
 	</channel>
 </rss>

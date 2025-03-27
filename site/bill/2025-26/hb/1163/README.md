@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/26/2025 [The Center Square](/org/the_center_square/) - [WATCH: Washington AG throws his support behind permit-to-purchase gun bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e0ff4d62-b33d-443d-bd0c-7963a2c08889.html#:~:text=House%20Bill%201163)
+* 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=E2SHB%201163)
+* 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=HB%201163)
 * 03/19/2025 [The Center Square](/org/the_center_square/) - [WSP plans for major workload increase if permit-to-purchase gun bill passes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9c966d80-2b21-4876-b558-b747a4a008bc.html#:~:text=House%20Bill%201163%20,)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=House%20Bill%201163)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201163)
@@ -34,6 +37,7 @@
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201163)
 * 01/16/2025 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201163)
 * 01/14/2025 [MyNorthwest](/org/mynorthwest/) - [Pimps take over Seattle, but Washington Dems take away our guns](https://mynorthwest.com/ktth/ktth-opinion/rantz-will-dangerous-pimps-taking-over-seattle-follow-washington-democrats-gun-laws/4028108#:~:text=House%20Bill%201163)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Nick Brown testifies in support of ‘permit to purchase’ legislation | Washington State](https://www.atg.wa.gov/news/news-releases/ag-nick-brown-testifies-support-permit-purchase-legislation#:~:text=HB%201163)
 
 ## Meetings
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): E2SHB 1163 Firearm purchase

@@ -27,11 +27,13 @@
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 
-## [SB 5683](/bill/2025-26/sb/5683/) - Health carrier payment times 👍1  
+### [SB 5683](/bill/2025-26/sb/5683/) - Health carrier payment times 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5683](/bill/2023-24/sb/5683/) - Health carrier payment times 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1812](/bill/2023-24/hb/1812/) - Medicaid/B&O tax deductions 👍1  
 * 👍 Len Mc Comb

@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Thu 03/27 10:30 AM - Law & Justice (LAW): E2SHB 1218 Competency eval. & restor.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166010&caId=26667&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166010&caId=26667&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166010&caId=26667&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33111&aId=166010&caId=26667&tId=4)
-
-#### 33 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * David Frockt - Deputy Policy Director, Office of Governor Bob Ferguson
 * 💵Kimberly Mosolf - Trueblood Plaintiff Counsel
@@ -31,7 +25,7 @@ Testifying:
 * Jani Hitchen
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
 
-#### 631 👎 - Con
+#### 735 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Gabrielle Charlton - King County Prosecutor's Office

@@ -10,6 +10,11 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=E2SSB%205263)
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5263)
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Quick update on week 10! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/21/quick-update-on-week-10/#:~:text=5263,)
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Session update + townhalls tomorrow - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/03/21/session-update-townhalls-tomorrow/#:~:text=SB%205263)
+* 03/20/2025 [Senate Democrats](/org/senate_democrats/) - [Mid-Session Update & Town Hall – Join Me This Saturday! - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/03/20/3121/#:~:text=SB%205263)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Bills, budget and how we got here - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205263)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=E2SSB%205263)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205263)

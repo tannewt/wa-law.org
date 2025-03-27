@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5017/</link>
 		<description>Updates about SB 5017</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Mar 2025 03:04:44 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Mar 2025 20:07:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -272,6 +272,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Stuart/Holmes/2025-03-18 03:04:44</guid>
+		</item>
+		<item>
+			<title>March Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "March Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 25 Mar 2025 20:07:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=SB%205017</guid>
 		</item>
 	</channel>
 </rss>

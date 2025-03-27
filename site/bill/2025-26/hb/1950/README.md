@@ -13,7 +13,7 @@ Testifying:
 * 💵Heather Kurtenbach - Washington State Building and Construction Trades
 * Jimmy Matta - NORTHWEST MINORITY BUILDERS ALLIANCE
 * 💵Brad Blackburn - Pettigrew Consulting Services
-* Jimmy Matta - Northwest Minority Builders Alliance
+* Jimmy Matta - [Northwest Minority Builders Alliance](/org/northwest_minority_builders_alliance/)
 * Nicholas Jeffreys - The Urban League of Metropolitan Seattle
 
 #### 699 👎 - Con

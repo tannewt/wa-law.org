@@ -64,11 +64,21 @@
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

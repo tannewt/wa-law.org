@@ -9,8 +9,12 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill to cap rent increases clears first Senate hurdle • Washington State Standard](https://washingtonstatestandard.com/2025/03/26/washington-bill-to-cap-rent-increases-clears-first-senate-hurdle/#:~:text=House%20Bill%201217)
+* 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=House%20Bill%201217)
+* 03/20/2025 [KUOW](/org/kuow/) - [KUOW - Is this the year rent limits pass?](https://www.kuow.org/stories/is-this-the-year-rent-limits-pass#:~:text=Engrossed%20House%20Bill%201217)
 * 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201217)
 * 03/16/2025 [KING5](/org/king5/) - [In Session: Senate leader says with changes, rent stabilization bill could pass | king5.com](https://www.king5.com/article/news/politics/in-session/in-session-senate-leader-rent-bill-could-pass/281-03086a0c-98b4-4201-ad19-93e77bb36496#:~:text=House%20Bill%201217)
+* 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201217)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201217)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=House%20Bill%201217)
 * 03/14/2025 [Real Change](/org/real_change/) - [Washington Legislature advances bill to cap rent increases | March 12–18, 2025 | Real Change](https://www.realchangenews.org/news/2025/03/14/washington-legislature-advances-bill-cap-rent-increases#:~:text=HB%201217)

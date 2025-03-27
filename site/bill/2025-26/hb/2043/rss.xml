@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2043/</link>
 		<description>Updates about HB 2043</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 12:12:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 15:18:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-21/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 21 Mar 2025 21:19:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=HB%202043</guid>
 		</item>
 		<item>
 			<title>👎💵Greg Hanon - Western States Petroleum Assoc.</title>
@@ -70,6 +77,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Dakota/Manley/2025-03-25 12:12:24</guid>
+		</item>
+		<item>
+			<title>Op-Ed: Washington lawmakers propose billions in new tax increases | Opinion | thecentersquare.com</title>
+			<description>News article "Op-Ed: Washington lawmakers propose billions in new tax increases | Opinion | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 25 Mar 2025 12:22:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/opinion/article_bdadf9e6-f689-489a-91a4-4a7828e11141.html#:~:text=House%20Bill%202043</guid>
+		</item>
+		<item>
+			<title>WA bill would put gas tax, vehicle fee increases on automatic pilot | Washington | thecentersquare.com</title>
+			<description>News article "WA bill would put gas tax, vehicle fee increases on automatic pilot | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 26 Mar 2025 15:18:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_38300bb0-87a7-409a-a05e-9de2df837d4c.html#:~:text=House%20Bill%202043</guid>
 		</item>
 	</channel>
 </rss>

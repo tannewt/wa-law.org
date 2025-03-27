@@ -32,6 +32,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Chloe Merino
 
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor. 👍1  
+
 ### [HB 1220](/bill/2025-26/hb/1220/) - Concerning appropriate response to assaults by individuals in behavioral health crisis. 👍1  
 * 👍💵 Todd Carlisle
 

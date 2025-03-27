@@ -23,6 +23,7 @@
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202276)
 * 01/14/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Supplemental Budget Looms Large in 2024 Legislation Session - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01152024#:~:text=House%20Bill%202276)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202276)
+* [Senate Republicans](/org/senate_republicans/) - [Tax Madness - Senate Republican Caucus](https://src.wastateleg.org/tax-madness/#:~:text=House%20Bill%202276)
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Finance (FIN): HB 2276 Housing/taxes

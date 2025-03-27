@@ -31,7 +31,7 @@ Testifying:
 #### 12 👍 - Pro
 Testifying:
 * Michele Radosevich - Uniform Law Commission
-* Mercer May - Teladoc Health
+* 💵Mercer May - Teladoc Health
 * Kyle Zebley - ATA Action
 * Tom Mann - ATA Action
 

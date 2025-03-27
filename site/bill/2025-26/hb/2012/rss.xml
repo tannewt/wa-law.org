@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2012/</link>
 		<description>Updates about HB 2012</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 11:10:07 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Mar 2025 17:06:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jenny/Plaja/2025-03-24 11:10:07</guid>
+		</item>
+		<item>
+			<title>Bring On the Budgets (and the Revenue Ideas!) - WSPTA</title>
+			<description>News article "Bring On the Budgets (and the Revenue Ideas!) - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 24 Mar 2025 17:06:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202012</guid>
 		</item>
 	</channel>
 </rss>

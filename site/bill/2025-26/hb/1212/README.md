@@ -14,7 +14,7 @@
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1212 Child care center siting
 #### 111 👍 - Pro
 Testifying:
-* Alex Galeana - Children's Campaign Fund Action
+* 💵Alex Galeana - Children's Campaign Fund Action
 * Alexis Cortes
 * Torrie Amaratunge
 

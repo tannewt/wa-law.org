@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/22/2025 [Washington State Standard](/org/washington_state_standard/) - [Judge overturns Washington natural gas measure approved by voters • Washington State Standard](https://washingtonstatestandard.com/2025/03/21/judge-overturns-washington-natural-gas-measure-approved-by-voters/#:~:text=House%20Bill%201589)
 * 02/12/2025 [Sightline Institute](/org/sightline_institute/) - [Ending Subsidies for New Gas Hook-Ups Can Save Cascadians Millions | Sightline Institute](https://www.sightline.org/2025/02/11/ending-subsidies-for-new-gas-hook-ups-can-save-cascadians-millions/#:~:text=HB%201589)
 * 12/13/2024 [Cascade PBS](/org/cascade_pbs/) - [Dueling lawsuits fuel debate over WA natural gas initiative | Cascade PBS](https://www.cascadepbs.org/environment/2024/12/dueling-lawsuits-fuel-debate-over-wa-natural-gas-initiative#:~:text=House%20Bill%201589)
 * 12/12/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington’s voter-approved natural gas measure snared in two lawsuits • Washington State Standard](https://washingtonstatestandard.com/2024/12/11/washingtons-voter-approved-natural-gas-measure-snared-in-two-lawsuits/#:~:text=House%20Bill%201589)

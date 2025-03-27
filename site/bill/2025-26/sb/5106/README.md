@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=Senate%20Bill%205106)
 * 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers consider bills to recognize two Muslim holidays • Washington State Standard](https://washingtonstatestandard.com/2025/02/11/washington-lawmakers-consider-bills-to-recognize-two-muslim-holidays/#:~:text=Senate%20Bill%205106)
 
 ## Meetings

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205167)
+* 03/24/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Senate unveils nearly $80B budget with tax hikes for the wealthy and big corporations](https://mynorthwest.com/mynorthwest-politics/washington-budget-2/4067182#:~:text=Proposed%20Substitute%20Senate%20Bill%20(PSSB)%205167)
+* 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=Senate%20Bill%205167)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205167)
 * 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205167)
 

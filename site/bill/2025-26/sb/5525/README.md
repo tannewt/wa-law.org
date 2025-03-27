@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/26/2025 [Senate Democrats](/org/senate_democrats/) - [Our 49th LD Telephone Town Hall is Tomorrow at 6:30pm! Plus, an Important Update on My Bill - Sen. Annette Cleveland](https://senatedemocrats.wa.gov/cleveland/2025/03/26/our-49th-ld-telephone-town-hall-is-tomorrow-at-630pm-plus-an-update-on-my-bill-to-improve/#:~:text=Senate%20Bill%205525)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205525)
 
 ## Meetings

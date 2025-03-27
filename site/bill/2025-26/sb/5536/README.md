@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Law & Justice (LAW): SB 5536 Property distrib./divorce
-#### 61 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Dana Tingey - High Ground Divorces
 * Melissa Strawn

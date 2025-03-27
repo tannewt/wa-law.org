@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=HB%202024)
+
 ## Meetings
 ### Tue 03/25 08:00 AM - Finance (FIN): HB 2024 Primary residence/tax
 #### 10 👍 - Pro

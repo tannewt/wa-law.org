@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/23/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Anacortes guest writer: Region's high cost of living a vexing problem for young adults | Cascadia Daily News](https://www.cascadiadaily.com/2025/mar/23/anacortes-guest-writer-regions-high-cost-of-living-a-vexing-problem-for-young-adults/#:~:text=Senate%20Bill%205768)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Cortes co-sponsors bills providing tax relief to working families - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/02/24/cortes-co-sponsors-bills-providing-tax-relief-to-working-families/#:~:text=5768)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=SB%205768)
 

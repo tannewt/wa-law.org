@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205023)
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205023)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205023)
 * 03/06/2025 [KIRO7](/org/kiro7/) - [Domestic workers rights bill passes Washington State Senate – KIRO 7 News Seattle](https://www.kiro7.com/news/local/domestic-workers-rights-bill-passes-washington-state-senate/NQW2BWHQGZGRTGLCSGSIE47WJU/#:~:text=Senate%20Bill%205023)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Senado aprueba propuesta de ley sobre derechos laborales de personas trabajadoras del hogar - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/03/05/senado-aprueba-propuesta-de-ley-sobre-derechos-laborales-de-personas-trabajadoras-del-hogar/#:~:text=La%20propuesta%20de%20ley%20del%20Senado%205023)

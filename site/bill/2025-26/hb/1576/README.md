@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/21/2025 [Real Change](/org/real_change/) - ["Making something new:" Historic preservation groups clash with housing advocates over state bill that adds more restrictions to landmarking buildings  | March 19–25, 2025 | Real Change](https://www.realchangenews.org/news/2025/03/21/making-something-new-historic-preservation-groups-clash-housing-advocates-over-state#:~:text=HB%201576)
 * 02/19/2025 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Wants to Rein In Historic Landmarking to Spur Housing - The Urbanist](https://www.theurbanist.org/2025/02/19/washington-legislature-wants-to-rein-in-historic-landmarking/#:~:text=House%20Bill%201576)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201576)
 

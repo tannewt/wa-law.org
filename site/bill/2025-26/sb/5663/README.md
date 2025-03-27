@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Quick update on week 10! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/21/quick-update-on-week-10/#:~:text=5663)
+
 ## Meetings
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): ESSB 5663 CTC online course offerings
 #### 17 👍 - Pro

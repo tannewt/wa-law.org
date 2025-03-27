@@ -19,6 +19,7 @@
 * 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201652)
 * 01/25/2024 [Crosscut](/org/crosscut/) - [WA intercepts millions in child support for low-income families | Crosscut](https://crosscut.com/investigations/2024/01/wa-intercepts-millions-child-support-low-income-families#:~:text=House%20Bill%201652)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201625)
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Press Release: House and Senate Budget Proposals Balance Budget with Progressive Revenue, But Implementation Delays Raise Concerns – Statewide Poverty Action Network](https://povertyaction.org/press-release-house-and-senate-budget-proposals-balance-budget-with-progressive-revenue-but-implementation-delays-raise-concerns/#:~:text=HB%201652)
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): ESHB 1652 Child support pass through

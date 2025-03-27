@@ -9,8 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/24/2025 [The Center Square](/org/the_center_square/) - [WA Democrats push bill to pay picketers — GOP says it tilts the field | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a2eff83f-6b9d-4874-bea4-37d97cbe4711.html#:~:text=Senate%20Bill%205041)
 * 03/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA bill aims to extend unemployment benefits to workers on strike | Cascade PBS](https://www.cascadepbs.org/politics/2025/03/wa-bill-aims-extend-unemployment-benefits-workers-strike#:~:text=Senate%20Bill%205041)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205041)
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205041)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205041)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=Senate%20Bill%205041)
 * 03/12/2025 [Cascade PBS](/org/cascade_pbs/) - [The view from Olympia: Meet our new state politics reporter | Cascade PBS](https://www.cascadepbs.org/inside-cascade-pbs/2025/03/view-olympia-meet-our-new-state-politics-reporter#:~:text=striking%20workers%20to%20receive%20unemployment%20insurance)

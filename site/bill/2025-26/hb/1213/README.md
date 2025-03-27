@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=House%20Bill%201213)
 * 03/11/2025 [House Democrats](/org/house_democrats/) - [Berry’s Paid Family Medical Leave Improvement Bill Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/berrys-paid-family-medical-leave-improvement-bill-passes-house/#:~:text=HB%201213)
 * 01/29/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Who is left out of the Paid Family and Medical Leave Act? - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/paid-family-and-medical-leave-job-protection/#:~:text=House%20Bill%201213)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201213)

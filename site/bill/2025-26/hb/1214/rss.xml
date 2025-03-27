@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1214/</link>
 		<description>Updates about HB 1214</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 12:21:41 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 23 Mar 2025 21:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -73,6 +73,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mayauna/Renae/2025-02-03 12:21:41</guid>
+		</item>
+		<item>
+			<title>Anacortes guest writer: Region's high cost of living a vexing problem for young adults | Cascadia Daily News</title>
+			<description>News article "Anacortes guest writer: Region's high cost of living a vexing problem for young adults | Cascadia Daily News" from Cascadia Daily News.</description>
+			<pubDate>Sun, 23 Mar 2025 21:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadiadaily.com/2025/mar/23/anacortes-guest-writer-regions-high-cost-of-living-a-vexing-problem-for-young-adults/#:~:text=House%20Bill%201214</guid>
 		</item>
 	</channel>
 </rss>

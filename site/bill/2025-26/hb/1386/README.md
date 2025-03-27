@@ -16,6 +16,7 @@
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201386)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201386)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201386)
+* [Senate Republicans](/org/senate_republicans/) - [Tax Madness - Senate Republican Caucus](https://src.wastateleg.org/tax-madness/#:~:text=House%20Bill%201386)
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Finance (FIN): HB 1386 Firearms tax

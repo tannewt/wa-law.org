@@ -10,7 +10,7 @@
 
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): ESHB 1620 Parenting plan limitations
-#### 573 👍 - Pro
+#### 576 👍 - Pro
 Testifying:
 * Brandon Williams - Brandon Williams PLLC, Family Law Attorney
 * Tamara Emerson - Concerned Citizen
@@ -104,7 +104,7 @@ Testifying:
 * Kristina Peterson
 * Grace Amos - DV Survivor
 
-#### 136 👎 - Con
+#### 137 👎 - Con
 Testifying:
 * 💵Evangeline Stratton
 * Tamara Emerson - 3221 s 17th st

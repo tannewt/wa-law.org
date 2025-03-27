@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5570/</link>
 		<description>Updates about SB 5570</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Mar 2025 17:06:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -375,6 +375,20 @@
 			<pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Town halls tomorrow and an update - Sen. Deborah Krishnadasan</title>
+			<description>News article "Town halls tomorrow and an update - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Fri, 21 Mar 2025 18:49:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5570</guid>
+		</item>
+		<item>
+			<title>Bring On the Budgets (and the Revenue Ideas!) - WSPTA</title>
+			<description>News article "Bring On the Budgets (and the Revenue Ideas!) - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 24 Mar 2025 17:06:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SSB%205570</guid>
 		</item>
 	</channel>
 </rss>

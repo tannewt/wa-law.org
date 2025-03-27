@@ -13,6 +13,7 @@
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201839)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201839)
 * 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/2025-legislative-agenda/#:~:text=House%20Bill%201839)
+* [Senate Republicans](/org/senate_republicans/) - [Tax Madness - Senate Republican Caucus](https://src.wastateleg.org/tax-madness/#:~:text=House%20Bill%201839)
 
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): HB 1839 Advanced computing surcharge

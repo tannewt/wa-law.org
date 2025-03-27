@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall TOMORROW and progress - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/21/town-hall-tomorrow-and-progress/#:~:text=5102)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5102)
 
 ## Meetings

@@ -26,7 +26,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Erica Hallock - Start Early Washington
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -36,6 +36,8 @@ Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * Tyson Johnston - Council, Quinault Indian Nation
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Rachel Downes - Housing Hope
 
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
 #### 45 👍 - Pro

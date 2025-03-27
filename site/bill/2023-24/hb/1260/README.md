@@ -17,6 +17,7 @@
 * 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=HB%201260)
 * 01/31/2023 [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=House%20Bill%201260)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201260)
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Press Release: House and Senate Budget Proposals Balance Budget with Progressive Revenue, But Implementation Delays Raise Concerns – Statewide Poverty Action Network](https://povertyaction.org/press-release-house-and-senate-budget-proposals-balance-budget-with-progressive-revenue-but-implementation-delays-raise-concerns/#:~:text=HB%201260)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): ESHB 1260 Work-limiting disability

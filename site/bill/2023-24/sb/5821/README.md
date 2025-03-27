@@ -14,7 +14,7 @@
 #### 32 👍 - Pro
 Testifying:
 * 💵Clark Hansen - ALS Association, Patient Coalition of Washington
-* Mercer May - Teladoc Health
+* 💵Mercer May - Teladoc Health
 * 💵Carrie Tellefson - Teladoc Health
 * Quinn Shean - ATA Action
 * 💵Vicki Lowe - American Indian Health Commission and Washington State Women's Commission
@@ -30,7 +30,7 @@ Testifying:
 ### Thu 01/11 10:30 AM - Health & Long Term Care (HLTC): SB 5821 Audio-only telemedicine
 #### 37 👍 - Pro
 Testifying:
-* Mercer May - Teladoc Health
+* 💵Mercer May - Teladoc Health
 * 💵Clark Hansen - ALS Association, Patient Coalition of Washington
 * Tom Mann - ATA Action
 * 💵Carrie Tellefson - Teladoc Health

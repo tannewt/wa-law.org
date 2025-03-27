@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205238)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205238)
 * 01/27/2025 [MyNorthwest](/org/mynorthwest/) - [New Washington bill targets chronic speeders](https://mynorthwest.com/mynorthwest-politics/washington-bill/4034935#:~:text=Senate%20Bill%205238)
 

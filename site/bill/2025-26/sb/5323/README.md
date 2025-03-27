@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/21/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Democrats announce nearly $20 billion in new and higher taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-90-million-per-year-higher-taxes-businesses/#:~:text=Senate%20Bill%205323)
+
 ## Meetings
 ### Mon 03/17 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5323 Theft from first responders
 #### 161 👍 - Pro

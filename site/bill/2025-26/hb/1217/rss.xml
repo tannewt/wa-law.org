@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1217/</link>
 		<description>Updates about HB 1217</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Mar 2025 19:26:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2556,6 +2556,13 @@
 			<description>News article "Parental rights | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 15 Mar 2025 17:22:56 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201217</guid>
+		</item>
+		<item>
+			<title>Parental rights | Washington State House Republicans</title>
+			<description>News article "Parental rights | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 15 Mar 2025 17:22:56 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201217</guid>
 		</item>
 		<item>
@@ -3421,11 +3428,32 @@
 			<guid isPermaLink="false">testifier/Natasha/Fecteau Minger/2025-03-19 12:27:05</guid>
 		</item>
 		<item>
+			<title>KUOW - Is this the year rent limits pass?</title>
+			<description>News article "KUOW - Is this the year rent limits pass?" from KUOW.</description>
+			<pubDate>Thu, 20 Mar 2025 15:45:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/is-this-the-year-rent-limits-pass#:~:text=Engrossed%20House%20Bill%201217</guid>
+		</item>
+		<item>
+			<title>March Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "March Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 25 Mar 2025 20:07:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=House%20Bill%201217</guid>
+		</item>
+		<item>
 			<title>And refer to Ways &amp; Means.</title>
 			<description>And refer to Ways &amp; Means.</description>
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Washington bill to cap rent increases clears first Senate hurdle • Washington State Standard</title>
+			<description>News article "Washington bill to cap rent increases clears first Senate hurdle • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 26 Mar 2025 19:26:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/26/washington-bill-to-cap-rent-increases-clears-first-senate-hurdle/#:~:text=House%20Bill%201217</guid>
 		</item>
 	</channel>
 </rss>
