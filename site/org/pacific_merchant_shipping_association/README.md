@@ -19,11 +19,15 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎 Jacqueline Moore
 
-## [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+* 👎💵 Scott Hazlegrove
 
 ## 2023-24
 
-### [SB 5649](/bill/2023-24/sb/5649/) - Supply chain competitiveness 👍2  
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+* 👎💵 Scott Hazlegrove
 
 ### [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎💵 Scott Hazlegrove

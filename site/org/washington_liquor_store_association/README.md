@@ -1,7 +1,8 @@
 # Washington Liquor Store Association
 ## 2025-26
 
-### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
+### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍2  
+* 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 

@@ -55,13 +55,14 @@
 
 ### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
-## [SB 5755](/bill/2025-26/sb/5755/) - Residential dev./commercial 👍1  
+### [SB 5755](/bill/2025-26/sb/5755/) - Residential dev./commercial 👍1  
 * 👍 Barb Wilson
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 
 ## 2023-24
 
-### [SB 5755](/bill/2023-24/sb/5755/) - Residential dev./commercial 👍1  
-* 👍 Barb Wilson
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍2  
 

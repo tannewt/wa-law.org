@@ -24,14 +24,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=4)
 
-#### 7 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * DAVID SALE
 * Lori Markowitz
+* Tom Yabe - Steilacoom Department of Public Safety
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Peter Bengtson - Parents of Ellen Bengtson
+* Ken Denton - LifeSafer
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

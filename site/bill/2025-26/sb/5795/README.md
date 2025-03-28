@@ -22,12 +22,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166614&caId=26764&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166614&caId=26764&tId=4)
 
-#### 10 👍 - Pro
+#### 299 👍 - Pro
+Testifying:
+* Alexis Bardecker
 
-#### 9 👎 - Con
+#### 167 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* James Bardecker
+* Mike Martinez
 
 #### 0 ❓ - Other

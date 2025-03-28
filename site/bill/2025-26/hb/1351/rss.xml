@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1351/</link>
 		<description>Updates about HB 1351</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 01:25:01 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Katy/Warren/2025-03-17 01:25:01</guid>
+		</item>
+		<item>
+			<title>EDU - Majority; do pass with amendment(s).</title>
+			<description>EDU - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-27/EDU - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

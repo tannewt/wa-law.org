@@ -19,14 +19,35 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166613&caId=26763&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166613&caId=26763&tId=4)
 
-#### 24 👍 - Pro
+#### 763 👍 - Pro
 Testifying:
 * Alfred Higgins
 
-#### 9 👎 - Con
+#### 514 👎 - Con
 Testifying:
 * Richard de Sam Lazaro - [Expedia Group](/org/expedia_group/)
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* 💵Leah Lindahl - Healthcare Distribution Alliance
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Leanne Webber - Russell Investments
+* James Bardecker
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Dan McKisson - ILWU
+* 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Johan Hellman - BNSF
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* 💵Sheri Call - [Washington Trucking Association](/org/washington_trucking_association/)
+* 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
+* 💵Amber Carter - Columbia River Steamship Operators/Port of Vancouver
+* Patrick Gallagher - [Marine Exchange of Puget Sound](/org/marine_exchange_of_puget_sound/)
+* Peter Schrappen - American Waterway Operators
+* Lee Swietlikowski - Metro Ports
+* Michelle Hennings - [Washington Association of Wheat Growers](/org/washington_association_of_wheat_growers/)
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* Mendy Droke - [Battelle](/org/battelle/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Matt Harris - Washington Potato Commission

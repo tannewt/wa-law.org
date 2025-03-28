@@ -9,8 +9,10 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats split parental and student rights issues into separate bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/28/democrats-in-wa-legislature-shift-approach-to-parental-and-students-rights-bills/#:~:text=Senate%20Bill%205179)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=2SSB%205179)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205179)
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205179)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=Senate%20Bill%205179:)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=Senate%20Bill%205179)
 * 03/02/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Human Rights -- 2025 action — Quaker Voice](https://www.quakervoicewa.org/human-rights-2025-action/#:~:text=SB%205179)

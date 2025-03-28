@@ -14,13 +14,14 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
 
-## [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎 Chloe Gale
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5167](/bill/2023-24/sb/5167/) - Operating budget  👎1 
-* 👎 Chloe Gale
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
 

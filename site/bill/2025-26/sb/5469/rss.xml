@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5469/</link>
 		<description>Updates about SB 5469</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Mar 2025 17:45:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -249,6 +249,20 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/HOUS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Washington state targets rent-pricing algorithms - Axios Seattle</title>
+			<description>News article "Washington state targets rent-pricing algorithms - Axios Seattle" from Axios.</description>
+			<pubDate>Thu, 27 Mar 2025 17:45:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/03/27/washington-state-bill-ban-rent-pricing-software-realpage#:~:text=Washington%20legislation</guid>
 		</item>
 	</channel>
 </rss>

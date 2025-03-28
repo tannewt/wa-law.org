@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/27/2025 [Axios](/org/axios/) - [Washington state targets rent-pricing algorithms - Axios Seattle](https://www.axios.com/local/seattle/2025/03/27/washington-state-bill-ban-rent-pricing-software-realpage#:~:text=Washington%20legislation)
 * 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Housing bills to watch as WA's legislative session enters its final weeks • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/housing-bills-to-watch-as-the-washington-legislative-session-enters-its-final-weeks/#:~:text=Senate%20Bill%205469)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SSB%205469)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=SB%205469)

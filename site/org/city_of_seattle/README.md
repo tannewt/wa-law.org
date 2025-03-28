@@ -201,11 +201,13 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
-## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

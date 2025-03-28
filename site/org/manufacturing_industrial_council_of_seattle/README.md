@@ -4,6 +4,9 @@
 ### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
 * 👍 Dave Gering
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+* 👍 Dave Gering
+
 ### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
 * 👍 Dave Gering
 

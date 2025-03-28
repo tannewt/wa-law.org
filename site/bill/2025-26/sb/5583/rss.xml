@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5583/</link>
 		<description>Updates about SB 5583</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 17:57:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,20 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/Third reading, passed; yeas, 25; nays, 24; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-28/First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>Hunting and fishing licenses in the state may be going up significantly – KIRO 7 News Seattle</title>
+			<description>News article "Hunting and fishing licenses in the state may be going up significantly – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Fri, 28 Mar 2025 17:57:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/hunting-fishing-licenses-state-may-be-going-up-significantly/SOJ4D2NAWRDFFPDPR32JSUJA5U/#:~:text=Senate%20Bill%205583,</guid>
 		</item>
 	</channel>
 </rss>

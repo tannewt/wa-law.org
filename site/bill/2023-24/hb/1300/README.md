@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/25/2024 [Senate Democrats](/org/senate_democrats/) - [LEGISLATIVE NEWS: Gov. Signs protections against assisted reproduction fraud - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/03/25/legislative-news-gov-signs-protections-against-assisted-reproduction-fraud/#:~:text=House%20Bill%201300)
 * 03/25/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Gov. Signs Protections Against Assisted Reproduction Fraud  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/25/legislative-news-gov-signs-protections-against-assisted-reproduction-fraud/#:~:text=.%20House%20Bill%201300)
 * 03/25/2024 [Gorge News Center](/org/gorge_news_center/) - [LEGISLATIVE NEWS: Gov. Signs Protections Against Assisted Reproduction Fraud](https://gorgenewscenter.com/2024/03/25/legislative-news-gov-signs-protections-against-assisted-reproduction-fraud/#:~:text=.%20House%20Bill%201300)
 * 02/28/2024 [MyNorthwest](/org/mynorthwest/) - [Washington Senate passes bill criminalizing fertility fraud - MyNorthwest.com](https://mynorthwest.com/3952580/washington-senate-passes-bill-criminalizing-fertility-fraud/#:~:text=House%20Bill%201300)

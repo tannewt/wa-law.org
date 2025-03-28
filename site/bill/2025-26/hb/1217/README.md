@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/27/2025 [The Center Square](/org/the_center_square/) - [WA Senate advances landmark bill to cap annual rent hikes statewide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_56c770c2-d128-41bf-8810-80136d900348.html#:~:text=House%20Bill%201217)
 * 03/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill to cap rent increases clears first Senate hurdle • Washington State Standard](https://washingtonstatestandard.com/2025/03/26/washington-bill-to-cap-rent-increases-clears-first-senate-hurdle/#:~:text=House%20Bill%201217)
 * 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=House%20Bill%201217)
 * 03/20/2025 [KUOW](/org/kuow/) - [KUOW - Is this the year rent limits pass?](https://www.kuow.org/stories/is-this-the-year-rent-limits-pass#:~:text=Engrossed%20House%20Bill%201217)

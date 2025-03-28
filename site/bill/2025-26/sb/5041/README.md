@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/28/2025 [Senate Democrats](/org/senate_democrats/) - [Building a balanced, sustainable budget - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/03/28/building-a-balanced-sustainable-budget/#:~:text=Senate%20Bill%205041)
 * 03/24/2025 [The Center Square](/org/the_center_square/) - [WA Democrats push bill to pay picketers — GOP says it tilts the field | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a2eff83f-6b9d-4874-bea4-37d97cbe4711.html#:~:text=Senate%20Bill%205041)
 * 03/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA bill aims to extend unemployment benefits to workers on strike | Cascade PBS](https://www.cascadepbs.org/politics/2025/03/wa-bill-aims-extend-unemployment-benefits-workers-strike#:~:text=Senate%20Bill%205041)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205041)

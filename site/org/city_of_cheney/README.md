@@ -14,7 +14,7 @@
 
 ### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
 
-### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍2  
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 

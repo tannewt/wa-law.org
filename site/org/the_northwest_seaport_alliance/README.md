@@ -35,11 +35,15 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎 Sean Eagan
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+* 👎 Sean Eagan
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+* 👎 Sean Eagan
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

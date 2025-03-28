@@ -21,13 +21,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166611&caId=26761&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166611&caId=26761&tId=4)
 
-#### 255 👍 - Pro
+#### 1251 👍 - Pro
 Testifying:
+* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Alfred Higgins
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* Jacob Vigdor - University of Washington Faculty/Council of Faculty
 
-#### 18 👎 - Con
+#### 667 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Anthony Mixer - Washington State Young Republicans
+* Corey Sherwood - Washington State Young Republicans
+* James Bardecker
+* Cheryl Ritzman
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Sean Graham - Washington State Medical Association
+* Gregor Doerr - Washington State Young Republicans
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Barbara Posthumus - Lake Washington School District

@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205365)
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205365)
 
 ## Meetings
 ### Tue 03/25 10:30 AM - Local Government (LG): SSB 5365 Library funding alternate

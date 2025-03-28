@@ -17,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* SuYoung Yun - APIC WA
+* Seth Muir - Sail Sand Point
 
 #### 0 👎 - Con
 
@@ -53,11 +56,12 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Rachel Downes - Housing Hope
+* Vicki Hammond - HealthPoint (Chief Finance & Administrative Officer)
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: K-12 public schools.  (Remote Testimony Available).
 Sign up to testify:
@@ -72,9 +76,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Wade Smith - Superintendent, Walla Walla Public Schools
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Natural resources. (Remote Testimony Available).
 Sign up to testify:
@@ -87,13 +92,15 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Caroline Villanova - Mountains to Sound Greenway Trust
 * Jordan Rash - Backcountry Hunters and Anglers
 * 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
 * Tyson Johnston - Council, Quinault Indian Nation
+* Chris Chappell - Washington Wild
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: All other. (Remote Testimony Available).
 #### 11 👍 - Pro

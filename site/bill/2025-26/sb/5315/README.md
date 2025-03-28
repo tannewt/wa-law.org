@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 04/04 08:00 AM - Finance (FIN): SB 5315 Local tax rate changes
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33206&aId=166759&caId=26816&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33206&aId=166759&caId=26816&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33206&aId=166759&caId=26816&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33206&aId=166759&caId=26816&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 04/03 08:00 AM - Finance (FIN): SB 5315 Local tax rate changes
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166732&caId=26799&tId=1)

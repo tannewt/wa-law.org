@@ -19,14 +19,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=4)
 
-#### 328 👍 - Pro
+#### 1501 👍 - Pro
 Testifying:
+* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
+* Kathleen Kershner
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Alfred Higgins
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* dhanne Crenshaw - Real change
+* cliff tymony - Real change
+* David Gamage
+* jerome curry
+* priscilla Jacobsen - Real change
+* Jacob Vigdor - University of Washington Faculty/Council of Faculty
 
-#### 23 👎 - Con
+#### 742 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laurie Layne
+* Alexis Bardecker
+* James Bardecker
+* Mike Martinez
+* Dakota Manley - Washington State Young Republicans
+* Gregor Doerr - Washington State Young Republicans
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

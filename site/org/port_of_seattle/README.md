@@ -106,11 +106,15 @@
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 
 * 👎 John Flanagan
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+* 👎 John Flanagan
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+* 👎 John Flanagan
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

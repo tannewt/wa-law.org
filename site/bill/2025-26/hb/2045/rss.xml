@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2045/</link>
 		<description>Updates about HB 2045</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 22:14:45 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 08:30:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,14 @@
 			<pubDate>Mon, 24 Mar 2025 22:14:45 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/03/24/democrats-wealth-property-tax-budget-gap#:~:text=something%20different</guid>
+		</item>
+		<item>
+			<title>👍Councilmember Lindsey Schromen-Wawrin - City of Port Angeles</title>
+			<description>Councilmember Lindsey Schromen-Wawrin signed up to testify Pro. They are signed up to represent City of Port Angeles.</description>
+			<pubDate>Fri, 28 Mar 2025 08:30:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Councilmember Lindsey/Schromen-Wawrin/2025-03-28 08:30:24</guid>
 		</item>
 	</channel>
 </rss>

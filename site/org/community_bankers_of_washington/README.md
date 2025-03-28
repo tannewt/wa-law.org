@@ -35,12 +35,15 @@
 
 ### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax  👎1 
 
-## [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎1 
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎1 
+* 👎💵 Brad Tower
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎💵 Brad Tower
 
 ## 2023-24
 
-### [SB 5754](/bill/2023-24/sb/5754/) - Washington state public bank  👎1 
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
 * 👎💵 Brad Tower
 
 ### [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎2 

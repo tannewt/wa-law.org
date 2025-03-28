@@ -76,11 +76,17 @@
 
 ### [SB 5536](/bill/2025-26/sb/5536/) - Property distrib./divorce 👍1  
 
-## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5576](/bill/2023-24/sb/5576/) - Affordable housing funding 👍2  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1121](/bill/2023-24/hb/1121/) - Uniform child abduction act 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5098/</link>
 		<description>Updates about SB 5098</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Mar 2025 18:24:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1738,6 +1738,20 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>WATCH: Permit-to-purchase gun bill clears another hurdle in WA Senate | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: Permit-to-purchase gun bill clears another hurdle in WA Senate | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 27 Mar 2025 18:24:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_75863a86-3af2-473a-9313-5bc6b5128ace.html#:~:text=Senate%20Bill%205098</guid>
 		</item>
 	</channel>
 </rss>

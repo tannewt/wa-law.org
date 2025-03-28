@@ -54,8 +54,9 @@
 
 ### [HB 1573](/bill/2025-26/hb/1573/) - Oath of office timing/local 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use   ❓1
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 ❓1
 * ❓💵 James Cockburn
+* 👎 Eric ffitch
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels
@@ -166,11 +167,16 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Chris Herman
 
-## [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
+### [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
+
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+* 👎 Chris Herman
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5734](/bill/2023-24/sb/5734/) - Interstate bridge toll bonds 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

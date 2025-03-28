@@ -29,8 +29,12 @@
 
 ### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
 
-## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍1  
+### [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-## [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍1  
+## [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  

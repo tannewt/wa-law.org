@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Caitlin Pham
+* Atasha Velarde
 
 #### 0 ❓ - Other

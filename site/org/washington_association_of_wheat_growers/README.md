@@ -26,11 +26,15 @@
 
 ### [SB 5117](/bill/2025-26/sb/5117/) - Agriculture impacts 👍1  
 
-## [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
+### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+* 👎 Michelle Hennings
 
 ## 2023-24
 
-### [SB 5152](/bill/2023-24/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+* 👎 Michelle Hennings
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

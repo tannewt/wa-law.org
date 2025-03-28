@@ -4,13 +4,14 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Vanessa Kritzer
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍4  
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓2
+* ❓ Vanessa Kritzer
 * ❓ Vanessa Kritzer
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  

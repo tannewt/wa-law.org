@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5041/</link>
 		<description>Updates about SB 5041</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 16:00:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1669,6 +1669,13 @@
 			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-25/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Building a balanced, sustainable budget - Sen. June Robinson</title>
+			<description>News article "Building a balanced, sustainable budget - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Fri, 28 Mar 2025 16:00:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/03/28/building-a-balanced-sustainable-budget/#:~:text=Senate%20Bill%205041</guid>
 		</item>
 	</channel>
 </rss>

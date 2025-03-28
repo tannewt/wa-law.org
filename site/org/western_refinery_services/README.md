@@ -18,11 +18,21 @@
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects  👎1 
 
-## [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
+### [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
+
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate  👎1 
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 
 ## 2023-24
 
-### [SB 5717](/bill/2023-24/sb/5717/) - Driver course/work zones 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
 
 ### [HB 1067](/bill/2023-24/hb/1067/) - High-hazard facility wages  👎2 
 * 👎 Ryan Likkel

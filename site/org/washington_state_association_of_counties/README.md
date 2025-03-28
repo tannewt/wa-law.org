@@ -382,13 +382,13 @@
 ### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
 * 👎💵 Kelsey Hulse
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍2  
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍3  
 * 👍 County Commissioner Heidi Eisenhour
 * 👍 County Commissioner Lisa Janicki
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍2  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍3  
 * 👍 County Commissioner Heidi Eisenhour
 * 👍 County Commissioner Lisa Janicki
 

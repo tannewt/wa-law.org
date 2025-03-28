@@ -10,6 +10,8 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
+### [SB 5484](/bill/2025-26/sb/5484/) - Tow truck payments/indigent 👍1  
+
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Commissioner Carolina Mejia
 

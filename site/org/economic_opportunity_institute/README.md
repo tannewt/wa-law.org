@@ -42,6 +42,10 @@
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 * 👍 Sam Hatzenbeler
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍4  
@@ -90,11 +94,13 @@
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
-## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax 👍1  
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

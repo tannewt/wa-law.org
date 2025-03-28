@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2050/</link>
 		<description>Updates about HB 2050</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 09:16:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,38 @@
 			<pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-24/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎Brian Talbott - Superintendent, East Valley School District (Spokane)</title>
+			<description>Brian Talbott signed up to testify Con. They are signed up to represent Superintendent, East Valley School District (Spokane).</description>
+			<pubDate>Fri, 28 Mar 2025 09:14:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Talbott/2025-03-28 09:14:47</guid>
+		</item>
+		<item>
+			<title>👎Carol Lewis - Moses Lake School District</title>
+			<description>Carol Lewis signed up to testify Con. They are signed up to represent Moses Lake School District.</description>
+			<pubDate>Fri, 28 Mar 2025 09:15:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carol/Lewis/2025-03-28 09:15:17</guid>
+		</item>
+		<item>
+			<title>👎Jeff Baerwald - Superintendent of the Nine Mile Falls School District</title>
+			<description>Jeff Baerwald signed up to testify Con. They are signed up to represent Superintendent of the Nine Mile Falls School District.</description>
+			<pubDate>Fri, 28 Mar 2025 09:16:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Baerwald/2025-03-28 09:16:00</guid>
+		</item>
+		<item>
+			<title>👎Superintendent Michael Porter - Omak School District</title>
+			<description>Superintendent Michael Porter signed up to testify Con. They are signed up to represent Omak School District.</description>
+			<pubDate>Fri, 28 Mar 2025 09:16:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Superintendent Michael/Porter/2025-03-28 09:16:44</guid>
 		</item>
 	</channel>
 </rss>

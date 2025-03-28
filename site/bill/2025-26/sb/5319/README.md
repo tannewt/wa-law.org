@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205319)
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205319)
 
 ## Meetings
 ### Wed 03/26 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5319 Surface mine reclamation

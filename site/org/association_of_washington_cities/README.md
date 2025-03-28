@@ -472,12 +472,15 @@
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 * 👎💵 Candice Bock
 
-## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+* 👍💵 Candice Bock
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 * 👍💵 Candice Bock
 
 ## 2023-24
 
-### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 * 👍💵 Candice Bock
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  

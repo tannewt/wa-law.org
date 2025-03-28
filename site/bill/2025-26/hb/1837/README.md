@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Corrosion problem knocks most Amtrak Cascades trains out of service • Washington State Standard](https://washingtonstatestandard.com/2025/03/27/corrosion-problem-knocks-most-amtrak-cascades-trains-out-of-service/#:~:text=House%20Bill%201837)
+* 03/24/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Legislature Should Advance Amtrak Planning in Central and Eastern Washington - The Urbanist](https://www.theurbanist.org/2025/03/24/op-ed-advance-amtrak-planning-in-central-eastern-washington/#:~:text=House%20Bill%201837)
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Rep. Reed: Improved passenger rail benefits Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/rep-reed-improved-passenger-rail-benefits-washington/#:~:text=HB%201837)
 * 02/05/2025 [The Urbanist](/org/the_urbanist/) - [State Lawmakers Chart Path to Double Amtrak Cascades Service - The Urbanist](https://www.theurbanist.org/2025/02/05/lawmakers-path-to-double-amtrak-cascades-service/#:~:text=House%20Bill%201837)
 
@@ -20,9 +22,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=4)
 
-#### 89 👍 - Pro
+#### 268 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
+* Israel Lopez
 
 #### 0 👎 - Con
 

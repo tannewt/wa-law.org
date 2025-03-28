@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Jack Moriarty - Lafayette Square Institute
+* Steve Storkan - Employee Ownership Expansion Network
 
 #### 0 ❓ - Other

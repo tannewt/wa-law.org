@@ -12,3 +12,17 @@
 * 03/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Tax plan from WA House Democrats could raise nearly $15B • Washington State Standard](https://washingtonstatestandard.com/2025/03/21/tax-plan-from-wa-house-democrats-could-raise-nearly-15b-for-state-budget/#:~:text=House%20Bill%202045)
 
 ## Meetings
+### Thu 04/03 08:00 AM - Finance (FIN): HB 2045 Business and occupation tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=4)
+
+#### 81 👍 - Pro
+Testifying:
+* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
+
+#### 22 👎 - Con
+
+#### 0 ❓ - Other

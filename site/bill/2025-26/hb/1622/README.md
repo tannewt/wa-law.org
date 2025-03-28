@@ -17,19 +17,25 @@
 
 ## Meetings
 ### Fri 03/28 08:00 AM - Labor & Commerce (LC): ESHB 1622 Collective bargaining/AI use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166134&caId=26653&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166134&caId=26653&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166134&caId=26653&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33145&aId=166134&caId=26653&tId=4)
+#### 40 👍 - Pro
+Testifying:
+* Joey Hicklin - Washington
+* Andrew Vander Stoep - City Councilor
+* Cherika Carter - WA State Labor Council AFLCIO
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Davis Powell - SAG-AFTRA
+* Jayson Dick - WA State Nurses Association
+* Jonathan Young - City of SeaTac
+* 💵Christine Reid - IBEW 77
 
-#### 19 👍 - Pro
-
-#### 498 👎 - Con
+#### 610 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Rob Putaansuu - Port Orchard, Mayor
+* 💵Bill Clarke - Washington PUD Association
+* Sandra Mochizuki
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 2 ❓ - Other
 Testifying:

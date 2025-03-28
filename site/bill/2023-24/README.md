@@ -620,7 +620,7 @@
 * [SB 5129](sb/5129) - Nuclear reactor technology 59👍 155👎 1❓ - SRules X
 * [SB 5392](sb/5392) - Concerning overpayments for certain matters. 208👍 2👎 3❓ - C 278 L 23
 * [HB 1633](hb/1633) - Homes for heroes program 9📰 211👍 0👎 1❓ - HCap Budget
-* [HB 1999](hb/1999) - Fabricated intimate images 14📰 201👍 10👎 1❓ - C 88 L 24
+* [HB 1999](hb/1999) - Fabricated intimate images 15📰 201👍 10👎 1❓ - C 88 L 24
 * [SB 5368](sb/5368) - Stay-at-work program 43👍 160👎 8❓ - SRules 3
 * [HB 1164](hb/1164) - Appliance management 180👍 28👎 2❓ - HEnv & Energy
 * [HB 1229](hb/1229) - Voter registration 1📰 124👍 84👎 2❓ - HRules X
@@ -1428,7 +1428,7 @@
 * [SB 5794](sb/5794) - Architecture licensing exams 28👍 0👎 0❓ - SRules 3
 * [SB 5912](sb/5912) - Reentry services & supports 1📰 24👍 0👎 4❓ - SWays & Means
 * [SB 5992](sb/5992) - Water supply/energy sites 1📰 26👍 2👎 0❓ - SEnvironment, E
-* [HB 1300](hb/1300) - Assisted reproduction fraud 5📰 25👍 0👎 2❓ - C 220 L 24
+* [HB 1300](hb/1300) - Assisted reproduction fraud 6📰 25👍 0👎 2❓ - C 220 L 24
 * [HB 1355](hb/1355) - Property tax exemptions 5📰 27👍 0👎 0❓ - C 147 L 23
 * [HB 1531](hb/1531) - Aerospace industry dev. 20👍 4👎 3❓ - HApprops
 * [HB 1620](hb/1620) - Incorporation/population 27👍 0👎 0❓ - C 82 L 23

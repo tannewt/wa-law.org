@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1733/</link>
 		<description>Updates about HB 1733</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 08:07:05 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,6 +217,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mac/Nicholson/2025-03-24 08:07:05</guid>
+		</item>
+		<item>
+			<title>And refer to Transportation.</title>
+			<description>And refer to Transportation.</description>
+			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-27/And refer to Transportation.</guid>
 		</item>
 	</channel>
 </rss>

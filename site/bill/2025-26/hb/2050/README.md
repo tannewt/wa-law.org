@@ -16,6 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 18 👎 - Con
+Testifying:
+* Brian Talbott - Superintendent, East Valley School District (Spokane)
+* Carol Lewis - Moses Lake School District
+* Jeff Baerwald - Superintendent of the Nine Mile Falls School District
+* Superintendent Michael Porter - Omak School District
 
 #### 0 ❓ - Other

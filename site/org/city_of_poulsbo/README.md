@@ -18,11 +18,13 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
-## [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
+### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5333](/bill/2023-24/sb/5333/) - Eluding & resisting arrest 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 * 👍 Kimberly Hendrickson

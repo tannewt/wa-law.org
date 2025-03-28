@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205436)
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205436)
 
 ## Meetings
 ### Wed 03/26 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5436 Worship/access interference

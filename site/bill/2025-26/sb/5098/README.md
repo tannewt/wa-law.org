@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/27/2025 [The Center Square](/org/the_center_square/) - [WATCH: Permit-to-purchase gun bill clears another hurdle in WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_75863a86-3af2-473a-9313-5bc6b5128ace.html#:~:text=Senate%20Bill%205098)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=E2SSB%205098)
 * 03/21/2025 [Washington St Pta](/org/washington_st_pta/) - [Hs Civil Rights & Judiciary SB 5098 - WSPTA](https://www.wastatepta.org/hs-civil-rights-judiciary-sb-5098/#:~:text=E2SSB%205098)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=E2SSB%205098)

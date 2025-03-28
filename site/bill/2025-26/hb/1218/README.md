@@ -15,7 +15,7 @@
 
 ## Meetings
 ### Thu 03/27 10:30 AM - Law & Justice (LAW): E2SHB 1218 Competency eval. & restor.
-#### 35 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * David Frockt - Deputy Policy Director, Office of Governor Bob Ferguson
 * 💵Kimberly Mosolf - Trueblood Plaintiff Counsel
@@ -24,6 +24,7 @@ Testifying:
 * Joe McDermott - State Relations Director | King County
 * Jani Hitchen
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
+* Cheryl Strange - DSHS - HQ
 
 #### 735 👎 - Con
 Testifying:

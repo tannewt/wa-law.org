@@ -76,11 +76,13 @@
 
 ### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍5  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍2  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

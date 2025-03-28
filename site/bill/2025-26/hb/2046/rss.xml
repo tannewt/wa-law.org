@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2046/</link>
 		<description>Updates about HB 2046</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 17:06:35 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 10:44:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,11 +16,34 @@
 			<guid isPermaLink="false">2025-03-24/First reading, referred to Finance.</guid>
 		</item>
 		<item>
+			<title>House Democratic Operating Budget Holds the Line on Housing, Food Assistance, and Maintains Critical Services and Programs – Washington State House Democrats</title>
+			<description>News article "House Democratic Operating Budget Holds the Line on Housing, Food Assistance, and Maintains Critical Services and Programs – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/03/24/house-democratic-operating-budget-holds-the-line-on-housing-food-assistance-and-maintains-critical-services-and-programs/#:~:text=Financial%20Intangible%20Assets%20Tax%20(FIT)</guid>
+		</item>
+		<item>
 			<title>Bring On the Budgets (and the Revenue Ideas!) - WSPTA</title>
 			<description>News article "Bring On the Budgets (and the Revenue Ideas!) - WSPTA" from Washington St Pta.</description>
 			<pubDate>Mon, 24 Mar 2025 17:06:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202046</guid>
+		</item>
+		<item>
+			<title>👍Councilmember Lindsey Schromen-Wawrin - City of Port Angeles</title>
+			<description>Councilmember Lindsey Schromen-Wawrin signed up to testify Pro. They are signed up to represent City of Port Angeles.</description>
+			<pubDate>Fri, 28 Mar 2025 08:29:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Councilmember Lindsey/Schromen-Wawrin/2025-03-28 08:29:38</guid>
+		</item>
+		<item>
+			<title>👎Jared Krogh - City of Port Angeles</title>
+			<description>Jared Krogh signed up to testify Con.</description>
+			<pubDate>Fri, 28 Mar 2025 10:44:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jared/Krogh/2025-03-28 10:44:37</guid>
 		</item>
 	</channel>
 </rss>

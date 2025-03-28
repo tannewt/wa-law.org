@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205206)
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205206)
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Consumer Protection & Business (CPB): ESB 5206 Cannabis advertising

@@ -18,15 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Karina Patel - The Tubman Center for Health and Freedom
 * 💵Mitch Denning - Alliance of Educational Associations
 * Joe Vessey - community health center of snohomish county
+* SuYoung Yun - APIC WA
+* Dave Gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
+* Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
+* Seth Muir - Sail Sand Point
 
 #### 0 👎 - Con
 
-#### 10 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * 💵Erica Hallock - Start Early Washington
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -38,6 +42,8 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Rachel Downes - Housing Hope
+* Sherry Williams - HealthPoint (VP of Community Relations)
+* Wade Smith - Superintendent, Walla Walla Public Schools
 
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
 #### 45 👍 - Pro

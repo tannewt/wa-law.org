@@ -71,8 +71,9 @@
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍6  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍7  
 * 👍 Rhonda Buchanan
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍 Kati Durkin

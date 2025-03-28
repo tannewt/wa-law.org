@@ -32,6 +32,12 @@
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance   ❓1
 * ❓💵 Linda Garcia
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 
@@ -52,11 +58,22 @@
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
+
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+* 👍💵 Linda Garcia
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 

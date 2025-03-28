@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205280)
+* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205280)
 * 03/18/2025 [Senate Democrats](/org/senate_democrats/) - [Fighting for consumers and connecting with you - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/03/18/fighting-for-consumers-and-connecting-with-you/#:~:text=Senate%20Bill%205280)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205280)
 

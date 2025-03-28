@@ -9,9 +9,11 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats split parental and student rights issues into separate bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/28/democrats-in-wa-legislature-shift-approach-to-parental-and-students-rights-bills/#:~:text=House%20Bill%201296)
 * 03/25/2025 [MyNorthwest](/org/mynorthwest/) - [Tim Eyman: Parents no longer No. 1 as House Bill 1296 reverses hard-won rights](https://mynorthwest.com/jason-rantz/eyman-parents-house-bill-1296/4067629#:~:text=House%20Bill%201296)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESHB%201296)
 * 03/22/2025 [House Republicans](/org/house_republicans/) - [Democrats unveil their tax proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/democrats-unveil-their-tax-proposals/#:~:text=House%20Bill%201296)
+* 03/22/2025 [House Republicans](/org/house_republicans/) - [Democrats unveil their tax proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/democrats-unveil-their-tax-proposals/#:~:text=House%20Bill%201296)
 * 03/21/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Democrats announce nearly $20 billion in new and higher taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-90-million-per-year-higher-taxes-businesses/#:~:text=Learn%20more)
 * 03/20/2025 [FOX13](/org/fox13/) - [Fight over parental rights heats up in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/fight-over-parental-rights-washington#:~:text=House%20Bill%201296,)
 * 03/20/2025 [The Center Square](/org/the_center_square/) - [WATCH: Public testimony heats up over bill that would undo some of parents’ rights initiative | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_26909205-81fd-4002-8f63-16766b8c4435.html#:~:text=House%20Bill%201296)
