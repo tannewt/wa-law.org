@@ -20,6 +20,19 @@
 * 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand pregnancy-related workplace accommodations heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/20/nobles-bill-to-expand-pregnancy-related-workplace-accommodations-heard-in-committee/#:~:text=Senate%20Bill%205217)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5217 Pregnancy accommodations
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=4)
+
+#### 21 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5217 Pregnancy accommodations
 #### 212 👍 - Pro
 Testifying:

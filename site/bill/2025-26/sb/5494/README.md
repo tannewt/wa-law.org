@@ -18,12 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166596&caId=26796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166596&caId=26796&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jamie Switras - Now Environmental Services
 * Steven Hoff - LeadClasses.com
+* Mike Lawrence - Now Environmental
+* Mike Lawrence - Now Environmental
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

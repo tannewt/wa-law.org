@@ -180,7 +180,8 @@
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍💵 Candice Bock
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎3 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎4 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
@@ -281,12 +282,16 @@
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
 * 👍💵 Carl Schroeder
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+* 👍💵 Candice Bock
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍2  
 
-### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎2 
+### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎3 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 

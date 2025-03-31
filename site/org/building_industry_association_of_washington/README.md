@@ -166,6 +166,8 @@
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences  👎1 
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
@@ -227,7 +229,7 @@
 
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 
-### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍1 👎2 
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍2 👎2 
 * 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
 
@@ -321,11 +323,17 @@
 ### [SB 5748](/bill/2025-26/sb/5748/) - Impact fees 👍1  
 * 👍💵 Bill Stauffacher
 
-## [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
+### [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+* 👎💵 Jan Himebaugh
 
 ## 2023-24
 
-### [SB 5756](/bill/2023-24/sb/5756/) - Working minors  👎1 
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
+* 👎💵 Jan Himebaugh
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

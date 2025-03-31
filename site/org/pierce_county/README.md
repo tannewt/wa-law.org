@@ -49,11 +49,13 @@
 * 👍 Tricia Bennon
 * 👍 Tricia Bennon
 
-## [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  
+### [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5667](/bill/2023-24/sb/5667/) - Intercity passenger rail 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

@@ -18,8 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166768&caId=26820&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166768&caId=26820&tId=4)
 
-#### 35 👍 - Pro
+#### 577 👍 - Pro
+Testifying:
+* Amy Ockerlander - Mayor, City of Duvall & President, Assoc. of WA Cities
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Traci Buxton - Mayor, City of Des Moines & President, Sound Cities Association
+* Hunter George - Washington Recreation and Park Association
 
-#### 2 👎 - Con
+#### 262 👎 - Con
+Testifying:
+* Laurie Layne
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Tim Eyman - Initiative Activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Barbara Posthumus

@@ -25,6 +25,12 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Denise Rodriguez
 
@@ -37,17 +43,20 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍5  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍5  
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍5  
-* 👍💵 Denise Rodriguez
-* 👍💵 Denise Rodriguez
-* 👍💵 Denise Rodriguez
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan transportation budget to keep projects going, preserve infrastructure, make roads safer - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/24/senate-unveils-bipartisan-transportation-budget-to-keep-projects-going-preserve-infrastructure-make-roads-safer/#:~:text=5160)

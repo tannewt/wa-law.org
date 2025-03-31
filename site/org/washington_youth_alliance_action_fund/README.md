@@ -5,7 +5,7 @@
 
 ### [HB 1259](/bill/2025-26/hb/1259/) - Concerning supervision requirements for behavioral health professionals in elementary and secondary public schools. 👍1  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍5  
 * 👍💵 Chetan Soni
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍2  
@@ -18,7 +18,7 @@
 * 👍 Mahi Malladi
 * 👍 Mahi Malladi
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍2  
 * 👍 Kenia Soriano Hernandez

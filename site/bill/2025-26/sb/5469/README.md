@@ -15,6 +15,19 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205469)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Appropriations (APP): SSB 5469 Rental housing market
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=4)
+
+#### 15 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/20 08:00 AM - Housing (HOUS): SSB 5469 Rental housing market
 #### 539 👍 - Pro
 Testifying:

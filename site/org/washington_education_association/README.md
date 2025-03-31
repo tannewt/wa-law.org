@@ -101,7 +101,7 @@
 
 ### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍2  
 
-### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍2  
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍2  
 
@@ -215,7 +215,7 @@
 
 ### [HB 1619](/bill/2025-26/hb/1619/) - Dockworkers/family leave 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍2  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍3  
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
 
@@ -241,7 +241,7 @@
 
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍2  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities 👍1  
 
@@ -258,7 +258,7 @@
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍3  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
@@ -308,7 +308,7 @@
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍5  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍6  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  
 
@@ -349,7 +349,7 @@
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍2  
 
-### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍2  
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
@@ -425,7 +425,7 @@
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍2  
 
-### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍3  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
@@ -512,6 +512,8 @@
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
 ### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
+
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 

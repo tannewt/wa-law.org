@@ -23,9 +23,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166594&caId=26794&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166594&caId=26794&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Nica Rondinelli
 
-#### 2 👎 - Con
+#### 974 👎 - Con
 
 #### 0 ❓ - Other
 

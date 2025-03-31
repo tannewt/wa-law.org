@@ -52,7 +52,7 @@
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
-### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍1  
+### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍2  
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
@@ -110,6 +110,8 @@
 
 ### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍2  
 
+### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
+
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
@@ -123,6 +125,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 * 👍 Dan Eder
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 

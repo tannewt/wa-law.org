@@ -22,6 +22,12 @@
 
 ### [HB 2012](/bill/2025-26/hb/2012/) - Transition to kindergarten   ❓1
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
@@ -39,17 +45,26 @@
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍4  
 
 ### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.   ❓1
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.   ❓1
 * ❓💵 Emily Murphy
+
+### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten   ❓1
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.   ❓1
-* ❓💵 Emily Murphy
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

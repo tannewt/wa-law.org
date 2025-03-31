@@ -14,6 +14,19 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205175)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Appropriations (APP): E2SSB 5175 Photovoltaic modules
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166835&caId=26871&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166835&caId=26871&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166835&caId=26871&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166835&caId=26871&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/20 08:00 AM - Environment & Energy (ENVI): E2SSB 5175 Photovoltaic modules
 #### 74 👍 - Pro
 Testifying:

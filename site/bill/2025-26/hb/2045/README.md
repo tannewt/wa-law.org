@@ -19,10 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=4)
 
-#### 81 👍 - Pro
+#### 943 👍 - Pro
 Testifying:
+* Nicholas Mendes
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 
-#### 22 👎 - Con
+#### 352 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Laurie Layne
+* Tim Eyman - Initiative Activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Oliver Miska

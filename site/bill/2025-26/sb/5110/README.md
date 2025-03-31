@@ -13,6 +13,19 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205110)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Appropriations (APP): SB 5110 Tribal elder tuition waivers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=4)
+
+#### 4 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5110 Tribal elder tuition waivers
 #### 19 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍1  
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍2  
 
 ### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences  👎1 
 
@@ -17,13 +17,13 @@
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍2  
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍4  
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
@@ -36,9 +36,11 @@
 ### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
 * 👍 Jasmine Minbashian
 
+### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
+
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 
@@ -48,7 +50,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍3  
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 
@@ -69,6 +71,8 @@
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
 
 ### [SB 5556](/bill/2025-26/sb/5556/) - Adopt-a-highway program 👍1  
+
+### [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
 
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 

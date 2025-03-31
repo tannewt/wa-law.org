@@ -14,6 +14,23 @@
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201131)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1131 Clemency and pardons
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166781&caId=26828&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166781&caId=26828&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166781&caId=26828&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166781&caId=26828&tId=4)
+
+#### 25 👍 - Pro
+Testifying:
+* Waldo Waldron-Ramsey - Political Director, Washington Community Action Network
+
+#### 1 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 01:30 PM - Human Services (HS): E2SHB 1131 Clemency and pardons
 #### 225 👍 - Pro
 Testifying:

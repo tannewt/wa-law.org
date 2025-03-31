@@ -55,6 +55,40 @@
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [House and Senate Shift Back to Committee Activity This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03182025#:~:text=H.B.%201217)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Ways & Means (WM): EHB 1217 Residential tenants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=4)
+
+#### 473 👍 - Pro
+Testifying:
+* Talauna Reed - Tenants Union of WA State
+* Leigh Christianson - Oly Rollers Home Owners
+* Morag Logan
+* Morag Logan
+* Morag Logan
+* Jonathan Vesikuru - CJA
+
+#### 919 👎 - Con
+Testifying:
+* Greg Lovern
+* Bruce Becker - Bruce Becker
+* Spencer Boudreau - DHI Properties
+* Jay Parker
+* Robin Rask
+* Gordon Haggerty
+* Gordon Haggerty
+* DAVID NAGEL
+* Noah Meehan
+* Noah Meehan - Washington State Young Republicans
+* CONSTANCE NELSON
+
+#### 2 ❓ - Other
+Testifying:
+* David Toler - Olympia for All
+
 ### Wed 03/19 01:30 PM - Housing (HSG): EHB 1217 Residential tenants
 #### 5253 👍 - Pro
 Testifying:

@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=4)
 
-#### 428 👍 - Pro
+#### 1604 👍 - Pro
 Testifying:
 * Brennan Blue - Fire Chief, City of Vancouver
 * Fred Brink - Dep. Mayor, West Richland and Vice President, Assoc. WA Cities
@@ -36,8 +36,11 @@ Testifying:
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * Bryan Raines - Rural Resources
 * Mike Cohen - Bellingham Food Bank
+* King County Sheriff Patti Cole-Tindall - King County Sheriff
+* Thurston County Prosecuto Jon Tunheim - Thurston County Prosecutor
+* Nate Bloch
 
-#### 5874 👎 - Con
+#### 29514 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -80,34 +83,229 @@ Testifying:
 * Carrianne Litowitz - 602 S 242nd
 * 💵Nicholas Johnson
 * Jake Bond
+* Kathleen Backous
+* Cody Bender
+* Michelle Pinkowski
+* Len Pinkowski
+* sue taylor
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Daryl Johnson - Daryl.allan.johnson@gmail.com
+* Barbara Kuehne
+* Noah Frisch
 * Gregory Forrest
+* Julie Webb
+* Carol Barmor
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Carl Shorett - NAIOP WA
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mary Hull-Drury - Washington Realtors
+* Steven Duenkel
+* Ray Stewart
+* Carmen Stewart - 1731 SW 359th St
+* Kathleen Backous
+* Laurel Mayer
+* Brandon Bayne
+* John Madison
+* Nate Cruise
+* Teri Machtmes
+* Alan Machtmes
+* Chris Hamilton
+* Gary Lemenager
+* Dawn Moler
+* Dawn Moler
 * Brianna Leitz
+* Mark Long
 * James Munn
+* Allison Nester
+* Doug Bright
+* Doug Bright
+* Adam Paull
+* Matthew Van Hoy
+* David Burnett
+* Kevin Smith
 * michael Stebor
 * James Perdue
+* Corrie Casey
 * Dan Lisherness
+* Casey Turner
+* Amy Milam
 * Mike Martinez
 * Melody Jones
+* Mark Emmett
+* Monique Chastain
+* Sean Reading
 * Courtney Wardius
+* Matthew Van Hoy
+* Mike Hasbrouck
+* Zachary Strycharz
+* Hollie Rogge
+* Susan Strickland
+* Lonnie Leeds
+* Kurt Strickland
+* Andrea Maiuri
+* Michelle M Chappell
 * Garrett Kerschner
+* Betsie Elliott
 * Colin Fisher
 * Mark Swanson
 * Kasey Rupert-O’Neill
 * Shawn Frederick
+* Hillary Sewell
 * Christina Swanson
 * Erin Moore
+* Rena Lehn
+* Jacob Lehn
 * Stephanie Johnson
 * Sarah Baskins
+* Robert McLellan
 * Kevin Whittenberger
 * Mel Byrd
 * Joe Torrid
+* Benita Saatvedt
 * Michael Gruener
+* Bob Reeves
+* TaraLyn Fray
+* Jennifer Tyger
 * Kari Cornfield - Mortgage lender
+* Marcia Collins
+* Mark Murphy
 * John Hamilton
+* Aryana Meza
+* Aryana Meza
 * Eric Fisher
+* Tony Martinez
 * Gregor Doerr - Washington State Young Republicans
 * Duncan Vance
+* James Mach
 * Victoria Bloom
+* Patrick Sparre
+* Thomas Turner
+* Jimmy Ranson
+* Tony Ferrante - Ferrantes Cafe
 * Barbara Horiuchi
+* James Sipe
+* Brad Arleth
+* Carrie Adelstein
+* Paul Jacobs
+* Ramie Kallinen
+* Dwayne Erickson
+* Richard Martin
+* Julie Dowell
+* David Dowell - xxx-xx-xxxx
+* Laura Carl - 519 W Barnes rd
+* Tammy Wagoner
+* Dean Olin
+* david delaney
+* Jason Sherman
+* Christopher Sylvia
+* Craig Rahr
+* Saif Vazquez
+* Spencer Hawn
+* Jon Bolinger
+* Joshua Twilley
+* Sergey Kioroglo
+* Kriss Bailey
+* Justin Bailey
+* Moira Bugler
+* Yelena Dovgal
+* Rebecca Geiger
+* Jeremy Ruse
+* Monty Henderson
+* Maryanne Coffman
+* Cyrus Asasy
+* Helen Covey
+* Stephanie Lisherness
+* Christina Swanson
+* Lawrence Kuchler
+* Deloris Kuchler
+* Afton Herron
+* Michele Marshall
+* Kevin Rogers
+* Eric Molina
+* Heidi Deese
+* Ann Finn
+* Rania H
+* David Sherman
+* Zachary Sofich
+* Zack Velasco
+* Daniel Martin
+* Tigran Zakaryan
+* Quinn Tercero
+* Josh Watts
+* Jeff Pack
+* Stanley Peters
+* Derek Whitten
+* Heidi Griffith
+* Valorie Chalk
+* Elizabeth Christie
+* James Washburn
+* Dan Lisherness
+* Terri Jeffrey
+* Indy Dehal
+* Joseph Payne - Joseph Payne
+* Lindsay Gates
+* Lori Beach
+* Ashton Beach
+* Wendy Geer
+* Don Cuffel
+* Fin D
+* Meredith Baty
+* William Harrison
+* Eva New
+* Tarah Kimbrough
+* Patrick Campbell
+* Laura Mollet
+* Sharon Sloan
+* Cindy Tucker
+* Christopher Smith
+* Brandon Donnelson
+* Jessica Oliver
+* Rick Reber
+* Sarah Sweborg
+* Robert Lewis
+* Jon Georg
+* Ron Martinsen
+* Rolf Bentsen
+* Pascal Warren - 103 w 4th Ave
+* Eduardo Zepeda
+* Rebecca Faust
+* Hanna Biahanskaya
+* Darin Palmer
+* TinaMarie King
+* Marina Hayrapetyan
+* Joseph Paul
+* Chor Ng
+* Stephanie Stanley
+* Blanca Pocasangre
+* Liza Simmonds
+* Bree Wolfe
+* Greg Pinkerton
+* John Hennessey
+* Jeffrey Growden
+* Rebecca Taylor
+* Yanka Boyadzhieva
+* Jeff Myers
+* Michael Simonitch
+* Pei Chen
+* Matthew Van Hoy
+* Marla Abrams
+* David Church
+* Hailey Irvine
+* Randall Brolander
+* Nicole Borys
+* Beryl Carter
+* Beryl Carter
+* Adam Turner
+* Sean Scholes
+* Hannah EVANS
+* Renee Navlet
+* Renee Navlet
+* Judith Smith
+* Stacy Shepherd
+* John Roskelley
+* Vinod Reddy Gopi Reddy
 
-#### 14 ❓ - Other
+#### 94 ❓ - Other
+Testifying:
+* Joel Jensen
+* Trayton Shelton

@@ -97,11 +97,15 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
+
+## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+* 👍💵 Emily Brice
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍2  
+### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax 👍1  
+* 👍💵 Emily Brice
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

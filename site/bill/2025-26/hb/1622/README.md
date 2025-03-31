@@ -16,6 +16,31 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201622)
 
 ## Meetings
+### Mon 03/31 10:30 AM - Labor & Commerce (LC): ESHB 1622 Collective bargaining/AI use
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=4)
+
+#### 7 👍 - Pro
+Testifying:
+* Jonathan Young - City of SeaTac
+* Davis Powell - SAG AFTRA
+* Joey Hicklin - WPEA
+
+#### 554 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* LaDon Linde - Yakima County Commissioner
+* Rob Putaansuu - City of Port Orchard, Mayor
+
+#### 3 ❓ - Other
+Testifying:
+* Angela Kleis - Washington Technology Services (WaTech)
+* Sheri Sawyer - Office of Financial Management
+
 ### Fri 03/28 08:00 AM - Labor & Commerce (LC): ESHB 1622 Collective bargaining/AI use
 #### 40 👍 - Pro
 Testifying:

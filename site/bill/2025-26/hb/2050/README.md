@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 18 👎 - Con
+#### 36 👎 - Con
 Testifying:
+* Mandi Rehn - Valley School District Superintendent
+* Dana Rosenbach - North Mason School District Number 403
 * Brian Talbott - Superintendent, East Valley School District (Spokane)
 * Carol Lewis - Moses Lake School District
 * Jeff Baerwald - Superintendent of the Nine Mile Falls School District
 * Superintendent Michael Porter - Omak School District
+* Charlie Brown - South Sound Superintendents, Federal Way Public Schools
 
 #### 0 ❓ - Other

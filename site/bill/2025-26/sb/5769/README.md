@@ -10,6 +10,21 @@
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205769)
 
 ## Meetings
+### Wed 04/02 04:00 PM - Appropriations (APP): ESB 5769 Transition to kindergarten
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=4)
+
+#### 0 👍 - Pro
+
+#### 29 👎 - Con
+
+#### 3 ❓ - Other
+Testifying:
+* Nate Bloch - Student
+
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5769 Transition to kindergarten
 #### 62 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 * 👍💵 Josh Weiss
 * 👍💵 Josh Weiss
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ## [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 * 👍💵 Josh Weiss

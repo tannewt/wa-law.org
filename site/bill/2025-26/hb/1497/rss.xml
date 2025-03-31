@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1497/</link>
 		<description>Updates about HB 1497</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 30 Mar 2025 12:25:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -336,6 +336,14 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍💵Heather Trim - Zero Waste Washington</title>
+			<description>Heather Trim signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/zero_waste_washington/"&gt;Zero Waste Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 30 Mar 2025 12:25:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Trim/2025-03-30 12:25:11</guid>
 		</item>
 	</channel>
 </rss>

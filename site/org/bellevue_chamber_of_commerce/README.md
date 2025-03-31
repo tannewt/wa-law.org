@@ -15,6 +15,10 @@
 * 👍💵 Jodie Alberts
 * 👍 Nikki Stuck
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
@@ -22,11 +26,15 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍 Jode Alberts
 
-## [SB 5755](/bill/2025-26/sb/5755/) - Residential dev./commercial 👍1  
+### [SB 5755](/bill/2025-26/sb/5755/) - Residential dev./commercial 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
 
 ## 2023-24
 
-### [SB 5755](/bill/2023-24/sb/5755/) - Residential dev./commercial 👍1  
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax  👎1 
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓2
 * ❓💵 Jodie Alberts

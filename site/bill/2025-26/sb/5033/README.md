@@ -12,6 +12,23 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205033)
 
 ## Meetings
+### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5033 Biosolids/PFAS chemicals
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166804&caId=26849&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166804&caId=26849&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166804&caId=26849&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166804&caId=26849&tId=4)
+
+#### 41 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Darlene Schanfald
+
 ### Mon 03/17 01:30 PM - Environment & Energy (ENVI): SSB 5033 Biosolids/PFAS chemicals
 #### 445 👍 - Pro
 Testifying:

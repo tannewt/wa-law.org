@@ -59,7 +59,15 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
+### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
+
+### [HB 2040](/bill/2025-26/hb/2040/) - ABD assistance recovery  👎1 
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍2  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
@@ -104,13 +112,18 @@
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍2  
 * 👍 Molly Gallagher
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍2  
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍2  
 * 👍 Molly Gallagher
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍2  
-* 👍 Molly Gallagher
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

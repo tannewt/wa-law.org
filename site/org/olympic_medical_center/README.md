@@ -1,13 +1,16 @@
 # Olympic Medical Center
 ## 2025-26
 
-## [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy 👍1  
+### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy 👍1  
 * 👍 Isaac Ballou
+
+## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+* 👎 John Nutter
 
 ## 2023-24
 
-### [SB 5124](/bill/2023-24/sb/5124/) - SNF & rehab network adequacy 👍1  
-* 👍 Isaac Ballou
+### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎1 
+* 👎 John Nutter
 
 ### [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 

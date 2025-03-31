@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5163/</link>
 		<description>Updates about SB 5163</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 07:50:29 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -156,6 +156,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Katie/Eilers/2025-03-25 07:50:29</guid>
+		</item>
+		<item>
+			<title>ELHS - Executive action taken by committee.</title>
+			<description>ELHS - Executive action taken by committee.</description>
+			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-28/ELHS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

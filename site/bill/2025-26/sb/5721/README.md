@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166486&caId=26791&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166486&caId=26791&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Justin Morgan - 100 n Howard st
+* David Forte - Office of the Insurance Commissioner
 
-#### 0 👎 - Con
+#### 330 👎 - Con
 
 #### 0 ❓ - Other
 

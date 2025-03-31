@@ -16,11 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166665&caId=26757&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166665&caId=26757&tId=4)
 
-#### 2 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* Ben Zarlingo - [City of Everett](/org/city_of_everett/)
 
-#### 1 👎 - Con
+#### 2103 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Julie Dowell
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Mon 01/27 04:00 PM - Transportation (TR): HB 1423 Vehicle noise cameras
 #### 19 👍 - Pro

@@ -39,11 +39,13 @@
 * ❓💵 John Rothlin
 * ❓💵 John Rothlin
 
-## [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+
+## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
 ## 2023-24
 
-### [SB 5491](/bill/2023-24/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎1 
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 * 👍💵 John Rothlin

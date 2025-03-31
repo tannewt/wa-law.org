@@ -15,6 +15,21 @@
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205219)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Appropriations (APP): ESSB 5219 Partial confinement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=4)
+
+#### 72 👍 - Pro
+
+#### 27 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5219 Partial confinement
 #### 136 👍 - Pro
 Testifying:

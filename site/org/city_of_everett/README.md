@@ -21,6 +21,9 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
+### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍1  
+* 👍 Ben Zarlingo
+
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  

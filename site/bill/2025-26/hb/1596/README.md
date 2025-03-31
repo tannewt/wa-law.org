@@ -24,7 +24,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=4)
 
-#### 13 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * DAVID SALE
 * Lori Markowitz
@@ -32,10 +32,15 @@ Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Peter Bengtson - Parents of Ellen Bengtson
 * Ken Denton - LifeSafer
+* 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
+* THEODORE SMITH
+* Sadie Haag
 
-#### 1 👎 - Con
+#### 15 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
 
 ### Thu 01/30 04:00 PM - Transportation (TR): HB 1596 Speeding
 #### 71 👍 - Pro

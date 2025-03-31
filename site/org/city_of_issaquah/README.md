@@ -24,11 +24,13 @@
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍2  
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1549/</link>
 		<description>Updates about HB 1549</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 12:28:10 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 29 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -271,6 +271,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Tiffany/Scroggs/2025-03-25 12:28:10</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Rules Committee for second reading.</title>
+			<description>On motion, referred to Rules Committee for second reading.</description>
+			<pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-29/On motion, referred to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

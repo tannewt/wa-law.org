@@ -23,9 +23,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166695&caId=26777&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166695&caId=26777&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * William Belden - SBCTC
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 0 👎 - Con
 

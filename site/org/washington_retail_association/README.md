@@ -120,7 +120,7 @@
 * ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
-### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
+### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍2  
 
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎💵 Crystal Leatherman
@@ -210,7 +210,8 @@
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 * 👍💵 Mark Johnson
 
-### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍2  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
@@ -243,7 +244,7 @@
 * 👍💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 * 👎💵 Crystal Leatherman

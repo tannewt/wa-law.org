@@ -48,11 +48,13 @@
 
 ### [SB 5712](/bill/2025-26/sb/5712/) - Industrial stormwater permit  👎1 
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

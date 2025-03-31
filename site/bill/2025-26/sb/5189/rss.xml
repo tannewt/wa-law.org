@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5189/</link>
 		<description>Updates about SB 5189</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Mar 2025 18:49:33 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 30 Mar 2025 06:21:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -460,6 +460,14 @@
 			<pubDate>Fri, 21 Mar 2025 18:49:33 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5189</guid>
+		</item>
+		<item>
+			<title>👍Nica Rondinelli - Washington Public Utility District Association</title>
+			<description>Nica Rondinelli signed up to testify Pro.</description>
+			<pubDate>Sun, 30 Mar 2025 06:21:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nica/Rondinelli/2025-03-30 06:21:29</guid>
 		</item>
 	</channel>
 </rss>

@@ -43,6 +43,37 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Nick Brown testifies in support of ‘permit to purchase’ legislation | Washington State](https://www.atg.wa.gov/news/news-releases/ag-nick-brown-testifies-support-permit-purchase-legislation#:~:text=HB%201163)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1163 Firearm purchase
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=4)
+
+#### 13 👍 - Pro
+
+#### 1457 👎 - Con
+Testifying:
+* Teodorin Morca
+* Daniel Mitchell - Washington Civil Rights Association
+* Michael Smart
+* Christopher Thompson - Retired Federal Officer
+* Michelle Schreiber
+* Laurie Layne
+* Jane Milhans
+* Hugo Cardenas
+* Richard Zhu
+* Ryan Rife
+* Zain Fares Boulos
+* Michael McKinley
+* Derek Berry
+* Noah Meehan - Washington State Young Republicans
+* Zachary Andersen - zande123@gmail.com
+* 💵George Allen
+* Russell Franklin
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): E2SHB 1163 Firearm purchase
 #### 911 👍 - Pro
 Testifying:

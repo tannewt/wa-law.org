@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Ways & Means (WM): ESHB 1430 APRN & PA reimbursement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=4)
+
+#### 45 👍 - Pro
+Testifying:
+* Natalie Paul - Lavender Spectrum Health
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): ESHB 1430 APRN & PA reimbursement
 #### 764 👍 - Pro
 Testifying:

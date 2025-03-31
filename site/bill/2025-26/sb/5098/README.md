@@ -44,6 +44,30 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/#:~:text=Senate%20Bill%205098)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Appropriations (APP): E2SSB 5098 Weapons in certain areas
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=4)
+
+#### 10 👍 - Pro
+
+#### 1472 👎 - Con
+Testifying:
+* Anthony Triplett - All In A Days Work
+* Jane Milhans
+* Scott howells
+* Debra Donahue
+* Andrew Tan
+* Phil Sanford
+* Ethan Paine
+* 💵George Allen
+* Eric Hembury
+* Cory Causey
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5098 Weapons in certain areas
 #### 1366 👍 - Pro
 Testifying:

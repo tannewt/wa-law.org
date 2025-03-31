@@ -12,6 +12,19 @@
 * 03/05/2025 [House Democrats](/org/house_democrats/) - [Rep. Cortes: ‘Standardize Juvenile Diversion Programs, Cut Recidivism Rates’ – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/rep-cortes-standardize-juvenile-diversion-programs-cut-recidivism-rates/#:~:text=House%20Bill%201391)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1391 Court alternatives/youth
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=4)
+
+#### 5 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/19 08:00 AM - Human Services (HS): 2SHB 1391 Court alternatives/youth
 #### 65 👍 - Pro
 Testifying:

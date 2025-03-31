@@ -27,6 +27,10 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2

@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=4)
 
-#### 1501 👍 - Pro
+#### 3950 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Kathleen Kershner
@@ -32,16 +32,56 @@ Testifying:
 * jerome curry
 * priscilla Jacobsen - Real change
 * Jacob Vigdor - University of Washington Faculty/Council of Faculty
+* Soumyo Lahiri-Gupta - OneAmerica
+* 💵Radu Smintina - School's Out Washington
+* Cathy Habib
+* Corinne Miles
+* Sandra Sanchez
+* Manousos Kaouidis
+* 💵Rian Watt
+* Stephan Blanford
+* Bronti Lemke
+* Bryan Kirschner
+* David Gamage
+* Charles Mayer MD MPH
+* Jessica Olsen
+* Sam McVeety
+* Blanca Gutierrez
+* Odessa Paule
+* Phyllis Hatfield
+* Emily Merriweather
+* Joe Colón
+* Natacia Louvier
+* Kathleen Swaney
+* Katie Wilson - Transit Riders Union
+* 💵Matthew Lang - National Organization for Women - WA
+* 💵Myle Tang - Stand for Children WA
 
-#### 742 👎 - Con
+#### 5238 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laurie Layne
 * Alexis Bardecker
 * James Bardecker
+* Barbara Kuehne
 * Mike Martinez
+* William Hole
+* Mark Townes
 * Dakota Manley - Washington State Young Republicans
+* TaraLyn Fray
 * Gregor Doerr - Washington State Young Republicans
+* Jimmy Ranson
+* Julie Dowell - Protection-1 EMS
+* David Dowell
+* Sharon Hanek
+* Indy Dehal
+* Cody Ruscheinsky - Washington State Young Republicans
+* Cindy Tucker
+* Rebecca Faust
+* Liza Simmknds
+* Judith Smith
 
-#### 2 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* Nate Bloch

@@ -682,11 +682,17 @@
 
 ### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 
-## [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
+### [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
+
+## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎2 
+* 👎 Max Martin
+* 👎 Max Martin
 
 ## 2023-24
 
-### [SB 5777](/bill/2023-24/sb/5777/) - Payment card processing/tax 👍1  
+### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎2 
+* 👎 Max Martin
+* 👎 Max Martin
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

@@ -13,6 +13,22 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201551)
 
 ## Meetings
+### Mon 03/31 10:30 AM - Labor & Commerce (LC): ESHB 1551 Cannabis social equity prg.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=4)
+
+#### 1 👍 - Pro
+
+#### 547 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Julie Dowell
+
+#### 0 ❓ - Other
+
 ### Fri 03/28 08:00 AM - Labor & Commerce (LC): ESHB 1551 Cannabis social equity prg.
 #### 1 👍 - Pro
 Testifying:

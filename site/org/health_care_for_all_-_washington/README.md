@@ -19,6 +19,12 @@
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
@@ -38,11 +44,17 @@
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
 
-## [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
+### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5568](/bill/2023-24/sb/5568/) - State health plan 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 * 👍 Ronnie Shure

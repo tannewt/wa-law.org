@@ -13,6 +13,19 @@
 * 03/12/2025 [House Democrats](/org/house_democrats/) - [House passes Simmons bill to ensure coverage for life-saving mental health care – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/house-passes-simmons-bill-to-ensure-coverage-for-life-saving-mental-health-care/#:~:text=House%20Bill%201432)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1432 Mental health services
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=4)
+
+#### 77 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1432 Mental health services
 #### 856 👍 - Pro
 Testifying:

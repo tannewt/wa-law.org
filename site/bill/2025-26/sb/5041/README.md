@@ -26,6 +26,21 @@
 * 01/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Legislature looks again at unemployment benefits for striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/01/21/debate-revived-in-wa-legislature-over-unemployment-benefits-for-striking-workers/#:~:text=Senate%20Bill%205041)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Appropriations (APP): ESSB 5041 Unemp ins/strikes & lockouts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=4)
+
+#### 35 👍 - Pro
+Testifying:
+* Lynette Shiroma
+
+#### 29 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5041 Unemp ins/strikes & lockouts
 #### 2319 👍 - Pro
 Testifying:

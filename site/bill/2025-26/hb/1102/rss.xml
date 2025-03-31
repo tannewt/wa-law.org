@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1102/</link>
 		<description>Updates about HB 1102</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 20 Mar 2025 12:29:42 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 29 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,6 +239,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Allen/Acosta/2025-03-20 12:29:42</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-29/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

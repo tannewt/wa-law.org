@@ -12,7 +12,7 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍5  
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍6  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
@@ -47,7 +47,8 @@
 * 👍 Moji Igun
 * 👍💵 Heather Trim
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍3  
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍5  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
@@ -71,7 +72,8 @@
 * 👎💵 Heather Trim
 * ❓💵 Heather Trim
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍5  
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍7  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim

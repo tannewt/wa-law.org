@@ -18,12 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166767&caId=26819&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166767&caId=26819&tId=4)
 
-#### 71 👍 - Pro
+#### 900 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Soumyo Lahiri-Gupta - OneAmerica
 
-#### 21 👎 - Con
+#### 150 👎 - Con
 Testifying:
+* Laurie Layne
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Brandie Bills
 * Jared Krogh
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

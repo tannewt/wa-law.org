@@ -58,6 +58,32 @@
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201296)
 
 ## Meetings
+### Fri 04/04 01:30 PM - Ways & Means (WM): ESHB 1296 Public education system
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=4)
+
+#### 225 👍 - Pro
+Testifying:
+* EUNICE Ingermanson
+* Pat Taylor
+
+#### 1010 👎 - Con
+Testifying:
+* Eric Lundberg
+* Khushdip Brar
+* Jennifer Heine-Withee - FPIW Action
+* Christian Nelson
+* Amanda McKinney - Yakima County Commissioner
+* Gabriel Jacobs
+* Noah Meehan - Washington State Young Republicans
+
+#### 1 ❓ - Other
+Testifying:
+* Nate Bloch - Student
+
 ### Thu 03/20 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1296 Public education system
 #### 1356 👍 - Pro
 Testifying:

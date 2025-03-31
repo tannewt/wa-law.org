@@ -11,7 +11,7 @@
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍3  
 
@@ -24,11 +24,13 @@
 
 ### [HB 1205](/bill/2025-26/hb/1205/) - Forged digital likeness 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1252](/bill/2025-26/hb/1252/) - Pretrial release 👍1  
 
 ### [HB 1265](/bill/2025-26/hb/1265/) - Commercial sexual exploit. 👍1  
+
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
 ### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍1  
 
@@ -46,14 +48,16 @@
 
 ### [HB 1848](/bill/2025-26/hb/1848/) - Traumatic brain injuries 👍1  
 
-### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 * 👍 Rosalind Arch
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 
 ### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
+
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
 
@@ -64,6 +68,8 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 * 👍💵 Melanie Smith
+
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
 
@@ -78,15 +84,17 @@
 
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
 
-### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
 
-### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍2  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍2  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍2  
 
 ### [HB 1121](/bill/2023-24/hb/1121/) - Uniform child abduction act 👍1  
 

@@ -45,7 +45,7 @@
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍4  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍5  
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍2  
 

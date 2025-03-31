@@ -141,7 +141,8 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎3 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎4 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
@@ -316,6 +317,8 @@
 * 👍 BRIAN ENSLOW
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5484](/bill/2025-26/sb/5484/) - Tow truck payments/indigent 👍1  
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
 

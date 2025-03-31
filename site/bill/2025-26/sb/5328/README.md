@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166485&caId=26790&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166485&caId=26790&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 343 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/25 01:30 PM - Consumer Protection & Business (CPB): SSB 5328 Earned wage access services
 #### 0 👍 - Pro

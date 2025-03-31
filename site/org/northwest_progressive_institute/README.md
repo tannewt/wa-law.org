@@ -78,11 +78,15 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5802](/bill/2025-26/sb/5802/) - Rebalancing statutory fund transfers and revenue dedications for transportation.  👎1 
+* 👎 Andrew Villeneuve
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5802](/bill/2023-24/sb/5802/) - Rebalancing statutory fund transfers and revenue dedications for transportation.  👎1 
+* 👎 Andrew Villeneuve
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

@@ -16,9 +16,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 6 👎 - Con
+#### 26 👎 - Con
 Testifying:
+* Nikita Agarwal
 * Jack Moriarty - Lafayette Square Institute
 * Steve Storkan - Employee Ownership Expansion Network
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Matthew Licina - National Center for Employee Ownership

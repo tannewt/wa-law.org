@@ -1,7 +1,8 @@
 # Washington Association of Land Trusts
 ## 2025-26
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓2
+* ❓ Vanessa Kritzer
 * ❓ Vanessa Kritzer
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍4  

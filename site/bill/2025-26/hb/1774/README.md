@@ -15,13 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=4)
 
-#### 6 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Betsy Wilkerson - Council President, City of Spokane
+* Donald Pugnetti Jr
+* Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 
-#### 0 👎 - Con
+#### 365 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jennifer Saunders - Washington State Historical Society
+* Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
 
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1774 Lease of unused highway land
 #### 35 👍 - Pro

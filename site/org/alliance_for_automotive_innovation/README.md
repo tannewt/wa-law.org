@@ -16,13 +16,14 @@
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
 * 👎💵 Brandon Houskeeper
 
-## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale  👎1 
+### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale  👎1 
 * 👎 Curt Augustine
+
+## [SB 5721](/bill/2025-26/sb/5721/) - Automobile insurance 👍1  
 
 ## 2023-24
 
-### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale  👎1 
-* 👎 Curt Augustine
+### [SB 5721](/bill/2023-24/sb/5721/) - Automobile insurance 👍1  
 
 ### [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 

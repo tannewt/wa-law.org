@@ -4,7 +4,8 @@
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
 * 👍💵 Sienna Jarrard
 
-### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍2  
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍4  
+* 👍💵 Sienna Jarrard
 * 👍💵 Sienna Jarrard
 * 👍💵 Sienna Jarrard
 

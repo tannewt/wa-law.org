@@ -22,14 +22,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=4)
 
-#### 268 👍 - Pro
+#### 600 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * Israel Lopez
+* Lael White - Climate Rail Alliance
+* Andrew Villeneuve - Northwest Progressive Institute / Executive Director
+* Andrew Jungkuntz
+* Brian King - Retired
+* Brandon Bowersox-Johnson - 350 Seattle
+* Arvia Morris - Environment and Climate Caucus of the Washington State Democrats
+* Brandon Bowersox-Johnson - 350 Seattle
+* Meghan Anderson - Kittitas Climate Action
+* Arvia Morris - Environment and Cliamate Caucus of the Washington State Democrats
 
-#### 0 👎 - Con
+#### 338 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1837 Intercity passenger rail
 #### 1032 👍 - Pro

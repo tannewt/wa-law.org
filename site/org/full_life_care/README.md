@@ -8,17 +8,16 @@
 
 ### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
 
-## [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓3
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓3
 * ❓ Hannah Brendemuhl
 * ❓ Cricket Farr
 * ❓ Stacy Christ
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5167](/bill/2023-24/sb/5167/) - Operating budget   ❓3
-* ❓ Hannah Brendemuhl
-* ❓ Cricket Farr
-* ❓ Stacy Christ
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

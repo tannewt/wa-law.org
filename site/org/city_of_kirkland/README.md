@@ -25,7 +25,7 @@
 
 ### [HB 1165](/bill/2025-26/hb/1165/) - Property tax exemptions 👍1  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
@@ -50,6 +50,8 @@
 
 ### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding 👍1  
 
+### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
@@ -64,9 +66,13 @@
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 
+### [HB 1902](/bill/2025-26/hb/1902/) - Transp. project permitting 👍1  
+
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
 
@@ -114,6 +120,8 @@
 ### [SB 5697](/bill/2025-26/sb/5697/) - Social services/property tax 👍1  
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 

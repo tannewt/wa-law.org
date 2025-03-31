@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 04/02 04:00 PM - Appropriations (APP): SSB 5314 Capital gains tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166801&caId=26846&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166801&caId=26846&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166801&caId=26846&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166801&caId=26846&tId=4)
+
+#### 3 👍 - Pro
+
+#### 24 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 04:00 PM - Ways & Means (WM): SB 5314 Capital gains tax
 #### 19 👍 - Pro
 Testifying:

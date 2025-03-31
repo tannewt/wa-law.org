@@ -12,6 +12,19 @@
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205583)
 
 ## Meetings
+### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5583 Fishing and hunting licenses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=4)
+
+#### 1 👍 - Pro
+
+#### 12 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5583 Fishing and hunting licenses
 #### 6 👍 - Pro
 

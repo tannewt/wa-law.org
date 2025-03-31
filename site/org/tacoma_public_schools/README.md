@@ -3,7 +3,8 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
-### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍2  
+* 👍 Charlie Brown
 * 👍 Charlie Brown
 
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  

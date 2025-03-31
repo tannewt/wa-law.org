@@ -10,7 +10,7 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 

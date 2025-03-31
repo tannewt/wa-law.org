@@ -16,6 +16,22 @@
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Hasegawa bill to protect employees from immigration-status-based coercion - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/02/03/hasegawa-bill-to-protect-employees-from-immigration-status-based-coercion/#:~:text=5104)
 
 ## Meetings
+### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5104 Immigration status coercion
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166805&caId=26850&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166805&caId=26850&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166805&caId=26850&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166805&caId=26850&tId=4)
+
+#### 10 👍 - Pro
+Testifying:
+* Elizabeth Ford - Workers’ Rights Clinic at Seattle University
+* Yasmene Hammoud - Workers’ Rights Clinic at Seattle University
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/14 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5104 Immigration status coercion
 #### 182 👍 - Pro
 Testifying:

@@ -17,7 +17,8 @@
 ### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services   ❓1
 * ❓ Duane Emmons
 
-### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
+### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍2  
+* 👍 Brody Coval
 * 👍 Brody Coval
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
