@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/31/2025 [The Stranger](/org/the_stranger/) - [Slog AM: Shooting at Rainier Beach Night Club, France Bars Marine Le Pen from Election, Israel Killed and Buried 15 Aide Workers in Mass Grave - The Stranger](https://www.thestranger.com/slog-am/2025/03/31/79992102/slog-am-shooting-at-rainier-beach-night-club-france-bars-marine-le-pen-from-election-israel-killed-and-buried-15-aide-workers-in-mass-grave#:~:text=lift)
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205798)
 * 03/27/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Sign in CON on bill to SKYROCKET your property taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-sign-con-bill-skyrocket-property-taxes/#:~:text=Senate%20Bill%205798)
 * 03/24/2025 [Axios](/org/axios/) - [Washington lawmakers weigh wealth, property tax changes amid budget gap - Axios Seattle](https://www.axios.com/local/seattle/2025/03/24/democrats-wealth-property-tax-budget-gap#:~:text=Senate's%20plan)
 * 03/20/2025 [FOX13](/org/fox13/) - [WA Senate Democrats hope to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-senate-democrats-balance-budget#:~:text=change%20in%20the%20cap)
@@ -20,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=4)
 
-#### 1604 👍 - Pro
+#### 1784 👍 - Pro
 Testifying:
 * Brennan Blue - Fire Chief, City of Vancouver
 * Fred Brink - Dep. Mayor, West Richland and Vice President, Assoc. WA Cities
@@ -40,7 +42,7 @@ Testifying:
 * Thurston County Prosecuto Jon Tunheim - Thurston County Prosecutor
 * Nate Bloch
 
-#### 29514 👎 - Con
+#### 35191 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -303,9 +305,21 @@ Testifying:
 * Judith Smith
 * Stacy Shepherd
 * John Roskelley
+* Kay Vann
 * Vinod Reddy Gopi Reddy
+* Dave Tucker
+* Joe and Laurie Arndt
+* Twila Zard
+* Laura Hood - Laura Hood
+* Anthony Holan
+* Alicia Travis
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Tammy Wagoner
+* David Jones
+* Kaiya MacGregor
+* Greg Cerbana - Weidner Apartment Homes
 
-#### 94 ❓ - Other
+#### 116 ❓ - Other
 Testifying:
 * Joel Jensen
 * Trayton Shelton

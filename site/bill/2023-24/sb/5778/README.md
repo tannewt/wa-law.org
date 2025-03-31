@@ -39,7 +39,7 @@ Testifying:
 ### Thu 01/11 08:00 AM - Labor & Commerce (LC): SB 5778 Employer political speech
 #### 123 👍 - Pro
 Testifying:
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * Helen Stukenborg - WFSE
 * Memo Mogollan - Teamsters 117
 * Nicole Dettore - Starbucks worker

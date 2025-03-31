@@ -24,7 +24,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=4)
 
-#### 119 👍 - Pro
+#### 140 👍 - Pro
 Testifying:
 * DAVID SALE
 * Lori Markowitz
@@ -36,7 +36,7 @@ Testifying:
 * THEODORE SMITH
 * Sadie Haag
 
-#### 15 👎 - Con
+#### 18 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

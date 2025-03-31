@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166666&caId=26758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166666&caId=26758&tId=4)
 
-#### 18 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Brody Coval - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 34 👎 - Con
+#### 35 👎 - Con
 
 #### 0 ❓ - Other
 

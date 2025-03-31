@@ -15,7 +15,7 @@
 ### Wed 01/17 08:00 AM - Labor & Workplace Standards (LAWS): HB 1991 Paid sick leave
 #### 181 👍 - Pro
 Testifying:
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * 💵Maggie Humphreys - MomsRising
 * 💵Sybill Hyppolite - Washington State Labor Council AFL-CIO
 * 💵Daniel Goodman - Washington State Association for Justice

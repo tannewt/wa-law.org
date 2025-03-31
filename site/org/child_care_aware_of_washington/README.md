@@ -54,6 +54,8 @@
 
 ### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten   ❓1
 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
 ### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  

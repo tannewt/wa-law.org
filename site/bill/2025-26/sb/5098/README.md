@@ -51,9 +51,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 
-#### 1472 👎 - Con
+#### 1623 👎 - Con
 Testifying:
 * Anthony Triplett - All In A Days Work
 * Jane Milhans
@@ -66,7 +66,9 @@ Testifying:
 * Eric Hembury
 * Cory Causey
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5098 Weapons in certain areas
 #### 1366 👍 - Pro

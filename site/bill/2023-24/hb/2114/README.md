@@ -104,7 +104,7 @@ Testifying:
 * Tonya Hennen
 * Mayor Thomas Strobehn - [City of La Center](/org/city_of_la_center/)
 * Richard Pirtle
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * Julie Sparkman
 * Steven Powell
 * Elizabeth Oergel - Timberlane Mobile Estates
@@ -252,7 +252,7 @@ Testifying:
 Testifying:
 * Stacey Valenzuela
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * J Kelley Rinehart
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Andrew Mark Carlos
@@ -312,7 +312,7 @@ Testifying:
 * Sophia Keller
 * 💵Paul Dillon - Spokane City Council Member, District 2
 * John alder - Pjals
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 * Kelley Rinehart
 * Ronald Bross - His higher hopes

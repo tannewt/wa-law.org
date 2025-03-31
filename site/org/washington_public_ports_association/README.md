@@ -54,8 +54,9 @@
 
 ### [HB 1573](/bill/2025-26/hb/1573/) - Oath of office timing/local 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 ❓1
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 ❓1
 * ❓💵 James Cockburn
+* 👎 Eric ffitch
 * 👎 Eric ffitch
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 

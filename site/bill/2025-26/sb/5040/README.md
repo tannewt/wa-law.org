@@ -17,10 +17,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 4 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Matthew Lundh - Mayor, City of Cle Elum
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 ❓ - Other
 

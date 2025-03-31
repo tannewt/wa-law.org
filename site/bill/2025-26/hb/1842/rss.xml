@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1842/</link>
 		<description>Updates about HB 1842</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 02:41:47 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ryan/Smolinsky/2025-03-19 02:41:47</guid>
+		</item>
+		<item>
+			<title>ENET - Majority; do pass.</title>
+			<description>ENET - Majority; do pass.</description>
+			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-28/ENET - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

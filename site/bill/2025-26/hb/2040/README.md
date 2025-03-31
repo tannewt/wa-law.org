@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202040)
+
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): HB 2040 ABD assistance recovery
 Sign up to testify:
@@ -16,6 +19,6 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 118 👎 - Con
+#### 121 👎 - Con
 
 #### 1 ❓ - Other

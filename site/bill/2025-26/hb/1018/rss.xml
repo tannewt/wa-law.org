@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1018/</link>
 		<description>Updates about HB 1018</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 23:51:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -130,6 +130,13 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate passes bill to grow Snohomish County’s fusion energy industry - Sen. Marko Liias</title>
+			<description>News article "Senate passes bill to grow Snohomish County’s fusion energy industry - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Fri, 28 Mar 2025 23:51:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/03/28/senate-passes-bill-to-grow-snohomish-countys-fusion-energy-industry/#:~:text=House%20Bill%201018</guid>
 		</item>
 	</channel>
 </rss>

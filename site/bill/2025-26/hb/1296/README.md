@@ -65,12 +65,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=4)
 
-#### 225 👍 - Pro
+#### 258 👍 - Pro
 Testifying:
 * EUNICE Ingermanson
 * Pat Taylor
 
-#### 1010 👎 - Con
+#### 1119 👎 - Con
 Testifying:
 * Eric Lundberg
 * Khushdip Brar

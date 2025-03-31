@@ -31,7 +31,7 @@ Testifying:
 Testifying:
 * Dr. Kate McLean - American College of Obstetricians and Gynecologists, (ACOG)
 * Lorena Gonzalez - American Civil Liberties Union (ACLU) of WA
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 
 #### 675 👎 - Con
 Testifying:

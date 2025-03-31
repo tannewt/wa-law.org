@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201386)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=House%20Bill%201386)
 * 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=House%20Bill%201386)
 * 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Plans for new gun regulations progress in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=House%20Bill%201386)

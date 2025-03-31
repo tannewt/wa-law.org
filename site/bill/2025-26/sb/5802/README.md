@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=0.3%%20sales%20tax%20shift)
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=0.3%%20sales%20tax%20shift)
+
 ## Meetings
 ### Thu 04/03 01:30 PM - Transportation (TRAN): SB 5802 Transportation funds
 Sign up to testify:
@@ -16,7 +20,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 

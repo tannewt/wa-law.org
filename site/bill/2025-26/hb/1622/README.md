@@ -17,24 +17,21 @@
 
 ## Meetings
 ### Mon 03/31 10:30 AM - Labor & Commerce (LC): ESHB 1622 Collective bargaining/AI use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166822&caId=26822&tId=4)
-
-#### 7 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Jonathan Young - City of SeaTac
 * Davis Powell - SAG AFTRA
 * Joey Hicklin - WPEA
 
-#### 554 👎 - Con
+#### 668 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * LaDon Linde - Yakima County Commissioner
 * Rob Putaansuu - City of Port Orchard, Mayor
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Bill Clarke - WA PUD Association
 
 #### 3 ❓ - Other
 Testifying:

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202045)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202045)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202045)
 * 03/24/2025 [Axios](/org/axios/) - [Washington lawmakers weigh wealth, property tax changes amid budget gap - Axios Seattle](https://www.axios.com/local/seattle/2025/03/24/democrats-wealth-property-tax-budget-gap#:~:text=something%20different)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202045)
 * 03/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Tax plan from WA House Democrats could raise nearly $15B • Washington State Standard](https://washingtonstatestandard.com/2025/03/21/tax-plan-from-wa-house-democrats-could-raise-nearly-15b-for-state-budget/#:~:text=House%20Bill%202045)
@@ -19,17 +22,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=4)
 
-#### 943 👍 - Pro
+#### 1060 👍 - Pro
 Testifying:
 * Nicholas Mendes
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 
-#### 352 👎 - Con
+#### 406 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Oliver Miska

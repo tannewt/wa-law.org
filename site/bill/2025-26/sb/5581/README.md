@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205581)
+
 ## Meetings
 ### Thu 04/03 01:30 PM - Transportation (TR): SB 5581 Safe system approach strat.
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166585&caId=26809&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166585&caId=26809&tId=4)
 
-#### 13 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 

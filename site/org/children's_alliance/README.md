@@ -53,7 +53,7 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
-### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
 ## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 

@@ -12,6 +12,12 @@
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍5  
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding  👎1 
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎1 

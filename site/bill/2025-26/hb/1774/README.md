@@ -15,13 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=4)
 
-#### 14 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Betsy Wilkerson - Council President, City of Spokane
 * Donald Pugnetti Jr
 * Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 
-#### 365 👎 - Con
+#### 485 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

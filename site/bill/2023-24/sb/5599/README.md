@@ -62,7 +62,7 @@ Testifying:
 * 💵Megan Veith - [Building Changes](/org/building_changes/)
 * Jody Disney
 * Sara Kukonnen - Planned Parenthood Greater Northwest
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * Jonathan Frochtwajg - Cascade AIDS Project
 * Danni Askini - Gender Justice League
 * Melissa Auclaire

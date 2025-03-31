@@ -1406,7 +1406,7 @@
 * [HB 1112](hb/1112) - Negligent driving 8📰 25👍 3👎 0❓ - C 471 L 23
 * [HB 1296](hb/1296) - Local permit review 1📰 28👍 0👎 0❓ - HApprops
 * [HB 1449](hb/1449) - Project permits/reports 3📰 23👍 5👎 0❓ - HRules X
-* [HB 1766](hb/1766) - Protection orders/hope cards 1📰 27👍 0👎 1❓ - C 308 L 23
+* [HB 1766](hb/1766) - Protection orders/hope cards 2📰 27👍 0👎 1❓ - C 308 L 23
 * [HB 1787](hb/1787) - Transport and delivery 25👍 2👎 1❓ - HLocal Govt
 * [HB 1850](hb/1850) - Hospital safety net program 25👍 0👎 3❓ - C 430 L 23
 * [HB 1919](hb/1919) - Private moorage/abandonment 1📰 26👍 1👎 1❓ - C 110 L 24

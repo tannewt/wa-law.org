@@ -19,6 +19,8 @@
 ### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings   ❓1
 * ❓ Michele Walker
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [HJM 4000](/bill/2025-26/hjm/4000/) - Martin Luther King, Jr. Way 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
@@ -28,6 +30,8 @@
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting   ❓1
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## [SJM 8000](/bill/2025-26/sjm/8000/) - Martin Luther King, Jr. Way 👍1  
 

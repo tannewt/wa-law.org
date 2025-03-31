@@ -37,7 +37,7 @@ Testifying:
 * Dusty LaMay
 * S. Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Dana Savage - Qlaw Bar Association of Washington
-* Rebekah Gardea - QLaw Foundation
+* 💵Rebekah Gardea - QLaw Foundation
 
 #### 0 👎 - Con
 

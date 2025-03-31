@@ -11,15 +11,11 @@
 
 ## Meetings
 ### Mon 03/31 10:30 AM - Labor & Commerce (LC): HB 1347 Cannabis testing labs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166625&caId=26754&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166625&caId=26754&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166625&caId=26754&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166625&caId=26754&tId=4)
-
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Nick Mosely - Confidence Analytics
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* 💵Brooke Davies - Washington CannaBusiness Association
 
 #### 0 👎 - Con
 

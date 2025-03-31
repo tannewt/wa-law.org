@@ -73,7 +73,7 @@
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍💵 Kelsey Hulse
 
-### [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍1  
+### [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍2  
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
@@ -224,11 +224,13 @@
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
-### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎2 
+### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎3 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎3 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎4 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
@@ -240,9 +242,10 @@
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 * 👍💵 Paul Jewell
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 ❓1
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 ❓2
 * ❓💵 Paul Jewell
 * 👎💵 Paul Jewell
+* ❓💵 Paul Jewell
 
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
 * ❓💵 Paul Jewell

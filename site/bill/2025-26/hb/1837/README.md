@@ -22,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=4)
 
-#### 600 👍 - Pro
+#### 734 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * Israel Lopez
@@ -36,7 +36,7 @@ Testifying:
 * Meghan Anderson - Kittitas Climate Action
 * Arvia Morris - Environment and Cliamate Caucus of the Washington State Democrats
 
-#### 338 👎 - Con
+#### 446 👎 - Con
 
 #### 1 ❓ - Other
 

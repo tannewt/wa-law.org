@@ -50,9 +50,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=4)
 
-#### 13 👍 - Pro
+#### 17 👍 - Pro
 
-#### 1457 👎 - Con
+#### 1596 👎 - Con
 Testifying:
 * Teodorin Morca
 * Daniel Mitchell - Washington Civil Rights Association

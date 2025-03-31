@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202062)
+
 ## Meetings
 ### Tue 04/01 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2062 Maple syrup processing
 Sign up to testify:
@@ -16,6 +19,6 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 315 👎 - Con
+#### 428 👎 - Con
 
 #### 0 ❓ - Other

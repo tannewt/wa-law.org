@@ -152,9 +152,11 @@
 
 ### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍1  
 
+### [HB 1596](/bill/2025-26/hb/1596/) - Speeding 👍1  
+
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍3  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍4  
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍2  
 
@@ -218,6 +220,8 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
+### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
+
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍1  
 
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍1  
@@ -237,6 +241,8 @@
 ### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍2  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+
+### [HB 1902](/bill/2025-26/hb/1902/) - Transp. project permitting 👍1  
 
 ### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
 
@@ -457,6 +463,8 @@
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
 ### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
+
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 

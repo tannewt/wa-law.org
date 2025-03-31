@@ -13,7 +13,7 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 * 👍 Angela Birney
@@ -22,7 +22,7 @@
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
@@ -42,9 +42,11 @@
 
 ### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍4  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
 
@@ -79,11 +81,13 @@
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
 
-## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

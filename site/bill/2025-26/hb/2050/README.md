@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 36 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * Mandi Rehn - Valley School District Superintendent
 * Dana Rosenbach - North Mason School District Number 403

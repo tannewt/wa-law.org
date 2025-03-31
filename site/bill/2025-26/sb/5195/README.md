@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=Senate%20Bill%205195)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205195)
 
 ## Meetings
@@ -17,21 +18,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=4)
 
-#### 27 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * SuYoung Yun - APIC WA
 * Seth Muir - Sail Sand Point
 * BILL LEDREW - FRIENDS OF LOPEZ ISLAND POOL (FLIP)
 * Georgia Johnson - Field Arts & Events Hall
 * Steven Ginsburg - Port Angeles Waterfront Center
+* Brooke Taylor - Port Angeles Waterfront Center
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Erica Hallock - Start Early Washington
 * Kathryn Gardow - Chair, Public Works Board
 * Paige Miller - Seattle Chinese Garden
+* Ginger Ewing - Terrain Spokane
+* Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Higher education. (Remote Testimony Available).
 Sign up to testify:

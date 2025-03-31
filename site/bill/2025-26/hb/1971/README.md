@@ -24,9 +24,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=4)
 
-#### 59 👍 - Pro
+#### 103 👍 - Pro
 
-#### 950 👎 - Con
+#### 1053 👎 - Con
 Testifying:
 * Gabriel Jacobs
 

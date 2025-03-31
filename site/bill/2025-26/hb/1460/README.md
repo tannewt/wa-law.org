@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/28/2025 [The Center Square](/org/the_center_square/) - [Bill would improve WA’s domestic violence Hope Card Program by making them free | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d2f8f33d-a22d-49e9-ae5a-84427cf96f2f.html#:~:text=House%20Bill%201460)
+
 ## Meetings
 ### Thu 03/27 10:30 AM - Law & Justice (LAW): SHB 1460 Protection order hope cards
 #### 5 👍 - Pro

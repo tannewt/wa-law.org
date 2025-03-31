@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205721)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Bills, budget and how we got here - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205721)
 
 ## Meetings
@@ -22,7 +23,7 @@ Testifying:
 * Justin Morgan - 100 n Howard st
 * David Forte - Office of the Insurance Commissioner
 
-#### 330 👎 - Con
+#### 429 👎 - Con
 
 #### 0 ❓ - Other
 

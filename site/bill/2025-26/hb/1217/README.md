@@ -62,7 +62,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=4)
 
-#### 473 👍 - Pro
+#### 592 👍 - Pro
 Testifying:
 * Talauna Reed - Tenants Union of WA State
 * Leigh Christianson - Oly Rollers Home Owners
@@ -70,8 +70,9 @@ Testifying:
 * Morag Logan
 * Morag Logan
 * Jonathan Vesikuru - CJA
+* Kyle Lucas - Chair, Tenants United at Western Plaza Mobile Home Park & Urban Indians Northwest
 
-#### 919 👎 - Con
+#### 1030 👎 - Con
 Testifying:
 * Greg Lovern
 * Bruce Becker - Bruce Becker
@@ -84,6 +85,7 @@ Testifying:
 * Noah Meehan
 * Noah Meehan - Washington State Young Republicans
 * CONSTANCE NELSON
+* Elaine Armstrong - CCRA Clark county rental association
 
 #### 2 ❓ - Other
 Testifying:

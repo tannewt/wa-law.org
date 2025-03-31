@@ -24,9 +24,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=4)
 
-#### 17 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* LaKeisha Davis - Habitat for Humanity Spokane
 
-#### 927 👎 - Con
+#### 1024 👎 - Con
 
 #### 0 ❓ - Other
 

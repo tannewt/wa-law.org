@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/29/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Harrell’s Growth Plan Shorts Housing and Tree Canopy - The Urbanist](https://www.theurbanist.org/2025/03/29/harrell-plan-fails-to-add-enough-housing-or-tree-canopy/#:~:text=SB%205156)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=SB%205156)
 * 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington Senate Greenlights Elevator Reform Aimed at Boosting Midrise Homebuilding - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-senate-greenlights-elevator-reform-aimed-at-boosting-midrise-homebuilding/#:~:text=Senate%20Bill%205156)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205156)

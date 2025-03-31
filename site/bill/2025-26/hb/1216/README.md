@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%201216)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=HB%201216)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201216)
 
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=4)
 
-#### 33 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Karina Patel - The Tubman Center for Health and Freedom
 * 💵Mitch Denning - Alliance of Educational Associations
@@ -30,12 +31,13 @@ Testifying:
 * BILL LEDREW - FRIENDS OF LOPEZ ISLAND POOL (FLIP)
 * Kate Weiman - West Sound Technical School
 * Steven Ginsburg - Port Angeles Waterfront Center
+* Brooke Taylor - Port Angeles Waterfront Center
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Steve O'Ban - Trouves Health Care Corp.
 
-#### 23 ❓ - Other
+#### 26 ❓ - Other
 Testifying:
 * 💵Erica Hallock - Start Early Washington
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -60,6 +62,9 @@ Testifying:
 * Shannon Thompson - West Sound Tech
 * Charlie Brown - WA Skills Center Directors
 * Mark Finney
+* Ginger Ewing - Terrain Spokane
+* Mike Gonzalez
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
 #### 45 👍 - Pro

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202033)
 * 03/21/2025 [The Center Square](/org/the_center_square/) - [Chew on this: Lawmakers eye big tax on Zyn, synthetic nicotine pouches | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_743ef06c-628d-490e-9163-e38187287db9.html#:~:text=House%20Bill%202033)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=HB%202033)
 

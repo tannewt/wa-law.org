@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=4)
 
-#### 45 👍 - Pro
+#### 165 👍 - Pro
 Testifying:
 * Natalie Paul - Lavender Spectrum Health
+* PAMELA WILLIAMS
+* Emily Johnson
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

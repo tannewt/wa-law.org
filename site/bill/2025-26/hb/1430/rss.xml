@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1430/</link>
 		<description>Updates about HB 1430</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 29 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 09:07:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -581,6 +581,22 @@
 			<pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-29/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍PAMELA WILLIAMS - Lavender Spectrum Health</title>
+			<description>PAMELA WILLIAMS signed up to testify Pro.</description>
+			<pubDate>Mon, 31 Mar 2025 05:12:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/PAMELA/WILLIAMS/2025-03-31 05:12:03</guid>
+		</item>
+		<item>
+			<title>👍Emily Johnson - Lavender Spectrum Health</title>
+			<description>Emily Johnson signed up to testify Pro.</description>
+			<pubDate>Mon, 31 Mar 2025 09:07:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Johnson/2025-03-31 09:07:51</guid>
 		</item>
 	</channel>
 </rss>

@@ -12,11 +12,15 @@
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 
-## [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎2 
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎2 
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 
 ## 2023-24
 
-### [SB 5463](/bill/2023-24/sb/5463/) - Industrial insurance/duties  👎2 
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
 

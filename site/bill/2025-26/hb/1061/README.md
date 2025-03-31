@@ -17,7 +17,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Randy Haines - Fire Marshal - City of Olympia
 
 #### 0 ❓ - Other
 

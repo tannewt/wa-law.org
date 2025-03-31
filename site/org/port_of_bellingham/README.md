@@ -13,11 +13,13 @@
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 Mike Hogan
 
-## [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 
 ## 2023-24
 
-### [HB 1923](/bill/2023-24/hb/1923/) - Passenger-only ferries 👍1  
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
 
 ### [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍2  
 * 👍 Mike Hogan

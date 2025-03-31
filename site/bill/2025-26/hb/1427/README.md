@@ -22,7 +22,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): 2SHB 1427 Peer support specialists
 #### 16 👍 - Pro

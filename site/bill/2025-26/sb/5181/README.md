@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205181)
 * 03/24/2025 [The Center Square](/org/the_center_square/) - [WATCH: Bill to amend parents’ bill of rights draws more criticism, some support | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67dd024a-797f-4ccc-a055-1c918a835be4.html#:~:text=ESSB%205181)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESSB%205181)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205181)
@@ -440,7 +441,7 @@ Testifying:
 * Jocelyn Richey
 * Katelyn Abston
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * Emily Carmichael
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)

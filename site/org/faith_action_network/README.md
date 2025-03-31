@@ -39,6 +39,10 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍4  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍6  
@@ -75,6 +79,8 @@
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍2  
 
 ### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍5  
+
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 

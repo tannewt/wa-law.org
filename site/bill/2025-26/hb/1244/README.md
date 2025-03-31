@@ -18,12 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=4)
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Alejandro Sanchez - Department of Licensing
 
-#### 696 👎 - Con
+#### 839 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Julie Dowell
+* Anthony Holan
 
 #### 0 ❓ - Other
 

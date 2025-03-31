@@ -325,6 +325,8 @@
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
 ## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 

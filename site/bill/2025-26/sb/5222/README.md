@@ -89,7 +89,7 @@ Testifying:
 * Dustin Baker - Country Estates
 * 💵Paul Benz - Quaker Voice
 * Alexandria Nickerson - TOA Tenant Org and Advocates
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * 💵Melanie Smith - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
 * Linus Lu

@@ -16,14 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166665&caId=26757&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166665&caId=26757&tId=4)
 
-#### 36 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Ben Zarlingo - [City of Everett](/org/city_of_everett/)
 
-#### 2103 👎 - Con
+#### 2310 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Julie Dowell
+* Anthony Holan
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 3 ❓ - Other
 

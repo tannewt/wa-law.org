@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1232/</link>
 		<description>Updates about HB 1232</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 11:11:31 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 21:31:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -455,6 +455,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michelle/Carrillo/2025-03-24 11:11:31</guid>
+		</item>
+		<item>
+			<title>Washington state lawmakers seek oversight of Tacoma ICE center - Axios Seattle</title>
+			<description>News article "Washington state lawmakers seek oversight of Tacoma ICE center - Axios Seattle" from Axios.</description>
+			<pubDate>Fri, 28 Mar 2025 21:31:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/03/28/washington-state-detention-bill-oversight-ice-tacoma#:~:text=House%20Bill%201232</guid>
 		</item>
 	</channel>
 </rss>

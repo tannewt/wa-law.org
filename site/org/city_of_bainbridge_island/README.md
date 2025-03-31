@@ -3,6 +3,8 @@
 
 ### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 * 👍 Ashley Mathews
 

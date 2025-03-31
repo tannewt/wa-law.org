@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/28/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Increasing state spending to between $77.8 and $78.5 billion - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-increasing-state-spending-77-8-78-5-billion/#:~:text=the%20grants%20needed%20to%20hire%20more%20law-enforcement%20officers)
 * 03/21/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Democrats announce nearly $20 billion in new and higher taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-90-million-per-year-higher-taxes-businesses/#:~:text=Senate%20Bill%205060)
 * 03/20/2025 [Senate Democrats](/org/senate_democrats/) - [New regional police training campus in Arlington to welcome first class | HeraldNet.com](https://senatedemocrats.wa.gov/lovick/2025/03/24/new-regional-police-training-campus-in-arlington-to-welcome-first-class/#:~:text=A%20bill%20in%20the%20state%20Legislature)
 * 03/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Debate heats up over Ferguson’s request for $100M to hire more police in Washington • Washington State Standard](https://washingtonstatestandard.com/2025/03/10/debate-heats-up-over-fergusons-request-for-100m-to-hire-more-police-in-washington/#:~:text=Senate%20Bill%205060)

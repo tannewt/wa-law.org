@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=fish%20habitat%20restoration)
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=fish%20habitat%20restoration)
+
 ## Meetings
 ### Tue 04/01 04:00 PM - Ways & Means (WM): SB 5804 Fish habitat restoration
 Sign up to testify:

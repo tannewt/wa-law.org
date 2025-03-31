@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205797)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205797)
 * 03/20/2025 [FOX13](/org/fox13/) - [WA Senate Democrats hope to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-senate-democrats-balance-budget#:~:text=financial%20intangibles%20tax)
 * [Senate Republicans](/org/senate_republicans/) - [Tax Madness - Senate Republican Caucus](https://src.wastateleg.org/tax-madness/#:~:text=Senate%20Bill%205797)
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=4)
 
-#### 3950 👍 - Pro
+#### 4368 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Kathleen Kershner
@@ -56,8 +57,10 @@ Testifying:
 * Katie Wilson - Transit Riders Union
 * 💵Matthew Lang - National Organization for Women - WA
 * 💵Myle Tang - Stand for Children WA
+* 💵Kristin Ang - Faith Action Network (FAN)
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
-#### 5238 👎 - Con
+#### 6731 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -81,6 +84,9 @@ Testifying:
 * Rebecca Faust
 * Liza Simmknds
 * Judith Smith
+* Dave Tucker
+* Anthony Holan
+* Alicia Travis
 
 #### 12 ❓ - Other
 Testifying:

@@ -9,7 +9,8 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍3  
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓2
+* ❓💵 Aaron Czyzewski
 * ❓💵 Aaron Czyzewski
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
@@ -26,6 +27,9 @@
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
+* 👍💵 Aaron Czyzewski
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 * 👍💵 Aaron Czyzewski
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
@@ -45,11 +49,15 @@
 
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
 
-## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+* 👍💵 Aaron Czyzewski
 
 ## 2023-24
 
-### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+* 👍💵 Aaron Czyzewski
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 * 👍💵 Aaron Czyzewski

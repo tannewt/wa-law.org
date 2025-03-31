@@ -14,13 +14,14 @@
 ### [HJM 4001](/bill/2025-26/hjm/4001/) - Russ Blount memorial bridge 👍3  
 * 👍💵 Michael Transue
 
-## [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓💵 Michael Transue
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5161](/bill/2023-24/sb/5161/) - Transportation budget   ❓1
-* ❓💵 Michael Transue
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍1  
 

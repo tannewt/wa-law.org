@@ -237,7 +237,8 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎2 
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
+* 👎💵 Morgan Irwin
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎2 
 
@@ -684,14 +685,22 @@
 
 ### [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
 
-## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎2 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate  👎1 
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎2 
 * 👎 Max Martin
+* 👎 Max Martin
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 * 👎 Max Martin
 
 ## 2023-24
 
-### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎2 
-* 👎 Max Martin
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
 * 👎 Max Martin
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  

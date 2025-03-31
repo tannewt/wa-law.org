@@ -51,7 +51,7 @@ Testifying:
 * Danni Askini - Gender Justice League
 * Dr. Crystal Beal - QueerDoc
 * 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
-* Rebekah Gardea - QLaw Foundation
+* 💵Rebekah Gardea - QLaw Foundation
 * Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Dana Karash - Planned Parenthood Greater Northwest
 * Hilary Northcraft
@@ -76,7 +76,7 @@ Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Claudia Vizena
 * DO, Katina Rue - WA State Medical Association (WSMA)
-* Rebekah Gardea - QLaw Foundation
+* 💵Rebekah Gardea - QLaw Foundation
 * Cara Winter
 * Dr. Crystal Beal - QueerDoc
 * Dr. Annie Iriye - American College of Obstetricians and Gynecologists

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1213/</link>
 		<description>Updates about HB 1213</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 06:57:22 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -490,6 +490,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-03-24 06:57:22</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-28/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

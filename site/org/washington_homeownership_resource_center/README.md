@@ -48,6 +48,8 @@
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  

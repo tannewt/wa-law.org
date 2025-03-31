@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166599&caId=26802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166599&caId=26802&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 26 👎 - Con
+#### 29 👎 - Con
 Testifying:
 * Nikita Agarwal
 * Jack Moriarty - Lafayette Square Institute

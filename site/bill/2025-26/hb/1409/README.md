@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409)
+* 03/28/2025 [FOX13](/org/fox13/) - [WA Senate advances tougher carbon standards | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-senate-carbon-standards#:~:text=House%20Bill%201409)
 * 03/19/2025 [FOX13](/org/fox13/) - [WA lawmakers consider raising carbon standards for fuel | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmakers-carbon-standards-fuel#:~:text=House%20Bill%201409)
 * 03/19/2025 [The Center Square](/org/the_center_square/) - [Attitudes mixed about proposed fixes to WA’s Clean Fuel Standard | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2bd3737b-3d3f-427b-babd-7ea465a36819.html#:~:text=House%20Bill%201409)
 * 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](http://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201409)

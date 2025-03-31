@@ -28,7 +28,7 @@ Testifying:
 * Bebeth Steudel
 * Cade Schmidt
 * Danni Askini - Gender Justice League
-* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * Emily Carmichael
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)

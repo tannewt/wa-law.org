@@ -35,7 +35,7 @@
 
 ### [HB 1669](/bill/2025-26/hb/1669/) - Prosthetic limb coverage 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍3  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍4  
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
@@ -48,6 +48,10 @@
 * 👍💵 Emily Brice
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 * 👍💵 Emily Brice
@@ -92,20 +96,21 @@
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 * 👍💵 Emily Brice
 
-### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍2  
+### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍3  
 * 👍💵 Emily Brice
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
-## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 * 👍💵 Emily Brice
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ## 2023-24
 
-### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax 👍1  
-* 👍💵 Emily Brice
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

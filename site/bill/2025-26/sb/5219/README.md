@@ -22,9 +22,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=4)
 
-#### 72 👍 - Pro
+#### 88 👍 - Pro
 
-#### 27 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

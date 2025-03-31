@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5241/</link>
 		<description>Updates about SB 5241</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Mar 2025 23:51:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -74,6 +74,13 @@
 			<pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-17/Senate Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Senate passes bill to grow Snohomish County’s fusion energy industry - Sen. Marko Liias</title>
+			<description>News article "Senate passes bill to grow Snohomish County’s fusion energy industry - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Fri, 28 Mar 2025 23:51:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/03/28/senate-passes-bill-to-grow-snohomish-countys-fusion-energy-industry/#:~:text=legislation</guid>
 		</item>
 	</channel>
 </rss>

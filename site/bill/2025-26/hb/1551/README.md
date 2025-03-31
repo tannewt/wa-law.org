@@ -14,20 +14,17 @@
 
 ## Meetings
 ### Mon 03/31 10:30 AM - Labor & Commerce (LC): ESHB 1551 Cannabis social equity prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33200&aId=166823&caId=26823&tId=4)
-
 #### 1 👍 - Pro
 
-#### 547 👎 - Con
+#### 661 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Julie Dowell
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
 ### Fri 03/28 08:00 AM - Labor & Commerce (LC): ESHB 1551 Cannabis social equity prg.
 #### 1 👍 - Pro

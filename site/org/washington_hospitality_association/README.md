@@ -77,7 +77,8 @@
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
-### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
+### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍2  
+* 👍 Sean DeWitz
 * 👍 Sean DeWitz
 
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎2 

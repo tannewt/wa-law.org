@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=spending%20plan)
+* 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=spending%20plan)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan transportation budget to keep projects going, preserve infrastructure, make roads safer - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/24/senate-unveils-bipartisan-transportation-budget-to-keep-projects-going-preserve-infrastructure-make-roads-safer/#:~:text=5161)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan transportation budget to keep projects going, preserve infrastructure, make roads safer - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/24/senate-unveils-bipartisan-transportation-budget-to-keep-projects-going-preserve-infrastructure-make-roads-safer/#:~:text=5161)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=Senate%20Bill%205161)
