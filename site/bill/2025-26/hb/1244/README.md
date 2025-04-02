@@ -12,17 +12,11 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Transportation (TRAN): SHB 1244 Driver training alternative
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166720&caId=26759&tId=4)
-
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Alejandro Sanchez - Department of Licensing
 
-#### 839 👎 - Con
+#### 911 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Julie Dowell

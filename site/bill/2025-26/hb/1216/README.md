@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 04/01 08:00 AM - Capital Budget (CB): PSHB 1216 - Concerning the capital budget. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33227&aId=166736&caId=26788&tId=4)
-
-#### 34 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * 💵Karina Patel - The Tubman Center for Health and Freedom
 * 💵Mitch Denning - Alliance of Educational Associations
@@ -31,13 +25,53 @@ Testifying:
 * BILL LEDREW - FRIENDS OF LOPEZ ISLAND POOL (FLIP)
 * Kate Weiman - West Sound Technical School
 * Steven Ginsburg - Port Angeles Waterfront Center
+* Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Brad Banks - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
+* Dave DeMarco - [City of Everett](/org/city_of_everett/)
+* Mikkell Roeland - [Starfire Sports](/org/starfire_sports/)
+* Council Jeremy Takala - Yakama Nation Tribal Council
+* Chairman Leonard Forsman - The Suquamish Tribe
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Elena Arakaki - Friends of Little Saigon
+* Sean Eagan - The Port of Tacoma
+* Faaluaina Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* Belinda Louie - APCC Board of Directors
+* Dr. Belinda Louie - APCC Board of Directors
+* Renee Jensen - Snoqualmie Valley Health
+* 💵Daniel Lugo - YouthCare
+* Melissa Williams - Feiro Marine Life Center/Port Angeles Marine Discovery Center
+* Angela Harris - [Port of Edmonds](/org/port_of_edmonds/)
+* Brian Freeman - Inchelium School District #70
+* Karen Allen - The Institute for Washington's Future
+* Michone Preston - Habitat for Humanity of Washington State
 * Brooke Taylor - Port Angeles Waterfront Center
+* Hunter George - Washington Recreation and Park Association
+* Khurshida Begum - ASHHO Cultural Community Center
+* Tara Tamaribuchi - Seattle Betsuin Buddhist Temple
+* Jill Sheley - Jamie's Place
+* Jill Sheley - Jamie's Place
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Kim Reynolds - Port Angeles Waterfront Center
+* Peter Cameron - Multicultural Child and Family Hope Center
 
-#### 2 👎 - Con
+#### 103 👎 - Con
 Testifying:
 * Steve O'Ban - Trouves Health Care Corp.
+* David Buri - Eastern Washington University
+* Linda Collins - FAME Housing Association
+* Roxanne Buchanan - First AME Housing Association
+* Earl Richardson - First AME Housing Assoication
+* Jada Berteaux - First AME Housing Association
+* Christine Consolacion - International Community Health Services
+* Melissa C. Johnson - International Community Health Services
+* Camille Moore Jenkins
+* Brian Karnes - Cascade/Port Angeles Hardwood
+* Dennis Olsen - Stella-Jones
+* 💵Heath Heikkila - American Forest Resource Council
 
-#### 26 ❓ - Other
+#### 63 ❓ - Other
 Testifying:
 * 💵Erica Hallock - Start Early Washington
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -62,9 +96,46 @@ Testifying:
 * Shannon Thompson - West Sound Tech
 * Charlie Brown - WA Skills Center Directors
 * Mark Finney
+* Drayton Jackson - The communities of Concern Commission
+* 💵Kenny Pittman - Communities of Concern Commission
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Darrell Jennings - State Board for Community and Technical Colleges
+* Eric Murray - Cascadia College
+* Jim Mulick - Edmonds Community College
+* Henry Cagey - Mother Nation
+* Jennifer Kidder - NatureBridge; WA Outdoor School Coalition
 * Ginger Ewing - Terrain Spokane
+* 💵Jason Gauthier - South Sound Housing Affordability Partners
+* Traci Furutani - City of Lake Forest Park, Councilmember
+* Carston Curd - City of Bothell Councilmember
 * Mike Gonzalez
+* Sean Hopps - Communities of Concern Commission (board member)
+* Gary Stoyka - Whatcom County
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
+* Paige Miller - Seattle Chinese Garden
+* Jesse Simpson - Housing Development Consortium
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Jim Kowalkowski - Rural Education Center
+* 💵Ian Goodhew - Airlift Northwest-UW Medicine
+* Chris Herman - Washington Public Ports Asociation
+* Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Scott Richards - WA Public Utility Districts Association
+* 💵Connor Haggerty - Washington State University
+* Andy Hamilton - [City of Kelso](/org/city_of_kelso/)
+* James Losee - [Wild Salmon Center](/org/wild_salmon_center/)
+* Scott Korthuis - City of Lynden, Mayor
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* Kyla Shkerich Blair - [Columbia Basin Development League](/org/columbia_basin_development_league/)
+* Rachael Myers - Washington Low Income Housing Alliance
+* w. Jay Gordon - Washington state dairy federation
+* Don Vanderholm - Lind-Ritzville Cooperative School
+* Pat Haley - [City of Quincy](/org/city_of_quincy/)
+* 💵Michael Transue - LeMay - America's Car Museum
+* Joe McDermott - State Relations Director | King County
+* Lily Wilson-Codega - Weld WA
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
 #### 45 👍 - Pro

@@ -26,6 +26,8 @@
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
 * 👍💵 John Rothlin
 
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
+
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  
 * 👍💵 John Rothlin
 
@@ -44,11 +46,15 @@
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎💵 John Rothlin
 
-## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+
+## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 John Rothlin
 
 ## 2023-24
 
-### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎1 
+### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 John Rothlin
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 * 👍💵 John Rothlin

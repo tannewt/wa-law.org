@@ -32,11 +32,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166786&caId=26833&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166786&caId=26833&tId=4)
 
-#### 305 👍 - Pro
+#### 596 👍 - Pro
+Testifying:
+* Lindsey Walsh
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵John Traynor - Washington State Labor Council, AFL CIO
 
-#### 992 👎 - Con
+#### 1234 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
 
 ### Fri 03/14 10:30 AM - Housing (HSG): 3SHB 1491 Transit-oriented housing dev
 #### 997 👍 - Pro

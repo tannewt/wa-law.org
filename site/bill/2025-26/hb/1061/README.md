@@ -9,15 +9,11 @@
 
 ## Meetings
 ### Tue 04/01 04:00 PM - Transportation (TRAN): SHB 1061 Residential parking
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166669&caId=26767&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166669&caId=26767&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166669&caId=26767&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166669&caId=26767&tId=4)
+#### 113 👍 - Pro
+Testifying:
+* Brett Gailey - Mayor, City of Lake Stevens
 
-#### 0 👍 - Pro
-
-#### 3 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Randy Haines - Fire Marshal - City of Olympia
 

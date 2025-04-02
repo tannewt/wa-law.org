@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166811&caId=26856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166811&caId=26856&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 
 #### 0 👎 - Con
 

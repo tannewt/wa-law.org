@@ -14,7 +14,8 @@
 * ❓ Deb Well
 * ❓ Steve DuPont
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍2  
+* 👍 Steve DuPont
 * 👍 Steve DuPont
 
 ### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
@@ -37,7 +38,8 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Steve DuPont
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍2  
+* 👍 Steve DuPont
 * 👍 Steve DuPont
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍4  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1213/</link>
 		<description>Updates about HB 1213</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 06:50:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -317,7 +317,7 @@
 			<guid isPermaLink="false">2025-03-13/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 		<item>
-			<title>👍Claudia Franson - Association of Washington Cities</title>
+			<title>👍Claudia Franson - Building Industry Association of Washington (BIAW)</title>
 			<description>Claudia Franson signed up to testify Pro.</description>
 			<pubDate>Fri, 21 Mar 2025 02:50:57 GMT</pubDate>
 			<category>testifier</category>
@@ -497,6 +497,21 @@
 			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-28/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-31/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎Mike Ennis - Building Industry Association of Washington (BIAW)</title>
+			<description>Mike Ennis signed up to testify Con. They are signed up to represent Building Industry Association of Washington (BIAW).</description>
+			<pubDate>Tue, 01 Apr 2025 06:50:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Ennis/2025-04-01 06:50:39</guid>
 		</item>
 	</channel>
 </rss>

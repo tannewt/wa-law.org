@@ -9,7 +9,8 @@
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code.   ❓1
 * ❓💵 Christine Brewer
 
-### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program  👎1 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program  👎2 
+* 👎💵 Christine Brewer
 * 👎💵 Christine Brewer
 
 ### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  

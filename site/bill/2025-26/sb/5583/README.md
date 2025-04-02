@@ -19,9 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Melena Thompson - WDFW
+* Morgan Stinson - WDFW
 
-#### 14 👎 - Con
+#### 488 👎 - Con
 
 #### 0 ❓ - Other
 

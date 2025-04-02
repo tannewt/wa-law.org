@@ -19,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166812&caId=26857&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166812&caId=26857&tId=4)
 
-#### 10 👍 - Pro
+#### 33 👍 - Pro
+Testifying:
+* 💵Alex Galeana - Children's Campaign Fund Action
+* Alexis Cortes
 
 #### 0 👎 - Con
 

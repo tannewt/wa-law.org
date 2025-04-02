@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=4)
 
-#### 8 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* LInnea Anderson - San Juan County Superior Court Services Director
 
 #### 0 👎 - Con
 

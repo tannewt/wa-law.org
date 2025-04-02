@@ -28,10 +28,11 @@
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍4  
 * 👍 Emily Hohman
 * 👍 Skippy Shaw
 * 👍 Mark Charlton
+* 👍 Skippy Shaw
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
@@ -73,6 +74,9 @@
 * ❓ Scott Richards
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+* ❓ Scott Richards
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
 

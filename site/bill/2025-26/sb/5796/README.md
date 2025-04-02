@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5796 Payroll expense tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166611&caId=26761&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166611&caId=26761&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166611&caId=26761&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166611&caId=26761&tId=4)
-
-#### 3989 👍 - Pro
+#### 5335 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Alfred Higgins
@@ -54,9 +48,11 @@ Testifying:
 * Candace Williams
 * 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Paula Sardinas - FMS Global Strategies / WBBA
+* Lisa Smith - Washington State Microenterprise Association
+* Chris Langeler
 * Monique Valenzuela - [Ventures](/org/ventures/)
 
-#### 6585 👎 - Con
+#### 8180 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -98,6 +94,7 @@ Testifying:
 * Felix Serna - 471552065131
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 
-#### 10 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
+* Laura Ruderman - Technology Alliance

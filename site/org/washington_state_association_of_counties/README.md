@@ -388,15 +388,17 @@
 ### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
 * 👎💵 Kelsey Hulse
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍3  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍3  
 * 👍 County Commissioner Heidi Eisenhour
 * 👍 County Commissioner Lisa Janicki
+
+## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 Axel Swanson
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍3  
-* 👍 County Commissioner Heidi Eisenhour
-* 👍 County Commissioner Lisa Janicki
+### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 Axel Swanson
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 22:07:54 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -469,6 +469,13 @@
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-31/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

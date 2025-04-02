@@ -12,6 +12,8 @@
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 

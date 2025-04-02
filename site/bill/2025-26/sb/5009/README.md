@@ -12,6 +12,21 @@
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SSB%205009)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5009 Student transp. vehicles
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=4)
+
+#### 10 👍 - Pro
+Testifying:
+* Jim Kowalkowski - Rural Education Center
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5009 Student transp. vehicles
 #### 344 👍 - Pro
 Testifying:

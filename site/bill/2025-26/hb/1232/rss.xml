@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1232/</link>
 		<description>Updates about HB 1232</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 21:31:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -462,6 +462,20 @@
 			<pubDate>Fri, 28 Mar 2025 21:31:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/03/28/washington-state-detention-bill-oversight-ice-tacoma#:~:text=House%20Bill%201232</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-31/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

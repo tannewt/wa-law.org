@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166584&caId=26808&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166584&caId=26808&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 
 #### 0 👎 - Con
 

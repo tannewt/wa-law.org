@@ -7,21 +7,34 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/31/2025 [Washington State Standard](/org/washington_state_standard/) - [New $5B plan to fund culvert removals unveiled by WA senators • Washington State Standard](https://washingtonstatestandard.com/2025/03/31/new-5b-plan-to-fund-culvert-removals-unveiled-by-wa-senators/#:~:text=Senate%20Bill%205804)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=fish%20habitat%20restoration)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=fish%20habitat%20restoration)
 
 ## Meetings
 ### Tue 04/01 04:00 PM - Ways & Means (WM): SB 5804 Fish habitat restoration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166799&caId=26824&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166799&caId=26824&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166799&caId=26824&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166799&caId=26824&tId=4)
+#### 15 👍 - Pro
+Testifying:
+* RoseMary LaClair - Nooksack Tribe
+* Jerry VanderWood - AGC of Washington
 
-#### 0 👍 - Pro
+#### 394 👎 - Con
+Testifying:
+* Elpidia Saavedra - Mayor of the City of Toppenish
+* Rob Putaansuu - City of Port Orchard, Mayor
+* Jeff Niten - City Manager; City of Mountlake Terrace
+* 💵Marie Sullivan - [Public Works Board](/org/public_works_board/)
+* Chris Collins - [City of Longview](/org/city_of_longview/)
+* Erin Leonhart - City of Bothell Public Works Director
+* Kyoko Matsumoto Wright - City of Mountlake Terrace Mayor
+* Chris Collins - [City of Longview](/org/city_of_longview/)
+* 💵Bill Clarke - WA PUD Association
+* Debra Lester - Kitsap PUD Commissioner
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Todd Myers - Washington Policy Center

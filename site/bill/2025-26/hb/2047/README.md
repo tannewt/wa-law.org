@@ -16,11 +16,13 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 29 👎 - Con
+#### 89 👎 - Con
 Testifying:
 * Nikita Agarwal
 * Jack Moriarty - Lafayette Square Institute
 * Steve Storkan - Employee Ownership Expansion Network
+* John McNamara - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* West Foster
 
 #### 1 ❓ - Other
 Testifying:

@@ -62,7 +62,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=4)
 
-#### 592 👍 - Pro
+#### 2403 👍 - Pro
 Testifying:
 * Talauna Reed - Tenants Union of WA State
 * Leigh Christianson - Oly Rollers Home Owners
@@ -71,8 +71,12 @@ Testifying:
 * Morag Logan
 * Jonathan Vesikuru - CJA
 * Kyle Lucas - Chair, Tenants United at Western Plaza Mobile Home Park & Urban Indians Northwest
+* anthony Ives - Kitsap Community Resources
+* Charity Grice
+* Dylan Bianchi
+* Terri Anderson - Tenants Union of Washington State
 
-#### 1030 👎 - Con
+#### 1477 👎 - Con
 Testifying:
 * Greg Lovern
 * Bruce Becker - Bruce Becker
@@ -85,9 +89,17 @@ Testifying:
 * Noah Meehan
 * Noah Meehan - Washington State Young Republicans
 * CONSTANCE NELSON
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Elaine Armstrong - CCRA Clark county rental association
+* carl haglund - big rooster investments llc
+* Robin Rask - no agency
+* Rick Glenn - President, Yakima Valley Landlords' Association
+* Sam Spiegelman - Citizen Action Defense Fund
+* Jacob Bond - Collective Communities
+* LaDon Linde - Yakima County Commissioner
+* Paul Morton
 
-#### 2 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * David Toler - Olympia for All
 

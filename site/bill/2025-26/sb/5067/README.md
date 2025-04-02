@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/02/2025 [KIRO7](/org/kiro7/) - [Bellingham sees highest rate of DUI arrests in 5 years – KIRO 7 News Seattle](https://www.kiro7.com/news/local/bellingham-sees-highest-rate-dui-arrests-5-years/MUNOMYIG3VAZVMDM25O7VCJBAA/#:~:text=SB%205067)
 * 03/13/2025 [KING5](/org/king5/) - [Here are the bills that died, survived legislative cut-off deadline | king5.com](https://www.king5.com/article/news/local/bills-died-survived-legislative-cut-off-deadline/281-1d2a56b1-1fe3-4a9f-acff-a08ae540075c#:~:text=Senate%20Bill%205067)
 * 02/19/2025 [Senate Democrats](/org/senate_democrats/) - [Liias co-sponsors bills to reduce impaired driving, increase law enforcement - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/19/liias-co-sponsors-bills-to-reduce-impaired-driving-increase-law-enforcement/#:~:text=Senate%20Bill%205067)
 * 01/31/2025 [FOX13](/org/fox13/) - [WA bill to lower alcohol limit to 0.05% BAC advances | FOX 13 Seattle](https://www.fox13seattle.com/news/bill-alcohol-limit-05-bac#:~:text=Senate%20Bill%205067)

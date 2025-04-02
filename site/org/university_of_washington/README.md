@@ -8,8 +8,9 @@
 * ❓💵 Morgan Hickel
 * 👎💵 Morgan Hickel
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍2  
 * 👍💵 Morgan Hickel
+* 👍 Joe Dacca
 
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  
 
@@ -74,8 +75,9 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍2  
 * 👍 Joe Dacca
+* 👍💵 Morgan Hickel
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍2  
 

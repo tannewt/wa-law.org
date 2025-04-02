@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Tue 04/01 04:00 PM - Ways & Means (WM): SB 5194 State gen. obligation bonds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166693&caId=26770&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166693&caId=26770&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166693&caId=26770&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166693&caId=26770&tId=4)
+#### 1 👍 - Pro
+Testifying:
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 107 👎 - Con
 
 #### 0 ❓ - Other
 

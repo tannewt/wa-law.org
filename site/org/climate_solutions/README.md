@@ -10,8 +10,9 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Altinay Karasapan
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  ❓1
 * 👍💵 Leah Missik
+* ❓ Megan Larkin
 
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍2  
 * 👍💵 Leah Missik
@@ -83,8 +84,9 @@
 ### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf.   ❓1
 * ❓ Megan Larkin
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  ❓1
 * 👍💵 Leah Missik
+* ❓ Megan Larkin
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓💵 Altinay Karasapan

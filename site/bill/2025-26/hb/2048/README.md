@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166600&caId=26803&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166600&caId=26803&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 3 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Caitlin Pham
 * Atasha Velarde

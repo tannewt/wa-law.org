@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5801/</link>
 		<description>Updates about SB 5801</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 29 Mar 2025 21:49:44 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -63,6 +63,20 @@
 			<pubDate>Sat, 29 Mar 2025 21:49:44 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=revenue%20bill</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/First reading, referred to Transportation.</guid>
 		</item>
 	</channel>
 </rss>

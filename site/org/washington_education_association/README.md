@@ -76,13 +76,13 @@
 
 ### [HB 1200](/bill/2025-26/hb/1200/) - DD parental caregivers 👍1  
 
-### [HB 1202](/bill/2025-26/hb/1202/) - State gen. obligation bonds 👍1  
+### [HB 1202](/bill/2025-26/hb/1202/) - State gen. obligation bonds 👍2  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍3  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
@@ -294,6 +294,17 @@
 
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍2  
+* 👍💵 Julie Salvi
+* 👍💵 Simone Boe
+
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
+* 👎💵 Julie Salvi
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
@@ -408,7 +419,7 @@
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍3  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍4  
 * 👍💵 Nasue Nishida
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍2  
@@ -419,7 +430,7 @@
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍2  
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍2  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
@@ -554,7 +565,7 @@
 
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
-### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍3  
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍5  
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 
@@ -597,7 +608,8 @@
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
 
-### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
+### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎2 
+* 👎💵 Nasue Nishida
 * 👎💵 Nasue Nishida
 
 ### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax 👍1  

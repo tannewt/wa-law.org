@@ -24,9 +24,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=4)
 
-#### 103 👍 - Pro
+#### 280 👍 - Pro
+Testifying:
+* Alexis Janson
+* Carrie Lancaster
 
-#### 1053 👎 - Con
+#### 1306 👎 - Con
 Testifying:
 * Gabriel Jacobs
 

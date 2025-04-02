@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1971/</link>
 		<description>Updates about HB 1971</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 29 Mar 2025 12:33:34 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 07:34:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -432,6 +432,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2025-03-29 12:33:34</guid>
+		</item>
+		<item>
+			<title>👍Alexis Janson - Department of Natural Resources</title>
+			<description>Alexis Janson signed up to testify Pro.</description>
+			<pubDate>Tue, 01 Apr 2025 01:17:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alexis/Janson/2025-04-01 01:17:48</guid>
+		</item>
+		<item>
+			<title>👍Carrie Lancaster - Department of Natural Resources</title>
+			<description>Carrie Lancaster signed up to testify Pro.</description>
+			<pubDate>Tue, 01 Apr 2025 07:34:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carrie/Lancaster/2025-04-01 07:34:18</guid>
 		</item>
 	</channel>
 </rss>

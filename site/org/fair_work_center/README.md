@@ -5,11 +5,11 @@
 * 👍 Jeremiah Miller
 * 👍 Jeremiah Miller
 
-### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍3  
+### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍4  
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
@@ -33,14 +33,14 @@
 * 👍 Danielle Alvarado
 * 👍 Anarosa Bello Nieto
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍 Danielle Alvarado
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 
-### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍4  
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍5  
 * 👍 Jeremiah Miller
 * 👍 Jeremiah Miller
 

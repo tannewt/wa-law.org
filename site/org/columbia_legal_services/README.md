@@ -31,7 +31,7 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍5  
 * 👍💵 Sarah Nagy
 
 ### [HB 1229](/bill/2025-26/hb/1229/) - Persistent offenders 👍1  
@@ -131,7 +131,7 @@
 
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍1  
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍1 👎2 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍2 👎2 
 * 👎💵 Ethan Frenchman
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  

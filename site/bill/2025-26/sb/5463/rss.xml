@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5463/</link>
 		<description>Updates about SB 5463</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 11:36:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -222,6 +222,30 @@
 			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-25/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎💵Lindsey Hueer - Association of Washington Business</title>
+			<description>Lindsey Hueer signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 01 Apr 2025 09:11:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lindsey/Hueer/2025-04-01 09:11:46</guid>
+		</item>
+		<item>
+			<title>👍Joe Kendo - Washington State Labor Council</title>
+			<description>Joe Kendo signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_labor_council/"&gt;Washington State Labor Council&lt;/a&gt;.</description>
+			<pubDate>Tue, 01 Apr 2025 11:36:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Kendo/2025-04-01 11:36:48</guid>
+		</item>
+		<item>
+			<title>👍💵Kelli Carson - Washington State Association for Justice</title>
+			<description>Kelli Carson signed up to testify Pro. They are signed up to represent Washington State Association for Justice. They are a registered lobbyist.</description>
+			<pubDate>Tue, 01 Apr 2025 11:36:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelli/Carson/2025-04-01 11:36:48</guid>
 		</item>
 	</channel>
 </rss>

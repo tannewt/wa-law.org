@@ -5,6 +5,8 @@
 
 ### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding  👎1 
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍2  

@@ -21,6 +21,9 @@
 ### [HB 1900](/bill/2025-26/hb/1900/) - Financial fraud protections  👎1 
 * 👎 DeeDee Anderson
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎2 
+* 👎 Glen Simecek
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 
@@ -36,7 +39,7 @@
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank   ❓1
 * ❓ Glen Simecek
 
-### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎2 
 * 👎💵 Megan Managan
 
 ## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 

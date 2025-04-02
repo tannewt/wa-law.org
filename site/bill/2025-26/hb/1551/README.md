@@ -16,11 +16,12 @@
 ### Mon 03/31 10:30 AM - Labor & Commerce (LC): ESHB 1551 Cannabis social equity prg.
 #### 1 👍 - Pro
 
-#### 661 👎 - Con
+#### 662 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Julie Dowell
 * Anthony Holan
+* Peter Manning - Black Excellence In Cannabis
 
 #### 1 ❓ - Other
 Testifying:

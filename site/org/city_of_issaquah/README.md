@@ -12,9 +12,11 @@
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 
-### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍2  
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 
@@ -26,11 +28,13 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 

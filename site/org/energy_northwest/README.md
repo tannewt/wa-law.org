@@ -5,6 +5,8 @@
 
 ### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍2  
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍 Dave Arbaugh
 
@@ -30,11 +32,15 @@
 
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
 
-## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
+## [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍1  
 
 ## 2023-24
 
-### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
+### [SB 5746](/bill/2023-24/sb/5746/) - EV charger property crime 👍1  
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

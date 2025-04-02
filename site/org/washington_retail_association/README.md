@@ -252,13 +252,14 @@
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 * 👍💵 Mark Johnson
 
-## [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍2  
+### [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍2  
 * 👍💵 Mark Johnson
+
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 
 ## 2023-24
 
-### [SB 5777](/bill/2023-24/sb/5777/) - Payment card processing/tax 👍2  
-* 👍💵 Mark Johnson
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

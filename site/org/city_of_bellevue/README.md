@@ -150,11 +150,13 @@
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
-## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+
+## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
 ## 2023-24
 
-### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎1 
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

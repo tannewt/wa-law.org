@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166593&caId=26793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166593&caId=26793&tId=4)
 
-#### 4 👍 - Pro
+#### 84 👍 - Pro
+Testifying:
+* Brice Montgomery - DSHS - Economic Services Administration - Community Services Division - Director
+* Carla Reyes - DSHS - Economic Services Administration - Assistant Secretary
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

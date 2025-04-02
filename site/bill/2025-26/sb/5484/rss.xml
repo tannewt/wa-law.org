@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5484/</link>
 		<description>Updates about SB 5484</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 09:22:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -119,6 +119,30 @@
 			<pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-14/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍💵Chester Baldwin - Towing and Recovery Association of Washington (TRAW)</title>
+			<description>Chester Baldwin signed up to testify Pro. They are signed up to represent Towing and Recovery Association of Washington (TRAW). They are a registered lobbyist.</description>
+			<pubDate>Mon, 31 Mar 2025 06:42:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chester/Baldwin/2025-03-31 06:42:04</guid>
+		</item>
+		<item>
+			<title>👍Emily Wade - Towing &amp; Recovery Association of WA (TRAW)</title>
+			<description>Emily Wade signed up to testify Pro. They are signed up to represent Towing &amp; Recovery Association of WA (TRAW).</description>
+			<pubDate>Mon, 31 Mar 2025 09:22:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Wade/2025-03-31 09:22:51</guid>
+		</item>
+		<item>
+			<title>👍Tj Redmon - Divines Towing</title>
+			<description>Tj Redmon signed up to testify Pro. They are signed up to represent Divines Towing.</description>
+			<pubDate>Mon, 31 Mar 2025 09:22:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tj/Redmon/2025-03-31 09:22:51</guid>
 		</item>
 	</channel>
 </rss>

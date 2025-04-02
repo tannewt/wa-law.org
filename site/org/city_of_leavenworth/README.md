@@ -4,6 +4,8 @@
 ### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding 👍1  
 * 👍 Carl Florea
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
 * 👍 Carl Florea
 * 👍 Carl Florea

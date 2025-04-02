@@ -113,6 +113,9 @@
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
 * 👎 Sean DeWitz
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
+* 👎💵 Julia Gorton
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton

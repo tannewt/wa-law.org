@@ -78,7 +78,8 @@
 * 👎💵 Candice Bock
 * ❓💵 Candice Bock
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓2
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
 ### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎2 ❓1
@@ -346,6 +347,9 @@
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder
 
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+* ❓💵 Carl Schroeder
+
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Carl Schroeder
 
@@ -480,13 +484,16 @@
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 * 👍💵 Candice Bock
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 * 👍💵 Candice Bock
+
+## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
-* 👍💵 Candice Bock
+### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

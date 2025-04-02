@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1696/</link>
 		<description>Updates about HB 1696</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 09:28:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 12:23:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -232,7 +232,7 @@
 			<guid isPermaLink="false">2025-03-10/First reading, referred to Housing.</guid>
 		</item>
 		<item>
-			<title>👍Tracy Brown - Habitat for Humanity Spokane</title>
+			<title>👍Tracy Brown - Washington State Housing Finance Commission</title>
 			<description>Tracy Brown signed up to testify Pro.</description>
 			<pubDate>Wed, 12 Mar 2025 09:34:00 GMT</pubDate>
 			<category>testifier</category>
@@ -405,12 +405,36 @@
 			<guid isPermaLink="false">2025-03-27/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>👍Kyle Lucas - Urban Indians Northwest</title>
+			<description>Kyle Lucas signed up to testify Pro. They are signed up to represent Urban Indians Northwest.</description>
+			<pubDate>Mon, 31 Mar 2025 06:09:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kyle/Lucas/2025-03-31 06:09:54</guid>
+		</item>
+		<item>
 			<title>👍LaKeisha Davis - Habitat for Humanity Spokane</title>
 			<description>LaKeisha Davis signed up to testify Pro. They are signed up to represent Habitat for Humanity Spokane.</description>
 			<pubDate>Mon, 31 Mar 2025 09:28:51 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/LaKeisha/Davis/2025-03-31 09:28:51</guid>
+		</item>
+		<item>
+			<title>👍💵Denise Rodriguez - Washington Homeownership Resource Center</title>
+			<description>Denise Rodriguez signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_homeownership_resource_center/"&gt;Washington Homeownership Resource Center&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 01 Apr 2025 12:23:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Denise/Rodriguez/2025-04-01 12:23:34</guid>
+		</item>
+		<item>
+			<title>👍Steve Walker - Washington State Housing Finance Commission</title>
+			<description>Steve Walker signed up to testify Pro. They are signed up to represent Washington State Housing Finance Commission.</description>
+			<pubDate>Tue, 01 Apr 2025 12:23:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Walker/2025-04-01 12:23:34</guid>
 		</item>
 	</channel>
 </rss>

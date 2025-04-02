@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): SB 5786 Liquor license fees

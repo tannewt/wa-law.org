@@ -1,0 +1,72 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5118](/bill/2025-26/sb/5118/) > [Passed Legislature](/bill/2025-26/sb/5118/S.PL/)
+
+# SB 5118 - International medical grads
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/5118-S.PL.pdf)
+
+## Section 1
+The commission may, without examination, issue a limited license to persons who possess the qualifications set forth herein:
+
+1. The commission may, upon the written request of the secretary of the department of social and health services, the secretary of children, youth, and families, or the secretary of corrections, issue a limited license to practice medicine in this state to persons who have been accepted for employment by the department of social and health services, the department of children, youth, and families, or the department of corrections as physicians; who are licensed to practice medicine in another state of the United States or in the country of Canada or any province or territory thereof; and who meet all of the qualifications for licensure set forth in RCW 18.71.050.
+
+Such license shall permit the holder thereof to practice medicine only in connection with patients, residents, or inmates of the state institutions under the control and supervision of the secretary of the department of social and health services, the department of children, youth, and families, or the department of corrections.
+
+2. The commission may issue a limited license to practice medicine in this state to persons who have been accepted for employment by a county or city health department as physicians; who are licensed to practice medicine in another state of the United States or in the country of Canada or any province or territory thereof; and who meet all of the qualifications for licensure set forth in RCW 18.71.050.
+
+Such license shall permit the holder thereof to practice medicine only in connection with his or her duties in employment with the city or county health department.
+
+3. Upon receipt of a completed application showing that the applicant meets all of the requirements for licensure set forth in RCW 18.71.050 except for completion of two years of postgraduate medical training, and that the applicant has been appointed as a resident physician in a program of postgraduate clinical training in this state approved by the commission, the commission may issue a limited license to a resident physician. Such license shall permit the resident physician to practice medicine only in connection with his or her duties as a resident physician and shall not authorize the physician to engage in any other form of practice. Each resident physician shall practice medicine only under the supervision and control of a physician licensed in this state, but such supervision and control shall not be construed to necessarily require the personal presence of the supervising physician at the place where services are rendered.
+
+4. [Empty]
+
+    a. Upon nomination by the dean of an accredited school of medicine in the state of Washington or the chief executive officer of a hospital or other appropriate health care facility licensed in the state of Washington, the commission may issue a limited license to a physician applicant invited to serve as a teaching-research member of the institution's instructional staff if the sponsoring institution and the applicant give evidence that he or she has graduated from a recognized medical school and has been licensed or otherwise privileged to practice medicine at his or her location of origin. Such license shall permit the recipient to practice medicine only within the confines of the instructional program specified in the application and shall terminate whenever the holder ceases to be involved in that program, or at the end of one year, whichever is earlier. Upon request of the applicant and the institutional authority, the license may be renewed. The holder of a teaching research license under this subsection (4)(a) is eligible for full licensure if the following conditions are met:
+
+        i. If the applicant has not graduated from a school of medicine located in any state, territory, or possession of the United States, the District of Columbia, or the Dominion of Canada, the applicant must satisfactorily pass the certification process by the educational commission for foreign medical graduates;
+
+        ii. The applicant has successfully completed the exam requirements set forth by the commission by rule;
+
+        iii. The applicant has the ability to read, write, speak, understand, and be understood in the English language at a level acceptable for performing competent medical care in all practice settings;
+
+        iv. The applicant has continuously held a position of associate professor or higher at an accredited Washington state medical school for no less than three years; and
+
+    v. The applicant has had no disciplinary action taken in the previous five years.
+
+    b. Upon nomination by the dean of an accredited school of medicine in the state of Washington or the chief executive officer of any hospital or appropriate health care facility licensed in the state of Washington, the commission may issue a limited license to an applicant selected by the sponsoring institution to be enrolled in one of its designated departmental or divisional fellowship programs provided that the applicant shall have graduated from a recognized medical school and has been granted a license or other appropriate certificate to practice medicine in the location of the applicant's origin. Such license shall permit the holder only to practice medicine within the confines of the fellowship program to which he or she has been appointed and, upon the request of the applicant and the sponsoring institution, the license may be renewed by the commission.
+
+All persons licensed under this section shall be subject to the jurisdiction of the commission to the same extent as other members of the medical profession, in accordance with this chapter and chapter 18.130 RCW.
+
+Persons applying for licensure and renewing licenses pursuant to this section shall comply with administrative procedures, administrative requirements, and fees determined as provided in RCW 43.70.250 and 43.70.280. Any person who obtains a limited license pursuant to this section may apply for licensure under this chapter, but shall submit a new application form and comply with all other licensing requirements of this chapter.
+
+5.
+
+    a. Upon nomination by the chief medical officer of any hospital, appropriate medical practice or physician employment group located in the state of Washington, the department of social and health services, the department of children, youth, and families, the department of corrections, or a county or city health department, the commission may issue a limited license to an international medical graduate for the purpose of gaining clinical experience if the applicant:
+
+        i.
+
+Provides proof the applicant is certified by the educational commission for foreign medical graduates;
+
+        ii. Has passed  steps one and two of the United States medical licensing examination; and
+
+        iii. Submits to the commission background check process required of applicants generally.
+
+    b. The commission at its sole discretion may elect to waive requirements in statute and rule when considering internationally trained applicants experiencing hardship in providing required documents for license applications. The commission may also require alternate demonstrations of competence that may include examinations or specialty assessments, a period of supervised practice, or other tools as appropriate for evaluation of an applicant to the satisfaction of the commission. Hardship scenarios the commission may consider include, but are not limited to, refugee status, persecution in the home country of the applicant due to beliefs, ethnicity, or other demographic considerations. The commission may not consider as a hardship the inability of the applicant to complete the certification and examination processes administered by the educational commission on foreign medical graduates or the failure of required examinations.
+
+    c. A license holder under this subsection may only practice:
+
+        i. Under the supervision and control of a physician who is licensed in this state under this chapter or chapter 18.57 RCW and is of the same or substantially similar clinical specialty; and
+
+        ii. Within the nominating facility or organization.
+
+    d. A license holder must file with the commission a practice agreement between the license holder and the supervising physician who is of the same or substantially similar clinical specialty prior to beginning practice under this license.
+
+    e. A supervising physician may supervise no more than four license holders under this subsection unless the commission grants a request to increase this limit.
+
+    f. A limited license issued under this subsection is valid for two years and may be renewed three times by the commission upon application for renewal by the nominating entity for a total of eight years. Prior to the third renewal, the applicant must attest to the commission that they applied to one or more residency programs.
+
+    g. The scope of practice of an individual licensed and practicing under authority of this license shall be defined in the practice agreement between the supervising physician and the licensee. For purposes of medical practice, employment role definition, malpractice coverage, credentialing, and insurance billing for plans described in, but not limited to, Title 48 RCW, the licensee shall be considered a full scope physician, unless disciplinary action limits the scope of the license held by the licensee or the supervising physician.
+
+    h. All persons licensed under this subsection are subject to the jurisdiction of the commission to the same extent as other members of the medical profession, in accordance with this chapter and chapter 18.130 RCW.
+
+        i. Persons applying for licensure and renewing licenses under this subsection shall comply with administrative procedures, administrative requirements, and fees determined as provided in RCW 43.70.250 and 43.70.280.
+
+    j. The supervising physician shall retain professional and personal responsibility for any act which constitutes the practice of medicine as defined in RCW 18.71.011 or the practice of osteopathic medicine and surgery as defined in RCW 18.57.001 when performed by an international medical graduate practicing under their supervision.

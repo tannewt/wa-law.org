@@ -1,13 +1,15 @@
 # Asia Pacific Cultural Center
 ## 2025-26
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍2  
 * 👍 Lua Pritchard
+* 👍 Faaluaina Pritchard
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍2  
 * 👍 Belinda Louie
+* 👍 Faaluaina Pritchard
 
 ## [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍2  
 

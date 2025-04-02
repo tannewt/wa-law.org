@@ -12,6 +12,21 @@
 * 03/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington carbon auction prices rise again • Washington State Standard](https://washingtonstatestandard.com/2025/03/12/washington-carbon-auction-prices-rise-again/#:~:text=House%20Bill%201975)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1975 Climate commitment act
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/19 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1975 Climate commitment act
 #### 68 👍 - Pro
 Testifying:

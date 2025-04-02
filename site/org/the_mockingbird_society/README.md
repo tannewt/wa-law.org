@@ -15,7 +15,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Charles Smith
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
@@ -27,7 +27,7 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍3  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 * 👍 Jalayna Ruland
@@ -39,6 +39,10 @@
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 

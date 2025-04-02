@@ -11,7 +11,10 @@
 * ❓💵 Melissa Johnson
 * ❓💵 Melissa Johnson
 
-### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+* 👍💵 Melissa Johnson
+
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍2  
 
 ### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
 
@@ -23,8 +26,9 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Melissa Johnson
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  ❓1
 * ❓💵 Melissa Johnson
+* 👍💵 Melissa Johnson
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 

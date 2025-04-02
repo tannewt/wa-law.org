@@ -7,21 +7,23 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
 * ❓ Giannina Ferrara
 * ❓ Giannina Ferrara
 
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍3  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍4  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
@@ -42,7 +44,7 @@
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
+### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍2  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 

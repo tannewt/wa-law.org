@@ -76,13 +76,15 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍3  
 
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍4  
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
 
@@ -100,13 +102,13 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍2  
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍3  
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
-### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 
 ### [SB 5574](/bill/2025-26/sb/5574/) - History instruction   ❓1
 * ❓💵 Casey Brown
@@ -115,6 +117,8 @@
 * ❓💵 Roz Thompson
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍2  
+
+### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten   ❓1
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 

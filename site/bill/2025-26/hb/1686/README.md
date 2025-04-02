@@ -23,9 +23,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166699&caId=26781&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166699&caId=26781&tId=4)
 
-#### 90 👍 - Pro
+#### 130 👍 - Pro
+Testifying:
+* Pam MacEwan - Purchasers Business Group on Health
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

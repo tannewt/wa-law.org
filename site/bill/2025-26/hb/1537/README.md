@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Transportation (TRAN): HB 1537 Roadway safety account use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166666&caId=26758&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166666&caId=26758&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166666&caId=26758&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166666&caId=26758&tId=4)
-
-#### 21 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Brody Coval - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Joel Sisolak - WDFW
+* Ted Jackson - WA ATV Association
 
 #### 35 👎 - Con
 

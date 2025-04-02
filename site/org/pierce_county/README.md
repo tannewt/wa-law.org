@@ -30,6 +30,8 @@
 
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 
+### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
+
 ### [HB 1870](/bill/2025-26/hb/1870/) - Public health clinics/tax 👍1  
 
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍1  

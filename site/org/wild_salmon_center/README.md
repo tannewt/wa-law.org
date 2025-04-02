@@ -1,11 +1,17 @@
 # Wild Salmon Center
 ## 2025-26
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+* ❓ James Losee
+
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
+* 👍 Jessica Helsley
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Jessica Helsley
 
 ## [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  

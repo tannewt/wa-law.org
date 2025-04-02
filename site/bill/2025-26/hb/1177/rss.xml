@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1177/</link>
 		<description>Updates about HB 1177</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 02:01:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,7 +106,7 @@
 			<guid isPermaLink="false">2025-02-04/Referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👍Jason Bragg - Association of Washington Cities</title>
+			<title>👍Jason Bragg - Partners for Our Children</title>
 			<description>Jason Bragg signed up to testify Pro.</description>
 			<pubDate>Sun, 16 Feb 2025 05:33:39 GMT</pubDate>
 			<category>testifier</category>
@@ -191,6 +191,22 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Kim Justice - Partners for Our Children</title>
+			<description>Kim Justice signed up to testify Pro. They are signed up to represent Partners for Our Children.</description>
+			<pubDate>Mon, 31 Mar 2025 01:54:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kim/Justice/2025-03-31 01:54:59</guid>
+		</item>
+		<item>
+			<title>👍Terreca DeFehr - Partners for Our Children</title>
+			<description>Terreca DeFehr signed up to testify Pro.</description>
+			<pubDate>Mon, 31 Mar 2025 02:01:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Terreca/DeFehr/2025-03-31 02:01:35</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205118)

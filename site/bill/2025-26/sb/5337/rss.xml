@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5337/</link>
 		<description>Updates about SB 5337</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 12:08:43 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -229,6 +229,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Cathleen/MacCaul/2025-03-26 12:08:43</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/HCW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

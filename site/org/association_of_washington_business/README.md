@@ -394,6 +394,9 @@
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources   ❓1
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding  👎1 
+* 👎 Max Martin
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
@@ -402,7 +405,8 @@
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍2  
 * 👍💵 Peter Godlewski
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎3 
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
@@ -549,7 +553,8 @@
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
 * ❓💵 Morgan Irwin
 
-### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎2 
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎4 
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
@@ -579,7 +584,7 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍4  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍5  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
@@ -695,13 +700,16 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 * 👎 Max Martin
+
+## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 Peter Godlewski
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
-* 👎 Max Martin
+### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

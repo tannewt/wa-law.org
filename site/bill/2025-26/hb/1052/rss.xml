@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1052/</link>
 		<description>Updates about HB 1052</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 23:10:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -222,6 +222,13 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>King County Prosecuting Attorney's Office wants to close a hate crime loophole | king5.com</title>
+			<description>News article "King County Prosecuting Attorney's Office wants to close a hate crime loophole | king5.com" from KING5.</description>
+			<pubDate>Mon, 31 Mar 2025 23:10:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/community/facing-race/king-county-prosecuting-attorneys-office-trans-hate-crome-loophole/281-6ec4aa64-bc10-4186-a129-8b8f2ca4685f#:~:text=House%20Bill%201052</guid>
 		</item>
 	</channel>
 </rss>

@@ -23,12 +23,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166805&caId=26850&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166805&caId=26850&tId=4)
 
-#### 16 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Elizabeth Ford - Workers’ Rights Clinic at Seattle University
 * Yasmene Hammoud - Workers’ Rights Clinic at Seattle University
+* Sejal Shah
 
-#### 0 👎 - Con
+#### 438 👎 - Con
 
 #### 0 ❓ - Other
 

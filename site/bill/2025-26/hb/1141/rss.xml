@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1141/</link>
 		<description>Updates about HB 1141</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 09:14:56 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -358,6 +358,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Michael/Gempler/2025-03-25 09:14:56</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,6 +11,21 @@
 * 03/11/2025 [House Democrats](/org/house_democrats/) - [Thomas bill updates reimbursement rates for relocation required for government projects.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/thomas-bill-updates-reimbursement-rates-for-relocation-required-for-government-projects/#:~:text=House%20Bill%201733)
 
 ## Meetings
+### Thu 04/03 01:30 PM - Transportation (TRAN): SHB 1733 Agency displacement expenses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Jordan Crawley - Alki Beach Academy
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): SHB 1733 Agency displacement expenses
 #### 4 👍 - Pro
 Testifying:

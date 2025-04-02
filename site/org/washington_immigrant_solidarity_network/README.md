@@ -13,7 +13,7 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍5  
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
 
@@ -31,9 +31,11 @@
 
 ### [HB 1412](/bill/2025-26/hb/1412/) - Comm'n, M. East & N. Africa 👍1  
 
+### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras  👎1 
+
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍3  
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
@@ -49,6 +51,12 @@
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -82,6 +90,8 @@
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
+### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍1  
+
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍5  
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍2  
@@ -94,11 +104,19 @@
 
 ### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

@@ -17,20 +17,15 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5795 Sales and use tax rate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166614&caId=26764&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166614&caId=26764&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166614&caId=26764&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166614&caId=26764&tId=4)
-
-#### 1043 👍 - Pro
+#### 1307 👍 - Pro
 Testifying:
 * Alexis Bardecker
 * Sharon Hanek
 * Rebecca Faust
 * Judith Smith
+* libi benyoar
 
-#### 600 👎 - Con
+#### 696 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Tim Eyman - Initiative Activist
@@ -39,5 +34,6 @@ Testifying:
 * Mike Martinez
 * Indy Dehal
 * Rebecca Faust
+* Nicki Ferguison - Promethean Consulting
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

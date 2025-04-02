@@ -12,6 +12,19 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201515)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1515 Alcohol service in public
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166875&caId=26895&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166875&caId=26895&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166875&caId=26895&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166875&caId=26895&tId=4)
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): 2SHB 1515 Alcohol service in public
 #### 17 👍 - Pro
 Testifying:

@@ -23,11 +23,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166696&caId=26778&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166696&caId=26778&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Eric Perry - [City of Renton](/org/city_of_renton/)
 
-#### 0 👎 - Con
+#### 447 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 03/17 10:30 AM - Higher Education & Workforce Development (HEWD): 2SHB 1587 Partner promise scholarships
 #### 13 👍 - Pro

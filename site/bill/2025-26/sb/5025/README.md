@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 04/01/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in education is my top priority  - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/04/01/funding-education-is-my-top-priority/#:~:text=5025)
+
 ## Meetings
 ### Wed 03/05 08:00 AM - Education (ED): SSB 5025 Educational interpreters
 #### 14 👍 - Pro

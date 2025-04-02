@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1321/</link>
 		<description>Updates about HB 1321</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 29 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 16:02:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -242,6 +242,13 @@
 			<pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-29/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Ferguson one step closer to blocking out-of-state guard troops from entering WA | Washington | thecentersquare.com</title>
+			<description>News article "Ferguson one step closer to blocking out-of-state guard troops from entering WA | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 31 Mar 2025 16:02:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_33ad3405-d549-4b7d-bae9-a7c6251b8a7c.html#:~:text=House%20Bill%201321</guid>
 		</item>
 	</channel>
 </rss>

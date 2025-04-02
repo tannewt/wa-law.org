@@ -18,13 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166831&caId=26867&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166831&caId=26867&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Alexandra Clifthorne
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Annie Pillers - Washington Association of Coroners and Medical Examiners
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Timothy Grisham - [Washington Association of County Officials](/org/washington_association_of_county_officials/)
 
 ### Tue 03/25 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5030 Vital records access
 #### 38 👍 - Pro

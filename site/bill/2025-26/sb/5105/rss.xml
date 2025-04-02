@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5105/</link>
 		<description>Updates about SB 5105</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 18:27:42 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -311,6 +311,20 @@
 			<pubDate>Mon, 17 Mar 2025 18:27:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESSB%205105</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-31/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-31/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

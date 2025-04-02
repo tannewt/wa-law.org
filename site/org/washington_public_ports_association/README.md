@@ -79,6 +79,8 @@
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 * 👎 Chris Herman
 
+### [HB 1902](/bill/2025-26/hb/1902/) - Transp. project permitting 👍1  
+
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓3
 * ❓💵 Carly Michiels
 * ❓ Eric ffitch
@@ -118,6 +120,9 @@
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍2  
 * 👍 Chris Herman
 * 👍 Chris Herman
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+* ❓ Eric ffitch
 
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program 👍1  
 

@@ -12,20 +12,28 @@
 
 ## Meetings
 ### Tue 04/01 01:30 PM - Consumer Protection & Business (CPB): ESB 5721 Automobile insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166486&caId=26791&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166486&caId=26791&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166486&caId=26791&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33207&aId=166486&caId=26791&tId=4)
-
-#### 9 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Justin Morgan - 100 n Howard st
 * David Forte - Office of the Insurance Commissioner
+* Pat LePley - Washington State Association for Justice
+* 💵Rose Gundersen - WA Retail Association
+* Nour Aioub
+* Jon Baer
+* Patrick Schallert
+* Justin Lewis - Accurate Auto Body
+* LoraJo Hatch-Thorp
+* Jeff Butler - Insurance claims expert
 
-#### 429 👎 - Con
+#### 838 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brandon Vick - National Association of Mutual Insurance Companies
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5721 Automobile insurance
 #### 83 👍 - Pro

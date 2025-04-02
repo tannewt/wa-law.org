@@ -25,10 +25,14 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
+### [HB 1902](/bill/2025-26/hb/1902/) - Transp. project permitting 👍1  
+
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Cory Shaw
 
 ### [HB 1966](/bill/2025-26/hb/1966/) - Public works contracting 👍1  
+
+### [HB 1970](/bill/2025-26/hb/1970/) - Highway alt. contracting 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Cory Shaw
@@ -48,7 +52,7 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Cory Shaw

@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5794 Tax preferences
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166613&caId=26763&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166613&caId=26763&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166613&caId=26763&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166613&caId=26763&tId=4)
-
-#### 2630 👍 - Pro
+#### 3561 👍 - Pro
 Testifying:
 * Alfred Higgins
 * Brenda Valdez
@@ -44,11 +38,12 @@ Testifying:
 * Carmensofia Avelar Larios
 * Christi Thomas
 * Gabby Donaldson
+* Steve Zemke - Tax Sanity
 * Christina Jimenez
 * Gayle Janzen
 * Julia Buck
 
-#### 2110 👎 - Con
+#### 2433 👎 - Con
 Testifying:
 * Richard de Sam Lazaro - [Expedia Group](/org/expedia_group/)
 * Tim Eyman - Initiative Activist
@@ -86,9 +81,14 @@ Testifying:
 * KARL DYE - TRIDEC
 * Judth Smith
 * Amberlyn McQuary - Stonebraker McQuary Insurance
+* Nicki Ferguison - Promethean Consulting
+* Jp Cortez - Sound Money Defense League
+* jASMINE vasavada - Washington State Public Utility District Association
 * Alicia Travis
 * Ryan Oftebro - Kelley-Ross Pharmacy and Washington State Pharmacy Association
+* Reid Ekberg
+* Christopher Schaffner - Washington State Pharmacy Association
 
-#### 4 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Matt Harris - Washington Potato Commission

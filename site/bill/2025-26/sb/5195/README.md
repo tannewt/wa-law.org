@@ -12,99 +12,159 @@
 
 ## Meetings
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: All other. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166726&caId=26775&tId=4)
-
-#### 28 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * SuYoung Yun - APIC WA
 * Seth Muir - Sail Sand Point
 * BILL LEDREW - FRIENDS OF LOPEZ ISLAND POOL (FLIP)
 * Georgia Johnson - Field Arts & Events Hall
 * Steven Ginsburg - Port Angeles Waterfront Center
+* 💵Kenny Pittman - Communities of Concern Commission
+* Khurshida Begum - ASHHO Cultural Community Center
+* Elena Arakaki - Friends of Little Saigon
+* Christine Consolacion - International Community Health Services
+* Melissa C. Johnson - International Community Health Services
+* Jason Lamiquiz - Perry Technical Institute
+* Faaluaina Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
+* Angela Harris - [Port of Edmonds](/org/port_of_edmonds/)
+* Karen Allen - Hotel Lincoln Historic Restoration Project
 * Brooke Taylor - Port Angeles Waterfront Center
+* Tara Tamaribuchi - Seattle Betsuin Buddhist Temple
+* Kim Reynolds - Port Angeles Waterfront Center
+* Mary McDonald - Community Child Care Center
+* Nicholas Mattson - Port of Chinook & the ILWU WA Area District Council
+* Hamdi Abdulle - AAfrican Community & Housing Development/Communities of Concern Commission
+* 💵Michael Transue - LeMay - America's Car Museum, City of Fife
+* Josh Lozano - Benton Rural Electric Association / Director of Energy Policy
+* Dave DeMarco - [City of Everett](/org/city_of_everett/)
+* Jill Sheley - Jamie's Place
+* John Morrison - Clark County Fair
 
-#### 0 👎 - Con
+#### 104 👎 - Con
+Testifying:
+* Betsy Godlewski - Museum of Arts & Culture (Eastern Washington Historical Society)
+* Katherine Barr - STEM Paths Innovation Network
 
-#### 5 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * 💵Erica Hallock - Start Early Washington
 * Kathryn Gardow - Chair, Public Works Board
 * Paige Miller - Seattle Chinese Garden
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Ginger Ewing - Terrain Spokane
+* Mikkell Roeland - [Starfire Sports](/org/starfire_sports/)
 * Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Renee Jensen - Snoqualmie Valley Health
+* Sean Hopps
+* 💵Amina Abdalla - [City of Kelso](/org/city_of_kelso/)
+* Andy Hamilton - [City of Kelso](/org/city_of_kelso/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Vanesa Gutierrez - Sno-Isle Libraries
+* Dave DeMarco - [City of Everett](/org/city_of_everett/)
+* 💵Amber Carter - Port of Vancouver USA
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Scott Richards - Washington Public Utilities Districts Association
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Higher education. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166725&caId=26774&tId=4)
+#### 4 👍 - Pro
+Testifying:
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* David Buri
+* Sandy Kaiser - Evergreen Government Relations
 
-#### 0 👍 - Pro
+#### 104 👎 - Con
+Testifying:
+* Chris Mulick - Washington State University
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Darrell Jennings - State Board for Community and Technical Colleges
+* Jim Mulick
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Housing, behavioral health, and human services. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166722&caId=26771&tId=4)
-
-#### 2 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Karina Patel - The Tubman Center for Health and Freedom
 * Joe Vessey - community health center of snohomish county
+* Chairman Leonard Forsman - The Suquamish Tribe
+* Norine Hill - Mother Nation
+* 💵Brad Banks - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
+* 💵Jason Gauthier - South Sound Housing Affordability Partners
+* Simeon Rhoden - First AME Housing Association
+* Limda Collins - FAME Housing
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* Camille Moore - FAME Housing Association
+* 💵Erica Hallock - Start Early Washington
+* Cathy Murahashi - The Arc of WA
+* Council Jeremy Takala - Yakama Nation Tribal Council
+* Michone Preston - Habitat for Humanity of Washington State
+* Don Vanderholm - Lind-Ritzville Cooperative Schools
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Rev. Carey Anderson
 
-#### 0 👎 - Con
+#### 97 👎 - Con
+Testifying:
+* Steve O'Ban - [Trouves Health Care Corporation](/org/trouves_health_care_corporation/)
 
-#### 5 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Rachel Downes - Housing Hope
 * Vicki Hammond - HealthPoint (Chief Finance & Administrative Officer)
 * Jim CastroLang
+* Jesse Simpson - Housing Development Consortium
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* 💵Ian Goodhew - Airlift Northwest-UW Medicine
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Patrick Arney - Weld
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: K-12 public schools.  (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166724&caId=26773&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Mitch Denning - Alliance of Educational Associations
+* 💵Melissa Gombosky - ESD 112
 
-#### 0 👎 - Con
+#### 104 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 3 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Wade Smith - Superintendent, Walla Walla Public Schools
 * Charlie Brown - Tacoma Public Schools, WA Skills Center Directors
+* Jim Kowalkowski - Rural Education Center
+* Brian Freeman - Inchelium School District #70
+* Shani Watkins - West Sound Technical Skills Center
+* Hunter Hoerer - West Sound Technical Skills Center
+* Manuel Escalante
+* Shannon Thompson - West Sound Technical Skills Center
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Natural resources. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33214&aId=166723&caId=26772&tId=4)
+#### 16 👍 - Pro
+Testifying:
+* Jessica Helsley - [Wild Salmon Center](/org/wild_salmon_center/)
+* Jill Silver - 10,000 Years Institute
+* 💵Diana Carlen - Washington Association of Wheat Growers & Washington Potato and Onion Association
+* Nick Bird - City of Aberdeen, City Engineer
+* Kyla Shkerich Blair - [Columbia Basin Development League](/org/columbia_basin_development_league/)
+* 💵Mark Streuli - Washington State Water Resources Association
+* 💵Serena Campas - Rewiring America
+* Jay Gordon
+* Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
+* Brent Mason - Foss Waterway Seaport
 
-#### 0 👍 - Pro
-
-#### 1 👎 - Con
+#### 102 👎 - Con
 Testifying:
 * Rick McGuire - Alpine Lakes Protection Society
 
-#### 8 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Caroline Villanova - Mountains to Sound Greenway Trust
@@ -114,6 +174,15 @@ Testifying:
 * Chris Chappell - Washington Wild
 * Daniel Hoult - Outdoor Discovery Project
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
+* Donald R (DR) Michel - UCUT (Upper Columbia United Tribes)
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Jim Tuck - Project Manager, Trout Unlimited
+* Bob Davis - [City of Quincy](/org/city_of_quincy/)
+* Sarah Hamman - Ecostudies Institute
+* Jennifer Burbidge - Washington Recreation & Park Association
+* Monica Montgomery - Great Peninsula Conservancy
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: All other. (Remote Testimony Available).
 #### 11 👍 - Pro

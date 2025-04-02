@@ -20,10 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166777&caId=26825&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166777&caId=26825&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Jon Holmen - Lake Washington School District
 * Charlie Brown - Schools Alliance, Tacoma Public Schools
+* Leah Choi - Lake Washington School District Board of Directors
 
 #### 7 👎 - Con
 Testifying:

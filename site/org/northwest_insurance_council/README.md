@@ -14,13 +14,15 @@
 
 ### [SB 5695](/bill/2025-26/sb/5695/) - Young driver safety 👍1  
 
-## [SB 5721](/bill/2025-26/sb/5721/) - Automobile insurance  👎1 
+## [SB 5721](/bill/2025-26/sb/5721/) - Automobile insurance  👎1 ❓1
 * 👎💵 Kenton Brine
+* ❓💵 Kenton Brine
 
 ## 2023-24
 
-### [SB 5721](/bill/2023-24/sb/5721/) - Automobile insurance  👎1 
+### [SB 5721](/bill/2023-24/sb/5721/) - Automobile insurance  👎1 ❓1
 * 👎💵 Kenton Brine
+* ❓💵 Kenton Brine
 
 ### [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction  👎1 
 * 👎💵 Kenton Brine

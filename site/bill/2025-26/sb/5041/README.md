@@ -33,13 +33,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=4)
 
-#### 59 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * Lynette Shiroma
 
-#### 43 👎 - Con
+#### 171 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* Elizabeth New - Washington Policy Center
+* Elizabeth New - Washington Policy Center
 
 #### 0 ❓ - Other
 

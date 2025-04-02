@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166792&caId=26839&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166792&caId=26839&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
+* Kashi Arora - Seattle Children's
 
 #### 0 👎 - Con
 

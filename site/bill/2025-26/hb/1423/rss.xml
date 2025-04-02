@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1423/</link>
 		<description>Updates about HB 1423</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 09:29:32 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 10:26:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -81,7 +81,7 @@
 			<guid isPermaLink="false">2025-03-11/First reading, referred to Transportation.</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - City of Everett</title>
+			<title>👎Sandra Mochizuki - Cithaeron</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Sat, 29 Mar 2025 11:01:11 GMT</pubDate>
 			<category>testifier</category>
@@ -89,7 +89,7 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-29 11:01:11</guid>
 		</item>
 		<item>
-			<title>👎Julie Dowell - City of Everett</title>
+			<title>👎Julie Dowell - Cithaeron</title>
 			<description>Julie Dowell signed up to testify Con.</description>
 			<pubDate>Sun, 30 Mar 2025 06:32:46 GMT</pubDate>
 			<category>testifier</category>
@@ -105,7 +105,15 @@
 			<guid isPermaLink="false">testifier/Ben/Zarlingo/2025-03-30 11:27:18</guid>
 		</item>
 		<item>
-			<title>👎Anthony Holan - City of Everett</title>
+			<title>👎Tee Sannon - ACLU of Washington</title>
+			<description>Tee Sannon signed up to testify Con. They are signed up to represent ACLU of Washington.</description>
+			<pubDate>Mon, 31 Mar 2025 01:02:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tee/Sannon/2025-03-31 01:02:34</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - ACLU of Washington</title>
 			<description>Anthony Holan signed up to testify Con.</description>
 			<pubDate>Mon, 31 Mar 2025 07:24:23 GMT</pubDate>
 			<category>testifier</category>
@@ -119,6 +127,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ramona/Brandes/2025-03-31 09:29:32</guid>
+		</item>
+		<item>
+			<title>👍Sol Keiter - Cithaeron</title>
+			<description>Sol Keiter signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cithaeron/"&gt;Cithaeron&lt;/a&gt;.</description>
+			<pubDate>Mon, 31 Mar 2025 10:26:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sol/Keiter/2025-03-31 10:26:39</guid>
 		</item>
 	</channel>
 </rss>

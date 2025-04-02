@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166586&caId=26810&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166586&caId=26810&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Chester Baldwin - Towing and Recovery Association of Washington (TRAW)
+* Emily Wade - Towing & Recovery Association of WA (TRAW)
+* Tj Redmon - Divines Towing
 
 #### 0 👎 - Con
 

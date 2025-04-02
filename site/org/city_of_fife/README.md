@@ -1,6 +1,8 @@
 # City of Fife
 ## 2025-26
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓3
@@ -16,6 +18,8 @@
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓💵 Michael Transue
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
 ## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 

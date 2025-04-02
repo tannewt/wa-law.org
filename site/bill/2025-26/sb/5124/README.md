@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166806&caId=26851&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166806&caId=26851&tId=4)
 
-#### 9 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Michelle Percopo - Washington State Emegency Nurses Association
 
 #### 0 👎 - Con
 

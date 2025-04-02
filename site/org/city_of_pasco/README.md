@@ -10,11 +10,13 @@
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
 * 👎 Richa Sigdel
 
-## [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+
+## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 
 ## 2023-24
 
-### [SB 5265](/bill/2023-24/sb/5265/) - Electrical inspector exp. 👍1  
+### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
 

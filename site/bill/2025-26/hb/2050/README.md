@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=4)
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
 
-#### 39 👎 - Con
+#### 474 👎 - Con
 Testifying:
 * Mandi Rehn - Valley School District Superintendent
 * Dana Rosenbach - North Mason School District Number 403
@@ -25,5 +25,9 @@ Testifying:
 * Jeff Baerwald - Superintendent of the Nine Mile Falls School District
 * Superintendent Michael Porter - Omak School District
 * Charlie Brown - South Sound Superintendents, Federal Way Public Schools
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Natalya Yudkovsky - Washington State PTA
+* Dave Larson - [Washington State School Directors Association](/org/washington_state_school_directors_association/)
+* Superintendent, Dr. Peter Finch - West Valley School District #208
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other

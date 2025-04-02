@@ -49,7 +49,8 @@
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍10  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍11  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon

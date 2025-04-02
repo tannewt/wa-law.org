@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2062/</link>
 		<description>Updates about HB 2062</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 22:06:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 11:49:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,46 @@
 			<pubDate>Fri, 28 Mar 2025 22:06:30 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202062</guid>
+		</item>
+		<item>
+			<title>👍Daryl Dietrich - Cold Snap Farm</title>
+			<description>Daryl Dietrich signed up to testify Pro. They are signed up to represent Cold Snap Farm.</description>
+			<pubDate>Mon, 31 Mar 2025 05:55:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daryl/Dietrich/2025-03-31 05:55:25</guid>
+		</item>
+		<item>
+			<title>👍Elaine Oneil - WA Farm Forestry Association</title>
+			<description>Elaine Oneil signed up to testify Pro. They are signed up to represent WA Farm Forestry Association.</description>
+			<pubDate>Mon, 31 Mar 2025 05:55:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elaine/Oneil/2025-03-31 05:55:25</guid>
+		</item>
+		<item>
+			<title>👍Richard Weiss - Small Forest Land Owner</title>
+			<description>Richard Weiss signed up to testify Pro. They are signed up to represent Small Forest Land Owner.</description>
+			<pubDate>Mon, 31 Mar 2025 05:55:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Richard/Weiss/2025-03-31 05:55:25</guid>
+		</item>
+		<item>
+			<title>👎David Simpson - Small Forest Land Owner</title>
+			<description>David Simpson signed up to testify Con.</description>
+			<pubDate>Mon, 31 Mar 2025 09:00:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Simpson/2025-03-31 09:00:16</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Small Forest Land Owner</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 31 Mar 2025 11:49:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-31 11:49:32</guid>
 		</item>
 	</channel>
 </rss>

@@ -20,6 +20,8 @@
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals   ❓1
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 

@@ -6,6 +6,9 @@
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+* ❓ Victoria OBanion
+
 ### [HB 1358](/bill/2025-26/hb/1358/) - Mobile home community sale 👍1  
 * 👍 Victoria OBanion
 
@@ -28,7 +31,11 @@
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 
-### [HB 2047](/bill/2025-26/hb/2047/) - Employee ownership program  👎1 
+### [HB 2047](/bill/2025-26/hb/2047/) - Employee ownership program  👎2 
+* 👎 John McNamara
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+* ❓ Victoria OBanion
 
 ### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍3  
 * 👍 Victoria OBanion

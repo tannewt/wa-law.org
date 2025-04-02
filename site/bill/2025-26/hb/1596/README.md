@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Transportation (TRAN): ESHB 1596 Speeding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33235&aId=166569&caId=26756&tId=4)
-
-#### 140 👍 - Pro
+#### 167 👍 - Pro
 Testifying:
 * DAVID SALE
 * Lori Markowitz
@@ -35,8 +29,9 @@ Testifying:
 * 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
 * THEODORE SMITH
 * Sadie Haag
+* Mark Ottele - Granite Construction Company
 
-#### 18 👎 - Con
+#### 20 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

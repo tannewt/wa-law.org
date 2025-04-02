@@ -20,13 +20,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166802&caId=26847&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166802&caId=26847&tId=4)
 
-#### 1 👍 - Pro
+#### 22 👍 - Pro
 
-#### 34 👎 - Con
+#### 488 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Nate Bloch - Student
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5358 Career & tech. ed./6th grade
 #### 48 👍 - Pro

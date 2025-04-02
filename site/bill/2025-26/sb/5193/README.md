@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/01/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in education is my top priority  - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/04/01/funding-education-is-my-top-priority/#:~:text=5193)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5193)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Post house of origin cutoff update! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5193)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205193)

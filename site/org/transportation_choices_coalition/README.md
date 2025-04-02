@@ -8,7 +8,9 @@
 
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 
-### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+### [HB 1596](/bill/2025-26/hb/1596/) - Speeding 👍1  
+
+### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍2  
 
 ### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍1  
 

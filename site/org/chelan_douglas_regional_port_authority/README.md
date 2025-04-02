@@ -1,12 +1,28 @@
 # Chelan Douglas Regional Port Authority
+## 2025-26
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+* ❓💵 Blake Baldwin
+
+### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
+
+## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓2
+* ❓💵 Blake Baldwin
+* ❓💵 Blake Baldwin
+
+## 2023-24
+
+### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget   ❓2
+* ❓💵 Blake Baldwin
+* ❓💵 Blake Baldwin
+
+### [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
 * 👍💵 Blake Baldwin
 * 👍💵 Blake Baldwin
 
-## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
+### [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
-## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍11  
+### [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍11  
 * 👍 Monica Lough
 * 👍 Richard DeRock
 * 👍 Cynthia Weed
@@ -16,9 +32,9 @@
 * 👍 Jim Kuntz
 * 👍 Jim Kuntz
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
-## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍9  
+### [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍9  
 * 👍💵 Blake Baldwin
 * 👍 Jim Kuntz
 * 👍 JC Baldwin

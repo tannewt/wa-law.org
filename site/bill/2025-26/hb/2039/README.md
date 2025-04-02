@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166603&caId=26813&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166603&caId=26813&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
 
-#### 136 👎 - Con
+#### 255 👎 - Con
 Testifying:
 * Amy Lynn Roark
+* Diana Azevedo-McCaffrey - Center on Budget and Policy Priorities
 
 #### 0 ❓ - Other

@@ -15,7 +15,9 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
+
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Nicole Kern
@@ -28,7 +30,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍5  
 * 👍💵 Courtney Normand
 * 👍💵 Nicole Kern
 * 👍💵 Courtney Normand
@@ -39,7 +41,8 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
-### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍2  
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍3  
@@ -67,9 +70,9 @@
 
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍3  
 
-### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
@@ -82,11 +85,15 @@
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
 * 👍💵 Nicole Kern
 
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 

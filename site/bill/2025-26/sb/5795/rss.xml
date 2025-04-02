@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5795/</link>
 		<description>Updates about SB 5795</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 30 Mar 2025 10:44:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 01:57:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,6 +151,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Judith/Smith/2025-03-30 10:44:08</guid>
+		</item>
+		<item>
+			<title>👎Nicki Ferguison - Promethean Consulting</title>
+			<description>Nicki Ferguison signed up to testify Con. They are signed up to represent Promethean Consulting.</description>
+			<pubDate>Mon, 31 Mar 2025 01:02:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nicki/Ferguison/2025-03-31 01:02:07</guid>
+		</item>
+		<item>
+			<title>👍libi benyoar - Washington Potato Commission</title>
+			<description>libi benyoar signed up to testify Pro.</description>
+			<pubDate>Mon, 31 Mar 2025 01:57:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/libi/benyoar/2025-03-31 01:57:02</guid>
 		</item>
 	</channel>
 </rss>

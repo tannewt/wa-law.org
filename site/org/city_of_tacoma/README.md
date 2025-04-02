@@ -33,7 +33,7 @@
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
-### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍2  
+### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍3  
 
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
@@ -57,7 +57,7 @@
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍4  
 * 👍 Sarah Rumbaugh
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
@@ -95,6 +95,8 @@
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 

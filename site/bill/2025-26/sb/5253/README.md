@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/01/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in education is my top priority  - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/04/01/funding-education-is-my-top-priority/#:~:text=5253:)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5253)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Post house of origin cutoff update! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5253)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205253)
@@ -27,13 +28,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166595&caId=26795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166595&caId=26795&tId=4)
 
-#### 6 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
+* Cathy Murahashi - The Arc of Washington
+* Jen Chong Jewell
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* 💵Stacy Dym - The Arc of WA
+* Kathy McDonald
 
-#### 44 👎 - Con
+#### 538 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
+* RICHARD STABLER
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Annie Slade
 
 ### Tue 03/18 04:00 PM - Education (ED): SSB 5253 Special education services
 #### 223 👍 - Pro

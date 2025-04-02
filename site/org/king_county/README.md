@@ -21,6 +21,10 @@
 * 👍 Mac Nicholson
 * 👍 Mac Nicholson
 
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1

@@ -17,15 +17,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 
-#### 76 👎 - Con
+#### 650 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Nate Bloch - Student
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Kimberly Headrick - Superintendent-Medical Lake School District
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5769 Transition to kindergarten
 #### 62 👍 - Pro

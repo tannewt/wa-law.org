@@ -18,11 +18,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166701&caId=26783&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166701&caId=26783&tId=4)
 
-#### 113 👍 - Pro
+#### 195 👍 - Pro
+Testifying:
+* Jeff Gombosky - MultiCare Health System
+* Lloyd Stambaugh
+* Ed Kim - Washington State Radiological Society
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Sean Graham - Washington State Medical Association
 
-#### 6 👎 - Con
+#### 443 👎 - Con
+Testifying:
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* Mike Ennis - BIAW
+* Chris Bandoli - NABIP
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
 ### Thu 02/13 04:00 PM - Appropriations (APP): HB 1392 Medicaid access program
 #### 255 👍 - Pro

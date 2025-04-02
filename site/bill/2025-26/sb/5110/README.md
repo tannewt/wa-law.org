@@ -20,9 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Maya Esquivido - WA State Board for Community & Technical Colleges
 
-#### 1 👎 - Con
+#### 54 👎 - Con
 
 #### 0 ❓ - Other
 

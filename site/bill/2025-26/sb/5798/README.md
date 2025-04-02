@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5798 Property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166612&caId=26762&tId=4)
-
-#### 1784 👍 - Pro
+#### 2169 👍 - Pro
 Testifying:
 * Brennan Blue - Fire Chief, City of Vancouver
 * Fred Brink - Dep. Mayor, West Richland and Vice President, Assoc. WA Cities
@@ -32,6 +26,7 @@ Testifying:
 * Snohomish County Executiv Dave Somers - Snohomish County
 * Hunter George - Washington Recreation and Park Association
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Cathleen Koch - City of Connell City Administrator
 * James Trefry - AFSCME Council 2
 * Molly Gilbert - Chapter President, King Co. Department of Public Defense
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
@@ -41,8 +36,9 @@ Testifying:
 * King County Sheriff Patti Cole-Tindall - King County Sheriff
 * Thurston County Prosecuto Jon Tunheim - Thurston County Prosecutor
 * Nate Bloch
+* Amy Wang
 
-#### 35191 👎 - Con
+#### 43170 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -309,6 +305,19 @@ Testifying:
 * Vinod Reddy Gopi Reddy
 * Dave Tucker
 * Joe and Laurie Arndt
+* Chun Lu
+* Ashia Mills
+* Henry Wang
+* Avery Chiu
+* Qing Wood
+* Jessica Padilla
+* Yan Li
+* David Fannin
+* Anton Poon
+* Hongxia Crowell
+* Michelle Li
+* Jingting Wang
+* Michael Patterson - Washington Association of Mortgage Professionals
 * Twila Zard
 * Laura Hood - Laura Hood
 * Anthony Holan
@@ -318,8 +327,26 @@ Testifying:
 * David Jones
 * Kaiya MacGregor
 * Greg Cerbana - Weidner Apartment Homes
+* Anna Xin
+* Ming Qian
+* Shirley Chen
+* Xinrui Lu
+* Paul Li
+* kai wei
+* Linda WowZa - On behalf of all the single moms in America
+* Stephanie Hagel
+* Xiaoying Cheng
+* Lydi Harrison
+* Xiaojian Chen
+* Stephanie Bregher
+* Debbie Wachsler-Keefe
+* Ken Keefe
+* Barbara Horsfall
+* Xueyin Jiang
+* Migi Knabe
+* Lan Xing
 
-#### 116 ❓ - Other
+#### 161 ❓ - Other
 Testifying:
 * Joel Jensen
 * Trayton Shelton

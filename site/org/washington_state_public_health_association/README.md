@@ -14,9 +14,9 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍4  
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍3  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Megan Moore
@@ -27,7 +27,7 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
-### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍2  
 * 👍💵 Amy Brackenbury
 
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍2  
@@ -59,9 +59,9 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍3  
 
-### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍3  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
@@ -74,9 +74,15 @@
 
 ### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis   ❓1
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
@@ -115,11 +121,13 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

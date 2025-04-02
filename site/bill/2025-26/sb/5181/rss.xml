@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5181/</link>
 		<description>Updates about SB 5181</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 22:06:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -3658,6 +3658,20 @@
 			<pubDate>Fri, 28 Mar 2025 22:06:30 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205181</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-31/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-31/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

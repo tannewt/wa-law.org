@@ -19,7 +19,7 @@
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
 
-### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎2 
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 

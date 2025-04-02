@@ -37,7 +37,7 @@
 ### [HB 1220](/bill/2025-26/hb/1220/) - Concerning appropriate response to assaults by individuals in behavioral health crisis. 👍1  
 * 👍💵 Todd Carlisle
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
 
@@ -47,7 +47,7 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍2  
 
-### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍2  
+### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍3  
 
 ### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  ❓1
 
@@ -80,7 +80,7 @@
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 * 👍💵 Chloe Merino
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍1 👎2 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍2 👎2 
 * 👎💵 Rachael Seevers
 * 👎💵 Rachael Seevers
 * 👍💵 Rachael Seevers

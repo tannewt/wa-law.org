@@ -45,9 +45,17 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
@@ -76,9 +84,9 @@
 
 ### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
 
-### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍2  
 
-### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
 ## [SB 5802](/bill/2025-26/sb/5802/) - Rebalancing statutory fund transfers and revenue dedications for transportation.  👎1 
 * 👎 Andrew Villeneuve

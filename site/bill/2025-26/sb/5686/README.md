@@ -13,6 +13,19 @@
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Orwall bill expanding Foreclosure Fairness Act - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/03/07/senate-passes-orwall-bill-expanding-foreclosure-fairness-act/#:~:text=here)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5686 Foreclosure mediation prg.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=4)
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 04:00 PM - Housing (HOUS): E2SSB 5686 Foreclosure mediation prg.
 #### 140 👍 - Pro
 Testifying:

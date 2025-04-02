@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1774/</link>
 		<description>Updates about HB 1774</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 30 Mar 2025 02:52:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 12:51:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,6 +137,14 @@
 			<guid isPermaLink="false">testifier/Betsy/Wilkerson/2025-03-29 01:21:48</guid>
 		</item>
 		<item>
+			<title>❓Loni Greninger - Jamestown S'Klallam Tribe, Vice Chairwoman</title>
+			<description>Loni Greninger signed up to testify Other. They are signed up to represent Jamestown S'Klallam Tribe, Vice Chairwoman.</description>
+			<pubDate>Sat, 29 Mar 2025 09:46:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Loni/Greninger/2025-03-29 09:46:52</guid>
+		</item>
+		<item>
 			<title>❓Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe</title>
 			<description>Vice Chairwoman Loni Greninger signed up to testify Other. They are signed up to represent Jamestown S'Klallam Tribe.</description>
 			<pubDate>Sat, 29 Mar 2025 09:46:52 GMT</pubDate>
@@ -159,6 +167,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2025-03-30 02:52:07</guid>
+		</item>
+		<item>
+			<title>👍Victoria Woodards - Mayor, City of Tacoma</title>
+			<description>Victoria Woodards signed up to testify Pro. They are signed up to represent Mayor, City of Tacoma.</description>
+			<pubDate>Mon, 31 Mar 2025 11:10:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Victoria/Woodards/2025-03-31 11:10:43</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Low Income Housing Institute</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 31 Mar 2025 11:45:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-31 11:45:49</guid>
+		</item>
+		<item>
+			<title>👍Ali Lee - Mayor, City of Tacoma</title>
+			<description>Ali Lee signed up to testify Pro.</description>
+			<pubDate>Tue, 01 Apr 2025 02:38:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ali/Lee/2025-04-01 02:38:48</guid>
+		</item>
+		<item>
+			<title>👍Jon Grant - Low Income Housing Institute</title>
+			<description>Jon Grant signed up to testify Pro. They are signed up to represent Low Income Housing Institute.</description>
+			<pubDate>Tue, 01 Apr 2025 12:51:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jon/Grant/2025-04-01 12:51:22</guid>
 		</item>
 	</channel>
 </rss>

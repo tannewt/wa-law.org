@@ -16,15 +16,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=4)
 
-#### 165 👍 - Pro
+#### 646 👍 - Pro
 Testifying:
 * Natalie Paul - Lavender Spectrum Health
+* Jennifer Drake
 * PAMELA WILLIAMS
+* Diyana Malakoti
 * Emily Johnson
+* TERRI SQUIRES
+* 💵Michele Thomas
+* crystal kim
 
-#### 2 👎 - Con
+#### 79 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): ESHB 1430 APRN & PA reimbursement
 #### 764 👍 - Pro

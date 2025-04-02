@@ -17,7 +17,8 @@
 
 ### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍3  
 
-### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓2
+* ❓ Sam Hatzenbeler
 * ❓ Sam Hatzenbeler
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
@@ -26,7 +27,7 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍3  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍4  
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
@@ -85,7 +86,8 @@
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 * 👍 Sam Hatzenbeler
 
-### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
+### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍2  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  

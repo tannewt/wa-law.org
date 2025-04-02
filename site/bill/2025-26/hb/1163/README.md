@@ -50,9 +50,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=4)
 
-#### 17 👍 - Pro
+#### 71 👍 - Pro
+Testifying:
+* Joy Johnson
+* Ann Madsen
 
-#### 1596 👎 - Con
+#### 2492 👎 - Con
 Testifying:
 * Teodorin Morca
 * Daniel Mitchell - Washington Civil Rights Association
@@ -71,6 +74,14 @@ Testifying:
 * Zachary Andersen - zande123@gmail.com
 * 💵George Allen
 * Russell Franklin
+* Ben Lund
+* Lisa Jenkins
+* Wayne Schakel
+* Dale Whitaker
+* Ian Fiorino
+* 💵Troy Nichols - National Shooting Sports Foundation
+* Raymond Austill
+* 💵George Allen
 
 #### 0 ❓ - Other
 

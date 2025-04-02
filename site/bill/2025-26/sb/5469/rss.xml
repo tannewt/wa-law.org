@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5469/</link>
 		<description>Updates about SB 5469</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 09:21:15 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 05:19:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -286,6 +286,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Adriana/Paredes/2025-03-31 09:21:15</guid>
+		</item>
+		<item>
+			<title>👍Emily Rosenzweig - N/A</title>
+			<description>Emily Rosenzweig signed up to testify Pro.</description>
+			<pubDate>Mon, 31 Mar 2025 10:08:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Rosenzweig/2025-03-31 10:08:59</guid>
+		</item>
+		<item>
+			<title>👎Justine Lopez - Pillar Properties</title>
+			<description>Justine Lopez signed up to testify Con. They are signed up to represent Pillar Properties.</description>
+			<pubDate>Tue, 01 Apr 2025 05:19:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Justine/Lopez/2025-04-01 05:19:31</guid>
 		</item>
 	</channel>
 </rss>

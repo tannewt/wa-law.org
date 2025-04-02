@@ -77,17 +77,17 @@
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍1  
 
-### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍2  
 
-### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍2  
 
-### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍2  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍2  
 
 ### [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
 * 👍 Fernando Roman

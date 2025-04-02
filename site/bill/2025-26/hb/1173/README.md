@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/28/2025 [House Democrats](/org/house_democrats/) - [Rep. Bronoske: Workers in high hazard facilities deserve fair wages – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/28/rep-bronoske-workers-in-high-hazard-facilities-deserve-fair-wages/#:~:text=HB%201173)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201173)
 
 ## Meetings

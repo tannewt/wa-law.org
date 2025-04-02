@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1587/</link>
 		<description>Updates about HB 1587</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 04:27:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -216,6 +216,14 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Eric Perry - City of Renton</title>
+			<description>Eric Perry signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_renton/"&gt;City of Renton&lt;/a&gt;.</description>
+			<pubDate>Tue, 01 Apr 2025 04:27:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Perry/2025-04-01 04:27:38</guid>
 		</item>
 	</channel>
 </rss>

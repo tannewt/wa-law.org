@@ -9,6 +9,9 @@
 * 👍💵 Timothy Grisham
 * 👍💵 Michael Shaw
 
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access   ❓1
+* ❓💵 Timothy Grisham
+
 ## [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 
 ## 2023-24

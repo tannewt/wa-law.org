@@ -27,9 +27,13 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1596](/bill/2025-26/hb/1596/) - Speeding 👍1  
+
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
 
@@ -49,7 +53,7 @@
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
 
-### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs   ❓1
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  ❓1
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 

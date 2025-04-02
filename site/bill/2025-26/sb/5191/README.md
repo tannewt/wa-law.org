@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166807&caId=26852&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166807&caId=26852&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Cam Williams - ILWU Coast Longshore Division
 
 #### 0 👎 - Con
 

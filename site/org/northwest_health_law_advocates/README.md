@@ -22,7 +22,7 @@
 
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍4  
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
 
@@ -40,7 +40,7 @@
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
-### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
@@ -82,7 +82,7 @@
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍1 👎2 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍2 👎2 
 * 👎💵 Vanessa Saavedra
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍2  
@@ -103,14 +103,20 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+
+### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
+
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 * 👍💵 Emily Brice
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

@@ -21,13 +21,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166781&caId=26828&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166781&caId=26828&tId=4)
 
-#### 30 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - Political Director, Washington Community Action Network
+* Barbara Serrano - Former Senior Policy Advisor on Public Safety - Governor Inslee
 
-#### 2 👎 - Con
+#### 75 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Michelle Schreiber
 
 #### 0 ❓ - Other
 

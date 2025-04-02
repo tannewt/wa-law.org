@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5079/</link>
 		<description>Updates about SB 5079</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Apr 2025 08:06:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,22 @@
 			<pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Brice Montgomery - DSHS - Economic Services Administration - Community Services Division - Director</title>
+			<description>Brice Montgomery signed up to testify Pro. They are signed up to represent DSHS - Economic Services Administration - Community Services Division - Director.</description>
+			<pubDate>Wed, 02 Apr 2025 08:06:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brice/Montgomery/2025-04-02 08:06:27</guid>
+		</item>
+		<item>
+			<title>👍Carla Reyes - DSHS - Economic Services Administration - Assistant Secretary</title>
+			<description>Carla Reyes signed up to testify Pro. They are signed up to represent DSHS - Economic Services Administration - Assistant Secretary.</description>
+			<pubDate>Wed, 02 Apr 2025 08:06:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carla/Reyes/2025-04-02 08:06:27</guid>
 		</item>
 	</channel>
 </rss>

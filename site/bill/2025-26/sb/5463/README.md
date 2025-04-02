@@ -17,9 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166810&caId=26855&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166810&caId=26855&tId=4)
 
-#### 4 👍 - Pro
+#### 86 👍 - Pro
+Testifying:
+* Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
+* 💵Kelli Carson - Washington State Association for Justice
 
-#### 2 👎 - Con
+#### 436 👎 - Con
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other
 

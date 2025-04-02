@@ -1,11 +1,15 @@
 # Renewable Hydrogen Alliance
 ## 2025-26
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
 ## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Dave Arbaugh

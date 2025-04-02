@@ -23,11 +23,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166597&caId=26797&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166597&caId=26797&tId=4)
 
-#### 7 👍 - Pro
+#### 115 👍 - Pro
 
-#### 40 👎 - Con
+#### 658 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
+* Donald Kelts - 47th PCOs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 03/13 10:30 AM - Education (ED): SSB 5570 Tribes/K-12 instruction
 #### 95 👍 - Pro

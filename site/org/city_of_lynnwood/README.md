@@ -13,7 +13,8 @@
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements   ❓1
 * ❓ Karl Almgren
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓2
+* ❓ Karl Almgren
 * ❓ Karl Almgren
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  

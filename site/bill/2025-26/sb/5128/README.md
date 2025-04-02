@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205128)

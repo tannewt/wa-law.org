@@ -9,23 +9,23 @@
 
 ## Meetings
 ### Tue 04/01 04:00 PM - Transportation (TRAN): SHB 1774 Lease of unused highway land
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166671&caId=26769&tId=4)
-
-#### 16 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Betsy Wilkerson - Council President, City of Spokane
 * Donald Pugnetti Jr
 * Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
+* Victoria Woodards - Mayor, City of Tacoma
+* Ali Lee
+* Jon Grant - Low Income Housing Institute
 
-#### 485 👎 - Con
+#### 731 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jennifer Saunders - Washington State Historical Society
+* Loni Greninger - Jamestown S'Klallam Tribe, Vice Chairwoman
 * Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
 
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1774 Lease of unused highway land

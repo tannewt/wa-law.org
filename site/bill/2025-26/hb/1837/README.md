@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Tue 04/01 04:00 PM - Transportation (TRAN): ESHB 1837 Intercity passenger rail
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33236&aId=166667&caId=26765&tId=4)
-
-#### 734 👍 - Pro
+#### 1297 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * Israel Lopez
@@ -35,8 +29,26 @@ Testifying:
 * Brandon Bowersox-Johnson - 350 Seattle
 * Meghan Anderson - Kittitas Climate Action
 * Arvia Morris - Environment and Cliamate Caucus of the Washington State Democrats
+* Patrick Christian
+* Zack Barry
+* Sterling Cassel
+* Arvia Morris - Environment and Climate Caucus of the Washington State Democrats
+* Brandon Bowersox-Johnson - 350 Seattle
+* Thomas White - Climate Rail Alliance
+* 💵Mike Elliott - Rail Labor (retired)
+* Larry Ganders - President, Olympia-Lacey Amtrak Depot Committee
+* Tim Gould
+* 💵Steven Mazulo - SMART-TD
+* Bill Moyer - Solutionary Rail
+* Mary Paterson - Solutionary Rail
+* Meghan Anderson - Solutionary Rail
+* Sasha Elenko - Solutionary Rail
+* Ursula Euler
 
-#### 446 👎 - Con
+#### 685 👎 - Con
+Testifying:
+* TaraLyn Fray
+* leeann Ferry
 
 #### 1 ❓ - Other
 

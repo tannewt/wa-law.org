@@ -24,11 +24,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=4)
 
-#### 24 👍 - Pro
+#### 156 👍 - Pro
 Testifying:
+* Kyle Lucas - Urban Indians Northwest
 * LaKeisha Davis - Habitat for Humanity Spokane
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* Steve Walker - Washington State Housing Finance Commission
 
-#### 1024 👎 - Con
+#### 1340 👎 - Con
 
 #### 0 ❓ - Other
 

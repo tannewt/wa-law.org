@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1332/</link>
 		<description>Updates about HB 1332</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 11:24:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -189,6 +189,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Vicki/Christophersen/2025-03-24 11:24:08</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

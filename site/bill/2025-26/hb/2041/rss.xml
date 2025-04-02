@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2041/</link>
 		<description>Updates about HB 2041</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 22:06:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Apr 2025 08:37:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,22 @@
 			<pubDate>Fri, 28 Mar 2025 22:06:30 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202041</guid>
+		</item>
+		<item>
+			<title>👎Camie Goldhammer - N/A</title>
+			<description>Camie Goldhammer signed up to testify Con. They are signed up to represent N/A.</description>
+			<pubDate>Tue, 01 Apr 2025 03:42:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Camie/Goldhammer/2025-04-01 03:42:03</guid>
+		</item>
+		<item>
+			<title>👎Lee Che LEONG - Northwest Health Law Advocates (NoHLA)</title>
+			<description>Lee Che LEONG signed up to testify Con. They are signed up to represent Northwest Health Law Advocates (NoHLA).</description>
+			<pubDate>Wed, 02 Apr 2025 08:37:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lee Che/LEONG/2025-04-02 08:37:22</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,14 +11,15 @@
 
 ## Meetings
 ### Tue 04/01 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2062 Maple syrup processing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33209&aId=166689&caId=26789&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33209&aId=166689&caId=26789&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33209&aId=166689&caId=26789&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33209&aId=166689&caId=26789&tId=4)
+#### 5 👍 - Pro
+Testifying:
+* Daryl Dietrich - Cold Snap Farm
+* Elaine Oneil - WA Farm Forestry Association
+* Richard Weiss - Small Forest Land Owner
 
-#### 2 👍 - Pro
-
-#### 428 👎 - Con
+#### 662 👎 - Con
+Testifying:
+* David Simpson
+* TaraLyn Fray
 
 #### 0 ❓ - Other

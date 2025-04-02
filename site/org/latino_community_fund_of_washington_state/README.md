@@ -11,7 +11,7 @@
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 * 👍💵 Jake García
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍5  
 * 👍💵 Jake García
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
@@ -37,6 +37,8 @@
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
+
+### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 

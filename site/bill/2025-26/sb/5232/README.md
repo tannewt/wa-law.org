@@ -19,11 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166808&caId=26853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166808&caId=26853&tId=4)
 
-#### 12 👍 - Pro
+#### 67 👍 - Pro
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* 💵Jean Hill - Washington State Catholic Conference
+* Em Stone - Department of Commerce
 
-#### 0 👎 - Con
+#### 417 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 03/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): ESSB 5232 Essential needs program uses
 #### 21 👍 - Pro

@@ -51,9 +51,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=4)
 
-#### 12 👍 - Pro
+#### 107 👍 - Pro
 
-#### 1623 👎 - Con
+#### 2218 👎 - Con
 Testifying:
 * Anthony Triplett - All In A Days Work
 * Jane Milhans
@@ -65,6 +65,10 @@ Testifying:
 * 💵George Allen
 * Eric Hembury
 * Cory Causey
+* Michael McKinley
+* Brian Dumonte
+* Cory Causey
+* Shawn Teixeira
 
 #### 1 ❓ - Other
 Testifying:

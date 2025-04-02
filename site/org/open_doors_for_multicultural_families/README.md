@@ -4,11 +4,17 @@
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services 👍1  
 * 👍 Emani Donaldson
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+* ❓ Ginger Kwan
+
 ### [HB 1395](/bill/2025-26/hb/1395/) - Home care worker background 👍1  
 * 👍 Moses Perez
 
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
 * 👍 Florence Bien-Aime
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+* ❓ Ginger Kwan
 
 ## [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
 

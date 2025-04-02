@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166675&caId=26798&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166675&caId=26798&tId=4)
 
-#### 112 👍 - Pro
+#### 183 👍 - Pro
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

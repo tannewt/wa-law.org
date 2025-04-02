@@ -182,6 +182,12 @@
 
 ### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
 
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
+
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 
 ## 2023-24

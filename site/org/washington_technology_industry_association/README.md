@@ -33,12 +33,15 @@
 
 ### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
-## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+* 👎💵 Kelly Fukai
+
+## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
 * 👎💵 Kelly Fukai
 
 ## 2023-24
 
-### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎1 
+### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax  👎1 
 * 👎💵 Kelly Fukai
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  

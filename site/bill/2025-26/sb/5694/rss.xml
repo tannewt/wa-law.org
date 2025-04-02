@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5694/</link>
 		<description>Updates about SB 5694</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -141,6 +141,20 @@
 			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-28/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>LAWS - Majority; do pass with amendment(s).</title>
+			<description>LAWS - Majority; do pass with amendment(s).</description>
+			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-28/LAWS - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

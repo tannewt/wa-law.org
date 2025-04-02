@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1391/</link>
 		<description>Updates about HB 1391</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 07:47:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -174,7 +174,7 @@
 			<guid isPermaLink="false">2025-03-07/First reading, referred to Human Services.</guid>
 		</item>
 		<item>
-			<title>👍Dr. Esther Matthews - WDA/WACDL</title>
+			<title>👍Dr. Esther Matthews - San Juan County Superior Court Services Director</title>
 			<description>Dr. Esther Matthews signed up to testify Pro.</description>
 			<pubDate>Thu, 13 Mar 2025 05:05:06 GMT</pubDate>
 			<category>testifier</category>
@@ -235,6 +235,14 @@
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-26/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍LInnea Anderson - San Juan County Superior Court Services Director</title>
+			<description>LInnea Anderson signed up to testify Pro. They are signed up to represent San Juan County Superior Court Services Director.</description>
+			<pubDate>Mon, 31 Mar 2025 07:47:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LInnea/Anderson/2025-03-31 07:47:52</guid>
 		</item>
 	</channel>
 </rss>

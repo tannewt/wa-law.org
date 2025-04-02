@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/31/2025 [The Center Square](/org/the_center_square/) - [Ferguson one step closer to blocking out-of-state guard troops from entering WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_33ad3405-d549-4b7d-bae9-a7c6251b8a7c.html#:~:text=House%20Bill%201321)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=House%20Bill%201321)
 * 03/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Bill advances to restrict outside National Guard from entering WA • Washington State Standard](https://washingtonstatestandard.com/2025/03/11/wa-bill-to-restrict-outside-national-guard-from-entering-state-advances-in-legislature/#:~:text=House%20Bill%201321)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Blocking Unauthorized Militias from Entering WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/blocking-unauthorized-militias-from-entering-wa-passes-house/#:~:text=House%20Bill%201321)

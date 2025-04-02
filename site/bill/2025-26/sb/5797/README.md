@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5797 Intangible assets tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33213&aId=166610&caId=26760&tId=4)
-
-#### 4368 👍 - Pro
+#### 5760 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Kathleen Kershner
@@ -39,6 +33,7 @@ Testifying:
 * Corinne Miles
 * Sandra Sanchez
 * Manousos Kaouidis
+* Manousos Kouidis
 * 💵Rian Watt
 * Stephan Blanford
 * Bronti Lemke
@@ -58,9 +53,10 @@ Testifying:
 * 💵Matthew Lang - National Organization for Women - WA
 * 💵Myle Tang - Stand for Children WA
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Lisa Smith - Washington State Microenterprise Association
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
-#### 6731 👎 - Con
+#### 8365 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -83,11 +79,15 @@ Testifying:
 * Cindy Tucker
 * Rebecca Faust
 * Liza Simmknds
+* Liza Simmonds
 * Judith Smith
 * Dave Tucker
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Kylo B
 * Anthony Holan
 * Alicia Travis
 
-#### 12 ❓ - Other
+#### 24 ❓ - Other
 Testifying:
 * Nate Bloch
+* Laura Ruderman - Technology Alliance

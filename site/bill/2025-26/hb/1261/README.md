@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166704&caId=26786&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166704&caId=26786&tId=4)
 
-#### 28 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Christmas Tree Growers](/org/washington_christmas_tree_growers/)
+* Megan Dunn - Snohomish County
 
 #### 1 👎 - Con
 

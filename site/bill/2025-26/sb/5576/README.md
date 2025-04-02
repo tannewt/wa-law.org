@@ -14,6 +14,22 @@
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205576)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5576 Affordable housing funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=4)
+
+#### 1 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Richard Moser - WHCA
+* Allison Moser - WHCA
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 08:00 AM - Finance (FIN): ESSB 5576 Affordable housing funding
 #### 105 👍 - Pro
 Testifying:

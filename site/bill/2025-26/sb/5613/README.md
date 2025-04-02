@@ -14,6 +14,21 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205613)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5613 Residential development
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Adán Espino - Habitat for Humanity of WA
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5613 Residential development
 #### 111 👍 - Pro
 Testifying:

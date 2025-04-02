@@ -4,7 +4,7 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Patrick Arney
 
-### [HB 1427](/bill/2025-26/hb/1427/) - Peer support specialists 👍1  
+### [HB 1427](/bill/2025-26/hb/1427/) - Peer support specialists 👍2  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 

@@ -20,7 +20,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 9 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 

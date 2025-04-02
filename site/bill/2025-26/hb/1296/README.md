@@ -65,12 +65,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=4)
 
-#### 258 👍 - Pro
+#### 487 👍 - Pro
 Testifying:
 * EUNICE Ingermanson
 * Pat Taylor
+* Ingrid Sorensen - No
+* LINDEN JORDAN - PFLAG Skagit
 
-#### 1119 👎 - Con
+#### 1477 👎 - Con
 Testifying:
 * Eric Lundberg
 * Khushdip Brar
@@ -79,6 +81,7 @@ Testifying:
 * Amanda McKinney - Yakima County Commissioner
 * Gabriel Jacobs
 * Noah Meehan - Washington State Young Republicans
+* Elizabeth New - Washington Policy Center
 
 #### 1 ❓ - Other
 Testifying:

@@ -12,10 +12,11 @@
 
 ### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing 👍1  
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍2  
+* 👍 Jeff DeLuca
 * 👍 Jeff DeLuca
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍5  
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
@@ -29,10 +30,17 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance   ❓1
 * ❓💵 Linda Garcia
 
-### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
+### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
+
+### [HB 2040](/bill/2025-26/hb/2040/) - ABD assistance recovery  👎1 
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍3  
+* 👍💵 Linda Garcia
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍2  
 * 👍💵 Linda Garcia
@@ -46,12 +54,13 @@
 * ❓ Jeff DeLuca
 * ❓💵 Linda Garcia
 
-### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍2  
+* 👍 Jeff DeLuca
 * 👍 Jeff DeLuca
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
 

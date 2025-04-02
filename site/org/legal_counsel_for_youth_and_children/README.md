@@ -37,7 +37,7 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍4  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍2  
 
@@ -72,7 +72,9 @@
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
-### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍2  
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍3  
+
+### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
@@ -84,7 +86,7 @@
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions   ❓1
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍4  
 
 ### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
@@ -137,12 +139,12 @@
 
 ### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
 
-## [SB 5761](/bill/2025-26/sb/5761/) - Dependency/attorney appt.   ❓1
+## [SB 5761](/bill/2025-26/sb/5761/) - Dependency/attorney appt.   ❓2
 * ❓ Rhea Yo
 
 ## 2023-24
 
-### [SB 5761](/bill/2023-24/sb/5761/) - Dependency/attorney appt.   ❓1
+### [SB 5761](/bill/2023-24/sb/5761/) - Dependency/attorney appt.   ❓2
 * ❓ Rhea Yo
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  

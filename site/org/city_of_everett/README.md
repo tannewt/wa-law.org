@@ -9,8 +9,9 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
-### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  ❓1
 * ❓ Paula Rhyne
+* 👍 Dave DeMarco
 
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
 
@@ -65,6 +66,10 @@
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍 Jennifer Gregerson
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  ❓1
+* 👍 Dave DeMarco
+* ❓ Dave DeMarco
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 

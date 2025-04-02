@@ -15,13 +15,16 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
-## [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Christoph Mair
+
+## [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
+* 👍 Joe Kendo
 
 ## 2023-24
 
-### [SB 5101](/bill/2023-24/sb/5101/) - Worker leave/hate crimes 👍1  
-* 👍💵 Christoph Mair
+### [SB 5463](/bill/2023-24/sb/5463/) - Industrial insurance/duties 👍1  
+* 👍 Joe Kendo
 
 ### [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  
 * 👍 Joe Kendo

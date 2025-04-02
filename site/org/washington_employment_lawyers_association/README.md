@@ -25,7 +25,7 @@
 
 ### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍1  
 
-### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍3  
 * 👍💵 Nancy Sapiro
 
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  

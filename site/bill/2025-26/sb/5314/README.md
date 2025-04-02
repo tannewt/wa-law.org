@@ -15,13 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166801&caId=26846&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166801&caId=26846&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
 
-#### 79 👎 - Con
+#### 889 👎 - Con
 Testifying:
+* TaraLyn Fray
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Laurie Layne
+* Sandra Mochizuki
+* Tim Eyman - Initiative Activist
+* Marla McLaughlin
 
 #### 0 ❓ - Other
 

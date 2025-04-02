@@ -20,9 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166697&caId=26779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166697&caId=26779&tId=4)
 
-#### 105 👍 - Pro
+#### 241 👍 - Pro
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 39 👎 - Con
+#### 511 👎 - Con
 
 #### 0 ❓ - Other
 

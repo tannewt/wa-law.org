@@ -46,8 +46,9 @@
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Jan Himebaugh
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎2 
 * 👎💵 Brent Ludeman
+* 👎💵 Andrea Smiley
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 * 👍💵 Brent Ludeman
@@ -250,9 +251,10 @@
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig.   ❓1
 * ❓💵 Andrea Smiley
 
-### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍2  
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍3  
 * 👍💵 Andrea Smiley
 * 👍💵 Brent Ludeman
+* 👍💵 Andrea Smiley
 
 ### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍3  
 * 👍💵 Andrea Smiley

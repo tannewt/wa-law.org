@@ -21,11 +21,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166700&caId=26782&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166700&caId=26782&tId=4)
 
-#### 70 👍 - Pro
+#### 185 👍 - Pro
+Testifying:
+* Leah Matheson
+* 💵Jessica Hauffe - Washington State Nurses Association
+* 💵Remy Kerr - Washington State Hospital Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Maggie McLaughlin
 
 ### Tue 03/18 10:30 AM - Labor & Commerce (LC): 2SHB 1162 Health care work violence
 #### 120 👍 - Pro

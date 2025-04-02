@@ -9,6 +9,8 @@
 
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
 
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎2 
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  

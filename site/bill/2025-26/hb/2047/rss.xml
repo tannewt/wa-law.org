@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2047/</link>
 		<description>Updates about HB 2047</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 11:11:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Mar 2025 11:09:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-03-24/First reading, referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎Nikita Agarwal - Initiative Activist</title>
+			<title>👎Nikita Agarwal - Washington State Young Republicans</title>
 			<description>Nikita Agarwal signed up to testify Con.</description>
 			<pubDate>Fri, 28 Mar 2025 02:14:47 GMT</pubDate>
 			<category>testifier</category>
@@ -46,6 +46,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Matthew/Licina/2025-03-28 11:11:00</guid>
+		</item>
+		<item>
+			<title>👎John McNamara - Northwest Cooperative Development Center</title>
+			<description>John McNamara signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_cooperative_development_center/"&gt;Northwest Cooperative Development Center&lt;/a&gt;.</description>
+			<pubDate>Mon, 31 Mar 2025 09:44:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/McNamara/2025-03-31 09:44:52</guid>
+		</item>
+		<item>
+			<title>👎West Foster - Northwest Cooperative Development Center</title>
+			<description>West Foster signed up to testify Con.</description>
+			<pubDate>Mon, 31 Mar 2025 11:09:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/West/Foster/2025-03-31 11:09:27</guid>
 		</item>
 	</channel>
 </rss>
