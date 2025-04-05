@@ -5,8 +5,9 @@
 
 ### [HB 1234](/bill/2025-26/hb/1234/) - Concerning the mental health counselors, marriage and family therapists, and social workers advisory committee. 👍2  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍5  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍6  
 * 👍 Sharon Shadwell
+* 👍 CMHS, NCC, Shannon Thompson LMHC
 * 👍 CMHS, NCC, Shannon Thompson LMHC
 
 ## [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍4  

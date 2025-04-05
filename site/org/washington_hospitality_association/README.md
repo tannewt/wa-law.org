@@ -27,7 +27,8 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎3 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎4 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton

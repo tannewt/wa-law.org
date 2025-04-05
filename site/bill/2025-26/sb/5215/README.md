@@ -9,17 +9,16 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Transportation (TR): SSB 5215 Vehicle debris escape
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166583&caId=26807&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166583&caId=26807&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166583&caId=26807&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166583&caId=26807&tId=4)
+#### 57 👍 - Pro
 
-#### 39 👍 - Pro
+#### 94 👎 - Con
+Testifying:
+* 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 
-#### 3 👎 - Con
-
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Michael Transue - WA Agggregate and Concrete Association
+* Mike Ennis - WA Asphalt Pavement Association
 
 ### Mon 01/20 04:00 PM - Transportation (TRAN): SB 5215 Vehicle debris escape
 #### 7 👍 - Pro

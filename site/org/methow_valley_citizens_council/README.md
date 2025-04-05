@@ -11,9 +11,9 @@
 
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
 
-### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍2  
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
@@ -42,7 +42,7 @@
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 
@@ -54,7 +54,7 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍5  
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
@@ -64,7 +64,7 @@
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 

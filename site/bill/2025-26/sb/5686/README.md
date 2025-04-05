@@ -20,11 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=4)
 
-#### 4 👍 - Pro
+#### 103 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - WA Homeownership Resource Center/Parkview Services
+* Raelene Schifano
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/18 04:00 PM - Housing (HOUS): E2SSB 5686 Foreclosure mediation prg.
 #### 140 👍 - Pro

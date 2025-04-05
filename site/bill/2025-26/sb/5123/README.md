@@ -35,21 +35,24 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SSB 5123 Discrimination in schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166834&caId=26870&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166834&caId=26870&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166834&caId=26870&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166834&caId=26870&tId=4)
-
-#### 283 👍 - Pro
+#### 536 👍 - Pro
 Testifying:
 * Nate Bloch - Student
+* Paree Raval - Washington Legislative Youth Advisory Council
+* Melanie Moonstone - PFLAG Skagit
 
-#### 1348 👎 - Con
+#### 2430 👎 - Con
 Testifying:
 * Gabriel Jacobs
+* Julie Dowell
+* David Dowell
+* Kendall Harrison
+* Ruphina Nord - Washington State Young Republicans
+* TaraLyn Fray
+* Sandra Mochizuki
+* Khushdip Brar
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 03/17 01:30 PM - Education (ED): SSB 5123 Discrimination in schools
 #### 1028 👍 - Pro

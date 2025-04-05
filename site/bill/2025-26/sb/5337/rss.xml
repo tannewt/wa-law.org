@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5337/</link>
 		<description>Updates about SB 5337</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 12:46:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -143,7 +143,7 @@
 			<guid isPermaLink="false">2025-03-13/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>👍Teresa Matthews - Washington Hospitality Association</title>
+			<title>👍Teresa Matthews - Alzheimers Association</title>
 			<description>Teresa Matthews signed up to testify Pro.</description>
 			<pubDate>Wed, 19 Mar 2025 07:12:40 GMT</pubDate>
 			<category>testifier</category>
@@ -236,6 +236,29 @@
 			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-01/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-02/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Teresa Matthews - Washington Hospitality Association</title>
+			<description>Teresa Matthews signed up to testify Pro.</description>
+			<pubDate>Fri, 04 Apr 2025 02:09:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Teresa/Matthews/2025-04-04 02:09:46</guid>
+		</item>
+		<item>
+			<title>👍💵Melanie Smith - Alzheimers Association</title>
+			<description>Melanie Smith signed up to testify Pro. They are signed up to represent Alzheimers Association. They are a registered lobbyist.</description>
+			<pubDate>Fri, 04 Apr 2025 12:46:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melanie/Smith/2025-04-04 12:46:42</guid>
 		</item>
 	</channel>
 </rss>

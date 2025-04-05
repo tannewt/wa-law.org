@@ -25,6 +25,8 @@
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
 * ❓ Tom Davis
 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
 ## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 
 ## 2023-24

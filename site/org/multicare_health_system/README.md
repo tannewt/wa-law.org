@@ -5,6 +5,8 @@
 
 ### [HB 2051](/bill/2025-26/hb/2051/) - Medicaid patients/discharge  👎1 
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
 
 ## [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy 👍1  

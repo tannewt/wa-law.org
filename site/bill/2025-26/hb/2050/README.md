@@ -8,15 +8,9 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): HB 2050 K-12 savings & efficiencies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166601&caId=26804&tId=4)
+#### 16 👍 - Pro
 
-#### 13 👍 - Pro
-
-#### 474 👎 - Con
+#### 774 👎 - Con
 Testifying:
 * Mandi Rehn - Valley School District Superintendent
 * Dana Rosenbach - North Mason School District Number 403
@@ -29,5 +23,8 @@ Testifying:
 * Natalya Yudkovsky - Washington State PTA
 * Dave Larson - [Washington State School Directors Association](/org/washington_state_school_directors_association/)
 * Superintendent, Dr. Peter Finch - West Valley School District #208
+* Jim Kowalkowski - Rural Education Center
+* Lance Goodpaster - Franklin Pierce Schools
+* Chad Prewitt - Davenport School District - Superintendent
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other

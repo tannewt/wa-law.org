@@ -9,15 +9,12 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SSB 5394 DDA no-paid services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166839&caId=26875&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166839&caId=26875&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166839&caId=26875&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166839&caId=26875&tId=4)
+#### 24 👍 - Pro
 
-#### 1 👍 - Pro
-
-#### 10 👎 - Con
+#### 31 👎 - Con
+Testifying:
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
+* Linds Hyatt - Families For Better Lives
 
 #### 0 ❓ - Other
 

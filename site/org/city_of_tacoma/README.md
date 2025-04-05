@@ -72,7 +72,7 @@
 
 ### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 

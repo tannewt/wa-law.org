@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5543/</link>
 		<description>Updates about SB 5543</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 08:25:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Apr 2025 11:58:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Troy/Goracke/2025-03-31 08:25:32</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - WA State Board for Community and Technical Colleges</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 01:12:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-04-03 01:12:57</guid>
+		</item>
+		<item>
+			<title>👎Kendall Harrison - WA State Board for Community and Technical Colleges</title>
+			<description>Kendall Harrison signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 05:26:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kendall/Harrison/2025-04-03 05:26:20</guid>
+		</item>
+		<item>
+			<title>👎David Dowell - xxx-xx-xxxx</title>
+			<description>David Dowell signed up to testify Con. They are signed up to represent xxx-xx-xxxx.</description>
+			<pubDate>Thu, 03 Apr 2025 05:27:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Dowell/2025-04-03 05:27:05</guid>
+		</item>
+		<item>
+			<title>👎Julie Dowell - xxx-xx-xxxx</title>
+			<description>Julie Dowell signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 05:28:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Dowell/2025-04-03 05:28:43</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - xxx-xx-xxxx</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 11:58:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-04-03 11:58:45</guid>
 		</item>
 	</channel>
 </rss>

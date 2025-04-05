@@ -36,7 +36,8 @@
 * ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling   ❓1
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling   ❓2
+* ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services  👎1 
@@ -126,7 +127,7 @@
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 * 👎💵 Paul Jewell
@@ -215,6 +216,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 * 👍💵 Brad Banks
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
 * ❓💵 Paul Jewell
@@ -341,7 +344,8 @@
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍 BRIAN ENSLOW
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+* 👍 BRIAN ENSLOW
 * 👍 BRIAN ENSLOW
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  ❓1

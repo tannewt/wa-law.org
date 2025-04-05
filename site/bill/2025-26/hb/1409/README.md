@@ -27,9 +27,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166865&caId=26885&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166865&caId=26885&tId=4)
 
-#### 1 👍 - Pro
+#### 178 👍 - Pro
+Testifying:
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 
-#### 5 👎 - Con
+#### 477 👎 - Con
+Testifying:
+* 💵Jessica Spiegel - Jessica Spiegel
+* TaraLyn Fray
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other
 

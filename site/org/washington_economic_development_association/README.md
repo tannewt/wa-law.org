@@ -6,9 +6,10 @@
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 * 👍 Suzanne Dale Estey
 
-### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  ❓1
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍2  ❓1
 * 👍 Suzanne Dale Estey
 * ❓ Suzanne Dale Estey
+* 👍 Suzanne Dale Estey
 
 ## [SB 5682](/bill/2025-26/sb/5682/) - Employment training program 👍1  
 

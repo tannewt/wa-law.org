@@ -92,6 +92,9 @@
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons  👎1 
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev  👎1 
+* 👎💵 Andrea Smiley
+
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management  👎1 
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
@@ -184,7 +187,7 @@
 ### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍4  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍5  
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
@@ -193,7 +196,7 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
-### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎4 
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎5 
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍💵 Brent Ludeman
@@ -275,7 +278,7 @@
 
 ### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍2  
 
-### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍3  
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍4  
 * 👍💵 Bill Stauffacher
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley

@@ -23,9 +23,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166874&caId=26894&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166874&caId=26894&tId=4)
 
-#### 21 👍 - Pro
+#### 354 👍 - Pro
+Testifying:
+* Satchel Baskette
+* Daksha Raj
+* Ashley Simon
+* Carla Gonzales
+* Xitlaly Mendoza
+* Andy Michaca - UW Student, Volunteer with La Resistencia
+* 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

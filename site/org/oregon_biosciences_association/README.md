@@ -13,7 +13,7 @@
 
 ### [HB 1725](/bill/2025-26/hb/1725/) - Biosimilar medicines  👎1 
 
-### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍3  
 
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
 

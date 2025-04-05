@@ -74,8 +74,9 @@
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 * 👍💵 Carl Schroeder
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 ❓1
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 ❓2
 * 👎💵 Candice Bock
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓2
@@ -156,7 +157,7 @@
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 * 👎💵 Candice Bock
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍4  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍5  
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
@@ -181,7 +182,8 @@
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍💵 Candice Bock
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎4 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎5 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
@@ -272,7 +274,8 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Candice Bock
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍4  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
@@ -295,7 +298,8 @@
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎3 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
@@ -359,7 +363,8 @@
 
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍2  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+* 👍 Amy Ockerlander
 * 👍 Amy Ockerlander
 * 👍 Amy Ockerlander
 
@@ -426,7 +431,8 @@
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
 * 👍💵 Carl Schroeder
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍3  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 

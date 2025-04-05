@@ -3,17 +3,20 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍4  
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍5  
 * 👍 Michael Hogan
 * 👍 Michael Hogan
+* 👍 Katie Whittier
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍 Michael Hogan
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 Mike Hogan
 
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
 ## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 

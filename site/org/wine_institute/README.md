@@ -11,11 +11,13 @@
 
 ### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎1 
 
-## [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages  👎1 
+### [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages  👎1 
+
+## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
 
 ## 2023-24
 
-### [SB 5511](/bill/2023-24/sb/5511/) - Low-proof alcohol beverages  👎1 
+### [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎1 
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓1
 * ❓💵 Rowland Thompson

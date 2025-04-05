@@ -12,7 +12,7 @@
 * 👍 Chloe Gale
 * 👍 Chloe Gale
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍4  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎 Chloe Gale

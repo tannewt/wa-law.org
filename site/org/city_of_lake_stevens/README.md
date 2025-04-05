@@ -23,6 +23,8 @@
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+
 ## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ## 2023-24

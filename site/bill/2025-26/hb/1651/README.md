@@ -20,15 +20,17 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): ESHB 1651 Teacher residency & apprent.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166789&caId=26836&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166789&caId=26836&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166789&caId=26836&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166789&caId=26836&tId=4)
+#### 36 👍 - Pro
+Testifying:
+* Barb Casey - Director of Special Education, Walla Walla Public Schools
 
-#### 28 👍 - Pro
-
-#### 0 👎 - Con
+#### 617 👎 - Con
+Testifying:
+* Kendall Harrison
+* David Dowell
+* Julie Dowell
+* TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

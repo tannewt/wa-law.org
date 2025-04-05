@@ -21,7 +21,7 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 ❓1
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎3 ❓1
 
 ### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
 
@@ -51,7 +51,7 @@
 
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓4
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓5
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 
@@ -63,7 +63,7 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue 👍1  
 
@@ -154,7 +154,7 @@
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 
-### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓1
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓2
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development  👎1 
 

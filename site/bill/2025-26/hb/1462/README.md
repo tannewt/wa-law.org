@@ -22,11 +22,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166866&caId=26886&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166866&caId=26886&tId=4)
 
-#### 1 👍 - Pro
+#### 135 👍 - Pro
 
-#### 1 👎 - Con
+#### 437 👎 - Con
+Testifying:
+* TaraLyn Fray
+* 💵Mark Streuli - Washington Potato and Onion Association
+* Sandra Mochizuki
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Carolyn Logue - WA Air Conditioning Contractors Association
 

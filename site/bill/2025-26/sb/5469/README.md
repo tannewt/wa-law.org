@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/04/2025 [Cascade PBS](/org/cascade_pbs/) - [WA sues tech company, landlords, alleging rent price-fixing | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-sues-tech-company-landlords-alleging-rent-price-fixing#:~:text=Senate%20Bill%205469)
+* 04/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington AG takes software company to court over rental price-fixing allegations • Washington State Standard](https://washingtonstatestandard.com/2025/04/03/washington-ag-takes-software-company-to-court-over-rental-price-fixing-allegations/#:~:text=Senate%20Bill%205469)
+* 04/01/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson rejects Democrats’ budget proposals with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/gov-ferguson-rejects-democrats-budget-proposals-new-taxes#:~:text=Senate%20Bill%205469)
 * 03/27/2025 [Axios](/org/axios/) - [Washington state targets rent-pricing algorithms - Axios Seattle](https://www.axios.com/local/seattle/2025/03/27/washington-state-bill-ban-rent-pricing-software-realpage#:~:text=Washington%20legislation)
 * 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Housing bills to watch as WA's legislative session enters its final weeks • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/housing-bills-to-watch-as-the-washington-legislative-session-enters-its-final-weeks/#:~:text=Senate%20Bill%205469)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SSB%205469)
@@ -16,23 +19,41 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SSB 5469 Rental housing market
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166840&caId=26876&tId=4)
-
-#### 76 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Po Leapai - N/A
 * Adriana Paredes
 * Emily Rosenzweig
+* Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
+* Po Leapai - Washington Low Income Housing Alliance
+* Po Leapai - Washington Low Income Housing Alliance
 
-#### 102 👎 - Con
+#### 1008 👎 - Con
 Testifying:
 * Justine Lopez - Pillar Properties
+* 💵Chester Baldwin - Manufactured Housing Communities of WA (MHCW)
+* Beau Harer - [Detente Management](/org/detente_management/)
+* Mackinley Robinson
+* TaraLyn Fray
+* Julie Dowell
+* Julie Dowell
+* Julie Dowell - Protection-1 EMS
+* Mischa Guenther Heide - Rain Commercial Real Estate Advisors
+* Dan Piantanida - GP Realty Finance
+* Andrew Mendenhall - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
+* Chelsy Parrish
+* Sandra Mochizuki
+* Christina Mays
+* Catherine Tharp
+* Eric Steven - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
+* Mike Semko - Realpage
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mary Hull-Drury - Washington Realtors
+* Gabe Levijarvi - AvalonBay Communities, Inc.
 
 ### Thu 03/20 08:00 AM - Housing (HOUS): SSB 5469 Rental housing market
 #### 539 👍 - Pro

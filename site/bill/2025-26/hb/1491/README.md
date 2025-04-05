@@ -26,23 +26,30 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 3SHB 1491 Transit-oriented housing dev
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166786&caId=26833&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166786&caId=26833&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166786&caId=26833&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166786&caId=26833&tId=4)
-
-#### 596 👍 - Pro
+#### 1345 👍 - Pro
 Testifying:
 * Lindsey Walsh
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵John Traynor - Washington State Labor Council, AFL CIO
+* Sarah Lovell - King County Metro
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 1234 👎 - Con
+#### 2106 👎 - Con
+Testifying:
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Kendall Harrison
+* David Dowell
+* Julie Dowell
+* TaraLyn Fray
+* Sandra Mochizuki
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
+* 💵Bill Clarke - WA REALTORS
+* McKenzie Darr - NAIOP Washington State
+* 💵Briahna Murray - Cities of Bellevue and Redmond
 
 ### Fri 03/14 10:30 AM - Housing (HSG): 3SHB 1491 Transit-oriented housing dev
 #### 997 👍 - Pro

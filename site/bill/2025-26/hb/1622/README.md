@@ -16,6 +16,27 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201622)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): ESHB 1622 Collective bargaining/AI use
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166982&caId=26910&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166982&caId=26910&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166982&caId=26910&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166982&caId=26910&tId=4)
+
+#### 13 👍 - Pro
+Testifying:
+* Joey Hicklin - WPEA
+* 💵John Traynor - WA State Labor Council, AFL CIO
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+
+#### 19 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+
+#### 1 ❓ - Other
+Testifying:
+* Sheri Sawyer - Office of Financial Managment
+
 ### Mon 03/31 10:30 AM - Labor & Commerce (LC): ESHB 1622 Collective bargaining/AI use
 #### 22 👍 - Pro
 Testifying:

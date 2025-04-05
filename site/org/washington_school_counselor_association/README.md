@@ -8,7 +8,7 @@
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
 * 👍💵 Jenny Morgan
 * 👍💵 Catherine Holm
 
@@ -19,7 +19,7 @@
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍4  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support   ❓1
 * ❓💵 Catherine Holm

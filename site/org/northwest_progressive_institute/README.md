@@ -47,11 +47,12 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
-### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
+* 👍 Andrew Villeneuve
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍4  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 

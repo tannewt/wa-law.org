@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5189/</link>
 		<description>Updates about SB 5189</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 01 Apr 2025 07:57:50 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Apr 2025 11:37:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -268,7 +268,7 @@
 			<guid isPermaLink="false">2025-03-07/First reading, referred to Education.</guid>
 		</item>
 		<item>
-			<title>👍John Axtell - Washington Public Utility District Association</title>
+			<title>👍John Axtell - Washington Policy Center</title>
 			<description>John Axtell signed up to testify Pro.</description>
 			<pubDate>Fri, 07 Mar 2025 02:40:46 GMT</pubDate>
 			<category>testifier</category>
@@ -276,7 +276,7 @@
 			<guid isPermaLink="false">testifier/John/Axtell/2025-03-07 02:40:46</guid>
 		</item>
 		<item>
-			<title>👍Nick Olson - Washington Public Utility District Association</title>
+			<title>👍Nick Olson - Washington Policy Center</title>
 			<description>Nick Olson signed up to testify Pro.</description>
 			<pubDate>Fri, 07 Mar 2025 10:41:28 GMT</pubDate>
 			<category>testifier</category>
@@ -492,6 +492,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Shreyansh/Padhy/2025-04-01 07:57:50</guid>
+		</item>
+		<item>
+			<title>👎Vicki Murray - Washington Policy Center</title>
+			<description>Vicki Murray signed up to testify Con. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Wed, 02 Apr 2025 11:37:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Vicki/Murray/2025-04-02 11:37:18</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,15 +8,15 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): EHB 1219 Interbranch advisory comm.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166783&caId=26830&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166783&caId=26830&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166783&caId=26830&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166783&caId=26830&tId=4)
+#### 4 👍 - Pro
 
-#### 1 👍 - Pro
-
-#### 2 👎 - Con
+#### 610 👎 - Con
+Testifying:
+* Kendall Harrison
+* Julie Dowell - Protection-1 EMS
+* David Dowell
+* TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

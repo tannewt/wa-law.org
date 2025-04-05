@@ -18,7 +18,7 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍💵 Lance Morehouse
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
 * 👍💵 Lance Morehouse
 
 ## [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍5  

@@ -5,11 +5,50 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/02/2025 [The Center Square](/org/the_center_square/) - [Bill to close two schools for developmentally disabled clears House committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6fb500c3-cf3b-4af5-a542-dd8e927a491a.html#:~:text=House%20Bill%201472)
 * 03/20/2025 [The Center Square](/org/the_center_square/) - [$58 million cut could put disability centers on the chopping block in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5bba924e-ceb3-491d-b381-6940937b60b3.html#:~:text=House%20Bill%201472)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): SHB 1472 Yakima & Rainier schools
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=4)
+
+#### 60 👍 - Pro
+Testifying:
+* Cathy Murahashi - The Arc of Washington
+* 💵Shawn Latham - Self-Advocates in Leadership
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+
+#### 189 👎 - Con
+Testifying:
+* Terri Anderson - Action DD/Parent/Guardian
+* Brittany Barber - DEPT OF SOC & HLTH SRVS
+* Brittany Barber - DEPT OF SOC & HLTH SRVS
+* Tazia Duncan
+* Doreen Desimone
+* Gary Desimone
+* Brittany Barber - WFSE
+* Jack Morey
+* Chris Gard
+* Julie Schilling
+* Micah Balasbas
+* Mark von Walter - Guardian advocate
+* Jeff Carter - Action DD
+* Ken & Tamra Jennings
+* Anton Grambihler
+* Talia Gustin
+* Paul Woodward
+* Pamlia Tallmadge - WFSE
+* Tara Dupont - morningside
+
+#### 0 ❓ - Other
+
 ### Wed 03/19 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1472 Yakima & Rainier schools
 #### 282 👍 - Pro
 Testifying:

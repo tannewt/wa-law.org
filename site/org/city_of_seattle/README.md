@@ -13,7 +13,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍4  
 
 ### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
 
@@ -50,7 +50,7 @@
 
 ### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
 
 ### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍2  
 
@@ -64,7 +64,8 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
+* 👍 Samir Junejo
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍3  
 
@@ -106,7 +107,7 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
 ### [HB 1814](/bill/2025-26/hb/1814/) - SEPA/trails and paths 👍2  
 
@@ -123,7 +124,7 @@
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 * 👍 Dan Eder
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
@@ -136,7 +137,7 @@
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍2  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍4  
 * 👍 AP Diaz
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
@@ -157,7 +158,7 @@
 
 ### [SB 5214](/bill/2025-26/sb/5214/) - Mobile market programs 👍1  
 
-### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍3  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
@@ -165,7 +166,7 @@
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 
@@ -179,9 +180,11 @@
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 

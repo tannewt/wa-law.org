@@ -16,19 +16,24 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): ESSB 5219 Partial confinement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166836&caId=26872&tId=4)
+#### 1032 👍 - Pro
+Testifying:
+* Laurie Dawson
+* Tamara Light - Information For Change Washington
+* Heather Kelly - League of Women Voters of Washington
+* Stanley Harewood - All of Us or None
 
-#### 159 👍 - Pro
-
-#### 79 👎 - Con
+#### 786 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Kendall Harrison
+* Julie Dowell - Protection-1 EMS
+* David Dowell
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/18 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5219 Partial confinement
 #### 136 👍 - Pro

@@ -13,20 +13,23 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5583 Fishing and hunting licenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166814&caId=26859&tId=4)
-
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Melena Thompson - WDFW
 * Morgan Stinson - WDFW
 
-#### 488 👎 - Con
+#### 892 👎 - Con
+Testifying:
+* Brian Henderson
+* Julie Dowell
+* David Dowell
+* Michelle Schreiber - Verle's LLC
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Daniel Wilson - Backcountry Hunters & Anglers- Washington Chapter
+* Nello Picinich
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5583 Fishing and hunting licenses
 #### 6 👍 - Pro

@@ -13,17 +13,14 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): SHB 1811 Crisis co-response
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166790&caId=26837&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166790&caId=26837&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166790&caId=26837&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166790&caId=26837&tId=4)
-
-#### 33 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Jennifer Stuber - BHCore UW
+* Aaron Hardy - Seattle Police Department - East Precinct
+* Mike Jackson - Clark-Cowlitz Fire Rescue
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -20,6 +20,29 @@
 * 02/25/2025 [House Democrats](/org/house_democrats/) - [House Bill 2015 Advances: A Bold Step Toward Justice, Community Safety, and Accountability – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/25/house-bill-2015-advances-a-bold-step-toward-justice-community-safety-and-accountability/#:~:text=House%20Bill%202015)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): ESHB 2015 Public safety funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=4)
+
+#### 22 👍 - Pro
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+
+#### 451 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
+
+#### 3 ❓ - Other
+Testifying:
+* 💵Briahna Murray - [City of Kent](/org/city_of_kent/)
+* Dana Ralph - City of Kent, Mayor
+
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): ESHB 2015 Public safety funding
 #### 53 👍 - Pro
 Testifying:

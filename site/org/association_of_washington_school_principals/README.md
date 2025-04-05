@@ -19,12 +19,12 @@
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
 
-### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍3  
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍4  
 
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 * 👍💵 Roz Thompson
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 
@@ -48,7 +48,12 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
-### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍1  
+### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍2  
+
+### [HB 2044](/bill/2025-26/hb/2044/) - Unexcused student absences   ❓1
+* ❓💵 Roz Thompson
+
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -60,7 +65,7 @@
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -105,6 +110,8 @@
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍3  
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+
+### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍1  
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 

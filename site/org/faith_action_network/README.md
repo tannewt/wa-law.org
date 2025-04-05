@@ -10,11 +10,11 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍3  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍4  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍9  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍11  
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍5  
 
@@ -31,7 +31,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍6  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍8  
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍4  
 
@@ -51,7 +51,7 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Kristin Ang
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍2  
 

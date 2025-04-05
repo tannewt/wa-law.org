@@ -5,7 +5,7 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍3  
 * 👍 Bryanna Jenkins
 * 👍💵 Oliver Miska
 

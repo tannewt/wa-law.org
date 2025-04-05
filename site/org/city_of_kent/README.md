@@ -19,6 +19,9 @@
 ### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings   ❓1
 * ❓ Michele Walker
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding   ❓1
+* ❓💵 Briahna Murray
+
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [HJM 4000](/bill/2025-26/hjm/4000/) - Martin Luther King, Jr. Way 👍1  

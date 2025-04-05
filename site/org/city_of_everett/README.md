@@ -38,7 +38,7 @@
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
 * 👍 Jennifer Gregerson
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
@@ -55,6 +55,9 @@
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 * 👍 Jennifer Gregerson
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+* 👍 Jennifer Gregerson
+
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
@@ -62,7 +65,7 @@
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍 Dan Templeman
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍 Jennifer Gregerson
@@ -73,7 +76,9 @@
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
+
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
 
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
 

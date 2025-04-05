@@ -21,6 +21,8 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍5  

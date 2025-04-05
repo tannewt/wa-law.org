@@ -13,6 +13,8 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
@@ -26,12 +28,13 @@
 * 👍 John Kendall
 * 👍 Shree Thirunagari
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
-### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍3  
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍4  
 * 👍 Patrick Quinton
 * 👍 BRIAN ENSLOW
 * 👍 Patrick Quinton
+* 👍 BRIAN ENSLOW
 
 ## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 

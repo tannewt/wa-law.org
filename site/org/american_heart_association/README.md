@@ -14,6 +14,9 @@
 
 ### [HB 1545](/bill/2025-26/hb/1545/) - Cardiac and stroke outcomes 👍1  
 
+### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎2 
+* 👎💵 Alex Hamasaki
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Alex Hamasaki
 

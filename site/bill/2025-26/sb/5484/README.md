@@ -10,19 +10,14 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Transportation (TR): ESSB 5484 Tow truck payments/indigent
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166586&caId=26810&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166586&caId=26810&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166586&caId=26810&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166586&caId=26810&tId=4)
-
-#### 7 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Chester Baldwin - Towing and Recovery Association of Washington (TRAW)
 * Emily Wade - Towing & Recovery Association of WA (TRAW)
 * Tj Redmon - Divines Towing
+* Drew Zachary - Burns Towing
 
-#### 0 👎 - Con
+#### 52 👎 - Con
 
 #### 0 ❓ - Other
 

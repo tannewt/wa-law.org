@@ -14,17 +14,20 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 * 👎 Wendy Weiker
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎5 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎6 
 * 👎 Wendy Weiker
 * 👎 Wendy Weiker
 * 👎💵 Natalie Hester
 * 👎 Wendy Weiker
+* 👎 Wendy Weiker
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
+
+## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎2 
+### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs 👍1  
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎5 
 * 👎 Jay O'Neal

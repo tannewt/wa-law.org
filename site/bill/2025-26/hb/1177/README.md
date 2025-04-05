@@ -13,20 +13,20 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): SHB 1177 Child welfare housing assist
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166791&caId=26838&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166791&caId=26838&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166791&caId=26838&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166791&caId=26838&tId=4)
-
-#### 33 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Kim Justice - Partners for Our Children
 * Terreca DeFehr
 
-#### 1 👎 - Con
+#### 508 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Kendall Harrison
+* David Dowell
+* Julie Dowell
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1177 Child welfare housing assist
 #### 71 👍 - Pro

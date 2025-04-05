@@ -36,7 +36,7 @@
 
 ### [HB 1229](/bill/2025-26/hb/1229/) - Persistent offenders 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍6  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍7  
 * 👍💵 Antonio Ginatta
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner

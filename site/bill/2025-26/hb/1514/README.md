@@ -12,6 +12,21 @@
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Expanding Low-Carbon Thermal Energy Networks  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/expanding-low-carbon-thermal-energy-networks/#:~:text=House%20Bill%201514)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1514 Low carbon thermal energy
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=4)
+
+#### 93 👍 - Pro
+Testifying:
+* Katie Whittier - [Port of Bellingham](/org/port_of_bellingham/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/26 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1514 Low carbon thermal energy
 #### 332 👍 - Pro
 Testifying:

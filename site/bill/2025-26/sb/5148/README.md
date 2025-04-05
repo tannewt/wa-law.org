@@ -19,6 +19,19 @@
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205148)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5148 GMA housing element
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=4)
+
+#### 77 👍 - Pro
+
+#### 15 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5148 GMA housing element
 #### 333 👍 - Pro
 Testifying:

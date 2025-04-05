@@ -9,18 +9,13 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): SHB 1272 Children in crisis program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166792&caId=26839&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166792&caId=26839&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166792&caId=26839&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166792&caId=26839&tId=4)
-
-#### 13 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 * Kashi Arora - Seattle Children's
+* Taku Mineshita - Washington State Office of Governor Bob Ferguson
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

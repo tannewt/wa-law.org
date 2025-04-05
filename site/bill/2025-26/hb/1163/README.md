@@ -44,18 +44,18 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1163 Firearm purchase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166782&caId=26829&tId=4)
-
-#### 71 👍 - Pro
+#### 759 👍 - Pro
 Testifying:
 * Joy Johnson
 * Ann Madsen
+* Ann Madsen
+* Isaiah Lenard
+* Jennifer Dolan-Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Dr. Cora Breuner - WA Chapter of the American Academy of Pediatrics
+* Elizabeth Wagner - Johns Hopkins School of Public Health
+* Mahika Malladi
 
-#### 2492 👎 - Con
+#### 3876 👎 - Con
 Testifying:
 * Teodorin Morca
 * Daniel Mitchell - Washington Civil Rights Association
@@ -81,9 +81,33 @@ Testifying:
 * Ian Fiorino
 * 💵Troy Nichols - National Shooting Sports Foundation
 * Raymond Austill
+* JOHN MORGAN
+* Donald Kilgore
 * 💵George Allen
+* Anderson Kim
+* Mark Davis
+* Benjamin Reed
+* 💵Aoibheann Cline - NRA
+* Jaramillo Kylle
+* TaraLyn Fray
+* Richard Lapointe
+* Elizabeth Bienas
+* Diego Garza
+* Bea Christophersen
+* Julie Dowell
+* David Dowell
+* Greg Mansoff
+* Dave Workman - Citizens Committee for the Right to Keep and Bear Arms
+* William Christensen
+* Jeff Wittmayer
+* Amanda McKinney - Yakima County Commissioner
+* Sandra Mochizuki
+* brian keelean - washington state rifle and pistol organization, tacoma rifle and revolver club, paul bunyan sportman
+* Robert Brown
+* Jeremy Ball - Sharp Shooting Indoor Range & Gun Shop
+* PHILLIP PADELFORD
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): E2SHB 1163 Firearm purchase
 #### 911 👍 - Pro

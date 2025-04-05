@@ -89,6 +89,9 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA  👎3 
 
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy  👎1 
+* 👎 Mary Long
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  

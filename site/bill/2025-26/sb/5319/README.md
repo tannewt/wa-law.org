@@ -11,6 +11,21 @@
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205319)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): SB 5319 Surface mine reclamation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167062&caId=26939&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167062&caId=26939&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167062&caId=26939&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167062&caId=26939&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+
+#### 9 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/26 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5319 Surface mine reclamation
 #### 6 👍 - Pro
 Testifying:

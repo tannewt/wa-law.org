@@ -8,18 +8,20 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Transportation (TR): SB 5234 Snowmobile registration fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33195&aId=166857&caId=26883&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33195&aId=166857&caId=26883&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33195&aId=166857&caId=26883&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33195&aId=166857&caId=26883&tId=4)
-
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Brian Considine - State Parks
 * Cory Wright - Kittitas County Commissioner
+* Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Ted Jackson - WA ATV Association
 
-#### 44 👎 - Con
+#### 580 👎 - Con
+Testifying:
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
+* Greg Figg - Spokane Winter Knights Snowmobile Club
+* Greg Figg - Spokane Winter Knights Snowmobile Club
 
 #### 0 ❓ - Other
 

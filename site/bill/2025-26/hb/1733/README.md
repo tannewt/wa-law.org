@@ -12,15 +12,11 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Transportation (TRAN): SHB 1733 Agency displacement expenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33237&aId=166876&caId=26884&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jordan Crawley - Alki Beach Academy
+* Keith Edwards - Catahoula Health LLC dba The Joint Chiropractic West Seattle
+* Erin Rubin - Mode Music Studios and Mode Music and Performing Arts
 
 #### 0 👎 - Con
 

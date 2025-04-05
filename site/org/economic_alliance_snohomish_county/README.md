@@ -10,11 +10,11 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev  👎1 
 
-## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs   ❓1
+## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍3  ❓1
 
 ## 2023-24
 
-### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs   ❓1
+### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs 👍3  ❓1
 
 ### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍5  
 * 👍💵 Garry Clark

@@ -19,11 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Jessica Spiegel - WSPA
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
+#### 428 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

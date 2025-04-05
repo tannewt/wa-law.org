@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1606/</link>
 		<description>Updates about HB 1606</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,13 @@
 			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-25/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading consent calendar.</title>
+			<description>Placed on second reading consent calendar.</description>
+			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-02/Placed on second reading consent calendar.</guid>
 		</item>
 	</channel>
 </rss>

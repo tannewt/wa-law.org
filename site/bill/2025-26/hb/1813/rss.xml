@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1813/</link>
 		<description>Updates about HB 1813</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 29 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 09:15:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -354,6 +354,22 @@
 			<pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-29/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍💵Brad Banks - Washington State Association of Counties (WSAC) &amp; BHASOs</title>
+			<description>Brad Banks signed up to testify Pro. They are signed up to represent Washington State Association of Counties (WSAC) &amp; BHASOs. They are a registered lobbyist.</description>
+			<pubDate>Fri, 04 Apr 2025 07:14:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brad/Banks/2025-04-04 07:14:18</guid>
+		</item>
+		<item>
+			<title>👍Trinidad Medina - Great Rivers BHASO</title>
+			<description>Trinidad Medina signed up to testify Pro. They are signed up to represent Great Rivers BHASO.</description>
+			<pubDate>Fri, 04 Apr 2025 09:15:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Trinidad/Medina/2025-04-04 09:15:15</guid>
 		</item>
 	</channel>
 </rss>

@@ -3,14 +3,16 @@
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  ❓1
 * ❓ Mayor Mary Lou Pauly
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 

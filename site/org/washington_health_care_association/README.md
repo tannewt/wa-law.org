@@ -22,7 +22,8 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Lauri St. Ours
 
-### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍1  
+### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍3  
+* 👍 Jeff Gombosky
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍2  
 * 👍 Carma Matti-Jackson

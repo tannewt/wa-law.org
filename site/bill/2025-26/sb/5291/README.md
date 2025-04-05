@@ -9,6 +9,24 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5291 Long-term services trust
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=4)
+
+#### 165 👍 - Pro
+Testifying:
+* Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
+* Ana Ascanio - We Care for WA Cares Coalition
+* Christina Keys
+* Demas Nesterenko - SEIU775
+
+#### 1 👎 - Con
+
+#### 3 ❓ - Other
+
 ### Wed 03/26 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5291 Long-term services trust
 #### 447 👍 - Pro
 Testifying:

@@ -10,18 +10,16 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1359 Criminal insanity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166793&caId=26840&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166793&caId=26840&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166793&caId=26840&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166793&caId=26840&tId=4)
-
-#### 5 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Melissa Johnson - District & Municipal Court Judges Association
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
+* 💵Michael Transue - National Alliance on Mental Illness (NAMI)
 
-#### 1 👎 - Con
+#### 102 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -1,13 +1,14 @@
 # Washington Cattle Feeders Association
 ## 2025-26
 
-## [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions  👎1 
+### [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions  👎1 
 * 👎💵 Jack Field
+
+## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ## 2023-24
 
-### [HB 1630](/bill/2023-24/hb/1630/) - Livestock methane emissions  👎1 
-* 👎💵 Jack Field
+### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
 
 ### [SB 5150](/bill/2023-24/sb/5150/) - Beef commission 👍2  
 * 👍💵 Jack Field

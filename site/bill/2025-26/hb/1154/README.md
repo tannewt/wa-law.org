@@ -13,17 +13,26 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1154 Solid waste handling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166778&caId=26826&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166778&caId=26826&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166778&caId=26826&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166778&caId=26826&tId=4)
+#### 373 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Nancy Lust - Friends of Rocky Top
+* 💵Scott Cave - Friends of Rocky Top
 
-#### 223 👍 - Pro
+#### 772 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
 
-#### 52 👎 - Con
-
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Nick Streuli - [Washington Refuse & Recycling Association](/org/washington_refuse_&_recycling_association/)
+* Jesse Cox - Washington State Association of Local Public Health Officials
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Jaime Bodden - WSALPHO
+* 💵Jasmine Vasavada - DTG
 
 ### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1154 Solid waste handling
 #### 330 👍 - Pro

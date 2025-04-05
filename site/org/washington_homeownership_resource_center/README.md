@@ -8,11 +8,13 @@
 * 👍💵 Denise Rodriguez
 * ❓💵 Denise Rodriguez
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
-### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍5  
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍6  
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
@@ -44,7 +46,7 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍5  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍6  
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez

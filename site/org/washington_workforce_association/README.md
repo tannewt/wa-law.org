@@ -6,17 +6,17 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍2  
 
-### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍1  
+### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
 * 👍💵 Amber Carter
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ John Traugott
 
-## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍2  
+## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍3  
 
 ## 2023-24
 
-### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs 👍2  
+### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs 👍3  
 
 ### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 

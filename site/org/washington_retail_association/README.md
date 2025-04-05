@@ -36,7 +36,7 @@
 * ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎2 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎3 
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Crystal Leatherman
@@ -57,6 +57,8 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Amber Carter
+
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 * 👍💵 Crystal Leatherman
@@ -156,11 +158,12 @@
 
 ### [HB 1996](/bill/2025-26/hb/1996/) - Behavioral health diversion 👍1  
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍4  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
-### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍2  
+### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍3  
 * 👍💵 Mark Johnson
 
 ### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
@@ -171,7 +174,7 @@
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 * 👍💵 Mark Johnson
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Amber Carter
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
@@ -202,10 +205,11 @@
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍💵 Mark Johnson
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 ❓2
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 ❓3
 * ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 * 👎💵 Mark Johnson
+* ❓💵 Mark Johnson
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 * 👍💵 Mark Johnson
@@ -215,6 +219,9 @@
 * 👍💵 Mark Johnson
 
 ### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
+
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+* 👎💵 Mark Johnson
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
@@ -254,6 +261,9 @@
 
 ### [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍2  
 * 👍💵 Mark Johnson
+
+### [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
+* 👎💵 Crystal Leatherman
 
 ## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 

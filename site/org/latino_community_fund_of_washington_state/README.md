@@ -6,15 +6,16 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Jake García
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍3  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 * 👍💵 Jake García
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍5  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍6  
+* 👍💵 Jake García
 * 👍💵 Jake García
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
 
 ### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍1  
 
@@ -39,6 +40,12 @@
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 
 ### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1068/</link>
 		<description>Updates about HB 1068</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Apr 2025 08:45:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -128,6 +128,14 @@
 			<pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-24/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍💵Brenda Wiest - Teamsters117</title>
+			<description>Brenda Wiest signed up to testify Pro. They are signed up to represent Teamsters117. They are a registered lobbyist.</description>
+			<pubDate>Thu, 03 Apr 2025 08:45:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brenda/Wiest/2025-04-03 08:45:48</guid>
 		</item>
 	</channel>
 </rss>

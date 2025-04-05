@@ -28,11 +28,13 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
 ### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍2  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍3  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 * 👍💵 Nick Streuli
@@ -75,7 +77,7 @@
 
 ### [SB 5259](/bill/2025-26/sb/5259/) - Commercial fishing bait tax 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
@@ -102,8 +104,9 @@
 * 👍 John Flanagan
 * 👍 John Flanagan
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
 * 👍💵 Brooke Davies
+* 👍 John Flanagan
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 
 * 👎 John Flanagan

@@ -11,14 +11,13 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): HB 2040 ABD assistance recovery
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166604&caId=26814&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166604&caId=26814&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166604&caId=26814&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166604&caId=26814&tId=4)
+#### 6 👍 - Pro
 
-#### 4 👍 - Pro
-
-#### 218 👎 - Con
+#### 324 👎 - Con
+Testifying:
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Nana Yaa Lang'at
+* C'zar Carter
+* Brittany Lowe - Solid Ground, Benefits Legal Assistance Program
 
 #### 1 ❓ - Other

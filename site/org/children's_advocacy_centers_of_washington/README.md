@@ -13,9 +13,17 @@
 
 ### [HB 1265](/bill/2025-26/hb/1265/) - Commercial sexual exploit. 👍1  
 
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
 
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations  👎1 
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 

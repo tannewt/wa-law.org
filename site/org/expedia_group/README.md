@@ -9,7 +9,8 @@
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+* 👍💵 Brent Ludeman
 * 👍💵 Brent Ludeman
 
 ## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 

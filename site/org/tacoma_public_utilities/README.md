@@ -4,7 +4,8 @@
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
 * 👍💵 Logan Bahr
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
+* 👍💵 Logan Bahr
 * 👍💵 Logan Bahr
 
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  

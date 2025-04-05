@@ -22,9 +22,11 @@
 
 ### [HB 2012](/bill/2025-26/hb/2012/) - Transition to kindergarten   ❓1
 
-### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
+* 👍💵 Emily Murphy
 
-### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍2  
+* 👍💵 Emily Murphy
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 

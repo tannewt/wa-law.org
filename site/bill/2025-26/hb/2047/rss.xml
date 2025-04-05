@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2047/</link>
 		<description>Updates about HB 2047</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 11:09:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Apr 2025 11:53:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-03-24/First reading, referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎Nikita Agarwal - Washington State Young Republicans</title>
+			<title>👎Nikita Agarwal - Dept. of Revenue</title>
 			<description>Nikita Agarwal signed up to testify Con.</description>
 			<pubDate>Fri, 28 Mar 2025 02:14:47 GMT</pubDate>
 			<category>testifier</category>
@@ -62,6 +62,62 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/West/Foster/2025-03-31 11:09:27</guid>
+		</item>
+		<item>
+			<title>👎Paulette LaDouceur - Capital Homecare Cooperative</title>
+			<description>Paulette LaDouceur signed up to testify Con. They are signed up to represent Capital Homecare Cooperative.</description>
+			<pubDate>Wed, 02 Apr 2025 01:15:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paulette/LaDouceur/2025-04-02 01:15:05</guid>
+		</item>
+		<item>
+			<title>👎Beth Davidow - Timberline Veterinary Emergency and Specialty</title>
+			<description>Beth Davidow signed up to testify Con. They are signed up to represent Timberline Veterinary Emergency and Specialty.</description>
+			<pubDate>Wed, 02 Apr 2025 03:18:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Beth/Davidow/2025-04-02 03:18:02</guid>
+		</item>
+		<item>
+			<title>👎JOYCE OSWALD - WWU Small Business Development Center</title>
+			<description>JOYCE OSWALD signed up to testify Con. They are signed up to represent WWU Small Business Development Center.</description>
+			<pubDate>Wed, 02 Apr 2025 07:09:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/JOYCE/OSWALD/2025-04-02 07:09:28</guid>
+		</item>
+		<item>
+			<title>👎Shevanthi Daniel - Democracy at Work Institute (DAWI)</title>
+			<description>Shevanthi Daniel signed up to testify Con. They are signed up to represent Democracy at Work Institute (DAWI).</description>
+			<pubDate>Wed, 02 Apr 2025 09:49:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shevanthi/Daniel/2025-04-02 09:49:10</guid>
+		</item>
+		<item>
+			<title>👎Patricia Kwan - Democracy at Work Institute (DAWI)</title>
+			<description>Patricia Kwan signed up to testify Con.</description>
+			<pubDate>Wed, 02 Apr 2025 10:55:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patricia/Kwan/2025-04-02 10:55:02</guid>
+		</item>
+		<item>
+			<title>👎💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce</title>
+			<description>Gabriel Neuman signed up to testify Con. They are signed up to represent GSBA - Washington State LGBTQ+ Chamber of Commerce. They are a registered lobbyist.</description>
+			<pubDate>Thu, 03 Apr 2025 11:21:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gabriel/Neuman/2025-04-03 11:21:29</guid>
+		</item>
+		<item>
+			<title>👎Evan Price - Former Buisness owner who transitioned to Cooperative Structure</title>
+			<description>Evan Price signed up to testify Con. They are signed up to represent Former Buisness owner who transitioned to Cooperative Structure.</description>
+			<pubDate>Thu, 03 Apr 2025 11:53:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Evan/Price/2025-04-03 11:53:51</guid>
 		</item>
 	</channel>
 </rss>

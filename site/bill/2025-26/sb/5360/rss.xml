@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5360/</link>
 		<description>Updates about SB 5360</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 11:46:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -254,6 +254,45 @@
 			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-31/ENVI - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-02/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 04 Apr 2025 02:37:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-04-04 02:37:15</guid>
+		</item>
+		<item>
+			<title>👎Jay Gordon - Washington State Dairy Federation</title>
+			<description>Jay Gordon signed up to testify Con. They are signed up to represent Washington State Dairy Federation.</description>
+			<pubDate>Fri, 04 Apr 2025 10:47:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jay/Gordon/2025-04-04 10:47:37</guid>
+		</item>
+		<item>
+			<title>👎💵Mark Johnson - Washington Retail Association</title>
+			<description>Mark Johnson signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_retail_association/"&gt;Washington Retail Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 04 Apr 2025 11:08:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mark/Johnson/2025-04-04 11:08:13</guid>
+		</item>
+		<item>
+			<title>👍Bill Sherman - WA State Attorney General's Office</title>
+			<description>Bill Sherman signed up to testify Pro. They are signed up to represent WA State Attorney General's Office.</description>
+			<pubDate>Fri, 04 Apr 2025 11:46:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Sherman/2025-04-04 11:46:32</guid>
 		</item>
 	</channel>
 </rss>

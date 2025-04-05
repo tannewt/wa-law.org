@@ -18,20 +18,20 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1696 Covenant homeownership prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166787&caId=26834&tId=4)
-
-#### 156 👍 - Pro
+#### 259 👍 - Pro
 Testifying:
 * Kyle Lucas - Urban Indians Northwest
 * LaKeisha Davis - Habitat for Humanity Spokane
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Steve Walker - Washington State Housing Finance Commission
+* Dana Le Roy - Habitat for Humanity Spokane
 
-#### 1340 👎 - Con
+#### 2149 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

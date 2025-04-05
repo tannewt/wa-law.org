@@ -11,22 +11,24 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SB 5463 Industrial insurance/duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166810&caId=26855&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166810&caId=26855&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166810&caId=26855&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166810&caId=26855&tId=4)
-
-#### 86 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
 * 💵Kelli Carson - Washington State Association for Justice
+* Louis Lim
+* 💵Daniel Goodman - Washington State Association for Justice
 
-#### 436 👎 - Con
+#### 795 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* Kris Tefft - Washington Self-Insurers Association
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Katherine Mahoney - South South Supertintendents
 
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): SB 5463 Industrial insurance/duties
 #### 172 👍 - Pro

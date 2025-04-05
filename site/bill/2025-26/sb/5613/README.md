@@ -21,11 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=4)
 
-#### 2 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * 💵Adán Espino - Habitat for Humanity of WA
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 0 👎 - Con
+#### 49 👎 - Con
 
 #### 0 ❓ - Other
 

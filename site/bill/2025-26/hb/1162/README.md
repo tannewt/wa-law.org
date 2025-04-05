@@ -15,19 +15,14 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Ways & Means (WM): 2SHB 1162 Health care work violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166700&caId=26782&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166700&caId=26782&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166700&caId=26782&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166700&caId=26782&tId=4)
-
-#### 185 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * Leah Matheson
 * 💵Jessica Hauffe - Washington State Nurses Association
 * 💵Remy Kerr - Washington State Hospital Association
+* Sana Hoque
 
-#### 0 👎 - Con
+#### 135 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

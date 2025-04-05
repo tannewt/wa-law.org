@@ -1,6 +1,8 @@
 # Regence Blue Shield
 ## 2025-26
 
+### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
+
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
 ### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers  👎2 

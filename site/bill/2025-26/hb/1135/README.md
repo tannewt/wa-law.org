@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/13 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1135 Local government planning

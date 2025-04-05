@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/03/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee considers three major tax increase proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60e89042-e837-4280-a88a-fd1b32ff4bcf.html#:~:text=House%20Bill%202049)
 * 04/01/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington Democrats divided on school funding plans | Cascadia Daily News](https://www.cascadiadaily.com/2025/apr/01/washington-democrats-divided-on-school-funding-plans/#:~:text=The%20legislation)
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202049)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202049)
@@ -16,13 +17,7 @@
 
 ## Meetings
 ### Thu 04/03 08:00 AM - Finance (FIN): HB 2049 K-12 education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166768&caId=26820&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166768&caId=26820&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166768&caId=26820&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166768&caId=26820&tId=4)
-
-#### 1336 👍 - Pro
+#### 2206 👍 - Pro
 Testifying:
 * Amy Ockerlander - Mayor, City of Duvall & President, Assoc. of WA Cities
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -31,13 +26,24 @@ Testifying:
 * 💵Clifford Traisman - Bellevue, Highline, Northshore and Seattle Public School Districts
 * Megan Dunn - Snohomish County
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Adam Aguilera - WEA member
+* Christine Twiss - SEIU 925, Health Room Assistant
+* Emily Willard - SEIU 925 & investigator, King Co DPD
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* Kim Harless - City of Vancouver, Councilmember
+* James Trefry - General Counsel, Washington State Council of County and City Employees, AFSCME, Council 2
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Kristina Walker - Councilmember, City of Tacoma
 * Michael Lilliquist - City of Bellingham, Representative Ward 6
 * Nigel Herbig - Mayor, City of Kenmore
 * 💵Erin Haick - SEIU 925
+* Benton County Commissione Jerome Delvin - Benton County
+* Pierce County Executive Ryan Mello - Pierce County Executive
+* Whatcom County Executive Satpal Sidhu - Whatcom County Executive
+* 💵Nora Burnes - ESD 105 Schools Coalition
+* Trevor Greene - Yakima School District Superintendent
 
-#### 5126 👎 - Con
+#### 16144 👎 - Con
 Testifying:
 * Laurie Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -58,10 +64,109 @@ Testifying:
 * McKenzie Darr - NAIOP
 * Dakota Manley - Washington State Young Republicans
 * Roberto Moll
+* xianghui xue
+* Ashley Hinzpeter
+* Jesse Brawand
+* Sherry Huang
+* Siyuan Sun
+* tracy dale
+* Yuying Zhou
+* Linda Yang
+* Joerg Hallmann
+* Kathy VandeGraaf
+* Kathy VandeGraaf
+* Christopher Rietz
+* Mengzhu Jin
+* Amy Wang
+* Jiandong Hu
+* Siyuan Lu
+* Hanna Moomaw
+* Hanna Moomaw
+* Jodi Johnson
+* Tina McConaughy
+* Yong Long
+* Yi Qin
+* Wendy Robbins
+* Wendy Robbins
+* Lori Hall
+* 💵Eric Zabala
+* YAYUN YANG
+* Jim Zhao
+* Xiaoyuan Zhou
+* Jeffrey Jarvis
+* Candy Hoksbergen
+* Candy Hoksbergen
+* Li Chen
+* Andre Scharkowski
+* Stacey Carson
+* Rebecca Hewlett
+* Xiaoyan Li
+* Jiayi Li
+* Danita Luensman
+* Charlotte Luensman
+* Yali Wang
+* Grace Zhang
+* Li Yao
+* Gerald Divis
+* Jianping Sun
+* Yang Zhao
+* Peter He
+* Minna Yan
+* Yang Lin
+* Dawn Mace
+* Qing yun Liu
+* Allen Chongtai Huang
+* HUI XING
 * Douglas Patton
+* Enming Wu
+* Honghua Zhou
+* Jane Zhang
+* Lin Qiu
+* Ching Yuen
+* Li Tian
+* Hong Sodoma
+* Tao Zhu
+* Cindy Barker-Sego
+* Emerald Clark
+* Beth Lindenman
+* Mingzi Yi
+* Deirdra Hammer
+* Lifang Huang
+* Jennifer Antoine
+* Audrey Bryant
+* Helen Anderson
+* Wayne Anderson
+* Brenda Valadez
+* Yazhao Qiu
+* Shelley Montgomery
+* Yaping Jiang
+* Hong Li
+* Shari Stevenson
+* QUAN DENG
+* Gordon Hinds
+* Gordon Hinds
+* Brianna Leitz
+* Lori Williams
+* Lori Williams
+* Lori Williams
+* Hai ping Mao
+* Julie Dowell
+* Julie Dowell
+* David Dowell - xxx-xx-xxxx
+* Brandie Sullivan
+* Connie Betterley
+* Raymond Suen
+* Matthew King
+* Helen He
+* Thomas Yuen
+* Natalie Wang
+* Yafen Hu
+* Alan Yuen
+* CONSTANCE VERZANO
 
-#### 9 ❓ - Other
+#### 60 ❓ - Other
 Testifying:
 * Barbara Posthumus
 * Daniel Lunghofer - Washington State School Directors' Association
 * Jennifer Burbidge - Washington Recreation & Park Association
+* Peihua Sheng

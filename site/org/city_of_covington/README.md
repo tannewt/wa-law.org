@@ -19,7 +19,7 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
 * ❓ Jeff Wagner

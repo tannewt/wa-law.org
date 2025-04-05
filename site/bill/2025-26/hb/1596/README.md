@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/04/2025 [KIRO7](/org/kiro7/) - [Teen pleads guilty in 112 mph crash that killed 3 children and a mother  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/teen-pleads-guilty-vehicular-homicide-112-mph-crash-that-killed-three-children-mother/MH4434DJRFF5HJQMWMMU6FL7LA/#:~:text=HB%201596,)
 * 03/12/2025 [KIRO7](/org/kiro7/) - [Washington House passes bill that could majorly redefine ‘excessive speeding’ – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-house-passes-bill-that-could-majorly-redefine-excessive-speeding/QQFFPBD4JFCVXATPF2XECEANQA/#:~:text=House%20Bill%201596)
 * 02/28/2025 [House Democrats](/org/house_democrats/) - [Committee Advances Andrea Smith Hudson Act to Prevent Speeding Deaths – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/28/committee-advances-andrea-smith-hudson-act-to-prevent-speeding-deaths/#:~:text=House%20Bill%201596)
 * 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [In-car speed limiters considered as option to tackle rise in WA traffic deaths • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/in-car-speed-limiter-devices-considered-as-option-to-tackle-rise-in-washington-traffic-deaths/#:~:text=House%20Bill%201596)

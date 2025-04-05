@@ -22,6 +22,21 @@
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205023)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5023 Domestic workers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=4)
+
+#### 26 👍 - Pro
+Testifying:
+* Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
+
+#### 13 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5023 Domestic workers
 #### 320 👍 - Pro
 Testifying:

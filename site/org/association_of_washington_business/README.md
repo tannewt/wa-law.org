@@ -110,13 +110,15 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎3 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎4 
 * 👎💵 Lindsey Hueer
+* 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎2 
+* 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
@@ -173,7 +175,8 @@
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎2 
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎3 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎4 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
@@ -185,12 +188,16 @@
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎2 
 
-### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
+### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎2 
+* 👎💵 Emily Wittman
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
+
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev  👎1 
+* 👎💵 Morgan Irwin
 
 ### [HB 1507](/bill/2025-26/hb/1507/) - Health care nondisclosure  👎1 
 * 👎💵 Emily Wittman
@@ -202,7 +209,7 @@
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
 
-### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍2  
+### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍3  
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
@@ -362,7 +369,8 @@
 
 ### [HB 1970](/bill/2025-26/hb/1970/) - Highway alt. contracting 👍1  
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍3  
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍4  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
@@ -394,6 +402,11 @@
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources   ❓1
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
+* 👎 Max Martin
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
+
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding  👎1 
 * 👎 Max Martin
 
@@ -402,10 +415,11 @@
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 * 👎💵 Lindsey Hueer
 
-### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍2  
+### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍3  
 * 👍💵 Peter Godlewski
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎3 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎4 
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
@@ -488,7 +502,8 @@
 
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎3 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎4 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
@@ -512,7 +527,8 @@
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎3 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 

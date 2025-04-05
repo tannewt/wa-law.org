@@ -9,6 +9,27 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5694 Boiler operator cert.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166961&caId=26924&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166961&caId=26924&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166961&caId=26924&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166961&caId=26924&tId=4)
+
+#### 10 👍 - Pro
+Testifying:
+* Larry Kratz - IUOE Local 302
+
+#### 3 👎 - Con
+Testifying:
+* Doug Vanderleest - WA Association of Maintenance and Operation Administrators
+* 💵Mitch Denning - Alliance of Educational Associations
+
+#### 4 ❓ - Other
+Testifying:
+* Sue Lani Madsen - Washington Rural Environmental Network
+* 💵Sophia Steele - WSPA
+
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5694 Boiler operator cert.
 #### 17 👍 - Pro
 Testifying:

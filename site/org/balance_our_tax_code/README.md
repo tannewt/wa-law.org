@@ -4,7 +4,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Emma Scalzo
 
-### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
+* 👍💵 Emma Scalzo
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 

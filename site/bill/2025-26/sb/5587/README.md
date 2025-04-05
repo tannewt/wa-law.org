@@ -12,15 +12,11 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SSB 5587 Affordable housing dev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166842&caId=26878&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166842&caId=26878&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166842&caId=26878&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166842&caId=26878&tId=4)
+#### 44 👍 - Pro
+Testifying:
+* BRIAN ENSLOW - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 14 👍 - Pro
-
-#### 2 👎 - Con
+#### 39 👎 - Con
 
 #### 0 ❓ - Other
 

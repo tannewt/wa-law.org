@@ -7,6 +7,8 @@
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎 Ruth Clemens
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding  👎1 
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget  👎1 
 * 👎 Ruth Clemens
 

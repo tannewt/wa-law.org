@@ -84,7 +84,8 @@
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
+* 👍💵 Simone Boe
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 
@@ -116,7 +117,7 @@
 ### [HB 1289](/bill/2025-26/hb/1289/) - Public school survey info.   ❓1
 * ❓💵 Nasue Nishida
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍5  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
@@ -226,7 +227,7 @@
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍3  
 * 👍 Jared Mason-Gere
 
-### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍4 👎1 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍5 👎1 
 * 👎💵 Lorrell Noahr
 * 👍💵 Lorrell Noahr
 * 👍💵 Lorrell Noahr
@@ -294,11 +295,11 @@
 
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
 
-### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍3  
 
-### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍3  
 
-### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍2  
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍4  
 * 👍💵 Julie Salvi
 * 👍💵 Simone Boe
 
@@ -366,7 +367,7 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees. 👍1  
 
-### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍3  
+### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍4  
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍5  
 * 👍 Jared Mason-Gere
@@ -380,7 +381,7 @@
 
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍4  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍5  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -422,7 +423,7 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍4  
 * 👍💵 Nasue Nishida
 
-### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍2  
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍3  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍10  
 * 👍💵 Julie Salvi
@@ -448,7 +449,7 @@
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍4  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍10  
 * 👍💵 Larry Delaney

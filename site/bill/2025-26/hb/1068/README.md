@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Ways & Means (WM): HB 1068 DOC WMS employee arbitration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166702&caId=26784&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166702&caId=26784&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166702&caId=26784&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166702&caId=26784&tId=4)
+#### 10 👍 - Pro
+Testifying:
+* 💵Brenda Wiest - Teamsters117
 
-#### 5 👍 - Pro
-
-#### 0 👎 - Con
+#### 76 👎 - Con
 
 #### 0 ❓ - Other
 

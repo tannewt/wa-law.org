@@ -644,7 +644,7 @@
 * [SB 5000](sb/5000) - Americans of Chinese descent 1📰 194👍 1👎 3❓ - C 357 L 23
 * [SB 5477](sb/5477) - Murdered indigenous women 1📰 197👍 0👎 1❓ - SRules X
 * [SB 6283](sb/6283) - Connecting communities prg. 2📰 198👍 0👎 0❓ - C 106 L 24
-* [SB 6127](sb/6127) - HIV prophylaxis 2📰 190👍 0👎 7❓ - C 251 L 24
+* [SB 6127](sb/6127) - HIV prophylaxis 3📰 190👍 0👎 7❓ - C 251 L 24
 * [HB 1941](hb/1941) - Health home serv./children 194👍 2👎 0❓ - C 177 L 24
 * [SB 5103](sb/5103) - Medicaid patients/discharge 187👍 3👎 5❓ - C 315 L 23
 * [HB 1945](hb/1945) - Food assistance access 194👍 0👎 0❓ - C 225 L 24
@@ -1560,7 +1560,7 @@
 * [HB 2299](hb/2299) - DNR trust asset leasing 4👍 15👎 2❓ - HCap Budget
 * [SB 5033](sb/5033) - Custodial sexual misconduct 1📰 20👍 1👎 0❓ - C 7 L 23
 * [SB 5107](sb/5107) - Cottage food sales cap 20👍 0👎 1❓ - SAg/Water/Natur
-* [SB 5142](sb/5142) - HIV medication rebate rev. 4📰 20👍 1👎 0❓ - C 12 L 23
+* [SB 5142](sb/5142) - HIV medication rebate rev. 5📰 20👍 1👎 0❓ - C 12 L 23
 * [SB 5251](sb/5251) - Commercial driver's licenses 21👍 0👎 0❓ - SRules X
 * [SB 5275](sb/5275) - SEBB benefits access 17👍 2👎 2❓ - C 13 L 23
 * [SB 5327](sb/5327) - Intern wages 16👍 3👎 2❓ - SLabor & Comm

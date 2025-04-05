@@ -82,12 +82,18 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
-### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍3  
 * 👍💵 Nicole Kern
+* 👍💵 Nicole Kern
+
+### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage   ❓1
+* ❓💵 Courtney Normand
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 

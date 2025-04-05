@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=4)
 
-#### 10 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 

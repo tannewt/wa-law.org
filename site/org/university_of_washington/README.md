@@ -14,7 +14,7 @@
 
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
 ### [HB 1298](/bill/2025-26/hb/1298/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca

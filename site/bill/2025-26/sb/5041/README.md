@@ -27,24 +27,39 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): ESSB 5041 Unemp ins/strikes & lockouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166819&caId=26864&tId=4)
-
-#### 180 👍 - Pro
+#### 1273 👍 - Pro
 Testifying:
 * Lynette Shiroma
+* Joe Kendo
+* 💵Brenda Wiest - Teamsters117
 
-#### 171 👎 - Con
+#### 1183 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Elizabeth New - Washington Policy Center
 * Elizabeth New - Washington Policy Center
+* TaraLyn Fray
+* Julie Dowell
+* David Dowell
+* Ruphina Nord - Washington State Young Republicans
+* 💵Jennifer Ziegler - Aerospace Futures Alliance
+* 💵Christine Brewer - Associated General Contractors
+* 💵Cory Shaw - WA Aggregate & Concrete Association
+* 💵Julia Gorton - WA Hospitality Association
+* Lilly Hayward - Seattle Metro Chamber of Commerce
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - WA Roundtable
+* 💵Amber Carter - WA Retail Association
+* 💵Carolyn Logue - WA Food Industry
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Katherine Mahoney - South South Supertintendents
+* Sandra Mochizuki
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 58 ❓ - Other
+Testifying:
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5041 Unemp ins/strikes & lockouts
 #### 2319 👍 - Pro

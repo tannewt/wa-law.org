@@ -6,7 +6,11 @@
 ### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot   ❓1
 * ❓💵 Seamus Petrie
 
+### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
+
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
+
+### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
 * ❓💵 Seamus Petrie
@@ -22,6 +26,8 @@
 
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
+
 ### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
@@ -29,13 +35,24 @@
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
 
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 
 ### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
+### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎1 
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+* 👍💵 Seamus Petrie
+
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
+
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
@@ -61,6 +78,8 @@
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
 ### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
 

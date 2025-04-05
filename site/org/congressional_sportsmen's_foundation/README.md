@@ -1,6 +1,8 @@
 # Congressional Sportsmen's Foundation
 ## 2025-26
 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
+
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products  👎1 
 * 👎💵 Marie Neumiller
 

@@ -24,6 +24,10 @@
 
 ### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
+
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 

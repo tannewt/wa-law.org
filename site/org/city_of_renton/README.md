@@ -114,7 +114,7 @@
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
-### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍2  
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 

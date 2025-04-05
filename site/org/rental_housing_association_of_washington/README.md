@@ -4,7 +4,7 @@
 ### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program 👍2  
 * 👍 Corey Hjalseth
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎3 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎5 
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax  👎1 
 

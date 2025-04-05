@@ -59,20 +59,23 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): ESHB 1296 Public education system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166788&caId=26835&tId=4)
-
-#### 487 👍 - Pro
+#### 922 👍 - Pro
 Testifying:
 * EUNICE Ingermanson
 * Pat Taylor
 * Ingrid Sorensen - No
 * LINDEN JORDAN - PFLAG Skagit
+* Amy Cannava - Washington State Association of School Psychologists
+* Lisa Matthews
+* Jon Hegwood
+* Randi Miller
+* Susan Tuzzolino
+* Eleanor Nguyen - Not official representative, but coming from Lake Washington High School AP Government class
+* Amasai Jeke - UTOPIA WA
+* Marlene Meyer
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
-#### 1477 👎 - Con
+#### 2557 👎 - Con
 Testifying:
 * Eric Lundberg
 * Khushdip Brar
@@ -82,6 +85,12 @@ Testifying:
 * Gabriel Jacobs
 * Noah Meehan - Washington State Young Republicans
 * Elizabeth New - Washington Policy Center
+* Taylor Sajuan
+* TaraLyn Fray
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
+* Valerie Hartwell
 
 #### 1 ❓ - Other
 Testifying:

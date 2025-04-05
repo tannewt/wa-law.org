@@ -11,17 +11,19 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Transportation (TR): SB 5649 Supply chain competitiveness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166672&caId=26811&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166672&caId=26811&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166672&caId=26811&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166672&caId=26811&tId=4)
-
-#### 37 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
+* Timothy Greene Sr. - Chairman of the Makah Tribe
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Jim Hedrick - [Port of Everett](/org/port_of_everett/)
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Sean Eagan - Northwest Seaport Alliance
+* Cassie Hammond - Port of Benton
+* Mike Bomar - Port of Vancouver USA
+* Bruce Agnew - PNWER Build NW Council
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -19,9 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166873&caId=26893&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166873&caId=26893&tId=4)
 
-#### 1 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 
-#### 0 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other
 

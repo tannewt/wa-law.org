@@ -9,7 +9,8 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍3  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍4  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
@@ -34,7 +35,8 @@
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍3  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
@@ -60,7 +62,7 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
 * 👍💵 Dan Bertolet
@@ -97,13 +99,15 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet
 
-## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍3  
+## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍4  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ## 2023-24
 
-### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍3  
+### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍4  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 

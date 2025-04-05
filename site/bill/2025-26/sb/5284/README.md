@@ -26,6 +26,30 @@
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/02/03/lizs-loveletter-back-at-the-capitol-for-the-2025-session/#:~:text=SB%205284):)
 
 ## Meetings
+### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5284 Solid waste management
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=4)
+
+#### 98 👍 - Pro
+Testifying:
+* Amy Ockerlander - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Kelsey Hulse - EPR Leadership Forum
+* Nora Nickum - Seattle Aquarium
+
+#### 29 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+
 ### Mon 03/17 01:30 PM - Environment & Energy (ENVI): E2SSB 5284 Solid waste management
 #### 1649 👍 - Pro
 Testifying:

@@ -12,25 +12,24 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Ways & Means (WM): SHB 1392 Medicaid access program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166701&caId=26783&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166701&caId=26783&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166701&caId=26783&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166701&caId=26783&tId=4)
-
-#### 195 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * Jeff Gombosky - MultiCare Health System
 * Lloyd Stambaugh
 * Ed Kim - Washington State Radiological Society
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Sean Graham - Washington State Medical Association
+* Beth Ebel - WA Chapter of the American Academy of Pediatrics
+* KIMBERLEY ROBBINS-STRIPP - Child and Adolescent Clinic
 
-#### 443 👎 - Con
+#### 953 👎 - Con
 Testifying:
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Mike Ennis - BIAW
 * Chris Bandoli - NABIP
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
 
 #### 1 ❓ - Other
 Testifying:

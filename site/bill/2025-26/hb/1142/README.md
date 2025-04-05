@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/11/2025 [House Democrats](/org/house_democrats/) - [Training Requirement Improvements for Long Term Care Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/11/training-requirement-improvements-for-long-term-care-passes-house/#:~:text=House%20Bill%201142)

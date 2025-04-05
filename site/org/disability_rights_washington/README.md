@@ -43,7 +43,7 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍2  
 
@@ -51,7 +51,7 @@
 
 ### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  ❓1
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
 
 ### [HB 1396](/bill/2025-26/hb/1396/) - Office of corrections ombuds   ❓1
 
@@ -64,9 +64,10 @@
 * 👍💵 Anna Zivarts
 * 👍💵 Anna Zivarts
 
-### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍3  
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍4  
 * 👍💵 Chloe Merino
 * 👍 Todd H Carlisle
+* 👍💵 Chloe Merino
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 

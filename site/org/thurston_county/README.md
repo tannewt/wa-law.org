@@ -1,16 +1,20 @@
 # Thurston County
 ## 2025-26
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 * 👍 Commissioner Rachel Grant
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
 ### [SB 5484](/bill/2025-26/sb/5484/) - Tow truck payments/indigent 👍1  
+
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Commissioner Carolina Mejia

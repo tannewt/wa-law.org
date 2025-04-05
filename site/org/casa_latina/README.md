@@ -18,7 +18,7 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍1  
+### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
 ## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍3  
 

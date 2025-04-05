@@ -18,7 +18,7 @@
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
 ### [HB 1220](/bill/2025-26/hb/1220/) - Concerning appropriate response to assaults by individuals in behavioral health crisis. 👍1  
 
@@ -32,7 +32,7 @@
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍2  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 * 👍💵 Ramona Hattendorf
@@ -41,18 +41,22 @@
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
-### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍2  
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍3  
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections   ❓1
 * ❓💵 Esther Warwick
 
-### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍2  
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
@@ -62,7 +66,7 @@
 
 ### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍4  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍5  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -113,7 +117,7 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
 
-### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎2 
+### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎3 
 
 ### [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
 

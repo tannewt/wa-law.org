@@ -13,19 +13,17 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): ESSB 5232 Essential needs program uses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166808&caId=26853&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166808&caId=26853&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166808&caId=26853&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166808&caId=26853&tId=4)
-
-#### 67 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * 💵Jean Hill - Washington State Catholic Conference
 * Em Stone - Department of Commerce
 
-#### 417 👎 - Con
+#### 831 👎 - Con
+Testifying:
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
 
 #### 1 ❓ - Other
 

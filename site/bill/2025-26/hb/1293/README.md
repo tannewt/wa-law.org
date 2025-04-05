@@ -14,6 +14,21 @@
 * [House Republicans](/org/house_republicans/) - [Cleaner Washington | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/cleaner-washington/#:~:text=House%20Bill%201293)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): ESHB 1293 Litter
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166984&caId=26912&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166984&caId=26912&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166984&caId=26912&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166984&caId=26912&tId=4)
+
+#### 8 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): ESHB 1293 Litter
 #### 69 👍 - Pro
 Testifying:

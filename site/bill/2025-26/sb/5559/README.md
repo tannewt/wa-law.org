@@ -13,17 +13,13 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): ESB 5559 UGA subdivision process
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166813&caId=26858&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166813&caId=26858&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166813&caId=26858&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166813&caId=26858&tId=4)
-
-#### 5 👍 - Pro
+#### 222 👍 - Pro
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* 💵Bill Clarke - WA REALTORS
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

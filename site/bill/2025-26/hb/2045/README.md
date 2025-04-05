@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/03/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee considers three major tax increase proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60e89042-e837-4280-a88a-fd1b32ff4bcf.html#:~:text=House%20Bill%202045)
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202045)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202045)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202045)
@@ -16,13 +17,7 @@
 
 ## Meetings
 ### Thu 04/03 08:00 AM - Finance (FIN): HB 2045 Business and occupation tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33205&aId=166766&caId=26818&tId=4)
-
-#### 2339 👍 - Pro
+#### 4399 👍 - Pro
 Testifying:
 * Nicholas Mendes
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
@@ -30,9 +25,49 @@ Testifying:
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Rachael Snell
 * Austin Price
+* Demas Nesterenko - SEIU775
+* Lexi Koren - Invest in Washington Now
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* 💵Eli Goss - WA Budget & Policy Center
+* 💵Nicole Kern
+* 💵Treasure Mackley - Invest in Washington Now
+* 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* Roboert De Gregario
+* 💵Traci Underwood - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Charles Primm
+* Fatema Boxwala
+* Kat Hill
+* Aida Rodriguez
+* Vanessa Meraki
+* Victoria Rossini
+* Melinda Young-Flynn
+* Patricia Trippet
+* Tammy Pham
+* Anita Lemonis
+* Corey Rigney
+* Arushi Sharma
+* Demizka Mag
+* Mark Epstein
+* Cricket Farr
+* Felipe Rodriguez-Flores
+* Leah Dooley
+* Alejandrina Casillas
+* Ariel Finrock
+* Julianna Dauble
+* Kevin Allen
+* Molly Gallagher
+* Robin Clarey
+* Charles Mayer
+* 💵Emily Vyhnanek
+* Cat Munsen
+* Anni-Michele Jean-Pierre - Children’s Alliance
 * 💵Erin Haick - SEIU 925
+* Guillermo Zazueta - OneAmerica
+* 💵Paul Benz - Quaker Voice
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 1545 👎 - Con
+#### 3648 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laurie Layne
@@ -46,9 +81,23 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * Kelli Holz - WaFd Bank
+* Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* 💵Leah Lindahl - Health Care Distribution Alliance
+* Kathryn Minter
 * Justin Armstrong
+* Jenny Arnold - Washington State Pharmacy Association
 * 💵Brandon Houskeeper - NW Grocery Retail Association
+* Shannon Tilley-Seymour
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Sean Graham - Washington State Medical Association
+* Angie Naylor - MultiCare
+* Len McComb - Washington State Hospital Association
+* MD, Ettore Palazzo - EvergreenHealth
+* Renee Rassilyer-Bomers - Providence Health and Services
+* Julie Dowell
+* David Dowell
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Oliver Miska
+* Steve Ewing - Dept. of Revenue

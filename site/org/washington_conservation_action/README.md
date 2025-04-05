@@ -18,7 +18,7 @@
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍4  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍5  
 * 👍💵 Clifford Traisman
 * 👍💵 Clifford Traisman
 
@@ -47,7 +47,7 @@
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 
-### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍2  ❓1
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍3  ❓1
 * ❓💵 Clifford Traisman
 * 👍💵 Clifford Traisman
 * 👍💵 Clifford Traisman
@@ -70,7 +70,7 @@
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 * 👍 Cliff Traisman
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator  👎1 

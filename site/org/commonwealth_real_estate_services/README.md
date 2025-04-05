@@ -32,6 +32,9 @@
 * 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
+### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market  👎1 
+* 👎 Andrew Mendenhall
+
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
 
 ## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants   ❓1

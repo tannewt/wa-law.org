@@ -32,7 +32,7 @@
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
-### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍1  
+### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍2  
 
 ### [HB 1498](/bill/2025-26/hb/1498/) - Domestic viol. co-responders   ❓1
 * ❓💵 Sherrie Tinoco
@@ -82,7 +82,7 @@
 
 ### [SB 5536](/bill/2025-26/sb/5536/) - Property distrib./divorce 👍1  
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍3  
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍2  
 

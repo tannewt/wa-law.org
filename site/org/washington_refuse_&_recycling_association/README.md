@@ -1,6 +1,9 @@
 # Washington Refuse & Recycling Association
 ## 2025-26
 
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling   ❓1
+* ❓💵 Nick Streuli
+
 ## [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
 * 👍💵 Nick Streuli
 

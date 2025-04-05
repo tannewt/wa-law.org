@@ -13,6 +13,25 @@
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA House passes bill to help farmers avoid paying CCA fuel taxes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_742c349a-0120-11f0-8822-b79d305dd486.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201912)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): E2SHB 1912 Agricultural fuel/CCA ex.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=4)
+
+#### 16 👍 - Pro
+Testifying:
+* Ben Buchholz - NW Ag Cooperative Council
+* 💵Mark Streuli - WA Assoc of Wheat Growers, WA Potato and Onion Assoc, WA Cattlemen's Assoc
+
+#### 370 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Jessica Spiegel - WSPA
+* Jay Gordon - Washington State Dairy Federation
+
 ### Tue 03/25 01:30 PM - Environment, Energy & Technology (ENET): E2SHB 1912 Agricultural fuel/CCA ex.
 #### 499 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1183/</link>
 		<description>Updates about HB 1183</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 01 Apr 2025 03:55:48 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Apr 2025 10:59:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -381,6 +381,62 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ryan/Donohue/2025-04-01 03:55:48</guid>
+		</item>
+		<item>
+			<title>❓💵Curtis Steinhauer - Washington Association of Counties</title>
+			<description>Curtis Steinhauer signed up to testify Other. They are signed up to represent Washington Association of Counties. They are a registered lobbyist.</description>
+			<pubDate>Wed, 02 Apr 2025 02:04:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Curtis/Steinhauer/2025-04-02 02:04:48</guid>
+		</item>
+		<item>
+			<title>👍Rob Harrison - Passive House Network</title>
+			<description>Rob Harrison signed up to testify Pro. They are signed up to represent Passive House Network.</description>
+			<pubDate>Wed, 02 Apr 2025 09:37:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rob/Harrison/2025-04-02 09:37:35</guid>
+		</item>
+		<item>
+			<title>👎Julie Dowell - Sightline Institute</title>
+			<description>Julie Dowell signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 03:50:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Dowell/2025-04-03 03:50:36</guid>
+		</item>
+		<item>
+			<title>👎David Dowell - Sightline Institute</title>
+			<description>David Dowell signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 03:51:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Dowell/2025-04-03 03:51:40</guid>
+		</item>
+		<item>
+			<title>👍Julie Blazek - HKP Architects</title>
+			<description>Julie Blazek signed up to testify Pro. They are signed up to represent HKP Architects.</description>
+			<pubDate>Thu, 03 Apr 2025 05:45:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Julie/Blazek/2025-04-03 05:45:55</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Sightline Institute</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 08:46:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-04-03 08:46:38</guid>
+		</item>
+		<item>
+			<title>👍💵Dan Bertolet - Sightline Institute</title>
+			<description>Dan Bertolet signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sightline_institute/"&gt;Sightline Institute&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 03 Apr 2025 10:59:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Bertolet/2025-04-03 10:59:37</guid>
 		</item>
 	</channel>
 </rss>

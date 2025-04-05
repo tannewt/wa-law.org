@@ -3,7 +3,7 @@
 
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍2  
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  ❓2
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  ❓2
 * ❓💵 John Rothlin
 * ❓💵 John Rothlin
 * 👍💵 John Rothlin
@@ -26,10 +26,12 @@
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
 * 👍💵 John Rothlin
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍2  
 
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  
 * 👍💵 John Rothlin
+
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
 

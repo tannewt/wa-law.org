@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/03/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers race to fix illegal special ed cap before April 27 deadline | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_14e4aa6a-fe85-4a57-a61b-2c8c6b52c268.html#:~:text=Senate%20Bill%205253)
 * 04/01/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in education is my top priority  - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/04/01/funding-education-is-my-top-priority/#:~:text=5253:)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5253)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Post house of origin cutoff update! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5253)
@@ -22,13 +23,7 @@
 
 ## Meetings
 ### Wed 04/02 04:00 PM - Appropriations (APP): SSB 5253 Special education services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166595&caId=26795&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166595&caId=26795&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166595&caId=26795&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166595&caId=26795&tId=4)
-
-#### 102 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Cathy Murahashi - The Arc of Washington
@@ -36,8 +31,9 @@ Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * 💵Stacy Dym - The Arc of WA
 * Kathy McDonald
+* Preston Dwoskin
 
-#### 538 👎 - Con
+#### 558 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

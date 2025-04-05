@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/04/2025 [The Center Square](/org/the_center_square/) - [Ethics complaint filed against WA lawmaker behind rent stabilization bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_87ee5329-d670-4653-b44b-c0594e4580e2.html#:~:text=House%20Bill%201217)
 * 03/27/2025 [The Center Square](/org/the_center_square/) - [WA Senate advances landmark bill to cap annual rent hikes statewide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_56c770c2-d128-41bf-8810-80136d900348.html#:~:text=House%20Bill%201217)
 * 03/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill to cap rent increases clears first Senate hurdle • Washington State Standard](https://washingtonstatestandard.com/2025/03/26/washington-bill-to-cap-rent-increases-clears-first-senate-hurdle/#:~:text=House%20Bill%201217)
 * 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=House%20Bill%201217)
@@ -56,13 +57,7 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): EHB 1217 Residential tenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166785&caId=26832&tId=4)
-
-#### 2403 👍 - Pro
+#### 4793 👍 - Pro
 Testifying:
 * Talauna Reed - Tenants Union of WA State
 * Leigh Christianson - Oly Rollers Home Owners
@@ -74,9 +69,30 @@ Testifying:
 * anthony Ives - Kitsap Community Resources
 * Charity Grice
 * Dylan Bianchi
+* John Alder - Scar/
 * Terri Anderson - Tenants Union of Washington State
+* Jennyfer Mesa - Latinos En Spokane
+* 💵Bryce Yadon - Futurewise and Habitat for Humanity Seattle, King and Kittitas County
+* Roger Jones - Holiday Properties and Columbia East Investments
+* Talauna Reed - Tenants Union of Washington State
+* Caroline Hardy - Secretary AMHO and Leisure Manor Tenants Association
+* John Nolan
+* Kelley Rinehart
+* Sara Eubank
+* Kerrie Blackburn
+* Brandon Garcia
+* 💵Sarah Cherin - UFCW 3000
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* Luis Manriquez
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Jessica Silver
+* Ashley Gaffney
+* Abigail Staten - N/a
+* Christine Johnston
+* Tina Hammond
 
-#### 1477 👎 - Con
+#### 3657 👎 - Con
 Testifying:
 * Greg Lovern
 * Bruce Becker - Bruce Becker
@@ -98,10 +114,43 @@ Testifying:
 * Jacob Bond - Collective Communities
 * LaDon Linde - Yakima County Commissioner
 * Paul Morton
+* 💵Brett Waller - Washington Multi-Family Housing Association
+* Emily Thompson - GMD Development
+* Morgan Shook - Partnership for Affordable Housing
+* Anne Knapp
+* Jennifer Wetter
+* zakir parpia
+* Joe Levin - Affordable Housing Coalition
+* 💵Katherine Mahoney - [April Housing](/org/april_housing/)
+* Casey Bishop
+* 💵Andrea Smiley - BIAW
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Nick Streuli - REaltors
+* DENISE Helms - Loren Place Association
+* Steve Yoon - Mill Creek Residential Trust
+* Angela Rozmyn - Natural & Built Environments
+* Jared Nieuwenhuis
+* TaraLyn Fray
+* Julie Dowell
+* David Dowell
+* Carl Shorett
+* David Pitkin - YDPages Inc.
+* MariLyn Yim - 36th LD Dems PCO & PROTEC17 union member
+* carl haglund - columbia modern living, big rooster investments llc
+* Sandra Mochizuki
+* Mike Morris
+* JIN YANG
+* OSHO BERMAN
+* Annie White
+* Tad Sommerville
+* Ying Pei
+* Michael Kubacki - First Commercial Properties NW
 
-#### 10 ❓ - Other
+#### 34 ❓ - Other
 Testifying:
 * David Toler - Olympia for All
+* 💵Casey Brown - Southport Financial Services
+* Arthur Chippendale - VashonHousehold.org
 
 ### Wed 03/19 01:30 PM - Housing (HSG): EHB 1217 Residential tenants
 #### 5253 👍 - Pro

@@ -3,13 +3,15 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
 * ❓ Eric Gonzalez Alfaro
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 * 👍💵 Eric Gonzalez
 
-### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍2  
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 

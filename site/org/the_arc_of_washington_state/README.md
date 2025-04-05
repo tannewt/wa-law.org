@@ -21,7 +21,7 @@
 
 ### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
 
-### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍2  
 * 👍💵 Stacy Dym
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  

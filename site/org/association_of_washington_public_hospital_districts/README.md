@@ -15,6 +15,8 @@
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard   ❓1
 * ❓💵 Matthew Ellsworth
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 

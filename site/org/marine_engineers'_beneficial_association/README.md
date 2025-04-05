@@ -9,7 +9,7 @@
 
 ### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍2  
 
-### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining 👍1  
+### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining 👍2  
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
 
@@ -19,7 +19,7 @@
 
 ### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
 
-### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍3  
 
 ### [HB 1142](/bill/2025-26/hb/1142/) - In-home care training 👍1  
 
@@ -43,11 +43,11 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍3  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍4  
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍2  
 
@@ -104,7 +104,7 @@
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍3  
 
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 
@@ -114,7 +114,7 @@
 
 ### [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies  👎1 
 
-### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools  👎1 
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools  👎2 
 
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍1  
 
@@ -128,7 +128,7 @@
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍3  
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍2  
 
@@ -158,7 +158,7 @@
 
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍4  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍5  
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍2  
 
@@ -262,7 +262,7 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍3  
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍4  
 
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles 👍1  
 
@@ -280,7 +280,7 @@
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
 
@@ -336,9 +336,9 @@
 
 ### [SB 5283](/bill/2025-26/sb/5283/) - Prohibiting the energy facility site evaluation council from preempting local laws that forbid the siting of certain storage facilities in critical areas.  👎1 
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
-### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍1  
+### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
 
@@ -382,7 +382,7 @@
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍2  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
 
 ### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍2  
 
@@ -434,7 +434,7 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
-### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation 👍1  
+### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation 👍2  
 
 ### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects 👍1  
 
@@ -444,11 +444,11 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍2  
 
-### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍3  
+### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍4  
 
 ### [SB 5693](/bill/2025-26/sb/5693/) - Teacher residency & apprent.  👎1 
 
-### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍3  
+### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍4  
 
 ### [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍1  
 
@@ -462,7 +462,7 @@
 
 ### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 
-### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎2 
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 

@@ -16,6 +16,23 @@
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201141)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): ESHB 1141 Ag. cannabis workers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=4)
+
+#### 17 👍 - Pro
+Testifying:
+* 💵Dustin Lambro - UFCW 3000
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Peter Manning - Black Excellence in Cannabis
+
+#### 4 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): ESHB 1141 Ag. cannabis workers
 #### 129 👍 - Pro
 Testifying:

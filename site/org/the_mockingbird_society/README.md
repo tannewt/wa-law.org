@@ -8,7 +8,7 @@
 ### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍2  
 * 👍💵 Samuel Martin
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍3  
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
 
@@ -27,7 +27,7 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍3  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍4  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 * 👍 Jalayna Ruland
@@ -76,9 +76,9 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓1
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍3  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍4  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
@@ -88,6 +88,10 @@
 * 👍💵 Samuel Martin
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
+
+### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍1  
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 

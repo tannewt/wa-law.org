@@ -9,6 +9,10 @@
 
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
 
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Neil Strege
 

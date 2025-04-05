@@ -7,6 +7,10 @@
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 * ❓ Nick Bond
 

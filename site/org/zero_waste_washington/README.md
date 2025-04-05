@@ -12,14 +12,16 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍6  
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍7  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
-### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍3  
+### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍4  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
@@ -39,7 +41,7 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍3  
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍4  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 

@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Wed 04/02 04:00 PM - Appropriations (APP): SSB 5494 Lead-based paint
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166596&caId=26796&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166596&caId=26796&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166596&caId=26796&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166596&caId=26796&tId=4)
-
 #### 13 👍 - Pro
 Testifying:
 * Jamie Switras - Now Environmental Services
@@ -26,12 +20,12 @@ Testifying:
 * Mike Lawrence - Now Environmental
 * Katie Meehan - Department of Commerce
 
-#### 736 👎 - Con
+#### 779 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/13 10:30 AM - Environment & Energy (ENVI): SSB 5494 Lead-based paint
 #### 20 👍 - Pro

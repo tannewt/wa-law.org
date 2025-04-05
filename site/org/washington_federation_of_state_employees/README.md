@@ -35,9 +35,9 @@
 * ❓ Kati Durkin
 * ❓💵 Kurt Spiegel
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍3  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1228](/bill/2025-26/hb/1228/) - Toxicology testing 👍1  
 
@@ -45,6 +45,8 @@
 * 👍 Kati Durkin
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
+
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
@@ -61,6 +63,8 @@
 * 👎 Brittany Barber
 * 👎 Mike Yestramski
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎2 ❓1
 * 👎 Kati Durkin
 * ❓ Kati Durkin
@@ -71,8 +75,9 @@
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍7  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍8  
 * 👍 Rhonda Buchanan
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍 Kati Durkin
@@ -84,6 +89,8 @@
 * 👍 Kati Durkin
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
+
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
 ### [HB 1723](/bill/2025-26/hb/1723/) - School construction projects 👍1  
 
@@ -111,7 +118,7 @@
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
 
@@ -142,7 +149,7 @@
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
-### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
 
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍1  
 
@@ -178,7 +185,7 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍3  
+### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍4  
 
 ## [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
 * 👍 Kati Durkin

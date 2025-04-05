@@ -5,7 +5,7 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
@@ -17,7 +17,9 @@
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍 Hannah Stone
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 

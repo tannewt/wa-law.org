@@ -1,13 +1,18 @@
 # Manufactured Housing Communities of Washington
 ## 2025-26
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
 * 👎 Russ Millard
+
+## [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market  👎2 
+* 👎 Russ Millard
+* 👎 Eric Steven
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants  👎1 
+### [SB 5469](/bill/2023-24/sb/5469/) - Rental housing market  👎2 
 * 👎 Russ Millard
+* 👎 Eric Steven
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 

@@ -14,15 +14,9 @@
 
 ## Meetings
 ### Wed 04/02 04:00 PM - Appropriations (APP): 2SSB 5358 Career & tech. ed./6th grade
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166802&caId=26847&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166802&caId=26847&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166802&caId=26847&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166802&caId=26847&tId=4)
+#### 24 👍 - Pro
 
-#### 22 👍 - Pro
-
-#### 488 👎 - Con
+#### 505 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

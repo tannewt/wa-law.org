@@ -30,6 +30,9 @@
 * ❓💵 Brad Tower
 * ❓💵 Brad Tower
 
+### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market  👎1 
+* 👎💵 Brad Tower
+
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 * 👍💵 Brad Tower
 

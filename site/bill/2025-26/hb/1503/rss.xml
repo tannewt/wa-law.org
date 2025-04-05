@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1503/</link>
 		<description>Updates about HB 1503</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Mar 2025 12:15:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 12:32:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -383,6 +383,45 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sarah/León/2025-03-25 12:15:48</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-02/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - FMS Global Strategies/WBBA</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 11:23:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-04-03 11:23:18</guid>
+		</item>
+		<item>
+			<title>👍💵Paula Sardinas - FMS Global Strategies/WBBA</title>
+			<description>Paula Sardinas signed up to testify Pro. They are signed up to represent FMS Global Strategies/WBBA. They are a registered lobbyist.</description>
+			<pubDate>Fri, 04 Apr 2025 01:09:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paula/Sardinas/2025-04-04 01:09:00</guid>
+		</item>
+		<item>
+			<title>👎Jill Williams - FMS Global Strategies/WBBA</title>
+			<description>Jill Williams signed up to testify Con.</description>
+			<pubDate>Fri, 04 Apr 2025 01:13:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jill/Williams/2025-04-04 01:13:25</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - FMS Global Strategies/WBBA</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Fri, 04 Apr 2025 12:32:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-04-04 12:32:23</guid>
 		</item>
 	</channel>
 </rss>

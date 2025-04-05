@@ -3,7 +3,17 @@
 
 ### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
+
+### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
+
+### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎1 
 

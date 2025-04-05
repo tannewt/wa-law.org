@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1696/</link>
 		<description>Updates about HB 1696</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 01 Apr 2025 12:23:34 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 10:44:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -232,7 +232,7 @@
 			<guid isPermaLink="false">2025-03-10/First reading, referred to Housing.</guid>
 		</item>
 		<item>
-			<title>👍Tracy Brown - Washington State Housing Finance Commission</title>
+			<title>👍Tracy Brown - Habitat for Humanity Spokane</title>
 			<description>Tracy Brown signed up to testify Pro.</description>
 			<pubDate>Wed, 12 Mar 2025 09:34:00 GMT</pubDate>
 			<category>testifier</category>
@@ -435,6 +435,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Steve/Walker/2025-04-01 12:23:34</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Habitat for Humanity Spokane</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 02 Apr 2025 12:22:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-04-02 12:22:09</guid>
+		</item>
+		<item>
+			<title>👎Julie Dowell - Habitat for Humanity Spokane</title>
+			<description>Julie Dowell signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 04:05:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Dowell/2025-04-03 04:05:10</guid>
+		</item>
+		<item>
+			<title>👎David Dowell - Habitat for Humanity Spokane</title>
+			<description>David Dowell signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 04:06:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Dowell/2025-04-03 04:06:45</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Habitat for Humanity Spokane</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 09:46:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-04-03 09:46:10</guid>
+		</item>
+		<item>
+			<title>👍Dana Le Roy - Habitat for Humanity Spokane</title>
+			<description>Dana Le Roy signed up to testify Pro. They are signed up to represent Habitat for Humanity Spokane.</description>
+			<pubDate>Fri, 04 Apr 2025 10:44:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dana/Le Roy/2025-04-04 10:44:23</guid>
 		</item>
 	</channel>
 </rss>

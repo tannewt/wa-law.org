@@ -15,13 +15,11 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): ESSB 5677 Associate development orgs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166815&caId=26860&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166815&caId=26860&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166815&caId=26860&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166815&caId=26860&tId=4)
-
-#### 20 👍 - Pro
+#### 75 👍 - Pro
+Testifying:
+* Michael Catsi - Economic Development Board for Tacoma-Pierce County (Pierce County ADO)
+* Roni Holder-Diefenbach - Economic Alliance (ADO for Okanogan County)
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
 #### 0 👎 - Con
 

@@ -14,19 +14,22 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Ways & Means (WM): 2SHB 1183 Building codes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166697&caId=26779&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166697&caId=26779&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166697&caId=26779&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33215&aId=166697&caId=26779&tId=4)
-
-#### 241 👍 - Pro
+#### 273 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Rob Harrison - Passive House Network
+* Julie Blazek - HKP Architects
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 511 👎 - Con
+#### 871 👎 - Con
+Testifying:
+* Julie Dowell
+* David Dowell
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - Washington Association of Counties
 
 ### Mon 03/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): 2SHB 1183 Building codes
 #### 297 👍 - Pro

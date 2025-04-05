@@ -19,7 +19,7 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎 Jacqueline Moore
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍3  
 
 ## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎💵 Scott Hazlegrove

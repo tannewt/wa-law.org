@@ -11,15 +11,12 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1813 Medical assist reprocurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166795&caId=26842&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166795&caId=26842&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166795&caId=26842&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166795&caId=26842&tId=4)
+#### 33 👍 - Pro
+Testifying:
+* 💵Brad Banks - Washington State Association of Counties (WSAC) & BHASOs
+* Trinidad Medina - Great Rivers BHASO
 
-#### 16 👍 - Pro
-
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

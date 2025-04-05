@@ -27,7 +27,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍3  
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍4  
 
 ### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍1  
 
@@ -41,6 +41,10 @@
 
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation   ❓2
 * ❓ Nicholas Oakley
+
+### [HB 2044](/bill/2025-26/hb/2044/) - Unexcused student absences  👎2 
+* 👎 William Hairston
+* 👎 William Hairston
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
@@ -63,10 +67,10 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓2
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓3
 * 👎 William Hairston
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍3  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍2  
 
@@ -78,11 +82,11 @@
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎2 
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎2 
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎3 
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

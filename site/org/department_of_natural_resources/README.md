@@ -23,7 +23,7 @@
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍4  
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
@@ -71,12 +71,14 @@
 * ❓ Duane Emmons
 * ❓ Duane Emmons
 
-### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍2  
+### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍3  
+* 👍 Sam Hensold
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 * 👍 Pat Sullivan
 
-### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍2  
+### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍3  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
 

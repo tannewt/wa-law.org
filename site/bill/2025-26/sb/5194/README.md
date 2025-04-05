@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 04/01 04:00 PM - Ways & Means (WM): SB 5194 State gen. obligation bonds

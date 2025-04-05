@@ -6,7 +6,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Guillermo Rogel
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍4  
 * 👍💵 Guillermo Rogel

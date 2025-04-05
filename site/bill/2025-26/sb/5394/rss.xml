@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5394/</link>
 		<description>Updates about SB 5394</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 11:34:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -116,6 +116,22 @@
 			<pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-28/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎💵Nicole Gomez - Washington Federation of State Employees/Lobbyist</title>
+			<description>Nicole Gomez signed up to testify Con. They are signed up to represent Washington Federation of State Employees/Lobbyist. They are a registered lobbyist.</description>
+			<pubDate>Fri, 04 Apr 2025 09:21:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nicole/Gomez/2025-04-04 09:21:01</guid>
+		</item>
+		<item>
+			<title>👎Linds Hyatt - Families For Better Lives</title>
+			<description>Linds Hyatt signed up to testify Con. They are signed up to represent Families For Better Lives.</description>
+			<pubDate>Fri, 04 Apr 2025 11:34:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Linds/Hyatt/2025-04-04 11:34:09</guid>
 		</item>
 	</channel>
 </rss>

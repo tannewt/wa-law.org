@@ -13,17 +13,12 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1391 Court alternatives/youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166784&caId=26831&tId=4)
-
-#### 29 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * LInnea Anderson - San Juan County Superior Court Services Director
+* 💵Myle Tang - Stand for Children Washington
 
-#### 0 👎 - Con
+#### 51 👎 - Con
 
 #### 0 ❓ - Other
 

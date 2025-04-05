@@ -11,6 +11,21 @@
 * 03/28/2025 [The Center Square](/org/the_center_square/) - [Bill would improve WA’s domestic violence Hope Card Program by making them free | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d2f8f33d-a22d-49e9-ae5a-84427cf96f2f.html#:~:text=House%20Bill%201460)
 
 ## Meetings
+### Sat 04/05 12:00 PM - Ways & Means (WM): SHB 1460 Protection order hope cards
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166986&caId=26914&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166986&caId=26914&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166986&caId=26914&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166986&caId=26914&tId=4)
+
+#### 7 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Catherine Cornwall - King County Superior Court Clerk
+
 ### Thu 03/27 10:30 AM - Law & Justice (LAW): SHB 1460 Protection order hope cards
 #### 5 👍 - Pro
 Testifying:

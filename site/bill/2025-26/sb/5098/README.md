@@ -45,15 +45,17 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): E2SSB 5098 Weapons in certain areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166832&caId=26868&tId=4)
+#### 656 👍 - Pro
+Testifying:
+* Joanna Briese
+* Dr. Gwen Loosmore - WA PTA
+* Dr. Tim Jordan - WA Chapter of the American Academy of Pediatrics
+* Emma Bochan
+* Maria Boyko
+* Michael Gapper
+* Jack Farrell - Washington Youth Alliance
 
-#### 107 👍 - Pro
-
-#### 2218 👎 - Con
+#### 3234 👎 - Con
 Testifying:
 * Anthony Triplett - All In A Days Work
 * Jane Milhans
@@ -69,8 +71,17 @@ Testifying:
 * Brian Dumonte
 * Cory Causey
 * Shawn Teixeira
+* 💵Aoibheann Cline - NRA
+* TaraLyn Fray
+* Elizabeth Bienas
+* Julie Dowell
+* Julie Dowell
+* David Dowell
+* Ruphina Nord - Washington State Young Republicans
+* brian keelean - washington state rifle and pistol organization, tacoma rifle and revolver club, paul bunyan sportman
+* Sandra Mochizuki
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 

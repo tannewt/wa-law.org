@@ -21,12 +21,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=4)
 
-#### 1 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
+* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
 
-#### 2 👎 - Con
+#### 437 👎 - Con
 Testifying:
 * Richard Moser - WHCA
 * Allison Moser - WHCA
+* Chris Mefford
+* TaraLyn Fray
+* Sean Lynn - Love Leavenworth Vacation Rentals
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

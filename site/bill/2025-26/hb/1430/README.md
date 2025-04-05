@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): ESHB 1430 APRN & PA reimbursement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166796&caId=26843&tId=4)
-
-#### 646 👍 - Pro
+#### 933 👍 - Pro
 Testifying:
 * Natalie Paul - Lavender Spectrum Health
 * Jennifer Drake
@@ -26,10 +20,24 @@ Testifying:
 * TERRI SQUIRES
 * 💵Michele Thomas
 * crystal kim
+* Devon Connor-Green - ARNPs United of Washington State / AAPPN
+* RN, ARNP, Justin Gill - DNP - Washington State Nurses Association (WSNA)
+* ARNP, Shannon Fitzgerald - ARNPs United of Washington State (AUWS)
+* April Matzenbacher - Mente Tranquilla LLC
+* Steven Nelson
+* Arlene Dorrough - Washington Medical Commissioner and Physician Assistant
+* WAPA President, Joshua Lumsden - Washington Academy of Physician Assistants (WAPA)
+* Dianna Doyle
 
-#### 79 👎 - Con
+#### 335 👎 - Con
+Testifying:
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Annie McGrath - Washington State Psychiatric Association (WSPA)
+* April Hunziker
+* Kelania Jimenez
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 03/25 10:30 AM - Health & Long Term Care (HLTC): ESHB 1430 APRN & PA reimbursement
 #### 764 👍 - Pro

@@ -9,19 +9,20 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SSB 5040 Uniformed personnel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166818&caId=26863&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166818&caId=26863&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166818&caId=26863&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166818&caId=26863&tId=4)
+#### 9 👍 - Pro
+Testifying:
+* 💵Brenda Wiest
+* Jeff DeVEre - WACOPS-Washington Council of Police & Sheriffs
 
-#### 4 👍 - Pro
-
-#### 53 👎 - Con
+#### 627 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Matthew Lundh - Mayor, City of Cle Elum
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* TaraLyn Fray
+* David Dowell
+* Julie Dowell
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

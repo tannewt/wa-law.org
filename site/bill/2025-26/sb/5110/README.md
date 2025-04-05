@@ -14,17 +14,17 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SB 5110 Tribal elder tuition waivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166833&caId=26869&tId=4)
-
-#### 9 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Maya Esquivido - WA State Board for Community & Technical Colleges
+* Suzy Ames - Peninsula College
 
-#### 54 👎 - Con
+#### 538 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Julie Dowell
+* David Dowell - xxx-xx-xxxx
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

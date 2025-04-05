@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SB 5485 Livestock identification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166811&caId=26856&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166811&caId=26856&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166811&caId=26856&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166811&caId=26856&tId=4)
-
-#### 3 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brennan Kimbel - Washington State Department of Agriculture
 
 ### Tue 03/18 10:30 AM - Agriculture and Natural Resources (AGNR): SB 5485 Livestock identification
 #### 10 👍 - Pro

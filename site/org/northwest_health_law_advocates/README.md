@@ -68,7 +68,7 @@
 ### [SB 5258](/bill/2025-26/sb/5258/) - Medicaid concurrent enroll.  👎1 
 * 👎💵 Vanessa Saavedra
 
-### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍1  
+### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
 ### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍2  
 

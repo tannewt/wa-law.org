@@ -11,28 +11,23 @@
 
 ## Meetings
 ### Wed 04/02 04:00 PM - Appropriations (APP): ESB 5769 Transition to kindergarten
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166803&caId=26848&tId=4)
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 
-#### 650 👎 - Con
+#### 675 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Nate Bloch - Student
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Kimberly Headrick - Superintendent-Medical Lake School District
+* Gerald Grubbs - index
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5769 Transition to kindergarten
 #### 62 👍 - Pro

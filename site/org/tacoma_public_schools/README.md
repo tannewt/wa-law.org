@@ -1,7 +1,7 @@
 # Tacoma Public Schools
 ## 2025-26
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍2  
 * 👍 Charlie Brown

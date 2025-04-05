@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/06/2025 [KING5](/org/king5/) - [Sodium nitrite bill passes state House with overwhelming support | king5.com](https://www.king5.com/article/news/politics/state-politics/state-house-sodium-nitrite-ban-bill-approved/281-fc089bc6-8cc5-4457-bd0b-def3aa32d9a7#:~:text=House%20Bill%201209)

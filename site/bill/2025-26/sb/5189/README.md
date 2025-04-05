@@ -17,21 +17,16 @@
 
 ## Meetings
 ### Wed 04/02 04:00 PM - Appropriations (APP): SB 5189 Competency-based education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166594&caId=26794&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166594&caId=26794&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166594&caId=26794&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33246&aId=166594&caId=26794&tId=4)
-
-#### 29 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Nica Rondinelli
 
-#### 1997 👎 - Con
+#### 2047 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * Shreyansh Padhy
+* Vicki Murray - Washington Policy Center
 
 #### 0 ❓ - Other
 

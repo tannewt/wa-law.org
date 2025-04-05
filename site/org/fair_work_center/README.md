@@ -29,9 +29,10 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍5  
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍6  
 * 👍 Danielle Alvarado
 * 👍 Anarosa Bello Nieto
+* 👍 Danielle Alvarado
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 

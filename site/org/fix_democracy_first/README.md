@@ -36,7 +36,7 @@
 
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍2  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍5  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍6  
 * 👍💵 Cindy Black
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  

@@ -18,22 +18,30 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): ESHB 1971 Prescription hormone therapy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166798&caId=26845&tId=4)
-
-#### 280 👍 - Pro
+#### 502 👍 - Pro
 Testifying:
 * Alexis Janson
 * Carrie Lancaster
+* Mac Stein
+* Lisa Matthews
+* Randi Miller
+* Susan Tuzzolino
+* Jenna Comstock - QLaw Association
+* MARY SCHWARTZ
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Dr. Cora Bruener - WA Chapter of the American Academy of Pediatrics
 
-#### 1306 👎 - Con
+#### 2151 👎 - Con
 Testifying:
 * Gabriel Jacobs
+* Sandra Mochizuki
+* Kendall Harrison
+* David Dowell
+* Julie Dowell
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 03/21 08:00 AM - Health & Long Term Care (HLTC): ESHB 1971 Prescription hormone therapy
 #### 1357 👍 - Pro

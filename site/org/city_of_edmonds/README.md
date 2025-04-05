@@ -3,12 +3,12 @@
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓2
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓3
 * ❓ Todd Tatum
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
 
 ## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 

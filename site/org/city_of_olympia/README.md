@@ -9,15 +9,21 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1494](/bill/2025-26/hb/1494/) - Multiple-unit dwellings/tax 👍1  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 * 👍 Jacinda Steltjes

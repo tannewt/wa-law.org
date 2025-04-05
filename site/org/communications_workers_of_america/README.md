@@ -7,7 +7,7 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍3  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍4  
 
 ### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍1  
 
@@ -19,7 +19,7 @@
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍2  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍3  
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
 

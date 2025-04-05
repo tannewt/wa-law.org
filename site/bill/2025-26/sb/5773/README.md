@@ -12,15 +12,14 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Transportation (TR): SSB 5773 Transportation procurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166584&caId=26808&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166584&caId=26808&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166584&caId=26808&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33194&aId=166584&caId=26808&tId=4)
-
-#### 3 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
+* Catherine Hovell - HNTB Corporation
+* Jerry VanderWood - AGC of WA
 * Van Collins - American Council of Engineering Companies of Washington (ACEC)
+* 💵Morgan Irwin - AWB
+* 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
+* Geoff Owen - AGC and Kiewit
 
 #### 0 👎 - Con
 

@@ -38,7 +38,7 @@
 
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
-### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍2  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍3  
 
 ### [SB 5745](/bill/2025-26/sb/5745/) - Invol. treatment counsel   ❓1
 * ❓💵 Michael White

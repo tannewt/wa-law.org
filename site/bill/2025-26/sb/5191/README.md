@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5191 Dockworkers/PFML premiums
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166807&caId=26852&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166807&caId=26852&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166807&caId=26852&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33247&aId=166807&caId=26852&tId=4)
-
-#### 14 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Cam Williams - ILWU Coast Longshore Division
 

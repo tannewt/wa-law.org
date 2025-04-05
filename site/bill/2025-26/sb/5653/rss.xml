@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5653/</link>
 		<description>Updates about SB 5653</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Apr 2025 04:27:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,14 @@
 			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-31/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Jeff Wickersham - Teamsters 760 - Fish and Wildlife Lieutenants and Captains</title>
+			<description>Jeff Wickersham signed up to testify Pro. They are signed up to represent Teamsters 760 - Fish and Wildlife Lieutenants and Captains.</description>
+			<pubDate>Wed, 02 Apr 2025 04:27:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Wickersham/2025-04-02 04:27:40</guid>
 		</item>
 	</channel>
 </rss>

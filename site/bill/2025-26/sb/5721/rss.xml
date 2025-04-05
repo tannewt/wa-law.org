@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5721/</link>
 		<description>Updates about SB 5721</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 01 Apr 2025 12:28:48 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -310,6 +310,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jeff/Butler/2025-04-01 12:28:48</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-02/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1227/</link>
 		<description>Updates about HB 1227</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 27 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Apr 2025 17:10:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -679,6 +679,20 @@
 			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-27/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-02/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>WA House passes $15.2B transportation budget, setting stage for talks with Senate | Washington | thecentersquare.com</title>
+			<description>News article "WA House passes $15.2B transportation budget, setting stage for talks with Senate | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 03 Apr 2025 17:10:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_c77b4339-e875-458e-83aa-46b4e83aa0ee.html#:~:text=revenue%20bill</guid>
 		</item>
 	</channel>
 </rss>

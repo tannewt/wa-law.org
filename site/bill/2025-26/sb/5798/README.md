@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/04/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Say what? Gov. Ferguson draws a line in the sand - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-say-gov-ferguson-draws-line-sand/#:~:text=Senate%20Bill%205798)
 * 03/31/2025 [The Stranger](/org/the_stranger/) - [Slog AM: Shooting at Rainier Beach Night Club, France Bars Marine Le Pen from Election, Israel Killed and Buried 15 Aide Workers in Mass Grave - The Stranger](https://www.thestranger.com/slog-am/2025/03/31/79992102/slog-am-shooting-at-rainier-beach-night-club-france-bars-marine-le-pen-from-election-israel-killed-and-buried-15-aide-workers-in-mass-grave#:~:text=lift)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205798)
 * 03/27/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Sign in CON on bill to SKYROCKET your property taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-sign-con-bill-skyrocket-property-taxes/#:~:text=Senate%20Bill%205798)

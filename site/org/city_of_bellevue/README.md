@@ -46,6 +46,8 @@
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓2
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
@@ -69,7 +71,7 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
 ### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
@@ -83,7 +85,7 @@
 
 ### [HB 1996](/bill/2025-26/hb/1996/) - Behavioral health diversion   ❓1
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
@@ -93,7 +95,7 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓3
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓4
 * ❓ Thara Johnson
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments  👎1 
@@ -102,7 +104,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓2
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 

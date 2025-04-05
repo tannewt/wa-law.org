@@ -1,7 +1,9 @@
 # Northwest Community Land Trust Coalition
 ## 2025-26
 
-### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍2  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 

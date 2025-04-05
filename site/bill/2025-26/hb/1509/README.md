@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166871&caId=26891&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166871&caId=26891&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Casey Trupin - Raikes Foundation
 * Rachel Mathison - [Cocoon House](/org/cocoon_house/)
+* Kim Justice - Partners for Our Children
 
 #### 0 👎 - Con
 

@@ -14,19 +14,17 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1432 Mental health services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33216&aId=166797&caId=26844&tId=4)
-
-#### 172 👍 - Pro
+#### 571 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington
 * Jake Swanton - Inseparable
 * David Lloyd - Inseparable
+* CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Kelania Jimenez
 
-#### 0 👎 - Con
+#### 99 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
 #### 0 ❓ - Other
 

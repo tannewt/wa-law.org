@@ -12,17 +12,17 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SB 5543 College bound scholarship
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166841&caId=26877&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166841&caId=26877&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166841&caId=26877&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33248&aId=166841&caId=26877&tId=4)
-
-#### 7 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Troy Goracke - WA State Board for Community and Technical Colleges
 
-#### 24 👎 - Con
+#### 599 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Kendall Harrison
+* David Dowell - xxx-xx-xxxx
+* Julie Dowell
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

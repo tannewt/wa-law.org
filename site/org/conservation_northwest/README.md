@@ -25,7 +25,7 @@
 ### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services  👎1 
 * 👎💵 Paula Swedeen
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
