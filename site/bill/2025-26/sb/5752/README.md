@@ -16,17 +16,14 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5752 Child care & early dev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166963&caId=26926&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166963&caId=26926&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166963&caId=26926&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166963&caId=26926&tId=4)
-
 #### 0 👍 - Pro
 
-#### 11 👎 - Con
+#### 100 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 
 ### Tue 03/25 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5752 Child care & early dev.
 #### 22 👍 - Pro

@@ -21,26 +21,26 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): ESHB 2015 Public safety funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166988&caId=26916&tId=4)
-
-#### 22 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jani Hitchen - Pierce County Council Chair
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Joe McDermott - State Relations Director | King County
+* 💵Matthew Hepner - East Wenatchee City Council
+* 💵Michael Transue - Washington Fraternal Order of Police
 
-#### 451 👎 - Con
+#### 829 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Briahna Murray - [City of Kent](/org/city_of_kent/)
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Dana Ralph - City of Kent, Mayor
 
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): ESHB 2015 Public safety funding

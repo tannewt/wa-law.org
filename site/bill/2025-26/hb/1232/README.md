@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): E2SHB 1232 Private detention facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166874&caId=26894&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166874&caId=26894&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166874&caId=26894&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166874&caId=26894&tId=4)
-
-#### 354 👍 - Pro
+#### 554 👍 - Pro
 Testifying:
 * Satchel Baskette
 * Daksha Raj
@@ -33,7 +27,7 @@ Testifying:
 * Andy Michaca - UW Student, Volunteer with La Resistencia
 * 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 7 👎 - Con
+#### 130 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -16,22 +16,19 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): SB 5077 Agency voter registration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166881&caId=26896&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166881&caId=26896&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166881&caId=26896&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166881&caId=26896&tId=4)
-
-#### 330 👍 - Pro
+#### 371 👍 - Pro
 Testifying:
 * Shawn Merchant - Office Of The Secretary Of State
+* 💵Caron Cargill - Washington Voter Justice Coalition & Center for Secure and Modern Elections
 
-#### 474 👎 - Con
+#### 794 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Anthony Mixer - Washington State Young Republicans
 * Sandra Mochizuki
+* Judy Hall
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5077 Agency voter registration
 #### 154 👍 - Pro

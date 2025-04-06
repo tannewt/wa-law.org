@@ -49,7 +49,7 @@
 
 ### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍3  
 
-### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  ❓1
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍2  ❓1
 
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
 

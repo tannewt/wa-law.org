@@ -54,7 +54,8 @@
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 * ❓💵 Samantha Louderback
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍4  
+* 👍 Sean DeWitz
 * 👍 Sean DeWitz
 * 👍 Sean DeWitz
 
@@ -139,7 +140,8 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes   ❓1
 * ❓💵 Julia Gorton
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎3 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 

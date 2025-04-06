@@ -21,19 +21,13 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): E2SHB 1213 Paid family & medical leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166870&caId=26890&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166870&caId=26890&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166870&caId=26890&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166870&caId=26890&tId=4)
-
-#### 134 👍 - Pro
+#### 155 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
 * Margarita Mota - MomsRising
 * Sam Grad - Teamsters 117
 
-#### 699 👎 - Con
+#### 1039 👎 - Con
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
@@ -41,6 +35,7 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Morgan Irwin - AWB
 * TaraLyn Fray
+* 💵Amber Carter - WA Retail Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Sandra Mochizuki
 

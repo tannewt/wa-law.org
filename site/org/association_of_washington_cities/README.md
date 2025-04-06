@@ -334,9 +334,10 @@
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 ❓1
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 ❓1
 * 👎💵 Carl Schroeder
 * ❓💵 Carl Schroeder
+* 👎💵 Carl Schroeder
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
@@ -453,7 +454,9 @@
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓2
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓4
+* ❓💵 Carl Schroeder
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 

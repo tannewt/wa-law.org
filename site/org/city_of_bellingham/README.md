@@ -11,6 +11,8 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 * 👍 Hannah Stone
 
@@ -20,6 +22,8 @@
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
 ## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 

@@ -97,7 +97,7 @@
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat.   ❓1
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  ❓1
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 

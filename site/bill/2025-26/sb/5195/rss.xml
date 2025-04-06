@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5195/</link>
 		<description>Updates about SB 5195</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 03 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 05 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1609,6 +1609,20 @@
 			<pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-03/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-05/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</description>
+			<pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-05/Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</guid>
 		</item>
 	</channel>
 </rss>

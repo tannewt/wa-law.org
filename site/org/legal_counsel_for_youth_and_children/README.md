@@ -115,7 +115,7 @@
 
 ### [SB 5272](/bill/2025-26/sb/5272/) - School safety/penalties  👎1 
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓2
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓3
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍4  
 

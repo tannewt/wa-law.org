@@ -18,6 +18,8 @@
 * 👍 Mahi Malladi
 * 👍 Mahi Malladi
 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍2  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍2  

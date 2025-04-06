@@ -25,6 +25,8 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+
 ## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 * 👍 Jacinda Steltjes
 

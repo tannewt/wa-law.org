@@ -8,9 +8,10 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Appropriations (APP): SB 5361 ASAM 4 treatment criteria
-#### 31 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Hoe Barrett - Key Recovery And Life Skills Center
+* Joe Barrett - Key Recovery And Life Skills Center
 
 #### 31 👎 - Con
 

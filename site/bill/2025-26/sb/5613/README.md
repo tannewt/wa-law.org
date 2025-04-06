@@ -15,20 +15,17 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5613 Residential development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166885&caId=26900&tId=4)
-
-#### 201 👍 - Pro
+#### 256 👍 - Pro
 Testifying:
 * 💵Adán Espino - Habitat for Humanity of WA
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 49 👎 - Con
+#### 171 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5613 Residential development
 #### 111 👍 - Pro

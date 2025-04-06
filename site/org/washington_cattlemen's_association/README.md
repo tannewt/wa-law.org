@@ -32,6 +32,8 @@
 ### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management 👍1  
 * 👍💵 Mark Streuli
 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+
 ### [SB 5384](/bill/2025-26/sb/5384/) - Riparian programs review 👍1  
 
 ### [SB 5482](/bill/2025-26/sb/5482/) - Use of dogs to hunt  👎2 

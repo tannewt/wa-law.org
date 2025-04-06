@@ -9,22 +9,20 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): SSB 5786 Liquor license fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166985&caId=26913&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166985&caId=26913&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166985&caId=26913&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166985&caId=26913&tId=4)
+#### 7 👍 - Pro
 
-#### 5 👍 - Pro
-
-#### 416 👎 - Con
+#### 802 👎 - Con
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * TaraLyn Fray
+* Jim Hedrick - Washington Distillers' Guild (Craft Distillers)
+* Charlie Brown - [Diageo](/org/diageo/)
 * Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Sean Dewitz
 
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): SB 5786 Liquor license fees
 #### 1 👍 - Pro

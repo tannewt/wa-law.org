@@ -13,19 +13,14 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): SHB 1472 Yakima & Rainier schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167056&caId=26933&tId=4)
-
-#### 60 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
 * 💵Shawn Latham - Self-Advocates in Leadership
+* Tracy Turner
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 189 👎 - Con
+#### 421 👎 - Con
 Testifying:
 * Terri Anderson - Action DD/Parent/Guardian
 * Brittany Barber - DEPT OF SOC & HLTH SRVS
@@ -37,8 +32,33 @@ Testifying:
 * Jack Morey
 * Chris Gard
 * Julie Schilling
+* Robert Heathcock
+* Jennie Peterson
+* Terry Carter
+* Susan C Anderson
+* Michelle Keaton
+* Glenn Anderson
+* Ashley Fueston
+* Mike Yestramski
+* Tazia Duncan
+* Marilee Nelson
+* JULIE GUSTAFSON
 * Micah Balasbas
+* Nick McDowell
+* Brooke Stegmeier
+* Kody Pomerenke
+* Sylena Wagner
 * Mark von Walter - Guardian advocate
+* Shaye Anderson
+* Wendy King
+* Jason Ostrer
+* Kimberly Ostrer
+* Jesus Perez
+* Marcia Alspaugh
+* John Goldade - Rainier Employee
+* Steve King
+* Jennifer Milton
+* Karen Chapman
 * Jeff Carter - Action DD
 * Ken & Tamra Jennings
 * Anton Grambihler
@@ -46,8 +66,12 @@ Testifying:
 * Paul Woodward
 * Pamlia Tallmadge - WFSE
 * Tara Dupont - morningside
+* Steven Yates - Citizen
+* Lisa Sauve
+* Kathleen Steyaert
+* Rick Sauve
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 03/19 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1472 Yakima & Rainier schools
 #### 282 👍 - Pro

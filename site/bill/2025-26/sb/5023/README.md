@@ -23,17 +23,11 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5023 Domestic workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166956&caId=26919&tId=4)
-
-#### 26 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 
-#### 13 👎 - Con
+#### 229 👎 - Con
 
 #### 0 ❓ - Other
 

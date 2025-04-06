@@ -10,15 +10,13 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5445 Local energy resilience
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166846&caId=26882&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166846&caId=26882&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166846&caId=26882&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166846&caId=26882&tId=4)
+#### 107 👍 - Pro
+Testifying:
+* 💵Nicolas Garcia - Washington State Public Utility District Association
+* Ryan Collins - Snohomish PUD
+* Sheila Corson - Mason PUD #3
 
-#### 62 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

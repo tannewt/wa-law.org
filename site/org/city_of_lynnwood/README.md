@@ -17,6 +17,8 @@
 * ❓ Karl Almgren
 * ❓ Karl Almgren
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  

@@ -21,17 +21,11 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5217 Pregnancy accommodations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166845&caId=26881&tId=4)
-
-#### 97 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * 💵Molly Firth - PEPS
 
-#### 70 👎 - Con
+#### 71 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

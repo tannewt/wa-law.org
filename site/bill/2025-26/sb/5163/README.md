@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): SSB 5163 Child fatalities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166958&caId=26921&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166958&caId=26921&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166958&caId=26921&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166958&caId=26921&tId=4)
-
-#### 7 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Jaime Bodden - WSALPHO
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

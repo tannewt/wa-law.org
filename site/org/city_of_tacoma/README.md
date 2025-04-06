@@ -15,7 +15,7 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍4  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
@@ -31,7 +31,7 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍3  
 

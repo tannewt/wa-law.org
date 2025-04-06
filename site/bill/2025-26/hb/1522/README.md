@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): ESHB 1522 Utility wildfire mitigation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166978&caId=26906&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166978&caId=26906&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166978&caId=26906&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166978&caId=26906&tId=4)
-
-#### 16 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * 💵John Rothlin - Avista Corporation

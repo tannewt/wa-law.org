@@ -13,17 +13,13 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5627 Safe excavation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166886&caId=26901&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166886&caId=26901&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166886&caId=26901&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166886&caId=26901&tId=4)
-
-#### 51 👍 - Pro
+#### 57 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Josie Cummings - Avista
 
 ### Tue 03/18 04:00 PM - Environment & Energy (ENVI): ESSB 5627 Safe excavation
 #### 60 👍 - Pro

@@ -14,18 +14,17 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): E2SHB 1912 Agricultural fuel/CCA ex.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166980&caId=26908&tId=4)
-
-#### 16 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * Ben Buchholz - NW Ag Cooperative Council
 * 💵Mark Streuli - WA Assoc of Wheat Growers, WA Potato and Onion Assoc, WA Cattlemen's Assoc
+* 💵David Ducharme - Washington State Tree Fruit Association
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* Mark Herke - Yakima Klickitat Farm Association
 
-#### 370 👎 - Con
+#### 501 👎 - Con
+Testifying:
+* Bre Elsey - WA Farm Bureau
 
 #### 2 ❓ - Other
 Testifying:

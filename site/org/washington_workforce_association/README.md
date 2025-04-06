@@ -6,7 +6,8 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍2  
 
-### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
+### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍3  
+* 👍💵 Amber Carter
 * 👍💵 Amber Carter
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1

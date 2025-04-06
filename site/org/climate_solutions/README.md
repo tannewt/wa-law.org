@@ -108,7 +108,8 @@
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+* 👍💵 Altinay Karasapan
 * 👍💵 Altinay Karasapan
 * 👍💵 Altinay Karasapan
 

@@ -43,7 +43,7 @@
 
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1 👎1 
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
 * 👍 Fred Felleman

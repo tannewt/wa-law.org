@@ -12,19 +12,15 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): SSB 5262 Insurance statutes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167058&caId=26935&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167058&caId=26935&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167058&caId=26935&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167058&caId=26935&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Dory Nicpon - Office of the Insurance Commissioner
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 
 ### Tue 03/25 01:30 PM - Consumer Protection & Business (CPB): SSB 5262 Insurance statutes
 #### 5 👍 - Pro

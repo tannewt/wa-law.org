@@ -23,20 +23,22 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5296 Juvenile offenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167061&caId=26938&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167061&caId=26938&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167061&caId=26938&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167061&caId=26938&tId=4)
-
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 * Katie Hurley - King County Department of Public Defense
 * 💵Karen Pillar - TeamChild
 
-#### 10 👎 - Con
+#### 128 👎 - Con
+Testifying:
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Chris Simonsmeier - Juvenile Court Administrator for Clark County
+* Judge Cindy Larsen - Superior Court Judge for Snohomish County
+* Linnea Anderson - Superior Court Services Administrator for San Juan County
 
 ### Tue 03/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): E2SSB 5296 Juvenile offenses
 #### 95 👍 - Pro

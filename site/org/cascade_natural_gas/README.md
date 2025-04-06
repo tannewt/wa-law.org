@@ -5,12 +5,14 @@
 
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎1 
 
-## [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation 👍1  
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
+## [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation 👍2  
 * 👍 Chris Bossard
 
 ## 2023-24
 
-### [SB 5627](/bill/2023-24/sb/5627/) - Safe excavation 👍1  
+### [SB 5627](/bill/2023-24/sb/5627/) - Safe excavation 👍2  
 * 👍 Chris Bossard
 
 ### [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks   ❓1

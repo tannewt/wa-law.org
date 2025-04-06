@@ -17,17 +17,16 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1503 Digital equity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166987&caId=26915&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166987&caId=26915&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166987&caId=26915&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166987&caId=26915&tId=4)
-
-#### 61 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - FMS Global Strategies/WBBA
+* 💵Amber Carter - [Washington Workforce Association](/org/washington_workforce_association/)
+* Erica Limón-Trefielo - Communities in Schools Washington
+* 💵Hanna Jones - Goodwill
+* Wendy Brzezny - Thriving Together NCW
+* Sai Samineni - Dream Investment Strategies Inc
 
-#### 419 👎 - Con
+#### 802 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Jill Williams

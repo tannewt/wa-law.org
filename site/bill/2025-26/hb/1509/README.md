@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): SHB 1509 Family reconciliation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166871&caId=26891&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166871&caId=26891&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166871&caId=26891&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166871&caId=26891&tId=4)
-
-#### 12 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵Casey Trupin - Raikes Foundation
 * Rachel Mathison - [Cocoon House](/org/cocoon_house/)
 * Kim Justice - Partners for Our Children
 
-#### 0 👎 - Con
+#### 19 👎 - Con
 
 #### 0 ❓ - Other
 

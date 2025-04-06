@@ -15,17 +15,13 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): E2SHB 1218 Competency eval. & restor.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=167051&caId=26929&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=167051&caId=26929&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=167051&caId=26929&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=167051&caId=26929&tId=4)
+#### 6 👍 - Pro
 
-#### 4 👍 - Pro
+#### 182 👎 - Con
 
-#### 12 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Thu 03/27 10:30 AM - Law & Justice (LAW): E2SHB 1218 Competency eval. & restor.
 #### 36 👍 - Pro

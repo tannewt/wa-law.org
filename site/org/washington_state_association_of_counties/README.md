@@ -119,7 +119,7 @@
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits   ❓1
 * ❓💵 Paul Jewell
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  ❓1
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍2  ❓1
 * ❓💵 Travis Dutton
 * 👍💵 Travis Dutton
 

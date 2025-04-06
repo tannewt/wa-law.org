@@ -21,18 +21,12 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1409 Clean fuels program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166865&caId=26885&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166865&caId=26885&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166865&caId=26885&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166865&caId=26885&tId=4)
-
-#### 178 👍 - Pro
+#### 347 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 
-#### 477 👎 - Con
+#### 816 👎 - Con
 Testifying:
 * 💵Jessica Spiegel - Jessica Spiegel
 * TaraLyn Fray

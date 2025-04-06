@@ -41,7 +41,7 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍4  
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍5  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -89,7 +89,7 @@
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules   ❓1
 * ❓💵 Heather Trim
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍5  
 
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍2  
 * 👍 Moji Igun

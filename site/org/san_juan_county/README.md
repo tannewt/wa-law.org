@@ -18,7 +18,7 @@
 
 ### [SB 5127](/bill/2025-26/sb/5127/) - Collector vehicle licenses 👍1  
 
-### [SB 5445](/bill/2025-26/sb/5445/) - Local energy resilience 👍1  
+### [SB 5445](/bill/2025-26/sb/5445/) - Local energy resilience 👍2  
 
 ## [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
 

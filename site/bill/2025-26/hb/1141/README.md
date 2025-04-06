@@ -17,21 +17,20 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): ESHB 1141 Ag. cannabis workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166981&caId=26909&tId=4)
-
-#### 17 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Dustin Lambro - UFCW 3000
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 * Peter Manning - Black Excellence in Cannabis
+* Mike Asai - Black Excellence In Cannabis
 
-#### 4 👎 - Con
+#### 130 👎 - Con
+Testifying:
+* 💵Ezra Eickmeyer - Producers NW
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): ESHB 1141 Ag. cannabis workers
 #### 129 👍 - Pro

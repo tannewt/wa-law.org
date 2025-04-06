@@ -54,6 +54,8 @@
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  

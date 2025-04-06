@@ -13,6 +13,10 @@
 * 👍💵 Nick Federici
 * 👍💵 Nick Federici
 
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+
 ## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 
 ## 2023-24

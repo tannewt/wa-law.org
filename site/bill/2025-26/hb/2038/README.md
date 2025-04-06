@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167054&caId=26931&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167054&caId=26931&tId=4)
 
-#### 88 👍 - Pro
+#### 155 👍 - Pro
 Testifying:
 * Apoorva Kancharla
 * Ashwika Mattam
@@ -26,9 +26,9 @@ Testifying:
 * Fatema Boxwala
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 
-#### 11 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Drew Johnson
 * Amy Bos
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

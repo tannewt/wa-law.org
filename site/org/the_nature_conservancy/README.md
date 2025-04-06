@@ -53,7 +53,7 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
-### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍2  ❓1
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍3  ❓1
 * ❓💵 David Mendoza
 
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  

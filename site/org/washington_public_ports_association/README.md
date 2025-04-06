@@ -44,9 +44,9 @@
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity   ❓1
 * ❓ Chris Herman
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍3  
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍4  
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍4  
 * 👍 Eric ffitch
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria   ❓1
@@ -54,7 +54,7 @@
 
 ### [HB 1573](/bill/2025-26/hb/1573/) - Oath of office timing/local 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 ❓1
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎3 ❓1
 * ❓💵 James Cockburn
 * 👎 Eric ffitch
 * 👎 Eric ffitch
@@ -150,7 +150,7 @@
 
 ### [SB 5464](/bill/2025-26/sb/5464/) - CDL federal standards 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
 

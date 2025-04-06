@@ -13,19 +13,13 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1975 Climate commitment act
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166867&caId=26887&tId=4)
-
-#### 15 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Jessica Spiegel - WSPA
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 428 👎 - Con
+#### 624 👎 - Con
 Testifying:
 * TaraLyn Fray
 

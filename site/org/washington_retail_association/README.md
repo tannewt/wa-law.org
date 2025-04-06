@@ -169,6 +169,9 @@
 ### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
 * 👎💵 Crystal Leatherman
 
+### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  

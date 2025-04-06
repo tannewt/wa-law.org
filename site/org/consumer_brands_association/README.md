@@ -8,12 +8,14 @@
 * 👎💵 Erin Raden
 * 👎 Holly Chisas
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
+* 👎💵 Holly Chisa
 * 👎💵 Holly Chisa
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management  👎1 
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management  👎2 
+* 👎💵 Holly Chisa
 * 👎💵 Holly Chisa
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2

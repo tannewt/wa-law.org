@@ -25,6 +25,8 @@
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍3  
 * 👍 Jeff Gombosky
 
+### [SB 5337](/bill/2025-26/sb/5337/) - Memory care services 👍1  
+
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍2  
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson

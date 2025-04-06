@@ -14,21 +14,23 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5360 Environmental crimes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167080&caId=26941&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167080&caId=26941&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167080&caId=26941&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167080&caId=26941&tId=4)
-
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Bill Sherman - WA State Attorney General's Office
 
-#### 99 👎 - Con
+#### 351 👎 - Con
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
+* Chris McCabe - [Northwest Pulp & Paper Association](/org/northwest_pulp_&_paper_association/)
+* 💵Bill Stauffacher - Building Industry Association Washington
+* 💵Joshua Estes - Association of Western Pulp and Paper Workers Union
+* 💵Michael Transue - WA Agggregates and Concrete Association
 * Jay Gordon - Washington State Dairy Federation
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Rowland Thompson - [Allied Daily Newspapers of Washington](/org/allied_daily_newspapers_of_washington/)
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
+* 💵Adán Espino - WA Defender Assn/WA Assn of Criminal Defense Lawyers
 
 #### 0 ❓ - Other
 

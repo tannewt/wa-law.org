@@ -17,6 +17,8 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
 
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
+
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info 👍2  

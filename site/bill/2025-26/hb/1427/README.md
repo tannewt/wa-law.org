@@ -10,11 +10,13 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1427 Peer support specialists
-#### 7 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * APRIL PROVOST - Washington Recovery Alliance and Snohomish County Recovery Coalition
+* Ashley Gaffney
+* Mary Williams - Washington Against Sexual Exploitation (WASE Forward)
 
-#### 0 👎 - Con
+#### 40 👎 - Con
 
 #### 1 ❓ - Other
 

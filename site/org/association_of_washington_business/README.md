@@ -391,7 +391,7 @@
 
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax  👎1 
 
-### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍1  
+### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍2  
 
 ### [HB 2024](/bill/2025-26/hb/2024/) - Primary residence/tax  👎1 
 
@@ -577,8 +577,9 @@
 ### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
 * 👍💵 Peter Godlewski
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 ❓1
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 ❓2
 * 👎💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
@@ -630,7 +631,7 @@
 
 ### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍1  
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding  👎2 
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding  👎3 
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
@@ -705,6 +706,8 @@
 ### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 
 ### [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
+
+### [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 

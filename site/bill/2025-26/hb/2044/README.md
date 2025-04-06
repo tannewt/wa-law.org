@@ -8,19 +8,27 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): HB 2044 Unexcused student absences
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166955&caId=26918&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166955&caId=26918&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166955&caId=26918&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166955&caId=26918&tId=4)
+#### 4 👍 - Pro
 
-#### 2 👍 - Pro
-
-#### 2 👎 - Con
+#### 152 👎 - Con
 Testifying:
+* Melody Edmiston - Citizen
+* Melody Edmiston - Citizen
+* Terrell Dorsey - terrelldorsey@utbteens.com
+* Melody Edmiston
+* Jennifer Tibbitts
 * William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
 * William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* Karen Chapman
 
-#### 1 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Commissioner Jonathon Lack - Superior Court Commissioner for King County
+* Judge Rachelle Anderson - Superior Court Judge for Spokane County
+* Judge Sam Chung - Superior Court Judge for King County
+* Christine Simonsmeier - Juvenile Court Administrator for Clark County
+* LInnea Anderson - Superior Court Services Administrator for San Juan County
+* Tori Peterson - Juvenile Court Administrator for Spokane County
+* Treesa Tudesque
+* Tara Rittenhouse - Concerned Citizen

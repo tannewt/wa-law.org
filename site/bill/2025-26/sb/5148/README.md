@@ -20,17 +20,17 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5148 GMA housing element
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166957&caId=26920&tId=4)
+#### 142 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 77 👍 - Pro
+#### 48 👎 - Con
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 15 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5148 GMA housing element
 #### 333 👍 - Pro

@@ -11,7 +11,7 @@
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 * 👍💵 Logan Bahr
 
-### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 ❓1
+### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation 👍1 👎1 ❓1
 * ❓💵 Logan Bahr
 
 ## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 

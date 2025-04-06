@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5291 Long-term services trust
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166960&caId=26923&tId=4)
-
-#### 165 👍 - Pro
+#### 184 👍 - Pro
 Testifying:
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
 * Ana Ascanio - We Care for WA Cares Coalition

@@ -27,24 +27,27 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5284 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=167060&caId=26937&tId=4)
-
-#### 98 👍 - Pro
+#### 330 👍 - Pro
 Testifying:
 * Amy Ockerlander - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 * 💵Kelsey Hulse - EPR Leadership Forum
 * Nora Nickum - Seattle Aquarium
+* Allison Kustic - The Association of Plastic Recyclers (APR)
+* 💵Edwin Borbon - AMERIPEN
 
-#### 29 👎 - Con
+#### 162 👎 - Con
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Holly Chisa - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Jay Balasbas - Sunshine Disposal and Recycling, Basin Disposal, Consolidated Disposal Services Inc.
+* 💵Lyset Cadena - WM
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* 💵Jennifer Ziegler - Sanitary Service Company
 * Wendy Weiker - [Republic Services](/org/republic_services/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Rick Vahl - Waste Connections
 
 #### 1 ❓ - Other
 Testifying:

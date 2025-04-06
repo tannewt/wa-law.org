@@ -15,27 +15,24 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5576 Affordable housing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166884&caId=26899&tId=4)
-
-#### 43 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Caitlin Sullivan
+* Emilie Robertson - Arch of wa
 * 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
 
-#### 437 👎 - Con
+#### 722 👎 - Con
 Testifying:
 * Richard Moser - WHCA
 * Allison Moser - WHCA
 * Chris Mefford
 * TaraLyn Fray
 * Sean Lynn - Love Leavenworth Vacation Rentals
+* Halle McElrea
 * Sandra Mochizuki
 
 #### 0 ❓ - Other

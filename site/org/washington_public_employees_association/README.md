@@ -8,7 +8,7 @@
 
 ### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
 
-### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍2  
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
@@ -30,7 +30,7 @@
 
 ### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍2  
 * 👍 Joey Hicklin
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  

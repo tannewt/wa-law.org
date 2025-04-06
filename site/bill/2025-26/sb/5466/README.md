@@ -14,20 +14,23 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5466 Electric transmission system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166882&caId=26897&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166882&caId=26897&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166882&caId=26897&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166882&caId=26897&tId=4)
+#### 168 👍 - Pro
+Testifying:
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
+* Casey MacLean - Renewable NW
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
+* 💵Matthew Hepner - Certified Electrical Workers of WA
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 107 👍 - Pro
-
-#### 435 👎 - Con
+#### 654 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Council Jeremy Takala - Yakama Nation Tribal Council
 
 ### Mon 03/17 01:30 PM - Environment & Energy (ENVI): ESSB 5466 Electric transmission system
 #### 373 👍 - Pro

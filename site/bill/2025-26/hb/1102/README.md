@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): E2SHB 1102 Veteran support and services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166872&caId=26892&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166872&caId=26892&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166872&caId=26892&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166872&caId=26892&tId=4)
-
-#### 7 👍 - Pro
+#### 76 👍 - Pro
 
 #### 0 👎 - Con
 

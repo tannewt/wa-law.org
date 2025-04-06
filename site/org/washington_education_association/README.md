@@ -282,7 +282,7 @@
 
 ### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
 
-### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍1  
+### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍2  
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
 

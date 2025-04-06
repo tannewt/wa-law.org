@@ -13,17 +13,15 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5009 Student transp. vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166952&caId=26904&tId=4)
-
-#### 37 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Charlie Brown - South Sound Superintendents
+* Robert Maxwell - Superintendent  Bob Maxwell Pullman Public Schools
+* 💵Marie Sullivan - Eastern Washington Schools Quality Coalition
+* Brian Freeman - Inchelium School District #70
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

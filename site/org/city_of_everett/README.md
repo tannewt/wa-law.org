@@ -29,7 +29,7 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -52,7 +52,7 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍 Jennifer Gregerson
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 * 👍 Jennifer Gregerson
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
@@ -67,6 +67,8 @@
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍 Jennifer Gregerson
 
@@ -80,7 +82,7 @@
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
 
-### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍3  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 

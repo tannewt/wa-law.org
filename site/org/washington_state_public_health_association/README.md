@@ -86,7 +86,7 @@
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
-### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
+### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍2  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Amy Brackenbury

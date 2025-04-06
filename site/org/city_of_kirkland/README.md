@@ -37,7 +37,7 @@
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
-### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍2  
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓2
 * ❓ Jenna McInnis
@@ -72,6 +72,8 @@
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
@@ -88,11 +90,13 @@
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍2  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
@@ -106,6 +110,8 @@
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
 ### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
 

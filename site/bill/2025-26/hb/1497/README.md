@@ -14,11 +14,18 @@
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1497 Waste material management
-#### 188 👍 - Pro
+#### 355 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Nick Streuli - [Washington Refuse & Recycling Association](/org/washington_refuse_&_recycling_association/)
 
-#### 1 👎 - Con
+#### 688 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Kendall Harrison
+* David Dowell
+* Julie Dowell
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

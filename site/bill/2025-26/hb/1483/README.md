@@ -25,7 +25,7 @@ Testifying:
 * Eduard Sinelnikov
 * Antoni Plocica
 * Steven Bock - Computer Programmer / Digital Rights Advocate
-* Khalid Pagan - Lenovo US
+* 💵Khalid Pagan - Lenovo US
 * Steven Rhine - Rhine Labs
 * 💵Charlie Fisher - Public Interest Research Group
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)

@@ -14,18 +14,13 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5686 Foreclosure mediation prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166888&caId=26903&tId=4)
-
-#### 103 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * 💵Melissa Johnson - WA Homeownership Resource Center/Parkview Services
 * Raelene Schifano
+* 💵Paula Sardinas - FMSGS/WBBA
 
-#### 9 👎 - Con
+#### 199 👎 - Con
 
 #### 1 ❓ - Other
 

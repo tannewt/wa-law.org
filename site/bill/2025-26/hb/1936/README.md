@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): HB 1936 Schools/postretirement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166869&caId=26889&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166869&caId=26889&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166869&caId=26889&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166869&caId=26889&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 * Jim Kowalkowski - Rural Education Center
 * Jim Kowalkowski - Rural Education Center
+* 💵Marie Sullivan - Eastern Washington Schools Quality Coalition
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

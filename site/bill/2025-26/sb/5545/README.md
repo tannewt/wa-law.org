@@ -13,15 +13,9 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): SSB 5545 Family home prov./military
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166883&caId=26898&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166883&caId=26898&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166883&caId=26898&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33249&aId=166883&caId=26898&tId=4)
+#### 42 👍 - Pro
 
-#### 4 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

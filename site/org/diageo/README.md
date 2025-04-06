@@ -18,10 +18,12 @@
 ### [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages 👍1  
 * 👍 Charlie Brown
 
-## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
+## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎2 
+* 👎 Charlie Brown
 * 👎 Charlie Brown
 
 ## 2023-24
 
-## [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎1 
+## [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎2 
+* 👎 Charlie Brown
 * 👎 Charlie Brown

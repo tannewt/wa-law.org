@@ -7,7 +7,7 @@
 
 ### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
 
-### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍3  
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍5  
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍3  
 * 👍💵 Aaron Dickson

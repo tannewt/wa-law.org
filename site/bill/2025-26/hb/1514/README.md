@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1514 Low carbon thermal energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33217&aId=166979&caId=26907&tId=4)
-
-#### 93 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Katie Whittier - [Port of Bellingham](/org/port_of_bellingham/)
 
