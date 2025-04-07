@@ -147,7 +147,8 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎2 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ### [SB 5330](/bill/2025-26/sb/5330/) - Spiked drink testing  👎1 

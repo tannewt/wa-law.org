@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5752/</link>
 		<description>Updates about SB 5752</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 04:34:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 15:45:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -298,6 +298,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2025-04-04 04:34:10</guid>
+		</item>
+		<item>
+			<title>Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA</title>
+			<description>News article "Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 07 Apr 2025 15:45:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205752</guid>
 		</item>
 	</channel>
 </rss>

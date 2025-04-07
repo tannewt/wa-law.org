@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): HB 2048 Leadership board

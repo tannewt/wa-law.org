@@ -57,6 +57,8 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Jake Garcia
 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+
 ### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍1  
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  

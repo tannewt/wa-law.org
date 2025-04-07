@@ -56,7 +56,7 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍5  
 
-### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
+### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍2  
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
 

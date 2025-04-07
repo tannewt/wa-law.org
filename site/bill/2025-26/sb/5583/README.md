@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/07/2025 [The Center Square](/org/the_center_square/) - [Proposed fee hike may push hunting, fishing out of reach for WA families | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_be8d9d00-e528-4d99-a9a5-bceab1f52ff9.html#:~:text=Senate%20Bill%205583)
 * 03/28/2025 [KIRO7](/org/kiro7/) - [Hunting and fishing licenses in the state may be going up significantly – KIRO 7 News Seattle](https://www.kiro7.com/news/local/hunting-fishing-licenses-state-may-be-going-up-significantly/SOJ4D2NAWRDFFPDPR32JSUJA5U/#:~:text=Senate%20Bill%205583,)
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205583)
 

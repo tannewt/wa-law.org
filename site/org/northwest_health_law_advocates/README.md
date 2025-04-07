@@ -49,9 +49,13 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 * 👍💵 Emily Brice

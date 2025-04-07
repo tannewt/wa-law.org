@@ -166,8 +166,12 @@
 ### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍3  
 * 👍💵 Mark Johnson
 
-### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
+### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎2 
 * 👎💵 Crystal Leatherman
+* 👎💵 Crystal Leatherman
+
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc.   ❓1
+* ❓💵 Crystal Leatherman
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 * 👎💵 Crystal Leatherman

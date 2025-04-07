@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205167)
+* 04/05/2025 [House Republicans](/org/house_republicans/) - [The budget debates | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-budget-debates/#:~:text=legislation)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205167)
 * 03/24/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Senate unveils nearly $80B budget with tax hikes for the wealthy and big corporations](https://mynorthwest.com/mynorthwest-politics/washington-budget-2/4067182#:~:text=Proposed%20Substitute%20Senate%20Bill%20(PSSB)%205167)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=Senate%20Bill%205167)

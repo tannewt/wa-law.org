@@ -12,6 +12,24 @@
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=HB%202033)
 
 ## Meetings
+### Mon 04/07 01:30 PM - Appropriations (APP): HB 2033 Nicotine product taxation
+#### 13 👍 - Pro
+Testifying:
+* Audrey Miller Garcia
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+
+#### 184 👎 - Con
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Doug Ball - Jacksons Food Stores
+* 💵Sara Stewart
+
+#### 1 ❓ - Other
+Testifying:
+* Lindsey Stroud - Tobacco Harm Reduction 101
+
 ### Thu 03/20 01:30 PM - Finance (FIN): HB 2033 Nicotine product taxation
 #### 32 👍 - Pro
 Testifying:

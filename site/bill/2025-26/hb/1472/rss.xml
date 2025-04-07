@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1472/</link>
 		<description>Updates about HB 1472</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 05 Apr 2025 07:37:38 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 05 Apr 2025 07:54:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1025,6 +1025,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Rick/Sauve/2025-04-05 07:37:38</guid>
+		</item>
+		<item>
+			<title>👍Krista Milhofer - Program Administrator People First of Washington</title>
+			<description>Krista Milhofer signed up to testify Pro. They are signed up to represent Program Administrator People First of Washington.</description>
+			<pubDate>Sat, 05 Apr 2025 07:54:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Krista/Milhofer/2025-04-05 07:54:46</guid>
 		</item>
 	</channel>
 </rss>

@@ -395,10 +395,14 @@
 
 ### [HB 2024](/bill/2025-26/hb/2024/) - Primary residence/tax  👎1 
 
-### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
+### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎2 
+* 👎 Max Martin
 * 👎 Max Martin
 
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
+
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc.  👎1 
+* 👎 Max Martin
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources   ❓1
 
@@ -409,6 +413,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding  👎1 
 * 👎 Max Martin
+
+### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 

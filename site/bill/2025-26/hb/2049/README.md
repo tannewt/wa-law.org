@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/07/2025 [Axios](/org/axios/) - [WA budget fix could raise property taxes - Axios Seattle](https://www.axios.com/local/seattle/2025/04/07/washington-property-tax-cap#:~:text=House's%20proposal)
 * 04/03/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee considers three major tax increase proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60e89042-e837-4280-a88a-fd1b32ff4bcf.html#:~:text=House%20Bill%202049)
 * 04/01/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington Democrats divided on school funding plans | Cascadia Daily News](https://www.cascadiadaily.com/2025/apr/01/washington-democrats-divided-on-school-funding-plans/#:~:text=The%20legislation)
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202049)

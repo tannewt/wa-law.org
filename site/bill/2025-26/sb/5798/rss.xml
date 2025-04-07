@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5798/</link>
 		<description>Updates about SB 5798</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 13:04:57 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 13:20:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2664,6 +2664,13 @@
 			<pubDate>Fri, 04 Apr 2025 13:04:57 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-say-gov-ferguson-draws-line-sand/#:~:text=Senate%20Bill%205798</guid>
+		</item>
+		<item>
+			<title>WA budget fix could raise property taxes - Axios Seattle</title>
+			<description>News article "WA budget fix could raise property taxes - Axios Seattle" from Axios.</description>
+			<pubDate>Mon, 07 Apr 2025 13:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/04/07/washington-property-tax-cap#:~:text=state%20Senate's%20plan</guid>
 		</item>
 	</channel>
 </rss>

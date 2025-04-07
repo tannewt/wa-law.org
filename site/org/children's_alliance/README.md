@@ -27,8 +27,9 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍2  
 * 👍 Stephan Blanford
+* 👍💵 Reid Saaris
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍4  
 

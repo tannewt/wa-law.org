@@ -14,6 +14,8 @@
 
 ### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation  👎1 
 
+### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 
 ## [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users 👍1  

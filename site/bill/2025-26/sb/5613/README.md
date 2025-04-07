@@ -22,10 +22,11 @@ Testifying:
 
 #### 171 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Curtis Steinhauer - Washington Association of Counties
 
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5613 Residential development
 #### 111 👍 - Pro

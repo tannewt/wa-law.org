@@ -295,6 +295,9 @@
 
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+* 👍💵 Simone Boe
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍3  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍3  

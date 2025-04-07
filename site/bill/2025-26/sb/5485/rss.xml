@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5485/</link>
 		<description>Updates about SB 5485</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 03 Apr 2025 08:02:54 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 05 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -118,6 +118,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Brennan/Kimbel/2025-04-03 08:02:54</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-05/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

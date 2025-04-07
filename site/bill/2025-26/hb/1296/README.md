@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESHB%201296)
 * 03/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats split parental and student rights issues into separate bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/28/democrats-in-wa-legislature-shift-approach-to-parental-and-students-rights-bills/#:~:text=House%20Bill%201296)
 * 03/25/2025 [MyNorthwest](/org/mynorthwest/) - [Tim Eyman: Parents no longer No. 1 as House Bill 1296 reverses hard-won rights](https://mynorthwest.com/jason-rantz/eyman-parents-house-bill-1296/4067629#:~:text=House%20Bill%201296)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESHB%201296)

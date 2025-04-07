@@ -20,6 +20,8 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
 ## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202050)
+
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): HB 2050 K-12 savings & efficiencies
 #### 16 👍 - Pro

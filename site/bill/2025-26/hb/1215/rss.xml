@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1215/</link>
 		<description>Updates about HB 1215</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 02 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -201,6 +201,13 @@
 			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-02/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

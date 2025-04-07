@@ -18,7 +18,8 @@
 * 👍 Mahi Malladi
 * 👍 Mahi Malladi
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍2  
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍3  
+* 👍💵 Chetan Soni
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 

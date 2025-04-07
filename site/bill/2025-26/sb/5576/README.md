@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/07/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Two radically different approaches to short-term rentals | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_35c7e6d5-1bdd-4073-9046-da801c2f66c7.html#:~:text=Senate%20Bill%205576)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205576)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Town Hall coming up on Saturday! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/03/12/lizs-loveletter-town-hall-coming-up-on-saturday/#:~:text=SB%205576)
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205576)

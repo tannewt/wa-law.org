@@ -10,15 +10,13 @@
 
 ## Meetings
 ### Mon 04/07 09:00 AM - Capital Budget (CB): ESSB 5303 Yakima basin water plan
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33294&aId=167049&caId=26928&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33294&aId=167049&caId=26928&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33294&aId=167049&caId=26928&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33294&aId=167049&caId=26928&tId=4)
+#### 123 👍 - Pro
+Testifying:
+* Brandon Parsons - American Rivers
+* Joe Blodgett - Yakama Nation
+* Urban Eberhart - [Kittitas Reclamation District](/org/kittitas_reclamation_district/)
 
-#### 10 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

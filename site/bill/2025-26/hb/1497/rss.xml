@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1497/</link>
 		<description>Updates about HB 1497</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 03 Apr 2025 11:59:24 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 15:45:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -392,6 +392,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-04-03 11:59:24</guid>
+		</item>
+		<item>
+			<title>Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA</title>
+			<description>News article "Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 07 Apr 2025 15:45:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=2SHB%201497</guid>
 		</item>
 	</channel>
 </rss>

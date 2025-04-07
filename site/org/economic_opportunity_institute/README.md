@@ -62,7 +62,7 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Sam Hatzenbeler
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
 * ❓ Sam Hatzenbeler

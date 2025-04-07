@@ -12,6 +12,24 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205292)
 
 ## Meetings
+### Mon 04/07 01:30 PM - Appropriations (APP): SSB 5292 Family & medical leave rates
+#### 20 👍 - Pro
+Testifying:
+* 💵Maggie Humphreys - MomsRising
+* Sam Grad
+
+#### 196 👎 - Con
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Katie Beeson - Washington Food Industry Association
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Elizabeth New - Washington Policy Center
+* 💵Rose Gundersen - WA Retail Association
+* 💵Morgan Irwin - AWB
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5292 Family & medical leave rates
 #### 10 👍 - Pro
 Testifying:

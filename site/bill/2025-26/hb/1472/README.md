@@ -13,12 +13,13 @@
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): SHB 1472 Yakima & Rainier schools
-#### 120 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
 * 💵Shawn Latham - Self-Advocates in Leadership
 * Tracy Turner
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* Krista Milhofer - Program Administrator People First of Washington
 
 #### 421 👎 - Con
 Testifying:

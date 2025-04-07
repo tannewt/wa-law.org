@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5390/</link>
 		<description>Updates about SB 5390</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 03 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 19:13:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -400,6 +400,20 @@
 			<pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-03/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-03/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Lawmakers advance bill to raise price of Discover Pass – KIRO 7 News Seattle</title>
+			<description>News article "Lawmakers advance bill to raise price of Discover Pass – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Mon, 07 Apr 2025 19:13:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/lawmakers-advance-bill-raise-price-discover-pass/U32MQCLVWJA5BM6N3OGIF4ERMU/#:~:text=Senate%20Bill%205390.</guid>
 		</item>
 	</channel>
 </rss>

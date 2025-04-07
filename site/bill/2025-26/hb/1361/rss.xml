@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1361/</link>
 		<description>Updates about HB 1361</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,13 @@
 			<pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-04/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/President signed.</guid>
 		</item>
 	</channel>
 </rss>

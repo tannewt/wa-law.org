@@ -41,6 +41,8 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍1  
 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  

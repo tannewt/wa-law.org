@@ -69,16 +69,21 @@
 
 ### [HB 1932](/bill/2025-26/hb/1932/) - Cannabis consumption  👎1 
 
-### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation 👍1  
+### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation 👍2  
 * 👍 Megan Moore
 
 ### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis   ❓1
+
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
+* 👍 Megan Moore
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 

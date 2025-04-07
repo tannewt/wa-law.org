@@ -9,6 +9,8 @@
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
+### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
 * 👎💵 Dorothy Miller
 

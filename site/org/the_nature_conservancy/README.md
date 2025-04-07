@@ -86,7 +86,7 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
-### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍2  
+### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍3  
 
 ### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍1  
 

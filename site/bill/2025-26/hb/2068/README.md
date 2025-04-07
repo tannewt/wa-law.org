@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202068)
 * 04/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Proposed ban on flavored tobacco products is revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/01/proposed-ban-on-flavored-vapes-revived-in-wa-legislature/#:~:text=House%20Bill%202068)
 
 ## Meetings
 ### Mon 04/07 10:00 AM - Finance (FIN): HB 2068 Tobacco & nicotine products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167055&caId=26932&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167055&caId=26932&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167055&caId=26932&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167055&caId=26932&tId=4)
-
-#### 83 👍 - Pro
+#### 245 👍 - Pro
 Testifying:
 * GREGORY SMITH
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
@@ -28,8 +23,26 @@ Testifying:
 * Emma Bochan
 * Maria Boyko
 * Michael Gapper
+* Sherry Phay
+* Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* April Keim - PAVe
+* Kara Hurvitz - National LGBTQI+ Cancer Network
+* Lelach Rave - Washington Chapter of the American Academy of Pediatrics
+* Sheley Seacrest - NAACP Washington
+* Annie Tegan - [Campaign for Tobacco Free Kids](/org/campaign_for_tobacco_free_kids/)
+* 💵Casey Brown - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Jamie Bodden - WA State Association of Local Public Health Officials
+* Crystal Dr. Chen - Washington Chapter of the American Academy of Pediatrics
+* Crystal Dr. Shen - Washington Chapter of the American Academy of Pediatrics
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Caleb Rotchstein - Tacoma Mayor's Youth Commission
+* Janet Bradshaw
+* Jayce Hartman - Tacoma Mayor's Youth Commission, Tacoma’s All City Senate
+* Rowen Higley - Tacoma Mayor's Youth Commission
+* Addison Sabatini - Invictus Fitness Seattle
+* Emerson Weber
 
-#### 107 👎 - Con
+#### 722 👎 - Con
 Testifying:
 * Drew Johnson
 * 💵Sara Stewart - Washington Smoke Free Association
@@ -45,6 +58,11 @@ Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Amy Phan
 * Ben Buchholz - Vapor Technology Association
+* Yujin Ghim - Korean American Grocers Association of Washington
+* Art Way
+* Thomas Eshleman - Doyles Sheehan
+* Sandra Mochizuki
+* Sharon Braxton
 
 #### 4 ❓ - Other
 Testifying:

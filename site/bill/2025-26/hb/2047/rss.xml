@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2047/</link>
 		<description>Updates about HB 2047</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 03 Apr 2025 11:53:51 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 05 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -118,6 +118,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Evan/Price/2025-04-03 11:53:51</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-05/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5358/</link>
 		<description>Updates about SB 5358</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 02 Apr 2025 09:06:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -172,6 +172,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Misha/Cherniske/2025-04-02 09:06:48</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-04/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

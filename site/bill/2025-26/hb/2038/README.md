@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202038)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202038)
 
 ## Meetings
 ### Mon 04/07 10:00 AM - Finance (FIN): HB 2038 Youth behavioral health acc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167054&caId=26931&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167054&caId=26931&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167054&caId=26931&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33273&aId=167054&caId=26931&tId=4)
-
-#### 155 👍 - Pro
+#### 212 👍 - Pro
 Testifying:
 * Apoorva Kancharla
 * Ashwika Mattam
@@ -25,10 +20,32 @@ Testifying:
 * 💵Emma Scalzo
 * Fatema Boxwala
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* Rachel Burke
+* Iyas Abdel Rahman
+* Nathan Guan
+* Zachary McKay
+* Kashi Arora - Seattle Children's
+* Kim Justice - Partners for Our Children
+* 💵Reid Saaris - [Children's Alliance](/org/children's_alliance/)
+* Taj Jensen
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Sarah Rafton
+* Aaron Ping
+* 💵Chetan Soni - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Katie Rudek - Kooth
+* Lelach Rave - WCAAP
 
-#### 17 👎 - Con
+#### 747 👎 - Con
 Testifying:
 * Drew Johnson
 * Amy Bos
+* Jeremiah London
+* Kenneth Leisher
+* Doug Miller
+* 💵Rose Feliciano - TechNet
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Sandra Mochizuki
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)

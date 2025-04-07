@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/04/2025 [Cascade PBS](/org/cascade_pbs/) - [WA cultural orgs face $10M in cuts from Trump administration | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-cultural-orgs-face-10m-cuts-trump-administration#:~:text=Senate%20Bill%205469)
 * 04/04/2025 [Cascade PBS](/org/cascade_pbs/) - [WA sues tech company, landlords, alleging rent price-fixing | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-sues-tech-company-landlords-alleging-rent-price-fixing#:~:text=Senate%20Bill%205469)
 * 04/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington AG takes software company to court over rental price-fixing allegations • Washington State Standard](https://washingtonstatestandard.com/2025/04/03/washington-ag-takes-software-company-to-court-over-rental-price-fixing-allegations/#:~:text=Senate%20Bill%205469)
 * 04/01/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson rejects Democrats’ budget proposals with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/gov-ferguson-rejects-democrats-budget-proposals-new-taxes#:~:text=Senate%20Bill%205469)

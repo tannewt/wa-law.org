@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/05/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall report - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/05/town-hall-report/#:~:text=Senate%20Bill%205051)
+
 ## Meetings
 ### Fri 03/14 08:00 AM - Health Care & Wellness (HCW): SB 5051 Nursing assistant regulation
 #### 11 👍 - Pro

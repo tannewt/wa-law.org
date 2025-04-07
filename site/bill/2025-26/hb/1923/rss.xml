@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1923/</link>
 		<description>Updates about HB 1923</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Mar 2025 12:31:10 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -515,6 +515,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Eric/ffitch/2025-03-17 12:31:10</guid>
+		</item>
+		<item>
+			<title>House Transportation Budget includes $1.9B in ferry funding and Kitsap infrastructure wins – Washington State House Democrats</title>
+			<description>News article "House Transportation Budget includes $1.9B in ferry funding and Kitsap infrastructure wins – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/04/house-transportation-budget-includes-1-9b-in-ferry-funding-and-kitsap-infrastructure-wins/#:~:text=Mosquito%20Fleet%20Act%20(HB%201923)</guid>
 		</item>
 	</channel>
 </rss>

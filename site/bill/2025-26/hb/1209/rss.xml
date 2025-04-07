@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1209/</link>
 		<description>Updates about HB 1209</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 02 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Apr 2025 13:32:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -210,6 +210,13 @@
 			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-02/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Washington bans sale of concentrated sodium nitrite over suicide concern | king5.com</title>
+			<description>News article "Washington bans sale of concentrated sodium nitrite over suicide concern | king5.com" from KING5.</description>
+			<pubDate>Mon, 07 Apr 2025 13:32:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/investigations/investigators/washington-bans-sodium-nitrite-suicides/281-0254830c-edfb-4972-b344-8f640f7887eb#:~:text=House%20Bill%201209</guid>
 		</item>
 	</channel>
 </rss>
