@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 04/08/2025 [FOX13](/org/fox13/) - [WA bill to exclude juvenile facilities from prison riot laws | FOX 13 Seattle](https://www.fox13seattle.com/news/juvenile-facilities-prison-riot-laws#:~:text=House%20Bill%201815)
+
 ## Meetings
 ### Wed 03/19 08:00 AM - Human Services (HS): ESHB 1815 Prison riot offenses
 #### 138 👍 - Pro

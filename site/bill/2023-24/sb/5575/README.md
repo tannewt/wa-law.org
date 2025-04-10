@@ -15,7 +15,7 @@ Testifying:
 * Robert Driskell - Teamsters
 * Russell Shjerven - Teamsters
 * Kenneth price - ATU 587 President
-* Jeremy Une - ATULC
+* 💵Jeremy Une - ATULC
 * Rhonda Bowers - ATU 1015
 
 #### 4 👎 - Con

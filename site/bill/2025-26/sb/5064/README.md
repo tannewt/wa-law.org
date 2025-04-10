@@ -11,7 +11,7 @@
 ### Mon 02/10 04:00 PM - Ways & Means (WM): SSB 5064 Rare diseases adv. council
 #### 84 👍 - Pro
 Testifying:
-* Lindsey Viscarra - National Organization for Rare Disorders
+* 💵Lindsey Viscarra - [National Organization for Rare Disorders](/org/national_organization_for_rare_disorders/)
 * Mary McDirmid - NW Rare Disease Coalition
 * Michelle O'Dell
 
@@ -23,7 +23,7 @@ Testifying:
 #### 37 👍 - Pro
 Testifying:
 * Gail Jarvik - University of Washington Medical Center
-* Lindsey Viscarra - National Organization for Rare Disorders
+* 💵Lindsey Viscarra - [National Organization for Rare Disorders](/org/national_organization_for_rare_disorders/)
 * Sarah Tompkins - NW Rare Disease Coalition
 * Whitney Stohr - Kids Rise Fund
 

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=restricted%20the%20use%20of%20artificial%20intelligence)
+
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5395 Prior authorization/health
 #### 419 👍 - Pro

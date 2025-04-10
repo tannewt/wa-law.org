@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1359/</link>
 		<description>Updates about HB 1359</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 09:52:04 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -307,6 +307,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michael/Transue/2025-04-04 09:52:04</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

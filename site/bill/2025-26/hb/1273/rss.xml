@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1273/</link>
 		<description>Updates about HB 1273</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 15:45:16 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -349,11 +349,25 @@
 			<guid isPermaLink="false">testifier/Apoorva/Kancharla/2025-04-03 05:55:45</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA</title>
 			<description>News article "Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA" from Washington St Pta.</description>
 			<pubDate>Mon, 07 Apr 2025 15:45:16 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=2SHB%201273</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-09/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

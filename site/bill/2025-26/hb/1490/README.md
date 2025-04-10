@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 02/05 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1490 Background checks

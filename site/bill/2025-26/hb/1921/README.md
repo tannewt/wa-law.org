@@ -49,8 +49,8 @@ Testifying:
 * Ashley Probart - Transportation Improvement Board
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
-* Jeremy Une
-* Jeremy Une
+* 💵Jeremy Une
+* 💵Jeremy Une
 * 💵Justin Leighton - Washington State Transit Association
 * Danny Vandine
 * 💵Michael Transue - Tacoma Pierce County Chamber

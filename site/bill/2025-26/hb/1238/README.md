@@ -12,7 +12,7 @@
 #### 53 👍 - Pro
 Testifying:
 * Fuki Marie Hisama MD - University of Washington School of Medicine
-* Lindsey Viscarra - National Organization for Rare Disorders (NORD)
+* 💵Lindsey Viscarra - National Organization for Rare Disorders (NORD)
 * Mary McDirmid - NW Rare Disease Coalition
 * Sarah Tompkins
 * Mary McDirmid - NW Rare Disease Coalition

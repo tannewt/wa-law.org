@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/09/2025 [KIRO7](/org/kiro7/) - [Swiping left or right on a dating app could soon cost money with new tax – KIRO 7 News Seattle](https://www.kiro7.com/news/local/swiping-left-or-right-adating-app-could-soon-cost-money-with-new-tax/DSUWZXCLKNH4JG2RTFNSY5AXDE/#:~:text=HB%201169)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201169)
 * 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201169)
 * 05/26/2023 [KUOW](/org/kuow/) - [KUOW - New Washington state laws give debt relief to people exiting prison](https://www.kuow.org/stories/new-washington-laws-give-debt-relief-to-people-exiting-prison#:~:text=HB%201169)

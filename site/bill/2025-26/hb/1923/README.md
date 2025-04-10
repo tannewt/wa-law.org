@@ -75,7 +75,7 @@ Testifying:
 * Rick Hughes - Ray’s Pharmacy - Orcas Island, WA
 * Waylon Robert - Sailors' Union of the Pacific
 * Jared Moravec - Bainbridge Island Fire Department
-* Jeremy Une
+* 💵Jeremy Une
 * Curt Gordon - Port of South Whidbey, Commissioner
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 

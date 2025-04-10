@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/07/2025 [House Democrats](/org/house_democrats/) - [Rep. Parshley: Helping car dealership protect their stock is good for consumers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/07/42/#:~:text=HB%201688)

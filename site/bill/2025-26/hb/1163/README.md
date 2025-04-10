@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201163)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=E2SHB%201163)
 * 03/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington AG backs gun permit bill as it advances in state Senate • Washington State Standard](https://washingtonstatestandard.com/2025/03/27/washington-ag-backs-gun-permit-bill-as-it-advances-in-state-senate/#:~:text=House%20Bill%201163)
 * 03/27/2025 [The Center Square](/org/the_center_square/) - [WATCH: Permit-to-purchase gun bill clears another hurdle in WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_75863a86-3af2-473a-9313-5bc6b5128ace.html#:~:text=House%20Bill%201163)

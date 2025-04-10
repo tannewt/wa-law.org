@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/09/2025 [FOX13](/org/fox13/) - [WA lawmakers debate raising property taxes to bring in more money | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmakers-raising-property-taxes#:~:text=Senate%20Bill%205798)
+* 04/09/2025 [The Center Square](/org/the_center_square/) - [Senate Republicans: WA property taxes will skyrocket under bill to remove annual cap | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68148e26-5f20-4a9b-b4fc-f9d2b64f7db4.html#:~:text=Senate%20Bill%205798)
+* 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=B%205798)
+* 04/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH - Special Edition: Strong opposition from Senators and average Washingtonians against property tax increase - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-special-edition-strong-opposition-senators-average-washingtonians-property-tax-increase/#:~:text=Senate%20Bill%205798,)
+* 04/08/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans to hold news conference to stop Senate Bill 5798 - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-hold-news-conference-stop-senate-bill-5798/#:~:text=Senate%20Bill%205798)
 * 04/07/2025 [Axios](/org/axios/) - [WA budget fix could raise property taxes - Axios Seattle](https://www.axios.com/local/seattle/2025/04/07/washington-property-tax-cap#:~:text=state%20Senate's%20plan)
 * 04/04/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Say what? Gov. Ferguson draws a line in the sand - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-say-gov-ferguson-draws-line-sand/#:~:text=Senate%20Bill%205798)
 * 03/31/2025 [The Stranger](/org/the_stranger/) - [Slog AM: Shooting at Rainier Beach Night Club, France Bars Marine Le Pen from Election, Israel Killed and Buried 15 Aide Workers in Mass Grave - The Stranger](https://www.thestranger.com/slog-am/2025/03/31/79992102/slog-am-shooting-at-rainier-beach-night-club-france-bars-marine-le-pen-from-election-israel-killed-and-buried-15-aide-workers-in-mass-grave#:~:text=lift)

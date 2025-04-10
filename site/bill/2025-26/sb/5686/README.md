@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=provide%20more%20foreclosure%20protections)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Orwall bill expanding Foreclosure Fairness Act - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/03/07/senate-passes-orwall-bill-expanding-foreclosure-fairness-act/#:~:text=here)
 
 ## Meetings

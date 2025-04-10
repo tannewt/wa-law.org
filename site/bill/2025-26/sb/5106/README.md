@@ -9,6 +9,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/10/2025 [Washington State Standard](/org/washington_state_standard/) - [New Washington law recognizes two Islamic holidays • Washington State Standard](https://washingtonstatestandard.com/2025/04/09/new-washington-law-recognizes-two-islamic-holidays/#:~:text=Senate%20Bill%205106)
+* 04/08/2025 [House Democrats](/org/house_democrats/) - [Gov. Ferguson Signs Bill Officially Recognizing Eid Holidays – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/08/gov-ferguson-signs-bill-officially-recognizing-eid-holidays/#:~:text=Senate%20Bill%205106)
 * 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=Senate%20Bill%205106)
 * 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers consider bills to recognize two Muslim holidays • Washington State Standard](https://washingtonstatestandard.com/2025/02/11/washington-lawmakers-consider-bills-to-recognize-two-muslim-holidays/#:~:text=Senate%20Bill%205106)
 

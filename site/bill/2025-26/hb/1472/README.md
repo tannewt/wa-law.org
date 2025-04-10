@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/09/2025 [The Center Square](/org/the_center_square/) - [Tearful WA lawmaker begs Dems not to close schools for developmentally disabled | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_594959b8-86de-4ee1-b961-c3415d501066.html#:~:text=House%20Bill%201472)
 * 04/02/2025 [The Center Square](/org/the_center_square/) - [Bill to close two schools for developmentally disabled clears House committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6fb500c3-cf3b-4af5-a542-dd8e927a491a.html#:~:text=House%20Bill%201472)
 * 03/20/2025 [The Center Square](/org/the_center_square/) - [$58 million cut could put disability centers on the chopping block in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5bba924e-ceb3-491d-b381-6940937b60b3.html#:~:text=House%20Bill%201472)
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5192/</link>
 		<description>Updates about SB 5192</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 15:45:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1446,6 +1446,13 @@
 			<pubDate>Mon, 07 Apr 2025 15:45:16 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205192</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

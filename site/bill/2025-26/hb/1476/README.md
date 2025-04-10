@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): HB 1476 Nursing home rate rebase

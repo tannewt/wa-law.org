@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 03/13 04:00 PM - Appropriations (APP): HB 2034 LEOFF 1 restatement

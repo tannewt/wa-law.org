@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/09/2025 [KIRO7](/org/kiro7/) - [Swiping left or right on a dating app could soon cost money with new tax – KIRO 7 News Seattle](https://www.kiro7.com/news/local/swiping-left-or-right-adating-app-could-soon-cost-money-with-new-tax/DSUWZXCLKNH4JG2RTFNSY5AXDE/#:~:text=House%20Bill%202071)
 * 03/28/2024 [Sightline Institute](/org/sightline_institute/) - [Washington’s 2024 Short-Session Housing Wins - Sightline Institute](https://www.sightline.org/2024/03/28/washingtons-2024-short-session-housing-wins/#:~:text=HB%202071)
 * 03/11/2024 [The Urbanist](/org/the_urbanist/) - [Year of Housing 2.0 Mostly Fizzles Out at Washington Legislature - The Urbanist](https://www.theurbanist.org/2024/03/11/year-of-housing-2-0-mostly-fizzles-out-at-washington-legislature/#:~:text=HB%202071)
 * 03/07/2024 [Crosscut](/org/crosscut/) - [A heap of housing bills failed in WA’s legislative session | Crosscut](https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=House%20Bill%202071)

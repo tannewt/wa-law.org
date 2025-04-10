@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1154/</link>
 		<description>Updates about HB 1154</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 12:10:13 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -432,6 +432,20 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jasmine/Vasavada/2025-04-04 12:10:13</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-09/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

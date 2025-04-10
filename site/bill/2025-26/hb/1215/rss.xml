@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1215/</link>
 		<description>Updates about HB 1215</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -208,6 +208,20 @@
 			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-07/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>WA Legislature passes bill allowing pregnant women to die on their own terms | Washington | thecentersquare.com</title>
+			<description>News article "WA Legislature passes bill allowing pregnant women to die on their own terms | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 08 Apr 2025 14:11:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_3304fabf-6bc0-47b4-a719-6d2b53915f4e.html#:~:text=House%20Bill%201215</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-09/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

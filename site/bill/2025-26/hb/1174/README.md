@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 04/07/2025 [House Democrats](/org/house_democrats/) - [Senate passes Peterson bill to help courts provide interpreter services and improve access to justice.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/07/senate-passes-peterson-bill-to-help-courts-provide-interpreter-services-and-improve-access-to-justice/#:~:text=House%20Bill%201174,)
 * 03/05/2025 [House Democrats](/org/house_democrats/) - [Equal access to justice: Peterson bill helps courts provide interpreter services – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/equal-access-to-justice-peterson-bill-helps-courts-provide-interpreter-services/#:~:text=House%20Bill%201174)
 
 ## Meetings

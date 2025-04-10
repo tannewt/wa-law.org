@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5734/</link>
 		<description>Updates about SB 5734</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 10:55:09 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 12:10:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -116,6 +116,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Matt/Ransom/2025-02-25 10:55:09</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WA bills authorizing $2.5 billion bonds for new I-5 Bridge clear committees | Washington | thecentersquare.com</title>
+			<description>News article "WA bills authorizing $2.5 billion bonds for new I-5 Bridge clear committees | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 09 Apr 2025 12:10:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_61b96e8e-b743-47e3-87e1-071f371a8642.html#:~:text=Senate%20Bill%205734</guid>
 		</item>
 	</channel>
 </rss>

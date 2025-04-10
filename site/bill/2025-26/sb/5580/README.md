@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=made%20corporate%20ownership)
+
 ## Meetings
 ### Fri 02/07 10:30 AM - Housing (HSG): SB 5580 Corp. homeowner registration
 #### 5 👍 - Pro

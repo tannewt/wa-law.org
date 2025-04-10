@@ -15,7 +15,7 @@ Testifying:
 * Pat McLachlan - Washington State School Retirees' Association
 * 💵Laurie Weidner - Retired Public Employees Council of WA
 * Paul Joseph Wolcott
-* Jeremy Une - ATU 587
+* 💵Jeremy Une - ATU 587
 * James Kresge - RPEC
 * Judy Gray - member of AFT Retiree chapter
 * ted lint

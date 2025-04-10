@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Sat 04/05 12:00 PM - Ways & Means (WM): SSB 5786 Liquor license fees

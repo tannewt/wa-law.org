@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 02:40:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 12:42:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -516,6 +516,27 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-04-04 02:40:16</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Critics warn WA bill could raise gas prices by 40 cents by 2031 | Washington | thecentersquare.com</title>
+			<description>News article "Critics warn WA bill could raise gas prices by 40 cents by 2031 | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 08 Apr 2025 12:42:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_08bbb647-02a6-42e9-bf68-c1ba0fe56c58.html#:~:text=House%20Bill%201409</guid>
 		</item>
 	</channel>
 </rss>

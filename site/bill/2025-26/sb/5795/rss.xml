@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5795/</link>
 		<description>Updates about SB 5795</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 31 Mar 2025 01:57:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 15:53:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -167,6 +167,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/libi/benyoar/2025-03-31 01:57:02</guid>
+		</item>
+		<item>
+			<title>Full steam ahead - Sen. Deborah Krishnadasan</title>
+			<description>News article "Full steam ahead - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Tue, 08 Apr 2025 21:36:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/04/08/full-steam-ahead/#:~:text=5795</guid>
+		</item>
+		<item>
+			<title>Progressive revenue bills 2025 — Quaker Voice</title>
+			<description>News article "Progressive revenue bills 2025 — Quaker Voice" from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Wed, 09 Apr 2025 15:53:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=B%205795</guid>
 		</item>
 	</channel>
 </rss>

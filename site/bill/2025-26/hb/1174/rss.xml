@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1174/</link>
 		<description>Updates about HB 1174</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -270,6 +270,20 @@
 			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-07/Third reading, passed; yeas, 46; nays, 3; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate passes Peterson bill to help courts provide interpreter services and improve access to justice.  – Washington State House Democrats</title>
+			<description>News article "Senate passes Peterson bill to help courts provide interpreter services and improve access to justice.  – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/07/senate-passes-peterson-bill-to-help-courts-provide-interpreter-services-and-improve-access-to-justice/#:~:text=House%20Bill%201174,</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-09/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

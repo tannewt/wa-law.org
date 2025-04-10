@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=SB%205797)
 * 04/04/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Say what? Gov. Ferguson draws a line in the sand - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-say-gov-ferguson-draws-line-sand/#:~:text=(e.g.%20–%20SB%205797))
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205797)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205797)

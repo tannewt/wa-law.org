@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1075/</link>
 		<description>Updates about HB 1075</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -191,6 +191,13 @@
 			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-07/President signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

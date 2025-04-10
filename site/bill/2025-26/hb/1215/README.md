@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/08/2025 [The Center Square](/org/the_center_square/) - [WA Legislature passes bill allowing pregnant women to die on their own terms | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3304fabf-6bc0-47b4-a719-6d2b53915f4e.html#:~:text=House%20Bill%201215)
 * 02/13/2025 [House Democrats](/org/house_democrats/) - [Taylor Bill Provides Equity in End-of-life Care Administration – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/taylor-bill-provides-equity-in-end-of-life-care-administration/#:~:text=1215)
 
 ## Meetings

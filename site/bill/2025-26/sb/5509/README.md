@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/09/2025 [The Urbanist](/org/the_urbanist/) - [Snohomish County Permits Childcare Providers More Places, State May Follow Suit - The Urbanist](https://www.theurbanist.org/2025/04/09/snohomish-county-permits-childcare-providers-more-places/#:~:text=considering%20legislation)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205509)
 
 ## Meetings

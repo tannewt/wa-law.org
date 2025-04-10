@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/08/2025 [The Center Square](/org/the_center_square/) - [Vacation rentals may face new taxes as WA lawmakers eye housing fix | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d8419564-cf54-4d87-8dde-cd74fe54a867.html#:~:text=House%20Bill%205576)
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Two radically different approaches to short-term rentals | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_35c7e6d5-1bdd-4073-9046-da801c2f66c7.html#:~:text=Senate%20Bill%205576)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205576)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Town Hall coming up on Saturday! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/03/12/lizs-loveletter-town-hall-coming-up-on-saturday/#:~:text=SB%205576)

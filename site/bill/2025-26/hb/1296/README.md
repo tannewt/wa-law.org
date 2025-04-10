@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESHB%201296)
 * 03/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats split parental and student rights issues into separate bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/28/democrats-in-wa-legislature-shift-approach-to-parental-and-students-rights-bills/#:~:text=House%20Bill%201296)
 * 03/25/2025 [MyNorthwest](/org/mynorthwest/) - [Tim Eyman: Parents no longer No. 1 as House Bill 1296 reverses hard-won rights](https://mynorthwest.com/jason-rantz/eyman-parents-house-bill-1296/4067629#:~:text=House%20Bill%201296)

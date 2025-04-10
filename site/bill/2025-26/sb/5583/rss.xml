@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5583/</link>
 		<description>Updates about SB 5583</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 16:39:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -189,11 +189,25 @@
 			<guid isPermaLink="false">2025-04-05/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Proposed fee hike may push hunting, fishing out of reach for WA families | Washington | thecentersquare.com</title>
 			<description>News article "Proposed fee hike may push hunting, fishing out of reach for WA families | Washington | thecentersquare.com" from The Center Square.</description>
 			<pubDate>Mon, 07 Apr 2025 16:39:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_be8d9d00-e528-4d99-a9a5-bceab1f52ff9.html#:~:text=Senate%20Bill%205583</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5118/</link>
 		<description>Updates about SB 5118</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 16:56:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -266,6 +266,13 @@
 			<pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-04/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>In the Final Stretch - Sen. Javier Valdez</title>
+			<description>News article "In the Final Stretch - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Tue, 08 Apr 2025 16:56:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/04/08/in-the-final-stretch/#:~:text=Senate%20Bill%205118</guid>
 		</item>
 	</channel>
 </rss>

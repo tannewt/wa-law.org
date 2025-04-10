@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 03/31/2025 [Washington State Standard](/org/washington_state_standard/) - [New $5B plan to fund culvert removals unveiled by WA senators • Washington State Standard](https://washingtonstatestandard.com/2025/03/31/new-5b-plan-to-fund-culvert-removals-unveiled-by-wa-senators/#:~:text=Senate%20Bill%205804)

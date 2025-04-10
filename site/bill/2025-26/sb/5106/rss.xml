@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5106/</link>
 		<description>Updates about SB 5106</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 03 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Apr 2025 00:48:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -405,6 +405,20 @@
 			<pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-03/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Gov. Ferguson Signs Bill Officially Recognizing Eid Holidays – Washington State House Democrats</title>
+			<description>News article "Gov. Ferguson Signs Bill Officially Recognizing Eid Holidays – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/08/gov-ferguson-signs-bill-officially-recognizing-eid-holidays/#:~:text=Senate%20Bill%205106</guid>
+		</item>
+		<item>
+			<title>New Washington law recognizes two Islamic holidays • Washington State Standard</title>
+			<description>News article "New Washington law recognizes two Islamic holidays • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 10 Apr 2025 00:48:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/09/new-washington-law-recognizes-two-islamic-holidays/#:~:text=Senate%20Bill%205106</guid>
 		</item>
 	</channel>
 </rss>

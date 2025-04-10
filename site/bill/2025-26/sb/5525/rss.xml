@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5525/</link>
 		<description>Updates about SB 5525</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -130,6 +130,13 @@
 			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-01/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 59; nays, 38; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 59; nays, 38; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-09/Third reading, passed; yeas, 59; nays, 38; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

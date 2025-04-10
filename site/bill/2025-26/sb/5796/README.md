@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=5796)
 * 04/07/2025 [Senate Democrats](/org/senate_democrats/) - [In the final weeks - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/04/07/in-the-final-weeks/#:~:text=Senate%20Bill%205796)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205796)
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=Senate%20Bill%205796)

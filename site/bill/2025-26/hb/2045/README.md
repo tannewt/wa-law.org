@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=HB%202045)
+* 04/08/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Washington Legislature Must Break Boeing’s Corporate Handout Addiction - The Urbanist](https://www.theurbanist.org/2025/04/08/op-ed-break-boeings-handout-addiction/#:~:text=proposal%20for%20increasing%20the%20business%20and%20occupations%20tax%20rate)
 * 04/03/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee considers three major tax increase proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60e89042-e837-4280-a88a-fd1b32ff4bcf.html#:~:text=House%20Bill%202045)
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202045)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202045)

@@ -1,0 +1,8 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1490](/bill/2025-26/hb/1490/) > [Passed Legislature](/bill/2025-26/hb/1490/S.PL/)
+
+# HB 1490 - Background checks
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Passed%20Legislature/1490-S.PL.pdf)
+
+## Section 1
+(1) In order to determine the an applicant's or service provider's character, competence, and suitability of any applicant or service provider to have unsupervised access to vulnerable adults, children, or juveniles, the secretary of the department of social and health services shall require the applicant or service provider to submit fingerprints for the purpose of investigating conviction records through both the Washington state patrol and the federal bureau of investigation when the applicant or service provider for working unsupervised as a department of social and health services or department of children, youth, and families long-term care worker, direct care worker, child placement provider, high-risk provider, residential habilitation center worker, transitional care facility worker, or a contracted home and community-based service provider, applicants and service providers described in subsections (2) and (4) of this section shall submit their fingerprints to the Washington state patrol for forwarding to the federal bureau of investigation for a national background check, as shall individuals 16 years of age or older living in the home of a companion home provider as identified in subsection (2)(c) of this section, and individuals 16 years of age or older living in the home of a child placement provider as identified in subsection (4)(b) of this section.

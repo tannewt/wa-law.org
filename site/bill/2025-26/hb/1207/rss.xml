@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1207/</link>
 		<description>Updates about HB 1207</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 12:26:06 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,6 +106,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Laquesha/Turner-Beers/2025-02-25 12:26:06</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

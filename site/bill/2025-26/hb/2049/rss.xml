@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2049/</link>
 		<description>Updates about HB 2049</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 13:20:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 17:57:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1230,6 +1230,27 @@
 			<pubDate>Mon, 07 Apr 2025 13:20:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/04/07/washington-property-tax-cap#:~:text=House's%20proposal</guid>
+		</item>
+		<item>
+			<title>Progressive revenue bills 2025 — Quaker Voice</title>
+			<description>News article "Progressive revenue bills 2025 — Quaker Voice" from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Wed, 09 Apr 2025 15:53:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=HB%202049</guid>
+		</item>
+		<item>
+			<title>Senate Republicans: WA property taxes will skyrocket under bill to remove annual cap | Washington | thecentersquare.com</title>
+			<description>News article "Senate Republicans: WA property taxes will skyrocket under bill to remove annual cap | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 09 Apr 2025 17:36:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_68148e26-5f20-4a9b-b4fc-f9d2b64f7db4.html#:~:text=House%20Bill%202049</guid>
+		</item>
+		<item>
+			<title>WA lawmakers debate raising property taxes to bring in more money | FOX 13 Seattle</title>
+			<description>News article "WA lawmakers debate raising property taxes to bring in more money | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 09 Apr 2025 17:57:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-lawmakers-raising-property-taxes#:~:text=a%20similar%20proposal</guid>
 		</item>
 	</channel>
 </rss>

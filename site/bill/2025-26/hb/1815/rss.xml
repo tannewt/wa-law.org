@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1815/</link>
 		<description>Updates about HB 1815</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 02 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Apr 2025 20:03:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -395,6 +395,20 @@
 			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-02/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>WA bill to exclude juvenile facilities from prison riot laws | FOX 13 Seattle</title>
+			<description>News article "WA bill to exclude juvenile facilities from prison riot laws | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Tue, 08 Apr 2025 20:03:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/juvenile-facilities-prison-riot-laws#:~:text=House%20Bill%201815</guid>
 		</item>
 	</channel>
 </rss>

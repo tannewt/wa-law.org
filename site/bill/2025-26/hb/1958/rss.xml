@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1958/</link>
 		<description>Updates about HB 1958</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 17:51:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Apr 2025 12:10:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,27 @@
 			<pubDate>Mon, 24 Feb 2025 17:51:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_6fd89978-f302-11ef-818d-2be6dd98a106.html#:~:text=House%20Bill%201958’s</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>WA bills authorizing $2.5 billion bonds for new I-5 Bridge clear committees | Washington | thecentersquare.com</title>
+			<description>News article "WA bills authorizing $2.5 billion bonds for new I-5 Bridge clear committees | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 09 Apr 2025 12:10:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_61b96e8e-b743-47e3-87e1-071f371a8642.html#:~:text=House%20Bill%201958</guid>
 		</item>
 	</channel>
 </rss>

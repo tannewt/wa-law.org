@@ -323,7 +323,7 @@
 * [HB 2016](hb/2016) - Allowing certain minors to contract for housing and utilities. 1📰 90👍 482👎 5❓ - HCivil R & Judi
 * [HB 1586](hb/1586) - Vehicular pursuits work grp. 1📰 498👍 69👎 9❓ - HRules X
 * [SB 5309](sb/5309) - Petroleum transportation/tax 1📰 421👍 152👎 0❓ - SWays & Means
-* [HB 1169](hb/1169) - Legal financial obligations 8📰 538👍 23👎 8❓ - C 449 L 23
+* [HB 1169](hb/1169) - Legal financial obligations 9📰 538👍 23👎 8❓ - C 449 L 23
 * [HB 1329](hb/1329) - Utility shutoffs/heat 3📰 506👍 19👎 44❓ - C 105 L 23
 * [SB 5532](sb/5532) - Small rural hospital payment 1📰 558👍 1👎 10❓ - C 443 L 23
 * [SB 5093](sb/5093) - Climate response strategy 3📰 538👍 28👎 2❓ - SRules X
@@ -340,7 +340,7 @@
 * [SB 6229](sb/6229) - Green transp. grants/match 114👍 439👎 0❓ - C 104 L 24
 * [HB 2166](hb/2166) - POLST access 551👍 0👎 1❓ - HRules 3C
 * [HB 2041](hb/2041) - Physician assistant practice 2📰 539👍 1👎 11❓ - C 62 L 24
-* [HB 2071](hb/2071) - Residential housing 8📰 443👍 98👎 10❓ - C 183 L 24
+* [HB 2071](hb/2071) - Residential housing 9📰 443👍 98👎 10❓ - C 183 L 24
 * [HB 1310](hb/1310) - Physician assistant collab. 541👍 5👎 4❓ - HHC/Wellness
 * [HB 1095](hb/1095) - Wage replacement 4📰 512👍 23👎 12❓ - HApprops
 * [HB 1934](hb/1934) - AI task force 6📰 72👍 461👎 14❓ - HRules X

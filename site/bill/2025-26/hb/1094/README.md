@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/07/2025 [House Democrats](/org/house_democrats/) - [“Community means being there for each other”: Governor signs Walen non-profit property tax exemption.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/07/community-means-being-there-for-each-other-governor-signs-walen-non-profit-property-tax-exemption/#:~:text=House%20Bill%201094)
+
 ## Meetings
 ### Thu 01/23 01:30 PM - Finance (FIN): HB 1094 Social services/property tax
 #### 23 👍 - Pro

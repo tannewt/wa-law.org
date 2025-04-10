@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/09/2025 [FOX13](/org/fox13/) - [WA lawmakers debate raising property taxes to bring in more money | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmakers-raising-property-taxes#:~:text=a%20similar%20proposal)
+* 04/09/2025 [The Center Square](/org/the_center_square/) - [Senate Republicans: WA property taxes will skyrocket under bill to remove annual cap | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68148e26-5f20-4a9b-b4fc-f9d2b64f7db4.html#:~:text=House%20Bill%202049)
+* 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=HB%202049)
 * 04/07/2025 [Axios](/org/axios/) - [WA budget fix could raise property taxes - Axios Seattle](https://www.axios.com/local/seattle/2025/04/07/washington-property-tax-cap#:~:text=House's%20proposal)
 * 04/03/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee considers three major tax increase proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60e89042-e837-4280-a88a-fd1b32ff4bcf.html#:~:text=House%20Bill%202049)
 * 04/01/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington Democrats divided on school funding plans | Cascadia Daily News](https://www.cascadiadaily.com/2025/apr/01/washington-democrats-divided-on-school-funding-plans/#:~:text=The%20legislation)

@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/07/2025 [The Center Square](/org/the_center_square/) - [WA bill to cap rent increases passes out of Senate Ways & Means Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8600f41e-780d-4235-89db-3a7dd0965643.html#:~:text=Engrossed%20House%20Bill%201217)
+* 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Engrossed%20House%20Bill%201217)
 * 04/04/2025 [The Center Square](/org/the_center_square/) - [WATCH: Passions run deep on both sides of rent cap bill at Senate public hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d1e2902b-9446-4c58-af2f-258cd9a0ad44.html#:~:text=Engrossed%20House%20Bill%201217)
 * 04/04/2025 [The Center Square](/org/the_center_square/) - [Ethics complaint filed against WA lawmaker behind rent stabilization bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_87ee5329-d670-4653-b44b-c0594e4580e2.html#:~:text=House%20Bill%201217)
 * 03/27/2025 [The Center Square](/org/the_center_square/) - [WA Senate advances landmark bill to cap annual rent hikes statewide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_56c770c2-d128-41bf-8810-80136d900348.html#:~:text=House%20Bill%201217)
