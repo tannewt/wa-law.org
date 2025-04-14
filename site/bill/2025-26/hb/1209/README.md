@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington restricts lethal chemical previously sold on Amazon • Washington State Standard](https://washingtonstatestandard.com/2025/04/07/washington-restricts-lethal-chemical-previously-sold-on-amazon/#:~:text=House%20Bill%201209)

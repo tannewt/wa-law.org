@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills on school inclusivity, AI and rent fixing among casualties in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/10/bills-on-school-inclusivity-ai-and-rent-fixing-among-casualties-in-wa-legislature/#:~:text=House%20Bill%201218)
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Reforming The Broken Competency Evaluation & Restoration System – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/reforming-the-broken-competency-evaluation-restoration-system/#:~:text=House%20Bill%201218)
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201218)
 

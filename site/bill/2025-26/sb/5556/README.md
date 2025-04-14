@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [In the Final Stretch - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/04/10/in-the-final-stretch/#:~:text=Senate%20Bill%205556)
 * 03/03/2025 [Senate Democrats](/org/senate_democrats/) - [Ramos Report: Building a Balanced Budget and a Cleaner Washington - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/03/03/ramos-report-building-a-balanced-budget-and-a-cleaner-washington/#:~:text=SB%205556)
 * 02/25/2025 [Senate Democrats](/org/senate_democrats/) - [Ramos legislation to keep Washington roads clean passes Senate unanimously - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/02/25/ramos-legislation-to-keep-washington-roads-clean-passes-senate-unanimously/#:~:text=Senate%20Bill%205556)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Building a cleaner, stronger community - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/02/04/building-a-cleaner-stronger-community/#:~:text=Senate%20Bill%205556)

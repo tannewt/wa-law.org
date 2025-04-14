@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1309 Burrowing shrimp

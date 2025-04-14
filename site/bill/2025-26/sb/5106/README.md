@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/10/2025 [Washington State Standard](/org/washington_state_standard/) - [New Washington law recognizes two Islamic holidays • Washington State Standard](https://washingtonstatestandard.com/2025/04/09/new-washington-law-recognizes-two-islamic-holidays/#:~:text=Senate%20Bill%205106)

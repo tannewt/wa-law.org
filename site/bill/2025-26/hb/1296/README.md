@@ -9,6 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/12/2025 [The Center Square](/org/the_center_square/) - [WA Senate passes bill that partly revises parents’ bill of rights initiative | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_07324883-0cbe-4c5a-b4d2-fc6e1f97c846.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)
+* 04/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Students’ rights bill clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/04/11/students-rights-bill-clears-washington-senate/#:~:text=House%20Bill%201296)
+* 04/11/2025 [KUOW](/org/kuow/) - [KUOW - Student, parental rights bills are advancing in Washington state. Is a ballot fight next?](https://www.kuow.org/stories/wa-bills-on-student-parents-rights-are-advancing-is-a-ballot-fight-next#:~:text=House%20Bill%201296)
+* 04/11/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Rent control, an assault on parents' rights, and the fight against higher property taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-rent-control-assault-parents-rights-fight-higher-property-taxes/#:~:text=House%20Bill%201296)
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESHB%201296)
 * 03/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats split parental and student rights issues into separate bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/28/democrats-in-wa-legislature-shift-approach-to-parental-and-students-rights-bills/#:~:text=House%20Bill%201296)

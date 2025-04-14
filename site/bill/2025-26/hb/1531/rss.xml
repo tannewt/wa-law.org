@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1531/</link>
 		<description>Updates about HB 1531</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 11 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1424,6 +1424,27 @@
 			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-07/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 31; nays, 18; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 31; nays, 18; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-10/Third reading, passed; yeas, 31; nays, 18; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Infectious diseases bill touted as 'best available science' passes WA Legislature | Washington | thecentersquare.com</title>
+			<description>News article "Infectious diseases bill touted as 'best available science' passes WA Legislature | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 10 Apr 2025 19:27:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_7bcda569-16b4-4dc6-854e-b58c63872500.html#:~:text=Engrossed%20Substitute%20House%20Bill%201531</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-11/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

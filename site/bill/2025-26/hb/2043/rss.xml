@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2043/</link>
 		<description>Updates about HB 2043</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 22:07:54 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 12 Apr 2025 17:36:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -105,6 +105,13 @@
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202043</guid>
+		</item>
+		<item>
+			<title>Transportation and capital budgets | Washington State House Republicans</title>
+			<description>News article "Transportation and capital budgets | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 12 Apr 2025 17:36:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/transportation-and-capital-budgets/#:~:text=legislation</guid>
 		</item>
 	</channel>
 </rss>

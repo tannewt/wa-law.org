@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Making housing more affordable - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=HB%201621)
+
 ## Meetings
 ### Fri 03/14 10:30 AM - Housing (HSG): SHB 1621 Housing court commissioners
 #### 43 👍 - Pro

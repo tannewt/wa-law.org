@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1201 Emergency shelters/pets

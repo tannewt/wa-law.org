@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5375/</link>
 		<description>Updates about SB 5375</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 12 Apr 2025 20:25:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -635,6 +635,20 @@
 			<pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-21/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 64; nays, 31; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 64; nays, 31; absent, 0; excused, 3.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-11/Third reading, passed; yeas, 64; nays, 31; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>Washington Legislature approves requirement for clergy to report child abuse • Washington State Standard</title>
+			<description>News article "Washington Legislature approves requirement for clergy to report child abuse • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Sat, 12 Apr 2025 20:25:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/12/wa-legislature-approves-requirement-for-clergy-to-report-child-abuse/#:~:text=Senate%20Bill%205375</guid>
 		</item>
 	</channel>
 </rss>

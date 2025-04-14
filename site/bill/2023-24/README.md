@@ -27,7 +27,7 @@
 * [SB 5462](sb/5462) - Inclusive learning standards 22📰 654👍 4223👎 10❓ - C 157 L 24
 * [HB 1045](hb/1045) - Basic income pilot program 30📰 2290👍 2561👎 9❓ - HApprops
 * [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. 1📰 1321👍 3389👎 106❓ - HHC/Wellness
-* [SB 5427](sb/5427) - Hate crimes & bias incidents 14📰 1025👍 3774👎 8❓ - C 299 L 24
+* [SB 5427](sb/5427) - Hate crimes & bias incidents 15📰 1025👍 3774👎 8❓ - C 299 L 24
 * [HB 2494](hb/2494) - School operating costs 2📰 460👍 4173👎 6❓ - C 262 L 24
 * [HB 2021](hb/2021) - Firearm disposition 9📰 2328👍 2247👎 8❓ - C 287 L 24
 * [HB 2118](hb/2118) - Firearms dealers 27📰 1262👍 3288👎 3❓ - C 288 L 24

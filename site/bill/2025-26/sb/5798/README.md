@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/11/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Rent control, an assault on parents' rights, and the fight against higher property taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-rent-control-assault-parents-rights-fight-higher-property-taxes/#:~:text=(SB%205798))
 * 04/09/2025 [FOX13](/org/fox13/) - [WA lawmakers debate raising property taxes to bring in more money | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmakers-raising-property-taxes#:~:text=Senate%20Bill%205798)
 * 04/09/2025 [The Center Square](/org/the_center_square/) - [Senate Republicans: WA property taxes will skyrocket under bill to remove annual cap | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68148e26-5f20-4a9b-b4fc-f9d2b64f7db4.html#:~:text=Senate%20Bill%205798)
 * 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=B%205798)

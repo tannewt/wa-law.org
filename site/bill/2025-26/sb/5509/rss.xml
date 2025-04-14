@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5509/</link>
 		<description>Updates about SB 5509</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 09 Apr 2025 17:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -209,6 +209,13 @@
 			<pubDate>Wed, 09 Apr 2025 17:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2025/04/09/snohomish-county-permits-childcare-providers-more-places/#:~:text=considering%20legislation</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</description>
+			<pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-10/Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</guid>
 		</item>
 	</channel>
 </rss>

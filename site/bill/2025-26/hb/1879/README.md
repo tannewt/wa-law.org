@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [House Passes Thomas Bill for Reasonable Rest Breaks for Hospital Workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/house-passes-thomas-bill-for-reasonable-rest-breaks-for-hospital-workers/#:~:text=House%20Bill%201879)

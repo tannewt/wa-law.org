@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/07/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Ramel Bill to Speed Up ADU Construction – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/07/governor-signs-ramel-bill-to-speed-up-adu-construction/#:~:text=Substitute%20House%20Bill%201353)

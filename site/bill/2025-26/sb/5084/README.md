@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in our community - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/04/11/investing-in-our-community/#:~:text=Senate%20Bill%205084)
+
 ## Meetings
 ### Fri 03/14 08:00 AM - Health Care & Wellness (HCW): SB 5084 Health carrier reporting
 #### 38 👍 - Pro

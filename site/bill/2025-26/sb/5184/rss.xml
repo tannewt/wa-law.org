@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 12 Apr 2025 01:14:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -859,6 +859,20 @@
 			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-08/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 64; nays, 31; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 64; nays, 31; absent, 0; excused, 3.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-11/Third reading, passed; yeas, 64; nays, 31; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>Making housing more affordable - Sen. Marko Liias</title>
+			<description>News article "Making housing more affordable - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Sat, 12 Apr 2025 01:14:48 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=SB%205184</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/11/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Farivar Bill Addressing Judicial Delays – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/11/governor-signs-farivar-bill-addressing-judicial-delays/#:~:text=House%20Bill%201112)
+
 ## Meetings
 ### Thu 03/13 10:30 AM - Law & Justice (LAW): HB 1112 Judges pro tempore/residency
 #### 2 👍 - Pro

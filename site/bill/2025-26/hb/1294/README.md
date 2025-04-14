@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Ways & Means (WM): SHB 1294 Pesticide application comm.

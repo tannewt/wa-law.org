@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Protecting Physician Well-Being & Supporting Workforce Retention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/protecting-physician-well-being-supporting-workforce-retention/#:~:text=House%20Bill%201718)

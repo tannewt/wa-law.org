@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills on school inclusivity, AI and rent fixing among casualties in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/10/bills-on-school-inclusivity-ai-and-rent-fixing-among-casualties-in-wa-legislature/#:~:text=1622)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Rep. Lisa Parshley: Give workers a voice on new technologies being introduced in their workspaces – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/rep-lisa-parshley-give-workers-a-voice-on-new-technologies-being-introduced-in-their-workspaces-2/#:~:text=HB%201622)
 * 02/18/2025 [House Democrats](/org/house_democrats/) - [Rep. Lisa Parshley: Give workers a voice on new technologies being introduced in their workspaces – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/18/rep-lisa-parshley-give-workers-a-voice-on-new-technologies-being-introduced-in-their-workspaces/#:~:text=House%20Bill%201622)
 * 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201622)

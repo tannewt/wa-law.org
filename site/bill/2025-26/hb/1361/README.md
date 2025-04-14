@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/11/2025 [House Democrats](/org/house_democrats/) - [Rep. Hill’s Bipartisan Bill Modernizing Legal Service Requirements Signed by Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/11/rep-hills-bipartisan-bill-modernizing-legal-service-requirements-signed-by-governor/#:~:text=House%20Bill%201361)
+
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): HB 1361 Process service
 #### 1 👍 - Pro

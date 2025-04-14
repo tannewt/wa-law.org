@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/31/2025 [The Center Square](/org/the_center_square/) - [Ferguson one step closer to blocking out-of-state guard troops from entering WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_33ad3405-d549-4b7d-bae9-a7c6251b8a7c.html#:~:text=House%20Bill%201321)

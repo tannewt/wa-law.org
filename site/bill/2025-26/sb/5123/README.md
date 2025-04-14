@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills on school inclusivity, AI and rent fixing among casualties in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/10/bills-on-school-inclusivity-ai-and-rent-fixing-among-casualties-in-wa-legislature/#:~:text=5123)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=SSB%205123)
 * 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=SB%205123)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SSB%205123)

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1935 Project permit definition

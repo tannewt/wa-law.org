@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1556/</link>
 		<description>Updates about HB 1556</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 11 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -187,6 +187,13 @@
 			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>New Law Opens Doors for Young Students Seeking a Second Chance at Graduation – Washington State House Democrats</title>
+			<description>News article "New Law Opens Doors for Young Students Seeking a Second Chance at Graduation – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/11/new-law-opens-doors-for-young-students-seeking-a-second-chance-at-graduation/#:~:text=House%20Bill%201556</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5079/</link>
 		<description>Updates about SB 5079</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 11 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -189,6 +189,20 @@
 			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-08/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-10/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 92; nays, 2; absent, 0; excused, 4.</title>
+			<description>Third reading, passed; yeas, 92; nays, 2; absent, 0; excused, 4.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-11/Third reading, passed; yeas, 92; nays, 2; absent, 0; excused, 4.</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [In the Final Stretch - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/04/10/in-the-final-stretch/#:~:text=House%20Bill%201494)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201494)
 
 ## Meetings

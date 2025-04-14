@@ -18,7 +18,7 @@
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington
 * Jake Swanton - Inseparable
-* David Lloyd - Inseparable
+* 💵David Lloyd - Inseparable
 * CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * Kelania Jimenez
 

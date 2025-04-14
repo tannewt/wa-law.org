@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](https://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205167)
 * 04/05/2025 [House Republicans](/org/house_republicans/) - [The budget debates | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-budget-debates/#:~:text=legislation)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205167)

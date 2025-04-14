@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1403/</link>
 		<description>Updates about HB 1403</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 12 Apr 2025 01:14:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -311,6 +311,13 @@
 			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-08/Third reading, passed; yeas, 47; nays, 1; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Making housing more affordable - Sen. Marko Liias</title>
+			<description>News article "Making housing more affordable - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Sat, 12 Apr 2025 01:14:48 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=HB%201403</guid>
 		</item>
 	</channel>
 </rss>

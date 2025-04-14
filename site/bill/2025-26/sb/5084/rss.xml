@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5084/</link>
 		<description>Updates about SB 5084</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 11 Apr 2025 21:11:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,6 +159,13 @@
 			<pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-04/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Investing in our community - Sen. June Robinson</title>
+			<description>News article "Investing in our community - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Fri, 11 Apr 2025 21:11:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/04/11/investing-in-our-community/#:~:text=Senate%20Bill%205084</guid>
 		</item>
 	</channel>
 </rss>

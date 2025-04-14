@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/10/2025 [The Center Square](/org/the_center_square/) - [Infectious diseases bill touted as 'best available science' passes WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7bcda569-16b4-4dc6-854e-b58c63872500.html#:~:text=Engrossed%20Substitute%20House%20Bill%201531)
 * 03/24/2025 [The Center Square](/org/the_center_square/) - [Debate lingers over Washington bill's impact on public health policies | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b239acc7-3f9a-422f-8294-7acadc018802.html#:~:text=House%20Bill%201531)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531)

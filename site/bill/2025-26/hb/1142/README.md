@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/08/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Macri’s Bill on Long Term Care Training Requirement Improvements – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/08/governor-signs-macris-bill-on-long-term-care-training-requirement-improvements/#:~:text=HB%201142)

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Commerce (LC): SHB 1121 Work restrictions/age 16, 17

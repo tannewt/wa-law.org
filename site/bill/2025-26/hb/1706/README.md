@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/13 08:00 AM - Health & Long Term Care (HLTC): SHB 1706 Prior auth. APIs/health
