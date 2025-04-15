@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/14/2025 [The Center Square](/org/the_center_square/) - [Bill to electronically track sexually violent predators in WA signed into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_316af449-ba89-4199-8e38-04398ce4bddb.html#:~:text=House%20Bill%201457)
 * 03/05/2025 [The Center Square](/org/the_center_square/) - [WA House passes bill to improve monitoring of sexually violent predators | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d1a6bd8-f9f9-11ef-b8b7-cf98613df20e.html#:~:text=House%20Bill%201457)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201457)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201457)

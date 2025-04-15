@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/15/2025 [MyNorthwest](/org/mynorthwest/) - [New bill brings DOGE to Washington state](https://mynorthwest.com/mynorthwest-politics/doge-washington/4075746#:~:text=House%20Bill%202076)
+
 ## Meetings

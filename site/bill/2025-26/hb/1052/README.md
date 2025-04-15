@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/15/2025 [KIRO7](/org/kiro7/) - [King County hate crimes involving gender identity, sexual orientation trend upwards – KIRO 7 News Seattle](https://www.kiro7.com/news/local/king-county-hate-crimes-involving-gender-identity-sexual-orientation-nearing-last-years-numbers/P4QFKRM4RJATPDCZLVB5X35ZFY/#:~:text=HB%201052)
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/04/11/approaching-the-finish-line/#:~:text=HB%201052)
 * 04/04/2025 [The Center Square](/org/the_center_square/) - [WA Senate passes hate crime expansion bill, rejects ‘Tesla’ amendment | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3201ba31-0337-4494-a3d8-87ad7a1fbc53.html#:~:text=House%20Bill%201052)
 * 03/31/2025 [KING5](/org/king5/) - [King County Prosecuting Attorney's Office wants to close a hate crime loophole | king5.com](https://www.king5.com/article/news/community/facing-race/king-county-prosecuting-attorneys-office-trans-hate-crome-loophole/281-6ec4aa64-bc10-4186-a129-8b8f2ca4685f#:~:text=House%20Bill%201052)

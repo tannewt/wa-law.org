@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2076/</link>
 		<description>Updates about HB 2076</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 12 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Apr 2025 05:04:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-12/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>New bill brings DOGE to Washington state</title>
+			<description>News article "New bill brings DOGE to Washington state" from MyNorthwest.</description>
+			<pubDate>Tue, 15 Apr 2025 05:04:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/doge-washington/4075746#:~:text=House%20Bill%202076</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2077/</link>
 		<description>Updates about HB 2077</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 14 Apr 2025 06:46:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-14/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Tobacco Harm Reduction 101</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Mon, 14 Apr 2025 01:03:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-04-14 01:03:40</guid>
+		</item>
+		<item>
+			<title>👎Aidan Mozingo - Tobacco Harm Reduction 101</title>
+			<description>Aidan Mozingo signed up to testify Con.</description>
+			<pubDate>Mon, 14 Apr 2025 04:20:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Aidan/Mozingo/2025-04-14 04:20:34</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Mon, 14 Apr 2025 06:46:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2025-04-14 06:46:53</guid>
 		</item>
 	</channel>
 </rss>

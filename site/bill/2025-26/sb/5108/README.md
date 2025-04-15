@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/15/2025 [Senate Democrats](/org/senate_democrats/) - [In the home stretch - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/04/15/in-the-home-stretch/#:~:text=SB%205108)
 * 03/18/2025 [Senate Democrats](/org/senate_democrats/) - [Fighting for consumers and connecting with you - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/03/18/fighting-for-consumers-and-connecting-with-you/#:~:text=Senate%20Bill%205108)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205108)
 

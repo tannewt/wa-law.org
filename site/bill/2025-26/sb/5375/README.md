@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/15/2025 [KUOW](/org/kuow/) - [KUOW - Clergy members to become mandatory child abuse reporters in Washington state](https://www.kuow.org/stories/clergy-in-washington-state-to-report-child-abuse#:~:text=Senate%20Bill%205375)
 * 04/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington Legislature approves requirement for clergy to report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/04/12/wa-legislature-approves-requirement-for-clergy-to-report-child-abuse/#:~:text=Senate%20Bill%205375)
 * 03/20/2025 [The Center Square](/org/the_center_square/) - [Breaking the seal? WA Dems advance bill to close clergy confession loophole | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_20f58749-403c-408f-81e6-d849d835b391.html#:~:text=Senate%20Bill%205375)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SB%205375)

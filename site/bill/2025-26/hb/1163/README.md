@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit requirement for gun purchases clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/permit-requirement-for-gun-purchases-clears-washington-senate/#:~:text=House%20Bill%201163)
 * 04/10/2025 [Senate Republicans](/org/senate_republicans/) - [AUDIO: 9th District Legislative Update with state Sen. Mark Schoesler - Senate Republican Caucus](https://src.wastateleg.org/blog/audio-9th-district-legislative-update-state-sen-mark-schoesler-2/#:~:text=House%20Bill%201163)
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201163)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=E2SHB%201163)
