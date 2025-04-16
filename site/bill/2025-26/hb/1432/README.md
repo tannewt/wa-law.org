@@ -17,7 +17,7 @@
 #### 571 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington
-* Jake Swanton - Inseparable
+* 💵Jake Swanton - Inseparable
 * 💵David Lloyd - Inseparable
 * CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * Kelania Jimenez
@@ -39,7 +39,7 @@ Testifying:
 * 💵London Breedlove - Washington State Psychological Association
 * 💵Anna Nepomuceno - NAMI WA
 * Jürgen Unützer - UW Medicine
-* Jake Swanton - Inseparable
+* 💵Jake Swanton - Inseparable
 * Mark Griffin
 * Jennifer Cohen
 * 💵Chetan Soni - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
@@ -61,7 +61,7 @@ Testifying:
 #### 529 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
-* Jake Swanton - Inseparable
+* 💵Jake Swanton - Inseparable
 * Brian Allender
 * Lindsey Lehmuth
 * Jennifer Kennett - WMHCA
@@ -86,7 +86,7 @@ Testifying:
 * ELEANOR HAMBURGER - Sirianni Youtz Spoonemore Hamburger
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of WA
 * Dr. London Breedlove - WA State Psychological Association
-* Jake Swanton - Inseparable
+* 💵Jake Swanton - Inseparable
 * Jurgen Unutzer - UW Medicine
 * jean Brautigam Mills
 * Julia Larsen

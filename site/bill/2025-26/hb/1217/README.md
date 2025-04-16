@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/15/2025 [The Urbanist](/org/the_urbanist/) - [Washington Senate OKs Rent Stabilization Bill After Gutting It - The Urbanist](https://www.theurbanist.org/2025/04/15/washington-senate-oks-rent-stabilization-bill-after-gutting-it/#:~:text=House%20Bill%201217)
+* 04/15/2025 [Axios](/org/axios/) - [Washington rent cap bill fuels legislative battle - Axios Seattle](https://www.axios.com/local/seattle/2025/04/15/washington-rent-cap-bill#:~:text=House%20Bill%201217)
 * 04/13/2025 [Senate Democrats](/org/senate_democrats/) - [Rent Stabilization, an Important Protection that Strikes a Fair Balance - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/04/12/rent-stabilization-is-an-important-protection-that-strikes-a-fair-balance/#:~:text=HB%201217)
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Making housing more affordable - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=House%20Bill%201217)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in our community - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/04/11/investing-in-our-community/#:~:text=House%20Bill%201217)

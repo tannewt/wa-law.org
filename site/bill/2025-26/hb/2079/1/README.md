@@ -1,0 +1,79 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2079](/bill/2025-26/hb/2079/) > [Original Bill](/bill/2025-26/hb/2079/1/)
+
+# HB 2079 - Alcohol taxes
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2079.pdf)
+
+## Section 1
+1. There is hereby imposed upon all wines except cider sold to wine distributors within the state a tax at the rate of twenty and one-fourth cents per liter. Any domestic winery or certificate of approval holder acting as a distributor of its own production must pay taxes imposed by this section. There is hereby imposed on all cider sold to wine distributors within the state a tax at the rate of three and fifty-nine one-hundredths cents per liter. However, wine sold or shipped in bulk from one winery to another winery is not subject to such tax.
+
+    a. The tax provided for in this section shall be collected by direct payments based on wine purchased by wine distributors.
+
+    b. Except as provided in subsection (7) of this section, every person purchasing wine under the provisions of this section must on or before the twentieth day of each month report to the board all purchases during the preceding calendar month in such manner and upon such forms as may be prescribed by the board, and with such report must pay the tax due from the purchases covered by such report unless the same has previously been paid. Any such purchaser of wine whose applicable tax payment is not postmarked by the twentieth day following the month of purchase will be assessed a penalty at the rate of two percent a month or fraction thereof. The board may require that every such person shall execute to and file with the board a bond to be approved by the board, in such amount as the board may fix, securing the payment of the tax. If any such person fails to pay the tax when due, the board may suspend or cancel the license until all taxes are paid.
+
+    c. Any licensed retailer authorized to purchase wine from a certificate of approval holder with a direct shipment endorsement or a domestic winery must make monthly reports to the liquor and cannabis board on wine purchased during the preceding calendar month in the manner and upon such forms as may be prescribed by the board.
+
+2. An additional tax is imposed equal to the rate specified in RCW 82.02.030 multiplied by the tax payable under subsection (1) of this section. All revenues collected during any month from this additional tax must be transferred to the state general fund by the twenty-fifth day of the following month.
+
+3. An additional tax is imposed on wines subject to tax under subsection (1) of this section, at the rate of one-fourth of one cent per liter for wine sold after June 30, 1987. After June 30, 1996, such additional tax does not apply to cider. An additional tax of five one-hundredths of one cent per liter is imposed on cider sold after June 30, 1996. All revenues collected under this subsection (3) shall be disbursed quarterly to the Washington wine commission for use in carrying out the purposes of chapter 15.88 RCW.
+
+4. An additional tax is imposed on all wine subject to tax under subsection (1) of this section. The additional tax is equal to $0.4688 per liter on fortified wine as defined in RCW 66.04.010 when bottled or packaged by the manufacturer, $0.02 per liter on all other wine except cider, and eighteen one-hundredths of one cent per liter on cider. All revenues collected during any month from this additional tax shall be deposited in the state general fund by the twenty-fifth day of the following month.
+
+5. [Empty]
+
+    a. An additional tax is imposed on all cider subject to tax under subsection (1) of this section. The additional tax is equal to two and four one-hundredths cents per liter of cider sold after June 30, 1996, and before July 1, 1997, and is equal to four and seven one-hundredths cents per liter of cider sold after June 30, 1997.
+
+    b. An additional tax is imposed on all cider subject to tax under subsection (1) of this section. The additional tax is equal to $0.0563 per liter of cider.
+
+    c. All revenues collected from the additional taxes imposed under this subsection (5) must be deposited in the state general fund.
+
+6. For the purposes of this section, "cider" means table wine that contains not less than one-half of one percent of alcohol by volume and not more than eight and one-half percent of alcohol by volume and is made from the normal alcoholic fermentation of the juice of sound, ripe apples or pears. "Cider" includes, but is not limited to, flavored, sparkling, or carbonated cider and cider made from condensed apple or pear must.
+
+7. For the purposes of this section, out-of-state wineries must pay taxes under this section on wine sold and shipped directly to Washington state residents in a manner consistent with the requirements of a wine distributor under subsections (1) through (4) of this section, except wineries shall be responsible for the tax and not the resident purchaser.
+
+8. Notwithstanding any other provision of this section, any domestic winery or wine certificate of approval holder acting as a distributor of its own production that had total taxable sales of wine in Washington state of six thousand gallons or less during the calendar year preceding the date on which the tax would otherwise be due is not required to pay taxes under this section more often than annually.
+
+## Section 2
+1. Any microbrewer or domestic brewery or beer distributor licensed under this title may sell and deliver beer and strong beer to holders of authorized licenses direct, but to no other person, other than the board. Any certificate of approval holder authorized to act as a distributor under RCW 66.24.270 shall pay the taxes imposed by this section.
+
+    a. Every such brewery or beer distributor shall report all sales to the board monthly, pursuant to the regulations, and shall pay to the board as an added tax for the privilege of manufacturing and selling the beer and strong beer within the state a tax of one dollar and thirty cents per barrel of thirty-one gallons on sales to licensees within the state and on sales to licensees within the state of bottled and canned beer, including strong beer, shall pay a tax computed in gallons at the rate of one dollar and thirty cents per barrel of thirty-one gallons.
+
+    b. Any brewery or beer distributor whose applicable tax payment is not postmarked by the twentieth day following the month of sale will be assessed a penalty at the rate of two percent per month or fraction thereof. Beer and strong beer shall be sold by breweries and distributors in sealed barrels or packages.
+
+    c. The moneys collected under this subsection shall be distributed as follows: (i) Three-tenths of a percent shall be distributed to border areas under RCW 66.08.195; and (ii) of the remaining moneys: (A) Twenty percent shall be distributed to counties in the same manner as under RCW 66.08.200; and (B) eighty percent shall be distributed to incorporated cities and towns in the same manner as under RCW 66.08.210.
+
+    d. Any licensed retailer authorized to purchase beer from a certificate of approval holder with a direct shipment endorsement or a brewery or microbrewery shall make monthly reports to the state liquor and cannabis board on beer purchased during the preceding calendar month in the manner and upon such forms as may be prescribed by the board.
+
+2. An additional tax is imposed on all beer and strong beer subject to tax under subsection (1) of this section. The additional tax is equal to $4 per barrel of thirty-one gallons. All revenues collected during any month from this additional tax shall be deposited in the state general fund by the twenty-fifth day of the following month.
+
+3. [Empty]
+
+    a. An additional tax is imposed on all beer and strong beer subject to tax under subsection (1) of this section. The additional tax is equal to ninety-six cents per barrel of thirty-one gallons through June 30, 1995, two dollars and thirty-nine cents per barrel of thirty-one gallons for the period July 1, 1995, through June 30, 1997, and $9.56 per barrel of thirty-one gallons thereafter.
+
+    b. The additional tax imposed under this subsection does not apply to the sale of the first sixty thousand barrels of beer each year by breweries that are entitled to a reduced rate of tax under 26 U.S.C. Sec. 5051, as existing on July 1, 1993, or such subsequent date as may be provided by the board by rule consistent with the purposes of this exemption.
+
+    c. All revenues collected from the additional tax imposed under this subsection (3) shall be deposited in the state general fund.
+
+4. An additional tax is imposed on all beer and strong beer that is subject to tax under subsection (1) of this section that is in the first sixty thousand barrels of beer and strong beer by breweries that are entitled to a reduced rate of tax under 26 U.S.C. Sec. 5051, as existing on July 1, 1993, or such subsequent date as may be provided by the board by rule consistent with the purposes of the exemption under subsection (3)(b) of this section. The additional tax is equal to one dollar and forty-eight and two-tenths cents per barrel of thirty-one gallons. By the twenty-fifth day of the following month, three percent of the revenues collected from this additional tax shall be distributed to border areas under RCW 66.08.195 and the remaining moneys shall be transferred to the state general fund.
+
+5.
+
+An additional tax is imposed on all beer and strong beer subject to tax under subsection (1) of this section. The additional tax is equal to $1.2961 per barrel of 31 gallons. The moneys collected under this subsection must be distributed as follows:
+
+    a. 20 percent must be distributed to counties in the same manner as under RCW 66.08.200; and
+
+    b. 80 percent shall be distributed to incorporated cities and towns in the same manner as under RCW 66.08.210.
+
+6. An additional tax is imposed on all beer and strong beer that is subject to tax under subsection (1) of this section that is in the first 60,000 barrels of beer and strong beer by breweries that are entitled to a reduced rate of tax under 26 U.S.C. Sec. 5051, as existing on July 1, 1993, or such subsequent date as may be provided by the board by rule consistent with the purposes of the exemption under subsection (3)(b) of this section. The additional tax is equal to $1.4375 per barrel of 31 gallons. By the 25th day of the following month, the revenues collected from this additional tax must be transferred to the state general fund.
+
+7. The board may make refunds for all taxes paid on beer and strong beer exported from the state for use outside the state.
+
+8. The board may require filing with the board of a bond to be approved by it, in such amount as the board may fix, securing the payment of the tax. If any licensee fails to pay the tax when due, the board may forthwith suspend or cancel his or her license until all taxes are paid.
+
+## Section 3
+1. The rate of the additional taxes under RCW 54.28.020(2), 54.28.025(2),  82.16.020(2), 82.27.020(5), and 82.29A.030(2) shall be seven percent.
+
+2. The rate of the additional taxes under RCW 66.24.210(2) shall be 14 percent.
+
+## Section 4
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2025.

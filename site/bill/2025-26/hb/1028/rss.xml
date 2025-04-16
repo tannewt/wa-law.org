@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1028/</link>
 		<description>Updates about HB 1028</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -190,6 +190,13 @@
 			<pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-14/President signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-15/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

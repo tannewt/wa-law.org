@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33324&aId=167144&caId=26944&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33324&aId=167144&caId=26944&tId=4)
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
 
-#### 9 👎 - Con
+#### 46 👎 - Con
 Testifying:
 * Laurie Layne
 * Aidan Mozingo
 * Tim Eyman - Initiative Activist
+* Todd Myers - Washington Policy Center
 
 #### 0 ❓ - Other

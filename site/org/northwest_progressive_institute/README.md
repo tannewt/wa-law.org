@@ -89,13 +89,16 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
-## [SB 5802](/bill/2025-26/sb/5802/) - Transportation funds  👎1 
+### [SB 5802](/bill/2025-26/sb/5802/) - Transportation funds  👎1 
 * 👎 Andrew Villeneuve
+
+## [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+* 👍 Andrew Villeneuve
 
 ## 2023-24
 
-### [SB 5802](/bill/2023-24/sb/5802/) - Transportation funds  👎1 
-* 👎 Andrew Villeneuve
+### [SB 5813](/bill/2023-24/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+* 👍 Andrew Villeneuve
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

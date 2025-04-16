@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=HB%202049)
+* 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=HB%202049)
+* 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Democrats in Washington Legislature reveal sweeping new tax plan • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan/#:~:text=House%20Bill%202049)
+* 04/15/2025 [MyNorthwest](/org/mynorthwest/) - ['It would ruin the housing market': Jake and Spike talk property taxes](https://mynorthwest.com/jake-and-spike/housing-market-property-tax/4076062#:~:text=House%20Bill%202049)
 * 04/09/2025 [FOX13](/org/fox13/) - [WA lawmakers debate raising property taxes to bring in more money | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmakers-raising-property-taxes#:~:text=a%20similar%20proposal)
 * 04/09/2025 [The Center Square](/org/the_center_square/) - [Senate Republicans: WA property taxes will skyrocket under bill to remove annual cap | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68148e26-5f20-4a9b-b4fc-f9d2b64f7db4.html#:~:text=House%20Bill%202049)
 * 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=HB%202049)

@@ -19,9 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167146&caId=26946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167146&caId=26946&tId=4)
 
-#### 0 👍 - Pro
+#### 77 👍 - Pro
 
-#### 1 👎 - Con
+#### 93 👎 - Con
+Testifying:
+* Andrew Villeneuve - Northwest Progressive Institute / Executive Director
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
 #### 0 ❓ - Other
 

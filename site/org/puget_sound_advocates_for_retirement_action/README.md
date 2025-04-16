@@ -28,6 +28,8 @@
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
 
+### [HB 2077](/bill/2025-26/hb/2077/) - Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program. 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
@@ -63,11 +65,19 @@
 
 ### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 
-## [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
+### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
+
+### [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg. 👍1  
+
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+
+## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
 ## 2023-24
 
-### [SB 5768](/bill/2023-24/sb/5768/) - Working families' tax credit 👍1  
+### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

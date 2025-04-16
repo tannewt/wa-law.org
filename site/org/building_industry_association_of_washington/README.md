@@ -334,13 +334,19 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 * 👎💵 Jan Himebaugh
+
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding  👎1 
+* 👎💵 Andrea Smiley
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
+
+## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
-* 👎💵 Jan Himebaugh
+### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

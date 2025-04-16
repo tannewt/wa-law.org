@@ -36,6 +36,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
 ## [SJM 8000](/bill/2025-26/sjm/8000/) - Martin Luther King, Jr. Way 👍1  
 
 ## 2023-24

@@ -193,12 +193,20 @@
 ### [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
 * 👎 Sean DeWitz
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+* 👎💵 Julia Gorton
+
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding  👎1 
+
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+* 👎💵 Julia Gorton
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎💵 Julia Gorton
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎💵 Julia Gorton
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  

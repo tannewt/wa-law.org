@@ -31,11 +31,15 @@
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
 
-## [SB 5672](/bill/2025-26/sb/5672/) - Home care aide certification 👍1  
+### [SB 5672](/bill/2025-26/sb/5672/) - Home care aide certification 👍1  
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.   ❓1
+* ❓ Jeff Gombosky
 
 ## 2023-24
 
-### [SB 5672](/bill/2023-24/sb/5672/) - Home care aide certification 👍1  
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.   ❓1
+* ❓ Jeff Gombosky
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1
 * 👍 Jeff Gombosky

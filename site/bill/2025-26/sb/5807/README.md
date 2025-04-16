@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167145&caId=26945&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167145&caId=26945&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 1 👎 - Con
+#### 143 👎 - Con
+Testifying:
+* 💵Kurt Spiegel - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)

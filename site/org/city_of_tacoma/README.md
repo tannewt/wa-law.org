@@ -100,13 +100,14 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
-## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 * 👎 Carrie Wilhelme
+
+## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ## 2023-24
 
-### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
-* 👎 Carrie Wilhelme
+### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

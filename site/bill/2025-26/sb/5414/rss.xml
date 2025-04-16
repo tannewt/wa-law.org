@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5414/</link>
 		<description>Updates about SB 5414</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -177,6 +177,13 @@
 			<pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-14/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-15/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

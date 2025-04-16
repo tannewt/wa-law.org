@@ -10,7 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/15/2025 [KGW](/org/kgw/) - [Oregon lawmakers eye more gun control bills as Measure 114 remains on hold | kgw.com](https://www.kgw.com/article/news/local/the-story/measure-114-constitutional-oregon-lawmakers-more-gun-control-bills/283-0b6547b9-56c0-401c-8bd5-43a14f712cbf#:~:text=House%20Bill%201163)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit requirement for gun purchases clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/permit-requirement-for-gun-purchases-clears-washington-senate/#:~:text=House%20Bill%201163)
+* 04/15/2025 [MyNorthwest](/org/mynorthwest/) - [WA Senate approves permit to purchase gun bill with tweaks](https://mynorthwest.com/mynorthwest-politics/permit-gun-bill/4076145#:~:text=House%20Bill%201163)
 * 04/10/2025 [Senate Republicans](/org/senate_republicans/) - [AUDIO: 9th District Legislative Update with state Sen. Mark Schoesler - Senate Republican Caucus](https://src.wastateleg.org/blog/audio-9th-district-legislative-update-state-sen-mark-schoesler-2/#:~:text=House%20Bill%201163)
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201163)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=E2SHB%201163)
