@@ -61,11 +61,13 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+## [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5813](/bill/2023-24/sb/5813/) - Tax rates/cap. gains, estate 👍2  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

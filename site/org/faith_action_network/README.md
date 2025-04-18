@@ -44,6 +44,8 @@
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍3  
 * 👍💵 Kristin Ang
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍4  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍6  
@@ -85,11 +87,15 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍2  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍3  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍3  
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍3  
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍3  
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

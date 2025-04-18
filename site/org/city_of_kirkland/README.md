@@ -129,6 +129,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 
 ## 2023-24

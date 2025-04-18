@@ -41,10 +41,12 @@
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍2  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  

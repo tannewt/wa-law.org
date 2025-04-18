@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1068/</link>
 		<description>Updates about HB 1068</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 16 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -157,6 +157,13 @@
 			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-15/Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-16/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

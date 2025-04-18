@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/16/2025 [The Urbanist](/org/the_urbanist/) - [State Senate Greenlights Sweeping Transit-Oriented Housing Bill - The Urbanist](https://www.theurbanist.org/2025/04/16/state-senate-greenlights-sweeping-tod-housing-bill/#:~:text=counterproposal)
 * 03/28/2024 [Sightline Institute](/org/sightline_institute/) - [Washington’s 2024 Short-Session Housing Wins - Sightline Institute](https://www.sightline.org/2024/03/28/washingtons-2024-short-session-housing-wins/#:~:text=HB%202160)
 * 03/11/2024 [The Urbanist](/org/the_urbanist/) - [Year of Housing 2.0 Mostly Fizzles Out at Washington Legislature - The Urbanist](https://www.theurbanist.org/2024/03/11/year-of-housing-2-0-mostly-fizzles-out-at-washington-legislature/#:~:text=HB%202160)
 * 03/07/2024 [Crosscut](/org/crosscut/) - [A heap of housing bills failed in WA’s legislative session | Crosscut](https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=House%20Bill%202160,)

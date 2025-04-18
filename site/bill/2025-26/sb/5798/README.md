@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/16/2025 [FOX13](/org/fox13/) - [WA Democrats propose new taxes to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=property%20tax%20exemptions)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205798)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205798)
 * 04/11/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Rent control, an assault on parents' rights, and the fight against higher property taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-rent-control-assault-parents-rights-fight-higher-property-taxes/#:~:text=(SB%205798))

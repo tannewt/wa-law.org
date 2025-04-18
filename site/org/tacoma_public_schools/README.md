@@ -34,13 +34,16 @@
 
 ### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.   ❓1
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.   ❓1
 * ❓ Charlie Brown
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.   ❓1
-* ❓ Charlie Brown
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
 ### [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation   ❓1
 * ❓ Charlie Brown

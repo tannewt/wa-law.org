@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5263/</link>
 		<description>Updates about SB 5263</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 10 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 17 Apr 2025 00:31:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1146,6 +1146,20 @@
 			<pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-10/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-16/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Washington takes ‘historic’ step toward full funding for special education • Washington State Standard</title>
+			<description>News article "Washington takes ‘historic’ step toward full funding for special education • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 17 Apr 2025 00:31:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/16/washington-takes-historic-step-to-assure-full-funding-for-special-education/#:~:text=Senate%20Bill%205263</guid>
 		</item>
 	</channel>
 </rss>

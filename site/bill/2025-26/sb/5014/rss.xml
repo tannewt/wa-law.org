@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5014/</link>
 		<description>Updates about SB 5014</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 16 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -147,6 +147,13 @@
 			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-15/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-16/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

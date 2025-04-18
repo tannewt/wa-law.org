@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/16/2025 [The Center Square](/org/the_center_square/) - [House approves legislation to modernize WA’s recycling system | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a110e8a0-11e8-4aaf-936a-ccbdb8f6f849.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205284)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [Transportation and capital budgets | Washington State House Republicans](https://houserepublicans.wa.gov/current/transportation-and-capital-budgets/#:~:text=Senate%20Bill%205284)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205284)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=E2SSB%205284)

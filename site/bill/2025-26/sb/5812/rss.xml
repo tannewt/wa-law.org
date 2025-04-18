@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5812/</link>
 		<description>Updates about SB 5812</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 16 Apr 2025 16:11:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 16 Apr 2025 18:08:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,7 +65,23 @@
 			<guid isPermaLink="false">testifier/John/Morgan/2025-04-15 05:05:04</guid>
 		</item>
 		<item>
-			<title>👍Snohomish County Council Megan Dunn - Washington Education Association</title>
+			<title>👍Carolina Mejia - Thurston County Commissioner</title>
+			<description>Carolina Mejia signed up to testify Pro. They are signed up to represent Thurston County Commissioner.</description>
+			<pubDate>Tue, 15 Apr 2025 05:33:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carolina/Mejia/2025-04-15 05:33:19</guid>
+		</item>
+		<item>
+			<title>👍Megan Dunn - Snohomish County Council</title>
+			<description>Megan Dunn signed up to testify Pro. They are signed up to represent Snohomish County Council.</description>
+			<pubDate>Tue, 15 Apr 2025 05:33:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Megan/Dunn/2025-04-15 05:33:19</guid>
+		</item>
+		<item>
+			<title>👍Snohomish County Council Megan Dunn - Snohomish County Council</title>
 			<description>Snohomish County Council Megan Dunn signed up to testify Pro.</description>
 			<pubDate>Tue, 15 Apr 2025 05:33:19 GMT</pubDate>
 			<category>testifier</category>
@@ -73,7 +89,7 @@
 			<guid isPermaLink="false">testifier/Snohomish County Council/Megan Dunn/2025-04-15 05:33:19</guid>
 		</item>
 		<item>
-			<title>👍Thurston County Commissio Carolina Mejia - Washington Education Association</title>
+			<title>👍Thurston County Commissio Carolina Mejia - Snohomish County Council</title>
 			<description>Thurston County Commissio Carolina Mejia signed up to testify Pro.</description>
 			<pubDate>Tue, 15 Apr 2025 05:33:19 GMT</pubDate>
 			<category>testifier</category>
@@ -175,6 +191,69 @@
 			<guid isPermaLink="false">2025-04-16/First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-16/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎Iris Poynter - Washington State Young Republicans</title>
+			<description>Iris Poynter signed up to testify Con.</description>
+			<pubDate>Wed, 16 Apr 2025 01:22:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Iris/Poynter/2025-04-16 01:22:03</guid>
+		</item>
+		<item>
+			<title>👍Dr. Trevor Greene - Yakima School District</title>
+			<description>Dr. Trevor Greene signed up to testify Pro. They are signed up to represent Yakima School District.</description>
+			<pubDate>Wed, 16 Apr 2025 02:11:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Trevor/Greene/2025-04-16 02:11:24</guid>
+		</item>
+		<item>
+			<title>👍Mark Ozias - Clallam County Board of Commissioners</title>
+			<description>Mark Ozias signed up to testify Pro. They are signed up to represent Clallam County Board of Commissioners.</description>
+			<pubDate>Wed, 16 Apr 2025 02:17:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Ozias/2025-04-16 02:17:15</guid>
+		</item>
+		<item>
+			<title>❓Charlie Brown - South Sound Superintendents</title>
+			<description>Charlie Brown signed up to testify Other. They are signed up to represent South Sound Superintendents.</description>
+			<pubDate>Wed, 16 Apr 2025 02:21:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2025-04-16 02:21:13</guid>
+		</item>
+		<item>
+			<title>👎Jamie Paradiso - Washington State Young Republicans</title>
+			<description>Jamie Paradiso signed up to testify Con.</description>
+			<pubDate>Wed, 16 Apr 2025 03:21:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jamie/Paradiso/2025-04-16 03:21:06</guid>
+		</item>
+		<item>
+			<title>👍Kathryn List - Clallam County Board of Commissioners</title>
+			<description>Kathryn List signed up to testify Pro.</description>
+			<pubDate>Wed, 16 Apr 2025 03:22:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathryn/List/2025-04-16 03:22:52</guid>
+		</item>
+		<item>
+			<title>👎Kathryn Richardson - Washington State Young Republicans</title>
+			<description>Kathryn Richardson signed up to testify Con.</description>
+			<pubDate>Wed, 16 Apr 2025 03:51:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kathryn/Richardson/2025-04-16 03:51:33</guid>
+		</item>
+		<item>
 			<title>House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats</title>
 			<description>News article "House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats" from Senate Democrats.</description>
 			<pubDate>Wed, 16 Apr 2025 04:21:15 GMT</pubDate>
@@ -187,6 +266,14 @@
 			<pubDate>Wed, 16 Apr 2025 04:21:15 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205812</guid>
+		</item>
+		<item>
+			<title>❓Lisa Guthrie - Lake Washington School District</title>
+			<description>Lisa Guthrie signed up to testify Other. They are signed up to represent Lake Washington School District.</description>
+			<pubDate>Wed, 16 Apr 2025 04:29:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lisa/Guthrie/2025-04-16 04:29:19</guid>
 		</item>
 		<item>
 			<title>WA Democrats unveil 5 New tax bills targeting wealthy</title>
@@ -252,6 +339,13 @@
 			<guid isPermaLink="false">testifier/Kathie/Xu/2025-04-16 11:02:29</guid>
 		</item>
 		<item>
+			<title>KUOW - Washington state Democrats reveal sweeping new tax plan</title>
+			<description>News article "KUOW - Washington state Democrats reveal sweeping new tax plan" from KUOW.</description>
+			<pubDate>Wed, 16 Apr 2025 11:19:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan#:~:text=greater%20property%20tax%20collections</guid>
+		</item>
+		<item>
 			<title>❓💵Lacey Stanage - School Alliance</title>
 			<description>Lacey Stanage signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/school_alliance/"&gt;School Alliance&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Wed, 16 Apr 2025 11:23:35 GMT</pubDate>
@@ -268,11 +362,50 @@
 			<guid isPermaLink="false">testifier/Molly/Gallagher/2025-04-16 11:33:14</guid>
 		</item>
 		<item>
+			<title>👍Eli Taylor Goss - WA State Budget and Policy Center</title>
+			<description>Eli Taylor Goss signed up to testify Pro. They are signed up to represent WA State Budget and Policy Center.</description>
+			<pubDate>Wed, 16 Apr 2025 12:32:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eli Taylor/Goss/2025-04-16 12:32:31</guid>
+		</item>
+		<item>
+			<title>👎Fanda Lynch - N/A</title>
+			<description>Fanda Lynch signed up to testify Con. They are signed up to represent N/A.</description>
+			<pubDate>Wed, 16 Apr 2025 12:36:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Fanda/Lynch/2025-04-16 12:36:18</guid>
+		</item>
+		<item>
+			<title>👎Max Martin - Association of Washington Business</title>
+			<description>Max Martin signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;.</description>
+			<pubDate>Wed, 16 Apr 2025 12:45:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Max/Martin/2025-04-16 12:45:57</guid>
+		</item>
+		<item>
+			<title>👎Alejandro Galvan - Association of Washington Business</title>
+			<description>Alejandro Galvan signed up to testify Con.</description>
+			<pubDate>Wed, 16 Apr 2025 12:52:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alejandro/Galvan/2025-04-16 12:52:40</guid>
+		</item>
+		<item>
 			<title>So, Is The Washington State Wealth Tax Dead?</title>
 			<description>News article "So, Is The Washington State Wealth Tax Dead?" from The Burner.</description>
 			<pubDate>Wed, 16 Apr 2025 16:11:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theburnerseattle.com/post/the-wealth-tax-is-seemingly-dead#:~:text=3%</guid>
+		</item>
+		<item>
+			<title>WA Democrats propose new taxes to balance budget | FOX 13 Seattle</title>
+			<description>News article "WA Democrats propose new taxes to balance budget | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 16 Apr 2025 18:08:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=Senate%20Bill%205812</guid>
 		</item>
 	</channel>
 </rss>

@@ -95,17 +95,16 @@
 
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 
-## [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍4  
+### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍4  
 * 👍 Sharn Kaur
 * 👍💵 Charles Smith
 * 👍💵 Samuel Martin
+
+## [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
 ## 2023-24
 
-### [SB 5620](/bill/2023-24/sb/5620/) - Foster care/rights of child 👍4  
-* 👍 Sharn Kaur
-* 👍💵 Charles Smith
-* 👍💵 Samuel Martin
+### [SB 5813](/bill/2023-24/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

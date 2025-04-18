@@ -12,25 +12,24 @@
 
 ## Meetings
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5811 Zero-emission vehicle prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167147&caId=26947&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167147&caId=26947&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167147&caId=26947&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167147&caId=26947&tId=4)
-
-#### 36 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
+* Jamie Paradiso
 * Molly Gallagher - Washington Statewide Poverty Action Network
+* Eli Taylor Goss - WA State Budget and Policy Center
 
-#### 1474 👎 - Con
+#### 2039 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Todd Myers - Washington Policy Center
 * John Morgan
 * Laurie Layne
+* Gordon Lueckenotte
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jeff Gombosky - [Tesla](/org/tesla/)
+* Alejandro Galvan
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * 💵Troy Nichols - Rivian
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)

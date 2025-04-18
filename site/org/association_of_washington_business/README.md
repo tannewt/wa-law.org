@@ -728,13 +728,26 @@
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 * 👎 Max Martin
 
-## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 * 👎💵 Peter Godlewski
+
+### [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg.  👎1 
+
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding  👎1 
+* 👎 Max Martin
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
+
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+* 👎 Max Martin
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+* 👎 Max Martin
 
 ## 2023-24
 
-### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
-* 👎💵 Peter Godlewski
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+* 👎 Max Martin
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/16/2025 [KUOW](/org/kuow/) - [KUOW - Washington state Democrats reveal sweeping new tax plan](https://www.kuow.org/stories/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan#:~:text=increase%20in%20annual%20property%20tax%20growth)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=HB%202049)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=HB%202049)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Democrats in Washington Legislature reveal sweeping new tax plan • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan/#:~:text=House%20Bill%202049)

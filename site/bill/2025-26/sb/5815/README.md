@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/16/2025 [FOX13](/org/fox13/) - [WA Democrats propose new taxes to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=Senate%20Bill%205815)
 * 04/16/2025 [The Burner](/org/the_burner/) - [So, Is The Washington State Wealth Tax Dead?](https://www.theburnerseattle.com/post/the-wealth-tax-is-seemingly-dead#:~:text=B&O%20surcharge)
 * 04/16/2025 [MyNorthwest](/org/mynorthwest/) - [WA Democrats unveil 5 New tax bills targeting wealthy](https://mynorthwest.com/mynorthwest-politics/democrats-tax-bills/4076327#:~:text=Senate%20Bill%205815)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=Senate%20Bill%205815)
@@ -15,27 +16,54 @@
 
 ## Meetings
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5815 Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. (Hearing is on the Proposed Substitute.) (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167163&caId=26951&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167163&caId=26951&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167163&caId=26951&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33329&aId=167163&caId=26951&tId=4)
-
-#### 12 👍 - Pro
+#### 386 👍 - Pro
 Testifying:
+* Chris Vasseur-Landriault
+* Lonnie Johns-Brown - [Full Life Care](/org/full_life_care/)
+* 💵Collin Bannister - The Washington Student Association and ASWSU
+* 💵Michelle Carrillo - ASCWU
+* 💵Sienna Jarrard - Associated Students of UW Bothell
+* Adan Espino Jr - Nonprofit Association of WA
+* Becky Bogard - Inspire Washington
+* 💵Nancy Sapiro - [Jewish Federation of Greater Seattle](/org/jewish_federation_of_greater_seattle/)
+* 💵Nick Federici - United Way of King County
+* Dr. Rama Devagupta
+* Felipe Rodriguez-Flores
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Treasure Mackley - Invest in Washington Now
+* Bryan Kirschner
+* Nicole Cassanova
+* Lilliane Ballesteros - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* 💵Matthew Lang - National Organization for Women - WA
+* Girard Thompson - Seattle Education Association/WEA
 * Demas Nesterenko - SEIU775
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Claire Lane
 * Jaune Sonnier
 * Krystal Johnson
+* Jacob Vigdor - University of Washington Faculty/ Council of Faculty
 
-#### 1382 👎 - Con
+#### 2785 👎 - Con
 Testifying:
 * 💵Sean Graham - Washington State Medical Association
 * John Morgan
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Greg Hanon - Western States Petroleum Assoc.
 * Anthony Mixer - Washington State Young Republicans
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* Matt Binder - Ostroms Drug & Gift
+* Trina Tan - MultiCare Health System
+* Mandee Romero
+* Jamie Paradiso - 911352172
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
+* Nicole Lloyd - MultiCare
+* Kathryn List
+* Sandra Silva
+* Shauna Toney - Multicare
+* Annette Burton
+* Kimberly Sanborn - 7FM
+* Xavier Johnson
+* Erin Jeffery
 * Bryan Hannon - Healthcare Distribution Alliance
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)
 * 💵Brandon Houskeeper - NWGRA
@@ -45,8 +73,11 @@ Testifying:
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 * 💵Amber Carter - WA Retail Association
 * 💵Carolyn Logue - South Sound Chambers, ABC Inland, WA ACCA, NWHPBA, WA Denturists
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - WA Roundtable
+* Alejandro Galvan
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Lisa Thatcher - Washington Society of CPAs
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)

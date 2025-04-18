@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/06/2025 [House Democrats](/org/house_democrats/) - [Rep. Paul Works to Expand Local Government Flexibility for Affordable Housing – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/rep-paul-works-to-expand-local-government-flexibility-for-affordable-housing/#:~:text=House%20Bill%201791)

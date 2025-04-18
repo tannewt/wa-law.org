@@ -89,13 +89,14 @@
 
 ### [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍1  
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎82 ❓1
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎82 ❓1
 * ❓ Joe Dacca
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍3  
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎82 ❓1
-* ❓ Joe Dacca
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍3  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

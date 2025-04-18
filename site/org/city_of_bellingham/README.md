@@ -27,11 +27,11 @@
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍2  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 * 👍 Clare Fogelsong

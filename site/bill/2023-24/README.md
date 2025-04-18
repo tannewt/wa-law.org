@@ -56,7 +56,7 @@
 * [HB 1628](hb/1628) - Real estate excise tax 17📰 1357👍 1518👎 5❓ - HRules X
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 8📰 2527👍 293👎 16❓ - C 255 L 24
 * [HB 1589](hb/1589) - Clean energy 83📰 542👍 2183👎 42❓ - C 351 L 24
-* [SB 5466](sb/5466) - Transit-oriented development 37📰 2545👍 46👎 35❓ - SRules X
+* [SB 5466](sb/5466) - Transit-oriented development 38📰 2545👍 46👎 35❓ - SRules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - HRules 3C
 * [HB 1832](hb/1832) - Vehicle per mile charge 8📰 62👍 2527👎 34❓ - HTransportation
 * [HB 1829](hb/1829) - LeMay special license plate 1📰 2589👍 2👎 20❓ - HTransportation
@@ -72,7 +72,7 @@
 * [HB 1902](hb/1902) - Firearms/purchase & transfer 7📰 878👍 1472👎 3❓ - HCivil R & Judi
 * [HB 1932](hb/1932) - Even-numbered year elections 24📰 774👍 1555👎 6❓ - HRules 3C
 * [SB 5389](sb/5389) - Optometry 1📰 615👍 1710👎 5❓ - C 400 L 23
-* [HB 2160](hb/2160) - Housing development 14📰 1559👍 743👎 26❓ - HRules 3C
+* [HB 2160](hb/2160) - Housing development 15📰 1559👍 743👎 26❓ - HRules 3C
 * [SB 5435](sb/5435) - Residential rent increases 14📰 1207👍 1090👎 11❓ - SHousing
 * [HB 1002](hb/1002) - Hazing penalty 8📰 2240👍 12👎 11❓ - C 196 L 23
 * [HB 2054](hb/2054) - Concerning bulk purchases and transfers of firearms. 3📰 843👍 1414👎 2❓ - HCivil R & Judi

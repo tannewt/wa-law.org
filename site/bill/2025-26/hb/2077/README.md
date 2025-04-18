@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33324&aId=167144&caId=26944&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33324&aId=167144&caId=26944&tId=4)
 
-#### 18 👍 - Pro
+#### 28 👍 - Pro
 
-#### 46 👎 - Con
+#### 95 👎 - Con
 Testifying:
 * Laurie Layne
 * Aidan Mozingo
 * Tim Eyman - Initiative Activist
 * Todd Myers - Washington Policy Center
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)

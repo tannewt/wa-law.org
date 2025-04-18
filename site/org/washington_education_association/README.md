@@ -640,9 +640,19 @@
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍2  
 * 👍💵 Julie Salvi
 
+### [SB 5807](/bill/2025-26/sb/5807/) - Health plan incentives   ❓1
+
+### [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg. 👍1  
+
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
 * 👍💵 Simone Boe
 * 👍 Regen Lorden
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
+
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

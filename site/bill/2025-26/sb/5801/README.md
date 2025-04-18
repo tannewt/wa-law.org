@@ -16,3 +16,15 @@
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan transportation budget to keep projects going, preserve infrastructure, make roads safer - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/24/senate-unveils-bipartisan-transportation-budget-to-keep-projects-going-preserve-infrastructure-make-roads-safer/#:~:text=5801)
 
 ## Meetings
+### Tue 04/22 10:00 AM - Transportation (TR): ESSB 5801 Transportation resources
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167175&caId=26954&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167175&caId=26954&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167175&caId=26954&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167175&caId=26954&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

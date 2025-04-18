@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Second%20Substitute%20House%20Bill%201696)

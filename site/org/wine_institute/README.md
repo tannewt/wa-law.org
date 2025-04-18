@@ -13,11 +13,13 @@
 
 ### [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages  👎1 
 
-## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
+### [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 
 ## 2023-24
 
-### [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎1 
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓1
 * ❓💵 Rowland Thompson

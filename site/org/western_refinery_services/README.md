@@ -18,6 +18,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding  👎1 
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎1 
@@ -34,11 +36,17 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding  👎1 
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 
 ### [HB 1067](/bill/2023-24/hb/1067/) - High-hazard facility wages  👎2 
 * 👎 Ryan Likkel

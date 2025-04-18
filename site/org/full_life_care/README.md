@@ -8,7 +8,11 @@
 
 ### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
 
-### [HB 2077](/bill/2025-26/hb/2077/) - Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program. 👍1  
+### [HB 2077](/bill/2025-26/hb/2077/) - Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program. 👍3  
+
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍2  
+
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍2  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓3
 * ❓ Hannah Brendemuhl
@@ -23,11 +27,15 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+
+## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+* 👍 Lonnie Johns-Brown
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍1  
+### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+* 👍 Lonnie Johns-Brown
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

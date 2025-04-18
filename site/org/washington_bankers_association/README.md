@@ -24,6 +24,9 @@
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎2 
 * 👎 Glen Simecek
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+* 👎 Glen Simecek
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 
@@ -44,6 +47,9 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 * 👎💵 Megan Managan
+
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+* 👎 Glen Simecek
 
 ## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎 Glen Simecek

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2082/</link>
 		<description>Updates about HB 2082</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 16 Apr 2025 04:21:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 16 Apr 2025 18:08:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,6 +23,13 @@
 			<guid isPermaLink="false">2025-04-16/First reading, referred to Finance (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-16/First reading, referred to Finance.</guid>
+		</item>
+		<item>
 			<title>House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats</title>
 			<description>News article "House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats" from Senate Democrats.</description>
 			<pubDate>Wed, 16 Apr 2025 04:21:15 GMT</pubDate>
@@ -35,6 +42,20 @@
 			<pubDate>Wed, 16 Apr 2025 04:21:15 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=HB%202082</guid>
+		</item>
+		<item>
+			<title>KUOW - Washington state Democrats reveal sweeping new tax plan</title>
+			<description>News article "KUOW - Washington state Democrats reveal sweeping new tax plan" from KUOW.</description>
+			<pubDate>Wed, 16 Apr 2025 11:19:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan#:~:text=House%20Bill%202082</guid>
+		</item>
+		<item>
+			<title>WA Democrats propose new taxes to balance budget | FOX 13 Seattle</title>
+			<description>News article "WA Democrats propose new taxes to balance budget | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 16 Apr 2025 18:08:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=companion%20bill</guid>
 		</item>
 	</channel>
 </rss>
