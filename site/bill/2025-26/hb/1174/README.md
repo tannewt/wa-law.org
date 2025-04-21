@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 04/07/2025 [House Democrats](/org/house_democrats/) - [Senate passes Peterson bill to help courts provide interpreter services and improve access to justice.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/07/senate-passes-peterson-bill-to-help-courts-provide-interpreter-services-and-improve-access-to-justice/#:~:text=House%20Bill%201174,)

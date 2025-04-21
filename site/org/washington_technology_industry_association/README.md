@@ -37,16 +37,21 @@
 
 ### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 * 👎💵 Kelly Fukai
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
 * 👎💵 Kelly Fukai
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
+
+## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax  👎1 
-* 👎💵 Kelly Fukai
+### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

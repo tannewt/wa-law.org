@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=HB%202083)
+
 ## Meetings

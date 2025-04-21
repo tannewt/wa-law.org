@@ -127,7 +127,7 @@
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 * 👍💵 Bryce Yadon
 
-### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management plans   ❓1
 * ❓💵 Bryce Yadon
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1

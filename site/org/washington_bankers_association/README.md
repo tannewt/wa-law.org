@@ -42,8 +42,9 @@
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank   ❓1
 * ❓ Glen Simecek
 
-### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎2 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎2 ❓1
 * 👎💵 Megan Managan
+* ❓ Glen Simecek
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 * 👎💵 Megan Managan

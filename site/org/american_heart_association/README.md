@@ -23,11 +23,15 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎💵 Alex Hamasaki
 
-## [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍2  
+### [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍2  
+
+## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
+* ❓💵 Alex Hamasaki
 
 ## 2023-24
 
-### [SB 5183](/bill/2023-24/sb/5183/) - Tobacco & nicotine products 👍2  
+### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes   ❓1
+* ❓💵 Alex Hamasaki
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

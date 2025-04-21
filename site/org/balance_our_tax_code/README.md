@@ -9,6 +9,9 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
+* 👍💵 Emma Scalzo
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Emma Scalzo
 

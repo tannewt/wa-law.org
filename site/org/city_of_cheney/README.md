@@ -28,11 +28,11 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
-## [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍2  
+## [SB 5558](/bill/2025-26/sb/5558/) - Growth management plans 👍2  
 
 ## 2023-24
 
-### [SB 5558](/bill/2023-24/sb/5558/) - Growth management comp plans 👍2  
+### [SB 5558](/bill/2023-24/sb/5558/) - Growth management plans 👍2  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎2 
 

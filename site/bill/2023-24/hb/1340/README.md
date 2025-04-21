@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/17/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles’ maternal health bills advance as Black Maternal Health Week concludes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/04/17/nobles-maternal-health-bills-advance-as-black-maternal-health-week-concludes/#:~:text=HB%201340)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201340)
 * 06/28/2023 [House Democrats](/org/house_democrats/) - [Rep. Thai Attends White House Convening on Reproductive Rights – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/28/rep-thai-attends-white-house-convening-on-reproductive-rights/#:~:text=HB%201340)
 * 06/15/2023 [Senate Democrats](/org/senate_democrats/) - [Sens. Dhingra, Kuderer attend White House event detailing efforts to protect reproductive rights in Washington state  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/06/15/sens-dhingra-kuderer-attend-white-house-event-detailing-efforts-to-protect-reproductive-rights-in-washington-state/#:~:text=HB%201340)

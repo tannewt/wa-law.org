@@ -416,6 +416,11 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 
+### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg.  👎1 
+
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+* 👎 Max Martin
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
@@ -626,7 +631,7 @@
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations 👍1  
 * 👍💵 Morgan Irwin
 
-### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management plans   ❓1
 * ❓💵 Morgan Irwin
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍2  
@@ -715,7 +720,8 @@
 
 ### [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
 
-### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎3 
+* 👎 Max Martin
 
 ### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate  👎1 
 
@@ -736,9 +742,10 @@
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding  👎1 
 * 👎 Max Martin
 
-### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎2 
 
-### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎2 
+* 👎 Max Martin
 * 👎 Max Martin
 
 ## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 

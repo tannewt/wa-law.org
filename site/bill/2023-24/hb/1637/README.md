@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Town hall TODAY & update on my bills - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/02/17/newsletter-town-hall-today-update-on-my-bills/#:~:text=HB%201637)
+* 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Town hall, podcast, update on bills and info for visiting the Capitol - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/02/06/newsletter-town-hall-podcast-update-on-bills-and-info-for-visiting-the-capitol/#:~:text=HB%201637)
 * 04/10/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s foreclosure protections measures head to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/legislative-news-orwalls-foreclosure-protections-measures-head-to-governor/#:~:text=HB%201637)
 
 ## Meetings

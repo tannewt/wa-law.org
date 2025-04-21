@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/05/2025 [House Democrats](/org/house_democrats/) - [House Passes Obras Bill Enforcing Protections for Housekeepers, Security Guards, and Janitors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/house-passes-obras-bill-enforcing-protections-for-housekeepers-security-guards-and-janitors/#:~:text=House%20Bill%201524)

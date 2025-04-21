@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): 2SHB 1516 Insurance/affordable units

@@ -53,6 +53,9 @@
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍2  
 * 👍💵 Rian Watt
 
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
+* 👍💵 Alexis Mansanarez
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍4  

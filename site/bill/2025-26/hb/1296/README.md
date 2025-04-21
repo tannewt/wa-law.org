@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%201296)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Rewrite of parental rights law passes Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/04/14/rewrite-of-parental-rights-law-passes-washington-house/#:~:text=House%20Bill%201296)
 * 04/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Long to-do list confronts Washington lawmakers, as session nears its end • Washington State Standard](https://washingtonstatestandard.com/2025/04/14/long-to-do-list-confronts-washington-lawmakers-as-session-nears-its-end/#:~:text=House%20Bill%201296)
 * 04/12/2025 [The Center Square](/org/the_center_square/) - [WA Senate passes bill that partly revises parents’ bill of rights initiative | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_07324883-0cbe-4c5a-b4d2-fc6e1f97c846.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)

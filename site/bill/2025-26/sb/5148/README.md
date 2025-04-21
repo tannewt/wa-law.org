@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Making housing more affordable - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=SB%205148)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1515/</link>
 		<description>Updates about HB 1515</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 16 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Apr 2025 21:52:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -241,6 +241,13 @@
 			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-16/Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Washington state may ease beer garden rules for World Cup - Axios Seattle</title>
+			<description>News article "Washington state may ease beer garden rules for World Cup - Axios Seattle" from Axios.</description>
+			<pubDate>Fri, 18 Apr 2025 21:52:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/04/18/washington-world-cup-beer-garden-rules#:~:text=House%20Bill%201515</guid>
 		</item>
 	</channel>
 </rss>

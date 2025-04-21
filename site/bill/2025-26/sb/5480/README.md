@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/10/2025 [The Center Square](/org/the_center_square/) - [WA Legislature passes bill eliminating medical debt from consumer credit reports | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3cb2146d-bf2d-4b39-acda-ce6bdf0a2d53.html#:~:text=Senate%20Bill%205480)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/17/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles’ maternal health bills advance as Black Maternal Health Week concludes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/04/17/nobles-maternal-health-bills-advance-as-black-maternal-health-week-concludes/#:~:text=SB%206151)
+
 ## Meetings
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): ESB 6151 Ultrasound
 #### 205 👍 - Pro

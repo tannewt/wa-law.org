@@ -92,6 +92,9 @@
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎82 ❓1
 * ❓ Joe Dacca
 
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
+* ❓ Joe Dacca
+
 ## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍3  
 
 ## 2023-24

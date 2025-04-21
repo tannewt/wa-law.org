@@ -5,8 +5,15 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202049)
+* 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=House%20Bill%202049.)
+* 04/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington needs new voices in the debate over school funding • Washington State Standard](https://washingtonstatestandard.com/2025/04/18/washington-needs-new-voices-in-the-debate-over-school-funding/#:~:text=HB%202049)
+* 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Supreme Court strikes down Spokane camping ban initiative | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-supreme-court-strikes-down-spokane-camping-ban-initiative#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
+* 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=HB%202049:)
+* 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
 * 04/16/2025 [KUOW](/org/kuow/) - [KUOW - Washington state Democrats reveal sweeping new tax plan](https://www.kuow.org/stories/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan#:~:text=increase%20in%20annual%20property%20tax%20growth)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=HB%202049)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=HB%202049)
@@ -23,6 +30,7 @@
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202049)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202049)
 * 03/24/2025 [House Democrats](/org/house_democrats/) - [House Democratic Operating Budget Holds the Line on Housing, Food Assistance, and Maintains Critical Services and Programs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/24/house-democratic-operating-budget-holds-the-line-on-housing-food-assistance-and-maintains-critical-services-and-programs/#:~:text=legislation%20to%20modify%20the%20state%20and%20local%20property%20tax%20authority)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=HB%202049)
 
 ## Meetings
 ### Thu 04/03 08:00 AM - Finance (FIN): HB 2049 K-12 education funding

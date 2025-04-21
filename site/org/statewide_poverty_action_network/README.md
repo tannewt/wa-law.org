@@ -69,6 +69,9 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
+* 👍 Molly Gallagher
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍2  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  

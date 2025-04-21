@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5790/</link>
 		<description>Updates about SB 5790</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Mar 2025 11:28:34 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,27 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jackie/Franklin/2025-03-24 11:28:34</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 37; nays, 10; absent, 1; excused, 1.</title>
+			<description>Third reading, passed; yeas, 37; nays, 10; absent, 1; excused, 1.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/Third reading, passed; yeas, 37; nays, 10; absent, 1; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

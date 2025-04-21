@@ -14,6 +14,7 @@
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205812)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205812)
 * 04/15/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Democrats double down on new/higher taxes for just in time for Tax Day - What's it going to cost you? - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-democrats-double-new-higher-taxes-just-time-tax-day-whats-going-cost/#:~:text=(Senate%20Bill%205812):)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=SB%205812)
 
 ## Meetings
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5812 K-12 education funding

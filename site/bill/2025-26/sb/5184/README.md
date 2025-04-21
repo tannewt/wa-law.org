@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Supreme Court strikes down Spokane camping ban initiative | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-supreme-court-strikes-down-spokane-camping-ban-initiative#:~:text=Senate%20Bill%205184)
+* 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature#:~:text=Senate%20Bill%205184)
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Making housing more affordable - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=SB%205184)
 * 03/24/2025 [The Center Square](/org/the_center_square/) - [WA bill would slash parking mandates to boost housing supply statewide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e609eb7-f108-40f5-a6f7-3b8b4ee9e080.html#:~:text=Senate%20Bill%205184)
 * 03/24/2025 [The Urbanist](/org/the_urbanist/) - [House Committee Waters Down Parking Reform Bill to Placate Local Opposition - The Urbanist](https://www.theurbanist.org/2025/03/24/house-waters-down-parking-reform-bill/#:~:text=Senate%20Bill%205184)

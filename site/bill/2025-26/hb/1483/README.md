@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [In the final stretch - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/04/18/in-the-final-stretch/#:~:text=HB%201483)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/04/11/approaching-the-finish-line/#:~:text=Right%20to%20Repair%20Act)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESHB%201483)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201483)

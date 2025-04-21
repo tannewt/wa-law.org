@@ -172,6 +172,10 @@
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  

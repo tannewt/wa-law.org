@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/17/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles’ maternal health bills advance as Black Maternal Health Week concludes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/04/17/nobles-maternal-health-bills-advance-as-black-maternal-health-week-concludes/#:~:text=SB%205950)
 * 02/25/2024 [Gorge News Center](/org/gorge_news_center/) - [House Republican lawmakers say supplemental operating budget proposal heavy on government spending without tax relief](https://gorgenewscenter.com/2024/02/25/house-republican-lawmakers-say-supplemental-operatingbudget-proposal-heavy-on-government-spending-without-tax-relief/#:~:text=The%20bill)
 * 02/23/2024 [Gorge News Center](/org/gorge_news_center/) - [Wilson wins $1.5 million to combat sea lion predation on Columbia and tributaries](https://gorgenewscenter.com/2024/02/23/wilson-wins-1-5-million-to-combat-sea-lion-predation-on-columbia-and-tributaries/#:~:text=SB%205950)
 * 02/19/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Seven Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02192024#:~:text=SB%205950)

@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/17/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles’ maternal health bills advance as Black Maternal Health Week concludes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/04/17/nobles-maternal-health-bills-advance-as-black-maternal-health-week-concludes/#:~:text=Senate%20Bill%205182)
 * 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=SB%205182)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to support incarcerated families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/12/senate-passes-nobles-bill-to-support-incarcerated-families/#:~:text=Senate%20Bill%205182)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205182)

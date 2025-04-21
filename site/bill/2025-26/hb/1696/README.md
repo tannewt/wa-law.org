@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [Holding true to our values in difficult times - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2025/04/18/holding-true-to-our-values-in-difficult-times/#:~:text=voting%20for%20House%20Bill%201696)
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [Slew of controversial bills move ahead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6bb1c0e7-246d-4002-a0f8-7f2fdf0473d7.html#:~:text=Second%20Substitute%20House%20Bill%201696)
 * 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=HB%201696)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [House passes bill to expand eligibility for program to remedy housing discrimination | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4c509eec-fba4-11ef-a72a-0b2f81a5bc8e.html#:~:text=Second%20Substitute%20House%20Bill%201696)

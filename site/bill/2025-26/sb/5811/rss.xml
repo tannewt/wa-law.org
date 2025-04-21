@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5811/</link>
 		<description>Updates about SB 5811</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 16 Apr 2025 12:56:55 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Apr 2025 15:37:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -139,6 +139,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Alejandro/Galvan/2025-04-16 12:56:55</guid>
+		</item>
+		<item>
+			<title>Washington Democrats Propose Tax Targetting Tesla</title>
+			<description>News article "Washington Democrats Propose Tax Targetting Tesla" from The Burner.</description>
+			<pubDate>Thu, 17 Apr 2025 17:11:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theburnerseattle.com/post/washington-democrats-propose-tax-targetting-tesla#:~:text=Senate%20Bill%205811</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Fri, 18 Apr 2025 15:37:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=Senate%20Bill%205811</guid>
 		</item>
 	</channel>
 </rss>

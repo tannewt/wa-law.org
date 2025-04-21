@@ -32,7 +32,7 @@
 * 👍 Marlene Feist
 * 👍 Zack Zappone
 
-### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍2  
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management plans 👍2  
 * 👍💵 Paul Dillon
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  

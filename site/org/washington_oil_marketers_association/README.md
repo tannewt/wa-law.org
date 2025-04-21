@@ -16,10 +16,15 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+* 👎💵 Diana Carlen
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users 👍1  
 * 👍💵 Diana Carlen
+
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 
 ## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎💵 Diana Carlen

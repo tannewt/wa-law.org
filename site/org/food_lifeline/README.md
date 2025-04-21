@@ -34,6 +34,8 @@
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍2  
 * 👍💵 Aaron Czyzewski
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
+
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  
@@ -56,6 +58,9 @@
 
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+* 👍💵 Aaron Czyzewski
+
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
@@ -63,7 +68,8 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
+* 👍💵 Aaron Czyzewski
 
 ## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 * 👍💵 Aaron Czyzewski

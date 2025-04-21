@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle can continue housing plan after legal challenges dismissed | Cascade PBS](https://www.cascadepbs.org/news/2025/04/seattle-can-continue-housing-plan-after-legal-challenges-dismissed#:~:text=2023%20accessory%20dwelling%20unit%20law)
 * 11/22/2024 [The Urbanist](/org/the_urbanist/) - [State Senate Taps Bateman for Housing Chair in Major Committee Shakeup - The Urbanist](https://www.theurbanist.org/2024/11/22/state-senate-taps-bateman-for-housing-chair/#:~:text=accessory%20dwelling%20unit%20(ADU)%20regulations)
 * 10/15/2024 [The Urbanist](/org/the_urbanist/) - [Seattle Breaks Ground on West Coast’s First Residential Highrise of 2024 - The Urbanist](https://www.theurbanist.org/2024/10/15/seattle-breaks-ground-on-west-coasts-first-residential-highrise-of-2024/#:~:text=new%20state%20legislation)
 * 09/18/2024 [The Urbanist](/org/the_urbanist/) - [Harrell Proposal Would Relax Accessory Dwelling Unit Rules, Implement State Law - The Urbanist](https://www.theurbanist.org/2024/09/18/harrell-proposal-relaxes-accessory-dwelling-unit-rules/#:~:text=House%20Bill%201337)

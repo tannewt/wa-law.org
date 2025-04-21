@@ -21,6 +21,9 @@
 * 👍 Fernanda Armas
 * 👍 Heba Qatrani
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
+* 👍💵 Isela Bonilla
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Isela Bonilla
 

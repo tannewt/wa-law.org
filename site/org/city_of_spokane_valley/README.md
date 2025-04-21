@@ -150,7 +150,7 @@
 
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
-### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍2  
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management plans 👍2  
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 

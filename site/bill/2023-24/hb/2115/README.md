@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/17/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles’ maternal health bills advance as Black Maternal Health Week concludes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/04/17/nobles-maternal-health-bills-advance-as-black-maternal-health-week-concludes/#:~:text=HB%202115)
 * 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=HB%202115)
 * 03/27/2024 [House Democrats](/org/house_democrats/) - [Washington Moves to Protect Abortion Medication Providers Amid Escalating Threats – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/washington-moves-to-protect-abortion-medication-providers-amid-escalating-threats/#:~:text=House%20Bill%202115)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [House Passes Thai Bill Protecting Providers, Safeguarding Reproductive Healthcare Access – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/protecting-providers-safeguarding-reproductive-healthcare-access/#:~:text=House%20Bill%202115)

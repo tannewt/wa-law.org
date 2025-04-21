@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1483/</link>
 		<description>Updates about HB 1483</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 11 Apr 2025 21:57:59 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -379,6 +379,27 @@
 			<pubDate>Fri, 11 Apr 2025 21:57:59 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2025/04/11/approaching-the-finish-line/#:~:text=Right%20to%20Repair%20Act</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 94; nays, 1; absent, 0; excused, 3.</title>
+			<description>Passed final passage; yeas, 94; nays, 1; absent, 0; excused, 3.</description>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-17/Passed final passage; yeas, 94; nays, 1; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>In the final stretch - Sen. Derek Stanford</title>
+			<description>News article "In the final stretch - Sen. Derek Stanford" from Senate Democrats.</description>
+			<pubDate>Fri, 18 Apr 2025 23:18:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2025/04/18/in-the-final-stretch/#:~:text=HB%201483</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/President signed.</guid>
 		</item>
 	</channel>
 </rss>

@@ -24,6 +24,9 @@
 ### [HB 2024](/bill/2025-26/hb/2024/) - Primary residence/tax  👎1 
 * 👎💵 Brad Tower
 
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
+* 👎💵 Brad Tower
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
 * 👎💵 Brad Tower
 

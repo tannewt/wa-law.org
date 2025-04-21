@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1332/</link>
 		<description>Updates about HB 1332</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,6 +217,20 @@
 			<pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-14/Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 59; nays, 37; absent, 0; excused, 2.</title>
+			<description>Passed final passage; yeas, 59; nays, 37; absent, 0; excused, 2.</description>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-17/Passed final passage; yeas, 59; nays, 37; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/President signed.</guid>
 		</item>
 	</channel>
 </rss>

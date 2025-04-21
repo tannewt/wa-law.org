@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/28/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Milton Friedman was right | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_426d652b-4f4d-444d-a2cc-64b8c3c5c780.html#:~:text=Substitute%20House%20Bill%201392)

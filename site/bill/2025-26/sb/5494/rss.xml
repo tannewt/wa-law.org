@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5494/</link>
 		<description>Updates about SB 5494</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 15 Apr 2025 17:40:20 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -333,6 +333,13 @@
 			<pubDate>Tue, 15 Apr 2025 17:40:20 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2025/04/15/in-the-home-stretch/#:~:text=SB%205494</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

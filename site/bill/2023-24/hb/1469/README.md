@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/17/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles’ maternal health bills advance as Black Maternal Health Week concludes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/04/17/nobles-maternal-health-bills-advance-as-black-maternal-health-week-concludes/#:~:text=HB%201469)
 * 12/16/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Washington: A Firewall for Freedom | ACLU of Washington](http://www.aclu-wa.org/pages/firewalls-freedom#:~:text=HB%201469)
 * 09/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Brown and Serrano clash in back-to-back AG debates](https://gorgenewscenter.com/2024/09/20/brown-and-serrano-clash-in-back-to-back-ag-debates/#:~:text=“shield%20law”)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201469)

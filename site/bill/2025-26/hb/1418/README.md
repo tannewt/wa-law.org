@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/14/2025 [PubliCola](/org/publicola/) - [To End Car Dependency, We Must Change Who Has A Seat At the Table - PubliCola](https://publicola.com/2025/03/14/to-end-car-dependency-we-must-change-who-has-a-seat-at-the-table/#:~:text=HB%201418)

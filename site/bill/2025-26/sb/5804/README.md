@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Up a creek: $5B culvert removal plan appears dead in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/19/up-a-creek-5b-culvert-removal-plan-appears-dead-in-wa-legislature/#:~:text=Senate%20Bill%205804)
 * 03/31/2025 [Washington State Standard](/org/washington_state_standard/) - [New $5B plan to fund culvert removals unveiled by WA senators • Washington State Standard](https://washingtonstatestandard.com/2025/03/31/new-5b-plan-to-fund-culvert-removals-unveiled-by-wa-senators/#:~:text=Senate%20Bill%205804)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=fish%20habitat%20restoration)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=fish%20habitat%20restoration)

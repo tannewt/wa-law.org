@@ -118,6 +118,9 @@
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
 * 👎💵 Julia Gorton
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+* 👎💵 Julia Gorton
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
@@ -198,7 +201,7 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding  👎1 
 
-### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎2 
 * 👎💵 Julia Gorton
 
 ## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 

@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [Holding true to our values in difficult times - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2025/04/18/holding-true-to-our-values-in-difficult-times/#:~:text=took%20a%20historic%20step)
 * 03/07/2025 [House Democrats](/org/house_democrats/) - [More Washingtonians could become first-time homebuyers with Taylor bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/07/more-washingtonians-could-become-first-time-homebuyers-with-taylor-bill/#:~:text=HB%201474)
 * 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would adjust eligibility, add loan forgiveness to housing discrimination remedy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201474)
 * 07/03/2024 [The Center Square](/org/the_center_square/) - [New WA program aims to help first-time homebuyers who faced discrimination | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_776b679a-3978-11ef-b48b-576c01ca2b2b.html#:~:text=House%20Bill%201474)

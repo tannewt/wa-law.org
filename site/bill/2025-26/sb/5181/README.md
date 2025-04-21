@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205181)
 * 04/15/2025 [MyNorthwest](/org/mynorthwest/) - [Washington House Speaker breaks 132-year tradition to end debate](https://mynorthwest.com/mynorthwest-politics/washington-debate/4076279#:~:text=Senate%20Bill%205181)
 * 04/15/2025 [The Center Square](/org/the_center_square/) - [WATCH: Republicans silenced as WA House passes bill amending parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8ca9ce28-d7e8-4456-a6db-e107c49ea7f5.html#:~:text=SB%205181)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Rewrite of parental rights law passes Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/04/14/rewrite-of-parental-rights-law-passes-washington-house/#:~:text=Senate%20Bill%205181)

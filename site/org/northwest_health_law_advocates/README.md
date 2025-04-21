@@ -107,7 +107,7 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
-### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍2  
 
 ### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
 
@@ -116,11 +116,15 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+
+## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍1  
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

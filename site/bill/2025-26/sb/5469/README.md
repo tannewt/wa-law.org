@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Supreme Court strikes down Spokane camping ban initiative | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-supreme-court-strikes-down-spokane-camping-ban-initiative#:~:text=Senate%20Bill%205469)
+* 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature#:~:text=Senate%20Bill%205469)
 * 04/11/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington Senate passes rent cap bill — but with major changes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/washington-senate-passes-rent-cap-bill-major-changes#:~:text=Senate%20Bill%205469)
 * 04/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills on school inclusivity, AI and rent fixing among casualties in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/10/bills-on-school-inclusivity-ai-and-rent-fixing-among-casualties-in-wa-legislature/#:~:text=Senate%20Bill%205469)
 * 04/08/2025 [Cascade PBS](/org/cascade_pbs/) - [Trump admin’s $84M clawback could sink Grays Harbor levee plan | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/trump-admins-84m-clawback-could-sink-grays-harbor-levee-plan#:~:text=Senate%20Bill%205469)

@@ -134,7 +134,8 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
-### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍3  
+* 👍 Megan Moore
 
 ## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 

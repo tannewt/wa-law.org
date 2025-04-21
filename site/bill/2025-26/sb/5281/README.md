@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [Some under-the-radar issues in Olympia - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/04/18/some-under-the-radar-issues-in-olympia/#:~:text=SB%205281)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington workers from DC chaos - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/02/20/protecting-washington-workers-from-dc-chaos/#:~:text=My%20bill)
 
 ## Meetings

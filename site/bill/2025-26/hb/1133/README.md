@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Bill Strengthening Public Safety Measures for Sexually Violent Predators Advances to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/bill-strengthening-public-safety-measures-for-sexually-violent-predators-advances-to-the-senate/#:~:text=HB%201133)

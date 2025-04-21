@@ -21,9 +21,12 @@
 ### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍3  
 * 👍💵 Chetan Soni
 
-### [HB 2077](/bill/2025-26/hb/2077/) - Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program. 👍1  
+### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg. 👍1  
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
+
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
+* 👍 Kenia Soriano Hernandez
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 

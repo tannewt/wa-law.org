@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2015/</link>
 		<description>Updates about HB 2015</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 16 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 17 Apr 2025 17:49:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -677,6 +677,20 @@
 			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-16/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>KUOW - Police hiring bill advances in Washington, requiring mix of state and local funds</title>
+			<description>News article "KUOW - Police hiring bill advances in Washington, requiring mix of state and local funds" from KUOW.</description>
+			<pubDate>Thu, 17 Apr 2025 16:20:19 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/police-hiring-bill-advances-in-washington-state#:~:text=HB%202015</guid>
+		</item>
+		<item>
+			<title>WA legislators debate over police hiring grant | FOX 13 Seattle</title>
+			<description>News article "WA legislators debate over police hiring grant | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 17 Apr 2025 17:49:56 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-legislators-police-hiring-grant#:~:text=House%20Bill%202015</guid>
 		</item>
 	</channel>
 </rss>

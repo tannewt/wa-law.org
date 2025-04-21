@@ -5,11 +5,35 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205785)
 
 ## Meetings
+### Tue 04/22 09:00 AM - Appropriations (APP): SB 5785 Higher education costs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167180&caId=26957&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167180&caId=26957&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167180&caId=26957&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167180&caId=26957&tId=4)
+
+#### 18 👍 - Pro
+Testifying:
+* 💵Collin Bannister - The Washington Student Association and ASWSU
+
+#### 67 👎 - Con
+Testifying:
+* Frank Trieu - Evergreen Beauty College
+* 💵Devin Gombosky - [Northwest Career College Federation](/org/northwest_career_college_federation/)
+* Christopher Comair - DigiPen Institute of Technology
+* Colten Mabbitt
+* Erik Mohrmann - DigiPen Institute of Technology
+
+#### 1 ❓ - Other
+Testifying:
+* D'Arcy Harrison - Garfield Condominiums
+
 ### Mon 03/24 04:00 PM - Ways & Means (WM): SB 5785 Higher education costs
 #### 63 👍 - Pro
 

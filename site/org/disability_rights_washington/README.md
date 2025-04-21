@@ -86,9 +86,10 @@
 * 👎💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍2  
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍4  
 * 👍💵 Chloe Merino
 * 👍 Todd H Carlisle
+* 👍💵 Chloe Merino
 
 ### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
 

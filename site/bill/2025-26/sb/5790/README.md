@@ -5,8 +5,22 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Tue 04/22 09:00 AM - Appropriations (APP): SB 5790 CTC employee COLAs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167182&caId=26959&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167182&caId=26959&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167182&caId=26959&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167182&caId=26959&tId=4)
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/24 04:00 PM - Ways & Means (WM): SB 5790 CTC employee COLAs
 #### 13 👍 - Pro
 

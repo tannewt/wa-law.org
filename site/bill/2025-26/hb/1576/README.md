@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/21/2025 [Real Change](/org/real_change/) - ["Making something new:" Historic preservation groups clash with housing advocates over state bill that adds more restrictions to landmarking buildings  | March 19–25, 2025 | Real Change](https://www.realchangenews.org/news/2025/03/21/making-something-new-historic-preservation-groups-clash-housing-advocates-over-state#:~:text=HB%201576)

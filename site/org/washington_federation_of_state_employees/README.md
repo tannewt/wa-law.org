@@ -159,7 +159,8 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎3 
+* 👎 Brittany Barber
 
 ### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
 
@@ -195,13 +196,16 @@
 ### [SB 5802](/bill/2025-26/sb/5802/) - Transportation funds  👎1 
 * 👎 Kati Durkin
 
-## [SB 5807](/bill/2025-26/sb/5807/) - Health plan incentives  👎1 
+### [SB 5807](/bill/2025-26/sb/5807/) - Health plan incentives  👎1 
 * 👎💵 Kurt Spiegel
+
+## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+* 👍 Ashley Fueston
 
 ## 2023-24
 
-### [SB 5807](/bill/2023-24/sb/5807/) - Health plan incentives  👎1 
-* 👎💵 Kurt Spiegel
+### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍1  
+* 👍 Ashley Fueston
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

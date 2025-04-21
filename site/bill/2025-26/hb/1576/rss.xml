@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1576/</link>
 		<description>Updates about HB 1576</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 09 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -312,6 +312,13 @@
 			<pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-09/Third reading, passed; yeas, 47; nays, 2; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 5.</title>
+			<description>Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 5.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 5.</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/03/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers race to fix illegal special ed cap before April 27 deadline | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_14e4aa6a-fe85-4a57-a61b-2c8c6b52c268.html#:~:text=Senate%20Bill%205253)

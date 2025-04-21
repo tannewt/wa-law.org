@@ -21,6 +21,9 @@
 
 ### [HB 2024](/bill/2025-26/hb/2024/) - Primary residence/tax  👎1 
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+* 👎💵 Brad Tower
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 
@@ -41,12 +44,14 @@
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎1 
 * 👎💵 Brad Tower
 
-## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎2 
+## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎3 
+* 👎💵 Brad Tower
 * 👎💵 Brad Tower
 
 ## 2023-24
 
-### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎2 
+### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎3 
+* 👎💵 Brad Tower
 * 👎💵 Brad Tower
 
 ### [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎2 

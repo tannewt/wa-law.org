@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5528 Transp. electrification

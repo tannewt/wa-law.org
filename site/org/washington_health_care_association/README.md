@@ -17,6 +17,9 @@
 ### [HB 1926](/bill/2025-26/hb/1926/) - Home care aides 👍1  
 * 👍 Jeff Gombosky
 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax   ❓1
+* ❓ Jeff Gombosky
+
 ### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1

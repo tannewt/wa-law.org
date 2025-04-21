@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/07/2025 [Wenatchee World](/org/wenatchee_world/) - [Power Play: Washington House advances Ybarra energy bill to supercharge partnerships | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/power-play-washington-house-advances-ybarra-energy-bill-to-supercharge-partnerships/article_abce76f4-e589-11ef-9893-235bf19a19d7.html#:~:text=House%20Bill%201253)

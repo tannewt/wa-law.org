@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Early Learning & K-12 Education (EDU): SHB 1827 Basic education/juv. justice

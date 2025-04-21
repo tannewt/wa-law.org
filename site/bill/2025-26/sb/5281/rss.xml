@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5281/</link>
 		<description>Updates about SB 5281</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Apr 2025 21:29:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -192,6 +192,20 @@
 			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-15/Third reading, passed; yeas, 94; nays, 3; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Some under-the-radar issues in Olympia - Sen. Mike Chapman</title>
+			<description>News article "Some under-the-radar issues in Olympia - Sen. Mike Chapman" from Senate Democrats.</description>
+			<pubDate>Fri, 18 Apr 2025 21:29:51 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/chapman/2025/04/18/some-under-the-radar-issues-in-olympia/#:~:text=SB%205281</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/18 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5157 Habitat restoration material

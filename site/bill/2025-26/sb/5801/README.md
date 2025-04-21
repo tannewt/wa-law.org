@@ -23,8 +23,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167175&caId=26954&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167175&caId=26954&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Jerry VanderWood - AGC
 
-#### 1 👎 - Con
+#### 787 👎 - Con
+Testifying:
+* Laurie Layne
+* Tim Eyman - Initiative Activist
+* Alan Burnett - Pacific Northwest Business Aviation Association
+* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* 💵Greg Hanon - Western States Petroleum Assoc.
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Charles Prestrud - Washington Policy Center
+* Sara Morimoto
+* Wes Mills

@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/14/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Last Week of Session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/03/14/newsletter-last-week-of-session/#:~:text=HB%202076)
+* 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Town hall, podcast, update on bills and info for visiting the Capitol - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/02/06/newsletter-town-hall-podcast-update-on-bills-and-info-for-visiting-the-capitol/#:~:text=HB%202076)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202076)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202076)
 

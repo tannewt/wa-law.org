@@ -83,6 +83,8 @@
 
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  

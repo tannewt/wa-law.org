@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1848/</link>
 		<description>Updates about HB 1848</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 08 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -197,6 +197,27 @@
 			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-08/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 87; nays, 10; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 87; nays, 10; absent, 0; excused, 1.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/Third reading, passed; yeas, 87; nays, 10; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-21/First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

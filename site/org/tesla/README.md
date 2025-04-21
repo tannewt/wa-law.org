@@ -9,6 +9,9 @@
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles  👎1 
 * 👎 Jeff Gombosky
 
+### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg.  👎1 
+* 👎 Jeff Gombosky
+
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
 * 👎 Jeff Gombosky
 

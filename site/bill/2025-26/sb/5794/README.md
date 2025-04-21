@@ -5,8 +5,14 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Tax fight crescendos in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/19/tax-fight-crescendos-in-the-washington-legislature/#:~:text=Senate%20Bill%205794)
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205794)
+* 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=SB%205794:)
+* 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=SB%205794:)
 * 04/16/2025 [FOX13](/org/fox13/) - [WA Democrats propose new taxes to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=Senate%20Bill%205794)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205794)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205794)
@@ -16,8 +22,49 @@
 * 03/24/2025 [Axios](/org/axios/) - [Washington lawmakers weigh wealth, property tax changes amid budget gap - Axios Seattle](https://www.axios.com/local/seattle/2025/03/24/democrats-wealth-property-tax-budget-gap#:~:text=want%20to%20close)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205794)
 * 03/20/2025 [FOX13](/org/fox13/) - [WA Senate Democrats hope to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-senate-democrats-balance-budget#:~:text=20%20tax%20exemptions)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=SB%205794)
 
 ## Meetings
+### Mon 04/21 09:00 AM - Finance (FIN): ESSB 5794 Tax preferences
+#### 47 👍 - Pro
+Testifying:
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Clare Bellefeuille Rice
+* Corey Rigney
+* Kat Hill
+* Tyler Frank
+* Fatema Boxwala
+* 💵Emma Scalzo
+* Lilly Deerwater
+* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
+* Molly Gallagher - Washington Statewide Poverty Action Network
+* 💵Kristin Ang - Faith Action Network (FAN)
+
+#### 251 👎 - Con
+Testifying:
+* 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
+* Mellani McAleenan - AAA Washington
+* Tim Eyman - Initiative activist
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Leah Lindahl - Healthcare Distribution Alliance
+* Patrick Gilroy - Washington Self Storage Association
+* 💵Jasmine Vasavada - [Avista Corp](/org/avista_corp/)
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* Laurie Layne
+* Jenny Arnold - Washington State Pharmacy Association
+* Lance Baker - Washington State Self Storage Association
+* 💵Sean Pickard - Delta Dental of WA
+* 💵Carolyn Logue - Washington Food Industry Association
+* Joe Doherty - Self Storage Association
+* Leanne Webber - Russell Investments
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Craig Rhyne - WA Coon & Bullion Assn
+* Jake Graham - American Coin & Vault
+
+#### 1 ❓ - Other
+Testifying:
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5794 Tax preferences
 #### 3561 👍 - Pro
 Testifying:

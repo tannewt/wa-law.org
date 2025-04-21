@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/03/2025 [House Democrats](/org/house_democrats/) - [New Bill Lets Drivers Cut Suspension Time—But There’s a Catch! – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/03/new-bill-lets-drivers-cut-suspension-time-but-theres-a-catch/#:~:text=House%20Bill%201244)

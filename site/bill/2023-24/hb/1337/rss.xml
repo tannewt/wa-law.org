@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1337/</link>
 		<description>Updates about HB 1337</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 22 Nov 2024 18:00:20 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Apr 2025 12:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -663,6 +663,13 @@
 			<pubDate>Fri, 22 Nov 2024 18:00:20 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/11/22/state-senate-taps-bateman-for-housing-chair/#:~:text=accessory%20dwelling%20unit%20(ADU)%20regulations</guid>
+		</item>
+		<item>
+			<title>Seattle can continue housing plan after legal challenges dismissed | Cascade PBS</title>
+			<description>News article "Seattle can continue housing plan after legal challenges dismissed | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 18 Apr 2025 12:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/2025/04/seattle-can-continue-housing-plan-after-legal-challenges-dismissed#:~:text=2023%20accessory%20dwelling%20unit%20law</guid>
 		</item>
 	</channel>
 </rss>

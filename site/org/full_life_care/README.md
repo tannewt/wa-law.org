@@ -8,11 +8,11 @@
 
 ### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
 
-### [HB 2077](/bill/2025-26/hb/2077/) - Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program. 👍3  
+### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg. 👍6  
 
-### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍2  
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍3  
 
-### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍2  
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍3  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓3
 * ❓ Hannah Brendemuhl

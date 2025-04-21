@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/19/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Ferguson Must Get Tough on Trump, Illegal Tacoma ICE Jail - The Urbanist](https://www.theurbanist.org/2025/04/19/op-ed-ferguson-must-get-tough-on-trump-illegal-tacoma-ice-jail/#:~:text=HB%201232)
 * 03/28/2025 [Axios](/org/axios/) - [Washington state lawmakers seek oversight of Tacoma ICE center - Axios Seattle](https://www.axios.com/local/seattle/2025/03/28/washington-state-detention-bill-oversight-ice-tacoma#:~:text=House%20Bill%201232)
 * 03/07/2025 [House Democrats](/org/house_democrats/) - [Bill To Increase Oversight of Detention Facilities Passes House/Cámara de Representantes Aprueba Proyecto de Ley para Aumentar Supervisión de Centros de Detención – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/07/bill-to-increase-oversight-of-detention-facilities-passes-house-camara-de-representantes-aprueba-proyecto-de-ley-para-aumentar-supervision-de-centros-de-detencion/#:~:text=House%20Bill%201232)
 * 02/18/2025 [Washington State Standard](/org/washington_state_standard/) - [Push for inspections at Tacoma immigration detention center reemerges in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/02/17/push-for-inspections-at-tacoma-immigration-detention-center-reemerges-in-wa-legislature/#:~:text=House%20Bill%201232)

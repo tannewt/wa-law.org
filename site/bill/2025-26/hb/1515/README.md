@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/18/2025 [Axios](/org/axios/) - [Washington state may ease beer garden rules for World Cup - Axios Seattle](https://www.axios.com/local/seattle/2025/04/18/washington-world-cup-beer-garden-rules#:~:text=House%20Bill%201515)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201515)
 
 ## Meetings

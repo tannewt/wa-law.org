@@ -13,7 +13,7 @@
 
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles  👎1 
 
-### [HB 2077](/bill/2025-26/hb/2077/) - Establishing a tax on certain business activities related to surpluses generated under the zero-emission vehicle program.   ❓1
+### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg.   ❓1
 * ❓💵 Brandon Houskeeper
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 

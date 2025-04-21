@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/17/2025 [FOX13](/org/fox13/) - [WA legislators debate over police hiring grant | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislators-police-hiring-grant#:~:text=House%20Bill%202015)
+* 04/17/2025 [KUOW](/org/kuow/) - [KUOW - Police hiring bill advances in Washington, requiring mix of state and local funds](https://www.kuow.org/stories/police-hiring-bill-advances-in-washington-state#:~:text=HB%202015)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=House%20Bill%202015)
 * 03/17/2025 [KING5](/org/king5/) - [King County reduces some precinct staffing amid budget constraints | king5.com](https://www.king5.com/article/news/local/public-safety/king-county-sheriffs-office-reduces-minimum-staffing-some-precincts/281-e77b80d4-a1e9-4cc2-8fb0-f8ad38f8d201#:~:text=Bill%202015)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=a%20Ferguson-backed%20bill%20to%20provide%20$100%20million%20in%20grants)

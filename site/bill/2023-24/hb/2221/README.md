@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/14/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Last Week of Session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/03/14/newsletter-last-week-of-session/#:~:text=HB%202221)
+* 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Town hall TODAY & update on my bills - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/02/17/newsletter-town-hall-today-update-on-my-bills/#:~:text=HB%202221)
+* 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Town hall, podcast, update on bills and info for visiting the Capitol - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/02/06/newsletter-town-hall-podcast-update-on-bills-and-info-for-visiting-the-capitol/#:~:text=HB%202221)
+
 ## Meetings
 ### Fri 01/19 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 2221 Sign language work group
 #### 72 👍 - Pro

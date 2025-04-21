@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1620/</link>
 		<description>Updates about HB 1620</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 02 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -893,6 +893,20 @@
 			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-02/Third reading, passed; yeas, 32; nays, 17; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 60; nays, 37; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 60; nays, 37; absent, 0; excused, 1.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/Passed final passage; yeas, 60; nays, 37; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/President signed.</guid>
 		</item>
 	</channel>
 </rss>

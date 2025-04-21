@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1815/</link>
 		<description>Updates about HB 1815</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 08 Apr 2025 20:03:16 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -409,6 +409,20 @@
 			<pubDate>Tue, 08 Apr 2025 20:03:16 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/juvenile-facilities-prison-riot-laws#:~:text=House%20Bill%201815</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 58; nays, 37; absent, 0; excused, 3.</title>
+			<description>Passed final passage; yeas, 58; nays, 37; absent, 0; excused, 3.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/Passed final passage; yeas, 58; nays, 37; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/President signed.</guid>
 		</item>
 	</channel>
 </rss>

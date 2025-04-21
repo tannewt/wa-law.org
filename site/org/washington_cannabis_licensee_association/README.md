@@ -24,7 +24,7 @@
 * 👍 Bethany Rondeaux
 * 👍💵 Trent Matson
 
-### [SB 5403](/bill/2025-26/sb/5403/) - Cannabis industry 👍1  
+### [SB 5403](/bill/2025-26/sb/5403/) - Cannabis industry agreements 👍1  
 * 👍💵 Trent Matson
 
 ## [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry  👎1 

@@ -309,6 +309,13 @@
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
 * 👎💵 Julie Salvi
 
+### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg. 👍2  
+* 👍 Joanna Barnes
+
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍3  
+
+### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  

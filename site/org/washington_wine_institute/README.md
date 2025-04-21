@@ -51,11 +51,11 @@
 
 ### [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
 
-## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎2 
+## [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎3 
 
 ## 2023-24
 
-### [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎2 
+### [SB 5786](/bill/2023-24/sb/5786/) - Liquor license fees  👎3 
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓ Josh McDonald
