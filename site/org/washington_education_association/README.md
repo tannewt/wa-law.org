@@ -302,11 +302,13 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍3  
 
-### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍4  
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍4  ❓1
 * 👍💵 Julie Salvi
 * 👍💵 Simone Boe
+* ❓💵 Julie Salvi
 
-### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎2 
+* 👎💵 Julie Salvi
 * 👎💵 Julie Salvi
 
 ### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg. 👍2  

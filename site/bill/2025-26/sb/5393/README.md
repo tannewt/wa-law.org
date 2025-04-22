@@ -9,14 +9,17 @@
 
 ## Meetings
 ### Tue 04/22 09:00 AM - Appropriations (APP): SB 5393 Yakima & Rainier schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167179&caId=26956&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167179&caId=26956&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167179&caId=26956&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167179&caId=26956&tId=4)
-
-#### 41 👍 - Pro
+#### 196 👍 - Pro
 Testifying:
+* Alex Motteler - Trillium
+* David Wilder - Chinook Enterprises
+* Blake Duarte
+* craig sicilia
+* Krista Milhofer - People First of Washington
+* Robert Wardell
+* Tanika Aden - Advisor for People First of Washington
+* Kari Cunningham-Rosvik - Select...
+* Rusty Allphin - People First
 * John Lemus - AtWork-Advocacy Manager
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Scott Livengood - Alpha Supported Living Services
@@ -24,16 +27,32 @@ Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Cathy Murahashi - The Arc of Washington
 * Krista Milhofer - People First of Washington
+* Eric Matthes
+* Taylor Crisp - Self Advocate Panel
 
-#### 90 👎 - Con
+#### 320 👎 - Con
 Testifying:
+* Roseann Bentley
+* John Hall
+* Colton Myers - co-guardian of RHC resident
+* William Bishop
+* Marcia Alspaugh
 * Terri Anderson - ACTION DD
+* Rex Harper
 * Becky Carter
 * Mark von Walter
 * Brittany Barber - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* DAVID ALWOOD - H2Oasis, Inc.
+* Sher Kirkpatrick
+* Micah Balasbas
+* Jeff Carter - Action DD
+* Joey Dormady
+* Mike Yestramski
+* Tazia Duncan
 * Steven Yates - Citizen
+* Willis McNabb - WFSE
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 03/13 04:00 PM - Ways & Means (WM): SB 5393 Yakima & Rainier schools
 #### 447 👍 - Pro

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/24 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1946 Local board of health/tribes

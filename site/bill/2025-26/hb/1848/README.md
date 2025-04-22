@@ -11,6 +11,22 @@
 * 02/20/2025 [House Democrats](/org/house_democrats/) - [Doglio Bill Provides Support for Traumatic Brain Injury Survivors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/20/doglio-bill-provides-support-for-traumatic-brain-injury-survivors/#:~:text=House%20Bill%201848)
 
 ## Meetings
+### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 1848 Traumatic brain injuries
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Desiree Douglass - HeadStrong
+* Barb George - Grays Harbor Brain Injury Support Group
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Appropriations (APP): HB 1848 Traumatic brain injuries
 #### 87 👍 - Pro
 Testifying:

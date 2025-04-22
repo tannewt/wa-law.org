@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Corrosion problem knocks most Amtrak Cascades trains out of service • Washington State Standard](https://washingtonstatestandard.com/2025/03/27/corrosion-problem-knocks-most-amtrak-cascades-trains-out-of-service/#:~:text=House%20Bill%201837)

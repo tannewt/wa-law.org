@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/21/2025 [KIRO7](/org/kiro7/) - [Lacking ‘three-corners agreement,’ state Democrats ditch property tax plan – KIRO 7 News Seattle](https://www.kiro7.com/news/local/lacking-three-corners-agreement-state-democrats-ditch-property-tax-plan/4DMQGOUCQNCERBDLO4ETND4SLI/#:~:text=House%20Bill%202049)
+* 04/21/2025 [Senate Republicans](/org/senate_republicans/) - [Democrat legislators still on track for supporting property-tax hikes, just by a different route - Senate Republican Caucus](https://src.wastateleg.org/blog/democrat-legislators-still-track-supporting-property-tax-hikes-just-different-route/#:~:text=House%20Bill%202049)
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202049)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202049)
 * 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=House%20Bill%202049.)
 * 04/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington needs new voices in the debate over school funding • Washington State Standard](https://washingtonstatestandard.com/2025/04/18/washington-needs-new-voices-in-the-debate-over-school-funding/#:~:text=HB%202049)
@@ -25,14 +28,35 @@
 * 04/07/2025 [Axios](/org/axios/) - [WA budget fix could raise property taxes - Axios Seattle](https://www.axios.com/local/seattle/2025/04/07/washington-property-tax-cap#:~:text=House's%20proposal)
 * 04/03/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee considers three major tax increase proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60e89042-e837-4280-a88a-fd1b32ff4bcf.html#:~:text=House%20Bill%202049)
 * 04/01/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington Democrats divided on school funding plans | Cascadia Daily News](https://www.cascadiadaily.com/2025/apr/01/washington-democrats-divided-on-school-funding-plans/#:~:text=The%20legislation)
+* 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](http://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202049)
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202049)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202049)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202049)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202049)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202049)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202049)
 * 03/24/2025 [House Democrats](/org/house_democrats/) - [House Democratic Operating Budget Holds the Line on Housing, Food Assistance, and Maintains Critical Services and Programs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/24/house-democratic-operating-budget-holds-the-line-on-housing-food-assistance-and-maintains-critical-services-and-programs/#:~:text=legislation%20to%20modify%20the%20state%20and%20local%20property%20tax%20authority)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=HB%202049)
 
 ## Meetings
+### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 2049 K-12 education funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=4)
+
+#### 1 👍 - Pro
+
+#### 14 👎 - Con
+Testifying:
+* Laurie Layne
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* 💵Clifford Traisman - Seattle, Highline, Bellevue Public School Districts
+
 ### Thu 04/03 08:00 AM - Finance (FIN): HB 2049 K-12 education funding
 #### 2206 👍 - Pro
 Testifying:

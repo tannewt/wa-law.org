@@ -10,6 +10,11 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 04/14/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Update on bills, nursing shortage, capital budget & more! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/04/14/newsletter-update-on-bills-nursing-shortage-capital-budget-more/#:~:text=HB%201534)
+* 03/29/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: One month left and so much to report! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/03/29/newsletter-one-month-left-and-so-much-to-report/#:~:text=HB%201534)
+* 03/10/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: International Women’s Day / what passed to the Senate? / Town hall meeting - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/03/10/newsletter-international-womens-day-what-passed-to-the-senate-town-hall-meeting/#:~:text=HB%201534)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1534 Construction consumers
 #### 54 👍 - Pro

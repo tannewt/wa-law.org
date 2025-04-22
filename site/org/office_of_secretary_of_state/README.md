@@ -18,10 +18,11 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Steve Hobbs
 
-### [HB 1207](/bill/2025-26/hb/1207/) - Superior court clerk fees 👍4  
+### [HB 1207](/bill/2025-26/hb/1207/) - Superior court clerk fees 👍5  
 * 👍 Heather Hirotaka
 * 👍 Steve Hobbs
 * 👍 Heather Hirotaka
+* 👍 Steve Hobbs
 * 👍 Steve Hobbs
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges   ❓1

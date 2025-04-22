@@ -14,6 +14,7 @@
 ## 📰 Articles
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205582)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205582)
+* 04/14/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Update on bills, nursing shortage, capital budget & more! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/04/14/newsletter-update-on-bills-nursing-shortage-capital-budget-more/#:~:text=SB%205582)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205582)
 * 02/09/2023 [The Center Square](/org/the_center_square/) - [Bill creating a new development pipeline for Washington nurses passes out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_46548788-a8d6-11ed-ba63-c34bfb67b336.html#:~:text=Senate%20Bill%205582)
 

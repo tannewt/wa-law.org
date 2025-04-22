@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Environment, Energy & Technology (ENET): 2SHB 1990 Utility disaster costs

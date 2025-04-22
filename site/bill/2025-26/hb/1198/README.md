@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](http://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=legislation)
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=legislation)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%201198)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=HB%201198)

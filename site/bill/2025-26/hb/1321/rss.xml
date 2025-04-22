@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1321/</link>
 		<description>Updates about HB 1321</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 15 Apr 2025 23:10:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 21 Apr 2025 20:43:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -291,6 +291,20 @@
 			<pubDate>Tue, 15 Apr 2025 23:10:10 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/15/wa-officials-considered-offering-national-guard-help-to-trump-at-canadian-border/#:~:text=House%20Bill%201321</guid>
+		</item>
+		<item>
+			<title>Effective date 4/21/2025*.</title>
+			<description>Effective date 4/21/2025*.</description>
+			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-21/Effective date 4/21/2025*.</guid>
+		</item>
+		<item>
+			<title>WA bill to restrict outside National Guard from entering state is signed into law • Washington State Standard</title>
+			<description>News article "WA bill to restrict outside National Guard from entering state is signed into law • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 21 Apr 2025 20:43:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/wa-bill-to-restrict-outside-national-guard-from-entering-state-is-signed-into-law/#:~:text=House%20Bill%201321</guid>
 		</item>
 	</channel>
 </rss>

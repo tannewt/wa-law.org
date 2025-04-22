@@ -10,6 +10,23 @@
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202044)
 
 ## Meetings
+### Wed 04/23 01:30 PM - Ways & Means (WM): EHB 2044 Unexcused student absences
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167246&caId=26982&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167246&caId=26982&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167246&caId=26982&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167246&caId=26982&tId=4)
+
+#### 2 👍 - Pro
+
+#### 37 👎 - Con
+Testifying:
+* William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* Melody Edmiston
+* Meagan Cordova
+
+#### 0 ❓ - Other
+
 ### Sat 04/05 09:00 AM - Appropriations (APP): HB 2044 Unexcused student absences
 #### 4 👍 - Pro
 

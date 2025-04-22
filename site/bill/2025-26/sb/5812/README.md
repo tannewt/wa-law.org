@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/21/2025 [Senate Republicans](/org/senate_republicans/) - [Democrat legislators still on track for supporting property-tax hikes, just by a different route - Senate Republican Caucus](https://src.wastateleg.org/blog/democrat-legislators-still-track-supporting-property-tax-hikes-just-different-route/#:~:text=Senate%20Bill%205812)
 * 04/16/2025 [FOX13](/org/fox13/) - [WA Democrats propose new taxes to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=Senate%20Bill%205812)
 * 04/16/2025 [The Burner](/org/the_burner/) - [So, Is The Washington State Wealth Tax Dead?](https://www.theburnerseattle.com/post/the-wealth-tax-is-seemingly-dead#:~:text=3%)
 * 04/16/2025 [KUOW](/org/kuow/) - [KUOW - Washington state Democrats reveal sweeping new tax plan](https://www.kuow.org/stories/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan#:~:text=greater%20property%20tax%20collections)

@@ -10,18 +10,15 @@
 
 ## Meetings
 ### Tue 04/22 09:00 AM - Appropriations (APP): 2SSB 5786 Liquor license fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167181&caId=26958&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167181&caId=26958&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167181&caId=26958&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167181&caId=26958&tId=4)
+#### 3 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 64 👎 - Con
+#### 541 👎 - Con
 Testifying:
 * Jim Hedrick - Washington Distiller's Guild (Craft Distillers)
 * 💵Carolyn Logue - Washington Food Industry Association
+* Laurena Manke - The Spar
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Crystal Leatherman
 
 #### 0 ❓ - Other
 

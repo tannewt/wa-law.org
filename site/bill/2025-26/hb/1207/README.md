@@ -9,6 +9,23 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Wed 04/23 01:30 PM - Ways & Means (WM): 2SHB 1207 Superior court clerk fees
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167256&caId=26992&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167256&caId=26992&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167256&caId=26992&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167256&caId=26992&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+
+#### 22 👎 - Con
+Testifying:
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1207 Superior court clerk fees
 #### 2 👍 - Pro
 Testifying:

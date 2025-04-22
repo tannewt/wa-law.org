@@ -23,11 +23,15 @@
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍3  
 * 👍 Lee Lambert
 
-## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
+
+## [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources 👍1  
+* 👍 Vicky Clarke
 
 ## 2023-24
 
-### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍2  
+### [SB 5801](/bill/2023-24/sb/5801/) - Transportation resources 👍1  
+* 👍 Vicky Clarke
 
 ### [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 

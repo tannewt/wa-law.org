@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202077)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202077)
 * 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=the%20version%20of%20this%20bill%20sponsored%20by%20the%20House%20of%20Representatives)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202077)
 
 ## Meetings
 ### Fri 04/18 08:00 AM - Finance (FIN): HB 2077 Zero-emission vehicle prg.

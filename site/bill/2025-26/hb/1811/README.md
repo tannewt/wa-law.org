@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [Strengthening Behavioral Health Crisis Response – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/strengthening-behavioral-health-crisis-response/#:~:text=House%20Bill%201811)

@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 04/07/2025 [KIRO7](/org/kiro7/) - [Lawmakers advance bill to raise price of Discover Pass – KIRO 7 News Seattle](https://www.kiro7.com/news/local/lawmakers-advance-bill-raise-price-discover-pass/U32MQCLVWJA5BM6N3OGIF4ERMU/#:~:text=Senate%20Bill%205390.)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205390)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205390)
 * 03/05/2025 [KIRO7](/org/kiro7/) - [Are hiking, camping and fishing trips about to get more expensive in Washington? – KIRO 7 News Seattle](https://www.kiro7.com/news/local/are-hiking-camping-fishing-trips-about-get-more-expensive-washington/3ASY6KMNQJHJ7CPCGCAISVXITY/#:~:text=Senate%20Bill%205390)
 * 03/05/2025 [MyNorthwest](/org/mynorthwest/) - [Inflation adjustment: bill aims to raise Discover Pass fees](https://mynorthwest.com/mynorthwest-politics/discover-pass/4057578#:~:text=Senate%20Bill%205390)

@@ -9,19 +9,18 @@
 
 ## Meetings
 ### Tue 04/22 10:00 AM - Transportation (TR): SSB 5444 Special license plates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167193&caId=26955&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167193&caId=26955&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167193&caId=26955&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33364&aId=167193&caId=26955&tId=4)
-
-#### 18 👍 - Pro
+#### 159 👍 - Pro
 Testifying:
 * Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
+* Ally Yang
+* Noga Gideoni-Abada
+* Rosie Ying
 
-#### 0 👎 - Con
+#### 83 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Amber Carter - [Seattle Mariners](/org/seattle_mariners/)
 
 ### Mon 02/10 04:00 PM - Transportation (TRAN): SB 5444 New special license plates
 #### 1940 👍 - Pro

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Nance bill mobilizing wildfire response to save lives passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/nance-bill-mobilizing-wildfire-response-to-save-lives-passes-house/#:~:text=1271)

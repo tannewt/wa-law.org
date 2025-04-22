@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/21/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Democrats announce nearly $20 billion in new and higher taxes - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-90-million-per-year-higher-taxes-businesses/#:~:text=Senate%20Bill%205323)

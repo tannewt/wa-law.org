@@ -42,7 +42,8 @@
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation   ❓2
 * ❓ Nicholas Oakley
 
-### [HB 2044](/bill/2025-26/hb/2044/) - Unexcused student absences  👎2 
+### [HB 2044](/bill/2025-26/hb/2044/) - Unexcused student absences  👎3 
+* 👎 William Hairston
 * 👎 William Hairston
 * 👎 William Hairston
 

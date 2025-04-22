@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -468,6 +468,13 @@
 			<description>News article "How Democrats want to tax you | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409</guid>
+		</item>
+		<item>
+			<title>How Democrats want to tax you | Washington State House Republicans</title>
+			<description>News article "How Democrats want to tax you | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409</guid>
 		</item>
 		<item>
@@ -551,6 +558,13 @@
 			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-15/Third reading, passed; yeas, 25; nays, 23; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 54; nays, 43; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 54; nays, 43; absent, 0; excused, 1.</description>
+			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-21/Passed final passage; yeas, 54; nays, 43; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

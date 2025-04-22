@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205797)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205797)
 * 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=SB%205797:)
 * 04/18/2025 [The Center Square](/org/the_center_square/) - [Wealth tax resurrected as WA Dems advance several revenue bills out of executive session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_be854af8-92b3-406d-80a6-40dd0717b824.html#:~:text=Senate%20Bill%205797)

@@ -42,11 +42,15 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Kirk Hovenkotter
 
-## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+
+## [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources   ❓1
+* ❓💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5801](/bill/2023-24/sb/5801/) - Transportation resources   ❓1
+* ❓💵 Bryce Yadon
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

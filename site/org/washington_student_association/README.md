@@ -36,15 +36,17 @@
 * 👍💵 Sean Behl
 * 👍 Heba Qatrani
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
+## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs 👍1 👎2 
 * 👎💵 Isela Bonilla
 * 👎 Heba Qatrani
+* 👍💵 Isela Bonilla
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎2 
+### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs 👍1 👎2 
 * 👎💵 Isela Bonilla
 * 👎 Heba Qatrani
+* 👍💵 Isela Bonilla
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

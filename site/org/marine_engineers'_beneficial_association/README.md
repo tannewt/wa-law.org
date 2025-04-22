@@ -362,7 +362,7 @@
 
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎2 
 
 ### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎3 
 
@@ -466,9 +466,9 @@
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
-### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
 
-### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
+### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎2 
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
 

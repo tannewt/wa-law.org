@@ -8,15 +8,30 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202081)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202081)
 * 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=HB%202081:)
 * 04/16/2025 [FOX13](/org/fox13/) - [WA Democrats propose new taxes to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=companion%20legislation)
 * 04/16/2025 [KUOW](/org/kuow/) - [KUOW - Washington state Democrats reveal sweeping new tax plan](https://www.kuow.org/stories/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan#:~:text=increase%20in%20a%20surcharge)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=House%20Bill%202081)
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=House%20Bill%202081)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202081)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=HB%202081)
 
 ## Meetings
+### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 2081 Business and occupation tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=4)
+
+#### 2 👍 - Pro
+
+#### 10 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 04/18 08:00 AM - Finance (FIN): HB 2081 Business and occupation tax
 #### 456 👍 - Pro
 Testifying:

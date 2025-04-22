@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/15/2025 [FOX13](/org/fox13/) - [WA Senate passes bill to slow down habitual speeders | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-senate-bill-speed-limit#:~:text=House%20Bill%201596)

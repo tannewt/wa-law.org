@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=SSB%201216)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%201216)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%201216)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=HB%201216)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201216)

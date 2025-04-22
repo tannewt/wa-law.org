@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5444/</link>
 		<description>Updates about SB 5444</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 21 Apr 2025 10:16:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -113,6 +113,45 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-21/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>❓💵Amber Carter - Seattle Mariners</title>
+			<description>Amber Carter signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/seattle_mariners/"&gt;Seattle Mariners&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 21 Apr 2025 01:08:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Amber/Carter/2025-04-21 01:08:09</guid>
+		</item>
+		<item>
+			<title>👍Ally Yang - Mount St. Helens Institute</title>
+			<description>Ally Yang signed up to testify Pro.</description>
+			<pubDate>Mon, 21 Apr 2025 10:16:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ally/Yang/2025-04-21 10:16:15</guid>
+		</item>
+		<item>
+			<title>👍Noga Gideoni-Abada - Mount St. Helens Institute</title>
+			<description>Noga Gideoni-Abada signed up to testify Pro.</description>
+			<pubDate>Mon, 21 Apr 2025 10:16:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Noga/Gideoni-Abada/2025-04-21 10:16:15</guid>
+		</item>
+		<item>
+			<title>👍Rosie Ying - Mount St. Helens Institute</title>
+			<description>Rosie Ying signed up to testify Pro.</description>
+			<pubDate>Mon, 21 Apr 2025 10:16:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rosie/Ying/2025-04-21 10:16:15</guid>
 		</item>
 	</channel>
 </rss>

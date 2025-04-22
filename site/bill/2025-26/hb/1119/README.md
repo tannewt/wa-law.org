@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 04/23 01:30 PM - Ways & Means (WM): ESHB 1119 Supervision compliance
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167254&caId=26990&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167254&caId=26990&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167254&caId=26990&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167254&caId=26990&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Mac Pevey - Department of Corrections
+
+#### 24 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/17 04:00 PM - Appropriations (APP): HB 1119 Supervision compliance
 #### 14 👍 - Pro
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5814/</link>
 		<description>Updates about SB 5814</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 07:53:55 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 21 Apr 2025 16:40:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -462,6 +462,13 @@
 			<description>News article "More tax increase proposals | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 19 Apr 2025 23:26:33 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205814</guid>
+		</item>
+		<item>
+			<title>More tax increase proposals | Washington State House Republicans</title>
+			<description>News article "More tax increase proposals | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 19 Apr 2025 23:26:33 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205814</guid>
 		</item>
 		<item>
@@ -760,6 +767,13 @@
 			<guid isPermaLink="false">testifier/Rowland/Thompson/2025-04-20 12:16:01</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-21/First reading, referred to Finance.</guid>
+		</item>
+		<item>
 			<title>👎Max Martin - Association of Washington Business</title>
 			<description>Max Martin signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;.</description>
 			<pubDate>Mon, 21 Apr 2025 07:14:55 GMT</pubDate>
@@ -806,6 +820,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Alex/Hamasaki/2025-04-21 07:53:55</guid>
+		</item>
+		<item>
+			<title>WATCH: WA Senate Dems advance several tax hike bills as session enters last week | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: WA Senate Dems advance several tax hike bills as session enters last week | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 21 Apr 2025 16:40:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_c8387240-c34b-47e5-8962-d6b9e8df665c.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205814</guid>
 		</item>
 	</channel>
 </rss>

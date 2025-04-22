@@ -14,15 +14,9 @@
 
 ## Meetings
 ### Tue 04/22 09:00 AM - Appropriations (APP): SSB 5802 Transportation funds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167183&caId=26960&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167183&caId=26960&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167183&caId=26960&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33360&aId=167183&caId=26960&tId=4)
+#### 39 👍 - Pro
 
-#### 9 👍 - Pro
-
-#### 49 👎 - Con
+#### 491 👎 - Con
 
 #### 0 ❓ - Other
 

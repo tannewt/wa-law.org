@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1813 Medical assist reprocurement

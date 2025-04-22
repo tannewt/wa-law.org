@@ -7,7 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/14/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Update on bills, nursing shortage, capital budget & more! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/04/14/newsletter-update-on-bills-nursing-shortage-capital-budget-more/#:~:text=HB%201349)
+* 04/10/2023 [Senate Democrats](/org/senate_democrats/) - [LEGISLATIVE NEWS: Orwall’s foreclosure protections measures head to Governor - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/04/10/legislative-news-orwalls-foreclosure-protections-measures-head-to-governor/#:~:text=HB%201349)
 * 04/10/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s foreclosure protections measures head to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/legislative-news-orwalls-foreclosure-protections-measures-head-to-governor/#:~:text=HB%201349)
+* 03/29/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: One month left and so much to report! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/03/29/newsletter-one-month-left-and-so-much-to-report/#:~:text=HB%201349)
+* 03/10/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: International Women’s Day / what passed to the Senate? / Town hall meeting - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/03/10/newsletter-international-womens-day-what-passed-to-the-senate-town-hall-meeting/#:~:text=HB%201349)
+* 02/26/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Town hall meeting, bills on floor calendar, foreclosure protections and more! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/02/26/newsletter-town-hall-meeting-bills-on-floor-calendar-foreclosure-protections-and-more/#:~:text=HB%201349)
 
 ## Meetings
 ### Fri 03/10 10:30 AM - Housing (HSG): HB 1349 Foreclosure protections

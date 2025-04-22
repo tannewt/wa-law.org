@@ -9,7 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/21/2025 [FOX13](/org/fox13/) - [WA legislators work on tax proposals as session nears end | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislators-tax-session-end#:~:text=certain%20tax%20preferences)
+* 04/21/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate Dems advance several tax hike bills as session enters last week | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c8387240-c34b-47e5-8962-d6b9e8df665c.html#:~:text=Senate%20Bill%205794)
 * 04/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Tax fight crescendos in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/19/tax-fight-crescendos-in-the-washington-legislature/#:~:text=Senate%20Bill%205794)
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205794)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205794)
 * 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=SB%205794:)
 * 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=SB%205794:)
@@ -18,6 +21,7 @@
 * 04/16/2025 [Senate Democrats](/org/senate_democrats/) - [House and Senate Democrats release updated progressive revenue proposal, hearings in coming days - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/15/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=SB%205794)
 * 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=B%205794)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205794)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205794)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205794)
 * 03/24/2025 [Axios](/org/axios/) - [Washington lawmakers weigh wealth, property tax changes amid budget gap - Axios Seattle](https://www.axios.com/local/seattle/2025/03/24/democrats-wealth-property-tax-budget-gap#:~:text=want%20to%20close)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205794)

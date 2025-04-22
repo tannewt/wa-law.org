@@ -70,6 +70,8 @@
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
+
 ### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
 
 ### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍2  
@@ -91,6 +93,8 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
+### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
+
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
 
 ### [SB 5795](/bill/2025-26/sb/5795/) - Sales and use tax rate 👍1  
@@ -101,7 +105,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-### [SB 5807](/bill/2025-26/sb/5807/) - Health plan incentives   ❓1
+### [SB 5807](/bill/2025-26/sb/5807/) - Health plan incentives   ❓2
+* ❓💵 Seamus Petrie
 * ❓💵 Seamus Petrie
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  

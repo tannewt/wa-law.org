@@ -33,7 +33,7 @@
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍2  
 * 👍 Megan Moore
 
-### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍3  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 

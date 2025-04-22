@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/21/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill to restrict outside National Guard from entering state is signed into law • Washington State Standard](https://washingtonstatestandard.com/briefs/wa-bill-to-restrict-outside-national-guard-from-entering-state-is-signed-into-law/#:~:text=House%20Bill%201321)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [WA officials considered offering National Guard help to Trump at Canadian border • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/wa-officials-considered-offering-national-guard-help-to-trump-at-canadian-border/#:~:text=House%20Bill%201321)
 * 03/31/2025 [The Center Square](/org/the_center_square/) - [Ferguson one step closer to blocking out-of-state guard troops from entering WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_33ad3405-d549-4b7d-bae9-a7c6251b8a7c.html#:~:text=House%20Bill%201321)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=House%20Bill%201321)

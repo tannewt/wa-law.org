@@ -9,7 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/21/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate Dems advance several tax hike bills as session enters last week | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c8387240-c34b-47e5-8962-d6b9e8df665c.html#:~:text=Senate%20Bill%205813)
 * 04/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Tax fight crescendos in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/19/tax-fight-crescendos-in-the-washington-legislature/#:~:text=Senate%20Bill%205813)
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205813)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205813)
 * 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=SB%205813:)
 * 04/18/2025 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action: Increase Capital Gains and Estate Taxes to Fund Education - WSPTA](https://www.wastatepta.org/advocacy-in-action-increase-capital-gains-and-estate-taxes-to-fund-education/#:~:text=SB%205813)

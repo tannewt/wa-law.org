@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1043/</link>
 		<description>Updates about HB 1043</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 18 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Apr 2025 08:52:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,14 @@
 			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-18/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Veronica Jarvis - TDM Technical Committee</title>
+			<description>Veronica Jarvis signed up to testify Pro. They are signed up to represent TDM Technical Committee.</description>
+			<pubDate>Tue, 22 Apr 2025 08:52:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Veronica/Jarvis/2025-04-22 08:52:15</guid>
 		</item>
 	</channel>
 </rss>

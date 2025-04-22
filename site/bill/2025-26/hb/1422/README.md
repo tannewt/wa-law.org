@@ -10,6 +10,21 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Wed 04/23 01:30 PM - Ways & Means (WM): E2SHB 1422 Drug take-back program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167260&caId=26996&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167260&caId=26996&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167260&caId=26996&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167260&caId=26996&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1422 Drug take-back program
 #### 86 👍 - Pro
 Testifying:

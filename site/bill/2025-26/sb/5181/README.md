@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205181)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205181)
 * 04/15/2025 [MyNorthwest](/org/mynorthwest/) - [Washington House Speaker breaks 132-year tradition to end debate](https://mynorthwest.com/mynorthwest-politics/washington-debate/4076279#:~:text=Senate%20Bill%205181)
 * 04/15/2025 [The Center Square](/org/the_center_square/) - [WATCH: Republicans silenced as WA House passes bill amending parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8ca9ce28-d7e8-4456-a6db-e107c49ea7f5.html#:~:text=SB%205181)
@@ -18,6 +19,7 @@
 * 04/12/2025 [The Center Square](/org/the_center_square/) - [WA Senate passes bill that partly revises parents’ bill of rights initiative | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_07324883-0cbe-4c5a-b4d2-fc6e1f97c846.html#:~:text=Senate%20Bill%205181.)
 * 04/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Students’ rights bill clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/04/11/students-rights-bill-clears-washington-senate/#:~:text=Senate%20Bill%205181)
 * 04/11/2025 [KUOW](/org/kuow/) - [KUOW - Student, parental rights bills are advancing in Washington state. Is a ballot fight next?](https://www.kuow.org/stories/wa-bills-on-student-parents-rights-are-advancing-is-a-ballot-fight-next#:~:text=Senate%20Bill%205181)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205181)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205181)
 * 03/24/2025 [The Center Square](/org/the_center_square/) - [WATCH: Bill to amend parents’ bill of rights draws more criticism, some support | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67dd024a-797f-4ccc-a055-1c918a835be4.html#:~:text=ESSB%205181)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESSB%205181)

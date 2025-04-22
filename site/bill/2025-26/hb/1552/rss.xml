@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1552/</link>
 		<description>Updates about HB 1552</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Apr 2025 08:48:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,6 +65,21 @@
 			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-19/Third reading, passed; yeas, 82; nays, 13; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Canna Luz</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Tue, 22 Apr 2025 08:48:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-04-22 08:48:47</guid>
 		</item>
 	</channel>
 </rss>

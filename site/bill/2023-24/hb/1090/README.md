@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/14/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Update on bills, nursing shortage, capital budget & more! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/04/14/newsletter-update-on-bills-nursing-shortage-capital-budget-more/#:~:text=House%20version)
+
 ## Meetings

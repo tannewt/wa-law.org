@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/16/2023 [Senate Democrats](/org/senate_democrats/) - [Rep. Orwall’s Newsletter: 988 suicide and crisis hotline update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/08/16/rep-orwalls-newsletter-988-suicide-and-crisis-hotline-update/#:~:text=HB%201329)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201329)
 * 04/18/2023 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to bar utilities from cutting power in extreme heat | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-bar-utilities-from-cutting-power-in-extreme-heat/#:~:text=House%20Bill%201329)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=ESHB%201329)

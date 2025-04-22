@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Bills, video update, reproductive rights & a new tax credit! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/01/27/newsletter-bills-video-update-reproductive-rights-a-new-tax-credit/#:~:text=HB%201286)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201286)
 * 01/20/2023 [Senate Democrats](/org/senate_democrats/) - [WA Senate to hear five abortion protection bills Tuesday - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/20/wa-senate-to-hear-five-abortion-protection-bills-tuesday/#:~:text=HB%201286)
 * 01/11/2023 [Senate Democrats](/org/senate_democrats/) - [Keiser bill would protect employers who provide reproductive care benefits - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/11/keiser-bill-would-protect-employers-who-provide-reproductive-care-benefits/#:~:text=HB%201286)
