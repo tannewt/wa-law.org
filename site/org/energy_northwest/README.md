@@ -30,7 +30,7 @@
 * 👍 Richard Shaff
 * 👍 Richard Shaff
 
-### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
 
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
 

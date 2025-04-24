@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
+* [Passed Legislature](S3.PL/)
 
 ## 📰 Articles
 * 04/16/2025 [The Urbanist](/org/the_urbanist/) - [State Senate Greenlights Sweeping Transit-Oriented Housing Bill - The Urbanist](https://www.theurbanist.org/2025/04/16/state-senate-greenlights-sweeping-tod-housing-bill/#:~:text=House%20Bill%201491)

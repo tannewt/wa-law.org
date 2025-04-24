@@ -149,7 +149,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
-### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/PFML premiums 👍1  
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
 

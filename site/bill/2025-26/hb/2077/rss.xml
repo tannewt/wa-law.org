@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2077/</link>
 		<description>Updates about HB 2077</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Apr 2025 16:45:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -226,11 +226,32 @@
 			<guid isPermaLink="false">2025-04-22/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 52; nays, 45; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 52; nays, 45; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-22/Third reading, passed; yeas, 52; nays, 45; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>WA's midnight tax storm: House pushes through big business hit, Tesla tax</title>
+			<description>News article "WA's midnight tax storm: House pushes through big business hit, Tesla tax" from MyNorthwest.</description>
+			<pubDate>Tue, 22 Apr 2025 16:00:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/big-business-tesla-tax/4078830#:~:text=SHB%202077</guid>
+		</item>
+		<item>
+			<title>In the dead of night, WA House passes trio of tax hike bills | Washington | thecentersquare.com</title>
+			<description>News article "In the dead of night, WA House passes trio of tax hike bills | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 22 Apr 2025 16:45:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_a3a47717-2e5f-444c-8864-bdb5bfedbc19.html#:~:text=Substitute%20House%20Bill%202077</guid>
 		</item>
 	</channel>
 </rss>

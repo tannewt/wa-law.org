@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1573/</link>
 		<description>Updates about HB 1573</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -100,6 +100,20 @@
 			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-19/Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 5.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/President signed.</guid>
 		</item>
 	</channel>
 </rss>

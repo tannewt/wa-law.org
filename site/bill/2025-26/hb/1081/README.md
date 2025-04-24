@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [Donaghy bill ensuring transparency in solicited real estate sent to Senate. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/donaghy-bill-ensuring-transparency-in-solicited-real-estate-sent-to-senate/#:~:text=House%20Bill%201081)

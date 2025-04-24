@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Thursday, March 13 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/thursday-march-13-2/#:~:text=Washington%20bill%20could%20transform%20prosthetics%20access%20for%20amputees)

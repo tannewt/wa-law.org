@@ -435,7 +435,7 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍4  
 * 👍💵 Nasue Nishida
 
-### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍3  
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/PFML premiums 👍3  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍10  
 * 👍💵 Julie Salvi

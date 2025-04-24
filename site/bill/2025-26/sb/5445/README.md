@@ -1,12 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5445](/bill/2025-26/sb/5445/)
 
-# SB 5445 - Local energy resilience
+# SB 5445 - Distributed energy resources
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5445&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5445 Local energy resilience

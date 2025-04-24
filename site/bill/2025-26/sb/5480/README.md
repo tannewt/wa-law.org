@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/22/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill to keep medical debt off credit reports signed into law • Washington State Standard](https://washingtonstatestandard.com/2025/04/22/wa-bill-to-keep-medical-debt-off-credit-reports-signed-into-law/#:~:text=Senate%20Bill%205480)
+* 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Riccelli bill to remove medical debt from credit score reporting - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/22/governor-signs-riccelli-bill-to-remove-medical-debt-from-credit-score-reporting/#:~:text=Senate%20Bill%205480)
 * 04/10/2025 [The Center Square](/org/the_center_square/) - [WA Legislature passes bill eliminating medical debt from consumer credit reports | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3cb2146d-bf2d-4b39-acda-ce6bdf0a2d53.html#:~:text=Senate%20Bill%205480)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205480)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205480)

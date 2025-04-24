@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1207/</link>
 		<description>Updates about HB 1207</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 08:29:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 10:03:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -143,6 +143,22 @@
 			<guid isPermaLink="false">2025-04-19/First reading, referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>👎Veneta Kearns - Office of Secretary of State</title>
+			<description>Veneta Kearns signed up to testify Con.</description>
+			<pubDate>Tue, 22 Apr 2025 01:03:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Veneta/Kearns/2025-04-22 01:03:46</guid>
+		</item>
+		<item>
+			<title>❓Beth Freeman - King County Superior Court Clerk's Office / Department of Judicial Administration</title>
+			<description>Beth Freeman signed up to testify Other. They are signed up to represent King County Superior Court Clerk's Office / Department of Judicial Administration.</description>
+			<pubDate>Tue, 22 Apr 2025 02:12:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Beth/Freeman/2025-04-22 02:12:25</guid>
+		</item>
+		<item>
 			<title>👎Christopher Stanley - Administrative Office of the Courts</title>
 			<description>Christopher Stanley signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/administrative_office_of_the_courts/"&gt;Administrative Office of the Courts&lt;/a&gt;.</description>
 			<pubDate>Tue, 22 Apr 2025 07:54:08 GMT</pubDate>
@@ -157,6 +173,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Steve/Hobbs/2025-04-22 08:29:07</guid>
+		</item>
+		<item>
+			<title>❓Tim Fitzgerald - Washington State Association of County Clerks</title>
+			<description>Tim Fitzgerald signed up to testify Other. They are signed up to represent Washington State Association of County Clerks.</description>
+			<pubDate>Tue, 22 Apr 2025 11:47:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tim/Fitzgerald/2025-04-22 11:47:45</guid>
+		</item>
+		<item>
+			<title>❓Kym Foster - Clerk of Superior Court Grays Harbor County</title>
+			<description>Kym Foster signed up to testify Other. They are signed up to represent Clerk of Superior Court Grays Harbor County.</description>
+			<pubDate>Wed, 23 Apr 2025 10:03:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kym/Foster/2025-04-23 10:03:01</guid>
 		</item>
 	</channel>
 </rss>

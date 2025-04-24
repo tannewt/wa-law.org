@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Environment, Energy & Technology (ENET): SHB 1670 Sewage-containing spills

@@ -3,7 +3,7 @@
 
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
 
-### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
+### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍2  
 
 ### [HB 1054](/bill/2025-26/hb/1054/) - County ferry contracts 👍1  
 
@@ -268,7 +268,7 @@
 
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax 👍1  
 
-### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎1 
+### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎2 
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
@@ -276,7 +276,9 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎2 
+
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
@@ -322,7 +324,7 @@
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 
-### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍2  
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/PFML premiums 👍2  
 
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program 👍1  
 

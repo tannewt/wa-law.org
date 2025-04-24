@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5444/</link>
 		<description>Updates about SB 5444</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 10:16:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rosie/Ying/2025-04-21 10:16:15</guid>
+		</item>
+		<item>
+			<title>WA lawmakers weigh new license plates, rules  | FOX 13 Seattle</title>
+			<description>News article "WA lawmakers weigh new license plates, rules  | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Tue, 22 Apr 2025 17:57:56 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-license-plates-rules#:~:text=Senate%20Bill%205444</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

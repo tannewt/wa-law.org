@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2015/</link>
 		<description>Updates about HB 2015</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 17 Apr 2025 17:49:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 18:44:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -691,6 +691,27 @@
 			<pubDate>Thu, 17 Apr 2025 17:49:56 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-legislators-police-hiring-grant#:~:text=House%20Bill%202015</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 55; nays, 42; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 55; nays, 42; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/Passed final passage; yeas, 55; nays, 42; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Keeping our communities safe - Sen. Marko Liias</title>
+			<description>News article "Keeping our communities safe - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Wed, 23 Apr 2025 18:44:46 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/04/23/keeping-our-communities-safe/#:~:text=A%20House%20bill</guid>
 		</item>
 	</channel>
 </rss>

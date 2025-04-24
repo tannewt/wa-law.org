@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Krishnadasan child care bill into law - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/22/governor-signs-krishnadasan-child-care-bill-into-law/#:~:text=Senate%20Bill%205655)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5655)
 * 02/25/2025 [Senate Democrats](/org/senate_democrats/) - [Working to support you - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/25/working-to-support-you/#:~:text=SB%205655!)
 

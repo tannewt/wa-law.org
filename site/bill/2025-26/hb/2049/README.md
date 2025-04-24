@@ -6,8 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/24/2025 [MyNorthwest](/org/mynorthwest/) - [Tension rises over school funding, taxes in Olympia](https://mynorthwest.com/mynorthwest-politics/school-funding-tax/4079644#:~:text=Engrossed%20House%20Substitute%20Bill%202049.)
+* 04/23/2025 [The Center Square](/org/the_center_square/) - [School funding bill generates sharp exchange between OSPI's Reykdal and Sen. Braun | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f85845d-9fdd-4e99-bbfe-073c335d6627.html#:~:text=Engrossed%20House%20Substitute%20Bill%202049)
+* 04/23/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle democracy voucher renewal set for August ballot | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/seattle-democracy-voucher-renewal-set-august-ballot#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
+* 04/22/2025 [The Center Square](/org/the_center_square/) - [In the dead of night, WA House passes trio of tax hike bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a3a47717-2e5f-444c-8864-bdb5bfedbc19.html#:~:text=Engrossed%20House%20Substitute%20Bill%202049)
+* 04/22/2025 [MyNorthwest](/org/mynorthwest/) - [WA's midnight tax storm: House pushes through big business hit, Tesla tax](https://mynorthwest.com/mynorthwest-politics/big-business-tesla-tax/4078830#:~:text=2049)
+* 04/22/2025 [The Center Square](/org/the_center_square/) - [Economist: Washington's property tax cap is holding the state back | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2c4b8752-c9e6-40b1-9da5-6be347d9ba78.html#:~:text=House%20Bill%202049)
 * 04/21/2025 [KIRO7](/org/kiro7/) - [Lacking ‘three-corners agreement,’ state Democrats ditch property tax plan – KIRO 7 News Seattle](https://www.kiro7.com/news/local/lacking-three-corners-agreement-state-democrats-ditch-property-tax-plan/4DMQGOUCQNCERBDLO4ETND4SLI/#:~:text=House%20Bill%202049)
 * 04/21/2025 [Senate Republicans](/org/senate_republicans/) - [Democrat legislators still on track for supporting property-tax hikes, just by a different route - Senate Republican Caucus](https://src.wastateleg.org/blog/democrat-legislators-still-track-supporting-property-tax-hikes-just-different-route/#:~:text=House%20Bill%202049)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202049)
@@ -40,22 +47,40 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 2049 K-12 education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167286&caId=26999&tId=4)
-
-#### 1 👍 - Pro
-
-#### 14 👎 - Con
+#### 20 👍 - Pro
 Testifying:
-* Laurie Layne
+* Jodi Boe - Olympia Education Association
+* Regen Lorden - Bellevue Education Association
+* Girard Thompson - Seattle Education Association/WEA
+* 💵Jared Kink - Everett Education Association
+* Andi Nofziger - Edmonds Education Association
+* Derona Uzzle - Issaquah Education Association
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Chris Reykdal - [Superintendent of Public Instruction](/org/superintendent_of_public_instruction/)
 
-#### 2 ❓ - Other
+#### 954 👎 - Con
+Testifying:
+* Tim Eyman - Initiative activist
+* Jordan  (JD) Brown - HEALTH & WELLNESS MASSAGE
+* Randolph Hardy
+* Susan Schneider
+* Adam Covert
+* Megan Blight
+* Debbie Noonan
+* Laurie Layne
+* Charlie Brown - South Sound Superintendents and Federal Way Schools
+* 💵Melissa Gombosky - Evergreen Public Schools
+* Jeff Snell - Vancouver Public Schools - Vancouver, WA
+* David Connelly
+* Jonathan Wright
+* 💵Devin Gombosky - ESD 105 Schools Coalition
+* 💵Marie Sullivan - Eastern Washington Schools Quality Coalition
+
+#### 4 ❓ - Other
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Clifford Traisman - Seattle, Highline, Bellevue Public School Districts
+* Daniel Lunghofer - Washington State School Directors' Association
 
 ### Thu 04/03 08:00 AM - Finance (FIN): HB 2049 K-12 education funding
 #### 2206 👍 - Pro

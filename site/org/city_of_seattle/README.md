@@ -5,6 +5,9 @@
 
 ### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
 
+### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
+* 👍 Matthew Trecha
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  

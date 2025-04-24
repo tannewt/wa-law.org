@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/23/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle democracy voucher renewal set for August ballot | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/seattle-democracy-voucher-renewal-set-august-ballot#:~:text=Senate%20Bill%205263)
 * 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [Some under-the-radar issues in Olympia - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/04/18/some-under-the-radar-issues-in-olympia/#:~:text=Senate%20Bill%205653)
 * 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Supreme Court strikes down Spokane camping ban initiative | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-supreme-court-strikes-down-spokane-camping-ban-initiative#:~:text=Senate%20Bill%205263)
 * 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature#:~:text=Senate%20Bill%205263)

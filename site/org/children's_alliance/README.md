@@ -31,6 +31,8 @@
 * 👍 Stephan Blanford
 * 👍💵 Reid Saaris
 
+### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎1 
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍4  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍5  

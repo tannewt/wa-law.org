@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5199/</link>
 		<description>Updates about SB 5199</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 18 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -126,6 +126,13 @@
 			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-18/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

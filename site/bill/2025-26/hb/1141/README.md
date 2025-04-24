@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/13/2025 [MyNorthwest](/org/mynorthwest/) - [Washington bill could give cannabis industry agricultural status](https://mynorthwest.com/mynorthwest-politics/cannabis-industry/4061899#:~:text=House%20Bill%201141)

@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [The Finish Line Is in Sight - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/04/23/the-finish-line-is-in-sight/#:~:text=House%20Bill%201837)
 * 03/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Corrosion problem knocks most Amtrak Cascades trains out of service • Washington State Standard](https://washingtonstatestandard.com/2025/03/27/corrosion-problem-knocks-most-amtrak-cascades-trains-out-of-service/#:~:text=House%20Bill%201837)
 * 03/24/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Legislature Should Advance Amtrak Planning in Central and Eastern Washington - The Urbanist](https://www.theurbanist.org/2025/03/24/op-ed-advance-amtrak-planning-in-central-eastern-washington/#:~:text=House%20Bill%201837)
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Rep. Reed: Improved passenger rail benefits Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/rep-reed-improved-passenger-rail-benefits-washington/#:~:text=HB%201837)

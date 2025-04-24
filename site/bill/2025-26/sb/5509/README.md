@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/09/2025 [The Urbanist](/org/the_urbanist/) - [Snohomish County Permits Childcare Providers More Places, State May Follow Suit - The Urbanist](https://www.theurbanist.org/2025/04/09/snohomish-county-permits-childcare-providers-more-places/#:~:text=considering%20legislation)

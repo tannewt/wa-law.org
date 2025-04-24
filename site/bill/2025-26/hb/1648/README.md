@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 1648 Child care qualifications

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/13/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall coming up March 22 - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/13/town-hall-coming-up-march-22/#:~:text=SB%205492)

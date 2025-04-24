@@ -50,10 +50,12 @@
 
 ### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍2  
 
-### [HB 2044](/bill/2025-26/hb/2044/) - Unexcused student absences   ❓1
+### [HB 2044](/bill/2025-26/hb/2044/) - Unexcused student absences   ❓2
 * ❓💵 Roz Thompson
 
-### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding   ❓1
+
+### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎2 
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍💵 Casey Brown

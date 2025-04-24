@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/23/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: No word on the budget, but plenty of taxes to go around - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-no-word-budget-plenty-taxes-go-around/#:~:text=(Senate%20Bill%205814))
+* 04/22/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee gives do-pass recommendation to three tax bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fe3d3c03-f15e-47a8-a12f-9a03d4e2c5e9.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205814)
 * 04/21/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate Dems advance several tax hike bills as session enters last week | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c8387240-c34b-47e5-8962-d6b9e8df665c.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205814)
 * 04/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Tax fight crescendos in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/19/tax-fight-crescendos-in-the-washington-legislature/#:~:text=Senate%20Bill%205814)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205814)

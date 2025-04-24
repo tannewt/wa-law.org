@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Big decisions - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/04/11/big-decisions/#:~:text=5104)

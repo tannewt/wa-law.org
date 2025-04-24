@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
+
+## 📰 Articles
+* 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [The Finish Line Is in Sight - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/04/23/the-finish-line-is-in-sight/#:~:text=Senate%20Bill%205503)
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5503 Public employee bargaining

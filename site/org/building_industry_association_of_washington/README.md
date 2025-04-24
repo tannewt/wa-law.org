@@ -172,7 +172,9 @@
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
 
-### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding  👎1 
+
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
 

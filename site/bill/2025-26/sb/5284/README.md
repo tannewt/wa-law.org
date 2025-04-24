@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 04/16/2025 [The Center Square](/org/the_center_square/) - [House approves legislation to modernize WA’s recycling system | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a110e8a0-11e8-4aaf-936a-ccbdb8f6f849.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205284)

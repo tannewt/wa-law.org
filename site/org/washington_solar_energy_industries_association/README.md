@@ -19,7 +19,7 @@
 
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 
 
-### [SB 5445](/bill/2025-26/sb/5445/) - Local energy resilience   ❓1
+### [SB 5445](/bill/2025-26/sb/5445/) - Distributed energy resources   ❓1
 
 ### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects   ❓1
 * ❓ Bill Will

@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 04/22/2025 [The Center Square](/org/the_center_square/) - [In the dead of night, WA House passes trio of tax hike bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a3a47717-2e5f-444c-8864-bdb5bfedbc19.html#:~:text=Substitute%20House%20Bill%202077)
+* 04/22/2025 [MyNorthwest](/org/mynorthwest/) - [WA's midnight tax storm: House pushes through big business hit, Tesla tax](https://mynorthwest.com/mynorthwest-politics/big-business-tesla-tax/4078830#:~:text=SHB%202077)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202077)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202077)
 * 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=the%20version%20of%20this%20bill%20sponsored%20by%20the%20House%20of%20Representatives)

@@ -12,18 +12,14 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 1848 Traumatic brain injuries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167250&caId=26986&tId=4)
-
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
+* Laura Dahmer White
 * Desiree Douglass - HeadStrong
 * Barb George - Grays Harbor Brain Injury Support Group
+* Serry Bauer
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -118,7 +118,8 @@
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
 * 👎💵 Julia Gorton
 
-### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5568/</link>
 		<description>Updates about SB 5568</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -208,6 +208,13 @@
 			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-15/Third reading, passed; yeas, 59; nays, 38; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 34; nays, 13; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 34; nays, 13; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/Passed final passage; yeas, 34; nays, 13; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

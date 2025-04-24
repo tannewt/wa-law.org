@@ -27,7 +27,7 @@ Testifying:
 * 💵Sienna Jarrard - Associated Students of UW Bothell
 * Sergio Acuna
 
-#### 1058 👎 - Con
+#### 1059 👎 - Con
 Testifying:
 * Frank Trieu - Evergreen Beauty College
 * 💵Devin Gombosky - [Northwest Career College Federation](/org/northwest_career_college_federation/)
@@ -64,6 +64,7 @@ Testifying:
 * William Corro Rzajeva - DigiPen Institute of Technology
 * Irene Leung - DigiPen Institute of Technology
 * Javiera Morales Cortés
+* Julia Zettmann
 * Kurt Ikemeier - Northwest College of Art and Design
 
 #### 6 ❓ - Other

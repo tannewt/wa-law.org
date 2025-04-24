@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/22/2025 [FOX13](/org/fox13/) - [Man sentenced for Seattle hate crime home invasions | FOX 13 Seattle](https://www.fox13seattle.com/news/seattle-hate-crime-home-invasions#:~:text=House%20Bill%201052)
 * 04/15/2025 [KIRO7](/org/kiro7/) - [King County hate crimes involving gender identity, sexual orientation trend upwards – KIRO 7 News Seattle](https://www.kiro7.com/news/local/king-county-hate-crimes-involving-gender-identity-sexual-orientation-nearing-last-years-numbers/P4QFKRM4RJATPDCZLVB5X35ZFY/#:~:text=HB%201052)
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/04/11/approaching-the-finish-line/#:~:text=HB%201052)
 * 04/04/2025 [The Center Square](/org/the_center_square/) - [WA Senate passes hate crime expansion bill, rejects ‘Tesla’ amendment | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3201ba31-0337-4494-a3d8-87ad7a1fbc53.html#:~:text=House%20Bill%201052)

@@ -7,27 +7,28 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/22/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA K-12 savings bill moves ahead sans amendment capping pay for superintendents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2fb6005a-9a05-458d-aa00-3413292fd275.html#:~:text=House%20Bill%202050)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202050)
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): HB 2050 K-12 savings & efficiencies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167245&caId=26981&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167245&caId=26981&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167245&caId=26981&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167245&caId=26981&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Danica Noble - Washington State PTA
 
-#### 63 👎 - Con
+#### 491 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Mandi Rehn - Valley School District
 * Marni Wallace - Online school parent
+* Charlie Brown - South Sound Superintendents and Federal Way School District
+* Mariel Ponce - Learning Coach/Parent
+* Carol Lewis - Moses Lake School District
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Linnette Garcia - Online school parent
+* Jason Harrison
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 04/03 01:30 PM - Appropriations (APP): HB 2050 K-12 savings & efficiencies
 #### 16 👍 - Pro

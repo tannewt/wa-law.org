@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [Fosse Bill to Streamline Bargaining for Department of Corrections Employees Passes House  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/fosse-bill-to-streamline-bargaining-for-department-of-corrections-employees-passes-house/#:~:text=House%20Bill%201105)

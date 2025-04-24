@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 04/22/2025 [FOX13](/org/fox13/) - [WA lawmakers weigh new license plates, rules  | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-license-plates-rules#:~:text=Senate%20Bill%205444)
+
 ## Meetings
 ### Tue 04/22 10:00 AM - Transportation (TR): SSB 5444 Special license plates
 #### 159 👍 - Pro

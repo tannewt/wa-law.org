@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1498/</link>
 		<description>Updates about HB 1498</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 10:26:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,6 +109,37 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/Third reading, passed; yeas, 67; nays, 29; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍John Awai - Project Be Free</title>
+			<description>John Awai signed up to testify Pro. They are signed up to represent Project Be Free.</description>
+			<pubDate>Wed, 23 Apr 2025 06:41:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Awai/2025-04-23 06:41:25</guid>
+		</item>
+		<item>
+			<title>👍Katya Wojcik - Project Be Free, NPC</title>
+			<description>Katya Wojcik signed up to testify Pro. They are signed up to represent Project Be Free, NPC.</description>
+			<pubDate>Wed, 23 Apr 2025 10:05:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katya/Wojcik/2025-04-23 10:05:07</guid>
+		</item>
+		<item>
+			<title>👍Carmen Rivera - Renton City Councilmember</title>
+			<description>Carmen Rivera signed up to testify Pro. They are signed up to represent Renton City Councilmember.</description>
+			<pubDate>Wed, 23 Apr 2025 10:26:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carmen/Rivera/2025-04-23 10:26:12</guid>
 		</item>
 	</channel>
 </rss>

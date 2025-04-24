@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5079/</link>
 		<description>Updates about SB 5079</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 19 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -224,6 +224,20 @@
 			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-19/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

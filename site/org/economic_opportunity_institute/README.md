@@ -45,7 +45,7 @@
 
 ### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
 
-### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎1 
+### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎2 
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
 * 👍💵 Traci Underwood

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/26/2025 [Senate Democrats](/org/senate_democrats/) - [Our 49th LD Telephone Town Hall is Tomorrow at 6:30pm! Plus, an Important Update on My Bill - Sen. Annette Cleveland](https://senatedemocrats.wa.gov/cleveland/2025/03/26/our-49th-ld-telephone-town-hall-is-tomorrow-at-630pm-plus-an-update-on-my-bill-to-improve/#:~:text=Senate%20Bill%205525)

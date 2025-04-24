@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/12/2025 [House Democrats](/org/house_democrats/) - [House passes Simmons bill to ensure coverage for life-saving mental health care – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/house-passes-simmons-bill-to-ensure-coverage-for-life-saving-mental-health-care/#:~:text=House%20Bill%201432)

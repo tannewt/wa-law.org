@@ -15,6 +15,8 @@
 ### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation 👍2  
 * 👍 Audrey Miller Garcia
 
+### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎1 
+
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍 Audrey Miller Garcia
 

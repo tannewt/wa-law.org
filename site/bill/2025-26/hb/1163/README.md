@@ -8,8 +8,13 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 04/23/2025 [Axios](/org/axios/) - [Washington state lawmakers pass gun permit bill - Axios Seattle](https://www.axios.com/local/seattle/2025/04/23/washington-gun-permit-bill#:~:text=House%20Bill%201163)
+* 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [Keeping our communities safe - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/23/keeping-our-communities-safe/#:~:text=passed%20a%20measure)
+* 04/23/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit-to-purchase bill for gun buyers headed to WA governor’s desk • Washington State Standard](https://washingtonstatestandard.com/briefs/permit-to-purchase-bill-for-gun-buyers-headed-to-wa-governors-desk/#:~:text=House%20Bill%201163)
+* 04/23/2025 [The Center Square](/org/the_center_square/) - [WATCH: Permit-to-purchase gun bill headed to Gov. Ferguson’s desk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eba2b601-191a-451d-af71-f74d7b84f141.html#:~:text=House%20Bill%201163)
 * 04/15/2025 [KGW](/org/kgw/) - [Oregon lawmakers eye more gun control bills as Measure 114 remains on hold | kgw.com](https://www.kgw.com/article/news/local/the-story/measure-114-constitutional-oregon-lawmakers-more-gun-control-bills/283-0b6547b9-56c0-401c-8bd5-43a14f712cbf#:~:text=House%20Bill%201163)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit requirement for gun purchases clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/permit-requirement-for-gun-purchases-clears-washington-senate/#:~:text=House%20Bill%201163)
 * 04/15/2025 [MyNorthwest](/org/mynorthwest/) - [WA Senate approves permit to purchase gun bill with tweaks](https://mynorthwest.com/mynorthwest-politics/permit-gun-bill/4076145#:~:text=House%20Bill%201163)

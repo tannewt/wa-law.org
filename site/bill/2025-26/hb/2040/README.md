@@ -12,15 +12,13 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): HB 2040 ABD assistance recovery
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167249&caId=26985&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167249&caId=26985&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167249&caId=26985&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167249&caId=26985&tId=4)
-
 #### 0 👍 - Pro
 
-#### 23 👎 - Con
+#### 184 👎 - Con
+Testifying:
+* C'zar Carter
+* Patricia Bowen - [Solid Ground](/org/solid_ground/)
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 ❓ - Other
 

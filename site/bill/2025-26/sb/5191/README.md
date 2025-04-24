@@ -1,11 +1,12 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5191](/bill/2025-26/sb/5191/)
 
-# SB 5191 - Dockworkers/family leave
+# SB 5191 - Dockworkers/PFML premiums
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5191&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5191 Dockworkers/PFML premiums

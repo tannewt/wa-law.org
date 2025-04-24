@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5801/</link>
 		<description>Updates about SB 5801</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 07:59:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 09:14:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -380,6 +380,35 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Don/Lefeve/2025-04-22 07:59:29</guid>
+		</item>
+		<item>
+			<title>6-cent gas tax hike central to new transportation deal in WA Legislature • Washington State Standard</title>
+			<description>News article "6-cent gas tax hike central to new transportation deal in WA Legislature • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 22 Apr 2025 20:25:58 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/22/6-cent-gas-tax-hike-central-to-new-transportation-deal-in-wa-legislature/#:~:text=Senate%20Bill%205801</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Diving into the gas tax debate – KIRO 7 News Seattle</title>
+			<description>News article "Diving into the gas tax debate – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Wed, 23 Apr 2025 02:21:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/hearing-both-sides-gas-tax-debate/APNHAEVHUBBGDOMN4J7UYT6QU4/#:~:text=Senate%20Bill%205801</guid>
+		</item>
+		<item>
+			<title>❓Daniel Heppner - Turo</title>
+			<description>Daniel Heppner signed up to testify Other.</description>
+			<pubDate>Wed, 23 Apr 2025 09:14:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Daniel/Heppner/2025-04-23 09:14:41</guid>
 		</item>
 	</channel>
 </rss>

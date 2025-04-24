@@ -14,15 +14,11 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): ESHB 2061 Duty-free sales enterprises
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167257&caId=26993&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167257&caId=26993&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167257&caId=26993&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167257&caId=26993&tId=4)
+#### 2 👍 - Pro
+Testifying:
+* Annie McGrath - State of Washington Tourism
 
-#### 0 👍 - Pro
-
-#### 23 👎 - Con
+#### 225 👎 - Con
 
 #### 0 ❓ - Other
 

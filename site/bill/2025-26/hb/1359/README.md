@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1359 Criminal insanity

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5263/</link>
 		<description>Updates about SB 5263</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 18 Apr 2025 21:29:51 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 00:05:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1188,6 +1188,20 @@
 			<pubDate>Fri, 18 Apr 2025 21:29:51 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/chapman/2025/04/18/some-under-the-radar-issues-in-olympia/#:~:text=Senate%20Bill%205653</guid>
+		</item>
+		<item>
+			<title>Senate refuses to concur in House amendments.  Asks House to recede from amendments.</title>
+			<description>Senate refuses to concur in House amendments.  Asks House to recede from amendments.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/Senate refuses to concur in House amendments.  Asks House to recede from amendments.</guid>
+		</item>
+		<item>
+			<title>Seattle democracy voucher renewal set for August ballot | Cascade PBS</title>
+			<description>News article "Seattle democracy voucher renewal set for August ballot | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Wed, 23 Apr 2025 00:05:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/04/seattle-democracy-voucher-renewal-set-august-ballot#:~:text=Senate%20Bill%205263</guid>
 		</item>
 	</channel>
 </rss>

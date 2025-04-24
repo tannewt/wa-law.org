@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Ramos legislation to strengthen safe excavation practices passes Senate - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/03/06/ramos-legislation-to-strengthen-safe-excavation-practices-passes-senate/#:~:text=Senate%20Bill%205627)

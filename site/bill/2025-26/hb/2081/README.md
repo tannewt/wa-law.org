@@ -6,8 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/22/2025 [The Center Square](/org/the_center_square/) - [In the dead of night, WA House passes trio of tax hike bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a3a47717-2e5f-444c-8864-bdb5bfedbc19.html#:~:text=Engrossed%20Substitute%20House%20Bill%202081)
+* 04/22/2025 [MyNorthwest](/org/mynorthwest/) - [WA's midnight tax storm: House pushes through big business hit, Tesla tax](https://mynorthwest.com/mynorthwest-politics/big-business-tesla-tax/4078830#:~:text=ESHB%202081)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202081)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202081)
 * 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=HB%202081:)
@@ -20,15 +23,49 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 2081 Business and occupation tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167262&caId=26998&tId=4)
+#### 27 👍 - Pro
+Testifying:
+* Rachael Snell
+* 💵Emma Scalzo
+* Gwen Goodfellow
+* Julie Sparkman
+* Frances Guerrero
+* Jeanette Obelcz
+* 💵Treasure Mackley
+* Minnie Casillas
 
-#### 2 👍 - Pro
-
-#### 10 👎 - Con
+#### 399 👎 - Con
+Testifying:
+* Tim Eyman - Initiative l
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
+* cliff tvedten
+* Julie Van Devender
+* Raj Sidhu - inTech Consulting
+* 💵Amber Carter - WA Retail
+* Chad Luhr - Triumph Electric LLC
+* Robyn Balcom
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association
+* Laurie Layne
+* 💵Carolyn Logue - South Sound Chamber Coalition; ABC-Inland Pacific; WA ACCA; NWHPBA,  WA Denturist Association
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
+* 💵Michele Willms - Associated General Contractors (AGC)
+* 💵Leah Lindahl - Healthcare Distribution Alliance
+* 💵Sean Graham - Washington State Medical Association
+* Jessica Pizzica - GRIT Talent Solutions
+* chris speno - Orca Furniture Services LLC
+* 💵Chelene Whiteaker - Washington State Hospital Assn
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - WA Roundtable
+* Lawrence Garrett - 828 Consulting
+* Lars Erickson - Seattle Metropolitan Chamber of Commerce
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+* Vern Olson
+* Christine Richter
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* Richard Heath
+* Rick Hughes - Ray's Pharmacy, Orcas Island
+* Kennedy E Akinlosotu
 
 #### 0 ❓ - Other
 

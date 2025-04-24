@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/21/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill to restrict outside National Guard from entering state is signed into law • Washington State Standard](https://washingtonstatestandard.com/briefs/wa-bill-to-restrict-outside-national-guard-from-entering-state-is-signed-into-law/#:~:text=House%20Bill%201321)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2051/</link>
 		<description>Updates about HB 2051</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 18 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 10:13:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -57,6 +57,14 @@
 			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-18/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎Katie Kolan - Washington State Hosptial Association</title>
+			<description>Katie Kolan signed up to testify Con. They are signed up to represent Washington State Hosptial Association.</description>
+			<pubDate>Wed, 23 Apr 2025 10:13:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Katie/Kolan/2025-04-23 10:13:28</guid>
 		</item>
 	</channel>
 </rss>

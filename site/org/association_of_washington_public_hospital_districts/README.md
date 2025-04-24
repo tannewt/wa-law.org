@@ -17,6 +17,10 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
 
+### [HB 2051](/bill/2025-26/hb/2051/) - Medicaid patients/discharge  👎1 
+
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 

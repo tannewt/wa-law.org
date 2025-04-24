@@ -418,7 +418,8 @@
 
 ### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg.  👎1 
 
-### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
+### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
+* 👎 Max Martin
 * 👎 Max Martin
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  

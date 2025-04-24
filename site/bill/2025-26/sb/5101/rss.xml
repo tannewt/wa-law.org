@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5101/</link>
 		<description>Updates about SB 5101</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 18 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 19:26:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,20 @@
 			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-18/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>The Finish Line Is in Sight - Sen. Javier Valdez</title>
+			<description>News article "The Finish Line Is in Sight - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Wed, 23 Apr 2025 19:26:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/04/23/the-finish-line-is-in-sight/#:~:text=Senate%20Bill%205101</guid>
 		</item>
 	</channel>
 </rss>

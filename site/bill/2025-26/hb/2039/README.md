@@ -12,17 +12,19 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): HB 2039 Child support pass through
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167248&caId=26984&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167248&caId=26984&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167248&caId=26984&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167248&caId=26984&tId=4)
-
 #### 0 👍 - Pro
 
-#### 29 👎 - Con
+#### 182 👎 - Con
 Testifying:
 * Amy Lynn Roark
+* Jessica Silver
+* Justin Silver
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Alina Swart
+* Irene Muller - Essentials First
+* Diana Azevedo-McCaffrey - Center on Budget and Policy Priorities
+* 💵James Clark - National Parents Organization, 2023 Child Support Schedule Workgroup member
+* Diane Evans
 
 #### 0 ❓ - Other
 

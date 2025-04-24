@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Republicans walk out after WA House committee votes to close center for people with disabilities • Washington State Standard](https://washingtonstatestandard.com/2025/04/23/republicans-walk-out-after-wa-house-committee-votes-to-close-center-for-people-with-disabilities/#:~:text=House%20Bill%201472)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](http://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=House%20Bill%201472)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](https://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=House%20Bill%201472)
 * 04/09/2025 [The Center Square](/org/the_center_square/) - [Tearful WA lawmaker begs Dems not to close schools for developmentally disabled | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_594959b8-86de-4ee1-b961-c3415d501066.html#:~:text=House%20Bill%201472)

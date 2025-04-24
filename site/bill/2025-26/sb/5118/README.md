@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [The Finish Line Is in Sight - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/04/23/the-finish-line-is-in-sight/#:~:text=Senate%20Bill%205118)
 * 04/08/2025 [Senate Democrats](/org/senate_democrats/) - [In the Final Stretch - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/04/08/in-the-final-stretch/#:~:text=Senate%20Bill%205118)
 * 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205118)
 * 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to strengthen Washington’s health care workforce passes Senate - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/valdez-bill-to-strengthen-washingtons-health-care-workforce-passes-senate/#:~:text=Senate%20Bill%205118)

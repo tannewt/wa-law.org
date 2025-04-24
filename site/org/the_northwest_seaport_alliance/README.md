@@ -24,7 +24,7 @@
 * ❓ Sean Eagan
 * ❓ Sean Eagan
 
-### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍2  
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/PFML premiums 👍2  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ John Wolfe

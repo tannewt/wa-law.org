@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1491/</link>
 		<description>Updates about HB 1491</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 16 Apr 2025 21:15:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -773,6 +773,20 @@
 			<pubDate>Wed, 16 Apr 2025 21:15:14 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2025/04/16/state-senate-greenlights-sweeping-tod-housing-bill/#:~:text=House%20Bill%201491</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 57; nays, 39; absent, 0; excused, 2.</title>
+			<description>Passed final passage; yeas, 57; nays, 39; absent, 0; excused, 2.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/Passed final passage; yeas, 57; nays, 39; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

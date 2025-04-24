@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 04/18/2025 [Axios](/org/axios/) - [Washington state may ease beer garden rules for World Cup - Axios Seattle](https://www.axios.com/local/seattle/2025/04/18/washington-world-cup-beer-garden-rules#:~:text=House%20Bill%201515)

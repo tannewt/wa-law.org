@@ -21,6 +21,9 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+* 👍 Patrick Murphy
+
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  

@@ -8,17 +8,17 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): HB 2003 Columbia river endorsement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167247&caId=26983&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167247&caId=26983&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167247&caId=26983&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33369&aId=167247&caId=26983&tId=4)
+#### 8 👍 - Pro
 
-#### 1 👍 - Pro
+#### 338 👎 - Con
+Testifying:
+* David Johnson
+* Stuart Ennis
+* john shierman
+* Nello Picinich - CCA Washington
+* 💵Heath Heikkila
 
-#### 29 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 2003 Columbia river endorsement
 #### 3 👍 - Pro

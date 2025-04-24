@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Expanding Low-Carbon Thermal Energy Networks  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/expanding-low-carbon-thermal-energy-networks/#:~:text=House%20Bill%201514)

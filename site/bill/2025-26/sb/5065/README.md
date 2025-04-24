@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Liias bill banning certain animals from traveling acts signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/22/liias-bill-banning-certain-animals-from-traveling-acts-signed-into-law/#:~:text=The%20bill)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESB%205065)
 
 ## Meetings

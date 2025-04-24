@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/09/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Bellingham farmer leads push for more food access through mobile markets | Cascadia Daily News](https://www.cascadiadaily.com/2025/mar/09/bellingham-farmer-leads-push-for-more-food-access-through-mobile-markets/#:~:text=a%20state%20bill)

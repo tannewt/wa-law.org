@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Mon 03/17 10:30 AM - Labor & Commerce (LC): SHB 1821 Interested party/prev. wage

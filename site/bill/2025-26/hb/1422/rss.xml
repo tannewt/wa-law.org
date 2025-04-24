@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1422/</link>
 		<description>Updates about HB 1422</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 08:59:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 23 Apr 2025 06:57:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -180,6 +180,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Heather/Trim/2025-04-21 08:59:14</guid>
+		</item>
+		<item>
+			<title>👍Michael VanWinkle - MED-Project</title>
+			<description>Michael VanWinkle signed up to testify Pro. They are signed up to represent MED-Project.</description>
+			<pubDate>Tue, 22 Apr 2025 10:57:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/VanWinkle/2025-04-22 10:57:50</guid>
+		</item>
+		<item>
+			<title>👍Carly Bartz-Overman - Washington State Department of Health</title>
+			<description>Carly Bartz-Overman signed up to testify Pro. They are signed up to represent Washington State Department of Health.</description>
+			<pubDate>Wed, 23 Apr 2025 06:57:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carly/Bartz-Overman/2025-04-23 06:57:41</guid>
 		</item>
 	</channel>
 </rss>

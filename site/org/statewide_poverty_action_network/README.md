@@ -59,10 +59,12 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎2 
+### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎3 
+* 👎💵 Lianna Kressin
 * 👎💵 Lianna Kressin
 
-### [HB 2040](/bill/2025-26/hb/2040/) - ABD assistance recovery  👎2 
+### [HB 2040](/bill/2025-26/hb/2040/) - ABD assistance recovery  👎3 
+* 👎💵 Lianna Kressin
 * 👎💵 Lianna Kressin
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  

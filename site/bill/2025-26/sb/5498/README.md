@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Alvarado bill to allow full year of contraceptive coverage - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/04/22/governor-signs-alvarado-bill-to-allow-full-year-of-contraceptive-coverage/#:~:text=Senate%20Bill%205498)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SB%205498)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205498)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5498)
