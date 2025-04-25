@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): E2SHB 1440 Civil forfeiture proceedings

@@ -20,7 +20,7 @@
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 * 👍💵 Peter Steelquist
 
-### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  
+### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍2  
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍3  
 * 👍💵 Peter Steelquist

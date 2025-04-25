@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/23/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: No word on the budget, but plenty of taxes to go around - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-no-word-budget-plenty-taxes-go-around/#:~:text=(Senate%20Bill%205814))

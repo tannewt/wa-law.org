@@ -1,14 +1,16 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5390](/bill/2025-26/sb/5390/)
 
-# SB 5390 - Discover pass
+# SB 5390 - Access to recreation sites
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5390&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington Legislature approves hiking Discover Pass price to $45 • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-legislature-approves-hiking-discover-pass-price-to-45/#:~:text=Senate%20Bill%205390)
 * 04/07/2025 [KIRO7](/org/kiro7/) - [Lawmakers advance bill to raise price of Discover Pass – KIRO 7 News Seattle](https://www.kiro7.com/news/local/lawmakers-advance-bill-raise-price-discover-pass/U32MQCLVWJA5BM6N3OGIF4ERMU/#:~:text=Senate%20Bill%205390.)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205390)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205390)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5568/</link>
 		<description>Updates about SB 5568</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -215,6 +215,13 @@
 			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-23/Passed final passage; yeas, 34; nays, 13; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-24/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

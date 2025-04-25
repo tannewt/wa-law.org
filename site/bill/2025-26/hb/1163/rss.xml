@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1163/</link>
 		<description>Updates about HB 1163</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 22:16:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2911,6 +2911,13 @@
 			<pubDate>Wed, 23 Apr 2025 22:16:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/04/23/washington-gun-permit-bill#:~:text=House%20Bill%201163</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-24/President signed.</guid>
 		</item>
 	</channel>
 </rss>

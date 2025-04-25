@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 04/09/2025 [Washington State Standard](/org/washington_state_standard/) - [Hospitals warn Legislature’s budget plans would deal them a financial hit • Washington State Standard](https://washingtonstatestandard.com/2025/04/09/hospitals-warn-legislatures-budget-plans-would-deal-them-a-financial-hit/#:~:text=Senate%20Bill%205083)

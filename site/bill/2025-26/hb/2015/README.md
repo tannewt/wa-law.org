@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/25/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson’s Continued Focus on Austerity Places King County in Jeopardy - The Urbanist](https://www.theurbanist.org/2025/04/25/fergusons-continued-focus-on-austerity-places-king-county-in-jeopardy/#:~:text=HB%202015)
 * 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [Keeping our communities safe - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/23/keeping-our-communities-safe/#:~:text=A%20House%20bill)
 * 04/17/2025 [FOX13](/org/fox13/) - [WA legislators debate over police hiring grant | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislators-police-hiring-grant#:~:text=House%20Bill%202015)
 * 04/17/2025 [KUOW](/org/kuow/) - [KUOW - Police hiring bill advances in Washington, requiring mix of state and local funds](https://www.kuow.org/stories/police-hiring-bill-advances-in-washington-state#:~:text=HB%202015)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 03/19 01:30 PM - State Government & Tribal Relations (SGOV): ESSB 5143 Ethics in public service

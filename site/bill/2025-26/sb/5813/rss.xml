@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5813/</link>
 		<description>Updates about SB 5813</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -545,6 +545,13 @@
 			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-23/Third reading, passed; yeas, 53; nays, 45; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 27; nays, 21; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 27; nays, 21; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-24/Passed final passage; yeas, 27; nays, 21; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

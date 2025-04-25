@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5390 - Discover pass</title>
+		<title>SB 5390 - Access to recreation sites</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5390/</link>
 		<description>Updates about SB 5390</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 24 Apr 2025 23:39:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -442,6 +442,20 @@
 			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-22/Third reading, passed; yeas, 52; nays, 46; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 27; nays, 21; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 27; nays, 21; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-24/Passed final passage; yeas, 27; nays, 21; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Washington Legislature approves hiking Discover Pass price to $45 • Washington State Standard</title>
+			<description>News article "Washington Legislature approves hiking Discover Pass price to $45 • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 24 Apr 2025 23:39:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/washington-legislature-approves-hiking-discover-pass-price-to-45/#:~:text=Senate%20Bill%205390</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/09/2025 [The Center Square](/org/the_center_square/) - [WA bills authorizing $2.5 billion bonds for new I-5 Bridge clear committees | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_61b96e8e-b743-47e3-87e1-071f371a8642.html#:~:text=House%20Bill%201958)

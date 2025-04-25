@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 04/19/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Ferguson Must Get Tough on Trump, Illegal Tacoma ICE Jail - The Urbanist](https://www.theurbanist.org/2025/04/19/op-ed-ferguson-must-get-tough-on-trump-illegal-tacoma-ice-jail/#:~:text=HB%201232)

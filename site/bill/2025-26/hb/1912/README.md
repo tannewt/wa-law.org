@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA House passes bill to help farmers avoid paying CCA fuel taxes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_742c349a-0120-11f0-8822-b79d305dd486.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201912)

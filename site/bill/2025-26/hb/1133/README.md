@@ -12,6 +12,7 @@
 ## 📰 Articles
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Bill Strengthening Public Safety Measures for Sexually Violent Predators Advances to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/bill-strengthening-public-safety-measures-for-sexually-violent-predators-advances-to-the-senate/#:~:text=HB%201133)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201133)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [During Sexual Assault Awareness Month, the Attorney General’s Office launches new reporting web site | Washington State](http://www.atg.wa.gov/news/news-releases/during-sexual-assault-awareness-month-attorney-general-s-office-launches-new#:~:text=HB%201133)
 
 ## Meetings
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): SHB 1133 Sexually violent predators

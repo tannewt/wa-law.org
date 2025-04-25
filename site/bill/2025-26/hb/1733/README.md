@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/11/2025 [House Democrats](/org/house_democrats/) - [Thomas bill updates reimbursement rates for relocation required for government projects.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/thomas-bill-updates-reimbursement-rates-for-relocation-required-for-government-projects/#:~:text=House%20Bill%201733)

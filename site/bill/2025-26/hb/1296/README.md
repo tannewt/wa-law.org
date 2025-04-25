@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/25/2025 [KUOW](/org/kuow/) - [KUOW - Changes to WA 'parental rights' law heads to Gov. Ferguson after tense final vote](https://www.kuow.org/stories/changes-to-wa-parents-rights-law-headed-to-governor-after-tense-final-vote#:~:text=House%20Bill%201296)
+* 04/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Parental rights overhaul gains final approval in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/24/parental-rights-overhaul-gains-final-approval-in-wa-legislature/#:~:text=House%20Bill%201296)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%201296)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%201296)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Rewrite of parental rights law passes Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/04/14/rewrite-of-parental-rights-law-passes-washington-house/#:~:text=House%20Bill%201296)

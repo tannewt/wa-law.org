@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/25/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson’s Continued Focus on Austerity Places King County in Jeopardy - The Urbanist](https://www.theurbanist.org/2025/04/25/fergusons-continued-focus-on-austerity-places-king-county-in-jeopardy/#:~:text=the%20legislative%20vehicle)
+* 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
+* 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington law will exclude medical debt from credit reports | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/new-washington-law-will-exclude-medical-debt-credit-reports#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
 * 04/24/2025 [MyNorthwest](/org/mynorthwest/) - [Tension rises over school funding, taxes in Olympia](https://mynorthwest.com/mynorthwest-politics/school-funding-tax/4079644#:~:text=Engrossed%20House%20Substitute%20Bill%202049.)
 * 04/23/2025 [The Center Square](/org/the_center_square/) - [School funding bill generates sharp exchange between OSPI's Reykdal and Sen. Braun | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f85845d-9fdd-4e99-bbfe-073c335d6627.html#:~:text=Engrossed%20House%20Substitute%20Bill%202049)
 * 04/23/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle democracy voucher renewal set for August ballot | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/seattle-democracy-voucher-renewal-set-august-ballot#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)

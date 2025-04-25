@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1296/</link>
 		<description>Updates about HB 1296</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 19 Apr 2025 23:26:33 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 25 Apr 2025 09:46:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1832,6 +1832,27 @@
 			<pubDate>Sat, 19 Apr 2025 23:26:33 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%201296</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-24/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Parental rights overhaul gains final approval in WA Legislature • Washington State Standard</title>
+			<description>News article "Parental rights overhaul gains final approval in WA Legislature • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 25 Apr 2025 03:51:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/24/parental-rights-overhaul-gains-final-approval-in-wa-legislature/#:~:text=House%20Bill%201296</guid>
+		</item>
+		<item>
+			<title>KUOW - Changes to WA 'parental rights' law heads to Gov. Ferguson after tense final vote</title>
+			<description>News article "KUOW - Changes to WA 'parental rights' law heads to Gov. Ferguson after tense final vote" from KUOW.</description>
+			<pubDate>Fri, 25 Apr 2025 09:46:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/changes-to-wa-parents-rights-law-headed-to-governor-after-tense-final-vote#:~:text=House%20Bill%201296</guid>
 		</item>
 	</channel>
 </rss>

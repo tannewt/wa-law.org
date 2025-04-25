@@ -92,7 +92,7 @@
 ### [SB 5385](/bill/2025-26/sb/5385/) - Timberland definition/REET 👍1  
 * 👍 Duane Emmons
 
-### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  ❓1
+### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍2  ❓1
 * 👍 Sam Hensold
 * 👍 Sam Hensold
 * ❓ Sam Hensold

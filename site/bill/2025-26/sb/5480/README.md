@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=Senate%20Bill%205480)
+* 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington law will exclude medical debt from credit reports | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/new-washington-law-will-exclude-medical-debt-credit-reports#:~:text=Senate%20Bill%205480)
+* 04/24/2025 [KREM](/org/krem/) - [Washington law removes medical debt from credit scores | krem.com](https://www.krem.com/article/news/local/washington-gov-signs-bill-remove-medical-debt-credit-score/293-3827d62b-3025-4884-a250-0f0fffc7b2aa#:~:text=Senate%20Bill%205480)
 * 04/22/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill to keep medical debt off credit reports signed into law • Washington State Standard](https://washingtonstatestandard.com/2025/04/22/wa-bill-to-keep-medical-debt-off-credit-reports-signed-into-law/#:~:text=Senate%20Bill%205480)
 * 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Riccelli bill to remove medical debt from credit score reporting - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/22/governor-signs-riccelli-bill-to-remove-medical-debt-from-credit-score-reporting/#:~:text=Senate%20Bill%205480)
 * 04/10/2025 [The Center Square](/org/the_center_square/) - [WA Legislature passes bill eliminating medical debt from consumer credit reports | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3cb2146d-bf2d-4b39-acda-ce6bdf0a2d53.html#:~:text=Senate%20Bill%205480)

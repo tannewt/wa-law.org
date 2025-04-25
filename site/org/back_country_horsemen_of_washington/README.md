@@ -9,14 +9,14 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍3  ❓1
+## [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍3  ❓1
 * 👍 Jeff Chapman
 * 👍 Juelanne Dalzell
 * ❓ Jeff Chapman
 
 ## 2023-24
 
-### [SB 5390](/bill/2023-24/sb/5390/) - Discover pass 👍3  ❓1
+### [SB 5390](/bill/2023-24/sb/5390/) - Access to recreation sites 👍3  ❓1
 * 👍 Jeff Chapman
 * 👍 Juelanne Dalzell
 * ❓ Jeff Chapman

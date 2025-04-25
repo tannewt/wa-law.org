@@ -9,6 +9,10 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/25/2025 [Senate Democrats](/org/senate_democrats/) - [Rent stabilization compromise proposal released - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/04/24/rent-stabilization-compromise-proposal-released/#:~:text=House%20Bill%201217)
+* 04/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Compromise reached on Washington bill to cap rent increases • Washington State Standard](https://washingtonstatestandard.com/2025/04/24/compromise-reached-on-washington-bill-to-cap-rent-increases/#:~:text=House%20Bill%201217)
+* 04/25/2025 [Senate Democrats](/org/senate_democrats/) - [Rent stabilization compromise proposal released - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/24/rent-stabilization-compromise-proposal-released/#:~:text=House%20Bill%201217)
+* 04/25/2025 [Senate Democrats](/org/senate_democrats/) - [Rent stabilization compromise proposal released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/24/rent-stabilization-compromise-proposal-released/#:~:text=House%20Bill%201217)
 * 04/15/2025 [The Urbanist](/org/the_urbanist/) - [Washington Senate OKs Rent Stabilization Bill After Gutting It - The Urbanist](https://www.theurbanist.org/2025/04/15/washington-senate-oks-rent-stabilization-bill-after-gutting-it/#:~:text=House%20Bill%201217)
 * 04/15/2025 [Axios](/org/axios/) - [Washington rent cap bill fuels legislative battle - Axios Seattle](https://www.axios.com/local/seattle/2025/04/15/washington-rent-cap-bill#:~:text=House%20Bill%201217)
 * 04/13/2025 [Senate Democrats](/org/senate_democrats/) - [Rent Stabilization, an Important Protection that Strikes a Fair Balance - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/04/12/rent-stabilization-is-an-important-protection-that-strikes-a-fair-balance/#:~:text=HB%201217)

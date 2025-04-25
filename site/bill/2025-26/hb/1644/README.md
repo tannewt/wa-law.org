@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [WA safety agency seeks felony charges after teen worker loses legs | Cascade PBS](https://www.cascadepbs.org/investigations/2025/04/wa-safety-agency-seeks-felony-charges-after-teen-worker-loses-legs#:~:text=House%20Bill%201644)
 * 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [In the final stretch - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/04/18/in-the-final-stretch/#:~:text=HB%201644)
 * 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201644)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=House%20Bill%201644)

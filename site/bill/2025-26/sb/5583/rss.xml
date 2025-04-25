@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5583/</link>
 		<description>Updates about SB 5583</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 24 Apr 2025 17:20:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -222,6 +222,20 @@
 			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-23/Third reading, passed; yeas, 51; nays, 46; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-24/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>WA hikes hunting, fishing fees 38% — first increase since 2011 | Washington | thecentersquare.com</title>
+			<description>News article "WA hikes hunting, fishing fees 38% — first increase since 2011 | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 24 Apr 2025 17:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ec8fa7fb-2979-4d1d-850f-23ff05afaf55.html#:~:text=Senate%20Bill%205583</guid>
 		</item>
 	</channel>
 </rss>

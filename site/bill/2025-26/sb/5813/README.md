@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/22/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee gives do-pass recommendation to three tax bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fe3d3c03-f15e-47a8-a12f-9a03d4e2c5e9.html#:~:text=Engrossed%20Senate%20Substitute%20Bill%205813)
