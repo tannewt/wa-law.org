@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [Join Cascade PBS & Daybreak Star Radio for a free film screening | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/join-cascade-pbs-daybreak-star-radio-free-film-screening#:~:text=Senate%20Bill%205263)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=Senate%20Bill%205263)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington law will exclude medical debt from credit reports | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/new-washington-law-will-exclude-medical-debt-credit-reports#:~:text=Senate%20Bill%205263)
 * 04/23/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle democracy voucher renewal set for August ballot | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/seattle-democracy-voucher-renewal-set-august-ballot#:~:text=Senate%20Bill%205263)

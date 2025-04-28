@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 02/21/2025 [House Democrats](/org/house_democrats/) - [Health Care chair: Boost transparency with provider directory – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/21/health-care-chair-boost-transparency-with-provider-directory/#:~:text=HB%201686)

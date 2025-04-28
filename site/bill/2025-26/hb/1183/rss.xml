@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1183/</link>
 		<description>Updates about HB 1183</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 28 Apr 2025 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -486,6 +486,13 @@
 			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-22/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Rent Stabilization Makes It Across the Finish Line at Last Minute - The Urbanist</title>
+			<description>News article "Rent Stabilization Makes It Across the Finish Line at Last Minute - The Urbanist" from The Urbanist.</description>
+			<pubDate>Mon, 28 Apr 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/04/28/rent-stabilization-crosses-finish-line/#:~:text=building%20code%20reform</guid>
 		</item>
 	</channel>
 </rss>

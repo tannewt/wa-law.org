@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5393 - Yakima &amp; Rainier schools</title>
+		<title>SB 5393 - Rainier school</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5393/</link>
 		<description>Updates about SB 5393</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 24 Apr 2025 01:30:20 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 21:35:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -619,6 +619,20 @@
 			<pubDate>Thu, 24 Apr 2025 01:30:20 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/23/republicans-walk-out-after-wa-house-committee-votes-to-close-center-for-people-with-disabilities/#:~:text=Senate%20Bill%205393</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>WA lawmakers shift approach on closing center for people with disabilities • Washington State Standard</title>
+			<description>News article "WA lawmakers shift approach on closing center for people with disabilities • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Sun, 27 Apr 2025 21:35:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/27/wa-lawmakers-shift-approach-on-closing-center-for-people-with-disabilities/#:~:text=Senate%20Bill%205393</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2050/</link>
 		<description>Updates about HB 2050</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 12:33:48 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -269,6 +269,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jason/Harrison/2025-04-22 12:33:48</guid>
+		</item>
+		<item>
+			<title>What to expect as WA legislative session nears end | FOX 13 Seattle</title>
+			<description>News article "What to expect as WA legislative session nears end | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Fri, 25 Apr 2025 14:42:23 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-legislative-session-end#:~:text=HB%202050</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/20 01:30 PM - Higher Education & Workforce Development (HEWD): ESHB 1572 Higher ed. accreditation

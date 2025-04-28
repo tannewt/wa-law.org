@@ -75,7 +75,7 @@
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍2  
 * 👍 Sam Hatzenbeler
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
+### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school  👎1 
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures  👎1 
 * 👎💵 Gabriela Quintana

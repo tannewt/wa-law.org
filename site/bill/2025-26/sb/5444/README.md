@@ -1,11 +1,12 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5444](/bill/2025-26/sb/5444/)
 
-# SB 5444 - New special license plates
+# SB 5444 - Special license plates
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5444&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/22/2025 [FOX13](/org/fox13/) - [WA lawmakers weigh new license plates, rules  | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-license-plates-rules#:~:text=Senate%20Bill%205444)

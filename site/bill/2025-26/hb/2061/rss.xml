@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2061/</link>
 		<description>Updates about HB 2061</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 10:11:19 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202061</guid>
+		</item>
+		<item>
+			<title>How Democrats will tax you | Washington State House Republicans</title>
+			<description>News article "How Democrats will tax you | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202061%20|%20Concession%20fees</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>
@@ -78,6 +85,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Annie/McGrath/2025-04-23 10:11:19</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/16/2025 [KIRO7](/org/kiro7/) - [WA Senate approves bill that would raise littering fines for first time in over a decade – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-senate-approves-bill-that-would-raise-littering-fines-first-time-over-decade/LB7FWIUB2REWJOQE4HHJ7P3ZZI/#:~:text=House%20Bill%20129)

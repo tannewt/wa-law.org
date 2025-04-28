@@ -97,7 +97,7 @@
 * 👍 Sam Hensold
 * ❓ Sam Hensold
 
-### [SB 5444](/bill/2025-26/sb/5444/) - New special license plates 👍1  
+### [SB 5444](/bill/2025-26/sb/5444/) - Special license plates 👍1  
 * 👍 Pat Sullivan
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/25/2025 [FOX13](/org/fox13/) - [What to expect as WA legislative session nears end | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislative-session-end#:~:text=HB%202050)
 * 04/22/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA K-12 savings bill moves ahead sans amendment capping pay for superintendents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2fb6005a-9a05-458d-aa00-3413292fd275.html#:~:text=House%20Bill%202050)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202050)
 

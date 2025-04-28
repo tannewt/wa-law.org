@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/03/2025 [House Democrats](/org/house_democrats/) - [Bill to Strengthen Child Welfare Housing Assistance Program Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/03/bill-to-strengthen-child-welfare-housing-assistance-program-passes-house/#:~:text=House%20Bill%201177)

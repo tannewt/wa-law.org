@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [WA Senate unanimously passes $7.3B capital budget ‘for the entire state’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_06fd459d-0f7e-44e1-9ef2-6232bea70889.html#:~:text=47-0)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5167/</link>
 		<description>Updates about SB 5167</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 15:08:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2483,6 +2483,20 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/Conference committee appointed.  Representatives Ormsby, Macri, Couture.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Sun, 27 Apr 2025 15:08:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=the%202025-27%20operating%20budget</guid>
 		</item>
 	</channel>
 </rss>

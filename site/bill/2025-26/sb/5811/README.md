@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=(SB%205811))
 * 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=Senate%20Bill%205811)
 * 04/17/2025 [The Burner](/org/the_burner/) - [Washington Democrats Propose Tax Targetting Tesla](https://www.theburnerseattle.com/post/washington-democrats-propose-tax-targetting-tesla#:~:text=Senate%20Bill%205811)
 * 04/16/2025 [MyNorthwest](/org/mynorthwest/) - [WA Democrats unveil 5 New tax bills targeting wealthy](https://mynorthwest.com/mynorthwest-politics/democrats-tax-bills/4076327#:~:text=Senate%20Bill%205811)

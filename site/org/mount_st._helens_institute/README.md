@@ -9,13 +9,13 @@
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
-## [SB 5444](/bill/2025-26/sb/5444/) - New special license plates 👍7  
+## [SB 5444](/bill/2025-26/sb/5444/) - Special license plates 👍7  
 * 👍 Heather Monti
 * 👍 Alyssa Hoyt
 
 ## 2023-24
 
-### [SB 5444](/bill/2023-24/sb/5444/) - New special license plates 👍7  
+### [SB 5444](/bill/2023-24/sb/5444/) - Special license plates 👍7  
 * 👍 Heather Monti
 * 👍 Alyssa Hoyt
 

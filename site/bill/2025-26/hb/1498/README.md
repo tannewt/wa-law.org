@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 1498 Domestic viol. co-responders

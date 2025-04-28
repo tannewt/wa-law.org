@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2081/</link>
 		<description>Updates about HB 2081</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 11:47:16 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 28 Apr 2025 13:20:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202081</guid>
+		</item>
+		<item>
+			<title>How Democrats will tax you | Washington State House Republicans</title>
+			<description>News article "How Democrats will tax you | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202081%20|%20Business%20tax%20increases</guid>
 		</item>
 		<item>
 			<title>👎💵Sean Graham - Washington State Medical Association</title>
@@ -863,6 +870,41 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kennedy/E Akinlosotu/2025-04-23 11:47:16</guid>
+		</item>
+		<item>
+			<title>What’s still up in the air as WA Legislature wraps up | FOX 13 Seattle</title>
+			<description>News article "What’s still up in the air as WA Legislature wraps up | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Fri, 25 Apr 2025 19:04:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-legislature-wraps-up#:~:text=business%20taxes</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats</title>
+			<description>News article "Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 22:45:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=HB%202081</guid>
+		</item>
+		<item>
+			<title>Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson</title>
+			<description>News article "Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 22:45:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=HB%202081</guid>
+		</item>
+		<item>
+			<title>Washington state lawmakers end session with tax increases, rent cap - Axios Seattle</title>
+			<description>News article "Washington state lawmakers end session with tax increases, rent cap - Axios Seattle" from Axios.</description>
+			<pubDate>Mon, 28 Apr 2025 13:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=on%20some%20businesses</guid>
 		</item>
 	</channel>
 </rss>

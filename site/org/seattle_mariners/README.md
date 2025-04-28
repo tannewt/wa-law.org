@@ -7,7 +7,7 @@
 
 ### [HB 2048](/bill/2025-26/hb/2048/) - Leadership board  👎1 
 
-### [SB 5444](/bill/2025-26/sb/5444/) - New special license plates   ❓1
+### [SB 5444](/bill/2025-26/sb/5444/) - Special license plates   ❓1
 * ❓💵 Amber Carter
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎4 

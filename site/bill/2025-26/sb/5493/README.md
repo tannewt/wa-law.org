@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Hospital price transparency bill in Washington Legislature gets reworked • Washington State Standard](https://washingtonstatestandard.com/2025/03/26/hospital-price-transparency-bill-in-washington-legislature-gets-reworked/#:~:text=Senate%20Bill%205493)

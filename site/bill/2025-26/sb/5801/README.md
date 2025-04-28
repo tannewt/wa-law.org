@@ -7,14 +7,19 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/26/2025 [KIRO7](/org/kiro7/) - [Washington lawmakers approve 6-cent gas tax hike with July start date – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-lawmakers-approve-6-cent-gas-tax-hike-with-july-start-date/PWOIEXFWDZHJ7FGDSS2NVCLGXY/#:~:text=Senate%20Bill%205801)
+* 04/25/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature approves bipartisan plan to fund Washington state transportation future  - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/25/legislature-approves-bipartisan-plan-to-fund-washington-state-transportation-future/#:~:text=Senate%20Bill%205801)
+* 04/25/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature approves gas tax increase • Washington State Standard](https://washingtonstatestandard.com/2025/04/25/wa-house-advances-gas-tax-increase-3-2b-transportation-revenue-package/#:~:text=Senate%20Bill%205801)
 * 04/23/2025 [KIRO7](/org/kiro7/) - [Diving into the gas tax debate – KIRO 7 News Seattle](https://www.kiro7.com/news/local/hearing-both-sides-gas-tax-debate/APNHAEVHUBBGDOMN4J7UYT6QU4/#:~:text=Senate%20Bill%205801)
 * 04/22/2025 [Washington State Standard](/org/washington_state_standard/) - [6-cent gas tax hike central to new transportation deal in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/22/6-cent-gas-tax-hike-central-to-new-transportation-deal-in-wa-legislature/#:~:text=Senate%20Bill%205801)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=revenue%20bill)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=revenue%20bill)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205801)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205801)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=Senate%20Bill%205801%20|%20Gas%20and%20transportation%20taxes)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan transportation budget to keep projects going, preserve infrastructure, make roads safer - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/24/senate-unveils-bipartisan-transportation-budget-to-keep-projects-going-preserve-infrastructure-make-roads-safer/#:~:text=5801)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan transportation budget to keep projects going, preserve infrastructure, make roads safer - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/24/senate-unveils-bipartisan-transportation-budget-to-keep-projects-going-preserve-infrastructure-make-roads-safer/#:~:text=5801)
 

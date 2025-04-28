@@ -11,6 +11,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=‘permit%20to%20purchase’%20gun%20safety%20law)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=‘permit%20to%20purchase’%20gun%20safety%20law)
 * 04/23/2025 [Axios](/org/axios/) - [Washington state lawmakers pass gun permit bill - Axios Seattle](https://www.axios.com/local/seattle/2025/04/23/washington-gun-permit-bill#:~:text=House%20Bill%201163)
 * 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [Keeping our communities safe - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/23/keeping-our-communities-safe/#:~:text=passed%20a%20measure)
 * 04/23/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit-to-purchase bill for gun buyers headed to WA governor’s desk • Washington State Standard](https://washingtonstatestandard.com/briefs/permit-to-purchase-bill-for-gun-buyers-headed-to-wa-governors-desk/#:~:text=House%20Bill%201163)

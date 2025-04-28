@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/25/2025 [The Center Square](/org/the_center_square/) - [WA bill signed into law adds oversight to private utility wildfire protection plans | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_37c1e9cf-bfc6-4b5e-8fa1-1872bec56814.html#:~:text=House%20Bill%201032)
 * 05/08/2024 [The Center Square](/org/the_center_square/) - [Washington electrical customers may face grid shutdown during wildfire season | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_457337ea-0d6d-11ef-bde8-b7d094a40b2a.html#:~:text=House%20Bill%201032)
 * 04/30/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Tom Dent receives ‘2023 Legislative Champion’ award from Washington Public Utility Districts Association](https://gorgenewscenter.com/2024/04/30/rep-tom-dent-receives-2023-legislative-champion-award-from-washington-public-utility-districts-association/#:~:text=House%20Bill%201032)
 * 02/22/2023 [The Center Square](/org/the_center_square/) - [Proposal seeks to reduce wildfires on utility-owned property | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_964df876-b2f1-11ed-bb01-bf2b42643603.html#:~:text=HB%201032)

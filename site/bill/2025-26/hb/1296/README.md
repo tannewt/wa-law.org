@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/25/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA lawmaker banned from House floor for remainder of session after outburst | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_39cb75c7-ddf2-4eae-8aea-4a3f1006ee0b.html#:~:text=House%20Bill%201296)
 * 04/25/2025 [KUOW](/org/kuow/) - [KUOW - Changes to WA 'parental rights' law heads to Gov. Ferguson after tense final vote](https://www.kuow.org/stories/changes-to-wa-parents-rights-law-headed-to-governor-after-tense-final-vote#:~:text=House%20Bill%201296)
 * 04/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Parental rights overhaul gains final approval in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/24/parental-rights-overhaul-gains-final-approval-in-wa-legislature/#:~:text=House%20Bill%201296)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%201296)

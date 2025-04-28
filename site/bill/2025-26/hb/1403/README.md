@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/28/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Makes It Across the Finish Line at Last Minute - The Urbanist](https://www.theurbanist.org/2025/04/28/rent-stabilization-crosses-finish-line/#:~:text=condominium%20liability%20reform)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201403)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201403)
+* 04/25/2025 [The Urbanist](/org/the_urbanist/) - [Lawmakers Reach Rent Stabilization Compromise - The Urbanist](https://www.theurbanist.org/2025/04/25/lawmakers-reach-rent-stabilization-compromise/#:~:text=condominium%20liability%20reform)
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Making housing more affordable - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=HB%201403)
 * 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Housing bills to watch as WA's legislative session enters its final weeks • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/housing-bills-to-watch-as-the-washington-legislative-session-enters-its-final-weeks/#:~:text=House%20Bill%201403)
 * 03/12/2025 [House Democrats](/org/house_democrats/) - [Taylor bill could bring more condo construction to WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/taylor-bill-could-bring-more-condo-construction-to-wa/#:~:text=House%20Bill%201403)

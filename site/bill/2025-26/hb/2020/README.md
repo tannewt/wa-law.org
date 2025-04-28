@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
+
+## 📰 Articles
+* 04/25/2025 [FOX13](/org/fox13/) - [What to expect as WA legislative session nears end | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislative-session-end#:~:text=business%20and%20occupation%20tax%20reduction)
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): HB 2020 Payment card processing/tax

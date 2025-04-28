@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5284/</link>
 		<description>Updates about SB 5284</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 28 Apr 2025 13:20:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1179,6 +1179,41 @@
 			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-24/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-25/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>WA environmental legislation passed this year that you should know | Cascade PBS</title>
+			<description>News article "WA environmental legislation passed this year that you should know | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 25 Apr 2025 11:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=Senate%20Bill%205284</guid>
+		</item>
+		<item>
+			<title>The Legislature has adjourned! - Sen. Jessica Bateman</title>
+			<description>News article "The Legislature has adjourned! - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 23:57:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=an%20overhaul</guid>
+		</item>
+		<item>
+			<title>The Legislature has adjourned SINE DIE - Sen. Noel Frame</title>
+			<description>News article "The Legislature has adjourned SINE DIE - Sen. Noel Frame" from Senate Democrats.</description>
+			<pubDate>Mon, 28 Apr 2025 01:17:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=an%20overhaul</guid>
+		</item>
+		<item>
+			<title>Washington state lawmakers end session with tax increases, rent cap - Axios Seattle</title>
+			<description>News article "Washington state lawmakers end session with tax increases, rent cap - Axios Seattle" from Axios.</description>
+			<pubDate>Mon, 28 Apr 2025 13:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=The%20bill</guid>
 		</item>
 	</channel>
 </rss>

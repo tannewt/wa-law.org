@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=SB%205794)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=SB%205794)
+* 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=(SB%205794))
+* 04/25/2025 [FOX13](/org/fox13/) - [What’s still up in the air as WA Legislature wraps up | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislature-wraps-up#:~:text=removing%20certain%20tax%20preferences)
 * 04/22/2025 [The Center Square](/org/the_center_square/) - [WA House Finance Committee gives do-pass recommendation to three tax bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fe3d3c03-f15e-47a8-a12f-9a03d4e2c5e9.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205794)
 * 04/21/2025 [FOX13](/org/fox13/) - [WA legislators work on tax proposals as session nears end | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislators-tax-session-end#:~:text=certain%20tax%20preferences)
 * 04/21/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate Dems advance several tax hike bills as session enters last week | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c8387240-c34b-47e5-8962-d6b9e8df665c.html#:~:text=Senate%20Bill%205794)

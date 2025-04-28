@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%201858%20|%20Document%20recording%20fees)
+
 ## Meetings
 ### Mon 03/24 04:00 PM - Ways & Means (WM): HB 1858 Deed of trust assignment/fee
 #### 220 👍 - Pro

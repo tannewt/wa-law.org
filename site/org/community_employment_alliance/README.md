@@ -28,7 +28,7 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍3  
+### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍3  
 
 ### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎2 
 

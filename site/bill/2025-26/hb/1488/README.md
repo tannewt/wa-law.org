@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%201488%20|%20Another%20property%20tax%20increase)
+
 ## Meetings
 ### Thu 02/06 01:30 PM - Finance (FIN): HB 1488 Conservation district limits
 #### 20 👍 - Pro

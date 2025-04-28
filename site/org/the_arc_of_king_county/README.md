@@ -117,7 +117,7 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍2  
+### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍2  
 
 ### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎3 
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): 2SHB 1207 Superior court clerk fees

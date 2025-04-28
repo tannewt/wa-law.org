@@ -33,7 +33,7 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍3  
+### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍3  
 * 👍💵 Stacy Dym
 * 👍💵 Stacy Dym
 

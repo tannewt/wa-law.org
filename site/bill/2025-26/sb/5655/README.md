@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Krishnadasan child care bill into law - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/22/governor-signs-krishnadasan-child-care-bill-into-law/#:~:text=Senate%20Bill%205655)

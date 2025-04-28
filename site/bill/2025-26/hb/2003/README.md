@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202003%20|%20Another%20fishing%20license%20increase)
+
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): HB 2003 Columbia river endorsement
 #### 8 👍 - Pro

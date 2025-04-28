@@ -16,11 +16,11 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Ginger Kwan
 
-## [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
+## [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍1  
 
 ## 2023-24
 
-### [SB 5393](/bill/2023-24/sb/5393/) - Yakima & Rainier schools 👍1  
+### [SB 5393](/bill/2023-24/sb/5393/) - Rainier school 👍1  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 

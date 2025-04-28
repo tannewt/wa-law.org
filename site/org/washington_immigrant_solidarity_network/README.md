@@ -86,7 +86,7 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
+### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍1  
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 

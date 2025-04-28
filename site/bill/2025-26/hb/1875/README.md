@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Immigration proceedings would become eligible use for sick leave under Washington bill • Washington State Standard](https://washingtonstatestandard.com/2025/03/19/immigration-proceedings-would-become-eligible-use-of-sick-leave-under-washington-bill/#:~:text=House%20Bill%201875)

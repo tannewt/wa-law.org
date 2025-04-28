@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/27/2025 [Washington State Standard](/org/washington_state_standard/) - [$15.5B Washington transportation budget nears final vote • Washington State Standard](https://washingtonstatestandard.com/2025/04/26/15-5b-washington-transportation-budget-heads-toward-final-vote/#:~:text=Senate%20Bill%205161)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205161)
 * 04/02/2025 [House Democrats](/org/house_democrats/) - [Legislature Passes Transportation Budget and Revenue Plan to Keep Washington Moving – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/02/legislature-passes-transportation-budget-and-revenue-plan-to-keep-washington-moving/#:~:text=transportation%20budget)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=spending%20plan)

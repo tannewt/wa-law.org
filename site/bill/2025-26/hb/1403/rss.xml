@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1403/</link>
 		<description>Updates about HB 1403</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 28 Apr 2025 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -339,6 +339,34 @@
 			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-22/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Lawmakers Reach Rent Stabilization Compromise - The Urbanist</title>
+			<description>News article "Lawmakers Reach Rent Stabilization Compromise - The Urbanist" from The Urbanist.</description>
+			<pubDate>Fri, 25 Apr 2025 18:55:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/04/25/lawmakers-reach-rent-stabilization-compromise/#:~:text=condominium%20liability%20reform</guid>
+		</item>
+		<item>
+			<title>2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman</title>
+			<description>News article "2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 23:13:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201403</guid>
+		</item>
+		<item>
+			<title>2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats</title>
+			<description>News article "2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 23:13:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201403</guid>
+		</item>
+		<item>
+			<title>Rent Stabilization Makes It Across the Finish Line at Last Minute - The Urbanist</title>
+			<description>News article "Rent Stabilization Makes It Across the Finish Line at Last Minute - The Urbanist" from The Urbanist.</description>
+			<pubDate>Mon, 28 Apr 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/04/28/rent-stabilization-crosses-finish-line/#:~:text=condominium%20liability%20reform</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2077/</link>
 		<description>Updates about HB 2077</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 16:45:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 22:45:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202077</guid>
+		</item>
+		<item>
+			<title>How Democrats will tax you | Washington State House Republicans</title>
+			<description>News article "How Democrats will tax you | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202077%20|%20Tesla%20tax</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Finance.</title>
@@ -252,6 +259,27 @@
 			<pubDate>Tue, 22 Apr 2025 16:45:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_a3a47717-2e5f-444c-8864-bdb5bfedbc19.html#:~:text=Substitute%20House%20Bill%202077</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats</title>
+			<description>News article "Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 22:45:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=HB%202077</guid>
+		</item>
+		<item>
+			<title>Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson</title>
+			<description>News article "Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 22:45:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=HB%202077</guid>
 		</item>
 	</channel>
 </rss>

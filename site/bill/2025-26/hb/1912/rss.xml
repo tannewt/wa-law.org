@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1912/</link>
 		<description>Updates about HB 1912</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 26 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -535,6 +535,20 @@
 			<pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-24/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>WA environmental legislation passed this year that you should know | Cascade PBS</title>
+			<description>News article "WA environmental legislation passed this year that you should know | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 25 Apr 2025 11:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=House%20Bill%201912</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-26/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

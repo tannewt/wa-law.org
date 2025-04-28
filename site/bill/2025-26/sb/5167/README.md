@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=the%202025-27%20operating%20budget)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](http://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](https://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205167)

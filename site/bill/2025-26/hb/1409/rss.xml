@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 25 Apr 2025 11:59:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -579,6 +579,13 @@
 			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-23/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>WA environmental legislation passed this year that you should know | Cascade PBS</title>
+			<description>News article "WA environmental legislation passed this year that you should know | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 25 Apr 2025 11:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=House%20Bill%201409</guid>
 		</item>
 	</channel>
 </rss>

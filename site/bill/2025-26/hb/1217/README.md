@@ -9,6 +9,12 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=House%20Bill%201217)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=House%20Bill%201217)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=House%20Bill%201217)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=House%20Bill%201217)
+* 04/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Rent increase cap proposal heads to Washington governor • Washington State Standard](https://washingtonstatestandard.com/briefs/rent-increase-cap-proposal-heads-to-wa-governor/#:~:text=House%20Bill%201217)
+* 04/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Procedural snag delays votes on bill to cap Washington rent increases • Washington State Standard](https://washingtonstatestandard.com/2025/04/26/procedural-snag-delays-votes-on-bill-to-cap-washington-rent-increases/#:~:text=House%20Bill%201217)
 * 04/25/2025 [Senate Democrats](/org/senate_democrats/) - [Rent stabilization compromise proposal released - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/04/24/rent-stabilization-compromise-proposal-released/#:~:text=House%20Bill%201217)
 * 04/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Compromise reached on Washington bill to cap rent increases • Washington State Standard](https://washingtonstatestandard.com/2025/04/24/compromise-reached-on-washington-bill-to-cap-rent-increases/#:~:text=House%20Bill%201217)
 * 04/25/2025 [Senate Democrats](/org/senate_democrats/) - [Rent stabilization compromise proposal released - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/24/rent-stabilization-compromise-proposal-released/#:~:text=House%20Bill%201217)

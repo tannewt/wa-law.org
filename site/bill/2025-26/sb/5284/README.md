@@ -11,6 +11,10 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=The%20bill)
+* 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=an%20overhaul)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=an%20overhaul)
+* 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [WA environmental legislation passed this year that you should know | Cascade PBS](https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=Senate%20Bill%205284)
 * 04/16/2025 [The Center Square](/org/the_center_square/) - [House approves legislation to modernize WA’s recycling system | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a110e8a0-11e8-4aaf-936a-ccbdb8f6f849.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205284)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [Transportation and capital budgets | Washington State House Republicans](http://houserepublicans.wa.gov/current/transportation-and-capital-budgets/#:~:text=Senate%20Bill%205284)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [Transportation and capital budgets | Washington State House Republicans](https://houserepublicans.wa.gov/current/transportation-and-capital-budgets/#:~:text=Senate%20Bill%205284)

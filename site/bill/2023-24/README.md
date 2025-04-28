@@ -404,7 +404,7 @@
 * [HB 2242](hb/2242) - Sexual assault/higher ed. 3📰 448👍 0👎 6❓ - HApprops
 * [HB 2196](hb/2196) - Alcohol concentration/DUI 10📰 37👍 415👎 1❓ - HCommunity Safe
 * [SB 5924](sb/5924) - Access to personnel records 368👍 79👎 4❓ - SWays & Means
-* [HB 1032](hb/1032) - Wildfires/electric utilities 4📰 442👍 2👎 5❓ - C 132 L 23
+* [HB 1032](hb/1032) - Wildfires/electric utilities 5📰 442👍 2👎 5❓ - C 132 L 23
 * [SB 5080](sb/5080) - Cannabis social equity 9📰 342👍 90👎 17❓ - C 220 L 23
 * [HB 1599](hb/1599) - Firearm background checks 1📰 36👍 408👎 4❓ - C 298 L 23
 * [HB 1961](hb/1961) - Animal cruelty/seriousness 6📰 440👍 6👎 1❓ - C 55 L 24

@@ -7,8 +7,15 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=HB%202049)
+* 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=HB%202049)
+* 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=(HB%202049))
+* 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [Join Cascade PBS & Daybreak Star Radio for a free film screening | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/join-cascade-pbs-daybreak-star-radio-free-film-screening#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
+* 04/25/2025 [FOX13](/org/fox13/) - [What’s still up in the air as WA Legislature wraps up | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislature-wraps-up#:~:text=limits%20for%20school%20levies)
+* 04/25/2025 [FOX13](/org/fox13/) - [What to expect as WA legislative session nears end | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislative-session-end#:~:text=SHB%202049)
 * 04/25/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson’s Continued Focus on Austerity Places King County in Jeopardy - The Urbanist](https://www.theurbanist.org/2025/04/25/fergusons-continued-focus-on-austerity-places-king-county-in-jeopardy/#:~:text=the%20legislative%20vehicle)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington law will exclude medical debt from credit reports | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/new-washington-law-will-exclude-medical-debt-credit-reports#:~:text=allow%20an%20increase%20in%20annual%20property%20tax%20growth)
@@ -42,6 +49,7 @@
 * 03/29/2025 [House Republicans](/org/house_republicans/) - [Budgets and taxes | Washington State House Republicans](https://houserepublicans.wa.gov/current/budgets-and-taxes/#:~:text=House%20Bill%202049)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202049)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202049)
+* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202049%20|%20Property%20tax%20spikes)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202049)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=HB%202049)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202049)

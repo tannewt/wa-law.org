@@ -15,7 +15,7 @@
 
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 
-### [SB 5444](/bill/2025-26/sb/5444/) - New special license plates 👍3  ❓1
+### [SB 5444](/bill/2025-26/sb/5444/) - Special license plates 👍3  ❓1
 
 ## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍2  
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=(SB%205815))
 * 04/16/2025 [FOX13](/org/fox13/) - [WA Democrats propose new taxes to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=Senate%20Bill%205815)
 * 04/16/2025 [The Burner](/org/the_burner/) - [So, Is The Washington State Wealth Tax Dead?](https://www.theburnerseattle.com/post/the-wealth-tax-is-seemingly-dead#:~:text=B&O%20surcharge)
 * 04/16/2025 [MyNorthwest](/org/mynorthwest/) - [WA Democrats unveil 5 New tax bills targeting wealthy](https://mynorthwest.com/mynorthwest-politics/democrats-tax-bills/4076327#:~:text=Senate%20Bill%205815)

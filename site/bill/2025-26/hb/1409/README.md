@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [WA environmental legislation passed this year that you should know | Cascade PBS](https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=House%20Bill%201409)
 * 04/08/2025 [The Center Square](/org/the_center_square/) - [Critics warn WA bill could raise gas prices by 40 cents by 2031 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_08bbb647-02a6-42e9-bf68-c1ba0fe56c58.html#:~:text=House%20Bill%201409)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409)
