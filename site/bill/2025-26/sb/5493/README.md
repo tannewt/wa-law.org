@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [Big wins for Spokane as 2025 Legislature adjourns - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/28/big-wins-for-spokane-as-2025-legislature-adjourns/#:~:text=Senate%20Bill%205493)
 * 03/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Hospital price transparency bill in Washington Legislature gets reworked • Washington State Standard](https://washingtonstatestandard.com/2025/03/26/hospital-price-transparency-bill-in-washington-legislature-gets-reworked/#:~:text=Senate%20Bill%205493)
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205493)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Building a cleaner, stronger community - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/02/04/building-a-cleaner-stronger-community/#:~:text=SB%205493)

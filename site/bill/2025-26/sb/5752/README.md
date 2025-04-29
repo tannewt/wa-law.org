@@ -16,6 +16,7 @@
 * 02/18/2025 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Tough Budget Choices Ahead: Lawmakers Weigh Deep Cuts & Delays - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02182025#:~:text=S.B.%205752)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [House and Senate Shift Back to Committee Activity This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03182025#:~:text=f%20S.B.%205752)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Budget Talks Intensify as End of Session Looms - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04142025#:~:text=ESSB%205752)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=See%20S.B.%205752)
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5752 Child care & early dev.

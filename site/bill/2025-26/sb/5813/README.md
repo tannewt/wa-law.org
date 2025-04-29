@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/28/2025 [Washington State Standard](/org/washington_state_standard/) - [Five tax bills lawmakers passed to underpin Washington's next state budget • Washington State Standard](https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=Senate%20Bill%205813)
 * 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=approved%20increases)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=SB%205813)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=SB%205813)

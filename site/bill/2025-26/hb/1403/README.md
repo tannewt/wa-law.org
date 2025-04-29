@@ -16,6 +16,7 @@
 * 03/12/2025 [House Democrats](/org/house_democrats/) - [Taylor bill could bring more condo construction to WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/taylor-bill-could-bring-more-condo-construction-to-wa/#:~:text=House%20Bill%201403)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201403)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201403)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=HB%201403)
 
 ## Meetings
 ### Fri 03/21 10:30 AM - Housing (HSG): EHB 1403 Condominium construction

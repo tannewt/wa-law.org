@@ -21,6 +21,7 @@
 * 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would adjust eligibility, add loan forgiveness to housing discrimination remedy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201696)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=HB%201696)
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1696 Covenant homeownership prg.

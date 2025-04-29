@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/28/2025 [Washington State Standard](/org/washington_state_standard/) - [Five tax bills lawmakers passed to underpin Washington's next state budget • Washington State Standard](https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=Senate%20Bill%205794)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=SB%205794)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=SB%205794)
 * 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=(SB%205794))

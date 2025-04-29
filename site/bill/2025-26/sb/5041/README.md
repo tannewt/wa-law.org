@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [Big wins for Spokane as 2025 Legislature adjourns - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/28/big-wins-for-spokane-as-2025-legislature-adjourns/#:~:text=Senate%20Bill%205041)
 * 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=agreed)
 * 04/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Striking worker unemployment benefit bill headed to WA governor • Washington State Standard](https://washingtonstatestandard.com/briefs/striking-worker-unemployment-benefit-bill-headed-to-wa-governor/#:~:text=Senate%20Bill%205041)
 * 03/28/2025 [Senate Democrats](/org/senate_democrats/) - [Building a balanced, sustainable budget - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/03/28/building-a-balanced-sustainable-budget/#:~:text=Senate%20Bill%205041)

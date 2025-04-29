@@ -21,6 +21,7 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205148)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding housing supply hearing in Senate Friday - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/01/22/expanding-housing-supply-hearing-in-senate-friday/#:~:text=SB%205148)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205148)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=SB%205148)
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5148 GMA housing element

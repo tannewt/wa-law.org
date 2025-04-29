@@ -13,6 +13,7 @@
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=SB%205184)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=SB%205184)
 * 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [Join Cascade PBS & Daybreak Star Radio for a free film screening | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/join-cascade-pbs-daybreak-star-radio-free-film-screening#:~:text=Senate%20Bill%205184)
+* 04/25/2025 [PubliCola](/org/publicola/) - [Turning Park-and-Rides Into Housing - PubliCola](https://publicola.com/2025/04/25/turning-park-and-rides-into-housing/#:~:text=a%20parking%20reform%20bill.)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=Senate%20Bill%205184)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington law will exclude medical debt from credit reports | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/new-washington-law-will-exclude-medical-debt-credit-reports#:~:text=Senate%20Bill%205184)
 * 04/23/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle democracy voucher renewal set for August ballot | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/seattle-democracy-voucher-renewal-set-august-ballot#:~:text=Senate%20Bill%205184)
@@ -35,6 +36,7 @@
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205184)
 * 01/16/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Cap Excessive Parking Mandates Around the State  | Sightline Institute](https://www.sightline.org/2025/01/16/washington-bill-would-cap-excessive-parking-mandates-around-the-state/#:~:text=SB%205184)
 * 01/10/2025 [The Urbanist](/org/the_urbanist/) - [Bateman Takes Aim at Washington’s Parking Mandates - The Urbanist](https://www.theurbanist.org/2025/01/10/bateman-takes-aim-at-parking-mandates/#:~:text=Senate%20Bill%205184)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=SB%205184)
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Local Government (LG): ESSB 5184 Minimum parking requirements

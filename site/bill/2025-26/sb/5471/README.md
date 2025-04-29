@@ -13,6 +13,7 @@
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205471)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=SB%205471)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205471)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=SB%205471)
 
 ## Meetings
 ### Mon 03/17 01:30 PM - Housing (HOUS): ESB 5471 Middle housing

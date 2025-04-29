@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 04/28/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Legislature approves yearly rent caps – just under the wire | Cascade PBS](https://www.cascadepbs.org/politics/2025/04/wa-legislature-approves-yearly-rent-caps-just-under-wire#:~:text=House%20Bill%201217)
+* 04/28/2025 [The Center Square](/org/the_center_square/) - [Critics worry newly-passed rent cap bill could worsen WA’s housing crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c9c5452f-0c05-465c-a97d-cdb7ee36e919.html#:~:text=House%20Bill%201217)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=House%20Bill%201217)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=House%20Bill%201217)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=House%20Bill%201217)
@@ -81,6 +83,7 @@
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201217)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [House and Senate Shift Back to Committee Activity This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03182025#:~:text=H.B.%201217)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Budget Talks Intensify as End of Session Looms - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04142025#:~:text=HB%201217)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=H.B.%201217)
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): EHB 1217 Residential tenants
