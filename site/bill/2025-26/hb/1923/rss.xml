@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1923/</link>
 		<description>Updates about HB 1923</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -522,6 +522,13 @@
 			<pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/04/house-transportation-budget-includes-1-9b-in-ferry-funding-and-kitsap-infrastructure-wins/#:~:text=Mosquito%20Fleet%20Act%20(HB%201923)</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

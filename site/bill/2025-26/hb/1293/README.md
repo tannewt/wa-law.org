@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/30/2025 [The Center Square](/org/the_center_square/) - [WATCH: Littering fines would more than double under new law passed by WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_59e78636-92d7-45be-bc46-ac89ff2e7af5.html#:~:text=House%20Bill%201293)
 * 04/16/2025 [KIRO7](/org/kiro7/) - [WA Senate approves bill that would raise littering fines for first time in over a decade – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-senate-approves-bill-that-would-raise-littering-fines-first-time-over-decade/LB7FWIUB2REWJOQE4HHJ7P3ZZI/#:~:text=House%20Bill%20129)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201293)
 * [House Republicans](/org/house_republicans/) - [Cleaner Washington | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/cleaner-washington/#:~:text=House%20Bill%201293)

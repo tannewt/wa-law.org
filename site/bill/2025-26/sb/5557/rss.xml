@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5557/</link>
 		<description>Updates about SB 5557</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 30 Apr 2025 21:41:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -314,6 +314,20 @@
 			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-22/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Gov. Ferguson signs Krishnadasan bill to protect emergency medical care - Sen. Deborah Krishnadasan</title>
+			<description>News article "Gov. Ferguson signs Krishnadasan bill to protect emergency medical care - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Wed, 30 Apr 2025 20:33:20 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/gov-ferguson-signs-krishnadasan-bill-to-protect-emergency-medical-care/#:~:text=Senate%20Bill%205557</guid>
+		</item>
+		<item>
+			<title>The Legislature is adjourned - Sen. Deborah Krishnadasan</title>
+			<description>News article "The Legislature is adjourned - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Wed, 30 Apr 2025 21:41:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/the-legislature-is-adjourned/#:~:text=SB%205557</guid>
 		</item>
 	</channel>
 </rss>

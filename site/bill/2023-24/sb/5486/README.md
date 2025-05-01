@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/29/2025 [The Center Square](/org/the_center_square/) - [Report: WA wealth tax would not cause 'mass exodus of millionaires' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_903bc7aa-bf8f-48a3-9f76-9d2267fc1266.html#:~:text=1%)
 * 12/20/2024 [The Center Square](/org/the_center_square/) - [Billionaire Democratic supporter calls Inslee's wealth tax 'boneheaded' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f9b9d312-bf10-11ef-a095-438c71e618a3.html#:~:text=Senate%20Bill 5486)
 * 12/10/2024 [The Center Square](/org/the_center_square/) - [WA Democrats point to initiatives as mandate to hike taxes on wealthy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_10693060-b71b-11ef-a652-f3d3c9d93c36.html#:~:text=Senate%20Bill%205486)
 * 11/16/2024 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Two Simple Steps to Save Schools by Taxing the Rich - The Urbanist](https://www.theurbanist.org/2024/11/16/op-ed-two-simple-steps-to-save-schools-by-taxing-the-rich/#:~:text=proposed%20by%20State%20Senator%20Noel%20Frame)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1126/</link>
 		<description>Updates about HB 1126</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -100,6 +100,13 @@
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-27/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

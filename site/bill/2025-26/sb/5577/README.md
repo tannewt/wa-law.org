@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/29/2025 [The Center Square](/org/the_center_square/) - [Increasing use of emergency clause in bills has some Washington lawmakers worried | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_25ec4964-ff18-4132-9635-21e3edc954f2.html#:~:text=Senate%20Bill%205577)
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205577)
 
 ## Meetings
