@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/15/2025 [House Democrats](/org/house_democrats/) - [Protecting the Dignity of Immigrants Amidst Federal Raids & Detention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/protecting-the-dignity-of-immigrants-amidst-federal-raids-detention/#:~:text=HB%201141)
 * 03/13/2025 [MyNorthwest](/org/mynorthwest/) - [Washington bill could give cannabis industry agricultural status](https://mynorthwest.com/mynorthwest-politics/cannabis-industry/4061899#:~:text=House%20Bill%201141)
 * 03/11/2025 [House Democrats](/org/house_democrats/) - [Rep. Ortiz-Self Works to Expand Collective Bargaining Rights for Agricultural Cannabis Workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/rep-ortiz-self-works-to-expand-collective-bargaining-rights-for-agricultural-cannabis-workers/#:~:text=HB%201141)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201141)

@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=1279)
+* 04/21/2025 [House Democrats](/org/house_democrats/) - [Governor signs Pollet bill protecting students in online colleges: national significance for regulating online higher education. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/21/governor-signs-pollet-bill-protecting-students-in-online-colleges-national-significance-for-regulating-online-higher-education/#:~:text=House%20Bill%201279)
+
 ## Meetings
 ### Thu 04/03 01:30 PM - Ways & Means (WM): EHB 1279 Postsecondary ed protections
 #### 44 👍 - Pro

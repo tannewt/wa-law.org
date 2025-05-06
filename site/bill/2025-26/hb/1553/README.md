@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/30/2025 [House Democrats](/org/house_democrats/) - [Four bills by Rep. Adison Richards pass both chambers  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/30/four-bills-by-rep-adison-richards-pass-both-chambers/#:~:text=House%20Bill%201553)
+
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): HB 1553 Dairy inspection program
 #### 52 👍 - Pro

@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 04/22/2025 [House Democrats](/org/house_democrats/) - [Rep. Mari Leavitt Leads Legislative Wins for Animal Welfare in Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/22/rep-mari-leavitt-leads-legislative-wins-for-animal-welfare-in-washington/#:~:text=Engrossed%20Substitute%20House%20Bill%201201)
+
 ## Meetings
 ### Mon 03/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1201 Emergency shelters/pets
 #### 224 👍 - Pro

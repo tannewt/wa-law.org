@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/17/2025 [House Democrats](/org/house_democrats/) - [Stearns Bill Expanding State Support for Nuclear Energy Signed by Governor  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/17/stearns-bill-expanding-state-support-for-nuclear-energy-signed-by-governor/#:~:text=HB%201461)
+
 ## Meetings
 ### Fri 03/14 10:30 AM - Environment, Energy & Technology (ENET): EHB 1461 Joint operating agencies
 #### 1 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2081/</link>
 		<description>Updates about HB 2081</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 28 Apr 2025 19:00:45 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 May 2025 15:51:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -75,6 +75,13 @@
 			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-16/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>House and Senate Democrats release updated progressive revenue proposal, hearings in coming days – Washington State House Democrats</title>
+			<description>News article "House and Senate Democrats release updated progressive revenue proposal, hearings in coming days – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/16/house-and-senate-democrats-release-updated-progressive-revenue-proposal-hearings-in-coming-days/#:~:text=House%20Bill%202081</guid>
 		</item>
 		<item>
 			<title>👍Bernadette Jungblut - Faculty Legislative Representative for Central Washington University</title>
@@ -886,6 +893,13 @@
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Legislature passes budget to protect essential services, support K-12 education – Washington State House Democrats</title>
+			<description>News article "Legislature passes budget to protect essential services, support K-12 education – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=HB%202081</guid>
+		</item>
+		<item>
 			<title>Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats</title>
 			<description>News article "Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats" from Senate Democrats.</description>
 			<pubDate>Sun, 27 Apr 2025 22:45:02 GMT</pubDate>
@@ -912,6 +926,13 @@
 			<pubDate>Mon, 28 Apr 2025 19:00:45 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=House%20Bill%202081</guid>
+		</item>
+		<item>
+			<title>Sales Tax Accounts For A Quarter Of Every Dollar In New State Revenue In Washington</title>
+			<description>News article "Sales Tax Accounts For A Quarter Of Every Dollar In New State Revenue In Washington" from The Burner.</description>
+			<pubDate>Thu, 01 May 2025 15:51:47 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theburnerseattle.com/post/sales-tax-accounts-for-a-quarter-of-every-dollar-in-new-state-revenue-in-washington#:~:text=House%20Bill%202081</guid>
 		</item>
 	</channel>
 </rss>

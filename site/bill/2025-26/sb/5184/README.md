@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle writer Tessa Hulls wins Pulitzer Prize for best memoir | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-writer-tessa-hulls-wins-pulitzer-prize-best-memoir#:~:text=Senate%20Bill%205184)
+* 05/01/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle Children’s, Virginia Mason partner to expand in Kitsap | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-childrens-virginia-mason-partner-expand-kitsap#:~:text=Senate%20Bill%205184)
 * 04/29/2025 [Cascade PBS](/org/cascade_pbs/) - [Canada’s Liberal Party holds onto power, Mark Carney remains PM | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/canadas-liberal-party-holds-power-mark-carney-remains-pm#:~:text=Senate%20Bill%205184)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=SB%205184)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=SB%205184)

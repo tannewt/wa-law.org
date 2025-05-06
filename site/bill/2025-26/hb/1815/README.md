@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/25/2025 [House Democrats](/org/house_democrats/) - [Governor signs Peterson bill ending the use of ‘Prison Riot Offense’ in juvenile detention system. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/25/governor-signs-peterson-youth-detention-bill/#:~:text=House%20Bill%201815)
 * 04/08/2025 [FOX13](/org/fox13/) - [WA bill to exclude juvenile facilities from prison riot laws | FOX 13 Seattle](https://www.fox13seattle.com/news/juvenile-facilities-prison-riot-laws#:~:text=House%20Bill%201815)
 
 ## Meetings

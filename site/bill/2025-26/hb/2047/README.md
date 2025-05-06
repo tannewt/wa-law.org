@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 04/30/2025 [House Democrats](/org/house_democrats/) - [Four bills by Rep. Adison Richards pass both chambers  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/30/four-bills-by-rep-adison-richards-pass-both-chambers/#:~:text=House%20Bill%202047)
+
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 2047 Employee ownership program
 #### 1 👍 - Pro

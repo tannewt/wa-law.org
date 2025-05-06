@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 04/30/2025 [House Democrats](/org/house_democrats/) - [Four bills by Rep. Adison Richards pass both chambers  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/30/four-bills-by-rep-adison-richards-pass-both-chambers/#:~:text=House%20Bill%201902)
+
 ## Meetings
 ### Tue 04/01 04:00 PM - Transportation (TRAN): ESHB 1902 Transp. project permitting
 #### 23 👍 - Pro

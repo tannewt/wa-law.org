@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/15/2025 [House Democrats](/org/house_democrats/) - [Protecting the Dignity of Immigrants Amidst Federal Raids & Detention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/protecting-the-dignity-of-immigrants-amidst-federal-raids-detention/#:~:text=SB%205104)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Big decisions - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/04/11/big-decisions/#:~:text=5104)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall TOMORROW and progress - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/21/town-hall-tomorrow-and-progress/#:~:text=5104)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=SSB%205104)

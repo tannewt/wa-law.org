@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5245/</link>
 		<description>Updates about SB 5245</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 30 Apr 2025 21:41:14 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 May 2025 21:28:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,11 +136,25 @@
 			<guid isPermaLink="false">2025-04-22/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-30/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
 			<title>The Legislature is adjourned - Sen. Deborah Krishnadasan</title>
 			<description>News article "The Legislature is adjourned - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
 			<pubDate>Wed, 30 Apr 2025 21:41:14 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/the-legislature-is-adjourned/#:~:text=SB%205245</guid>
+		</item>
+		<item>
+			<title>The Legislature is adjourned - Sen. Deborah Krishnadasan</title>
+			<description>News article "The Legislature is adjourned - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Thu, 01 May 2025 21:28:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/05/01/the-legislature-is-adjourned/#:~:text=SB%205245</guid>
 		</item>
 	</channel>
 </rss>

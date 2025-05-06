@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2025 session! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/05/02/thats-a-wrap-on-the-2025-session/#:~:text=5444)
 * 04/22/2025 [FOX13](/org/fox13/) - [WA lawmakers weigh new license plates, rules  | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-license-plates-rules#:~:text=Senate%20Bill%205444)
 
 ## Meetings

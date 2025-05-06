@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 04/25/2025 [House Democrats](/org/house_democrats/) - [Taylor Bill Prioritizes Child Safety in Parenting Plan Update – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/25/taylor-bill-prioritizes-child-safety-in-parenting-plan-update/#:~:text=House%20Bill%201620)
+
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): ESHB 1620 Parenting plan limitations
 #### 576 👍 - Pro

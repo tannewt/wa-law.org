@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/21/2025 [House Democrats](/org/house_democrats/) - [Want to buy someone’s house to flip it? Not without informing the owners of their rights.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/21/want-to-buy-someones-house-to-flip-it-not-without-informing-the-owners-of-their-rights/#:~:text=House%20Bill%201081)
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [Donaghy bill ensuring transparency in solicited real estate sent to Senate. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/donaghy-bill-ensuring-transparency-in-solicited-real-estate-sent-to-senate/#:~:text=House%20Bill%201081)
 
 ## Meetings

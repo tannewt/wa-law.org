@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5355)
+* 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205355)
 * 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Orwall bills improving college campus safety, expanding sexual assault training, updating child fatality statute - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/22/governor-signs-orwall-bills-improving-college-campus-safety-expanding-sexual-assault-training-updating-child-fatalities-statute/#:~:text=Senate%20Bill%205355)
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=enhance%20safety%20on%20our%20college%20campuses)
 * 03/06/2025 [Cascade PBS](/org/cascade_pbs/) - [Students press WA lawmakers for campus sexual assault policy reform | Cascade PBS](https://crosscut.com/politics/2025/03/students-press-wa-lawmakers-campus-sexual-assault-policy-reform#:~:text=Senate%20Bill%205355)

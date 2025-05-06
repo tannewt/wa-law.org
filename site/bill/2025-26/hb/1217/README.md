@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=1217)
 * 04/30/2025 [Washington State Standard](/org/washington_state_standard/) - [Behind the scenes, Ferguson backed bill to cap rent increases for months • Washington State Standard](https://washingtonstatestandard.com/2025/04/30/behind-the-scenes-ferguson-backed-bill-to-cap-rent-increases-for-months/#:~:text=House%20Bill%201217)
 * 04/28/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Legislature approves yearly rent caps – just under the wire | Cascade PBS](https://www.cascadepbs.org/politics/2025/04/wa-legislature-approves-yearly-rent-caps-just-under-wire#:~:text=House%20Bill%201217)
 * 04/28/2025 [The Center Square](/org/the_center_square/) - [Critics worry newly-passed rent cap bill could worsen WA’s housing crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c9c5452f-0c05-465c-a97d-cdb7ee36e919.html#:~:text=House%20Bill%201217)

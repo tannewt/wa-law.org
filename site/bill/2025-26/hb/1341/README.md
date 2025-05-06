@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/16/2025 [House Democrats](/org/house_democrats/) - [Gov. Signs Bill Strengthening Medical Cannabis Tax Protections – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/16/gov-signs-bill-strengthening-medical-cannabis-tax-protections/#:~:text=House%20Bill%201341)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Rep. Wylie Strengthens Medical Cannabis Tax Exemption Protections – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/rep-wylie-strengthens-medical-cannabis-tax-exemption-protections/#:~:text=House%20bill%201341)
 
 ## Meetings

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/05/2025 [House Democrats](/org/house_democrats/) - [Stonier Bill Expanding Healthcare Coverage for Prosthetic Limbs Signed into Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/05/40345/#:~:text=SHB%201669,)
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Thursday, March 13 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/thursday-march-13-2/#:~:text=Washington%20bill%20could%20transform%20prosthetics%20access%20for%20amputees)
 
 ## Meetings

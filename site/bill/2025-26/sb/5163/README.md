@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205163)
 * 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Orwall bills improving college campus safety, expanding sexual assault training, updating child fatality statute - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/22/governor-signs-orwall-bills-improving-college-campus-safety-expanding-sexual-assault-training-updating-child-fatalities-statute/#:~:text=SB%205163)
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=expand%20protections)
 

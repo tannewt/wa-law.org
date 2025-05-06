@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/01/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/05/01/the-legislature-is-adjourned/#:~:text=HB%201177)
 * 04/30/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/the-legislature-is-adjourned/#:~:text=HB%201177)
 * 03/03/2025 [House Democrats](/org/house_democrats/) - [Bill to Strengthen Child Welfare Housing Assistance Program Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/03/bill-to-strengthen-child-welfare-housing-assistance-program-passes-house/#:~:text=House%20Bill%201177)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201177)

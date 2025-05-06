@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5084)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in our community - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/04/11/investing-in-our-community/#:~:text=Senate%20Bill%205084)
 
 ## Meetings

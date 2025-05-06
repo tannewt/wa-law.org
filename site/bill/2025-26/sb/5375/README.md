@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/05/2025 [The Center Square](/org/the_center_square/) - [U.S. Justice Dept. to investigate new WA law requiring clergy to report child abuse | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d57c9080-0828-4304-ad6b-ae5723313028.html#:~:text=Senate%20Bill%205375)
+* 05/02/2025 [Washington State Standard](/org/washington_state_standard/) - [New law requires clergy in Washington to report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/05/02/new-law-requires-clergy-in-washington-to-report-child-abuse/#:~:text=Senate%20Bill%205375)
+* 05/02/2025 [FOX13](/org/fox13/) - [WA Gov. signs bill requiring clergy to report abuse | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-bill-clergy-report-abuse#:~:text=Senate%20Bill%205375)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=a%20bill%20I%20sponsored)
 * 04/15/2025 [KUOW](/org/kuow/) - [KUOW - Clergy members to become mandatory child abuse reporters in Washington state](https://www.kuow.org/stories/clergy-in-washington-state-to-report-child-abuse#:~:text=Senate%20Bill%205375)
 * 04/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington Legislature approves requirement for clergy to report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/04/12/wa-legislature-approves-requirement-for-clergy-to-report-child-abuse/#:~:text=Senate%20Bill%205375)

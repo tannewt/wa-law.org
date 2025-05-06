@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5110/</link>
 		<description>Updates about SB 5110</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 May 2025 00:24:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -324,6 +324,20 @@
 			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-22/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-29/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>2025 session recap - Sen. Vandana Slatter</title>
+			<description>News article "2025 session recap - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Sat, 03 May 2025 00:24:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5110:</guid>
 		</item>
 	</channel>
 </rss>

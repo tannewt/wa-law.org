@@ -11,6 +11,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 04/25/2025 [House Democrats](/org/house_democrats/) - [Governor signs Bernbaum bills boosting forest health and wildfire prevention     – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/25/governor-signs-bernbaum-bills-boosting-forest-health-and-wildfire-prevention/#:~:text=House%20Bill%201563)
+
 ## Meetings
 ### Thu 04/03 01:30 PM - Ways & Means (WM): E2SHB 1563 Prescribed fire claims
 #### 201 👍 - Pro

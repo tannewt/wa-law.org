@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 04/23/2025 [FOX13](/org/fox13/) - [WA Gov. Ferguson to consider bill on ‘reckless speeding’ | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-governor-bill-reckless-speeding#:~:text=House%20Bill%201596)
+* 04/21/2025 [House Democrats](/org/house_democrats/) - [Rep. Leavitt’s BEAM Act Passes Senate and House, Advances to Governor’s Office for Signature – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/21/rep-leavitts-beam-act-passes-senate-and-house-advances-to-governors-office-for-signature/#:~:text=HB%201596)
 * 04/15/2025 [FOX13](/org/fox13/) - [WA Senate passes bill to slow down habitual speeders | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-senate-bill-speed-limit#:~:text=House%20Bill%201596)
 * 04/14/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Anti-Speeding Technology Could Have Saved My Son - The Urbanist](https://www.theurbanist.org/2025/04/14/op-ed-anti-speeding-technology-could-have-saved-my-son/#:~:text=Washington%20state%20bill)
 * 04/04/2025 [KIRO7](/org/kiro7/) - [Teen pleads guilty in 112 mph crash that killed 3 children and a mother  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/teen-pleads-guilty-vehicular-homicide-112-mph-crash-that-killed-three-children-mother/MH4434DJRFF5HJQMWMMU6FL7LA/#:~:text=HB%201596,)

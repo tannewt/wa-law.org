@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/16/2025 [House Democrats](/org/house_democrats/) - [Timmons bill strengthening local public transportation policy headed to Governors’ desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/16/timmons-bill-strengthening-local-public-transportation-policy-headed-to-governors-desk/#:~:text=House%20Bill%201418)
 * 03/14/2025 [PubliCola](/org/publicola/) - [To End Car Dependency, We Must Change Who Has A Seat At the Table - PubliCola](https://publicola.com/2025/03/14/to-end-car-dependency-we-must-change-who-has-a-seat-at-the-table/#:~:text=HB%201418)
 * 03/06/2025 [House Democrats](/org/house_democrats/) - [Timmons Bill to Enhance Public Transit Governing Bodies Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/timmons-bill-to-enhance-public-transit-governing-bodies-passes-house/#:~:text=House%20Bill%201418)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201418)

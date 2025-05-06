@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5444/</link>
 		<description>Updates about SB 5444</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 May 2025 18:06:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -180,6 +180,13 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>That’s a wrap on the 2025 session! - Sen. Adrian Cortes</title>
+			<description>News article "That’s a wrap on the 2025 session! - Sen. Adrian Cortes" from Senate Democrats.</description>
+			<pubDate>Fri, 02 May 2025 18:06:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cortes/2025/05/02/thats-a-wrap-on-the-2025-session/#:~:text=5444</guid>
 		</item>
 	</channel>
 </rss>

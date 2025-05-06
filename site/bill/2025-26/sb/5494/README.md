@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/15/2025 [Senate Democrats](/org/senate_democrats/) - [In the home stretch - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/04/15/in-the-home-stretch/#:~:text=SB%205494)

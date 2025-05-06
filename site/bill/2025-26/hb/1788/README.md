@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 04/30/2025 [House Democrats](/org/house_democrats/) - [Four bills by Rep. Adison Richards pass both chambers  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/30/four-bills-by-rep-adison-richards-pass-both-chambers/#:~:text=House%20Bill%201788)
+
 ## Meetings
 ### Mon 03/17 10:30 AM - Labor & Commerce (LC): 2SHB 1788 Workers' compensation
 #### 192 👍 - Pro

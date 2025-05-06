@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5284/</link>
 		<description>Updates about SB 5284</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 28 Apr 2025 13:20:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 May 2025 00:24:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1214,6 +1214,13 @@
 			<pubDate>Mon, 28 Apr 2025 13:20:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=The%20bill</guid>
+		</item>
+		<item>
+			<title>2025 session recap - Sen. Vandana Slatter</title>
+			<description>News article "2025 session recap - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Sat, 03 May 2025 00:24:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5284</guid>
 		</item>
 	</channel>
 </rss>

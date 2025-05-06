@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/22/2025 [House Democrats](/org/house_democrats/) - [Ferguson signs Goodman bills protecting children and wildlife – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/22/ferguson-signs-goodman-bills-protecting-children-and-wildlife/#:~:text=House%20Bill%201325)
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=Substitute%20House%20Bill%201325)
 
 ## Meetings

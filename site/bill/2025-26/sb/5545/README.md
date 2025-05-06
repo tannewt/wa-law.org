@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/29/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Riccelli bill to expand childcare access to military families - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/29/governor-signs-riccelli-bill-to-expand-childcare-access-to-military-families/#:~:text=Senate%20Bill%205545)

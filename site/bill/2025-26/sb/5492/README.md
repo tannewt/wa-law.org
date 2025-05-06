@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/30/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Riccelli bill to boost state tourism promotion - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/30/governor-signs-riccelli-bill-to-boost-state-tourism-promotion/#:~:text=Senate%20Bill%205492)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5686/</link>
 		<description>Updates about SB 5686</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 May 2025 00:24:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -420,6 +420,20 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>End of session update - Sen. Tina Orwall</title>
+			<description>News article "End of session update - Sen. Tina Orwall" from Senate Democrats.</description>
+			<pubDate>Fri, 02 May 2025 23:44:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205686</guid>
+		</item>
+		<item>
+			<title>2025 session recap - Sen. Vandana Slatter</title>
+			<description>News article "2025 session recap - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Sat, 03 May 2025 00:24:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5686</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle writer Tessa Hulls wins Pulitzer Prize for best memoir | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-writer-tessa-hulls-wins-pulitzer-prize-best-memoir#:~:text=Senate%20Bill%205480)
+* 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5480:)
+* 05/01/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle Children’s, Virginia Mason partner to expand in Kitsap | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-childrens-virginia-mason-partner-expand-kitsap#:~:text=Senate%20Bill%205480)
 * 04/29/2025 [Cascade PBS](/org/cascade_pbs/) - [Canada’s Liberal Party holds onto power, Mark Carney remains PM | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/canadas-liberal-party-holds-power-mark-carney-remains-pm#:~:text=Senate%20Bill%205480)
 * 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [Join Cascade PBS & Daybreak Star Radio for a free film screening | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/join-cascade-pbs-daybreak-star-radio-free-film-screening#:~:text=Senate%20Bill%205480)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=Senate%20Bill%205480)
