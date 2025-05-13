@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/09/2025 [Senate Democrats](/org/senate_democrats/) - [The end! - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=HB%201131)
 * 03/25/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill would speed pardon reviews for immigrants facing deportation • Washington State Standard](https://washingtonstatestandard.com/2025/03/25/washington-bill-would-speed-up-pardon-reviews-for-immigrants-facing-deportation/#:~:text=House%20Bill%201131)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201131)
 

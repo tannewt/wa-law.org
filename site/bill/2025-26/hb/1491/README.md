@@ -11,6 +11,8 @@
 * [Passed Legislature](S3.PL/)
 
 ## 📰 Articles
+* 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist](https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=House%20Bill%201491)
+* 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=HB%201491)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=a%20great%20bill)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201491)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201491)

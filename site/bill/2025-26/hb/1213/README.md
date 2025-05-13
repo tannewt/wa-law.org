@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=HB%201213)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=House%20Bill%201213)
 * 03/11/2025 [House Democrats](/org/house_democrats/) - [Berry’s Paid Family Medical Leave Improvement Bill Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/berrys-paid-family-medical-leave-improvement-bill-passes-house/#:~:text=HB%201213)
 * 01/29/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Who is left out of the Paid Family and Medical Leave Act? - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/paid-family-and-medical-leave-job-protection/#:~:text=House%20Bill%201213)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1479/</link>
 		<description>Updates about HB 1479</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jan 2025 18:48:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1262,6 +1262,13 @@
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Progress on student isolation &amp; restraint</title>
+			<description>News article "Progress on student isolation &amp; restraint" from The Washington Observer.</description>
+			<pubDate>Mon, 06 Jan 2025 18:48:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/progress-on-student-isolation-and#:~:text=bipartisan%20solution</guid>
 		</item>
 	</channel>
 </rss>

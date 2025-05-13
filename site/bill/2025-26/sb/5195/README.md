@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SSB%205195)
 * 04/07/2025 [The Center Square](/org/the_center_square/) - [WA Senate unanimously passes $7.3B capital budget ‘for the entire state’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_06fd459d-0f7e-44e1-9ef2-6232bea70889.html#:~:text=47-0)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205195)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=Senate%20Bill%205195)

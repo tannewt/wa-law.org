@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/30/2025 [The Washington Observer](/org/the_washington_observer/) - [The winners at the 2025 Legislature](https://washingtonobserver.substack.com/p/the-winners-at-the-2025-legislature#:~:text=House%20Bill%201644)
 * 04/28/2025 [House Democrats](/org/house_democrats/) - [Ferguson Signs Fosse’s Child Labor Safety Bill into Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/28/ferguson-signs-fosses-child-labor-safety-bill-into-law/#:~:text=House%20Bill%201644)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [WA safety agency seeks felony charges after teen worker loses legs | Cascade PBS](https://www.cascadepbs.org/investigations/2025/04/wa-safety-agency-seeks-felony-charges-after-teen-worker-loses-legs#:~:text=House%20Bill%201644)
 * 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [In the final stretch - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/04/18/in-the-final-stretch/#:~:text=HB%201644)

@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5219)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205219)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205219)
 * 02/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Plan to close facilities for people exiting Washington prisons draws backlash • Washington State Standard](https://washingtonstatestandard.com/2025/02/24/plan-to-close-facilities-for-people-exiting-washington-prisons-draws-backlash/#:~:text=Senate%20Bill%205219)

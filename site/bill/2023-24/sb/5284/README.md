@@ -56,7 +56,7 @@ Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * Peter Lavallee - Public Disclosure Commission
 * Sean Flynn - Public Disclosure Commission
-* Paul Queary - The Washington Observer
+* Paul Queary - [The Washington Observer](/org/the_washington_observer/)
 
 #### 7 👎 - Con
 Testifying:

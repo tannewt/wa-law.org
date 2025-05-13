@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SB%205180)
 * 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=SB%205180)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205180)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB%205180)

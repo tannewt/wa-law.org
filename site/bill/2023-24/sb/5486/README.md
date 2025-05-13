@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SB%205486)
 * 04/29/2025 [The Center Square](/org/the_center_square/) - [Report: WA wealth tax would not cause 'mass exodus of millionaires' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_903bc7aa-bf8f-48a3-9f76-9d2267fc1266.html#:~:text=1%)
 * 12/20/2024 [The Center Square](/org/the_center_square/) - [Billionaire Democratic supporter calls Inslee's wealth tax 'boneheaded' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f9b9d312-bf10-11ef-a095-438c71e618a3.html#:~:text=Senate%20Bill 5486)
 * 12/10/2024 [The Center Square](/org/the_center_square/) - [WA Democrats point to initiatives as mandate to hike taxes on wealthy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_10693060-b71b-11ef-a652-f3d3c9d93c36.html#:~:text=Senate%20Bill%205486)

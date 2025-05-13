@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5284)
+* 04/30/2025 [The Washington Observer](/org/the_washington_observer/) - [The winners at the 2025 Legislature](https://washingtonobserver.substack.com/p/the-winners-at-the-2025-legislature#:~:text=Senate%20Bill%205284)
 * 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=The%20bill)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=an%20overhaul)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=an%20overhaul)

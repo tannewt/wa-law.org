@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/06/2025 [NW News Network](/org/nw_news_network/) - [U.S. Justice Department investigating new WA law requiring clergy to report child abuse | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2025-05-06/u-s-justice-department-investigating-new-wa-law-requiring-clergy-to-report-child-abuse#:~:text=Senate%20Bill%205375)
+* 05/06/2025 [KUOW](/org/kuow/) - [KUOW - U.S. Justice Department investigating new WA law requiring clergy to report child abuse](https://www.kuow.org/stories/u-s-justice-department-investigating-new-wa-law-requiring-clergy-to-report-child-abuse#:~:text=Senate%20Bill%205375)
 * 05/05/2025 [The Center Square](/org/the_center_square/) - [U.S. Justice Dept. to investigate new WA law requiring clergy to report child abuse | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d57c9080-0828-4304-ad6b-ae5723313028.html#:~:text=Senate%20Bill%205375)
 * 05/02/2025 [Washington State Standard](/org/washington_state_standard/) - [New law requires clergy in Washington to report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/05/02/new-law-requires-clergy-in-washington-to-report-child-abuse/#:~:text=Senate%20Bill%205375)
 * 05/02/2025 [FOX13](/org/fox13/) - [WA Gov. signs bill requiring clergy to report abuse | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-bill-clergy-report-abuse#:~:text=Senate%20Bill%205375)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/07/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs rent stabilization bill into law | FOX 13 Seattle](https://www.fox13seattle.com/news/governor-signs-rent-stabilization-bill#:~:text=property%20tax%20relief)
+
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): EHB 1106 Disabled veterans/prop. tax
 #### 62 👍 - Pro

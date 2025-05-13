@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
+## 📰 Articles
+* 05/09/2025 [Senate Democrats](/org/senate_democrats/) - [The end! - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=HB%201440)
+
 ## Meetings
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): E2SHB 1440 Civil forfeiture proceedings
 #### 7 👍 - Pro

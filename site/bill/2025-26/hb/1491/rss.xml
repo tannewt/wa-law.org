@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1491/</link>
 		<description>Updates about HB 1491</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 28 Apr 2025 01:17:22 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 May 2025 23:27:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -829,6 +829,20 @@
 			<pubDate>Mon, 28 Apr 2025 01:17:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=a%20great%20bill</guid>
+		</item>
+		<item>
+			<title>Legislature boosts support for affordable housing - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature boosts support for affordable housing - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 08 May 2025 18:49:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=HB%201491</guid>
+		</item>
+		<item>
+			<title>Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist</title>
+			<description>News article "Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist" from The Urbanist.</description>
+			<pubDate>Thu, 08 May 2025 23:27:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=House%20Bill%201491</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5083/</link>
 		<description>Updates about SB 5083</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 May 2025 23:17:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -494,6 +494,13 @@
 			<guid isPermaLink="false">2025-03-27/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>Hospitals warn Senate Democrats’ recommended cuts would gut their bottom line</title>
+			<description>News article "Hospitals warn Senate Democrats’ recommended cuts would gut their bottom line" from The Washington Observer.</description>
+			<pubDate>Fri, 28 Mar 2025 16:44:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/hospitals-warn-senate-democrats-recommended#:~:text=Senate%20Bill%205083</guid>
+		</item>
+		<item>
 			<title>How Democrats want to tax you | Washington State House Republicans</title>
 			<description>News article "How Democrats want to tax you | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
@@ -541,6 +548,13 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>End of session report - Sen. June Robinson</title>
+			<description>News article "End of session report - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Wed, 07 May 2025 23:17:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/05/07/end-of-session-report-3/#:~:text=SB%205083</guid>
 		</item>
 	</channel>
 </rss>

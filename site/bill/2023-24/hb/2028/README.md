@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/07/2025 [The Washington Observer](/org/the_washington_observer/) - [A challenge for the House business chair](https://washingtonobserver.substack.com/p/a-challenge-for-the-house-business#:~:text=similar%20bill)
+
 ## Meetings
 ### Wed 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 2028 Vehicle dealers
 #### 265 👍 - Pro

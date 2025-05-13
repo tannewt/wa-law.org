@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=SB%205471)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=SB%205471)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=SB%205471)
 * 03/04/2025 [Wenatchee World](/org/wenatchee_world/) - [Housing bill to expand middle housing in Washington advances with unanimous Senate support | Empire Press | wenatcheeworld.com](https://www.wenatcheeworld.com/empirepress/housing-bill-to-expand-middle-housing-in-washington-advances-with-unanimous-senate-support/article_95653e84-f948-11ef-bd76-579294994142.html#:~:text=Senate%20Bill%205471)

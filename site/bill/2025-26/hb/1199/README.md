@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [The Washington Observer](/org/the_washington_observer/) - [Insurance commissioner aims to boost penalties for bad actors](https://washingtonobserver.substack.com/p/insurance-commissioner-aims-to-boost#:~:text=House%20Bill%201199)
+
 ## Meetings
 ### Fri 01/24 08:00 AM - Consumer Protection & Business (CPB): HB 1199 Insurance code violations
 #### 282 👍 - Pro

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/05/07/end-of-session-report-3/#:~:text=SB%205412)
+
 ## Meetings
 ### Mon 03/24 01:30 PM - Education (ED): SSB 5412 Interfund loans/schools
 #### 5 👍 - Pro

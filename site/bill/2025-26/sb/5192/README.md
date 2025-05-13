@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=SB%205192)
+* 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session ends with progress on public school funding - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/01/2025-session-ends-with-progress-on-public-school-funding/#:~:text=SB%205192)
 * 04/29/2025 [Cascade PBS](/org/cascade_pbs/) - [Canada’s Liberal Party holds onto power, Mark Carney remains PM | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/canadas-liberal-party-holds-power-mark-carney-remains-pm#:~:text=Senate%20Bill%205192)
 * 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [Join Cascade PBS & Daybreak Star Radio for a free film screening | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/join-cascade-pbs-daybreak-star-radio-free-film-screening#:~:text=Senate%20Bill%205192)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=Senate%20Bill%205192)
@@ -41,6 +43,7 @@
 * 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill advocating for stronger school funding - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/06/senate-passes-nobles-bill-advocating-for-stronger-school-funding/#:~:text=Senate%20Bill%205192)
 * 03/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate passes increased school funding bill sans accountability amendment | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f7605b20-fad1-11ef-8936-bfec441dc776.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205192)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5192)
+* 03/03/2025 [The Washington Observer](/org/the_washington_observer/) - [Senate fiscal committee advances big spending for K-12 priorities](https://washingtonobserver.substack.com/p/senate-fiscal-committee-advances#:~:text=Senate%20Bill%205192)
 * 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=SSB%205192)
 * 02/27/2025 [Cascade PBS](/org/cascade_pbs/) - [Friday deadline looms for WA’s free-school-meals-for-all bill | Cascade PBS](https://www.cascadepbs.org/briefs/2025/02/friday-deadline-looms-was-free-school-meals-all-bill#:~:text=school%20operations)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205192)

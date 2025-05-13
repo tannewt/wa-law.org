@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=HB%202015)
+* 05/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Why police accountability efforts failed again in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/05/06/why-police-accountability-efforts-failed-again-in-the-washington-legislature/#:~:text=House%20Bill%202015)
 * 05/05/2025 [The Center Square](/org/the_center_square/) - [New WA grant program incentivizes compliance with police use of force reporting | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d2109309-d14a-44be-baa0-4c4882d957b0.html#:~:text=House%20Bill%202015)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=2015)
 * 04/25/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson’s Continued Focus on Austerity Places King County in Jeopardy - The Urbanist](https://www.theurbanist.org/2025/04/25/fergusons-continued-focus-on-austerity-places-king-county-in-jeopardy/#:~:text=HB%202015)

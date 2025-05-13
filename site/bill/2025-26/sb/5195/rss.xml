@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5195/</link>
 		<description>Updates about SB 5195</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 28 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1658,6 +1658,13 @@
 			<pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-28/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>2025 Washington State Legislative Session Summary | Food Lifeline</title>
+			<description>News article "2025 Washington State Legislative Session Summary | Food Lifeline" from Food Lifeline.</description>
+			<pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SSB%205195</guid>
 		</item>
 	</channel>
 </rss>

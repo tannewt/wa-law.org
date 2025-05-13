@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 05/07/2025 [The Washington Observer](/org/the_washington_observer/) - [A challenge for the House business chair](https://washingtonobserver.substack.com/p/a-challenge-for-the-house-business#:~:text=Senate%20Bill%205611)
+
 ## Meetings
 ### Wed 03/26 08:00 AM - Local Government (LG): ESSB 5611 Land use permitting workload
 #### 118 👍 - Pro

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=HB%201943)
 * 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=HB%201943)
 * 03/05/2024 [House Democrats](/org/house_democrats/) - [Leavitt bills to support military families and veterans headed to the Governor’s desk.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/leavitt-bills-to-support-military-families-and-veterans-headed-to-the-governors-desk/#:~:text=House%20Bill%201943)
 * 02/15/2024 [House Democrats](/org/house_democrats/) - [House passes Leavitt bills to support National Guard families and veterans with disabilities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/15/house-passes-leavitt-bills-to-support-national-guard-families-and-veterans-with-disabilities/#:~:text=House%20Bill%201943)

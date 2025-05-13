@@ -15,6 +15,7 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205496)
 * 02/06/2025 [KIRO7](/org/kiro7/) - [Washington bill takes aim at corporate homebuyers, trys to level playing field for families – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-bill-takes-aim-corporate-homebuyers-trys-level-playing-field-families/VQHVUSP4UVALHDYHBRVNHSHMGU/#:~:text=Senate%20Bill%205496)
 * 02/05/2025 [MyNorthwest](/org/mynorthwest/) - [Washington SB 5496 takes aim at corporate homebuyers](https://mynorthwest.com/mynorthwest-politics/washington-bill-4/4040703#:~:text=Senate%20Bill%205496)
+* 02/05/2025 [The Washington Observer](/org/the_washington_observer/) - [Fencing off private equity from neighborhood real estate](https://washingtonobserver.substack.com/p/fencing-off-private-equity-from-neighborhood#:~:text=Senate%20Bill%205496)
 * 02/05/2025 [The Center Square](/org/the_center_square/) - [Backers, critics debate bill to stop major investors from buying up single-family homes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3a790074-e407-11ef-b124-ebd66a88bbb6.html#:~:text=Senate%20Bill%205496)
 
 ## Meetings

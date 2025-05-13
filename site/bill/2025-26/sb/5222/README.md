@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SB%205222)
 * 03/11/2025 [The Center Square](/org/the_center_square/) - [Bill capping annual rent increases at 7% passes WA House | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_406925c0-fed5-11ef-b2f8-d7394a8d0d9e.html#:~:text=companion%20legislation.)
 * 03/05/2025 [The Center Square](/org/the_center_square/) - [WATCH: Dems may not have the votes to pass bill capping rent in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1a1ffc08-f954-11ef-b16c-db744c3646e2.html#:~:text=Senate%20Bill%205222)
 * 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Rent cap bill moves ahead in WA Senate • Washington State Standard](https://washingtonstatestandard.com/briefs/rent-cap-bill-moves-ahead-in-wa-senate/#:~:text=Senate%20Bill%205222)

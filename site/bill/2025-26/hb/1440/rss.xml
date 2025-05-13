@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1440/</link>
 		<description>Updates about HB 1440</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 26 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 May 2025 20:34:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -244,6 +244,13 @@
 			<pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-26/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>The end! - Sen. Bob Hasegawa</title>
+			<description>News article "The end! - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Fri, 09 May 2025 20:34:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=HB%201440</guid>
 		</item>
 	</channel>
 </rss>

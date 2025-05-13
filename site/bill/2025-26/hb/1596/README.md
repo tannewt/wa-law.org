@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington to rein in fast drivers with speed limiters • Washington State Standard](https://washingtonstatestandard.com/2025/05/12/washington-to-rein-in-fast-drivers-with-speed-limiters/#:~:text=House%20Bill%201596)
 * 04/23/2025 [FOX13](/org/fox13/) - [WA Gov. Ferguson to consider bill on ‘reckless speeding’ | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-governor-bill-reckless-speeding#:~:text=House%20Bill%201596)
 * 04/21/2025 [House Democrats](/org/house_democrats/) - [Rep. Leavitt’s BEAM Act Passes Senate and House, Advances to Governor’s Office for Signature – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/21/rep-leavitts-beam-act-passes-senate-and-house-advances-to-governors-office-for-signature/#:~:text=HB%201596)
 * 04/15/2025 [FOX13](/org/fox13/) - [WA Senate passes bill to slow down habitual speeders | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-senate-bill-speed-limit#:~:text=House%20Bill%201596)

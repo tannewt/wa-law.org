@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5128/</link>
 		<description>Updates about SB 5128</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 04 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 May 2025 22:01:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,13 @@
 			<pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-04/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>End of session report - Sen. Claire Wilson</title>
+			<description>News article "End of session report - Sen. Claire Wilson" from Senate Democrats.</description>
+			<pubDate>Wed, 07 May 2025 22:01:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5128</guid>
 		</item>
 	</channel>
 </rss>

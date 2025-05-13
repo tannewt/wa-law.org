@@ -9,6 +9,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/12/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Hasegawa bill protecting immigrant workers’ rights - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/12/governor-signs-hasegawa-bill-protecting-immigrant-workers-rights/#:~:text=Senate%20Bill%205104)
+* 05/09/2025 [Senate Democrats](/org/senate_democrats/) - [The end! - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=SB%205104)
 * 04/15/2025 [House Democrats](/org/house_democrats/) - [Protecting the Dignity of Immigrants Amidst Federal Raids & Detention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/protecting-the-dignity-of-immigrants-amidst-federal-raids-detention/#:~:text=SB%205104)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Big decisions - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/04/11/big-decisions/#:~:text=5104)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall TOMORROW and progress - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/21/town-hall-tomorrow-and-progress/#:~:text=5104)

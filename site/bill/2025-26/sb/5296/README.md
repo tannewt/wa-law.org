@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 05/12/2025 [Washington State Standard](/org/washington_state_standard/) - [No fixes on horizon for crowding crisis in WA’s youth prisons • Washington State Standard](https://washingtonstatestandard.com/2025/05/12/no-fixes-on-horizon-for-crowding-crisis-in-was-youth-prisons/#:~:text=Senate%20Bill%205296)
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5296)
 * 03/19/2025 [The Center Square](/org/the_center_square/) - [WATCH: Bills aim to address Green Hill overcrowding with different approaches | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4c70ef2c-c21d-4036-ab50-1a9840fe9a72.html#:~:text=Senate%20Bill%205296)
 * 03/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Opening of new Washington juvenile detention center is delayed • Washington State Standard](https://washingtonstatestandard.com/2025/03/17/opening-of-new-washington-juvenile-detention-center-is-delayed/#:~:text=Senate%20Bill%205296)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205296)

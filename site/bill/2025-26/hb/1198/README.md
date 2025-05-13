@@ -211,7 +211,7 @@ Testifying:
 * Cricket Farr - [Full Life Care](/org/full_life_care/)
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
 * 💵Scott Nelson - Office of the Washington State Auditor
-* Patricia Castaneda - Manzanita House
+* Patricia Castaneda - [Manzanita House](/org/manzanita_house/)
 * 💵Nancyrose Houston - [New Americans Alliance for Policy and Research](/org/new_americans_alliance_for_policy_and_research/)
 * Sayed Mohammad Faqiri - [New Americans Alliance for Policy and Research](/org/new_americans_alliance_for_policy_and_research/)
 * Anna Bondarenko

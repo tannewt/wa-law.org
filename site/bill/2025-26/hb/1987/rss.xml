@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1987/</link>
 		<description>Updates about HB 1987</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 12:00:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -94,6 +94,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Aaron/Czyzewski/2025-02-21 12:00:25</guid>
+		</item>
+		<item>
+			<title>2025 Washington State Legislative Session Summary | Food Lifeline</title>
+			<description>News article "2025 Washington State Legislative Session Summary | Food Lifeline" from Food Lifeline.</description>
+			<pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=HB%201987</guid>
 		</item>
 	</channel>
 </rss>

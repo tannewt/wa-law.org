@@ -8,9 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/05/2025 [The Washington Observer](/org/the_washington_observer/) - [How an accountability bill for bad actors in the insurance industry died](https://washingtonobserver.substack.com/p/how-an-accountability-bill-for-bad#:~:text=Senate%20Bill%205331)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Post house of origin cutoff update! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5331)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205331)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205331)
+* 02/03/2025 [The Washington Observer](/org/the_washington_observer/) - [Insurance commissioner aims to boost penalties for bad actors](https://washingtonobserver.substack.com/p/insurance-commissioner-aims-to-boost#:~:text=Senate%20Bill%205331)
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Consumer Protection & Business (CPB): SSB 5331 Insurance code violations

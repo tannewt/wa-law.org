@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=HB%201875)
 * 04/15/2025 [House Democrats](/org/house_democrats/) - [Paid Sick Leave Expansion for Immigration Proceedings Passes Senate, Heads to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/paid-sick-leave-expansion-for-immigration-proceedings-passes-senate-heads-to-governor/#:~:text=House%20Bill%201875)
 * 03/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Immigration proceedings would become eligible use for sick leave under Washington bill • Washington State Standard](https://washingtonstatestandard.com/2025/03/19/immigration-proceedings-would-become-eligible-use-of-sick-leave-under-washington-bill/#:~:text=House%20Bill%201875)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers advance bill allowing paid sick leave for immigration proceedings | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7388cffc-fb9f-11ef-95f6-6725474250a6.html#:~:text=Engrossed%20Substitute%20House%20Bill%201875)

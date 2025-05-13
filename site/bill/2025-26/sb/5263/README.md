@@ -11,6 +11,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=SB%205263)
+* 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session ends with progress on public school funding - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/01/2025-session-ends-with-progress-on-public-school-funding/#:~:text=SB%205263)
 * 04/29/2025 [Cascade PBS](/org/cascade_pbs/) - [Canada’s Liberal Party holds onto power, Mark Carney remains PM | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/canadas-liberal-party-holds-power-mark-carney-remains-pm#:~:text=Senate%20Bill%205263)
 * 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [Join Cascade PBS & Daybreak Star Radio for a free film screening | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/join-cascade-pbs-daybreak-star-radio-free-film-screening#:~:text=Senate%20Bill%205263)
 * 04/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Permits to purchase guns may soon be required in Washington | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/permits-purchase-guns-may-soon-be-required-washington#:~:text=Senate%20Bill%205263)
@@ -37,6 +39,7 @@
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205263)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=2SSB%205263)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5263)
+* 03/03/2025 [The Washington Observer](/org/the_washington_observer/) - [Senate fiscal committee advances big spending for K-12 priorities](https://washingtonobserver.substack.com/p/senate-fiscal-committee-advances#:~:text=Senate%20Bill%205263)
 * 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=2SSB%205263)
 * 02/26/2025 [FOX13](/org/fox13/) - [What’s moving along, and what’s not, in the WA Legislature? | FOX 13 Seattle](https://www.fox13seattle.com/news/whats-moving-along-whats-not-wa-legislature#:~:text=special%20education)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=Senate%20Bill%205263)

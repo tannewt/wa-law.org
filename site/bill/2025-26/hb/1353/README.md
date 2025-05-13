@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/09/2025 [The Center Square](/org/the_center_square/) - [WATCH: Ferguson signs bill to further incentivize ADU construction in Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_87db07da-e39f-4794-947a-47acb3cea782.html#:~:text=Substitute%20House%20Bill%201353)
 * 04/07/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Ramel Bill to Speed Up ADU Construction – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/07/governor-signs-ramel-bill-to-speed-up-adu-construction/#:~:text=Substitute%20House%20Bill%201353)
 * 03/09/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 9: House of origin cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/09/this-week-in-the-senate-week-9-house-of-origin-cutoff-arrives/#:~:text=HB%201353)
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [Ramel Bill Aims to Speed Up ADU Construction – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/ramel-bill-aims-to-speed-up-adu-construction/#:~:text=House%20Bill%201353)

@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Washington State Standard](/org/washington_state_standard/) - [WA governor pressed to veto $1.8B piece of Democrats’ tax bill • Washington State Standard](https://washingtonstatestandard.com/2025/05/07/wa-governor-pressed-to-veto-a-1-8b-piece-of-democrats-tax-bill/#:~:text=House%20Bill%202081)
 * 05/01/2025 [The Burner](/org/the_burner/) - [Sales Tax Accounts For A Quarter Of Every Dollar In New State Revenue In Washington](https://www.theburnerseattle.com/post/sales-tax-accounts-for-a-quarter-of-every-dollar-in-new-state-revenue-in-washington#:~:text=House%20Bill%202081)
 * 04/28/2025 [Washington State Standard](/org/washington_state_standard/) - [Five tax bills lawmakers passed to underpin Washington's next state budget • Washington State Standard](https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=House%20Bill%202081)
 * 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=on%20some%20businesses)

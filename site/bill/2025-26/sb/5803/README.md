@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/04/2025 [The Washington Observer](/org/the_washington_observer/) - [Ban on flavored vapes & cigarettes returns, with added taxes](https://washingtonobserver.substack.com/p/ban-on-flavored-vapes-and-cigarettes#:~:text=Senate%20Bill%205803)
+
 ## Meetings

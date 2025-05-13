@@ -10,6 +10,10 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist](https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=Senate%20Bill%205184)
+* 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=SB%205184)
+* 05/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Cap on rent increases across Washington is signed into law • Washington State Standard](https://washingtonstatestandard.com/2025/05/07/cap-on-rent-increases-across-washington-is-signed-into-law/#:~:text=Senate%20Bill%205184)
+* 05/07/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs rent stabilization bill into law | FOX 13 Seattle](https://www.fox13seattle.com/news/governor-signs-rent-stabilization-bill#:~:text=parking%20space%20requirements)
 * 05/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle writer Tessa Hulls wins Pulitzer Prize for best memoir | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-writer-tessa-hulls-wins-pulitzer-prize-best-memoir#:~:text=Senate%20Bill%205184)
 * 05/01/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle Children’s, Virginia Mason partner to expand in Kitsap | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-childrens-virginia-mason-partner-expand-kitsap#:~:text=Senate%20Bill%205184)
 * 04/29/2025 [Cascade PBS](/org/cascade_pbs/) - [Canada’s Liberal Party holds onto power, Mark Carney remains PM | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/canadas-liberal-party-holds-power-mark-carney-remains-pm#:~:text=Senate%20Bill%205184)

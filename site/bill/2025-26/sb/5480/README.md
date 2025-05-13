@@ -11,6 +11,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/07/2025 [Cascade PBS](/org/cascade_pbs/) - [‘Especially consequential’: Ferguson signs rent cap bill into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/especially-consequential-ferguson-signs-rent-cap-bill-law#:~:text=Senate%20Bill%205480)
+* 05/07/2025 [Cascade PBS](/org/cascade_pbs/) - [Sharing origin stories at Cascade PBS/Daybreak Star Radio event | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/sharing-origin-stories-cascade-pbsdaybreak-star-radio-event#:~:text=Senate%20Bill%205480)
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=SB%205480)
+* 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=SB%205840)
 * 05/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle writer Tessa Hulls wins Pulitzer Prize for best memoir | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-writer-tessa-hulls-wins-pulitzer-prize-best-memoir#:~:text=Senate%20Bill%205480)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5480:)
 * 05/01/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle Children’s, Virginia Mason partner to expand in Kitsap | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/seattle-childrens-virginia-mason-partner-expand-kitsap#:~:text=Senate%20Bill%205480)

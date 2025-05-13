@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=1296)
+* 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session ends with progress on public school funding - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/01/2025-session-ends-with-progress-on-public-school-funding/#:~:text=HB%201296)
 * 04/28/2025 [The Center Square](/org/the_center_square/) - [Critics worry newly-passed rent cap bill could worsen WA’s housing crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c9c5452f-0c05-465c-a97d-cdb7ee36e919.html#:~:text=House%20Bill%201296)
 * 04/25/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA lawmaker banned from House floor for remainder of session after outburst | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_39cb75c7-ddf2-4eae-8aea-4a3f1006ee0b.html#:~:text=House%20Bill%201296)
 * 04/25/2025 [KUOW](/org/kuow/) - [KUOW - Changes to WA 'parental rights' law heads to Gov. Ferguson after tense final vote](https://www.kuow.org/stories/changes-to-wa-parents-rights-law-headed-to-governor-after-tense-final-vote#:~:text=House%20Bill%201296)

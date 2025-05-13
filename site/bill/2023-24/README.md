@@ -48,7 +48,7 @@
 * [HB 1368](hb/1368) - Zero emission school buses 22📰 1789👍 1408👎 14❓ - C 345 L 24
 * [SB 6196](sb/6196) - Basic income pilot program 5📰 1441👍 1689👎 3❓ - SHuman Services
 * [HB 1678](hb/1678) - Dental therapists 8📰 1471👍 1619👎 5❓ - C 460 L 23
-* [SB 5486](sb/5486) - Wealth/property tax 25📰 2642👍 433👎 5❓ - SWays & Means
+* [SB 5486](sb/5486) - Wealth/property tax 26📰 2642👍 433👎 5❓ - SWays & Means
 * [HB 1474](hb/1474) - Covenant homeownership prg. 29📰 2403👍 642👎 8❓ - C 340 L 23
 * [HB 1039](hb/1039) - Intramuscular needling 1845👍 1168👎 22❓ - C 198 L 23
 * [SB 5536](sb/5536) - Controlled substances 71📰 365👍 2530👎 81❓ - C 1 L 23 E1
@@ -123,7 +123,7 @@
 * [HB 1048](hb/1048) - Voting rights act 18📰 609👍 884👎 13❓ - C 56 L 23
 * [HB 2455](hb/2455) - Competing ballot measures 149👍 1353👎 2❓ - HRules X
 * [HB 1281](hb/1281) - Death with dignity act 986👍 457👎 1❓ - HRules X
-* [HB 1479](hb/1479) - Student restraint, isolation 20📰 1154👍 194👎 88❓ - HRules 3C
+* [HB 1479](hb/1479) - Student restraint, isolation 21📰 1154👍 194👎 88❓ - HRules 3C
 * [SB 6121](sb/6121) - Ag. and forestry biomass 726👍 695👎 4❓ - C 280 L 24
 * [SB 6278](sb/6278) - Organic agriculture 1412👍 2👎 7❓ - SRules 3
 * [SB 5024](sb/5024) - K-12 education/parent rights 3📰 983👍 433👎 3❓ - SEL/K-12
@@ -298,7 +298,7 @@
 * [HB 1608](hb/1608) - Anaphylaxis meds./schools 3📰 629👍 0👎 2❓ - C 81 L 24
 * [HB 1897](hb/1897) - Charter schools/enrichment 1📰 575👍 55👎 1❓ - HApprops
 * [HB 2131](hb/2131) - Thermal energy networks 5📰 621👍 2👎 5❓ - C 348 L 24
-* [HB 2028](hb/2028) - Concerning manufacturer and new dealer franchise agreements. 265👍 359👎 3❓ - HRules X
+* [HB 2028](hb/2028) - Concerning manufacturer and new dealer franchise agreements. 1📰 265👍 359👎 3❓ - HRules X
 * [SB 5372](sb/5372) - DNR land 2📰 600👍 11👎 13❓ - SWays & Means
 * [HB 2013](hb/2013) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 613👍 2👎 0❓ - HApprops
 * [SB 5169](sb/5169) - Medicare/health care plans 611👍 1👎 3❓ - SWays & Means
@@ -340,7 +340,7 @@
 * [SB 6229](sb/6229) - Green transp. grants/match 114👍 439👎 0❓ - C 104 L 24
 * [HB 2166](hb/2166) - POLST access 551👍 0👎 1❓ - HRules 3C
 * [HB 2041](hb/2041) - Physician assistant practice 2📰 539👍 1👎 11❓ - C 62 L 24
-* [HB 2071](hb/2071) - Residential housing 9📰 443👍 98👎 10❓ - C 183 L 24
+* [HB 2071](hb/2071) - Residential housing 10📰 443👍 98👎 10❓ - C 183 L 24
 * [HB 1310](hb/1310) - Physician assistant collab. 541👍 5👎 4❓ - HHC/Wellness
 * [HB 1095](hb/1095) - Wage replacement 4📰 512👍 23👎 12❓ - HApprops
 * [HB 1934](hb/1934) - AI task force 6📰 72👍 461👎 14❓ - HRules X
@@ -747,7 +747,7 @@
 * [SB 5096](sb/5096) - Employee ownership 140👍 0👎 2❓ - C 392 L 23
 * [HB 1622](hb/1622) - Students/homelessness 5📰 141👍 0👎 0❓ - C 386 L 23
 * [HB 2218](hb/2218) - Extended foster care 3📰 139👍 1👎 1❓ - HHuman Svc, You
-* [SB 5180](sb/5180) - Teacher mobility compact 8📰 134👍 3👎 4❓ - C 317 L 24
+* [SB 5180](sb/5180) - Teacher mobility compact 9📰 134👍 3👎 4❓ - C 317 L 24
 * [SB 5424](sb/5424) - Flexible work/peace officers 1📰 67👍 69👎 5❓ - C 319 L 24
 * [HB 1458](hb/1458) - Apprenticeship programs/UI 1📰 117👍 22👎 1❓ - C 30 L 23
 * [HB 1860](hb/1860) - Establishing stay-to-play requirements.  41👍 99👎 0❓ - HConsPro&Bus
@@ -1164,7 +1164,7 @@
 * [SB 5289](sb/5289) - Impact fees/law enforcement 25👍 24👎 0❓ - SLoc Gov, Land
 * [SB 5561](sb/5561) - Law enf. community grants 4📰 47👍 1👎 1❓ - C 189 L 23
 * [HB 1076](hb/1076) - Salmon voluntary stewardship 9👍 33👎 6❓ - HEnv & Energy
-* [HB 1943](hb/1943) - National guard ed. grants 4📰 46👍 0👎 2❓ - C 178 L 24
+* [HB 1943](hb/1943) - National guard ed. grants 5📰 46👍 0👎 2❓ - C 178 L 24
 * [HB 2025](hb/2025) - State work-study program 1📰 48👍 0👎 0❓ - C 182 L 24
 * [HB 2429](hb/2429) - Energy facility eval process 1📰 33👍 12👎 3❓ - HEnv & Energy
 * [SB 5013](sb/5013) - Wine/alcohol tax exemption 44👍 4👎 0❓ - SWays & Means

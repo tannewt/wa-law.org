@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 04/07/2025 [FOX13](/org/fox13/) - [Effort to ban flavored tobacco products in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/flavored-tobacco-products-wa-legislature#:~:text=House%20Bill%202068)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202068)
+* 04/04/2025 [The Washington Observer](/org/the_washington_observer/) - [Ban on flavored vapes & cigarettes returns, with added taxes](https://washingtonobserver.substack.com/p/ban-on-flavored-vapes-and-cigarettes#:~:text=House%20Bill%202068)
 * 04/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Proposed ban on flavored tobacco products is revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/01/proposed-ban-on-flavored-vapes-revived-in-wa-legislature/#:~:text=House%20Bill%202068)
 
 ## Meetings

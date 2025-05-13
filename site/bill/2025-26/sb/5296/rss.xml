@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5296/</link>
 		<description>Updates about SB 5296</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 May 2025 11:01:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -557,6 +557,20 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/By resolution, returned to Senate Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>End of session report - Sen. Claire Wilson</title>
+			<description>News article "End of session report - Sen. Claire Wilson" from Senate Democrats.</description>
+			<pubDate>Wed, 07 May 2025 22:01:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5296</guid>
+		</item>
+		<item>
+			<title>No fixes on horizon for crowding crisis in WA’s youth prisons • Washington State Standard</title>
+			<description>News article "No fixes on horizon for crowding crisis in WA’s youth prisons • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 12 May 2025 11:01:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/05/12/no-fixes-on-horizon-for-crowding-crisis-in-was-youth-prisons/#:~:text=Senate%20Bill%205296</guid>
 		</item>
 	</channel>
 </rss>

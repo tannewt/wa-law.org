@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/05/07/end-of-session-report-3/#:~:text=HB%201355)
+
 ## Meetings
 ### Thu 01/30 01:30 PM - Finance (FIN): HB 1355 Tax compacts/capital invest.
 #### 17 👍 - Pro

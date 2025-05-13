@@ -13,6 +13,7 @@
 * [Engrossed Fourth Substitute](S4.E/)
 
 ## 📰 Articles
+* 01/06/2025 [The Washington Observer](/org/the_washington_observer/) - [Progress on student isolation & restraint](https://washingtonobserver.substack.com/p/progress-on-student-isolation-and#:~:text=bipartisan%20solution)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%201479)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=E2SHB%201479)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=E2SHB%201479)

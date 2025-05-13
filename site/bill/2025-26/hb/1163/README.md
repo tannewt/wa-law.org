@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=HB%201163)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=‘permit%20to%20purchase’%20gun%20safety%20law)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=‘permit%20to%20purchase’%20gun%20safety%20law)
 * 04/23/2025 [Axios](/org/axios/) - [Washington state lawmakers pass gun permit bill - Axios Seattle](https://www.axios.com/local/seattle/2025/04/23/washington-gun-permit-bill#:~:text=House%20Bill%201163)

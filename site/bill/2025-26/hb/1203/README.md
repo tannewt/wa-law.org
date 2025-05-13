@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/04/2025 [The Washington Observer](/org/the_washington_observer/) - [Ban on flavored vapes & cigarettes returns, with added taxes](https://washingtonobserver.substack.com/p/ban-on-flavored-vapes-and-cigarettes#:~:text=previous%20version)
 * 04/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Proposed ban on flavored tobacco products is revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/01/proposed-ban-on-flavored-vapes-revived-in-wa-legislature/#:~:text=House%20Bill%201203)
 * 02/28/2025 [KING5](/org/king5/) - [In Session: Free lunches, flavored vape ban among non-advancing bills | king5.com](https://www.king5.com/article/news/politics/in-session/free-lunches-flavored-vape-ban-among-non-advancing-bills-washington/281-f2b5c9e0-3b7d-47bb-b1ca-3b7b8aa112f3#:~:text=House%20Bill%201203)
 * 02/20/2025 [Axios](/org/axios/) - [Washington Legislature could ban flavored vapes and menthol cigarettes - Axios Seattle](https://www.axios.com/local/seattle/2025/02/20/vaping-flavors-ban-washington-state-menthol#:~:text=House%20Bill%201203)

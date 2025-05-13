@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 04/18/2025 [The Washington Observer](/org/the_washington_observer/) - [Washington moves toward a new Medicaid money shuffle](https://washingtonobserver.substack.com/p/washington-adopts-a-new-medicaid#:~:text=House%20Bill%201392)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%201392%20|%20Another%20insurance%20premiums%20increase)
 * 03/28/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Milton Friedman was right | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_426d652b-4f4d-444d-a2cc-64b8c3c5c780.html#:~:text=Substitute%20House%20Bill%201392)
 

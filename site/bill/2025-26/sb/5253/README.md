@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2025 session! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/05/02/thats-a-wrap-on-the-2025-session/#:~:text=5253)
+* 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session ends with progress on public school funding - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/01/2025-session-ends-with-progress-on-public-school-funding/#:~:text=SB%205253)
 * 04/03/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers race to fix illegal special ed cap before April 27 deadline | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_14e4aa6a-fe85-4a57-a61b-2c8c6b52c268.html#:~:text=Senate%20Bill%205253)
 * 04/01/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in education is my top priority  - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/04/01/funding-education-is-my-top-priority/#:~:text=5253:)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5253)

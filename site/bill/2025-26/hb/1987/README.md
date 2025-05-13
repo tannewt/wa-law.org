@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=HB%201987)
+
 ## Meetings
 ### Fri 02/21 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1987 Food security strategy
 #### 87 👍 - Pro

@@ -11,10 +11,12 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/05/07/end-of-session-report-3/#:~:text=SB%205083)
 * 04/09/2025 [Washington State Standard](/org/washington_state_standard/) - [Hospitals warn Legislature’s budget plans would deal them a financial hit • Washington State Standard](https://washingtonstatestandard.com/2025/04/09/hospitals-warn-legislatures-budget-plans-would-deal-them-a-financial-hit/#:~:text=Senate%20Bill%205083)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205083)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205083)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=Senate%20Bill%205083%20|%20Insurance%20premiums)
+* 03/28/2025 [The Washington Observer](/org/the_washington_observer/) - [Hospitals warn Senate Democrats’ recommended cuts would gut their bottom line](https://washingtonobserver.substack.com/p/hospitals-warn-senate-democrats-recommended#:~:text=Senate%20Bill%205083)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Robinson bill to address health care costs, access - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/03/11/senate-passes-robinson-bill-to-address-health-care-costs-access/#:~:text=Senate%20Bill%205083)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205083)
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205083)
