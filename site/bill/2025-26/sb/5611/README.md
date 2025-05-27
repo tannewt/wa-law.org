@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/07/2025 [The Washington Observer](/org/the_washington_observer/) - [A challenge for the House business chair](https://washingtonobserver.substack.com/p/a-challenge-for-the-house-business#:~:text=Senate%20Bill%205611)

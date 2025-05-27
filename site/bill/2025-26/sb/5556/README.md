@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [In the Final Stretch - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/04/10/in-the-final-stretch/#:~:text=Senate%20Bill%205556)

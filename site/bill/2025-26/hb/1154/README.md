@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/06/2025 [The Center Square](/org/the_center_square/) - [House Dems move to grant new authority to Ecology Dept. amid Yakima trash fires | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_05fb14d0-fadd-11ef-b984-67b70fff5b2f.html#:~:text=Second%20Substitute%20House%20Bill%201154)

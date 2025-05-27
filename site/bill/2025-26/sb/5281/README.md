@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [Some under-the-radar issues in Olympia - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/04/18/some-under-the-radar-issues-in-olympia/#:~:text=SB%205281)

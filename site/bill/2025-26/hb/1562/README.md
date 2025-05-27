@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/15/2025 [FOX13](/org/fox13/) - [WA law requires diaper changing stations in more restrooms | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-law-diaper-changing-tables-all-restrooms#:~:text=House%20Bill%201562)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201562)
 
 ## Meetings

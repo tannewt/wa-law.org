@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=paid%20sick%20time%20for%20immigration%20proceedings)
+* 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=paid%20sick%20time%20for%20immigration%20proceedings)
+* 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=paid%20sick%20time%20for%20immigration%20proceedings)
 * 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=HB%201875)
 * 04/15/2025 [House Democrats](/org/house_democrats/) - [Paid Sick Leave Expansion for Immigration Proceedings Passes Senate, Heads to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/paid-sick-leave-expansion-for-immigration-proceedings-passes-senate-heads-to-governor/#:~:text=House%20Bill%201875)
 * 03/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Immigration proceedings would become eligible use for sick leave under Washington bill • Washington State Standard](https://washingtonstatestandard.com/2025/03/19/immigration-proceedings-would-become-eligible-use-of-sick-leave-under-washington-bill/#:~:text=House%20Bill%201875)

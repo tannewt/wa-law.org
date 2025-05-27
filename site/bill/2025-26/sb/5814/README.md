@@ -8,8 +8,13 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=Senate%20Bill%205814)
+* 05/20/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs WA state operating budget | FOX 13 Seattle](https://www.fox13seattle.com/news/gov-ferguson-signs-state-budget#:~:text=expanded%20sales%20taxes)
+* 05/19/2025 [The Washington Observer](/org/the_washington_observer/) - [A somewhat unusual veto request](https://washingtonobserver.substack.com/p/a-somewhat-unusual-veto-request#:~:text=Senate%20Bill%205814)
+* 05/16/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard](https://washingtonstatestandard.com/2025/05/16/tesla-netflix-philip-morris-among-those-pushing-wa-governor-for-tax-vetoes/#:~:text=Senate%20Bill%205814)
 * 05/01/2025 [The Burner](/org/the_burner/) - [Sales Tax Accounts For A Quarter Of Every Dollar In New State Revenue In Washington](https://www.theburnerseattle.com/post/sales-tax-accounts-for-a-quarter-of-every-dollar-in-new-state-revenue-in-washington#:~:text=Senate%20Bill%205814)
 * 04/28/2025 [Washington State Standard](/org/washington_state_standard/) - [Five tax bills lawmakers passed to underpin Washington's next state budget • Washington State Standard](https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=Senate%20Bill%205814)
 * 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=voted%20to%20expand)

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington Legislature approves hiking Discover Pass price to $45 • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-legislature-approves-hiking-discover-pass-price-to-45/#:~:text=Senate%20Bill%205390)

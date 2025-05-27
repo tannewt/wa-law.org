@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [The Washington Observer](/org/the_washington_observer/) - [Ferguson tacks left and embraces the Legislature](https://washingtonobserver.substack.com/p/ferguson-tacks-left-and-embraces#:~:text=Senate%20Bill%205009)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SSB%205009)
 
 ## Meetings

@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/13/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Wilson bill to improve re-entry for formerly incarcerated people and reduce recidivism - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/13/governor-signs-wilson-bill-to-improve-re-entry-for-formerly-incarcerated-people-and-reduce-recidivism/#:~:text=5029)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5029)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205029)
 

@@ -8,8 +8,13 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [The Center Square](/org/the_center_square/) - [Critics of newly signed $78 billion WA operating budget predict dire fallout | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_50a16e22-12ef-4450-acd4-5a81f0e01a93.html#:~:text=Engrossed%20Substitute%20House%20Bill%202081)
+* 05/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=House%20Bill%202081)
+* 05/20/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs WA state operating budget | FOX 13 Seattle](https://www.fox13seattle.com/news/gov-ferguson-signs-state-budget#:~:text=taxes%20on%20businesses)
+* 05/16/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard](https://washingtonstatestandard.com/2025/05/16/tesla-netflix-philip-morris-among-those-pushing-wa-governor-for-tax-vetoes/#:~:text=2081)
 * 05/07/2025 [Washington State Standard](/org/washington_state_standard/) - [WA governor pressed to veto $1.8B piece of Democrats’ tax bill • Washington State Standard](https://washingtonstatestandard.com/2025/05/07/wa-governor-pressed-to-veto-a-1-8b-piece-of-democrats-tax-bill/#:~:text=House%20Bill%202081)
 * 05/01/2025 [The Burner](/org/the_burner/) - [Sales Tax Accounts For A Quarter Of Every Dollar In New State Revenue In Washington](https://www.theburnerseattle.com/post/sales-tax-accounts-for-a-quarter-of-every-dollar-in-new-state-revenue-in-washington#:~:text=House%20Bill%202081)
 * 04/28/2025 [Washington State Standard](/org/washington_state_standard/) - [Five tax bills lawmakers passed to underpin Washington's next state budget • Washington State Standard](https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=House%20Bill%202081)

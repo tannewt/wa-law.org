@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/16/2025 [House Democrats](/org/house_democrats/) - [Timmons bill strengthening local public transportation policy headed to Governors’ desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/16/timmons-bill-strengthening-local-public-transportation-policy-headed-to-governors-desk/#:~:text=House%20Bill%201418)

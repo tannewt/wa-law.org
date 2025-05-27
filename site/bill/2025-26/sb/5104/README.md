@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=Senate%20Bill%205104)
+* 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=Senate%20Bill%205104)
+* 05/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Trio of immigrant rights laws signed by WA governor • Washington State Standard](https://washingtonstatestandard.com/2025/05/14/trio-of-immigrant-rights-laws-signed-by-wa-governor/#:~:text=Senate%20Bill%205104)
+* 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=Senate%20Bill%205104)
 * 05/12/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Hasegawa bill protecting immigrant workers’ rights - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/12/governor-signs-hasegawa-bill-protecting-immigrant-workers-rights/#:~:text=Senate%20Bill%205104)
 * 05/09/2025 [Senate Democrats](/org/senate_democrats/) - [The end! - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=SB%205104)
 * 04/15/2025 [House Democrats](/org/house_democrats/) - [Protecting the Dignity of Immigrants Amidst Federal Raids & Detention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/protecting-the-dignity-of-immigrants-amidst-federal-raids-detention/#:~:text=SB%205104)

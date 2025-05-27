@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 03/26 01:30 PM - Consumer Protection & Business (CPB): SSB 5419 Reports of fire losses

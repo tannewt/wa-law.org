@@ -9,8 +9,13 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [The Washington Observer](/org/the_washington_observer/) - [Ferguson tacks left and embraces the Legislature](https://washingtonobserver.substack.com/p/ferguson-tacks-left-and-embraces#:~:text=House%20Bill%201163)
+* 05/21/2025 [FOX13](/org/fox13/) - [New WA law requires state permit to buy guns | FOX 13 Seattle](https://www.fox13seattle.com/news/new-washington-gun-permit-law#:~:text=House%20Bill%201163)
+* 05/21/2025 [MyNorthwest](/org/mynorthwest/) - [Gun permit bill signed into law by Gov. Ferguson](https://mynorthwest.com/mynorthwest-politics/gun-permit-bill-2/4090388#:~:text=E2SHB%201163)
+* 05/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Washingtonians will need state permit to buy guns under new law • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/washingtonians-will-need-state-permit-to-buy-guns-under-new-law/#:~:text=House%20Bill%201163)
 * 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=HB%201163)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=‘permit%20to%20purchase’%20gun%20safety%20law)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/the-legislature-has-adjourned/#:~:text=‘permit%20to%20purchase’%20gun%20safety%20law)

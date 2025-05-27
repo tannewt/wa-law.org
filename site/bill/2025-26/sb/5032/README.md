@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/20/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Wilson bill to help investigate, resolve complaints at juvenile rehabilitation facilities - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/20/governor-signs-wilson-bill-to-help-investigate-resolve-complaints-at-juvenile-rehabilitation-facilities/#:~:text=5032%20,)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5032)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Wilson bills to reform juvenile rehabilitation systems - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/03/10/senate-passes-wilson-bills-to-reform-juvenile-rehabilitation-systems/#:~:text=5032)
 * 02/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard](https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=Senate%20Bill%205032)

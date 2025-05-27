@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5813/</link>
 		<description>Updates about SB 5813</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 May 2025 01:13:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -643,6 +643,27 @@
 			<pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SB%205813</guid>
+		</item>
+		<item>
+			<title>Effective date 5/20/2025.</title>
+			<description>Effective date 5/20/2025.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Effective date 5/20/2025.</guid>
+		</item>
+		<item>
+			<title>Gov. Ferguson signs WA state operating budget | FOX 13 Seattle</title>
+			<description>News article "Gov. Ferguson signs WA state operating budget | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Tue, 20 May 2025 21:26:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/gov-ferguson-signs-state-budget#:~:text=capital%20gains%20and%20estate%20taxes</guid>
+		</item>
+		<item>
+			<title>Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard</title>
+			<description>News article "Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 21 May 2025 01:13:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=Senate%20Bill%205813</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5029/</link>
 		<description>Updates about SB 5029</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 May 2025 22:01:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 May 2025 15:38:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -195,6 +195,20 @@
 			<pubDate>Wed, 07 May 2025 22:01:32 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5029</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-12/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signs Wilson bill to improve re-entry for formerly incarcerated people and reduce recidivism - Sen. Claire Wilson</title>
+			<description>News article "Governor signs Wilson bill to improve re-entry for formerly incarcerated people and reduce recidivism - Sen. Claire Wilson" from Senate Democrats.</description>
+			<pubDate>Tue, 13 May 2025 15:38:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2025/05/13/governor-signs-wilson-bill-to-improve-re-entry-for-formerly-incarcerated-people-and-reduce-recidivism/#:~:text=5029</guid>
 		</item>
 	</channel>
 </rss>

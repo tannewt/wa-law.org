@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=Senate%20Bill%205714)
+* 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=Senate%20Bill%205714)
+* 05/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Trio of immigrant rights laws signed by WA governor • Washington State Standard](https://washingtonstatestandard.com/2025/05/14/trio-of-immigrant-rights-laws-signed-by-wa-governor/#:~:text=Senate%20Bill%205714)
+* 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=Senate%20Bill%205714)
 * 03/14/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill seeks to prevent bail bond agents from enforcing immigration law • Washington State Standard](https://washingtonstatestandard.com/2025/03/14/washington-bill-seeks-to-prevent-bail-bond-agents-from-enforcing-immigration-law/#:~:text=Senate%20Bill%205714)
 * 02/24/2025 [MyNorthwest](/org/mynorthwest/) - [Lawmakers fall for fake news to restrict bail bond agents](https://mynorthwest.com/ktth/ktth-opinion/bail-bond-recovery-agents/4050258#:~:text=Senate%20Bill%205714)
 * 02/17/2025 [KIRO7](/org/kiro7/) - [Washington State Lawmakers want to crack down on bounty hunters acting as immigration agents – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-state-lawmakers-want-crack-down-bounty-hunters-acting-immigration-agents/DOFVYCZG4VEQPH7YINCE35KZGI/#:~:text=Senate%20Bill%205714)

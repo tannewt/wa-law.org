@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/28/2025 [The Center Square](/org/the_center_square/) - [WA Legislature passes Rainier School closure bill that includes new transition plans | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_963049b7-b44c-47f4-8c5b-f5761f0da729.html#:~:text=Senate%20Bill%205393)

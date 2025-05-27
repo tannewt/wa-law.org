@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/05/2025 [Senate Democrats](/org/senate_democrats/) - [End of session - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/05/04/3049/#:~:text=SB%205651)

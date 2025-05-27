@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
+## 📰 Articles
+* 05/23/2025 [The Center Square](/org/the_center_square/) - [Ferguson vetoes bill to study cost drivers for homeownership, rental housing in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9aa65581-23cb-4df4-b965-aa4942949694.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201108)
+
 ## Meetings
 ### Fri 03/21 10:30 AM - Housing (HSG): E2SHB 1108 Housing cost task force
 #### 107 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1562/</link>
 		<description>Updates about HB 1562</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 May 2025 10:40:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -204,6 +204,20 @@
 			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-23/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-13/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>WA law requires diaper changing stations in more restrooms | FOX 13 Seattle</title>
+			<description>News article "WA law requires diaper changing stations in more restrooms | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 15 May 2025 10:40:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-law-diaper-changing-tables-all-restrooms#:~:text=House%20Bill%201562</guid>
 		</item>
 	</channel>
 </rss>

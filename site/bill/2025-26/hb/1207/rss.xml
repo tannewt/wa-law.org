@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1207/</link>
 		<description>Updates about HB 1207</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,13 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-19/Effective date 7/27/2025.</guid>
 		</item>
 	</channel>
 </rss>

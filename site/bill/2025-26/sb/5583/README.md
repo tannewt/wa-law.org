@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/24/2025 [The Center Square](/org/the_center_square/) - [WA hikes hunting, fishing fees 38% — first increase since 2011 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ec8fa7fb-2979-4d1d-850f-23ff05afaf55.html#:~:text=Senate%20Bill%205583)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5716/</link>
 		<description>Updates about SB 5716</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 01 May 2025 21:28:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -134,6 +134,13 @@
 			<pubDate>Thu, 01 May 2025 21:28:04 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/05/01/the-legislature-is-adjourned/#:~:text=SB%205716</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-12/Effective date 7/27/2025.</guid>
 		</item>
 	</channel>
 </rss>

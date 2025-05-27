@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1440/</link>
 		<description>Updates about HB 1440</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 May 2025 20:34:12 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 17 May 2025 18:05:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -251,6 +251,20 @@
 			<pubDate>Fri, 09 May 2025 20:34:12 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=HB%201440</guid>
+		</item>
+		<item>
+			<title>Effective date 1/1/2026.</title>
+			<description>Effective date 1/1/2026.</description>
+			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-17/Effective date 1/1/2026.</guid>
+		</item>
+		<item>
+			<title>More consistency, transparency, and justice in civil asset forfeiture signed into law - Sen. Bob Hasegawa</title>
+			<description>News article "More consistency, transparency, and justice in civil asset forfeiture signed into law - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Sat, 17 May 2025 18:05:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2025/05/17/more-consistency-transparency-and-justice-in-civil-asset-forfeiture-signed-into-law/#:~:text=House%20Bill%201440</guid>
 		</item>
 	</channel>
 </rss>

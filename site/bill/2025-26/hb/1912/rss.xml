@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1912/</link>
 		<description>Updates about HB 1912</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 26 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 May 2025 14:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -549,6 +549,27 @@
 			<pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-26/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Another mild veto - by Tim Gruver and Paul Queary</title>
+			<description>News article "Another mild veto - by Tim Gruver and Paul Queary" from The Washington Observer.</description>
+			<pubDate>Wed, 14 May 2025 17:31:40 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=House%20Bill%201912</guid>
+		</item>
+		<item>
+			<title>Effective date 5/15/2025.</title>
+			<description>Effective date 5/15/2025.</description>
+			<pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-15/Effective date 5/15/2025.</guid>
+		</item>
+		<item>
+			<title>A promise finally fulfilled; Ferguson signs bill exempting ag from CCA fuel taxes | Washington | thecentersquare.com</title>
+			<description>News article "A promise finally fulfilled; Ferguson signs bill exempting ag from CCA fuel taxes | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 16 May 2025 14:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_5bc58df5-a813-4b13-af9e-ee05c9ce4a57.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%20No%201912.</guid>
 		</item>
 	</channel>
 </rss>

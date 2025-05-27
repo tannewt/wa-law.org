@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/06/2025 [House Democrats](/org/house_democrats/) - [Duerr bill to phase out harmful greenhouse gas passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/duerr-bill-to-phase-out-harmful-greenhouse-gas-passes-house/#:~:text=HB%201462)

@@ -8,8 +8,12 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [The Center Square](/org/the_center_square/) - [Critics of newly signed $78 billion WA operating budget predict dire fallout | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_50a16e22-12ef-4450-acd4-5a81f0e01a93.html#:~:text=Senate%20Bill%205794)
+* 05/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=Senate%20Bill%205794)
+* 05/16/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard](https://washingtonstatestandard.com/2025/05/16/tesla-netflix-philip-morris-among-those-pushing-wa-governor-for-tax-vetoes/#:~:text=Senate%20Bill%205794)
 * 05/01/2025 [The Burner](/org/the_burner/) - [Sales Tax Accounts For A Quarter Of Every Dollar In New State Revenue In Washington](https://www.theburnerseattle.com/post/sales-tax-accounts-for-a-quarter-of-every-dollar-in-new-state-revenue-in-washington#:~:text=Senate%20Bill%205794)
 * 04/28/2025 [Washington State Standard](/org/washington_state_standard/) - [Five tax bills lawmakers passed to underpin Washington's next state budget • Washington State Standard](https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=Senate%20Bill%205794)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature passes budget to protect essential services, support K-12 education - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/legislature-passes-budget-to-protect-essential-services-support-k-12-education/#:~:text=SB%205794)

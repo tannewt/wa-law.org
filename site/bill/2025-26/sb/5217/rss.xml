@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5217/</link>
 		<description>Updates about SB 5217</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 23 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 May 2025 17:27:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -430,6 +430,20 @@
 			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-23/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 1/1/2027.</title>
+			<description>Effective date 1/1/2027.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Effective date 1/1/2027.</guid>
+		</item>
+		<item>
+			<title>Nobles bill to expand pregnancy-related workplace accommodations signed into law - Sen. T’wina Nobles</title>
+			<description>News article "Nobles bill to expand pregnancy-related workplace accommodations signed into law - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 20 May 2025 17:27:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/05/20/nobles-bill-to-expand-pregnancy-related-workplace-accommodations-signed-into-law/#:~:text=Senate%20Bill%205217</guid>
 		</item>
 	</channel>
 </rss>

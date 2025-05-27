@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/16/2025 [KUOW](/org/kuow/) - [KUOW - Washington will offer special education to students longer under new law](https://www.kuow.org/stories/washington-will-offer-special-education-to-students-longer-under-new-law#:~:text=Senate%20Bill%205253)
+* 05/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington will offer special education to students longer under new law • Washington State Standard](https://washingtonstatestandard.com/2025/05/15/washington-will-offer-special-education-to-students-longer-under-new-law/#:~:text=Senate%20Bill%205253)
+* 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=SB%205253)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [That’s a wrap on the 2025 session! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/05/02/thats-a-wrap-on-the-2025-session/#:~:text=5253)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session ends with progress on public school funding - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/01/2025-session-ends-with-progress-on-public-school-funding/#:~:text=SB%205253)
 * 04/03/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers race to fix illegal special ed cap before April 27 deadline | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_14e4aa6a-fe85-4a57-a61b-2c8c6b52c268.html#:~:text=Senate%20Bill%205253)

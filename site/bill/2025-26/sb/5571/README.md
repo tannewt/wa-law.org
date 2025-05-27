@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/14/2025 [The Washington Observer](/org/the_washington_observer/) - [Another mild veto - by Tim Gruver and Paul Queary](https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=Senate%20Bill%205571)
+
 ## Meetings
 ### Tue 03/18 10:30 AM - Local Government (LG): SB 5571 Exterior cladding materials
 #### 7 👍 - Pro

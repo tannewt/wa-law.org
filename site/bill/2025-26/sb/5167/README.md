@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205167)
+* 05/20/2025 [MyNorthwest](/org/mynorthwest/) - [Gov. Ferguson signs contentious $77.9B operating budget](https://mynorthwest.com/mynorthwest-politics/ferguson-washington-budget/4089709#:~:text=SB%205167)
 * 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=the%202025-27%20operating%20budget)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](http://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](https://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167)

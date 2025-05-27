@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=House%20Bill%201217)
+* 05/12/2025 [MyNorthwest](/org/mynorthwest/) - [Ursula: I hate the idea King County is only for the wealthy](https://mynorthwest.com/gee-and-ursula/king-county-single-homes/4086613#:~:text=House%20Bill%201217)
+* 05/09/2025 [MyNorthwest](/org/mynorthwest/) - [John Curley: Ferguson's rent control will nuke Seattle faster than the bomb](https://mynorthwest.com/kiro-opinion/rent-control-ferguson/4085684#:~:text=HB%201217,)
 * 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist](https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=House%20Bill%201217)
 * 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=House%20Bill%201217)
 * 05/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Cap on rent increases across Washington is signed into law • Washington State Standard](https://washingtonstatestandard.com/2025/05/07/cap-on-rent-increases-across-washington-is-signed-into-law/#:~:text=House%20Bill%201217)

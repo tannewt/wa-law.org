@@ -10,13 +10,13 @@
 * [SB 5236](sb/5236) - Hospital staffing standards 17📰 11619👍 1922👎 112❓ - C 114 L 23
 * [HB 1240](hb/1240) - Firearms/assault weapons 63📰 2828👍 10425👎 26❓ - C 162 L 23
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 43📰 3402👍 8858👎 16❓ - C 161 L 23
-* [HB 1469](hb/1469) - Health care services/access 34📰 6406👍 4534👎 9❓ - C 193 L 23
+* [HB 1469](hb/1469) - Health care services/access 35📰 6406👍 4534👎 9❓ - C 193 L 23
 * [HB 2114](hb/2114) - Residential tenants 60📰 7035👍 3700👎 50❓ - HRules 3C
 * [SB 5599](sb/5599) - Protected health care/youth 38📰 569👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 24📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - HHC/Wellness
 * [SB 5770](sb/5770) - Property tax 39📰 516👍 7579👎 203❓ - SRules X
-* [HB 1110](hb/1110) - Middle housing 96📰 5098👍 1228👎 53❓ - C 332 L 23
+* [HB 1110](hb/1110) - Middle housing 97📰 5098👍 1228👎 53❓ - C 332 L 23
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - SWays & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - HRules X
 * [HB 1389](hb/1389) - Residential rent increases 33📰 3125👍 2455👎 27❓ - HRules X
@@ -27,7 +27,7 @@
 * [SB 5462](sb/5462) - Inclusive learning standards 22📰 654👍 4223👎 10❓ - C 157 L 24
 * [HB 1045](hb/1045) - Basic income pilot program 30📰 2290👍 2561👎 9❓ - HApprops
 * [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. 1📰 1321👍 3389👎 106❓ - HHC/Wellness
-* [SB 5427](sb/5427) - Hate crimes & bias incidents 15📰 1025👍 3774👎 8❓ - C 299 L 24
+* [SB 5427](sb/5427) - Hate crimes & bias incidents 16📰 1025👍 3774👎 8❓ - C 299 L 24
 * [HB 2494](hb/2494) - School operating costs 2📰 460👍 4173👎 6❓ - C 262 L 24
 * [HB 2021](hb/2021) - Firearm disposition 9📰 2328👍 2247👎 8❓ - C 287 L 24
 * [HB 2118](hb/2118) - Firearms dealers 27📰 1262👍 3288👎 3❓ - C 288 L 24
@@ -72,13 +72,13 @@
 * [HB 1902](hb/1902) - Firearms/purchase & transfer 7📰 878👍 1472👎 3❓ - HCivil R & Judi
 * [HB 1932](hb/1932) - Even-numbered year elections 24📰 774👍 1555👎 6❓ - HRules 3C
 * [SB 5389](sb/5389) - Optometry 1📰 615👍 1710👎 5❓ - C 400 L 23
-* [HB 2160](hb/2160) - Housing development 15📰 1559👍 743👎 26❓ - HRules 3C
+* [HB 2160](hb/2160) - Housing development 16📰 1559👍 743👎 26❓ - HRules 3C
 * [SB 5435](sb/5435) - Residential rent increases 14📰 1207👍 1090👎 11❓ - SHousing
 * [HB 1002](hb/1002) - Hazing penalty 8📰 2240👍 12👎 11❓ - C 196 L 23
 * [HB 2054](hb/2054) - Concerning bulk purchases and transfers of firearms. 3📰 843👍 1414👎 2❓ - HCivil R & Judi
 * [HB 2474](hb/2474) - Transitional housing siting 7📰 461👍 1770👎 7❓ - HRules 3C
 * [HB 2095](hb/2095) - Gift certificates/unclaimed 2📰 1944👍 261👎 1❓ - HFinance
-* [HB 1340](hb/1340) - Health professions/conduct 24📰 1547👍 650👎 1❓ - C 192 L 23
+* [HB 1340](hb/1340) - Health professions/conduct 25📰 1547👍 650👎 1❓ - C 192 L 23
 * [HB 1954](hb/1954) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 3📰 416👍 1767👎 2❓ - C 14 L 24
 * [HB 2094](hb/2094) - Gift certificates 2📰 1930👍 244👎 0❓ - HConsPro&Bus
 * [HB 2049](hb/2049) - Solid waste management 11📰 1769👍 343👎 17❓ - HRules X
@@ -1015,7 +1015,7 @@
 * [SB 5610](sb/5610) - Used vehicle warranties 9👍 59👎 2❓ - SRules X
 * [SB 5660](sb/5660) - Mental health adv directives 1📰 68👍 1👎 1❓ - C 374 L 24
 * [SB 6220](sb/6220) - High THC cannabis products 2📰 38👍 31👎 1❓ - SWays & Means
-* [HB 1042](hb/1042) - Use of existing buildings 7📰 53👍 10👎 6❓ - C 285 L 23
+* [HB 1042](hb/1042) - Use of existing buildings 8📰 53👍 10👎 6❓ - C 285 L 23
 * [HB 1556](hb/1556) - Property tax rebates 1📰 29👍 40👎 0❓ - HFinance
 * [HB 1879](hb/1879) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 2📰 68👍 1👎 0❓ - C 200 L 24
 * [HB 1989](hb/1989) - Graffiti abatement pilot 10📰 66👍 2👎 1❓ - C 111 L 24
@@ -2434,7 +2434,7 @@
 * [HB 2002](hb/2002) - Public use of fentanyl, meth - HCommunity Safe
 * [HB 1995](hb/1995) - Gate money/early release - HCommunity Safe
 * [HB 1993](hb/1993) - Water rights commissioners 1📰 - HCivil R & Judi
-* [SB 5879](sb/5879) - Establishing standards for civil proceedings and unprofessional conduct involving child abuse and domestic violence. 3📰 - SLaw & Justice
+* [SB 5879](sb/5879) - Establishing standards for civil proceedings and unprofessional conduct involving child abuse and domestic violence. 4📰 - SLaw & Justice
 * [SB 5878](sb/5878) - Ensuring litter tax funds are used for litter pick up. - SWays & Means
 * [SB 5877](sb/5877) - Providing information about the costs of the climate commitment act to electricity and natural gas customers. - SEnvironment, E
 * [SB 5875](sb/5875) - Balancing energy efficiency with consideration of other factors such as housing affordability, development costs, and feasibility in the state energy code for residential structures. - SEnvironment, E

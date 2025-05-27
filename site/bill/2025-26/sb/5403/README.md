@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Session Adjourned — Here’s What We Did - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/05/08/session-adjourned-heres-what-we-did/#:~:text=SB%205403)

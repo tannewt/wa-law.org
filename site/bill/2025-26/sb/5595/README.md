@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/19/2025 [The Urbanist](/org/the_urbanist/) - [Governor Signs Washington’s First-in-the-Nation Shared Streets Law - The Urbanist](https://www.theurbanist.org/2025/05/19/governor-signs-washingtons-first-in-the-nation-shared-streets-law/#:~:text=Senate%20Bill%205595)
 * 05/05/2025 [Senate Democrats](/org/senate_democrats/) - [End of session - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/05/04/3049/#:~:text=SB%205595)
 * 04/07/2025 [The Urbanist](/org/the_urbanist/) - [State Bill Could Unleash Potential of Streets, Making Space for People - The Urbanist](https://www.theurbanist.org/2025/04/07/state-bill-could-unleash-potential-of-streets/#:~:text=SB%205595)
 

@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
+
+## 📰 Articles
+* 05/20/2025 [Senate Democrats](/org/senate_democrats/) - [Governor Signs Cleveland Bill Updating State Health Plan - Sen. Annette Cleveland](https://senatedemocrats.wa.gov/cleveland/2025/05/20/governor-signs-cleveland-bill-updating-state-health-plan/#:~:text=Senate%20Bill%205568)
 
 ## Meetings
 ### Wed 04/02 04:00 PM - Appropriations (APP): SSB 5568 State health plan

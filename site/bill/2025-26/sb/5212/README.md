@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 03/19 08:00 AM - Agriculture and Natural Resources (AGNR): SSB 5212 Water adjudication in WRIA 1

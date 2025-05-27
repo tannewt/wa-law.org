@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/17/2025 [House Democrats](/org/house_democrats/) - [Behavioral Health Response Bill Advances to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/17/behavioral-health-response-bill-advances-to-governor/#:~:text=House%20Bill%201811)

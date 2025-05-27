@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205801)
+* 05/16/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard](https://washingtonstatestandard.com/2025/05/16/tesla-netflix-philip-morris-among-those-pushing-wa-governor-for-tax-vetoes/#:~:text=Senate%20Bill%205801)
 * 04/26/2025 [KIRO7](/org/kiro7/) - [Washington lawmakers approve 6-cent gas tax hike with July start date – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-lawmakers-approve-6-cent-gas-tax-hike-with-july-start-date/PWOIEXFWDZHJ7FGDSS2NVCLGXY/#:~:text=Senate%20Bill%205801)
 * 04/25/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature approves bipartisan plan to fund Washington state transportation future  - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/25/legislature-approves-bipartisan-plan-to-fund-washington-state-transportation-future/#:~:text=Senate%20Bill%205801)
 * 04/25/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature approves gas tax increase • Washington State Standard](https://washingtonstatestandard.com/2025/04/25/wa-house-advances-gas-tax-increase-3-2b-transportation-revenue-package/#:~:text=Senate%20Bill%205801)

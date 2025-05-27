@@ -8,8 +8,13 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [The Center Square](/org/the_center_square/) - [Spokane Valley needs more cops — but its immigration policy could get in the way | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0df5f802-ed1c-4695-824f-a0bea60d584d.html#:~:text=House%20Bill%202015)
+* 05/19/2025 [Washington State Standard](/org/washington_state_standard/) - [New Washington law directs $100M in grants toward hiring police, improving public safety • Washington State Standard](https://washingtonstatestandard.com/2025/05/19/new-washington-law-directs-100m-in-grants-toward-hiring-police-improving-public-safety/#:~:text=House%20Bill%202015)
+* 05/19/2025 [The Center Square](/org/the_center_square/) - [WATCH: Ferguson signs police hiring bill into law that includes possible sales tax hike | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ec267cdc-7626-4ac1-8020-555ef38685d1.html#:~:text=Engrossed%20Substitute%20House%20Bill%202015)
+* 05/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Veto or sign? WA governor keeps everyone guessing on tax and budget bills • Washington State Standard](https://washingtonstatestandard.com/2025/05/14/veto-or-sign-wa-governor-keeps-everyone-guessing-on-tax-and-budget-bills/#:~:text=House%20Bill%202015)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=HB%202015)
 * 05/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Why police accountability efforts failed again in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/05/06/why-police-accountability-efforts-failed-again-in-the-washington-legislature/#:~:text=House%20Bill%202015)
 * 05/05/2025 [The Center Square](/org/the_center_square/) - [New WA grant program incentivizes compliance with police use of force reporting | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d2109309-d14a-44be-baa0-4c4882d957b0.html#:~:text=House%20Bill%202015)

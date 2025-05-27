@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5595/</link>
 		<description>Updates about SB 5595</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 May 2025 05:10:45 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 May 2025 15:31:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -215,6 +215,20 @@
 			<pubDate>Mon, 05 May 2025 05:10:45 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2025/05/04/3049/#:~:text=SB%205595</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-17/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Governor Signs Washington’s First-in-the-Nation Shared Streets Law - The Urbanist</title>
+			<description>News article "Governor Signs Washington’s First-in-the-Nation Shared Streets Law - The Urbanist" from The Urbanist.</description>
+			<pubDate>Mon, 19 May 2025 15:31:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/05/19/governor-signs-washingtons-first-in-the-nation-shared-streets-law/#:~:text=Senate%20Bill%205595</guid>
 		</item>
 	</channel>
 </rss>

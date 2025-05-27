@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/10/2025 [The Center Square](/org/the_center_square/) - [Final vote on 911 tax bill could fracture Spokane's regional dispatch network | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_656427f0-8949-4399-a8d8-3338b229d645.html#:~:text=House%20Bill%201258’s)

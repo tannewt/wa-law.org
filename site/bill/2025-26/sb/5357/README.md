@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
+
+## 📰 Articles
+* 05/14/2025 [The Center Square](/org/the_center_square/) - [WA bill's changes to public pension funding could cost taxpayers, critic warns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_82f2f194-248d-4dc8-b1d6-47ac870e7e48.html#:~:text=Senate%20Bill%205357)
 
 ## Meetings
 ### Thu 03/20 04:00 PM - Appropriations (APP): ESSB 5357 Actuarial pension funding

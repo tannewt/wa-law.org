@@ -8,8 +8,16 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/24/2025 [KUOW](/org/kuow/) - [KUOW - GOP megadonor planning new round of Washington state tax, parents' rights initiatives](https://www.kuow.org/stories/gop-megadonor-planning-new-round-of-initiatives-on-taxes-parents-rights#:~:text=House%20Bill%201296)
+* 05/22/2025 [The Center Square](/org/the_center_square/) - [Critics of new student rights law predict enrollment declines, failed levies | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_412318b1-9583-4018-b33f-a9b25580dcef.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)
+* 05/21/2025 [The Washington Observer](/org/the_washington_observer/) - [Ferguson tacks left and embraces the Legislature](https://washingtonobserver.substack.com/p/ferguson-tacks-left-and-embraces#:~:text=House%20Bill%201296)
+* 05/20/2025 [Washington State Standard](/org/washington_state_standard/) - [WA governor signs parental 'bill of rights' rewrite • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/wa-governor-signs-parental-bill-of-rights-rewrite/#:~:text=House%20Bill%201296)
+* 05/20/2025 [The Center Square](/org/the_center_square/) - [WATCH: Ferguson signs contentious parents’ bill of rights rewrite into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fb80c1d8-da26-4b00-b525-e21e5989b81d.html#:~:text=House%20Bill%201296)
+* 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=HB%201296)
+* 05/15/2025 [The Center Square](/org/the_center_square/) - [Five days remain to sign WA bills into law; critics urge Ferguson to veto some | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b1f5393e-e8fd-4145-8009-24c23f49ec33.html#:~:text=House%20Bill%201296)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=1296)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session ends with progress on public school funding - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/01/2025-session-ends-with-progress-on-public-school-funding/#:~:text=HB%201296)
 * 04/28/2025 [The Center Square](/org/the_center_square/) - [Critics worry newly-passed rent cap bill could worsen WA’s housing crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c9c5452f-0c05-465c-a97d-cdb7ee36e919.html#:~:text=House%20Bill%201296)

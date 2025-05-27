@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 03/19 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1351 ECEAP age requirements

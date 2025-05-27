@@ -9,8 +9,16 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/25/2025 [KIRO7](/org/kiro7/) - [Lack of funding prompts WA governor to veto part of clemency bill – KIRO 7 News Seattle](https://www.kiro7.com/news/local/lack-funding-prompts-wa-governor-veto-part-clemency-bill/5GNG7NZGJRCXVFYPYZEOGCQIWA/#:~:text=Engrossed%20Second%20Substitute%20House%20Bill-HB%201131)
+* 05/23/2025 [MyNorthwest](/org/mynorthwest/) - [Washington governor vetoes parts of clemency bill](https://mynorthwest.com/mynorthwest-politics/clemency-bill/4091424#:~:text=Engrossed%20Second%20Substitute%20House%20Bill-HB%201131)
+* 05/22/2025 [The Center Square](/org/the_center_square/) - [Ferguson partially vetoes bill to expand WA Clemency & Pardons Board | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_96b961a8-6992-4b39-956c-32b5f2f30caf.html#:~:text=Engrossed%20Second%20Substitute%20House%20HB%201131)
+* 05/21/2025 [Senate Democrats](/org/senate_democrats/) - [Gov. Ferguson signs clemency, pardons bill into law - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/21/gov-ferguson-signs-clemency-pardons-bill-into-law/#:~:text=House%20Bill%201131)
+* 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=expedited%20pardon%20process%20for%20those%20facing%20deportation)
+* 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=expedited%20pardon%20process%20for%20those%20facing%20deportation)
+* 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=expedited%20pardon%20process%20for%20those%20facing%20deportation)
 * 05/09/2025 [Senate Democrats](/org/senate_democrats/) - [The end! - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=HB%201131)
 * 03/25/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill would speed pardon reviews for immigrants facing deportation • Washington State Standard](https://washingtonstatestandard.com/2025/03/25/washington-bill-would-speed-up-pardon-reviews-for-immigrants-facing-deportation/#:~:text=House%20Bill%201131)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201131)

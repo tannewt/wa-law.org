@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/12/2025 [House Democrats](/org/house_democrats/) - [Students dealing with adrenal insufficiency get assistance – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/students-dealing-with-adrenal-insufficiency-get-assistance/#:~:text=HB%201709)

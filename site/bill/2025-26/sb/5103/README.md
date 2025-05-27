@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/21/2025 [Senate Democrats](/org/senate_democrats/) - [Gov. Ferguson signs clemency, pardons bill into law - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/21/gov-ferguson-signs-clemency-pardons-bill-into-law/#:~:text=Senate%20Bill%205103)
 * 03/25/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill would speed pardon reviews for immigrants facing deportation • Washington State Standard](https://washingtonstatestandard.com/2025/03/25/washington-bill-would-speed-up-pardon-reviews-for-immigrants-facing-deportation/#:~:text=Senate%20Bill%205103)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall TOMORROW and progress - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/21/town-hall-tomorrow-and-progress/#:~:text=5103)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5103)

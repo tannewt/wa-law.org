@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/19/2025 [KING5](/org/king5/) - [Horses rescued from cockfighting bust near Yelm find new hope | king5.com](https://www.king5.com/article/news/local/horses-rescued-cockfighting-bust-near-yelm-find-new-hope/281-8a46f86c-dab0-404d-8a4a-4272fe1d57fd#:~:text=House%20Bill%201149)

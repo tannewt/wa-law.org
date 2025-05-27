@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5801/</link>
 		<description>Updates about SB 5801</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -451,6 +451,27 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard</title>
+			<description>News article "Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 16 May 2025 11:00:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/05/16/tesla-netflix-philip-morris-among-those-pushing-wa-governor-for-tax-vetoes/#:~:text=Senate%20Bill%205801</guid>
+		</item>
+		<item>
+			<title>What happened in the 2025 legislative session? | Washington State House Republicans</title>
+			<description>News article "What happened in the 2025 legislative session? | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Thu, 22 May 2025 23:49:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205801</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025*.</title>
+			<description>Effective date 7/27/2025*.</description>
+			<pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-23/Effective date 7/27/2025*.</guid>
 		</item>
 	</channel>
 </rss>

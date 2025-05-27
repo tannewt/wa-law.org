@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/18/2025 [The Washington Observer](/org/the_washington_observer/) - [Washington moves toward a new Medicaid money shuffle](https://washingtonobserver.substack.com/p/washington-adopts-a-new-medicaid#:~:text=House%20Bill%201392)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1403/</link>
 		<description>Updates about HB 1403</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 May 2025 17:05:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 May 2025 17:34:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -369,6 +369,13 @@
 			<guid isPermaLink="true">https://www.theurbanist.org/2025/04/28/rent-stabilization-crosses-finish-line/#:~:text=condominium%20liability%20reform</guid>
 		</item>
 		<item>
+			<title>Effective date 7/27/2025*.</title>
+			<description>Effective date 7/27/2025*.</description>
+			<pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-07/Effective date 7/27/2025*.</guid>
+		</item>
+		<item>
 			<title>Cap on rent increases across Washington is signed into law • Washington State Standard</title>
 			<description>News article "Cap on rent increases across Washington is signed into law • Washington State Standard" from Washington State Standard.</description>
 			<pubDate>Wed, 07 May 2025 20:51:34 GMT</pubDate>
@@ -388,6 +395,20 @@
 			<pubDate>Fri, 09 May 2025 17:05:07 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2025/05/09/the-deck-is-stacked-against-stacked-flats-in-seattle/#:~:text=House%20Bill%201403</guid>
+		</item>
+		<item>
+			<title>Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute</title>
+			<description>News article "Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute" from Sightline Institute.</description>
+			<pubDate>Thu, 15 May 2025 21:15:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201403</guid>
+		</item>
+		<item>
+			<title>After ‘Year of Housing 2.0’, Policymakers Eye Next Big Housing Moves - The Urbanist</title>
+			<description>News article "After ‘Year of Housing 2.0’, Policymakers Eye Next Big Housing Moves - The Urbanist" from The Urbanist.</description>
+			<pubDate>Tue, 20 May 2025 17:34:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/05/20/after-year-of-housing-2-0-policymakers-eye-next-big-housing-moves/#:~:text=condo%20liability</guid>
 		</item>
 	</channel>
 </rss>

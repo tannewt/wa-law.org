@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
+
+## 📰 Articles
+* 05/14/2025 [The Washington Observer](/org/the_washington_observer/) - [Another mild veto - by Tim Gruver and Paul Queary](https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=Senate%20Bill%205351)
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5351 Dental insurance practices

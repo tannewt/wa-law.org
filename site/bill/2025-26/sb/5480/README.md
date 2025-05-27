@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/15/2025 [The Center Square](/org/the_center_square/) - [Five days remain to sign WA bills into law; critics urge Ferguson to veto some | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b1f5393e-e8fd-4145-8009-24c23f49ec33.html#:~:text=Senate%20Bill%205480)
 * 05/07/2025 [Cascade PBS](/org/cascade_pbs/) - [‘Especially consequential’: Ferguson signs rent cap bill into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/especially-consequential-ferguson-signs-rent-cap-bill-law#:~:text=Senate%20Bill%205480)
 * 05/07/2025 [Cascade PBS](/org/cascade_pbs/) - [Sharing origin stories at Cascade PBS/Daybreak Star Radio event | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/sharing-origin-stories-cascade-pbsdaybreak-star-radio-event#:~:text=Senate%20Bill%205480)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=SB%205480)

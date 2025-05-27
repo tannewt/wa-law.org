@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5357/</link>
 		<description>Updates about SB 5357</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -147,6 +147,20 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>WA bill's changes to public pension funding could cost taxpayers, critic warns | Washington | thecentersquare.com</title>
+			<description>News article "WA bill's changes to public pension funding could cost taxpayers, critic warns | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 14 May 2025 16:30:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_82f2f194-248d-4dc8-b1d6-47ac870e7e48.html#:~:text=Senate%20Bill%205357</guid>
+		</item>
+		<item>
+			<title>Effective date 7/1/2025.</title>
+			<description>Effective date 7/1/2025.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Effective date 7/1/2025.</guid>
 		</item>
 	</channel>
 </rss>

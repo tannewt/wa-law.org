@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/04/11/approaching-the-finish-line/#:~:text=SB%205093)

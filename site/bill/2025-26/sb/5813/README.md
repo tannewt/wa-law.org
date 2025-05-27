@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=Senate%20Bill%205813)
+* 05/20/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs WA state operating budget | FOX 13 Seattle](https://www.fox13seattle.com/news/gov-ferguson-signs-state-budget#:~:text=capital%20gains%20and%20estate%20taxes)
 * 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SB%205813)
 * 05/01/2025 [The Burner](/org/the_burner/) - [Sales Tax Accounts For A Quarter Of Every Dollar In New State Revenue In Washington](https://www.theburnerseattle.com/post/sales-tax-accounts-for-a-quarter-of-every-dollar-in-new-state-revenue-in-washington#:~:text=Senate%20Bill%205813)
 * 04/28/2025 [Washington State Standard](/org/washington_state_standard/) - [Five tax bills lawmakers passed to underpin Washington's next state budget • Washington State Standard](https://washingtonstatestandard.com/2025/04/28/five-tax-bills-lawmakers-passed-to-underpin-washingtons-next-state-budget/#:~:text=Senate%20Bill%205813)

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/23/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/05/22/2025-legislative-session-recap/#:~:text=SB%205680)
+* 05/19/2025 [Senate Democrats](/org/senate_democrats/) - [Right to repair wheelchair bill signed into law - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/05/19/right-to-repair-wheelchair-bill-signed-into-law/#:~:text=Senate%20Bill%205680)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5680)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/04/11/approaching-the-finish-line/#:~:text=SB%205680,)
 * 04/09/2025 [Senate Democrats](/org/senate_democrats/) - [Join me this Sunday, April 13th for an end of session coffee chat! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/04/09/join-me-this-sunday-april-13th-for-an-end-of-session-coffee-chat/#:~:text=5680)

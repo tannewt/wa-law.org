@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/20/2025 [House Democrats](/org/house_democrats/) - [Doglio Bill Provides Support for Traumatic Brain Injury Survivors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/20/doglio-bill-provides-support-for-traumatic-brain-injury-survivors/#:~:text=House%20Bill%201848)

@@ -8,8 +8,13 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/23/2025 [The Center Square](/org/the_center_square/) - [New WA law granting unemployment benefits to striking workers draws praise, concern | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f1a9ca3e-50de-466d-a033-ed6a4add4385.html#:~:text=ESB%205041)
+* 05/20/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs bill giving unemployment to striking WA workers | FOX 13 Seattle](https://www.fox13seattle.com/news/ferguson-bill-unemployment-striking-workers#:~:text=SB%205041)
+* 05/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington will pay unemployment benefits to striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/05/19/washington-will-pay-unemployment-benefits-to-striking-workers/#:~:text=Senate%20Bill%205041)
+* 05/15/2025 [The Center Square](/org/the_center_square/) - [Five days remain to sign WA bills into law; critics urge Ferguson to veto some | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b1f5393e-e8fd-4145-8009-24c23f49ec33.html#:~:text=Senate%20Bill%205041)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [Big wins for Spokane as 2025 Legislature adjourns - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/28/big-wins-for-spokane-as-2025-legislature-adjourns/#:~:text=Senate%20Bill%205041)
 * 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=agreed)
 * 04/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Striking worker unemployment benefit bill headed to WA governor • Washington State Standard](https://washingtonstatestandard.com/briefs/striking-worker-unemployment-benefit-bill-headed-to-wa-governor/#:~:text=Senate%20Bill%205041)

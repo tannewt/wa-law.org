@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205161)
 * 04/28/2025 [House Republicans](/org/house_republicans/) - [Sine Die | Washington State House Republicans](https://houserepublicans.wa.gov/current/sine-die/#:~:text=transportation%20budget)
 * 04/27/2025 [Washington State Standard](/org/washington_state_standard/) - [$15.5B Washington transportation budget nears final vote • Washington State Standard](https://washingtonstatestandard.com/2025/04/26/15-5b-washington-transportation-budget-heads-toward-final-vote/#:~:text=Senate%20Bill%205161)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205161)

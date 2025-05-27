@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1108/</link>
 		<description>Updates about HB 1108</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 May 2025 16:50:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -238,6 +238,20 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Governor vetoed.</title>
+			<description>Governor vetoed.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Governor vetoed.</guid>
+		</item>
+		<item>
+			<title>Ferguson vetoes bill to study cost drivers for homeownership, rental housing in WA | Washington | thecentersquare.com</title>
+			<description>News article "Ferguson vetoes bill to study cost drivers for homeownership, rental housing in WA | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 23 May 2025 16:50:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_9aa65581-23cb-4df4-b965-aa4942949694.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201108</guid>
 		</item>
 	</channel>
 </rss>

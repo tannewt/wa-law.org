@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/05/07/end-of-session-report-3/#:~:text=SB%205412)

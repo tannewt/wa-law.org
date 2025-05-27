@@ -9,8 +9,13 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=House%20Bill%201232)
+* 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=House%20Bill%201232)
+* 05/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Trio of immigrant rights laws signed by WA governor • Washington State Standard](https://washingtonstatestandard.com/2025/05/14/trio-of-immigrant-rights-laws-signed-by-wa-governor/#:~:text=House%20Bill%201232)
+* 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=House%20Bill%201232)
 * 04/19/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Ferguson Must Get Tough on Trump, Illegal Tacoma ICE Jail - The Urbanist](https://www.theurbanist.org/2025/04/19/op-ed-ferguson-must-get-tough-on-trump-illegal-tacoma-ice-jail/#:~:text=HB%201232)
 * 04/15/2025 [House Democrats](/org/house_democrats/) - [Protecting the Dignity of Immigrants Amidst Federal Raids & Detention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/protecting-the-dignity-of-immigrants-amidst-federal-raids-detention/#:~:text=HB%201232)
 * 03/28/2025 [Axios](/org/axios/) - [Washington state lawmakers seek oversight of Tacoma ICE center - Axios Seattle](https://www.axios.com/local/seattle/2025/03/28/washington-state-detention-bill-oversight-ice-tacoma#:~:text=House%20Bill%201232)

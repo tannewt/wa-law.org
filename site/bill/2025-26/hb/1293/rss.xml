@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1293/</link>
 		<description>Updates about HB 1293</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 30 Apr 2025 16:09:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 18 May 2025 12:00:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -221,6 +221,20 @@
 			<pubDate>Wed, 30 Apr 2025 16:09:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_59e78636-92d7-45be-bc46-ac89ff2e7af5.html#:~:text=House%20Bill%201293</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-17/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>New WA law increases penalties for litter, delays plastic bag requirements • Washington State Standard</title>
+			<description>News article "New WA law increases penalties for litter, delays plastic bag requirements • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Sun, 18 May 2025 12:00:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/05/18/new-wa-law-increases-penalties-for-litter-delays-plastic-bag-requirements/#:~:text=House%20Bill%201293</guid>
 		</item>
 	</channel>
 </rss>

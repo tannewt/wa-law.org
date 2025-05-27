@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5568/</link>
 		<description>Updates about SB 5568</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 25 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 May 2025 22:56:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -229,6 +229,20 @@
 			<pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-25/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Governor Signs Cleveland Bill Updating State Health Plan - Sen. Annette Cleveland</title>
+			<description>News article "Governor Signs Cleveland Bill Updating State Health Plan - Sen. Annette Cleveland" from Senate Democrats.</description>
+			<pubDate>Tue, 20 May 2025 22:56:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cleveland/2025/05/20/governor-signs-cleveland-bill-updating-state-health-plan/#:~:text=Senate%20Bill%205568</guid>
 		</item>
 	</channel>
 </rss>

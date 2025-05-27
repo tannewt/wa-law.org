@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5677/</link>
 		<description>Updates about SB 5677</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 May 2025 18:06:37 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -281,6 +281,13 @@
 			<pubDate>Fri, 02 May 2025 18:06:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cortes/2025/05/02/thats-a-wrap-on-the-2025-session/#:~:text=5677</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Effective date 7/27/2025.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1217/</link>
 		<description>Updates about HB 1217</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 08 May 2025 23:27:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 May 2025 19:06:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -4431,6 +4431,13 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=1217</guid>
 		</item>
 		<item>
+			<title>Effective date 5/7/2025.</title>
+			<description>Effective date 5/7/2025.</description>
+			<pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-07/Effective date 5/7/2025.</guid>
+		</item>
+		<item>
 			<title>2025 Washington State Legislative Session Summary | Food Lifeline</title>
 			<description>News article "2025 Washington State Legislative Session Summary | Food Lifeline" from Food Lifeline.</description>
 			<pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
@@ -4485,6 +4492,27 @@
 			<pubDate>Thu, 08 May 2025 23:27:44 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=House%20Bill%201217</guid>
+		</item>
+		<item>
+			<title>John Curley: Ferguson's rent control will nuke Seattle faster than the bomb</title>
+			<description>News article "John Curley: Ferguson's rent control will nuke Seattle faster than the bomb" from MyNorthwest.</description>
+			<pubDate>Fri, 09 May 2025 11:01:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/kiro-opinion/rent-control-ferguson/4085684#:~:text=HB%201217,</guid>
+		</item>
+		<item>
+			<title>Ursula: I hate the idea King County is only for the wealthy</title>
+			<description>News article "Ursula: I hate the idea King County is only for the wealthy" from MyNorthwest.</description>
+			<pubDate>Mon, 12 May 2025 09:42:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/gee-and-ursula/king-county-single-homes/4086613#:~:text=House%20Bill%201217</guid>
+		</item>
+		<item>
+			<title>Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett</title>
+			<description>News article "Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett" from Senate Democrats.</description>
+			<pubDate>Thu, 15 May 2025 19:06:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=House%20Bill%201217</guid>
 		</item>
 	</channel>
 </rss>

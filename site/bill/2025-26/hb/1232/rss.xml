@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1232/</link>
 		<description>Updates about HB 1232</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 25 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 May 2025 17:53:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -588,6 +588,41 @@
 			<pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-25/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 5/12/2025.</title>
+			<description>Effective date 5/12/2025.</description>
+			<pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-12/Effective date 5/12/2025.</guid>
+		</item>
+		<item>
+			<title>Wide-open King County Executive race draws eight candidates | Cascade PBS</title>
+			<description>News article "Wide-open King County Executive race draws eight candidates | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Tue, 13 May 2025 21:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=House%20Bill%201232</guid>
+		</item>
+		<item>
+			<title>Trio of immigrant rights laws signed by WA governor • Washington State Standard</title>
+			<description>News article "Trio of immigrant rights laws signed by WA governor • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 14 May 2025 11:00:36 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/05/14/trio-of-immigrant-rights-laws-signed-by-wa-governor/#:~:text=House%20Bill%201232</guid>
+		</item>
+		<item>
+			<title>WA governor signs three immigrants rights bills into law | Cascade PBS</title>
+			<description>News article "WA governor signs three immigrants rights bills into law | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Thu, 15 May 2025 20:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=House%20Bill%201232</guid>
+		</item>
+		<item>
+			<title>Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS</title>
+			<description>News article "Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Wed, 21 May 2025 17:53:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=House%20Bill%201232</guid>
 		</item>
 	</channel>
 </rss>

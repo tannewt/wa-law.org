@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201110)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Housing Accountability Act passes Senate - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/03/11/housing-accountability-act-passes-senate/#:~:text=House%20Bill%201110)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Housing Accountability Act passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/11/housing-accountability-act-passes-senate/#:~:text=House%20Bill%201110)
 * 01/13/2025 [Axios](/org/axios/) - [Seattle debates future of housing growth - Axios Seattle](https://www.axios.com/local/seattle/2025/01/13/housing-affordability-debates-zoning-city-council#:~:text=2023%20state%20law)

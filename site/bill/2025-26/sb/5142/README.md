@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/12/2025 [Senate Democrats](/org/senate_democrats/) - [Hasegawa bill to provide justice for unfair land seizures - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/12/hasegawa-bill-to-provide-justice-for-unfair-land-seizures/#:~:text=Senate%20Bill%205142)

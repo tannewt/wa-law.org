@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 04/25/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature approves gas tax increase • Washington State Standard](https://washingtonstatestandard.com/2025/04/25/wa-house-advances-gas-tax-increase-3-2b-transportation-revenue-package/#:~:text=Senate%20Bill%205802)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5680/</link>
 		<description>Updates about SB 5680</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 03 May 2025 00:24:43 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 May 2025 01:41:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -309,6 +309,27 @@
 			<pubDate>Sat, 03 May 2025 00:24:43 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5680</guid>
+		</item>
+		<item>
+			<title>Effective date 7/27/2025.</title>
+			<description>Effective date 7/27/2025.</description>
+			<pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-19/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Right to repair wheelchair bill signed into law - Sen. Drew Hansen</title>
+			<description>News article "Right to repair wheelchair bill signed into law - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Mon, 19 May 2025 21:41:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2025/05/19/right-to-repair-wheelchair-bill-signed-into-law/#:~:text=Senate%20Bill%205680</guid>
+		</item>
+		<item>
+			<title>2025 legislative session recap - Sen. Drew Hansen</title>
+			<description>News article "2025 legislative session recap - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Fri, 23 May 2025 01:41:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2025/05/22/2025-legislative-session-recap/#:~:text=SB%205680</guid>
 		</item>
 	</channel>
 </rss>
