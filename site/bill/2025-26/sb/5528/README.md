@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205528)
+
 ## Meetings
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5528 Transp. electrification
 #### 194 👍 - Pro

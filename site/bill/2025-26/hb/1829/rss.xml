@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1829/</link>
 		<description>Updates about HB 1829</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 21 Jul 2025 15:54:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -166,6 +166,34 @@
 			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-13/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>2025 legislative session recap - Sen. Manka Dhingra</title>
+			<description>News article "2025 legislative session recap - Sen. Manka Dhingra" from Senate Democrats.</description>
+			<pubDate>Thu, 29 May 2025 14:50:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=HB%201829</guid>
+		</item>
+		<item>
+			<title>Legislature takes action to improve public safety - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature takes action to improve public safety - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 11 Jun 2025 23:36:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=HB%201829</guid>
+		</item>
+		<item>
+			<title>WA state authorities can now enforce tribal warrants | FOX 13 Seattle</title>
+			<description>News article "WA state authorities can now enforce tribal warrants | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Tue, 01 Jul 2025 13:53:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-tribal-police-warrants#:~:text=HB%201829</guid>
+		</item>
+		<item>
+			<title>Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman</title>
+			<description>News article "Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman" from Senate Democrats.</description>
+			<pubDate>Mon, 21 Jul 2025 15:54:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2025/07/21/sen-kauffman-reaffirms-her-commitment-to-protecting-native-communities/#:~:text=invested%20in%20stronger%20coordination%20between%20Tribal%20and%20state%20justice%20systems</guid>
 		</item>
 	</channel>
 </rss>

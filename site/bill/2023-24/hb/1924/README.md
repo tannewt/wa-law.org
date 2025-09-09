@@ -10,9 +10,11 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/15/2025 [House Democrats](/org/house_democrats/) - [Shavers’ bill positions Washington to be a leader in fusion energy. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/15/shavers-bill-positions-washington-to-be-a-leader-in-fusion-energy/#:~:text=House%20Bill%201924)
 * 01/06/2025 [The Center Square](/org/the_center_square/) - [Washington bill clarifies facility siting for 'Holy Grail' of energy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d124007e-cc64-11ef-aba2-4b687b7015d5.html#:~:text=House%20Bill%201924)
 * 07/03/2024 [Cascade PBS](/org/cascade_pbs/) - [WA ballot initiative would cut $848.6M of environmental programs | Cascade PBS](https://crosscut.com/politics/2024/07/wa-ballot-initiative-would-cut-8486m-environmental-programs#:~:text=House%20Bill%201924)
 * 07/03/2024 [Cascade PBS](/org/cascade_pbs/) - [WA ballot initiative would cut $848.6M of environmental programs | Cascade PBS](https://www.cascadepbs.org/politics/2024/07/wa-ballot-initiative-would-cut-8486m-environmental-programs#:~:text=House%20Bill%201924)
+* 07/03/2024 [Cascade PBS](/org/cascade_pbs/) - [WA ballot initiative would cut $848.6M of environmental programs | Cascade PBS](https://www.cascadepbs.org/politics/2024/07/wa-ballot-initiative-would-cut-8486m-environmental-programs/#:~:text=House%20Bill%201924)
 * 03/28/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Gov. Inslee signs slate of climate and environment bills into law | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/wa-gov-inslee-signs-slate-of-climate-and-environment-bills-into-law/#:~:text=House%20Bill%201924)
 * 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%201924)
 

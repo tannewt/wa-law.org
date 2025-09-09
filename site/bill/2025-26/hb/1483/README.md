@@ -11,7 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=HB%201483)
 * 05/23/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs Right to Repair bill into law | FOX 13 Seattle](https://www.fox13seattle.com/news/gov-right-repair-law#:~:text=HB%201483)
+* 05/20/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Landmark Right to Repair Bills into Law, Expanding Consumer Protections & Access to Repairs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/20/governor-signs-landmark-right-to-repair-bills-into-law-expanding-consumer-protections-access-to-repairs/#:~:text=HB%201483)
 * 04/18/2025 [Senate Democrats](/org/senate_democrats/) - [In the final stretch - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/04/18/in-the-final-stretch/#:~:text=HB%201483)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/04/11/approaching-the-finish-line/#:~:text=Right%20to%20Repair%20Act)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESHB%201483)

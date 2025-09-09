@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/16/2023 [Cascade PBS](/org/cascade_pbs/) - [Washington slates $50M for trees to shade salmon streams | Cascade PBS](https://www.cascadepbs.org/environment/2023/05/washington-slates-50m-trees-shade-salmon-streams/#:~:text=House%20Bill%201720)
 * 05/16/2023 [Crosscut](/org/crosscut/) - [Washington slates $50M for trees to shade salmon streams | Crosscut](https://crosscut.com/environment/2023/05/washington-slates-50m-trees-shade-salmon-streams#:~:text=House%20Bill%201720)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201720)
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201720)

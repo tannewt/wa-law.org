@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 12/13/2024 [Gorge News Center](/org/gorge_news_center/) - [Making sense of Washington’s multi-billion dollar budget hole](https://gorgenewscenter.com/2024/12/13/making-sense-of-washingtons-multi-billion-dollar-budget-hole/#:~:text=a%20real%20estate%20transfer%20tax)
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education/#:~:text=House%20Bill%202276)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%202276)
 * 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%202276)
 * 02/23/2024 [Washington State Standard](/org/washington_state_standard/) - [New tax on real estate sales over $3M moves ahead in Legislature • Washington State Standard](https://washingtonstatestandard.com/2024/02/23/new-tax-on-real-estate-sales-over-3m-moves-ahead-in-legislature/#:~:text=House%20Bill%202276)

@@ -7,6 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/18/2025 [The Center Square](/org/the_center_square/) - [Federal judge blocks WA law requiring clergy to report abuse learned in confession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_349afee9-15a0-4cc7-8303-7e92add125a0.html#:~:text=Senate%20Bill%205375)
+* 07/18/2025 [MyNorthwest](/org/mynorthwest/) - [Judge blocks WA law requiring clergy to report confessions](https://mynorthwest.com/local/wa-law-clergy-members-confessions/4111409#:~:text=Senate%20Bill%205375)
+* 06/24/2025 [KUOW](/org/kuow/) - [KUOW - Trump's DOJ sues Washington state over clergy sexual abuse reporting law](https://www.kuow.org/stories/trump-s-doj-sues-washington-state-over-clergy-sexual-abuse-law#:~:text=Senate%20Bill%205375)
+* 06/23/2025 [The Center Square](/org/the_center_square/) - [DOJ sues Washington state over law to close clergy confession loophole | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c7da9641-0494-40ff-9414-5c8fa589547c.html#:~:text=Senate%20Bill%205375)
+* 06/23/2025 [MyNorthwest](/org/mynorthwest/) - [DOJ challenges WA clergy reporting law](https://mynorthwest.com/local/doj-wa-clergy-reporting-law-2/4102588#:~:text=Senate%20Bill%205375)
+* 06/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Catholic Bishops ask feds to block child abuse confession law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3370f6ff-22b0-4999-8598-4c339aeb2b4f.html#:~:text=Senate%20Bill%205375)
+* 05/30/2025 [The Center Square](/org/the_center_square/) - [Washington state caps rent hikes at 10% through the end of the year | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f9581705-ad0e-4a80-8c08-65e7545c5d0b.html#:~:text=Engrossed%20House%20Bill%201217)
+* 05/29/2025 [MyNorthwest](/org/mynorthwest/) - ['Obey God rather than men': WA sued over clergy report law](https://mynorthwest.com/local/clergy-mandatory-reporting-wa/4093552#:~:text=Senate%20Bill%205375)
 * 05/19/2025 [MyNorthwest](/org/mynorthwest/) - [Assistant AG for Civil Rights: God's law vs. Man's law in WA](https://mynorthwest.com/jason-rantz/doj-wa-clergy-reporting-law/4088227#:~:text=Senate%20Bill%205375)
 * 05/13/2025 [MyNorthwest](/org/mynorthwest/) - [Catholic Church rejects Dems' law to destroy confessional](https://mynorthwest.com/ktth/ktth-opinion/catholic-church/4086611#:~:text=Senate%20Bill%205375)
 * 05/06/2025 [NW News Network](/org/nw_news_network/) - [U.S. Justice Department investigating new WA law requiring clergy to report child abuse | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2025-05-06/u-s-justice-department-investigating-new-wa-law-requiring-clergy-to-report-child-abuse#:~:text=Senate%20Bill%205375)

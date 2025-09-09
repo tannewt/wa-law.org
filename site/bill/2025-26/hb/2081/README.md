@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/04/2025 [The Center Square](/org/the_center_square/) - [July’s new and increased taxes and fees just the start for Washingtonians | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4f79027-7abb-40a1-9de9-222b5f833a07.html#:~:text=House%20Bill%202081)
+* 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=HB%202081)
+* 06/10/2025 [The Center Square](/org/the_center_square/) - [WATCH: Industry leaders urge WA lawmakers to change course on health care costs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3da5bf7b-808a-4a04-accc-ad0f88b8785d.html#:~:text=House%20Bill%202081)
 * 05/21/2025 [The Center Square](/org/the_center_square/) - [Critics of newly signed $78 billion WA operating budget predict dire fallout | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_50a16e22-12ef-4450-acd4-5a81f0e01a93.html#:~:text=Engrossed%20Substitute%20House%20Bill%202081)
 * 05/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=House%20Bill%202081)
 * 05/20/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs WA state operating budget | FOX 13 Seattle](https://www.fox13seattle.com/news/gov-ferguson-signs-state-budget#:~:text=taxes%20on%20businesses)
@@ -25,7 +28,6 @@
 * 04/25/2025 [FOX13](/org/fox13/) - [What’s still up in the air as WA Legislature wraps up | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislature-wraps-up#:~:text=business%20taxes)
 * 04/22/2025 [The Center Square](/org/the_center_square/) - [In the dead of night, WA House passes trio of tax hike bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a3a47717-2e5f-444c-8864-bdb5bfedbc19.html#:~:text=Engrossed%20Substitute%20House%20Bill%202081)
 * 04/22/2025 [MyNorthwest](/org/mynorthwest/) - [WA's midnight tax storm: House pushes through big business hit, Tesla tax](https://mynorthwest.com/mynorthwest-politics/big-business-tesla-tax/4078830#:~:text=ESHB%202081)
-* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202081)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=House%20Bill%202081)
 * 04/18/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Even MORE tax bills are moving forward - VOTING SATURDAY 4-19 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-even-tax-bills-moving-forward-voting-tomorrow/#:~:text=HB%202081:)
 * 04/16/2025 [FOX13](/org/fox13/) - [WA Democrats propose new taxes to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-democrats-propose-new-taxes#:~:text=companion%20legislation)

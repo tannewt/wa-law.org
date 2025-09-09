@@ -11,15 +11,17 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/05/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [West Coast Alliance and WA’s Vaccine Mandate: A Coordinated Power Shift - Conservative Ladies of Washington](https://conservativeladiesofwa.com/west-coast-health-alliance-wa-vaccine/#:~:text=ESHB%201531)
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201531)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%201531)
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=HB%201531)
 * 04/10/2025 [The Center Square](/org/the_center_square/) - [Infectious diseases bill touted as 'best available science' passes WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7bcda569-16b4-4dc6-854e-b58c63872500.html#:~:text=Engrossed%20Substitute%20House%20Bill%201531)
 * 03/24/2025 [The Center Square](/org/the_center_square/) - [Debate lingers over Washington bill's impact on public health policies | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b239acc7-3f9a-422f-8294-7acadc018802.html#:~:text=House%20Bill%201531)
-* 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531)
 * 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531)
 * 03/10/2025 [The Center Square](/org/the_center_square/) - [WA House Dems pass public health bill touted as 'best science' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f68a9b5a-fe02-11ef-8b9e-4b5a2aa5e974.html#:~:text=Engrossed%20Substitute%20House%20Bill%201531)
 * 02/23/2025 [MyNorthwest](/org/mynorthwest/) - [Public health and political power: Democratic bill says 'best science' must be followed](https://mynorthwest.com/mynorthwest-politics/public-health/4050369#:~:text=House%20Bill%201531)
 * 01/31/2025 [The Center Square](/org/the_center_square/) - [Washington state public health bill receives lopsided critical testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f90cb56-e004-11ef-81d1-4b3c6961bacc.html#:~:text=House%20Bill%201531)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201531)
-* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201531)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201531)
 
 ## Meetings

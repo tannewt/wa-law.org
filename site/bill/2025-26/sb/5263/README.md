@@ -12,6 +12,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=SB%205263)
+* 07/09/2025 [Senate Democrats](/org/senate_democrats/) - [Education that works for every student - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=SB%205263)
+* 05/30/2025 [Senate Democrats](/org/senate_democrats/) - [Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/05/29/looking-back-at-our-2025-session-accomplishments/#:~:text=SB%205263)
 * 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=SB%205263)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=SB%205263)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session ends with progress on public school funding - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/01/2025-session-ends-with-progress-on-public-school-funding/#:~:text=SB%205263)
@@ -24,6 +27,7 @@
 * 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Supreme Court strikes down Spokane camping ban initiative | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-supreme-court-strikes-down-spokane-camping-ban-initiative#:~:text=Senate%20Bill%205263)
 * 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature#:~:text=Senate%20Bill%205263)
 * 04/17/2025 [KUOW](/org/kuow/) - [KUOW - Could Washington state be on the brink of fully funding special education?](https://www.kuow.org/stories/long-overdue-wa-lawmakers-may-remove-cap-on-special-education-funding#:~:text=Senate%20Bill%205263)
+* 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/news/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature/#:~:text=Senate%20Bill%205263)
 * 04/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington takes ‘historic’ step toward full funding for special education • Washington State Standard](https://washingtonstatestandard.com/2025/04/16/washington-takes-historic-step-to-assure-full-funding-for-special-education/#:~:text=Senate%20Bill%205263)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=E2SSB%205263)
 * 04/01/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in education is my top priority  - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/04/01/funding-education-is-my-top-priority/#:~:text=5263)

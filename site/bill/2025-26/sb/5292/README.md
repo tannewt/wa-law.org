@@ -9,7 +9,6 @@
 
 ## 📰 Articles
 * 04/29/2025 [Washington State Standard](/org/washington_state_standard/) - [Low-income workers should not have to give higher-income workers more of their wages • Washington State Standard](https://washingtonstatestandard.com/2025/04/29/low-income-workers-should-not-have-to-give-higher-income-workers-more-of-their-wages/#:~:text=Senate%20Bill%205292)
-* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205292)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205292)
 
 ## Meetings

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 17 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Aug 2025 16:08:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -218,13 +218,6 @@
 			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-20/Referred to Appropriations.</guid>
-		</item>
-		<item>
-			<title>Safer streets | Washington State House Republicans</title>
-			<description>News article "Safer streets | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 22 Feb 2025 18:21:21 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201409</guid>
 		</item>
 		<item>
 			<title>Safer streets | Washington State House Republicans</title>
@@ -468,13 +461,6 @@
 			<description>News article "How Democrats want to tax you | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409</guid>
-		</item>
-		<item>
-			<title>How Democrats want to tax you | Washington State House Republicans</title>
-			<description>News article "How Democrats want to tax you | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201409</guid>
 		</item>
 		<item>
@@ -583,9 +569,23 @@
 		<item>
 			<title>WA environmental legislation passed this year that you should know | Cascade PBS</title>
 			<description>News article "WA environmental legislation passed this year that you should know | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 25 Apr 2025 04:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know/#:~:text=House%20Bill%201409</guid>
+		</item>
+		<item>
+			<title>WA environmental legislation passed this year that you should know | Cascade PBS</title>
+			<description>News article "WA environmental legislation passed this year that you should know | Cascade PBS" from Cascade PBS.</description>
 			<pubDate>Fri, 25 Apr 2025 11:59:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=House%20Bill%201409</guid>
+		</item>
+		<item>
+			<title>New state laws improve environmental protections - Sen. Jamie Pedersen</title>
+			<description>News article "New state laws improve environmental protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 15 May 2025 23:15:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/05/15/new-state-laws-improve-environmental-protections/#:~:text=HB%201409</guid>
 		</item>
 		<item>
 			<title>Effective date 7/27/2025.</title>
@@ -593,6 +593,34 @@
 			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-17/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Tue, 15 Jul 2025 23:49:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%201409</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201409</guid>
+		</item>
+		<item>
+			<title>Summer update: New taxes, old budget problems | Washington State House Republicans</title>
+			<description>News article "Summer update: New taxes, old budget problems | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 26 Jul 2025 18:08:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/summer-update-new-taxes-old-budget-problems/#:~:text=House%20Bill%201409</guid>
+		</item>
+		<item>
+			<title>Protecting our environment, preserving our future - Sen. Javier Valdez</title>
+			<description>News article "Protecting our environment, preserving our future - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Fri, 08 Aug 2025 16:08:08 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=HB%201409</guid>
 		</item>
 	</channel>
 </rss>

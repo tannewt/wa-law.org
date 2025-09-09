@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205186)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205186)
 
 ## Meetings

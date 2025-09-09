@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=HB%201094)
 * 04/07/2025 [House Democrats](/org/house_democrats/) - [“Community means being there for each other”: Governor signs Walen non-profit property tax exemption.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/07/community-means-being-there-for-each-other-governor-signs-walen-non-profit-property-tax-exemption/#:~:text=House%20Bill%201094)
 
 ## Meetings

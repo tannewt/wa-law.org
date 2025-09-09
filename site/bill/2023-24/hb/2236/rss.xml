@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2236/</link>
 		<description>Updates about HB 2236</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -443,6 +443,13 @@
 			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-25/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Governor signs Shavers’ bill to create maritime career training pipeline in high schools.  – Washington State House Democrats</title>
+			<description>News article "Governor signs Shavers’ bill to create maritime career training pipeline in high schools.  – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/05/15/governor-signs-shavers-bill-to-create-maritime-career-training-pipeline-in-high-schools/#:~:text=House%20Bill%202236</guid>
 		</item>
 	</channel>
 </rss>

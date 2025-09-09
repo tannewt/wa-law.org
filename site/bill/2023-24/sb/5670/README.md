@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education/#:~:text=Senate%20Bill%205670)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205670)
 * 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205670)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%205670)

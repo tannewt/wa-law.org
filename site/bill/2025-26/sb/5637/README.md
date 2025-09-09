@@ -9,7 +9,6 @@
 
 ## 📰 Articles
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205637)
-* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205637)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205637)
 * 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/10/halfway-there/#:~:text=SB%205637)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205637)

@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%206127)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%206127)
 * 04/04/2025 [Senate Democrats](/org/senate_democrats/) - [Liias’ bill codifying Apple Health coverage for HIV antiviral drugs signed into law - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/04/liias-bill-codifying-apple-health-coverage-for-hiv-antiviral-drugs-signed-into-law/#:~:text=SB%206127)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Liias bill codifying Apple Health coverage for HIV antiviral drugs - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/28/senate-passes-liias-bill-codifying-apple-health-coverage-for-hiv-antiviral-drugs/#:~:text=SB%206127)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206127)

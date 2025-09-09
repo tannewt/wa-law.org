@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 04/16/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Bills advance that favor police, housing density | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/16/bills-advance-that-favor-police-housing-density/#:~:text=Senate%20Bill%205235)
+* 03/17/2023 [Cascade PBS](/org/cascade_pbs/) - [WA looks to address housing shortage with density, zoning changes | Cascade PBS](https://www.cascadepbs.org/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes/#:~:text=Senate%20Bill%205235)
 * 03/17/2023 [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=Senate%20Bill%205235)
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205235)
 * 03/09/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent cap bill dies, housing density lives on in Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2023/mar/09/rent-cap-bill-dies-housing-density-lives-on-in-legislature/#:~:text=Senate%20Bill%205235)

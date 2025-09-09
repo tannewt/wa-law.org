@@ -8,9 +8,12 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/24/2025 [The Center Square](/org/the_center_square/) - [Public comment sought on draft of WA Transportation Plan Vision 2050 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7d75d857-15ae-470c-bebc-187f95975357.html#:~:text=transportation%20budget)
 * 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205161)
+* 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Transportation budget keeps SR 520 project on track - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/15/transportation-budget-keeps-sr-520-project-on-track-2/#:~:text=spending%20plan)
 * 04/28/2025 [House Republicans](/org/house_republicans/) - [Sine Die | Washington State House Republicans](https://houserepublicans.wa.gov/current/sine-die/#:~:text=transportation%20budget)
 * 04/27/2025 [Washington State Standard](/org/washington_state_standard/) - [$15.5B Washington transportation budget nears final vote • Washington State Standard](https://washingtonstatestandard.com/2025/04/26/15-5b-washington-transportation-budget-heads-toward-final-vote/#:~:text=Senate%20Bill%205161)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205161)

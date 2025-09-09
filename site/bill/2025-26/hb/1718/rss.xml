@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1718/</link>
 		<description>Updates about HB 1718</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Jul 2025 17:39:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -184,6 +184,13 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 10 Jul 2025 17:39:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=HB%201718</guid>
 		</item>
 	</channel>
 </rss>

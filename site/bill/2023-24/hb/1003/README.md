@@ -8,7 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/10/2023 [Cascade PBS](/org/cascade_pbs/) - [Rifle ban, housing bills and more advance in the WA Legislature | Cascade PBS](https://www.cascadepbs.org/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature/#:~:text=1003)
 * 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=1003)
+* 02/21/2023 [Cascade PBS](/org/cascade_pbs/) - [WA may soon expand dual-credit programs for high schoolers | Cascade PBS](https://www.cascadepbs.org/politics/2023/02/wa-may-soon-expand-dual-credit-programs-high-schoolers/#:~:text=1003)
 * 02/21/2023 [Crosscut](/org/crosscut/) - [WA may soon expand dual-credit programs for high schoolers | Crosscut](https://crosscut.com/politics/2023/02/wa-may-soon-expand-dual-credit-programs-high-schoolers#:~:text=1003)
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201003)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201003)

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 06/16/2025 [The Center Square](/org/the_center_square/) - [Washington family of murder victim protests potential early release of killers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d996e075-39a6-4eb5-86f7-b78ff2513010.html#:~:text=House%20Bill%201125)
 * 03/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Lawmakers condemn protest at home of Democratic WA legislator • Washington State Standard](https://washingtonstatestandard.com/2025/03/26/lawmakers-condemn-protest-at-home-of-democratic-wa-legislator/#:~:text=House%20Bill%201125)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201125)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201125)
@@ -18,7 +19,6 @@
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/kiro-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/ktth/ktth-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Washington bill would give judges discretion to reduce sentences of convicted felons | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_76e2516e-d9d5-11ef-bde8-9b56aaa674b3.html#:~:text=House%20Bill%201125)
-* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201125)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201125)
 
 ## Meetings

@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=HB%201651)
+* 07/09/2025 [Senate Democrats](/org/senate_democrats/) - [Education that works for every student - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=HB%201651)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESHB%201651)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=ESHB%201651)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESHB%201651)
@@ -19,7 +21,6 @@
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201651)
 * 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201651)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201651)
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201651)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201651)
 
 ## Meetings

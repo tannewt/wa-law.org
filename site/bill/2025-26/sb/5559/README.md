@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/24/2025 [The Center Square](/org/the_center_square/) - [WATCH: Changes to Washington state housing laws take effect on Sunday | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8baa553f-3310-4c04-9cf3-b1d948ee933e.html#:~:text=Senate%20Bill%205559)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=“unit%20lot%20subdivision”)
 * 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=SB%205559)
 * 05/14/2025 [The Washington Observer](/org/the_washington_observer/) - [Another mild veto - by Tim Gruver and Paul Queary](https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=Senate%20Bill%205559)

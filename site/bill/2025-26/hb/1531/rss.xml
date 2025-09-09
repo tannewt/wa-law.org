@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1531/</link>
 		<description>Updates about HB 1531</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Sep 2025 18:07:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -811,13 +811,6 @@
 			<description>News article "Parental rights | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 15 Mar 2025 17:22:56 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531</guid>
-		</item>
-		<item>
-			<title>Parental rights | Washington State House Republicans</title>
-			<description>News article "Parental rights | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 15 Mar 2025 17:22:56 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531</guid>
 		</item>
 		<item>
@@ -1473,6 +1466,34 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/Effective date 4/21/2025.</guid>
+		</item>
+		<item>
+			<title>Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 10 Jul 2025 17:39:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=HB%201531</guid>
+		</item>
+		<item>
+			<title>Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Tue, 15 Jul 2025 23:49:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%201531</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201531</guid>
+		</item>
+		<item>
+			<title>West Coast Alliance and WA’s Vaccine Mandate: A Coordinated Power Shift - Conservative Ladies of Washington</title>
+			<description>News article "West Coast Alliance and WA’s Vaccine Mandate: A Coordinated Power Shift - Conservative Ladies of Washington" from Conservative Ladies of Washington.</description>
+			<pubDate>Fri, 05 Sep 2025 18:07:36 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://conservativeladiesofwa.com/west-coast-health-alliance-wa-vaccine/#:~:text=ESHB%201531</guid>
 		</item>
 	</channel>
 </rss>

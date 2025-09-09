@@ -13,6 +13,7 @@
 
 ## 📰 Articles
 * 10/01/2024 [Gorge News Center](/org/gorge_news_center/) - [GOP legislative staff OK contract as Democratic employees say no](https://gorgenewscenter.com/2024/10/01/gop-legislative-staff-ok-contract-as-democratic-employees-say-no/#:~:text=Under%20the%20collective%20bargaining%20law)
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education/#:~:text=Senate%20Bill%206194)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%206194)
 * 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%206194)
 * 03/08/2024 [Crosscut](/org/crosscut/) - [WA lawmakers approve union bargaining rules for legislative staff | Crosscut](https://crosscut.com/briefs/2024/03/wa-lawmakers-approve-union-bargaining-rules-legislative-staff#:~:text=Senate%20Bill%206194)

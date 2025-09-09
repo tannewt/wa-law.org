@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205195)

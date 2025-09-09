@@ -9,6 +9,8 @@
 ## 📰 Articles
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%202169)
 * 02/15/2024 [Cascade PBS](/org/cascade_pbs/) - [WA Legislature keeps most of its priority bills alive — so far | Cascade PBS](https://www.cascadepbs.org/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%202169)
+* 02/15/2024 [Cascade PBS](/org/cascade_pbs/) - [WA Legislature keeps most of its priority bills alive — so far | Cascade PBS](https://www.cascadepbs.org/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far/#:~:text=House%20Bill%202169)
+* 02/07/2024 [Cascade PBS](/org/cascade_pbs/) - [WA bill wants to create ‘healthier’ prisons for inmates, officers | Cascade PBS](https://www.cascadepbs.org/news/briefs/2024/02/wa-bill-wants-create-healthier-prisons-inmates-officers/#:~:text=House%20Bill%202169)
 * 02/06/2024 [Crosscut](/org/crosscut/) - [WA bill wants to create 'healthier' prisons for inmates, officers | Crosscut](https://crosscut.com/briefs/2024/02/wa-bill-wants-create-healthier-prisons-inmates-officers#:~:text=House%20Bill%202169)
 
 ## Meetings

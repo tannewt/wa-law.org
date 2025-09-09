@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5797/</link>
 		<description>Updates about SB 5797</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Jul 2025 15:08:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -642,13 +642,6 @@
 			<description>News article "More tax increase proposals | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 19 Apr 2025 23:26:33 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205797</guid>
-		</item>
-		<item>
-			<title>More tax increase proposals | Washington State House Republicans</title>
-			<description>News article "More tax increase proposals | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 19 Apr 2025 23:26:33 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205797</guid>
 		</item>
 		<item>
@@ -671,6 +664,20 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 02 Jul 2025 18:14:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=SB%205797</guid>
+		</item>
+		<item>
+			<title>Op-Ed: How to De-Trumpify the Washington State Budget » The Urbanist</title>
+			<description>News article "Op-Ed: How to De-Trumpify the Washington State Budget » The Urbanist" from The Urbanist.</description>
+			<pubDate>Tue, 08 Jul 2025 15:08:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/07/08/op-ed-how-to-de-trumpify-the-washington-state-budget/#:~:text=wealth%20tax</guid>
 		</item>
 	</channel>
 </rss>

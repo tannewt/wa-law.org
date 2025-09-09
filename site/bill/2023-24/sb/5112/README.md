@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205112)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205112)
 * 06/12/2023 [The Center Square](/org/the_center_square/) - [Washington study: ineligible voter registration ‘reduced but not eliminated’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_25e0f790-0969-11ee-a30e-7f7b581d8116.html#:~:text=Senate%20Bill%205112)
 * 05/22/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | New State Laws Enhance Election Security and Participation | South Seattle Emerald](https://southseattleemerald.com/2023/05/22/news-gleams-new-state-laws-enhance-election-security-and-participation/#:~:text=SB%205112)
 * 05/19/2023 [The Center Square](/org/the_center_square/) - [The 'presumptive right' to vote in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6d147c10-f5b7-11ed-85a7-b33ebcf944d3.html#:~:text=SB%205112)

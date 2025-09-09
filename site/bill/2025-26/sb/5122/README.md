@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205122)
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to improve public safety - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=HB%201163)
+
 ## Meetings
 ### Fri 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5122 Uniform antitrust premerger
 #### 155 👍 - Pro

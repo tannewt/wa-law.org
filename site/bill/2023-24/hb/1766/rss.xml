@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1766/</link>
 		<description>Updates about HB 1766</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 17:50:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 17 Jul 2025 13:01:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -294,6 +294,13 @@
 			<pubDate>Fri, 28 Mar 2025 17:50:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d2f8f33d-a22d-49e9-ae5a-84427cf96f2f.html#:~:text=House%20Bill%201766</guid>
+		</item>
+		<item>
+			<title>WA distributes 2,000 Hope Cards to vulnerable survivors</title>
+			<description>News article "WA distributes 2,000 Hope Cards to vulnerable survivors" from MyNorthwest.</description>
+			<pubDate>Thu, 17 Jul 2025 13:01:20 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/local/washington-hope-card-program/4111025#:~:text=HB%201766</guid>
 		</item>
 	</channel>
 </rss>

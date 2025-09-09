@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 06/18/2025 [Senate Democrats](/org/senate_democrats/) - [New laws improve worker protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=HB%201308)
+
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): SHB 1308 Access to personnel records
 #### 260 👍 - Pro

@@ -8,8 +8,10 @@
 
 ## 📰 Articles
 * 04/28/2023 [The Center Square](/org/the_center_square/) - [Another WA legislative session comes and goes with no emergency powers reform | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2e21b0f2-e60a-11ed-a23e-b71c1520342e.html#:~:text=House%20Bill%201535)
+* 04/24/2023 [Cascade PBS](/org/cascade_pbs/) - [The bills that survived Washington's 2023 legislative session | Cascade PBS](https://www.cascadepbs.org/politics/2023/04/bills-survived-washingtons-2023-legislative-session/#:~:text=House%20Bill%201535)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House%20Bill%201535)
 * 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House%20Bill%201535)
+* 03/09/2023 [Cascade PBS](/org/cascade_pbs/) - [Three years in, five Washingtonians a day are still dying of COVID | Cascade PBS](https://www.cascadepbs.org/news/2023/03/three-years-five-washingtonians-day-are-still-dying-covid/#:~:text=House%20Bill%201535)
 * 03/09/2023 [Crosscut](/org/crosscut/) - [Three years in, five Washingtonians a day are still dying of COVID | Crosscut](https://crosscut.com/news/2023/03/three-years-five-washingtonians-day-are-still-dying-covid#:~:text=House%20Bill%201535)
 * 03/08/2023 [The Center Square](/org/the_center_square/) - [Study: Washington's emergency powers statute among most permissive in nation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_484a2a30-bdd9-11ed-a0e9-1397256e740b.html#:~:text=House%20Bill%201535)
 * 03/01/2023 [The Center Square](/org/the_center_square/) - [Emergency powers reform bills seemingly dead in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_acfb254a-b854-11ed-8dbe-f7ccd3c3fc85.html#:~:text=House%20Bill%201535)

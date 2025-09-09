@@ -7,7 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/08/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our environment, preserving our future - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=SB%205036)
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205036)
+* 06/06/2025 [The Center Square](/org/the_center_square/) - [Judge dismisses lawsuit against state agencies for violating climate law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_114fa0d5-5dfe-42d1-a79f-e860cd7c3af2.html#:~:text=Senate%20Bill%205036)
+* 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws improve environmental protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/15/new-state-laws-improve-environmental-protections/#:~:text=SB%205036)
 * 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [WA environmental legislation passed this year that you should know | Cascade PBS](https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=Senate%20Bill%205036)
+* 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [WA environmental legislation passed this year that you should know | Cascade PBS](https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know/#:~:text=Senate%20Bill%205036)
 * 03/17/2025 [The Center Square](/org/the_center_square/) - [Washington Senate passes bill to speed up carbon emission data updates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9234e3c6-0358-11f0-83ee-03ad68a61e92.html#:~:text=Senate%20Bill%205036)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205036:)
 

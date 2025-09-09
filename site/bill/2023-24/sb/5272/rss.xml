@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5272/</link>
 		<description>Updates about SB 5272</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 19:13:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Aug 2025 08:54:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,13 @@
 			<pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-01-30/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>A WA bill would lower the legal driving limit to .05% BAC | Cascade PBS</title>
+			<description>News article "A WA bill would lower the legal driving limit to .05% BAC | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Thu, 09 Feb 2023 10:24:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac/#:~:text=Senate%20Bill%205272</guid>
 		</item>
 		<item>
 			<title>A WA bill would lower the legal driving limit to .05% BAC | Crosscut</title>
@@ -452,6 +459,20 @@
 			<pubDate>Fri, 05 Jan 2024 19:13:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_adb85f18-ac17-11ee-9cd5-9b365ea1d3ec.html#:~:text=Senate%20Bill%205272</guid>
+		</item>
+		<item>
+			<title>WA's work zone speed camera program continues rollout | FOX 13 Seattle</title>
+			<description>News article "WA's work zone speed camera program continues rollout | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Fri, 06 Jun 2025 19:03:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/work-zone-speed-camera-rollout#:~:text=a%202023%20law</guid>
+		</item>
+		<item>
+			<title>KUOW - Washington's new work zone speed cameras cite 7K drivers in first 90 days</title>
+			<description>News article "KUOW - Washington's new work zone speed cameras cite 7K drivers in first 90 days" from KUOW.</description>
+			<pubDate>Tue, 05 Aug 2025 08:54:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/washington-s-new-work-zone-speed-cameras-cite-7k-drivers-in-first-90-days#:~:text=unanimously%20authorized</guid>
 		</item>
 	</channel>
 </rss>

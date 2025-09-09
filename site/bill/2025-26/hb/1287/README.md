@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=HB%201287)
+
 ## Meetings
 ### Fri 03/14 08:00 AM - Health & Long Term Care (HLTC): HB 1287 Health info./coordination
 #### 26 👍 - Pro

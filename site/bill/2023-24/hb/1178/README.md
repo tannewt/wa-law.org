@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2023 [Cascade PBS](/org/cascade_pbs/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Cascade PBS](https://www.cascadepbs.org/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature/#:~:text=House%20Bill%201178)
 * 02/20/2023 [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=House%20Bill%201178)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201178)
 * 01/17/2023 [The Center Square](/org/the_center_square/) - [Bill would allow local gun control in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_008401be-96b3-11ed-a826-9bc3672af284.html#:~:text=House%20Bill%201178)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1762/</link>
 		<description>Updates about HB 1762</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 May 2024 10:21:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -482,6 +482,13 @@
 			<pubDate>Fri, 31 May 2024 10:21:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_71e8a944-1f61-11ef-b24e-b7ab66c34cbe.html#:~:text=The%20bill</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201762</guid>
 		</item>
 	</channel>
 </rss>

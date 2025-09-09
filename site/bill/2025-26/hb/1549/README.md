@@ -13,7 +13,6 @@
 
 ## 📰 Articles
 * 04/16/2025 [House Democrats](/org/house_democrats/) - [Ferguson Signs Fosse Bill Strengthening Workforce Development & Public Works Transparency – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/16/ferguson-signs-fosse-bill-strengthening-workforce-development-public-works-transparency/#:~:text=House%20Bill%201549)
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201549)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201549)
 
 ## Meetings

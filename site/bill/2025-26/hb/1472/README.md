@@ -10,7 +10,7 @@
 
 ## 📰 Articles
 * 04/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Republicans walk out after WA House committee votes to close center for people with disabilities • Washington State Standard](https://washingtonstatestandard.com/2025/04/23/republicans-walk-out-after-wa-house-committee-votes-to-close-center-for-people-with-disabilities/#:~:text=House%20Bill%201472)
-* 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](http://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=House%20Bill%201472)
+* 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [WA lawmakers propose closing schools for people with disabilities | Cascade PBS](https://www.cascadepbs.org/politics/2025/04/wa-lawmakers-propose-closing-schools-people-disabilities/#:~:text=House%20Bill%201472)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](https://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=House%20Bill%201472)
 * 04/09/2025 [The Center Square](/org/the_center_square/) - [Tearful WA lawmaker begs Dems not to close schools for developmentally disabled | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_594959b8-86de-4ee1-b961-c3415d501066.html#:~:text=House%20Bill%201472)
 * 04/02/2025 [The Center Square](/org/the_center_square/) - [Bill to close two schools for developmentally disabled clears House committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6fb500c3-cf3b-4af5-a542-dd8e927a491a.html#:~:text=House%20Bill%201472)

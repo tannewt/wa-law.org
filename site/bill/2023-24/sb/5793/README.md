@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205793)
 * 01/01/2025 [Cascade PBS](/org/cascade_pbs/) - [New minimum wage & more Washington laws going into effect in 2025 | Cascade PBS](https://crosscut.com/news/2025/01/new-minimum-wage-more-washington-laws-going-effect-2025#:~:text=qualify%20as%20a%20“family%20member”)
 * 12/24/2024 [The Center Square](/org/the_center_square/) - [Several paycheck-impacting laws set to go into effect in Washington next year | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b91c962c-c182-11ef-bfca-8fabc49e79f4.html#:~:text=Senate%20Bill%205793)
 * 04/02/2024 [Washington State Standard](/org/washington_state_standard/) - [Inslee signs worker protection bills, 'captive audience' meetings ban • Washington State Standard](https://washingtonstatestandard.com/2024/04/02/inslee-signs-worker-protection-bills-washington-ban-on-captive-audience-meetings/#:~:text=Senate%20Bill%205793)

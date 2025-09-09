@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1462/</link>
 		<description>Updates about HB 1462</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 17 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Aug 2025 16:08:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,13 +170,6 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tianyi (Matthew)/Tong/2025-02-13 08:33:30</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 14 Feb 2025 23:02:16 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201462</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans</title>
@@ -514,11 +507,32 @@
 			<guid isPermaLink="false">2025-04-25/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>New state laws improve environmental protections - Sen. Jamie Pedersen</title>
+			<description>News article "New state laws improve environmental protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 15 May 2025 23:15:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/05/15/new-state-laws-improve-environmental-protections/#:~:text=HB%201462</guid>
+		</item>
+		<item>
 			<title>Effective date 7/27/2025.</title>
 			<description>Effective date 7/27/2025.</description>
 			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-17/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201462</guid>
+		</item>
+		<item>
+			<title>Protecting our environment, preserving our future - Sen. Javier Valdez</title>
+			<description>News article "Protecting our environment, preserving our future - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Fri, 08 Aug 2025 16:08:08 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=HB%201462</guid>
 		</item>
 	</channel>
 </rss>

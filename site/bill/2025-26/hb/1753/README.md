@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 08/26/2025 [KUOW](/org/kuow/) - [KUOW - Debate flares over WA child welfare law after rise in deaths and injuries](https://www.kuow.org/stories/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries#:~:text=Democrat-led%20bill)
+
 ## Meetings

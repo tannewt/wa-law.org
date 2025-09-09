@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201747)
+* 06/18/2025 [Senate Democrats](/org/senate_democrats/) - [New laws improve worker protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=HB%201747)
+
 ## Meetings
 ### Mon 03/24 10:30 AM - Labor & Commerce (LC): EHB 1747 Job applicants and employees
 #### 194 👍 - Pro

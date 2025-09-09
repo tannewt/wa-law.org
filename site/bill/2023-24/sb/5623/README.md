@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/09/2025 [KUOW](/org/kuow/) - [KUOW - New Washington hotline to report hate crimes launches in 3 counties](https://www.kuow.org/stories/new-washington-hotline-to-report-hate-crimes-launches-in-3-counties#:~:text=more%20changes)
 * 04/06/2023 [Senate Democrats](/org/senate_democrats/) - [Dhingra bill strengthening protections against hate crimes signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/06/dhingra-bill-strengthening-protections-against-hate-crimes-signed-into-law/#:~:text=SB%205623)
 * 03/03/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | March 6 - 10, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-6-10-2023/#:~:text=SB%205623)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205623)

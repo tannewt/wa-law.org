@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 06/01/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee raises Pride flag at the Washington State Capitol campus | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7322dd60-00c8-11ee-84ba-b3300e1ec050.html#:~:text=Senate%20Substitute%20Bill%205114)
+* 05/09/2023 [Cascade PBS](/org/cascade_pbs/) - [Gov. Inslee signs bill to help survivors of sex trafficking in WA | Cascade PBS](https://www.cascadepbs.org/news/briefs/2023/05/gov-inslee-signs-bill-help-survivors-sex-trafficking-wa/#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/09/2023 [Crosscut](/org/crosscut/) - [Gov. Inslee signs bill to help survivors of sex trafficking in WA | Crosscut](https://crosscut.com/briefs/2023/05/gov-inslee-signs-bill-help-survivors-sex-trafficking-wa#:~:text=Substitute%20Senate%20Bill%205114)
 * 04/14/2023 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Update on bills, nursing shortage, capital budget & more! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2023/04/14/newsletter-update-on-bills-nursing-shortage-capital-budget-more/#:~:text=SB%205114)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205114)

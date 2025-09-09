@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201106)
 * 04/27/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB%201106)
 * 04/13/2023 [The Seattle Times](/org/the_seattle_times/) - [Child care fall through? You might be able to get unemployment in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/child-care-fall-through-you-might-be-able-to-get-unemployment-in-wa/#:~:text=House%20Bill%201106)
 * 03/28/2023 [House Democrats](/org/house_democrats/) - [Senate Committee Passes Fosse Bill Expanding Unemployment Benefits – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/28/senate-committee-passes-fosse-bill-expanding-unemployment-benefits/#:~:text=House%20Bill%201106)

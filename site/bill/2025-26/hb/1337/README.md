@@ -8,9 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201337)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201337)
-* [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=Getting%20ferries%20online%20faster)
 * [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=Getting%20ferries%20online%20faster)
 
 ## Meetings

@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/05/2025 [KUOW](/org/kuow/) - [KUOW - Washington's new work zone speed cameras cite 7K drivers in first 90 days](https://www.kuow.org/stories/washington-s-new-work-zone-speed-cameras-cite-7k-drivers-in-first-90-days#:~:text=unanimously%20authorized)
+* 06/06/2025 [FOX13](/org/fox13/) - [WA's work zone speed camera program continues rollout | FOX 13 Seattle](https://www.fox13seattle.com/news/work-zone-speed-camera-rollout#:~:text=a%202023%20law)
 * 01/05/2024 [The Center Square](/org/the_center_square/) - [Lawmakers discuss sobriety checkpoints, highway cameras to combat traffic deaths | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_adb85f18-ac17-11ee-9cd5-9b365ea1d3ec.html#:~:text=Senate%20Bill%205272)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205272)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205272)
@@ -18,6 +20,7 @@
 * 03/27/2023 [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=SB%205272)
 * 03/19/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=ESSB%205272)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205272)
+* 02/09/2023 [Cascade PBS](/org/cascade_pbs/) - [A WA bill would lower the legal driving limit to .05% BAC | Cascade PBS](https://www.cascadepbs.org/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac/#:~:text=Senate%20Bill%205272)
 * 02/09/2023 [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate%20Bill%205272)
 * 01/22/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Housing, public safety and reproductive freedom take center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/22/this-week-in-the-senate-week-3-housing-public-safety-and-reproductive-freedom-take-center-stage/#:~:text=Senate%20Bill%205272)
 

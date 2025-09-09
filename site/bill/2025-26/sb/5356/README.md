@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to improve public safety - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=SB%205356)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205356)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Orwall bill to expand training for Title IX investigators, police officers - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/03/04/senate-passes-orwall-bill-to-expand-training-for-title-ix-investigators-police-officers/#:~:text=here)
 

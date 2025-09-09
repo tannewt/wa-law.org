@@ -7,11 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/24/2025 [The Center Square](/org/the_center_square/) - [WATCH: Changes to Washington state housing laws take effect on Sunday | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8baa553f-3310-4c04-9cf3-b1d948ee933e.html#:~:text=House%20Bill%201403)
 * 05/20/2025 [The Urbanist](/org/the_urbanist/) - [After ‘Year of Housing 2.0’, Policymakers Eye Next Big Housing Moves - The Urbanist](https://www.theurbanist.org/2025/05/20/after-year-of-housing-2-0-policymakers-eye-next-big-housing-moves/#:~:text=condo%20liability)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201403)
 * 05/09/2025 [The Urbanist](/org/the_urbanist/) - [The Deck is Stacked Against Stacked Flats in Seattle - The Urbanist](https://www.theurbanist.org/2025/05/09/the-deck-is-stacked-against-stacked-flats-in-seattle/#:~:text=House%20Bill%201403)
 * 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=HB%201403)
 * 05/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Cap on rent increases across Washington is signed into law • Washington State Standard](https://washingtonstatestandard.com/2025/05/07/cap-on-rent-increases-across-washington-is-signed-into-law/#:~:text=House%20Bill%201403)
+* 05/07/2025 [Sightline Institute](/org/sightline_institute/) - [The WA housing bills becoming law today | Sightline Institute](https://www.sightline.org/release/the-wa-housing-bills-becoming-law-today/#:~:text=HB%201403)
 * 04/28/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Makes It Across the Finish Line at Last Minute - The Urbanist](https://www.theurbanist.org/2025/04/28/rent-stabilization-crosses-finish-line/#:~:text=condominium%20liability%20reform)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201403)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201403)

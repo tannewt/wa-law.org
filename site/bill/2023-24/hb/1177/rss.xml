@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1177/</link>
 		<description>Updates about HB 1177</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 07 Nov 2023 00:04:47 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Jun 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,13 @@
 			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-01-27/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>WA may launch a cold-case unit for missing, murdered Indigenous people | Cascade PBS</title>
+			<description>News article "WA may launch a cold-case unit for missing, murdered Indigenous people | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 27 Jan 2023 09:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/2023/01/wa-may-launch-cold-case-unit-missing-murdered-indigenous-people/#:~:text=House%20Bill%201177</guid>
 		</item>
 		<item>
 			<title>WA may launch a cold-case unit for missing, murdered Indigenous people | Crosscut</title>
@@ -468,6 +475,13 @@
 			<pubDate>Tue, 07 Nov 2023 00:04:47 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/wa-hires-leader-for-new-investigative-unit-focused-on-missing-and-murdered-indigenous-people/#:~:text=House%20Bill%201177</guid>
+		</item>
+		<item>
+			<title>Rep. Debra Lekanoff Commends First Arrest by MMIWP Cold Case Unit: A Historic Step Toward Justice – Washington State House Democrats</title>
+			<description>News article "Rep. Debra Lekanoff Commends First Arrest by MMIWP Cold Case Unit: A Historic Step Toward Justice – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/06/26/rep-debra-lekanoff-commends-first-arrest-by-mmiwp-cold-case-unit-a-historic-step-toward-justice/#:~:text=House%20Bill%201177</guid>
 		</item>
 	</channel>
 </rss>

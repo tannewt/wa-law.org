@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=SB%205804)
+* 07/09/2025 [Senate Democrats](/org/senate_democrats/) - [Education that works for every student - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=SB%205804)
 * 04/27/2025 [Washington State Standard](/org/washington_state_standard/) - [$15.5B Washington transportation budget nears final vote • Washington State Standard](https://washingtonstatestandard.com/2025/04/26/15-5b-washington-transportation-budget-heads-toward-final-vote/#:~:text=Senate%20Bill%205804)
 * 04/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Up a creek: $5B culvert removal plan appears dead in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/19/up-a-creek-5b-culvert-removal-plan-appears-dead-in-wa-legislature/#:~:text=Senate%20Bill%205804)
 * 03/31/2025 [Washington State Standard](/org/washington_state_standard/) - [New $5B plan to fund culvert removals unveiled by WA senators • Washington State Standard](https://washingtonstatestandard.com/2025/03/31/new-5b-plan-to-fund-culvert-removals-unveiled-by-wa-senators/#:~:text=Senate%20Bill%205804)

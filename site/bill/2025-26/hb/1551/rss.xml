@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1551/</link>
 		<description>Updates about HB 1551</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 May 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,13 +21,6 @@
 			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-23/First reading, referred to Consumer Protection &amp; Business.</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201551</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
@@ -280,6 +273,13 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Legislative Black Caucus Celebrates Historic Wins – Washington State House Democrats</title>
+			<description>News article "Legislative Black Caucus Celebrates Historic Wins – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/05/01/legislative-black-caucus-celebrates-historic-wins-for-black-washingtonians/#:~:text=HB%201551</guid>
 		</item>
 	</channel>
 </rss>

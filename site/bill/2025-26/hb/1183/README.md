@@ -11,9 +11,11 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/07/2025 [The Urbanist](/org/the_urbanist/) - [Downtown Mass-Timber Tower Project Meets Resistance at Seattle Landmark Board » The Urbanist](https://www.theurbanist.org/2025/08/07/downtown-mass-timber-tower-project-meets-resistance-at-seattle-landmark-board/#:~:text=House%20Bill%201183)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201183)
 * 05/08/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization, Parking Reforms Become Law in Washington - The Urbanist](https://www.theurbanist.org/2025/05/08/rent-stabilization-parking-reforms-become-law-in-washington/#:~:text=House%20Bill%201183)
 * 04/28/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Makes It Across the Finish Line at Last Minute - The Urbanist](https://www.theurbanist.org/2025/04/28/rent-stabilization-crosses-finish-line/#:~:text=building%20code%20reform)
+* 04/17/2025 [Sightline Institute](/org/sightline_institute/) - [WA leaders just passed these major housing bills | Sightline Institute](https://www.sightline.org/release/wa-leaders-just-passed-these-major-housing-bills/#:~:text=HB%201183)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201183)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201183)
 

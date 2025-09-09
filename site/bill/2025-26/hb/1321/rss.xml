@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1321/</link>
 		<description>Updates about HB 1321</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 20:43:24 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Jun 2025 22:03:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,13 @@
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Lawmakers mull limit on out-of-state National Guard access in WA | Cascade PBS</title>
+			<description>News article "Lawmakers mull limit on out-of-state National Guard access in WA | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 31 Jan 2025 13:33:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/briefs/2025/01/lawmakers-mull-limit-out-state-national-guard-access-wa/#:~:text=House%20Bill%201321</guid>
 		</item>
 		<item>
 			<title>Lawmakers mull limit on out-of-state National Guard access in WA | Cascade PBS</title>
@@ -312,6 +319,34 @@
 			<pubDate>Mon, 21 Apr 2025 20:43:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/wa-bill-to-restrict-outside-national-guard-from-entering-state-is-signed-into-law/#:~:text=House%20Bill%201321</guid>
+		</item>
+		<item>
+			<title>KUOW - Gov. Ferguson prepares for possibility of Trump deploying troops in Washington</title>
+			<description>News article "KUOW - Gov. Ferguson prepares for possibility of Trump deploying troops in Washington" from KUOW.</description>
+			<pubDate>Wed, 11 Jun 2025 15:50:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/ferguson-prepares-for-possibility-of-trump-deploying-troops-in-washington#:~:text=the%20bill</guid>
+		</item>
+		<item>
+			<title>WA Lawmakers to Trump: We Will Not Be Intimidated / Legisladores de Washington a Trump: No Nos Dejaremos Intimidar – Washington State House Democrats</title>
+			<description>News article "WA Lawmakers to Trump: We Will Not Be Intimidated / Legisladores de Washington a Trump: No Nos Dejaremos Intimidar – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/06/13/wa-lawmakers-to-trump-we-will-not-be-intimidated-legisladores-de-washington-a-trump-no-nos-dejaremos-intimidar/#:~:text=HB%201321</guid>
+		</item>
+		<item>
+			<title>Senate Majority Leader Pedersen, Speaker Jinkins: “Washingtonians stick by their neighbors” - Washington Senate Democrats</title>
+			<description>News article "Senate Majority Leader Pedersen, Speaker Jinkins: “Washingtonians stick by their neighbors” - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Fri, 13 Jun 2025 18:16:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/06/13/senate-majority-leader-pedersen-speaker-jinkins-washingtonians-stick-by-their-neighbors/#:~:text=took%20action</guid>
+		</item>
+		<item>
+			<title>WA Lawmakers to Trump: We Will Not Be Intimidated - Washington Senate Democrats</title>
+			<description>News article "WA Lawmakers to Trump: We Will Not Be Intimidated - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Fri, 13 Jun 2025 22:03:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/06/13/wa-lawmakers-to-trump-we-will-not-be-intimidated/#:~:text=HB%201321</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,7 +10,9 @@
 * [Second Engrossed Substitute](S.E2/)
 
 ## 📰 Articles
+* 04/18/2023 [Cascade PBS](/org/cascade_pbs/) - [New law prepares Washington for interstate cannabis sales | Cascade PBS](https://www.cascadepbs.org/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales/#:~:text=Senate%20Bill%205546)
 * 04/18/2023 [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate%20Bill%205546)
+* 03/03/2023 [Cascade PBS](/org/cascade_pbs/) - [How federal weed legalization would impact Washington state | Cascade PBS](https://www.cascadepbs.org/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state/#:~:text=Senate%20Bill%205546)
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate%20Bill%205546)
 
 ## Meetings

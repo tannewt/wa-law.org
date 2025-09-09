@@ -9,7 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201551)
+* 05/01/2025 [House Democrats](/org/house_democrats/) - [Legislative Black Caucus Celebrates Historic Wins – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/01/legislative-black-caucus-celebrates-historic-wins-for-black-washingtonians/#:~:text=HB%201551)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201551)
 
 ## Meetings

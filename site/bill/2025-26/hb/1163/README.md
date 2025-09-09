@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/13/2025 [KUOW](/org/kuow/) - [KUOW - Concealed carry licenses in Washington jump after approval of gun permit law](https://www.kuow.org/stories/concealed-carry-licenses-in-washington-jump-after-approval-of-gun-permit-law#:~:text=House%20Bill%201163,)
+* 07/21/2025 [The Center Square](/org/the_center_square/) - [Ahead of permit to purchase, WA experiencing a surge in concealed pistol licenses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_78e5bc92-bb0f-4e4c-a16d-2212d68112e0.html#:~:text=House%20Bill%201163)
 * 05/21/2025 [The Washington Observer](/org/the_washington_observer/) - [Ferguson tacks left and embraces the Legislature](https://washingtonobserver.substack.com/p/ferguson-tacks-left-and-embraces#:~:text=House%20Bill%201163)
 * 05/21/2025 [FOX13](/org/fox13/) - [New WA law requires state permit to buy guns | FOX 13 Seattle](https://www.fox13seattle.com/news/new-washington-gun-permit-law#:~:text=House%20Bill%201163)
 * 05/21/2025 [MyNorthwest](/org/mynorthwest/) - [Gun permit bill signed into law by Gov. Ferguson](https://mynorthwest.com/mynorthwest-politics/gun-permit-bill-2/4090388#:~:text=E2SHB%201163)
@@ -40,7 +42,6 @@
 * 03/12/2025 [Cascade PBS](/org/cascade_pbs/) - [The view from Olympia: Meet our new state politics reporter | Cascade PBS](https://www.cascadepbs.org/inside-cascade-pbs/2025/03/view-olympia-meet-our-new-state-politics-reporter#:~:text=permits%20to%20purchase%20firearms)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=ESHB%201163)
 * 03/10/2025 [The Center Square](/org/the_center_square/) - [After hours-long debate, House Dems pass bill requiring permits for gun purchases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4df4c5bc-fde7-11ef-8143-175771d022e0.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201163)
-* 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201163)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201163)
 * 03/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Controversial permit-to-purchase gun bill clears Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/03/08/controversial-permit-to-purchase-gun-bill-clears-washington-senate/#:~:text=House%20Bill%201163)
 * 03/06/2025 [FOX13](/org/fox13/) - [Groups lobby for more gun regulations in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/groups-lobby-gun-regulations-wa#:~:text=House%20Bill%201163)
@@ -58,7 +59,6 @@
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201163)
 * 01/16/2025 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201163)
 * 01/14/2025 [MyNorthwest](/org/mynorthwest/) - [Pimps take over Seattle, but Washington Dems take away our guns](https://mynorthwest.com/ktth/ktth-opinion/rantz-will-dangerous-pimps-taking-over-seattle-follow-washington-democrats-gun-laws/4028108#:~:text=House%20Bill%201163)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Nick Brown testifies in support of ‘permit to purchase’ legislation | Washington State](http://www.atg.wa.gov/news/news-releases/ag-nick-brown-testifies-support-permit-purchase-legislation#:~:text=HB%201163)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Nick Brown testifies in support of ‘permit to purchase’ legislation | Washington State](https://www.atg.wa.gov/news/news-releases/ag-nick-brown-testifies-support-permit-purchase-legislation#:~:text=HB%201163)
 
 ## Meetings

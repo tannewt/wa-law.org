@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6109/</link>
 		<description>Updates about SB 6109</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 07 Jan 2025 12:01:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 26 Aug 2025 13:03:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -741,6 +741,13 @@
 			<pubDate>Tue, 07 Jan 2025 12:01:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_fd0854be-cc79-11ef-9302-2b3d8c646cc8.html#:~:text=Senate%20Bill%206109,</guid>
+		</item>
+		<item>
+			<title>KUOW - Debate flares over WA child welfare law after rise in deaths and injuries</title>
+			<description>News article "KUOW - Debate flares over WA child welfare law after rise in deaths and injuries" from KUOW.</description>
+			<pubDate>Tue, 26 Aug 2025 13:03:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries#:~:text=addressed%20the%20issue</guid>
 		</item>
 	</channel>
 </rss>

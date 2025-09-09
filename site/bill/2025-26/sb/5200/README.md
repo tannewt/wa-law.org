@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=SB%205200)
+
 ## Meetings
 ### Tue 03/18 01:30 PM - Health Care & Wellness (HCW): ESSB 5200 Veteran medical foster homes
 #### 173 👍 - Pro

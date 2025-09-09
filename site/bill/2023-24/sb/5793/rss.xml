@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5793/</link>
 		<description>Updates about SB 5793</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 01 Jan 2025 13:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -345,6 +345,13 @@
 			<pubDate>Wed, 01 Jan 2025 13:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://crosscut.com/news/2025/01/new-minimum-wage-more-washington-laws-going-effect-2025#:~:text=qualify%20as%20a%20“family%20member”</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205793</guid>
 		</item>
 	</channel>
 </rss>

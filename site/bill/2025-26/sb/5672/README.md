@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=SB%205672)
+
 ## Meetings
 ### Wed 03/19 01:30 PM - Health Care & Wellness (HCW): SB 5672 Home care aide certification
 #### 83 👍 - Pro

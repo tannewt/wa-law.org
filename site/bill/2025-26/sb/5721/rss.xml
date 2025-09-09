@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5721/</link>
 		<description>Updates about SB 5721</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 May 2025 18:12:20 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 22:25:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -197,13 +197,6 @@
 			<description>News article "The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 28 Mar 2025 22:06:30 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205721</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 28 Mar 2025 22:06:30 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205721</guid>
 		</item>
 		<item>
@@ -373,6 +366,13 @@
 			<pubDate>Tue, 20 May 2025 18:12:20 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2025/05/20/stanford-right-to-appraisal-bill-signed-into-law/#:~:text=Senate%20Bill%205721,</guid>
+		</item>
+		<item>
+			<title>New state laws strengthen consumer protections - Sen. Jamie Pedersen</title>
+			<description>News article "New state laws strengthen consumer protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 25 Jun 2025 22:25:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205721</guid>
 		</item>
 	</channel>
 </rss>

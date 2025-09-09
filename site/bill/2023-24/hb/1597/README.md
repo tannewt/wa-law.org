@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 06/21/2023 [Cascade PBS](/org/cascade_pbs/) - [How WA cities’ lobbying muscle shapes housing, public records bills | Cascade PBS](https://www.cascadepbs.org/politics/2023/06/how-wa-cities-lobbying-muscle-shapes-housing-public-records-bills/#:~:text=House%20Bill%201597)
 * 06/21/2023 [Crosscut](/org/crosscut/) - [How WA cities’ lobbying muscle shapes housing, public records bills | Crosscut](https://crosscut.com/politics/2023/06/how-wa-cities-lobbying-muscle-shapes-housing-public-records-bills#:~:text=House%20Bill%201597)
 
 ## Meetings

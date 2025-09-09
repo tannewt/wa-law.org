@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1484/</link>
 		<description>Updates about HB 1484</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Jun 2025 23:36:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -180,6 +180,20 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>2025 legislative session recap - Sen. Manka Dhingra</title>
+			<description>News article "2025 legislative session recap - Sen. Manka Dhingra" from Senate Democrats.</description>
+			<pubDate>Thu, 29 May 2025 14:50:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=HB%201484</guid>
+		</item>
+		<item>
+			<title>Legislature takes action to improve public safety - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature takes action to improve public safety - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 11 Jun 2025 23:36:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=HB%201484</guid>
 		</item>
 	</channel>
 </rss>

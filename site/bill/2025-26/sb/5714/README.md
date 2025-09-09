@@ -10,8 +10,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to improve public safety - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=SB%205714)
 * 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=Senate%20Bill%205714)
 * 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=Senate%20Bill%205714)
+* 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/news/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law/#:~:text=Senate%20Bill%205714)
 * 05/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Trio of immigrant rights laws signed by WA governor • Washington State Standard](https://washingtonstatestandard.com/2025/05/14/trio-of-immigrant-rights-laws-signed-by-wa-governor/#:~:text=Senate%20Bill%205714)
 * 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=Senate%20Bill%205714)
 * 03/14/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill seeks to prevent bail bond agents from enforcing immigration law • Washington State Standard](https://washingtonstatestandard.com/2025/03/14/washington-bill-seeks-to-prevent-bail-bond-agents-from-enforcing-immigration-law/#:~:text=Senate%20Bill%205714)

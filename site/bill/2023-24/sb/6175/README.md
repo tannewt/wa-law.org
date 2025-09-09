@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/07/2025 [The Urbanist](/org/the_urbanist/) - [Downtown Mass-Timber Tower Project Meets Resistance at Seattle Landmark Board » The Urbanist](https://www.theurbanist.org/2025/08/07/downtown-mass-timber-tower-project-meets-resistance-at-seattle-landmark-board/#:~:text=change%20in%20state%20law)
 * 11/21/2024 [The Urbanist](/org/the_urbanist/) - [The Case for Converting Vacant Offices to Congregate Housing - The Urbanist](https://www.theurbanist.org/2024/11/21/the-case-for-converting-vacant-offices-to-congregate-housing/#:~:text=sales%20tax%20incentives%20for%20converting%20underused%20commercial%20buildings%20to%20affordable%20housing)
 * 08/08/2024 [The Urbanist](/org/the_urbanist/) - [Seattle Hopes to Spur Office-to-Housing Conversions with Regulatory Incentives - The Urbanist](https://www.theurbanist.org/2024/08/08/seattle-hopes-to-spur-office-to-housing-conversions-with-regulatory-incentives/#:~:text=as%20authorized%20by%20the%20state%20legislature%20last%20year)
 * 03/16/2024 [The Urbanist](/org/the_urbanist/) - [Harrell Rolls Out Incentive Proposal for Converting Offices to Housing - The Urbanist](https://www.theurbanist.org/2024/03/16/harrell-rolls-out-incentive-proposal-for-converting-offices-to-housing/#:~:text=6175)

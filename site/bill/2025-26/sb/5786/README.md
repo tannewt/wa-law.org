@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 07/26/2025 [House Republicans](/org/house_republicans/) - [Summer update: New taxes, old budget problems | Washington State House Republicans](https://houserepublicans.wa.gov/current/summer-update-new-taxes-old-budget-problems/#:~:text=Senate%20Bill%205786)
+
 ## Meetings
 ### Tue 04/22 09:00 AM - Appropriations (APP): 2SSB 5786 Liquor license fees
 #### 3 👍 - Pro

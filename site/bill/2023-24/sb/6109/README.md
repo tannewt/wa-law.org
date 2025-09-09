@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/26/2025 [KUOW](/org/kuow/) - [KUOW - Debate flares over WA child welfare law after rise in deaths and injuries](https://www.kuow.org/stories/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries#:~:text=addressed%20the%20issue)
 * 01/07/2025 [The Center Square](/org/the_center_square/) - [Budget deficit may mean protecting, not expanding, substance abuse treatment programs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fd0854be-cc79-11ef-9302-2b3d8c646cc8.html#:~:text=Senate%20Bill%206109,)
 * 08/18/2024 [Gorge News Center](/org/gorge_news_center/) - [Fewer Washington kids are going to foster care despite steady stream of child neglect reports](https://gorgenewscenter.com/2024/08/18/fewer-washington-kids-are-going-to-foster-care-despite-steady-stream-of-child-neglect-reports/#:~:text=Senate%20Bill%206109)
 * 08/17/2024 [Washington State Standard](/org/washington_state_standard/) - [Fewer Washington kids are going to foster care • Washington State Standard](https://washingtonstatestandard.com/2024/08/17/fewer-washington-kids-are-going-to-foster-care-despite-steady-stream-of-child-neglect-reports/#:~:text=Senate%20Bill%206109)
@@ -21,7 +22,6 @@
 * 02/06/2024 [KING5](/org/king5/) - [Foster parents call for improved child welfare laws in Washington | king5.com](https://www.king5.com/article/news/local/foster-parents-call-for-improved-child-welfare-laws-washington/281-d0b56195-e3b8-48be-8e65-346cb702b5eb#:~:text=Senate%20Bill%206109)
 * 01/25/2024 [PubliCola](/org/publicola/) - [KCRHA Plans More Focused Homelessness Count, Council President Supports Bills That Would Make It Easier To Take Away Drug Users' Kids - PubliCola](https://publicola.com/2024/01/25/kcrha-plans-more-focused-homelessness-count-council-president-supports-bills-that-would-make-it-easier-to-take-away-drug-users-kids/#:~:text=SB%206109)
 * 01/19/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposing child removal from homes with fentanyl gets emotional - MyNorthwest.com](https://mynorthwest.com/3947163/bill-proposes-child-removal-homes-fentanyl-sparks-charged-debate/#:~:text=Senate%20Bill%206109)
-* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=Senate%20Bill%206109)
 * [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=Senate%20Bill%206109)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=Senate%20Bill%206109)
 * [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=Senate%20Bill%206109)

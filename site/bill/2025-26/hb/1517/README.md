@@ -7,7 +7,6 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201517)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201517)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201517)
 

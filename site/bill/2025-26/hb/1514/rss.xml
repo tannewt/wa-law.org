@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1514/</link>
 		<description>Updates about HB 1514</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Aug 2025 16:08:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -288,6 +288,20 @@
 			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-13/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>New state laws improve environmental protections - Sen. Jamie Pedersen</title>
+			<description>News article "New state laws improve environmental protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 15 May 2025 23:15:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/05/15/new-state-laws-improve-environmental-protections/#:~:text=HB%201514</guid>
+		</item>
+		<item>
+			<title>Protecting our environment, preserving our future - Sen. Javier Valdez</title>
+			<description>News article "Protecting our environment, preserving our future - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Fri, 08 Aug 2025 16:08:08 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=HB%201514</guid>
 		</item>
 	</channel>
 </rss>

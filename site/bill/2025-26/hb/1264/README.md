@@ -10,8 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/20/2025 [House Democrats](/org/house_democrats/) - [New Law Signed to Boost Ferry Workforce, Improve Reliability Across Puget Sound – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/20/new-law-signed-to-boost-ferry-workforce-improve-reliability-across-puget-sound/#:~:text=Substitute%20House%20Bill%201264)
 * 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201264)
-* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201264)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201264)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201264)
 

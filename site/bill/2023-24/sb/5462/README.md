@@ -7,10 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205462)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205462)
 * 05/29/2024 [The Center Square](/org/the_center_square/) - [Washington to conduct statewide LGBTQ+ survey | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4d375822-1e06-11ef-be40-87b8d4e85614.html#:~:text=Senate%20Bill%205462)
 * 03/21/2024 [The Seattle Times](/org/the_seattle_times/) - [What to know about WA’s law requiring LGBTQ+ history in public schools | The Seattle Times](https://www.seattletimes.com/education-lab/what-to-know-about-was-law-requiring-lgbtq-history-in-public-schools/#:~:text=Senate%20Bill%205462)
 * 03/14/2024 [Crosscut](/org/crosscut/) - [Legislature decides WA schools should include LGBTQ+ history | Crosscut](https://crosscut.com/politics/2024/03/legislature-decides-wa-schools-should-include-lgbtq-history#:~:text=Senate%20Bill%205462)
 * 03/14/2024 [Cascade PBS](/org/cascade_pbs/) - [Legislature decides WA schools should include LGBTQ+ history | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/legislature-decides-wa-schools-should-include-lgbtq-history#:~:text=Senate%20Bill%205462)
+* 03/14/2024 [Cascade PBS](/org/cascade_pbs/) - [Legislature decides WA schools should include LGBTQ+ history | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/legislature-decides-wa-schools-should-include-lgbtq-history/#:~:text=Senate%20Bill%205462)
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education/#:~:text=Senate%20Bill%205462)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205462)
 * 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205462)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205462)

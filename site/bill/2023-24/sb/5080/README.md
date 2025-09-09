@@ -12,12 +12,15 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/17/2023 [Cascade PBS](/org/cascade_pbs/) - [WA senators just released more previously redacted records | Cascade PBS](https://www.cascadepbs.org/politics/2023/08/wa-senators-just-released-more-previously-redacted-records/#:~:text=Senate%20Bill%205080)
 * 08/17/2023 [Wenatchee World](/org/wenatchee_world/) - [WA senators just released more previously redacted records | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/wa-senators-just-released-more-previously-redacted-records/article_842e9cf0-3d56-11ee-8b35-3b4fd13d24d7.html#:~:text=Senate%20Bill%205080)
 * 08/17/2023 [Crosscut](/org/crosscut/) - [WA senators just released more previously redacted records | Crosscut](https://crosscut.com/politics/2023/08/wa-senators-just-released-more-previously-redacted-records#:~:text=Senate%20Bill%205080)
+* 04/18/2023 [Cascade PBS](/org/cascade_pbs/) - [New law prepares Washington for interstate cannabis sales | Cascade PBS](https://www.cascadepbs.org/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales/#:~:text=Senate%20Bill%205080)
 * 04/18/2023 [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate%20Bill%205080)
 * 03/19/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB%205080)
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205080)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205080)
+* 03/03/2023 [Cascade PBS](/org/cascade_pbs/) - [How federal weed legalization would impact Washington state | Cascade PBS](https://www.cascadepbs.org/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state/#:~:text=Senate%20Bill%205080)
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate%20Bill%205080)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205080)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=SB%205080)

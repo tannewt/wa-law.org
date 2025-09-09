@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201543)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%201543)
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=Substitute%20House%20Bill%201543)
 
 ## Meetings

@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/19/2025 [House Democrats](/org/house_democrats/) - [Shavers’ Bill to Expand Veteran Services signed into law.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/19/shavers-bill-to-expand-veteran-services-signed-into-law/#:~:text=House%20Bill%201102)
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201102)
 
 ## Meetings

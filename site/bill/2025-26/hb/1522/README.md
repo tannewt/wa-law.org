@@ -12,7 +12,6 @@
 
 ## 📰 Articles
 * 04/25/2025 [The Center Square](/org/the_center_square/) - [WA bill signed into law adds oversight to private utility wildfire protection plans | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_37c1e9cf-bfc6-4b5e-8fa1-1872bec56814.html#:~:text=House%20Bill%201522)
-* 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=prepare%20for%20wildfires)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=prepare%20for%20wildfires)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201522)
 

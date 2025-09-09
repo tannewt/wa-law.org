@@ -8,10 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202035)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202035)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=Senate%20Bill%205786%20|%20Liquor%20license%20fees)
-* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%202035)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%202035)
 
 ## Meetings

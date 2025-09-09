@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1046/</link>
 		<description>Updates about HB 1046</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 30 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Jul 2025 15:01:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,13 @@
 			<pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-30/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>WA law: No penalty for rescuing kids, pets from heatstroke in cars</title>
+			<description>News article "WA law: No penalty for rescuing kids, pets from heatstroke in cars" from MyNorthwest.</description>
+			<pubDate>Tue, 15 Jul 2025 15:01:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/local/heatstroke-wa-law/4110276#:~:text=House%20Bill%201046</guid>
 		</item>
 	</channel>
 </rss>

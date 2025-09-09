@@ -11,10 +11,12 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205412)
 * 07/30/2024 [The Urbanist](/org/the_urbanist/) - [Belltown Group Tries to Block Taller Buildings Downtown Over Birds - The Urbanist](https://www.theurbanist.org/2024/07/30/belltown-group-tries-to-block-taller-buildings-downtown-over-birds/#:~:text=Senate%20Bill%205412)
 * 11/28/2023 [The Center Square](/org/the_center_square/) - [New survey highlights possible cuts to red tape for Washington housing construction | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_87bb25e2-8e36-11ee-b21a-379fef524568.html#:~:text=Senate%20Bill%205412)
 * 07/19/2023 [The Center Square](/org/the_center_square/) - [Study: WA needs more than a quarter-million new housing units to meet demand | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2acabb02-267d-11ee-b614-2b4d3b7568f9.html#:~:text=SB%205412)
 * 07/06/2023 [MyNorthwest](/org/mynorthwest/) - [Seattle City Council passes laws to increase volume of affordable housing - MyNorthwest.com](https://mynorthwest.com/3906076/seattle-city-council-passes-laws-raise-volume-affordable-housing/#:~:text=SB%205412)
+* 05/12/2023 [Cascade PBS](/org/cascade_pbs/) - [WA lawmakers’ ‘year of housing’ could ease the affordability crisis | Cascade PBS](https://www.cascadepbs.org/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis/#:~:text=Senate%20Bill%205412)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=Senate%20Bill%205412)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=HB%205412)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%205412)

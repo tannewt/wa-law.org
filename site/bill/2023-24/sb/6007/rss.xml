@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6007/</link>
 		<description>Updates about SB 6007</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 15 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 31 Jul 2025 18:08:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -315,6 +315,13 @@
 			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-15/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Sen. Conway: Closure of local grocery store "will make an already difficult situation much worse" - Sen. Steve Conway</title>
+			<description>News article "Sen. Conway: Closure of local grocery store "will make an already difficult situation much worse" - Sen. Steve Conway" from Senate Democrats.</description>
+			<pubDate>Thu, 31 Jul 2025 18:08:19 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/conway/2025/07/31/sen-conway-closure-of-local-grocery-store-will-make-an-already-difficult-situation-much-worse/#:~:text=I%20was%20proud%20to%20sponsor%20and%20pass%20a%20bill%20in%20the%20Legislature%20in%202024</guid>
 		</item>
 	</channel>
 </rss>

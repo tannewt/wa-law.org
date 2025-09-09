@@ -12,11 +12,11 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/26/2025 [House Republicans](/org/house_republicans/) - [Summer update: New taxes, old budget problems | Washington State House Republicans](https://houserepublicans.wa.gov/current/summer-update-new-taxes-old-budget-problems/#:~:text=Senate%20Bill%205083)
 * 05/20/2025 [Senate Democrats](/org/senate_democrats/) - [Robinson bill to address health care costs, access signed into law - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/05/20/robinson-bill-to-address-health-care-costs-access-signed-into-law/#:~:text=Senate%20Bill%205083)
 * 05/15/2025 [The Center Square](/org/the_center_square/) - [Five days remain to sign WA bills into law; critics urge Ferguson to veto some | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b1f5393e-e8fd-4145-8009-24c23f49ec33.html#:~:text=Senate%20Bill%205083)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/05/07/end-of-session-report-3/#:~:text=SB%205083)
 * 04/09/2025 [Washington State Standard](/org/washington_state_standard/) - [Hospitals warn Legislature’s budget plans would deal them a financial hit • Washington State Standard](https://washingtonstatestandard.com/2025/04/09/hospitals-warn-legislatures-budget-plans-would-deal-them-a-financial-hit/#:~:text=Senate%20Bill%205083)
-* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205083)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205083)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=Senate%20Bill%205083%20|%20Insurance%20premiums)
 * 03/28/2025 [The Washington Observer](/org/the_washington_observer/) - [Hospitals warn Senate Democrats’ recommended cuts would gut their bottom line](https://washingtonobserver.substack.com/p/hospitals-warn-senate-democrats-recommended#:~:text=Senate%20Bill%205083)

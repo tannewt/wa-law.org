@@ -8,11 +8,8 @@
 
 ## 📰 Articles
 * 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill seeks to reverse poor student academic performance in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c1c3690e-e978-11ef-9420-5fcbd69a6f4c.html#:~:text=House%20Bill%201832)
-* 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201832)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201832)
-* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201832)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201832)
-* [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/better-schools/#:~:text=House%20Bill%201832)
 * [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/better-schools/#:~:text=House%20Bill%201832)
 
 ## Meetings

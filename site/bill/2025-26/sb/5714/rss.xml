@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5714/</link>
 		<description>Updates about SB 5714</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 May 2025 17:53:41 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Jun 2025 23:36:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -236,6 +236,13 @@
 		<item>
 			<title>WA governor signs three immigrants rights bills into law | Cascade PBS</title>
 			<description>News article "WA governor signs three immigrants rights bills into law | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Thu, 15 May 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law/#:~:text=Senate%20Bill%205714</guid>
+		</item>
+		<item>
+			<title>WA governor signs three immigrants rights bills into law | Cascade PBS</title>
+			<description>News article "WA governor signs three immigrants rights bills into law | Cascade PBS" from Cascade PBS.</description>
 			<pubDate>Thu, 15 May 2025 20:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=Senate%20Bill%205714</guid>
@@ -246,6 +253,13 @@
 			<pubDate>Wed, 21 May 2025 17:53:41 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=Senate%20Bill%205714</guid>
+		</item>
+		<item>
+			<title>Legislature takes action to improve public safety - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature takes action to improve public safety - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 11 Jun 2025 23:36:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=SB%205714</guid>
 		</item>
 	</channel>
 </rss>

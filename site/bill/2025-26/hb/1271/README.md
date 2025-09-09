@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/13/2025 [House Democrats](/org/house_democrats/) - [New Law Speeds Up Wildfire Response with Early Resource Deployment – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/13/new-law-speeds-up-wildfire-response-with-early-resource-deployment/#:~:text=House%20Bill%201271)
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Nance bill mobilizing wildfire response to save lives passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/nance-bill-mobilizing-wildfire-response-to-save-lives-passes-house/#:~:text=1271)
 
 ## Meetings

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/13/2025 [House Democrats](/org/house_democrats/) - [“Riders have a voice”: Timmons bill to help transit riders steer policy is signed by the governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/13/riders-have-a-voice-timmons-bill-to-help-transit-riders-steer-policy-is-signed-by-the-governor/#:~:text=House%20Bill%201418)
 * 04/16/2025 [House Democrats](/org/house_democrats/) - [Timmons bill strengthening local public transportation policy headed to Governors’ desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/16/timmons-bill-strengthening-local-public-transportation-policy-headed-to-governors-desk/#:~:text=House%20Bill%201418)
 * 03/14/2025 [PubliCola](/org/publicola/) - [To End Car Dependency, We Must Change Who Has A Seat At the Table - PubliCola](https://publicola.com/2025/03/14/to-end-car-dependency-we-must-change-who-has-a-seat-at-the-table/#:~:text=HB%201418)
 * 03/06/2025 [House Democrats](/org/house_democrats/) - [Timmons Bill to Enhance Public Transit Governing Bodies Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/timmons-bill-to-enhance-public-transit-governing-bodies-passes-house/#:~:text=House%20Bill%201418)

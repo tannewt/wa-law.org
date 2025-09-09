@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/18/2025 [The Center Square](/org/the_center_square/) - [WA commission incorporates one-year delay assumption in I-5 Bridge tolling | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4e1fc77d-43e4-4874-89de-776904a21d81.html#:~:text=House%20Bill%201958)
 * 04/09/2025 [The Center Square](/org/the_center_square/) - [WA bills authorizing $2.5 billion bonds for new I-5 Bridge clear committees | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_61b96e8e-b743-47e3-87e1-071f371a8642.html#:~:text=House%20Bill%201958)
 * 02/24/2025 [The Center Square](/org/the_center_square/) - [Bistate bridge bill authorizes Washington state to issue bonds to finance project | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6fd89978-f302-11ef-818d-2be6dd98a106.html#:~:text=House%20Bill%201958’s)
 

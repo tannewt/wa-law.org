@@ -10,7 +10,6 @@
 * 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=SB%205177)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205177)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SB%205177)
-* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205177)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205177)
 * 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to improve equity in educator training resources - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/10/senate-passes-nobles-bill-to-improve-equity-in-educator-training-resources/#:~:text=Senate%20Bill%205177)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205177)

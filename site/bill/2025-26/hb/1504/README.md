@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/06/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [CPLs Skyrocket in Wake of Gun Control Overreach - Conservative Ladies of Washington](https://conservativeladiesofwa.com/cpls-skyrocket-in-wake-of-gun-control-overreach/#:~:text=HB%201504)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201504)
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201504)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201504)
 * 01/22/2025 [The Center Square](/org/the_center_square/) - [House Democrat pushes bill requiring liability policy to buy or possess firearms | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d3707ec-d8f8-11ef-887b-dbfe2e974c57.html#:~:text=House%20Bill%201504)
 

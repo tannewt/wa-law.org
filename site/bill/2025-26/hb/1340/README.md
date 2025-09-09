@@ -7,9 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201340)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201340)
-* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201340)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201340)
 
 ## Meetings

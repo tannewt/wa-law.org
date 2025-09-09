@@ -11,6 +11,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=HB%201813)
+
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): E2SHB 1813 Medical assist reprocurement
 #### 33 👍 - Pro

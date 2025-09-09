@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205843)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205843)
 * 04/05/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [As campaigning revs up, WA laws aim to detect cyber attacks and protect election workers | Cascadia Daily News](https://www.cascadiadaily.com/2024/apr/05/as-campaigning-revs-up-wa-laws-aim-to-detect-cyber-attacks-and-protect-election-workers/#:~:text=Senate%20Bill%205843)
 * 04/03/2024 [The Seattle Times](/org/the_seattle_times/) - [WA laws aim to detect cyber attacks, protect election workers | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-laws-aim-to-detect-cyber-attacks-protect-election-workers/#:~:text=Senate%20Bill%205843)
 * 04/02/2024 [Washington State Standard](/org/washington_state_standard/) - [As campaigning revs up, WA laws aim to detect cyber attacks and protect election workers • Washington State Standard](https://washingtonstatestandard.com/2024/04/01/as-campaigning-revs-up-wa-laws-aim-to-detect-cyber-attacks-and-protect-election-workers/#:~:text=Senate%20Bill%205843)

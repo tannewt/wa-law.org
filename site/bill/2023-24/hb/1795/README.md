@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 12/27/2024 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Legislature Should Close the Family Foundation Loophole for Estate Taxes - The Urbanist](https://www.theurbanist.org/2024/12/27/op-ed-close-the-family-foundation-estate-tax-loophole/#:~:text=a%20bill%20that%20would%20narrow%20this%20family%20foundation%20loophole.)
 * 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201795)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/2023-legislative-progress/#:~:text=HB%201795)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=HB%201795)
 
 ## Meetings

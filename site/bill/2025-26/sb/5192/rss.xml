@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5192/</link>
 		<description>Updates about SB 5192</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 May 2025 18:23:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 02 Sep 2025 15:33:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1199,13 +1199,6 @@
 			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205192</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205192</guid>
 		</item>
 		<item>
@@ -1485,6 +1478,13 @@
 		<item>
 			<title>Bill to fully fund special ed progresses through WA legislature | Cascade PBS</title>
 			<description>News article "Bill to fully fund special ed progresses through WA legislature | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Thu, 17 Apr 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature/#:~:text=Senate%20Bill%205192</guid>
+		</item>
+		<item>
+			<title>Bill to fully fund special ed progresses through WA legislature | Cascade PBS</title>
+			<description>News article "Bill to fully fund special ed progresses through WA legislature | Cascade PBS" from Cascade PBS.</description>
 			<pubDate>Thu, 17 Apr 2025 20:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature#:~:text=Senate%20Bill%205192</guid>
@@ -1586,6 +1586,27 @@
 			<pubDate>Wed, 21 May 2025 18:23:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/05/21/nobles-bill-advocating-for-stronger-school-funding-signed-into-law/#:~:text=Senate%20Bill%205192</guid>
+		</item>
+		<item>
+			<title>Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon</title>
+			<description>News article "Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon" from Senate Democrats.</description>
+			<pubDate>Fri, 30 May 2025 00:59:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/salomon/2025/05/29/looking-back-at-our-2025-session-accomplishments/#:~:text=SB%205192</guid>
+		</item>
+		<item>
+			<title>Education that works for every student - Sen. Javier Valdez</title>
+			<description>News article "Education that works for every student - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Wed, 09 Jul 2025 21:33:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=SB%205192</guid>
+		</item>
+		<item>
+			<title>Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña</title>
+			<description>News article "Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Tue, 02 Sep 2025 15:33:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=SB%205192</guid>
 		</item>
 	</channel>
 </rss>

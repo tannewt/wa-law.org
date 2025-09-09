@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=HB%201718)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Protecting Physician Well-Being & Supporting Workforce Retention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/protecting-physician-well-being-supporting-workforce-retention/#:~:text=House%20Bill%201718)
 
 ## Meetings

@@ -7,7 +7,6 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=House%20Bill%201708)
 * [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=House%20Bill%201708)
 
 ## Meetings

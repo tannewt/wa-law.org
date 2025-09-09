@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1155/</link>
 		<description>Updates about HB 1155</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Oct 2023 17:58:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -353,6 +353,13 @@
 			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Students lobby for WA bills on abortion and gender-affirming care | Cascade PBS</title>
+			<description>News article "Students lobby for WA bills on abortion and gender-affirming care | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 03 Feb 2023 04:57:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care/#:~:text=House%20Bill%201155</guid>
 		</item>
 		<item>
 			<title>Students lobby for WA bills on abortion and gender-affirming care | Crosscut</title>
@@ -851,6 +858,13 @@
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201155</guid>
 		</item>
 		<item>
+			<title>Washington to invest $21M in abortion, reproductive health care | Cascade PBS</title>
+			<description>News article "Washington to invest $21M in abortion, reproductive health care | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Thu, 11 May 2023 05:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2023/05/washington-invest-21m-abortion-reproductive-health-care/#:~:text=HB%201155</guid>
+		</item>
+		<item>
 			<title>Washington to invest $21M in abortion, reproductive health care | Crosscut</title>
 			<description>News article "Washington to invest $21M in abortion, reproductive health care | Crosscut" from Crosscut.</description>
 			<pubDate>Thu, 11 May 2023 12:00:00 GMT</pubDate>
@@ -891,6 +905,20 @@
 			<pubDate>Tue, 10 Oct 2023 17:58:19 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201155</guid>
+		</item>
+		<item>
+			<title>Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Tue, 15 Jul 2025 23:49:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%201155</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201155</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205697)
 * 12/22/2023 [Cascade PBS](/org/cascade_pbs/) - [What tenant protections will WA lawmakers consider in 2024? | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205697)
+* 12/22/2023 [Cascade PBS](/org/cascade_pbs/) - [What tenant protections will WA lawmakers consider in 2024? | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024/#:~:text=SB%205697)
 * 08/30/2023 [Crosscut](/org/crosscut/) - [WA mobile home communities organize against ‘economic eviction’ | Crosscut](https://crosscut.com/investigations/2023/08/wa-mobile-home-communities-organize-against-economic-eviction#:~:text=proposed%20bill)
 * 08/30/2023 [Cascade PBS](/org/cascade_pbs/) - [WA mobile home communities organize against ‘economic eviction’ | Cascade PBS](https://www.cascadepbs.org/investigations/2023/08/wa-mobile-home-communities-organize-against-economic-eviction#:~:text=proposed%20bill)
 

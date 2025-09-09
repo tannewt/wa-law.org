@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201386)
+* 08/06/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [CPLs Skyrocket in Wake of Gun Control Overreach - Conservative Ladies of Washington](https://conservativeladiesofwa.com/cpls-skyrocket-in-wake-of-gun-control-overreach/#:~:text=HB%201386)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201386)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=House%20Bill%201386)
 * 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=House%20Bill%201386)
@@ -16,7 +16,6 @@
 * 01/22/2025 [The Center Square](/org/the_center_square/) - [House Democrats push 11% firearm, ammo excise tax as $10B to $16B shortfall looms | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fb243d82-d914-11ef-9e0d-07292cae466c.html#:~:text=House%20Bill%201386)
 * 01/21/2025 [KING5](/org/king5/) - [Public hearings heat up in Washington over controversial gun control measures | king5.com](https://www.king5.com/article/news/local/gun-violence-survivors-gun-rights-advocates-washington-bill-proposals/281-4930edfc-010e-48d2-99fe-e86406a50714#:~:text=House%20Bill%201386)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201386)
-* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201386)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201386)
 * [Senate Republicans](/org/senate_republicans/) - [Tax Madness - Senate Republican Caucus](https://src.wastateleg.org/tax-madness/#:~:text=House%20Bill%201386)
 

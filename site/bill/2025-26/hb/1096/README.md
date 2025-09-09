@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/24/2025 [The Center Square](/org/the_center_square/) - [WATCH: Changes to Washington state housing laws take effect on Sunday | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8baa553f-3310-4c04-9cf3-b1d948ee933e.html#:~:text=House%20Bill%201096)
 * 05/20/2025 [The Urbanist](/org/the_urbanist/) - [After ‘Year of Housing 2.0’, Policymakers Eye Next Big Housing Moves - The Urbanist](https://www.theurbanist.org/2025/05/20/after-year-of-housing-2-0-policymakers-eye-next-big-housing-moves/#:~:text=lot-splitting)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201096)
 * 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=HB%201096)
@@ -22,10 +23,8 @@
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201096)
 * 03/09/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 9: House of origin cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/09/this-week-in-the-senate-week-9-house-of-origin-cutoff-arrives/#:~:text=HB%201096)
 * 03/04/2025 [The Center Square](/org/the_center_square/) - [Report: Home construction costs in Washington state climbing due to red tape | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_efe4c1d2-f94c-11ef-a413-932e6970f6ad.html#:~:text=House%20Bill%201096)
-* 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](http://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201096)
 * 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](https://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201096)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201096)
-* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201096)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201096)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=HB%201096)
 

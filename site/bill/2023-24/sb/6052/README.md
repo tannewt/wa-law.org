@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/16/2025 [Cascade PBS](/org/cascade_pbs/) - [A look at the Washington Legislature’s 2025 environmental agenda | Cascade PBS](https://www.cascadepbs.org/politics/2025/01/look-washington-legislatures-2025-environmental-agenda/#:~:text=Senate%20Bill%206052)
 * 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [What happened with WA lawmakers’ climate agenda | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=Senate%20Bill%206052)
 * 03/08/2024 [Crosscut](/org/crosscut/) - [WA Legislature revs up plan to electrify 10,000 school buses | Crosscut](https://crosscut.com/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses#:~:text=Senate%20Bill%206052)
+* 03/08/2024 [Cascade PBS](/org/cascade_pbs/) - [WA Legislature revs up plan to electrify 10,000 school buses | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses/#:~:text=Senate%20Bill%206052)
+* 02/22/2024 [Cascade PBS](/org/cascade_pbs/) - [Gas prices too high? WA residents may get $200 back for utilities | Cascade PBS](https://www.cascadepbs.org/environment/2024/02/gas-prices-too-high-wa-residents-may-get-200-back-utilities/#:~:text=Senate%20Bill%206052)
 * 02/22/2024 [Crosscut](/org/crosscut/) - [Gas prices too high? WA residents may get $200 back for utilities | Crosscut](https://crosscut.com/environment/2024/02/gas-prices-too-high-wa-residents-may-get-200-back-utilities#:~:text=Senate%20Bill%206052)
 * 02/22/2024 [Cascade PBS](/org/cascade_pbs/) - [Gas prices too high? WA residents may get $200 back for utilities | Cascade PBS](https://www.cascadepbs.org/environment/2024/02/gas-prices-too-high-wa-residents-may-get-200-back-utilities#:~:text=Senate%20Bill%206052)
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%206052)

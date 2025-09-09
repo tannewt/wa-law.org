@@ -10,6 +10,7 @@
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House%20Bill%201416)
 * 04/17/2023 [The Daily News](/org/the_daily_news/) - [Cryptocurrency miner pulls out of Mint Farm as Longview mulls regulation](https://tdn.com/news/local/govt-and-politics/cryptocurrency-miner-pulls-out-of-mint-farm-as-longview-mulls-regulation/article_0673ccec-d571-11ed-8fc3-ff503dcb0002.html#:~:text=House%20Bill%201416)
 * 02/13/2023 [The Seattle Times](/org/the_seattle_times/) - [Why PNW officials are only now deciding crypto mining regulation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/why-pnw-officials-are-only-now-deciding-crypto-mining-regulation/#:~:text=House%20Bill%201416)
+* 01/31/2023 [Cascade PBS](/org/cascade_pbs/) - [Washington and Oregon may regulate the wild West of crypto mining | Cascade PBS](https://www.cascadepbs.org/politics/2023/01/washington-and-oregon-may-regulate-wild-west-crypto-mining/#:~:text=House%20Bill%201416)
 * 01/31/2023 [Crosscut](/org/crosscut/) - [Washington and Oregon may regulate the wild West of crypto mining | Crosscut](https://crosscut.com/politics/2023/01/washington-and-oregon-may-regulate-wild-west-crypto-mining#:~:text=House%20Bill%201416)
 
 ## Meetings

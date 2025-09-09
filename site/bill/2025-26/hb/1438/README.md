@@ -7,9 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](http://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201438)
 * 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](https://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201438)
-* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201438)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201438)
 
 ## Meetings

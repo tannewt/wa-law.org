@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1644/</link>
 		<description>Updates about HB 1644</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 30 Apr 2025 13:25:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,13 +29,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Lindsey/Hueer/2025-01-29 11:15:09</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201644</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
@@ -106,6 +99,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brandon/Houskeeper/2025-02-03 05:31:49</guid>
+		</item>
+		<item>
+			<title>Washington legislature considers strengthening youth labor laws | Cascade PBS</title>
+			<description>News article "Washington legislature considers strengthening youth labor laws | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Mon, 10 Feb 2025 04:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/investigations/2025/02/washington-legislature-considers-strengthening-youth-labor-laws/#:~:text=House%20Bill%201644</guid>
 		</item>
 		<item>
 			<title>Washington legislature considers strengthening youth labor laws | Cascade PBS</title>
@@ -183,6 +183,13 @@
 			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-12/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>Dead or alive: Which bills have a chance this legislative session? | Cascade PBS</title>
+			<description>News article "Dead or alive: Which bills have a chance this legislative session? | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 14 Mar 2025 09:58:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session/#:~:text=House%20Bill%201644</guid>
 		</item>
 		<item>
 			<title>Dead or alive: Which bills have a chance this legislative session? | Cascade PBS</title>
@@ -354,6 +361,13 @@
 		<item>
 			<title>WA safety agency seeks felony charges after teen worker loses legs | Cascade PBS</title>
 			<description>News article "WA safety agency seeks felony charges after teen worker loses legs | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Thu, 24 Apr 2025 05:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/investigations/2025/04/wa-safety-agency-seeks-felony-charges-after-teen-worker-loses-legs/#:~:text=House%20Bill%201644</guid>
+		</item>
+		<item>
+			<title>WA safety agency seeks felony charges after teen worker loses legs | Cascade PBS</title>
+			<description>News article "WA safety agency seeks felony charges after teen worker loses legs | Cascade PBS" from Cascade PBS.</description>
 			<pubDate>Thu, 24 Apr 2025 12:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/investigations/2025/04/wa-safety-agency-seeks-felony-charges-after-teen-worker-loses-legs#:~:text=House%20Bill%201644</guid>
@@ -378,6 +392,20 @@
 			<pubDate>Wed, 30 Apr 2025 13:25:51 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/the-winners-at-the-2025-legislature#:~:text=House%20Bill%201644</guid>
+		</item>
+		<item>
+			<title>New laws improve worker protections - Sen. Jamie Pedersen</title>
+			<description>News article "New laws improve worker protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 18 Jun 2025 14:16:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=HB%201644</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201644</guid>
 		</item>
 	</channel>
 </rss>

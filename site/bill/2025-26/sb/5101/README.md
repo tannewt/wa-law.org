@@ -10,6 +10,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205101)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205101)
+* 06/05/2025 [Senate Democrats](/org/senate_democrats/) - [Happy Pride: New laws protect the LGBTQ+ community - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/05/happy-pride-new-laws-protect-the-lgbtq-community/#:~:text=SB%205101)
+* 06/02/2025 [Senate Democrats](/org/senate_democrats/) - [Housing solutions you can count on - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/06/02/housing-solutions-you-can-count-on/#:~:text=SB%205101)
 * 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [The Finish Line Is in Sight - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/04/23/the-finish-line-is-in-sight/#:~:text=Senate%20Bill%205101)
 * 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205101)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Pushing for progress - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/24/pushing-for-progress/#:~:text=SB%205101)

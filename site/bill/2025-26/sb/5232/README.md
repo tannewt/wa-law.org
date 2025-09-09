@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205232)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [End of session report - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/05/07/end-of-session-report/#:~:text=5232)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205232)
 

@@ -7,9 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/24/2023 [Cascade PBS](/org/cascade_pbs/) - [The bills that survived Washington's 2023 legislative session | Cascade PBS](https://www.cascadepbs.org/politics/2023/04/bills-survived-washingtons-2023-legislative-session/#:~:text=Senate%20Bill%205069)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205069)
 * 04/21/2023 [KUOW](/org/kuow/) - [KUOW - 'Social equity' cannabis licenses aim to repair drug law harms to BIPOC communities](https://www.kuow.org/stories/social-equity-cannabis-licenses-aim-to-repair-drug-law-harms-to-bipoc-communities#:~:text=SB%205069)
+* 04/18/2023 [Cascade PBS](/org/cascade_pbs/) - [New law prepares Washington for interstate cannabis sales | Cascade PBS](https://www.cascadepbs.org/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales/#:~:text=Senate%20Bill%205069)
 * 04/18/2023 [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate%20Bill%205069)
+* 03/03/2023 [Cascade PBS](/org/cascade_pbs/) - [How federal weed legalization would impact Washington state | Cascade PBS](https://www.cascadepbs.org/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state/#:~:text=Senate%20Bill%205069)
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate%20Bill%205069)
 
 ## Meetings

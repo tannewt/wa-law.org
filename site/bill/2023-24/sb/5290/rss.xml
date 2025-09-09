@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5290/</link>
 		<description>Updates about SB 5290</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Nov 2023 16:10:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -400,6 +400,13 @@
 			<pubDate>Tue, 28 Nov 2023 16:10:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_87bb25e2-8e36-11ee-b21a-379fef524568.html#:~:text=Senate%20Bill%205290</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205290</guid>
 		</item>
 	</channel>
 </rss>

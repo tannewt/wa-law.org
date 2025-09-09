@@ -27,6 +27,7 @@
 * 02/28/2023 [MyNorthwest](/org/mynorthwest/) - [Rantz: Union-backed bill gets friendly, misleading media support - MyNorthwest.com](https://mynorthwest.com/3825726/rantz-union-bill-misleading-media-support/#:~:text=SB%205236)
 * 01/18/2023 [The Seattle Times](/org/the_seattle_times/) - [Legislature must address WA nursing crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/legislature-must-address-wa-nursing-crisis/#:~:text=Senate%20Bill%205236)
 * 01/11/2023 [Senate Democrats](/org/senate_democrats/) - [News - Washington Senate Democrats](https://senatedemocrats.wa.gov/news/#:~:text=Senate%20Bill%205236)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/2023-legislative-progress/#:~:text=SB%205236)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=SB%205236)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB%205236)
 

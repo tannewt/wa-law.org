@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 06/11/2024 [The Center Square](/org/the_center_square/) - [Law banning child marriages in Washington state now in effect | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b949e5d2-2844-11ef-9d26-33cd5f8d0434.html#:~:text=House%20Bill%201455)
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education/#:~:text=House%20Bill%201455)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201455)
 * 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201455)
 * 03/08/2024 [House Democrats](/org/house_democrats/) - [Stonier bill to end child marriage in WA signed by governor  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/08/stonier-bill-to-end-child-marriage-in-wa-signed-by-governor/#:~:text=House%20Bill%201455)

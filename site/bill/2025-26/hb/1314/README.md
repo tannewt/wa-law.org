@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/29/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington bill aims to end fees for child care providers | Cascade PBS](https://www.cascadepbs.org/politics/2025/01/new-washington-bill-aims-end-fees-child-care-providers#:~:text=House%20Bill%201314)
+* 01/29/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington bill aims to end fees for child care providers | Cascade PBS](https://www.cascadepbs.org/politics/2025/01/new-washington-bill-aims-end-fees-child-care-providers/#:~:text=House%20Bill%201314)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201314)
 
 ## Meetings

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201337)
+* 07/01/2025 [The Urbanist](/org/the_urbanist/) - [Seattle Eases Accessory Dwelling Restrictions Just Ahead of State Deadline » The Urbanist](https://www.theurbanist.org/2025/07/01/seattle-eases-accessory-dwelling-restrictions-state-deadline/#:~:text=House%20Bill%201337)
 * 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle can continue housing plan after legal challenges dismissed | Cascade PBS](https://www.cascadepbs.org/news/2025/04/seattle-can-continue-housing-plan-after-legal-challenges-dismissed#:~:text=2023%20accessory%20dwelling%20unit%20law)
 * 11/22/2024 [The Urbanist](/org/the_urbanist/) - [State Senate Taps Bateman for Housing Chair in Major Committee Shakeup - The Urbanist](https://www.theurbanist.org/2024/11/22/state-senate-taps-bateman-for-housing-chair/#:~:text=accessory%20dwelling%20unit%20(ADU)%20regulations)
 * 10/15/2024 [The Urbanist](/org/the_urbanist/) - [Seattle Breaks Ground on West Coast’s First Residential Highrise of 2024 - The Urbanist](https://www.theurbanist.org/2024/10/15/seattle-breaks-ground-on-west-coasts-first-residential-highrise-of-2024/#:~:text=new%20state%20legislation)
@@ -17,6 +19,7 @@
 * 02/06/2024 [The Urbanist](/org/the_urbanist/) - [The Battle Over Allowing More Rural Accessory Dwelling Units in Washington - The Urbanist](https://www.theurbanist.org/2024/02/06/the-battle-over-allowing-more-rural-accessory-dwelling-units-in-washington/#:~:text=sweeping%20overhaul)
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201337)
 * 05/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Advocates Say Housing Levy Is Critical to Keeping Seattle Affordable and Inclusive | South Seattle Emerald](https://southseattleemerald.com/2023/05/30/advocates-say-housing-levy-is-critical-to-keeping-seattle-affordable-and-inclusive/#:~:text=House%20Bill%201337)
+* 05/12/2023 [Cascade PBS](/org/cascade_pbs/) - [WA lawmakers’ ‘year of housing’ could ease the affordability crisis | Cascade PBS](https://www.cascadepbs.org/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis/#:~:text=House%20Bill%201337)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201337)
 * 05/08/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee signs 10 housing bills into law in WA's 'year of housing' - MyNorthwest.com](https://mynorthwest.com/3886464/inslee-sign-10-housing-bills-law-washington-year-housing/#:~:text=House%20Bill%201337)
 * 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Engrossed%20House%20Bill%201337)

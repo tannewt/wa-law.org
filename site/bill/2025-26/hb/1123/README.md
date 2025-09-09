@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 06/10/2025 [The Center Square](/org/the_center_square/) - [WATCH: Industry leaders urge WA lawmakers to change course on health care costs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3da5bf7b-808a-4a04-accc-ad0f88b8785d.html#:~:text=House%20Bill%201123)
 * 04/09/2025 [Washington State Standard](/org/washington_state_standard/) - [Hospitals warn Legislature’s budget plans would deal them a financial hit • Washington State Standard](https://washingtonstatestandard.com/2025/04/09/hospitals-warn-legislatures-budget-plans-would-deal-them-a-financial-hit/#:~:text=House%20Bill%201123)
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=House%20Bill%201123)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201123)

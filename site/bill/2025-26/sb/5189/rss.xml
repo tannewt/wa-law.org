@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5189/</link>
 		<description>Updates about SB 5189</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 02 Sep 2025 15:33:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -563,6 +563,20 @@
 			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-13/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Education that works for every student - Sen. Javier Valdez</title>
+			<description>News article "Education that works for every student - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Wed, 09 Jul 2025 21:33:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=SB%205189</guid>
+		</item>
+		<item>
+			<title>Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña</title>
+			<description>News article "Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Tue, 02 Sep 2025 15:33:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=SB%205189</guid>
 		</item>
 	</channel>
 </rss>

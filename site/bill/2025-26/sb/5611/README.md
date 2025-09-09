@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/30/2025 [Senate Democrats](/org/senate_democrats/) - [Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/05/29/looking-back-at-our-2025-session-accomplishments/#:~:text=housing%20development%20legislation)
 * 05/07/2025 [The Washington Observer](/org/the_washington_observer/) - [A challenge for the House business chair](https://washingtonobserver.substack.com/p/a-challenge-for-the-house-business#:~:text=Senate%20Bill%205611)
 
 ## Meetings

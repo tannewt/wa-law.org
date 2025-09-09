@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/31/2025 [Senate Democrats](/org/senate_democrats/) - [Sen. Conway: Closure of local grocery store "will make an already difficult situation much worse" - Sen. Steve Conway](https://senatedemocrats.wa.gov/conway/2025/07/31/sen-conway-closure-of-local-grocery-store-will-make-an-already-difficult-situation-much-worse/#:~:text=I%20was%20proud%20to%20sponsor%20and%20pass%20a%20bill%20in%20the%20Legislature%20in%202024)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%206007)
 
 ## Meetings

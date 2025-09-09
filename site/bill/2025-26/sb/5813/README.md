@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=SB%205813)
+* 06/19/2025 [The Center Square](/org/the_center_square/) - [Will Washington state’s higher capital gains tax drive businesses away? | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_886de93b-f73c-49a5-b04e-f1cbd3bc6f84.html#:~:text=Senate%20Bill%205813)
+* 06/17/2025 [FOX13](/org/fox13/) - [These new WA laws go into effect July 1 | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-laws-july-1-2025#:~:text=SB%205813)
 * 05/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson signs budget boosting Washington's spending and taxes • Washington State Standard](https://washingtonstatestandard.com/2025/05/20/ferguson-signs-budget-boosting-washington-state-spending-and-taxes/#:~:text=Senate%20Bill%205813)
 * 05/20/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs WA state operating budget | FOX 13 Seattle](https://www.fox13seattle.com/news/gov-ferguson-signs-state-budget#:~:text=capital%20gains%20and%20estate%20taxes)
 * 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=SB%205813)
@@ -26,7 +29,6 @@
 * 04/22/2025 [House Democrats](/org/house_democrats/) - [Tuesday, April 22 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/22/tuesday-april-22-2/#:~:text=capital%20gains%20and%20estate%20taxes)
 * 04/21/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate Dems advance several tax hike bills as session enters last week | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c8387240-c34b-47e5-8962-d6b9e8df665c.html#:~:text=Senate%20Bill%205813)
 * 04/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Tax fight crescendos in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/04/19/tax-fight-crescendos-in-the-washington-legislature/#:~:text=Senate%20Bill%205813)
-* 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](http://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205813)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205813)
 * 04/19/2025 [Senate Republicans](/org/senate_republicans/) - [ALERT: Senate Democrats pass BILLIONS in new taxes Easter weekend - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-senate-democrats-pass-18-5-billion-new-taxes-easter-weekend/#:~:text=SB%205813:)
 * 04/18/2025 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action: Increase Capital Gains and Estate Taxes to Fund Education - WSPTA](https://www.wastatepta.org/advocacy-in-action-increase-capital-gains-and-estate-taxes-to-fund-education/#:~:text=SB%205813)

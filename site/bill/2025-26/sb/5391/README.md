@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205391)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [The future of Washington farming - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/02/07/the-future-of-washington-farming/#:~:text=Another%20bill)
 
 ## Meetings

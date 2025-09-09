@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/16/2023 [Cascade PBS](/org/cascade_pbs/) - [Washington slates $50M for trees to shade salmon streams | Cascade PBS](https://www.cascadepbs.org/environment/2023/05/washington-slates-50m-trees-shade-salmon-streams/#:~:text=House%20Bills%201215)
 * 05/16/2023 [Crosscut](/org/crosscut/) - [Washington slates $50M for trees to shade salmon streams | Crosscut](https://crosscut.com/environment/2023/05/washington-slates-50m-trees-shade-salmon-streams#:~:text=House%20Bills%201215)
 
 ## Meetings

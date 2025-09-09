@@ -12,6 +12,9 @@
 * [Session Law](S3.SL/)
 
 ## 📰 Articles
+* 06/24/2025 [The Urbanist](/org/the_urbanist/) - [Repeal Referendum Campaign Targets State Parking Reform, Transit-Oriented Housing Law » The Urbanist](https://www.theurbanist.org/2025/06/24/referendum-campaign-targets-state-parking-reform-tod-bill/#:~:text=House%20Bill%201491)
+* 06/02/2025 [Senate Democrats](/org/senate_democrats/) - [Housing solutions you can count on - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/06/02/housing-solutions-you-can-count-on/#:~:text=HB%201491)
+* 05/30/2025 [Senate Democrats](/org/senate_democrats/) - [Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/05/29/looking-back-at-our-2025-session-accomplishments/#:~:text=requiring)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201491)
 * 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=HB%201491)
 * 05/14/2025 [The Washington Observer](/org/the_washington_observer/) - [Another mild veto - by Tim Gruver and Paul Queary](https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=House%20Bill%201491)
@@ -21,6 +24,7 @@
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature has adjourned SINE DIE - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/04/27/the-legislature-has-adjourned-sine-die/#:~:text=a%20great%20bill)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201491)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201491)
+* 04/17/2025 [Sightline Institute](/org/sightline_institute/) - [WA leaders just passed these major housing bills | Sightline Institute](https://www.sightline.org/release/wa-leaders-just-passed-these-major-housing-bills/#:~:text=HB%201491)
 * 04/16/2025 [The Urbanist](/org/the_urbanist/) - [State Senate Greenlights Sweeping Transit-Oriented Housing Bill - The Urbanist](https://www.theurbanist.org/2025/04/16/state-senate-greenlights-sweeping-tod-housing-bill/#:~:text=House%20Bill%201491)
 * 04/15/2025 [House Democrats](/org/house_democrats/) - [Transit Oriented Development passes Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/15/transit-oriented-development-passes-senate/#:~:text=HB%201491)
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Making housing more affordable - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/04/11/making-housing-more-affordable/#:~:text=HB%201491)

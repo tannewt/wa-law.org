@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5167/</link>
 		<description>Updates about SB 5167</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 May 2025 23:49:28 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 21 Jul 2025 15:54:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2447,13 +2447,6 @@
 			<description>News article "The budget debates | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 05 Apr 2025 18:24:02 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/the-budget-debates/#:~:text=legislation</guid>
-		</item>
-		<item>
-			<title>The budget debates | Washington State House Republicans</title>
-			<description>News article "The budget debates | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 05 Apr 2025 18:24:02 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/the-budget-debates/#:~:text=legislation</guid>
 		</item>
 		<item>
@@ -2462,13 +2455,6 @@
 			<pubDate>Mon, 07 Apr 2025 15:45:16 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205167</guid>
-		</item>
-		<item>
-			<title>The fight to save Rainier and Yakima Valley schools | Washington State House Republicans</title>
-			<description>News article "The fight to save Rainier and Yakima Valley schools | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 12 Apr 2025 05:39:23 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167</guid>
 		</item>
 		<item>
 			<title>The fight to save Rainier and Yakima Valley schools | Washington State House Republicans</title>
@@ -2525,6 +2511,13 @@
 			<pubDate>Thu, 22 May 2025 23:49:28 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205167</guid>
+		</item>
+		<item>
+			<title>Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman</title>
+			<description>News article "Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman" from Senate Democrats.</description>
+			<pubDate>Mon, 21 Jul 2025 15:54:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2025/07/21/sen-kauffman-reaffirms-her-commitment-to-protecting-native-communities/#:~:text=continued%20to%20fund%20the%20Missing%20and%20Murdered%20Indigenous%20Women%20and%20People%20Task%20Force</guid>
 		</item>
 	</channel>
 </rss>

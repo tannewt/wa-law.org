@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1209/</link>
 		<description>Updates about HB 1209</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 07 Apr 2025 22:16:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 22:25:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -238,6 +238,13 @@
 			<pubDate>Mon, 07 Apr 2025 22:16:57 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/07/washington-restricts-lethal-chemical-previously-sold-on-amazon/#:~:text=House%20Bill%201209</guid>
+		</item>
+		<item>
+			<title>New state laws strengthen consumer protections - Sen. Jamie Pedersen</title>
+			<description>News article "New state laws strengthen consumer protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 25 Jun 2025 22:25:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=HB%201209</guid>
 		</item>
 	</channel>
 </rss>

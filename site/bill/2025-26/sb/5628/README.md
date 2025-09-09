@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205628)
+
 ## Meetings
 ### Tue 03/18 04:00 PM - Environment & Energy (ENVI): ESSB 5628 Lead in cookware
 #### 26 👍 - Pro

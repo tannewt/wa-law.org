@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 03/29/2024 [The Seattle Times](/org/the_seattle_times/) - [WA becomes first state to ban lead-contaminated cookware | The Seattle Times](https://www.seattletimes.com/seattle-news/health/wa-becomes-first-state-to-ban-lead-contaminated-cookware/#:~:text=House%20Bill%201551)
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education/#:~:text=House%20Bill%201551)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201551)
 * 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201551)
 * 03/05/2024 [House Democrats](/org/house_democrats/) - [Pollet bill reducing lead in cookware heading to the governor’s desk. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/pollet-bill-reducing-lead-in-cookware-heading-to-the-governors-desk/#:~:text=House%20Bill%201551)

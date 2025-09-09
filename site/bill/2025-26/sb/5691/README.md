@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=SB%205691)
+
 ## Meetings
 ### Wed 03/19 01:30 PM - Health Care & Wellness (HCW): SSB 5691 Continuing care oversight
 #### 539 👍 - Pro

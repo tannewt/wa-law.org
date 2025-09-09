@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5041/</link>
 		<description>Updates about SB 5041</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 May 2025 18:52:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 28 Jul 2025 19:20:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1367,16 +1367,16 @@
 		<item>
 			<title>Dead or alive: Which bills have a chance this legislative session? | Cascade PBS</title>
 			<description>News article "Dead or alive: Which bills have a chance this legislative session? | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 14 Mar 2025 09:58:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session/#:~:text=Senate%20Bill%205041</guid>
+		</item>
+		<item>
+			<title>Dead or alive: Which bills have a chance this legislative session? | Cascade PBS</title>
+			<description>News article "Dead or alive: Which bills have a chance this legislative session? | Cascade PBS" from Cascade PBS.</description>
 			<pubDate>Fri, 14 Mar 2025 11:58:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=Senate%20Bill%205041</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205041</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
@@ -1655,6 +1655,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tom/Bosserman/2025-03-18 07:30:40</guid>
+		</item>
+		<item>
+			<title>WA bill aims to extend unemployment benefits to workers on strike | Cascade PBS</title>
+			<description>News article "WA bill aims to extend unemployment benefits to workers on strike | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Tue, 18 Mar 2025 10:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2025/03/wa-bill-aims-extend-unemployment-benefits-workers-strike/#:~:text=Senate%20Bill%205041</guid>
 		</item>
 		<item>
 			<title>WA bill aims to extend unemployment benefits to workers on strike | Cascade PBS</title>
@@ -2002,6 +2009,27 @@
 			<pubDate>Fri, 23 May 2025 18:52:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_f1a9ca3e-50de-466d-a033-ed6a4add4385.html#:~:text=ESB%205041</guid>
+		</item>
+		<item>
+			<title>New laws improve worker protections - Sen. Jamie Pedersen</title>
+			<description>News article "New laws improve worker protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 18 Jun 2025 14:16:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=SB%205041</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205041</guid>
+		</item>
+		<item>
+			<title>Benefits for striking workers, time off for immigration hearings now law in WA | Washington | thecentersquare.com</title>
+			<description>News article "Benefits for striking workers, time off for immigration hearings now law in WA | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 28 Jul 2025 19:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_8ab36ba6-9b80-4a85-af26-76328c60ea3a.html#:~:text=Senate%20Bill%205041</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 02/10/2025 [FOX13](/org/fox13/) - [WA legislators hear bill on organized retail theft | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislators-bill-organized-retail-theft#:~:text=House%20Bill%201276)
-* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201276)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201276)
 
 ## Meetings

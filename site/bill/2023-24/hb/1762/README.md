@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201762)
 * 05/31/2024 [The Center Square](/org/the_center_square/) - [New protections for Washington warehouse workers take effect soon | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_71e8a944-1f61-11ef-b24e-b7ab66c34cbe.html#:~:text=The%20bill)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201762)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201762)

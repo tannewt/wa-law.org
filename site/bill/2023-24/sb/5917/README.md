@@ -10,6 +10,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205917)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205917)
+* 07/09/2025 [KUOW](/org/kuow/) - [KUOW - New Washington hotline to report hate crimes launches in 3 counties](https://www.kuow.org/stories/new-washington-hotline-to-report-hate-crimes-launches-in-3-counties#:~:text=property%20damage)
 * 06/11/2024 [Cascade PBS](/org/cascade_pbs/) - [Spokane downtown Pride mural isn’t going anywhere, community vows | Cascade PBS](https://crosscut.com/news/2024/06/spokane-downtown-pride-mural-isnt-going-anywhere-community-vows#:~:text=bias-motivated)
 * 06/11/2024 [Cascade PBS](/org/cascade_pbs/) - [Spokane downtown Pride mural isn’t going anywhere, community vows | Cascade PBS](https://www.cascadepbs.org/news/2024/06/spokane-downtown-pride-mural-isnt-going-anywhere-community-vows#:~:text=bias-motivated)
 * 03/13/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Inslee updates hate crime law, expands powers of physician assistants, boosts money paid to those leaving prison, recognizes Lunar New Year | The Spokesman-Review](https://www.spokesman.com/stories/2024/mar/13/the-2024-legislative-session-wrapped-last-week-now/#:~:text=5917)

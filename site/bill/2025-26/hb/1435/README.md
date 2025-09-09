@@ -7,11 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](http://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201435)
 * 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201435)
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201435)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201435)
-* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201435)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201435)
 
 ## Meetings

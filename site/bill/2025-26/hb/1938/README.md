@@ -13,7 +13,6 @@
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Lawmakers consider bill that would redesign the Washington state flag | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b12da9e4-eef8-11ef-adfc-87d7e083c00e.html#:~:text=House%20Bill%201938)
 * 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmaker waves plan for state flag redesign • Washington State Standard](https://washingtonstatestandard.com/2025/02/18/washington-lawmaker-waves-plan-for-state-flag-redesign/#:~:text=House%20Bill%201938)
 * 02/18/2025 [FOX13](/org/fox13/) - [WA state flag could change under proposed legislation | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-state-flag-change-legislation#:~:text=House%20Bill%201938)
-* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201938)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201938)
 
 ## Meetings

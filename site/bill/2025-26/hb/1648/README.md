@@ -11,6 +11,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 05/27/2025 [The Center Square](/org/the_center_square/) - [Regulatory relief on the way for childcare centers in Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c9acbb83-3377-469c-a242-e288cc48f81c.html#:~:text=House%20Bill%201648)
+
 ## Meetings
 ### Thu 03/13 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 1648 Child care qualifications
 #### 119 👍 - Pro

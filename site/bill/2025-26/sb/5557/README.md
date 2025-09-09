@@ -11,11 +11,14 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205557)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205557)
+* 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=SB%205557)
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=SB%205557)
 * 05/01/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/05/01/the-legislature-is-adjourned/#:~:text=SB%205557)
 * 04/30/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/the-legislature-is-adjourned/#:~:text=SB%205557)
 * 04/30/2025 [Senate Democrats](/org/senate_democrats/) - [Gov. Ferguson signs Krishnadasan bill to protect emergency medical care - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/gov-ferguson-signs-krishnadasan-bill-to-protect-emergency-medical-care/#:~:text=Senate%20Bill%205557)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5557)
-* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205557)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205557)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205557)
 * 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/10/halfway-there/#:~:text=5557)

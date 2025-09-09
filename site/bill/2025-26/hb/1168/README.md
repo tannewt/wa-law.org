@@ -8,9 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201168)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201168)
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations#:~:text=House%20Bill%201168)
+* 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations/#:~:text=House%20Bill%201168)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201168)
 
 ## Meetings

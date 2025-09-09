@@ -9,6 +9,10 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 08/29/2025 [The Center Square](/org/the_center_square/) - [Sen. King calls on WA AG to invalidate law letting state lease unused highway lands | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_df5182ff-eecd-4083-8129-e917d48948e9.html#:~:text=SHB%201774)
+* 05/19/2025 [House Democrats](/org/house_democrats/) - [Gov. Ferguson signs Rep. Jake Fey’s legislation to expand community use of unused highway land – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/19/gov-ferguson-signs-rep-jake-feys-legislation-to-expand-community-use-of-unused-highway-land/#:~:text=Substitute%20House%20Bill%201774)
+
 ## Meetings
 ### Tue 04/01 04:00 PM - Transportation (TRAN): SHB 1774 Lease of unused highway land
 #### 29 👍 - Pro

@@ -15,7 +15,6 @@
 * 05/09/2025 [Senate Democrats](/org/senate_democrats/) - [The end! - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/05/09/the-end/#:~:text=SB%205142)
 * 04/11/2025 [Senate Democrats](/org/senate_democrats/) - [Big decisions - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/04/11/big-decisions/#:~:text=5142)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall TOMORROW and progress - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/21/town-hall-tomorrow-and-progress/#:~:text=5142)
-* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205142)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205142)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5142)
 

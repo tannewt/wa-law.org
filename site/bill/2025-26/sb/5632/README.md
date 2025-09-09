@@ -7,8 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/14/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our values in challenging times - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/08/14/protecting-our-values-in-challenging-times/#:~:text=SB%205632)
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205632)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205632)
+* 06/05/2025 [Senate Democrats](/org/senate_democrats/) - [Happy Pride: New laws protect the LGBTQ+ community - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/05/happy-pride-new-laws-protect-the-lgbtq-community/#:~:text=SB%205632)
 * 05/23/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/05/22/2025-legislative-session-recap/#:~:text=SB%205632,)
 * 05/16/2025 [Cascade PBS](/org/cascade_pbs/) - [Proposed state and federal budget cuts threaten WA abortion access | Cascade PBS](https://www.cascadepbs.org/politics/2025/05/proposed-state-and-federal-budget-cuts-threaten-wa-abortion-access#:~:text=SB%205632)
+* 05/16/2025 [Cascade PBS](/org/cascade_pbs/) - [Proposed state and federal budget cuts threaten WA abortion access | Cascade PBS](https://www.cascadepbs.org/politics/2025/05/proposed-state-and-federal-budget-cuts-threaten-wa-abortion-access/#:~:text=SB%205632)
+* 05/13/2025 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Washington: Updates on our Firewall for Freedom | ACLU of Washington](http://www.aclu-wa.org/pages/firewall-freedom-updates#:~:text=SB%205632)
 * 05/13/2025 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Washington: Updates on our Firewall for Freedom | ACLU of Washington](http://www.aclu-wa.org/pages/firewalls-freedom-dashboard#:~:text=SB%205632)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205632)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [SAVE THE DATE: Town halls March 22 - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/03/07/save-the-date-in-person-town-halls-march-22/#:~:text=SB%205632)

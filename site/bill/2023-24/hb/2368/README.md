@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/18/2025 [House Democrats](/org/house_democrats/) - [Rep. Farivar: Iranian Washingtonians Deserve Protection at Home as Their Families Face Danger Abroad – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/06/18/rep-farivar-iranian-washingtonians-deserve-protection-at-home-as-their-families-face-danger-abroad/#:~:text=HB%202368)
 * 03/21/2024 [The Center Square](/org/the_center_square/) - [Washington state supplemental budget includes $32M for asylum seekers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_aebcd322-e7cb-11ee-bd06-d74670ccda21.html#:~:text=House%20Bill%202368)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202368)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202368)

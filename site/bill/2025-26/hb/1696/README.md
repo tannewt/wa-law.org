@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/02/2025 [Senate Democrats](/org/senate_democrats/) - [Housing solutions you can count on - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/06/02/housing-solutions-you-can-count-on/#:~:text=HB%201696)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201696)
 * 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=HB%201696)
 * 04/27/2025 [Senate Democrats](/org/senate_democrats/) - [2025’s “Year of Housing” hailed by Sen. Jessica Bateman - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/04/27/2025s-year-of-housing-hailed-by-sen-jessica-bateman/#:~:text=HB%201696)
@@ -22,7 +23,6 @@
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [House passes bill to expand eligibility for program to remedy housing discrimination | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4c509eec-fba4-11ef-a72a-0b2f81a5bc8e.html#:~:text=Second%20Substitute%20House%20Bill%201696)
 * 03/07/2025 [House Democrats](/org/house_democrats/) - [More Washingtonians could become first-time homebuyers with Taylor bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/07/more-washingtonians-could-become-first-time-homebuyers-with-taylor-bill/#:~:text=HB%201696)
 * 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would adjust eligibility, add loan forgiveness to housing discrimination remedy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201696)
-* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2025 Session Concludes with $77.8 Billion Budget Sent to Governor for Review - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04282025#:~:text=HB%201696)
 

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/12/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington bill could transform prosthetics access for amputees | Cascade PBS](https://www.cascadepbs.org/politics/2025/03/washington-bill-could-transform-prosthetics-access-amputees/#:~:text=Senate%20Bill%205629)
+
 ## Meetings
 ### Tue 02/11 10:30 AM - Health & Long Term Care (HLTC): SB 5629 Prosthetic limb coverage
 #### 71 👍 - Pro

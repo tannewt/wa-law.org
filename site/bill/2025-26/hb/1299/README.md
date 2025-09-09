@@ -8,9 +8,9 @@
 
 ## 📰 Articles
 * 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Senate Approves Sweeping Parking Reform Bill - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-state-senate-approves-sweeping-parking-reform/#:~:text=HB%201299)
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [WA’s most impactful housing bills  | Sightline Institute](https://www.sightline.org/release/was-most-impactful-housing-bills/#:~:text=HB%201299)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201299)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201299)
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201299)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201299)
 * 01/31/2025 [Sightline Institute](/org/sightline_institute/) - [The 4 Big Reasons Why States Should Ditch Parking Mandates | Sightline Institute](https://www.sightline.org/2025/01/31/the-4-big-reasons-why-states-should-ditch-parking-mandates/#:~:text=HB%201299)
 * 01/16/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Cap Excessive Parking Mandates Around the State  | Sightline Institute](https://www.sightline.org/2025/01/16/washington-bill-would-cap-excessive-parking-mandates-around-the-state/#:~:text=HB%201299)

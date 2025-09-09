@@ -11,6 +11,11 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/14/2025 [KUOW](/org/kuow/) - [KUOW - After deaths of the Decker sisters, advocates call for review of Amber Alert system](https://www.kuow.org/stories/after-deaths-of-the-decker-sisters-advocates-call-for-review-of-amber-alert#:~:text=House%20Bill%201620)
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to improve public safety - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=HB%201620)
+* 06/05/2025 [The Center Square](/org/the_center_square/) - [Murder of 3 Wenatchee sisters highlights complexity of family court cases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9823fe80-c0b9-4a3c-82d0-79eefe8eecce.html#:~:text=House%20Bill%201620)
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=HB%201620)
+* 05/01/2025 [House Democrats](/org/house_democrats/) - [Legislative Black Caucus Celebrates Historic Wins – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/01/legislative-black-caucus-celebrates-historic-wins-for-black-washingtonians/#:~:text=HB%201620)
 * 04/25/2025 [House Democrats](/org/house_democrats/) - [Taylor Bill Prioritizes Child Safety in Parenting Plan Update – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/25/taylor-bill-prioritizes-child-safety-in-parenting-plan-update/#:~:text=House%20Bill%201620)
 
 ## Meetings

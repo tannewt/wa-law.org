@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5469/</link>
 		<description>Updates about SB 5469</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 13:50:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -504,6 +504,13 @@
 		<item>
 			<title>WA sues tech company, landlords, alleging rent price-fixing | Cascade PBS</title>
 			<description>News article "WA sues tech company, landlords, alleging rent price-fixing | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Fri, 04 Apr 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/briefs/2025/04/wa-sues-tech-company-landlords-alleging-rent-price-fixing/#:~:text=Senate%20Bill%205469</guid>
+		</item>
+		<item>
+			<title>WA sues tech company, landlords, alleging rent price-fixing | Cascade PBS</title>
+			<description>News article "WA sues tech company, landlords, alleging rent price-fixing | Cascade PBS" from Cascade PBS.</description>
 			<pubDate>Fri, 04 Apr 2025 20:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/04/wa-sues-tech-company-landlords-alleging-rent-price-fixing#:~:text=Senate%20Bill%205469</guid>
@@ -556,6 +563,34 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/By resolution, returned to Senate Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Seattle City Council set to vote on ban of algorithmic rent fixing | Washington | thecentersquare.com</title>
+			<description>News article "Seattle City Council set to vote on ban of algorithmic rent fixing | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 11 Jun 2025 17:22:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0487cf7d-128c-4997-9085-d20ed7a67a88.html#:~:text=Senate%20Bill%205469</guid>
+		</item>
+		<item>
+			<title>Council Taps Brakes on RealPage Ban, Delaying One Week to Address Building Owner Concerns - PubliCola</title>
+			<description>News article "Council Taps Brakes on RealPage Ban, Delaying One Week to Address Building Owner Concerns - PubliCola" from PubliCola.</description>
+			<pubDate>Wed, 18 Jun 2025 16:36:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://publicola.com/2025/06/18/council-taps-brakes-on-realpage-ban-delaying-one-week-to-address-building-owner-concerns/#:~:text=proposed%20state%20law</guid>
+		</item>
+		<item>
+			<title>Seattle City Council to vote on algorithmic rent-setting ban after pushback | Washington | thecentersquare.com</title>
+			<description>News article "Seattle City Council to vote on algorithmic rent-setting ban after pushback | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 23 Jun 2025 17:14:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_8179130c-c3ae-46c4-89bd-96765123334a.html#:~:text=Senate%20Bill%205469</guid>
+		</item>
+		<item>
+			<title>Seattle City Council outlaws rent-setting software used by corporate landlords | Washington | thecentersquare.com</title>
+			<description>News article "Seattle City Council outlaws rent-setting software used by corporate landlords | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 25 Jun 2025 13:50:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_696135b5-d116-4bc2-bab6-ba91875dec18.html#:~:text=Senate%20Bill%205469</guid>
 		</item>
 	</channel>
 </rss>

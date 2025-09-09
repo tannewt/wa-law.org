@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205651)
 * 05/05/2025 [Senate Democrats](/org/senate_democrats/) - [End of session - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/05/04/3049/#:~:text=SB%205651)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5651)
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205651)

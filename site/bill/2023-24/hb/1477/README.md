@@ -25,6 +25,7 @@
 * 02/19/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 7 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02202023#:~:text=H.B.1477)
 * 01/30/2023 [Food Lifeline](/org/food_lifeline/) - [Washington State Legislative Session Update – Day 22 | Food Lifeline](https://foodlifeline.org/article/washington-state-legislative-session-update-day-22#:~:text=HB%201477)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201477)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/2023-legislative-progress/#:~:text=HB%201477)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=HB%201477)
 
 ## Meetings

@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/21/2025 [Senate Democrats](/org/senate_democrats/) - [Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/07/21/sen-kauffman-reaffirms-her-commitment-to-protecting-native-communities/#:~:text=strengthened%20our%20hate%20crime%20law)
+* 07/09/2025 [KUOW](/org/kuow/) - [KUOW - New Washington hotline to report hate crimes launches in 3 counties](https://www.kuow.org/stories/new-washington-hotline-to-report-hate-crimes-launches-in-3-counties#:~:text=another%20law,)
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to improve public safety - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=HB%201052)
+* 06/05/2025 [Senate Democrats](/org/senate_democrats/) - [Happy Pride: New laws protect the LGBTQ+ community - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/05/happy-pride-new-laws-protect-the-lgbtq-community/#:~:text=HB%201052)
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=HB%201052)
 * 05/12/2025 [The Center Square](/org/the_center_square/) - [Expanded hate crime bill signed into law by Gov Ferguson | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_70cd6d77-e8b9-4a47-8afd-cf2cca4fc776.html#:~:text=House%20Bill%201052)
 * 04/22/2025 [FOX13](/org/fox13/) - [Man sentenced for Seattle hate crime home invasions | FOX 13 Seattle](https://www.fox13seattle.com/news/seattle-hate-crime-home-invasions#:~:text=House%20Bill%201052)
 * 04/15/2025 [KIRO7](/org/kiro7/) - [King County hate crimes involving gender identity, sexual orientation trend upwards – KIRO 7 News Seattle](https://www.kiro7.com/news/local/king-county-hate-crimes-involving-gender-identity-sexual-orientation-nearing-last-years-numbers/P4QFKRM4RJATPDCZLVB5X35ZFY/#:~:text=HB%201052)

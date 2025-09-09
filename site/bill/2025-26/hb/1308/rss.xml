@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1308/</link>
 		<description>Updates about HB 1308</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Jun 2025 14:16:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -310,6 +310,13 @@
 			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-13/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>New laws improve worker protections - Sen. Jamie Pedersen</title>
+			<description>News article "New laws improve worker protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 18 Jun 2025 14:16:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=HB%201308</guid>
 		</item>
 	</channel>
 </rss>

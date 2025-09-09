@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/15/2025 [MyNorthwest](/org/mynorthwest/) - [WA law: No penalty for rescuing kids, pets from heatstroke in cars](https://mynorthwest.com/local/heatstroke-wa-law/4110276#:~:text=House%20Bill%201046)
 * 04/22/2025 [House Democrats](/org/house_democrats/) - [Rep. Mari Leavitt Leads Legislative Wins for Animal Welfare in Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/22/rep-mari-leavitt-leads-legislative-wins-for-animal-welfare-in-washington/#:~:text=HB%201046)
 
 ## Meetings

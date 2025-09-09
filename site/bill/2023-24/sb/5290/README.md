@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205290)
 * 11/28/2023 [The Center Square](/org/the_center_square/) - [New survey highlights possible cuts to red tape for Washington housing construction | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_87bb25e2-8e36-11ee-b21a-379fef524568.html#:~:text=Senate%20Bill%205290)
 * 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Second%20Substitute%20Senate%20Bill%205290)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=SB%205290)

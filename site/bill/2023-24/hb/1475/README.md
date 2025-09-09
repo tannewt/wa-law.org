@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 11/04/2024 [Cascade PBS](/org/cascade_pbs/) - [Visually impaired Washingtonians face unique obstacles to voting | Cascade PBS](https://crosscut.com/politics/2024/11/visually-impaired-washingtonians-face-unique-obstacles-voting#:~:text=House%20Bill%201475)
+* 11/04/2024 [Cascade PBS](/org/cascade_pbs/) - [Visually impaired Washingtonians face unique obstacles to voting | Cascade PBS](https://www.cascadepbs.org/politics/2024/11/visually-impaired-washingtonians-face-unique-obstacles-voting/#:~:text=House%20Bill%201475)
 
 ## Meetings
 ### Wed 01/25 01:30 PM - State Government & Tribal Relations (SGOV): HB 1475 Online ballot portal

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1584/</link>
 		<description>Updates about HB 1584</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 19:19:39 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Jun 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Fri, 14 Feb 2025 19:19:39 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/02/14/72-days-to-go/#:~:text=House%20Bill%201584</guid>
+		</item>
+		<item>
+			<title>U.S. Supreme Court agrees to hear case threatening ballots mailed by Election Day, but received later</title>
+			<description>News article "U.S. Supreme Court agrees to hear case threatening ballots mailed by Election Day, but received later" from The Spokesman-Review.</description>
+			<pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2025/jun/03/us-supreme-court-agrees-to-hear-case-threatening-b/#:~:text=backed%20a%20bill</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,9 +8,7 @@
 
 ## 📰 Articles
 * 02/10/2025 [The Center Square](/org/the_center_square/) - [Parenting is expensive in Washington, but so is this idea to make it cheaper | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1b12ecd0-e7f5-11ef-afde-8bb69f009ef7.html#:~:text=House%20Bill%201307)
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201307)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201307)
-* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201307)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201307)
 
 ## Meetings

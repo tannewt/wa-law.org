@@ -12,8 +12,12 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/08/2025 [KUOW](/org/kuow/) - [KUOW - Suspected tuberculosis cases reported at Tacoma immigrant detention center](https://www.kuow.org/stories/suspected-tuberculosis-cases-reported-at-tacoma-immigrant-detention-center#:~:text=new%20state%20law)
+* 06/13/2025 [Senate Democrats](/org/senate_democrats/) - [WA Lawmakers to Trump: We Will Not Be Intimidated - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/06/13/wa-lawmakers-to-trump-we-will-not-be-intimidated/#:~:text=HB%201232)
+* 06/13/2025 [House Democrats](/org/house_democrats/) - [WA Lawmakers to Trump: We Will Not Be Intimidated / Legisladores de Washington a Trump: No Nos Dejaremos Intimidar – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/06/13/wa-lawmakers-to-trump-we-will-not-be-intimidated-legisladores-de-washington-a-trump-no-nos-dejaremos-intimidar/#:~:text=HB%201232)
 * 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=House%20Bill%201232)
 * 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=House%20Bill%201232)
+* 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/news/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law/#:~:text=House%20Bill%201232)
 * 05/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Trio of immigrant rights laws signed by WA governor • Washington State Standard](https://washingtonstatestandard.com/2025/05/14/trio-of-immigrant-rights-laws-signed-by-wa-governor/#:~:text=House%20Bill%201232)
 * 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=House%20Bill%201232)
 * 04/19/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Ferguson Must Get Tough on Trump, Illegal Tacoma ICE Jail - The Urbanist](https://www.theurbanist.org/2025/04/19/op-ed-ferguson-must-get-tough-on-trump-illegal-tacoma-ice-jail/#:~:text=HB%201232)

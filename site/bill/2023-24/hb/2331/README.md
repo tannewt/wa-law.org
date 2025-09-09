@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/14/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our values in challenging times - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/08/14/protecting-our-values-in-challenging-times/#:~:text=HB%202331)
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%202331)
+* 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%202331)
 * 08/01/2024 [Washington State Standard](/org/washington_state_standard/) - [A GOP state senator faces two foes, and his own party leaders • Washington State Standard](https://washingtonstatestandard.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=House%20Bill%202331)
 * 08/01/2024 [Gorge News Center](/org/gorge_news_center/) - [A GOP state senator faces two foes, and his own party leaders](https://gorgenewscenter.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=House%20Bill%202331)
 * 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=ESHB%202331)

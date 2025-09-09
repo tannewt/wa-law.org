@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 05/21/2025 [House Democrats](/org/house_democrats/) - [Gov. Ferguson signs Goodman bill fixing program that helps people earn time off their sentences – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/21/gov-ferguson-signs-goodman-bill-fixing-program-that-helps-people-earn-time-off-their-sentences/#:~:text=House%20Bill%201119)
+
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): ESHB 1119 Supervision compliance
 #### 3 👍 - Pro

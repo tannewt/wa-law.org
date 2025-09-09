@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Transportation budget keeps SR 520 project on track - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/15/transportation-budget-keeps-sr-520-project-on-track-2/#:~:text=bond%20bill)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=bond%20bill)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bipartisan transportation budget to keep Washington moving ahead - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/03/29/senate-passes-bipartisan-transportation-budget-to-keep-washington-moving-ahead/#:~:text=bond%20bill)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [Senate unveils bipartisan transportation budget to keep projects going, preserve infrastructure, make roads safer - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/24/senate-unveils-bipartisan-transportation-budget-to-keep-projects-going-preserve-infrastructure-make-roads-safer/#:~:text=5800)

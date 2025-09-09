@@ -7,7 +7,6 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/27/2025 [House Republicans](/org/house_republicans/) - [The “$10 billion” budget shortfall: how did we get here? | Washington State House Republicans](http://houserepublicans.wa.gov/the-10-billion-budget-shortfall/#:~:text=Senate%20Bill%205145)
 * 02/27/2025 [House Republicans](/org/house_republicans/) - [The “$10 billion” budget shortfall: how did we get here? | Washington State House Republicans](https://houserepublicans.wa.gov/the-10-billion-budget-shortfall/#:~:text=Senate%20Bill%205145)
 
 ## Meetings

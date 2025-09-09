@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Meet me at Emerson-Garfield Farmers’ Market on Friday - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/06/11/meet-me-at-emerson-garfield-farmers-market-on-friday/#:~:text=SB%205662)
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [Riccelli bill to boost affordable housing in Spokane  - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/05/29/riccelli-bill-to-boost-affordable-housing-in-spokane/#:~:text=Senate%20Bill%205662)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [Big wins for Spokane as 2025 Legislature adjourns - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/28/big-wins-for-spokane-as-2025-legislature-adjourns/#:~:text=Senate%20Bill%205662)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5662)
 * 02/16/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Children's Day, affordable housing and a key date arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/16/this-week-in-the-senate-week-6-childrens-day-affordable-housing-and-a-key-date-arrives/#:~:text=Senate%20Bill%205662)

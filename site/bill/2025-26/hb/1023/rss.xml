@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1023/</link>
 		<description>Updates about HB 1023</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Jun 2025 22:25:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -281,6 +281,13 @@
 			<pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-12/Effective date 6/1/2028.</guid>
+		</item>
+		<item>
+			<title>New state laws strengthen consumer protections - Sen. Jamie Pedersen</title>
+			<description>News article "New state laws strengthen consumer protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 25 Jun 2025 22:25:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=HB%201023</guid>
 		</item>
 	</channel>
 </rss>

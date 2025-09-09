@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205152)
 * 01/22/2024 [Gorge News Center](/org/gorge_news_center/) - [Secretary Hobbs warns Washington voters to be alert for deepfakes](https://gorgenewscenter.com/2024/01/22/secretary-hobbs-warns-washington-voters-to-be-alert-for-deepfakes/#:~:text=Senate%20Bill%205152)
 * 01/12/2024 [Crosscut](/org/crosscut/) - [Washington Legislature aims to regulate AI — but treads cautiously | Crosscut](https://crosscut.com/politics/2024/01/washington-legislature-aims-regulate-ai-treads-cautiously#:~:text=passed%20a%20minor%20bill)
 * 05/22/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | New State Laws Enhance Election Security and Participation | South Seattle Emerald](https://southseattleemerald.com/2023/05/22/news-gleams-new-state-laws-enhance-election-security-and-participation/#:~:text=SB%205152)

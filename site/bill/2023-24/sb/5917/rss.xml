@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5917/</link>
 		<description>Updates about SB 5917</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Jun 2024 12:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -301,6 +301,27 @@
 			<pubDate>Tue, 11 Jun 2024 12:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.cascadepbs.org/news/2024/06/spokane-downtown-pride-mural-isnt-going-anywhere-community-vows#:~:text=bias-motivated</guid>
+		</item>
+		<item>
+			<title>KUOW - New Washington hotline to report hate crimes launches in 3 counties</title>
+			<description>News article "KUOW - New Washington hotline to report hate crimes launches in 3 counties" from KUOW.</description>
+			<pubDate>Wed, 09 Jul 2025 10:03:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/new-washington-hotline-to-report-hate-crimes-launches-in-3-counties#:~:text=property%20damage</guid>
+		</item>
+		<item>
+			<title>Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen</title>
+			<description>News article "Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Tue, 15 Jul 2025 23:49:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205917</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205917</guid>
 		</item>
 	</channel>
 </rss>

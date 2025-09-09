@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to improve public safety - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=SB%205093)
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=SB%205093)
 * 04/12/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching the finish line - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/04/11/approaching-the-finish-line/#:~:text=SB%205093)
 * 04/10/2025 [The Center Square](/org/the_center_square/) - [WATCH: Cases of infanticide may be harder to investigate under WA bill passed by Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fc9bfb9b-82f0-47d7-a7b7-2091ce4f26b1.html#:~:text=Senate%20Bill 5093)
 * 02/13/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting the rights of every Washingtonian - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/02/12/protecting-the-rights-of-every-washingtonian/#:~:text=SB%205093)

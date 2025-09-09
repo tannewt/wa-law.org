@@ -11,6 +11,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/08/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our environment, preserving our future - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=HB%201514)
+* 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws improve environmental protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/15/new-state-laws-improve-environmental-protections/#:~:text=HB%201514)
 * 03/13/2025 [House Democrats](/org/house_democrats/) - [Expanding Low-Carbon Thermal Energy Networks  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/expanding-low-carbon-thermal-energy-networks/#:~:text=House%20Bill%201514)
 
 ## Meetings

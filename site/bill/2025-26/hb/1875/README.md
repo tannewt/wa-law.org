@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/28/2025 [The Center Square](/org/the_center_square/) - [Benefits for striking workers, time off for immigration hearings now law in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8ab36ba6-9b80-4a85-af26-76328c60ea3a.html#:~:text=House%20Bill%201875)
+* 06/17/2025 [FOX13](/org/fox13/) - [These new WA laws go into effect July 1 | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-laws-july-1-2025#:~:text=HB%201875)
 * 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=paid%20sick%20time%20for%20immigration%20proceedings)
 * 05/15/2025 [Cascade PBS](/org/cascade_pbs/) - [WA governor signs three immigrants rights bills into law | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=paid%20sick%20time%20for%20immigration%20proceedings)
 * 05/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Wide-open King County Executive race draws eight candidates | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/wide-open-king-county-executive-race-draws-eight-candidates#:~:text=paid%20sick%20time%20for%20immigration%20proceedings)
@@ -19,7 +21,6 @@
 * 03/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Immigration proceedings would become eligible use for sick leave under Washington bill • Washington State Standard](https://washingtonstatestandard.com/2025/03/19/immigration-proceedings-would-become-eligible-use-of-sick-leave-under-washington-bill/#:~:text=House%20Bill%201875)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers advance bill allowing paid sick leave for immigration proceedings | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7388cffc-fb9f-11ef-95f6-6725474250a6.html#:~:text=Engrossed%20Substitute%20House%20Bill%201875)
 * 03/06/2025 [House Democrats](/org/house_democrats/) - [Workers Could Soon Use Paid Sick Leave for Immigration Proceedings – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/workers-could-soon-use-paid-sick-leave-for-immigration-proceedings/#:~:text=House%20Bill%201875)
-* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201875)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201875)
 * 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/2025-legislative-agenda/#:~:text=House%20Bill%201875)
 

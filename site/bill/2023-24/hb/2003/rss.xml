@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2003/</link>
 		<description>Updates about HB 2003</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 13 Apr 2024 17:28:44 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -249,6 +249,13 @@
 			<pubDate>Sat, 13 Apr 2024 17:28:44 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/04/13/franz-mobilize-washington-state-owned-land-to-tackle-housing-affordability-crisis/#:~:text=exempt%20affordable%20housing%20developers%20from%20the%20Leasehold%20Excise%20Tax</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%202003</guid>
 		</item>
 	</channel>
 </rss>

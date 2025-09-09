@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=SB%205192)
+* 07/09/2025 [Senate Democrats](/org/senate_democrats/) - [Education that works for every student - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=SB%205192)
+* 05/30/2025 [Senate Democrats](/org/senate_democrats/) - [Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/05/29/looking-back-at-our-2025-session-accomplishments/#:~:text=SB%205192)
 * 05/21/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill advocating for stronger school funding signed into law - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/05/21/nobles-bill-advocating-for-stronger-school-funding-signed-into-law/#:~:text=Senate%20Bill%205192)
 * 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2025 session ends with progress on housing, education, and recycling! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/05/15/lizs-loveletter-2025-session-ends-with-progress-on-housing-education-and-recycling/#:~:text=SB%205192)
 * 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [105 days of progress - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/05/07/105-days-of-progress-2/#:~:text=SB%205192)
@@ -22,6 +25,7 @@
 * 04/23/2025 [Cascade PBS](/org/cascade_pbs/) - [Seattle democracy voucher renewal set for August ballot | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/seattle-democracy-voucher-renewal-set-august-ballot#:~:text=Senate%20Bill%205192)
 * 04/18/2025 [Cascade PBS](/org/cascade_pbs/) - [WA Supreme Court strikes down Spokane camping ban initiative | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/wa-supreme-court-strikes-down-spokane-camping-ban-initiative#:~:text=Senate%20Bill%205192)
 * 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature#:~:text=Senate%20Bill%205192)
+* 04/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Bill to fully fund special ed progresses through WA legislature | Cascade PBS](https://www.cascadepbs.org/news/briefs/2025/04/bill-fully-fund-special-ed-progresses-through-wa-legislature/#:~:text=Senate%20Bill%205192)
 * 04/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington takes ‘historic’ step toward full funding for special education • Washington State Standard](https://washingtonstatestandard.com/2025/04/16/washington-takes-historic-step-to-assure-full-funding-for-special-education/#:~:text=Senate%20Bill%205192)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205192)
 * 04/01/2025 [Senate Democrats](/org/senate_democrats/) - [Investing in education is my top priority  - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/04/01/funding-education-is-my-top-priority/#:~:text=5192)
@@ -32,7 +36,6 @@
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Bills, budget and how we got here - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205192)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=ESSB%205192)
 * 03/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/17/the-house-hot-sheet-for-week-10-of-the-2025-legislative-session/#:~:text=ESSB%205192)
-* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205192)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205192)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205192)
 * 03/14/2025 [KIRO7](/org/kiro7/) - [School budgets under pressure amid federal funding concerns – KIRO 7 News Seattle](https://www.kiro7.com/news/local/school-budgets-under-pressure-amid-federal-funding-concerns/263JTL7AZJHNFBFWLLTVBMDQWQ/#:~:text=state%20senators%20have%20passed)

@@ -12,7 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
-* 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205745)
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=SB%205745)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205745)
 
 ## Meetings

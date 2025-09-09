@@ -12,7 +12,6 @@
 * 02/12/2025 [FOX13](/org/fox13/) - [WA proposal for regulations on self-checkout machines | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-regulations-self-checkout-machines#:~:text=House%20Bill%201739)
 * 02/12/2025 [MyNorthwest](/org/mynorthwest/) - [Clerks pushing bill to end chaos at the self-checkout line](https://mynorthwest.com/mynorthwest-politics/bill-self-checkout/4044907#:~:text=House%20Bill%201739)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201739)
-* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201739)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201739)
 
 ## Meetings

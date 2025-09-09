@@ -8,15 +8,15 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/21/2025 [Senate Democrats](/org/senate_democrats/) - [Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/07/21/sen-kauffman-reaffirms-her-commitment-to-protecting-native-communities/#:~:text=continued%20to%20fund%20the%20Missing%20and%20Murdered%20Indigenous%20Women%20and%20People%20Task%20Force)
 * 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205167)
 * 05/20/2025 [MyNorthwest](/org/mynorthwest/) - [Gov. Ferguson signs contentious $77.9B operating budget](https://mynorthwest.com/mynorthwest-politics/ferguson-washington-budget/4089709#:~:text=SB%205167)
 * 04/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Legislative Democrats ignore the advice of many and raise $12.5 billion in taxes just for the operating budget - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-legislative-democrats-ignore-advice-many-raise-12-5-billion-taxes-just-operating-budget/#:~:text=the%202025-27%20operating%20budget)
-* 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](http://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167)
 * 04/12/2025 [House Republicans](/org/house_republicans/) - [The fight to save Rainier and Yakima Valley schools | Washington State House Republicans](https://houserepublicans.wa.gov/rainier-yakima-valley-schools/#:~:text=Senate%20Bill%205167)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=ESSB%205167)
-* 04/05/2025 [House Republicans](/org/house_republicans/) - [The budget debates | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-budget-debates/#:~:text=legislation)
 * 04/05/2025 [House Republicans](/org/house_republicans/) - [The budget debates | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-budget-debates/#:~:text=legislation)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205167)
 * 03/24/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Senate unveils nearly $80B budget with tax hikes for the wealthy and big corporations](https://mynorthwest.com/mynorthwest-politics/washington-budget-2/4067182#:~:text=Proposed%20Substitute%20Senate%20Bill%20(PSSB)%205167)

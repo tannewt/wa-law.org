@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/28/2025 [Cascade PBS](/org/cascade_pbs/) - [New WA ruling may close loophole letting accused abusers keep guns | Cascade PBS](https://www.cascadepbs.org/news/2025/08/new-wa-ruling-may-close-loophole-letting-accused-abusers-keep-guns/#:~:text=“%20Flannery%20Fix”)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201715)
 * 07/21/2023 [Wenatchee World](/org/wenatchee_world/) - [Why many judges in WA won’t order abusers to turn in guns | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/why-many-judges-in-wa-won-t-order-abusers-to-turn-in-guns/article_a2ae94c2-266e-11ee-9d1c-43f044565a1c.html#:~:text=House%20Bill%201715)
 * 07/09/2023 [The Seattle Times](/org/the_seattle_times/) - [Why many judges in WA aren’t ordering alleged abusers to turn in guns | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/whats-many-judges-in-wa-wont-order-abusers-to-turn-in-guns/#:~:text=House%20Bill%201715)

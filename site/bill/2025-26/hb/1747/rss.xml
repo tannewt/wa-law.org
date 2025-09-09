@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1747/</link>
 		<description>Updates about HB 1747</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -312,6 +312,20 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>New laws improve worker protections - Sen. Jamie Pedersen</title>
+			<description>News article "New laws improve worker protections - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 18 Jun 2025 14:16:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=HB%201747</guid>
+		</item>
+		<item>
+			<title>Protecting Washington - Washington Senate Democrats</title>
+			<description>News article "Protecting Washington - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201747</guid>
 		</item>
 	</channel>
 </rss>

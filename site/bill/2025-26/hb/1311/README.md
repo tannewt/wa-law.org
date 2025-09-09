@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 02/21/2025 [Wenatchee World](/org/wenatchee_world/) - [Legislative Watch | WA lawmakers push for local wolf management, debate state flag redesign | Local News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/local/legislative-watch-wa-lawmakers-push-for-local-wolf-management-debate-state-flag-redesign/article_3d740e02-eefe-11ef-9dd0-83930e3d1e9d.html#:~:text=House%20Bill%201311)
-* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201311)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201311)
 
 ## Meetings

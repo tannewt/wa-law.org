@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 04/18/2024 [Wenatchee World](/org/wenatchee_world/) - [Facing shortages, WA expands police trainings and fronts the bill | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/facing-shortages-wa-expands-police-trainings-and-fronts-the-bill/article_4d3185fc-fd9d-11ee-8c3b-03dbcfb22b77.html#:~:text=House%20Bill%202231)
 * 04/17/2024 [Crosscut](/org/crosscut/) - [Facing shortages, WA expands police trainings and fronts the bill | Cascade PBS News](https://crosscut.com/news/2024/04/facing-shortages-wa-expands-police-trainings-and-fronts-bill#:~:text=House%20Bill%202231)
+* 04/17/2024 [Cascade PBS](/org/cascade_pbs/) - [Facing shortages, WA expands police trainings and fronts the bill | Cascade PBS](https://www.cascadepbs.org/news/2024/04/facing-shortages-wa-expands-police-trainings-and-fronts-bill/#:~:text=House%20Bill%202231)
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Local Government (LG): HB 2231 Law enforcement funding

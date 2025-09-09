@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201905)
 * 03/09/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [WaLeg Recap: Progress Made – but Far More is Needed Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/waleg-recap-2024/#:~:text=The%20Equal%20Pay%20and%20Opportunity%20Act)
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [Senate Passes Mena Bill Establishing Pay Equity for All Protected Classes in Washington  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/senate-passes-mena-bill-establishing-pay-equity-for-all-protected-classes-in-washington/#:~:text=House%20Bill%201905)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes Bill Closing the Wage Gap for All Protected Classes in WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/legislative-news-house-passes-bill-closing-the-wage-gap-for-all-protected-classes-in-wa/#:~:text=House%20Bill%201905)

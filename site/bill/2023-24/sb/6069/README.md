@@ -13,6 +13,7 @@
 ## 📰 Articles
 * 03/28/2024 [Crosscut](/org/crosscut/) - [Washington Saves retirement act signed, set to launch in 2027 | Crosscut](https://crosscut.com/briefs/2024/03/washington-saves-retirement-act-signed-set-launch-2027#:~:text=Senate%20Bill%206069)
 * 03/28/2024 [Cascade PBS](/org/cascade_pbs/) - [Washington Saves retirement act signed, set to launch in 2027 | Cascade PBS](https://www.cascadepbs.org/briefs/2024/03/washington-saves-retirement-act-signed-set-launch-2027#:~:text=Senate%20Bill%206069)
+* 03/28/2024 [Cascade PBS](/org/cascade_pbs/) - [Washington Saves retirement act signed, set to launch in 2027 | Cascade PBS](https://www.cascadepbs.org/news/briefs/2024/03/washington-saves-retirement-act-signed-set-launch-2027/#:~:text=Senate%20Bill%206069)
 * 03/09/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [WaLeg Recap: Progress Made – but Far More is Needed Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/waleg-recap-2024/#:~:text=Washington%20Saves)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%206069)
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%206069)

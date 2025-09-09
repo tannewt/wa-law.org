@@ -9,7 +9,6 @@
 ## 📰 Articles
 * 02/26/2025 [The Center Square](/org/the_center_square/) - [WA storage unit tax could raise nearly $500M by 2035 — if it holds up in court | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eb51fab0-f490-11ef-93e1-abecd747fc6d.html#:~:text=House%20Bill%201907)
 * 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Are Washington lawmakers about to tax storage unit rentals? • Washington State Standard](https://washingtonstatestandard.com/2025/02/25/are-washington-lawmakers-about-to-tax-storage-unit-rentals/#:~:text=House%20Bill%201907)
-* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201907)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201907)
 * [Senate Republicans](/org/senate_republicans/) - [Tax Madness - Senate Republican Caucus](https://src.wastateleg.org/tax-madness/#:~:text=House%20Bill%201907,)
 

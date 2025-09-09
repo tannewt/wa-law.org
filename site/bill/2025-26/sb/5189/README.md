@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=SB%205189)
+* 07/09/2025 [Senate Democrats](/org/senate_democrats/) - [Education that works for every student - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=SB%205189)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5189)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SB%205189)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205189)

@@ -11,7 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201878)
+* 08/05/2025 [KUOW](/org/kuow/) - [KUOW - Washington's new work zone speed cameras cite 7K drivers in first 90 days](https://www.kuow.org/stories/washington-s-new-work-zone-speed-cameras-cite-7k-drivers-in-first-90-days#:~:text=legislation%20requiring)
+* 06/10/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Overhauls Driver’s Education System, Focusing on Young Motorists » The Urbanist](https://www.theurbanist.org/2025/06/10/washington-state-overhauls-drivers-education/#:~:text=House%20Bill%201878)
+* 05/28/2025 [FOX13](/org/fox13/) - [Washington law makes everyone under 21 take driver's ed | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-drivers-ed#:~:text=House%20Bill%201878)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201878)
 
 ## Meetings

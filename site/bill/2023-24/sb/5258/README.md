@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/28/2025 [The Urbanist](/org/the_urbanist/) - [King County Restructures School Impact Fees to Comply with State Law » The Urbanist](https://www.theurbanist.org/2025/08/28/king-county-restructures-school-impact-fees-to-comply-with-state-law/#:~:text=Senate%20Bill%205258)
 * 07/19/2023 [The Center Square](/org/the_center_square/) - [Study: WA needs more than a quarter-million new housing units to meet demand | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2acabb02-267d-11ee-b614-2b4d3b7568f9.html#:~:text=SB%205258)
 * 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205258)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=SB%205258)

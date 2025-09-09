@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=HB%201209)
 * 04/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington restricts lethal chemical previously sold on Amazon • Washington State Standard](https://washingtonstatestandard.com/2025/04/07/washington-restricts-lethal-chemical-previously-sold-on-amazon/#:~:text=House%20Bill%201209)
 * 04/07/2025 [KING5](/org/king5/) - [Washington bans sale of concentrated sodium nitrite over suicide concern | king5.com](https://www.king5.com/article/news/investigations/investigators/washington-bans-sodium-nitrite-suicides/281-0254830c-edfb-4972-b344-8f640f7887eb#:~:text=House%20Bill%201209)
 * 04/07/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Tyler’s Law to Restrict Lethal Substance Sales – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/07/governor-signs-tylers-law-to-restrict-lethal-substance-sales/#:~:text=Substitute%20House%20Bill%201209)

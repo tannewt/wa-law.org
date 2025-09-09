@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/16/2023 [Cascade PBS](/org/cascade_pbs/) - [Push to decriminalize fades as WA Senate considers new drug law | Cascade PBS](https://www.cascadepbs.org/politics/2023/02/push-decriminalize-fades-wa-senate-considers-new-drug-law/#:~:text=SB%205035)
 * 02/16/2023 [Crosscut](/org/crosscut/) - [Push to decriminalize fades as WA Senate considers new drug law | Crosscut](https://crosscut.com/politics/2023/02/push-decriminalize-fades-wa-senate-considers-new-drug-law#:~:text=SB%205035)
 * 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=SB%205035)
 

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 06/11/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to improve public safety - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/11/legislature-takes-action-to-improve-public-safety/#:~:text=HB%201484)
+* 05/29/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/05/29/2025-legislative-session-recap/#:~:text=HB%201484)
 * 04/08/2025 [House Democrats](/org/house_democrats/) - [Bill for Rape Survivors Passes Senate, Heads to Governor’s Desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/08/bill-for-rape-survivors-passes-senate-heads-to-governors-desk/#:~:text=House%20Bill%201484)
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=House%20Bill%201484)
 * 02/20/2025 [House Democrats](/org/house_democrats/) - [Salahuddin Passes First Bill from House Advancing Justice for Rape Survivors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/20/salahuddin-passes-first-bill-from-house-advancing-justice-for-rape-survivors/#:~:text=House%20Bill%201484)

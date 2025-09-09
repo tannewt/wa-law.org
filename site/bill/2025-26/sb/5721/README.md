@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205721)
 * 05/20/2025 [Senate Democrats](/org/senate_democrats/) - [Stanford right to appraisal bill signed into law - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/05/20/stanford-right-to-appraisal-bill-signed-into-law/#:~:text=Senate%20Bill%205721,)
-* 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205721)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205721)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Bills, budget and how we got here - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/03/19/bills-budget-and-how-we-got-here/#:~:text=SB%205721)
 

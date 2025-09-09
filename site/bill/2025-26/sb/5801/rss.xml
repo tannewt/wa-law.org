@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5801/</link>
 		<description>Updates about SB 5801</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 30 Jun 2025 11:51:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,13 +28,6 @@
 			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-25/First reading, referred to Transportation.</guid>
-		</item>
-		<item>
-			<title>How Democrats want to tax you | Washington State House Republicans</title>
-			<description>News article "How Democrats want to tax you | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205801</guid>
 		</item>
 		<item>
 			<title>How Democrats want to tax you | Washington State House Republicans</title>
@@ -453,6 +446,13 @@
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Transportation budget keeps SR 520 project on track - Sen. Jamie Pedersen</title>
+			<description>News article "Transportation budget keeps SR 520 project on track - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Thu, 15 May 2025 22:08:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/05/15/transportation-budget-keeps-sr-520-project-on-track-2/#:~:text=revenue%20bill</guid>
+		</item>
+		<item>
 			<title>Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard</title>
 			<description>News article "Tesla, Netflix, Philip Morris among those pushing WA governor for tax vetoes • Washington State Standard" from Washington State Standard.</description>
 			<pubDate>Fri, 16 May 2025 11:00:44 GMT</pubDate>
@@ -472,6 +472,13 @@
 			<pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-23/Effective date 7/27/2025*.</guid>
+		</item>
+		<item>
+			<title>KUOW - Washington's gas tax will rise on July 1</title>
+			<description>News article "KUOW - Washington's gas tax will rise on July 1" from KUOW.</description>
+			<pubDate>Mon, 30 Jun 2025 11:51:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/gas-tax-will-rise-in-washington-on-july-1#:~:text=legislation,</guid>
 		</item>
 	</channel>
 </rss>
