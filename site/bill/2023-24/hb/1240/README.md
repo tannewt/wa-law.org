@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 09/01/2023 [The Center Square](/org/the_center_square/) - [Judge rules against latest attempt to block WA's ban on sale of assault weapons | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_798763c2-48ff-11ee-8f63-5f2c0307ff27.html#:~:text=House%20Bill%201240)
+* 06/24/2023 [Washington State Standard](/org/washington_state_standard/) - [Another judge denies request to block Washington’s semiautomatic gun ban • Washington State Standard](https://washingtonstatestandard.com/briefs/judge-denies-request-to-block-enforcement-of-washingtons-semiautomatic-gun-ban/#:~:text=House%20Bill%201240)
 * 06/09/2023 [Cascade PBS](/org/cascade_pbs/) - [Student activists helped pass Washington’s new assault weapons ban | Cascade PBS](https://www.cascadepbs.org/politics/2023/06/student-activists-helped-pass-washingtons-new-assault-weapons-ban/#:~:text=House%20Bill%201240)
 * 06/09/2023 [Crosscut](/org/crosscut/) - [Student activists helped pass Washington’s new assault weapons ban | Crosscut](https://crosscut.com/politics/2023/06/student-activists-helped-pass-washingtons-new-assault-weapons-ban#:~:text=House%20Bill%201240)
 * 06/07/2023 [MyNorthwest](/org/mynorthwest/) - [Pro-gun organizations fail in challenge to WA assault weapons ban - MyNorthwest.com](https://mynorthwest.com/3897900/pro-gun-organizations-fail-in-challenge-to-wa-assault-weapons-ban/#:~:text=House%20Bill%201240)

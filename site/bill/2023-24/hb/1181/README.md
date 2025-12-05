@@ -13,6 +13,7 @@
 
 ## 📰 Articles
 * 01/01/2024 [The Center Square](/org/the_center_square/) - [Vancouver’s latest grant brings total to $1.9M for climate resiliency actions | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7f99bd36-a689-11ee-adc0-3f9bd839f4a5.html#:~:text=House%20Bill%201181)
+* 07/24/2023 [Washington State Standard](/org/washington_state_standard/) - [New law pushes Washington cities and counties to plan for climate change • Washington State Standard](https://washingtonstatestandard.com/2023/07/24/new-law-pushes-washington-cities-and-counties-to-plan-for-climate-change/#:~:text=a%20controversial%20bill)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=HB%201181)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%201181)
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House%20Bill%201181)

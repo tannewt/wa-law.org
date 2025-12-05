@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/30/2025 [Washington State Standard](/org/washington_state_standard/) - [These Washington laws take effect July 1 • Washington State Standard](https://washingtonstatestandard.com/2025/06/30/these-new-washington-laws-take-effect-tuesday/#:~:text=Senate%20Bill%206146)
 * 03/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor Signs Heal One Washington Bills](https://gorgenewscenter.com/2024/03/20/governor-signs-heal-one-washington-bills/#:~:text=Senate%20Bill%206146)
 * 03/20/2024 [House Democrats](/org/house_democrats/) - [Governor Signs Heal One Washington Bills – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/20/governor-signs-heal-one-washington-bills/#:~:text=Senate%20Bill%206146)
 * 02/29/2024 [Senate Democrats](/org/senate_democrats/) - [Bill to allow WA police to enforce tribal warrants passes House - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/29/bill-to-allow-wa-police-to-enforce-tribal-warrants-passes-house/#:~:text=SB%206146)

@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Voters could get final say on changes to Washington’s parental ‘bill of rights' • Washington State Standard](https://washingtonstatestandard.com/briefs/voters-could-get-final-say-on-changes-to-washingtons-parental-bill-of-right/#:~:text=passed%20the%20Senate%20unanimously%20an)
+* 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [WA senator sparks fury with description of 40-year-old law limiting parental rights • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/wa-senator-sparks-fury-with-description-of-40-year-old-law-limiting-parental-rights/#:~:text=a%20parental%20“bill%20of%20rights”%20measure)
+
 ## Meetings
 ### Wed 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 2081 Home equity sharing
 #### 15 👍 - Pro

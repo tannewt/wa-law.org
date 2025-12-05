@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/30/2025 [Washington State Standard](/org/washington_state_standard/) - [Utilities and telecoms turn to WA lawmakers for help as copper wire theft surges • Washington State Standard](https://washingtonstatestandard.com/2025/09/30/utilities-and-telecoms-turn-to-wa-lawmakers-for-help-as-copper-wire-theft-surges/#:~:text=bill%20proposed%20this%20year)
 * 09/30/2025 [Gorge News Center](/org/gorge_news_center/) - [Utilities and telecoms turn to WA lawmakers for help as copper wire theft surges](https://gorgenewscenter.com/2025/09/30/utilities-and-telecoms-turn-to-wa-lawmakers-for-help-as-copper-wire-theft-surges/#:~:text=bill%20proposed%20this%20year)
 
 ## Meetings

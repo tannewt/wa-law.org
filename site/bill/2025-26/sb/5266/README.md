@@ -10,9 +10,11 @@
 
 ## 📰 Articles
 * 10/14/2025 [The Center Square](/org/the_center_square/) - [WA Democratic lawmaker shares 'regret and guilt' over soft-on-crime votes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bb0be070-8a9e-4d0a-915c-13a36f628462.html#:~:text=Senate%20Bill%205266)
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=petition%20for%20early%20release)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=Senate%20Bill%205266:)
 * 03/05/2025 [MyNorthwest](/org/mynorthwest/) - [Washington bill could allow juvenile killers to seek early release from prison](https://mynorthwest.com/mynorthwest-politics/washington-bill-5/4057766#:~:text=Senate%20Bill%205266)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205266)
+* 02/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard](https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=Youth%20Hope%20Act)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205266)
 
 ## Meetings

@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 12/03/2025 [Axios](/org/axios/) - [How artificial intelligence could supercharge cybercrime in Seattle and beyond - Axios Seattle](https://www.axios.com/local/seattle/2025/12/03/ai-crime-ransomware-deepfakes-seattle-washington#:~:text=harmful%20deepfakes)
+* 09/02/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington AG joins push to stop spread of deepfake pornography online • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-ag-joins-push-to-stop-spread-of-deepfake-pornography-online/#:~:text=overwhelmingly%20approved)
 * 09/02/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington AG joins push to stop spread of deepfake pornography online](https://gorgenewscenter.com/2025/09/02/washington-ag-joins-push-to-stop-spread-of-deepfake-pornography-online/#:~:text=overwhelmingly%20approved)
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations#:~:text=House%20Bill%201205)
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations/#:~:text=House%20Bill%201205)

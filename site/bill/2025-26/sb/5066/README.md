@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=SB%205066)
+* 01/29/2025 [Washington State Standard](/org/washington_state_standard/) - [Democrats rework plan for WA prosecutor on police use of deadly force • Washington State Standard](https://washingtonstatestandard.com/2025/01/29/democrats-rework-plan-for-wa-prosecutor-on-police-use-of-deadly-force/#:~:text=investigate%20local%20police)
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5066 Law enf. misconduct

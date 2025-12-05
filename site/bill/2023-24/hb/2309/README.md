@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 04/04/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Cost-Free College Would Change Lives - So Why Don't We Do It? Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/cost-free-college-wa-what-it-means/#:~:text=HB%202309,)
+* 02/14/2024 [Washington State Standard](/org/washington_state_standard/) - [The bills that are dead and still alive in Washington's 2024 legislative session • Washington State Standard](https://washingtonstatestandard.com/2024/02/14/the-bills-that-are-dead-and-still-alive-in-washingtons-2024-legislative-session/#:~:text=13%20Year%20Free’)
 * 02/01/2024 [House Democrats](/org/house_democrats/) - [Bergquist’s 13 Year Free Bill Passes In Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/01/bergquists-13-year-free-bill-passes-in-committee/#:~:text=House%20Bill%202309)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202309)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202309)

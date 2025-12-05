@@ -10,6 +10,7 @@
 * 02/24/2025 [KUOW](/org/kuow/) - [KUOW - Tesla's direct car sales loophole survives in Washington state — for now](https://www.kuow.org/stories/tesla-s-washington-loophole-survives-for-another-year#:~:text=5377)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205377)
 * 02/04/2025 [The Center Square](/org/the_center_square/) - [Proposed legislation would pull the plug on Tesla’s EV sales advantage in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d5b3ce26-e343-11ef-a095-c38b117fec61.html#:~:text=Senate%20Bill%205377)
+* 02/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla is the only EV maker that can sell directly to consumers in WA. Lawmakers might change that • Washington State Standard](https://washingtonstatestandard.com/2025/02/04/tesla-is-the-only-ev-maker-that-can-sell-directly-to-consumers-in-wa-lawmakers-might-change-that/#:~:text=a%20bill)
 * 01/31/2025 [The Washington Observer](/org/the_washington_observer/) - [Lawmakers pick a knife fight with Tesla](https://washingtonobserver.substack.com/p/lawmakers-pick-a-knife-fight-with#:~:text=Senate%20Bill%205377)
 
 ## Meetings

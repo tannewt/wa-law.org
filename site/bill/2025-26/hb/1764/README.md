@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 10/01/2025 [KUOW](/org/kuow/) - [KUOW - Washington’s minimum wage to top $17 in 2026](https://www.kuow.org/stories/washington-s-minimum-wage-to-top-17-in-2026#:~:text=$25%20in%202031.)
+* 09/30/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington’s minimum wage to top $17 in 2026 • Washington State Standard](https://washingtonstatestandard.com/briefs/washingtons-minimum-wage-to-top-17-in-2026/#:~:text=$25%20in%202031)
 * 09/30/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington’s minimum wage to top $17 in 2026](https://gorgenewscenter.com/2025/09/30/washingtons-minimum-wage-to-top-17-in-2026/#:~:text=$25%20in%202031)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201747)
 

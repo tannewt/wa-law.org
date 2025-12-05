@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=state%20clam)
+* 02/22/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2025/02/22/rip-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=Pacific%20razor%20clam)
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Elections (SGE): SB 5560 State clam

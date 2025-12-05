@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/19/2023 [Washington State Standard](/org/washington_state_standard/) - [Inslee axes special education study, drawing bipartisan rebuke • Washington State Standard](https://washingtonstatestandard.com/2023/05/19/inslee-vetoes-special-education-audit-2023-session/#:~:text=House%20Bill%201436)
 * 04/24/2023 [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=ESHB%201436)
 * 04/22/2023 [House Democrats](/org/house_democrats/) - [Pollet Boosts Special Education Funding – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/pollet-boosts-special-education-funding/#:~:text=House%20Bill%201436)
 * 04/18/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Education bills will expand free meals, special ed funding | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/18/legislation-passes-bills-expanding-free-meals-special-ed-funding/#:~:text=House%20Bill%201436)

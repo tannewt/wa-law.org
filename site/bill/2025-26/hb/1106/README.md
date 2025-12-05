@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Cap on rent increases across Washington is signed into law • Washington State Standard](https://washingtonstatestandard.com/2025/05/07/cap-on-rent-increases-across-washington-is-signed-into-law/#:~:text=tax%20relief)
 * 05/07/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs rent stabilization bill into law | FOX 13 Seattle](https://www.fox13seattle.com/news/governor-signs-rent-stabilization-bill#:~:text=property%20tax%20relief)
 
 ## Meetings

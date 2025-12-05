@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205680)
+* 05/27/2025 [Washington State Standard](/org/washington_state_standard/) - [WA consumers will gain ‘right to repair’ cellphones and other electronics • Washington State Standard](https://washingtonstatestandard.com/2025/05/27/wa-consumers-will-gain-right-to-repair-cellphones-and-other-electronics/#:~:text=similar%20repair%20bill)
 * 05/23/2025 [Senate Democrats](/org/senate_democrats/) - [2025 legislative session recap - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/05/22/2025-legislative-session-recap/#:~:text=SB%205680)
 * 05/20/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Landmark Right to Repair Bills into Law, Expanding Consumer Protections & Access to Repairs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/20/governor-signs-landmark-right-to-repair-bills-into-law-expanding-consumer-protections-access-to-repairs/#:~:text=SB%205680)
 * 05/19/2025 [Senate Democrats](/org/senate_democrats/) - [Right to repair wheelchair bill signed into law - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/05/19/right-to-repair-wheelchair-bill-signed-into-law/#:~:text=Senate%20Bill%205680)

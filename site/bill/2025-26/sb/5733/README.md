@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/18/2025 [Washington State Standard](/org/washington_state_standard/) - [How Republicans want to fix WA’s affordable housing shortage • Washington State Standard](https://washingtonstatestandard.com/2025/02/18/how-republicans-want-to-fix-was-affordable-housing-shortage/#:~:text=easier%20for%20cities%20and%20counties%20to%20make%20more%20frequent%20changes)
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205733)
 
 ## Meetings

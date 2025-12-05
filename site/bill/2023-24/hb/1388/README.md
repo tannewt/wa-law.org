@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=HB%201388)
 * 12/01/2023 [Cascade PBS](/org/cascade_pbs/) - [Tumwater mobile home tenants lobby against rent hikes | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes/#:~:text=HB%201388)
+* 09/11/2023 [Washington State Standard](/org/washington_state_standard/) - [The outlook for new statewide renter protections in Washington • Washington State Standard](https://washingtonstatestandard.com/2023/09/11/the-outlook-for-new-statewide-renter-protections-in-washington/#:~:text=Another%20bill)
 * 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=HB%201388)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201388)
 * 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201388)

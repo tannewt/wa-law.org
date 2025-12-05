@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205729)
+* 05/30/2023 [Washington State Standard](/org/washington_state_standard/) - [How new Washington laws aim to lower out-of-pocket health care costs • Washington State Standard](https://washingtonstatestandard.com/2023/05/30/washington-state-insulin-cap-out-of-pocket-health-care-costs/#:~:text=Senate%20Bill%205729)
 * 03/31/2023 [MyNorthwest](/org/mynorthwest/) - [Monthly $35 insulin cap made permanent by WA Legislature - MyNorthwest.com](https://mynorthwest.com/3867863/monthly-35-insulin-cap-made-permeant-by-wa-state-legislature/#:~:text=SB%205729)
 * 03/30/2023 [Senate Democrats](/org/senate_democrats/) - [Keiser bill permanently caps insulin at $35 per month - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/30/keiser-bill-permanently-caps-insulin-at-35-per-month/#:~:text=SB%205729)
 * 03/30/2023 [The Seattle Times](/org/the_seattle_times/) - [Cap on insulin cost now permanent in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/cap-on-insulin-cost-now-permanent-in-wa/#:~:text=Senate%20Bill%205729)

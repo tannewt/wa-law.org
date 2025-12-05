@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5369/</link>
 		<description>Updates about SB 5369</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 May 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Apr 2024 20:43:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -493,6 +493,13 @@
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Feds deny Washington’s request for stricter PCB standards • Washington State Standard</title>
+			<description>News article "Feds deny Washington’s request for stricter PCB standards • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 05 Apr 2024 20:43:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2024/04/05/feds-deny-washingtons-request-for-stricter-pcb-standards/#:~:text=a%20bill</guid>
 		</item>
 	</channel>
 </rss>

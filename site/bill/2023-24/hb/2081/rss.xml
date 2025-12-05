@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2081/</link>
 		<description>Updates about HB 2081</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Mar 2025 22:26:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -343,6 +343,20 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>WA senator sparks fury with description of 40-year-old law limiting parental rights • Washington State Standard</title>
+			<description>News article "WA senator sparks fury with description of 40-year-old law limiting parental rights • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 11 Feb 2025 02:04:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/10/wa-senator-sparks-fury-with-description-of-40-year-old-law-limiting-parental-rights/#:~:text=a%20parental%20“bill%20of%20rights”%20measure</guid>
+		</item>
+		<item>
+			<title>Voters could get final say on changes to Washington’s parental ‘bill of rights' • Washington State Standard</title>
+			<description>News article "Voters could get final say on changes to Washington’s parental ‘bill of rights' • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 04 Mar 2025 22:26:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/voters-could-get-final-say-on-changes-to-washingtons-parental-bill-of-right/#:~:text=passed%20the%20Senate%20unanimously%20an</guid>
 		</item>
 	</channel>
 </rss>

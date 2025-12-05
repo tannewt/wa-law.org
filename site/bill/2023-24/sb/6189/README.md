@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 07/25/2024 [Washington State Standard](/org/washington_state_standard/) - [Man's suicide in cell prompts renewed calls for WA jail oversight • Washington State Standard](https://washingtonstatestandard.com/2024/07/25/mans-suicide-in-basement-cell-prompts-renewed-calls-for-more-jail-oversight-in-wa/#:~:text=a%20bill)
 * 07/25/2024 [Gorge News Center](/org/gorge_news_center/) - [Man’s suicide in basement cell prompts renewed calls for more jail oversight in WA](https://gorgenewscenter.com/2024/07/25/mans-suicide-in-basement-cell-prompts-renewed-calls-for-more-jail-oversight-in-wa/#:~:text=a%20bill)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206189)
 

@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Liias’ sustainable aviation fuels bill clears committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/05/liias-sustainable-aviation-fuels-bill-clears-committee/#:~:text=SB%205447)
+* 06/20/2023 [Washington State Standard](/org/washington_state_standard/) - [At Paris Air Show, Washington lands alternative jet fuel facility • Washington State Standard](https://washingtonstatestandard.com/2023/06/19/at-paris-air-show-washington-lands-alternative-jet-fuel-facility/#:~:text=The%20legislation)
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=Senate%20Bill%205447)
 * 03/29/2023 [The Seattle Times](/org/the_seattle_times/) - [Pass WA sustainable aviation fuels bill to combat climate crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/pass-wa-sustainable-aviation-fuels-bill-to-combat-climate-crisis/#:~:text=sponsored%20Senate%20Bill%205447)
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205447)

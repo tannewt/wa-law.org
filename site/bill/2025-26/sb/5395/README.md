@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 09/25/2025 [Washington State Standard](/org/washington_state_standard/) - [AI reviews rolling out for Medicare in WA for some procedures • Washington State Standard](https://washingtonstatestandard.com/2025/09/25/ai-reviews-rolling-out-for-medicare-in-wa-for-some-procedures/#:~:text=considered%20legislation)
 * 09/25/2025 [Gorge News Center](/org/gorge_news_center/) - [AI reviews rolling out for Medicare in WA for some procedures](https://gorgenewscenter.com/2025/09/25/ai-reviews-rolling-out-for-medicare-in-wa-for-some-procedures/#:~:text=considered%20legislation)
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=restricted%20the%20use%20of%20artificial%20intelligence)
 

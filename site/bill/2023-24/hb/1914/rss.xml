@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1914/</link>
 		<description>Updates about HB 1914</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 00:51:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -166,6 +166,13 @@
 			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-22/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>How WA lawmakers are looking to improve K-12 special education • Washington State Standard</title>
+			<description>News article "How WA lawmakers are looking to improve K-12 special education • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 22 Feb 2024 00:51:36 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2024/02/21/wa-lawmakers-look-to-improve-k-12-special-education/#:~:text=a%20broader%20bill</guid>
 		</item>
 	</channel>
 </rss>

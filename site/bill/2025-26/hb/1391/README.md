@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 03/05/2025 [House Democrats](/org/house_democrats/) - [Rep. Cortes: ‘Standardize Juvenile Diversion Programs, Cut Recidivism Rates’ – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/rep-cortes-standardize-juvenile-diversion-programs-cut-recidivism-rates/#:~:text=House%20Bill%201391)
+* 02/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard](https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=increase%20diversion%20programs)
 
 ## Meetings
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1391 Court alternatives/youth

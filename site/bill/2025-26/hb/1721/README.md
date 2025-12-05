@@ -11,6 +11,7 @@
 * 02/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla to maintain exclusive hold on direct EV sales to WA consumers • Washington State Standard](https://washingtonstatestandard.com/2025/02/24/tesla-to-maintain-exclusive-hold-on-direct-ev-sales-to-wa-consumers/#:~:text=House%20Bill%201721)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201721)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201721)
+* 02/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Tesla is the only EV maker that can sell directly to consumers in WA. Lawmakers might change that • Washington State Standard](https://washingtonstatestandard.com/2025/02/04/tesla-is-the-only-ev-maker-that-can-sell-directly-to-consumers-in-wa-lawmakers-might-change-that/#:~:text=the%20House%20bill)
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Consumer Protection & Business (CPB): HB 1721 Zero emissions vehicles/sale

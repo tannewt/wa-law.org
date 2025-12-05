@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington to begin speed camera enforcement in roadwork zones • Washington State Standard](https://washingtonstatestandard.com/2025/02/12/washington-to-begin-speed-camera-enforcement-in-roadwork-zones/#:~:text=online%20course%20on%20work%20zone%20safety)
+
 ## Meetings
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1822 Driver course/work zones
 #### 36 👍 - Pro

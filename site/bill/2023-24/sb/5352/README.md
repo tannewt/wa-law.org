@@ -7,11 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/16/2024 [Washington State Standard](/org/washington_state_standard/) - [In reversal, more states allow high-speed police chases • Washington State Standard](https://washingtonstatestandard.com/2024/04/15/in-reversal-more-areas-allow-high-speed-police-chases/#:~:text=amended%20it%20last%20year)
 * 02/05/2024 [House Republicans](/org/house_republicans/) - [I-2113: Restoring police pursuits | Washington State House Republicans](http://houserepublicans.wa.gov/i-2113/#:~:text=Senate%20Bill%205352)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-public-safety-crisis/#:~:text=progress)
 * 12/29/2023 [The Center Square](/org/the_center_square/) - [WA police org urges legislators to prioritize public safety policies | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_55e1579e-a664-11ee-ae2e-5300bdd55530.html#:~:text=Engrossed%20Senate%20Bill%205352)
 * 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=SB%205352)
 * 06/01/2023 [The Seattle Times](/org/the_seattle_times/) - [Everyone says they want compromise in politics, until it happens | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/everyone-says-they-want-compromise-in-politics-until-it-happens/#:~:text=SB%205352)
+* 05/09/2023 [Washington State Standard](/org/washington_state_standard/) - [The race begins for Washington attorney general • Washington State Standard](https://washingtonstatestandard.com/2023/05/09/the-race-begins-for-washington-attorney-general/#:~:text=help%20pass%20a%20revised%20bill)
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs modified police pursuit reform bill into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_027985be-ea02-11ed-9587-176f63fb9a4a.html#:~:text=Engrossed%20Senate%20Bill%205352)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205352)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205352)

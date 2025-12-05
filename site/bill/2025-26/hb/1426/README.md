@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/22/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2025/02/22/rip-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%201426)
+* 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [In-car speed limiters considered as option to tackle rise in WA traffic deaths • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/in-car-speed-limiter-devices-considered-as-option-to-tackle-rise-in-washington-traffic-deaths/#:~:text=new%20civil%20protection%20order)
 * 01/28/2025 [MyNorthwest](/org/mynorthwest/) - [Washington aims to curb drunk driving with new bill](https://mynorthwest.com/mynorthwest-politics/washington/4035481#:~:text=House%20Bill%201426)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201426)
 

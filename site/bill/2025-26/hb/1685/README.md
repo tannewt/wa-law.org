@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferguson wades into WA Fish and Wildlife Commission turmoil • Washington State Standard](https://washingtonstatestandard.com/2025/02/17/ferguson-wades-into-wa-fish-and-wildlife-commission-turmoil/#:~:text=A%20bill%20introduced%20by%20Rep.%20Larry%20Springer,%20D-Kirkland)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201685)
 
 ## Meetings

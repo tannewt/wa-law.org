@@ -10,6 +10,10 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 06/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington State Library closing to the public, 12 jobs getting axed • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-state-library-closing-to-the-public-12-jobs-getting-axed/#:~:text=A%20bill%20signed%20by%20Ferguson)
+* 05/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Money crunch: Nearly 50 WA State Library employees facing layoffs • Washington State Standard](https://washingtonstatestandard.com/2025/05/13/money-crunch-nearly-50-wa-state-library-employees-facing-layoffs/#:~:text=A%20bill%20awaiting%20action%20by%20Gov.%20Bob%20Ferguson)
+
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): 2SHB 1207 Superior court clerk fees
 #### 9 👍 - Pro

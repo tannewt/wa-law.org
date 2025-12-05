@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=SB%205291)
+* 06/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington’s long-term care program nears liftoff • Washington State Standard](https://washingtonstatestandard.com/2025/06/06/washingtons-long-term-care-program-nears-liftoff/#:~:text=Senate%20Bill%205291)
 
 ## Meetings
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5291 Long-term services trust

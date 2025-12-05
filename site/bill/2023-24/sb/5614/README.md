@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 05/12/2023 [Washington State Standard](/org/washington_state_standard/) - [How a plan to improve work conditions in strip clubs faltered • Washington State Standard](https://washingtonstatestandard.com/2023/05/11/washington-state-strip-clubs-liquor-sales/#:~:text=Senate%20Bill%205614)
 * 04/20/2023 [Cascade PBS](/org/cascade_pbs/) - [Washington strip clubs won't be selling alcohol anytime soon | Cascade PBS](https://www.cascadepbs.org/politics/2023/04/washington-strip-clubs-wont-be-selling-alcohol-anytime-soon/#:~:text=Senate%20Bill%205614)
 * 04/20/2023 [Crosscut](/org/crosscut/) - [Washington strip clubs won't be selling alcohol anytime soon | Crosscut](https://crosscut.com/politics/2023/04/washington-strip-clubs-wont-be-selling-alcohol-anytime-soon#:~:text=Senate%20Bill%205614)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205614)

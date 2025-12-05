@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 07/18/2023 [Cascade PBS](/org/cascade_pbs/) - [Why Washington gas prices are the nation’s highest | Cascade PBS](https://www.cascadepbs.org/environment/2023/07/why-washington-gas-prices-are-nations-highest/#:~:text=Senate%20Bill%205766)
 * 07/18/2023 [Crosscut](/org/crosscut/) - [Why Washington gas prices are the nation’s highest | Crosscut](https://crosscut.com/environment/2023/07/why-washington-gas-prices-are-nations-highest#:~:text=Senate%20Bill%205766)
+* 06/16/2023 [Washington State Standard](/org/washington_state_standard/) - [Farmers see fuel costs rise despite cap-and-trade carveout • Washington State Standard](https://washingtonstatestandard.com/2023/06/16/farmers-see-fuel-costs-rise-despite-cap-and-trade-carveout/#:~:text=A%20bill)
 * 04/10/2023 [Cascade PBS](/org/cascade_pbs/) - [How Washington plans to spend money from the new carbon-cap law | Cascade PBS](https://www.cascadepbs.org/politics/2023/04/how-washington-plans-spend-money-new-carbon-cap-law/#:~:text=Senate%20Bill%205766)
 * 04/10/2023 [Crosscut](/org/crosscut/) - [How Washington plans to spend money from the new carbon-cap law | Crosscut](https://crosscut.com/politics/2023/04/how-washington-plans-spend-money-new-carbon-cap-law#:~:text=Senate%20Bill%205766)
 * 04/07/2023 [The Center Square](/org/the_center_square/) - [Bill to refund carbon tax fuel surcharges to farmers includes cost-hiding section | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8d70a218-d591-11ed-a429-cf23f63d4e84.html#:~:text=Senate%20Bill%205766)

@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/09/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Governor: Washington ferry service to be restored to pre-pandemic levels by summer | Cascadia Daily News](https://www.cascadiadaily.com/2025/mar/09/governor-washington-ferry-service-to-be-restored-to-pre-pandemic-levels-by-summer/#:~:text=to%20one%20such%20bill)
+* 03/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Ferry service to reach pre-pandemic levels by summer, governor says • Washington State Standard](https://washingtonstatestandard.com/2025/03/06/washington-ferry-service-to-be-restored-to-pre-pandemic-levels-by-summer-governor-says/#:~:text=to%20one%20such%20bill)
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5710 Diesel vessels/state ferries

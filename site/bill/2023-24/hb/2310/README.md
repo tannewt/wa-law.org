@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2024 [Washington State Standard](/org/washington_state_standard/) - [Take this historic house, please! Lawmakers unsure about acquiring political trailblazer's home • Washington State Standard](https://washingtonstatestandard.com/2024/01/31/take-this-historic-house-please-lawmakers-unsure-about-acquiring-political-trailblazers-home/#:~:text=coming%20to%20a%20head%20through%20legislation)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202310)
 
 ## Meetings

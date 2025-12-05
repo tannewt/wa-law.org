@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington Republicans clash with Democrats over rural housing.](https://washingtonstatestandard.com/2024/02/17/republicans-in-washington-legislature-bristle-over-collapse-of-rural-housing-bills/#:~:text=A%20bipartisan%20bill)
+
 ## Meetings
 ### Tue 02/20 08:00 AM - Finance (FIN): SB 6030 ADU tax exemptions
 #### 2 👍 - Pro

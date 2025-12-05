@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 04/08/2025 [House Democrats](/org/house_democrats/) - [Gov. Ferguson Signs Bill Officially Recognizing Eid Holidays – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/08/gov-ferguson-signs-bill-officially-recognizing-eid-holidays/#:~:text=House%20Bill%201434)
+* 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers consider bills to recognize two Muslim holidays • Washington State Standard](https://washingtonstatestandard.com/2025/02/11/washington-lawmakers-consider-bills-to-recognize-two-muslim-holidays/#:~:text=House%20Bill%201432)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201434)
 
 ## Meetings

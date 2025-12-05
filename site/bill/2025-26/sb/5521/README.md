@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill would set new limits on when police can stop drivers • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/wa-bill-would-set-new-limits-on-when-police-can-stop-drivers/#:~:text=Senate%20version)
+
 ## Meetings

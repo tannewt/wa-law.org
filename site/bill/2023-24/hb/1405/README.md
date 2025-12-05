@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 05/09/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington is intercepting federal benefits bound for foster youth • Washington State Standard](https://washingtonstatestandard.com/2024/05/09/washington-is-intercepting-federal-benefits-bound-for-foster-youth/#:~:text=2023%20bill)
 * 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201405)
 
 ## Meetings

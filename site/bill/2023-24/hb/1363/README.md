@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/05/2024 [Washington State Standard](/org/washington_state_standard/) - [Ballot initiatives cast shadow over Washington legislative session • Washington State Standard](https://washingtonstatestandard.com/2024/01/04/ballot-initiatives-cast-shadow-over-washington-legislative-session/#:~:text=a%20Democrat-sponsored%20bill)
 * 05/05/2023 [MyNorthwest](/org/mynorthwest/) - [Solan: 'Cops can't do their jobs right now in Seattle' despite new police pursuit law - MyNorthwest.com](https://mynorthwest.com/3885588/solan-cop-cant-jobs-seattle-updated-police-pursuit-law/#:~:text=House%20Bill%201363)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201363)
 * 04/13/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Keeping our communities safe | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/13/keeping-our-communities-safe/#:~:text=HB%201363)

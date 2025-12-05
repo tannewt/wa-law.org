@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5392/</link>
 		<description>Updates about SB 5392</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Feb 2025 05:07:40 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Mar 2025 00:12:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Sheri/Sawyer/2025-02-26 05:07:40</guid>
+		</item>
+		<item>
+			<title>WA's latest budget outlook shows another $845M dent in revenue • Washington State Standard</title>
+			<description>News article "WA's latest budget outlook shows another $845M dent in revenue • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 19 Mar 2025 00:12:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/18/washingtons-latest-budget-outlook-shows-another-845m-dent-in-state-revenue/#:~:text=tapping%20state%20reserves</guid>
 		</item>
 	</channel>
 </rss>

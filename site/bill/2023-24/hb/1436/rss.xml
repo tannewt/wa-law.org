@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1436/</link>
 		<description>Updates about HB 1436</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 11 May 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 May 2023 07:01:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -965,6 +965,13 @@
 			<pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-11/Governor partially vetoed.</guid>
+		</item>
+		<item>
+			<title>Inslee axes special education study, drawing bipartisan rebuke • Washington State Standard</title>
+			<description>News article "Inslee axes special education study, drawing bipartisan rebuke • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 19 May 2023 07:01:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2023/05/19/inslee-vetoes-special-education-audit-2023-session/#:~:text=House%20Bill%201436</guid>
 		</item>
 	</channel>
 </rss>

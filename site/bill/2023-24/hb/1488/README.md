@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 11/24/2023 [Wenatchee World](/org/wenatchee_world/) - [Only you (almost) can put Smokey Bear on Washington license plates | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/only-you-almost-can-put-smokey-bear-on-washington-license-plates/article_f15577be-88cd-11ee-971a-2f1251c12104.html#:~:text=small%20forest%20landowners)
+* 11/21/2023 [Washington State Standard](/org/washington_state_standard/) - [Only you (almost) can put Smokey Bear on Washington license plates • Washington State Standard](https://washingtonstatestandard.com/2023/11/20/only-you-almost-can-put-smokey-bear-on-washington-license-plates/#:~:text=small%20forest%20landowners)
 
 ## Meetings
 ### Wed 02/01 04:00 PM - Transportation (TR): HB 1488 Working forest license plate

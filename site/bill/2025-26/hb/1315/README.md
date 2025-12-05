@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201315)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201315)
+* 01/16/2025 [Washington State Standard](/org/washington_state_standard/) - [Lawmakers again trying to lower legal alcohol limit for drivers in Washington • Washington State Standard](https://washingtonstatestandard.com/2025/01/16/lawmakers-again-trying-to-lower-legal-alcohol-limit-for-drivers-in-washington/#:~:text=House%20version)
 * 01/16/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lawmakers again trying to lower legal alcohol limit for drivers in Washington | Cascadia Daily News](https://www.cascadiadaily.com/2025/jan/16/lawmakers-again-trying-to-lower-legal-alcohol-limit-for-drivers-in-washington/#:~:text=House%20version)
 
 ## Meetings

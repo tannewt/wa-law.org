@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/12/2023 [Washington State Standard](/org/washington_state_standard/) - [Washington Board of Education approves new high school graduation rules • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-board-of-education-approves-new-high-school-graduation-rules/#:~:text=House%20Bill%201308)
+* 08/17/2023 [Washington State Standard](/org/washington_state_standard/) - [Planning begins for Washington law offering new pathways to high school graduation • Washington State Standard](https://washingtonstatestandard.com/briefs/planning-begins-for-washington-law-offering-new-pathways-to-high-school-graduation/#:~:text=House%20Bill%201308)
 * 06/30/2023 [House Democrats](/org/house_democrats/) - [Congrats to our grads 🎓🏫🍾 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/30/congrats-to-our-grads-%f0%9f%8e%93%f0%9f%8f%ab%f0%9f%8d%be/#:~:text=HB%201308)
 * 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=HB%201308)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB%201308)

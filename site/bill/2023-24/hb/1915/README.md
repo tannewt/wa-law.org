@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 10/17/2024 [Washington State Standard](/org/washington_state_standard/) - [High school graduation requirements may see overhaul in Washington • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-board-of-education-wants-to-overhaul-high-school-graduation-requirements/#:~:text=add%20financial%20education)
 * 03/11/2024 [The Center Square](/org/the_center_square/) - [Mandatory financial literacy bill died as legislative session came to an end | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d6970c28-dfd3-11ee-807e-17fe0fdbf41c.html#:~:text=House%20Bill%201915)
 * 03/09/2024 [The Seattle Times](/org/the_seattle_times/) - [Financial education bill changed last minute on Senate floor and fails | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/financial-education-bill-changed-last-minute-on-senate-floor-and-fails/#:~:text=House%20Bill%201915)
 * 03/08/2024 [KUOW](/org/kuow/) - [KUOW - Why Washington's high school financial education bill didn't survive the '24 session](https://www.kuow.org/stories/washington-high-school-financial-education-bill-2024-legislative-session#:~:text=House%20Bill%201915)

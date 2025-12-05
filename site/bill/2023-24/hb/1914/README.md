@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/22/2024 [Washington State Standard](/org/washington_state_standard/) - [How WA lawmakers are looking to improve K-12 special education • Washington State Standard](https://washingtonstatestandard.com/2024/02/21/wa-lawmakers-look-to-improve-k-12-special-education/#:~:text=a%20broader%20bill)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%201914)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201914)
 

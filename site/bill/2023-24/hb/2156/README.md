@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 03/01/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers approve rooftop solar consumer protections](https://washingtonstatestandard.com/2024/03/01/washington-lawmakers-move-to-rein-in-unscrupulous-rooftop-solar-companies/#:~:text=The%20resulting%20bill)
+
 ## Meetings
 ### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2156 Solar consumer protections
 #### 202 👍 - Pro

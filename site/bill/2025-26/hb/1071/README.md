@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington legislators debate bills to boost recycling • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-legislators-debate-bills-to-boost-recycling/#:~:text=House%20Bill%201071)
+* 01/20/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers look at making packaging producers pay for recycling • Washington State Standard](https://washingtonstatestandard.com/2025/01/20/washington-lawmakers-look-at-making-packaging-producers-pay-for-recycling/#:~:text=a%20different%20recycling%20bill)
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201071)
 
 ## Meetings

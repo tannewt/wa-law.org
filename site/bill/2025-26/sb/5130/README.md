@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2025 [Washington State Standard](/org/washington_state_standard/) - [WA child care advocates push for higher pay and more support for providers • Washington State Standard](https://washingtonstatestandard.com/2025/01/30/wa-child-care-advocates-push-for-higher-pay-and-more-support-for-providers/#:~:text=One%20proposal)
 * 01/29/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington bill aims to end fees for child care providers | Cascade PBS](https://www.cascadepbs.org/politics/2025/01/new-washington-bill-aims-end-fees-child-care-providers#:~:text=Senate%20Bill%205130)
 * 01/29/2025 [Cascade PBS](/org/cascade_pbs/) - [New Washington bill aims to end fees for child care providers | Cascade PBS](https://www.cascadepbs.org/politics/2025/01/new-washington-bill-aims-end-fees-child-care-providers/#:~:text=Senate%20Bill%205130)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205130)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1207/</link>
 		<description>Updates about HB 1207</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Jun 2025 21:54:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -198,11 +198,25 @@
 			<guid isPermaLink="false">2025-04-27/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Money crunch: Nearly 50 WA State Library employees facing layoffs • Washington State Standard</title>
+			<description>News article "Money crunch: Nearly 50 WA State Library employees facing layoffs • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 13 May 2025 11:01:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/05/13/money-crunch-nearly-50-wa-state-library-employees-facing-layoffs/#:~:text=A%20bill%20awaiting%20action%20by%20Gov.%20Bob%20Ferguson</guid>
+		</item>
+		<item>
 			<title>Effective date 7/27/2025.</title>
 			<description>Effective date 7/27/2025.</description>
 			<pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-19/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Washington State Library closing to the public, 12 jobs getting axed • Washington State Standard</title>
+			<description>News article "Washington State Library closing to the public, 12 jobs getting axed • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 06 Jun 2025 21:54:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/washington-state-library-closing-to-the-public-12-jobs-getting-axed/#:~:text=A%20bill%20signed%20by%20Ferguson</guid>
 		</item>
 	</channel>
 </rss>

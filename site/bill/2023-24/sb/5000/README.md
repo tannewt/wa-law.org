@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/09/2023 [Washington State Standard](/org/washington_state_standard/) - [Making time to celebrate the Chinese community’s place in state history • Washington State Standard](https://washingtonstatestandard.com/2023/05/09/making-time-to-celebrate-the-chinese-communitys-place-in-state-history/#:~:text=Senate%20Bill%205000)
 * 02/20/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local lawmakers advance bills on environment, children | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/20/local-lawmakers-advance-bills-on-environment-children/#:~:text=Senate%20Bill%205000)
 
 ## Meetings

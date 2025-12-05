@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/29/2024 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers approve out-of-state option for long-term care benefit • Washington State Standard](https://washingtonstatestandard.com/2024/02/29/long-term-care-benefit-washington/#:~:text=A%20bill)
 * 02/21/2024 [The Center Square](/org/the_center_square/) - [Democrats seek to quell opposition to WA Cares ahead of potential repeal in November | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ef52a91e-d10c-11ee-af9d-73e1cf7fc3be.html#:~:text=Substitute%20House%20Bill%202467)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202467)
 

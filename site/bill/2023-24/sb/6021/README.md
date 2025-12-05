@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/22/2024 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers consider free prison phone calls to help keep families connected • Washington State Standard](https://washingtonstatestandard.com/2024/01/22/wa-lawmakers-consider-free-prison-phone-calls-to-help-keep-families-connected/#:~:text=Connecting%20Families%20Act)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%206021)
 
 ## Meetings

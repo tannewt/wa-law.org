@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 07/08/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: How to De-Trumpify the Washington State Budget » The Urbanist](https://www.theurbanist.org/2025/07/08/op-ed-how-to-de-trumpify-the-washington-state-budget/#:~:text=eliminate%20this%20loophole)
+* 04/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Search is on in Washington Legislature for new tax options • Washington State Standard](https://washingtonstatestandard.com/2025/04/04/search-is-on-in-washington-legislature-for-new-tax-options/#:~:text=around%20$200%20million%20a%20year)
 * 03/05/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers consider uncapping tax on big tech companies • Washington State Standard](https://washingtonstatestandard.com/2025/03/05/washington-lawmakers-consider-uncapping-tax-on-big-tech-companies-to-fund-higher-ed/#:~:text=House%20Bill%201839)
 * 03/02/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Fund Washington Higher Education, Close Amazon/Microsoft Tax Loophole - The Urbanist](https://www.theurbanist.org/2025/03/02/op-ed-fund-washington-higher-education-close-amazon-loophole/#:~:text=House%20Bill%201839)
 * 02/26/2025 [The Center Square](/org/the_center_square/) - [WA bill could end tax cap for major tech companies amid state budget shortfall | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bc6cd952-f47e-11ef-9bdf-5b3c33eb5ea5.html#:~:text=If%20approved,%20House%20Bill%201839)

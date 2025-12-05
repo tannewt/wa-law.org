@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=HB%201445)
+* 03/19/2024 [Washington State Standard](/org/washington_state_standard/) - [How police reform efforts in the Legislature faltered this year • Washington State Standard](https://washingtonstatestandard.com/2024/03/19/how-police-reform-efforts-in-the-legislature-faltered-this-year/#:~:text=more%20authority%20over%20investigating%20law%20enforcement%20agencies)
 * 02/28/2024 [Washington State Standard](/org/washington_state_standard/) - [Police reform advocates see a top priority lapse in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2024/02/27/bill-for-independent-prosecutor-on-police-use-of-force-cases-washington/#:~:text=House%20Bill%201445)
 * 01/29/2024 [Washington State Standard](/org/washington_state_standard/) - [Democrats want independent prosecutor to handle cases where police use deadly force • Washington State Standard](https://washingtonstatestandard.com/2024/01/29/democrats-want-independent-prosecutor-to-handle-cases-where-police-use-deadly-force/#:~:text=House%20Bill%201445)
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Pass AG Investigation and Reform (HB 1445) | ACLU of Washington](http://www.aclu-wa.org/pages/pass-ag-investigation-and-reform  hb-1445#:~:text=HB%201445)

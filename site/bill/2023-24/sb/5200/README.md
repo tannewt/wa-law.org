@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 05/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2023-washington-state-legislative-session-summary#:~:text=SB%205200)
+* 05/09/2023 [Washington State Standard](/org/washington_state_standard/) - [‘This is what the capital budget should be about’ • Washington State Standard](https://washingtonstatestandard.com/2023/05/09/washington-state-capital-budget-mays-pond-park-funding/#:~:text=without%20a%20dissenting%20vote)
 * 04/21/2023 [The Center Square](/org/the_center_square/) - [Washington state legislators announce $8.9B construction budget | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0108fb58-e096-11ed-916e-3fa14f8fc260.html#:~:text=Senate%20Bill%205200)
 * 04/12/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205200)
 * 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB%205200)

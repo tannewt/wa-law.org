@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/03/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers crack open a fresh bottle deposit bill](https://www.kuow.org/stories/washington-lawmakers-crack-open-a-fresh-bottle-deposit-bill#:~:text=SB%205154)
+* 11/29/2023 [Washington State Standard](/org/washington_state_standard/) - [What advocacy groups want from lawmakers in 2024 • Washington State Standard](https://washingtonstatestandard.com/2023/11/29/what-advocacy-groups-want-from-lawmakers-in-2024/#:~:text=Senate)
 * 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=SB%205154)
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB%205154)
 * 02/22/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB%205154)

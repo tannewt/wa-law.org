@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/30/2025 [Washington State Standard](/org/washington_state_standard/) - [These Washington laws take effect July 1 • Washington State Standard](https://washingtonstatestandard.com/2025/06/30/these-new-washington-laws-take-effect-tuesday/#:~:text=Senate%20Bill%206006)
 * 03/26/2024 [Senate Democrats](/org/senate_democrats/) - [Dhingra bills to support survivors of gender-based violence signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/26/dhingra-bills-to-support-survivors-of-gender-based-violence-signed-into-law/#:~:text=SB%206006)
 * 03/14/2024 [Senate Democrats](/org/senate_democrats/) - [Newsletter: Last Week of Session! - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/03/14/newsletter-last-week-of-session/#:~:text=SB%206006)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206006)

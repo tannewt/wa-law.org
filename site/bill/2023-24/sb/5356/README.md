@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/09/2023 [Washington State Standard](/org/washington_state_standard/) - [The race begins for Washington attorney general • Washington State Standard](https://washingtonstatestandard.com/2023/05/09/the-race-begins-for-washington-attorney-general/#:~:text=Blake%20fix,)
+
 ## Meetings
 ### Wed 02/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5356 Procurement/automated system
 #### 802 👍 - Pro

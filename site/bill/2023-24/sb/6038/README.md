@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/08/2024 [Washington State Standard](/org/washington_state_standard/) - [Bills that passed and failed in Washington's 2024 legislative session • Washington State Standard](https://washingtonstatestandard.com/2024/03/07/washington-state-2024-session-bills-that-passed-and-failed/#:~:text=expand%20the%20business%20and%20occupation%20tax%20exemption)
 * [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=Senate%20Bill%206038)
 * [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=Senate%20Bill%206038)
 

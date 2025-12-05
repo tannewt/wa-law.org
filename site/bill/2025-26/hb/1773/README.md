@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=House%20Bill%201773)
+* 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Hundreds of immigrants rally at Washington state Capitol • Washington State Standard](https://washingtonstatestandard.com/2025/01/30/hundreds-of-immigrants-rally-at-washington-state-capitol/#:~:text=House%20companion%20bill)
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1773 Wage replacement

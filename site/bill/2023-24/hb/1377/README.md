@@ -11,6 +11,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 05/28/2024 [Washington State Standard](/org/washington_state_standard/) - [How did Moms for Liberty end up approved to train WA teachers? • Washington State Standard](https://washingtonstatestandard.com/2024/05/28/how-did-moms-for-liberty-end-up-on-was-approved-list-of-groups-teacher-training/#:~:text=Legislature%20passed%20a%20bill)
+
 ## Meetings
 ### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): 2ESHB 1377 Continuing education/K-12
 #### 72 👍 - Pro

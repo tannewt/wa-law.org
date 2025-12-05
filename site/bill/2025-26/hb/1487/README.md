@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Funding for crime victim services in Washington is running short • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/funding-for-crime-victim-services-in-washington-is-running-short/#:~:text=Rep.%20Lauren%20Davis,%20D-Shoreline)
 * 01/31/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [Emergency Temp Home Page – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/emergency-temp-home-page/#:~:text=HB%201487)
 * 01/27/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [Advocates Across Washington Call on Legislators to Stabilize Crime Victim Services Amid Funding Crisis  – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/news/advocates-across-washington-call-on-legislators-to-stabilize-crime-victim-services-amid-funding-crisis/#:~:text=HB%201487)
 

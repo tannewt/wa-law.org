@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Six lawmakers to watch in Washington’s 2025 session • Washington State Standard](https://washingtonstatestandard.com/2025/01/10/six-lawmakers-to-watch-in-washingtons-2025-session/#:~:text=cut%20the%20governor%20out%20of%20decision-making)
+
 ## Meetings

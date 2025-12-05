@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 11/29/2023 [Washington State Standard](/org/washington_state_standard/) - [What advocacy groups want from lawmakers in 2024 • Washington State Standard](https://washingtonstatestandard.com/2023/11/29/what-advocacy-groups-want-from-lawmakers-in-2024/#:~:text=House)
 * 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201131)
 * 03/08/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Letters to the Editor, Week of March 8, 2023 | Cascadia Daily News](https://www.cascadiadaily.com/2023/mar/08/letters-to-the-editor-week-of-march-8-2023/#:~:text=House%20Bill%201131)
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201131)

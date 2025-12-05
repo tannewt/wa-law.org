@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * 06/18/2025 [KUOW](/org/kuow/) - [KUOW - Washington state lawsuit payouts skyrocket to more than $500 million in past year](https://www.kuow.org/stories/washington-state-lawsuit-payouts-skyrocket-to-more-than-500m-in-past-year#:~:text=requiring%20hearings)
+* 06/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington state lawsuit payouts skyrocket to more than $500M in past year • Washington State Standard](https://washingtonstatestandard.com/2025/06/17/washington-state-lawsuit-payouts-skyrocket-to-more-than-500m-in-past-year/#:~:text=requiring%20hearings)
 
 ## Meetings

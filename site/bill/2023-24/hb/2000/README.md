@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/14/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington tries to maintain B.C. ties amid Trump era tensions • Washington State Standard](https://washingtonstatestandard.com/2025/05/14/washington-tries-to-maintain-b-c-ties-amid-trump-era-tensions/#:~:text=approved%20opening%20such%20a%20dialogue%20between%20the%20two%20Legislatures)
 * 12/12/2024 [House Democrats](/org/house_democrats/) - [Rep. Mena Elected Chair of House State Government & Tribal Relations Committee   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/12/12/rep-mena-elected-chair-of-house-state-government-tribal-relations-committee/#:~:text=House%20Bill%202000)
 * 04/01/2024 [Gorge News Center](/org/gorge_news_center/) - [Inslee Signs Mena Bill Strengthening International Partnerships](https://gorgenewscenter.com/2024/04/01/gov-signs-mena-bill-strengthening-international-partnerships/#:~:text=House%20Bill%202000)
 * 03/29/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Mena Bill Strengthening International Partnerships – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/29/gov-signs-mena-bill-strengthening-international-partnerships/#:~:text=House%20Bill%202000)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/05/2024 [Washington State Standard](/org/washington_state_standard/) - [Feds deny Washington’s request for stricter PCB standards • Washington State Standard](https://washingtonstatestandard.com/2024/04/05/feds-deny-washingtons-request-for-stricter-pcb-standards/#:~:text=a%20bill)
+
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): SB 5369 Polychlorinated biphenyls
 #### 8 👍 - Pro

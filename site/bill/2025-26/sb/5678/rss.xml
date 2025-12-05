@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5678/</link>
 		<description>Updates about SB 5678</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 12:48:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 23:05:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,13 @@
 			<pubDate>Mon, 17 Feb 2025 12:48:32 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205678</guid>
+		</item>
+		<item>
+			<title>How Republicans want to fix WA’s affordable housing shortage • Washington State Standard</title>
+			<description>News article "How Republicans want to fix WA’s affordable housing shortage • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 18 Feb 2025 23:05:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/18/how-republicans-want-to-fix-was-affordable-housing-shortage/#:~:text=state’s%20Residential%20Landlord-Tenant%20Act</guid>
 		</item>
 	</channel>
 </rss>

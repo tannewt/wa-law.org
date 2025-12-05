@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 08/24/2024 [Washington State Standard](/org/washington_state_standard/) - [Black, Native people face higher rates of charges in Washington courts • Washington State Standard](https://washingtonstatestandard.com/2024/08/24/black-native-people-face-higher-rates-of-charges-in-washington-courts/#:~:text=a%20bill%20to%20do%20so)
 * 08/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Black, Native people face higher rates of charges in Washington courts](https://gorgenewscenter.com/2024/08/24/black-native-people-face-higher-rates-of-charges-in-washington-courts/#:~:text=a%20bill%20to%20do%20so)
 * 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=HB%201513)
+* 03/19/2024 [Washington State Standard](/org/washington_state_standard/) - [How police reform efforts in the Legislature faltered this year • Washington State Standard](https://washingtonstatestandard.com/2024/03/19/how-police-reform-efforts-in-the-legislature-faltered-this-year/#:~:text=a%20bill%20to%20reduce%20traffic%20stops)
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=HB%201513)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%201513)
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Pass Traffic Safety For All (HB 1513/SB 5572) | ACLU of Washington](http://www.aclu-wa.org/pages/pass-traffic-safety-all-hb-1513sb-5572#:~:text=HB%201513)

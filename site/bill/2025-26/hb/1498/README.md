@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 07/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Crime victim programs in Washington struggle as funding erodes • Washington State Standard](https://washingtonstatestandard.com/2025/07/17/crime-victim-programs-in-washington-struggle-as-funding-erodes/#:~:text=House%20Bill%201498)
+
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 1498 Domestic viol. co-responders
 #### 40 👍 - Pro

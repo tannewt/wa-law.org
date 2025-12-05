@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/11/2023 [Washington State Standard](/org/washington_state_standard/) - [The outlook for new statewide renter protections in Washington • Washington State Standard](https://washingtonstatestandard.com/2023/09/11/the-outlook-for-new-statewide-renter-protections-in-washington/#:~:text=A%20similar%20proposal)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205741)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205741)
 

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/29/2025 [Washington State Standard](/org/washington_state_standard/) - [Smokey Bear, pickleball, and pollinator license plates on the way in WA • Washington State Standard](https://washingtonstatestandard.com/2025/05/29/smokey-bear-pickleball-and-pollinator-license-plates-on-the-way-in-wa/#:~:text=Senate’s%20support%20in%202023)
+* 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers may tap brakes on specialty license plates • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-lawmakers-may-tap-brakes-on-specialty-license-plates/#:~:text=authorized)
 * 02/10/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington looks to put its most famous volcano on a specialty license plate | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/10/washington-looks-to-put-its-most-famous-volcano-on-a-specialty-license-plate/#:~:text=Senate%20Bill%205333)
 * 02/07/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington looks to put its most famous volcano on a specialty license plate • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-looks-to-put-its-most-famous-volcano-on-specialty-license-plates/#:~:text=Senate%20Bill%205333)
 

@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * 08/26/2025 [KUOW](/org/kuow/) - [KUOW - Debate flares over WA child welfare law after rise in deaths and injuries](https://www.kuow.org/stories/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries#:~:text=Democrat-led%20bill)
+* 08/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Debate flares over WA child welfare law after rise in deaths and injuries • Washington State Standard](https://washingtonstatestandard.com/2025/08/25/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries/#:~:text=Democrat-led%20bill)
 
 ## Meetings

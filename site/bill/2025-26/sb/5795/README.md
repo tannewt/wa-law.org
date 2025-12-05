@@ -16,6 +16,7 @@
 * 03/20/2025 [Senate Democrats](/org/senate_democrats/) - [Krishnadasan, Cortes introduce bill to lower sales tax - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/03/20/krishnadasan-cortes-introduce-bill-to-lower-sales-tax/#:~:text=5795)
 * 03/20/2025 [Senate Democrats](/org/senate_democrats/) - [Krishnadasan, Cortes introduce bill to lower sales tax - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/20/krishnadasan-cortes-introduce-bill-to-lower-sales-tax/#:~:text=5795)
 * 03/20/2025 [FOX13](/org/fox13/) - [WA Senate Democrats hope to balance budget | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-senate-democrats-balance-budget#:~:text=Reducing%20the%20state%20sales%20tax)
+* 03/20/2025 [Washington State Standard](/org/washington_state_standard/) - [Democratic state senators push $17B tax package to balance Washington budget • Washington State Standard](https://washingtonstatestandard.com/2025/03/20/washington-senate-democrats-unveil-their-tax-package/#:~:text=state%20sales%20tax)
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5795 Sales and use tax rate

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5000/</link>
 		<description>Updates about SB 5000</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 May 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 May 2023 23:18:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -560,6 +560,13 @@
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Making time to celebrate the Chinese community’s place in state history • Washington State Standard</title>
+			<description>News article "Making time to celebrate the Chinese community’s place in state history • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 09 May 2023 23:18:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2023/05/09/making-time-to-celebrate-the-chinese-communitys-place-in-state-history/#:~:text=Senate%20Bill%205000</guid>
 		</item>
 	</channel>
 </rss>

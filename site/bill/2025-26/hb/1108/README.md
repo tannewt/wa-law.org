@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 05/31/2025 [House Republicans](/org/house_republicans/) - [A look back on the 2025 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/a-look-back-on-the-2025-legislative-session/#:~:text=House%20Bill%201108)
+* 05/27/2025 [Washington State Standard](/org/washington_state_standard/) - [‘I’m pretty upset': WA lawmaker wants to override governor’s veto of his bill • Washington State Standard](https://washingtonstatestandard.com/2025/05/27/im-pretty-upset-wa-lawmaker-wants-to-override-governors-veto-of-his-bill/#:~:text=House%20Bill%201108)
 * 05/23/2025 [The Center Square](/org/the_center_square/) - [Ferguson vetoes bill to study cost drivers for homeownership, rental housing in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9aa65581-23cb-4df4-b965-aa4942949694.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%201108)
 
 ## Meetings
