@@ -1,12 +1,13 @@
 """Simple HTTP get wrapper that stores the history of fetched urls."""
 
 import asyncio
+import datetime
+import hashlib
+import lzma
+import sqlite3
+
 import httpx
 import stamina
-import sqlite3
-import lzma
-import hashlib
-import datetime
 
 # import logging
 
@@ -19,17 +20,20 @@ import datetime
 # requests_log.setLevel(logging.DEBUG)
 # requests_log.propagate = True
 
-headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0',
-'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-'Accept-Language': 'en-US,en;q=0.5'}
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+}
 
 __version__ = "0.0.1"
+
 
 class Blocked(BaseException):
     pass
 
-class HistorySession:
 
+class HistorySession:
     def __init__(self, filename="requests-history.db"):
         self.db = sqlite3.connect(filename)
 
@@ -37,7 +41,9 @@ class HistorySession:
 
         cur = self.db.cursor()
         try:
-            cur.execute("CREATE TABLE pages (url text, sha256 blob, content_xz blob, first_fetch timestamp, last_fetch timestamp)")
+            cur.execute(
+                "CREATE TABLE pages (url text, sha256 blob, content_xz blob, first_fetch timestamp, last_fetch timestamp)"
+            )
         except sqlite3.OperationalError:
             pass
 
@@ -50,29 +56,45 @@ class HistorySession:
 
         self.client = None
 
-    async def get(self, url, fetch_again=False, index=-1, crawl_delay=0, only_after=None):
+    async def get(
+        self, url, fetch_again=False, index=-1, crawl_delay=0, only_after=None
+    ):
         # print(url)
         now = datetime.datetime.now()
         cur = self.db.cursor()
-        cur.execute("SELECT sha256, content_xz, first_fetch, last_fetch FROM pages WHERE url = ? ORDER BY last_fetch ASC", (url,))
+        cur.execute(
+            "SELECT sha256, content_xz, first_fetch, last_fetch FROM pages WHERE url = ? ORDER BY last_fetch ASC",
+            (url,),
+        )
         past_fetch = cur.fetchall()
         if index < -1 and len(past_fetch) > 0 and -index > len(past_fetch):
             return None
         if self.client is None:
             self.client = httpx.AsyncClient()
+        if not past_fetch and url in self.already_refetched:
+            return None
         if not past_fetch or (fetch_again and url not in self.already_refetched):
             if only_after:
-                headers["If-Modified-Since"] = only_after.strftime("%a, %d %b %Y %H:%M:%S GMT")
+                headers["If-Modified-Since"] = only_after.strftime(
+                    "%a, %d %b %Y %H:%M:%S GMT"
+                )
             elif "If-Modified-Since" in headers:
                 del headers["If-Modified-Since"]
             response = None
             try:
-                async for attempt in stamina.retry_context(on=httpx.HTTPError, attempts=3):
+                async for attempt in stamina.retry_context(
+                    on=httpx.HTTPError, attempts=1 if past_fetch else 3
+                ):
                     with attempt:
-                        response = await self.client.get(url, headers=headers, follow_redirects=True)
+                        response = await self.client.get(
+                            url, headers=headers, follow_redirects=True
+                        )
                         if response.status_code == 304:
                             return None
-                        if response.status_code == 403 and "cf-mitigated" in response.headers:
+                        if (
+                            response.status_code == 403
+                            and "cf-mitigated" in response.headers
+                        ):
                             raise Blocked()
                         response.raise_for_status()
             except httpx.HTTPError:
@@ -88,11 +110,20 @@ class HistorySession:
             sha256 = hashlib.sha256(content).digest()
             last_modified = response.headers.get("Last-Modified", None)
             if past_fetch and sha256 == past_fetch[-1][0]:
-                cur.execute("UPDATE pages SET last_fetch = ? WHERE url = ? AND last_fetch = ?", (now, url, past_fetch[-1][3]))
-                cur.execute("UPDATE pages SET last_modified = ? WHERE url = ? AND last_fetch = ? AND last_modified IS NULL", (last_modified, url, past_fetch[-1][3]))
+                cur.execute(
+                    "UPDATE pages SET last_fetch = ? WHERE url = ? AND last_fetch = ?",
+                    (now, url, past_fetch[-1][3]),
+                )
+                cur.execute(
+                    "UPDATE pages SET last_modified = ? WHERE url = ? AND last_fetch = ? AND last_modified IS NULL",
+                    (last_modified, url, past_fetch[-1][3]),
+                )
             else:
                 content_xz = lzma.compress(content)
-                cur.execute("INSERT INTO pages (url, sha256, content_xz, last_modified, first_fetch, last_fetch) VALUES (?, ?, ?, ?, ?, ?)", (url, sha256, content_xz, last_modified, now, now))
+                cur.execute(
+                    "INSERT INTO pages (url, sha256, content_xz, last_modified, first_fetch, last_fetch) VALUES (?, ?, ?, ?, ?, ?)",
+                    (url, sha256, content_xz, last_modified, now, now),
+                )
             self.db.commit()
             await asyncio.sleep(crawl_delay)
             return content
@@ -103,6 +134,7 @@ class HistorySession:
         self.db.commit()
         await self.client.aclose()
         self.client = None
+
 
 if __name__ == "__main__":
     session = HistorySession()

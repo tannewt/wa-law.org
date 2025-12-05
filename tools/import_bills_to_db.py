@@ -638,7 +638,7 @@ async def main():
                                 if not chapter_name:
                                     print("Missing chapter name")
                                     continue
-                                new_chapter(revision_path, c, chapter_name, contents)
+                                new_chapter(None, c, chapter_name, contents)
                                 print()
                                 print()
                         if sections:

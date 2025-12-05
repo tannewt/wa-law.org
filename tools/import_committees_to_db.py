@@ -121,13 +121,15 @@ async def main():
 
         print("Getting testifiers")
         item_cur = db.cursor()
-        item_cur.execute("SELECT rowid, caId FROM agenda_items WHERE caId IS NOT NULL")
+        item_cur.execute("SELECT agenda_items.rowid, caId FROM agenda_items, meetings WHERE caId IS NOT NULL AND agenda_items.meeting_rowid = meetings.rowid AND meetings.start_time > '2025-01-01'")
+        position_cache = {}
         for agenda_item_rowid, caId in item_cur:
             url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}"
             testifiers = await session.get(url, fetch_again=FORCE_FETCH)
             if not testifiers:
                 print("failed to load", url)
                 continue
+            print("loading from", url)
             testifiers = BeautifulSoup(testifiers.decode("utf-8"), "lxml")
             for table in testifiers.find_all("table"):
                 if table["id"] not in ("testifyingDataTable", "notTestifyingDataTable"):
@@ -144,9 +146,13 @@ async def main():
                     organization = cols[2].strip()
                     position = cols[3]
                     sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %H:%M:%S %p")
-                    cur.execute("INSERT OR IGNORE INTO positions VALUES (?)", (position,))
-                    cur.execute("SELECT rowid FROM positions WHERE position = ?;", (position,))
-                    position_rowid = cur.fetchone()[0]
+                    if position not in position_cache:
+                        cur.execute("INSERT OR IGNORE INTO positions VALUES (?)", (position,))
+                        cur.execute("SELECT rowid FROM positions WHERE position = ?;", (position,))
+                        position_rowid = cur.fetchone()[0]
+                        position_cache[position] = position_rowid
+                    else:
+                        position_rowid = position_cache[position]
 
                     # print(cols)
                     # print(last_name, first_name, testifying, organization, position, sign_in_time)

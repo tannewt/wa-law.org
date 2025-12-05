@@ -1,63 +1,61 @@
-from bs4 import BeautifulSoup
-import arrow
+import asyncio
 import datetime
-import url_history
-import urllib.robotparser
-import httpx
-import httpcore
+import json
 import pathlib
 import pickle
-import json
 import re
 import sys
-import asyncio
-from urllib.parse import urlparse, parse_qs
+import urllib.robotparser
+from urllib.parse import parse_qs, urlparse
 
-from rich.progress import *
-
+import arrow
+import httpcore
+import httpx
+import url_history
 import utils
+from bs4 import BeautifulSoup
+from rich.progress import *
 
 db = utils.get_db()
 
 EXCLUDE = {
     "www.seattletimes.com": [
-                "/sports/",
-                "/nation-world/",
-                "/news/",
-                "/entertainment/",
-                "/sponsored/",
-                "/explore/",
-                "/business/",
-                "/life/"
+        "/sports/",
+        "/nation-world/",
+        "/news/",
+        "/entertainment/",
+        "/sponsored/",
+        "/explore/",
+        "/business/",
+        "/life/",
     ],
-    "southseattleemerald.com": [
-        "/tag/",
-        "/category/"
+    "southseattleemerald.com": ["/tag/", "/category/"],
+    "publicola.com": ["/tag/", "/category/"],
+    "www.washingtonbus.org": ["/tag/", "/category/"],
+    "mynorthwest.com": ["/tag/"],
+    "tdn.com": ["/ads/", "/obituaries/", "/sports/", "/online/", "/life-entertainment"],
+    "www.ifixit.com": [
+        "/Answers/",
+        "/Wiki/",
+        "/products/",
+        "/Guide/",
+        "/Tools/",
+        "/User/",
+        "/Troubleshooting/",
+        "/Shop/",
+        "/Device/",
+        "/Parts/",
+        "/Teardown/",
     ],
-    "publicola.com": [
-        "/tag/",
-        "/category/"
-    ],
-    "www.washingtonbus.org": [
-        "/tag/",
-        "/category/"
-    ],
-    "mynorthwest.com": [
-        "/tag/"
-    ],
-    "tdn.com": [
-    "/ads/",
-    "/obituaries/",
-    "/sports/",
-    "/online/",
-    "/life-entertainment"
-    ]
+    "washingtonstatestandard.com": ["/tag/", "/author/"],
 }
 
 # regular expression pattern to match a date in the format yyyy/mm/dd
-DATE_PATTERN = r"(\d{4})[/-](\d{2}|\w{3})[/-](\d{2})"
+DATE_PATTERN = r"(\d{4})[/-](\d{2}|\w{3})[/-](\d{2})[^\d]"
 
-after_date = arrow.get(2024, 12, 1)
+
+after_date = arrow.get(2025, 12, 1)
+
 
 def parse_date(content):
     if not content:
@@ -67,13 +65,19 @@ def parse_date(content):
     except arrow.parser.ParserError:
         pass
         # 2024-08-06 10:02:56 -0400
-    for other_format in ("H:mm A ZZZ MMMM D, YYYY","M/DD/YYYY H:mm:ss A", "M/D/YYYY H:mm:ss A", "YYYY-MM-DD H:mm:ss Z"):
+    for other_format in (
+        "H:mm A ZZZ MMMM D, YYYY",
+        "M/DD/YYYY H:mm:ss A",
+        "M/D/YYYY H:mm:ss A",
+        "YYYY-MM-DD H:mm:ss Z",
+    ):
         try:
             return arrow.get(content, other_format).datetime
         except arrow.parser.ParserError:
             pass
     print("other parse failed:", content)
     return None
+
 
 FETCH_NEW = True
 REPARSE = False
@@ -91,6 +95,7 @@ past_session = 0
 nonspecific = 0
 
 i = 0
+
 
 async def scrape(progress, session, org_rowid, domain):
     global i, link_count, leg_links, past_session, nonspecific
@@ -137,14 +142,19 @@ async def scrape(progress, session, org_rowid, domain):
         sitemap = sitemaps.pop()
         progress.update(task, advance=1, total=running_total)
         try:
-            sitemap = await session.get(sitemap, fetch_again=FETCH_NEW, crawl_delay=crawl_delay, only_after=after_date)
+            sitemap = await session.get(
+                sitemap,
+                fetch_again=FETCH_NEW,
+                crawl_delay=crawl_delay,
+                only_after=after_date,
+            )
         except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
             print(f"Unable to get sitemap {sitemap} {e}")
             continue
         if sitemap is None:
             continue
         # print(sitemap)
-        sitemap = BeautifulSoup(sitemap, 'xml')
+        sitemap = BeautifulSoup(sitemap, "xml")
         for subsitemap in sitemap.find_all("sitemap"):
             lastmod = subsitemap.lastmod
             if "southseattleemerald" in subsitemap.loc.text:
@@ -168,7 +178,10 @@ async def scrape(progress, session, org_rowid, domain):
                 # Fallback to a date in the sitemap url if available.
                 parsed = urlparse(subsitemap.loc.text)
                 query = parse_qs(parsed.query)
-                if "yearmonth" in query and arrow.get(query["yearmonth"][0] + "-01") < after_date:
+                if (
+                    "yearmonth" in query
+                    and arrow.get(query["yearmonth"][0] + "-01") < after_date
+                ):
                     continue
             else:
                 match = re.search(DATE_PATTERN, subsitemap.loc.text)
@@ -180,13 +193,14 @@ async def scrape(progress, session, org_rowid, domain):
                     else:
                         month = int(month)
                     day = int(match.group(3))
-                    lastmod = datetime.datetime(year=year, month=month, day=day, tzinfo=arrow.now().tzinfo)
+                    lastmod = datetime.datetime(
+                        year=year, month=month, day=day, tzinfo=arrow.now().tzinfo
+                    )
                     if lastmod < after_date:
                         continue
                     elif subsitemap.lastmod:
                         # Use the true lastmod if our date is within range.
                         lastmod = subsitemap.lastmod
-
 
             if domain == "www.spokesman.com":
                 parsed = urlparse(subsitemap.loc.text)
@@ -209,13 +223,20 @@ async def scrape(progress, session, org_rowid, domain):
                         break
                 if not include:
                     continue
+                # print(url_text)
             if url.lastmod is not None:
                 lastmod = url.lastmod.text
                 if lastmod.startswith("-0001"):
                     continue
                 lastmod = parse_date(url.lastmod.text)
+                if lastmod is None:
+                    raise ValueError(
+                        f"Failed to parse lastmod date for URL: {url_text} {url.lastmod.text}"
+                    )
+                    # Include stuff with invalid lastmod date
+                    pass
                 # Don't bother with old stuff yet.
-                if lastmod < after_date:
+                elif lastmod < after_date:
                     continue
                 # print(url_text, lastmod)
             else:
@@ -232,17 +253,27 @@ async def scrape(progress, session, org_rowid, domain):
                         month = int(month)
                     day = int(match.group(3))
                     if month:
-                        lastmod = datetime.datetime(year=year, month=month, day=day, tzinfo=arrow.now().tzinfo)
+                        try:
+                            lastmod = datetime.datetime(
+                                year=year,
+                                month=month,
+                                day=day,
+                                tzinfo=arrow.now().tzinfo,
+                            )
+                        except ValueError:
+                            print(url_text)
+                            raise
                         if lastmod < after_date:
                             continue
             url_loc = url_text
-            if "capitolhill" in url_loc and "/2024/" not in url_loc:
+            if "capitolhill" in url_loc and "/2025/" not in url_loc:
                 continue
-            if "gorgenewscenter.com" in url_loc and "/2024/" not in url_loc:
+            if "gorgenewscenter.com" in url_loc and "/2025/" not in url_loc:
+                continue
+            if "axios.com" in url_loc and "/local/seattle/" not in url_loc:
                 continue
             if "kuow.org" in url_loc and url_loc.count("http") > 1:
-                url_loc = url_loc[url_loc.index("http", 6):]
-            # print(url.loc.text)
+                url_loc = url_loc[url_loc.index("http", 6) :]
             pages.add(url_loc)
         # if len(pages) > 100:
         #     break
@@ -250,7 +281,9 @@ async def scrape(progress, session, org_rowid, domain):
     # Find RSS feed
     homepage = None
     try:
-        homepage = await session.get(url_base, fetch_again=FETCH_NEW, crawl_delay=crawl_delay)
+        homepage = await session.get(
+            url_base, fetch_again=FETCH_NEW, crawl_delay=crawl_delay
+        )
     except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
         print(f"Unable to get homepage {url_base} {e}")
     except url_history.Blocked:
@@ -259,7 +292,7 @@ async def scrape(progress, session, org_rowid, domain):
         return
 
     try:
-        homepage = BeautifulSoup(homepage, 'html.parser')
+        homepage = BeautifulSoup(homepage, "html.parser")
     except (AssertionError, TypeError):
         print(f"failed to parse: {url_base}")
     if homepage:
@@ -269,24 +302,33 @@ async def scrape(progress, session, org_rowid, domain):
             feed = None
 
             try:
-                feed = await session.get(url_base + rss_url["href"], fetch_again=FETCH_NEW, crawl_delay=crawl_delay, only_after=after_date)
-            except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
+                feed = await session.get(
+                    url_base + rss_url["href"],
+                    fetch_again=FETCH_NEW,
+                    crawl_delay=crawl_delay,
+                    only_after=after_date,
+                )
+            except (
+                asyncio.TimeoutError,
+                httpx.HTTPStatusError,
+                httpx.ConnectError,
+            ) as e:
                 print(f"Unable to get homepage {url_base} {e}")
 
             if feed:
                 # Iterate over all items and add their urls to pages.
-                feed = BeautifulSoup(feed, 'xml')
+                feed = BeautifulSoup(feed, "xml")
                 for item in feed.find_all("item"):
                     link = item.find("link")
                     if link:
                         pages.add(link.text)
-        
 
     count = 0
     skipped = 0
 
     progress.update(task, total=len(pages) + running_total)
     for page_url in pages:
+        count += 1
         progress.update(task, advance=1)
         if page_url in parsed_urls and not REPARSE:
             skipped += 1
@@ -298,9 +340,17 @@ async def scrape(progress, session, org_rowid, domain):
             # print(f"Can't fetch {page_url}")
             continue
         try:
-            page = await session.get(page_url, fetch_again=False, crawl_delay=crawl_delay)
+            page = await session.get(
+                page_url, fetch_again=False, crawl_delay=crawl_delay
+            )
             # print(f"Fetch {page_url} delay {crawl_delay}")
-        except (httpx.HTTPStatusError, httpx.ReadTimeout, httpx.ConnectError, httpcore.ReadTimeout, asyncio.TimeoutError) as e:
+        except (
+            httpx.HTTPStatusError,
+            httpx.ReadTimeout,
+            httpx.ConnectError,
+            httpcore.ReadTimeout,
+            asyncio.TimeoutError,
+        ) as e:
             print(f"{e} {page_url}")
             continue
         except url_history.Blocked:
@@ -311,7 +361,7 @@ async def scrape(progress, session, org_rowid, domain):
             print(f"missing page {page_url}")
             continue
         try:
-            page = BeautifulSoup(page, 'html.parser')
+            page = BeautifulSoup(page, "html.parser")
         except (AssertionError, TypeError):
             print(f"failed to parse: {page_url}")
             continue
@@ -321,23 +371,27 @@ async def scrape(progress, session, org_rowid, domain):
             if parsed_canonical.hostname and parsed_canonical.hostname != domain:
                 continue
 
-        meta_robots = page.find("meta", attrs={"name":"robots"})
+        meta_robots = page.find("meta", attrs={"name": "robots"})
         if meta_robots and "noindex" in meta_robots.text:
             # print(f"noindex {page_url}")
             continue
 
-        meta_published_time = page.find("meta", attrs={"property":"article:published_time"})
+        meta_published_time = page.find(
+            "meta", attrs={"property": "article:published_time"}
+        )
         modified_time = None
         if not meta_published_time:
-            meta_published_time = page.find("meta", attrs={"property":"og:article:published_time"})
+            meta_published_time = page.find(
+                "meta", attrs={"property": "og:article:published_time"}
+            )
         if not meta_published_time:
-            meta_published_time = page.find("meta", attrs={"itemprop":"datePublished"})
+            meta_published_time = page.find("meta", attrs={"itemprop": "datePublished"})
         if meta_published_time:
             content = meta_published_time["content"]
             modified_time = parse_date(content)
 
         if not modified_time:
-            ld_json = page.find("script", attrs={"type":"application/ld+json"})
+            ld_json = page.find("script", attrs={"type": "application/ld+json"})
             if ld_json:
                 try:
                     ld_json = json.loads(ld_json.text)
@@ -365,16 +419,20 @@ async def scrape(progress, session, org_rowid, domain):
                             break
 
         if not modified_time:
-            meta_modified_time = page.find("meta", attrs={"property":"article:modified_time"})
+            meta_modified_time = page.find(
+                "meta", attrs={"property": "article:modified_time"}
+            )
             if not meta_modified_time:
-                meta_modified_time = page.find("meta", attrs={"itemprop":"dateModified"})
+                meta_modified_time = page.find(
+                    "meta", attrs={"itemprop": "dateModified"}
+                )
             if not meta_modified_time:
-                meta_modified_time = page.find(attrs={"property":"dc:date"})
+                meta_modified_time = page.find(attrs={"property": "dc:date"})
             if meta_modified_time:
                 modified_time = parse_date(meta_modified_time["content"])
 
         if not modified_time:
-            timeago_time = page.find("abbr", attrs={"class":"timeago"})
+            timeago_time = page.find("abbr", attrs={"class": "timeago"})
             if timeago_time:
                 modified_time = arrow.get(timeago_time["title"]).datetime
 
@@ -400,12 +458,18 @@ async def scrape(progress, session, org_rowid, domain):
             href = link.get("href")
             if not href:
                 continue
+            if href == "https://app.leg.wa.gov/districtfinder":
+                continue
             try:
                 parsed = urlparse(href)
             except ValueError:
                 # print(f"parse error {href}")
                 continue
-            if not parsed.hostname or "leg.wa.gov" not in parsed.hostname or "pages" in parsed.path:
+            if (
+                not parsed.hostname
+                or "leg.wa.gov" not in parsed.hostname
+                or "pages" in parsed.path
+            ):
                 continue
             leg_links += 1
             link_text = " ".join(link.stripped_strings)
@@ -432,14 +496,17 @@ async def scrape(progress, session, org_rowid, domain):
                     start_year = year - 1
                 else:
                     start_year = year
-                biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
+                biennium = f"{start_year:4d}-{(start_year + 1) % 100:02d}"
                 cur.execute("SELECT rowid FROM bienniums WHERE name = ?;", (biennium,))
                 biennium_row = cur.fetchone()
                 if not biennium_row:
                     continue
                 biennium_rowid = biennium_row[0]
                 bill_number = query["BillNumber"][0]
-                cur.execute("SELECT rowid FROM bills WHERE number = ? AND biennium_rowid = ?", (int(bill_number), biennium_rowid))
+                cur.execute(
+                    "SELECT rowid FROM bills WHERE number = ? AND biennium_rowid = ?",
+                    (int(bill_number), biennium_rowid),
+                )
                 bill_row = cur.fetchone()
                 if not bill_row:
                     past_session += 1
@@ -448,14 +515,38 @@ async def scrape(progress, session, org_rowid, domain):
 
                 if bill_number in link_text:
                     text_fragment = "#:~:text=" + link_text
-                    cur.execute("INSERT INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT (bill_rowid, url) DO UPDATE SET date_posted = excluded.date_posted", (org_rowid, bill_rowid, modified_time, page.title.string.strip(), page_url, text_fragment))
+                    cur.execute(
+                        "INSERT INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT (bill_rowid, url) DO UPDATE SET date_posted = excluded.date_posted",
+                        (
+                            org_rowid,
+                            bill_rowid,
+                            modified_time,
+                            page.title.string.strip(),
+                            page_url,
+                            text_fragment,
+                        ),
+                    )
                     link_count += 1
                     continue
+
+                # Washington State Standard has a text area for reposting that causes the count of unique to be 2. Remove all textareas.
+                for textarea in page.find_all("textarea"):
+                    textarea.decompose()
 
                 page_text = " ".join(page.stripped_strings)
                 if page_text.count(link_text) == 1:
                     text_fragment = "#:~:text=" + link_text
-                    cur.execute("INSERT INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT (bill_rowid, url) DO UPDATE SET date_posted = excluded.date_posted", (org_rowid, bill_rowid, modified_time, page.title.string.strip(), page_url, text_fragment))
+                    cur.execute(
+                        "INSERT INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT (bill_rowid, url) DO UPDATE SET date_posted = excluded.date_posted",
+                        (
+                            org_rowid,
+                            bill_rowid,
+                            modified_time,
+                            page.title.string.strip(),
+                            page_url,
+                            text_fragment,
+                        ),
+                    )
                     link_count += 1
                     continue
 
@@ -471,7 +562,11 @@ async def scrape(progress, session, org_rowid, domain):
                 # print()
                 pass
             db.commit()
-    
+
+        if count % 100 == 0:
+            with parsed_path.open("wb") as f:
+                pickle.dump(parsed_urls, f)
+
     progress.update(task, visible=False)
 
     with parsed_path.open("wb") as f:
@@ -482,18 +577,21 @@ org_cur = db.cursor()
 org_cur.execute("SELECT rowid, url FROM organizations WHERE url IS NOT NULL")
 org_cur = org_cur.fetchall()
 
+
 # Add scrape calls to asyncio task group
 async def main():
     session = url_history.HistorySession("org-website.db")
     with Progress(
-    TextColumn("[progress.description]{task.description}"),
-    BarColumn(),
-    TaskProgressColumn(),
-    MofNCompleteColumn()) as progress:
+        TextColumn("[progress.description]{task.description}"),
+        BarColumn(),
+        TaskProgressColumn(),
+        MofNCompleteColumn(),
+    ) as progress:
         async with asyncio.TaskGroup() as tg:
             for org_rowid, domain in org_cur:
                 tg.create_task(scrape(progress, session, org_rowid, domain))
     await session.close()
+
 
 asyncio.run(main())
 
