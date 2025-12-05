@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/17/2025 [House Democrats](/org/house_democrats/) - [Rep. Farivar Highlights Worker & Food Security Protections Following Lake City Fred Meyer Closure – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/10/17/rep-farivar-highlights-worker-food-security-protections-following-lake-city-fred-meyer-closure/#:~:text=HB%201987)
 * 05/07/2025 [Food Lifeline](/org/food_lifeline/) - [2025 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=HB%201987)
 
 ## Meetings

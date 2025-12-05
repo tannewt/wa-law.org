@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=SB 5041)
 * 07/28/2025 [The Center Square](/org/the_center_square/) - [Benefits for striking workers, time off for immigration hearings now law in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8ab36ba6-9b80-4a85-af26-76328c60ea3a.html#:~:text=Senate%20Bill%205041)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205041)
 * 06/18/2025 [Senate Democrats](/org/senate_democrats/) - [New laws improve worker protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=SB%205041)

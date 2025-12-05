@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 09/15/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting small businesses and Tribal communities - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/09/15/supporting-small-businesses-and-tribal-communities/#:~:text=HB%201327)
+
 ## Meetings
 ### Wed 03/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1327 Horse racing
 #### 4 👍 - Pro

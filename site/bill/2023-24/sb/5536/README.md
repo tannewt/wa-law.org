@@ -13,6 +13,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/20/2025 [The Urbanist](/org/the_urbanist/) - [Seattle Drug Ordinance Fails to Meet Treatment Promises, Report Says » The Urbanist](https://www.theurbanist.org/2025/10/20/seattle-drug-ordinance-fails-to-meet-treatment-promises-report-says/#:~:text=state%20ordinance)
 * 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=SB%205536)
 * 05/22/2023 [House Republicans](/org/house_republicans/) - [How Republican resolve led to stronger state drug possession reforms | Washington State House Republicans](https://houserepublicans.wa.gov/blake/#:~:text=Senate%20Bill%205536)
 * 05/17/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lawmakers from Whatcom County support new drug law | Cascadia Daily News](https://www.cascadiadaily.com/2023/may/17/lawmakers-from-whatcom-county-support-new-drug-law/#:~:text=Senate%20Bill%205536)

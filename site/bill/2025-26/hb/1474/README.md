@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/24/2025 [The Center Square](/org/the_center_square/) - [Pension committee to recommend bill increasing certain WA pensioners' annual benefits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_77111204-c173-4820-b464-d618724ff0f4.html#:~:text=House%20Bill%201474)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201474)
 
 ## Meetings

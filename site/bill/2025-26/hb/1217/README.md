@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB%201217)
+* 09/17/2025 [The Center Square](/org/the_center_square/) - ['Undue influence' alleged with state treasurer staffer communications on housing bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f3707af8-fcae-4531-84ff-d1fb53531ba4.html#:~:text=House%20Bill%201217)
 * 08/07/2025 [KUOW](/org/kuow/) - [KUOW - Landlords fined for first time under WA’s new law capping rent increases](https://www.kuow.org/stories/landlords-fined-for-first-time-under-wa-s-new-law-capping-rent-increases#:~:text=House%20Bill%201217)
 * 08/07/2025 [MyNorthwest](/org/mynorthwest/) - [WA AG forces landlords to refund illegal rent hikes under new WA law](https://mynorthwest.com/mynorthwest-politics/wa-ag-landlords-rent-hikes/4119603#:~:text=House%20Bill%201217)
 * 07/18/2025 [MyNorthwest](/org/mynorthwest/) - [WA rent cap for 2026 announced under landmark bill](https://mynorthwest.com/mynorthwest-politics/rent-cap-for-2026/4111576#:~:text=House%20Bill%20(HB)%201217)

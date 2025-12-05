@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/13/2025 [KUOW](/org/kuow/) - [KUOW - Washington’s paid leave program heads toward a fiscal cliff](https://www.kuow.org/stories/washington-s-paid-leave-program-heads-toward-a-fiscal-cliff#:~:text=legislation%20approved%20this%20year)
+* 10/13/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington’s paid leave program heads toward a fiscal cliff](https://gorgenewscenter.com/2025/10/13/washingtons-paid-leave-program-heads-toward-a-fiscal-cliff/#:~:text=legislation%20approved%20this%20year)
 * 06/18/2025 [Senate Democrats](/org/senate_democrats/) - [New laws improve worker protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=HB%201213)
 * 05/06/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Budget Compromise Leaves Many Hoping for More - The Urbanist](https://www.theurbanist.org/2025/05/06/washington-state-budget-compromise-leaves-many-hoping-for-more/#:~:text=HB%201213)
 * 03/24/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Operating and Transportation budgets released - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/23/this-week-in-the-senate-week-11-operating-and-transportation-budgets-released/#:~:text=House%20Bill%201213)

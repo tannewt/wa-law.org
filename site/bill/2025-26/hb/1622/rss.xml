@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1622/</link>
 		<description>Updates about HB 1622</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Nov 2025 11:30:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -557,6 +557,27 @@
 			<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-27/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>WA Legislature to consider requiring union talks over government use of AI</title>
+			<description>News article "WA Legislature to consider requiring union talks over government use of AI" from Gorge News Center.</description>
+			<pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=House%20Bill%201622</guid>
+		</item>
+		<item>
+			<title>WA Legislature to consider requiring union talks over government use of AI • Washington State Standard</title>
+			<description>News article "WA Legislature to consider requiring union talks over government use of AI • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 20 Nov 2025 22:59:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=House%20Bill%201622</guid>
+		</item>
+		<item>
+			<title>KUOW - WA Legislature to consider requiring union talks over government use of AI</title>
+			<description>News article "KUOW - WA Legislature to consider requiring union talks over government use of AI" from KUOW.</description>
+			<pubDate>Fri, 21 Nov 2025 11:30:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai#:~:text=House%20Bill%201622</guid>
 		</item>
 	</channel>
 </rss>

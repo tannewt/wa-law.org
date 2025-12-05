@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1195/</link>
 		<description>Updates about HB 1195</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 05 Oct 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -249,6 +249,20 @@
 			<pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-19/Returned to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WA Legislature’s housing leaders outline vision for 2026 • Washington State Standard</title>
+			<description>News article "WA Legislature’s housing leaders outline vision for 2026 • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 03 Oct 2025 20:43:56 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/10/03/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=House%20Bill%201195</guid>
+		</item>
+		<item>
+			<title>WA Legislature’s housing leaders outline vision for 2026</title>
+			<description>News article "WA Legislature’s housing leaders outline vision for 2026" from Gorge News Center.</description>
+			<pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=House%20Bill%201195</guid>
 		</item>
 	</channel>
 </rss>

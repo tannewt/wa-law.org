@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/13/2025 [KUOW](/org/kuow/) - [KUOW - Former Microsoft CEO’s philanthropy will donate up to $170M a year for free preschool in WA](https://www.kuow.org/stories/former-microsoft-ceo-s-philanthropy-will-donate-up-to-170m-a-year-for-free-preschool-in-wa#:~:text=capped%20enrollment)
+* 11/12/2025 [Gorge News Center](/org/gorge_news_center/) - [Former Microsoft CEO’s philanthropy will donate up to $170M a year for free preschool in WA](https://gorgenewscenter.com/2025/11/12/former-microsoft-ceos-philanthropy-will-donate-up-to-170m-a-year-for-free-preschool-in-wa/#:~:text=capped%20enrollment)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205769)
 
 ## Meetings

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/16/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [How AG Nick Brown’s Labor Report Sets the Stage for 2026 Resistance to Federal Enforcement - Conservative Ladies of Washington](https://conservativeladiesofwa.com/nick-brown-labor-report-2025-washington/#:~:text=SHB%201875)
 * 07/28/2025 [The Center Square](/org/the_center_square/) - [Benefits for striking workers, time off for immigration hearings now law in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8ab36ba6-9b80-4a85-af26-76328c60ea3a.html#:~:text=House%20Bill%201875)
 * 06/17/2025 [FOX13](/org/fox13/) - [These new WA laws go into effect July 1 | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-laws-july-1-2025#:~:text=HB%201875)
 * 05/21/2025 [Cascade PBS](/org/cascade_pbs/) - [Gov. Ferguson approves $78 billion spending plan with new taxes | Cascade PBS](https://www.cascadepbs.org/briefs/2025/05/gov-ferguson-approves-78-billion-spending-plan-new-taxes#:~:text=paid%20sick%20time%20for%20immigration%20proceedings)

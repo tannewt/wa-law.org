@@ -11,6 +11,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 11/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing together during uncertain times - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/11/07/standing-together-during-uncertain-times/#:~:text=SB%205225)
+* 10/20/2025 [Senate Democrats](/org/senate_democrats/) - [Progress that puts people first - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/10/20/progress-that-puts-people-first/#:~:text=SB%205225)
 * 08/14/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our values in challenging times - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/08/14/protecting-our-values-in-challenging-times/#:~:text=SB%205225)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205225)
 * 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205225)

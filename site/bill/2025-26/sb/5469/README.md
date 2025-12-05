@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 11/25/2025 [The Center Square](/org/the_center_square/) - [Spokane amends 'algorithmic rent setting' proposal as feds settle with RealPage | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c887a9c7-5545-428d-89cc-0ae1c812386c.html#:~:text=floated)
+* 10/20/2025 [The Center Square](/org/the_center_square/) - [Spokane eyes ban on algorithmic rent-setting amid state, federal lawsuits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_45966c05-2944-48d6-ae17-1b8e3732157b.html#:~:text=stalled)
 * 06/25/2025 [The Center Square](/org/the_center_square/) - [Seattle City Council outlaws rent-setting software used by corporate landlords | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_696135b5-d116-4bc2-bab6-ba91875dec18.html#:~:text=Senate%20Bill%205469)
 * 06/23/2025 [The Center Square](/org/the_center_square/) - [Seattle City Council to vote on algorithmic rent-setting ban after pushback | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8179130c-c3ae-46c4-89bd-96765123334a.html#:~:text=Senate%20Bill%205469)
 * 06/18/2025 [PubliCola](/org/publicola/) - [Council Taps Brakes on RealPage Ban, Delaying One Week to Address Building Owner Concerns - PubliCola](https://publicola.com/2025/06/18/council-taps-brakes-on-realpage-ban-delaying-one-week-to-address-building-owner-concerns/#:~:text=proposed%20state%20law)

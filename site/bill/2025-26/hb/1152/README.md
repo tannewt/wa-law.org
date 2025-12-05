@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/21/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [What’s Coming for Washington Gun Owners in 2026 - Conservative Ladies of Washington](https://conservativeladiesofwa.com/2026-gun-bills-preview/#:~:text=HB%201152)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=House%20Bill%201152,)
 * 03/06/2025 [FOX13](/org/fox13/) - [Groups lobby for more gun regulations in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/groups-lobby-gun-regulations-wa#:~:text=House%20Bill%201152)
 * 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=House%20Bill%201152)

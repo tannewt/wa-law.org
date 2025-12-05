@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/21/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [What’s Coming for Washington Gun Owners in 2026 - Conservative Ladies of Washington](https://conservativeladiesofwa.com/2026-gun-bills-preview/#:~:text=HB%201386)
 * 08/06/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [CPLs Skyrocket in Wake of Gun Control Overreach - Conservative Ladies of Washington](https://conservativeladiesofwa.com/cpls-skyrocket-in-wake-of-gun-control-overreach/#:~:text=HB%201386)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201386)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=House%20Bill%201386)

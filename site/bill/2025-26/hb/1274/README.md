@@ -12,6 +12,7 @@
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201274)
 * 02/06/2025 [House Democrats](/org/house_democrats/) - [Stearns bill to retroactively remove juvenile points from adult sentencing passes committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/06/stearns-bill-to-retroactively-remove-juvenile-points-from-adult-sentencing-passes-committee/#:~:text=HB%201274)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201274)
+* 12/20/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [2025 Legislative Agenda - ACLU of Washington](https://www.aclu-wa.org/2025-legislative-agenda/#:~:text=HB%201274)
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1274 Juvenile convictions/score

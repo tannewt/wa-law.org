@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/15/2025 [Gorge News Center](/org/gorge_news_center/) - [WA state workers OK new contract with retroactive pay hikes](https://gorgenewscenter.com/2025/09/15/wa-state-workers-ok-new-contract-with-retroactive-pay-hikes/#:~:text=the%20state%20budget)
+* 09/02/2025 [Gorge News Center](/org/gorge_news_center/) - [A new agreement could get Washington state workers the wage hikes they lost](https://gorgenewscenter.com/2025/09/02/a-new-agreement-could-get-washington-state-workers-the-wage-hikes-they-lost/#:~:text=the%20state%20budget)
 * 07/21/2025 [Senate Democrats](/org/senate_democrats/) - [Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/07/21/sen-kauffman-reaffirms-her-commitment-to-protecting-native-communities/#:~:text=continued%20to%20fund%20the%20Missing%20and%20Murdered%20Indigenous%20Women%20and%20People%20Task%20Force)
 * 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205167)
 * 05/20/2025 [MyNorthwest](/org/mynorthwest/) - [Gov. Ferguson signs contentious $77.9B operating budget](https://mynorthwest.com/mynorthwest-politics/ferguson-washington-budget/4089709#:~:text=SB%205167)

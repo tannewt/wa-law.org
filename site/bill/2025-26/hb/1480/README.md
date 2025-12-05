@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/16/2025 [Capitol Hill Seattle Blog](/org/capitol_hill_seattle_blog/) - [Tax the rich? 43rd District’s Rep. Scott at the center of debate over a Washington wealth tax | CHS Capitol Hill Seattle News](https://www.capitolhillseattle.com/2025/10/tax-the-rich-43rd-districts-rep-scott-at-the-center-of-debate-over-a-washington-wealth-tax/#:~:text=excise%20taxes%20to%20real%20estate%20to%20build%20affordable%20housing)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201480)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201480)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201480)

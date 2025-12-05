@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/21/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [What’s Coming for Washington Gun Owners in 2026 - Conservative Ladies of Washington](https://conservativeladiesofwa.com/2026-gun-bills-preview/#:~:text=HB%201504)
 * 08/06/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [CPLs Skyrocket in Wake of Gun Control Overreach - Conservative Ladies of Washington](https://conservativeladiesofwa.com/cpls-skyrocket-in-wake-of-gun-control-overreach/#:~:text=HB%201504)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201504)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201504)

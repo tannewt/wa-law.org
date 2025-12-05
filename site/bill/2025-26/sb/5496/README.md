@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=prohibit%20businesses%20that%20have%20an%20interest%20in%20more%20than%2050%20single-family%20homes)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5496)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205496)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5496)

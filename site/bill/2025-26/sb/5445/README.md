@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Farmers can advance Washington state’s energy needs • Washington State Standard](https://washingtonstatestandard.com/2025/11/25/farmers-can-advance-washington-states-energy-needs/#:~:text=Senate%20Bill%205445)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205445)
 * 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205445)
 

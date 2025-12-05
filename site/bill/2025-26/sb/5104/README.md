@@ -10,6 +10,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/07/2025 [Senate Democrats](/org/senate_democrats/) - [Preparing for session - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/11/07/preparing-for-session/#:~:text=SB%205104)
+* 11/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing together during uncertain times - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/11/07/standing-together-during-uncertain-times/#:~:text=SB%205104)
+* 10/20/2025 [Senate Democrats](/org/senate_democrats/) - [Progress that puts people first - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/10/20/progress-that-puts-people-first/#:~:text=SB%205104)
+* 10/16/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [How AG Nick Brown’s Labor Report Sets the Stage for 2026 Resistance to Federal Enforcement - Conservative Ladies of Washington](https://conservativeladiesofwa.com/nick-brown-labor-report-2025-washington/#:~:text=SSB%205104)
 * 08/14/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our values in challenging times - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/08/14/protecting-our-values-in-challenging-times/#:~:text=SB%205104)
 * 08/08/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our environment, preserving our future - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=SB%205104)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205104)

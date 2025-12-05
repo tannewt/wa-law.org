@@ -12,6 +12,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/21/2025 [KUOW](/org/kuow/) - [KUOW - State halts rebates to farmers hit with fuel fees under WA climate law](https://www.kuow.org/stories/state-halts-rebates-to-farmers-hit-with-fuel-fees-under-wa-climate-law#:~:text=House%20Bill%201912,)
+* 10/21/2025 [Washington State Standard](/org/washington_state_standard/) - [State halts rebates to farmers hit with fuel fees under WA climate law • Washington State Standard](https://washingtonstatestandard.com/2025/10/21/state-halts-rebates-to-farmers-hit-with-fuel-fees-under-wa-climate-law/#:~:text=House%20Bill%201912)
+* 10/21/2025 [Gorge News Center](/org/gorge_news_center/) - [State halts rebates to farmers hit with fuel fees under WA climate law](https://gorgenewscenter.com/2025/10/21/state-halts-rebates-to-farmers-hit-with-fuel-fees-under-wa-climate-law/#:~:text=House%20Bill%201912)
 * 05/16/2025 [The Center Square](/org/the_center_square/) - [A promise finally fulfilled; Ferguson signs bill exempting ag from CCA fuel taxes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5bc58df5-a813-4b13-af9e-ee05c9ce4a57.html#:~:text=Engrossed%20Second%20Substitute%20House%20Bill%20No%201912.)
 * 05/14/2025 [The Washington Observer](/org/the_washington_observer/) - [Another mild veto - by Tim Gruver and Paul Queary](https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=House%20Bill%201912)
 * 04/25/2025 [Cascade PBS](/org/cascade_pbs/) - [WA environmental legislation passed this year that you should know | Cascade PBS](https://www.cascadepbs.org/environment/2025/04/wa-environmental-legislation-passed-year-you-should-know#:~:text=House%20Bill%201912)

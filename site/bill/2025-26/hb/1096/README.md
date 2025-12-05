@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Gov. Ferguson ‘skeptical’ of tax increases in 2026](https://gorgenewscenter.com/2025/10/31/wa-gov-ferguson-skeptical-of-tax-increases-in-2026/#:~:text=splitting%20of%20residential%20lots)
+* 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=lot%20splitting)
 * 07/24/2025 [The Center Square](/org/the_center_square/) - [WATCH: Changes to Washington state housing laws take effect on Sunday | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8baa553f-3310-4c04-9cf3-b1d948ee933e.html#:~:text=House%20Bill%201096)
 * 05/20/2025 [The Urbanist](/org/the_urbanist/) - [After ‘Year of Housing 2.0’, Policymakers Eye Next Big Housing Moves - The Urbanist](https://www.theurbanist.org/2025/05/20/after-year-of-housing-2-0-policymakers-eye-next-big-housing-moves/#:~:text=lot-splitting)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201096)

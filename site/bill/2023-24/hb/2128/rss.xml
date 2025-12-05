@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2128/</link>
 		<description>Updates about HB 2128</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Nov 2025 21:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,6 +203,13 @@
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Is an old law helping PeaceHealth maintain its local monopoly? | Cascadia Daily News</title>
+			<description>News article "Is an old law helping PeaceHealth maintain its local monopoly? | Cascadia Daily News" from Cascadia Daily News.</description>
+			<pubDate>Thu, 13 Nov 2025 21:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadiadaily.com/2025/nov/13/is-an-old-law-helping-peacehealth-maintain-its-local-monopoly/#:~:text=introduced%20a%20bill</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/15/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting small businesses and Tribal communities - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/09/15/supporting-small-businesses-and-tribal-communities/#:~:text=SB%205492)
 * 04/30/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Riccelli bill to boost state tourism promotion - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/30/governor-signs-riccelli-bill-to-boost-state-tourism-promotion/#:~:text=Senate%20Bill%205492)
 * 04/28/2025 [Senate Democrats](/org/senate_democrats/) - [Big wins for Spokane as 2025 Legislature adjourns - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/04/28/big-wins-for-spokane-as-2025-legislature-adjourns/#:~:text=Senate%20Bill%205492)
 * 03/13/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall coming up March 22 - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/13/town-hall-coming-up-march-22/#:~:text=SB%205492)

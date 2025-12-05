@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=SB%205284)
 * 08/08/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our environment, preserving our future - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=SB%205284)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205284)
 * 07/04/2025 [The Center Square](/org/the_center_square/) - [July’s new and increased taxes and fees just the start for Washingtonians | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4f79027-7abb-40a1-9de9-222b5f833a07.html#:~:text=Senate%20Bill%205284)

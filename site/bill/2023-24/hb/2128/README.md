@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 11/13/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Is an old law helping PeaceHealth maintain its local monopoly? | Cascadia Daily News](https://www.cascadiadaily.com/2025/nov/13/is-an-old-law-helping-peacehealth-maintain-its-local-monopoly/#:~:text=introduced%20a%20bill)
+
 ## Meetings
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): E2SHB 2128 Certificate of need program
 #### 63 👍 - Pro

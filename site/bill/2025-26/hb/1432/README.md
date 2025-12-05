@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB 1432)
 * 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=HB%201432)
 * 03/12/2025 [House Democrats](/org/house_democrats/) - [House passes Simmons bill to ensure coverage for life-saving mental health care – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/house-passes-simmons-bill-to-ensure-coverage-for-life-saving-mental-health-care/#:~:text=House%20Bill%201432)
 

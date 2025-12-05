@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 09/07/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [The Setup for the Next Emergency: How Olympia Quietly Expanded Emergency Powers - Conservative Ladies of Washington](https://conservativeladiesofwa.com/hidden-agendas-emergency-powers/#:~:text=SB%205434)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [WA gubernatorial emergency powers reform legislation dies – again | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3c4b0f94-010f-11f0-a793-73d96e1931d5.html#:~:text=Substitute%20Senate%20Bill%205434)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session#:~:text=Senate%20Bill%205434’s)
 * 03/14/2025 [Cascade PBS](/org/cascade_pbs/) - [Dead or alive: Which bills have a chance this legislative session? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/dead-or-alive-which-bills-have-chance-legislative-session/#:~:text=Senate%20Bill%205434’s)

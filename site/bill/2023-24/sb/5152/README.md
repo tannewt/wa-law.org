@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/03/2025 [Axios](/org/axios/) - [How artificial intelligence could supercharge cybercrime in Seattle and beyond - Axios Seattle](https://www.axios.com/local/seattle/2025/12/03/ai-crime-ransomware-deepfakes-seattle-washington#:~:text=synthetic%20political%20ads)
+* 09/02/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington AG joins push to stop spread of deepfake pornography online](https://gorgenewscenter.com/2025/09/02/washington-ag-joins-push-to-stop-spread-of-deepfake-pornography-online/#:~:text=political%20candidates%20depicted%20in%20manipulated%20content)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205152)
 * 01/22/2024 [Gorge News Center](/org/gorge_news_center/) - [Secretary Hobbs warns Washington voters to be alert for deepfakes](https://gorgenewscenter.com/2024/01/22/secretary-hobbs-warns-washington-voters-to-be-alert-for-deepfakes/#:~:text=Senate%20Bill%205152)
 * 01/12/2024 [Crosscut](/org/crosscut/) - [Washington Legislature aims to regulate AI — but treads cautiously | Crosscut](https://crosscut.com/politics/2024/01/washington-legislature-aims-regulate-ai-treads-cautiously#:~:text=passed%20a%20minor%20bill)

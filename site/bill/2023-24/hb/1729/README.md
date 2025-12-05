@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/26/2023 [The Washington Observer](/org/the_washington_observer/) - [How a tax break for hydrogen blew up](https://washingtonobserver.substack.com/p/how-a-tax-break-for-hydrogen-blew#:~:text=House%20Bill%201729)
 * 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201729)
 
 ## Meetings

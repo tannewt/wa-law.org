@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1764/</link>
 		<description>Updates about HB 1764</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 09:21:04 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 01 Oct 2025 12:02:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -308,6 +308,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Michael/Azzano/2025-02-11 09:21:04</guid>
+		</item>
+		<item>
+			<title>Washington’s minimum wage to top $17 in 2026</title>
+			<description>News article "Washington’s minimum wage to top $17 in 2026" from Gorge News Center.</description>
+			<pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2025/09/30/washingtons-minimum-wage-to-top-17-in-2026/#:~:text=$25%20in%202031</guid>
+		</item>
+		<item>
+			<title>KUOW - Washington’s minimum wage to top $17 in 2026</title>
+			<description>News article "KUOW - Washington’s minimum wage to top $17 in 2026" from KUOW.</description>
+			<pubDate>Wed, 01 Oct 2025 12:02:23 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/washington-s-minimum-wage-to-top-17-in-2026#:~:text=$25%20in%202031.</guid>
 		</item>
 	</channel>
 </rss>

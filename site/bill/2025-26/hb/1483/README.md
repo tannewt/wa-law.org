@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB%201483)
 * 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=HB%201483)
 * 05/23/2025 [FOX13](/org/fox13/) - [Gov. Ferguson signs Right to Repair bill into law | FOX 13 Seattle](https://www.fox13seattle.com/news/gov-right-repair-law#:~:text=HB%201483)
 * 05/20/2025 [House Democrats](/org/house_democrats/) - [Governor Signs Landmark Right to Repair Bills into Law, Expanding Consumer Protections & Access to Repairs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/20/governor-signs-landmark-right-to-repair-bills-into-law-expanding-consumer-protections-access-to-repairs/#:~:text=HB%201483)

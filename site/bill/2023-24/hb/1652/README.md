@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/17/2025 [House Democrats](/org/house_democrats/) - [Rep. Farivar Highlights Worker & Food Security Protections Following Lake City Fred Meyer Closure – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/10/17/rep-farivar-highlights-worker-food-security-protections-following-lake-city-fred-meyer-closure/#:~:text=HB%201652)
 * 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=HB%201652)
 * 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education/#:~:text=House%20Bill%201652)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201652)

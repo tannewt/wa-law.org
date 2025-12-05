@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/29/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Democrats’ latest run at taxing the state’s largest companies](https://gorgenewscenter.com/2025/11/29/wa-democrats-latest-run-at-taxing-the-states-largest-companies/#:~:text=Senate%20Bill%205796)
+* 11/27/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Democrats’ latest run at taxing the state’s largest companies • Washington State Standard](https://washingtonstatestandard.com/2025/11/26/wa-democrats-latest-run-at-taxing-the-states-largest-employers/#:~:text=Senate%20Bill%205796)
+* 11/26/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Democrats’ latest run at taxing the state’s largest employers](https://gorgenewscenter.com/2025/11/26/wa-democrats-latest-run-at-taxing-the-states-largest-employers/#:~:text=Senate%20Bill%205796)
 * 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=5796)
 * 04/07/2025 [Senate Democrats](/org/senate_democrats/) - [In the final weeks - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/04/07/in-the-final-weeks/#:~:text=Senate%20Bill%205796)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205796)

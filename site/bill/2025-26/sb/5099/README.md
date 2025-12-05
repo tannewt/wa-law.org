@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 11/21/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [What’s Coming for Washington Gun Owners in 2026 - Conservative Ladies of Washington](https://conservativeladiesofwa.com/2026-gun-bills-preview/#:~:text=SB%205099)
 * 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=Senate%20Bill%205099)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205099:)
 * 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Plans for new gun regulations progress in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=Senate%20Bill%205099)

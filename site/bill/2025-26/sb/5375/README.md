@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/10/2025 [The Center Square](/org/the_center_square/) - [Washington state attorney general agrees to protect seal of confession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_30376116-ce9b-4efc-9832-a082d4d8cd5f.html#:~:text=Senate%20Bill%205375)
+* 10/10/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington’s SB 5375 Settlement Draws Line Between Religious Freedom and Legal Duty - Conservative Ladies of Washington](https://conservativeladiesofwa.com/wa-sb5375-clergy-reporting-settlement/#:~:text=SB%205375)
 * 07/18/2025 [The Center Square](/org/the_center_square/) - [Federal judge blocks WA law requiring clergy to report abuse learned in confession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_349afee9-15a0-4cc7-8303-7e92add125a0.html#:~:text=Senate%20Bill%205375)
 * 07/18/2025 [MyNorthwest](/org/mynorthwest/) - [Judge blocks WA law requiring clergy to report confessions](https://mynorthwest.com/local/wa-law-clergy-members-confessions/4111409#:~:text=Senate%20Bill%205375)
 * 06/24/2025 [KUOW](/org/kuow/) - [KUOW - Trump's DOJ sues Washington state over clergy sexual abuse reporting law](https://www.kuow.org/stories/trump-s-doj-sues-washington-state-over-clergy-sexual-abuse-law#:~:text=Senate%20Bill%205375)

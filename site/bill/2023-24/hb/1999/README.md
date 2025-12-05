@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/02/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington AG joins push to stop spread of deepfake pornography online](https://gorgenewscenter.com/2025/09/02/washington-ag-joins-push-to-stop-spread-of-deepfake-pornography-online/#:~:text=prohibited%20digitally-altered)
 * 04/24/2024 [MyNorthwest](/org/mynorthwest/) - [John and Shari: Sen. Mullet speaks on deepfakes, run for governor - MyNorthwest.com](https://mynorthwest.com/3958272/john-shari-sen-mullet-speaks-deepfakes-run-governor/#:~:text=HB%201999)
 * 03/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Protections Against Fabricated Intimate Images Signed into Law](https://gorgenewscenter.com/2024/03/15/protections-against-fabricated-intimate-images-signed-into-law/#:~:text=House%20Bill%201999)
 * 03/14/2024 [Senate Democrats](/org/senate_democrats/) - [Protections against fabricated intimate images signed into law - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2024/03/14/protections-against-fabricated-intimate-images-signed-into-law/#:~:text=House%20Bill%201999)

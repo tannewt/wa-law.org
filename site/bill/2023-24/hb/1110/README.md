@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/01/2025 [The Center Square](/org/the_center_square/) - [Washington residential construction permits down to 2013 levels | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_10564d8b-8a83-4046-bd77-4d8d6df68e0c.html#:~:text=passage)
 * 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [What I’m hearing in my email inbox - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/09/02/what-im-hearing-in-my-email-inbox/#:~:text=HB%201110)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201110)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201110)

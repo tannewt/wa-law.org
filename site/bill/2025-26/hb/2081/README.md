@@ -11,6 +11,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/29/2025 [KUOW](/org/kuow/) - [KUOW - New sales tax on services in Washington takes effect Wednesday](https://www.kuow.org/stories/new-sales-tax-on-services-in-washington-takes-effect-wednesday#:~:text=business%20and%20occupation%20rate)
+* 09/29/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [New sales tax on services in Washington takes effect Wednesday | Cascadia Daily News](https://www.cascadiadaily.com/2025/sep/29/new-sales-tax-on-services-in-washington-takes-effect-wednesday/#:~:text=business%20and%20occupation%20rate)
+* 09/29/2025 [Gorge News Center](/org/gorge_news_center/) - [New sales tax on services in Washington takes effect Wednesday](https://gorgenewscenter.com/2025/09/29/new-sales-tax-on-services-in-washington-takes-effect-wednesday/#:~:text=business%20and%20occupation%20rate)
+* 09/17/2025 [The Center Square](/org/the_center_square/) - [WATCH: Association of Washington Business lays out its 2026 legislative priorities | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b264c29d-d4ad-4bb0-a31b-d4504892d386.html#:~:text=House%20Bill%202081)
 * 07/04/2025 [The Center Square](/org/the_center_square/) - [July’s new and increased taxes and fees just the start for Washingtonians | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4f79027-7abb-40a1-9de9-222b5f833a07.html#:~:text=House%20Bill%202081)
 * 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=HB%202081)
 * 06/10/2025 [The Center Square](/org/the_center_square/) - [WATCH: Industry leaders urge WA lawmakers to change course on health care costs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3da5bf7b-808a-4a04-accc-ad0f88b8785d.html#:~:text=House%20Bill%202081)

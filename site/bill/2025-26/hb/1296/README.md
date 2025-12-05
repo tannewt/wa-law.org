@@ -11,6 +11,13 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Supreme Court ends Eyman's bid for referendum on parents’ bill of rights rewrite | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c4ef4173-7d39-42c3-adad-d53e01ddd570.html#:~:text=ESHB%201296)
+* 10/27/2025 [KUOW](/org/kuow/) - [KUOW - Conservative group sues to overturn rewrite of WA parental rights law](https://www.kuow.org/stories/conservative-group-sues-to-overturn-rewrite-of-wa-parental-rights-law#:~:text=House%20Bill%201296)
+* 10/26/2025 [Gorge News Center](/org/gorge_news_center/) - [Conservative group sues to overturn rewrite of WA parental rights law](https://gorgenewscenter.com/2025/10/26/conservative-group-sues-to-overturn-rewrite-of-wa-parental-rights-law/#:~:text=House%20Bill%201296)
+* 10/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Conservative group sues to overturn rewrite of WA parental rights law • Washington State Standard](https://washingtonstatestandard.com/2025/10/24/conservative-group-sues-to-overturn-rewrite-of-wa-parental-rights-law/#:~:text=House%20Bill%201296)
+* 10/23/2025 [MyNorthwest](/org/mynorthwest/) - [Lawsuit challenges HB 1296 on Parents' Bill of Rights](https://mynorthwest.com/local/parents-bill-of-rights-4/4146384#:~:text=House%20Bill%201296)
+* 10/23/2025 [The Center Square](/org/the_center_square/) - [Lawsuit filed challenges constitutionality of WA law modifying parents’ bill of rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4a0e3918-4861-4b8d-8d9f-d3cc86f2e4c4.html#:~:text=House%20Bill%201296)
+* 09/08/2025 [The Center Square](/org/the_center_square/) - [WATCH: Let's Go Washington launches parents' rights, girls in sports initiatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ef410724-df1b-47d4-a7ae-63240f713f68.html#:~:text=1296)
 * 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=HB%201296)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201296)
 * 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%201296)

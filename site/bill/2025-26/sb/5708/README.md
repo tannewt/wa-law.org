@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 11/21/2025 [KUOW](/org/kuow/) - [KUOW - WA Legislature to consider requiring union talks over government use of AI](https://www.kuow.org/stories/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai#:~:text=Senate%20Bill%205708)
+* 11/20/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature to consider requiring union talks over government use of AI • Washington State Standard](https://washingtonstatestandard.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=Senate%20Bill%205708)
+* 11/20/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature to consider requiring union talks over government use of AI](https://gorgenewscenter.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=Senate%20Bill%205708)
 * 04/02/2025 [Washington State Standard](/org/washington_state_standard/) - [Push for social media safeguards to protect children derails in Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/04/02/push-to-add-social-media-safeguards-for-children-derails-in-washington-house/#:~:text=Senate%20Bill%205708)
 * 02/27/2025 [The Center Square](/org/the_center_square/) - [Critics say online privacy bill concerning minors actually undermines parents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7390cd22-f55c-11ef-8273-27ccdbd6bdc9.html#:~:text=Senate%20Bill%205708)
 * 02/20/2025 [FOX13](/org/fox13/) - [WA Senate panel advances age-based social media restrictions | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-age-restrictions-social-media#:~:text=Senate%20Bill%205708)

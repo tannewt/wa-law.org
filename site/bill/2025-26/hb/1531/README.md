@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Supreme Court ends Eyman's bid for referendum on parents’ bill of rights rewrite | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c4ef4173-7d39-42c3-adad-d53e01ddd570.html#:~:text=HB%201531.)
+* 09/29/2025 [Senate Democrats](/org/senate_democrats/) - [A busy summer planning for the challenges ahead - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2025/09/29/3153/#:~:text=legislation%20preserving%20the%20ability%20of%20public%20health%20officials)
+* 09/12/2025 [Senate Democrats](/org/senate_democrats/) - [Access to the COVID vaccine? You’re covered! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/09/12/access-to-the-covid-vaccine-youre-covered/#:~:text=preserving%20the%20ability%20of%20public%20health%20officials)
 * 09/05/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [West Coast Alliance and WA’s Vaccine Mandate: A Coordinated Power Shift - Conservative Ladies of Washington](https://conservativeladiesofwa.com/west-coast-health-alliance-wa-vaccine/#:~:text=ESHB%201531)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201531)
 * 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=HB%201531)

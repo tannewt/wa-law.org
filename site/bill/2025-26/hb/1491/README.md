@@ -12,6 +12,8 @@
 * [Session Law](S3.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Gov. Ferguson ‘skeptical’ of tax increases in 2026](https://gorgenewscenter.com/2025/10/31/wa-gov-ferguson-skeptical-of-tax-increases-in-2026/#:~:text=development%20around%20transit%20stops)
+* 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=housing%20development%20around%20transit%20stops)
 * 06/24/2025 [The Urbanist](/org/the_urbanist/) - [Repeal Referendum Campaign Targets State Parking Reform, Transit-Oriented Housing Law » The Urbanist](https://www.theurbanist.org/2025/06/24/referendum-campaign-targets-state-parking-reform-tod-bill/#:~:text=House%20Bill%201491)
 * 06/02/2025 [Senate Democrats](/org/senate_democrats/) - [Housing solutions you can count on - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/06/02/housing-solutions-you-can-count-on/#:~:text=HB%201491)
 * 05/30/2025 [Senate Democrats](/org/senate_democrats/) - [Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/05/29/looking-back-at-our-2025-session-accomplishments/#:~:text=requiring)

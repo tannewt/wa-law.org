@@ -12,6 +12,7 @@
 * 02/10/2025 [MyNorthwest](/org/mynorthwest/) - [Reducing traffic stops: Bill proposes warnings by mail](https://mynorthwest.com/mynorthwest-politics/traffic-stops/4043514#:~:text=House%20Bill%201512)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201512)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201512)
+* 12/20/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [2025 Legislative Agenda - ACLU of Washington](https://www.aclu-wa.org/2025-legislative-agenda/#:~:text=HB%201512)
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1512 Traffic safety

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1987/</link>
 		<description>Updates about HB 1987</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 May 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Oct 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,13 @@
 			<pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://foodlifeline.org/article/2025-washington-state-legislative-session-summary#:~:text=HB%201987</guid>
+		</item>
+		<item>
+			<title>Rep. Farivar Highlights Worker &amp; Food Security Protections Following Lake City Fred Meyer Closure – Washington State House Democrats</title>
+			<description>News article "Rep. Farivar Highlights Worker &amp; Food Security Protections Following Lake City Fred Meyer Closure – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/10/17/rep-farivar-highlights-worker-food-security-protections-following-lake-city-fred-meyer-closure/#:~:text=HB%201987</guid>
 		</item>
 	</channel>
 </rss>

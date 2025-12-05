@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB 2015)
+* 10/14/2025 [The Center Square](/org/the_center_square/) - [Seattle City Council OKs 0.1% public safety sales tax expected to generate $39M | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c96c8269-26b7-4537-b9f4-0ff23026b6a7.html#:~:text=House%20Bill%202015)
+* 10/10/2025 [The Center Square](/org/the_center_square/) - [Despite concerns, Seattle City Council moving forward on public safety sales tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f26f0329-cde2-4ab2-ae3a-7fe9c6b98869.html#:~:text=House%20Bill%202015)
 * 08/25/2025 [The Center Square](/org/the_center_square/) - [Bellingham weighs quick-turn sales tax to patch $10M budget hole | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7d6a4983-a2d0-44a6-8b06-8260eb0dfa15.html#:~:text=House%20Bill%202015)
 * 07/28/2025 [The Center Square](/org/the_center_square/) - [Pierce County Sheriff’s Office short 47 deputies as council eyes sales tax fix | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bd2500b7-86fc-44cb-8e19-c8ecc558e5c0.html#:~:text=House%20Bill%202015)
 * 07/26/2025 [House Republicans](/org/house_republicans/) - [Summer update: New taxes, old budget problems | Washington State House Republicans](https://houserepublicans.wa.gov/current/summer-update-new-taxes-old-budget-problems/#:~:text=House%20Bill%202015)

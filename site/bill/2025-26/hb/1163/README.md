@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB 1163)
 * 08/13/2025 [KUOW](/org/kuow/) - [KUOW - Concealed carry licenses in Washington jump after approval of gun permit law](https://www.kuow.org/stories/concealed-carry-licenses-in-washington-jump-after-approval-of-gun-permit-law#:~:text=House%20Bill%201163,)
 * 07/21/2025 [The Center Square](/org/the_center_square/) - [Ahead of permit to purchase, WA experiencing a surge in concealed pistol licenses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_78e5bc92-bb0f-4e4c-a16d-2212d68112e0.html#:~:text=House%20Bill%201163)
 * 05/21/2025 [The Washington Observer](/org/the_washington_observer/) - [Ferguson tacks left and embraces the Legislature](https://washingtonobserver.substack.com/p/ferguson-tacks-left-and-embraces#:~:text=House%20Bill%201163)

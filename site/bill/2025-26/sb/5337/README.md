@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/02/2025 [Senate Democrats](/org/senate_democrats/) - [Housing policy outside the legislative session - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/02/housing-policy-outside-the-legislative-session/#:~:text=passed%20a%20bill)
 * 07/10/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature protects and strengthens health care in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/10/legislature-protects-and-strengthens-health-care-in-washington/#:~:text=SB%205337)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=Senate%20Bill%205337)
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=a%20new%20certification%20requirement)

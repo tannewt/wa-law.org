@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 11/07/2025 [The Center Square](/org/the_center_square/) - [2025 on track for most deaths, near deaths for children under DCYF supervision | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_56a3d05c-c8f0-4ee1-82b7-3aa214098fe4.html#:~:text=Senate%20Bill%206109)
 * 08/26/2025 [KUOW](/org/kuow/) - [KUOW - Debate flares over WA child welfare law after rise in deaths and injuries](https://www.kuow.org/stories/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries#:~:text=addressed%20the%20issue)
 * 01/07/2025 [The Center Square](/org/the_center_square/) - [Budget deficit may mean protecting, not expanding, substance abuse treatment programs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fd0854be-cc79-11ef-9302-2b3d8c646cc8.html#:~:text=Senate%20Bill%206109,)
 * 08/18/2024 [Gorge News Center](/org/gorge_news_center/) - [Fewer Washington kids are going to foster care despite steady stream of child neglect reports](https://gorgenewscenter.com/2024/08/18/fewer-washington-kids-are-going-to-foster-care-despite-steady-stream-of-child-neglect-reports/#:~:text=Senate%20Bill%206109)

@@ -8,6 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 11/19/2025 [KUOW](/org/kuow/) - [KUOW - Downbeat outlook persists in WA’s final budget forecast of the year](https://www.kuow.org/stories/downbeat-outlook-persists-in-wa-s-final-budget-forecast-of-the-year#:~:text=untested%20“wealth%20tax”)
+* 10/31/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington state Democrats look at imposing income tax on higher earners | Cascadia Daily News](https://www.cascadiadaily.com/2025/oct/31/washington-state-democrats-look-at-imposing-income-tax-on-higher-earners/#:~:text=passed%20a%20controversial%20bill)
+* 10/31/2025 [KUOW](/org/kuow/) - [KUOW - Washington state Democrats look at imposing income tax on higher earners](https://www.kuow.org/stories/washington-state-democrats-look-at-imposing-income-tax-on-higher-earners#:~:text=passed%20a%20controversial%20bil)
+* 10/31/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington state Democrats look at imposing income tax on higher earners](https://gorgenewscenter.com/2025/10/31/washington-state-democrats-look-at-imposing-income-tax-on-higher-earners/#:~:text=passed%20a%20controversial%20bill)
+* 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=passed%20the%20wealth%20tax)
 * 07/08/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: How to De-Trumpify the Washington State Budget » The Urbanist](https://www.theurbanist.org/2025/07/08/op-ed-how-to-de-trumpify-the-washington-state-budget/#:~:text=wealth%20tax)
 * 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=SB%205797)
 * 04/19/2025 [House Republicans](/org/house_republicans/) - [More tax increase proposals | Washington State House Republicans](https://houserepublicans.wa.gov/current/more-tax-increase-proposals/#:~:text=Senate%20Bill%205797)

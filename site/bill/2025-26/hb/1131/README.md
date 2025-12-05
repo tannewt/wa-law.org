@@ -12,6 +12,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 11/07/2025 [Senate Democrats](/org/senate_democrats/) - [Preparing for session - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/11/07/preparing-for-session/#:~:text=HB%201131)
+* 11/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing together during uncertain times - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/11/07/standing-together-during-uncertain-times/#:~:text=HB%201131)
+* 10/20/2025 [Senate Democrats](/org/senate_democrats/) - [Progress that puts people first - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/10/20/progress-that-puts-people-first/#:~:text=HB%201131)
 * 08/14/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our values in challenging times - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/08/14/protecting-our-values-in-challenging-times/#:~:text=HB%201131)
 * 08/08/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our environment, preserving our future - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=HB%201131)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=HB%201131)

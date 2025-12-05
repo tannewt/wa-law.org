@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/02/2025 [The Center Square](/org/the_center_square/) - [Lawmakers, policy group sue WA agencies over failure to release climate data | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0154576d-acc4-44b5-9517-e7aeb1b9e1ab.html#:~:text=Senate%20Bill%205036)
 * 08/08/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting our environment, preserving our future - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/08/08/protecting-our-environment-preserving-our-future/#:~:text=SB%205036)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205036)
 * 06/06/2025 [The Center Square](/org/the_center_square/) - [Judge dismisses lawsuit against state agencies for violating climate law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_114fa0d5-5dfe-42d1-a79f-e860cd7c3af2.html#:~:text=Senate%20Bill%205036)

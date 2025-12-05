@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5152/</link>
 		<description>Updates about SB 5152</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 22 Jul 2025 19:01:13 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Dec 2025 11:25:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -332,6 +332,20 @@
 			<pubDate>Tue, 22 Jul 2025 19:01:13 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205152</guid>
+		</item>
+		<item>
+			<title>Washington AG joins push to stop spread of deepfake pornography online</title>
+			<description>News article "Washington AG joins push to stop spread of deepfake pornography online" from Gorge News Center.</description>
+			<pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2025/09/02/washington-ag-joins-push-to-stop-spread-of-deepfake-pornography-online/#:~:text=political%20candidates%20depicted%20in%20manipulated%20content</guid>
+		</item>
+		<item>
+			<title>How artificial intelligence could supercharge cybercrime in Seattle and beyond - Axios Seattle</title>
+			<description>News article "How artificial intelligence could supercharge cybercrime in Seattle and beyond - Axios Seattle" from Axios.</description>
+			<pubDate>Wed, 03 Dec 2025 11:25:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/12/03/ai-crime-ransomware-deepfakes-seattle-washington#:~:text=synthetic%20political%20ads</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/16/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Another Brick in Ferguson’s Wall Against Trump - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-sovereignty-agenda-2025/#:~:text=HB%201321)
+* 10/02/2025 [Senate Democrats](/org/senate_democrats/) - [Housing policy outside the legislative session - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/02/housing-policy-outside-the-legislative-session/#:~:text=HB%201321)
 * 06/13/2025 [Senate Democrats](/org/senate_democrats/) - [WA Lawmakers to Trump: We Will Not Be Intimidated - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/06/13/wa-lawmakers-to-trump-we-will-not-be-intimidated/#:~:text=HB%201321)
 * 06/13/2025 [Senate Democrats](/org/senate_democrats/) - [Senate Majority Leader Pedersen, Speaker Jinkins: “Washingtonians stick by their neighbors” - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/06/13/senate-majority-leader-pedersen-speaker-jinkins-washingtonians-stick-by-their-neighbors/#:~:text=took%20action)
 * 06/13/2025 [House Democrats](/org/house_democrats/) - [WA Lawmakers to Trump: We Will Not Be Intimidated / Legisladores de Washington a Trump: No Nos Dejaremos Intimidar – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/06/13/wa-lawmakers-to-trump-we-will-not-be-intimidated-legisladores-de-washington-a-trump-no-nos-dejaremos-intimidar/#:~:text=HB%201321)
