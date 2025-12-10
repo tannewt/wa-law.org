@@ -25,6 +25,6 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Andy Cilley
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

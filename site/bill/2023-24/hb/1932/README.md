@@ -46,7 +46,7 @@ Testifying:
 Testifying:
 * Andy Cilley
 * Sam Reed
-* Steve Hobbs - Office of the Secretary of State
+* Steve Hobbs - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 * Marianne Nichols - Pend Oreille County Auditor
 * tad Sommerville
 * Jeannette Mcchesney

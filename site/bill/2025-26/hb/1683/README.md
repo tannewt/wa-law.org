@@ -11,7 +11,7 @@
 #### 3 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 
 #### 19 👎 - Con
 

@@ -24,7 +24,7 @@ Testifying:
 * Melody Simle
 * Adam Heyman - WDA and WACDL
 * Robert Goodwin - In individual capacity
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Karl Jones
 * Jenice Crews
 * Anthony Powers - American Equity & Justice Group

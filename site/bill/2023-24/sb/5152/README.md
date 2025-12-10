@@ -28,7 +28,7 @@
 Testifying:
 * Steve Hobbs - Secretary of State
 * Larry Seaquist
-* 💵Matt Steuerwalt - Adobe
+* 💵Matt Steuerwalt - [Adobe](/org/adobe/)
 
 #### 4 👎 - Con
 Testifying:

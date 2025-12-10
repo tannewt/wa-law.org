@@ -34,7 +34,7 @@ Testifying:
 ### Tue 03/14 04:00 PM - Environment & Energy (ENVI): E2SSB 5144 Batteries/environment
 #### 419 👍 - Pro
 Testifying:
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 * Preston Peck - City of Tacoma, Environmental Services
 * Ashley Evans
@@ -78,7 +78,7 @@ Testifying:
 #### 337 👍 - Pro
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Chris Averyt - [City of Spokane](/org/city_of_spokane/)
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
 * Rick Gilbert - Kitsap County Solid Waste Division

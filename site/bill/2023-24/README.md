@@ -753,7 +753,7 @@
 * [HB 1860](hb/1860) - Establishing stay-to-play requirements.  41👍 99👎 0❓ - HConsPro&Bus
 * [HB 1940](hb/1940) - Employer political speech 3📰 131👍 8👎 1❓ - HRules X
 * [HB 2403](hb/2403) - Kennel fire safety standards 4📰 138👍 2👎 0❓ - HLocal Govt
-* [SB 5002](sb/5002) - Alcohol concentration/DUI 18📰 71👍 66👎 3❓ - SRules X
+* [SB 5002](sb/5002) - Alcohol concentration/DUI 19📰 71👍 66👎 3❓ - SRules X
 * [HB 1128](hb/1128) - Personal needs allowance 137👍 2👎 0❓ - C 201 L 23
 * [HB 1365](hb/1365) - Puget Sound water quality 3📰 134👍 1👎 3❓ - HRules X
 * [HB 2293](hb/2293) - Avian predation/salmon 1📰 74👍 61👎 3❓ - C 72 L 24

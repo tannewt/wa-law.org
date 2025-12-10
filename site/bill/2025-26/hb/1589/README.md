@@ -33,7 +33,7 @@ Testifying:
 * Chris Bandoli - Cigna
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 
 #### 2 ❓ - Other
 

@@ -19,7 +19,7 @@
 #### 34 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 
 #### 0 👎 - Con
 
@@ -29,13 +29,13 @@ Testifying:
 #### 24 👍 - Pro
 Testifying:
 * Desiree White
-* Marissa Ingalls - Coordinated Care
-* Sydney Doherty - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
+* Sydney Doherty - [Coordinated Care](/org/coordinated_care/)
 * 💵Daniel Lugo - [Treehouse](/org/treehouse/)
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * Janet Hedgepath - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Diana Stadden - The Arc of WA State
-* Andrea Davis - Coordinated Care
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
 
 #### 0 👎 - Con
 
@@ -48,7 +48,7 @@ Testifying:
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Daniel Lugo - [Treehouse](/org/treehouse/)
-* 💵Bill Stauffacher - Coordinated Care
+* 💵Bill Stauffacher - [Coordinated Care](/org/coordinated_care/)
 
 #### 0 👎 - Con
 
@@ -57,9 +57,9 @@ Testifying:
 ### Tue 01/17 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1188 Child welfare services/DD
 #### 22 👍 - Pro
 Testifying:
-* Keith McNeal - Coordinated Care
-* Marissa Ingalls - Coordinated Care
-* Sydney Doherty - Coordinated Care
+* Keith McNeal - [Coordinated Care](/org/coordinated_care/)
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
+* Sydney Doherty - [Coordinated Care](/org/coordinated_care/)
 * 💵Diana Stadden - The Arc of WA State
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Katie Biron - Amara

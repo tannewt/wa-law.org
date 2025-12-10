@@ -81,7 +81,7 @@ Testifying:
 * Nancy Lust - Friends of Rocky Top / CascadiaNow.org
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Scott Cave - Friends of Rocky Top & Carole DeGrave
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Jean Mendoza
 
 #### 2 👎 - Con

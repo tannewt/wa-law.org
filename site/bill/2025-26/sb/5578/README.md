@@ -24,7 +24,7 @@ Testifying:
 * Joe Kennedy - UFCW 367
 * Kristen Harknett - University of California, San Francisco
 * Mathieu Chaubad - UAW 4121
-* Peter Nazzal - Catholic Community Services
+* Peter Nazzal - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 1407 👎 - Con
 Testifying:

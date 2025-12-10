@@ -16,7 +16,7 @@ Testifying:
 * Benjamin Byers
 * Toby Thaler
 * 💵Lisa Ayrault - FairVote Washington
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
 #### 1353 👎 - Con
 Testifying:

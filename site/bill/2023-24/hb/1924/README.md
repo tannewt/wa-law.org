@@ -22,9 +22,9 @@
 ### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): SHB 1924 Fusion technology policies
 #### 31 👍 - Pro
 Testifying:
-* Ryan Umstattd - Zap Energy, Inc.
+* Ryan Umstattd - [Zap Energy, Inc.](/org/zap_energy,_inc./)
 * Hawkins DeFrance - [Avalanche Energy Designs, Inc.](/org/avalanche_energy_designs,_inc./)
-* Sachin Desai - [Helion Energy](/org/helion_energy/)
+* 💵Sachin Desai - [Helion Energy](/org/helion_energy/)
 * Chris Ajemian - Kyoto Fusioneering America
 * Jessie Barton - Helion
 

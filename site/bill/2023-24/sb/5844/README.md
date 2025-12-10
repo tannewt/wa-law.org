@@ -10,7 +10,7 @@
 ### Tue 01/16 01:30 PM - Environment, Energy & Technology (ENET): SB 5844 Dilapidated RV disposal
 #### 3 👍 - Pro
 Testifying:
-* 💵Jason Callahan - Green Diamond Resource Company
+* 💵Jason Callahan - [Green Diamond Resource Company](/org/green_diamond_resource_company/)
 
 #### 0 👎 - Con
 

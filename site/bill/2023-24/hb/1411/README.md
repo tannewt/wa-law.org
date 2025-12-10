@@ -15,7 +15,7 @@
 #### 21 👍 - Pro
 Testifying:
 * 💵David Beard - School's Out Washington
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 
 #### 28 👎 - Con
 

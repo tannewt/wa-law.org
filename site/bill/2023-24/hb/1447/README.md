@@ -62,7 +62,7 @@ Testifying:
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Donna O'Connor - [Hopelink](/org/hopelink/)
-* Senight Zahilay - Northwest Harvest
+* Senight Zahilay - [Northwest Harvest](/org/northwest_harvest/)
 * Kevin Briscoeray
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Alicya Pearson - [Food Lifeline](/org/food_lifeline/)

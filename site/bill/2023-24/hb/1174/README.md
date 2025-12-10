@@ -24,8 +24,8 @@ Testifying:
 * Julie Wise - King County Director of Elections
 * Gicola Lane - Campaign Legal Center
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
-* Connor Linse - Office of the Secretary of State
-* David Elliott - Office of the Secretary of State
+* Connor Linse - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
+* David Elliott - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 132 👎 - Con
 Testifying:

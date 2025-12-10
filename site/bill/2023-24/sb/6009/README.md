@@ -48,7 +48,7 @@ Testifying:
 * Victoria Woodards - Mayor of the City of Tacoma
 * Jamika Scott - Tacoma City Councilmember
 * Trishandra Pickup - WA Coalition for Police Accountability
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Nickeia Hunter - WA Coalition for Police Accountability
 * Kurtis Robinson - WA Coalition for Police Accountability
 * Monet Carter-Mixon

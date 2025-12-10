@@ -35,7 +35,7 @@ Testifying:
 
 #### 107 👎 - Con
 Testifying:
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * Rachel Baker - [Washington Conservation Action](/org/washington_conservation_action/)
 * Mariska Kecskes - [Sierra Club](/org/sierra_club/)
@@ -72,7 +72,7 @@ Testifying:
 Testifying:
 * 💵Grace Yuan - Puget Sound School Coalition
 * 💵Grace Yuan - Puget Sound School Coalition
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Alex Harris - RE Sources
 * Mariska Kecskes - [Sierra Club](/org/sierra_club/)
 * Mitch Friedman - [Conservation Northwest](/org/conservation_northwest/)
@@ -112,7 +112,7 @@ Testifying:
 ### Tue 02/14 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1789 Ecosystem services
 #### 377 👍 - Pro
 Testifying:
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Jeremy "JJ" Wilbur - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 * Mariska Kecskes - [Sierra Club](/org/sierra_club/)
 * 💵Paula Swedeen
@@ -146,7 +146,7 @@ Testifying:
 * Chris Covert-Bowlds
 * Barbara Menne
 * Linda Carroll
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Elena Rumiantseva
 * 💵Paula Sardinas - Build Back Black Alliance
 * Jerry Ericsson - Columbia Carbon

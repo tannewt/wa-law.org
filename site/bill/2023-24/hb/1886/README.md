@@ -11,7 +11,7 @@
 #### 3 👍 - Pro
 Testifying:
 * 💵Brent Ludeman - SCI Washington Funeral Services
-* Scott Sheehan - Washington Cemetery, Cremation & Funeral Association
+* Scott Sheehan - [Washington Cemetery, Cremation & Funeral Association](/org/washington_cemetery,_cremation_&_funeral_association/)
 
 #### 0 👎 - Con
 

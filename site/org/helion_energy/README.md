@@ -16,4 +16,4 @@
 
 ## [HB 1924](/bill/2023-24/hb/1924/) - Fusion technology policies 👍2  
 * 👍 Jackie Siebens
-* 👍 Sachin Desai
+* 👍💵 Sachin Desai

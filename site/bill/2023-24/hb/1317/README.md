@@ -27,7 +27,7 @@ Testifying:
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1317 Grassroots lobbying
 #### 36 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Luis Moscoso
 * Peter Lavallee - Public Disclosure Commission
 * Sean Flynn - Public Disclosure Commission

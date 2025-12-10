@@ -24,8 +24,8 @@ Testifying:
 Testifying:
 * Jordan Royer - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
 * Tad Sommerville
-* Peter Schrappen - American Waterways Operators
-* Peter Schrappen - American Waterways Operators
+* Peter Schrappen - [American Waterways Operators](/org/american_waterways_operators/)
+* Peter Schrappen - [American Waterways Operators](/org/american_waterways_operators/)
 * DONALD BROWN - Cruise Lines International Association (CLIA)
 * 💵Amber Carter - Columbia River Steamship Operators Assn.
 * 💵Sophia Steele - WSPA

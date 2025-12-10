@@ -18,7 +18,7 @@
 ### Mon 03/24 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1562 Diaper changing stations
 #### 17 👍 - Pro
 Testifying:
-* Alexandra Johnson
+* 💵Alexandra Johnson
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
@@ -33,7 +33,7 @@ Testifying:
 #### 17 👍 - Pro
 Testifying:
 * Samatha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* Alexandra Johnson
+* 💵Alexandra Johnson
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 1 👎 - Con

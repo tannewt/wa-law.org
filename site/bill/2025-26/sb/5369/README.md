@@ -77,7 +77,7 @@ Testifying:
 * Christine Zarker Primomo
 * Janet C Robertson
 * Pierrette Wing
-* Alice Woldt
+* 💵Alice Woldt
 * John Birnel
 * Terry Eaton
 * Linda Moulder

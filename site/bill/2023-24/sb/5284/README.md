@@ -14,7 +14,7 @@
 #### 8 👍 - Pro
 Testifying:
 * Sean Flynn - Public Disclosure Commission
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Michael Charles
 * Ryan Hollander - [Fuse Washington](/org/fuse_washington/)
 
@@ -53,7 +53,7 @@ Testifying:
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5284 Campaign finance disclosure
 #### 28 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Peter Lavallee - Public Disclosure Commission
 * Sean Flynn - Public Disclosure Commission
 * Paul Queary - [The Washington Observer](/org/the_washington_observer/)

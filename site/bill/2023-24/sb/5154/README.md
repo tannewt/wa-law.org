@@ -35,7 +35,7 @@ Testifying:
 * Kate Bailey - The Association of Plastic Recyclers
 * Ramsey Doudar - Patients & Users for Reasonable Policy (PURP)
 * Ramsey Doudar - Patients & Users for Reasonable Policy (PURP)
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * 💵Ezra Eickmeyer - Terramer Inc.
 * Thessalonika BENNY - Select...

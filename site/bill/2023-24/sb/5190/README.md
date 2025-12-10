@@ -54,7 +54,7 @@ Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Bill Clarke - WA REALTORS
 * Council President Breean Beggs
-* Rachel Smith - Seattle Metro Chamber of Commerce
+* 💵Rachel Smith - Seattle Metro Chamber of Commerce
 * Dylan Sluder - Master Builders Association of King and Snohomish Counties
 * Cathy MacCaul - AARP Washington State
 

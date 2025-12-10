@@ -77,7 +77,7 @@ Testifying:
 * 💵Carolyn Logue - South Sound Chamber Coalition; ABC-Inland Pacific; WA ACCA; NWHPBA,  WA Denturist Association
 * 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
 * 💵Michele Willms - Associated General Contractors (AGC)
-* 💵Leah Lindahl - Healthcare Distribution Alliance
+* 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * 💵Sean Graham - Washington State Medical Association
 * Jessica Pizzica - GRIT Talent Solutions
 * chris speno - Orca Furniture Services LLC
@@ -139,7 +139,7 @@ Testifying:
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* 💵Leah Lindahl - Healthcare Distribution Alliance
+* 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * 💵Michele Willms - Associated General Contractors (AGC)

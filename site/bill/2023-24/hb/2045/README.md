@@ -29,7 +29,7 @@ Testifying:
 #### 12 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
-* 💵Jason Callahan - Green Diamond Resource Company
+* 💵Jason Callahan - [Green Diamond Resource Company](/org/green_diamond_resource_company/)
 
 #### 1 👎 - Con
 Testifying:

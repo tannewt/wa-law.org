@@ -193,7 +193,7 @@ Testifying:
 #### 43 👍 - Pro
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
 * 💵Melissa Gombosky - Association of Educational Service Districts
 * 💵Joel Anderson - Washington Student Achievement Council
@@ -272,7 +272,7 @@ Testifying:
 * Chris Mulick - Washington State University
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Nora Selander - Western Washington University
-* Kimberly Nyland - Catholic Community Services
+* Kimberly Nyland - [Catholic Community Services](/org/catholic_community_services/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Jerry VanderWood - AGC and WA Construction Industry Council
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
@@ -283,7 +283,7 @@ Testifying:
 * Nathan Daniel
 * 💵Kristin Wiggins - Perigee Fund / P5RHS
 * Cate Bridenstein - Imagine Institute
-* Cate Bridenstine - Imagine Institute
+* 💵Cate Bridenstine - Imagine Institute
 * Mark Tucker - Spokane County United Way
 * Nora Briggs - Dollywood Foundation
 * Kate Urwin - People for People / Washington 211

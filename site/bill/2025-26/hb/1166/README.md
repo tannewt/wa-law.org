@@ -22,7 +22,7 @@ Testifying:
 * Elizabeth Shatswell
 * Gisella Gonzalez
 * Haley Shoaf
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Jeremiah Bourgeois
 * Joel Strom
 * Alexis Hale - Justice for Girls

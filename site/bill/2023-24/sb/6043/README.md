@@ -10,7 +10,7 @@
 ### Mon 01/29 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6043 Recreational use fees
 #### 43 👍 - Pro
 Testifying:
-* Nathaniel Rees - [The Mountaineers](/org/the_mountaineers/)
+* 💵Nathaniel Rees - [The Mountaineers](/org/the_mountaineers/)
 * Eric Brown - Whatcom Mountain Bike Coalition
 * philip wolff
 * philip wolff

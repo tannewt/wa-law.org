@@ -31,7 +31,7 @@ Testifying:
 ### Thu 01/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5212 Concerning filing of adjudication claims for precode uses of groundwater and surface water in the water resource inventory area 1 water rights adjudication. (Remote Testimony Available). (If measure is referred to committee.)
 #### 41 👍 - Pro
 Testifying:
-* 💵Bill Clarke - Whatcom Ag Water Board
+* 💵Bill Clarke - [Whatcom Ag Water Board](/org/whatcom_ag_water_board/)
 * Jamie Morin
 
 #### 1 👎 - Con

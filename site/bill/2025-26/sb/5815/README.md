@@ -67,7 +67,7 @@ Testifying:
 * Kimberly Sanborn - 7FM
 * Xavier Johnson
 * Erin Jeffery
-* Bryan Hannon - Healthcare Distribution Alliance
+* Bryan Hannon - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)
 * 💵Brandon Houskeeper - NWGRA
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)

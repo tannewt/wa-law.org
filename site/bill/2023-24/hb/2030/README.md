@@ -28,7 +28,7 @@
 ### Tue 01/16 01:30 PM - State Government & Tribal Relations (SGOV): HB 2030 Voting rights/convictions
 #### 517 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Reginald Thedford - Campaign Legal Center
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Charles Longshore - Department of Corrections - Washington Corrections Center

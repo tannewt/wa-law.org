@@ -29,7 +29,7 @@ Testifying:
 * 💵Michael Shaw - Washington Association of County Officials (WACO)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Vicky Dalton - Spokane County Auditor - Washington State Assoc of County Auditors
-* Brian Hatfield - Office of the Secretary of State
+* Brian Hatfield - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 4 👎 - Con
 

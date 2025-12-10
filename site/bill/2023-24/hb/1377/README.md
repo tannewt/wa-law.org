@@ -51,7 +51,7 @@ Testifying:
 #### 22 👍 - Pro
 Testifying:
 * 💵Zackary Turner
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Justyna King - Office of Catholic Schools, Archdiocese of Seattle
 
 #### 0 👎 - Con

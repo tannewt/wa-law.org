@@ -38,7 +38,7 @@ Testifying:
 
 #### 9 👎 - Con
 Testifying:
-* Jessica Molberg - Coordinated Care
+* Jessica Molberg - [Coordinated Care](/org/coordinated_care/)
 * Eileen Newton - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 * Dr. Sasha Waring
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans

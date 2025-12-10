@@ -62,7 +62,7 @@ Testifying:
 * Mark Ozias - Commissioner, Clallam County
 * Joan Miller - WA Council for Behavioral Health
 * Kelly Rider - [King County](/org/king_county/)
-* Mary Stone Smith - Catholic Community Services
+* Mary Stone Smith - [Catholic Community Services](/org/catholic_community_services/)
 * Jill Johnson - Commissioner, Island County
 
 #### 0 👎 - Con

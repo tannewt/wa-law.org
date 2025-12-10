@@ -176,7 +176,7 @@ Testifying:
 * Dylan Sluder - Master Builders Association of King and Snohomish Counties
 * Amanda Kost - [University of Washington](/org/university_of_washington/)
 * 💵Andrea Reay - Tacoma-Pierce County Chamber
-* Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* 💵Rachel Smith - Seattle Metropolitan Chamber of Commerce
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Kurt Wilson - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
@@ -287,7 +287,7 @@ Testifying:
 * Girmay Zahilay - King County Councilmember
 * Zack Zappone - [City of Spokane](/org/city_of_spokane/)
 * 💵Andrea Reay - Tacoma Pierce OCUnty Chamber
-* Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* 💵Rachel Smith - Seattle Metropolitan Chamber of Commerce
 * Jennifer Gregerson - American Planning Association, Washington, Legislative Committee
 * 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
 * Brett D'Antonio - Habitat for Humanity Seattle-King & Kittitas Counties

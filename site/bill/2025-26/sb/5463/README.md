@@ -44,7 +44,7 @@ Testifying:
 
 #### 169 👎 - Con
 Testifying:
-* 💵Christine Brewer - Washington Self Insurers Association
+* 💵Christine Brewer - [Washington Self Insurers Association](/org/washington_self_insurers_association/)
 * Teresa Sanders
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Anthony Holan
@@ -65,6 +65,6 @@ Testifying:
 #### 36 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Christine Brewer - Washington Self Insurers Association
+* 💵Christine Brewer - [Washington Self Insurers Association](/org/washington_self_insurers_association/)
 
 #### 0 ❓ - Other

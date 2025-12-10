@@ -15,7 +15,7 @@ Testifying:
 * Julia Michalak - WDFW
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * PHD, Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
-* David Ellenberger - Wildlands Network
+* David Ellenberger - [Wildlands Network](/org/wildlands_network/)
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
 * John Rosapepe - Endangered Species Coalition
 

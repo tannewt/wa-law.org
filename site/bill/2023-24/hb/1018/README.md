@@ -19,7 +19,7 @@ Testifying:
 
 #### 63 👎 - Con
 Testifying:
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * John Roskelley
 
 #### 0 ❓ - Other
@@ -38,5 +38,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Ed Chadd

@@ -103,7 +103,7 @@ Testifying:
 * 💵Warren Hendrickson - Washington State Aviation Alliance
 * John Dobson - Washington State Aviation Alliance
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* Stephen Ratzlaff - Friends of Boeing Field
+* Stephen Ratzlaff - [Friends of Boeing Field](/org/friends_of_boeing_field/)
 
 #### 12 ❓ - Other
 Testifying:

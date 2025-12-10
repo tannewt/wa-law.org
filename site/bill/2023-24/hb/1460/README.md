@@ -32,14 +32,14 @@ Testifying:
 ### Thu 03/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1460 DNR land
 #### 508 👍 - Pro
 Testifying:
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Nicole Pasi - Mountains to Sound Greenway Trust
 * Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * Jeff Lambert
 * Maggie Coon - [Methow Valley Citizens Council](/org/methow_valley_citizens_council/)
 * Brian Considine - Washington Department of Natural Resources
 * Duane Emmons - Washington Department of Natural Resources
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
 #### 2 👎 - Con
 Testifying:

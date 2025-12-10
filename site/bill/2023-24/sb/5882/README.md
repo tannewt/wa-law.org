@@ -26,7 +26,7 @@
 Testifying:
 * Justin McKaughan
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Satvik Reddy
 * Rick Chisa - Public School Employees of WA/SEIU 1948
 * Britton Nash
@@ -45,7 +45,7 @@ Testifying:
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5882 Prototypical school staffing
 #### 498 👍 - Pro
 Testifying:
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Malorie Larson - Washington State PTA
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction

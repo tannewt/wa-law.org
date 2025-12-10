@@ -230,9 +230,9 @@ async def scrape(progress, session, org_rowid, domain):
                     continue
                 lastmod = parse_date(url.lastmod.text)
                 if lastmod is None:
-                    raise ValueError(
-                        f"Failed to parse lastmod date for URL: {url_text} {url.lastmod.text}"
-                    )
+                    # raise ValueError(
+                    #     f"Failed to parse lastmod date for URL: {url_text} {url.lastmod.text}"
+                    # )
                     # Include stuff with invalid lastmod date
                     pass
                 # Don't bother with old stuff yet.

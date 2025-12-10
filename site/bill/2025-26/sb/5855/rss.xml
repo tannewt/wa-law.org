@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5855 - Law enf. face coverings</title>
+		<link>https://wa-law.org/bill/2025-26/sb/5855/</link>
+		<description>Updates about SB 5855</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 09 Dec 2025 17:35:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-12-08/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>Valdez introduces bill to ban face-concealing masks by law enforcement in response to masked ICE raids - Sen. Javier Valdez</title>
+			<description>News article "Valdez introduces bill to ban face-concealing masks by law enforcement in response to masked ICE raids - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Mon, 08 Dec 2025 23:05:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/12/08/valdez-introduces-bill-to-ban-face-concealing-masks-by-law-enforcement-in-response-to-masked-ice-raids/#:~:text=Senate%20Bill%205855</guid>
+		</item>
+		<item>
+			<title>WA Dems propose issuing confidential IDs to AGO despite criticizing ICE | Washington | thecentersquare.com</title>
+			<description>News article "WA Dems propose issuing confidential IDs to AGO despite criticizing ICE | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 09 Dec 2025 17:35:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d9b73ff2-0a40-4cb7-862c-0e4219b6fe36.html#:~:text=prohibit</guid>
+		</item>
+	</channel>
+</rss>

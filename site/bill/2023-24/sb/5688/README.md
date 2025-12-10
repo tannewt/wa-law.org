@@ -34,7 +34,7 @@ Testifying:
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * JJ Wilbur - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 * Jon Hoekstra - Mountains to Sound Greenway Trust

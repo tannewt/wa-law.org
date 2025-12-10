@@ -14,7 +14,7 @@ Testifying:
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Alison Halpern - Washington State Conservation Commission
-* Douglas Ray - Carbon Washington
+* Douglas Ray - [Carbon Washington](/org/carbon_washington/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 20 👎 - Con

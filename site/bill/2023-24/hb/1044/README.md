@@ -27,7 +27,7 @@
 #### 9 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 
 #### 267 👎 - Con
 Testifying:
@@ -83,7 +83,7 @@ Testifying:
 #### 26 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Jim Kowalkowski - Rural Education Center
 
 #### 0 👎 - Con

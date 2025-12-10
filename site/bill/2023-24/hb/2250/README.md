@@ -17,7 +17,7 @@
 ### Wed 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 2250 Local elections
 #### 1709 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Carol Sullivan - self
 * 💵Giovanni Severino

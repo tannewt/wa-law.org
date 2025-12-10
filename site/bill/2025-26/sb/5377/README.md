@@ -124,7 +124,7 @@ Testifying:
 * Jonah Lewis
 * Ava Ames - [Tesla](/org/tesla/)
 * Hannah Steinweg - Rivian
-* Mike Cruz - Lucid Motors
+* Mike Cruz - [Lucid Motors](/org/lucid_motors/)
 * Adele Poenisch - no
 * Michael Le
 * Kelly Cao

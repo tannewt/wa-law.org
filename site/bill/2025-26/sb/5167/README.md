@@ -119,7 +119,7 @@ Testifying:
 * 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
 * Guy Glaeser - Visit Walla Walla
 * TODD CHAPUT - [Economic Alliance of Lewis County](/org/economic_alliance_of_lewis_county/)
-* Steve Hobbs - Office of the Secretary of State
+* Steve Hobbs - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 * Rose Noble - Visit Spokane
 * Ashley Sinner - Visit Wenatchee/Wenatchee Valley Chamber of Commerce
 * 💵Michael Moran - Washington State Auditor
@@ -243,8 +243,8 @@ Testifying:
 * 💵Melanie Smith - WA State LTC Ombuds Program
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Jeff Abdullah - [The Mockingbird Society](/org/the_mockingbird_society/)
-* Diane Figley - Catholic Community Services
-* Hollianne Monson - Catholic Community Services
+* Diane Figley - [Catholic Community Services](/org/catholic_community_services/)
+* Hollianne Monson - [Catholic Community Services](/org/catholic_community_services/)
 * Julie McGuire
 * Mike Bonck
 * Naoko Shatz - International Families Justice Coalition
@@ -326,7 +326,7 @@ Testifying:
 * Jon Holmen - Lake Washington School District
 * Molly Griffiths - [Pacific Education Institute](/org/pacific_education_institute/)
 * Charlie Brown - South Sound Superintendents, Federal Way Schools, School Alliance
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Megan Karch - IslandWood
 * Shannon Marshall
 

@@ -35,7 +35,7 @@ Testifying:
 * Ashley Salazar - Parent of a survivor
 * Lizzy Sebring - Washington State PTA
 * Tamika Dean - Parent of survivor
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 20 👎 - Con
 

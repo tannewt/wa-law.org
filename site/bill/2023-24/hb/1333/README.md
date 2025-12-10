@@ -81,7 +81,7 @@ Testifying:
 * Peggy Shepard
 * Miri Cypers
 * Helene Paroff
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Luis Moscoso - Former State Legislator
 * Jennifer Bereskin
 * Megan Dunn - Snohomish County Council

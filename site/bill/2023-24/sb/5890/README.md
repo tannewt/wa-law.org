@@ -37,7 +37,7 @@ Testifying:
 ### Tue 01/09 01:30 PM - State Government & Elections (SGE): SB 5890 Ballot rejection
 #### 137 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Mary Hall - Washington State Association of County Auditors (WSACA)
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)

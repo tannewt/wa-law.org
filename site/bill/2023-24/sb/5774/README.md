@@ -50,7 +50,7 @@ Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Colleen Condon
 * Susan Brown
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Beckett Leeson
 * Parth Parashar
 * 💵Malorie Toman - WA State Medical Association

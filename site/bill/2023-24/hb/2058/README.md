@@ -35,7 +35,7 @@ Testifying:
 * Lelach Rave - WA Chapter of the American Academy of Pediatrics
 * Jessie Moreno-Graham
 * Natasha Fecteau Minger
-* 💵Carolyn Logue - Washington School Counselors Association
+* 💵Carolyn Logue - [Washington School Counselors Association](/org/washington_school_counselors_association/)
 * Dune Ives - OSD4ALL
 
 #### 29 👎 - Con

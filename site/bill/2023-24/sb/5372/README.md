@@ -15,7 +15,7 @@
 ### Thu 01/26 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5372 Trust land transfer program
 #### 600 👍 - Pro
 Testifying:
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Bill Dewey - Taylor Shellfish
 * Doug McClelland - Mountains to Sound Greenway
 * Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)

@@ -21,7 +21,7 @@ Testifying:
 ### Thu 01/16 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5016 Prearrang. funeral services
 #### 1 👍 - Pro
 Testifying:
-* Scott Sheehan - Washington Cemetery, Cremation & Funeral Association
+* Scott Sheehan - [Washington Cemetery, Cremation & Funeral Association](/org/washington_cemetery,_cremation_&_funeral_association/)
 
 #### 0 👎 - Con
 

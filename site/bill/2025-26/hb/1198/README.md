@@ -227,10 +227,10 @@ Testifying:
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Po Leapai - N/A
 * Zane McKnight - Everett High School
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Tyler Running Deer - eCityGov Alliance Executive Director
 * David Buri - Eastern Washington University
-* Naeem Anis - Catholic Community Services
+* Naeem Anis - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Emmett Mills - Washington State School Retirees' Association
 * Melanie Harding - MRSC -- Municipal Research & Services Center
 * Robin Miller - WASE
@@ -338,7 +338,7 @@ Testifying:
 * Guy Glaeser - Visit Walla Walla
 * Angela French - Imagination Library of Washington
 * Brittany Williams - United Way of Snohomish County
-* Steve Hobbs - Office of the Secretary of State
+* Steve Hobbs - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 * Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Rose Noble - Visit Spokane
 * Adam Acampora - Woodinville Wine Country
@@ -377,7 +377,7 @@ Testifying:
 * 💵Jill May - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
 * Angela Youtsey - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
 * Bradley Forbes - Alzheimer's Association
-* Suzanne Cabrera - Catholic Community Services
+* Suzanne Cabrera - [Catholic Community Services](/org/catholic_community_services/)
 * Miri Cypers - Anti-Defamation League Pacific Northwest Region
 * 💵Katy Warren - WA St. Assn of Head Start and ECEAP
 * Jack Edgerton - KidVantage
@@ -426,7 +426,7 @@ Testifying:
 * Lyle Lewin - Shelton Health and Rehabilitation Center
 * Ken Alexander - Alderwood Manor
 * Tim Eyman - Initiative Activist
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Dieu Dinh - Hudson Bay Health and Rehab
 * Tom Davis - WA Forest Protection Association
 * LEN MCCOMB - WASHINGTON STATE HOSPITAL ASSOCIATION
@@ -456,7 +456,7 @@ Testifying:
 * Demas Nesterenko - SEIU775
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Stephanie Widhalm - Partners with Families and Children
-* Jessica Johnson
+* 💵Jessica Johnson
 * PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * 💵Dawn Rains - [Treehouse](/org/treehouse/)
@@ -478,7 +478,7 @@ Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 * 💵Casey Brown - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
-* Hollianne Monson - Catholic Community Services
+* Hollianne Monson - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
 * Jim CastroLang - [Thrive International](/org/thrive_international/)
 * 💵Michele Thomas - WA Low Income Housing Alliance

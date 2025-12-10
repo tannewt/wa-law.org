@@ -11,7 +11,7 @@
 ### Tue 02/07 01:30 PM - State Government & Tribal Relations (SGOV): HB 1567 Conserv. district elections
 #### 17 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Julie Wise - King County Director of Elections
 * Rosa Mendez-Perez
 * Chris Porter

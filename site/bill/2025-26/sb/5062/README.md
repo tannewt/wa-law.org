@@ -43,7 +43,7 @@ Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * John Swartz - Kiddie Academy Salmon Creek
 * Dana Christiansen
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Loni Simone
 * Anthony Stockman
 * 💵Amy Anderson - WA Childcare Centers Association

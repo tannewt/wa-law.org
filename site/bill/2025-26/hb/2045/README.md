@@ -86,7 +86,7 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * Kelli Holz - WaFd Bank
-* Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* 💵Rachel Smith - Seattle Metropolitan Chamber of Commerce
 * 💵Leah Lindahl - Health Care Distribution Alliance
 * Kathryn Minter
 * Justin Armstrong

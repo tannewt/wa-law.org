@@ -42,7 +42,7 @@ Testifying:
 * bobbi moody
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
-* 💵Greg Hanon - Western States Petroleum Association
+* 💵Greg Hanon - [Western States Petroleum Association](/org/western_states_petroleum_association/)
 * Bobbie Vergon
 * Carmelinda Wiley
 
@@ -63,8 +63,8 @@ Testifying:
 #### 404 👎 - Con
 Testifying:
 * Jeff Pack - Me
-* 💵Greg Hanon - Western States Petroleum Association
-* 💵Jessica Spiegel - Western States Petroleum Association
+* 💵Greg Hanon - [Western States Petroleum Association](/org/western_states_petroleum_association/)
+* 💵Jessica Spiegel - [Western States Petroleum Association](/org/western_states_petroleum_association/)
 * 💵Peter Godlewski - Association of Washington Business (AWB)
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * 💵Diana Carlen - Washington Oil Marketers Association (aka Washington Independent Distributors of Energy)

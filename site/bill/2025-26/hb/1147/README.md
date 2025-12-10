@@ -19,7 +19,7 @@ Testifying:
 * Rachael Ann Snell
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * David Thometz - Self-advocate
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Raymond Williams - Just Us Solutions
 * 💵Arthur Longworth - TeamChild
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
@@ -38,7 +38,7 @@ Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Anne Anderson
-* Steve Hobbs - Office of the Secretary of State
+* Steve Hobbs - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 8 ❓ - Other
 Testifying:

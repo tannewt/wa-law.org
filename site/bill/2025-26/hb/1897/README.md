@@ -23,7 +23,7 @@ Testifying:
 * SarahAnn Hamilton - The More We Love
 * 💵Mauricio Ayon - Pacific County Voices Uniting
 * Sarah Ann Harris Hamilton - The More We love
-* 💵Donna Christensen - Catholic Community Services
+* 💵Donna Christensen - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 2 👎 - Con
 Testifying:

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/07/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=an%20expansion%20of%20the%20state’s%20hate%20crime%20law)
+* 12/07/2025 [Gorge News Center](/org/gorge_news_center/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/07/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=an%20expansion%20of%20the%20state’s%20hate%20crime%20law)
+* 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=an%20expansion%20of%20the%20state’s%20hate%20crime%20law)
 * 07/21/2025 [Senate Democrats](/org/senate_democrats/) - [Sen. Kauffman reaffirms her commitment to protecting Native communities  - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/07/21/sen-kauffman-reaffirms-her-commitment-to-protecting-native-communities/#:~:text=strengthened%20our%20hate%20crime%20law)
 * 07/09/2025 [KUOW](/org/kuow/) - [KUOW - New Washington hotline to report hate crimes launches in 3 counties](https://www.kuow.org/stories/new-washington-hotline-to-report-hate-crimes-launches-in-3-counties#:~:text=another%20law,)
 * 07/08/2025 [Washington State Standard](/org/washington_state_standard/) - [New WA hotline to report hate crimes launches in 3 counties • Washington State Standard](https://washingtonstatestandard.com/2025/07/08/new-wa-hotline-to-report-hate-crimes-launches-in-3-counties/#:~:text=another%20law)

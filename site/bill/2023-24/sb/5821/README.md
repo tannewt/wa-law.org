@@ -18,7 +18,7 @@ Testifying:
 * 💵Carrie Tellefson - Teladoc Health
 * Quinn Shean - ATA Action
 * 💵Vicki Lowe - American Indian Health Commission and Washington State Women's Commission
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 
 #### 0 👎 - Con
 

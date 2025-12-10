@@ -105,7 +105,7 @@ Testifying:
 * Mara Zimmerman - Coast Salmon Partnership
 * Tom Kollasch - Pacific Conservation District
 * Faaluaina Pritchard - Communities of Concern Commission
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * 💵Axel Swanson - Washington State Association of County Engineers
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Nicole Grant - IBEW Local 46

@@ -22,7 +22,7 @@
 ### Wed 02/14 01:30 PM - State Government & Tribal Relations (SGOV): SB 5843 Election security breaches
 #### 117 👍 - Pro
 Testifying:
-* Kevin McMahan - Office of the Secretary of State
+* Kevin McMahan - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 37 👎 - Con
 Testifying:
@@ -35,7 +35,7 @@ Testifying:
 #### 79 👍 - Pro
 Testifying:
 * Mary Hall - Washington State Association of County Auditors (WSACA)
-* Kevin McMahan - Office of the Secretary of State
+* Kevin McMahan - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 * Steve Hobbs - Secretary of State
 
 #### 249 👎 - Con

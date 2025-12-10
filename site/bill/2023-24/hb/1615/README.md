@@ -27,12 +27,12 @@ Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Quentin Orem
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 15 👎 - Con
 Testifying:
 * Glenn Jenkins
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
 #### 0 ❓ - Other

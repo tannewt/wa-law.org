@@ -26,4 +26,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Dee Anne Finken - League of Women Voters of Washington
+* Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)

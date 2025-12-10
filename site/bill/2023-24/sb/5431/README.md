@@ -32,5 +32,5 @@ Testifying:
 * Barbara Posthumus - Lake Washington School District
 * 💵Carolyn Logue - WA State Student Transportation Coalition
 * Morgan Thomas - North Mason School District Student School Board Member
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Joel Creswell - Washington Department of Ecology

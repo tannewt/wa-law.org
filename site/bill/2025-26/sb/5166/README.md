@@ -126,7 +126,7 @@ Testifying:
 * 💵Lori Grassi - WA State Chiropractic Association
 * Jane Pak - Snohomish County Legal Services
 * Cathy Murahashi - The Arc of Washington
-* Cynthia Green - Catholic Community Services
+* Cynthia Green - [Catholic Community Services](/org/catholic_community_services/)
 * Jessica Renner - Self Advocates in Leadership (SAIL)
 
 #### 51 👎 - Con
@@ -167,8 +167,8 @@ Testifying:
 * 💵Roxana Gomez - Director of Policy and Systemic Advocacy, Legal Counsel for Youth and Children
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
-* Jessica Johnson
-* Hollianne Monson - Catholic Community Services
+* 💵Jessica Johnson
+* Hollianne Monson - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Rob Huff

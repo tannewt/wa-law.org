@@ -21,7 +21,7 @@ Testifying:
 * 💵Isaac Kastama - Clean & Prosperous WA
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Hannah Steinweg - Rivian
-* Mike Cruz - Lucid Motors
+* Mike Cruz - [Lucid Motors](/org/lucid_motors/)
 * John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * 💵Matthew Hepner - Certified Electrical Workers of Washington (CEWW)
 * 💵Paula Sardinas - WA Build Back Black Alliance (WBBA)

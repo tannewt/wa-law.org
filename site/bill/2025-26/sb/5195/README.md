@@ -124,7 +124,7 @@ Testifying:
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* Rachel Downes - Housing Hope
+* Rachel Downes - [Housing Hope](/org/housing_hope/)
 * Vicki Hammond - HealthPoint (Chief Finance & Administrative Officer)
 * Jim CastroLang
 * Jesse Simpson - Housing Development Consortium
@@ -261,7 +261,7 @@ Testifying:
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* Jessica Johnson
+* 💵Jessica Johnson
 * Kyla Shkerich Blair - [Thrive International](/org/thrive_international/)
 * Rachael Myers - Washington Low Income Housing Alliance
 * John Hindman - Community Minded Enterprises

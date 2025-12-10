@@ -19,7 +19,7 @@
 ### Tue 03/18 04:00 PM - Ways & Means (WM): SSB 5400 Local news journalism
 #### 199 👍 - Pro
 Testifying:
-* Dee Anne Finken - League of Women Voters of Washington
+* Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Keith Shipman - Washington State Association of Broadcasters
 * Ellen Hiatt - Washington Newspaper Publishers Association
 * Sharon Maeda - (retired)
@@ -52,7 +52,7 @@ Testifying:
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Frank Blethen - [The Seattle Times](/org/the_seattle_times/)
 * Carl Zapora - Board Chair, My Neighborhood News Network
-* Dee Anne Finken - League of Women Voters of Washington
+* Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Ben Campbell - The Columbian
 * Keith Shipman - Washington State Association of Broadcasters
 * Emmett O'Connell

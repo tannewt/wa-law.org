@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/07/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=a%20new%20law)
+* 12/07/2025 [Gorge News Center](/org/gorge_news_center/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/07/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=a%20new%20law)
+* 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=a%20new%20law)
 * 12/02/2025 [The Washington Observer](/org/the_washington_observer/) - [Committee Days in Olympia, and big checks will fly](https://washingtonobserver.substack.com/p/committee-days-in-olympia-and-big#:~:text=Senate%20Bill%205814)
 * 11/30/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [WA lawmakers will gather in Olympia to gear up for 2026 session | Cascadia Daily News](https://www.cascadiadaily.com/2025/nov/30/wa-lawmakers-will-gather-in-olympia-to-gear-up-for-2026-session/#:~:text=Senate%20Bill%205814)
 * 11/30/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [WA lawmakers will gather in Olympia to gear up for 2026 session](https://www.spokesman.com/stories/2025/nov/30/wa-lawmakers-will-gather-in-olympia-to-gear-up-for/#:~:text=Senate%20Bill%205814)

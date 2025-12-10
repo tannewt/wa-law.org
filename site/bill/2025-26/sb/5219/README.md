@@ -22,7 +22,7 @@
 Testifying:
 * Laurie Dawson
 * Tamara Light - Information For Change Washington
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Stanley Harewood - All of Us or None
 
 #### 786 👎 - Con

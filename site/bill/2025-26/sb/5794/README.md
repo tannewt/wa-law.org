@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/07/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=Senate%20Bill%205794)
+* 12/07/2025 [Gorge News Center](/org/gorge_news_center/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/07/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=Senate%20Bill%205794)
+* 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=Senate%20Bill%205794)
 * 07/02/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature addresses budget shortfall with balanced approach - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/02/legislature-addresses-budget-shortfall-with-balanced-approach/#:~:text=SB%205794)
 * 05/30/2025 [Senate Democrats](/org/senate_democrats/) - [Looking Back at our 2025 Session Accomplishments - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/05/29/looking-back-at-our-2025-session-accomplishments/#:~:text=SB%205794)
 * 05/21/2025 [The Center Square](/org/the_center_square/) - [Critics of newly signed $78 billion WA operating budget predict dire fallout | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_50a16e22-12ef-4450-acd4-5a81f0e01a93.html#:~:text=Senate%20Bill%205794)
@@ -67,7 +70,7 @@ Testifying:
 * Mellani McAleenan - AAA Washington
 * Tim Eyman - Initiative activist
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
-* 💵Leah Lindahl - Healthcare Distribution Alliance
+* 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * Patrick Gilroy - Washington Self Storage Association
 * 💵Jasmine Vasavada - [Avista Corp](/org/avista_corp/)
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
@@ -120,7 +123,7 @@ Testifying:
 * Richard de Sam Lazaro - [Expedia Group](/org/expedia_group/)
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
-* 💵Leah Lindahl - Healthcare Distribution Alliance
+* 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Leanne Webber - Russell Investments
 * James Bardecker

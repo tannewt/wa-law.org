@@ -36,4 +36,4 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association

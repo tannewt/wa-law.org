@@ -17,7 +17,7 @@ Testifying:
 * Julia Michalak - WDFW
 * John Rosapepe - Endangered Species Coalition
 * PHD, Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
-* David Ellenberger - Wildlands Network
+* David Ellenberger - [Wildlands Network](/org/wildlands_network/)
 * 💵Kathleen Callaghy - [Defenders of Wildlife](/org/defenders_of_wildlife/)
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * Robert Long - Woodland Park Zoo

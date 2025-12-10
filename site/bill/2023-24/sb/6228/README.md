@@ -40,7 +40,7 @@ Testifying:
 #### 4 👎 - Con
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 * Tawnya Christiansen - Community Health Plan of Washington
 
 #### 2 ❓ - Other

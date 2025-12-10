@@ -61,4 +61,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Robert Duff - Washington State Department of Commerce
+* 💵Robert Duff - Washington State Department of Commerce

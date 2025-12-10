@@ -18,7 +18,7 @@ Testifying:
 * Chris Sybrandy - Washington State Dairy Federation/Farmer
 * Dan Evans - Promus Energy
 * Jason Sheehan - J & K Dairy LLC
-* Doug Ray - Carbon Washington
+* Doug Ray - [Carbon Washington](/org/carbon_washington/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Austin Allred
 

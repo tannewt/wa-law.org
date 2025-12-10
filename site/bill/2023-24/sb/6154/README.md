@@ -11,7 +11,7 @@
 ### Thu 01/25 08:00 AM - Law & Justice (LAW): SB 6154 Corporation process service
 #### 2 👍 - Pro
 Testifying:
-* Scott Douglas - Office of the Secretary of State
+* Scott Douglas - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 0 👎 - Con
 

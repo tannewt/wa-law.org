@@ -14,7 +14,7 @@
 ### Wed 01/18 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1215 Riparian areas
 #### 103 👍 - Pro
 Testifying:
-* Sherri Dysart - League of Women Voters of Washington
+* Sherri Dysart - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Margen Carlson - WDFW
 * 💵Brynn Brady - WA Association of Counties
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)

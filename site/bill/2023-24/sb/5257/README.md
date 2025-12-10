@@ -52,7 +52,7 @@ Testifying:
 * Shelly Burt - Parent
 * Natalie Maxfield - Elementary student
 * Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
-* Julie McCleery - King County Play Equity Coalition
+* Julie McCleery - [King County Play Equity Coalition](/org/king_county_play_equity_coalition/)
 * Linnea Westerlind - Parent/PTA Advocate
 * Maiya Burton Cahn - Elementary School Student
 * Monique Burton - Medical Director

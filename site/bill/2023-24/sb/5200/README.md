@@ -236,7 +236,7 @@ Testifying:
 * 💵Erica Hallock
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
-* Maureen Sorenson - Coordinated Care
+* Maureen Sorenson - [Coordinated Care](/org/coordinated_care/)
 * Susan Foster-Dow - Catholic Charities Eastern Washington
 * Tasha Irvine - Principle Allies
 * 💵Ian Goodhew - UW Medicine

@@ -18,7 +18,7 @@ Testifying:
 #### 98 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Derek Bryan - Washington Counties Risk Pool
+* Derek Bryan - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Mark Sektnan - American Property Causalty Association
 * Bob Christie - Washington Defense Trial Lawyers Association
@@ -51,7 +51,7 @@ Testifying:
 * KARL JOHANSON - NPIP
 * Gregory Narver - General Counsel, Seattle Public Schools
 * 💵Laura Pierce - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
-* Derek Bryan - Washington Counties Risk Pool
+* Derek Bryan - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 * 💵Mike Hoover - Washington State School Directors’ Association and Washington State Association of Counties
 * Michael Heinisch - xNon Profit Insurance Program
 * Madelyn Carlson - Non-Profit Insurance Program
@@ -63,7 +63,7 @@ Testifying:
 * Bob Christie - Washington Defense Trial Lawyers Association
 * 💵Mark Sektnan - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 * Kris Tefft - Washington Liability Reform Coalition
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Michael Heinisch - Non Profit Insurance Program Board of Directors
 * Charlie Brown - Pierce County Superintendents, Federal Way SD, School Coalition
 
@@ -83,7 +83,7 @@ Testifying:
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 * 💵Alex Hur - Schools Insurance Association of Washington/Non Profit Insurance Pool
-* Derek Bryan - Washington Counties Risk Pool
+* Derek Bryan - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 * 💵Mike Hoover - Washington State Association of Counties and the Washington State School Directors’ Association
 * Gregory Narver - General Counsel, Seattle Public Schools
 * Ron Mabry - Washington State School Directors' Association / Kennewick SD
@@ -93,7 +93,7 @@ Testifying:
 * 💵Mark Sektnan - APCIA
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)
 * Michael Heinisch - Non Profit Insurance Program Board of Directors
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Sophina Nunez
 * Charlie Brown - The Schools Alliance
 * Karl JOHANSON - NPIP

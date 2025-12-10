@@ -10,7 +10,7 @@
 ### Tue 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 1005 Prearrang. funeral services
 #### 1 👍 - Pro
 Testifying:
-* Scott Sheehan - Washington Cemetery, Cremation & Funeral Association
+* Scott Sheehan - [Washington Cemetery, Cremation & Funeral Association](/org/washington_cemetery,_cremation_&_funeral_association/)
 
 #### 0 👎 - Con
 

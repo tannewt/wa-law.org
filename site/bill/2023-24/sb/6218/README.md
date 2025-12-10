@@ -22,7 +22,7 @@ Testifying:
 * Owen Urech - National Association of Dental Plans
 * 💵Melissa Johnson - Willamette Dental Group
 * 💵Paula Sardinas - FMS Global Strategies /WBBA
-* Jeff Album - Dentegra Insurance Company
+* Jeff Album - [Dentegra Insurance Company](/org/dentegra_insurance_company/)
 * Carol Nelson - Delta Dental of WA
 * Eric Lo - Delta Dental of WA
 * 💵Sean Pickard - Delta Dental of WA

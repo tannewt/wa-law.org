@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/08/2025 [The Center Square](/org/the_center_square/) - [Tacoma to consider public safety sales tax to avoid 911 cuts, address budget gap | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_542f6169-f93e-42c1-a81f-a255a59c3284.html#:~:text=House%20Bill%202015)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB 2015)
 * 10/14/2025 [The Center Square](/org/the_center_square/) - [Seattle City Council OKs 0.1% public safety sales tax expected to generate $39M | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c96c8269-26b7-4537-b9f4-0ff23026b6a7.html#:~:text=House%20Bill%202015)
 * 10/10/2025 [The Center Square](/org/the_center_square/) - [Despite concerns, Seattle City Council moving forward on public safety sales tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f26f0329-cde2-4ab2-ae3a-7fe9c6b98869.html#:~:text=House%20Bill%202015)

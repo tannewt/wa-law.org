@@ -98,7 +98,7 @@ Testifying:
 * Geoff Potter - Office of Governor Jay Inslee
 * Adam Browning - Forum Mobility
 * 💵Paula Sardinas - WBBA
-* Dan West - Rivian Automotive, LLC
+* 💵Dan West - Rivian Automotive, LLC
 * Nikki Malcom - Pacific Northwest Aerospace Alliance
 * 💵Rowland Thompson - Allied Daily Newspapers and Washington Newspaper Publishers Association
 * Stacia Rasmussen - Greater Spokane Inc. and Evergreen Bioscience Innovation Cluster
@@ -184,7 +184,7 @@ Testifying:
 #### 37 👍 - Pro
 Testifying:
 * Sam Martin - Washington Coalition on Homeless Youth Advocacy
-* Julie Patino - A Way Home Washington
+* Julie Patino - [A Way Home Washington](/org/a_way_home_washington/)
 * Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Carlos Caguiat - The Washington Continuing Care Residents' Association
 * Demas Nesterenko - SEIU775
@@ -202,7 +202,7 @@ Testifying:
 * Jennifer Delia-Bereskin - Washington Low Income Housing Alliance & Resident Action Project
 * Susan Foster-Dow - Catholic Charities Eastern Washington
 * Linda Long
-* 💵Jake Garcia - Northwest Harvest
+* 💵Jake Garcia - [Northwest Harvest](/org/northwest_harvest/)
 * 💵Brad Banks - Home Care Coalition
 * 💵Paula Sardinas - WBBA (WA BUILD BACK BLACK ALLIANCE)
 * 💵Paul Dillon - Planned Parenthood of Greater Washington and North Idaho
@@ -250,7 +250,7 @@ Testifying:
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
 * 💵Shawn Latham - Allies in Advocacy
 * 💵Courtney Williams - [Community Employment Alliance](/org/community_employment_alliance/)
-* 💵Christina Wong - Northwest Harvest
+* 💵Christina Wong - [Northwest Harvest](/org/northwest_harvest/)
 * 💵Sean Graham - Washington State Medical Association
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Elsia Anderson - First Step Family Support
@@ -563,7 +563,7 @@ Testifying:
 * Lisa Wolters - Association of WA Housing Authorities & Seattle Housing Authority
 * 💵Brad Banks - Home Care Coalition
 * 💵Samuel Martin - WACHYA
-* 💵Julie Patiño - A Way Home Washington
+* 💵Julie Patiño - [A Way Home Washington](/org/a_way_home_washington/)
 * Cherish Cronmiller
 * Elizabeth Jennings - Community Action of Skagit County
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
@@ -619,7 +619,7 @@ Testifying:
 #### 5 👍 - Pro
 Testifying:
 * 💵Lynda Hall - [Treehouse](/org/treehouse/)
-* 💵Jake Garcia - Northwest Harvest
+* 💵Jake Garcia - [Northwest Harvest](/org/northwest_harvest/)
 * Preston Dwoskin
 
 #### 0 👎 - Con
@@ -627,7 +627,7 @@ Testifying:
 #### 16 ❓ - Other
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Jon Holmen - Lake Washington School District
 * 💵Melissa Gombosky - Spokane,Evergreen, Vancouver, Central Valley, RIchland and ESD 105 - school districts
 * Michelle Price - North Central Educational Service District 171

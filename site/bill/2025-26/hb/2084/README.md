@@ -37,7 +37,7 @@ Testifying:
 * Kim Holladay - Mini storage owner
 * Laurie Layne
 * Jim Robinson
-* 💵Leah Lindahl - Healthcare Distribution Alliance
+* 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * Patrick Heller - National Coin & Bullion Association
 * Ralph Kosche - None
 * Dan Duncan - National Coin & Bullion Association

@@ -22,7 +22,7 @@ Testifying:
 #### 8 👍 - Pro
 Testifying:
 * Rick Hughes - Ray's Pharmacy, Orcas Island
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 1 👎 - Con
 Testifying:

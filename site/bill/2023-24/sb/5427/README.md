@@ -76,7 +76,7 @@ Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Miri Cypers - ADL
 * Jason Cummings - Snohomish County Prosecuting Attorney
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Dean Lynch - Human Rights Spokane
 * 💵Gabriel Neuman - GSBA
 * Gail Coskey
@@ -157,7 +157,7 @@ Testifying:
 * Anna Schlecht
 * 💵Stephen Paolini - Anti-Defamation League
 * 💵Tremayne Edwards
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Bill Mowat - Jewish Community Relations Council
 * 💵Kendall Kosai - Organization of Chinese Americans

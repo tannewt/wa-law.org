@@ -42,7 +42,7 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Jeff Snell - Vancouver School Districts
+* 💵Jeff Snell - Vancouver School Districts
 * Shannon Hitch - Lake Washington School District
 * 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
 

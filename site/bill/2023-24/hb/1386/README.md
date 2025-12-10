@@ -19,7 +19,7 @@ Testifying:
 * Jessi Wasson - Inspire Washington
 * Jocelyn Cain
 * Putter Bert - KidsQuest Children's Museum
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵David Beard - School's Out Washington
 * Emily Sharwark-Todd - Youth with Boys & Girls Clubs of Thurston County
 * Katya Miltimore - Boys & Girls Clubs of Washington State

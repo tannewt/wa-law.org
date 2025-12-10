@@ -33,7 +33,7 @@ Testifying:
 * Charlie Brown - South Sound Superintendents
 * Maddy Thompson - Office of the Governor
 * Melinda Swedberg
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Jenny Hoffman
 

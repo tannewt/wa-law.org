@@ -65,5 +65,5 @@ Testifying:
 * Drew Bouton - Washington State Department of Financial Institutions
 * Ben LaRocco - Earnin
 * 💵Molly Jones - [Payactiv](/org/payactiv/)
-* Ryan Naples - DailyPay
+* 💵Ryan Naples - DailyPay
 * Angelena Bradfield

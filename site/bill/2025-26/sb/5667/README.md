@@ -19,7 +19,7 @@ Testifying:
 * Susan McCabe
 * Alan Borning - Climate Rail Alliance
 * Alan Borning - Climate Rail Alliance and Rail Can't Wait Campaign
-* Brandon Bowersox-Johnson - 350 Seattle
+* Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Thomas White - Climate Rail Alliance and Rail Can't Wait Campaign
 * Meghan Anderson - Kittitas Climate Action
 * Mary Paterson

@@ -23,7 +23,7 @@
 Testifying:
 * Lizandro Salas
 * Maria Ruizz
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
 * Rosalinda Guillen - Community to Community Development Projects
 * Edgar Franks - Familias Unidas por la Justicia

@@ -103,4 +103,4 @@ Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Ingrid Ulrey - Washington Health Benefit Exchange
 * 💵Shirley Prasad - Washington Health Benefit Exchange
-* Shawn Merchant - Office of the Secretary of State
+* Shawn Merchant - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)

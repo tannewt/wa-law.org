@@ -13,7 +13,7 @@
 ### Thu 03/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1792 Water rights procedures
 #### 7 👍 - Pro
 Testifying:
-* 💵Bill Clarke - Whatcom Ag Water Board
+* 💵Bill Clarke - [Whatcom Ag Water Board](/org/whatcom_ag_water_board/)
 
 #### 1 👎 - Con
 
@@ -25,7 +25,7 @@ Testifying:
 #### 19 👍 - Pro
 Testifying:
 * Jon Sitkin - General Counsel for Public Utility District No. 1 of Whatcom County
-* 💵Bill Clarke - Whatcom Ag Water Board
+* 💵Bill Clarke - [Whatcom Ag Water Board](/org/whatcom_ag_water_board/)
 
 #### 0 👎 - Con
 

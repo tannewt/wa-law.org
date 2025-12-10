@@ -97,7 +97,7 @@ Testifying:
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2049 Solid waste management
 #### 789 👍 - Pro
 Testifying:
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
 * Kate Bailey - The Association of Plastic Recyclers (APR)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

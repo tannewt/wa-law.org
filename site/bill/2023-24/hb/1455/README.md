@@ -59,8 +59,8 @@ Testifying:
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1455 Child marriage
 #### 73 👍 - Pro
 Testifying:
-* Nina Martinez - Latino Civic Alliance
-* Sandra Rodarte - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
+* Sandra Rodarte - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Katherine Cleland - National Coalition to End Child Marriage
 * Megan Allen - King County Sexual Assault Resource Center
 * Sara Tasneem - n/a

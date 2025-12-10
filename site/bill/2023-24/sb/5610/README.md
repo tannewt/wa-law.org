@@ -13,7 +13,7 @@
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * Matthew Phillips - Car Pros
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Aaron Fickes - Attorney General's Office
 * Rory Paine-Donovan - Attorney General's Office
 * 💵Albert Sardinas - WBBA

@@ -49,7 +49,7 @@ Testifying:
 #### 572 👍 - Pro
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
-* Irvin Enriquez - Latino Civic Alliance
+* Irvin Enriquez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Isela Bonilla - Student
 * Kristina Walker - Councilmember, City of Tacoma
 * Perla Vasquez - La Resistencia
@@ -78,7 +78,7 @@ Testifying:
 * 💵Paul Benz - Washington Partners for Social Change
 * Kristina Walker - Councilmember, City of Tacoma
 * 💵Jean Hill - Washington State Catholic Conference
-* Irvin Enriquez - Latino Civic Alliance
+* Irvin Enriquez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * isela bonilla - Student Lobbyist
 * Ashley Ramirez - Student, LD 27th
 * 💵Michelle Carrillo - Student LD 13th
@@ -108,7 +108,7 @@ Testifying:
 ### Tue 02/04 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1232 Private detention facilities
 #### 1130 👍 - Pro
 Testifying:
-* Leslie Cushman - Latino Civic Alliance
+* Leslie Cushman - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Liliana Chumpitasi - La Resistencia
 * Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)

@@ -95,8 +95,8 @@ Testifying:
 * Maribel Vilchez - WEA Member and North Thurston EA Member
 * Kristin Percy Calaff - OSPI
 * Bernard Koontz - Exec Dir, Teaching, Learning, Leadership, Highline Public Schools
-* Angel Jarquin - Latino Civic Alliance
-* Sol Salgado - Latino Civic Alliance
+* Angel Jarquin - [Latino Civic Alliance](/org/latino_civic_alliance/)
+* Sol Salgado - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Elida Alvarez - Kennewick School District
 * Bethany Martinez - Wahluke School District
 * Angelie Duimovic - Director of Multilingual Education, Kent School District

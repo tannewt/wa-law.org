@@ -25,7 +25,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Bruce Gardiner - Pacific Northwest Theatre Owners Association
+* Bruce Gardiner - [Pacific Northwest Theatre Owners Association](/org/pacific_northwest_theatre_owners_association/)
 
 ### Tue 02/04 08:00 AM - Law & Justice (LAW): SB 5486 Motion picture captioning
 #### 46 👍 - Pro
@@ -41,4 +41,4 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* 💵Vicki Christophersen - Pacific Northwest Theatre Owners Association
+* 💵Vicki Christophersen - [Pacific Northwest Theatre Owners Association](/org/pacific_northwest_theatre_owners_association/)

@@ -13,7 +13,7 @@
 ### Fri 02/16 08:00 AM - Human Services, Youth, & Early Learning (HSEL): SB 6079 Juv. detention/health recs.
 #### 7 👍 - Pro
 Testifying:
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 
 #### 2 👎 - Con
 
@@ -22,7 +22,7 @@ Testifying:
 ### Mon 01/22 10:30 AM - Human Services (HS): SB 6079 Juv. detention/health recs.
 #### 7 👍 - Pro
 Testifying:
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 
 #### 0 👎 - Con
 

@@ -17,4 +17,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Laura Butler - Washington State Department of Agriculture
+* 💵Laura Butler - Washington State Department of Agriculture

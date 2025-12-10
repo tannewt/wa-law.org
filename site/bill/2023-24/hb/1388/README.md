@@ -41,7 +41,7 @@ Testifying:
 * Elizabeth Rogers
 * Stacey Valenzuela
 * Kimberly Ellefson
-* 💵Jake Garcia - Northwest Harvest
+* 💵Jake Garcia - [Northwest Harvest](/org/northwest_harvest/)
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * Sharon Doyle
 * 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias

@@ -27,16 +27,16 @@ Testifying:
 * Andrew Villeneuve - Northwest Progressive Institute / Executive Director
 * Andrew Jungkuntz
 * Brian King - Retired
-* Brandon Bowersox-Johnson - 350 Seattle
+* Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Arvia Morris - Environment and Climate Caucus of the Washington State Democrats
-* Brandon Bowersox-Johnson - 350 Seattle
+* Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Meghan Anderson - Kittitas Climate Action
 * Arvia Morris - Environment and Cliamate Caucus of the Washington State Democrats
 * Patrick Christian
 * Zack Barry
 * Sterling Cassel
 * Arvia Morris - Environment and Climate Caucus of the Washington State Democrats
-* Brandon Bowersox-Johnson - 350 Seattle
+* Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Thomas White - Climate Rail Alliance
 * 💵Mike Elliott - Rail Labor (retired)
 * Larry Ganders - President, Olympia-Lacey Amtrak Depot Committee
@@ -67,7 +67,7 @@ Testifying:
 * Brent McFarlane - Solutionary Rail
 * Mary Paterson - Solutionary Rail
 * Sasha Elenko - Solutionary Rail
-* Brandon Bowersox-Johnson - 350 Seattle
+* Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Breck Lebegue MD MPH - WA Physicians for Social Responsibility
 * Tim Gould - Sierra Club of Washington
 * Meghan Anderson - Kittitas Climate Action

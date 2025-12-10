@@ -52,7 +52,7 @@
 Testifying:
 * Arlista Holman - Washington State School Directors' Association (WSSDA)
 * Sara Seelmeyer - United Way of King County
-* Thomas Reynolds - Northwest Harvest
+* Thomas Reynolds - [Northwest Harvest](/org/northwest_harvest/)
 * Nicole Curtis
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
@@ -126,7 +126,7 @@ Testifying:
 Testifying:
 * Aracely Calvillo - [Save the Children Action Network](/org/save_the_children_action_network/)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
-* Andrea Davis - Coordinated Care
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
 * Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Madhumitha Gandhi - Washington State School Directors' Association (WSSDA)
@@ -138,7 +138,7 @@ Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Karen Brown - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
-* Andrea Davis - Coordinated Care
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
 * June Ivers - SCPTSA
 * Alicia Busch - Feed a Tahomie Fund, a Maple Valley Food Bank Program
 * Patrick Durgan - Bellingham Public Schools

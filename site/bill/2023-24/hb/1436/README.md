@@ -68,7 +68,7 @@ Testifying:
 
 #### 18 ❓ - Other
 Testifying:
-* Jeff Snell - Vancouver School Districts
+* 💵Jeff Snell - Vancouver School Districts
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators

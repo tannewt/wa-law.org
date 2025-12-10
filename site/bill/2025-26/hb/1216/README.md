@@ -84,7 +84,7 @@ Testifying:
 * Tyson Johnston - Council, Quinault Indian Nation
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* Rachel Downes - Housing Hope
+* Rachel Downes - [Housing Hope](/org/housing_hope/)
 * Sherry Williams - HealthPoint (VP of Community Relations)
 * Emanuel Escalante - West Sound Tech
 * Hunter Hoerer - West Sound Tech

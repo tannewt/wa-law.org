@@ -21,7 +21,7 @@
 ### Tue 02/20 01:30 PM - Environment, Energy & Technology (ENET): ESHB 2207 Solid waste dumping
 #### 37 👍 - Pro
 Testifying:
-* 💵Jason Callahan - Green Diamond Resource Company
+* 💵Jason Callahan - [Green Diamond Resource Company](/org/green_diamond_resource_company/)
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 #### 1 👎 - Con
@@ -33,7 +33,7 @@ Testifying:
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2207 Solid waste dumping
 #### 5 👍 - Pro
 Testifying:
-* 💵Jason Callahan - Green Diamond Resource Company
+* 💵Jason Callahan - [Green Diamond Resource Company](/org/green_diamond_resource_company/)
 * Tom Davis
 
 #### 0 👎 - Con
@@ -44,7 +44,7 @@ Testifying:
 #### 11 👍 - Pro
 Testifying:
 * 💵Holli Johnson - [Rayonier](/org/rayonier/)
-* 💵Jason Callahan - Green Diamond Resource Company
+* 💵Jason Callahan - [Green Diamond Resource Company](/org/green_diamond_resource_company/)
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 #### 0 👎 - Con

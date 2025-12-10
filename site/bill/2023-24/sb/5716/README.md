@@ -22,7 +22,7 @@ Testifying:
 ### Tue 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5716 DOH validation surveys
 #### 9 👍 - Pro
 Testifying:
-* Peter Nazzal - Catholic Community Services
+* Peter Nazzal - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Brad Banks - Home Care Coalition
 
 #### 0 👎 - Con

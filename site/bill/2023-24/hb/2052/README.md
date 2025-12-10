@@ -16,7 +16,7 @@
 #### 20 👍 - Pro
 Testifying:
 * Anna Bonjukian
-* Alexandra Johnson
+* 💵Alexandra Johnson
 
 #### 1 👎 - Con
 

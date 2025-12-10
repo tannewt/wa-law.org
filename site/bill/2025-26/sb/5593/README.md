@@ -30,7 +30,7 @@ Testifying:
 Testifying:
 * 💵Oliver Miska
 * Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Nora Palattao Burnes - ESD 105 Coalition
 * David Knight
 * 💵Melissa Gombosky - Vancouver and Evergreen Public School Districts

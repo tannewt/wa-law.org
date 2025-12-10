@@ -33,7 +33,7 @@ Testifying:
 * 💵Pamela Clough - [Environment Washington](/org/environment_washington/)
 * ximena magallon - alianza
 * 💵Giovanni Severino - Progreso: Latino Progress
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 
 #### 3 👎 - Con
@@ -66,7 +66,7 @@ Testifying:
 * Annabella (Bella) Hillyer - Oceana
 * 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)
 * Janice DeLacy
 * Dean Jackson

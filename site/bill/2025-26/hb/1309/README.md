@@ -33,7 +33,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Laura Butler
+* 💵Laura Butler
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): HB 1309 Burrowing shrimp
 #### 600 👍 - Pro
@@ -63,4 +63,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Laura Butler
+* 💵Laura Butler

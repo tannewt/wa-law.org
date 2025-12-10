@@ -48,7 +48,7 @@ Testifying:
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
-* Alan Burnett - Pacific Northwest Business Aviation Association
+* Alan Burnett - [Pacific Northwest Business Aviation Association](/org/pacific_northwest_business_aviation_association/)
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Greg Hanon - Western States Petroleum Assoc.
@@ -58,7 +58,7 @@ Testifying:
 * Brady Kelce
 * Phil Derner - National Business Aviation Association
 * Karen White - Retired
-* Alan Burnett - Pacific Northwest Business Aviation Association
+* Alan Burnett - [Pacific Northwest Business Aviation Association](/org/pacific_northwest_business_aviation_association/)
 * Stefanie Erickson - CenterPoint Aviation Law
 * Stephen Ratzlaff - Washington Seaplane Pilots Association and Friends of Boeing Field
 * Jeff Gombosky - Enterprise Mobility

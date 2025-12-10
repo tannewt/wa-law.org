@@ -69,7 +69,7 @@ Testifying:
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * 💵Jane Douthit - [Regence Blue Shield](/org/regence_blue_shield/)
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 * 💵Samuel Wilcoxson - Premera
 
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5986 Protecting consumers from out-of-network health care services charges. (Remote Testimony Available). (If measure is referred to committee.)

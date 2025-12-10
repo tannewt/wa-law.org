@@ -56,7 +56,7 @@ Testifying:
 * Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
 * 💵Megan Lane - Ball
 * 💵Scott Hazlegrove - [Washington Beer & Wine Distributors Association](/org/washington_beer_&_wine_distributors_association/)
-* Curt Wells - The Aluminum Association
+* Curt Wells - [The Aluminum Association](/org/the_aluminum_association/)
 * Liz Donohue - BlueTriton Brands
 * Scott DeFife - Glass Packaging Institute
 * Fiona Bell - Novelis

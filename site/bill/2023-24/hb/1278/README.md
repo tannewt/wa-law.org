@@ -26,7 +26,7 @@ Testifying:
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * 💵Shrounda Selivanoff - Children's Home Society of WA
 * Ray Deck III - Skookum Kids
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 
 #### 0 👎 - Con
 

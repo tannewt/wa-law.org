@@ -14,7 +14,7 @@ Testifying:
 
 #### 366 👎 - Con
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Sharon Damoff
 
 #### 2 ❓ - Other

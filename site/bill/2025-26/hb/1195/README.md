@@ -21,7 +21,7 @@ Testifying:
 * Sarah Dickmeyer - Plymouth Housing
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Joe McDermott - State Relations Director | King County
-* 💵Donna Christensen - Catholic Community Services
+* 💵Donna Christensen - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 687 👎 - Con
 Testifying:
@@ -39,7 +39,7 @@ Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
-* Dan Wise - Catholic Community Services
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * Chloe Gale - REACH
 * Joe McDermott - State Relations Director | King County
 * Charles Schaefer

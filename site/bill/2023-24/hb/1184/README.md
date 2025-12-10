@@ -16,7 +16,7 @@
 Testifying:
 * Matthew Phillips - Car Pros
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Aaron Fickes - WA State Attorney General's Office
 * Joyce Bruce - WA State Attorney General's Office
 * Waldo Waldron-Ramsey - NAACP Alaska Oregon Washington State-Area Conference

@@ -12,7 +12,7 @@
 Testifying:
 * Melissa Upson
 * Wes Martin
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * IxChel Wolfe
 * Zoe Phillips
 

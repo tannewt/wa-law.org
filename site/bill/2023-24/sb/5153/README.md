@@ -10,7 +10,7 @@
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): SB 5153 Future voters/records
 #### 21 👍 - Pro
 Testifying:
-* Connor Linse - Office of the Secretary of State
+* Connor Linse - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 6 👎 - Con
 

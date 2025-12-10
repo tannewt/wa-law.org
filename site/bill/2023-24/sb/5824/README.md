@@ -26,7 +26,7 @@ Testifying:
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Elise Severe - Neighbors United for Progress
 * Tanya Patton
-* David Elliott - Office of the Secretary of State
+* David Elliott - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 1 👎 - Con
 

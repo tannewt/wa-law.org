@@ -55,7 +55,7 @@ Testifying:
 * Bobbi Cussins
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 * Jimmy Matta
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Tom Kwieciak - Building Industry Association of WA
 
 #### 0 👎 - Con

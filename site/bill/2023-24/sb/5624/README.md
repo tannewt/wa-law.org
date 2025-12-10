@@ -23,7 +23,7 @@
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5624 Substance use recovery serv.
 #### 892 👍 - Pro
 Testifying:
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
 * Caleb Banta-Green - University of Washington, Addictions, Drug & Alcohol Institute
 * Don Julian

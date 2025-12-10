@@ -90,7 +90,7 @@ Testifying:
 * Laurie Layne
 * Charlie Brown - South Sound Superintendents and Federal Way Schools
 * 💵Melissa Gombosky - Evergreen Public Schools
-* Jeff Snell - Vancouver Public Schools - Vancouver, WA
+* 💵Jeff Snell - Vancouver Public Schools - Vancouver, WA
 * David Connelly
 * Jonathan Wright
 * 💵Devin Gombosky - ESD 105 Schools Coalition

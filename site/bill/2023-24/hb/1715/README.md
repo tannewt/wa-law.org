@@ -56,7 +56,7 @@ Testifying:
 * Jazmin Peerson
 * Monica Alexander - Washington State Criminal Justice Training Commission
 * Juliana Repp - [Unemployment Law Project](/org/unemployment_law_project/)
-* Sandra Rodarte - Latino Civic Alliance
+* Sandra Rodarte - [Latino Civic Alliance](/org/latino_civic_alliance/)
 
 #### 22 👎 - Con
 
@@ -69,7 +69,7 @@ Testifying:
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1715 Domestic violence
 #### 15 👍 - Pro
 Testifying:
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Diane Rosenfeld - Harvard Law School, Gender Violence Program
 * Annie Murphey - Spokane Regional Domestic Violence Coalition
 * Jim Bamberger - Office of Civil Legal Aid

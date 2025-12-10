@@ -147,7 +147,7 @@ Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * john Worthington - AAMC
 * Adam Palayew
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Jude Ahmed - Urban League of Metropolitan Seattle
 * Don Julian Saucier
 * Carmen Pacheco-Jones - Health & Justice Recovery Alliance
@@ -210,7 +210,7 @@ Testifying:
 #### 20 ❓ - Other
 Testifying:
 * 💵Bob Cooper - WA Association of Drug Courts
-* 💵Lisa Daugaard - Public Defender Association
+* 💵Lisa Daugaard - [Public Defender Association](/org/public_defender_association/)
 * 💵Malika Lamont
 * Chad Enright - Kitsap County Prosecutor
 * Larry Jefferson - Washington State Office of Public Defense
@@ -253,7 +253,7 @@ Testifying:
 
 #### 13 ❓ - Other
 Testifying:
-* 💵Lisa Daugaard - Public Defender Association
+* 💵Lisa Daugaard - [Public Defender Association](/org/public_defender_association/)
 * Chad Enright - Kitsap County Prosecutors
 * 💵Bob Cooper - WA Association of Drug Courts
 * Matt McCourt - Washington State Narcotics Investigators Association

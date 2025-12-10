@@ -28,7 +28,7 @@ Testifying:
 Testifying:
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
-* BILL CLARKE - Whatcom Ag Water Board
+* BILL CLARKE - [Whatcom Ag Water Board](/org/whatcom_ag_water_board/)
 
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 5828 Water rights commissioners
 #### 7 👍 - Pro
@@ -50,5 +50,5 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* 💵Bill Clarke - Whatcom Ag Water Board
+* 💵Bill Clarke - [Whatcom Ag Water Board](/org/whatcom_ag_water_board/)
 * Lisa Wilson - Lummi Nation

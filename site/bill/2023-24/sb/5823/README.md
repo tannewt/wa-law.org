@@ -19,7 +19,7 @@ Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound School Districts
 * Kimberly Yee - WSSSDA and Fife School Board
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Michelle Nims - Washington State PTA
 * Barbara Posthumus - Puget Sound School Coalition
 * Brady Vallala - [Washington Education Association](/org/washington_education_association/)

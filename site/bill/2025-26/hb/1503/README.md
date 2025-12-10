@@ -61,7 +61,7 @@ Testifying:
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1503 Digital equity
 #### 59 👍 - Pro
 Testifying:
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * William Booth - Creating Pathways
 * Sai Samineni
 * David Keyes - digital equity adviser, former member State Digital Equity Forum and founder of City of Seattle Digi

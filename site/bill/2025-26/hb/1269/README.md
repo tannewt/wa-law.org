@@ -16,7 +16,7 @@ Testifying:
 * Janelle Morehart - Washington State Pawnbrokers Association / Ponders Pawnbrokers
 * 💵Tamara Rancore - WA St Pawnbrokers Association
 * Carli Karlson - Wa St. Pawnbrokers Association Secretary
-* 💵Michael Transue - Cash America
+* 💵Michael Transue - [Cash America](/org/cash_america/)
 
 #### 2 👎 - Con
 

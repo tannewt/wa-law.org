@@ -32,7 +32,7 @@ Testifying:
 * Nancy Cruz - Community For Our Colleges
 * 💵Karen Strickland - AFT Washington
 * Ben Gonzalez - Clover Park Vocational Federation Local 3913
-* Jacqui Cain - Pierce College Federation of Teachers Local 4821
+* 💵Jacqui Cain - Pierce College Federation of Teachers Local 4821
 * JT Menard - AFT Yakima Local 1485
 
 #### 1 👎 - Con

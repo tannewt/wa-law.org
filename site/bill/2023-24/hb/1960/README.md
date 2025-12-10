@@ -19,7 +19,7 @@ Testifying:
 * Nancy Katims - Edmonds School District
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Malorie Larson - Washington State PTA
 
 #### 11 👎 - Con

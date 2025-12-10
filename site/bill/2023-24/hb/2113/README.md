@@ -46,7 +46,7 @@ Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Dan Wise - Catholic Community Services
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Melanie Smith - Seattle / King County Coalition on Homelessness
 * 💵Morgan Irwin - Associaiton of Washington Business
 * 💵Michele Thomas - Washington Low Income Housing Alliance

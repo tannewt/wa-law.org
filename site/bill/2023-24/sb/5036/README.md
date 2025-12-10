@@ -26,7 +26,7 @@ Testifying:
 #### 36 👍 - Pro
 Testifying:
 * 💵Carrie Tellefson - Teladoc Health
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 * 💵Sean Graham - WA State Medical Assn
 * Lucy Laube - [National Psoriasis Foundation](/org/national_psoriasis_foundation/)
 

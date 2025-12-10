@@ -24,7 +24,7 @@ Testifying:
 ### Tue 01/09 01:30 PM - State Government & Elections (SGE): SB 5856 Voter reg. challenges
 #### 107 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Mary Hall - Washington State Association of County Auditors (WSACA)
 
 #### 380 👎 - Con

@@ -22,13 +22,13 @@
 
 #### 1 ❓ - Other
 Testifying:
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 ### Wed 03/15 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5515 Child abuse and neglect
 #### 8 👍 - Pro
 Testifying:
 * J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 0 👎 - Con
 
@@ -37,7 +37,7 @@ Testifying:
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5515 Child abuse and neglect
 #### 6 👍 - Pro
 Testifying:
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 0 👎 - Con
 
@@ -55,6 +55,6 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * 💵Julie Watts - Dept of Children, Youth, and Families

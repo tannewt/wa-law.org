@@ -22,7 +22,7 @@ Testifying:
 Testifying:
 * 💵Conner Edwards - WA State Professional Campaign Treasurer
 * Sean Flynn - Public Disclosure Commission
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
 #### 3 👎 - Con
 

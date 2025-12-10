@@ -59,7 +59,7 @@ Testifying:
 Testifying:
 * Michael McKinley
 * Michael McKinley
-* Derek Bryan - Washington Counties Risk Pool
+* Derek Bryan - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Ryan Lufkin - WA Council of Police & Sheriffs (WACOPS)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -45,7 +45,7 @@ Testifying:
 * Dr. Romilla Batra - [Premera Blue Cross](/org/premera_blue_cross/)
 * Dr. Chris Berlin - Kaiser Permanente
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
-* Marissa Ingalls
+* 💵Marissa Ingalls
 * Peggi Lewis Fu - Association of Washington Health Care Plans
 
 #### 0 ❓ - Other

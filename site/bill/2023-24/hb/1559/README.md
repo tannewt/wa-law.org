@@ -35,7 +35,7 @@ Testifying:
 * Jennifer Dellinger - State Board for Community & Technical Colleges
 * Mariela Barriga - [Highline College](/org/highline_college/)
 * Bryson Walb
-* Jacqui Cain
+* 💵Jacqui Cain
 
 #### 74 👎 - Con
 

@@ -25,7 +25,7 @@ Testifying:
 * 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Nikki Lockwood - Washington State School Directors' Association (WSSDA)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
-* Andrea Davis - Coordinated Care
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Roni Cook - [Washington Education Association](/org/washington_education_association/)
@@ -34,7 +34,7 @@ Testifying:
 * Karen Brown - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
 * Rebecca Skrinde - Helping Hands Food Bank
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
-* Andrea Davis - Coordinated Care
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
 * 💵Kristin Ang - FAITH ACTION NETWORK
 * Tom Seigel - [Bethel School District](/org/bethel_school_district/)
 

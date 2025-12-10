@@ -20,7 +20,7 @@ Testifying:
 * Matthew Perry - Jewish Prisoner Services International
 * Emily Gause - WACDL/WDA
 * Bruce Glant
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Mick Woynarowski - Washington Association of Criminal Defense Lawyers (WACDL)
 * Colin Wood - CAGE
 

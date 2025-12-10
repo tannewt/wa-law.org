@@ -14,7 +14,7 @@
 ### Fri 02/03 08:00 AM - Health Care & Wellness (HCW): HB 1583 Certified peer specialists
 #### 27 👍 - Pro
 Testifying:
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Joshua Wallace - Peer Washington
 * Laura Hopkins
 * Michael Robertson - Peer WA

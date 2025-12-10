@@ -48,7 +48,7 @@ Testifying:
 * 💵Alex Davidson - Associated Students of the University of Washington
 * Alfredo Corvalan - Community Member
 * 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
-* 💵Christina Wong - Northwest Harvest
+* 💵Christina Wong - [Northwest Harvest](/org/northwest_harvest/)
 * Cynthia LaPlante - Puyallup Tribe
 * Daniel Low - Washington Physicians for Social Responsibility
 * Ariana Vargas - Nuestra Casa

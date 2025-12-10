@@ -33,7 +33,7 @@ Testifying:
 #### 34 👍 - Pro
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Jeff Gombosky - [Renewable Northwest](/org/renewable_northwest/)
 * James Colombo - Interim Director, WSU Energy Program

@@ -28,7 +28,7 @@ Testifying:
 * Drew Bouton - Washington State Department of Financial Institutions
 * Ben LaRocco - Earnin
 * 💵Molly Jones - [Payactiv](/org/payactiv/)
-* Ryan Naples - DailyPay
+* 💵Ryan Naples - DailyPay
 * 💵Kelsi Hamilton - WA Collectors Assoc.
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Kevin Lefton

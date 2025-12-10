@@ -22,7 +22,7 @@ Testifying:
 * Malorie Larson - WSPTA Advocate
 * Charlie Brown - Federal Way SD and South Sound Superintendents
 * Kyle Rydell - West valley School District
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Jason Perrins - Chewelah SD
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, Richland, and ESD 105 Schools Coalition
 * Anna Hernandez-French - Office of Superintendent of Public Instruction

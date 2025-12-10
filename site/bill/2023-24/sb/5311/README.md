@@ -38,7 +38,7 @@
 #### 290 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Samantha Fogg - Seattle Council PTSA
 * 💵Djibril Diop - Washington Education Associaiton

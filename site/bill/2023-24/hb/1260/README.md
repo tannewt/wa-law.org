@@ -38,7 +38,7 @@ Testifying:
 ### Thu 03/09 08:00 AM - Human Services (HS): ESHB 1260 Work-limiting disability
 #### 358 👍 - Pro
 Testifying:
-* Dan Wise - Catholic Community Services
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Babs Roberts - Washington State Department of Social and Health Services, Economic Services Administration
 * Tony Bowie - Washington State Department of Social and Health Services, Economic Services Administration

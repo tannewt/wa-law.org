@@ -12,7 +12,7 @@
 #### 597 👍 - Pro
 Testifying:
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
-* Claudine Reynolds - Port Blakely Tree Farms
+* Claudine Reynolds - [Port Blakely Tree Farms](/org/port_blakely_tree_farms/)
 
 #### 734 👎 - Con
 Testifying:

@@ -42,12 +42,12 @@ Testifying:
 ### Wed 01/24 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2368 Refugee & immigrant assist.
 #### 77 👍 - Pro
 Testifying:
-* Sandra Rodarte - Latino Civic Alliance
+* Sandra Rodarte - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Michael Padilla Ocampo - [King County](/org/king_county/)
 * Alexandra Olins - ACRS
 * Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
 * 💵Alex Hur - OneAmerica
-* Sandra Rodarte - Latino Civic Alliance
+* Sandra Rodarte - [Latino Civic Alliance](/org/latino_civic_alliance/)
 
 #### 13 👎 - Con
 

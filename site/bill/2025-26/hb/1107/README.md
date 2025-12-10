@@ -18,7 +18,7 @@ Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Kathryn Horvath - WashPIRG
 * Cheri Peele - Toxic-Free Future
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
 #### 308 👎 - Con
 Testifying:

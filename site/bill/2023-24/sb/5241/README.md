@@ -124,7 +124,7 @@ Testifying:
 #### 65 👎 - Con
 Testifying:
 * 💵Sean Graham - WA State Medical Association (WSMA)
-* David Hargreaves - Yakima Valley Memorial Hospital
+* David Hargreaves - [Yakima Valley Memorial Hospital](/org/yakima_valley_memorial_hospital/)
 * Florence Chang - MultiCare Health System
 * Jennifer Burkhardt - Summit Pacific Medical Center
 * Jonathan Duarte - [Overlake Hospital Medical Center](/org/overlake_hospital_medical_center/)
@@ -149,7 +149,7 @@ Testifying:
 #### 7 👎 - Con
 Testifying:
 * Douglas Ross
-* David Hargreaves - Yakima Valley Memorial Hospital
+* David Hargreaves - [Yakima Valley Memorial Hospital](/org/yakima_valley_memorial_hospital/)
 * Jon Duarte - Overlake Medical Center & Clinics
 * 💵Zosia Stanley - Washington State Hospital Association
 * 💵Sean Graham - Washington State Medical Association
@@ -184,7 +184,7 @@ Testifying:
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)
 * Douglas Ross
 * Bill Robertson - MultiCare Health System
-* David Hargreaves - Yakima Valley Memorial Hospital
+* David Hargreaves - [Yakima Valley Memorial Hospital](/org/yakima_valley_memorial_hospital/)
 * Eric Moll - Mason Health
 * Jon Duarte - Overlake Medical Center & Clinics
 * 💵Zosia Stanley - Washington State Hospital Association

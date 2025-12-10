@@ -60,7 +60,7 @@ Testifying:
 #### 171 👍 - Pro
 Testifying:
 * Jamie Kautz - MultiCare Health System
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Greta Johnson
 * 💵Cara Helmer - WSHA
 * Jessica Cook

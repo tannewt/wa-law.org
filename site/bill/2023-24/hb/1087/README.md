@@ -25,7 +25,7 @@
 ### Thu 02/02 04:00 PM - Appropriations (APP): SHB 1087 Solitary confinement
 #### 416 👍 - Pro
 Testifying:
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * Micaela Romero
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 

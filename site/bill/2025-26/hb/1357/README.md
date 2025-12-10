@@ -23,7 +23,7 @@
 #### 123 👍 - Pro
 Testifying:
 * Monique Dugaw - ESD 112 Region
-* Jeff Snell - Vancouver Public Schools - Vancouver, WA
+* 💵Jeff Snell - Vancouver Public Schools - Vancouver, WA
 * Trevor Greene - Yakima School District
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * Mike Stewart - [Boyer Children's Clinic](/org/boyer_children's_clinic/)

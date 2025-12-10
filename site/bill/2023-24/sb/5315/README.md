@@ -37,14 +37,14 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 ### Mon 03/20 01:30 PM - Education (ED): E2SSB 5315 Special education/nonpublic
 #### 75 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Tania May - Office of Superintendent of Public Instruction
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 0 👎 - Con
 
@@ -54,7 +54,7 @@ Testifying:
 #### 27 👍 - Pro
 Testifying:
 * Tania May - Office of Superintendent of Public Instruction
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 1 👎 - Con
 
@@ -78,7 +78,7 @@ Testifying:
 * Jeffrey Woolley - Dartmoor Schools
 * Melodee Loshbaugh - Brocks Academy
 * Rachel Kier - Brocks Academy
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Judy Colson
 * Debbie Teter

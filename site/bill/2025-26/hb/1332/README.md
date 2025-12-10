@@ -22,7 +22,7 @@ Testifying:
 Testifying:
 * Zahid Arab - Uber
 * TaraLyn Fray
-* Jon Walker - Lyft
+* 💵Jon Walker - Lyft
 * 💵Vicki Christophersen - TechNet
 
 #### 31 ❓ - Other

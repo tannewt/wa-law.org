@@ -140,13 +140,13 @@ Testifying:
 * Camille Baldwin-Bonney - People Power WA
 * Michelle Feldman - Center for Policing Equity
 * Andrea Caupain Sanderson - BIPOC ED Coalition of Washington
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * HyeEun Park - BIPOC ED Coalition of Washington
 * Adriana Suluai - UTOPIA Washington
 * Jordan Landry
 * Kurtis Robertson - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Kathryn Kravit-Smith
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)

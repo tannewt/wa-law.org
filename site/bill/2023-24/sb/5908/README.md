@@ -24,7 +24,7 @@
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5908 Extended foster care
 #### 88 👍 - Pro
 Testifying:
-* Deonate Cruz - A Way Home Washington
+* Deonate Cruz - [A Way Home Washington](/org/a_way_home_washington/)
 * Sam Martin - Washington Coalition for Homeless Youth Advocacy
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 
@@ -38,7 +38,7 @@ Testifying:
 * 💵Michael Moran - Self
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Tara Urs - King County Dept. of Public Defense
-* Deonate Cruz - A Way Home Washington
+* Deonate Cruz - [A Way Home Washington](/org/a_way_home_washington/)
 
 #### 24 👎 - Con
 
@@ -50,13 +50,13 @@ Testifying:
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 5908 Extended foster care
 #### 195 👍 - Pro
 Testifying:
-* 💵Alex Hur - A Way Home Washington
+* 💵Alex Hur - [A Way Home Washington](/org/a_way_home_washington/)
 * Lelach Rave - WA Chapter of the American Academy of Pediatrics
 * Tai Tave
 * Jim Theofelis - NorthStar Advocates
 * Emiko Tajima - Director, Partners for Our Children  University of Washington  School of Social Work
 * Tara Urs - King County Dept. of Public Defense
-* Deonate Cruz - A Way Home Washington
+* Deonate Cruz - [A Way Home Washington](/org/a_way_home_washington/)
 * Crystal Shen - Washington Chapter of the American Academy of Pediatrics
 
 #### 13 👎 - Con

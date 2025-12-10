@@ -57,7 +57,7 @@ Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* 💵Donna Christensen - Catholic Community Services
+* 💵Donna Christensen - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 105 👎 - Con
 Testifying:
@@ -78,7 +78,7 @@ Testifying:
 ### Mon 01/29 01:30 PM - Housing (HOUS): HB 2474 Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. (Remote Testimony Available).
 #### 204 👍 - Pro
 Testifying:
-* Dan Wise - Catholic Community Services
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Jon Culver

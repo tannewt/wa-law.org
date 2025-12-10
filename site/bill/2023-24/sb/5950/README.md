@@ -136,7 +136,7 @@ Testifying:
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Kenny Pittman - Catholic Community Services of Western WA
-* Jamie Wheeler - Northwest Harvest
+* Jamie Wheeler - [Northwest Harvest](/org/northwest_harvest/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Diana Stadden
 
@@ -207,7 +207,7 @@ Testifying:
 * Kate Vafaeezadeh - Cascade High School
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Rick Chisa - Public School Employees of WA/SEIU 1948
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Samantha Fogg - SCPTSA, Interim Co-President
@@ -375,7 +375,7 @@ Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 
 #### 0 👎 - Con
 

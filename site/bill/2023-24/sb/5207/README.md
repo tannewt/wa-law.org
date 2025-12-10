@@ -17,7 +17,7 @@
 #### 52 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
 #### 52 👎 - Con
 Testifying:
@@ -42,7 +42,7 @@ Testifying:
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5207 Controlled entities
 #### 72 👍 - Pro
 Testifying:
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 
 #### 0 👎 - Con

@@ -34,7 +34,7 @@ Testifying:
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 * 💵Joren Clowers - Sno-King Water District Coalition
 * Kyle Dorsey - The Coalition for Clean Water
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Bob Guenther - citizen
 
 #### 5 👎 - Con

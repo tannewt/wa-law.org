@@ -70,7 +70,7 @@ Testifying:
 * Ashley Evans - King County Hazardous Waste Management Program
 * Joseph Vukovich - NRDC
 * Logan Harvey - [Recology](/org/recology/)
-* Ann M Murphy - League of Women Voters of Washington
+* Ann M Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
 #### 7 👎 - Con
 Testifying:

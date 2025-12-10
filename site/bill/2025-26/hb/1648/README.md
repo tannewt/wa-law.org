@@ -24,7 +24,7 @@ Testifying:
 * Johnny Otto
 * Lois Martin
 * Susan Brown
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Mary Curry
 
 #### 21 👎 - Con

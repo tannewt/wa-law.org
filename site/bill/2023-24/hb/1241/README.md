@@ -35,7 +35,7 @@ Testifying:
 * Mary Hall - Washington Association of County Auditors (WSACA)
 * Carolyn Fundingsland - Washington State Association of County Auditors (WSACA)
 * 💵Jennifer Wallace - WA Assoc of County Officials
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Lori Larsen - President, Washington Association of County Auditors
 * Linda Farmer - Pierce County Auditor's Office
 * Carolyn Fundingsland - WSACA - Washington State Association of County Auditors

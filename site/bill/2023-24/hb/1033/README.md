@@ -17,7 +17,7 @@ Testifying:
 * JANET THOMAN - Compost Manufacturing Alliance
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Karen Dawson - [Cedar Grove](/org/cedar_grove/)
 * 💵Ezra Eickmeyer
 * 💵Jessica Fortescue - WA Refuse & Recycling Association
@@ -34,8 +34,8 @@ Testifying:
 * Kate Kurtz - Seattle Public Utilities
 * Karen Dawson - [Cedar Grove](/org/cedar_grove/)
 * Troy Lautenbach - Lautenbach Industries
-* Ann Murphy - League of Women Voters of Washington
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 * 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)
 * Connor Anderson

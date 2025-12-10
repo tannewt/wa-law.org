@@ -74,7 +74,7 @@ Testifying:
 ### Mon 01/09 01:30 PM - Environment & Energy (ENVI): HB 1047 Cosmetic product chemicals
 #### 108 👍 - Pro
 Testifying:
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Erika Schreder - Toxic-Free Future
 * Megan Liu - Toxic-Free Future
 * Yuwa Vosper - We ACT for Environmental Justice

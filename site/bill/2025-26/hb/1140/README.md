@@ -56,4 +56,4 @@ Testifying:
 
 #### 9 ❓ - Other
 Testifying:
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)

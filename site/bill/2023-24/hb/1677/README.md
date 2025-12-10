@@ -14,7 +14,7 @@ Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer
 * Jason Michaud
 * Sandra Bensley - Sierra Heights Consulting NW (Treasurer-Accounting)
-* Cindy Madigan - League of Women Voters of Washington
+* Cindy Madigan - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Fred Jarrett - Public Disclosure Commission
 * Sean Flynn - Public Disclosure Commission
 

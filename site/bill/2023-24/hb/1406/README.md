@@ -21,7 +21,7 @@
 Testifying:
 * 💵Alex Hur - NW Education Access
 * Jim Theofelis - NorthStar Advocates
-* Julie Patino - A Way Home Washington
+* Julie Patino - [A Way Home Washington](/org/a_way_home_washington/)
 * Athena " " - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Danni Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
 
@@ -35,7 +35,7 @@ Testifying:
 * Lelach Rave - Washington Chapter of the American Academy of Pediatrics
 * Erin Shea McCann - LCYC
 * 💵Karen Pillar - Team Child
-* Julie Patino - A Way Home Washington
+* Julie Patino - [A Way Home Washington](/org/a_way_home_washington/)
 
 #### 0 👎 - Con
 

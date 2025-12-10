@@ -42,7 +42,7 @@ Testifying:
 #### 30 👍 - Pro
 Testifying:
 * Shelly Willis - Exec. Director, Family Education and Support Services
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 * 💵Shrounda Selivanoff - Kinship caregiver; Children's Home Society of WA
 
 #### 1 👎 - Con

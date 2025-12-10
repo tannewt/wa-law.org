@@ -12,7 +12,7 @@
 Testifying:
 * 💵Carrie Tellefson - Teladoc Health
 * Lucy Laube - [National Psoriasis Foundation](/org/national_psoriasis_foundation/)
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 * 💵Sean Graham - Washington State Medical Association
 
 #### 0 👎 - Con

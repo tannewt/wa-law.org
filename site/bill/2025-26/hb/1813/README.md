@@ -46,7 +46,7 @@ Testifying:
 Testifying:
 * 💵Dunia Faulx - Elevance Health
 * 💵Kristen Federici - Molina Healthcare
-* Marissa Ingalls - Coordinated Care
+* 💵Marissa Ingalls - [Coordinated Care](/org/coordinated_care/)
 * 💵Brian Enslow - in for Dunia Faulx
 
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1813 Medical assist reprocurement
@@ -58,7 +58,7 @@ Testifying:
 
 #### 573 👎 - Con
 Testifying:
-* 💵Bill Stauffacher - Coordinated Care
+* 💵Bill Stauffacher - [Coordinated Care](/org/coordinated_care/)
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Tom McBride - Wellpoint
 

@@ -13,7 +13,7 @@
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): HB 1361 Process service
 #### 1 👍 - Pro
 Testifying:
-* Scott Douglas - Office of the Secretary of State
+* Scott Douglas - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 0 👎 - Con
 

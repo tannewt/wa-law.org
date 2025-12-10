@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2100/</link>
 		<description>Updates about HB 2100</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 04 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 07 Dec 2025 17:38:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,27 @@
 			<pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-04/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard</title>
+			<description>News article "Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Sat, 06 Dec 2025 12:00:56 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=his%20bill</guid>
+		</item>
+		<item>
+			<title>Bills begin streaming in ahead of WA’s 2026 legislative session</title>
+			<description>News article "Bills begin streaming in ahead of WA’s 2026 legislative session" from Gorge News Center.</description>
+			<pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2025/12/07/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=his%20bill</guid>
+		</item>
+		<item>
+			<title>Bills begin streaming in ahead of WA’s 2026 legislative session</title>
+			<description>News article "Bills begin streaming in ahead of WA’s 2026 legislative session" from The Spokesman-Review.</description>
+			<pubDate>Sun, 07 Dec 2025 17:38:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=his%20bill</guid>
 		</item>
 	</channel>
 </rss>

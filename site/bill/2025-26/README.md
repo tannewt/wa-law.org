@@ -19,7 +19,7 @@
 * [SB 5192](sb/5192) - School district materials 59📰 8851👍 4165👎 17❓ - C 334 L 25
 * [HB 1334](hb/1334) - Property tax revenue growth 9📰 138👍 12173👎 50❓ - HFinance
 * [HB 1696](hb/1696) - Covenant homeownership prg. 14📰 824👍 10233👎 17❓ - C 143 L 25
-* [SB 5041](sb/5041) - Unemp ins/strikes & lockouts 30📰 5536👍 5364👎 115❓ - C 352 L 25
+* [SB 5041](sb/5041) - Unemp ins/strikes & lockouts 31📰 5536👍 5364👎 115❓ - C 352 L 25
 * [HB 1491](hb/1491) - Transit-oriented housing dev 36📰 4917👍 5044👎 49❓ - C 267 L 25
 * [SB 5123](sb/5123) - Discrimination in schools 25📰 2396👍 7494👎 4❓ - S Rules 3
 * [SB 5181](sb/5181) - Parents rights in education 52📰 2078👍 6911👎 17❓ - S Rules 3
@@ -32,18 +32,18 @@
 * [HB 2045](hb/2045) - Business and occupation tax 12📰 4399👍 3648👎 8❓ - H Finance
 * [HB 1448](hb/1448) - Local elections 4📰 3039👍 4027👎 10❓ - H Rules R
 * [SB 5189](sb/5189) - Competency-based education 9📰 199👍 6737👎 7❓ - C 278 L 25
-* [SB 5814](sb/5814) - Excise taxes 58📰 306👍 6415👎 27❓ - C 422 L 25
+* [SB 5814](sb/5814) - Excise taxes 61📰 306👍 6415👎 27❓ - C 422 L 25
 * [SB 5813](sb/5813) - Tax rates/cap. gains, estate 31📰 710👍 5911👎 8❓ - C 421 L 25
 * [HB 1232](hb/1232) - Private detention facilities 16📰 4402👍 2018👎 8❓ - C 235 L 25
 * [SB 5179](sb/5179) - Education complaint process 16📰 731👍 5582👎 6❓ - S Rules 3
-* [SB 5794](sb/5794) - Tax preferences 33📰 3608👍 2684👎 22❓ - C 423 L 25
+* [SB 5794](sb/5794) - Tax preferences 36📰 3608👍 2684👎 22❓ - C 423 L 25
 * [SB 5284](sb/5284) - Solid waste management 27📰 4396👍 1798👎 21❓ - C 316 L 25
 * [HB 1971](hb/1971) - Prescription hormone therapy 10📰 2178👍 4022👎 4❓ - C 171 L 25
 * [SB 5785](sb/5785) - Higher education costs 3📰 245👍 5882👎 24❓ - C 395 L 25
 * [SB 5077](sb/5077) - Agency voter registration 10📰 1431👍 4658👎 10❓ - C 330 L 25
 * [SB 5726](sb/5726) - Transportation revenue 7📰 249👍 5793👎 15❓ - S Transportation
 * [SB 5186](sb/5186) - School district fac. funding 19📰 3119👍 2693👎 8❓ - S Rules X
-* [HB 2015](hb/2015) - Public safety funding 35📰 137👍 5660👎 12❓ - C 350 L 25
+* [HB 2015](hb/2015) - Public safety funding 36📰 137👍 5660👎 12❓ - C 350 L 25
 * [SB 5187](sb/5187) - Student transportation 17📰 5149👍 640👎 7❓ - SWays & Means
 * [HB 1321](hb/1321) - Outside militia activities 22📰 819👍 4272👎 2❓ - C 72 L 25
 * [HB 1125](hb/1125) - Sentence modification 11📰 1873👍 3194👎 10❓ - H Rules C
@@ -95,7 +95,7 @@
 * [HB 1303](hb/1303) - Environmental justice 1📰 1470👍 1233👎 13❓ - H APPDP2S
 * [SB 5068](sb/5068) - Public employ. eligibility 4📰 21👍 2694👎 1❓ - S Rules 3
 * [HB 1132](hb/1132) - Bulk firearm purchases 16📰 774👍 1940👎 1❓ - H Rules R
-* [HB 1052](hb/1052) - Hate crime offense 18📰 41👍 2633👎 1❓ - C 249 L 25
+* [HB 1052](hb/1052) - Hate crime offense 21📰 41👍 2633👎 1❓ - C 249 L 25
 * [HB 1152](hb/1152) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 15📰 812👍 1861👎 2❓ - H Rules R
 * [HB 1512](hb/1512) - Traffic safety 6📰 2218👍 430👎 11❓ - HCommunity Safe
 * [HB 1432](hb/1432) - Mental health services 3📰 2434👍 182👎 13❓ - C 227 L 25
@@ -477,7 +477,7 @@
 * [HB 1843](hb/1843) - Students/unemployment ins. 17👍 560👎 0❓ - H Rules R
 * [SB 5030](sb/5030) - Vital records access 2📰 85👍 487👎 5❓ - C 109 L 25
 * [HB 1694](hb/1694) - City & county REET revenues 22👍 552👎 1❓ - HFinance
-* [SB 5067](sb/5067) - Impaired driving 9📰 148👍 424👎 3❓ - S Rules X
+* [SB 5067](sb/5067) - Impaired driving 10📰 148👍 424👎 3❓ - S Rules X
 * [SB 5573](sb/5573) - Electric security alarms 90👍 485👎 0❓ - S Rules X
 * [SB 5202](sb/5202) - Judicial orders 21👍 551👎 2❓ - C 122 L 25
 * [HB 1583](hb/1583) - Traditional health/medicaid 89👍 483👎 1❓ - H APPDP2S
@@ -1383,18 +1383,68 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
-* [SB 5832](sb/5832) - Updating the arbitration fee collected for the new motor vehicle arbitration account. - S Prefiled
+* [SB 5862](sb/5862) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. - S Prefiled
+* [SB 5861](sb/5861) - Encouraging community representation in education. - S Prefiled
+* [SB 5860](sb/5860) - Concerning school board compensation. - S Prefiled
+* [SB 5859](sb/5859) - Expanding opportunities for competency-based assessments in graduation pathway options. - S Prefiled
+* [SB 5858](sb/5858) - Providing pupil transportation safety net funding for special passengers. - S Prefiled
+* [HB 2122](hb/2122) - Requiring hospitals to offer immunizations for influenza in certain cases. - H Prefiled
+* [HB 2121](hb/2121) - Exempting nonprofits and schools from certain sales and use taxes on services. - H Prefiled
+* [HB 2120](hb/2120) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. - H Prefiled
+* [HB 2119](hb/2119) - Moving Washington state to permanent standard time. - H Prefiled
+* [HB 2118](hb/2118) - Community restrictions - H Prefiled
+* [SB 5857](sb/5857) - Concerning architectural and engineering fee funding assistance limits for school district construction and modernization projects. - S Prefiled
+* [SB 5856](sb/5856) - Lubricant emissions - S Prefiled
+* [SB 5855](sb/5855) - Law enf. face coverings 2📰 - S Prefiled
+* [SB 5854](sb/5854) - Modifying procedures for releasing sexually violent predators to less restrictive alternative placements. - S Prefiled
+* [SB 5853](sb/5853) - Public official notification - S Prefiled
+* [SB 5852](sb/5852) - Immigrant workers 1📰 - S Prefiled
+* [SB 5851](sb/5851) - Sea lion predation donations - S Prefiled
+* [SB 5850](sb/5850) - Signature gathering - S Prefiled
+* [SB 5849](sb/5849) - Financial education - S Prefiled
+* [SB 5848](sb/5848) - School district impact fees - S Prefiled
+* [SB 5847](sb/5847) - Concerning access to medical care in workers' compensation. - S Prefiled
+* [SB 5846](sb/5846) - Providing community notification and protection for less restrictive alternative placements for sex offenders in the community. - S Prefiled
+* [SB 5845](sb/5845) - Health carrier payments - S Prefiled
+* [SB 5844](sb/5844) - Concerning the delivery, execution, acceptance, and provisions of individual storage space rental agreements and modifying the use of individual storage spaces after notice of termination or nonrenewal of rental agreements. - S Prefiled
+* [SB 5843](sb/5843) - Signature gatherers - S Prefiled
+* [SB 5842](sb/5842) - Campaign memorabilia - S Prefiled
+* [HB 2117](hb/2117) - Board of natural resources - H Prefiled
+* [HB 2116](hb/2116) - School enrichment funding - H Prefiled
+* [HB 2115](hb/2115) - Restoring the 1985 tax exemptions for the sale of precious metals and bullion. - H Prefiled
+* [HB 2114](hb/2114) - Defective license plates - H Prefiled
+* [HB 2113](hb/2113) - Radiologic technologists - H Prefiled
+* [HB 2112](hb/2112) - Adult content/age minimum - H Prefiled
+* [HB 2111](hb/2111) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. - H Prefiled
+* [HB 2110](hb/2110) - Concerning personnel for ambulance service interfacility specialty care transports. - H Prefiled
+* [HB 2109](hb/2109) - Vehicle loads - H Prefiled
+* [HB 2108](hb/2108) - Juvenile justice transfer - H Prefiled
+* [HB 2107](hb/2107) - Construction hazards notice - H Prefiled
+* [HB 2106](hb/2106) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications. - H Prefiled
+* [HB 2105](hb/2105) - Immigrant workers 4📰 - H Prefiled
+* [HB 2104](hb/2104) - Aviation assurance funding - H Prefiled
+* [SB 5841](sb/5841) - Financial aid applications - S Prefiled
+* [SB 5840](sb/5840) - Campaign finance schedule - S Prefiled
+* [SB 5839](sb/5839) - County ferry districts - S Prefiled
+* [SB 5838](sb/5838) - Board of natural resources - S Prefiled
+* [SB 5837](sb/5837) - Guardianship, etc. - S Prefiled
+* [SB 5836](sb/5836) - Superior court judge/Skagit - S Prefiled
+* [SB 5835](sb/5835) - Lump sum retirement payments - S Prefiled
+* [SB 5834](sb/5834) - Retirement funds/expenses - S Prefiled
+* [HB 2103](hb/2103) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects. - H Prefiled
+* [HB 2102](hb/2102) - Legal financial obligations - H Prefiled
+* [SB 5832](sb/5832) - Updating the arbitration fee collected for the new motor vehicle arbitration account. 3📰 - S Prefiled
 * [SB 5831](sb/5831) - Enacting the uniform mortgage modification act. - S Prefiled
-* [SB 5830](sb/5830) - Clarifying hate crimes to include political affiliation. - S Prefiled
-* [SB 5829](sb/5829) - Addressing the issuance of confidential identification to investigators employed by the office of the attorney general. - S Prefiled
+* [SB 5830](sb/5830) - Clarifying hate crimes to include political affiliation. 3📰 - S Prefiled
+* [SB 5829](sb/5829) - Addressing the issuance of confidential identification to investigators employed by the office of the attorney general. 1📰 - S Prefiled
 * [SB 5828](sb/5828) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. - S Prefiled
 * [SB 5827](sb/5827) - Concerning the definition of a "qualifying discharge" for the Washington state veterans' preference program for civil service. - S Prefiled
 * [HB 2101](hb/2101) - Exempting live presentations from retail sales and use tax. - H Prefiled
-* [HB 2100](hb/2100) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. - H Prefiled
+* [HB 2100](hb/2100) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 3📰 - H Prefiled
 * [HB 2099](hb/2099) - Expanding access to the early childhood education and assistance program for military families. - H Prefiled
-* [HB 2098](hb/2098) - Adjusting higher education funding. - H Prefiled
+* [HB 2098](hb/2098) - Adjusting higher education funding. 3📰 - H Prefiled
 * [HB 2097](hb/2097) - Authorizing counties to impose a business and occupation tax. - H Prefiled
-* [HB 2096](hb/2096) - Addressing the issuance of confidential identification to investigators employed by the office of the attorney general. - H Prefiled
+* [HB 2096](hb/2096) - Addressing the issuance of confidential identification to investigators employed by the office of the attorney general. 1📰 - H Prefiled
 * [SB 5826](sb/5826) - Concerning access at public postsecondary educational institutions to medication abortion. - S Prefiled
 * [SB 5825](sb/5825) - Authorizing the Washington state leadership board to solicit gifts, grants, and endowments from public or private sources. - S Prefiled
 * [SB 5824](sb/5824) - Concerning fifth-wheel travel trailers. - S Prefiled
@@ -1403,13 +1453,13 @@
 * [SB 5821](sb/5821) - Integrating advanced nuclear energy into the state energy strategy. - S Prefiled
 * [HB 2095](hb/2095) - Protecting vulnerable users of public ways. - H Prefiled
 * [HB 2094](hb/2094) - Requiring coroners to be appointed rather than elected. - H Prefiled
-* [HB 2093](hb/2093) - Reinstating the tax exemptions for the sale of precious metals and bullion. - H Prefiled
+* [HB 2093](hb/2093) - Reinstating the tax exemptions for the sale of precious metals and bullion. 3📰 - H Prefiled
 * [HB 2092](hb/2092) - Establishing a passenger rail advisory committee. - H Prefiled
 * [HB 2091](hb/2091) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. - H Prefiled
 * [HB 2090](hb/2090) - Integrating advanced nuclear energy into the state energy strategy. 1📰 - H Prefiled
 * [HB 2089](hb/2089) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 1📰 - H Prefiled
 * [SB 5820](sb/5820) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. - S Prefiled
-* [SB 5819](sb/5819) - Ensuring paid protestor services are considered a temporary staffing service subject to state retail sales and use taxes. - S Prefiled
+* [SB 5819](sb/5819) - Ensuring paid protestor services are considered a temporary staffing service subject to state retail sales and use taxes. 3📰 - S Prefiled
 * [HB 2088](hb/2088) - Concerning the dietitian licensure compact. - H Prefiled
 * [HB 2087](hb/2087) - Addressing travel insurance. - H Prefiled
 * [HB 2085](hb/2085) - Autonomous regions - H State Govt & Tr

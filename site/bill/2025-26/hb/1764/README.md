@@ -26,7 +26,7 @@ Testifying:
 * Joe Kennedy - UFCW 367
 * Kristen Harknett - University of California, San Francisco
 * Mathieu Chabaud - UAW 4121
-* Peter Nazzal - Catholic Community Services
+* Peter Nazzal - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 1749 👎 - Con
 Testifying:
@@ -48,7 +48,7 @@ Testifying:
 * Cody Bishop
 * Janet Kenefsky - Greater Vancouver Chamber of Commerce
 * Cindy Trondsen - MC Interiors LLC
-* Jon Walker - Lyft, Inc.
+* 💵Jon Walker - Lyft, Inc.
 * MICHAEL MORRIS
 * Charlotte Trevino
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)

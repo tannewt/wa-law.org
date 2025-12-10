@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 12/08/2025 [Senate Democrats](/org/senate_democrats/) - [From Kamiak Knight to Finnish knight: Sen. Liias awarded international recognition for legislative work - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/12/08/from-kamiak-knight-to-finnish-knight-sen-liias-awarded-international-recognition-for-legislative-work/#:~:text=2024)
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%205002)
 * 02/15/2024 [Washington State Standard](/org/washington_state_standard/) - [Hold on. ‘The Evergreen State’ isn’t Washington’s nickname? • Washington State Standard](https://washingtonstatestandard.com/briefs/hold-on-the-evergreen-state-isnt-washingtons-nickname/#:~:text=Senate%20Bill%205002)
 * 01/29/2024 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers try again to lower blood alcohol limit as DUI deaths rise | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/as-death-toll-rises-washington-lawmakers-look-to-lower-legal-limit-for-driving-drunk/#:~:text=Senate%20Bill%205002)

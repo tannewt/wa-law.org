@@ -18,7 +18,7 @@ Testifying:
 * Amani Sawari
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Jacob Schmitt - Just Us Solutions
-* Heather Kelly - League of Women Voters of Washington
+* Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Christopher Poulos - Center for Justice and Human Dignity
 * Joshua Woods - I Did the Time/Revive Center for Returning Citizens
 * Kurtis Robinson - Revive Center for Returning Citizens/I Did the Time

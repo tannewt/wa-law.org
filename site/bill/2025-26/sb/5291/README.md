@@ -56,7 +56,7 @@ Testifying:
 * Victoria Bickford - SEIU 775
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Tyler Langford - Office of the Insurance Commissioner
-* Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* 💵Rachel Smith - Seattle Metropolitan Chamber of Commerce
 
 #### 7 👎 - Con
 

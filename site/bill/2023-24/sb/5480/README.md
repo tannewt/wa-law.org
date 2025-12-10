@@ -16,7 +16,7 @@
 #### 187 👍 - Pro
 Testifying:
 * Harald Hyllseth - [Chief Seattle Club](/org/chief_seattle_club/)
-* Dan Wise - Catholic Community Services
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 
 #### 0 👎 - Con

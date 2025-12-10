@@ -35,7 +35,7 @@ Testifying:
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Rudy Salakory - [Friends of the Columbia Gorge](/org/friends_of_the_columbia_gorge/)
 * 💵Rose Feliciano - Catholic Charities Eastern Washington, First5Fundamentals
-* 💵Christina Wong - Northwest Harvest
+* 💵Christina Wong - [Northwest Harvest](/org/northwest_harvest/)
 * Ryan Mello - Pierce County Council, District 4
 * Larry Jefferson - Washington State Office of Public Defense
 * 💵Luis Moscoso - Washington State Office of Public Defense's Advisory Committee
@@ -74,7 +74,7 @@ Testifying:
 * Courtenay Burns - [Waterford.org](/org/waterford.org/)
 * Carol Morris
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
-* 💵Jake Garcia - Northwest Harvest
+* 💵Jake Garcia - [Northwest Harvest](/org/northwest_harvest/)
 * Rhonda Parker - Home Care provider
 * Joan Miller - WA Council for Behavioral Health
 * 💵Brad Banks - BHASOs / Home Care Coalition / CROA
@@ -176,7 +176,7 @@ Testifying:
 * 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Betsy Robblee - [The Mountaineers](/org/the_mountaineers/)
 * Stephanie Neil - SDMC
-* Julie Patino - A Way Home Washington
+* Julie Patino - [A Way Home Washington](/org/a_way_home_washington/)
 * Ren Autrey - OutsidersInn.org
 * Sara Robbins - Seattle / King County Coalition on Homelessness
 * Cathy Knight - WA Association of Area Agencies on Aging
@@ -287,7 +287,7 @@ Testifying:
 * Sandy Kaiser - The Evergreen State College
 * Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
 * 💵Fred Yancey - Washington State School Retirees’ Assn.
-* 💵Julie Patiño - A Way Home Washington
+* 💵Julie Patiño - [A Way Home Washington](/org/a_way_home_washington/)
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Alex Conley
 * Amy Hatch-Winecka
@@ -364,7 +364,7 @@ Testifying:
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * Lynsey Gagon - Volunteers Of America
 * Marcia Wright-Soika - Family Works
 * 💵Shrounda Selivanoff - Children's Home Society of Washington
@@ -378,9 +378,9 @@ Testifying:
 * Liz Trautman - Stand for Children Washington
 * 💵Jorge Baron - Northwest Immigrant Rights Project (NWIRP)
 * Adam Swinyard - [Spokane Public Schools](/org/spokane_public_schools/)
-* Jeff Snell - Vancouver Public Schools
+* 💵Jeff Snell - Vancouver Public Schools
 * John Boyd - Evergreen Public Schools
-* 💵Christina Wong - Northwest Harvest
+* 💵Christina Wong - [Northwest Harvest](/org/northwest_harvest/)
 * Ben Small - Launch NW
 * Rosana Barredo - One America
 * Michelle Price - North Central Educational Service District 171
@@ -401,7 +401,7 @@ Testifying:
 * Deborah Essman
 * Martha Wyckoff
 * 💵Shawn Latham - Allies in Advocacy
-* 💵Christina Wong - Northwest Harvest
+* 💵Christina Wong - [Northwest Harvest](/org/northwest_harvest/)
 * Lisa Striedinger - Friends without homes
 * LISA STRIEDINGER - Friends without homes
 * Jennifer Crespi - WA State PTA

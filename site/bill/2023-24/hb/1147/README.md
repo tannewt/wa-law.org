@@ -53,7 +53,7 @@ Testifying:
 * Tracy Turner - Self advocate
 * Brian Shay - City of Hoquiam, City Administrator
 * Ruth Clemens - City of Aberdeen, City Administrator
-* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* 💵Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 * 💵Carissa Hahn - CWA/WashTech
 * 💵Nora Selander - Western Washington University
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
@@ -177,7 +177,7 @@ Testifying:
 * Councilman Jeremy Takala - Yakama Nation
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
-* Maureen Sorenson - Coordinated Care
+* Maureen Sorenson - [Coordinated Care](/org/coordinated_care/)
 * Susan Foster-Dow - Catholic Charities Eastern Washington
 * Tasha Irvine - Principle Allies
 * Dani Madrone - American Farmland Trust
@@ -226,7 +226,7 @@ Testifying:
 * 💵Axel Swanson - Washington State Association of County Engineers
 * Emily Thompson - Coalition For Affordable Housing Development
 * Betz Mayer - PNWER
-* Kyle Burleson - American Waterways Operators
+* Kyle Burleson - [American Waterways Operators](/org/american_waterways_operators/)
 * Brandy DeLange - Assoc. of Washington Cities
 * Preston Dwoskin
 * Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)

@@ -23,7 +23,7 @@ Testifying:
 #### 307 👎 - Con
 Testifying:
 * Chris Bandoli - National Association of Benefits and Insurance Professionals Washington
-* Andrea Davis - Coordinated Care
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * 💵Meg Jones - Pacific Source
 

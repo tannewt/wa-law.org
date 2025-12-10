@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/05/2025 [The Center Square](/org/the_center_square/) - [Striking teachers may qualify for unemployment as Moses Lake proposes compromise | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ea8c5f46-85f3-43f0-8bc2-84b9a8e4a8c0.html#:~:text=Senate%20Bill%205041)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=SB 5041)
 * 07/28/2025 [The Center Square](/org/the_center_square/) - [Benefits for striking workers, time off for immigration hearings now law in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8ab36ba6-9b80-4a85-af26-76328c60ea3a.html#:~:text=Senate%20Bill%205041)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205041)
@@ -101,7 +102,7 @@ Testifying:
 * 💵Amber Carter - WA Retail Association
 * TaraLyn Fray
 * 💵Katherine Mahoney - South Sound Superintendents
-* Marissa Rathbone - Washington State School Directors' Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Sandra Mochizuki
 * Ronald Mochizuki
 * Teresa Sanders

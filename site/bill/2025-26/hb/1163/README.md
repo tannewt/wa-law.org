@@ -372,7 +372,7 @@ Testifying:
 Testifying:
 * Isaiah Lenard
 * Julia Berus
-* 💵Margaret Heldring - Grandmothers Agains Gun Violence
+* 💵Margaret Heldring - [Grandmothers Agains Gun Violence](/org/grandmothers_agains_gun_violence/)
 * Alex McCourt - Johns Hopkins Bloomberg School of Public Health
 * Gwen Loosmore - Washington PTA
 * 💵Jean Hill - Washington State Catholic Conference (WSCC)

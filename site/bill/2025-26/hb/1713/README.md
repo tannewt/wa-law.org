@@ -10,7 +10,7 @@
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1713 Automatic voter reg./tribes
 #### 441 👍 - Pro
 Testifying:
-* Shawn Merchant - Office of the Secretary of State
+* Shawn Merchant - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 
 #### 164 👎 - Con
 

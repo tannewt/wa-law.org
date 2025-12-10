@@ -19,7 +19,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Laura Butler - WSDA
+* 💵Laura Butler - WSDA
 
 ### Thu 02/06 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5454 Dairy inspection program
 #### 0 👍 - Pro

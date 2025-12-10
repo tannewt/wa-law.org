@@ -35,7 +35,7 @@ Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Michael Mann - Clean & Prosperous Washington
 * 💵Paula Sardinas - WA Build Back Black Alliance
-* Dan West - Rivian
+* 💵Dan West - Rivian
 * Jeff Gombosky - Tesla Motors
 * adam browning
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -169,7 +169,7 @@ Testifying:
 * Josh Deikmann - [City of Tacoma](/org/city_of_tacoma/)
 * Arvia Morris
 * Edna Shim - Seattle Children's' Hospital
-* Greg Johnson - Wright Runstad & Co
+* Greg Johnson - [Wright Runstad & Co](/org/wright_runstad_&_co/)
 * 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Kristina Hudson - One Redmond
 * Samantha St. John - Kirkland Chamber of Commerce

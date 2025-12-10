@@ -131,7 +131,7 @@ Testifying:
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1579 Independent prosecutions
 #### 432 👍 - Pro
 Testifying:
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Paul Benz - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Debbie Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Fred Thomas - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)

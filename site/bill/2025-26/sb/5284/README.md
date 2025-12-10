@@ -158,7 +158,7 @@ Testifying:
 * Brenda Fincher - Councilmember, City of Kent
 * Dr. Mark Vossler - Washington Physicians for Social Responsibility
 * 💵Peter Steelquist - Surfrider Foundation Washington
-* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Edwin Borbon - AMERIPEN
 * 💵Kelsey Hulse - EPR Leadership Forum
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)

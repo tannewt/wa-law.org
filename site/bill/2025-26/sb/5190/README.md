@@ -17,7 +17,7 @@ Testifying:
 * Travis Bown - WA Assn of Maintenance and Operation Administrators
 * Jim Kowalkowski - Rural Education Center
 * Jeff Baerwald - Nine Mile Falls School District
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 2 👎 - Con
 Testifying:
@@ -41,4 +41,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)

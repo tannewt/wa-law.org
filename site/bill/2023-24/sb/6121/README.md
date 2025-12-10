@@ -56,7 +56,7 @@ Testifying:
 * Jill Silver - 10,000 Years Institute
 * Tony Craven
 * Kathryn Alexander
-* 💵Jason Callahan - Green Diamond Resource Company
+* 💵Jason Callahan - [Green Diamond Resource Company](/org/green_diamond_resource_company/)
 
 #### 4 👎 - Con
 

@@ -34,7 +34,7 @@ Testifying:
 ### Wed 01/24 01:30 PM - Consumer Protection & Business (CPB): HB 2329 Insurance market/housing
 #### 23 👍 - Pro
 Testifying:
-* Dan Wise - Catholic Community Services
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * Flo Beaumon - [Catholic Community Services of Western Washington](/org/catholic_community_services_of_western_washington/)
 * 💵James Lovell - [Chief Seattle Club](/org/chief_seattle_club/)
 * A Calkins - [Association of Washington Housing Authorities](/org/association_of_washington_housing_authorities/)

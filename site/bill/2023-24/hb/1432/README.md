@@ -12,7 +12,7 @@
 Testifying:
 * Jaimie Cavanaugh
 * Elizabeth Mustin - Washington State Office of Public Defense
-* Nina Martinez - Latino Civic Alliance
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Rachel Sottile - Center for Children and Youth Justice
 * James Cha - TeamChild
 * Isadora Eads - Choose 180

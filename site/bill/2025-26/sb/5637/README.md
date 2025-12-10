@@ -17,7 +17,7 @@
 ### Mon 03/24 01:30 PM - Education (ED): SB 5637 Media literacy & civic ed.
 #### 300 👍 - Pro
 Testifying:
-* Dee Anne Finken - League of Women Voters of Washington
+* Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Shelby Reynolds - Action for Media Education
 * Jen Ligot
 * Nancy Lenihan - Washington State Council for Social Studies

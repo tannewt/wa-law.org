@@ -27,4 +27,4 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Shawn Merchant - Office of the Secretary of State
+* Shawn Merchant - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)

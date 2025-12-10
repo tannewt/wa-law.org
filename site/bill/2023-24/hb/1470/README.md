@@ -69,8 +69,8 @@ Testifying:
 ### Tue 02/07 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1470 Private detention facilities
 #### 216 👍 - Pro
 Testifying:
-* SANDRA RODARTE - Latino Civic Alliance
-* Sandra Rodarte - Latino Civic Alliance
+* SANDRA RODARTE - [Latino Civic Alliance](/org/latino_civic_alliance/)
+* Sandra Rodarte - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * MariaJose Cordero - NW Immigrant Rights Project
 * Dr. Bernal C. Baca

@@ -38,7 +38,7 @@ Testifying:
 Testifying:
 * MATTHEW METZ - [Coltura](/org/coltura/)
 * Clayton Peterson
-* Clif Swiggett - Carbon Washington
+* Clif Swiggett - [Carbon Washington](/org/carbon_washington/)
 
 #### 0 ❓ - Other
 
@@ -54,7 +54,7 @@ Testifying:
 * Matthew Metz - [Coltura](/org/coltura/)
 * Rashell Lisowski
 * Paul Fredlund
-* Clif Swiggett - Carbon Washington
+* Clif Swiggett - [Carbon Washington](/org/carbon_washington/)
 
 #### 2 ❓ - Other
 Testifying:
@@ -65,7 +65,7 @@ Testifying:
 #### 21 👍 - Pro
 Testifying:
 * Russell Olsen - Executive Director of the Washington State Pollution Liability Insurance Agency
-* 💵Greg Hanon - Western States Petroleum Association
+* 💵Greg Hanon - [Western States Petroleum Association](/org/western_states_petroleum_association/)
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 
 #### 0 👎 - Con

@@ -34,7 +34,7 @@ Testifying:
 
 #### 5 ❓ - Other
 Testifying:
-* Suzie Hanson - Washington Federation of Independent Schools
+* Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * 💵Amber Carter - Port of Vancouver USA
 * 💵Matthew Ellsworth - [Association of Washington Public Hospital Districts](/org/association_of_washington_public_hospital_districts/)
 * Kerry Meade - Building Potential

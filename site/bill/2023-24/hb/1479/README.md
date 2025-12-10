@@ -177,7 +177,7 @@ Testifying:
 * Hannah Phelps - Former Paraeducator
 * Janis White - Seattle Special Education PTSA
 * Lee Collyer - Office of Superintendent of Public Instruction
-* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Tracy Kahlo - PAVE
 * April Ferguson
 * Tanya Aggar - Washington State PTA
