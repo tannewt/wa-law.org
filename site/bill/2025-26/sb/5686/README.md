@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/06/2025-session-recap/#:~:text=5686)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5686)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205686)
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=provide%20more%20foreclosure%20protections)

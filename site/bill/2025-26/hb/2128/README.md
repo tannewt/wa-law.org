@@ -1,0 +1,9 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2128](/bill/2025-26/hb/2128/)
+
+# HB 2128 - Concerning alcohol service at facilities with sports, amusement, or recreational activities engaged in by patrons.
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2128&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/06/2025-session-recap/#:~:text=5239)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5239)
 * 04/23/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Slatter bill to help hospitals reduce the cost of storing outdated medical records - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/04/23/governor-signs-slatter-bill-to-help-hospitals-cut-medical-record-storage-costs/#:~:text=5239)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Quick update on week 10! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/21/quick-update-on-week-10/#:~:text=5239)

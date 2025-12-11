@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/06/2025-session-recap/#:~:text=5355)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5355)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205355)
 * 04/22/2025 [Senate Democrats](/org/senate_democrats/) - [Governor signs Orwall bills improving college campus safety, expanding sexual assault training, updating child fatality statute - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/22/governor-signs-orwall-bills-improving-college-campus-safety-expanding-sexual-assault-training-updating-child-fatalities-statute/#:~:text=Senate%20Bill%205355)

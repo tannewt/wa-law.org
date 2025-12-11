@@ -17,6 +17,7 @@
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205284)
 * 07/04/2025 [The Center Square](/org/the_center_square/) - [July’s new and increased taxes and fees just the start for Washingtonians | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4f79027-7abb-40a1-9de9-222b5f833a07.html#:~:text=Senate%20Bill%205284)
 * 05/15/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws improve environmental protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/15/new-state-laws-improve-environmental-protections/#:~:text=SB%205284)
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/06/2025-session-recap/#:~:text=5284)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=5284)
 * 04/30/2025 [The Washington Observer](/org/the_washington_observer/) - [The winners at the 2025 Legislature](https://washingtonobserver.substack.com/p/the-winners-at-the-2025-legislature#:~:text=Senate%20Bill%205284)
 * 04/28/2025 [Axios](/org/axios/) - [Washington state lawmakers end session with tax increases, rent cap - Axios Seattle](https://www.axios.com/local/seattle/2025/04/28/washington-legislature-tax-increases-rent-cap#:~:text=The%20bill)

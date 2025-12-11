@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 11/20/2025 [House Democrats](/org/house_democrats/) - [Chair Dave Paul Named Washington STEM Legislator of the Year – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/11/20/chair-dave-paul-named-washington-stem-legislator-of-the-year/#:~:text=HB%201273)
+* 05/07/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/06/2025-session-recap/#:~:text=1273)
 * 05/03/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session recap - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/05/02/2025-session-recap/#:~:text=1273)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=2SHB%201273)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=2SHB%201273)
