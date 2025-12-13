@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/11/2025 [Gorge News Center](/org/gorge_news_center/) - [Wilson bill would permit voluntary contributions for sea lion control](https://gorgenewscenter.com/2025/12/11/wilson-bill-would-permit-voluntary-contributions-for-sea-lion-control/#:~:text=Senate%20Bill%205851%20,)
+
 ## Meetings

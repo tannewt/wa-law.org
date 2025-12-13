@@ -1383,6 +1383,22 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
+* [SB 5880](sb/5880) - Concerning toxicology testing by certified or accredited laboratories. - S Prefiled
+* [SB 5879](sb/5879) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. - S Prefiled
+* [SB 5878](sb/5878) - Offering plant-based food options in schools. - S Prefiled
+* [SB 5877](sb/5877) - Making a technical correction to the surcharges authorized for certified anesthesiologist assistants. - S Prefiled
+* [SB 5876](sb/5876) - Concerning false identification as a peace officer. - S Prefiled
+* [SB 5875](sb/5875) - Concerning school district liability for violation of the Washington law against discrimination. - S Prefiled
+* [SB 5874](sb/5874) - Concerning employers' information reporting for purposes of unemployment compensation. - S Prefiled
+* [HB 2135](hb/2135) - Modifying and extending the adaptive housing retail sales and use tax preference for disabled veterans. - H Prefiled
+* [HB 2133](hb/2133) - Making the property tax exemption for multipurpose senior citizen centers permanent. - H Prefiled
+* [SB 5873](sb/5873) - Concerning escorted leaves of absence for incarcerated individuals. - S Prefiled
+* [SB 5872](sb/5872) - PreK promise account - S Prefiled
+* [SB 5871](sb/5871) - Vehicle glass repair claims - S Prefiled
+* [SB 5870](sb/5870) - Establishing civil liability for suicide linked to the use of artificial intelligence systems. - S Prefiled
+* [SB 5869](sb/5869) - Construction hazards notice - S Prefiled
+* [HB 2136](hb/2136) - Providing a benefit increase to certain retirees of the teachers' retirement system plan 1. - H Prefiled
+* [HB 2134](hb/2134) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. - H Prefiled
 * [HB 2132](hb/2132) - Concerning applications for state financial aid. - H Prefiled
 * [HB 2131](hb/2131) - Providing for voluntary donations to the sea lion predation control account at the time of vessel registration for the purpose of salmon level preservation. - H Prefiled
 * [HB 2130](hb/2130) - Repealing new taxes imposed by Engrossed Substitute Senate Bill No. 5814 during the 2025 regular legislative session. - H Prefiled
@@ -1411,11 +1427,11 @@
 * [HB 2118](hb/2118) - Community restrictions - H Prefiled
 * [SB 5857](sb/5857) - Concerning architectural and engineering fee funding assistance limits for school district construction and modernization projects. - S Prefiled
 * [SB 5856](sb/5856) - Lubricant emissions - S Prefiled
-* [SB 5855](sb/5855) - Law enf. face coverings 2📰 - S Prefiled
+* [SB 5855](sb/5855) - Law enf. face coverings 3📰 - S Prefiled
 * [SB 5854](sb/5854) - Modifying procedures for releasing sexually violent predators to less restrictive alternative placements. - S Prefiled
 * [SB 5853](sb/5853) - Public official notification - S Prefiled
 * [SB 5852](sb/5852) - Immigrant workers 1📰 - S Prefiled
-* [SB 5851](sb/5851) - Sea lion predation donations - S Prefiled
+* [SB 5851](sb/5851) - Sea lion predation donations 1📰 - S Prefiled
 * [SB 5850](sb/5850) - Signature gathering - S Prefiled
 * [SB 5849](sb/5849) - Financial education - S Prefiled
 * [SB 5848](sb/5848) - School district impact fees - S Prefiled
