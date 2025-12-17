@@ -344,7 +344,7 @@
 * [SB 5528](sb/5528) - Transp. electrification 1📰 306👍 635👎 0❓ - C 233 L 25
 * [SB 5167](sb/5167) - Operating budget 17📰 82👍 658👎 199❓ - C 424 L 25
 * [SB 5659](sb/5659) - Eliminating each local government's proportional share of Washington's housing shortage. 1📰 224👍 711👎 0❓ - S Rules X
-* [SB 5802](sb/5802) - Transportation funds 3📰 130👍 805👎 0❓ - C 418 L 25
+* [SB 5802](sb/5802) - Transportation funds 5📰 130👍 805👎 0❓ - C 418 L 25
 * [SB 5375](sb/5375) - Clergy, duty to report abuse 40📰 565👍 365👎 1❓ - C 197 L 25
 * [HB 1443](hb/1443) - Mobile dwellings 5📰 189👍 730👎 8❓ - H Rules R
 * [HB 1129](hb/1129) - Fertility-related services 2📰 405👍 503👎 6❓ - HApprops
@@ -389,7 +389,7 @@
 * [HB 1525](hb/1525) - Vehicle sales tax/tribes 1📰 15👍 764👎 0❓ - HFinance
 * [HB 1940](hb/1940) - Cannabis industry 23👍 754👎 2❓ - H Finance
 * [HB 2035](hb/2035) - Liquor license fees 3📰 4👍 775👎 0❓ - H Rules R
-* [SB 5332](sb/5332) - Mobile dwellings 2📰 74👍 702👎 2❓ - S Ways & Means
+* [SB 5332](sb/5332) - Mobile dwellings 3📰 74👍 702👎 2❓ - S Ways & Means
 * [HB 1174](hb/1174) - Court interpreters 2📰 100👍 675👎 2❓ - C 55 L 25
 * [HB 1261](hb/1261) - Open space incidental use 368👍 402👎 4❓ - C 138 L 25
 * [HB 1420](hb/1420) - Textile producers 2📰 351👍 417👎 4❓ - H Approps
@@ -643,7 +643,7 @@
 * [SB 5771](sb/5771) - WFTC increase/tenants 2📰 195👍 89👎 2❓ - S Rules X
 * [HB 1199](hb/1199) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code. 1📰 282👍 0👎 3❓ - HConsPro&Bus
 * [HB 1564](hb/1564) - Child care assist./B&O tax 3📰 276👍 5👎 1❓ - HFinance
-* [HB 1160](hb/1160) - Local gov. design review 1📰 229👍 43👎 9❓ - H Rules C
+* [HB 1160](hb/1160) - Local gov. design review 2📰 229👍 43👎 9❓ - H Rules C
 * [HB 1819](hb/1819) - Transmission capacity 1📰 271👍 8👎 1❓ - H Rules 3C
 * [SB 5079](sb/5079) - DSHS overpayments 277👍 3👎 0❓ - C 331 L 25
 * [HB 1549](hb/1549) - Responsible bidder criteria 2📰 253👍 21👎 5❓ - C 63 L 25
@@ -828,7 +828,7 @@
 * [SB 5420](sb/5420) - Veteran benefits access 1📰 125👍 1👎 0❓ - S Rules 3
 * [SB 5749](sb/5749) - Housing opportunity zones 3📰 122👍 4👎 0❓ - S Rules 3
 * [HB 1553](hb/1553) - Dairy inspection program 1📰 116👍 8👎 1❓ - C 41 L 25
-* [SJM 8000](sjm/8000) - Martin Luther King, Jr. Way 2📰 7👍 118👎 0❓ - S Rules 3
+* [SJM 8000](sjm/8000) - Martin Luther King, Jr. Way 3📰 7👍 118👎 0❓ - S Rules 3
 * [HB 1636](hb/1636) - Wine & spirit sales limits 1📰 21👍 103👎 0❓ - C 95 L 25
 * [HB 1703](hb/1703) - Equine industry 114👍 8👎 2❓ - H Approps
 * [SB 5488](sb/5488) - DCYF/financial stability 1📰 122👍 1👎 0❓ - S Rules X
@@ -1383,6 +1383,53 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
+* [SB 5904](sb/5904) - Use of nursing titles - S Prefiled
+* [SB 5903](sb/5903) - Cemetery district elections - S Prefiled
+* [SB 5902](sb/5902) - Voter notifications & forms - S Prefiled
+* [SB 5901](sb/5901) - On-base school construction - S Prefiled
+* [SB 5900](sb/5900) - Cannabis/health facilities - S Prefiled
+* [SB 5899](sb/5899) - Chiropractic/animals - S Prefiled
+* [SB 5898](sb/5898) - Aircraft fuel tax proceeds - S Prefiled
+* [SB 5897](sb/5897) - Pulse oximeters in schools - S Prefiled
+* [SB 5896](sb/5896) - Water quality pollution - S Prefiled
+* [SB 5895](sb/5895) - Ex. medical placement - S Prefiled
+* [SB 5894](sb/5894) - Precious metals tax exempt. - S Prefiled
+* [SB 5893](sb/5893) - Forest health appropriation - S Prefiled
+* [SB 5892](sb/5892) - Voter registration database - S Prefiled
+* [HB 2159](hb/2159) - PreK promise account - H Prefiled
+* [HB 2158](hb/2158) - Electronic notarial acts - H Prefiled
+* [HB 2157](hb/2157) - High-risk AI - H Prefiled
+* [HB 2156](hb/2156) - AGO investigator authority - H Prefiled
+* [HB 2155](hb/2155) - Use of nursing titles - H Prefiled
+* [HB 2154](hb/2154) - Conservation district land - H Prefiled
+* [HB 2153](hb/2153) - Down payment assistance - H Prefiled
+* [HB 2152](hb/2152) - Cannabis/health facilities - H Prefiled
+* [HB 2151](hb/2151) - Factory built structures - H Prefiled
+* [HB 2150](hb/2150) - Climate policy/reporting - H Prefiled
+* [HB 2149](hb/2149) - SR 165 replacements 1📰 - H Prefiled
+* [HB 2148](hb/2148) - Pay it forward program - H Prefiled
+* [SB 5891](sb/5891) - Northern state hospital - S Prefiled
+* [SB 5890](sb/5890) - Reckless driving, speed - S Prefiled
+* [SB 5889](sb/5889) - PFML/public supp. benefits - S Prefiled
+* [SB 5888](sb/5888) - Women's commission members - S Prefiled
+* [SB 5887](sb/5887) - Transfers to charities - S Prefiled
+* [SB 5886](sb/5886) - Forged digital likenesses - S Prefiled
+* [SB 5885](sb/5885) - Housing dev./religious orgs. - S Prefiled
+* [SB 5884](sb/5884) - Underutilized property/tax - S Prefiled
+* [SB 5883](sb/5883) - SEBB membership/second year - S Prefiled
+* [SB 5882](sb/5882) - Correctional workers/stress - S Prefiled
+* [SB 5881](sb/5881) - Enhanced medicaid payments - S Prefiled
+* [HB 2147](hb/2147) - School operating costs - H Prefiled
+* [HB 2146](hb/2146) - Sexual exploitation of minor - H Prefiled
+* [HB 2145](hb/2145) - 340B drug pricing program - H Prefiled
+* [HB 2144](hb/2144) - Employee monitoring notices - H Prefiled
+* [HB 2143](hb/2143) - Transp. district boards - H Prefiled
+* [HB 2142](hb/2142) - Remote and hybrid learning - H Prefiled
+* [HB 2141](hb/2141) - Building codes - H Prefiled
+* [HB 2140](hb/2140) - Current use land/sale to gov - H Prefiled
+* [HB 2139](hb/2139) - Snowmobile registration fees - H Prefiled
+* [HB 2138](hb/2138) - Student performance - H Prefiled
+* [HB 2137](hb/2137) - Correctional officers/arb. - H Prefiled
 * [SB 5880](sb/5880) - Concerning toxicology testing by certified or accredited laboratories. - S Prefiled
 * [SB 5879](sb/5879) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. - S Prefiled
 * [SB 5878](sb/5878) - Offering plant-based food options in schools. - S Prefiled
@@ -1408,7 +1455,7 @@
 * [HB 2126](hb/2126) - Providing an exemption for taxes on fuel used in school buses. - H Prefiled
 * [HB 2125](hb/2125) - Concerning payment of expenses from the earnings of retirement system trust funds. - H Prefiled
 * [HB 2124](hb/2124) - Concerning the threshold for payment of a lump sum retirement allowance in lieu of a monthly benefit. - H Prefiled
-* [HB 2123](hb/2123) - Concerning foreign national participation in Washington state elections. - H Prefiled
+* [HB 2123](hb/2123) - Concerning foreign national participation in Washington state elections. 1📰 - H Prefiled
 * [SB 5868](sb/5868) - Adding an additional superior court judge in Skagit county and in Yakima county. - S Prefiled
 * [SB 5867](sb/5867) - Partnering with a mobile pregnancy application to improve maternal and infant health. - S Prefiled
 * [SB 5866](sb/5866) - Increasing frontline staffing within the department of children, youth, and families. - S Prefiled
@@ -1484,7 +1531,7 @@
 * [SB 5822](sb/5822) - Concerning missing persons alert systems. - S Prefiled
 * [SB 5821](sb/5821) - Integrating advanced nuclear energy into the state energy strategy. - S Prefiled
 * [HB 2095](hb/2095) - Protecting vulnerable users of public ways. - H Prefiled
-* [HB 2094](hb/2094) - Requiring coroners to be appointed rather than elected. - H Prefiled
+* [HB 2094](hb/2094) - Requiring coroners to be appointed rather than elected. 1📰 - H Prefiled
 * [HB 2093](hb/2093) - Reinstating the tax exemptions for the sale of precious metals and bullion. 3📰 - H Prefiled
 * [HB 2092](hb/2092) - Establishing a passenger rail advisory committee. - H Prefiled
 * [HB 2091](hb/2091) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. - H Prefiled

@@ -1,0 +1,30 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5881](/bill/2025-26/sb/5881/) > [Original Bill](/bill/2025-26/sb/5881/1/)
+
+# SB 5881 - Enhanced medicaid payments
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5881.pdf)
+
+## Section 1
+The medicaid enhanced provider rate account is created in the state treasury. At the beginning of each fiscal year, the state treasurer shall transfer the amount calculated by the authority under section 2 of this act from the general fund to the medicaid enhanced provider rate account. Moneys in the account may be spent only after appropriation for the purpose of increased medicaid reimbursement rates to providers and hospitals in the state.
+
+## Section 2
+1. By June 30th of each year, the authority shall calculate and report to the office of the state treasurer and the fiscal committees of the legislature the amount of state expenditures that would have been made for the state's medicaid program under federal and state law as it existed prior to July 1, 2025, but were not made due to reforms under P.L. 119-21, for the prior fiscal year.
+
+2. Amounts calculated under this section must include, but not be limited to, decreased state expenditures or lapsed appropriations from:
+
+    a. The moratoriums on implementation of rules relating to eligibility and enrollment in medicare savings programs, the medical assistance program, as codified at Title XIX of the federal social security act, the state children's health insurance program, as codified at Title XXI of the federal social security act, and P.L. 119-21 Secs. 71101 and 71102;
+
+    b. Decreased medicaid caseload due to individuals' failure to pass additional eligibility redeterminations required by 42 U.S.C. Sec. 1396a(e)(14), P.L. 119-21 Sec. 71107;
+
+    c. Decreased medicaid caseload due to individuals' failure to meet community engagement requirements under 42 U.S.C. Sec. 1396a(xx), P.L. 119-21 Sec. 71119;
+
+    d. Disenrollment of deceased individuals from medicaid coverage as required by enhanced verification standards under 42 U.S.C. Sec. 1396a(ww), P.L. 119-21 Sec. 71104;
+
+    e. Reductions in the period of retroactive coverage for the medical assistance program, as codified at Title XIX of the federal social security act, or the state children's health insurance program, as codified at Title XXI of the federal social security act under 42 U.S.C. Secs. 1396a(a)(34) and 1397bb(b)(1)(B), P.L. 119-21 Sec. 71112; and
+
+    f. Modifications to cost sharing requirements for certain medicaid expansion enrollees, 42 U.S.C. Sec. 1396o, P.L. 119-21 Sec. 71120.
+
+3. The report required under this section must include a description of the methodology used to calculate the amount of decreased expenditures, including references to caseload and expenditure data.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

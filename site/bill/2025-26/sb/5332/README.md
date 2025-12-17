@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 11/25/2025 [The Washington Observer](/org/the_washington_observer/) - [A weird D-on-D fight over immigration](https://washingtonobserver.substack.com/p/a-weird-d-on-d-fight-over-immigration#:~:text=bid)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [WA’s most impactful housing bills  | Sightline Institute](https://www.sightline.org/release/was-most-impactful-housing-bills/#:~:text=SB%205332)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205332)
 

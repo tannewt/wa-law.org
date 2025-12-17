@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 12/16/2025 [Senate Democrats](/org/senate_democrats/) - [WA Transportation Commission approves Martin Luther King Jr. Way extension following Sen. Kauffman memorial - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/12/16/wa-transportation-commission-approves-martin-luther-king-jr-way-extension-following-sen-kauffman-memorial/#:~:text=Senate%20Joint%20Memorial%208000)
 * 04/15/2025 [Senate Democrats](/org/senate_democrats/) - [In the home stretch - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/04/15/in-the-home-stretch/#:~:text=SJM%208000)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SJM%208000)
 

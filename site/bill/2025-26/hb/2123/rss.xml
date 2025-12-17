@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2123/</link>
 		<description>Updates about HB 2123</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Dec 2025 12:44:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-10/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>WA bill would remove PDC filing requirement concerning foreign nationals | Washington | thecentersquare.com</title>
+			<description>News article "WA bill would remove PDC filing requirement concerning foreign nationals | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 15 Dec 2025 12:44:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_7f94bb25-5652-40f1-974b-ce0102d5aea1.html#:~:text=House%20Bill%202123</guid>
 		</item>
 	</channel>
 </rss>

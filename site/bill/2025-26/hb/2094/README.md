@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/12/2025 [The Stranger](/org/the_stranger/) - [Republican Lawmaker Wants to Kill Coroner Elections - The Stranger](https://www.thestranger.com/news/2025/12/12/80370352/republican-lawmaker-wants-to-kill-coroner-elections#:~:text=prefiled%20a%20bill)
+
 ## Meetings
