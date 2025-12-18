@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/17/2025 [The Center Square](/org/the_center_square/) - [WATCH: Oversight board meets as 2025 closes with record WA child deaths/near deaths | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_abd8b714-12ce-4e07-8b50-ed907c2ea44a.html#:~:text=House%20Bill%201092)
 * 11/07/2025 [The Center Square](/org/the_center_square/) - [2025 on track for most deaths, near deaths for children under DCYF supervision | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_56a3d05c-c8f0-4ee1-82b7-3aa214098fe4.html#:~:text=House%20Bill%201092)
 * 08/26/2025 [KUOW](/org/kuow/) - [KUOW - Debate flares over WA child welfare law after rise in deaths and injuries](https://www.kuow.org/stories/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries#:~:text=drafted%20a%20bill)
 * 08/25/2025 [Washington State Standard](/org/washington_state_standard/) - [Debate flares over WA child welfare law after rise in deaths and injuries • Washington State Standard](https://washingtonstatestandard.com/2025/08/25/debate-flares-over-wa-child-welfare-law-after-rise-in-deaths-and-injuries/#:~:text=drafted%20a%20bill)

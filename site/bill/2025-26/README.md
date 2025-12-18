@@ -1383,6 +1383,25 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
+* [SB 5916](sb/5916) - Nonopioid drugs for pain - S Prefiled
+* [SB 5915](sb/5915) - Health technology assessment - S Prefiled
+* [SB 5914](sb/5914) - Public defense services - S Prefiled
+* [SB 5913](sb/5913) - Public defense caseloads - S Prefiled
+* [SB 5912](sb/5912) - Indigent defense task force - S Prefiled
+* [SB 5911](sb/5911) - DCYF/financial stability - S Prefiled
+* [SB 5910](sb/5910) - School communications - S Prefiled
+* [SB 5909](sb/5909) - Undergraduate programs - S Prefiled
+* [SB 5908](sb/5908) - WDFW public participation - S Prefiled
+* [SB 5907](sb/5907) - ECEAP access/military - S Prefiled
+* [SB 5906](sb/5906) - Data and personal safety 2📰 - S Prefiled
+* [SB 5905](sb/5905) - Port workers PERS membership - S Prefiled
+* [HB 2166](hb/2166) - Major religious holidays - H Prefiled
+* [HB 2165](hb/2165) - Peace officer false ident. - H Prefiled
+* [HB 2164](hb/2164) - Postconviction DNA testing - H Prefiled
+* [HB 2163](hb/2163) - Public defense caseloads - H Prefiled
+* [HB 2162](hb/2162) - Public interest law grants - H Prefiled
+* [HB 2161](hb/2161) - AGO investigation powers - H Prefiled
+* [HB 2160](hb/2160) - SEBB membership/second year - H Prefiled
 * [SB 5904](sb/5904) - Use of nursing titles - S Prefiled
 * [SB 5903](sb/5903) - Cemetery district elections - S Prefiled
 * [SB 5902](sb/5902) - Voter notifications & forms - S Prefiled
@@ -2028,7 +2047,7 @@
 * [SB 5096](sb/5096) - Removing references to pregnancy from the model directive form under the natural death act. - SLaw & Justice
 * [HB 1100](hb/1100) - Local sales and use tax - HFinance
 * [SB 5078](sb/5078) - Agricultural real estate - SLaw & Justice
-* [HB 1092](hb/1092) - Children/controlled sub. 6📰 - HEL & Human Svc
+* [HB 1092](hb/1092) - Children/controlled sub. 7📰 - HEL & Human Svc
 * [SB 5073](sb/5073) - Motor vehicles sales tax use - SWays & Means
 * [HB 1089](hb/1089) - Eviction reform - HHousing
 * [HB 1088](hb/1088) - Residential landlord-tenant - HHousing

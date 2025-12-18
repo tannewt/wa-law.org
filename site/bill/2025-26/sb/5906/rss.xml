@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5906 - Data and personal safety</title>
+		<link>https://wa-law.org/bill/2025-26/sb/5906/</link>
+		<description>Updates about SB 5906</description>
+		<language>en-US</language>
+		<lastBuildDate>Thu, 18 Dec 2025 00:48:14 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-12-17/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>Hansen files bill protecting students, childcare workers, and patients against ICE raids - Sen. Drew Hansen</title>
+			<description>News article "Hansen files bill protecting students, childcare workers, and patients against ICE raids - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Thu, 18 Dec 2025 00:45:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2025/12/17/hansen-files-bill-protecting-students-childcare-workers-and-patients-against-ice-raids/#:~:text=SB%205906</guid>
+		</item>
+		<item>
+			<title>Hansen presenta proyecto de ley para proteger a estudiantes, trabajadores de guarderías y pacientes médicos de redadas de ICE - Sen. Drew Hansen</title>
+			<description>News article "Hansen presenta proyecto de ley para proteger a estudiantes, trabajadores de guarderías y pacientes médicos de redadas de ICE - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Thu, 18 Dec 2025 00:48:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2025/12/17/hansen-presenta-proyecto-de-ley-para-proteger-a-estudiantes-trabajadores-de-guarderias-y-pacientes-medicos-de-redadas-de-ice/#:~:text=SB%205906</guid>
+		</item>
+	</channel>
+</rss>
