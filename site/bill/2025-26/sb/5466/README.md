@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 12/18/2025 [Sightline Institute](/org/sightline_institute/) - [How the 2026 Washington Legislature Can Right-Size the Power Grid | Sightline Institute](https://www.sightline.org/2025/12/18/how-the-2026-washington-legislature-can-right-size-the-power-grid/#:~:text=state%20transmission%20authority%20in%202025)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205466)
 
 ## Meetings

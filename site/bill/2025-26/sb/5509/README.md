@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/18/2025 [Sightline Institute](/org/sightline_institute/) - [How the 2026 Washington Legislature Can Right-Size the Power Grid | Sightline Institute](https://www.sightline.org/2025/12/18/how-the-2026-washington-legislature-can-right-size-the-power-grid/#:~:text=Senate%20Bill%20559)
 * 05/14/2025 [The Washington Observer](/org/the_washington_observer/) - [Another mild veto - by Tim Gruver and Paul Queary](https://washingtonobserver.substack.com/p/another-mild-veto#:~:text=Senate%20Bill%205509)
 * 05/05/2025 [Senate Democrats](/org/senate_democrats/) - [End of session - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/05/04/3049/#:~:text=SB%205509)
 * 04/09/2025 [The Urbanist](/org/the_urbanist/) - [Snohomish County Permits Childcare Providers More Places, State May Follow Suit - The Urbanist](https://www.theurbanist.org/2025/04/09/snohomish-county-permits-childcare-providers-more-places/#:~:text=considering%20legislation)

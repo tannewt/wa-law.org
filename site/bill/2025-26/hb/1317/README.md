@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 12/18/2025 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Second Look Pathway for Youth - ACLU of Washington](https://www.aclu-wa.org/legislation/second-look-pathway-for-youth/#:~:text=HB%201317)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201317)
 
 ## Meetings

@@ -54,12 +54,12 @@
 * [HB 1710](hb/1710) - Voting rights act compliance 3📰 825👍 3465👎 4❓ - H Rules C
 * [SB 5626](sb/5626) - Wage replacement 5📰 1787👍 2460👎 8❓ - S Ways & Means
 * [SB 5007](sb/5007) - Supporting students who are chronically absent and at risk for not graduating high school. 5📰 463👍 3784👎 1❓ - S Ways & Means
-* [HB 1274](hb/1274) - Juvenile convictions/score 4📰 3485👍 717👎 25❓ - H Rules R
+* [HB 1274](hb/1274) - Juvenile convictions/score 5📰 3485👍 717👎 25❓ - H Rules R
 * [SB 5737](sb/5737) - National board bonuses 2📰 102👍 4045👎 11❓ - S Ways & Means
 * [HB 1213](hb/1213) - Paid family & medical leave 13📰 938👍 3204👎 7❓ - C 304 L 25
 * [HB 1462](hb/1462) - Hydrofluorocarbons 6📰 1247👍 2866👎 16❓ - C 313 L 25
 * [HB 1338](hb/1338) - School operating costs 9📰 2515👍 1223👎 4❓ - H APPDPS
-* [SB 5466](sb/5466) - Electric transmission system 1📰 1138👍 2560👎 23❓ - S Rules 3
+* [SB 5466](sb/5466) - Electric transmission system 2📰 1138👍 2560👎 23❓ - S Rules 3
 * [HB 1677](hb/1677) - Postsecondary/med. abortion 1📰 887👍 2793👎 0❓ - HPostsec Ed & W
 * [HB 1409](hb/1409) - Clean fuels program 15📰 1002👍 2662👎 13❓ - C 319 L 25
 * [SB 5177](sb/5177) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 10📰 826👍 2764👎 4❓ - S Rules 3
@@ -287,7 +287,7 @@
 * [SB 5234](sb/5234) - Snowmobile registration fees 26👍 1112👎 1❓ - S Rules 3
 * [SB 5009](sb/5009) - Student transp. vehicles 2📰 602👍 523👎 1❓ - C 372 L 25
 * [HB 1096](hb/1096) - Lot splitting 21📰 1073👍 35👎 17❓ - C 301 L 25
-* [HB 1317](hb/1317) - Sentences/offenses before 21 1📰 1060👍 54👎 8❓ - H Rules R
+* [HB 1317](hb/1317) - Sentences/offenses before 21 2📰 1060👍 54👎 8❓ - H Rules R
 * [HB 1668](hb/1668) - Community custody 1📰 471👍 649👎 1❓ - H APPDP2S
 * [SB 5740](sb/5740) - Eviction reform 2📰 291👍 827👎 3❓ - S Housing
 * [HB 1395](hb/1395) - Home care worker background 2📰 426👍 651👎 40❓ - C 214 L 25
@@ -594,7 +594,7 @@
 * [SB 5768](sb/5768) - Working families' tax credit 3📰 278👍 88👎 2❓ - S Rules X
 * [HB 1707](hb/1707) - Noxious weeds list/crops 286👍 76👎 5❓ - H Rules R
 * [HB 1207](hb/1207) - Superior court clerk fees 2📰 13👍 328👎 23❓ - C 357 L 25
-* [SB 5509](sb/5509) - Child care center siting 4📰 339👍 16👎 8❓ - C 276 L 25
+* [SB 5509](sb/5509) - Child care center siting 5📰 339👍 16👎 8❓ - C 276 L 25
 * [HB 1639](hb/1639) - Medicare advantage discl. 1📰 355👍 3👎 2❓ - HHC/Wellness
 * [SB 5807](sb/5807) - Health plan incentives 5👍 348👎 7❓ - C 396 L 25
 * [SB 5479](sb/5479) - Open space incidental use 72👍 286👎 1❓ - S Ways & Means
@@ -1383,6 +1383,12 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
+* [SB 5918](sb/5918) - Providing funding for school materials, supplies, and operating costs. - S Prefiled
+* [HB 2170](hb/2170) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. - H Prefiled
+* [SB 5917](sb/5917) - Improving access to abortion medications. - S Prefiled
+* [HB 2169](hb/2169) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. - H Prefiled
+* [HB 2168](hb/2168) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. - H Prefiled
+* [HB 2167](hb/2167) - Keeping the legislature's promises by reducing the sales tax in the event of an income tax or a tax on individual earnings. - H Prefiled
 * [SB 5916](sb/5916) - Nonopioid drugs for pain - S Prefiled
 * [SB 5915](sb/5915) - Health technology assessment - S Prefiled
 * [SB 5914](sb/5914) - Public defense services - S Prefiled
@@ -1421,7 +1427,7 @@
 * [HB 2156](hb/2156) - AGO investigator authority - H Prefiled
 * [HB 2155](hb/2155) - Use of nursing titles - H Prefiled
 * [HB 2154](hb/2154) - Conservation district land - H Prefiled
-* [HB 2153](hb/2153) - Down payment assistance - H Prefiled
+* [HB 2153](hb/2153) - Down payment assistance 1📰 - H Prefiled
 * [HB 2152](hb/2152) - Cannabis/health facilities - H Prefiled
 * [HB 2151](hb/2151) - Factory built structures - H Prefiled
 * [HB 2150](hb/2150) - Climate policy/reporting - H Prefiled

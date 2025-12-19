@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1274/</link>
 		<description>Updates about HB 1274</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Dec 2025 21:21:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -315,6 +315,13 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Fair Score Act - ACLU of Washington</title>
+			<description>News article "Fair Score Act - ACLU of Washington" from American Civil Liberties Union of Washington.</description>
+			<pubDate>Thu, 18 Dec 2025 21:21:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.aclu-wa.org/legislation/fair-score-act/#:~:text=HB%201274</guid>
 		</item>
 	</channel>
 </rss>
