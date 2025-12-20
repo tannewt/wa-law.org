@@ -1383,11 +1383,23 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
+* [SB 5922](sb/5922) - Transportation vehicle fund - S Prefiled
+* [SB 5921](sb/5921) - Psilocybin - S Prefiled
+* [SB 5920](sb/5920) - School district PRA requests - S Prefiled
+* [SB 5919](sb/5919) - Fire best practices - S Prefiled
+* [HB 2173](hb/2173) - Law enf. face coverings - H Prefiled
+* [HB 2178](hb/2178) - Court rules and procedures - H Prefiled
+* [HB 2177](hb/2177) - Definition of fetal death - H Prefiled
+* [HB 2176](hb/2176) - Drug therapy agreements/PRA - H Prefiled
+* [HB 2175](hb/2175) - Free DME providers/tax - H Prefiled
+* [HB 2174](hb/2174) - Accident risk zones - H Prefiled
+* [HB 2172](hb/2172) - Road jurisdiction transfer - H Prefiled
+* [HB 2171](hb/2171) - Foster youth - H Prefiled
 * [SB 5918](sb/5918) - Providing funding for school materials, supplies, and operating costs. - S Prefiled
 * [HB 2170](hb/2170) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. - H Prefiled
 * [SB 5917](sb/5917) - Improving access to abortion medications. - S Prefiled
 * [HB 2169](hb/2169) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. - H Prefiled
-* [HB 2168](hb/2168) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. - H Prefiled
+* [HB 2168](hb/2168) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. 1📰 - H Prefiled
 * [HB 2167](hb/2167) - Keeping the legislature's promises by reducing the sales tax in the event of an income tax or a tax on individual earnings. - H Prefiled
 * [SB 5916](sb/5916) - Nonopioid drugs for pain - S Prefiled
 * [SB 5915](sb/5915) - Health technology assessment - S Prefiled
@@ -1431,7 +1443,7 @@
 * [HB 2152](hb/2152) - Cannabis/health facilities - H Prefiled
 * [HB 2151](hb/2151) - Factory built structures - H Prefiled
 * [HB 2150](hb/2150) - Climate policy/reporting - H Prefiled
-* [HB 2149](hb/2149) - SR 165 replacements 1📰 - H Prefiled
+* [HB 2149](hb/2149) - SR 165 replacements 3📰 - H Prefiled
 * [HB 2148](hb/2148) - Pay it forward program - H Prefiled
 * [SB 5891](sb/5891) - Northern state hospital - S Prefiled
 * [SB 5890](sb/5890) - Reckless driving, speed - S Prefiled
@@ -1604,7 +1616,7 @@
 * [HB 2053](hb/2053) - State employment FTE limit - H Approps
 * [HB 2052](hb/2052) - Agricultural overtime waiver - H Labor & Workpl
 * [SB 5792](sb/5792) - State employee compensation - S Ways & Means
-* [SB 5800](sb/5800) - Transportation funding bonds 5📰 - S Rules 3
+* [SB 5800](sb/5800) - Transportation funding bonds 7📰 - S Rules 3
 * [HB 2042](hb/2042) - Federal employee hiring pref - H State Govt & T
 * [SB 5799](sb/5799) - Youth behavioral health acc. 1📰 - S Ways & Means
 * [SB 5793](sb/5793) - Public employee health plans - S Ways & Means
@@ -1702,7 +1714,7 @@
 * [HB 1943](hb/1943) - Blood donation/school instr. - H Education
 * [HB 1942](hb/1942) - AI economic development - H Tech, Econ Dev
 * [HB 1939](hb/1939) - FIFA world cup/low-income - H Tech, Econ Dev
-* [HB 1933](hb/1933) - Overdose information - H HC/Wellness
+* [HB 1933](hb/1933) - Overdose information 1📰 - H HC/Wellness
 * [SB 5713](sb/5713) - Chemical abortion - S Law & Justice
 * [SB 5709](sb/5709) - Public health clinics/tax - S Ways & Means
 * [SB 5707](sb/5707) - Subscriber emails/PRA - S State Gov/Trib

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/20/2025 [Washington State Standard](/org/washington_state_standard/) - [What to know about WA Gov. Bob Ferguson’s $3B transportation spending plan • Washington State Standard](https://washingtonstatestandard.com/2025/12/19/what-to-know-about-wa-gov-bob-fergusons-3b-transportation-spending-plan/#:~:text=push%20a%20bill)
+* 12/19/2025 [Gorge News Center](/org/gorge_news_center/) - [What to know about WA Gov. Bob Ferguson’s $3B transportation spending plan](https://gorgenewscenter.com/2025/12/19/what-to-know-about-wa-gov-bob-fergusons-3b-transportation-spending-plan/#:~:text=push%20a%20bill)
 * 12/16/2025 [The Center Square](/org/the_center_square/) - [Republicans propose bill to restore access to historic gateway to Mount Rainier | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2f3537d4-4a71-4e93-b469-25efc968665c.html#:~:text=House%20Bill%202149)
 
 ## Meetings

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/19/2025 [The Center Square](/org/the_center_square/) - [Republican proposes near-real-time overdose dashboard ahead of 2026 session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0a5e912e-156a-45c3-ba14-28198882c137.html#:~:text=stalled)
+
 ## Meetings
