@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/22/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Racial disparities persist with Washington State Patrol traffic stops](https://www.spokesman.com/stories/2025/dec/22/racial-disparities-persist-with-washington-state-p/#:~:text=Traffic%20Safety%20for%20All%20Act)
+* 12/22/2025 [Washington State Standard](/org/washington_state_standard/) - [Racial disparities persist with WA state patrol traffic stops • Washington State Standard](https://washingtonstatestandard.com/2025/12/22/racial-disparities-persist-with-wa-state-patrol-traffic-stops/#:~:text=Traffic%20Safety%20for%20All%20Act)
 * 02/22/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2025/02/22/rip-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%201512)
 * 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill would set new limits on when police can stop drivers • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/wa-bill-would-set-new-limits-on-when-police-can-stop-drivers/#:~:text=House%20Bill%201512)
 * 02/10/2025 [MyNorthwest](/org/mynorthwest/) - [Reducing traffic stops: Bill proposes warnings by mail](https://mynorthwest.com/mynorthwest-politics/traffic-stops/4043514#:~:text=House%20Bill%201512)

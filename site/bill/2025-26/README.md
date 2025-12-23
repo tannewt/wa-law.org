@@ -97,7 +97,7 @@
 * [HB 1132](hb/1132) - Bulk firearm purchases 16📰 774👍 1940👎 1❓ - H Rules R
 * [HB 1052](hb/1052) - Hate crime offense 21📰 41👍 2633👎 1❓ - C 249 L 25
 * [HB 1152](hb/1152) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 15📰 812👍 1861👎 2❓ - H Rules R
-* [HB 1512](hb/1512) - Traffic safety 6📰 2218👍 430👎 11❓ - HCommunity Safe
+* [HB 1512](hb/1512) - Traffic safety 8📰 2218👍 430👎 11❓ - HCommunity Safe
 * [HB 1432](hb/1432) - Mental health services 3📰 2434👍 182👎 13❓ - C 227 L 25
 * [HB 1764](hb/1764) - Labor standards 4📰 855👍 1749👎 17❓ - HLabor & Workpl
 * [SB 5769](sb/5769) - Transition to kindergarten 4📰 73👍 2521👎 15❓ - C 342 L 25
@@ -1383,6 +1383,21 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
+* [SB 5930](sb/5930) - Concerning irrigation district director beneficial interests in contracts. - S Prefiled
+* [SB 5929](sb/5929) - Exempting assignments or substitutions of previously recorded deeds of trust from the document recording fee and the covenant homeownership program assessment. - S Prefiled
+* [SB 5928](sb/5928) - Concerning wildfire risk models and score disclosure. - S Prefiled
+* [SB 5927](sb/5927) - Workers' comp. adjustments - S Prefiled
+* [SB 5926](sb/5926) - Child care providers/PRA - S Prefiled
+* [SB 5925](sb/5925) - AGO investigation powers - S Prefiled
+* [SB 5924](sb/5924) - Pharmacist prescriptive auth - S Prefiled
+* [SB 5923](sb/5923) - Hospitals in Skagit county - S Prefiled
+* [HB 2185](hb/2185) - Concerning the office of homeless youth prevention and protection programs advisory committee. - H Prefiled
+* [HB 2184](hb/2184) - Concerning occupational therapists performing intramuscular needling. - H Prefiled
+* [HB 2183](hb/2183) - Requiring counties to develop and implement heat response plans. - H Prefiled
+* [HB 2182](hb/2182) - Improving access to abortion medications. - H Prefiled
+* [HB 2181](hb/2181) - Atmospheric river response - H Prefiled
+* [HB 2180](hb/2180) - Coaches of youth sports - H Prefiled
+* [HB 2179](hb/2179) - Port workers PERS membership - H Prefiled
 * [SB 5922](sb/5922) - Transportation vehicle fund - S Prefiled
 * [SB 5921](sb/5921) - Psilocybin - S Prefiled
 * [SB 5920](sb/5920) - School district PRA requests - S Prefiled
