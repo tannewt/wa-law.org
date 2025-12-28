@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=SB%205217)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205217)
 * 06/18/2025 [Senate Democrats](/org/senate_democrats/) - [New laws improve worker protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=SB%205217)
 * 05/20/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand pregnancy-related workplace accommodations signed into law - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/05/20/nobles-bill-to-expand-pregnancy-related-workplace-accommodations-signed-into-law/#:~:text=Senate%20Bill%205217)

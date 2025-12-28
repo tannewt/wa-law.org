@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=HB%201696)
 * 06/02/2025 [Senate Democrats](/org/senate_democrats/) - [Housing solutions you can count on - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/06/02/housing-solutions-you-can-count-on/#:~:text=HB%201696)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201696)
 * 05/08/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature boosts support for affordable housing - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/05/08/legislature-boosts-support-for-affordable-housing/#:~:text=HB%201696)

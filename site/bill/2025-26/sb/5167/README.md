@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=SB%205167)
 * 09/15/2025 [Washington State Standard](/org/washington_state_standard/) - [WA state workers OK new contract with retroactive pay hikes • Washington State Standard](https://washingtonstatestandard.com/2025/09/15/wa-state-workers-ok-new-contract-with-retroactive-pay-hikes/#:~:text=the%20state%20budget)
 * 09/15/2025 [Gorge News Center](/org/gorge_news_center/) - [WA state workers OK new contract with retroactive pay hikes](https://gorgenewscenter.com/2025/09/15/wa-state-workers-ok-new-contract-with-retroactive-pay-hikes/#:~:text=the%20state%20budget)
 * 09/02/2025 [Washington State Standard](/org/washington_state_standard/) - [A new agreement could get Washington state workers the wage hikes they lost • Washington State Standard](https://washingtonstatestandard.com/2025/09/02/a-new-agreement-could-get-washington-state-workers-the-wage-hikes-they-lost/#:~:text=the%20state%20budget)

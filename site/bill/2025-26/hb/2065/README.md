@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/26/2025 [Gorge News Center](/org/gorge_news_center/) - [Travis Couture seeks to roll back soaring college administration levels as student enrollment falls](https://gorgenewscenter.com/2025/12/26/travis-couture-seeks-to-roll-back-soaring-college-administration-levels-as-student-enrollment-falls/#:~:text=legislation%20to%20roll%20back%20staffing%20levels)
+
 ## Meetings

@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=HB%201102)
 * 05/19/2025 [House Democrats](/org/house_democrats/) - [Shavers’ Bill to Expand Veteran Services signed into law.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/05/19/shavers-bill-to-expand-veteran-services-signed-into-law/#:~:text=House%20Bill%201102)
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201102)
 

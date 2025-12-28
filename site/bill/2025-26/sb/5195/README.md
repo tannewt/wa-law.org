@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=SB%205195)
 * 05/22/2025 [House Republicans](/org/house_republicans/) - [What happened in the 2025 legislative session? | Washington State House Republicans](https://houserepublicans.wa.gov/what-happened-2025/#:~:text=Senate%20Bill%205195)
 * 05/21/2025 [MyNorthwest](/org/mynorthwest/) - [Gee and Ursula blast new Washington budget: 'It's exhausting'](https://mynorthwest.com/kiro-opinion/gee-ursula-washington-budget/4090557#:~:text=SSB%205195,)
 * 05/20/2025 [The Center Square](/org/the_center_square/) - ['Largest tax increase in state history': Gov signs WA's $78B operating budget into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c04a88ac-3e34-4db7-b53a-aeb831843ba3.html#:~:text=SB%205195)

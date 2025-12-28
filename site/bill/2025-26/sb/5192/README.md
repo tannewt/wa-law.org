@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=(%20SB%205192)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=SB%205192)
 * 09/02/2025 [Senate Democrats](/org/senate_democrats/) - [Stronger Schools, Stronger Communities - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/09/02/stronger-schools-stronger-communities/#:~:text=SB%205192)
 * 07/09/2025 [Senate Democrats](/org/senate_democrats/) - [Education that works for every student - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/07/09/education-that-works-for-every-student/#:~:text=SB%205192)

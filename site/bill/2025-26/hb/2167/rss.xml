@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2167/</link>
 		<description>Updates about HB 2167</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Dec 2025 23:10:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,27 @@
 			<pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-18/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>Ferguson backs income tax on WA residents earning over $1M</title>
+			<description>News article "Ferguson backs income tax on WA residents earning over $1M" from Gorge News Center.</description>
+			<pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2025/12/23/ferguson-backs-income-tax-on-wa-residents-earning-over-1m/#:~:text=filed%20a%20bill</guid>
+		</item>
+		<item>
+			<title>Gov. Ferguson announces support for millionaires’ tax | FOX 13 Seattle</title>
+			<description>News article "Gov. Ferguson announces support for millionaires’ tax | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Tue, 23 Dec 2025 15:36:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-gov-ferguson-backs-income-tax-wa-residents-earning-over-1m#:~:text=filed%20a%20bill</guid>
+		</item>
+		<item>
+			<title>Ferguson backs income tax on WA residents earning over $1M • Washington State Standard</title>
+			<description>News article "Ferguson backs income tax on WA residents earning over $1M • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 23 Dec 2025 23:10:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/12/23/ferguson-backs-income-tax-on-wa-residents-earning-over-1m/#:~:text=filed%20a%20bill</guid>
 		</item>
 	</channel>
 </rss>
