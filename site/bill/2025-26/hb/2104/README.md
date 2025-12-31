@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/29/2025 [Gorge News Center](/org/gorge_news_center/) - [Dent seeks to make temporary early wildfire air support program permanent](https://gorgenewscenter.com/2025/12/29/dent-seeks-to-make-temporary-early-wildfire-air-support-program-permanent/#:~:text=House%20Bill%202104)
+
 ## Meetings

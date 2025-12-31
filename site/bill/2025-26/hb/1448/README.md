@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 12/30/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Bill Alert: HB 2210 - Ranked Choice Voting is Back, Repackaged and More Dangerous Than Ever - Conservative Ladies of Washington](https://conservativeladiesofwa.com/hb-2210-ranked-choice-voting-washington/#:~:text=HB%201448)
 * 02/04/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Two different approaches to Ranked Choice Voting introduced | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_c6f5ff86-e28e-11ef-9b01-a36d7e577bc3.html#:~:text=House%20Bill%201448)
 * 01/29/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers consider overhaul of local elections with ranked choice voting option | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_167954f4-de84-11ef-8c2e-2f0d90650d98.html#:~:text=House%20Bill%201448)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [WA eyeing overhauling elections with ranked choice voting](https://mynorthwest.com/mynorthwest-politics/ranked-choice-voting/4035948#:~:text=House%20Bill%201448)

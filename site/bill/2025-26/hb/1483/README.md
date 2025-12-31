@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/30/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [These new laws and taxes take effect in Washington state on Jan. 1 | Cascadia Daily News](https://www.cascadiadaily.com/2025/dec/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=House%20Bill%201483)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB%201483)
 * 06/25/2025 [Senate Democrats](/org/senate_democrats/) - [New state laws strengthen consumer protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/25/new-state-laws-strengthen-consumer-protections/#:~:text=HB%201483)
 * 05/27/2025 [Washington State Standard](/org/washington_state_standard/) - [WA consumers will gain ‘right to repair’ cellphones and other electronics • Washington State Standard](https://washingtonstatestandard.com/2025/05/27/wa-consumers-will-gain-right-to-repair-cellphones-and-other-electronics/#:~:text=House%20Bill%201483)
