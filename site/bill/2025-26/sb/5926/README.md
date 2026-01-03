@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/31/2025 [The Center Square](/org/the_center_square/) - [Controversy, debate intensifies regarding WA child care center fraud allegations | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ff873dfc-55d3-46d4-9088-1fcc6d2d8898.html#:~:text=Senate%20Bill%205926)
+
 ## Meetings

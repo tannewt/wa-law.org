@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/02/2026 [KIRO7](/org/kiro7/) - [Looking at Washington’s rent control impact going into 2026 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/looking-washingtons-rent-control-impact-going-into-2026/BZT3NRK2KBG4ROKPNXB2AZXEQI/#:~:text=HB%201217)
 * 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=HB%201217)
 * 11/05/2025 [Washington State Standard](/org/washington_state_standard/) - [Democratic incumbents ahead in most WA legislative races • Washington State Standard](https://washingtonstatestandard.com/2025/11/04/democratic-incumbents-ahead-in-most-wa-legislative-races/#:~:text=the%20new%20cap%20on%20residential%20rent%20increases)
 * 10/31/2025 [Senate Democrats](/org/senate_democrats/) - [Last legislative session, and the next - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/10/31/last-legislative-session-and-the-next/#:~:text=HB%201217)

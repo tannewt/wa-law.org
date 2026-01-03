@@ -11,7 +11,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/31/2025 [Gorge News Center](/org/gorge_news_center/) - [These new laws and taxes take effect in Washington state on Jan. 1](https://gorgenewscenter.com/2025/12/31/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)
 * 12/30/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [These new laws and taxes take effect in Washington state on Jan. 1 | Cascadia Daily News](https://www.cascadiadaily.com/2025/dec/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)
+* 12/30/2025 [Washington State Standard](/org/washington_state_standard/) - [These new laws and taxes take effect in Washington state on Jan. 1 • Washington State Standard](https://washingtonstatestandard.com/2025/12/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)
+* 12/30/2025 [KUOW](/org/kuow/) - [KUOW - These new laws and taxes take effect in Washington state on Jan. 1](https://www.kuow.org/stories/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1#:~:text=additional%20business%20and%20occupation%20tax)
 * 11/05/2025 [Washington State Standard](/org/washington_state_standard/) - [Democratic incumbents ahead in most WA legislative races • Washington State Standard](https://washingtonstatestandard.com/2025/11/04/democratic-incumbents-ahead-in-most-wa-legislative-races/#:~:text=most%20far-reaching%20tax%20bill)
 * 09/29/2025 [KUOW](/org/kuow/) - [KUOW - New sales tax on services in Washington takes effect Wednesday](https://www.kuow.org/stories/new-sales-tax-on-services-in-washington-takes-effect-wednesday#:~:text=business%20and%20occupation%20rate)
 * 09/29/2025 [Washington State Standard](/org/washington_state_standard/) - [New sales tax on services in Washington takes effect Wednesday • Washington State Standard](https://washingtonstatestandard.com/2025/09/29/new-sales-tax-on-services-in-washington-takes-effect-wednesday/#:~:text=business%20and%20occupation%20rate)

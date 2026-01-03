@@ -6,4 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/01/2026 [The Center Square](/org/the_center_square/) - [Tax relief push: WA legislator moves to undo some B&O and sales tax increases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bc09cfba-d916-4059-812f-03e59c91b0a7.html#:~:text=House%20Bill%202101)
+* 12/31/2025 [The Center Square](/org/the_center_square/) - [Several new laws to take effect in Washington state in 2026 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dfd8bcb2-ed34-4896-bd1a-000eb34a42b2.html#:~:text=House%20Bill%202101)
+
 ## Meetings

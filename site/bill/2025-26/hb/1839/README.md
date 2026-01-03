@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/31/2025 [Gorge News Center](/org/gorge_news_center/) - [These new laws and taxes take effect in Washington state on Jan. 1](https://gorgenewscenter.com/2025/12/31/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=uncapping%20the%20tax%20entirely)
 * 12/30/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [These new laws and taxes take effect in Washington state on Jan. 1 | Cascadia Daily News](https://www.cascadiadaily.com/2025/dec/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=uncapping%20the%20tax%20entirely)
+* 12/30/2025 [Washington State Standard](/org/washington_state_standard/) - [These new laws and taxes take effect in Washington state on Jan. 1 • Washington State Standard](https://washingtonstatestandard.com/2025/12/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=uncapping%20the%20tax%20entirely)
+* 12/30/2025 [KUOW](/org/kuow/) - [KUOW - These new laws and taxes take effect in Washington state on Jan. 1](https://www.kuow.org/stories/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1#:~:text=uncapping%20the%20tax%20entirely,)
 * 07/08/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: How to De-Trumpify the Washington State Budget » The Urbanist](https://www.theurbanist.org/2025/07/08/op-ed-how-to-de-trumpify-the-washington-state-budget/#:~:text=eliminate%20this%20loophole)
 * 04/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Search is on in Washington Legislature for new tax options • Washington State Standard](https://washingtonstatestandard.com/2025/04/04/search-is-on-in-washington-legislature-for-new-tax-options/#:~:text=around%20$200%20million%20a%20year)
 * 03/05/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers consider uncapping tax on big tech companies • Washington State Standard](https://washingtonstatestandard.com/2025/03/05/washington-lawmakers-consider-uncapping-tax-on-big-tech-companies-to-fund-higher-ed/#:~:text=House%20Bill%201839)

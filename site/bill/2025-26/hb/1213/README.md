@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/31/2025 [The Center Square](/org/the_center_square/) - [Several new laws to take effect in Washington state in 2026 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dfd8bcb2-ed34-4896-bd1a-000eb34a42b2.html#:~:text=House%20Bill%201213)
 * 10/13/2025 [KUOW](/org/kuow/) - [KUOW - Washington’s paid leave program heads toward a fiscal cliff](https://www.kuow.org/stories/washington-s-paid-leave-program-heads-toward-a-fiscal-cliff#:~:text=legislation%20approved%20this%20year)
 * 10/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington’s paid leave program heads toward a fiscal cliff • Washington State Standard](https://washingtonstatestandard.com/2025/10/13/washingtons-paid-leave-program-heads-toward-a-fiscal-cliff/#:~:text=legislation%20approved%20this%20year)
 * 10/13/2025 [Gorge News Center](/org/gorge_news_center/) - [Washington’s paid leave program heads toward a fiscal cliff](https://gorgenewscenter.com/2025/10/13/washingtons-paid-leave-program-heads-toward-a-fiscal-cliff/#:~:text=legislation%20approved%20this%20year)
