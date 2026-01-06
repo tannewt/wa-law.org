@@ -1,0 +1,25 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5833](/bill/2025-26/sb/5833/) > [Original Bill](/bill/2025-26/sb/5833/1/)
+
+# SB 5833 - Pets in unattended vehicles
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5833.pdf)
+
+## Section 1
+1. (a) Except as provided under (b) of this subsection, no person driving or in charge of a motor vehicle shall permit it to stand unattended without first stopping the engine, locking the ignition, removing the key and effectively setting the brake thereon and, when standing upon any perceptible grade, turning the front wheels to the curb or side of the highway.
+
+    b. A person driving or in charge of a motor vehicle may permit it to stand unattended with the engine running, doors locked, brake effectively set, and when standing upon any perceptible grade, front wheels turned to the curb or side of the highway, for no longer than 30 minutes, if reasonably necessary for the purpose of employing the vehicle's air conditioning equipment or heating system to limit exposure to excessive heat or cold for any pet present in the vehicle. For purposes of this subsection, "pet" means a dog, cat, or any animal that has been domesticated, except livestock.
+
+2. The most recent driver of a motor vehicle which the driver has left standing unattended, who learns that the vehicle has become set in motion and has struck another vehicle or property, or has caused injury to any person, shall comply with the requirements of:
+
+    a. RCW 46.52.010 if his or her vehicle strikes an unattended vehicle or property adjacent to a public highway; or
+
+    b. RCW 46.52.020 if his or her vehicle causes damage to an attended vehicle or other property or injury to any person.
+
+3. Any person failing to comply with subsection (2)(b) of this section shall be subject to the sanctions set forth in RCW 46.52.020.
+
+## Section 2
+1. It is a class 2 civil infraction under RCW 7.80.120 to leave or confine any animal unattended in a motor vehicle or enclosed space if the animal could be harmed or killed by exposure to excessive heat, cold, lack of ventilation, or lack of necessary water. There is a presumption that a person who complies with RCW 46.61.600(1)(b) has not committed an infraction under this subsection.
+
+2. To protect the health and safety of an animal, an animal control officer or law enforcement officer who reasonably believes that an animal is suffering or is likely to suffer harm from exposure to excessive heat, cold, lack of ventilation, or lack of necessary water is authorized to enter a vehicle or enclosed space to remove an animal by any means reasonable under the circumstances if no other person is present in the immediate area who has access to the vehicle or enclosed space and who will immediately remove the animal. An animal control officer, law enforcement officer, or the department or agency employing such an officer is not liable for any damage to property resulting from actions taken under this section. However, such an officer or the department or agency employing such officer is liable for any damage to property resulting from actions taken under this section when the person who left or confined the animal complied with RCW 46.61.600(1)(b), unless the officer or the department or agency employing such officer rebuts the presumption that the person did not commit an infraction under subsection (1) of this section.
+
+3. Nothing in this section prevents the person who has confined the animal in the vehicle or enclosed space as prohibited under this section from being convicted of separate offenses for animal cruelty under RCW 16.52.205 or 16.52.207.

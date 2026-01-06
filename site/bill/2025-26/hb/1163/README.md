@@ -70,7 +70,7 @@ Testifying:
 * Joy Johnson
 * Ann Madsen
 * Ann Madsen
-* Isaiah Lenard
+* 💵Isaiah Lenard
 * Jennifer Dolan-Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
 * Dr. Cora Breuner - WA Chapter of the American Academy of Pediatrics
 * Elizabeth Wagner - Johns Hopkins School of Public Health
@@ -370,7 +370,7 @@ Testifying:
 ### Tue 01/21 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1163 Firearm purchase
 #### 792 👍 - Pro
 Testifying:
-* Isaiah Lenard
+* 💵Isaiah Lenard
 * Julia Berus
 * 💵Margaret Heldring - [Grandmothers Agains Gun Violence](/org/grandmothers_agains_gun_violence/)
 * Alex McCourt - Johns Hopkins Bloomberg School of Public Health

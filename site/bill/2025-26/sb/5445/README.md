@@ -51,7 +51,7 @@ Testifying:
 Testifying:
 * 💵Dave Warren - WA Green Hydrogen Alliance
 * 💵Liz Anderson - Washington Public Utility Districts Association
-* 💵Samantha Louderback - Washington Rural Electric Cooperative Association
+* 💵Samantha Louderback - [Washington Rural Electric Cooperative Association](/org/washington_rural_electric_cooperative_association/)
 * Sheila Corson - Mason PUD #3
 
 #### 4 👎 - Con

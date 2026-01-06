@@ -32,7 +32,7 @@ Testifying:
 
 #### 1146 👎 - Con
 Testifying:
-* Amy Harris - Clark County Matters
+* 💵Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
 * Rae-Lynn Barden - Downtown Spokane Partnership
 * Chris Batten

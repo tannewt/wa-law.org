@@ -24,7 +24,7 @@
 #### 781 👍 - Pro
 Testifying:
 * Stephen Lindley
-* Isaiah Lenard
+* 💵Isaiah Lenard
 * Niko Battle
 * Robert Schentrup - BRADY
 * Kate Stockert - Moms Demand Action

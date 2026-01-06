@@ -11,7 +11,7 @@
 * [HB 1163](hb/1163) - Firearm purchase 50📰 3096👍 19787👎 22❓ - C 370 L 25
 * [HB 1921](hb/1921) - Transportation revenue 16📰 239👍 19927👎 57❓ - H Transportation
 * [HB 2049](hb/2049) - K-12 education funding 53📰 2226👍 17098👎 64❓ - C 404 L 25
-* [SB 5098](sb/5098) - Weapons in certain areas 36📰 3388👍 13172👎 15❓ - S Rules 3
+* [SB 5098](sb/5098) - Weapons in certain areas 37📰 3388👍 13172👎 15❓ - S Rules 3
 * [HB 1531](hb/1531) - Communicable disease 15📰 738👍 14794👎 35❓ - C 105 L 25
 * [SB 5797](sb/5797) - Intangible assets tax 22📰 5760👍 8365👎 24❓ - S Rules 3
 * [SB 5796](sb/5796) - Payroll expense tax 15📰 5335👍 8180👎 21❓ - S Ways & Means
@@ -1383,6 +1383,47 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
+* [HB 2259](hb/2259) - Initiatives and referenda - H Prefiled
+* [SB 5833](sb/5833) - Pets in unattended vehicles - S Prefiled
+* [SB 5965](sb/5965) - Retail bags - S Prefiled
+* [SB 5964](sb/5964) - Independent living ombuds - S Prefiled
+* [SB 5963](sb/5963) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. - S Prefiled
+* [SB 5962](sb/5962) - Spring blade knives - S Prefiled
+* [SB 5961](sb/5961) - Imagination library program - S Prefiled
+* [SB 5960](sb/5960) - Ungulate populations - S Prefiled
+* [SB 5959](sb/5959) - Charity care residency - S Prefiled
+* [SB 5981](sb/5981) - 340B drug pricing program - S Prefiled
+* [SB 5980](sb/5980) - Live presentations/sales tax - S Prefiled
+* [SB 5979](sb/5979) - Dependency/substance abuse - S Prefiled
+* [SB 5978](sb/5978) - Guaranteed admissions prg. - S Prefiled
+* [SB 5977](sb/5977) - Child near fatality reviews - S Prefiled
+* [SB 5976](sb/5976) - Commercial electronic mail - S Prefiled
+* [SB 5975](sb/5975) - Safe cookware - S Prefiled
+* [SB 5974](sb/5974) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. - S Prefiled
+* [SB 5973](sb/5973) - Initiatives and referenda - S Prefiled
+* [SB 5972](sb/5972) - Correctional officers/arb. - S Prefiled
+* [SB 5971](sb/5971) - Green fertilizer incentives - S Prefiled
+* [SB 5970](sb/5970) - Senior citizen centers/tax - S Prefiled
+* [SB 5969](sb/5969) - Fulfilling high school and beyond plan requirements with individualized education program transition plans. - S Prefiled
+* [SB 5968](sb/5968) - Permitting and licensing - S Prefiled
+* [SB 5967](sb/5967) - Preventive health services - S Prefiled
+* [SB 5966](sb/5966) - Medically tailored meals - S Prefiled
+* [HB 2260](hb/2260) - Ballot measure petitions - H Prefiled
+* [HB 2258](hb/2258) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  - H Prefiled
+* [HB 2257](hb/2257) - Tax administration - H Prefiled
+* [HB 2256](hb/2256) - Concerning termination of unauthorized Uniform Commercial Code filings. - H Prefiled
+* [HB 2255](hb/2255) - Litigation finance - H Prefiled
+* [HB 2254](hb/2254) - Providing flexibility in the partnership access line assessment to cover administrative costs. - H Prefiled
+* [HB 2253](hb/2253) - Concerning updates to the licensing division of the department of children, youth, and families. - H Prefiled
+* [HB 2252](hb/2252) - State historical records - H Prefiled
+* [HB 2251](hb/2251) - Concerning climate commitment act accounts. - H Prefiled
+* [HB 2250](hb/2250) - Charity care residency - H Prefiled
+* [HB 2249](hb/2249) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. - H Prefiled
+* [HB 2248](hb/2248) - Corporate filings - H Prefiled
+* [HB 2247](hb/2247) - Concerning veterinarian-client-patient relationships. - H Prefiled
+* [HB 2246](hb/2246) - Updating policies for elementary and secondary school students with firearm violations. - H Prefiled
+* [HB 2245](hb/2245) - Consumer-owned utilities - H Prefiled
+* [HB 2244](hb/2244) - Adopting the recommendations of the public records exemptions accountability committee in its 2025 annual report. - H Prefiled
 * [HB 2234](hb/2234) - Addressing increased school utility costs due to the climate commitment act. - H Prefiled
 * [HB 2233](hb/2233) - Reducing environmental impacts associated with bags provided to customers at retail establishments. - H Prefiled
 * [HB 2232](hb/2232) - Improving system outcomes for time-sensitive emergencies. - H Prefiled
@@ -1580,7 +1621,7 @@
 * [SB 5873](sb/5873) - Concerning escorted leaves of absence for incarcerated individuals. - S Prefiled
 * [SB 5872](sb/5872) - PreK promise account - S Prefiled
 * [SB 5871](sb/5871) - Vehicle glass repair claims - S Prefiled
-* [SB 5870](sb/5870) - Establishing civil liability for suicide linked to the use of artificial intelligence systems. - S Prefiled
+* [SB 5870](sb/5870) - Establishing civil liability for suicide linked to the use of artificial intelligence systems. 1📰 - S Prefiled
 * [SB 5869](sb/5869) - Construction hazards notice - S Prefiled
 * [HB 2136](hb/2136) - Providing a benefit increase to certain retirees of the teachers' retirement system plan 1. - H Prefiled
 * [HB 2134](hb/2134) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. - H Prefiled
@@ -1612,7 +1653,7 @@
 * [HB 2118](hb/2118) - Community restrictions - H Prefiled
 * [SB 5857](sb/5857) - Concerning architectural and engineering fee funding assistance limits for school district construction and modernization projects. - S Prefiled
 * [SB 5856](sb/5856) - Lubricant emissions - S Prefiled
-* [SB 5855](sb/5855) - Law enf. face coverings 3📰 - S Prefiled
+* [SB 5855](sb/5855) - Law enf. face coverings 4📰 - S Prefiled
 * [SB 5854](sb/5854) - Modifying procedures for releasing sexually violent predators to less restrictive alternative placements. - S Prefiled
 * [SB 5853](sb/5853) - Public official notification - S Prefiled
 * [SB 5852](sb/5852) - Immigrant workers 1📰 - S Prefiled

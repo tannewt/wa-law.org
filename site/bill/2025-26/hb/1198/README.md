@@ -291,7 +291,7 @@ Testifying:
 * Dr. Chris Bailey - Interim Executie Director, WA State Board for Community & Technical Colleges
 * 💵Dominique Davis - [Community Passageways](/org/community_passageways/)
 * Terry Gifford - Willowbrook Manor English Teahouse & Farm Stay
-* Michelle Merriweather - Urban League of Metropolitan Seattle
+* Michelle Merriweather - [Urban League of Metropolitan Seattle](/org/urban_league_of_metropolitan_seattle/)
 * Tiffany Olson - Crisis Connections
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * Whitney Fey - YMCA of Greater Seattle

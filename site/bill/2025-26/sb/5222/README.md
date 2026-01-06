@@ -83,7 +83,7 @@ Testifying:
 * Brianna Vazquez
 * Caroline Hardy
 * Rachael Snell
-* Linda Taylor - Urban League of Metropolitan Seattle
+* Linda Taylor - [Urban League of Metropolitan Seattle](/org/urban_league_of_metropolitan_seattle/)
 * Kate Rubin - Be:Seattle
 * Kerri Burnside - Bellingham Tenants Union
 * Robin Zorich - Association of Manufactured Homeowners

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 5870 Civil Liability for AI-Linked Suicide - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb-5870-ai-liability-suicide-digital-id/#:~:text=SB%205870%20Washington%20State%20Legislature)
+
 ## Meetings
