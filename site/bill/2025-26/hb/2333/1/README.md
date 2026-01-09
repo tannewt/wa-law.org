@@ -1,0 +1,647 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2333](/bill/2025-26/hb/2333/) > [Original Bill](/bill/2025-26/hb/2333/1/)
+
+# HB 2333 - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2333.pdf)
+
+## Section 1
+1. A person is guilty of harassment if:
+
+    a. Without lawful authority, the person knowingly threatens:
+
+        i. To cause bodily injury immediately or in the future to the person threatened or to any other person; or
+
+        ii. To cause physical damage to the property of a person other than the actor; or
+
+        iii. To subject the person threatened or any other person to physical confinement or restraint; or
+
+        iv. Maliciously to do any other act which is intended to substantially harm the person threatened or another with respect to his or her physical health or safety; and
+
+    b. The person by words or conduct places the person threatened in reasonable fear that the threat will be carried out. "Words or conduct" includes, in addition to any other form of communication or conduct, the sending of an electronic communication.
+
+2. [Empty]
+
+    a. Except as provided in (b) of this subsection, a person who harasses another is guilty of a gross misdemeanor.
+
+    b. A person who harasses another is guilty of a class C felony if any of the following apply: (i) The person has previously been convicted in this or any other state of any crime of harassment, as defined in RCW 9A.46.060, of the same victim or members of the victim's family or household or any person specifically named in a no-contact or no-harassment order; (ii) the person harasses another person under subsection (1)(a)(i) of this section by threatening to kill the person threatened or any other person; (iii) the person harasses a criminal justice participant, elected official, or election official who is performing his or her official duties at the time the threat is made; or (iv) the person harasses a criminal justice participant, elected official, or election official because of an action taken or decision made by the criminal justice participant, elected official, or election official during the performance of his or her official duties. For the purposes of (b)(iii) and (iv) of this subsection, the fear from the threat must be a fear that a reasonable criminal justice participant, elected official, or election official would have under all the circumstances. Threatening words do not constitute harassment if it is apparent to the criminal justice participant, elected official, or election official that the person does not have the present and future ability to carry out the threat.
+
+3. Any criminal justice participant, elected official, or election official who is a target for threats or harassment prohibited under subsection (2)(b)(iii) or (iv) of this section, and any person residing with him or her, shall be eligible for the address confidentiality program created under RCW 40.24.030.
+
+4. For purposes of this section:
+
+    a. A criminal justice participant includes any (i) federal, state, or local law enforcement agency employee; (ii) federal, state, or local prosecuting attorney or deputy prosecuting attorney; (iii) staff member of any adult corrections institution or local adult detention facility; (iv) staff member of any juvenile corrections institution or local juvenile detention facility; (v) community corrections officer, probation, or parole officer; (vi) member of the indeterminate sentence review board; (vii) advocate from a crime victim/witness program; or (viii) defense attorney.
+
+    b. "Elected official" has the same meaning as in RCW 29B.10.180.
+
+    c. An election official includes any staff member of the office of the secretary of state or staff member of a county auditor's office, regardless of whether the member is employed on a temporary or part-time basis, whose duties relate to voter registration or the processing of votes as provided in Title 29A RCW.
+
+5. The penalties provided in this section for harassment do not preclude the victim from seeking any other remedy otherwise available under law.
+
+## Section 2
+1. [Empty]
+
+    a. An adult person, a parent or guardian acting on behalf of a minor, or a guardian acting on behalf of an individual subject to guardianship as defined in RCW 11.130.010, (b) any election official as described in RCW 9A.46.020 or 9A.90.120 who is a target for threats or harassment prohibited under RCW 9A.46.020 or 9A.90.120(2)(b) (iii) or (iv), and any person residing with such person, (c) any criminal justice participant as defined in RCW 9A.46.020 who is a target for threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv) and any criminal justice participant as defined in RCW 9A.90.120 who is a target for threats or harassment prohibited under RCW 9A.90.120(2)(b) (iii) or (iv), and any person residing with such person, and (d) any protected health care services provider, employee, or an affiliate of such provider, who provides, attempts to provide, assists in the provision, or attempts to assist in the provision of protected health care services as defined in RCW 7.115.010, and any family members residing with such person, may apply to the secretary of state to have an address designated by the secretary of state serve as the person's address or the address of the minor or incapacitated person. The secretary of state shall approve an application if it is filed in the manner and on the form prescribed by the secretary of state and if it contains:
+
+        i. A sworn statement, under penalty of perjury, by the applicant that the applicant has good reason to believe (A) that the applicant, or the minor or incapacitated person on whose behalf the application is made, is a victim of domestic violence, sexual assault, trafficking, or stalking and that the applicant fears for the applicant's safety or the applicant's children's safety, or the safety of the minor or incapacitated person on whose behalf the application is made; (B) that the applicant, as an election official as described in RCW 9A.46.020 or 9A.90.120, is a target for threats or harassment prohibited under RCW 9A.46.020 or 9A.90.120(2)(b) (iii) or (iv); (C) that the applicant, as a criminal justice participant as defined in RCW 9A.46.020, is a target for threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv), or that the applicant, as a criminal justice participant as defined in RCW 9A.90.120 is a target for threats or harassment prohibited under RCW 9A.90.120(2)(b) (iii) or (iv); or (D) that the applicant, as a protected health care services provider, employee, or an affiliate of such provider, who provides, attempts to provide, assists in the provision, or attempts to assist in the provision of protected health care services as defined in RCW 7.115.010, is a target for threats or harassment prohibited under RCW 9A.90.120 or 9A.46.020;
+
+        ii. If applicable, a sworn statement, under penalty of perjury, by the applicant, that the applicant has reason to believe they are a victim of (A) domestic violence, sexual assault, or stalking perpetrated by an employee of a law enforcement agency, (B) threats or harassment prohibited under RCW 9A.90.120(2)(b) (iii) or (iv) or 9A.46.020(2)(b) (iii) or (iv), or (C) threats or harassment as described in (a)(i)(D) of this subsection;
+
+        iii. A designation of the secretary of state as agent for purposes of service of process and for the purpose of receipt of mail;
+
+        iv. The residential address and any telephone number where the applicant can be contacted by the secretary of state, which shall not be disclosed because disclosure will increase the risk of (A) domestic violence, sexual assault, trafficking, or stalking, (B) threats or harassment prohibited under RCW 9A.90.120(2)(b) (iii) or (iv) or 9A.46.020(2)(b) (iii) or (iv), or (C) threats or harassment as described in (a)(i)(D) of this subsection;
+
+    v. The signature of the applicant and of any individual or representative of any office designated in writing under RCW 40.24.080 who assisted in the preparation of the application, and the date on which the applicant signed the application.
+
+2. Any elected official as defined in RCW 29B.10.180 and any person residing with such person may apply to the secretary of state to have an address designated by the secretary of state serve as the person's address. The secretary of state shall approve an application if it is filed in the manner and on the form prescribed by the secretary of state and if it contains:
+
+    a. A designation of the secretary of state as agent for purposes of service of process and for the purpose of receipt of mail;
+
+    b. The residential address and any telephone number where the applicant can be contacted by the secretary of state; and
+
+    c. The signature of the applicant and the date on which the applicant signed the application.
+
+3. Applications shall be filed with the office of the secretary of state.
+
+4. Upon filing a properly completed application, the secretary of state shall certify the applicant as a program participant. Applicants shall be certified for four years following the date of filing unless the certification is withdrawn or invalidated before that date. The secretary of state shall by rule establish a renewal procedure.
+
+5. [Empty]
+
+    a. During the application process, the secretary of state shall provide each applicant a form to direct the department of licensing to change the address of registration for vehicles or vessels solely or jointly registered to the applicant and the address associated with the applicant's driver's license or identicard to the applicant's address as designated by the secretary of state upon certification in the program. The directive to the department of licensing is only valid if signed by the applicant. The directive may only include information required by the department of licensing to verify the applicant's identity and ownership information for vehicles and vessels. This information is limited to the:
+
+        i. Applicant's full legal name;
+
+        ii. Applicant's Washington driver's license or identicard number;
+
+        iii. Applicant's date of birth;
+
+        iv. Vehicle identification number and license plate number for each vehicle solely or jointly registered to the applicant; and
+
+    v. Hull identification number or vessel document number and vessel decal number for each vessel solely or jointly registered to the applicant.
+
+    b. Upon certification of the applicants, the secretary of state shall transmit completed and signed directives to the department of licensing.
+
+    c. Within 30 days of receiving a completed and signed directive, the department of licensing shall update the applicant's address on registration and licensing records.
+
+    d. Applicants are not required to sign the directive to the department of licensing to be certified as a program participant.
+
+6. A person who knowingly provides false or incorrect information upon making an application or falsely attests in an application that disclosure of the applicant's address would endanger (a) the applicant's safety or the safety of the applicant's children or the minor or incapacitated person on whose behalf the application is made, (b) the safety of any election official as described in RCW 9A.46.020 or 9A.90.120 who is a target for threats or harassment prohibited under RCW 9A.46.020 or 9A.90.120(2)(b) (iii) or (iv), (c) the safety of any criminal justice participant as defined in RCW 9A.46.020 who is a target for threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv) or of any criminal justice participant as defined in RCW 9A.90.120 who is a target for threats or harassment prohibited under RCW 9A.90.120(2)(b) (iii) or (iv), or (d) the safety of any person as described in subsection (1)(a)(i)(D) of this section who is a target for threats or harassment, or any family members residing with such person, shall be punished under RCW 40.16.030 or other applicable statutes.
+
+## Section 3
+1. The chief of the Washington state patrol is directed to provide such security and protection for both houses of the legislative building while in session as in the opinion of the speaker of the house and the president of the senate may be necessary therefor upon the advice of the respective sergeant-at-arms of each legislative body.
+
+2. [Empty]
+
+    a. The chief of the Washington state patrol or the chief's designee shall provide personal security and protection for legislators upon request at public events where the local law enforcement agency is unable or unwilling to provide such security and protection.
+
+    b. For the purposes of this subsection, a "public event" means any event with a legislative nexus, as described in RCW 42.52.175, for which the attendance of the legislator is advertised to the public.
+
+3. At the request of a legislator in accordance with section 4 of this act, the chief of the Washington state patrol shall conduct the security assessment described in section 4 of this act if the sergeant-at-arms of that legislator's respective chamber is unable to conduct the assessment in a timely manner.
+
+## Section 4
+1. Upon request of a legislator, the sergeant-at-arms of the legislator's respective legislative body or the sergeant-at-arms' designee shall conduct a security assessment of that legislator's residence and make recommendations, if any, for additional personal security measures necessary to address dangers or threats that would not exist but for the individual's status or duties as a legislator. The sergeant-at-arms may contract out for the security assessment. If the sergeant-at-arms or the sergeant-at-arms' designee is unable to complete the legislator's request in a timely manner, the legislator may make a request of the chief of the Washington state patrol to conduct the security assessment. Upon such request, the chief of the Washington state patrol shall conduct the security assessment. A legislator may alternatively request that the security assessment be performed by a local law enforcement agency.
+
+2. "Personal security measures" may include, but is not limited to:
+
+    a. Nonstructural security devices, such as security hardware, locks, alarm systems, motion detectors, security camera systems, and subscriptions for security systems;
+
+    b. Structural security devices, such as wiring, lighting, gates, doors, and fencing, so long as such devices are intended solely to provide security and not to improve the property or increase its value;
+
+    c. Security personnel and services that are bona fide, legitimate, professional, and provided by a person licensed under chapter 18.170 RCW; and
+
+    d. Cybersecurity software, devices, and services, including those services that remove residential addresses from existing websites, and credit monitoring and identity theft monitoring services.
+
+3. [Empty]
+
+    a. As applied to public records requests of a legislator's office, audio recordings, video recordings, or photographs created by a security recording device that qualifies as a personal security measure are not public records within the meaning of RCW 42.56.010 because they do not contain information relating to the conduct of government or the performance of any governmental or proprietary function, and are therefore not subject to chapter 42.56 RCW. Such audio recordings, video recordings, or photographs provided by the legislator to another agency, although meeting the definition of public record under RCW 42.56.010 unless otherwise provided by law, are confidential and not subject to disclosure under chapter 42.56 RCW.
+
+    b. Records other than those described in (a) of this subsection that are created by a personal security measure are confidential and not subject to disclosure under chapter 42.56 RCW.
+
+## Section 5
+The speaker of the house and the president of the senate are encouraged to hold a security briefing for representatives and senators before the commencement of each regular term of office pursuant to RCW 44.04.021.
+
+## Section 6
+1. Except as provided in subsection (2) of this section, all statements and reports filed under this title shall be public records of the agency where they are filed, and shall be available for public inspection and copying during normal business hours at the expense of the person requesting copies, provided that the charge for such copies shall not exceed actual cost to the agency.
+
+2. [Empty]
+
+    a. Elected officials may, using a form developed by the commission, request that the commission redact from reports filed pursuant to RCW 29B.25.020, 29B.25.030, 29B.25.100, 29B.25.110, 29B.25.120, 29B.25.130, 29B.25.140,29B.30.020, 29B.50.010, 29B.50.080, and 29B.50.100, their residential address and the same residential address of any person residing with them who appears in a report.The residential address identified on such form is confidential and may not be disclosed under chapter 42.56 RCW.
+
+    b. An elected official making a request for redaction under (a) of this subsection must identify the residential address to be redacted and the specific report that contains such address. Upon receipt of the request, the residential address identified is confidential and may not be disclosed under chapter 42.56 RCW except as provided for under (c) of this subsection, and the commission shall conduct a reasonable search and redact such addresses from the reports in a timely manner. A request made under this subsection may not be construed as a standing request for redactions of residential addresses in future reports.
+
+    c. The commission may disclose the residential address of an elected official or any person residing with the elected official:
+
+        i. Upon receipt of the express written consent of the elected official; or
+
+        ii. To the news media, as defined in RCW 5.68.010, in response to a public records request under chapter 42.56 RCW from the news media. At the time of the request, the requester shall disclose to the commission the requester's legal name and the requester's associated news media. Any residential address disclosed pursuant to this subsection may not be further disseminated by the recipient. Immediately upon receiving a request for a report described under (a) this subsection, the commission shall notify all elected officials whose information is included in such a report. The notice must include the name of the requester and the requester's associated news media. The requirement to provide notice under this subsection may not delay the production of records in response to a public records request.
+
+    d. This subsection (2) applies to reports filed with the commission before the effective date of this section and to reports filed on or after the effective date of this section.
+
+3. For purposes of this section:
+
+    a. "Dwelling unit" means a structure or that part of a structure, which is used as a home, residence, or sleeping place by one person or multiple persons maintaining a common household, such as single-family residences, units of multiplexes, apartment buildings, and mobile homes.
+
+    b. "Residence" means the primary residential real property used exclusively as a personal dwelling unit by the elected official.
+
+    c. "Residential address" means the physical address of a residence used by the elected official.
+
+## Section 7
+1. Any person required to disclose the address of another in a report filed pursuant to RCW 29B.25.020, 29B.25.030, 29B.25.100, 29B.25.110, 29B.25.120, 29B.25.130, 29B.25.140, 29B.30.020, 29B.50.010, 29B.50.080, or 29B.50.100, shall establish a process for an elected official to:
+
+    a. Provide an address that is not the elected official's residential address; and
+
+    b. Request that the filer of a report described under this subsection redact, before filing the report with the commission, the elected official's residential address and the same residential address of any person residing with the elected official who appears in a report. The elected official must identify the residential address to be redacted and the specific report containing that address.
+
+2. Upon receiving a request from an elected official to redact the elected official's residential address, a person required to file a report described in this section must redact the address before filing the report with the commission or otherwise making the report available for public inspection.
+
+3. For purposes of this section, "residential address" has the same meaning as in RCW 29B.05.030.
+
+## Section 8
+1. The statement of financial affairs required by RCW 29B.55.010 shall disclose the following information for the reporting individual and each member of the reporting individual's immediate family:
+
+    a. Occupation, name of employer, and business address;
+
+    b. Each bank account, savings account, and insurance policy in which a direct financial interest was held that exceeds twenty thousand dollars at any time during the reporting period; each other item of intangible personal property in which a direct financial interest was held that exceeds two thousand dollars during the reporting period; the name, address, and nature of the entity; and the nature and highest value of each direct financial interest during the reporting period;
+
+    c. The name and address of each creditor to whom the value of two thousand dollars or more was owed; the original amount of each debt to each creditor; the amount of each debt owed to each creditor as of the date of filing; the terms of repayment of each debt; and the security given, if any, for each such debt. Debts arising from a "retail installment transaction" as defined in chapter 63.14 RCW (retail installment sales act) need not be reported;
+
+    d. Every public or private office, directorship, and position held as trustee; except that an elected official or executive state officer need not report the elected official's or executive state officer's service on a governmental board, commission, association, or functional equivalent, when such service is part of the elected official's or executive state officer's official duties;
+
+    e. All persons for whom any legislation, rule, rate, or standard has been prepared, promoted, or opposed for current or deferred compensation. For the purposes of this subsection, "compensation" does not include payments made to the person reporting by the governmental entity for which the person serves as an elected official or state executive officer or professional staff member for the person's service in office; the description of such actual or proposed legislation, rules, rates, or standards; and the amount of current or deferred compensation paid or promised to be paid;
+
+    f. The name and address of each governmental entity, corporation, partnership, joint venture, sole proprietorship, association, union, or other business or commercial entity from whom compensation has been received in any form of a total value of two thousand dollars or more; the value of the compensation; and the consideration given or performed in exchange for the compensation;
+
+    g. The name of any corporation, partnership, joint venture, association, union, or other entity in which is held any office, directorship, or any general partnership interest, or an ownership interest of ten percent or more; the name or title of that office, directorship, or partnership; the nature of ownership interest; and: (i) With respect to a governmental unit in which the official seeks or holds any office or position, if the entity has received compensation in any form during the preceding twelve months from the governmental unit, the value of the compensation and the consideration given or performed in exchange for the compensation; and (ii) the name of each governmental unit, corporation, partnership, joint venture, sole proprietorship, association, union, or other business or commercial entity from which the entity has received compensation in any form in the amount of ten thousand dollars or more during the preceding twelve months and the consideration given or performed in exchange for the compensation. As used in (g)(ii) of this subsection, "compensation" does not include payment for water and other utility services at rates approved by the Washington state utilities and transportation commission or the legislative authority of the public entity providing the service. With respect to any bank or commercial lending institution in which is held any office, directorship, partnership interest, or ownership interest, it shall only be necessary to report either the name, address, and occupation of every director and officer of the bank or commercial lending institution and the average monthly balance of each account held during the preceding twelve months by the bank or commercial lending institution from the governmental entity for which the individual is an official or candidate or professional staff member, or all interest paid by a borrower on loans from and all interest paid to a depositor by the bank or commercial lending institution if the interest exceeds two thousand four hundred dollars;
+
+    h. A list, including legal or other sufficient descriptions as prescribed by the commission, of all real property in the state of Washington, the assessed valuation of which exceeds ten thousand dollars in which any direct financial interest was acquired during the preceding calendar year, and a statement of the amount and nature of the financial interest and of the consideration given in exchange for that interest;
+
+        i. A list, including legal or other sufficient descriptions as prescribed by the commission, of all real property in the state of Washington, the assessed valuation of which exceeds ten thousand dollars in which any direct financial interest was divested during the preceding calendar year, and a statement of the amount and nature of the consideration received in exchange for that interest, and the name and address of the person furnishing the consideration;
+
+    j. A list, including legal or other sufficient descriptions as prescribed by the commission, of all real property in the state of Washington, the assessed valuation of which exceeds ten thousand dollars in which a direct financial interest was held. If a description of the property has been included in a report previously filed, the property may be listed, for purposes of this subsection (1)(j), by reference to the previously filed report;
+
+    k. A list, including legal or other sufficient descriptions as prescribed by the commission, of all real property in the state of Washington, the assessed valuation of which exceeds twenty thousand dollars, in which a corporation, partnership, firm, enterprise, or other entity had a direct financial interest, in which corporation, partnership, firm, or enterprise a ten percent or greater ownership interest was held;
+
+    l. A list of each occasion, specifying date, donor, and amount, at which food and beverage in excess of $100 was accepted under RCW 42.52.150(7);
+
+    m. A list of each occasion, specifying date, donor, and amount, at which items specified in RCW 42.52.150(1)(c) (iv) and (vi) were accepted; and
+
+    n. Such other information as the commission may deem necessary in order to properly carry out the purposes and policies of this title, as the commission shall prescribe by rule.
+
+2. [Empty]
+
+    a. When judges, prosecutors, sheriffs, executive state officers, participants in the address confidentiality program under RCW 40.24.030, or their immediate family members are required to disclose real property that is the personal residence of the judge, prosecutor, sheriff, executive state officer, or address confidentiality program participant, the requirements of subsection (1)(h) through (k) of this section may be satisfied for that property by substituting:
+
+        i. The city or town;
+
+        ii. The type of residence, such as a single-family or multifamily residence, and the nature of ownership; and
+
+        iii. Such other identifying information the commission prescribes by rule for the mailing address where the property is located.
+
+    b. Nothing in this subsection relieves the judge, prosecutor, executive state officer, or sheriff of any other applicable obligations to disclose potential conflicts or to recuse oneself.
+
+3. [Empty]
+
+    a. Except as specified in (b) of this subsection, the primary residential address and associated parcel number of the residence of an elected official or executive state officer disclosed on the statement of financial affairs filed with the commission are confidential and may not be disclosed under chapter 42.56 RCW.
+
+    b. The commission may disclose information described in (a) of this subsection:
+
+        i. If the filer has provided the commission with express written consent to disclose such information; or
+
+        ii. To the news media, as defined in RCW 5.68.010, in response to a public records request under chapter 42.56 RCW from the news media. At the time of the request, the requester shall disclose to the commission the requester's legal name and the requester's associated news media. Any residential address or associated parcel number that is disclosed pursuant to this subsection may not be further disseminated by the requester. Immediately upon receiving a request for the statement of financial affairs of an elected official or executive state officer, the commission shall notify such person of the request. The notice must include the name of the requester and the requester's associated news media. The requirement to provide notice under this subsection may not delay the production of records in response to a public records request.
+
+    c. [Empty]
+
+        i. This subsection (3) applies to all statements of financial affairs filed with the commission before the effective date of this section and to statements of financial affairs filed on or after the effective date of this section.
+
+        ii. For statements of financial affairs filed after the effective date of this section, the commission shall develop a method for filers to indicate at the time of filing which residences included in their statement of financial affairs are exempt from disclosure pursuant to (a) of this subsection.
+
+        iii. For statements of financial affairs filed before the effective date of this section, the filer must, using a form developed by the commission, identify the residence exempt from disclosure pursuant to (a) of this subsection and the specific report that contains such residence. The residence identified on such form is confidential and may not be disclosed under chapter 42.56 RCW.
+
+    d. For purposes of this subsection (3):
+
+        i. "Dwelling unit" has the same meaning as inRCW 29B.05.030.
+
+        ii. "Executive state officer" has the same meaning as in RCW 29B.55.020.
+
+        iii. "Residence" means the primary residential real property used exclusively as a personal dwelling unit by the elected official or executive state officer.
+
+        iv. "Residential address" means the physical address of a residence used by the elected official or executive state officer.
+
+4. [Empty]
+
+    a. Where an amount is required to be reported under subsection (1)(a) through (m) of this section, it may be reported within a range as provided in (b) of this subsection.
+
+    b.
+
+Code A
+
+Less than thirty thousand dollars;
+
+Code B
+
+At least thirty thousand dollars, but less than sixty thousand dollars;
+
+Code C
+
+At least sixty thousand dollars, but less than one hundred thousand dollars;
+
+Code D
+
+At least one hundred thousand dollars, but less than two hundred thousand dollars;
+
+Code E
+
+At least two hundred thousand dollars, but less than five hundred thousand dollars;
+
+Code F
+
+At least five hundred thousand dollars, but less than seven hundred and fifty thousand dollars;
+
+Code G
+
+At least seven hundred fifty thousand dollars, but less than one million dollars; or
+
+Code H
+
+One million dollars or more.
+
+    c. An amount of stock may be reported by number of shares instead of by market value. No provision of this subsection may be interpreted to prevent any person from filing more information or more detailed information than required.
+
+5. Items of value given to an official's or employee's spouse, domestic partner, or family member are attributable to the official or employee, except the item is not attributable if an independent business, family, or social relationship exists between the donor and the spouse, domestic partner, or family member.
+
+## Section 9
+1. [Empty]
+
+    a. In addition to the information required under RCW 29B.25.020 and 29B.25.040, each candidate or political committee must file with the commission a report of all contributions received and expenditures made as a political committee on the next reporting date pursuant to the timeline established in this section.
+
+    b. In addition to the information required under RCW 29B.25.030 and 29B.25.040, on the day an incidental committee files a statement of organization with the commission, each incidental committee must file with the commission a report of any election campaign expenditures under RCW 29B.25.100(7), as well as the source of the 10 largest cumulative payments of $10,000 or greater it received in the current calendar year from a single person, including any persons tied as the 10th largest source of payments it received, if any.
+
+2. Each treasurer of a candidate or political committee, or an incidental committee, required to file a statement of organization under this title, shall file with the commission a report, for each election in which a candidate, political committee, or incidental committee is participating, containing the information required by RCW 29B.25.100 at the following intervals:
+
+    a. On the 21st day and the seventh day immediately preceding the date on which the election is held; and
+
+    b. On the 10th day of the first full month after the election.
+
+3. [Empty]
+
+    a. Each treasurer of a candidate or political committee shall file with the commission a report on the 10th day of each month during which the candidate or political committee is not participating in an election campaign, only if the committee has received a contribution or made an expenditure in the preceding calendar month and either the total contributions received or total expenditures made since the last such report exceed $200.
+
+    b. Each incidental committee shall file with the commission a report on the 10th day of each month during which the incidental committee is not otherwise required to report under this section only if the committee has:
+
+        i. Received a payment that would change the information required under RCW 29B.25.100(2)(d) as included in its last report; or
+
+        ii. Made any election campaign expenditure reportable under RCW 29B.25.100(7) since its last report, and the total election campaign expenditures made since the last report exceed $200.
+
+4. The report filed 21 days before the election shall report all contributions received and expenditures made as of the end of one business day before the date of the report. The report filed seven days before the election shall report all contributions received and expenditures made as of the end of one business day before the date of the report. Reports filed on the 10th day of the month shall report all contributions received and expenditures made from the closing date of the last report filed through the last day of the month preceding the date of the current report.
+
+5. For the period beginning the first day of the fourth month preceding the date of the special election, or for the period beginning the first day of the fifth month before the date of the general election, and ending on the date of that special or general election, each Monday the treasurer for a candidate or a political committee shall file with the commission a report of each bank deposit made during the previous seven calendar days. The report shall contain the name of each person contributing the funds and the amount contributed by each person. However, persons who contribute no more than $25 in the aggregate are not required to be identified in the report. A copy of the report shall be retained by the treasurer for the treasurer's records. In the event of deposits made by candidates, political committee members, or paid staff other than the treasurer, the copy shall be immediately provided to the treasurer for the treasurer's records. Each report shall be certified as correct by the treasurer.
+
+6. [Empty]
+
+    a. The treasurer for a candidate or a political committee shall maintain books of account accurately reflecting all contributions and expenditures on a current basis within five business days of receipt or expenditure. During the 10 calendar days immediately preceding the date of the election the books of account shall be kept current within one business day. As specified in the political committee's statement of organization filed under RCW 29B.25.020, the books of account must be open for public inspection by appointment at a place agreed upon by both the treasurer and the requestor, for inspections between 9:00 a.m. and 5:00 p.m. on any day from the 10th calendar day immediately before the election through the day immediately before the election, other than Saturday, Sunday, or a legal holiday. It is a violation of this title for a candidate or political committee to refuse to allow and keep an appointment for an inspection to be conducted during these authorized times and days. The appointment must be allowed at an authorized time and day for such inspections that is within 48 hours of the time and day that is requested for the inspection. The treasurer may provide digital access or copies of the books of account in lieu of scheduling an appointment at a designated place for inspection. If the treasurer and requestor are unable to agree on a location and the treasurer has not provided digital access to the books of account, the default location for an appointment shall be a place of public accommodation selected by the treasurer within a reasonable distance from the treasurer's office.
+
+    b. At the time of making the appointment, a person wishing to inspect the books of account must provide the treasurer the name and telephone number of the person wishing to inspect the books of account. The person inspecting the books of account must show photo identification before the inspection begins.
+
+    c. A treasurer may refuse to show the books of account to any person who does not make an appointment or provide the required identification. The commission may issue limited rules to modify the requirements set forth in this section in consideration of other technology and best practices.
+
+    d. In accordance with RCW 29B.05.030 and section 7 of this act, if a treasurer receives a request from an elected official to redact the elected official's residential address, the treasurer shall redact from the books of account the residential address of the elected official and the same address of any person residing with the elected official who appears in the books of account before making the books of account open for public inspection.
+
+7. Copies of all reports filed pursuant to this section shall be readily available for public inspection by appointment, pursuant to subsection (6) of this section.
+
+8. The treasurer or candidate shall preserve books of account, bills, receipts, and all other financial records of the campaign or political committee for not less than five calendar years following the year during which the transaction occurred or for any longer period as otherwise required by law.
+
+9. All reports filed pursuant to subsection (1) or (2) of this section shall be certified as correct by the candidate and the treasurer.
+
+10. Where there is not a pending complaint concerning a report, it is not evidence of a violation of this section to submit an amended report within 21 days of filing an initial report if:
+
+    a. The report is accurately amended;
+
+    b. The amended report is filed more than 30 days before an election;
+
+    c. The total aggregate dollar amount of the adjustment for the amended report is within three times the contribution limit per election or $200, whichever is greater; and
+
+    d. The committee reported all information that was available to it at the time of filing, or made a good faith effort to do so, or if a refund of a contribution or expenditure is being reported.
+
+11. [Empty]
+
+    a. When there is no outstanding debt or obligation, the campaign fund is closed, the campaign is concluded in all respects, and the political committee has ceased to function and intends to dissolve, the treasurer shall file a final report. Upon submitting a final report, the political committee so intending to dissolve must file notice of intent to dissolve with the commission and the commission must post the notice on its website.
+
+    b. Any political committee may dissolve 60 days after it files its notice to dissolve, only if:
+
+        i. The political committee does not make any expenditures other than those related to the dissolution process or engage in any political activity or any other activities that generate additional reporting requirements under this title after filing such notice;
+
+        ii. No complaint or court action under this title is pending against the political committee; and
+
+        iii. All penalties assessed by the commission or court order have been paid by the political committee.
+
+    c. The political committee must continue to report regularly as required under this title until all the conditions under (b) of this subsection are resolved.
+
+    d. Upon dissolution, the commission must issue an acknowledgment of dissolution, the duties of the treasurer shall cease, and there shall be no further obligations under this title. Dissolution does not absolve the candidate or board of the committee from responsibility for any future obligations resulting from the finding after dissolution of a violation committed prior to dissolution.
+
+12. The commission must adopt rules for the dissolution of incidental committees.
+
+## Section 10
+1. A person, other than an individual, may not be an intermediary or an agent for a contribution.
+
+2. An individual may not make a contribution on behalf of another person or entity, or while acting as the intermediary or agent of another person or entity, without disclosing to the recipient of the contribution both his or her full name, street address, occupation, name of employer, if any, or place of business if self-employed, and the same information for each contributor for whom the individual serves as intermediary or agent.
+
+3. [Empty]
+
+    a. An elected official, whether acting as an intermediary or agent for a contribution or a contributor using an intermediary or agent, or who resides with any such a person, may, using a form developed by the commission, request that the commission redact from pertinent records the street address of the elected official's residence and the same street address of any person residing with the elected official who appears in a report. The elected official must identify the street address to be redacted and the specific report containing such address. Upon receipt of such request, the identified street address contained in the identified reports and the request form is confidential and may not be disclosed under chapter 42.56 RCW except as provided for under (b) of this subsection, and the commission shall conduct a reasonable search and redact such addresses from the reports in a timely manner. A request made under this subsection may not be construed as a standing request to redact the address in future records.
+
+    b. The commission may disclose the street address for the residence of an elected official or any person residing with such person:
+
+        i. Upon receipt of the express written consent of the elected official to disclose the elected official's street address; or
+
+        ii. To the news media, as defined in RCW 5.68.010, in response to a public records request under chapter 42.56 RCW from the news media. At the time of their request, the requester shall disclose to the commission the requester's legal name and the requester's associated news media. Any street address disclosed pursuant to this subsection may not be further disseminated by the recipient. Immediately upon receiving a request for a report filed under this section, the commission shall notify all elected officials whose information is included in such a report. The notice must include the name of the requester and the requester's associated news media. The requirement to provide notice under this subsection may not delay the production of records in response to a public records request.
+
+    c. For purposes of this subsection (3), "residence" has the same meaning as inRCW 29B.05.030.
+
+## Section 11
+1. A candidate who desires to have his or her name printed on the ballot for election to an office other than president of the United States, vice president of the United States, or an office for which ownership of property is a prerequisite to voting shall complete and file a declaration of candidacy. The secretary of state shall adopt, by rule, a declaration of candidacy form for the office of precinct committee officer and a separate standard form for candidates for all other offices filing under this chapter. Included on the standard form shall be:
+
+    a. [Empty]
+
+        i. A place for the candidate to declare that he or she is a registered voter within the jurisdiction of the office for which he or she is filing, and the address at which he or she is registered;
+
+        ii. Except as provided in (a)(iii) of this subsection, the address at which the candidate is registered that is provided on a declaration of candidacy is confidential and may not be disclosed under chapter 42.56 RCW. This subsection (1)(a)(ii) applies to declarations of candidacy filed before the effective date of this section and to declarations of candidacy filed on or after the effective date of this section.
+
+        iii. The address at which the candidate is registered may be disclosed:
+
+(A) If the candidate has provided express written consent to disclose the candidate's address;
+
+(B) To the news media, as defined in RCW 5.68.010, in response to a public records request under chapter 42.56 RCW from the news media. The requester must include in the request for public records the requester's legal name and the requester's associated news media. Any address disclosed pursuant to this subsection may not be further disseminated by the recipient. Immediately upon receiving a request for a report filed under this section, the agency receiving the request shall notify all candidates whose information is included in such a report. The notice must include the name of the requester and the requester's associated news media. The requirement to provide notice under this subsection may not delay the production of records in response to a public records request; or
+
+(C) Upon request of the public disclosure commission for the purpose of carrying out its official duties;
+
+    b. A place for the candidate to indicate the candidate's consent for the disclosure of the candidate's address provided on the declaration;
+
+    c. A place for the candidate to indicate the position for which he or she is filing;
+
+    d. A place for the candidate to state a party preference, if the office is a partisan office;
+
+    e. A place for the candidate to indicate the amount of the filing fee accompanying the declaration of candidacy or for the candidate to indicate that he or she is filing a filing fee petition in lieu of the filing fee under RCW 29A.24.091;
+
+    f. [Empty]
+
+        i. A place for the candidate to sign the declaration of candidacy under oath, swearing or affirming that the information provided on the form is true, acknowledging that knowingly providing a false statement on the declaration of candidacy constitutes a crime under RCW 9A.72.040, and swearing or affirming that he or she will support the Constitution and laws of the United States and the Constitution and laws of the state of Washington;
+
+        ii. In the case of a declaration of candidacy filed electronically, the filer shall be notified before submission that submission of the form constitutes a sworn statement or affirmation under oath that the information provided with the filing is true, that the filer acknowledges that knowingly providing a false statement on the declaration of candidacy constitutes a crime in RCW 9A.72.040, and that he or she will support the Constitutions and laws of the United States and the state of Washington, and that he or she agrees to electronic payment of the filing fee established in RCW 29A.24.091; and
+
+    g. The secretary of state may require any other information on the form he or she deems appropriate to facilitate the filing process.
+
+2. Any individual may submit a complaint to the secretary of state or county auditor with whom the candidate filed the candidate's declaration if the individual believes that a candidate provided an address on the declaration of candidacy that is not the address at which the candidate is registered. The secretary of state or county auditor shall, within 24 hours of receiving such complaint, request supporting documentation as specified by the secretary of state by rule, from the candidate that shows the candidate's residential address. Within five days of the complaint, the secretary of state or county auditor shall issue a determination either affirming or rejecting the allegation in the complaint. Any supporting document provided under this subsection must be made available for public inspection, but the secretary of state or county auditor shall first redact the residential address of the candidate.
+
+3. For purposes of this section:
+
+    a. "Dwelling unit" has the same meaning as inRCW 29B.05.030.
+
+    b. "Residence" means the primary residential real property used exclusively as a personal dwelling unit by the candidate.
+
+    c. "Residential address" means the physical address of a residence used by the candidate.
+
+## Section 12
+(1) The county auditor shall have custody of the original voter registration records and voter registration sign up records for each county. The original voter registration form must be filed without regard to precinct and is considered confidential and unavailable for public inspection and copying. An automated file of all registered voters must be maintained pursuant to RCW 29A.08.125. An auditor may maintain the automated file in lieu of filing or maintaining the original voter registration forms if the automated file includes all of the information from the original voter registration forms including, but not limited to, a retrievable facsimile of each voter's signature.
+
+## Section 13
+1. The county auditor in his or her capacity of recorder of deeds is sole custodian of all books in which are recorded deeds, mortgages, judgments, liens, incumbrances, and other instruments of writing, indexes thereto, maps, charts, town plats, survey and other books and papers constituting the records and files in said office of recorder of deeds, and except as provided in subsections (2) and (3) of this section, all such records and files are, and shall be, matters of public information, free of charge to any and all persons demanding to inspect or to examine the same, or to search the same for titles of property. It is said recorder's duty to arrange in suitable places the indexes of said books of record, and when practicable, the record books themselves, to the end that the same may be accessible to the public and convenient for said public inspection, examination, and search, and not interfere with the said auditor's personal control and responsibility for the same, or prevent him or her from promptly furnishing the said records and files of his or her said office to persons demanding any information from the same. The said auditor or recorder  shall, upon demand, and without charge, freely permit any and all persons, during reasonable office hours, to inspect, examine, and search any or all of the records and files of his or her said office, and to gather any information therefrom, and to make any desired notes or memoranda about or concerning the same, and to prepare an abstract or abstracts of title to any and all property therein contained. The county auditor has fulfilled this obligation regarding those records that can be accessed by the public on the county auditor's website.
+
+2. [Empty]
+
+    a. A criminal justice participant, elected official, election official, or any person who resides with such an individual, named in a record described under subsection (1) of this section, may submit a written request for nondisclosure to the auditor or recorder requesting that the person's residential address and the associated parcel number be redacted in any publicly available record described under subsection (1) of this section. The request must be in the form required by the auditor or recorder and signed under penalty of perjury attesting that the person making the request is a criminal justice participant, elected official, election official, or a person residing with such an individual, and named in a record described under subsection (1) of this section. The residential address provided in the form is confidential and may not be disclosed under chapter 42.56 RCW if the request is granted pursuant to (b) of this subsection.
+
+    b. Within 60 days of receiving a written request for nondisclosure in accordance with (a) of this subsection, the auditor or recorder shall grant or deny the request. A request must be granted if the requester meets the requirements under (a) of this subsection. If the request is granted, the residential address and associated parcel number of a criminal justice participant, elected official, election official, or a person residing with such an individual, is confidential and may not be made available for public inspection or otherwise disclosed under chapter 42.56 RCW, except as provided under subsection (3) of this section. The auditor or recorder shall, within 60 days from the date the request is granted, redact the residential address of the requester from any public record described in subsection (1) of this section and any written requests for nondisclosure. Redactions must be made in a manner that does not permanently alter the original record.
+
+    c. Within 30 days of granting the written request for nondisclosure, the auditor or recorder shall notify the county assessor and state archivist of the auditor's or recorder's decision. The county assessor and state archivist shall comply with redaction requirements set forth under RCW 84.40.020, 84.40.160, and 40.14.030.
+
+    d. The auditor or recorder may charge a reasonable fee to a person requesting to redact the person's residential addresses pursuant to this section. Upon affidavit by the person submitting the written request for nondisclosure that the person is unable to pay the fees due to financial hardship, the auditor or recorder shall waive all fees.
+
+3. The residential address and associated parcel number of an individual described under subsection (2) of this section may be disclosed as follows:
+
+    a. Upon receipt of the express written consent of the criminal justice participant, elected official, election official, or any person residing with such an individual, who initially made the written request for nondisclosure under subsection (2) of this section; or
+
+    b. To the news media, as defined in RCW 5.68.010, in response to a public records request under chapter 42.56 RCW from the news media. At the time of their request, the requester shall disclose to the auditor or recorder the requester's legal name and the requester's associated news media. Any address disclosed pursuant to this subsection may not be further disseminated by the recipient. Immediately upon receiving a request for a record described under subsection (1) of this section, the auditor or recorder shall notify the individuals described under subsection (2) of this section whose address is the subject of such record. The notice must include the name of the requester and the requester's associated news media. The requirement to provide notice under this subsection may not delay the production of records in response to a public records request.
+
+4. A person whose written request for nondisclosure is granted shall notify the auditor or recorder in a timely manner when the person is no longer covered under subsection (2) of this section. Upon receiving such notice, the auditor or recorder shall, within 30 days, notify the county assessor and state archivist and remove the redactions accordingly.
+
+5. Any residential address contained in a notice provided to the county assessor or state archivist pursuant to this section is confidential and may not be disclosed under chapter 42.56 RCW or otherwise subject to public inspection.
+
+6. For purposes of this section:
+
+    a. "Criminal justice participant" means a current or former federal, state, or local prosecuting attorney; deputy prosecuting attorney or other staff member of a prosecution agency; federal, state, county, or municipal judge, magistrate, or commissioner; federal, state, or local law enforcement agency staff member; staff member of any adult corrections institution or local adult detention facility; staff member of any juvenile corrections institution or local juvenile detention facility; community corrections officer or probation or parole officer; member of the indeterminate sentence review board; advocate from a crime victim/witness program; or criminal defense attorney employed by a public defense agency.
+
+    b. "Dwelling unit" has the same meaning as inRCW 29B.05.030.
+
+    c. "Elected official" has the same meaning as in RCW 29B.10.180.
+
+    d. "Election official" has the same meaning as described in RCW 9A.46.020.
+
+    e. "Residence" means the primary residential real property used exclusively as a personal dwelling unit by the criminal justice participant, elected official, election official, or any person who resides with such an individual, named in a record described under subsection (1) of this section.
+
+    f. "Residential address" means the physical address of a residence used by the criminal justice participant, elected official, election official, or any person who resides with such an individual, named in a record described under subsection (1) of this section.
+
+## Section 14
+1. [Empty]
+
+    a. All real property in this state subject to taxation shall be listed and assessed every year, with reference to its value on the first day of January of the year in which it is assessed. Such listing and all supporting documents and records shall be open to public inspection during the regular office hours of the assessor's office: PROVIDED, That confidential income data is hereby exempted from public inspection as noted in RCW 42.56.070 and 42.56.230, and except as provided under (c) of this subsection, the residential address and associated parcel number of the residence of a criminal justice participant, elected official, election official, or any person residing with such an individual, contained in records described under this section or RCW 65.04.140 is confidential and may not be disclosed under chapter 42.56 RCW or otherwise subject to public inspection upon notice provided by the county auditor or recorder in accordance with RCW 65.04.140 of the county auditor's or recorder's decision to grant a written request for nondisclosure. Within 60 days of receiving such notice, the county assessor shall redact the residential address of a criminal justice participant, elected official, election official, or person residing with such an individual, contained in any publicly available record described under this subsection. Redactions must be made in a manner that does not permanently alter the original record. The county assessor may charge a reasonable fee to a person requesting to redact the person's residential addresses pursuant to this section. Upon affidavit by the person submitting the request for nondisclosure that the person is unable to pay the fees due to financial hardship, the county assessor shall waive all fees.
+
+    b. Within 30 days of receiving a notice from the county auditor or recorder in accordance with RCW 65.04.140 that a person whose residential address has been redacted pursuant to this subsection is no longer qualified to receive such redaction, the county assessor shall remove all redactions accordingly.
+
+    c. The residential address of a criminal justice participant, elected official, election official, or any person residing with such an individual, may be disclosed as follows:
+
+        i. Upon receipt of the express written consent of a criminal justice participant, elected official, election official, or person residing with such an individual, who initially made the written request for nondisclosure under RCW 65.04.140; or
+
+        ii. To the news media, as defined in RCW 5.68.010, in response to a public records request under chapter 42.56 RCW from the news media. At the time of the request, the requester shall disclose to the county assessor the requester's legal name and the requester's associated news media. Any address disclosed pursuant to this subsection may not be further disseminated by the recipient. Immediately upon receiving a request for a record described under subsection (1) of this section, the county assessor shall notify the criminal justice participant, elected official, election official, or person residing with such an individual whose address is the subject of such record. The notice must include the name of the requester and the requester's associated news media. The requirement to provide notice under this subsection may not delay the production of records in response to a public records request.
+
+    d. For purposes of this section:
+
+        i. "Criminal justice participant" has the same meaning as in RCW 65.04.140.
+
+        ii. "Elected official" has the same meaning as in RCW 29B.10.180.
+
+        iii. "Election official" has the same meaning as described in RCW 9A.46.020.
+
+        iv. "Residential address" has the same meaning as in RCW 65.04.140.
+
+2. All personal property in this state subject to taxation shall be listed and assessed every year, with reference to its value and ownership on the first day of January of the year in which it is assessed: PROVIDED, That if the stock of goods, wares, merchandise or material, whether in a raw or finished state or in process of manufacture, owned or held by any taxpayer on January 1st of any year does not fairly represent the average stock carried by such taxpayer, such stock shall be listed and assessed upon the basis of the monthly average of stock owned or held by such taxpayer during the preceding calendar year or during such portion thereof as the taxpayer was engaged in business.
+
+## Section 15
+1. Except as provided in subsection (3) of this section, the assessor shall list all real property according to the largest legal subdivision as near as practicable. The assessor shall make out in the plat and description book in numerical order a complete list of all lands or lots subject to taxation, showing the names and owners, if to him or her known and if unknown, so stated; the number of acres and lots or parts of lots included in each description of property and the value per acre or lot: PROVIDED, That the assessor shall give to each tract of land where described by metes and bounds a number, to be designated as Tax No. . . . ., which said number shall be placed on the tax rolls to indicate that certain piece of real property bearing such number, and described by metes and bounds in the plat and description book herein mentioned, and it shall not be necessary to enter a description by metes and bounds on the tax roll of the county, and the assessor's plat and description book shall be kept as a part of the tax collector's records: AND PROVIDED, FURTHER, That the board of county commissioners of any county may by order direct that the property be listed numerically according to lots and blocks or section, township and range, in the smallest platted or government subdivision, and when so listed the value of each block, lot or tract, the value of the improvements thereon and the total value thereof, including improvements thereon, shall be extended after the description of each lot, block or tract, which last extension shall be in the column headed "Total value of each tract, lot or block of land assessed with improvements as returned by the assessor." In carrying the values of said property into the column representing the equalized value thereof, the county assessor shall include and carry over in one item the equalized valuation of all lots in one block, or land in one section, listed consecutively, which belong to any one person, firm, or corporation, and are situated within the same taxing district, and in the assessed value of which the county board of equalization has made no change. Where assessed valuations are changed, the equalized valuation must be extended and shown by item.
+
+2. The assessor shall prepare and possess a complete set of maps drawn to indicate parcel configuration for lands in the county. The assessor shall continually update the maps to reflect transfers, conveyances, acquisitions, or any other transaction or event that changes the boundaries of any parcel and shall renumber the parcels or prepare new map pages for any portion of the maps to show combinations or divisions of parcels.
+
+3. [Empty]
+
+    a. The name of a criminal justice participant, elected official, election official, or any person residing with such individual, contained in records described under this section or supporting documents used to create such records is confidential and may not be made available for public inspection or disclosed under chapter 42.56 RCW upon notice provided by the county auditor or recorder in accordance with RCW 65.04.140 of the county auditor's or recorder's decision to grant a written request for nondisclosure. Within 30 days of such notice, the county assessor shall redact the name of a criminal justice participant, elected official, election official, or person residing with such individual contained in any publicly available record described under this section. Redactions must be made in a manner that does not permanently alter the original record. The county assessor may charge a reasonable fee to a person requesting to redact the person's name pursuant to this section. Upon affidavit by the person submitting the request for nondisclosure that the person is unable to pay the fees due to financial hardship, the county assessor shall waive all fees.
+
+    b. The name of a criminal justice participant, elected official, election official, or person residing with such an individual, may be disclosed as follows:
+
+        i. Upon receipt of the express written consent of a criminal justice participant, elected official, election official, or person residing with such an individual, who initially made the written request for nondisclosure under RCW 65.04.140; or
+
+        ii. To the news media, as defined in RCW 5.68.010, in response to a public records request under chapter 42.56 RCW from the news media. At the time of their request, the requester shall disclose to the county assessor the requester's legal name and the requester's associated news media. Any name disclosed pursuant to this subsection may not be further disseminated by the recipient. Immediately upon receiving a request for a record described under subsection (1) of this section, the county assessor shall notify the criminal justice participant, elected official, election official, or a person who resides with such an individual who is the subject of such record. The notice must include the name of the requester and the requester's associated news media. The requirement to provide notice under this subsection may not delay the production of records in response to a public records request.
+
+    c. Within 30 days of receiving a notice from the county auditor or recorder in accordance with RCW 65.04.140 that a person whose name has been redacted pursuant to this subsection is no longer qualified to receive such redaction, the county assessor shall remove all redactions accordingly.
+
+    d. For purposes of this subsection (3), the terms "criminal justice participant," "elected official," and "election official" have the same meanings as in RCW 84.40.020.
+
+## Section 16
+1. All public records, not required in the current operation of the office where they are made or kept, and all records of every agency, commission, committee, or any other activity of state government which may be abolished or discontinued, shall be transferred to the state archives so that the valuable historical records of the state may be centralized, made more widely available, and insured permanent preservation: PROVIDED, That this section shall have no application to public records approved for destruction under the subsequent provisions of this chapter.
+
+When so transferred, copies of the public records concerned shall be made and certified by the archivist, which certification shall have the same force and effect as though made by the officer originally in charge of them. Fees may be charged to cover the cost of reproduction. In turning over the archives of his or her office, the officer in charge thereof, or his or her successor, thereby loses none of his or her rights of access to them, without charge, whenever necessary.
+
+2. Records that are confidential, privileged, or exempt from public disclosure under state or federal law while in the possession of the originating agency, commission, board, committee, or other entity of state or local government retain their confidential, privileged, or exempt status after transfer to the state archives or when otherwise in the possession of the state archives unless the archivist, with the concurrence of the originating jurisdiction, determines that the records must be made accessible to the public according to proper and reasonable rules adopted by the secretary of state, in which case the records may be open to inspection and available for copying after the expiration of 75 years from creation of the record. If the originating jurisdiction is no longer in existence, the archivist shall make the determination of availability according to such rules. If, while in the possession of the originating agency, commission, board, committee, or other entity, any record is determined to be confidential, privileged, or exempt from public disclosure under state or federal law for a period of less than 75 years, then the record, with the concurrence of the originating jurisdiction, must be made accessible to the public upon the expiration of the shorter period of time according to proper and reasonable rules adopted by the secretary of state.
+
+## Section 17
+1. A person shall not knowingly make available on the world wide web the personal information of a peace officer, corrections person, justice, judge, commissioner, public defender, or prosecutor if the dissemination of the personal information poses an imminent and serious threat to the peace officer's, corrections person's, justice's, judge's, commissioner's, public defender's, or prosecutor's safety or the safety of that person's immediate family and the threat is reasonably apparent to the person making the information available on the world wide web to be serious and imminent.
+
+2. It is not a violation of this section if an employee of a county auditor , county assessor, public disclosure commission, or state archivist publishes personal information, in good faith, on the website of the county auditor , county assessor, public disclosure commission, or state archivist in the ordinary course of carrying out public functions, except where such publication is in violation of this act.
+
+3. For the purposes of this section:
+
+    a. "Commissioner" means a commissioner of the superior court, court of appeals, or supreme court.
+
+    b. "Corrections person" means any employee or volunteer who by state, county, municipal, or combination thereof, statute has the responsibility for the confinement, care, management, training, treatment, education, supervision, or counseling of those whose civil rights have been limited in some way by legal sanction.
+
+    c. "Immediate family" means a peace officer's, corrections person's, justice's, judge's, commissioner's, public defender's, or prosecutor's spouse, child, or parent and any other adult who lives in the same residence as the person.
+
+    d. "Judge" means a judge of the United States district court, the United States court of appeals, the United States magistrate, the United States bankruptcy court, and the Washington court of appeals, superior court, district court, or municipal court.
+
+    e. "Justice" means a justice of the United States supreme court or Washington supreme court.
+
+    f. "Personal information" means a peace officer's, corrections person's, justice's, judge's, commissioner's, public defender's, or prosecutor's home address, home telephone number, pager number, social security number, home email address, directions to the person's home, or photographs of the person's home or vehicle.
+
+    g. "Prosecutor" means a county prosecuting attorney, a city attorney, the attorney general, or a United States attorney and their assistants or deputies.
+
+    h. "Public defender" means a federal public defender, or other public defender, and his or her assistants or deputies.
+
+## Section 18
+1. The surplus funds of a candidate or a candidate's authorized committee may only be disposed of in any one or more of the following ways:
+
+    a. Return the surplus to a contributor in an amount not to exceed that contributor's original contribution;
+
+    b. Using surplus, reimburse the candidate for lost earnings incurred as a result of that candidate's election campaign. Lost earnings shall be verifiable as unpaid salary or, when the candidate is not salaried, as an amount not to exceed income received by the candidate for services rendered during an appropriate, corresponding time period. All lost earnings incurred shall be documented and a record thereof shall be maintained by the candidate or the candidate's authorized committee. The committee shall maintain a copy of this record in accordance with RCW 29B.25.090(6);
+
+    c. Transfer the surplus without limit to a political party or to a caucus political committee;
+
+    d. Donate the surplus to a charitable organization registered in accordance with chapter 19.09 RCW;
+
+    e. Transmit the surplus to the state treasurer for deposit in the general fund, the Washington state legacy project, state library, and archives account under RCW 43.07.380, or the legislative international trade account under RCW 43.15.050, as specified by the candidate or political committee; or
+
+    f. Hold the surplus in the depository or depositories designated in accordance with RCW 29B.25.050 for possible use in a future election campaign for the same office last sought by the candidate and report any such disposition in accordance with RCW 29B.25.100. If the candidate subsequently announces or publicly files for office, the appropriate information must be reported to the commission in accordance with RCW 29B.25.020 through 29B.25.100. If a subsequent office is not sought the surplus held shall be disposed of in accordance with the requirements of this section.
+
+    g. [Empty]
+
+        i. Hold the surplus campaign funds in a separate account for nonreimbursed public office-related expenses or as provided in this section, and report any such disposition in accordance with RCW 29B.25.100. The separate account required under this subsection shall not be used for deposits of campaign funds that are not surplus.
+
+For the purposes of this subsection, a public office-related expense includes, but is not limited to, direct out-of-pocket expenses made by the candidate or elected official for personal security measures, as defined in section 4 of this act, that are necessary to address dangers or threats that would not exist but for the individual's status as a candidate or elected official, provided that the personal security measure is reasonably proportional in scope to the level of danger or threat that exists for the candidate or elected official. Surplus campaign funds may not be used to reimburse a candidate or elected official for payments made to the individual's spouse or registered domestic partner, child, parent, grandparent, grandchild, brother, sister, parent-in-law, brother-in-law, sister-in-law, nephew, niece, aunt, uncle, first cousin, or the spouse of any such persons, or an entity in which any person described in this subsection has a personal beneficial interest.
+
+        ii. Disbursements for personal security measures must be for the usual and normal charge for such goods or services. "Usual and normal charge" means, in the case of goods, the price of those goods in the market in which they are ordinarily purchased and, in the case of services, the hourly or piecework charge for the services at a commercially reasonable rate prevailing at the time the services were rendered.
+
+2. No candidate or authorized committee may transfer funds to any other candidate or other political committee.
+
+3. The disposal of surplus funds under this section shall not be considered a contribution for purposes of this title.
+
+## Section 19
+Contributions received and reported in accordance with RCW 29B.25.060 through 29B.25.100 and 29B.40.080 may only be paid to a candidate, or a treasurer or other individual or expended for such individual's personal use under the following circumstances:
+
+1. Reimbursement for or payments to cover lost earnings incurred as a result of campaigning or services performed for the political committee. Lost earnings shall be verifiable as unpaid salary, or when the individual is not salaried, as an amount not to exceed income received by the individual for services rendered during an appropriate, corresponding time period. All lost earnings incurred shall be documented and a record shall be maintained by the candidate or the candidate's authorized committee in accordance with RCW 29B.25.090.
+
+2. Reimbursement for direct out-of-pocket election campaign and postelection campaign related expenses made by the individual. For example, expenses for child care or other direct caregiving responsibilities may be reimbursed if they are incurred directly as a result of the candidate's campaign activities. To receive reimbursement from the political committee, the individual shall provide the political committee with written documentation as to the amount, date, and description of each expense, and the political committee shall include a copy of such information when its expenditure for such reimbursement is reported pursuant to RCW 29B.25.100.
+
+3. Repayment of loans made by the individual to political committees shall be reported pursuant to RCW 29B.25.100. However, contributions may not be used to reimburse a candidate for loans totaling more than four thousand seven hundred dollars made by the candidate to the candidate's own authorized committee.
+
+4. [Empty]
+
+    a. Reimbursement for direct out-of-pocket expenses made by a candidate or an elected official for personal security measures, as defined in section 4 of this act, that are necessary to address dangers or threats that would not exist but for the individual's status or duties as a candidate or an elected official, provided that the personal security measure is reasonably proportional in scope to the level of danger or threat that exists for the candidate or elected official. Campaign funds may not be used to reimburse a candidate or an elected official for payments made to the individual's spouse or registered domestic partner, child, parent, grandparent, grandchild, brother, sister, parent-in-law, brother-in-law, sister-in-law, nephew, niece, aunt, uncle, or first cousin, or the spouse of any such person, or an entity in which any person described in this subsection has a personal beneficial interest.
+
+    b. Disbursements for personal security measures must be for the usual and normal charge for such goods or services. "Usual and normal charge" means, in the case of goods, the price of those goods in the market in which they are ordinarily purchased and, in the case of services, the hourly or piecework charge for the services at a commercially reasonable rate prevailing at the time the services were rendered.
+
+## Section 20
+1. A legislator may use the legislator's member business expense account to pay for personal security measures, as defined in section 4 of this act, that are necessary to address dangers or threats that would not exist but for the individual's status as a legislator. Funds from the legislator's member business expense account may not be used to make a payment to the legislator's spouse or registered domestic partner, child, parent, grandparent, grandchild, brother, sister, parent-in-law, brother-in-law, sister-in-law, nephew, niece, aunt, uncle, first cousin, or the spouse of any such person, or an entity in which any person described in this subsection has a personal beneficial interest.
+
+2. Expenditures for personal security measures must be for the usual and normal charge for such goods or services. "Usual and normal charge" means, in the case of goods, the price of those goods in the market in which they are ordinarily purchased and, in the case of services, the hourly or piecework charge for the services at a commercially reasonable rate prevailing at the time the services were rendered.
+
+3. Upon a legislator leaving office, any personal security measure purchased using funds from the legislator's member business expense account must be amortized and the legislator shall reimburse the account the amount of the residual value of the asset.
+
+4. [Empty]
+
+    a. As applied to public records requests of a legislator's office, audio recordings, video recordings, or photographs created by a security recording device that qualifies as a personal security measure as defined in section 4 of this act and is purchased using funds from the legislator's member business expense account, are not public records within the meaning of RCW 42.56.010 because they do not contain information relating to the conduct of government or the performance of any governmental or proprietary function, and are therefore not subject to chapter 42.56 RCW. Such audio recordings, video recordings, or photographs provided by the legislator to another agency, although meeting the definition of public record under RCW 42.56.010 unless otherwise provided by law, are confidential and not subject to disclosure under chapter 42.56 RCW.
+
+    b. Records other than those described in (a) of this subsection that are created by a personal security measure purchased using funds from the legislator's member business expense account are confidential and not subject to disclosure under chapter 42.56 RCW.
+
+    c. The residential address of a legislator included in any reimbursement form and supporting documents submitted with such form, or on an invoice for a personal security measure purchased using funds from the legislator's member business expense account is confidential and not subject to disclosure under chapter 42.56 RCW.
+
+    d. For purposes of this subsection, "residential address" has the same meaning as in RCW 29B.05.030.
+
+## Section 21
+1. The legislative member security account is created in the custody of the state treasurer. Expenditures from the account may only be used in a manner consistent with subsection (2) of this section. All receipts from funds received from legislative appropriation and from reimbursements pursuant to subsection (3) of this section must be deposited in the account. Only the secretary of the senate and the chief clerk of the house, or their designee, may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures. Expenditures from the account must be apportioned between the senate and house of representatives based on the number of legislators in each chamber.
+
+2. [Empty]
+
+    a. Expenditures from the account may only be used to pay for personal security measures, as defined in section 4 of this act, that are necessary to address dangers or threats that would not exist but for the individual's status as a legislator. Funds from the account may not be used to make a payment to the legislator's spouse or registered domestic partner, child, parent, grandparent, grandchild, brother, sister, parent-in-law, brother-in-law, sister-in-law, nephew, niece, aunt, uncle, first cousin, or the spouse of any such person, or an entity in which any person described in this subsection has a personal beneficial interest.
+
+    b. Expenditures for personal security measures must be for the usual and normal charge for such goods or services. "Usual and normal charge" means, in the case of goods, the price of those goods in the market in which they are ordinarily purchased and, in the case of services, the hourly or piecework charge for the services at a commercially reasonable rate prevailing at the time the services were rendered.
+
+3. Upon a legislator leaving office, any personal security measure purchased using funds from the account created under this section must be amortized and the legislator shall reimburse the account the amount of the residual value of the asset.
+
+4. [Empty]
+
+    a. As applied to public records requests of a legislator's office, audio recordings, video recordings, or photographs created by a security recording device that qualifies as a personal security measure, as defined in section 4 of this act, and is purchased using funds from the legislative member security account, are not public records within the meaning of RCW 42.56.010 because they do not contain information relating to the conduct of government or the performance of any governmental or proprietary function, and are therefore not subject to chapter 42.56 RCW. Such audio recordings, video recordings, or photographs provided by the legislator to another agency, although meeting the definition of public record under RCW 42.56.010 unless otherwise provided by law, are confidential and not subject to disclosure under chapter 42.56 RCW.
+
+    b. Records other than those described in (a) of this subsection that are created by a personal security measure purchased using funds from the legislative member security account are confidential and not subject to disclosure under chapter 42.56 RCW.
+
+    c. The residential address of a legislator included in any reimbursement form and supporting documents submitted with such form, or on an invoice for a personal security measure purchased using funds from the legislative member security account is confidential and not subject to disclosure under chapter 42.56 RCW.
+
+    d. For purposes of this subsection, "residential address" has the same meaning as in RCW 29B.05.030.
+
+## Section 22
+1. No state officer or state employee may employ or use any person, money, or property under the officer's or employee's official control or direction, or in his or her official custody, for the private benefit or gain of the officer, employee, or another.
+
+2. This section does not prohibit the use of public resources to benefit others as part of a state officer's or state employee's official duties. It is not a violation of this section for a legislator or employees under the jurisdiction of the legislative ethics board to engage in activities listed under RCW 42.52.822 or 42.52.175.
+
+3. This section does not prohibit de minimis use of state facilities to provide employees with information about (a) medical, surgical, and hospital care; (b) life insurance or accident and health disability insurance; or (c) individual retirement accounts, by any person, firm, or corporation administering such program as part of authorized payroll deductions pursuant to RCW 41.04.020.
+
+4. The appropriate ethics boards may adopt rules providing exceptions to this section for occasional use of the state officer or state employee, of de minimis cost and value, if the activity does not result in interference with the proper performance of official duties.
+
+5. This section does not apply to activities conducted by legislative employees authorized under RCW 44.90.110.
+
+6. This section does not prohibit a legislator from using public funds as authorized under sections 20 and 21 of this act to pay for personal security measures, defined in section 4 of this act, provided that upon a legislator leaving office, any personal security measure purchased with public funds must be amortized and the legislator shall reimburse the appropriate account the amount of the residual value of the asset. Failure to reimburse constitutes a violation of subsection (1) of this section.
+
+## Section 23
+1. The following information is confidential and may not be disclosed under this chapter:
+
+    a. The residential address and, for financial affairs statements, the associated parcel number, of an elected official and the same residential address of any person residing with the elected official contained in books of account and reports filed with the public disclosure commission is exempt in accordance with RCW 29B.05.030, 29B.25.090, 29B.40.180, and 29B.55.030, and section 7 of this act.
+
+    b. The residential address and associated parcel number of an executive state officer contained in a statement of financial affairs filed with the public disclosure commission is exempt in accordance with RCW 29B.55.030.
+
+    c. The residential address of a candidate provided on a declaration of candidacy is exempt pursuant to RCW 29A.24.031.
+
+    d. The voter registration address of an elected official, a criminal justice participant, and that of any person sharing the same voter registration address as such person is exempt in accordance with RCW 29A.08.710.
+
+    e. The residential address and associated parcel number of an elected official, election official, criminal justice participant, and the same residential address of any person residing with such person, named in real property records maintained by the county auditor or recorder is exempt in accordance with RCW 65.04.140.
+
+    f. The residential address and associated parcel number of an elected official, election official, criminal justice participant, and the same residential address of any person residing with such person, contained in real property records maintained by the county assessor is exempt in accordance with RCW 84.40.020. The name of persons described under this subsection contained in real property records maintained by the county assessor is exempt in accordance with RCW 84.40.160.
+
+    g. Audio recordings, video recordings, or photographs created by a security recording device that qualifies as a personal security measure under section 4 of this act, that a legislator provides to another agency, and all other public records created by a personal security measure are exempt in accordance with sections 4, 20, and 21 of this act.
+
+    h. The residential address of a legislator included on any reimbursement form and supporting documents submitted with such form, or on an invoice for a personal security measure purchased using funds from the legislator's member business expense account or the legislative member security account is exempt in accordance with sections 20 and 21 of this act.
+
+2. For purposes of this section:
+
+    a. "Criminal justice participant" has the same meaning as in RCW 65.04.140.
+
+    b. "Dwelling unit" has the same meaning as in RCW 29B.05.030.
+
+    c. "Elected official" has the same meaning as in RCW 29B.10.180.
+
+    d. "Election official" has the same meaning as described in RCW 9A.46.020.
+
+    e. "Executive state officer" has the same meaning as in RCW 29B.55.020.
+
+    f. "Personal security measure" has the same meaning as in section 4 of this act.
+
+    g. "Residence" means the primary residential real property used exclusively as a personal dwelling unit by a person described under this section.
+
+    h. "Residential address" means the physical address of a residence used by a person described under this section.
+
+## Section 25
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

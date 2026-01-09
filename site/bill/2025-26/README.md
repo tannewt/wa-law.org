@@ -43,7 +43,7 @@
 * [SB 5077](sb/5077) - Agency voter registration 10📰 1431👍 4658👎 10❓ - C 330 L 25
 * [SB 5726](sb/5726) - Transportation revenue 7📰 249👍 5793👎 15❓ - S Transportation
 * [SB 5186](sb/5186) - School district fac. funding 19📰 3119👍 2693👎 8❓ - S Rules X
-* [HB 2015](hb/2015) - Public safety funding 37📰 137👍 5660👎 12❓ - C 350 L 25
+* [HB 2015](hb/2015) - Public safety funding 38📰 137👍 5660👎 12❓ - C 350 L 25
 * [SB 5187](sb/5187) - Student transportation 17📰 5149👍 640👎 7❓ - SWays & Means
 * [HB 1321](hb/1321) - Outside militia activities 22📰 819👍 4272👎 2❓ - C 72 L 25
 * [HB 1125](hb/1125) - Sentence modification 11📰 1873👍 3194👎 10❓ - H Rules C
@@ -1383,7 +1383,158 @@
 * [SB 5586](sb/5586) - Electric vehicle batteries 1📰 1👍 0👎 0❓ - SEnvironment, E
 
 ## Pending bills
-* [HB 2259](hb/2259) - Initiatives and referenda - H Prefiled
+* [HB 2347](hb/2347) - Luxury aircraft tax - H Prefiled
+* [HB 2333](hb/2333) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. - H Prefiled
+* [SB 6045](sb/6045) - Agricultural employees/PERC - S Prefiled
+* [SB 6044](sb/6044) - Diwali and Bandi Chhor Divas - S Prefiled
+* [SB 6043](sb/6043) - Recognizing Rosh Hashanah, Yom Kippur, and Hanukkah. - S Prefiled
+* [SB 6042](sb/6042) - School maps - S Prefiled
+* [SB 6041](sb/6041) - Personality rights - S Prefiled
+* [SB 6040](sb/6040) - Lottery promotional entries - S Prefiled
+* [SB 6039](sb/6039) - LNI communication methods - S Prefiled
+* [SB 6038](sb/6038) - Postgrad degree requirements - S Prefiled
+* [SB 6037](sb/6037) - Fire protection districts - S Prefiled
+* [SB 6036](sb/6036) - Exempting certain former foster care providers from adult family home licensure. - S Prefiled
+* [SB 6035](sb/6035) - Voting services - S Prefiled
+* [SB 6034](sb/6034) - Office of Indian affairs - S Prefiled
+* [SB 6033](sb/6033) - Providing a limited waiver of interest and penalties for taxpayers inadvertently failing to collect and remit sales and use taxes on select services. - S Prefiled
+* [SB 6032](sb/6032) - Vehicle loads - S Prefiled
+* [SB 6031](sb/6031) - Insurance crimes - S Prefiled
+* [SB 6030](sb/6030) - Plastic carryout bags - S Prefiled
+* [HB 2346](hb/2346) - Concerning performance-based building codes for middle housing. - H Prefiled
+* [HB 2345](hb/2345) - Paid leave contributions - H Prefiled
+* [HB 2344](hb/2344) - Safe cookware - H Prefiled
+* [HB 2343](hb/2343) - Game farm/water quality - H Prefiled
+* [HB 2342](hb/2342) - Religious liberty commission - H Prefiled
+* [HB 2341](hb/2341) - National voter reg. day - H Prefiled
+* [HB 2340](hb/2340) - Applying substance use disorder monitoring program provisions to nursing assistants. - H Prefiled
+* [HB 2339](hb/2339) - Nursing - H Prefiled
+* [HB 2338](hb/2338) - Community weatherization - H Prefiled
+* [HB 2337](hb/2337) - Concerning training requirements for individual providers caring for a family member. - H Prefiled
+* [HB 2336](hb/2336) - Independent medical exams - H Prefiled
+* [HB 2335](hb/2335) - B&O tax increases repeal - H Prefiled
+* [HB 2334](hb/2334) - Cash transactions/pennies - H Prefiled
+* [HB 2332](hb/2332) - Driver privacy - H Prefiled
+* [HB 2331](hb/2331) - Preventing reductions in access to pediatric primary care and behavioral health services. - H Prefiled
+* [HB 2330](hb/2330) - Establishing a prioritization process for capital funding for state campus district energy systems. - H Prefiled
+* [HB 2329](hb/2329) - Concerning midwife supervision of medical assistants and lactation consultants. - H Prefiled
+* [HB 2328](hb/2328) - School maps - H Prefiled
+* [HB 2327](hb/2327) - County forest board lands - H Prefiled
+* [HB 2326](hb/2326) - Emerg. med. service levies - H Prefiled
+* [HB 2325](hb/2325) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. - H Prefiled
+* [HB 2324](hb/2324) - Child of veteran/tuition - H Prefiled
+* [HB 2323](hb/2323) - Traffic stops/blue envelope - H Prefiled
+* [HB 2322](hb/2322) - Alternative jet fuel - H Prefiled
+* [HB 2321](hb/2321) - 3D printer blocking tech. - H Prefiled
+* [HB 2320](hb/2320) - Firearm manufacturing - H Prefiled
+* [SB 6029](sb/6029) - Changing the Washington code of military justice so that it includes certain protections for victims of an offense while serving within the organized militia of Washington. - S Prefiled
+* [SB 6028](sb/6028) - Establishing a revolving loan fund for mixed-income affordable homeownership development. - S Prefiled
+* [SB 6027](sb/6027) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. - S Prefiled
+* [SB 6026](sb/6026) - Concerning residential development in commercial and mixed-use zones. - S Prefiled
+* [SB 6025](sb/6025) - Updating the definition of fetal death. - S Prefiled
+* [SB 6024](sb/6024) - DD res. service providers - S Prefiled
+* [SB 6023](sb/6023) - Protecting children from imminent risk of harm. - S Prefiled
+* [SB 6022](sb/6022) - Improving juvenile rehabilitation. - S Prefiled
+* [SB 6021](sb/6021) - Green Hill school contraband - S Prefiled
+* [SB 6020](sb/6020) - Changing the official name of the department of children, youth, and families oversight board. - S Prefiled
+* [SB 6019](sb/6019) - Home care rates - S Prefiled
+* [SB 6018](sb/6018) - Housing finance commission - S Prefiled
+* [SB 6017](sb/6017) - Crime victims & witnesses - S Prefiled
+* [SB 6016](sb/6016) - Considering critical aquifer recharge areas when revising an urban growth area. - S Prefiled
+* [SB 6015](sb/6015) - Concerning permit-ready residential building plans. - S Prefiled
+* [SB 6014](sb/6014) - Pregnancy accommodations - S Prefiled
+* [SB 6013](sb/6013) - Ski areas and winter sports - S Prefiled
+* [SB 6012](sb/6012) - Exempting schools from retail sales tax imposed on certain services. - S Prefiled
+* [SB 6011](sb/6011) - Concerning the authority of court of appeals bailiffs to assess threats to court of appeals judicial officers and staff members. - S Prefiled
+* [SB 6010](sb/6010) - Concerning tribal consultation conducted by the energy facility site evaluation council. - S Prefiled
+* [SB 6009](sb/6009) - Administrative appeals - S Prefiled
+* [SB 6008](sb/6008) - Residential energy storage - S Prefiled
+* [SB 6007](sb/6007) - DCYF assessment practices - S Prefiled
+* [SB 6006](sb/6006) - Food banks/sales tax - S Prefiled
+* [SB 6005](sb/6005) - Transportation budget, supp. - S Prefiled
+* [SB 6004](sb/6004) - Electric/public contracts - S Prefiled
+* [SB 6003](sb/6003) - Capital budget, supplemental - S Prefiled
+* [SB 6002](sb/6002) - Driver privacy 2📰 - S Prefiled
+* [SB 6001](sb/6001) - Scissor stairs - S Prefiled
+* [HB 2319](hb/2319) - Renaming certain state residential facilities for persons with developmental disabilities. - H Prefiled
+* [HB 2318](hb/2318) - Adjusting the early achievers quality improvement awards. - H Prefiled
+* [HB 2317](hb/2317) - Concerning early learning program licensing requirements. - H Prefiled
+* [HB 2316](hb/2316) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. - H Prefiled
+* [HB 2315](hb/2315) - Cannabis oversupply - H Prefiled
+* [HB 2314](hb/2314) - Concerning dental care services at residential habilitation centers. - H Prefiled
+* [HB 2313](hb/2313) - Public grocery stores - H Prefiled
+* [HB 2312](hb/2312) - Authorizing shared leave for absences resulting from immigration enforcement actions. - H Prefiled
+* [HB 2311](hb/2311) - Workforce board admin. - H Prefiled
+* [HB 2310](hb/2310) - Sexually motivated assault - H Prefiled
+* [HB 2309](hb/2309) - Reducing barriers to state employment by eliminating postgraduate degree requirements that are unnecessary. - H Prefiled
+* [HB 2308](hb/2308) - Addressing enforcement of motor vehicle liability insurance and fiscal responsibilities. - H Prefiled
+* [HB 2307](hb/2307) - Modifying the time component of various definitions for purposes of commute trip reduction. - H Prefiled
+* [HB 2306](hb/2306) - Transportation budget, supp. - H Prefiled
+* [HB 2305](hb/2305) - Clarifying that travel vans are not motor homes for purposes associated with vehicle registration. - H Prefiled
+* [HB 2304](hb/2304) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. - H Prefiled
+* [HB 2303](hb/2303) - Employee microchipping - H Prefiled
+* [HB 2302](hb/2302) - Pharmacist prescriptive auth - H Prefiled
+* [HB 2301](hb/2301) - Paint producer resp. - H Prefiled
+* [HB 2300](hb/2300) - Assessing employers for their workers' health care costs paid by the state. - H Prefiled
+* [HB 2299](hb/2299) - Independent living ombuds - H Prefiled
+* [HB 2298](hb/2298) - Property title protection - H Prefiled
+* [HB 2297](hb/2297) - Incentivizing grocery stores located in underserved communities. - H Prefiled
+* [HB 2296](hb/2296) - Distributed energy resources - H Prefiled
+* [HB 2295](hb/2295) - Capital budget, supplemental - H Prefiled
+* [HB 2294](hb/2294) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. - H Prefiled
+* [HB 2293](hb/2293) - Prohibiting law enforcement training with certain foreign entities. - H Prefiled
+* [HB 2292](hb/2292) - Small business stock gains - H Prefiled
+* [HB 2291](hb/2291) - Kratom - H Prefiled
+* [HB 2290](hb/2290) - Schools/sales tax - H Prefiled
+* [HB 2289](hb/2289) - Operating budget, supp. - H Prefiled
+* [HB 2288](hb/2288) - Env. programs/fee accounts - H Prefiled
+* [HB 2287](hb/2287) - Pupil transp. safety net - H Prefiled
+* [HB 2286](hb/2286) - Social worker licensure - H Prefiled
+* [HB 2285](hb/2285) - Carbon capture - H Prefiled
+* [HB 2284](hb/2284) - Litter reduction - H Prefiled
+* [HB 2283](hb/2283) - Medical loss ratio - H Prefiled
+* [HB 2282](hb/2282) - Transition to kindergarten - H Prefiled
+* [HB 2281](hb/2281) - State-tribal relationship - H Prefiled
+* [HB 2272](hb/2272) - Ski areas and winter sports - H Prefiled
+* [HB 2271](hb/2271) - Plastics/recycled content - H Prefiled
+* [HB 2269](hb/2269) - Middle housing/uninc. areas - H Prefiled
+* [HB 2266](hb/2266) - Supportive & emerg. housing - H Prefiled
+* [HB 2265](hb/2265) - Extreme heat/tenants - H Prefiled
+* [SB 6000](sb/6000) - OPMA/natural disasters - S Prefiled
+* [SB 5999](sb/5999) - Ecosystem services - S Prefiled
+* [SB 5998](sb/5998) - Operating budget, supp. - S Prefiled
+* [SB 5997](sb/5997) - Self-insurers/claims - S Prefiled
+* [SB 5996](sb/5996) - Commercial shellfish fees - S Prefiled
+* [SB 5995](sb/5995) - Zero emission cargo handling - S Prefiled
+* [SB 5994](sb/5994) - Timber tax distributions - S Prefiled
+* [SB 5993](sb/5993) - Medical debt interest - S Prefiled
+* [SB 5992](sb/5992) - Youth development fund - S Prefiled
+* [SB 5991](sb/5991) - Carbon capture - S Prefiled
+* [SB 5990](sb/5990) - Rural local health officers - S Prefiled
+* [SB 5989](sb/5989) - Aircraft fuel tax distrib. - S Prefiled
+* [SB 5988](sb/5988) - Opioid treatment prg. fees - S Prefiled
+* [SB 5987](sb/5987) - SR 165 replacements - S Prefiled
+* [SB 5986](sb/5986) - Disability/property tax ex. - S Prefiled
+* [SB 5985](sb/5985) - Endometriosis - S Prefiled
+* [SB 5984](sb/5984) - AI companion chatbots - S Prefiled
+* [SB 5983](sb/5983) - Current use land/sale to gov - S Prefiled
+* [SB 5982](sb/5982) - Consumer-owned utilities - S Prefiled
+* [HB 2280](hb/2280) - Legislator facility access - H Prefiled
+* [HB 2279](hb/2279) - Agriculture/PFAS chemicals - H Prefiled
+* [HB 2278](hb/2278) - Tourism promotion areas - H Prefiled
+* [HB 2277](hb/2277) - Wildfire risk models - H Prefiled
+* [HB 2276](hb/2276) - Home care rates - H Prefiled
+* [HB 2275](hb/2275) - Wildfire prevention 1📰 - H Prefiled
+* [HB 2274](hb/2274) - Commercial electronic mail - H Prefiled
+* [HB 2273](hb/2273) - Embodied carbon/buildings - H Prefiled
+* [HB 2270](hb/2270) - Lodging tax revenue use - H Prefiled
+* [HB 2268](hb/2268) - Mortgage escrow accounts - H Prefiled
+* [HB 2267](hb/2267) - Urban forest management - H Prefiled
+* [HB 2264](hb/2264) - Unemployment ins./layoffs - H Prefiled
+* [HB 2263](hb/2263) - Public counsel - H Prefiled
+* [HB 2262](hb/2262) - Signature education - H Prefiled
+* [HB 2261](hb/2261) - Health care credentials - H Prefiled
+* [HB 2259](hb/2259) - Initiatives and referenda 1📰 - H Prefiled
 * [SB 5833](sb/5833) - Pets in unattended vehicles - S Prefiled
 * [SB 5965](sb/5965) - Retail bags - S Prefiled
 * [SB 5964](sb/5964) - Independent living ombuds - S Prefiled
@@ -1399,8 +1550,8 @@
 * [SB 5977](sb/5977) - Child near fatality reviews - S Prefiled
 * [SB 5976](sb/5976) - Commercial electronic mail - S Prefiled
 * [SB 5975](sb/5975) - Safe cookware - S Prefiled
-* [SB 5974](sb/5974) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. - S Prefiled
-* [SB 5973](sb/5973) - Initiatives and referenda - S Prefiled
+* [SB 5974](sb/5974) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 1📰 - S Prefiled
+* [SB 5973](sb/5973) - Initiatives and referenda 1📰 - S Prefiled
 * [SB 5972](sb/5972) - Correctional officers/arb. - S Prefiled
 * [SB 5971](sb/5971) - Green fertilizer incentives - S Prefiled
 * [SB 5970](sb/5970) - Senior citizen centers/tax - S Prefiled

@@ -1,0 +1,9 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2278](/bill/2025-26/hb/2278/)
+
+# HB 2278 - Tourism promotion areas
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2278&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings

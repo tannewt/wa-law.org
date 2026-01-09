@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/06/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 5974 — Centralizing Power Over Washington’s Sheriffs - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb5974-washington-sheriffs-under-attack/#:~:text=SB%205974%20Washington%20State%20Legislature)
+
 ## Meetings

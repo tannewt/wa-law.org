@@ -1,0 +1,129 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6008](/bill/2025-26/sb/6008/) > [Original Bill](/bill/2025-26/sb/6008/1/)
+
+# SB 6008 - Residential energy storage
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6008.pdf)
+
+## Section 1
+The legislature finds that it is in the public interest to increase energy storage capacity across the state in response to increases in peak electrical loads, wildfire potential, and windstorms and other catastrophic events that may lead to power outages. Residential battery energy storage systems and distributed energy resources will be a key part of the solution, but they must be connected to the grid and dispatchable by utilities during peak load events, and available to customers in the case of power outages. The initial cost of residential battery energy storage systems is a barrier for many electric utility customers. With a targeted incentive program, the state can aid utilities and their customers in the adoption of these systems with the goal of reducing costly transmission and distribution capital expenditures, maximizing system benefits for all retail electric customers, and identifying opportunities for improving access to transformative technologies for low-income and moderate-income customers. Such incentive programs would help achieve clean energy transformation act goals.
+
+## Section 2
+The definitions in this section apply throughout section 3 of this act unless the context clearly requires otherwise.
+
+1. "Customer-generator" has the same meaning as in RCW 80.60.010.
+
+2. "Demand charge" means a fee billed to consumers of electricity based on the highest rate of electricity consumption recorded in a billing period.
+
+3. "Department" means the department of commerce.
+
+4. "Distributed energy resource" has the same meaning as in RCW 19.405.020.
+
+5. "Electric utility" means:
+
+    a. An electric utility as defined in RCW 19.405.020; or
+
+    b. A tribally owned utility in the business of serving electric customers.
+
+6. "Flexible demand program" means an electric utility program that encourages consumers to shift or modulate their electricity demand in ways that benefit the electric utility's electric system. This could include incentives, time of use rates, virtual power plants, and other mechanisms for signaling end use load and customer energy storage systems to respond to price signals.
+
+7. "Low-income" has the same meaning as in RCW 19.405.020.
+
+8. "Moderate-income household" means a single person, family, or unrelated persons living together whose adjusted income is more than 80 percent but is at or below 115 percent of the median family income adjusted for family size, for the county, city, or metropolitan statistical area, where the project is located, as reported by the United States department of housing and urban development.
+
+9. "Qualified electric utility customer" means a residential customer of an electric utility with a flexible demand program.
+
+10. "Residential battery energy storage system" means a stationary and permanently installed battery system no smaller than 5 kWh serving a customer that can store and discharge energy to support utility demand management. A residential battery energy storage system is not an industrial-scale battery energy storage system.
+
+11. "Time-of-use rate" means an electricity billing structure where the price of electricity varies based on the time of day it is used, typically with higher prices during peak demand hours and lower prices during off-peak hours, intended to encourage consumers to shift their energy usage to times of off-peak demand.
+
+12. "Tribes' contracted service provider" means an organization or consultant contracted with a federally recognized tribal government for work benefiting tribal communities, tribal lands, or both tribal communities and tribal lands.
+
+13. "Virtual power plant" means an aggregation of connected distributed energy resources that when coordinated via software or rates, can balance electrical loads, lower electricity demand peaks, and provide utility grid services like a traditional power plant.
+
+## Section 3
+1. Subject to the availability of amounts appropriated for this specific purpose, a residential battery incentive grant program is established to improve access to residential battery energy storage systems for low-income and moderate-income customers and maximize system benefits for all retail electric customers.
+
+2. Within available funding, the department shall award grants to electric utilities with qualified residential battery incentive programs. No more than 35 percent of funding in a biennium shall be awarded to a single utility, and no more than 50 percent of grant funds in a biennium shall be awarded to investor-owned utilities. If the department decides to award funds in multiple rounds during a biennium, these funding caps do not apply on the final funding round.
+
+3. An electric utility interested in participating in the department's grant program must submit an application to the department. The application must include the details of an electric utility's proposed flexible demand program as described in subsection (4) of this section and must also include the application information required in subsection (5) of this section.
+
+4. An electric utility's proposed residential battery incentive program may be approved by the department for grant funding only if the program:
+
+    a. Provides an upfront battery incentive payment for a qualified electric utility customer;
+
+    b. Includes a plan for how the electric utility will incorporate the residential battery energy storage systems and any connected distributed energy resources into its flexible demand program and financially encourage qualified electric utility customers to:
+
+        i. Manage their electricity by responding to time of use rate or demand charge price signals in a way that reduces costs to the electric utility's electrical system; or
+
+        ii. Provide the electric utility or the electric utility's contractor the means to manage the batteries collectively to benefit utility grid operations;
+
+    c. Allows for a customer-generator to fully participate in the program. Customer-generators who choose to opt out of their electric utility's flexible demand program as described in subsection (7) of this section must be allowed to enroll in the electric utility's otherwise applicable tariff that was available to the customer-generator at the generating system's original time of interconnection;
+
+    d. Does not allow for residential battery energy storage system leases to customers unless in utility-owned rent-to-own circumstance, or in systems that are owned by an electric utility and leased at no cost to low-income or moderate-income customers;
+
+    e. Is designed by the electric utility to lower qualified electric utility customers' current total annual electric utility expenses, if all other parameters are held static and market conditions are ideal; and
+
+    f. Reserves at least 40 percent of the residential battery incentive grant program funding for the benefit of low-income households, moderate-income households, tribal households, or a combination thereof.
+
+5. The department's application process with utilities desiring to establish a residential battery incentive program must include:
+
+    a. Plans for how the utility's residential battery incentive program will encourage low-income household participation;
+
+    b. An example application for qualified electric utility customers to apply for the battery incentive, which must require income verification for low-income and moderate-income customers at the time of enrollment. Income verification may include categorical eligibility based on participation in other government programs or may be performed by low-income service providers, housing authorities, tribal governments, or tribes' contracted service providers on behalf of an electric utility. Electric utilities must submit an annual compliance attestation to the department as the utility is responsible for regularly auditing income verification of program participants at the time of enrollment;
+
+    c. A statement on whether the utility intends to use utility-owned rent-to-own residential battery energy storage systems as part of its flexible demand program, or utility-owned leased residential battery energy systems for income-qualified customers, and the details and terms and conditions of the utility-owned rent-to-own or leased agreements;
+
+    d. Expected monthly savings to participating qualified electric utility customers' electrical bill expenses, if all other parameters are held static and market conditions are ideal;
+
+    e. A description of any prioritization that will be applied to qualified electric utility customer applications to the flexible demand program such as prioritizing customers in high fire risk areas or areas prone to frequent outages;
+
+    f. A description of how customer feedback was used by the electric utility to design the incentive program;
+
+    g. Documentation of all electric utility expenses and upgrades proposed as part of program implementation. Expenses and upgrades may not exceed 20 percent of the total grant funds received by the utility during a biennium, and may include:
+
+        i. Advanced metering infrastructure; and
+
+        ii. Applicable subscription fees paid by the electric utility to operators of an electric utility-owned virtual power plant; and
+
+    h. A notarized signed and sworn statement on behalf of the electric utility that qualified electric utility customer data will not be sold or aggregated for any purposes beyond the direct operation of its flexible demand program.
+
+6. Third parties may not own residential battery energy storage systems receiving incentives as part of a residential battery incentive program. Electric utilities are not third parties.
+
+7. Customers who opt out of their electric utility's flexible demand program early after receiving an upfront battery incentive may be required by the electric utility to pay back a pro rata share of the incentive. The electric utility must have disclosed the pro rata repayment terms and calculation to the customer at the time of enrollment and must publish this information on the electric utility's website. Any monies collected by an electric utility as part of repayment must be allocated back to the utility's residential battery incentive program.
+
+8. Any electricity exported onto the distribution grid by a customer-generator must be justly compensated in accordance with the value of electricity on the distribution system at that given time, or at full retail rate.
+
+9. An electric utility may establish residential battery energy storage system installer partners and required equipment specifications for its residential battery incentive program.
+
+10. If the department approves an electric utility's residential battery incentive program, the electric utility may commence such a program. Electric utilities must reapply to the department at the start of each biennium for additional funding and the department must confirm that each utility's program is or has been implemented according to the requirements outlined in this section.
+
+11. An electric utility with more than 100,000 retail electric customers in Washington must implement a flexible demand program in accordance with this section by December 31, 2026. All other electric utilities may choose to implement a flexible demand program.
+
+12. A qualified electric utility customer who has or who plans to enroll in a participating electric utility's approved flexible demand program may apply to their utility for a one-time battery incentive between July 1, 2026, and June 30, 2036, for an incentive payment for a residential battery energy storage system. Electric utility customers who are not enrolled or do not plan to enroll in an approved flexible demand program may not receive an incentive payment. A tax equity investor partnership which owns residential properties may apply to the program if a nonprofit organization, public entity, tribal government, or academic institution is the controlling partner for that partnership.
+
+13. [Empty]
+
+    a. A battery incentive must be paid in the following amounts, unless the requests exceed the total grant funding received by the participating electric utility:
+
+        i. For low-income and moderate-income qualified electric utility customers, the incentive shall be up to $13,800 per customer; and
+
+        ii. For all other customers, the incentive shall be up to $8,100 per customer.
+
+    b. The department may adjust the maximum dollar amount per customer for incentive payments based on a review of market conditions.
+
+    c. Utilities may request a different incentive amount in their application to the department and the department may authorize a different incentive amount for due cause in approving an electric utility's program.
+
+14. On a quarterly basis, each electric utility participating in the grant program must submit a report to the department with:
+
+    a. The zip code of the recipient, unique application ID, and kilowatt capacity of the residential battery energy storage system;
+
+    b. Evidence that the residential battery energy storage system has been approved for use by the connected electric utility;
+
+    c. The unique application ID of any previously enrolled customers who have opted out of the flexible demand program and any incentive amounts paid to those customers; and
+
+    d. The total number of customers and total load in kWh participating in the utility's demand flexibility program.
+
+## Section 4
+1. This chapter does not apply to the receipt of grants by electric utilities from the department of commerce as authorized under section 3 of this act.
+
+2. The provisions of RCW 82.32.805 and 82.32.808 do not apply to subsection (1) of this section.
