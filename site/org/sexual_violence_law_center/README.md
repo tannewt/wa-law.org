@@ -22,6 +22,12 @@
 
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+* 👍💵 Elizabeth Hendren
+
+### [HB 2178](/bill/2025-26/hb/2178/) - Court rules and procedures   ❓1
+* ❓💵 Elizabeth Hendren
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
@@ -51,12 +57,15 @@
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
-## [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program 👍1  
+### [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program 👍1  
+* 👍💵 Elizabeth Hendren
+
+## [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 * 👍💵 Elizabeth Hendren
 
 ## 2023-24
 
-### [SB 5499](/bill/2023-24/sb/5499/) - DOC body scanner program 👍1  
+### [SB 5855](/bill/2023-24/sb/5855/) - Law enf. face coverings 👍1  
 * 👍💵 Elizabeth Hendren
 
 ### [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  

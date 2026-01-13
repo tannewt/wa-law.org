@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=ESSB%205814)
 * 12/31/2025 [The Center Square](/org/the_center_square/) - [Several new laws to take effect in Washington state in 2026 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dfd8bcb2-ed34-4896-bd1a-000eb34a42b2.html#:~:text=Senate%20Bill%205814)
 * 12/07/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=a%20new%20law)
 * 12/07/2025 [Gorge News Center](/org/gorge_news_center/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/07/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=a%20new%20law)

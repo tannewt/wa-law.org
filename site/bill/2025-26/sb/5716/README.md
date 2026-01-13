@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [New year, new session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/09/new-year-new-session/#:~:text=SB%205716,)
 * 05/01/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/05/01/the-legislature-is-adjourned/#:~:text=SB%205716)
 * 04/30/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/the-legislature-is-adjourned/#:~:text=SB%205716)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5716)

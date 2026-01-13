@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5865 Garnishment forms
+Sign up to testify:
+
+#### 10 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
+* Judge Andrew Biviano - District & Municipal Court Judges' Association
+
+#### 2 👎 - Con
+Testifying:
+* Mindy Chumbley - NW Collectors Association
+* Kevin Underwood - Northwest Collectors Ass'n
+
+#### 0 ❓ - Other

@@ -34,6 +34,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Denise Rodriguez
 
@@ -57,11 +59,16 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍2  
+* 👍💵 Elizabeth Perez
+
+## [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 6018](/bill/2023-24/sb/6018/) - Housing finance commission 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
 

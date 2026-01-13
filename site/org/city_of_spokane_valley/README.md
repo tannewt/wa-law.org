@@ -99,6 +99,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  ❓1
 
+### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority  👎2 
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎3 
@@ -166,11 +168,13 @@
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
-## [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
+### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
+
+## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
 ## 2023-24
 
-### [SB 5773](/bill/2023-24/sb/5773/) - Transportation procurement 👍1  
+### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

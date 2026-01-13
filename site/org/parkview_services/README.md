@@ -1,20 +1,24 @@
 # Parkview Services
 ## 2025-26
 
+### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Marc Cote
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍10  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍10  
 * 👍 Marc Cote
 * 👍 Marc Coté
+
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍3  
+
+## [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍10  
-* 👍 Marc Cote
-* 👍 Marc Coté
+### [SB 6018](/bill/2023-24/sb/6018/) - Housing finance commission 👍1  
 
 ### [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Marc Cote

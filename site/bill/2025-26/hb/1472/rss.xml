@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1472/</link>
 		<description>Updates about HB 1472</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 24 Apr 2025 01:30:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1068,6 +1068,13 @@
 			<pubDate>Thu, 24 Apr 2025 01:30:20 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/04/23/republicans-walk-out-after-wa-house-committee-votes-to-close-center-for-people-with-disabilities/#:~:text=House%20Bill%201472</guid>
+		</item>
+		<item>
+			<title>House Rules "X" file.</title>
+			<description>House Rules "X" file.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/House Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

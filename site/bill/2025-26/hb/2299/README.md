@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 08:00 AM - Housing (HOUS): HB 2299 Independent living ombuds
+Sign up to testify:
+
+#### 119 👍 - Pro
+Testifying:
+* Vivian A Alexander - 30th District Democrats
+* Laura Saunders - Washington Continuing Care Residents Asdiciationsociation
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -6,4 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205969)
+
 ## Meetings
+### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5969 IEP transition plans
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Alex Hur - Communities in Schools of Washington
+
+#### 1 👎 - Con
+Testifying:
+* Tanya English
+
+#### 0 ❓ - Other

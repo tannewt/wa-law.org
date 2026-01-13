@@ -19,6 +19,8 @@
 * 👍 Ben Mitchell
 * 👍 Ben Mitchell
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
@@ -44,11 +46,13 @@
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+
+## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
+### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

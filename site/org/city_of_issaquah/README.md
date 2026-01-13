@@ -16,6 +16,14 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍2  
@@ -34,11 +42,19 @@
 
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+
+## [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍2  
+### [SB 6008](/bill/2023-24/sb/6008/) - Residential energy storage 👍1  
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 

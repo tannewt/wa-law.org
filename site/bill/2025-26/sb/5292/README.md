@@ -15,6 +15,21 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205292)
 
 ## Meetings
+### Fri 01/16 08:00 AM - Labor & Commerce (LC): SSB 5292 Family & medical leave rates
+Sign up to testify:
+
+#### 19 👍 - Pro
+Testifying:
+* 💵Maggie Humphreys - MomsRising
+
+#### 125 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth New - Washington Policy Center
+
 ### Mon 04/07 01:30 PM - Appropriations (APP): SSB 5292 Family & medical leave rates
 #### 20 👍 - Pro
 Testifying:

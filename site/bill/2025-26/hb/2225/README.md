@@ -6,4 +6,34 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202225)
+* 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=HB%202225)
+
 ## Meetings
+### Wed 01/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2225 AI companion chatbots
+Sign up to testify:
+
+#### 86 👍 - Pro
+Testifying:
+* Jai Jaisimha - Transparency Coalition.ai
+* LORI Schott - Parents Rise
+* Katie Davis - Center for Digital Youth, University of Washington, Seattle
+* Kristin Bride - Executive Director, The Carson J. Bride Effect
+* Danica Noble - Washington State PTA
+* Cynthia Marie Montoya
+* Mitch Prinstein - Senior Science Advisor, American Psychological Association
+* Aaron Ping
+* Jackson Munko
+* Beau Perschbacher - Governor's Office
+* Yale Moon
+* 💵Jean Hill - Washington State Catholic Conference
+* Laura Marquez-Garrett - Social Media Victims Law Center
+
+#### 5 👎 - Con
+Testifying:
+* John Coleman - Foundation for Individual Rights and Expression
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)

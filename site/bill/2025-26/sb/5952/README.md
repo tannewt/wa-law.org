@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5952 High school PE waivers
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Aimal Samir
+* Logan Schmidt
+* Samantha Scott
+
+#### 4 👎 - Con
+
+#### 0 ❓ - Other

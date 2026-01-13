@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2203 Interference with emergency
+Sign up to testify:
+
+#### 24 👍 - Pro
+Testifying:
+* Dustin Morrow - Central Pierce Fire & Rescue
+
+#### 5 👎 - Con
+Testifying:
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+
+#### 0 ❓ - Other

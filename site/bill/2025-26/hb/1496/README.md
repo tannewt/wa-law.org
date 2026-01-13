@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 1496 Health care information
+Sign up to testify:
+
+#### 109 👍 - Pro
+
+#### 10 👎 - Con
+Testifying:
+* Jennifer Burkhardt - Summit Pacific Medical Center
+* 💵Leslie Emerick - WA State Podiatric Medicine Asso, WA Acupuncture & E. Medicine Assn, American Massage Therapy Assn,
+
+#### 0 ❓ - Other

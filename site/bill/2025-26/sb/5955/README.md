@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [The start of session - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/09/the-start-of-session/#:~:text=SB%205955)
+
 ## Meetings

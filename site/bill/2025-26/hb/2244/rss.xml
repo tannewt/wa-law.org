@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2244/</link>
 		<description>Updates about HB 2244</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 11 Jan 2026 11:15:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Katherine George - Department of Labor &amp; Industries</title>
+			<description>Katherine George signed up to testify Pro.</description>
+			<pubDate>Thu, 08 Jan 2026 05:10:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katherine/George/2026-01-08 05:10:43</guid>
+		</item>
+		<item>
+			<title>👍Joe Kunzler - Private Citizen</title>
+			<description>Joe Kunzler signed up to testify Pro. They are signed up to represent Private Citizen.</description>
+			<pubDate>Thu, 08 Jan 2026 05:27:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Kunzler/2026-01-08 05:27:12</guid>
+		</item>
+		<item>
+			<title>👍Linda Krese - Not official rep, but am a past chair of the Pub. Records Exemptions Accountability Comm.</title>
+			<description>Linda Krese signed up to testify Pro. They are signed up to represent Not official rep, but am a past chair of the Pub. Records Exemptions Accountability Comm..</description>
+			<pubDate>Sun, 11 Jan 2026 11:15:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Linda/Krese/2026-01-11 11:15:15</guid>
 		</item>
 	</channel>
 </rss>

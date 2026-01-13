@@ -7,3 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2247 Veterinarian relationship
+Sign up to testify:
+
+#### 970 👍 - Pro
+Testifying:
+* SARAH HOCK - The Washington Federation of Animal Care and Control Agencies
+* Dr. Jen Stonequist - Kitsap Humane Society
+* Mark Cushing - [Animal Policy Group](/org/animal_policy_group/)
+* Karri Meleo
+
+#### 12 👎 - Con
+
+#### 5 ❓ - Other

@@ -1,0 +1,281 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2355](/bill/2025-26/hb/2355/) > [Original Bill](/bill/2025-26/hb/2355/1/)
+
+# HB 2355 - Domestic workers
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2355.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Casual labor" means work that is irregular, uncertain, and incidental in nature and duration, and is different in nature from the type of paid work in which the worker is customarily engaged in.
+
+2. "Department" means the department of labor and industries.
+
+3. "Director" means the director of the department.
+
+4. [Empty]
+
+    a. "Domestic worker" includes any person who:
+
+        i. Is an hourly employee, salaried employee, or independent contractor;
+
+        ii. Receives payment from a hiring entity for the work or services described in (a)(iii) of this subsection for four or more hours in any month; and
+
+        iii. Works or provides services in one or more private residences as a nanny, child care provider, home care worker, personal care provider, housekeeper or cleaner, cook, gardener, or household manager.
+
+    b. "Domestic worker" does not include:
+
+        i. A person performing casual labor in or about a private residence, unless the work is performed in the course of the hiring entity's trade, business, or profession;
+
+        ii. A person performing babysitting on a casual labor basis;
+
+        iii. A person performing pet sitting, dog walking, or house sitting who is not also performing the work described in (a)(iii) of this subsection;
+
+        iv. An individual provider, as defined in RCW 74.39A.240, or any provider employed by a home care agency as defined in RCW 70.127.010 if the home care agency receives funds through chapter 74.39A RCW; or
+
+    v. A person in a family relationship with, or who is a family member of, the hiring entity.
+
+5. "Family member" and "family relationship" must be liberally construed to include, but not be limited to, a parent, child, sibling, aunt, uncle, cousin, grandparent, grandchild, grandniece, or grandnephew, or such relatives when related by marriage.
+
+6. [Empty]
+
+    a. "Hiring entity" means any person, group of persons, partnership, association, corporation, business trust, employer as defined in RCW 49.46.010, or any combination thereof, that provides payment to a domestic worker for the domestic worker's work or services.
+
+    b. "Hiring entity" does not include state agencies or home care agencies as defined in RCW 70.127.010 if the home care agency receives funds through chapter 74.39A RCW.
+
+## Section 2
+1. A hiring entity shall pay the domestic worker compensation at a rate that is equal to or greater than the minimum hourly rate established by the department under RCW 49.46.020.
+
+2. A hiring entity shall pay the domestic worker overtime compensation at a rate of not less than one and one-half times the worker's regular rate of pay for hours worked in excess of 40 hours in a workweek.
+
+3. [Empty]
+
+    a. A hiring entity may not:
+
+        i. Collect or receive from a domestic worker a rebate of any part of the compensation paid by the hiring entity to the domestic worker; or
+
+        ii. Willfully and with intent to deprive the domestic worker of any part of the domestic worker's compensation pay a domestic worker a lower rate of compensation than what the hiring entity is obligated to pay the domestic worker by agreement or contract.
+
+    b. This subsection does not make it unlawful for a hiring entity to withhold or divert any portion of a domestic worker's compensation when required or empowered so to do by state or federal law or when a deduction has been expressly authorized in writing in advance by the domestic worker for a lawful purpose accruing to the benefit of such domestic worker. Any withholdings must be documented in writing by the hiring entity.
+
+4. This section must be enforced as a wage payment requirement under chapter 49.48 RCW.
+
+5. This section does not apply where a domestic worker voluntarily provides additional home care in excess of a written agreement between only the domestic worker and a family member to whom the domestic worker is providing services.
+
+## Section 3
+1. A hiring entity shall specify the terms for a domestic worker's position or services and the domestic worker's rate of pay in a written agreement. If applicable for the position or services or if otherwise provided by the hiring entity, the written agreement must also include work schedules, rate of pay for additional duties, payroll deductions, transportation costs and benefits, severance benefits, health insurance coverage and costs, any applicable fees and costs for the domestic worker associated with expectations for the work, and any sick, vacation, personal, and holiday leave benefits.
+
+2. The written agreement must be in a language or languages understood by the worker and hiring entity. The hiring entity shall provide the domestic worker with a copy of the written agreement and a disclosure of rights specified in section 4 of this act.
+
+3. [Empty]
+
+    a. Except as provided in (b) of this subsection, the hiring entity shall provide a minimum two-week written notification period before termination of the domestic worker's position or services. For a live-in domestic worker, the hiring entity shall provide a minimum four-week written notification period before termination of the domestic worker's position or services.
+
+    b. The notification requirements in (a) of this subsection do not apply if:
+
+        i. The applicable work performed by the domestic worker was on a casual labor basis;
+
+        ii. The domestic worker was hired on a one-time or intermittent basis without an expectation of ongoing work;
+
+        iii. The termination occurs during an agreed-upon probationary period;
+
+        iv. The termination is based on a good faith belief that the domestic worker engaged in misconduct as defined in RCW 50.04.294;
+
+    v. The termination is caused by circumstances outside of the hiring entity's control, including death;
+
+    vi. The hiring entity and domestic worker agree that the applicable care needs have significantly changed and cannot be addressed by the current position or services; or
+
+    vii. The domestic worker becomes unable to fulfill the requirements of the position or services as provided in the written agreement.
+
+    c. If a hiring entity does not provide the notification required under this subsection (3), the hiring entity shall provide the domestic worker with severance pay in the amount of the worker's standard rate of pay multiplied by the regular number of hours worked over the period of time during which the required notification was not provided. For purposes of this subsection, "standard rate of pay" means the agreed-upon rate of pay between the hiring entity and domestic worker, as reflected in the written agreement.
+
+4. A hiring entity shall create and maintain records documenting hours worked, rate of pay, and, if applicable, the leave time earned and used. If a complaint is filed with the department, the hiring entity shall make the records and the written agreement accessible to the department.
+
+5. The department or the court shall maintain the confidentiality of all records it obtains in connection with enforcement activities to the full extent permitted by law.
+
+## Section 4
+1. The department shall develop and make available a model disclosure statement describing a hiring entity's obligations and a domestic worker's rights under this chapter in at least eight of the most commonly spoken languages in the state. The disclosure statement must include notice of federal and state laws governing family and medical leave. The model disclosure must also include a telephone number and an address of the department to enable domestic workers to seek information regarding and enforcement of their rights.
+
+2. For purposes of implementing section 3 of this act, the department shall develop and make available a model written agreement, which describes a hiring entity's obligations and a domestic worker's rights under this act in at least eight of the most commonly spoken languages in the state.
+
+## Section 5
+A hiring entity may not:
+
+1. Subject a domestic worker to conduct or allow a domestic worker to be subjected to conduct that creates an intimidating, hostile, or offensive work environment with the purpose or effect of unreasonably interfering with the domestic worker's performance;
+
+2. Require or request that a domestic worker allow the hiring entity to take or maintain possession, or allow another person to take or maintain possession, of any of a domestic worker's personal effects including, but not limited to, any legal documents, forms of identification, passports, or immigration documents;
+
+3. Monitor or record, or allow another person to monitor or record, through any means, the activities of a domestic worker using a bathroom or similar facility, of a domestic worker in the domestic worker's private living quarters, or while the domestic worker is engaged in personal activities associated with dressing or changing clothes;
+
+4. Monitor, record, or interfere, or allow another person to monitor, record, or interfere, with the private communications of a domestic worker;
+
+5. Request, direct, or require, as a condition of work, that a domestic worker waive the worker's rights under federal, state, or local law; or
+
+6. Request, direct, or require, as a condition of work, that the domestic worker agree to a mandatory predispute arbitration clause for claims of their legal rights, a nondisclosure or nondisparagement agreement that inhibits the domestic worker from pursuing claims or complaints under this chapter, or a noncompete agreement preventing a domestic worker from working for other hiring entities or in other residences following the termination or conclusion of the domestic worker's work for the hiring entity.
+
+## Section 6
+1. A hiring entity may not interfere with, restrain, or deny the exercise of any right under this chapter by using a domestic worker's exercise of said right as a negative factor in any employment action or other similar action.
+
+2. [Empty]
+
+    a. A hiring entity may not take any adverse action against a domestic worker for exercising or attempting to exercise a right under this chapter including, but not limited to, any of the following in connection with this chapter: Instituting or filing a complaint or action; participating in a proceeding; organizing or communicating with other domestic workers on their rights; participating in political speech; or disclosing the worker's own immigration status.
+
+    b. For purposes of this subsection, "adverse action" includes:
+
+        i. Subjecting the domestic worker to discipline;
+
+        ii. Terminating, suspending, or demoting the domestic worker, or denying the domestic worker a promotion;
+
+        iii. Reducing the number of work hours for which the domestic worker is scheduled;
+
+        iv. Altering the domestic worker's preexisting work schedule;
+
+    v. Reducing the domestic worker's rate of pay;
+
+    vi. Threatening to take or taking action based upon the immigration status of a domestic worker or a domestic worker's family member; and
+
+    vii. Communicating, directly or indirectly, to the domestic worker the hiring entity's willingness or intent to report the suspected citizenship or immigration status of the domestic worker or the domestic worker's family member to a federal, state, or local agency or other applicable entity.
+
+    c. There is a rebuttable presumption that the hiring entity violated this subsection (2) if the hiring entity takes an adverse action against a domestic worker within 90 calendar days of the domestic worker's exercise of rights protected under this chapter. However, in the case of seasonal work that ended before the close of the 90 calendar day period, the presumption also applies if the hiring entity fails to rehire a former domestic worker at the next opportunity for work in the same position. The hiring entity may rebut the presumption with clear and convincing evidence that the adverse action was taken for a permissible purpose.
+
+3. [Empty]
+
+    a. The department may conduct an investigation if a domestic worker files a complaint with the department alleging a violation of this section. The department may not investigate any alleged violation occurring more than 180 days before the date that the domestic worker filed the complaint, unless the department determines an extension is warranted based on recognized equitable principles or the presence of extenuating circumstances, which may include, but are not limited to, the presence of evidence suggesting that the hiring entity concealed misconduct or misled the domestic worker.
+
+    b. If the department discovers evidence of other violations not included in the complaint while investigating the complaint, the department may investigate and take appropriate enforcement action without requiring the domestic worker to file a new or separate complaint.
+
+    c. If a domestic worker files a timely complaint with the department, the department may investigate the complaint and issue either a citation and notice of assessment or a determination of compliance within 90 days after the date on which the department received the complaint, unless the complaint is otherwise resolved. The department may extend the period under this subsection by providing advance written notice to the domestic worker and the hiring entity setting forth good cause for an extension of the period and specifying the duration of the extension.
+
+    d. The department may consider a complaint to be otherwise resolved when the domestic worker and the hiring entity reach a mutual agreement to remedy the adverse action, or the domestic worker voluntarily and on the domestic worker's own initiative withdraws the complaint.
+
+    e. If the department finds that the domestic worker's allegation cannot be substantiated, the department may issue a determination of compliance to the domestic worker and the hiring entity detailing such finding.
+
+    f. If the department's investigation finds that the hiring entity violated this section and the complaint is not otherwise resolved, the department may notify the hiring entity that the department intends to issue a citation and notice of assessment, and may provide up to 30 days after the date of such notification for the hiring entity to take corrective action to remedy the adverse action. If the complaint is not otherwise resolved, then the department may issue a citation and notice of assessment.
+
+    g. When issuing a citation and notice of assessment under this section, the department may order the hiring entity to:
+
+        i. Pay the domestic worker earnings that the domestic worker did not receive due to the hiring entity's adverse action, including interest of one percent per month calculated from the first date earnings were owed to the domestic worker;
+
+        ii. Restore the domestic worker to the position held by the domestic worker when the adverse action occurred, or restore the domestic worker to an equivalent position with equivalent work hours, work schedule, benefits, pay, and other terms and conditions; and/or
+
+        iii. Pay the department a civil penalty, which must be the greater of $1,000 or an amount equal to 10 percent of the total amount of unpaid earnings attributable to the adverse action, provided that the penalty may not exceed $20,000 for the first violation or $40,000 for a repeat violation.
+
+    h. If the department issues a citation and notice of assessment or determination of compliance, the department shall send the citation and notice of assessment or determination of compliance to both the hiring entity and the domestic worker by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses.
+
+4. [Empty]
+
+    a. A hiring entity or domestic worker aggrieved by a citation and notice of assessment or a determination of compliance under this section may submit a request for reconsideration to the department setting forth the grounds for such reconsideration, or if applicable, submit an appeal to the director under section 8 of this act.
+
+    b. A request for reconsideration must be made within 30 days of receipt of the citation and notice of assessment or the determination of compliance. If the department receives a timely request for reconsideration, the department shall either accept the request or treat the request as a notice of appeal under section 8 of this act.
+
+    c. If a request for reconsideration is accepted, the department shall send notice of the request for reconsideration to the hiring entity and the domestic worker. The department shall determine if there are any valid reasons to reverse or modify the department's original citation and notice of assessment or determination of compliance within 30 days of receipt of such request. The department may extend this period by providing advance written notice to the hiring entity and domestic worker setting forth good cause for an extension of the period and specifying the duration of the extension.
+
+    d. After reviewing the request for reconsideration, the department shall:
+
+        i. Notify the hiring entity and domestic worker that the citation and notice of assessment or determination of compliance is affirmed; or
+
+        ii. Notify the hiring entity and domestic worker that the citation and notice of assessment or determination of compliance has been reversed or modified.
+
+    e. A request for reconsideration submitted to the department stays the effectiveness of the citation and notice of assessment or determination of compliance pending the decision by the department.
+
+## Section 7
+1. [Empty]
+
+    a. The department may conduct an investigation if a domestic worker files a complaint with the department alleging a violation of this chapter, excluding violations for section 2 of this act which is enforced under chapter 49.48 RCW and section 6 of this act which is enforced under said section. If the department discovers evidence of other violations not included in the complaint while investigating the complaint, the department may investigate and take appropriate enforcement action without requiring the domestic worker to file a new or separate complaint.
+
+    b. The department may not investigate any alleged violation occurring more than three years before the date that the domestic worker filed the complaint for all other violations of this chapter.
+
+    c. If a domestic worker files a timely complaint with the department, the department may investigate the complaint and issue either a citation assessing a civil penalty or a closure letter within 90 days after the date on which the department received the complaint. The department may extend the period by providing advance written notice to the domestic worker and the hiring entity setting forth good cause for an extension of the period and specifying the duration of the extension.
+
+2. If the department finds that the domestic worker's allegation cannot be substantiated or that the complaint is otherwise resolved, the department shall issue a closure letter to the domestic worker and the hiring entity detailing such finding. The department may consider a complaint to be resolved if the domestic worker and the hiring entity reach a mutual agreement to remedy an alleged violation, or if the domestic worker voluntarily and on the domestic worker's own initiative withdraws the complaint.
+
+3. [Empty]
+
+    a. If the department finds a violation has occurred, the department may order the hiring entity to pay the department a civil penalty as follows:
+
+        i. $1,000 for a willful violation of this chapter;
+
+        ii. No less than $2,000 and no greater than $20,000 for each repeat willful violation.
+
+    b. The department may not issue a citation assessing a civil penalty under this subsection if the hiring entity reasonably relied on:
+
+        i. A written order, ruling, approval, opinion, advice, determination, or interpretation of the director; or
+
+        ii. An interpretive or administrative policy issued by the department and filed with the office of the code reviser. In accordance with the department's retention schedule obligations under chapter 40.14 RCW, the department shall maintain a complete and accurate record of all written orders, rulings, approvals, opinions, advice, determinations, and interpretations for purposes of determining whether a hiring entity is immune from civil penalties under this subsection.
+
+4. The department may, at any time, waive or reduce a civil penalty assessed under this section if the department determines that the hiring entity has taken corrective action.
+
+5. The department shall send the citation and notice of assessment or the closure letter to both the hiring entity and the domestic worker by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses.
+
+6. For purposes of this section, the following definitions apply:
+
+    a. "Repeat willful violator" means any hiring entity that has been the subject of a final and binding citation for a willful violation of one or more rights under this chapter, and all applicable rules, within three years of the date of issuance of the most recent citation for a willful violation of one or more such rights.
+
+    b. "Willful" means a knowing and intentional action that is neither accidental nor the result of a bona fide dispute.
+
+## Section 8
+1. Any hiring entity or other person aggrieved by a citation assessing a civil penalty, a determination of compliance, or other order issued by the department under this chapter may appeal the citation, determination, or order to the director by filing a notice of appeal with the director within 30 days. A citation, determination, or order not appealed within 30 days is final and binding, and not subject to further appeal.
+
+2. A notice of appeal filed with the director under this section stays the effectiveness of the citation, determination, or order pending final review of the appeal by the director as provided in chapter 34.05 RCW.
+
+3. Upon receipt of a notice of appeal, the director shall assign the hearing to an administrative law judge of the office of administrative hearings to conduct the hearing and issue an initial order. The hearing and review procedures must be conducted in accordance with chapter 34.05 RCW, and the standard of review by the administrative law judge of an appealed citation or order must be de novo. Any party who seeks to challenge an initial order shall file a petition for administrative review with the director within 30 days after service of the initial order. The director shall conduct the administrative review in accordance with chapter 34.05 RCW.
+
+4. The director shall issue all final orders after appeal of the initial order. The final order of the director is subject to judicial review in accordance with chapter 34.05 RCW.
+
+5. A hiring entity that fails to allow adequate inspection of records in an investigation by the department within a reasonable time period may not use such records in any appeal under this section to challenge the correctness of any determination by the department of penalties assessed.
+
+## Section 9
+1. Collections of unpaid citations and penalties administered under this chapter must be handled pursuant to the procedures in RCW 49.48.086.
+
+2. The department shall deposit civil penalties paid under this chapter into the supplemental pension fund established in RCW 51.44.033.
+
+## Section 10
+A domestic worker injured by a violation of this chapter may bring a civil action in a court of competent jurisdiction to recover the actual damages sustained by the worker, plus reasonable attorneys' fees and costs.
+
+## Section 11
+This chapter establishes minimum standards and rights of domestic workers in this state. Any standards and rights established by any other applicable federal, state, or local law or rule that are more favorable to domestic workers than the minimum standards and rights established by this chapter are not affected by this chapter and remain in full force and effect and may be enforced as provided by law. The remedies provided by this chapter are not exclusive and are concurrent with any other remedy provided by law.
+
+## Section 12
+The department may adopt rules necessary to implement and enforce this chapter.
+
+## Section 13
+As used in this chapter:
+
+## Section 14
+1. Who may file a complaint:
+
+    a. Any person claiming to be aggrieved by an alleged unfair practice may, personally or by his or her attorney, make, sign, and file with the commission a complaint in writing under oath or by declaration. The complaint shall state the name of the person alleged to have committed the unfair practice and the particulars thereof, and contain such other information as may be required by the commission.
+
+    b. Whenever it has reason to believe that any person has been engaged or is engaging in an unfair practice, the commission may issue a complaint.
+
+    c. Any employer or principal whose employees, or agents, or any of them, refuse or threaten to refuse to comply with the provisions of this chapter may file with the commission a written complaint under oath or by declaration asking for assistance by conciliation or other remedial action.
+
+2. Any complaint filed pursuant to this section must be filed within six months after the alleged act of discrimination, except that complaints alleging an unfair practice related to:
+
+    a. A real estate transaction pursuant to RCW 49.60.222 through 49.60.225 must be filed within one year after the alleged unfair practice in a real estate transaction has occurred or terminated;
+
+    b. Pregnancy discrimination pursuant to RCW 49.60.180 must be filed within one year after the alleged unfair practice; and
+
+    c. A complaint alleging whistleblower retaliation must be filed within two years.
+
+3. The complaint process under this section is not available for unfair practices under section 15 of this act.
+
+## Section 15
+1. This section applies only where a domestic worker is not afforded protections from the actions of a hiring entity under RCW 49.60.180.
+
+2. [Empty]
+
+    a. It is an unfair practice for any hiring entity to discriminate against a domestic worker in compensation because of the domestic worker's age, sex, marital status, sexual orientation, race, creed, color, national origin, citizenship or immigration status, honorably discharged veteran or military status, or the presence of any sensory, mental, or physical disability or the use of a trained dog guide or service animal by a person with a disability.
+
+    b. It is an unfair practice for any hiring entity to discharge a domestic worker from employment because of the domestic worker's age, sex, marital status, sexual orientation, race, creed, color, national origin, citizenship or immigration status, honorably discharged veteran or military status, or the presence of any sensory, mental, or physical disability or the use of a trained dog guide or service animal by a person with a disability.
+
+3. The complaint process under RCW 49.60.230 through 49.60.280 is not available for unfair practices under this section. A domestic worker injured by a violation of this section may file a civil action under RCW 49.60.030(2).
+
+4. For purposes of this section:
+
+    a. "Domestic worker" has the same meaning as defined in section 1 of this act, as limited by other applicable definitions in section 1 of this act, including but not limited to "casual labor" and "family member." "Domestic worker" does not include an employee, as defined in this chapter, who is otherwise afforded protections by RCW 49.60.180.
+
+    b. "Hiring entity" has the same meaning as defined in section 1 of this act.
+
+## Section 17
+This act takes effect July 1, 2027.

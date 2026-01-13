@@ -6,4 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202091)
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202091)
+
 ## Meetings
+### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2091 Bargaining/employee info.
+Sign up to testify:
+
+#### 10 👍 - Pro
+Testifying:
+* 💵Kurt Spiegel - The Washington Federation of State Employees/AFSCME C28
+* Joey Hicklin
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

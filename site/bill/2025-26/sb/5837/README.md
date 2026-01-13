@@ -7,3 +7,20 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5837 Guardianship, etc.
+Sign up to testify:
+
+#### 42 👍 - Pro
+Testifying:
+* Miryam Gordon
+* 💵Catherine West - KCBA
+* Sandy Garcia - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Janta Steele
+* 💵Melanie Smith - WA State Long Term Care Ombuds Progam
+* Mary Pleger - Catholic Charities
+
+#### 56 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Lisa Brewer - [Domestic Relations Attorneys of Washington](/org/domestic_relations_attorneys_of_washington/)

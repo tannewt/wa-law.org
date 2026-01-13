@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5909 Undergraduate programs
+Sign up to testify:
+
+#### 6 👍 - Pro
+
+#### 24 👎 - Con
+Testifying:
+* Beth Ebel - Faculty Legislative Rep, University of Washington
+
+#### 0 ❓ - Other

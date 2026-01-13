@@ -6,4 +6,42 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%202112)
+* 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202112)
+
 ## Meetings
+### Fri 01/16 08:00 AM - Consumer Protection & Business (CPB): HB 2112 Adult content/age minimum
+Sign up to testify:
+
+#### 50 👍 - Pro
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
+* Iain Corby - The Age Verification Providers Association
+* Heather Grassman
+* Danica Noble - Coalition For Childhood Safety (Moms Against Media Addiction and Distraction Free Schools WA)
+* Iain Corby - The Age Verification Providers Association
+* Taylor Muthoka
+* Rachel Robison
+* MaryAnn Michaelis - HART (Healing Addiction, Relationships, Trauma) Recovery Institute
+
+#### 1048 👎 - Con
+Testifying:
+* Steven Bock - Computer Scientist
+* Jonathan Pincus
+* Robert Zinchak - StopKocsa.com
+* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Peter Richmond
+* Korrina Eshom
+* Tobias Gurl
+* Steven Rhine
+* Devlin Kirby
+* Zachary Larsen
+* Harper Nalley
+* Josef Saltz
+* Jamie Lane
+* Briar (legal name Brittan Bertolin
+* John Ley
+* Michael Hoffman
+
+#### 1 ❓ - Other

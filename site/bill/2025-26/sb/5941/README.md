@@ -7,3 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5941 Schools/renewable energy
+Sign up to testify:
+
+#### 12 👍 - Pro
+Testifying:
+* Nancy Lotze - Selkirk School District
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+
+#### 9 👎 - Con
+Testifying:
+* 💵Nicole Grant - IBEW Local 46
+
+#### 0 ❓ - Other

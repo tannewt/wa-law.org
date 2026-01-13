@@ -44,7 +44,7 @@
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍5  
 * 👍 Sasha Wasserstrom
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
@@ -57,6 +57,14 @@
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -112,11 +120,15 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

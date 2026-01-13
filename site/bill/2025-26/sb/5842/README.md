@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5842 Campaign memorabilia
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 9 👎 - Con
+
+#### 0 ❓ - Other

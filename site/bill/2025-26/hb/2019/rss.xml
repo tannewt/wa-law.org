@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2019/</link>
 		<description>Updates about HB 2019</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 19:37:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,13 @@
 			<pubDate>Tue, 25 Feb 2025 19:37:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_1231f530-f3d9-11ef-a484-bf9beefe6023.html#:~:text=House%20Bill%202019</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

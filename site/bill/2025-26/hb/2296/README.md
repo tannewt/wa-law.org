@@ -7,3 +7,22 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/12 01:30 PM - Environment & Energy (ENVI): HB 2296 Distributed energy resources
+#### 49 👍 - Pro
+Testifying:
+* Dr Joseph Berkson - WA Physicians for Social Responsibility
+* Cora Stryker - Bright Saver
+* Wesley Schrock - Bright Saver
+
+#### 7 👎 - Con
+Testifying:
+* 💵Josie Cummings - Avista Corp.
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Matthew Hepner - IBEW/ceww
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+
+#### 6 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
+* Phaedra Beckert - WASEIA (Washington Solar Energy Industries Association)
+* 💵Nicolas Garcia - WPUDA

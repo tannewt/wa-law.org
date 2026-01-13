@@ -25,6 +25,9 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ PAULA REED
+
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍2  

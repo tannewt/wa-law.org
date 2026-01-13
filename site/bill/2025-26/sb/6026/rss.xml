@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6026/</link>
 		<description>Updates about SB 6026</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 03:30:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,37 @@
 			<pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-07/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>❓💵Curtis Steinhauer - Washington State Association of County Regional Planning Directors</title>
+			<description>Curtis Steinhauer signed up to testify Other. They are signed up to represent Washington State Association of County Regional Planning Directors. They are a registered lobbyist.</description>
+			<pubDate>Thu, 08 Jan 2026 03:17:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Curtis/Steinhauer/2026-01-08 03:17:22</guid>
+		</item>
+		<item>
+			<title>👍Patience Malaba - HDC</title>
+			<description>Patience Malaba signed up to testify Pro. They are signed up to represent HDC.</description>
+			<pubDate>Thu, 08 Jan 2026 09:19:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patience/Malaba/2026-01-08 09:19:36</guid>
+		</item>
+		<item>
+			<title>Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington</title>
+			<description>News article "Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington" from Conservative Ladies of Washington.</description>
+			<pubDate>Sat, 10 Jan 2026 06:52:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=SB%206026</guid>
+		</item>
+		<item>
+			<title>👍Carter Nelson - HDC</title>
+			<description>Carter Nelson signed up to testify Pro.</description>
+			<pubDate>Mon, 12 Jan 2026 03:30:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carter/Nelson/2026-01-12 03:30:07</guid>
 		</item>
 	</channel>
 </rss>

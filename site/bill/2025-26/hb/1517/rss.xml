@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1517/</link>
 		<description>Updates about HB 1517</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Mar 2025 22:07:54 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,13 @@
 			<pubDate>Fri, 28 Mar 2025 22:07:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201517</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

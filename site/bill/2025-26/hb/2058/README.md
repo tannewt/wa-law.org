@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/09/2026 [The Center Square](/org/the_center_square/) - [WATCH: Potential daycare fraud dominates questions at WA legislative preview | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eb679f96-10a5-4439-b705-a93ed6eaef8c.html#:~:text=House%20Bill%202058)
 * 10/29/2025 [The Center Square](/org/the_center_square/) - [WA lawmaker renews push for spending transparency bills in wake of CRP allegations | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d4c92f76-2d0a-460d-9e6b-0f360e4efd06.html#:~:text=HB%202058)
 
 ## Meetings

@@ -50,6 +50,31 @@
 
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
 
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
+### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb. 👍1  
+
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍2  
+
+### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
+
+### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
+
+### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
+
+### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+
+### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Seamus Petrie
+
+### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
@@ -93,6 +118,8 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
+
 ### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
@@ -114,13 +141,18 @@
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
 * 👍💵 Seamus Petrie
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
 * 👍💵 Seamus Petrie
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Seamus Petrie
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍2  
-* 👍💵 Seamus Petrie
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Seamus Petrie
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 

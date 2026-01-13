@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2294 Use restrictions/food, med. 
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+
+#### 416 👎 - Con
+
+#### 1 ❓ - Other

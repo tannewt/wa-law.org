@@ -34,6 +34,25 @@
 
 ### [HB 1970](/bill/2025-26/hb/1970/) - Highway alt. contracting 👍1  
 
+### [HB 2107](/bill/2025-26/hb/2107/) - Construction hazards notice 👍1  
+
+### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages  👎1 
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.  👎1 
+
+### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation.  👎1 
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
+* ❓💵 Cory Shaw
+
+### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+* 👎💵 Cory Shaw
+
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship  👎1 
+* 👎💵 Cory Shaw
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Cory Shaw
 * 👎💵 Cory Shaw
@@ -54,13 +73,16 @@
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Cory Shaw
+
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
-* 👍💵 Cory Shaw
+### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp. 👍1  
 
 ### [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 

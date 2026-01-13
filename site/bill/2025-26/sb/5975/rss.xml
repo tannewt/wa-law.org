@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5975/</link>
 		<description>Updates about SB 5975</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 03:35:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,46 @@
 			<pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Charlie Brown - Assn. of Home Appliance Manufacturers and Cookware Sustainabiity Alliance</title>
+			<description>Charlie Brown signed up to testify Pro. They are signed up to represent Assn. of Home Appliance Manufacturers and Cookware Sustainabiity Alliance.</description>
+			<pubDate>Thu, 08 Jan 2026 04:45:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2026-01-08 04:45:18</guid>
+		</item>
+		<item>
+			<title>👍Jacob Casssady - Association of Home Appliance Manufacturers</title>
+			<description>Jacob Casssady signed up to testify Pro. They are signed up to represent Association of Home Appliance Manufacturers.</description>
+			<pubDate>Thu, 08 Jan 2026 04:45:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jacob/Casssady/2026-01-08 04:45:18</guid>
+		</item>
+		<item>
+			<title>👍Steve Burns - Cookware Sustainability Alliance</title>
+			<description>Steve Burns signed up to testify Pro. They are signed up to represent Cookware Sustainability Alliance.</description>
+			<pubDate>Fri, 09 Jan 2026 12:34:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Burns/2026-01-09 12:34:44</guid>
+		</item>
+		<item>
+			<title>👎Katie Fellows - Hazardous Waste Management Program</title>
+			<description>Katie Fellows signed up to testify Con. They are signed up to represent Hazardous Waste Management Program.</description>
+			<pubDate>Mon, 12 Jan 2026 02:15:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Katie/Fellows/2026-01-12 02:15:40</guid>
+		</item>
+		<item>
+			<title>👍💵Molly Pfaffenroth - Washington Food Industry Association</title>
+			<description>Molly Pfaffenroth signed up to testify Pro. They are signed up to represent Washington Food Industry Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Jan 2026 03:35:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Molly/Pfaffenroth/2026-01-12 03:35:19</guid>
 		</item>
 	</channel>
 </rss>

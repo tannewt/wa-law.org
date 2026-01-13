@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2190 Language access providers
+Sign up to testify:
+
+#### 12 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

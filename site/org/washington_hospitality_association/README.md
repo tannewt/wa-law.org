@@ -43,6 +43,9 @@
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎💵 Julia Gorton
 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
+* 👎 Kerry Dolan
+
 ### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
 * 👍 Sean DeWitz
 
@@ -121,6 +124,15 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
+
+### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
+
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
+* ❓ Kerry Dolan
+
+### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation.  👎1 
+
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
@@ -206,13 +218,19 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎2 
 * 👎💵 Julia Gorton
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎💵 Julia Gorton
+
+### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍2  
+
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
+* ❓ Kerry Dolan
+
+## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
-* 👎💵 Julia Gorton
+### [SB 5975](/bill/2023-24/sb/5975/) - Safe cookware 👍1  
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

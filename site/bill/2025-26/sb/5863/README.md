@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5863 State historical records
+Sign up to testify:
+
+#### 30 👍 - Pro
+Testifying:
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
+* Jessica Renner - Self Advocates in Leadership (SAIL)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

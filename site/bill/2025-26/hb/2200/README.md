@@ -6,4 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202200)
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202200)
+
 ## Meetings
+### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2200 DD residential settings data
+Sign up to testify:
+
+#### 30 👍 - Pro
+Testifying:
+* Mike Yestramski - AFSCME Council 28/Washington Federation of State Employees (WFSE)
+* 💵Chloe Merino
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Scott Livengood - [Community Residential Services Association](/org/community_residential_services_association/)

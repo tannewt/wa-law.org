@@ -6,4 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill establishing standards for medically tailored meals in state health programs heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/12/nobles-bill-establishing-standards-for-medically-tailored-meals-in-state-health-programs-heard-in-committee/#:~:text=Senate%20Bill%205966)
+
 ## Meetings
+### Mon 01/12 02:00 PM - Human Services (HS): SB 5966 Medically tailored meals
+#### 23 👍 - Pro
+Testifying:
+* Emily Hanning - Lifelong, Medically Tailored Meals Coalition of Washington
+* Suzanne Washington - Meals on Wheels People, Medically Tailored Meals Coalition of Washington
+* Owen Esperas - Meals on Wheels Spokane, Medically Tailored Meals Coalition of Washington
+* Sam Walker - Emergency Food Network, Medically Tailored Meals Coalition of Washington
+* Jeremy Vrablik - Cascadia Produce
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

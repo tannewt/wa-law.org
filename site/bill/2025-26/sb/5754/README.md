@@ -6,7 +6,29 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [The start of session - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/09/the-start-of-session/#:~:text=SB%205754)
+
 ## Meetings
+### Thu 01/15 04:00 PM - Ways & Means (WM): SB 5754 Washington state public bank
+Sign up to testify:
+
+#### 109 👍 - Pro
+Testifying:
+* Marco Rosaire Rossi - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
+* Toyoko Tsukuda
+* Micah Sherman
+* Benjamin Steele - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
+* Armen Papyan
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Patty Kuderer - Office of the Insurance Commissioner
+
+#### 15 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+
+#### 0 ❓ - Other
+
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5754 Washington state public bank
 #### 135 👍 - Pro
 Testifying:

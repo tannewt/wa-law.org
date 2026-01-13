@@ -7,6 +7,9 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
+* 👍💵 Dawn Rains
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
@@ -15,11 +18,15 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Lynda Hall
 
-## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Dawn Rains
 
 ## 2023-24
 
-### [SB 5488](/bill/2023-24/sb/5488/) - DCYF/financial stability 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Dawn Rains
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

@@ -289,6 +289,24 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍💵 Candice Bock
 
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices   ❓1
+* ❓💵 Candice Bock
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings   ❓1
+* ❓💵 Derrick Nunnally
+
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.   ❓1
+* ❓💵 Derrick Nunnally
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Candice Bock
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓💵 Steven Ellis
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+* ❓💵 Steven Ellis
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
@@ -499,12 +517,32 @@
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 * 👎💵 Carl Schroeder
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+* 👍💵 Candice Bock
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings   ❓1
+* ❓💵 Derrick Nunnally
+
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.   ❓1
+* ❓💵 Derrick Nunnally
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Candice Bock
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓💵 Steven Ellis
+
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓💵 Steven Ellis
+
+## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍💵 Candice Bock
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
 * 👍💵 Candice Bock
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  

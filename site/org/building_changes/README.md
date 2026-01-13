@@ -31,6 +31,10 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  
+* 👍💵 Aaron Yared
+* 👍💵 Aaron Yared
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍3  
 
 ### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍2  
@@ -71,11 +75,17 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Aaron Yared
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Aaron Yared
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

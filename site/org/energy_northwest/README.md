@@ -32,6 +32,9 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
 
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍2  
+* 👍 Greg Cullen
+
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
@@ -41,11 +44,18 @@
 
 ### [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍1  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+* 👍 Greg Cullen
+
+## [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
+* 👍 Daniel Himebaugh
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes  👎1 
+### [SB 6004](/bill/2023-24/sb/6004/) - Electric/public contracts 👍1  
+* 👍 Daniel Himebaugh
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

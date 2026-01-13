@@ -56,6 +56,9 @@
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 * 👍💵 Alexis Mansanarez
 
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+* 👍 Sam Hatzenbeler
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍4  

@@ -37,6 +37,14 @@
 
 ### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎1 
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
+
+### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍2  
@@ -73,13 +81,18 @@
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
 * ❓💵 Alyssa Patrick
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes   ❓1
-* ❓💵 Alyssa Patrick
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 

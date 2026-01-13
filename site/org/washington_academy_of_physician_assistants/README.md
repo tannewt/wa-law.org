@@ -14,6 +14,8 @@
 
 ### [HB 1640](/bill/2025-26/hb/1640/) - Med. & PA licensure compacts 👍1  
 
+### [HB 2113](/bill/2025-26/hb/2113/) - Radiologic technologists 👍1  
+
 ### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists  👎1 
 
 ## [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care   ❓1

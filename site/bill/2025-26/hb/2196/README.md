@@ -6,4 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/09/2026 [House Democrats](/org/house_democrats/) - [House committee to hear Rep. Simmons bill requiring coverage for treatment of PANDAS/PANS pediatric disorders – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/09/house-committee-to-hear-rep-simmons-bill-requiring-coverage-for-treatment-of-pandas-pans-pediatric-disorders/#:~:text=House%20Bill%202196)
+
 ## Meetings
+### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2196 PANDAS, pediatric treatment
+Sign up to testify:
+
+#### 268 👍 - Pro
+Testifying:
+* Aaron Klesick
+* Grayson Maywood
+* Brynn Blanchard - PANS family lived experience, WA Coordinator for Northwest PANDAS/ PANS Network
+* Dr. John Whelan - Associate Clinical Professor of Pediatrics in the Division of Rheumatology at UCLA
+
+#### 1 👎 - Con
+
+#### 3 ❓ - Other

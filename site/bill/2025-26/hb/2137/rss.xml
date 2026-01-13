@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2137/</link>
 		<description>Updates about HB 2137</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 10:56:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,45 @@
 			<pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-15/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👎💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sat, 10 Jan 2026 01:54:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2026-01-10 01:54:04</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards.</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>👍David Simmons - Teamsters local 760</title>
+			<description>David Simmons signed up to testify Pro. They are signed up to represent Teamsters local 760.</description>
+			<pubDate>Mon, 12 Jan 2026 09:37:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Simmons/2026-01-12 09:37:43</guid>
+		</item>
+		<item>
+			<title>👍carl keller - Local 760</title>
+			<description>carl keller signed up to testify Pro. They are signed up to represent Local 760.</description>
+			<pubDate>Mon, 12 Jan 2026 09:38:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/carl/keller/2026-01-12 09:38:50</guid>
+		</item>
+		<item>
+			<title>👍Daron Smith - Teamsters Local 231</title>
+			<description>Daron Smith signed up to testify Pro. They are signed up to represent Teamsters Local 231.</description>
+			<pubDate>Mon, 12 Jan 2026 10:56:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daron/Smith/2026-01-12 10:56:51</guid>
 		</item>
 	</channel>
 </rss>

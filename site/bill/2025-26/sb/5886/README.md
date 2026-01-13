@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/09/2026 [Axios](/org/axios/) - [Washington state lawmakers weigh AI chatbot regulations to protect minors - Axios Seattle](https://www.axios.com/local/seattle/2026/01/09/washington-ai-regulation-chatbots-kids-deepfakes#:~:text=digital-likeness%20proposal)
+
 ## Meetings

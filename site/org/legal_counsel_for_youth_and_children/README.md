@@ -57,6 +57,8 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 * 👍 Alexandra Narvaez
 
@@ -69,6 +71,13 @@
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment  👎1 
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
+
+### [HB 2185](/bill/2025-26/hb/2185/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
+### [HB 2253](/bill/2025-26/hb/2253/) - Concerning updates to the licensing division of the department of children, youth, and families. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Kat Lohman
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
@@ -139,13 +148,37 @@
 
 ### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
 
-## [SB 5761](/bill/2025-26/sb/5761/) - Dependency/attorney appt.   ❓2
+### [SB 5761](/bill/2025-26/sb/5761/) - Dependency/attorney appt.   ❓2
 * ❓ Rhea Yo
+
+### [SB 5837](/bill/2025-26/sb/5837/) - Guardianship, etc. 👍1  
+* 👍 Sandy Garcia
+
+### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
+
+### [SB 5873](/bill/2025-26/sb/5873/) - Concerning escorted leaves of absence for incarcerated individuals. 👍1  
+
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board.   ❓1
+
+### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing. 👍1  
+
+### [SB 5956](/bill/2025-26/sb/5956/) - Addressing artificial intelligence, student discipline, and surveillance in public schools. 👍1  
+
+### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Kat Lohman
 
 ## 2023-24
 
-### [SB 5761](/bill/2023-24/sb/5761/) - Dependency/attorney appt.   ❓2
-* ❓ Rhea Yo
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Kat Lohman
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

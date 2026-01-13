@@ -17,6 +17,8 @@
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎 Jeff Wagner
 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
@@ -41,11 +43,13 @@
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

@@ -25,6 +25,12 @@
 ### [HB 1986](/bill/2025-26/hb/1986/) - Vehicles for rental/tax 👍1  
 * 👍💵 Robert Singleton
 
+### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
+* 👎💵 Robert Singleton
+
+### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.   ❓1
+* ❓💵 Robert Singleton
+
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
 * 👍 Tahra Jirari
 

@@ -17,11 +17,15 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎 Chloe Gale
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+* 👎 Chloe Gale
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
+* 👎 Chloe Gale
 
 ### [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
 

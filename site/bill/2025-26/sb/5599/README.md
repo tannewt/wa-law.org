@@ -8,11 +8,12 @@
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5599 Commercial fishery licenses
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Steve Thatcher
 * Terry Steben - Hood Canal Beach Seine Fleet
 * Eric Osvaldik
+* Erik Osvaldik
 
 #### 6 👎 - Con
 Testifying:

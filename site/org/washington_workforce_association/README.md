@@ -10,6 +10,9 @@
 * 👍💵 Amber Carter
 * 👍💵 Amber Carter
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
+* 👍💵 Amber Carter
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ John Traugott
 

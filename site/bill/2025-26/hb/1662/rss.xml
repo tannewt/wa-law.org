@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1662/</link>
 		<description>Updates about HB 1662</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 08:38:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Education.</guid>
 		</item>
 		<item>
-			<title>👍John Axtell - Washington State Office of Public Defense</title>
+			<title>👍John Axtell - 495-96-9815</title>
 			<description>John Axtell signed up to testify Pro.</description>
 			<pubDate>Fri, 07 Feb 2025 12:45:57 GMT</pubDate>
 			<category>testifier</category>
@@ -103,6 +103,21 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Referred to Education.</title>
+			<description>Referred to Education.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Referred to Education.</guid>
+		</item>
+		<item>
+			<title>👍Dr. Erica Hernandez-Scott - 495-96-9815</title>
+			<description>Dr. Erica Hernandez-Scott signed up to testify Pro. They are signed up to represent 495-96-9815.</description>
+			<pubDate>Mon, 12 Jan 2026 08:38:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Erica/Hernandez-Scott/2026-01-12 08:38:33</guid>
 		</item>
 	</channel>
 </rss>

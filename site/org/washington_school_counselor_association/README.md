@@ -15,7 +15,13 @@
 ### [HB 1393](/bill/2025-26/hb/1393/) - Commencement/cultural exp. 👍1  
 * 👍 Lauren Mendez
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
+* 👍 Mabel Thackeray
+
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Jenny Morgan
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
@@ -48,17 +54,21 @@
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
 * ❓💵 Jenny Morgan
 
-## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎3 
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎3 
 * 👎 Jennifer Standard
 * 👎 Jorge Torres
 * 👎 Michelle Sotelo
+
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+* 👍 Lauren Mendez
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Jenny Morgan
 
 ## 2023-24
 
-### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎3 
-* 👎 Jennifer Standard
-* 👎 Jorge Torres
-* 👎 Michelle Sotelo
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Jenny Morgan
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 

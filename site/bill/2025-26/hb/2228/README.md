@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Local Government (LG): HB 2228 Scissor stairs
+Sign up to testify:
+
+#### 103 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

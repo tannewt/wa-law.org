@@ -25,6 +25,9 @@
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
 * 👍💵 Kirk Hovenkotter
 
+### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways. 👍1  
+* 👍 Holden Ringer
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍2  
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Kirk Hovenkotter

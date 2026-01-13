@@ -32,7 +32,8 @@
 
 ### [HB 1660](/bill/2025-26/hb/1660/) - Child welfare/racial dispro. 👍1  
 
-### [HB 1683](/bill/2025-26/hb/1683/) - School director districts 👍1  
+### [HB 1683](/bill/2025-26/hb/1683/) - School director districts 👍2  
+* 👍 Nina Martinez
 * 👍 Nina Martinez
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  

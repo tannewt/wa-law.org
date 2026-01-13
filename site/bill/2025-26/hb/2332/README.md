@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/09/2026 [House Democrats](/org/house_democrats/) - [MOCC responds to UW Study on Federal Use of State Databases for Immigration Enforcement and Escalation of Violence by ICE – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/09/mocc-statement-on-uw-study-regarding-agency-collaboration-with-ice/#:~:text=HB%202332)
+
 ## Meetings

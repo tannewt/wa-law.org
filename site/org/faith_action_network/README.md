@@ -35,7 +35,7 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍4  
 
-### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍2  
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍3  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
@@ -45,6 +45,12 @@
 * 👍💵 Kristin Ang
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍2  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍4  
 
@@ -91,11 +97,19 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍3  
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
+
+### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍3  
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+
+## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
+### [SB 5982](/bill/2023-24/sb/5982/) - Consumer-owned utilities 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

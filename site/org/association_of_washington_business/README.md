@@ -199,6 +199,8 @@
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev  👎1 
 * 👎💵 Morgan Irwin
 
+### [HB 1496](/bill/2025-26/hb/1496/) - Health care information  👎1 
+
 ### [HB 1507](/bill/2025-26/hb/1507/) - Health care nondisclosure  👎1 
 * 👎💵 Emily Wittman
 
@@ -421,6 +423,24 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
 * 👎 Max Martin
 * 👎 Max Martin
+
+### [HB 2088](/bill/2025-26/hb/2088/) - Concerning the dietitian licensure compact. 👍1  
+
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [HB 2110](/bill/2025-26/hb/2110/) - Concerning personnel for ambulance service interfacility specialty care transports. 👍1  
+
+### [HB 2113](/bill/2025-26/hb/2113/) - Radiologic technologists 👍1  
+
+### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases.  👎1 
+
+### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
+
+### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
+* 👍💵 Peter Godlewski
+
+### [HB 2296](/bill/2025-26/hb/2296/) - Distributed energy resources  👎1 
+* 👎💵 Peter Godlewski
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -749,13 +769,17 @@
 * 👎 Max Martin
 * 👎 Max Martin
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎 Max Martin
+
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+* 👍💵 Emily Wittman
+
+## [SB 5966](/bill/2025-26/sb/5966/) - Medically tailored meals 👍1  
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
-* 👎 Max Martin
+### [SB 5966](/bill/2023-24/sb/5966/) - Medically tailored meals 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

@@ -7,3 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5825 Leadership board/gifts
+Sign up to testify:
+
+#### 8 👍 - Pro
+Testifying:
+* Laura Laura Armstrong - [Washington State Leadership Board](/org/washington_state_leadership_board/)
+* Colin Pierce - Board member, on behalf of WSLB
+* Cynthia Tamayo - Board member, on behalf of WSLB
+* Olivia Sarriugarte - Board member, on behalf of WSLB
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

@@ -44,6 +44,9 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Charles Smith
+
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍16  
@@ -100,11 +103,27 @@
 * 👍💵 Charles Smith
 * 👍💵 Samuel Martin
 
-## [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
+* 👍💵 Charles Smith
+
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍9  
+* 👍💵 Charles Smith
+* 👍 Courtney Hageman
+* 👍 Jonas Rios
+* 👍 Lydia O'Taylor
+* 👍 Nathan Witherow
+
+### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Charles Smith
 
 ## 2023-24
 
-### [SB 5813](/bill/2023-24/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Charles Smith
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

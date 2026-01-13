@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 04:00 PM - Housing (HOUS): HB 2118 Community restrictions
+Sign up to testify:
+
+#### 46 👍 - Pro
+Testifying:
+* Steve Horvath - HOA United
+* Raelene Schifano
+
+#### 658 👎 - Con
+Testifying:
+* Terrence Leahy - Washington State Chapter of Community Association Institute
+* Summer Ellwood - WSCAI LAC
+* Sheryl Grant
+* Diana Carlson - Washington State Legislative Action Committee
+
+#### 0 ❓ - Other

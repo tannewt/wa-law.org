@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5895/</link>
 		<description>Updates about SB 5895</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 09:04:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,53 @@
 			<pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-16/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Karen Peacey - Washington Association of County Regional Planning Directors</title>
+			<description>Karen Peacey signed up to testify Pro.</description>
+			<pubDate>Sat, 10 Jan 2026 03:31:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karen/Peacey/2026-01-10 03:31:31</guid>
+		</item>
+		<item>
+			<title>👍Melody Simle - Washington Association of County Regional Planning Directors</title>
+			<description>Melody Simle signed up to testify Pro.</description>
+			<pubDate>Sat, 10 Jan 2026 03:31:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melody/Simle/2026-01-10 03:31:31</guid>
+		</item>
+		<item>
+			<title>👍Sarah Leon - Washington Association of County Regional Planning Directors</title>
+			<description>Sarah Leon signed up to testify Pro.</description>
+			<pubDate>Sat, 10 Jan 2026 03:31:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Leon/2026-01-10 03:31:31</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>❓David Flynn - Department of Corrections</title>
+			<description>David Flynn signed up to testify Other. They are signed up to represent Department of Corrections.</description>
+			<pubDate>Mon, 12 Jan 2026 02:49:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/David/Flynn/2026-01-12 02:49:30</guid>
+		</item>
+		<item>
+			<title>👍Marc Stern - Washington Association of County Regional Planning Directors</title>
+			<description>Marc Stern signed up to testify Pro.</description>
+			<pubDate>Mon, 12 Jan 2026 09:04:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marc/Stern/2026-01-12 09:04:32</guid>
 		</item>
 	</channel>
 </rss>

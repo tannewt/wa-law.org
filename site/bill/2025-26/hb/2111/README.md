@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 04:00 PM - Transportation (TR): HB 2111 I-5 bridge account earnings
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* Ron Arp - Identity Clark County
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

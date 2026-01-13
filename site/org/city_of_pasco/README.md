@@ -10,13 +10,22 @@
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
 * 👎 Richa Sigdel
 
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+* 👍 Richa Sigdel
+
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
-## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
 ## 2023-24
 
-### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
+### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
 

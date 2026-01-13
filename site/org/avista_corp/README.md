@@ -33,6 +33,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
+### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
@@ -52,13 +54,16 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
-## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 * 👎💵 John Rothlin
+
+## [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍1  
+* 👍💵 John Rothlin
 
 ## 2023-24
 
-### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
-* 👎💵 John Rothlin
+### [SB 5941](/bill/2023-24/sb/5941/) - Schools/renewable energy 👍1  
+* 👍💵 John Rothlin
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 * 👍💵 John Rothlin

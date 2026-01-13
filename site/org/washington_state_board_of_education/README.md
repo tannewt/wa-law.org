@@ -4,6 +4,9 @@
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 * 👍 J. Lee Schultz
 
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+* 👍 Jen Chong Jewell
+
 ## [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍 J. Lee Schultz
 * 👍 Alissa Muller

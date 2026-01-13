@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5599/</link>
 		<description>Updates about SB 5599</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 11:53:31 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -63,12 +63,27 @@
 			<guid isPermaLink="false">testifier/Eric/Osvaldik/2025-02-09 07:48:34</guid>
 		</item>
 		<item>
+			<title>👍Erik Osvaldik - Hood Canal Beach Seine Fleet</title>
+			<description>Erik Osvaldik signed up to testify Pro.</description>
+			<pubDate>Sun, 09 Feb 2025 07:48:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erik/Osvaldik/2025-02-09 07:48:34</guid>
+		</item>
+		<item>
 			<title>👎Robert Sudar - President/Puget Sound Harvesters Association</title>
 			<description>Robert Sudar signed up to testify Con.</description>
 			<pubDate>Mon, 10 Feb 2025 11:53:31 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Robert/Sudar/2025-02-10 11:53:31</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

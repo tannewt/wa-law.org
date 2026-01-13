@@ -28,7 +28,7 @@
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts 👍1  
 * 👍 Arik Korman
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 

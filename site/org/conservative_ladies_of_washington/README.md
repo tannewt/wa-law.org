@@ -92,6 +92,12 @@
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy  👎1 
 * 👎 Mary Long
 
+### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications.  👎1 
+
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.  👎1 
+
+### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions.  👎1 
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
@@ -190,6 +196,8 @@
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax  👎1 
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 

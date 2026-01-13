@@ -38,6 +38,9 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+* 👍 Bryan Yambe
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  

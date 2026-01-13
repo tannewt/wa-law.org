@@ -6,4 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202264)
+
 ## Meetings
+### Tue 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 2264 Unemployment ins./layoffs
+Sign up to testify:
+
+#### 42 👍 - Pro
+Testifying:
+* Anne Paxton
+* Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
+* Rory O'Sullivan - Washington Employment Benefits Advocates
+* Timothy Fiser
+
+#### 28 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Patrick Connor - NFIB

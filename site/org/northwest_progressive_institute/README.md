@@ -52,6 +52,15 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
+### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
+* 👎 Cassie Clayton
+
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍2  
+* 👍 Cassie Clayton
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Andrew Villeneuve
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍4  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
@@ -92,15 +101,20 @@
 ### [SB 5802](/bill/2025-26/sb/5802/) - Transportation funds  👎1 
 * 👎 Andrew Villeneuve
 
-## [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍3  
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍3  
 * 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+* 👍 Cassie Clayton
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Andrew Villeneuve
 
 ## 2023-24
 
-### [SB 5813](/bill/2023-24/sb/5813/) - Tax rates/cap. gains, estate 👍3  
-* 👍 Andrew Villeneuve
-* 👍 Andrew Villeneuve
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Andrew Villeneuve
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

@@ -7,3 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 01:30 PM - Human Services (HS): SB 5873 DOC/escorted leave
+Sign up to testify:
+
+#### 16 👍 - Pro
+Testifying:
+* Larry Jefferson - Office of Public Defense & Statewide Reentry Council
+* Danielle Armbruster - Department of Corrections
+
+#### 53 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Kelsey Engstrom - Amend at UCSF

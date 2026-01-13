@@ -9,6 +9,9 @@
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  
 * 👍 Adam Eitmann
 
+### [HB 1982](/bill/2025-26/hb/1982/) - Treaty rights/convictions   ❓1
+* ❓ Asa Washines
+
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs   ❓1
 * ❓ Tad O'Neill
 

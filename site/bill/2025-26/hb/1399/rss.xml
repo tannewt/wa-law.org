@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1399/</link>
 		<description>Updates about HB 1399</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -459,6 +459,13 @@
 			<pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-19/Returned to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Referred to Community Safety.</title>
+			<description>Referred to Community Safety.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Referred to Community Safety.</guid>
 		</item>
 	</channel>
 </rss>

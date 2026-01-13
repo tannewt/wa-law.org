@@ -1,0 +1,9 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2361](/bill/2025-26/hb/2361/)
+
+# HB 2361 - Small loans maximum amount
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2361&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings

@@ -58,11 +58,13 @@
 
 ### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
 
-## [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍2  
+### [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍2  
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5584](/bill/2023-24/sb/5584/) - Independent prosecutor 👍2  
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 

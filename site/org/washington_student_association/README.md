@@ -24,6 +24,8 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍💵 Isela Bonilla
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Isela Bonilla
 
@@ -36,17 +38,18 @@
 * 👍💵 Sean Behl
 * 👍 Heba Qatrani
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs 👍1 👎2 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs 👍1 👎2 
 * 👎💵 Isela Bonilla
 * 👎 Heba Qatrani
 * 👍💵 Isela Bonilla
+
+## [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍2  
+* 👍💵 Sienna Jarrard
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs 👍1 👎2 
-* 👎💵 Isela Bonilla
-* 👎 Heba Qatrani
-* 👍💵 Isela Bonilla
+### [SB 5841](/bill/2023-24/sb/5841/) - Financial aid applications 👍2  
+* 👍💵 Sienna Jarrard
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

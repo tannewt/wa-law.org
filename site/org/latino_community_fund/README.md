@@ -8,6 +8,8 @@
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
 * 👍💵 Giovanni Severino
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  

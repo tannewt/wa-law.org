@@ -12,6 +12,26 @@
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205574)
 
 ## Meetings
+### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
+Sign up to testify:
+
+#### 408 👍 - Pro
+Testifying:
+* Scarlett Luo - Make Us Visible
+* Vivian Song
+* Angelie Chong - Director of Make Us Visible Washington
+* Devon Chong
+* Erin Jones
+* Ping Ping
+* Angela Bahng
+* Maricres Castro
+* Filma Fontanilla - WEA/Soundview Uniserv Council
+* Olivia Kang - Make Us Visible WA / College Student Advocate
+
+#### 386 👎 - Con
+
+#### 3 ❓ - Other
+
 ### Tue 02/18 08:00 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
 #### 999 👍 - Pro
 Testifying:

@@ -7,3 +7,29 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 5821 Advanced nuclear energy
+Sign up to testify:
+
+#### 25 👍 - Pro
+Testifying:
+* Greg Cullen - [Energy Northwest](/org/energy_northwest/)
+* Steve Verhey
+* Paula King - Retired
+* Paula King - Retired
+* Leila El-Wakil MD
+* Amanda McKinney - Yakima County Commissioner
+* Fereshteh Bunk - Mothers for Nuclear
+* Eric Meyer - Generation Atomic
+
+#### 57 👎 - Con
+Testifying:
+* Cathryn Chudy - Oregon Conservancy Foundation
+* Jim Lazar - self
+* Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
+* Roger Lippman
+* Michael Laurie
+* Roxanne Thayer
+* Lindsey Watchman - Chairman, General Council, Confederated Tribes of the Umatilla Indian Reservation
+* Lisa Ganuelas - Board of Trustees, Confederated Tribes of the Umatilla Indian Reservation
+
+#### 0 ❓ - Other

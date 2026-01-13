@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5451/</link>
 		<description>Updates about SB 5451</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Feb 2025 23:55:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -50,6 +50,13 @@
 			<pubDate>Thu, 06 Feb 2025 23:55:04 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/02/06/week-three-update/#:~:text=SB%205451</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

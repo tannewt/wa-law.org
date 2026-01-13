@@ -47,6 +47,13 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓ Jeff DeLuca
+* ❓ Jeff DeLuca
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+* 👍 Jeff DeLuca
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 
@@ -79,11 +86,18 @@
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 * 👍💵 Linda Garcia
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Jeff DeLuca
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Jeff DeLuca
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Jeff DeLuca
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 

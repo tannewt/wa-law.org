@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [The Center Square](/org/the_center_square/) - [WATCH: GOP legislator moves to undo some tax increases as 2026 session begins | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_93d65b9f-4149-48c7-bb42-8899e28f931d.html#:~:text=House%20Bill%202335)
+
 ## Meetings

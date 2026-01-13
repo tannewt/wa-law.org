@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2218 Workers' comp. medical care
+Sign up to testify:
+
+#### 87 👍 - Pro
+
+#### 7 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific
+
+#### 0 ❓ - Other

@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Housing (HSG): SB 6028 Homeownership dev. loans
+Sign up to testify:
+
+#### 23 👍 - Pro
+Testifying:
+* steve walker - Washinton State Housing Finance Commission
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

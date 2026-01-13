@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2211 Medically tailored meals
+Sign up to testify:
+
+#### 12 👍 - Pro
+Testifying:
+* Connie Gilfillan - Meals on Wheels People, Medically Tailored Meals Coalition of Washington
+* Emily Hanning - Lifelong Health for All, Medically Tailored Meals Coalition of Washington
+* Jeremy Vrablik - Cascadia Produce
+* Lianna Olds - Emergency Food Network, Medically Tailored Meals Coalition of Washington
+* Owen Esperas - Meals on Wheels Spokane, Medically Tailored Meals Coalition of Washington
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

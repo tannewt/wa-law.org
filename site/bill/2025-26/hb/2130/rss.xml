@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2130/</link>
 		<description>Updates about HB 2130</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 16:26:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,20 @@
 			<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-10/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>WATCH: GOP legislator moves to undo some tax increases as 2026 session begins | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: GOP legislator moves to undo some tax increases as 2026 session begins | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 12 Jan 2026 16:26:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_93d65b9f-4149-48c7-bb42-8899e28f931d.html#:~:text=House%20Bill%202130</guid>
 		</item>
 	</channel>
 </rss>

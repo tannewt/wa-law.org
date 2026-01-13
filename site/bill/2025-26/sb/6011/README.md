@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 6011 Court of appeals bailiffs
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 7 👎 - Con
+
+#### 0 ❓ - Other

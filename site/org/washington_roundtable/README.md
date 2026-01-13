@@ -13,6 +13,9 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
 
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
+* 👍💵 Neil Strege
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Neil Strege
 
@@ -29,15 +32,17 @@
 
 ### [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
 
-## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎2 
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎2 
 * 👎💵 Neil Strege
 * 👎💵 Neil Strege
+
+## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍💵 Neil Strege
 
 ## 2023-24
 
-### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎2 
-* 👎💵 Neil Strege
-* 👎💵 Neil Strege
+### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍💵 Neil Strege
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 

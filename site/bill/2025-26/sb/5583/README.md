@@ -25,7 +25,7 @@ Testifying:
 
 #### 892 👎 - Con
 Testifying:
-* Brian Henderson
+* 💵Brian Henderson
 * Julie Dowell
 * David Dowell
 * Michelle Schreiber - Verle's LLC

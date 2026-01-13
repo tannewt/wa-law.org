@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2178 Court rules and procedures
+Sign up to testify:
+
+#### 37 👍 - Pro
+Testifying:
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
+
+#### 4 👎 - Con
+Testifying:
+* EMAN ALEJAWI - ARAB BANK
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)

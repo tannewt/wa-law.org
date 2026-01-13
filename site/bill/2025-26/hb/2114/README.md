@@ -6,4 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202114)
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202114)
+
 ## Meetings
+### Thu 01/15 04:00 PM - Transportation (TR): HB 2114 Defective license plates
+Sign up to testify:
+
+#### 67 👍 - Pro
+Testifying:
+* Marianne Nichols - Pend Oreille County Auditor
+* Thad Duvall - Douglas County Auditor
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Housing (HSG): SB 6018 Housing finance commission
+Sign up to testify:
+
+#### 7 👍 - Pro
+Testifying:
+* steve walker - Washinton State Housing Finance Commission
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

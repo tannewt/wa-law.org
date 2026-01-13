@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 08:00 AM - Local Government (LG): HB 2154 Conservation district land
+Sign up to testify:
+
+#### 6 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Sarah Moorehead - Thurston Conservation District
+
+#### 0 ❓ - Other

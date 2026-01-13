@@ -36,6 +36,10 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓ Nancy Canales
+* ❓ Nancy Canales
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
@@ -63,11 +67,18 @@
 
 ### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Guillermo Rogel
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓💵 Guillermo Rogel
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓💵 Guillermo Rogel
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

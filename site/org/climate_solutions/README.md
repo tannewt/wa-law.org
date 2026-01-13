@@ -70,6 +70,19 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 Leah Missik
 
+### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
+* 👍💵 Leah Missik
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+* 👍💵 Leah Missik
+
+### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
+* 👎💵 Leah Missik
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 
+* 👎💵 Leah Missik
+* 👎💵 Leah Missik
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎2 
 * 👎💵 Leah Missik
 
@@ -125,13 +138,22 @@
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎2 
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Leah Missik
+
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
+* 👍💵 Leah Missik
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+* 👎💵 Leah Missik
+
+## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
+* 👎💵 Leah Missik
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
-* 👍💵 Leah Missik
+### [SB 6056](/bill/2023-24/sb/6056/) - Utility service vehicles  👎1 
+* 👎💵 Leah Missik
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik

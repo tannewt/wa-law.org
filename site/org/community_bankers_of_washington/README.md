@@ -24,6 +24,9 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
 * 👎💵 Brad Tower
 
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices  👎1 
+* 👎💵 Brad Tower
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 

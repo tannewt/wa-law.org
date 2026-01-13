@@ -20,6 +20,9 @@
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
+* 👍💵 Matt Doumit
+
 ### [SB 5170](/bill/2025-26/sb/5170/) - DNR boundary line surveys 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
@@ -27,11 +30,15 @@
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
-## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Matt Doumit
 
 ## 2023-24
 
-### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Matt Doumit
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

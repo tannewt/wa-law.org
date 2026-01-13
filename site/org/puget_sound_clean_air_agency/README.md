@@ -9,6 +9,9 @@
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 * 👍 Christine Cooley
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+* 👎 Christine Cooley
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 * 👎 Christine Cooley
 
@@ -18,11 +21,15 @@
 * 👍 Christine Cooley
 * 👍 Christine Cooley
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+* 👎 Christine Cooley
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
+* 👎 Christine Cooley
 
 ### [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 

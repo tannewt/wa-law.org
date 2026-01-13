@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5928 Wildfire risk models
+Sign up to testify:
+
+#### 8 👍 - Pro
+Testifying:
+* Mike Bucy - Stevens County Fire Protection District 1
+* David Forte - Office of the Insurance Commissioner
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1115/</link>
 		<description>Updates about HB 1115</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 12:40:02 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -172,6 +172,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sherri/Fought/2025-01-27 12:40:02</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

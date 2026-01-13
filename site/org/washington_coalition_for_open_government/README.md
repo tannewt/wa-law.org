@@ -16,18 +16,21 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA  👎1 
 * 👎 Colette Weeks
 
+### [HB 2244](/bill/2025-26/hb/2244/) - Adopting the recommendations of the public records exemptions accountability committee in its 2025 annual report. 👍2  
+
 ### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍3  
 * 👍💵 Donna Christensen
 
 ### [SB 5102](/bill/2025-26/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
 
-## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍2  
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍2  
 * 👍 ROBERT McCLURE
+
+## [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍1  
 
 ## 2023-24
 
-### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍2  
-* 👍 ROBERT McCLURE
+### [SB 5863](/bill/2023-24/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍1  
 
 ### [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information  👎2 
 * 👎 Michael Fancher

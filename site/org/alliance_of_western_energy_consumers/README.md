@@ -25,6 +25,9 @@
 
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍2  
 
+### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
+* 👎💵 Brandon Houskeeper
+
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers   ❓1
 * ❓ Curt Augustine
 

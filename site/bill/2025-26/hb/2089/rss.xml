@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2089/</link>
 		<description>Updates about HB 2089</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 02 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/12/02/a-new-vision-for-washington-scott-introduces-the-well-washington-fund-payroll-tax-to-protect-state-from-trumps-austerity-budget/#:~:text=HB%202089</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Finance.</guid>
 		</item>
 	</channel>
 </rss>

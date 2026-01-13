@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/09/2026 [House Democrats](/org/house_democrats/) - [Berg Introduces Bill to Address Cash Transactions After End of the Penny – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/09/54483/#:~:text=House%20Bill%202334)
+
 ## Meetings

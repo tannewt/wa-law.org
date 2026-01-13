@@ -18,6 +18,10 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
 
+### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications. 👍3  
+
+### [HB 2110](/bill/2025-26/hb/2110/) - Concerning personnel for ambulance service interfacility specialty care transports. 👍3  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎6 
@@ -37,11 +41,13 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎2 
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+
+## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍4  
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program 👍4  
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 

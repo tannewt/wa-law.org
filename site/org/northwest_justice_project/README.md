@@ -24,6 +24,10 @@
 ### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
 * 👍 Christopher Brunetti
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  
+* 👍 Christopher Brunetti
+* 👍 Tom McGarry
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 * 👍 Julia Kellison
 * 👍 Julia Kellison
@@ -35,13 +39,19 @@
 * 👍 Tareva Marshall
 * 👍 Tom McKay
 
-## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
+### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 * 👎 Christopher Brunetti
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍 Tom McGarry
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Christopher Brunetti
 
 ## 2023-24
 
-### [SB 5740](/bill/2023-24/sb/5740/) - Eviction reform  👎1 
-* 👎 Christopher Brunetti
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Christopher Brunetti
 
 ### [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 * 👍 Christopher Brunetti

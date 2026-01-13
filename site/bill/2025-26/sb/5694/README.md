@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 01/16 08:00 AM - Labor & Commerce (LC): ESSB 5694 Boiler operator cert.
+Sign up to testify:
+
+#### 3 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5694 Boiler operator cert.
 #### 12 👍 - Pro
 Testifying:

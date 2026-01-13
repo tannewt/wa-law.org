@@ -6,11 +6,15 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-## [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Patricia Castaneda
 
 ## 2023-24
 
-### [SB 5362](/bill/2023-24/sb/5362/) - Crime victim services 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Patricia Castaneda
 
 ### [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 

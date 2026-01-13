@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1317/</link>
 		<description>Updates about HB 1317</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Dec 2025 22:17:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -323,6 +323,13 @@
 			<pubDate>Thu, 18 Dec 2025 22:17:08 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.aclu-wa.org/legislation/second-look-pathway-for-youth/#:~:text=HB%201317</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

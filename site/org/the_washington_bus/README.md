@@ -33,6 +33,8 @@
 
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
 
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍3  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
@@ -51,11 +53,13 @@
 
 ### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
+
+## [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎2 
+### [SB 5855](/bill/2023-24/sb/5855/) - Law enf. face coverings 👍2  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith

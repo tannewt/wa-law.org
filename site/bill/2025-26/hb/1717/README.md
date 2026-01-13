@@ -11,6 +11,18 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201717)
 
 ## Meetings
+### Thu 01/15 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
+Sign up to testify:
+
+#### 32 👍 - Pro
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Alyssa Torrez - South Sound Housing Affordability Partners
+
+#### 5 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/21 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
 #### 107 👍 - Pro
 Testifying:

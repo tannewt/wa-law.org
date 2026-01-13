@@ -8,11 +8,36 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%201634)
+* 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201634)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201634)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201634)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201634)
 
 ## Meetings
+### Tue 01/13 04:00 PM - Education (ED): HB 1634 Behavioral health/schools
+Sign up to testify:
+
+#### 48 👍 - Pro
+Testifying:
+* Taanvi Arekapudi - Uplift Teens Today Nonprofit
+* AYANNA COLMAN - WASHINGTON STATE PTA
+* Eric Bruns
+* Samuel Burkey
+* MIsha Cherniske - Office of Superintendent of Public Instruction
+* Mabel Thackeray - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Paree Raval
+
+#### 946 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - The Citizens Commission on Human Rights
+* John Axtell
+* Julian Loaiza
+
+#### 1 ❓ - Other
+Testifying:
+* Michelle Price - Assoc of Educational Service Districts (AESD)
+
 ### Mon 02/10 01:30 PM - Education (ED): HB 1634 Behavioral health/schools
 #### 218 👍 - Pro
 Testifying:

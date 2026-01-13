@@ -101,6 +101,13 @@
 
 ### [HB 2016](/bill/2025-26/hb/2016/) - Capital budget for broadband 👍1  
 
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
+* 👍💵 James Cockburn
+
+### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  ❓1
@@ -181,11 +188,19 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
+
+## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍 Eric ffitch
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍 Eric ffitch
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

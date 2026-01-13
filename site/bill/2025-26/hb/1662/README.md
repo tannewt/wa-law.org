@@ -12,6 +12,17 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201662)
 
 ## Meetings
+### Thu 01/15 09:00 AM - Education (ED): HB 1662 Education agencies/OSPI
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Dr. Erica Hernandez-Scott - 495-96-9815
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 04:00 PM - Education (ED): HB 1662 Education agencies/OSPI
 #### 17 👍 - Pro
 Testifying:

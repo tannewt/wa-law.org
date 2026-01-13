@@ -103,7 +103,8 @@
 ### [HB 1397](/bill/2025-26/hb/1397/) - Local property tax levies 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍2  
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍3  
+* 👍💵 Travis Dutton
 * 👍💵 Travis Dutton
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
@@ -194,6 +195,9 @@
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 * 👍💵 Curtis Steinhauer
 
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs.   ❓1
+* ❓💵 Curtis Steinhauer
+
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍2  
 * 👍💵 Paul Jewell
 
@@ -218,6 +222,17 @@
 * 👍💵 Brad Banks
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
+* ❓💵 Paul Jewell
+
+### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
+* 👎💵 Paul Jewell
+
+### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Curtis Steinhauer
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
 * ❓💵 Paul Jewell
@@ -399,11 +414,27 @@
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 * 👎💵 Axel Swanson
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax   ❓1
+* ❓💵 Paul Jewell
+
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+* 👍💵 Curtis Steinhauer
+
+### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing.  👎1 
+* 👎💵 Travis Dutton
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Curtis Steinhauer
+
+### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
+
+## [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 6028](/bill/2023-24/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

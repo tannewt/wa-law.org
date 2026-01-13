@@ -47,6 +47,8 @@
 * 👎 William Hairston
 * 👎 William Hairston
 
+### [HB 2185](/bill/2025-26/hb/2185/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍2  
@@ -83,11 +85,17 @@
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
+
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+## [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎3 
+### [SB 5957](/bill/2023-24/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

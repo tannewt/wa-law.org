@@ -81,6 +81,9 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+* 👍💵 Bryce Yadon
+
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 

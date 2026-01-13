@@ -44,6 +44,14 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍4  
@@ -91,11 +99,19 @@
 
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

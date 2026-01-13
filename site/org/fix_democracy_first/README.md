@@ -28,6 +28,11 @@
 
 ### [HB 1782](/bill/2025-26/hb/1782/) - Campaign reporting timeline  👎1 
 
+### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute. 👍1  
+
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍2  
+* 👍💵 Cindy Black
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security 👍2  
@@ -45,11 +50,13 @@
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
 
-## [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1  
+### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1  
+
+## [SB 5840](/bill/2025-26/sb/5840/) - Campaign finance schedule 👍1  
 
 ## 2023-24
 
-### [SB 5637](/bill/2023-24/sb/5637/) - Media literacy & civic ed. 👍1  
+### [SB 5840](/bill/2023-24/sb/5840/) - Campaign finance schedule 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

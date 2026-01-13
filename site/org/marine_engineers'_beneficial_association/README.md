@@ -126,6 +126,8 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 
+### [HB 1496](/bill/2025-26/hb/1496/) - Health care information 👍1  
+
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍3  
@@ -133,6 +135,8 @@
 ### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍2  
 
 ### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
+
+### [HB 1544](/bill/2025-26/hb/1544/) - Child abuse risk assessment 👍1  
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
 
@@ -279,6 +283,48 @@
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎2 
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
+
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+
+### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  
+
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases. 👍1  
+
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
+### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb. 👍1  
+
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
+
+### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
+
+### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
+
+### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
+
+### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
+
+### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
+
+### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages 👍1  
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
+
+### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
+
+### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+
+### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+
+### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+
+### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
@@ -450,7 +496,7 @@
 
 ### [SB 5693](/bill/2025-26/sb/5693/) - Teacher residency & apprent.  👎1 
 
-### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍4  
+### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍5  
 
 ### [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍1  
 
@@ -466,6 +512,8 @@
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
 
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
+
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
@@ -479,6 +527,22 @@
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+### [SB 5842](/bill/2025-26/sb/5842/) - Campaign memorabilia  👎1 
+
+### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
+
+### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+
+### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎1 
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
+
+### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
+
+### [SB 6014](/bill/2025-26/sb/6014/) - Pregnancy accommodations 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 

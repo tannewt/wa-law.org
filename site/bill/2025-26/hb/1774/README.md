@@ -23,7 +23,7 @@ Testifying:
 * Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Victoria Woodards - Mayor, City of Tacoma
 * Ali Lee
-* Jon Grant - Low Income Housing Institute
+* Jon Grant - [Low Income Housing Institute](/org/low_income_housing_institute/)
 
 #### 731 👎 - Con
 Testifying:
@@ -42,7 +42,7 @@ Testifying:
 * Jerry Pugnetti
 * Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Hunter George - Parks Tacoma
-* Jon Grant - Low Income Housing Institute
+* Jon Grant - [Low Income Housing Institute](/org/low_income_housing_institute/)
 * Jennifer Saunders - Washington State Historical Society
 
 #### 569 👎 - Con

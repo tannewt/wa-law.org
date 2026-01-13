@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5933 Overdose mapping information
+Sign up to testify:
+
+#### 12 👍 - Pro
+Testifying:
+* APRIL PROVOST - Snohomish County Recovery Coalition
+* Elizabeth Powell - Northwest High Intensity Drug Trafficking Area program
+* MD, Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
+* Alicia Stromme - Safe Yakima Valley
+* Peter Miterko - Skagit County Public Health
+* 💵Paul Dillon - [City of Spokane](/org/city_of_spokane/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

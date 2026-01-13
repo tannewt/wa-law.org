@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2281/</link>
 		<description>Updates about HB 2281</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 11:09:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,54 @@
 			<pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-06/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👎Matt Hawkins - Concerned citizen</title>
+			<description>Matt Hawkins signed up to testify Con. They are signed up to represent Concerned citizen.</description>
+			<pubDate>Sun, 11 Jan 2026 03:49:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Matt/Hawkins/2026-01-11 03:49:13</guid>
+		</item>
+		<item>
+			<title>👍💵Kristin Ang - Faith Action Network (FAN)</title>
+			<description>Kristin Ang signed up to testify Pro. They are signed up to represent Faith Action Network (FAN). They are a registered lobbyist.</description>
+			<pubDate>Sun, 11 Jan 2026 11:27:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristin/Ang/2026-01-11 11:27:49</guid>
+		</item>
+		<item>
+			<title>👎💵Cory Shaw - Washington Aggregates &amp; Concrete Association</title>
+			<description>Cory Shaw signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_aggregates_&amp;_concrete_association/"&gt;Washington Aggregates &amp; Concrete Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Jan 2026 03:54:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cory/Shaw/2026-01-12 03:54:28</guid>
+		</item>
+		<item>
+			<title>👍Robert de los Angeles - Snoqualmie Indian Tribe</title>
+			<description>Robert de los Angeles signed up to testify Pro. They are signed up to represent Snoqualmie Indian Tribe.</description>
+			<pubDate>Mon, 12 Jan 2026 06:13:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/de los Angeles/2026-01-12 06:13:48</guid>
+		</item>
+		<item>
+			<title>👍Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation</title>
+			<description>Council Jeremy Takala signed up to testify Pro. They are signed up to represent Confederated Tribes and Bands of the Yakama Nation.</description>
+			<pubDate>Mon, 12 Jan 2026 06:37:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Council Jeremy/Takala/2026-01-12 06:37:45</guid>
+		</item>
+		<item>
+			<title>👍Robert de los Angeles - Snoqualmie Tribe</title>
+			<description>Robert de los Angeles signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/snoqualmie_tribe/"&gt;Snoqualmie Tribe&lt;/a&gt;.</description>
+			<pubDate>Mon, 12 Jan 2026 11:09:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/de los Angeles/2026-01-12 11:09:05</guid>
 		</item>
 	</channel>
 </rss>

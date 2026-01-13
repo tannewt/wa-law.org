@@ -7,3 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2106 Health carrier modif. notice
+Sign up to testify:
+
+#### 86 👍 - Pro
+Testifying:
+* Dee Bender
+* Kelli Camp
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner

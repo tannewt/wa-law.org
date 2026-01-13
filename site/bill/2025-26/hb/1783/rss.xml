@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1783/</link>
 		<description>Updates about HB 1783</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -57,6 +57,13 @@
 			<pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-19/Returned to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Referred to Postsecondary Education &amp; Workforce.</title>
+			<description>Referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Referred to Postsecondary Education &amp; Workforce.</guid>
 		</item>
 	</channel>
 </rss>

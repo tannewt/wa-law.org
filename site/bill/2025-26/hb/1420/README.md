@@ -8,10 +8,25 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201420)
 * 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=House%20Bill%201420)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201420)
 
 ## Meetings
+### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
+Sign up to testify:
+
+#### 245 👍 - Pro
+Testifying:
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 3 👎 - Con
+Testifying:
+* Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Darbi Gottlieb - AdvaMed
+
+#### 0 ❓ - Other
+
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1420 Textile producers
 #### 9 👍 - Pro
 

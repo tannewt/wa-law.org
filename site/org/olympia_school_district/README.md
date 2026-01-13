@@ -41,11 +41,16 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-## [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+
+### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
+* 👍 Patrick Murphy
+
+## [SB 5943](/bill/2025-26/sb/5943/) - Concerning the use of school impact fees. 👍1  
 
 ## 2023-24
 
-### [SB 5358](/bill/2023-24/sb/5358/) - Career & tech. ed./6th grade 👍1  
+### [SB 5943](/bill/2023-24/sb/5943/) - Concerning the use of school impact fees. 👍1  
 
 ### [HB 1436](/bill/2023-24/hb/1436/) - Special education funding  👎1 
 * 👎 Superintendent, Patrick Murphy

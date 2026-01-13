@@ -85,6 +85,11 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍 Megan Moore
 
+### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Amy Brackenbury
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
@@ -137,11 +142,17 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍3  
 * 👍 Megan Moore
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Amy Brackenbury
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Amy Brackenbury
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

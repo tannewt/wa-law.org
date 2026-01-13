@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 04:00 PM - Housing (HOUS): HB 2236 Housing finance commission
+Sign up to testify:
+
+#### 7 👍 - Pro
+Testifying:
+* steve walker - Washinton State Housing Finance Commission
+
+#### 21 👎 - Con
+
+#### 0 ❓ - Other

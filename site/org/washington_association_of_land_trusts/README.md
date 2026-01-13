@@ -11,6 +11,13 @@
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓ Vanessa Kritzer
+* ❓ Vanessa Kritzer
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓ Vanessa Kritzer
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓2
 * ❓ Vanessa Kritzer
 * ❓ Vanessa Kritzer
@@ -19,11 +26,15 @@
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
 
-## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
+### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓ Vanessa Kritzer
 
 ## 2023-24
 
-### [SB 5567](/bill/2023-24/sb/5567/) - Natural resources careers 👍1  
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓ Vanessa Kritzer
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Vanessa Kritzer

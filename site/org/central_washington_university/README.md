@@ -26,6 +26,12 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Steve DuPont
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
+* 👍 Steve DuPont
+
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
@@ -54,11 +60,18 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Steve DuPont
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Steve DuPont
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 Steve DuPont
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

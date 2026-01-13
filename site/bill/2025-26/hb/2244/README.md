@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2244 Public records exemptions
+Sign up to testify:
+
+#### 12 👍 - Pro
+Testifying:
+* Katherine George
+* Joe Kunzler - Private Citizen
+* Linda Krese - Not official rep, but am a past chair of the Pub. Records Exemptions Accountability Comm.
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

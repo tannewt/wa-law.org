@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5954 Vet. survivor tuition waiver
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Anthony Varela - Veterans Legislative Coalition
+* Tobiah Goodin
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

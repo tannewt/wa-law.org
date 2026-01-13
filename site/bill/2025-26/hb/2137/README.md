@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 2137 Correctional officers/arb.
+Sign up to testify:
+
+#### 32 👍 - Pro
+Testifying:
+* David Simmons - Teamsters local 760
+* carl keller - Local 760
+* Daron Smith - Teamsters Local 231
+
+#### 2 👎 - Con
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 1 ❓ - Other

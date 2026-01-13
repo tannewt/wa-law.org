@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5880 Toxicology testing
+Sign up to testify:
+
+#### 8 👍 - Pro
+Testifying:
+* Erika Evans - Seattle City Attorney
+
+#### 0 👎 - Con
+
+#### 4 ❓ - Other
+Testifying:
+* Bradley Lane - State Traffic Safety Resource Prosecutor
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Bruce Adsero - Personal
+* 💵Brad Banks - Washington State Association of Counties (WSAC)

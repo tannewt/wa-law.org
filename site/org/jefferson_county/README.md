@@ -10,6 +10,10 @@
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
 * 👍 Jefferson County Comm'r Heidi Eisenhour
 
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+
+### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
+
 ## [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 
 ## 2023-24

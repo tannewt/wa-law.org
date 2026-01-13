@@ -88,7 +88,7 @@
 
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍2  
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍3  
 
@@ -131,6 +131,10 @@
 * 👍 Dan Eder
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -215,11 +219,13 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+## [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 5855](/bill/2023-24/sb/5855/) - Law enf. face coverings 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

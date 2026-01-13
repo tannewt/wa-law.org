@@ -6,4 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202333)
+* 01/09/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: HB 2333 — A Sweeping Expansion of Secrecy and Special Protections for Government Officials - Conservative Ladies of Washington](https://conservativeladiesofwa.com/hb2333-protections-for-wa-officials/#:~:text=HB%202333%20Washington%20State%20Legislature)
+
 ## Meetings
+### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2333 Political violence
+Sign up to testify:
+
+#### 10 👍 - Pro
+Testifying:
+* Joe Kunzler - NEVER AGAIN MEANS NEVER AGAIN
+* Aparna Ghosh - Ghosh Innovation Lab
+* Muthoni Wambu Kraal - Women’s Democracy Lab
+* Caroline Djamalov - King County Prosecuting Attorney's Office
+* Louisa Duggan - Vote Mama Lobby
+* 💵Timothy Grisham - WA Assn of County Officials
+
+#### 1 👎 - Con
+
+#### 4 ❓ - Other
+Testifying:
+* Dallas Burnett - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Heather Hirotaka - Office of Secretary of State / State Archives
+* Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)

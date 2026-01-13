@@ -10,13 +10,20 @@
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
 
+### [HB 2168](/bill/2025-26/hb/2168/) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. 👍1  
+* 👍 MD, Scott Phillips
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  
+
+## [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
+* 👍 MD, Scott Phillips
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍2  
+### [SB 5933](/bill/2023-24/sb/5933/) - Overdose mapping information 👍1  
+* 👍 MD, Scott Phillips
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Dr. Scott Phillips

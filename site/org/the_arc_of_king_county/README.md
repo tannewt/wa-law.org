@@ -50,7 +50,8 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
+* 👍💵 Ramona Hattendorf
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
@@ -59,6 +60,9 @@
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Ramona Hattendorf
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
@@ -147,11 +151,20 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍2  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Ramona Hattendorf
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓💵 Ramona Hattendorf
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental   ❓1
+* ❓💵 Ramona Hattendorf
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

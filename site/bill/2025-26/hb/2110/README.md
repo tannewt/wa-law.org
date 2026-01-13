@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2110 Specialty care transports
+Sign up to testify:
+
+#### 65 👍 - Pro
+Testifying:
+* Christiopher BAker
+* Katie Kolan - Washington State Hospital Association
+* Shane McGuire
+* Joey Rodrigues - Executive Director, Olympic Ambulance Service, Inc.
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Jessica Hauffe - Washington State Nurses Association (WSNA)
+* Clint Kneuven - WSNA

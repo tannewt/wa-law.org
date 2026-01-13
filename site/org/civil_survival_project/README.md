@@ -31,6 +31,10 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
@@ -48,11 +52,17 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
+### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing. 👍1  
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎1 
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍3  
 * 👍💵 Kelly Olson

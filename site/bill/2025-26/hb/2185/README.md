@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2185 Homeless youth committee
+Sign up to testify:
+
+#### 13 👍 - Pro
+Testifying:
+* Jim Theofelis - NorthStar Advocates
+* Viola Ware - Homeless Youth Prevention and Protection Advisory Committee
+
+#### 35 👎 - Con
+
+#### 0 ❓ - Other

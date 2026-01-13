@@ -57,6 +57,15 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
+### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
+
+### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓3
+* ❓💵 Emily Brice
+* ❓💵 Emily Brice
+* ❓💵 Vanessa Saavedra
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
@@ -120,11 +129,19 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
+* ❓💵 Emily Brice
+* ❓ Lee Che LEONG
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓2
+* ❓💵 Emily Brice
+* ❓ Lee Che LEONG
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

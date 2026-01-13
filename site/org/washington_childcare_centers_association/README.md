@@ -22,6 +22,9 @@
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍3  
 
+### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers.   ❓1
+* ❓💵 Amy Anderson
+
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  

@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 04:00 PM - Transportation (TR): HB 2092 Passenger rail adv. comm.
+Sign up to testify:
+
+#### 34 👍 - Pro
+Testifying:
+* Breck Lebegue MD MPH - WA Physicians for Social Responsibility
+
+#### 2 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Luis Moscoso - [All Aboard Washington](/org/all_aboard_washington/)

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 6010 EFSEC tribal consultation
+Sign up to testify:
+
+#### 7 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

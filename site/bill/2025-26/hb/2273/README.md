@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Local Government (LG): HB 2273 Embodied carbon/buildings
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* Chris Hellstern - AIA Washington
+
+#### 2 👎 - Con
+Testifying:
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+
+#### 0 ❓ - Other

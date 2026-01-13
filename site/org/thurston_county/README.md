@@ -6,6 +6,9 @@
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍2  
 * 👍 Commissioner Rachel Grant
 
+### [HB 1982](/bill/2025-26/hb/1982/) - Treaty rights/convictions 👍1  
+* 👍 Carolina Mejia
+
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  

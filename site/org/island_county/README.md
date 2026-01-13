@@ -21,11 +21,17 @@
 
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas 👍1  
 
-## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+
+## [SB 5990](/bill/2025-26/sb/5990/) - Rural local health officers   ❓2
+* ❓ Commissioner Melanie Bacon
+* ❓ Shawn Morris
 
 ## 2023-24
 
-### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5990](/bill/2023-24/sb/5990/) - Rural local health officers   ❓2
+* ❓ Commissioner Melanie Bacon
+* ❓ Shawn Morris
 
 ### [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 

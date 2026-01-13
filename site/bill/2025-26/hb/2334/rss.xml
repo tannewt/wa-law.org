@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2334/</link>
 		<description>Updates about HB 2334</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 08 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-08/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>Berg Introduces Bill to Address Cash Transactions After End of the Penny – Washington State House Democrats</title>
+			<description>News article "Berg Introduces Bill to Address Cash Transactions After End of the Penny – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/09/54483/#:~:text=House%20Bill%202334</guid>
 		</item>
 	</channel>
 </rss>

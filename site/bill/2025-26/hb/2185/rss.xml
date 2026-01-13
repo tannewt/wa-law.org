@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2185/</link>
 		<description>Updates about HB 2185</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 09:12:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,29 @@
 			<pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-22/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Jim Theofelis - NorthStar Advocates</title>
+			<description>Jim Theofelis signed up to testify Pro. They are signed up to represent NorthStar Advocates.</description>
+			<pubDate>Wed, 07 Jan 2026 10:53:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Theofelis/2026-01-07 10:53:46</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; Human Services.</title>
+			<description>First reading, referred to Early Learning &amp; Human Services.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Early Learning &amp; Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Viola Ware - Homeless Youth Prevention and Protection Advisory Committee</title>
+			<description>Viola Ware signed up to testify Pro. They are signed up to represent Homeless Youth Prevention and Protection Advisory Committee.</description>
+			<pubDate>Mon, 12 Jan 2026 09:12:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Viola/Ware/2026-01-12 09:12:12</guid>
 		</item>
 	</channel>
 </rss>

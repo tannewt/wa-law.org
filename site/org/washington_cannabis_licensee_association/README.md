@@ -20,6 +20,9 @@
 ### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis  👎1 
 * 👎💵 Trent Matson
 
+### [HB 2152](/bill/2025-26/hb/2152/) - Cannabis/health facilities 👍1  
+* 👍 Bethany Rondeaux
+
 ### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising 👍2  
 * 👍 Bethany Rondeaux
 * 👍💵 Trent Matson

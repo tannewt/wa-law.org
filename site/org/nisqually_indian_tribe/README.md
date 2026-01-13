@@ -6,11 +6,15 @@
 
 ### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
 
-## [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
+### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
+
+## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 David Troutt
 
 ## 2023-24
 
-### [SB 5264](/bill/2023-24/sb/5264/) - Tax compacts/capital invest. 👍1  
+### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
+* 👍 David Troutt
 
 ### [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 

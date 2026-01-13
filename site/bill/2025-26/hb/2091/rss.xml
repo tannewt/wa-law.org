@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2091/</link>
 		<description>Updates about HB 2091</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 02 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,43 @@
 			<pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-02/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍💵Kurt Spiegel - The Washington Federation of State Employees/AFSCME C28</title>
+			<description>Kurt Spiegel signed up to testify Pro. They are signed up to represent The Washington Federation of State Employees/AFSCME C28. They are a registered lobbyist.</description>
+			<pubDate>Thu, 08 Jan 2026 03:23:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kurt/Spiegel/2026-01-08 03:23:36</guid>
+		</item>
+		<item>
+			<title>👍Joey Hicklin - The Washington Federation of State Employees/AFSCME C28</title>
+			<description>Joey Hicklin signed up to testify Pro.</description>
+			<pubDate>Fri, 09 Jan 2026 10:19:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joey/Hicklin/2026-01-09 10:19:17</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202091</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202091</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards.</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Labor &amp; Workplace Standards.</guid>
 		</item>
 	</channel>
 </rss>

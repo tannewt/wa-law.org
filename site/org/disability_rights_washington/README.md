@@ -69,10 +69,13 @@
 * 👍 Todd H Carlisle
 * 👍💵 Chloe Merino
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 * 👍💵 Cecelia Black
+
+### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
+* 👍💵 Chloe Merino
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
@@ -99,15 +102,15 @@
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 * 👍💵 Andrea Kadlec
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍3  
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍3  
 * 👍 cecelia black
 * 👍 cecelia black
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍3  
-* 👍 cecelia black
-* 👍 cecelia black
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

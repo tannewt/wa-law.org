@@ -95,6 +95,16 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
+### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications. 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
+
+### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
+
+### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
@@ -167,11 +177,21 @@
 
 ### [SB 5577](/bill/2025-26/sb/5577/) - HIV antiviral drugs/medicaid 👍2  
 
-## [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
+### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Nicole Kern
 
 ## 2023-24
 
-### [SB 5632](/bill/2023-24/sb/5632/) - Confidentiality/interstate 👍1  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Nicole Kern
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 08:00 AM - Labor & Commerce (LC): SB 5972 Correctional officers/arb.
+Sign up to testify:
+
+#### 8 👍 - Pro
+Testifying:
+* Carl Keller - Teamsters Local 760
+* David Simmons - Teamsters Local 760
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

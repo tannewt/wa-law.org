@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2113/</link>
 		<description>Updates about HB 2113</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 10:55:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,69 @@
 			<pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-08/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Troy Bender - Washington Academy of Physician Associates</title>
+			<description>Troy Bender signed up to testify Pro. They are signed up to represent Washington Academy of Physician Associates.</description>
+			<pubDate>Thu, 08 Jan 2026 07:46:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Troy/Bender/2026-01-08 07:46:02</guid>
+		</item>
+		<item>
+			<title>👍Caylon Haggard - Docs Who Care</title>
+			<description>Caylon Haggard signed up to testify Pro. They are signed up to represent Docs Who Care.</description>
+			<pubDate>Thu, 08 Jan 2026 09:20:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Caylon/Haggard/2026-01-08 09:20:01</guid>
+		</item>
+		<item>
+			<title>👍Dee Bender - Docs Who Care</title>
+			<description>Dee Bender signed up to testify Pro.</description>
+			<pubDate>Fri, 09 Jan 2026 02:56:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dee/Bender/2026-01-09 02:56:58</guid>
+		</item>
+		<item>
+			<title>👍Troy Bender - WAPA</title>
+			<description>Troy Bender signed up to testify Pro. They are signed up to represent WAPA.</description>
+			<pubDate>Fri, 09 Jan 2026 02:58:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Troy/Bender/2026-01-09 02:58:13</guid>
+		</item>
+		<item>
+			<title>❓Edward Kim - Washington State Radiological Society</title>
+			<description>Edward Kim signed up to testify Other. They are signed up to represent Washington State Radiological Society.</description>
+			<pubDate>Sun, 11 Jan 2026 08:31:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Edward/Kim/2026-01-11 08:31:45</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health Care &amp; Wellness.</title>
+			<description>First reading, referred to Health Care &amp; Wellness.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>❓Jim Hedrick - Washington State Radiologicla Society</title>
+			<description>Jim Hedrick signed up to testify Other. They are signed up to represent Washington State Radiologicla Society.</description>
+			<pubDate>Mon, 12 Jan 2026 05:16:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jim/Hedrick/2026-01-12 05:16:24</guid>
+		</item>
+		<item>
+			<title>👍Katie Kolan - Washington State Hospital Association (WSHA)</title>
+			<description>Katie Kolan signed up to testify Pro. They are signed up to represent Washington State Hospital Association (WSHA).</description>
+			<pubDate>Mon, 12 Jan 2026 10:55:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katie/Kolan/2026-01-12 10:55:11</guid>
 		</item>
 	</channel>
 </rss>

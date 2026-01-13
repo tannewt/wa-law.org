@@ -178,6 +178,12 @@
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
 
+### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages  👎1 
+* 👎 Mike Ennis
+
+### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+* 👍💵 Andrea Smiley
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
@@ -348,11 +354,15 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+
+## [SB 5943](/bill/2025-26/sb/5943/) - Concerning the use of school impact fees.  👎1 
+* 👎💵 Bill Stauffacher
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes  👎1 
+### [SB 5943](/bill/2023-24/sb/5943/) - Concerning the use of school impact fees.  👎1 
+* 👎💵 Bill Stauffacher
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

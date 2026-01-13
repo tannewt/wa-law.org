@@ -24,6 +24,8 @@
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products 👍2  
 * 👍 Cat Kelly
 
+### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍1  
+
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍2  
 * 👍 Cat Kelly
 

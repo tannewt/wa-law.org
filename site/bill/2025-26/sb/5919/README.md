@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5919 Fire best practices
+Sign up to testify:
+
+#### 5 👍 - Pro
+Testifying:
+* Michael Harris - Franklin County Fire Protection District #3
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -6,4 +6,47 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%202295)
+* 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202295)
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202295)
+* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202295)
+
 ## Meetings
+### Thu 01/15 01:30 PM - Capital Budget (CB): HB 2295 Capital budget, supplemental
+Sign up to testify:
+
+#### 22 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Rachael Myers - Washington Low Income Housing Alliance
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Nora Selander - Western Washington University
+* Eli Lieberman - Washington State Green Bank
+* William Booth - Bow Lake Association of Manfactured Homeowners
+* Superintendent Ingrid Colvard - Washington Association of School Administrators (WASA)
+* Kathryn Opina
+* Joan Huston - Cascadia Technical Academy
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Michone Preston - Habitat for Humanity of Washington State
+* Phedra Elliott - Housing Resources Bainbridge
+* David Buri - Eastern Washington University
+
+#### 4 👎 - Con
+Testifying:
+* Kevin Chang - [University of Washington](/org/university_of_washington/)
+
+#### 11 ❓ - Other
+Testifying:
+* Darrell Jennings - State Board for Community and Technical Colleges
+* Dr. Eric Murray - Cascadia College
+* Alyssa Torrez - South Sound Housing Affordability Partners
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ruth Clemens - City of Aberdeen, City Administrator
+* Scott Korthuis - Mayor, City of Lynden
+* 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
+* Bilan Aden - African Community Housing and Development
+* 💵Connor Haggerty - Washington State University
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)

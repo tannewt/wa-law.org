@@ -13,6 +13,9 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
+* 👍 Doug Hostetter
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  

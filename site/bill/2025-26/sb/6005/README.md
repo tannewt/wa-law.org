@@ -6,4 +6,29 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%206005)
+* 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%206005%20here)
+
 ## Meetings
+### Tue 01/13 04:00 PM - Transportation (TRAN): SB 6005 Transportation budget, supp.
+Sign up to testify:
+
+#### 9 👍 - Pro
+Testifying:
+* Lara Lant - City of Bainbridge Island, City Manager
+* Mike Ennis - Washington Asphalt Pavement Association (WAPA) and ICON Materials, a CRH Company
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Ken Short - AWB
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Jerry VanderWood - Associated General Contractors (AGC)
+
+#### 14 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+* Peter Brady
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Dania Otto - Sakura 39ers Youth Association

@@ -94,7 +94,7 @@ Testifying:
 * Vidal Vincent
 * TODD CHAPUT - [Economic Alliance of Lewis County](/org/economic_alliance_of_lewis_county/)
 * Febe Fekadu - Evergreen Treatment Services REACH
-* Jon Grant - Low Income Housing Institute
+* Jon Grant - [Low Income Housing Institute](/org/low_income_housing_institute/)
 * Nichole Alexander - [Purpose Dignity Action](/org/purpose_dignity_action/)
 * Cameron James - Woodinville Wine Country
 * Chris Mulick - Washington State University

@@ -26,6 +26,15 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
+### [HB 2230](/bill/2025-26/hb/2230/) - Streamlining monitoring and oversight activities related to community residential service business providers. 👍1  
+
+### [HB 2252](/bill/2025-26/hb/2252/) - State historical records 👍2  
+* 👍💵 Stacy Dym
+
+### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
+
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍💵 Stacy Dym
 
@@ -42,11 +51,16 @@
 
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+
+### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍2  
+* 👍💵 Stacy Dym
+
+## [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍1  
+### [SB 5911](/bill/2023-24/sb/5911/) - DCYF/financial stability 👍1  
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 

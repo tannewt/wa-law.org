@@ -19,6 +19,8 @@
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍 Ty Stober
 * 👍 Ty Stober
@@ -38,11 +40,17 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+## [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
+* 👍 Patrick Quinton
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 5884](/bill/2023-24/sb/5884/) - Underutilized property/tax 👍1  
+* 👍 Patrick Quinton
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

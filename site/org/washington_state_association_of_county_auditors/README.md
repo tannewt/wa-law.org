@@ -16,6 +16,9 @@
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
 * 👎💵 Michael Shaw
 
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.   ❓1
+* ❓💵 Michael Shaw
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes.   ❓2
 * ❓💵 Michael Shaw
 

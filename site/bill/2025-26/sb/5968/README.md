@@ -6,4 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205968)
+* 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=SB%205968)
+
 ## Meetings
+### Fri 01/16 10:30 AM - State Government & Elections (SGE): SB 5968 Permitting and licensing
+Sign up to testify:
+
+#### 6 👍 - Pro
+Testifying:
+* Beau Perschbacher - Governor's Office
+* 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other

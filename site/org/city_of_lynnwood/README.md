@@ -23,6 +23,8 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
 * ❓ Karl Almgren
 * ❓ Karl Almgren
@@ -43,10 +45,12 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
+
+## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍2  
+### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  

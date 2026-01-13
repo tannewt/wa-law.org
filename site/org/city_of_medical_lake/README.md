@@ -13,11 +13,17 @@
 * 👍 Sonny Weathers
 * 👍 Terri Cooper
 
-## [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners  👎1 
+### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners  👎1 
+
+### [SB 5901](/bill/2025-26/sb/5901/) - On-base school construction 👍1  
+
+### [SB 5919](/bill/2025-26/sb/5919/) - Fire best practices 👍1  
+
+## [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍1  
 
 ## 2023-24
 
-### [SB 5719](/bill/2023-24/sb/5719/) - Local gov. hearing examiners  👎1 
+### [SB 5928](/bill/2023-24/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍1  
 
 ## [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction 👍2  
 * 👍 Terri Cooper

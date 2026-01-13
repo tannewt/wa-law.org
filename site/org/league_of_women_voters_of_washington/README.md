@@ -88,6 +88,9 @@
 
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
+* 👍 Alison McCaffree
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍2  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  

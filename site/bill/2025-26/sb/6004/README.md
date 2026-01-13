@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 6004 Electric/public contracts
+Sign up to testify:
+
+#### 5 👍 - Pro
+Testifying:
+* Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
+
+#### 25 👎 - Con
+Testifying:
+* Cathryn Chudy - Oregon ConservancyFoundation
+* Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
+* Roger Lippman
+* Jim Lazar - self
+
+#### 0 ❓ - Other

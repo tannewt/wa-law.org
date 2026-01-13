@@ -7,3 +7,24 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5828 College scholarships/private
+Sign up to testify:
+
+#### 912 👍 - Pro
+Testifying:
+* Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Katia Passerini - President, Gonzaga University
+* Hector Marmolejo-Avila - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Juleana Salazar Sandoval - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Nex Sherbahn - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Diamond Casiano-Reyes - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Lusero Ramirez - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Shariah Bell - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Treva Esmailka - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Rjay Barsh - Gonzaga
+* Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+
+#### 6 👎 - Con
+
+#### 1 ❓ - Other

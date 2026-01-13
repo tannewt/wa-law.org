@@ -116,6 +116,29 @@
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍2  
 
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb. 👍1  
+
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
+
+### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+
+### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Kati Durkin
+
+### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
+
+### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
@@ -199,13 +222,16 @@
 ### [SB 5807](/bill/2025-26/sb/5807/) - Health plan incentives  👎1 
 * 👎💵 Kurt Spiegel
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 * 👍 Ashley Fueston
+
+### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+
+## [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍1  
-* 👍 Ashley Fueston
+### [SB 5972](/bill/2023-24/sb/5972/) - Correctional officers/arb. 👍1  
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2230 DD res. service providers
+Sign up to testify:
+
+#### 19 👍 - Pro
+Testifying:
+* Scott Livengood - [Community Residential Services Association](/org/community_residential_services_association/)
+* Jennifer Lengyel - [Community Residential Services Association](/org/community_residential_services_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

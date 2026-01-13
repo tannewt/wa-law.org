@@ -6,4 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205841)
+
 ## Meetings
+### Tue 01/13 08:00 AM - Early Learning & K-12 Education (EDU): SB 5841 Financial aid applications
+Sign up to testify:
+
+#### 8 👍 - Pro
+Testifying:
+* 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
+
+#### 5 👎 - Con
+Testifying:
+* 💵Marie Sullivan - Eastern Washington Schools Quality Coalition
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

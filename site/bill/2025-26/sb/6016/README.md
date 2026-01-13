@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6016 Aquifer recharge areas
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 71 👎 - Con
+Testifying:
+* Ronda Larson Kramer
+
+#### 0 ❓ - Other

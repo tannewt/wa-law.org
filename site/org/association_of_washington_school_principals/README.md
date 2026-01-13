@@ -43,8 +43,9 @@
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  ❓1
 * ❓💵 Roz Thompson
+* 👍💵 Roz Thompson
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
@@ -59,6 +60,8 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍💵 Casey Brown
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -131,6 +134,9 @@
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍2  
 
 ### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten   ❓1
+
+### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications   ❓1
+* ❓💵 Roz Thompson
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 

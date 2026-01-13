@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5948/</link>
 		<description>Updates about SB 5948</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Dec 2025 11:06:42 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,20 @@
 			<pubDate>Tue, 30 Dec 2025 11:06:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://conservativeladiesofwa.com/wa-universal-healthcare-bill-package/#:~:text=SB%205948</guid>
+		</item>
+		<item>
+			<title>The start of session - Sen. Bob Hasegawa</title>
+			<description>News article "The start of session - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Fri, 09 Jan 2026 22:43:47 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2026/01/09/the-start-of-session/#:~:text=SB%205948</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health &amp; Long-Term Care.</title>
+			<description>First reading, referred to Health &amp; Long-Term Care.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Health &amp; Long-Term Care.</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/13 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2293 Law enf. training/foreign
+Sign up to testify:
+
+#### 9 👍 - Pro
+
+#### 5 👎 - Con
+
+#### 0 ❓ - Other

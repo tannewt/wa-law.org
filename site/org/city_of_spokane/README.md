@@ -20,6 +20,10 @@
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
@@ -43,11 +47,21 @@
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍2  
+* 👍 Council Member Kitty Kliztke
+* 👍 Spencer Gardner
+
+## [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
+* 👍💵 Paul Dillon
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 5933](/bill/2023-24/sb/5933/) - Overdose mapping information 👍1  
+* 👍💵 Paul Dillon
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -20,9 +20,13 @@
 
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍2  
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
+
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
@@ -34,6 +38,8 @@
 ### [HB 2047](/bill/2025-26/hb/2047/) - Employee ownership program  👎2 
 * 👎 John McNamara
 
+### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Victoria OBanion
 
@@ -44,13 +50,24 @@
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
-## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍3  
+### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍3  
 * 👍 Victoria O'Banion
+
+### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
+
+### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+
+### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
+
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+
+## [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
 
 ## 2023-24
 
-### [SB 5711](/bill/2023-24/sb/5711/) - Self-service storage/tax 👍3  
-* 👍 Victoria O'Banion
+### [SB 6028](/bill/2023-24/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
 
 ### [HB 1743](/bill/2023-24/hb/1743/) - Employee ownership 👍1  
 * 👍 John McNamara

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2317 Early learning licensing
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

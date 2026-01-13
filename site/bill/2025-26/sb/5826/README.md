@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5826 Postsecondary/med. abortion
+Sign up to testify:
+
+#### 94 👍 - Pro
+
+#### 251 👎 - Con
+Testifying:
+* Theresa Schrempp
+* Eric Lundberg
+* 💵Jean Hill - Washington State Catholic Conference
+
+#### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5957/</link>
 		<description>Updates about SB 5957</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Dec 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 01:24:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,29 @@
 			<pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-31/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Jim Theofelis - NorthStar Advocates</title>
+			<description>Jim Theofelis signed up to testify Pro. They are signed up to represent NorthStar Advocates.</description>
+			<pubDate>Wed, 07 Jan 2026 10:56:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Theofelis/2026-01-07 10:56:33</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Gage Spicer - Office Of Homeless Youth Advisory Committee</title>
+			<description>Gage Spicer signed up to testify Pro. They are signed up to represent Office Of Homeless Youth Advisory Committee.</description>
+			<pubDate>Mon, 12 Jan 2026 01:24:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gage/Spicer/2026-01-12 01:24:07</guid>
 		</item>
 	</channel>
 </rss>

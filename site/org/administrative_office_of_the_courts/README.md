@@ -34,6 +34,9 @@
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 * 👍 Brittany Gregory
 
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓ Christopher Stanley
+
 ### [SB 5133](/bill/2025-26/sb/5133/) - Sentencing guide/caregivers 👍1  
 * 👍 Brittany Gregory
 
@@ -48,15 +51,19 @@
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 Haily Perkins
 
-## [SB 5522](/bill/2025-26/sb/5522/) - State capitol campus 👍2  
+### [SB 5522](/bill/2025-26/sb/5522/) - State capitol campus 👍2  
 * 👍 Christopher Stanley
 * 👍 Brittany Gregory
+
+### [SB 5865](/bill/2025-26/sb/5865/) - Concerning garnishment forms. 👍1  
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍 Christopher Stanley
 
 ## 2023-24
 
-### [SB 5522](/bill/2023-24/sb/5522/) - State capitol campus 👍2  
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
 * 👍 Christopher Stanley
-* 👍 Brittany Gregory
 
 ### [HB 1023](/bill/2023-24/hb/1023/) - Wire tap reports/courts 👍2  
 * 👍 Brittany Gregory

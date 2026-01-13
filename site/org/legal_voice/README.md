@@ -12,6 +12,10 @@
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 * 👍 Yvette Magana
 
+### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
+
+### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
+
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 * 👍💵 Yvette Maganya
 
@@ -23,11 +27,13 @@
 
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
-## [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
+### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
+
+## [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion. 👍1  
 
 ## 2023-24
 
-### [SB 5632](/bill/2023-24/sb/5632/) - Confidentiality/interstate 👍1  
+### [SB 5826](/bill/2023-24/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion. 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

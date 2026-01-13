@@ -62,6 +62,8 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
@@ -99,17 +101,16 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet
 
-## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍4  
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍4  
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
+
+## [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ## 2023-24
 
-### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍4  
-* 👍💵 Dan Bertolet
-* 👍💵 Dan Bertolet
-* 👍💵 Dan Bertolet
+### [SB 5885](/bill/2023-24/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet

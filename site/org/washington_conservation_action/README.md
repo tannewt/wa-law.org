@@ -55,6 +55,19 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
 
+### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍2  
+* 👍 Julian Santos
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+* 👍 Julian Santos
+
+### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+* 👎💵 Darcy Nonemacher
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
@@ -106,12 +119,18 @@
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 Clifford Traisman
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎4 
+### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎4 
+* 👎💵 Darcy Nonemacher
+
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
+* 👍 Julian Santos
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎4 
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  

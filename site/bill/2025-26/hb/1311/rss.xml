@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1311/</link>
 		<description>Updates about HB 1311</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 10:45:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -227,6 +227,13 @@
 			<pubDate>Fri, 21 Feb 2025 10:45:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wenatcheeworld.com/news/local/legislative-watch-wa-lawmakers-push-for-local-wolf-management-debate-state-flag-redesign/article_3d740e02-eefe-11ef-9dd0-83930e3d1e9d.html#:~:text=House%20Bill%201311</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

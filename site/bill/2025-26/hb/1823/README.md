@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 04:00 PM - Transportation (TR): HB 1823 Transp. improvement board
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1823 Transp. improvement board
 #### 3 👍 - Pro
 Testifying:

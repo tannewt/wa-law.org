@@ -10,6 +10,9 @@
 * 👍 Anne Paxton
 * 👍 Anne Paxton
 
+### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+* 👍 Anne Paxton
+
 ### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍2  
 * 👍 Eric Gonzalez Alfaro
 * 👍 Anne Paxton

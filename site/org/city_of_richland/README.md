@@ -15,11 +15,22 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
-## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍2  
+* 👍 Joe Schiessl
+
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
+### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
+
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+## [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 
 ## 2023-24
 
-### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration  👎1 
+### [SB 6004](/bill/2023-24/sb/6004/) - Electric/public contracts 👍1  
 
 ### [HB 1173](/bill/2023-24/hb/1173/) - Light pollution 👍1  
 

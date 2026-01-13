@@ -60,6 +60,18 @@
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences   ❓1
 
+### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍4  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation. 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Morgan Hickel
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental  👎1 
+* 👎 Kevin Chang
+
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
@@ -96,11 +108,23 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
 * ❓ Joe Dacca
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍3  
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍3  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Morgan Hickel
+
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental  👎1 
+* 👎 Kevin Chang
+
+## [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍3  
+### [SB 6008](/bill/2023-24/sb/6008/) - Residential energy storage 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/15 04:00 PM - Appropriations (APP): HB 2125 Retirement funds/expenses
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Seth Miller - Department of Retirement Systems

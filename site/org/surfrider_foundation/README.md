@@ -15,6 +15,12 @@
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 * 👍 Pete Steelquist
 
+### [HB 2212](/bill/2025-26/hb/2212/) - Reducing microplastic pollution from washing machines. 👍1  
+
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎1 
+
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
@@ -25,13 +31,16 @@
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍3  
 * 👍💵 Peter Steelquist
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Peter Steelquist
+
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+
+## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
-* 👍💵 Peter Steelquist
+### [SB 5975](/bill/2023-24/sb/5975/) - Safe cookware  👎1 
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍6  
 * 👍💵 Peter Steelquist

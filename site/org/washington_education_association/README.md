@@ -182,6 +182,8 @@
 
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
+### [HB 1496](/bill/2025-26/hb/1496/) - Health care information 👍1  
+
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
@@ -242,6 +244,8 @@
 
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍2  
 
+### [HB 1683](/bill/2025-26/hb/1683/) - School director districts 👍1  
+
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities 👍1  
@@ -256,8 +260,9 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍2  
 
-### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  ❓1
 * ❓ Jared Mason-Gere
+* 👍💵 Nasue Nishida
 
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍3  
 
@@ -317,6 +322,39 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍3  
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
+
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+
+### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases. 👍1  
+
+### [HB 2124](/bill/2025-26/hb/2124/) - Concerning the threshold for payment of a lump sum retirement allowance in lieu of a monthly benefit. 👍1  
+
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
+
+### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
+
+### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
+
+### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
+
+### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots. 👍1  
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+
+### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
+* 👎💵 Larry Delaney
+
+### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
+
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -615,7 +653,8 @@
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
-### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍2  
+* 👍💵 Julie Salvi
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
@@ -662,6 +701,20 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
+
+### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
+
+### [SB 5860](/bill/2025-26/sb/5860/) - Concerning school board compensation. 👍1  
+
+### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
+* 👍 Jared Mason-Gere
+
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+* 👎💵 Larry Delaney
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

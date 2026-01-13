@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5975 Safe cookware
+Sign up to testify:
+
+#### 9 👍 - Pro
+Testifying:
+* Charlie Brown - Assn. of Home Appliance Manufacturers and Cookware Sustainabiity Alliance
+* Jacob Casssady - Association of Home Appliance Manufacturers
+* Steve Burns - Cookware Sustainability Alliance
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+
+#### 76 👎 - Con
+Testifying:
+* Katie Fellows - Hazardous Waste Management Program
+
+#### 0 ❓ - Other

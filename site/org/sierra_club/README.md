@@ -14,6 +14,11 @@
 * 👍 Susan Kane-Ronning
 * 👍 Susan Kane-Ronning
 
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
+* 👎 Kathleen M. Saul
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program  👎1 
@@ -25,13 +30,20 @@
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 
-## [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  
+### [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  
 * 👍 Tim Gould
+
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
+* 👎 Kathleen M. Saul
+
+### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts  👎1 
+* 👎 Kathleen M. Saul
+
+## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
 
 ## 2023-24
 
-### [SB 5667](/bill/2023-24/sb/5667/) - Intercity passenger rail 👍1  
-* 👍 Tim Gould
+### [SB 6056](/bill/2023-24/sb/6056/) - Utility service vehicles  👎1 
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Jesse Piedfort

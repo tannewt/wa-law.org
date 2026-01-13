@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5981 340B drug pricing program
+Sign up to testify:
+
+#### 59 👍 - Pro
+Testifying:
+* Joseph Finley - Confederated Tribes of the Colville Reservation
+
+#### 50 👎 - Con
+Testifying:
+* Kalvin Pugh - Community Access National Network
+
+#### 0 ❓ - Other

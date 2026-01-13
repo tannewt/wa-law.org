@@ -49,6 +49,11 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+* 👍 Preston Peck
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Alex MacBain
 * 👍 Alex MacBain
@@ -103,11 +108,15 @@
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 * 👎 Carrie Wilhelme
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+## [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+* 👍 Preston Peck
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 5965](/bill/2023-24/sb/5965/) - Retail bags 👍1  
+* 👍 Preston Peck
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
