@@ -26,6 +26,9 @@
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
 
+### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍1  
+* 👍💵 Collin Bannister
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Isela Bonilla
 
@@ -43,13 +46,15 @@
 * 👎 Heba Qatrani
 * 👍💵 Isela Bonilla
 
-## [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍2  
+## [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍3  
 * 👍💵 Sienna Jarrard
+* 👍💵 Collin Bannister
 
 ## 2023-24
 
-### [SB 5841](/bill/2023-24/sb/5841/) - Financial aid applications 👍2  
+### [SB 5841](/bill/2023-24/sb/5841/) - Financial aid applications 👍3  
 * 👍💵 Sienna Jarrard
+* 👍💵 Collin Bannister
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

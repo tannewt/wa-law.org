@@ -10,11 +10,12 @@
 ### Thu 01/15 04:00 PM - Appropriations (APP): HB 2160 SEBB membership/second year
 Sign up to testify:
 
-#### 365 👍 - Pro
+#### 418 👍 - Pro
 Testifying:
 * Peter Henry
 * Deborah Nissen
+* Mike Mielke
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2219/</link>
 		<description>Updates about HB 2219</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 03:52:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,22 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202219</guid>
+		</item>
+		<item>
+			<title>👍Jordan Crawley - SEIU 925 / Alki Beach Academy</title>
+			<description>Jordan Crawley signed up to testify Pro. They are signed up to represent SEIU 925 / Alki Beach Academy.</description>
+			<pubDate>Tue, 13 Jan 2026 03:50:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jordan/Crawley/2026-01-13 03:50:55</guid>
+		</item>
+		<item>
+			<title>👍💵Erin Haick - SEIU 925</title>
+			<description>Erin Haick signed up to testify Pro. They are signed up to represent SEIU 925. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 03:52:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erin/Haick/2026-01-13 03:52:13</guid>
 		</item>
 	</channel>
 </rss>

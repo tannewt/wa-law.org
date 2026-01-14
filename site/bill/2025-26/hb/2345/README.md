@@ -10,15 +10,18 @@
 ### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2345 Paid leave contributions
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Joe Kendo - Washington State Labor Council, AFL-CIO
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵James Crandall - AWB

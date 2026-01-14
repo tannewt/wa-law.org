@@ -8,18 +8,21 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2281 State-tribal relationship
-Sign up to testify:
-
-#### 94 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Robert de los Angeles - Snoqualmie Indian Tribe
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 * Robert de los Angeles - [Snoqualmie Tribe](/org/snoqualmie_tribe/)
+* Jack Fiander - Sauk-Suiattle Indian Tribe
 
-#### 56 👎 - Con
+#### 82 👎 - Con
 Testifying:
 * Matt Hawkins - Concerned citizen
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* JOHN WORTHINGTON
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous

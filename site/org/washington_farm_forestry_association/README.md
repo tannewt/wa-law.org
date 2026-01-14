@@ -15,13 +15,17 @@
 
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
+
 ### [SB 5444](/bill/2025-26/sb/5444/) - Special license plates 👍3  ❓1
 
-## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍2  
+### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍2  
+
+## [SB 5965](/bill/2025-26/sb/5965/) - Retail bags  👎1 
 
 ## 2023-24
 
-### [SB 5567](/bill/2023-24/sb/5567/) - Natural resources careers 👍2  
+### [SB 5965](/bill/2023-24/sb/5965/) - Retail bags  👎1 
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
 

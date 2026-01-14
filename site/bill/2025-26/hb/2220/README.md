@@ -10,14 +10,17 @@
 ### Thu 01/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2220 CJTC oversight
 Sign up to testify:
 
-#### 25 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
 
-#### 70 👎 - Con
+#### 130 👎 - Con
 Testifying:
 * Amy McColm
 * Martina Morris - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kimberly Bliss - Washington State Criminal Justice Training Commission

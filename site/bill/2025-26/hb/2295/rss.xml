@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2295/</link>
 		<description>Updates about HB 2295</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 12:26:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 03:41:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,13 +132,6 @@
 			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202295</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202295</guid>
 		</item>
 		<item>
@@ -250,6 +243,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/David/Buri/2026-01-12 12:26:53</guid>
+		</item>
+		<item>
+			<title>❓Ali Querin - Great Peninsula Conservancy</title>
+			<description>Ali Querin signed up to testify Other. They are signed up to represent Great Peninsula Conservancy.</description>
+			<pubDate>Tue, 13 Jan 2026 03:39:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Ali/Querin/2026-01-13 03:39:52</guid>
+		</item>
+		<item>
+			<title>❓Daniel Hoult - Outdoor Discovery Project</title>
+			<description>Daniel Hoult signed up to testify Other. They are signed up to represent Outdoor Discovery Project.</description>
+			<pubDate>Tue, 13 Jan 2026 03:41:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Daniel/Hoult/2026-01-13 03:41:54</guid>
 		</item>
 	</channel>
 </rss>

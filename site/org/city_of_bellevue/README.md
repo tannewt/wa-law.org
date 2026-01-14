@@ -87,6 +87,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓3
@@ -150,15 +152,19 @@
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
+
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
-## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
+
+## [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ## 2023-24
 
-### [SB 5796](/bill/2023-24/sb/5796/) - Payroll expense tax  👎1 
+### [SB 5885](/bill/2023-24/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

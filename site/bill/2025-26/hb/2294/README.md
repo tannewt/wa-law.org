@@ -10,10 +10,12 @@
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2294 Use restrictions/food, med. 
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 
-#### 416 👎 - Con
+#### 633 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Brandon Houskeeper - NW Grocery Retail Association

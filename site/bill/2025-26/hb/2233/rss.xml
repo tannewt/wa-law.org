@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2233/</link>
 		<description>Updates about HB 2233</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 09:14:29 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 12:24:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,13 +14,6 @@
 			<pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-31/Prefiled for introduction.</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202233</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
@@ -59,6 +52,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Kerry/Dolan/2026-01-12 09:14:29</guid>
+		</item>
+		<item>
+			<title>❓💵Travis Dutton - Washington State Association of Counties</title>
+			<description>Travis Dutton signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 05:19:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Travis/Dutton/2026-01-13 05:19:32</guid>
+		</item>
+		<item>
+			<title>👎💵Bill Stauffacher - American Forest and Paper Association</title>
+			<description>Bill Stauffacher signed up to testify Con. They are signed up to represent American Forest and Paper Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 07:58:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Stauffacher/2026-01-13 07:58:10</guid>
+		</item>
+		<item>
+			<title>👎Erin Hass - American Recyclable Plastic Bag Alliance (ARPBA)</title>
+			<description>Erin Hass signed up to testify Con. They are signed up to represent American Recyclable Plastic Bag Alliance (ARPBA).</description>
+			<pubDate>Tue, 13 Jan 2026 12:13:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Erin/Hass/2026-01-13 12:13:17</guid>
+		</item>
+		<item>
+			<title>👎Shea Logan - Novolex</title>
+			<description>Shea Logan signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/novolex/"&gt;Novolex&lt;/a&gt;.</description>
+			<pubDate>Tue, 13 Jan 2026 12:24:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shea/Logan/2026-01-13 12:24:16</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2090/</link>
 		<description>Updates about HB 2090</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 10:26:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 12:39:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_78ec4282-6d08-4a2f-9515-a0ee67568ff4.html#:~:text=House%20Bill%202090</guid>
 		</item>
 		<item>
-			<title>👎Roger Lippman - Mothers for Nuclear</title>
+			<title>👎Roger Lippman - General Matter, LLC</title>
 			<description>Roger Lippman signed up to testify Con.</description>
 			<pubDate>Thu, 08 Jan 2026 03:41:59 GMT</pubDate>
 			<category>testifier</category>
@@ -109,13 +109,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Cathryn/Chudy/2026-01-09 12:05:12</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202090</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
@@ -218,6 +211,54 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Lisa/Ganuelas/2026-01-12 10:26:51</guid>
+		</item>
+		<item>
+			<title>👎Rob Briggs - Board of Trustees, Confederated Tribes of the Umatilla Indian Reservation</title>
+			<description>Rob Briggs signed up to testify Con.</description>
+			<pubDate>Tue, 13 Jan 2026 01:20:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rob/Briggs/2026-01-13 01:20:20</guid>
+		</item>
+		<item>
+			<title>👍Scott Aldridge - Mothers for Nuclear</title>
+			<description>Scott Aldridge signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Jan 2026 04:49:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Aldridge/2026-01-13 04:49:48</guid>
+		</item>
+		<item>
+			<title>👎💵James Moschella - Columbia Riverkeeper</title>
+			<description>James Moschella signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/columbia_riverkeeper/"&gt;Columbia Riverkeeper&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 08:04:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Moschella/2026-01-13 08:04:51</guid>
+		</item>
+		<item>
+			<title>❓Todd Myers - Washington Policy Center</title>
+			<description>Todd Myers signed up to testify Other. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Tue, 13 Jan 2026 08:06:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Todd/Myers/2026-01-13 08:06:15</guid>
+		</item>
+		<item>
+			<title>👎Virginia Lohr - Columbia Riverkeeper</title>
+			<description>Virginia Lohr signed up to testify Con.</description>
+			<pubDate>Tue, 13 Jan 2026 10:36:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Virginia/Lohr/2026-01-13 10:36:49</guid>
+		</item>
+		<item>
+			<title>👍Chris Green - General Matter, LLC</title>
+			<description>Chris Green signed up to testify Pro. They are signed up to represent General Matter, LLC.</description>
+			<pubDate>Tue, 13 Jan 2026 12:39:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Green/2026-01-13 12:39:02</guid>
 		</item>
 	</channel>
 </rss>

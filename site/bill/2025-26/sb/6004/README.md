@@ -10,11 +10,11 @@
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 6004 Electric/public contracts
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
 
-#### 25 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon ConservancyFoundation
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)

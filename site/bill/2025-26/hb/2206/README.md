@@ -7,21 +7,20 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202206)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202206)
 
 ## Meetings
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2206 Uniformed & overseas voting
-Sign up to testify:
-
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 289 👎 - Con
+#### 672 👎 - Con
 Testifying:
 * Sharon Hanek
 * LORILEE GATES
 * Sharon Hanek
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* C.Jay Coles - [Verified Voting](/org/verified_voting/)

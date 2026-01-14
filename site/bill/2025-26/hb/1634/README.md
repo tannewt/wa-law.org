@@ -16,9 +16,7 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Education (ED): HB 1634 Behavioral health/schools
-Sign up to testify:
-
-#### 48 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Taanvi Arekapudi - Uplift Teens Today Nonprofit
 * AYANNA COLMAN - WASHINGTON STATE PTA
@@ -27,16 +25,20 @@ Testifying:
 * MIsha Cherniske - Office of Superintendent of Public Instruction
 * Mabel Thackeray - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Paree Raval
+* Erin Wick
+* Kirsten Williams
+* Marn Frank - N/A
 
-#### 946 👎 - Con
+#### 1259 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - The Citizens Commission on Human Rights
 * John Axtell
 * Julian Loaiza
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Michelle Price - Assoc of Educational Service Districts (AESD)
+* Amy Cannava - Washington State Association of School Psychologists (WSASP)
 
 ### Mon 02/10 01:30 PM - Education (ED): HB 1634 Behavioral health/schools
 #### 218 👍 - Pro

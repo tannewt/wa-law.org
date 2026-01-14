@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5933/</link>
 		<description>Updates about SB 5933</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 10:58:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 11:59:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Paul/Dillon/2026-01-12 10:58:35</guid>
+		</item>
+		<item>
+			<title>👍Emma Shampain - Vashon Alliance to Reduce Substance Abuse (VARSA)</title>
+			<description>Emma Shampain signed up to testify Pro. They are signed up to represent Vashon Alliance to Reduce Substance Abuse (VARSA).</description>
+			<pubDate>Tue, 13 Jan 2026 11:59:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emma/Shampain/2026-01-13 11:59:33</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2173/</link>
 		<description>Updates about HB 2173</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 10:28:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 23:58:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,13 +29,6 @@
 			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/09/mocc-statement-on-uw-study-regarding-agency-collaboration-with-ice/#:~:text=HB%202173</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202173</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
@@ -120,6 +113,61 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nathan/Olson/2026-01-12 10:28:21</guid>
+		</item>
+		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Mon, 12 Jan 2026 10:50:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2026-01-12 10:50:28</guid>
+		</item>
+		<item>
+			<title>👍Preston Dwoskin - Governor's Office</title>
+			<description>Preston Dwoskin signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Jan 2026 01:19:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Preston/Dwoskin/2026-01-13 01:19:15</guid>
+		</item>
+		<item>
+			<title>👎Sharon Damoff - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Sharon Damoff signed up to testify Con.</description>
+			<pubDate>Tue, 13 Jan 2026 01:29:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Damoff/2026-01-13 01:29:02</guid>
+		</item>
+		<item>
+			<title>👍Mercedes Gonzalez - Governor's Office</title>
+			<description>Mercedes Gonzalez signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Jan 2026 02:08:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mercedes/Gonzalez/2026-01-13 02:08:15</guid>
+		</item>
+		<item>
+			<title>❓Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs</title>
+			<description>Jeff DeVere signed up to testify Other. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs.</description>
+			<pubDate>Tue, 13 Jan 2026 08:14:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/DeVere/2026-01-13 08:14:18</guid>
+		</item>
+		<item>
+			<title>👍Kristin Wall - Governor's Office</title>
+			<description>Kristin Wall signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Jan 2026 12:27:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristin/Wall/2026-01-13 12:27:27</guid>
+		</item>
+		<item>
+			<title>Proposed ban on police face coverings gains momentum in WA Legislature • Washington State Standard</title>
+			<description>News article "Proposed ban on police face coverings gains momentum in WA Legislature • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 13 Jan 2026 23:58:29 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/01/13/proposed-ban-on-police-face-coverings-gains-momentum-in-wa-legislature/#:~:text=identical%20version%20of%20the%20legislation%20in%20the%20House</guid>
 		</item>
 	</channel>
 </rss>

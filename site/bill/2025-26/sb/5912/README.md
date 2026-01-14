@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5912 Indigent defense task force
-Sign up to testify:
-
-#### 29 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Michael Moran - 1. Confederated Tribes of the Chehalis Reservation 2. Confederated Tribes of the Colville Reserv.

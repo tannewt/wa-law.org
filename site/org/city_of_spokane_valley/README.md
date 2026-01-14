@@ -79,6 +79,8 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
+### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍1  
+
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
@@ -99,7 +101,19 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  ❓1
 
+### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.  👎1 
+
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority  👎2 
+
+### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
+
+### [HB 2168](/bill/2025-26/hb/2168/) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. 👍1  
+
+### [HB 2203](/bill/2025-26/hb/2203/) - Creating the offense of reckless interference with emergency operations.  👎1 
+
+### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
+
+### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
@@ -129,6 +143,8 @@
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍2  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
@@ -170,11 +186,27 @@
 
 ### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 
-## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍1  
+
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board. 👍1  
+
+### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing.  👎1 
+
+### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.  👎1 
+
+## [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
 
 ## 2023-24
 
-### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
+### [SB 6009](/bill/2023-24/sb/6009/) - Administrative appeals   ❓1
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

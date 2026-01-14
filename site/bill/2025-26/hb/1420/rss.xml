@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1420/</link>
 		<description>Updates about HB 1420</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 12:49:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 12:34:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,13 @@
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
+			<title>Referred to Environment &amp; Energy.</title>
+			<description>Referred to Environment &amp; Energy.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
 			<title>The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats</title>
 			<description>News article "The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
@@ -199,6 +206,54 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Darbi/Gottlieb/2026-01-12 12:49:42</guid>
+		</item>
+		<item>
+			<title>👎Chelsea Murtha - American Apparel &amp; Footwear Association</title>
+			<description>Chelsea Murtha signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/american_apparel_&amp;_footwear_association/"&gt;American Apparel &amp; Footwear Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 13 Jan 2026 01:37:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Chelsea/Murtha/2026-01-13 01:37:45</guid>
+		</item>
+		<item>
+			<title>👎💵Crystal Leatherman - Washington Retail Association</title>
+			<description>Crystal Leatherman signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_retail_association/"&gt;Washington Retail Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 01:37:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Crystal/Leatherman/2026-01-13 01:37:45</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 01:37:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2026-01-13 01:37:45</guid>
+		</item>
+		<item>
+			<title>👎Jessica Franken Franken - Secondary Materials and Recycled Textiles Association (SMART)</title>
+			<description>Jessica Franken Franken signed up to testify Con. They are signed up to represent Secondary Materials and Recycled Textiles Association (SMART).</description>
+			<pubDate>Tue, 13 Jan 2026 04:11:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jessica Franken/Franken/2026-01-13 04:11:51</guid>
+		</item>
+		<item>
+			<title>👍McKenna Morrigan - Seattle Public Utilities</title>
+			<description>McKenna Morrigan signed up to testify Pro. They are signed up to represent Seattle Public Utilities.</description>
+			<pubDate>Tue, 13 Jan 2026 09:35:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/McKenna/Morrigan/2026-01-13 09:35:17</guid>
+		</item>
+		<item>
+			<title>👍Amanda Miller - South King Tool Library</title>
+			<description>Amanda Miller signed up to testify Pro. They are signed up to represent South King Tool Library.</description>
+			<pubDate>Tue, 13 Jan 2026 12:34:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/Miller/2026-01-13 12:34:39</guid>
 		</item>
 	</channel>
 </rss>

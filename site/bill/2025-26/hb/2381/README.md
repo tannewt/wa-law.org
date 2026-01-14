@@ -10,7 +10,7 @@
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2381 Low-rise res. buildings
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
 
 #### 0 👎 - Con
 

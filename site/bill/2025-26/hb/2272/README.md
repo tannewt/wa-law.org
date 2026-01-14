@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Environment & Energy (ENVI): HB 2272 Ski areas and winter sports
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Brian Considine - WA State Parks, External and Legislative Relations Director
 
 #### 1 👎 - Con
 

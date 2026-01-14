@@ -10,14 +10,18 @@
 ### Wed 01/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5871 Vehicle glass repair claims
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Tom Tucker
 * Lauren Burnes - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
+* 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Andrew Anderson - Northwest Glass Pros
+* Gary Hart - Independent Glass Association
+* Tom Grim - All-Star Auto Glass LLC
 
 #### 1 ❓ - Other

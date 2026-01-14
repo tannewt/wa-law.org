@@ -9,6 +9,9 @@
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits 👍1  
 * 👍💵 Brynn Brady
 
+### [HB 2154](/bill/2025-26/hb/2154/) - Conservation district land  👎1 
+* 👎 Tom Salzer
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Tom Salzer
 

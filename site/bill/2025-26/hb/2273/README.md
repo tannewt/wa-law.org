@@ -14,7 +14,7 @@ Sign up to testify:
 Testifying:
 * Chris Hellstern - AIA Washington
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 

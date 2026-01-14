@@ -11,16 +11,14 @@
 
 ## Meetings
 ### Tue 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 2264 Unemployment ins./layoffs
-Sign up to testify:
-
-#### 42 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Anne Paxton
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * Rory O'Sullivan - Washington Employment Benefits Advocates
 * Timothy Fiser
 
-#### 28 👎 - Con
+#### 35 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

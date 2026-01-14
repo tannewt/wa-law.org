@@ -9,7 +9,6 @@
 
 ## 📰 Articles
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201170)
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%201170)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%201170)
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations#:~:text=House%20Bill%201170)
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations/#:~:text=House%20Bill%201170)
@@ -18,16 +17,21 @@
 ### Wed 01/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1170 AI content notices
 Sign up to testify:
 
-#### 35 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * Yale Moon
 
-#### 3 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression
+* 💵Amy Harris - WA TECHNOLOGY INDUSTRY ASSN
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Rose Feliciano - TechNet
+* Sumayo Hassan - Washington State Attorney General's Office
 
 ### Fri 01/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1170 AI content notices
 #### 23 👍 - Pro

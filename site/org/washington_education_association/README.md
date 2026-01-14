@@ -335,6 +335,8 @@
 
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
 
+### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
+
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
 
 ### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
@@ -620,7 +622,7 @@
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 
-### [SB 5574](/bill/2025-26/sb/5574/) - History instruction   ❓1
+### [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍1  ❓1
 * ❓💵 Nasue Nishida
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
@@ -710,6 +712,8 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 * 👍 Jared Mason-Gere
+
+### [SB 5956](/bill/2025-26/sb/5956/) - Addressing artificial intelligence, student discipline, and surveillance in public schools. 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 

@@ -13,10 +13,11 @@
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5901 On-base school construction
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Kimberly Headrick - Medical Lake School District
+* Charlie Brown - [Clover Park School District](/org/clover_park_school_district/)
 
 #### 0 👎 - Con
 

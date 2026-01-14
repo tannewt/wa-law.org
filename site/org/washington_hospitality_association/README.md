@@ -125,6 +125,9 @@
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
+### [HB 2120](/bill/2025-26/hb/2120/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
+* ❓ Jeff Gunn
+
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
@@ -133,6 +136,9 @@
 ### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation.  👎1 
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
+
+### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
+* 👍 Sean DeWitz
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
@@ -226,11 +232,13 @@
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
 * ❓ Kerry Dolan
 
-## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
+
+## [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags 👍1  
 
 ## 2023-24
 
-### [SB 5975](/bill/2023-24/sb/5975/) - Safe cookware 👍1  
+### [SB 6030](/bill/2023-24/sb/6030/) - Plastic carryout bags 👍1  
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

@@ -7,14 +7,11 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202243)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202243)
 
 ## Meetings
 ### Tue 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 2243 Workers' comp./PTs & OTs
-Sign up to testify:
-
-#### 217 👍 - Pro
+#### 277 👍 - Pro
 Testifying:
 * 💵Melissa Johnson - APTA Washington
 * Susanne Michaud - APTA Washington
@@ -23,7 +20,7 @@ Testifying:
 * Payton Walling - Summit Rehabilitation Associates
 * Daniel Beeman - PhysioWorks
 
-#### 78 👎 - Con
+#### 80 👎 - Con
 Testifying:
 * 💵Rose Gundersen - WA Retail Association
 * 💵Rose Gundersen - WA Retail Association

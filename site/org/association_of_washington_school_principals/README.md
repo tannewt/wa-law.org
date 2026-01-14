@@ -125,8 +125,9 @@
 
 ### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 
-### [SB 5574](/bill/2025-26/sb/5574/) - History instruction   ❓1
+### [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍1  ❓1
 * ❓💵 Casey Brown
+* 👍💵 Roz Thompson
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
 * ❓💵 Roz Thompson

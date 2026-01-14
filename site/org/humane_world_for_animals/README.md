@@ -7,7 +7,7 @@
 
 ### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets 👍1  
 
-### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍1  
+### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍3  
 * 👍💵 Stephanie Hillman
 
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  

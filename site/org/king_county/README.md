@@ -25,6 +25,12 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
+
+### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍2  
+
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
@@ -45,11 +51,13 @@
 
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
+
+## [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎1 
+### [SB 5965](/bill/2023-24/sb/5965/) - Retail bags 👍1  
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 * 👍 Bradley Finegood

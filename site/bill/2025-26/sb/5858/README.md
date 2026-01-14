@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Early Learning & K-12 Education (EDU): SB 5858 Pupil transp. safety net
-Sign up to testify:
-
-#### 100 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Michelle Scott - Battle Ground School District - Battle Ground, WA
 * 💵Clifford Traisman - Bellevue, Highline, Northshore and Seattle Public School Districts; and Zum Services

@@ -10,14 +10,13 @@
 * 01/12/2026 [Washington State Standard](/org/washington_state_standard/) - [2026 Washington state legislative session begins • Washington State Standard](https://washingtonstatestandard.com/2026/01/12/live-coverage-2026-washington-state-legislative-session-begins/#:~:text=Gov.%20Bob%20Ferguson’s%20budget%20proposal)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%202289)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202289)
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202289)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202289)
 
 ## Meetings
 ### Wed 01/14 04:00 PM - Appropriations (APP): HB 2289 Operating budget, supp.
 Sign up to testify:
 
-#### 24 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Marty Reid
 * David Knight - UW
@@ -40,8 +39,11 @@ Testifying:
 * Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Melissa Derry
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
+* Tom McGarry
 
-#### 37 👎 - Con
+#### 84 👎 - Con
 Testifying:
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 * Jay Tyus - Superintendent, Wilbur and Creston Cooperative School Districts
@@ -64,8 +66,9 @@ Testifying:
 * Russell Sells - Olympia Transitional Care and Rehabilitation- Ensign Services
 * Chris Beckers - Parkside Retirement- Noble Healthcare
 * Monique Mason - Heartwood Extended Care- Evergreen Healthcare
+* Mindy Bradley - The Oaks at Lakewood
 
-#### 25 ❓ - Other
+#### 35 ❓ - Other
 Testifying:
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Kim Justice - Partners for Our Children
@@ -92,6 +95,15 @@ Testifying:
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Wesley Jessup - Eastern Washington Historical Society (Northwest Museum of Arts & Culture)
 * Preston Dwoskin
+* Brahmi Pugh - Coalition for Organic and Regenerative Agriculture
+* Beatrice Caffe - UAW 4591
+* Natalie Wellen - UAW 4121
+* Willow Heidt - UAW 4929
+* Chris Guardiano - Work Opportunities
+* Jason Peterson - [Community Employment Alliance](/org/community_employment_alliance/)
+* Tammy Bowen - Work Opportunities
+* 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
+* Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
 
 ### Mon 01/12 04:00 PM - Appropriations (APP): HB 2289 Operating budget, supp.
 #### 41 👍 - Pro

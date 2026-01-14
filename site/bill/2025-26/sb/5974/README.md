@@ -14,11 +14,11 @@
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5974 Local law enforcement
 Sign up to testify:
 
-#### 602 👍 - Pro
+#### 947 👍 - Pro
 Testifying:
 * David Berger - Salutation*
 
-#### 1623 👎 - Con
+#### 2144 👎 - Con
 Testifying:
 * Bob Lindenhovius - WE THE PEOPLE   retired Veteran
 * Rick Kuss
@@ -36,6 +36,7 @@ Testifying:
 * Jeff Winter
 * Keith Swank - Pierce County Sheriff's Office
 * Dale Wagner - Adams County Sheriff's Office (Sheriff)
+* Joe Kriete - Grant County Sheriff's Office
 
 #### 5 ❓ - Other
 Testifying:

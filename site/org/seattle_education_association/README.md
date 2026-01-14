@@ -15,6 +15,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
+
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎1 
 
 ## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  

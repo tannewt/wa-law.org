@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5837 Guardianship, etc.
-Sign up to testify:
-
-#### 42 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Miryam Gordon
 * 💵Catherine West - KCBA
@@ -19,7 +17,7 @@ Testifying:
 * 💵Melanie Smith - WA State Long Term Care Ombuds Progam
 * Mary Pleger - Catholic Charities
 
-#### 56 👎 - Con
+#### 70 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

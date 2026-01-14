@@ -10,7 +10,7 @@
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 5821 Advanced nuclear energy
 Sign up to testify:
 
-#### 25 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Greg Cullen - [Energy Northwest](/org/energy_northwest/)
 * Steve Verhey
@@ -20,8 +20,10 @@ Testifying:
 * Amanda McKinney - Yakima County Commissioner
 * Fereshteh Bunk - Mothers for Nuclear
 * Eric Meyer - Generation Atomic
+* Scott Aldridge
+* Madison Schroder - Generation Atomic
 
-#### 57 👎 - Con
+#### 79 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Jim Lazar - self

@@ -10,7 +10,7 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 6025 Definition of fetal death
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

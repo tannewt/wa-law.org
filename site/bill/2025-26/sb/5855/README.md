@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [WA State Standard: Proposed ban on police face coverings gains momentum in WA Legislature - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/13/wa-state-standard-proposed-ban-on-police-face-coverings-gains-momentum-in-wa-legislature/#:~:text=Senate%20Bill%205855)
+* 01/13/2026 [Washington State Standard](/org/washington_state_standard/) - [Proposed ban on police face coverings gains momentum in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/13/proposed-ban-on-police-face-coverings-gains-momentum-in-wa-legislature/#:~:text=Senate%20Bill%205855)
+* 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Law%20enforcement%20identification)
+* 01/13/2026 [KING5](/org/king5/) - [Video of masked ICE arrest in Redmond sparks push for ‘No Secret Police’ rules | king5.com](https://www.king5.com/article/news/politics/immigration-news/masked-ice-arrest-redmond-sparks-push-for-no-secret-police-rules/281-e2650549-9399-44c7-b18e-bbbeff521c9a#:~:text=Senate%20Bill%205855)
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Condemns ICE Access to State Databases - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/12/washington-state-senate-members-of-color-caucus-condemns-ice-access-to-state-databases/#:~:text=Senate%20Bill%205855)
 * 01/12/2026 [KING5](/org/king5/) - [Washington's legislative session kicks off Monday | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-2026-legislative-session-kicks-off-60-days/281-f18519b9-2318-48ef-968b-46085ea0c2ff#:~:text=law%20enforcement%20officers%20can%20wear%20face%20masks)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205855)
@@ -18,9 +22,7 @@
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5855 Law enf. face coverings
-Sign up to testify:
-
-#### 13377 👍 - Pro
+#### 14718 👍 - Pro
 Testifying:
 * Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Diane Paul
@@ -34,8 +36,9 @@ Testifying:
 * Steve Albrecht
 * Carolina Mejia
 * Nathan Olson - Governor's Office
+* Dalton Coe
 
-#### 1882 👎 - Con
+#### 2167 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * WA-08 Candidate Andres Valleza
@@ -43,8 +46,9 @@ Testifying:
 * Pete Serrano - United States Department of Justice
 * Christian Bianes-Delrosario
 * Teagan Levine
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 40 ❓ - Other
+#### 44 ❓ - Other
 Testifying:
 * Jeff DeVere - WACOPS
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)

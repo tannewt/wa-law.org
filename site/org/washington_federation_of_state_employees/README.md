@@ -137,6 +137,9 @@
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+* ❓ Kati Durkin
+
 ### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
@@ -227,11 +230,18 @@
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
-## [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
+### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board.   ❓1
+* ❓ Jeanette Oblecz
+
+### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
+
+## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓ Kati Durkin
 
 ## 2023-24
 
-### [SB 5972](/bill/2023-24/sb/5972/) - Correctional officers/arb. 👍1  
+### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓ Kati Durkin
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

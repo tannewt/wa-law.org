@@ -20,6 +20,6 @@ Testifying:
 * Jani Hitchen - Pierce County Council District 6
 * Cristina Gonzalez Torres - Latino Community Fund of WA
 
-#### 21 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other

@@ -62,6 +62,8 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
+### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications.  👎1 
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy   ❓1
@@ -101,11 +103,13 @@
 
 ### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
 
-## [SB 5629](/bill/2025-26/sb/5629/) - Prosthetic limb coverage   ❓1
+### [SB 5629](/bill/2025-26/sb/5629/) - Prosthetic limb coverage   ❓1
+
+## [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
 ## 2023-24
 
-### [SB 5629](/bill/2023-24/sb/5629/) - Prosthetic limb coverage   ❓1
+### [SB 5940](/bill/2023-24/sb/5940/) - Foster care housing pilot 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

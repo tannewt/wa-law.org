@@ -10,8 +10,8 @@
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2329 Midwife supervision
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 25 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

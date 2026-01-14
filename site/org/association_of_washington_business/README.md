@@ -84,8 +84,9 @@
 * 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎2 
 * 👎💵 Morgan Irwin
+* 👎 Max Martin
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Lindsey Hueer
@@ -185,6 +186,9 @@
 
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax  👎1 
 * 👎 Max Martin
+
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎2 
 
@@ -426,7 +430,7 @@
 
 ### [HB 2088](/bill/2025-26/hb/2088/) - Concerning the dietitian licensure compact. 👍1  
 
-### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍2  
 
 ### [HB 2110](/bill/2025-26/hb/2110/) - Concerning personnel for ambulance service interfacility specialty care transports. 👍1  
 
@@ -434,7 +438,25 @@
 
 ### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases.  👎1 
 
+### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
+* 👎 Max Martin
+
 ### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.   ❓1
+* ❓💵 Peter Godlewski
+
+### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
+* 👎 Max Martin
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 
+* 👎 Peter God
+
+### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
+* 👍 Max Martin
+
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 * 👍💵 Peter Godlewski
@@ -726,7 +748,7 @@
 
 ### [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
 
-### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎1 
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎2 
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 
@@ -775,11 +797,30 @@
 ### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 * 👍💵 Emily Wittman
 
-## [SB 5966](/bill/2025-26/sb/5966/) - Medically tailored meals 👍1  
+### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍1  
+* 👍💵 Peter Godlewski
+
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags  👎1 
+* 👎💵 Peter Godlewski
+
+### [SB 5966](/bill/2025-26/sb/5966/) - Medically tailored meals 👍1  
+
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍2  
+* 👍💵 Peter Godlewski
+* 👍💵 Peter Godlewski
+
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
+* 👎💵 Peter Godlewski
+
+### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage  👎1 
+
+## [SB 6050](/bill/2025-26/sb/6050/) - Distributed energy resources  👎1 
+* 👎💵 Peter Godlewski
 
 ## 2023-24
 
-### [SB 5966](/bill/2023-24/sb/5966/) - Medically tailored meals 👍1  
+### [SB 6050](/bill/2023-24/sb/6050/) - Distributed energy resources  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

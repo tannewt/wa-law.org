@@ -13,7 +13,7 @@
 ### Thu 01/15 04:00 PM - Ways & Means (WM): SB 5754 Washington state public bank
 Sign up to testify:
 
-#### 109 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Marco Rosaire Rossi - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
 * Toyoko Tsukuda
@@ -22,12 +22,15 @@ Testifying:
 * Armen Papyan
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Patty Kuderer - Office of the Insurance Commissioner
+* Paula Fillmore-Sardinas - FMSGS/WBBA
+* 💵John Traynor - washington state labor council, afl-cio
 
-#### 15 👎 - Con
+#### 225 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Jackie Brunson - Washington State Association of County Treasurers
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5754 Washington state public bank
 #### 135 👍 - Pro

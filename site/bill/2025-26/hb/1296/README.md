@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/13/2026 [The Center Square](/org/the_center_square/) - [Watchdog org demands WA Legislature hold hearings on two initiatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_20cb568b-970a-49b3-98cb-cd1674bc4aad.html#:~:text=House%20Bill%201296)
 * 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=HB%201296)
 * 11/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Supreme Court ends Eyman's bid for referendum on parents’ bill of rights rewrite | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c4ef4173-7d39-42c3-adad-d53e01ddd570.html#:~:text=ESHB%201296)
 * 10/27/2025 [KUOW](/org/kuow/) - [KUOW - Conservative group sues to overturn rewrite of WA parental rights law](https://www.kuow.org/stories/conservative-group-sues-to-overturn-rewrite-of-wa-parental-rights-law#:~:text=House%20Bill%201296)

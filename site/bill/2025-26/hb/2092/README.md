@@ -10,9 +10,12 @@
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 2092 Passenger rail adv. comm.
 Sign up to testify:
 
-#### 34 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Breck Lebegue MD MPH - WA Physicians for Social Responsibility
+* Bill Moyer - Solutionary Rail / Rail Can't Wait Coalition
+* Mary Paterson - Solutionary Rail / Rail Can't Wait Coalition
+* Thomas White - Climate Rail Alliance / Rail Can't Wait Coalition
 
 #### 2 👎 - Con
 

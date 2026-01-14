@@ -10,13 +10,16 @@
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5941 Schools/renewable energy
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * Nancy Lotze - Selkirk School District
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* Jeff Baerwald - Nine Mile Falls School District
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 9 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * 💵Nicole Grant - IBEW Local 46
+* Peter Hasegawa - IBEW Local 46
 
 #### 0 ❓ - Other

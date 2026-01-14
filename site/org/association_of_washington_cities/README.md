@@ -289,11 +289,17 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍💵 Candice Bock
 
+### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.   ❓1
+* ❓💵 Derrick Nunnally
+
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices   ❓1
 * ❓💵 Candice Bock
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings   ❓1
 * ❓💵 Derrick Nunnally
+
+### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
+* ❓💵 Carl Schroeder
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.   ❓1
 * ❓💵 Derrick Nunnally
@@ -522,6 +528,10 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings   ❓1
 * ❓💵 Derrick Nunnally
+
+### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
+
+### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 

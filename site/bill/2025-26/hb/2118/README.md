@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Housing (HOUS): HB 2118 Community restrictions
-Sign up to testify:
-
-#### 46 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
 * Raelene Schifano
 
-#### 658 👎 - Con
+#### 839 👎 - Con
 Testifying:
 * Terrence Leahy - Washington State Chapter of Community Association Institute
 * Summer Ellwood - WSCAI LAC

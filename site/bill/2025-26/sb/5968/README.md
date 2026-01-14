@@ -14,10 +14,13 @@
 ### Fri 01/16 10:30 AM - State Government & Elections (SGE): SB 5968 Permitting and licensing
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Beau Perschbacher - Governor's Office
 * 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
+* 💵Cassie Bordelon - Climate Jobs WA
+* 💵Heather Kurtenbach - WSBCTC
+* 💵Neil Hartman - Washington State Association of UA Plumbers, Pipefitters and HVAC/R Mechanics
 
 #### 0 👎 - Con
 

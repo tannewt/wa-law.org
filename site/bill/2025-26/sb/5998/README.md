@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: All other. (Remote Testimony Available).
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Sara Robbins - Washington State Office of Civil Legal Aid
@@ -22,14 +20,15 @@ Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* David Freeman - Whatcom County Supe
 
-#### 23 👎 - Con
+#### 28 👎 - Con
 Testifying:
 * Manuel Navarro
 * Jodi Joyce
 * Tim Eyman - Initiative Activist
 
-#### 9 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Roshelle Cleland - Washington State Coalition Against Domestic & Sexual Violence (WSCADV)
@@ -40,30 +39,31 @@ Testifying:
 * 💵Alexandra Johnson - Duwamish River Community Coalition
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Wesley Jessup - Eastern Washington Historical Society (Northwest Museum of Arts & Culture)
+* Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
+* Brahmi Pugh - Coalition for Organic and Regenerative Agriculture
+* Ryan Mello - County Executive, Pierce County
+* Josh Diekmann - Pierce County- Planning and Public Works Director
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: Early learning. (Remote Testimony Available).
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * 💵Samuel Martin
 
-#### 93 👎 - Con
+#### 105 👎 - Con
 Testifying:
 * 💵Erica Hallock - Start Early Washington
 * 💵Erin Haick - SEIU 925
 * Tim Eyman - Initiative Activist
+* Wendy Bart - Washington Alliance of YMCAs/Olympic Peninsula YMCA
 
 #### 1 ❓ - Other
 Testifying:
 * 💵Alex Galeana - Children's Campaign Fund Action
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: Employee compensation. (Remote Testimony Available).
-Sign up to testify:
-
 #### 0 👍 - Pro
 
-#### 13 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 
@@ -73,17 +73,16 @@ Testifying:
 * 💵Peter Diedrick - WA State School Retirees' Association
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: Higher education. (Remote Testimony Available).
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Sandy Kaiser - Evergreen Government Relations
 
-#### 66 👎 - Con
+#### 86 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Cameron Gray
 * Aren Permadi
+* Chris Mulick - Washington State University
 
 #### 10 ❓ - Other
 Testifying:
@@ -99,8 +98,6 @@ Testifying:
 * Willow Heidt - UAW 4929
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: Human services. (Remote Testimony Available).
-Sign up to testify:
-
 #### 18 👍 - Pro
 Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
@@ -120,7 +117,7 @@ Testifying:
 * Tom McGarry
 * 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
 
-#### 32 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * Sheila Morley - [Family Impact Network](/org/family_impact_network/)
 * Jolynn Kenney - MENTOR Washington
@@ -130,6 +127,7 @@ Testifying:
 * 💵Carolanne Sanders - P.D.A.
 * Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
 * Len Mc Comb - WASHINGTON STATE HOSPITAL ASOCIATION
+* Len McComb - Washington State Hospital Association
 * Tim Eyman - Initiative Activist
 * Manuel Navarro - Columbia Valley Community Health
 * Jodi Joyce - Unity Care NW
@@ -140,6 +138,8 @@ Testifying:
 * Joe Rudd - Alderwood Park Health and Rehabilitation of Cascadia
 * Erin Doss - Queen Anne Healthcare- Avamere
 * Tina Levasheff - Village at the Harbor Assisted Living
+* Chaim Wolmark - Caldera Care
+* Mauro Hernandez - Hearth and Truss
 
 #### 25 ❓ - Other
 Testifying:
@@ -169,8 +169,6 @@ Testifying:
 * Alison Price - Rural Resources Victim Services
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: K-12 public schools. (Remote Testimony Available).
-Sign up to testify:
-
 #### 6 👍 - Pro
 Testifying:
 * 💵Dawn Rains - [Treehouse](/org/treehouse/)
@@ -179,7 +177,7 @@ Testifying:
 * Liz Trautman - Stand for Children Washington
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 
-#### 24 👎 - Con
+#### 28 👎 - Con
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Erica Hallock - School Nurse Organization of Washington
@@ -192,6 +190,7 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * 💵Braden Sigua - [Pacific Science Center](/org/pacific_science_center/)
 * Jim Kowalkowski - Rural Education Center
+* 💵Mitch Denning - Alliance of Educational Associations
 
 #### 12 ❓ - Other
 Testifying:
@@ -207,13 +206,11 @@ Testifying:
 * Charlie Brown - South Sound Superintendents
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: Mental health. (Remote Testimony Available).
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * John Heckel - WA State Music Therapy Task Force
 
-#### 13 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 
@@ -222,17 +219,16 @@ Testifying:
 * Rashi Gupta
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: Natural resources. (Remote Testimony Available).
-Sign up to testify:
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Mike Peroni - [Northwest Agriculture Business Center](/org/northwest_agriculture_business_center/)
 * Krystyna Wolniakowski - Columbia River Gorge Commission
 * Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
 * Daniel Whelan - Sustainable Northwest
 * 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 20 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Tarin Todd - Vice President of Govt. Affairs for RBAW
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
@@ -241,9 +237,11 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Christine Cooley - Executive Director, Puget Sound Clean Air Agency
+* Tony Usibelli - [Sierra Club](/org/sierra_club/)
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Carrie Nyssen - American Lung Association
 * Nello Picinich - Coastal Conservation Association
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Councilmember Kari McVeigh - [San Juan County](/org/san_juan_county/)

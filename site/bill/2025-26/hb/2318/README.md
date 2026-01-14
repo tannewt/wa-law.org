@@ -10,7 +10,7 @@
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2318 Early achievers awards
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 
 #### 1 👎 - Con
 

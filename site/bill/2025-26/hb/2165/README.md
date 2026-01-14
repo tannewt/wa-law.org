@@ -11,13 +11,11 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2165 Peace officer false ident.
-Sign up to testify:
-
-#### 20 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Nathan Olson - Governor's Office
 
-#### 56 👎 - Con
+#### 113 👎 - Con
 
 #### 0 ❓ - Other

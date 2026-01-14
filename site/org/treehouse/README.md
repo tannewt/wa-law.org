@@ -20,6 +20,8 @@
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Dawn Rains
 

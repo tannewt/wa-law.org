@@ -10,8 +10,11 @@
 ### Wed 01/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2253 DCYF licensing division
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Kim Justice - Partners for Our Children
+* 💵Julie Watts - Department of Children, Youth and Families
 
-#### 0 👎 - Con
+#### 19 👎 - Con
 
 #### 0 ❓ - Other

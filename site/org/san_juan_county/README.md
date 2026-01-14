@@ -20,11 +20,15 @@
 
 ### [SB 5445](/bill/2025-26/sb/5445/) - Distributed energy resources 👍2  
 
-## [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
+### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
+
+## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Councilmember Kari McVeigh
 
 ## 2023-24
 
-### [SB 5769](/bill/2023-24/sb/5769/) - Transition to kindergarten  👎1 
+### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
+* ❓ Councilmember Kari McVeigh
 
 ### [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
 

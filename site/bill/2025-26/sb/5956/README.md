@@ -14,10 +14,11 @@
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5956 AI use/student discipline
 Sign up to testify:
 
-#### 241 👍 - Pro
+#### 295 👍 - Pro
 Testifying:
 * Derick Harris - Black Education Strategy Roundtable
+* Jonathan Pincus - The Nexus of Privacy
 
-#### 2 👎 - Con
+#### 59 👎 - Con
 
 #### 0 ❓ - Other

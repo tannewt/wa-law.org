@@ -24,9 +24,10 @@
 ### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
 * 👍 Christopher Brunetti
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍3  
 * 👍 Christopher Brunetti
 * 👍 Tom McGarry
+* 👍 Christopher Brunetti
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 * 👍 Julia Kellison
@@ -41,6 +42,9 @@
 
 ### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 * 👎 Christopher Brunetti
+
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+* 👍 Seth Sivinski
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍 Tom McGarry

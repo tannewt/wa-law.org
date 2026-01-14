@@ -10,11 +10,11 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5990 Rural local health officers
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Commissioner Melanie Bacon - [Island County](/org/island_county/)
 * Shawn Morris - [Island County](/org/island_county/)

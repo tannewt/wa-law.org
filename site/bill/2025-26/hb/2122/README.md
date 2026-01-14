@@ -8,13 +8,17 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2122 Hospital influenza imm.
-Sign up to testify:
-
-#### 27 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Tom Boyer - [Diabetes Patient Advocacy Coalition](/org/diabetes_patient_advocacy_coalition/)
+* Joshua Hill - N/A
+* 💵Matt Prokop - [American Diabetes Association](/org/american_diabetes_association/)
+* Cathleen "Cathy" MacCaul - AARP Washington State
+* Tia Babu
 
-#### 69 👎 - Con
+#### 95 👎 - Con
+Testifying:
+* Bob Runnells - Informed Choice Washington
 
 #### 1 ❓ - Other
 Testifying:

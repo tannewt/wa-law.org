@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2110 Specialty care transports
-Sign up to testify:
-
-#### 65 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * Christiopher BAker
 * Katie Kolan - Washington State Hospital Association
 * Shane McGuire
 * Joey Rodrigues - Executive Director, Olympic Ambulance Service, Inc.
+* Zane Gibbons - Chief Nursing Officer, Ferry County Health
 
 #### 0 👎 - Con
 

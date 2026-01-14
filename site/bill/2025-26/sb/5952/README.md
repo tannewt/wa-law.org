@@ -10,12 +10,16 @@
 ### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5952 High school PE waivers
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Aimal Samir
 * Logan Schmidt
 * Samantha Scott
+* Dr. Randy Spaulding - State Board of Education
 
-#### 4 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Teresa (Teri) Galloway - SHAPE Washington
+* Carri Kreider - SHAPE Washington
 
 #### 0 ❓ - Other

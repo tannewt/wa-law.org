@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2095/</link>
 		<description>Updates about HB 2095</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 02:45:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 08:18:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Stacie/Bain/2026-01-12 02:45:46</guid>
+		</item>
+		<item>
+			<title>👎Kris Tefft - Washington Liability Reform Coalition</title>
+			<description>Kris Tefft signed up to testify Con. They are signed up to represent Washington Liability Reform Coalition.</description>
+			<pubDate>Tue, 13 Jan 2026 03:06:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kris/Tefft/2026-01-13 03:06:31</guid>
+		</item>
+		<item>
+			<title>👎Alison Turnbull - Washington Defense Trial Lawyers</title>
+			<description>Alison Turnbull signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_defense_trial_lawyers/"&gt;Washington Defense Trial Lawyers&lt;/a&gt;.</description>
+			<pubDate>Tue, 13 Jan 2026 03:28:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alison/Turnbull/2026-01-13 03:28:30</guid>
+		</item>
+		<item>
+			<title>👎Michael Rhodes - Mix Sanders Thompson</title>
+			<description>Michael Rhodes signed up to testify Con. They are signed up to represent Mix Sanders Thompson.</description>
+			<pubDate>Tue, 13 Jan 2026 03:35:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Rhodes/2026-01-13 03:35:09</guid>
+		</item>
+		<item>
+			<title>❓💵Derrick Nunnally - Association of Washington Cities</title>
+			<description>Derrick Nunnally signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 06:06:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Derrick/Nunnally/2026-01-13 06:06:22</guid>
+		</item>
+		<item>
+			<title>👎Jeff DeVere - Mix Sanders Thompson</title>
+			<description>Jeff DeVere signed up to testify Con.</description>
+			<pubDate>Tue, 13 Jan 2026 08:18:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/DeVere/2026-01-13 08:18:18</guid>
 		</item>
 	</channel>
 </rss>

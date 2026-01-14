@@ -13,12 +13,14 @@
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5937 Smart access systems/tenants
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Maddie Stoothoff
 * Ethan Martes - [Tenants Revolt](/org/tenants_revolt/)
 
-#### 0 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Daniel Bannon - RHAWA
 
 #### 1 ❓ - Other
 Testifying:

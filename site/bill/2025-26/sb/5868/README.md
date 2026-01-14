@@ -10,11 +10,15 @@
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5868 Superior court judges
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * LaDon Linde - Yakima County Commissioner
 * Commissioner Ron Wesen - [Skagit County](/org/skagit_county/)
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
+* Jessica Humphreys - Yakima County Superior Court
+* Judge Elizabeth Neidzwski - Skagit County Superior Court
+* Judge Kevin Naught - Yakima County Superior Court
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

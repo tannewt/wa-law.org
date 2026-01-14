@@ -12,6 +12,8 @@
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 Paul Jarkiewicz
 
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
@@ -24,11 +26,13 @@
 * 👍 Paul Jarkiewicz
 * 👍 Paul Jarkiewicz
 
-## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
+
+## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
 
 ## 2023-24
 
-### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs 👍1  
+### [SB 5982](/bill/2023-24/sb/5982/) - Consumer-owned utilities  👎1 
 
 ### [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍1  
 

@@ -302,7 +302,7 @@
 
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
 
-### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
+### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍2  
 
 ### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
 
@@ -325,6 +325,8 @@
 ### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
+
+### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
@@ -388,7 +390,7 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍3  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍4  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
@@ -528,11 +530,15 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
 ### [SB 5842](/bill/2025-26/sb/5842/) - Campaign memorabilia  👎1 
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+
+### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎1 
 

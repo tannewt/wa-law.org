@@ -14,7 +14,7 @@
 ### Fri 01/16 08:00 AM - Consumer Protection & Business (CPB): HB 2112 Adult content/age minimum
 Sign up to testify:
 
-#### 50 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Iain Corby - The Age Verification Providers Association
@@ -24,8 +24,10 @@ Testifying:
 * Taylor Muthoka
 * Rachel Robison
 * MaryAnn Michaelis - HART (Healing Addiction, Relationships, Trauma) Recovery Institute
+* Jeffrey Michaelis - Addo Recovery
+* Meghan Kaul
 
-#### 1048 👎 - Con
+#### 1591 👎 - Con
 Testifying:
 * Steven Bock - Computer Scientist
 * Jonathan Pincus
@@ -43,5 +45,8 @@ Testifying:
 * Briar (legal name Brittan Bertolin
 * John Ley
 * Michael Hoffman
+* Brian Brisendine
+* Tanya Tyshkun
+* Evelynn Straw
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

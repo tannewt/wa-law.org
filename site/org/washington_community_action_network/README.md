@@ -20,6 +20,8 @@
 * 👍 Brynn Freal
 * 👍 John Godfrey
 
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
 ## [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
 ## 2023-24

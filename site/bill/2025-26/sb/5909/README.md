@@ -10,10 +10,14 @@
 ### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5909 Undergraduate programs
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* David Buri - Eastern Washington University
 
-#### 24 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * Beth Ebel - Faculty Legislative Rep, University of Washington
+* Michael Craw - Council of Faculty Representative, The Evergreen State College
+* Matthew Altman - Faculty Legislative Representative, Central Washington University
 
 #### 0 ❓ - Other

@@ -25,13 +25,14 @@
 
 ### [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍2  
 
-## [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg.  👎1 
+### [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg.  👎1 
 * 👎 Jeff Gombosky
+
+## [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings   ❓1
 
 ## 2023-24
 
-### [SB 5811](/bill/2023-24/sb/5811/) - Zero-emission vehicle prg.  👎1 
-* 👎 Jeff Gombosky
+### [SB 5855](/bill/2023-24/sb/5855/) - Law enf. face coverings   ❓1
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
 * 👍💵 Noelani Derrickson

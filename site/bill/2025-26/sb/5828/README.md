@@ -10,7 +10,7 @@
 ### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5828 College scholarships/private
 Sign up to testify:
 
-#### 912 👍 - Pro
+#### 1738 👍 - Pro
 Testifying:
 * Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Katia Passerini - President, Gonzaga University
@@ -24,7 +24,19 @@ Testifying:
 * Rjay Barsh - Gonzaga
 * Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Amanda Fields
+* Josiah Tiblow - Saint Martin's University
+* Mateo Car - Whitman College
+* Erika Hernandez - Whitworth University
+* Jose Mata - Heritage University
+* Maelyn Carlsisle - [Gonzaga University](/org/gonzaga_university/)
+* Carolyn Michalske
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
+* Steve Smith - Board member, Independent Colleges of Washington
 
-#### 6 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Bidisha Biswas - Western Washington University Faculty Legislative Rep
+* Samuel Ligon - Eastern Washington University Faculty Legislative Rep. & Council of Faculty
 
 #### 1 ❓ - Other

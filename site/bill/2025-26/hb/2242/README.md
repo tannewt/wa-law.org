@@ -14,12 +14,15 @@
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2242 Preventive health services
 Sign up to testify:
 
-#### 102 👍 - Pro
+#### 231 👍 - Pro
 Testifying:
 * Caitlin Safford - Washington State Office of the Governor
 * Dennis Worsham - Washington State Secretary of Health
 * Patty Kuderer - Washington State Insurance Commissioner
+* Megan Moore - Washington State Public Heatlh Association
+* Cora Breuner - Seattle Childrens
+* Michael Van Dyke - WCAAP
 
-#### 821 👎 - Con
+#### 944 👎 - Con
 
 #### 0 ❓ - Other

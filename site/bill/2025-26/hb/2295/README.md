@@ -9,14 +9,13 @@
 ## 📰 Articles
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%202295)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202295)
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202295)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202295)
 
 ## Meetings
 ### Thu 01/15 01:30 PM - Capital Budget (CB): HB 2295 Capital budget, supplemental
 Sign up to testify:
 
-#### 22 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Rachael Myers - Washington Low Income Housing Alliance
@@ -33,11 +32,11 @@ Testifying:
 * Phedra Elliott - Housing Resources Bainbridge
 * David Buri - Eastern Washington University
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Kevin Chang - [University of Washington](/org/university_of_washington/)
 
-#### 11 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * Darrell Jennings - State Board for Community and Technical Colleges
 * Dr. Eric Murray - Cascadia College
@@ -50,3 +49,5 @@ Testifying:
 * Bilan Aden - African Community Housing and Development
 * 💵Connor Haggerty - Washington State University
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Ali Querin - Great Peninsula Conservancy
+* Daniel Hoult - Outdoor Discovery Project

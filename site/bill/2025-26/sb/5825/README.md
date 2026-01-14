@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5825 Leadership board/gifts
-Sign up to testify:
-
 #### 8 👍 - Pro
 Testifying:
 * Laura Laura Armstrong - [Washington State Leadership Board](/org/washington_state_leadership_board/)

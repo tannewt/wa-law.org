@@ -14,6 +14,6 @@ Sign up to testify:
 Testifying:
 * steve walker - Washinton State Housing Finance Commission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

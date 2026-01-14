@@ -13,15 +13,19 @@
 ### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2144 Employee monitoring notices
 Sign up to testify:
 
-#### 18 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * Garrison Ross - Strategic Privacy Partners, Inc.
+* 💵John Traynor - washington state labor council, afl-cio
 
-#### 7 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵James Crandall - AWB
+* 💵Rose Gundersen - WA Retail Association
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Sheri Call - Washington Trucking Associations
+* Jerry VanderWood - Associated General Contractors (AGC)

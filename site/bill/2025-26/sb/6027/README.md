@@ -10,7 +10,7 @@
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6027 Affordable housing funding
 Sign up to testify:
 
-#### 91 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer
 * Councilmember Robyn Denson - South Sound Housing Affordability Partners
@@ -18,6 +18,7 @@ Testifying:
 * Lauren Fay - [Downtown Emergency Service Center](/org/downtown_emergency_service_center/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Sarah Dickmeyer - Plymouth Housing
+* David Sackmann - Catholic Charities Eastern Washington
 
 #### 2 👎 - Con
 

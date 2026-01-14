@@ -21,7 +21,9 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dr. Randy Spaulding - State Board of Education
 
 ### Tue 02/11 04:00 PM - Education (ED): HB 1662 Education agencies/OSPI
 #### 17 👍 - Pro

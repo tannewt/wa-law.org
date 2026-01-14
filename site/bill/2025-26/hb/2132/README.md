@@ -7,20 +7,21 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202132)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202132)
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2132 Financial aid applic./PRA
 Sign up to testify:
 
-#### 239 👍 - Pro
+#### 620 👍 - Pro
 Testifying:
 * Dennise Arteaga - Communities for Our College
 * Angel Badillo - Communities for Our College
 * Blanca Moreno - Communities for Our Colleges
 * Brandon Elliott - ASUW
+* 💵Nathan Tippmann - Evergreen Geoduck Student Union
+* Jocelyn Granados
 
-#### 4 👎 - Con
+#### 59 👎 - Con
 
 #### 0 ❓ - Other

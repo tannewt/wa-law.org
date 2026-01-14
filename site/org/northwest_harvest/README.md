@@ -21,7 +21,13 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍6  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍7  
 * 👍💵 Anna Nepomuceno
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
@@ -49,7 +55,7 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
-### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Anna Nepomuceno

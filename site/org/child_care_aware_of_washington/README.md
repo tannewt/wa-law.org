@@ -34,6 +34,14 @@
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 
+### [HB 2099](/bill/2025-26/hb/2099/) - Expanding access to the early childhood education and assistance program for military families. 👍1  
+
+### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+
+### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
+
+### [HB 2318](/bill/2025-26/hb/2318/) - Adjusting the early achievers quality improvement awards. 👍1  
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1

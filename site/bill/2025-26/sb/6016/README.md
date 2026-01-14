@@ -10,9 +10,11 @@
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6016 Aquifer recharge areas
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 71 👎 - Con
+#### 128 👎 - Con
 Testifying:
 * Ronda Larson Kramer
 

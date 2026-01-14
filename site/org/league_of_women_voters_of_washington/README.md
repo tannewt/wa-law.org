@@ -91,6 +91,8 @@
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
 * 👍 Alison McCaffree
 
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍2  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
@@ -151,13 +153,19 @@
 
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 
-## [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1 👎1 
+### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1 👎1 
 * 👍 Dee Anne Finken
+
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+* 👍 Ann Murphy
+
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
+
+## [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
 
 ## 2023-24
 
-### [SB 5637](/bill/2023-24/sb/5637/) - Media literacy & civic ed. 👍1 👎1 
-* 👍 Dee Anne Finken
+### [SB 6030](/bill/2023-24/sb/6030/) - Plastic carryout bags  👎1 
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption  👎1 ❓1
 * ❓ Sherri Dysart

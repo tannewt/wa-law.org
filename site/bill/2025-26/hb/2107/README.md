@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 2107 Construction hazards notice
-Sign up to testify:
-
-#### 88 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
 * Jerry VanderWood - AGC and WA Construction Industry Council

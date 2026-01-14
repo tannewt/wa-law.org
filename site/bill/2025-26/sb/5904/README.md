@@ -13,7 +13,7 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5904 Use of nursing titles
 Sign up to testify:
 
-#### 561 👍 - Pro
+#### 705 👍 - Pro
 
 #### 1 👎 - Con
 

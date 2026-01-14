@@ -14,10 +14,11 @@
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
 Sign up to testify:
 
-#### 32 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Alyssa Torrez - South Sound Housing Affordability Partners
+* 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
 
 #### 5 👎 - Con
 

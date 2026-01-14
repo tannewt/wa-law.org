@@ -14,13 +14,17 @@
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1859 Housing dev./religious orgs.
 Sign up to testify:
 
-#### 95 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Angela Birney - City of Redmond Mayor
 * Victoria OBanion
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Carolyn Read - Board President for Associated Ministries
+* Patricia Roundy - Mason United Methodist Church, Tacoma, WA
+* Shalom Agtarap
+* Brian Grow - Proclaim Liberty, affordable housing
+* Michael Blumson - LISC
 
 #### 2 👎 - Con
 

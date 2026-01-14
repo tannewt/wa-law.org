@@ -14,7 +14,7 @@
 ### Wed 01/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2225 AI companion chatbots
 Sign up to testify:
 
-#### 86 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * LORI Schott - Parents Rise
@@ -29,11 +29,19 @@ Testifying:
 * Yale Moon
 * 💵Jean Hill - Washington State Catholic Conference
 * Laura Marquez-Garrett - Social Media Victims Law Center
+* Max Lau - [Children's Alliance](/org/children's_alliance/)
+* Aadya Syal
+* Noel Gomez - Washington against sexual exploitation (WASE Forward)
+* Katy Ruckle - WaTech
 
-#### 5 👎 - Con
+#### 196 👎 - Con
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression
+* 💵Amy Harris - WA TECHNOLOGY INDUSTRY ASSN
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Rose Feliciano - TechNet
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
+* Jonathan Pincus - The Nexus of Privacy

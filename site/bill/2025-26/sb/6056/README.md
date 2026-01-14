@@ -8,12 +8,18 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Environment, Energy & Technology (ENET): SB 6056 Utility service vehicles
-Sign up to testify:
+#### 119 👍 - Pro
+Testifying:
+* DEVER HAFFNER-RATLIFFE - Cowlitz PUD
+* 💵Travis Nelson - Washington Public Utility Districts Association
+* Ian Cope - Grays Harbor PUD
+* Joe Hathaway - Pend Oreille Public Utility District
 
-#### 48 👍 - Pro
-
-#### 8 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Kate White Tudor - Natural Resources Defense Council
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joel Creswell - Washington State Department of Ecology

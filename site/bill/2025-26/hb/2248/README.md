@@ -10,7 +10,9 @@
 ### Fri 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2248 Corporate filings
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 80 👍 - Pro
+Testifying:
+* Constance Parbon - Secretary of State Corporations and Charities Division
 
 #### 0 👎 - Con
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2212/</link>
 		<description>Updates about HB 2212</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 08:28:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 12:46:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -39,7 +39,7 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 		<item>
-			<title>👍Annapoorani Lingeshwaran - Meals on Wheels Spokane, Medically Tailored Meals Coalition of Washington</title>
+			<title>👍Annapoorani Lingeshwaran - Mom's Micro Garden</title>
 			<description>Annapoorani Lingeshwaran signed up to testify Pro.</description>
 			<pubDate>Mon, 12 Jan 2026 03:24:21 GMT</pubDate>
 			<category>testifier</category>
@@ -47,12 +47,20 @@
 			<guid isPermaLink="false">testifier/Annapoorani/Lingeshwaran/2026-01-12 03:24:21</guid>
 		</item>
 		<item>
-			<title>👍Jennifer Porter - Meals on Wheels Spokane, Medically Tailored Meals Coalition of Washington</title>
+			<title>👍Jennifer Porter - Mom's Micro Garden</title>
 			<description>Jennifer Porter signed up to testify Pro.</description>
 			<pubDate>Mon, 12 Jan 2026 08:28:33 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jennifer/Porter/2026-01-12 08:28:33</guid>
+		</item>
+		<item>
+			<title>👎Brian Wallace - Coin Laundry Association</title>
+			<description>Brian Wallace signed up to testify Con. They are signed up to represent Coin Laundry Association.</description>
+			<pubDate>Tue, 13 Jan 2026 12:46:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Wallace/2026-01-13 12:46:20</guid>
 		</item>
 	</channel>
 </rss>

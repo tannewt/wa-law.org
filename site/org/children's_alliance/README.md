@@ -39,7 +39,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍3  
 
-### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots. 👍1  
+### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots. 👍2  
+* 👍 Max Lau
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 

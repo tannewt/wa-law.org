@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 2137 Correctional officers/arb.
-Sign up to testify:
-
-#### 32 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * David Simmons - Teamsters local 760
 * carl keller - Local 760

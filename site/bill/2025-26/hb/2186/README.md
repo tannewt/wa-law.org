@@ -7,14 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202186)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202186)
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2186 Federal funds
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Richa Sigdel - [City of Pasco](/org/city_of_pasco/)
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)

@@ -10,7 +10,7 @@
 ### Wed 01/14 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2095 Public way vulnerable users 
 Sign up to testify:
 
-#### 252 👍 - Pro
+#### 337 👍 - Pro
 Testifying:
 * Holden Ringer - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Bob Anderton - Washington Bike Law
@@ -18,6 +18,13 @@ Testifying:
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * Stacie Bain - Law Office of Stacie Bain
 
-#### 381 👎 - Con
+#### 580 👎 - Con
+Testifying:
+* Kris Tefft - Washington Liability Reform Coalition
+* Alison Turnbull - [Washington Defense Trial Lawyers](/org/washington_defense_trial_lawyers/)
+* Michael Rhodes - Mix Sanders Thompson
+* Jeff DeVere
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)

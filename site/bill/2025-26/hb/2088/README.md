@@ -8,14 +8,19 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2088 Dietitian licensure compact
-Sign up to testify:
-
-#### 34 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Melissa Molloy - Washington State of Academy of Nutrition & Dietetics
 * JACQUELINE LITTLE - Washington State Academy of Nutrition and Dietetics
 * Matthew Shillingburg - Veterans Legislative Coalition VFW Representative
 * Mary Ketchum
+* MS, RD, CD, Jacqueline "Jacqui" Little
+* Mary Ketchum
+* Dr Breck Lebegue
+* Kaitlyn Bison - The Council of State Governmens
+* Diana Smith - Washington Academy of Nutrition and Dietetics
+* Charla Burill - Academy of Nutrition and Dietetics
+* Cathy Visser - True for You Nutrition, LLC
 
 #### 0 👎 - Con
 

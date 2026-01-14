@@ -7,15 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202168)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202168)
 * 12/19/2025 [The Center Square](/org/the_center_square/) - [Republican proposes near-real-time overdose dashboard ahead of 2026 session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0a5e912e-156a-45c3-ba14-28198882c137.html#:~:text=House%20Bill%202168)
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2168 Overdose mapping information
-Sign up to testify:
-
-#### 44 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Elizabeth Powell - Northwest High Intensity Drug Trafficking Area program
 * MD, Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
@@ -23,6 +20,6 @@ Testifying:
 * Peter Miterko - Skagit County Public Health
 * Kyle Curtis - Yakima County Board of Commissioners
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

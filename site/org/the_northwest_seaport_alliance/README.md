@@ -18,6 +18,11 @@
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
+* ❓ Sean Eagan
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
@@ -37,13 +42,18 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
-## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎 Sean Eagan
+
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓ Sean Eagan
 
 ## 2023-24
 
-### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
-* 👎 Sean Eagan
+### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓ Sean Eagan
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

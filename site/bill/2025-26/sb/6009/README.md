@@ -10,8 +10,10 @@
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 6009 Administrative appeals
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Bill Bowman - Washington State Court of Appeals
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

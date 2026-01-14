@@ -10,13 +10,23 @@
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2106 Health carrier modif. notice
 Sign up to testify:
 
-#### 86 👍 - Pro
+#### 186 👍 - Pro
 Testifying:
 * Dee Bender
 * Kelli Camp
+* 💵Lori Grassi - WA State Chiropractic Association
+* 💵Lisa Thatcher - Washington state hospital association
+* Suzanne Daly - MultiCare Health System
+* Diane Blake - Cascade Medical Center
+* Matt Lund - UW Medicine
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Chris Bandoli - AHIP
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
+* 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner

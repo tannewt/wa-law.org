@@ -8,16 +8,15 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Human Services (HS): SB 5895 Ex. medical placement
-Sign up to testify:
-
-#### 36 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Karen Peacey
 * Melody Simle
 * Sarah Leon
 * Marc Stern
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 17 👎 - Con
+#### 49 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

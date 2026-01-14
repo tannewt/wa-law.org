@@ -15,7 +15,7 @@
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
 Sign up to testify:
 
-#### 408 👍 - Pro
+#### 693 👍 - Pro
 Testifying:
 * Scarlett Luo - Make Us Visible
 * Vivian Song
@@ -27,10 +27,16 @@ Testifying:
 * Maricres Castro
 * Filma Fontanilla - WEA/Soundview Uniserv Council
 * Olivia Kang - Make Us Visible WA / College Student Advocate
+* Mindy Dong - MUV WA/Student
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Sadie Meredith
+* June Nho Ivers - Seattle Council PTSA
+* Nicholas Oh
+* Samantha Mark
 
-#### 386 👎 - Con
+#### 639 👎 - Con
 
-#### 3 ❓ - Other
+#### 9 ❓ - Other
 
 ### Tue 02/18 08:00 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
 #### 999 👍 - Pro

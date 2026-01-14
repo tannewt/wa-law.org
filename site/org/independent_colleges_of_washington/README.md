@@ -19,13 +19,16 @@
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
-## [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
+### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
 * 👎 Ph.D., Terri Standish-Kuon
+
+## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+* 👍 Ph.D., Terri Standish-Kuon
 
 ## 2023-24
 
-### [SB 5785](/bill/2023-24/sb/5785/) - Higher education costs  👎2 
-* 👎 Ph.D., Terri Standish-Kuon
+### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+* 👍 Ph.D., Terri Standish-Kuon
 
 ### [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams   ❓1
 * ❓ Terri Standish-Kuon

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2113 Radiologic technologists
-Sign up to testify:
-
-#### 121 👍 - Pro
+#### 232 👍 - Pro
 Testifying:
 * Troy Bender - Washington Academy of Physician Associates
 * Caylon Haggard - Docs Who Care

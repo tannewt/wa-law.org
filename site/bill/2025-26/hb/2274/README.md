@@ -10,8 +10,17 @@
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2274 Commercial electronic mail
 Sign up to testify:
 
-#### 21 👍 - Pro
+#### 100 👍 - Pro
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Marianne Senn Bornhoft - Small Business Owner
+* Meegan Brooks - Benesch Friedlander Coplan & Aronoff LLP
+* David Carter - Ecommerce Innovation Alliance
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 0 👎 - Con
+#### 87 👎 - Con
+Testifying:
+* Blythe Chandler - Washington State Association for Justice
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

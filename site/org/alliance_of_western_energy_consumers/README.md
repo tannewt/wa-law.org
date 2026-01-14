@@ -25,6 +25,9 @@
 
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍2  
 
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 
+* 👎💵 Brandon Houskeeper
+
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Brandon Houskeeper
 
@@ -40,14 +43,16 @@
 ### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
 * 👍💵 Brandon Houskeeper
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎2 
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎2 
 * 👎💵 Brandon Houskeeper
+* 👎💵 Brandon Houskeeper
+
+## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
 * 👎💵 Brandon Houskeeper
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system  👎2 
-* 👎💵 Brandon Houskeeper
+### [SB 5982](/bill/2023-24/sb/5982/) - Consumer-owned utilities  👎1 
 * 👎💵 Brandon Houskeeper
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  

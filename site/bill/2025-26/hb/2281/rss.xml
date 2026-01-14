@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2281/</link>
 		<description>Updates about HB 2281</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 11:09:05 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 11:15:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -62,6 +62,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Robert/de los Angeles/2026-01-12 11:09:05</guid>
+		</item>
+		<item>
+			<title>👍Jack Fiander - Sauk-Suiattle Indian Tribe</title>
+			<description>Jack Fiander signed up to testify Pro. They are signed up to represent Sauk-Suiattle Indian Tribe.</description>
+			<pubDate>Tue, 13 Jan 2026 08:36:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jack/Fiander/2026-01-13 08:36:09</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 09:35:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2026-01-13 09:35:47</guid>
+		</item>
+		<item>
+			<title>👎JOHN WORTHINGTON - Association of Washington Business</title>
+			<description>JOHN WORTHINGTON signed up to testify Con.</description>
+			<pubDate>Tue, 13 Jan 2026 09:44:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/JOHN/WORTHINGTON/2026-01-13 09:44:42</guid>
+		</item>
+		<item>
+			<title>❓💵Isaac Kastama - Clean &amp; Prosperous</title>
+			<description>Isaac Kastama signed up to testify Other. They are signed up to represent Clean &amp; Prosperous. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 11:15:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Isaac/Kastama/2026-01-13 11:15:26</guid>
 		</item>
 	</channel>
 </rss>

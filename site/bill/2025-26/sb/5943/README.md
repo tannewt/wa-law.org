@@ -11,13 +11,11 @@
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Early Learning & K-12 Education (EDU): SB 5943 Use of school impact fees
-Sign up to testify:
-
-#### 34 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Aaron Hansen - Washougal School District
 
-#### 80 👎 - Con
+#### 82 👎 - Con
 Testifying:
 * 💵Ken Short - AWB
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

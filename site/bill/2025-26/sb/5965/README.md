@@ -13,14 +13,30 @@
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5965 Retail bags
 Sign up to testify:
 
-#### 374 👍 - Pro
+#### 533 👍 - Pro
 Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
+* Maggie Yuse - Seattle Public Utilities
+* Miguela Marzolf - Seattle Aquarium
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
+* Adam Lough - Physicians for Social Responsibility
+* Marsha Cutting
+* Mike Wenrick - PCC Markets
+* Rick Hughes - Ray's Pharmacy
+* 💵Gail Cabahug - Puget Soundkeeper Alliance
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
-#### 417 👎 - Con
+#### 677 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Crystal Leatherman
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Bill Stauffacher - American Forest and Paper Associaton
+* Ivy Brittain - American Recyclable Plastic Bag Alliance (ARPBA)
+* Shea Logan - [Novolex](/org/novolex/)
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

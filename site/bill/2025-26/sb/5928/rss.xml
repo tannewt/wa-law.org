@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5928/</link>
 		<description>Updates about SB 5928</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 11:01:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 08:03:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,12 +31,36 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Business, Trade &amp; Economic Development.</guid>
 		</item>
 		<item>
+			<title>👍Mayor Terri Cooper - City of Medical Lake</title>
+			<description>Mayor Terri Cooper signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_medical_lake/"&gt;City of Medical Lake&lt;/a&gt;.</description>
+			<pubDate>Mon, 12 Jan 2026 10:00:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mayor Terri/Cooper/2026-01-12 10:00:29</guid>
+		</item>
+		<item>
 			<title>👍David Forte - Office of the Insurance Commissioner</title>
 			<description>David Forte signed up to testify Pro. They are signed up to represent Office of the Insurance Commissioner.</description>
 			<pubDate>Mon, 12 Jan 2026 11:01:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/David/Forte/2026-01-12 11:01:19</guid>
+		</item>
+		<item>
+			<title>❓💵Kenton Brine - Northwest Insurance Council</title>
+			<description>Kenton Brine signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_insurance_council/"&gt;Northwest Insurance Council&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 02:43:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kenton/Brine/2026-01-13 02:43:57</guid>
+		</item>
+		<item>
+			<title>👍💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington</title>
+			<description>Bill Stauffacher signed up to testify Pro. They are signed up to represent Independent Insurance Agents and Brokers of Washington. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 08:03:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Stauffacher/2026-01-13 08:03:42</guid>
 		</item>
 	</channel>
 </rss>

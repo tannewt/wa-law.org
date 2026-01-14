@@ -11,7 +11,8 @@
 
 ### [HB 1821](/bill/2025-26/hb/1821/) - Interested party/prev. wage 👍2  
 
-### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages 👍4  
+### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages 👍5  
+* 👍 Boris Gresely
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍6  
 

@@ -7,20 +7,24 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202271)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202271)
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2271 Plastics/recycled content
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Vicki Christophersen - WRRA
+* Allison Kustic - Association of Plastic Recyclers (APR)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * Dan Felton - Flexible Packaging Association (FPA)
+* 💵Bill Stauffacher - American Forest and Paper Association
 
-#### 70 ❓ - Other
+#### 108 ❓ - Other
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association

@@ -181,8 +181,18 @@
 ### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages  👎1 
 * 👎 Mike Ennis
 
+### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
+* ❓💵 Andrea Smiley
+
+### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
+
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 * 👍💵 Andrea Smiley
+
+### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions   ❓1
+* ❓💵 Jan Himebaugh
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
@@ -356,13 +366,21 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 
-## [SB 5943](/bill/2025-26/sb/5943/) - Concerning the use of school impact fees.  👎1 
+### [SB 5943](/bill/2025-26/sb/5943/) - Concerning the use of school impact fees.  👎1 
 * 👎💵 Bill Stauffacher
+
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
+* 👍💵 Andrea Smiley
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍💵 Andrea Smiley
 
 ## 2023-24
 
-### [SB 5943](/bill/2023-24/sb/5943/) - Concerning the use of school impact fees.  👎1 
-* 👎💵 Bill Stauffacher
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍💵 Andrea Smiley
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

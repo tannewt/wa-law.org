@@ -28,6 +28,8 @@
 
 ### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
 
+### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍1  
+
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 
 ### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  

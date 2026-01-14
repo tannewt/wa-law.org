@@ -13,6 +13,8 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
+### [HB 1544](/bill/2025-26/hb/1544/) - Child abuse risk assessment 👍1  
+
 ### [HB 1600](/bill/2025-26/hb/1600/) - Family services support fee 👍3  
 
 ### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎2 

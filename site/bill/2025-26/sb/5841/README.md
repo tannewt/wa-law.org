@@ -11,11 +11,10 @@
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Early Learning & K-12 Education (EDU): SB 5841 Financial aid applications
-Sign up to testify:
-
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
+* 💵Collin Bannister - [Washington Student Association](/org/washington_student_association/)
 
 #### 5 👎 - Con
 Testifying:

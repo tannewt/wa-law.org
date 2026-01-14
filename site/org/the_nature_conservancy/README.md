@@ -62,6 +62,8 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 David Mendoza
 
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
@@ -109,13 +111,14 @@
 
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 
-## [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
+### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 David Mendoza
+
+## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ## 2023-24
 
-### [SB 5630](/bill/2023-24/sb/5630/) - Farm fuel users   ❓1
-* ❓💵 David Mendoza
+### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

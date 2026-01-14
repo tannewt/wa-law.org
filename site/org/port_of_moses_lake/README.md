@@ -10,11 +10,13 @@
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
-## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+
+## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
 
 ## 2023-24
 
-### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+### [SB 5982](/bill/2023-24/sb/5982/) - Consumer-owned utilities   ❓1
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

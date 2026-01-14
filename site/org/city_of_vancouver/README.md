@@ -21,6 +21,9 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
+### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area. 👍1  
+* 👍 BRIAN ENSLOW
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍 Ty Stober
 * 👍 Ty Stober
@@ -44,13 +47,14 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
-## [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
+### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 * 👍 Patrick Quinton
+
+## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 
 ## 2023-24
 
-### [SB 5884](/bill/2023-24/sb/5884/) - Underutilized property/tax 👍1  
-* 👍 Patrick Quinton
+### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

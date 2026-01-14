@@ -12,7 +12,9 @@
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): ESSB 5694 Boiler operator cert.
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Thomas DuBeau - Operating Engineers, IUOE Local 302
 
 #### 1 👎 - Con
 

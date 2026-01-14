@@ -10,7 +10,7 @@
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2229 Professional engineers
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * kristina Horton - BRPELS
 * Marjorie Lund - [Board of Registration for Professional Engineers and Land Surveyors](/org/board_of_registration_for_professional_engineers_and_land_surveyors/)

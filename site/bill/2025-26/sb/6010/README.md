@@ -10,7 +10,12 @@
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 6010 EFSEC tribal consultation
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Council Brian Saluskin - Confederated Tribes and Bands of the Yakama Nation
+* Council Charlene Tillequots - Confederated Tribes and Bands of the Yakama Nation
+* Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
+* Council Terry Heemsah - Confederated Tribes and Bands of the Yakama Nation
 
 #### 2 👎 - Con
 

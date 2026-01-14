@@ -10,7 +10,7 @@
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5995 Zero emission cargo handling
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 32 👍 - Pro
 
 #### 1 👎 - Con
 

@@ -60,6 +60,8 @@
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.  👎1 
 * 👎 Steve Hobbs
 
+### [HB 2252](/bill/2025-26/hb/2252/) - State historical records 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 

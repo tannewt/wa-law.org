@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2319 DD RHC facilities renaming
-Sign up to testify:
-
-#### 20 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Shawn Latham - Self Advocates In Leadership
 * Cathy Murahashi - The Arc of Washington

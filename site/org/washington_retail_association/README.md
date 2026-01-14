@@ -79,7 +79,8 @@
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎2 
+* 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  ❓1
@@ -175,6 +176,9 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 * 👎💵 Crystal Leatherman
+
+### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
+* 👍💵 Crystal Leatherman
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -272,11 +276,15 @@
 ### [SB 5786](/bill/2025-26/sb/5786/) - Liquor license fees  👎1 
 * 👎💵 Crystal Leatherman
 
-## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+
+## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
+* 👍💵 Crystal Leatherman
 
 ## 2023-24
 
-### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
+### [SB 5975](/bill/2023-24/sb/5975/) - Safe cookware 👍1  
+* 👍💵 Crystal Leatherman
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

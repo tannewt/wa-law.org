@@ -229,10 +229,17 @@
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
+* ❓💵 Travis Dutton
+
 ### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍1  
+* 👍💵 Travis Dutton
+
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Curtis Steinhauer
+* 👍💵 Travis Dutton
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
 * ❓💵 Paul Jewell
@@ -425,8 +432,15 @@
 ### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing.  👎1 
 * 👎💵 Travis Dutton
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
+* ❓💵 Travis Dutton
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Curtis Steinhauer
+* 👍💵 Travis Dutton
+
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍💵 Axel Swanson
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 

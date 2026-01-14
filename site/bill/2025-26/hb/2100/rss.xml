@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2100/</link>
 		<description>Updates about HB 2100</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 18:32:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -49,6 +49,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Key bills to watch as Washington’s 2026 legislative session begins | king5.com</title>
+			<description>News article "Key bills to watch as Washington’s 2026 legislative session begins | king5.com" from KING5.</description>
+			<pubDate>Tue, 13 Jan 2026 18:32:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Payroll%20tax%20proposal</guid>
 		</item>
 	</channel>
 </rss>

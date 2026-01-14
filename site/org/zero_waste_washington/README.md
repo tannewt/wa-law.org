@@ -34,7 +34,7 @@
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍2  
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍3  
 * 👍💵 Heather Trim
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍3  
@@ -74,6 +74,12 @@
 ### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials  👎1 ❓1
 * 👎💵 Heather Trim
 * ❓💵 Heather Trim
+
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
+
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎1 
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍7  
 * 👍💵 Heather Trim
@@ -116,11 +122,15 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍4  
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎3 
+### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎3 
+
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍2  
+
+## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎3 
+### [SB 5975](/bill/2023-24/sb/5975/) - Safe cookware  👎1 
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
 * 👍💵 Heather Trim

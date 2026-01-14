@@ -11,16 +11,15 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2123 Foreign nationals/elections
-Sign up to testify:
-
-#### 40 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer, CG Edwards PLLC
 * Jason Michaud
 * Jessie Simmons - Olympia Master Builders
 * Angela White - The Affordable Housing Council of Olympia Master Builders
+* Jason Bennett
 
-#### 581 👎 - Con
+#### 727 👎 - Con
 Testifying:
 * Rebecca Faust - n/a
 * Laurie Layne

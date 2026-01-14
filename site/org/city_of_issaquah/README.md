@@ -16,6 +16,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2120](/bill/2025-26/hb/2120/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
+
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  

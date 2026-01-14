@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2203/</link>
 		<description>Updates about HB 2203</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 10:58:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 02:46:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2026-01-12 10:58:25</guid>
+		</item>
+		<item>
+			<title>👍Preston Dwoskin - Central Pierce Fire &amp; Rescue</title>
+			<description>Preston Dwoskin signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Jan 2026 01:20:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Preston/Dwoskin/2026-01-13 01:20:43</guid>
+		</item>
+		<item>
+			<title>👍Devon Gabreluk - Orting Police Department</title>
+			<description>Devon Gabreluk signed up to testify Pro. They are signed up to represent Orting Police Department.</description>
+			<pubDate>Tue, 13 Jan 2026 02:46:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Devon/Gabreluk/2026-01-13 02:46:37</guid>
 		</item>
 	</channel>
 </rss>

@@ -60,7 +60,7 @@
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences   ❓1
 
-### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍4  
+### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍5  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 

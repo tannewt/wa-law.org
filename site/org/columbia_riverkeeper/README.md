@@ -11,6 +11,9 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
+* 👎💵 James Moschella
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ## [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  

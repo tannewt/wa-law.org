@@ -7,21 +7,26 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202210)
+* 01/13/2026 [Sightline Institute](/org/sightline_institute/) - [Today: Statewide ranked choice voting bill hearing | Sightline Institute](https://www.sightline.org/release/today-statewide-ranked-choice-voting-bill-hearing/#:~:text=HB%202210)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202210)
 
 ## Meetings
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2210 Local government elections
-Sign up to testify:
-
-#### 5055 👍 - Pro
+#### 5369 👍 - Pro
 Testifying:
 * Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Shaena Garberich - Fair Vote Washington
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Ruth Greenwood
+* 💵Nilu Jenks - FairVote Washington
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* Treveon Parrish - Washington Bus
+* Cassie Clayton - Northwest Progressive Institute (NPI)
+* Cleveland Harris - People First Bellingham
+* 💵Denisse Guerrero - Washington for Equitable Representation
 
-#### 3208 👎 - Con
+#### 3674 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Rebecca Faust - n/a
@@ -34,7 +39,7 @@ Testifying:
 * Steve Duenkel
 * Laurie Layne
 
-#### 12 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * John Axtell

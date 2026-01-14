@@ -16,14 +16,20 @@
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
 Sign up to testify:
 
-#### 245 👍 - Pro
+#### 321 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* McKenna Morrigan - Seattle Public Utilities
+* Amanda Miller - South King Tool Library
 
-#### 3 👎 - Con
+#### 192 👎 - Con
 Testifying:
 * Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Darbi Gottlieb - AdvaMed
+* Chelsea Murtha - [American Apparel & Footwear Association](/org/american_apparel_&_footwear_association/)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Jessica Franken Franken - Secondary Materials and Recycled Textiles Association (SMART)
 
 #### 0 ❓ - Other
 

@@ -8,16 +8,15 @@
 
 ## Meetings
 ### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5840 Campaign finance schedule
-Sign up to testify:
-
-#### 7 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer, CG Edwards PLLC
 * Kim Bradford - Public Disclosure Commission
 
-#### 25 👎 - Con
+#### 46 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Sharon Hanek
 * Jason Michaud
+* Jason Bennett

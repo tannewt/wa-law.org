@@ -10,12 +10,13 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5981 340B drug pricing program
 Sign up to testify:
 
-#### 59 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * Joseph Finley - Confederated Tribes of the Colville Reservation
 
-#### 50 👎 - Con
+#### 59 👎 - Con
 Testifying:
 * Kalvin Pugh - Community Access National Network
+* Corbin Santo - Johnson & Johnson Innovative Medicine
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

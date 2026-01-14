@@ -73,7 +73,7 @@
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
 * 👍💵 Leah Missik
 
-### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍2  
 * 👍💵 Leah Missik
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 

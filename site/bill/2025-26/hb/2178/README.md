@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/13 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2178 Court rules and procedures
-Sign up to testify:
-
-#### 37 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
 

@@ -100,11 +100,15 @@
 
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+* 👍 DAVID DEMARCO
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
+* 👍 DAVID DEMARCO
 
 ### [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  
 * 👍 Jennifer Gregerson

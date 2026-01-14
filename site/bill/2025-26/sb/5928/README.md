@@ -10,11 +10,15 @@
 ### Thu 01/15 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5928 Wildfire risk models
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Mike Bucy - Stevens County Fire Protection District 1
+* Mayor Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
 * David Forte - Office of the Insurance Commissioner
+* 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)

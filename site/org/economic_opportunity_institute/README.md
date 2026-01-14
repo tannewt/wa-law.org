@@ -56,6 +56,8 @@
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 * 👍💵 Alexis Mansanarez
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 * 👍 Sam Hatzenbeler
 
@@ -68,7 +70,7 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Sam Hatzenbeler
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍3  
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
 * ❓ Sam Hatzenbeler

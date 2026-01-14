@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2293 Law enf. training/foreign
-Sign up to testify:
+#### 13 👍 - Pro
 
-#### 9 👍 - Pro
-
-#### 5 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

@@ -43,11 +43,15 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 * 👍 Eric Gonzalez Alfaro
 
-## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
+
+## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
 
 ## 2023-24
 
-### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  
+### [SB 6056](/bill/2023-24/sb/6056/) - Utility service vehicles  👎1 
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
 

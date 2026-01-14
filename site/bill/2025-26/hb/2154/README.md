@@ -10,10 +10,15 @@
 ### Wed 01/14 08:00 AM - Local Government (LG): HB 2154 Conservation district land
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 70 👍 - Pro
 
-#### 2 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Sarah Moorehead - Thurston Conservation District
+* Jennifer Boie - Palouse Conservation District
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
+* Dave Hedrick - Ferry Conservation District
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Don Gourlie - Puget Sound Partnership

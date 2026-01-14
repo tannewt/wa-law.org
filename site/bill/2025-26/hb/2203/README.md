@@ -8,13 +8,13 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2203 Interference with emergency
-Sign up to testify:
-
-#### 24 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Dustin Morrow - Central Pierce Fire & Rescue
+* Preston Dwoskin
+* Devon Gabreluk - Orting Police Department
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 

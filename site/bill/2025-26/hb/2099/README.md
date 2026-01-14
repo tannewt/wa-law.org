@@ -13,10 +13,12 @@
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2099 ECEAP access/military
 Sign up to testify:
 
-#### 10 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * 💵Joel Ryan - WA State Association of Head Start & ECEAP
 * 💵Alex Galeana - Children's Campaign Fund Action
+* 💵Kristin Wiggins - Mission: Readiness WA
+* Maria Tobin - South Sound Military & Communities Partnership
 
 #### 0 👎 - Con
 

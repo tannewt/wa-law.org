@@ -14,12 +14,18 @@
 ### Thu 01/15 08:00 AM - Health & Long Term Care (HLTC): SB 5967 Preventive health services
 Sign up to testify:
 
-#### 117 👍 - Pro
+#### 289 👍 - Pro
 Testifying:
 * Caitlin Safford - Washington State Office of the Governor
 * Dennis Worsham - Washington State Secretary of Health
 * Patty Kuderer - Washington State Insurance Commissioner
+* Beth Ebel - Immediate past President, WCAAP
+* Cora Breuner - WCAAP
+* Cathy MacCaul - AARP Washington
+* Cora Breuner - Seattle Childrens
+* Dr. Katina Rue - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
+* Robin Wulff
 
-#### 924 👎 - Con
+#### 1240 👎 - Con
 
 #### 1 ❓ - Other

@@ -28,6 +28,9 @@
 * 👎 Glen Simecek
 * 👎 Glen Simecek
 
+### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission.   ❓1
+* ❓💵 Megan Managan
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 

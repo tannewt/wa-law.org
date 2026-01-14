@@ -1,6 +1,10 @@
 # Tenants Revolt
 ## 2025-26
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
+### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍1  
+
 ## [SB 5937](/bill/2025-26/sb/5937/) - Smart access systems/tenants 👍2  
 * 👍 Ethan Martes
 

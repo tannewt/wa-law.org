@@ -5,16 +5,23 @@
 
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍2  
 
+### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎3 
 * 👎💵 Andy Barth
 
-## [SB 5445](/bill/2025-26/sb/5445/) - Distributed energy resources 👍3  
+### [SB 5445](/bill/2025-26/sb/5445/) - Distributed energy resources 👍3  
 * 👍💵 Andy Barth
+
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
+
+## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles 👍1  
 
 ## 2023-24
 
-### [SB 5445](/bill/2023-24/sb/5445/) - Distributed energy resources 👍3  
-* 👍💵 Andy Barth
+### [SB 6056](/bill/2023-24/sb/6056/) - Utility service vehicles 👍1  
 
 ### [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍2  
 * 👍💵 Andy Barth

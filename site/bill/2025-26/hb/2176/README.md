@@ -10,8 +10,12 @@
 ### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2176 Drug therapy agreements/PRA
 Sign up to testify:
 
-#### 69 👍 - Pro
+#### 140 👍 - Pro
+Testifying:
+* Beth Rivin
+* Crystal Beal
+* Don Downing
 
-#### 2 👎 - Con
+#### 12 👎 - Con
 
 #### 0 ❓ - Other

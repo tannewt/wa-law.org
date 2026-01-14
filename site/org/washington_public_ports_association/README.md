@@ -106,6 +106,11 @@
 ### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
 * 👍💵 James Cockburn
 
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
+### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
+* ❓💵 Carly Michiels
+
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
@@ -191,6 +196,9 @@
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
+* ❓💵 Carly Michiels
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 

@@ -17,8 +17,9 @@ Sign up to testify:
 Testifying:
 * 💵Alex Hur - Communities in Schools of Washington
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Tanya English
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 #### 0 ❓ - Other

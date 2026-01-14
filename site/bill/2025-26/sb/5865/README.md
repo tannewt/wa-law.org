@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5865 Garnishment forms
-Sign up to testify:
-
 #### 10 👍 - Pro
 Testifying:
 * 💵Melissa Johnson - District & Municipal Court Judges' Association

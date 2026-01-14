@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2148/</link>
 		<description>Updates about HB 2148</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 10:20:27 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Jan 2026 11:53:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,13 +14,6 @@
 			<pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-12-16/Prefiled for introduction.</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: January 12-16, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 10 Jan 2026 00:09:57 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202148</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 12-16, 2025 | Washington State House Republicans</title>
@@ -45,12 +38,36 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
 		</item>
 		<item>
-			<title>👍Ali Maleki - UW Graduate &amp; Professional Student Senate</title>
+			<title>👍💵Collin Bannister - Washington Student Association</title>
+			<description>Collin Bannister signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_student_association/"&gt;Washington Student Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Jan 2026 10:14:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Collin/Bannister/2026-01-12 10:14:25</guid>
+		</item>
+		<item>
+			<title>👍Ali Maleki - Washington Student Association</title>
 			<description>Ali Maleki signed up to testify Pro.</description>
 			<pubDate>Mon, 12 Jan 2026 10:20:27 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ali/Maleki/2026-01-12 10:20:27</guid>
+		</item>
+		<item>
+			<title>👍💵Nathan Tippmann - Evergreen Geoduck Student Union</title>
+			<description>Nathan Tippmann signed up to testify Pro. They are signed up to represent Evergreen Geoduck Student Union. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 09:30:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nathan/Tippmann/2026-01-13 09:30:09</guid>
+		</item>
+		<item>
+			<title>👍💵John Burbank - Retired</title>
+			<description>John Burbank signed up to testify Pro. They are signed up to represent Retired. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Jan 2026 11:53:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Burbank/2026-01-13 11:53:39</guid>
 		</item>
 	</channel>
 </rss>

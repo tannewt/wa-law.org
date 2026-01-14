@@ -8,12 +8,15 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Housing (HOUS): HB 2236 Housing finance commission
-Sign up to testify:
-
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * steve walker - Washinton State Housing Finance Commission
+* Lisa Vatske - WSHFC
 
-#### 21 👎 - Con
+#### 51 👎 - Con
+Testifying:
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)

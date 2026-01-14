@@ -10,14 +10,15 @@
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2212 Washing machine microplastic
 Sign up to testify:
 
-#### 119 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Annapoorani Lingeshwaran
 * Jennifer Porter
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Charlie Brown - Association of Home Appliance Manufacturers
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers
+* Brian Wallace - Coin Laundry Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

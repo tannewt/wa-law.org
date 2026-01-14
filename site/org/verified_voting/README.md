@@ -1,6 +1,9 @@
 # Verified Voting
 ## 2025-26
 
+### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute.   ❓1
+* ❓ C.Jay Coles
+
 ## [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting  👎1 ❓1
 * 👎 C. Jay Coles
 * ❓ C.Jay Coles

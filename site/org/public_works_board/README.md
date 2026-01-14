@@ -1,7 +1,8 @@
 # Public Works Board
 ## 2025-26
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
+* ❓💵 Gary Rowe
 * ❓💵 Gary Rowe
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1

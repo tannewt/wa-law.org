@@ -18,13 +18,14 @@
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SSB 5292 Family & medical leave rates
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
 
-#### 125 👎 - Con
+#### 180 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
 #### 1 ❓ - Other
 Testifying:

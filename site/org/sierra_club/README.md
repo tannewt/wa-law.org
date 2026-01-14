@@ -36,6 +36,9 @@
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎 Kathleen M. Saul
 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+* 👎 Tony Usibelli
+
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts  👎1 
 * 👎 Kathleen M. Saul
 
