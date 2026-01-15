@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5901 On-base school construction
-Sign up to testify:
-
-#### 16 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Kimberly Headrick - Medical Lake School District

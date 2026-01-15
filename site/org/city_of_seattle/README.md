@@ -99,6 +99,8 @@
 
 ### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+
 ### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍2  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
@@ -117,6 +119,8 @@
 ### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
 
@@ -219,6 +223,8 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
+
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
@@ -233,11 +239,13 @@
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
-## [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+
+## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 
 ## 2023-24
 
-### [SB 6028](/bill/2023-24/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

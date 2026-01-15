@@ -12,15 +12,19 @@
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
+
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎2 
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
+
+## [SB 5965](/bill/2025-26/sb/5965/) - Retail bags  👎1 
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax  👎1 
+### [SB 5965](/bill/2023-24/sb/5965/) - Retail bags  👎1 
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
 

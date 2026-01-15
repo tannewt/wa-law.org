@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5936 Human trafficking
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

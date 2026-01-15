@@ -182,11 +182,15 @@
 ### [SB 5749](/bill/2025-26/sb/5749/) - Housing opportunity zones  👎1 
 * 👎💵 Bryce Yadon
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+## [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
+* ❓💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 6016](/bill/2023-24/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
+* ❓💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

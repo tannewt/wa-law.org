@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Human Services (HS): SB 5940 Foster care housing pilot
-Sign up to testify:
-
-#### 237 👍 - Pro
+#### 240 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
@@ -19,6 +17,6 @@ Testifying:
 * Lydia O'Taylor - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Nathan Witherow - [The Mockingbird Society](/org/the_mockingbird_society/)
 
-#### 41 👎 - Con
+#### 66 👎 - Con
 
 #### 1 ❓ - Other

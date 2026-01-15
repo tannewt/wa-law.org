@@ -14,7 +14,7 @@
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2242 Preventive health services
 Sign up to testify:
 
-#### 231 👍 - Pro
+#### 507 👍 - Pro
 Testifying:
 * Caitlin Safford - Washington State Office of the Governor
 * Dennis Worsham - Washington State Secretary of Health
@@ -22,7 +22,15 @@ Testifying:
 * Megan Moore - Washington State Public Heatlh Association
 * Cora Breuner - Seattle Childrens
 * Michael Van Dyke - WCAAP
+* Dr. Frank Bell - WA Chapter American Academy of Pediatrics
+* Dr. Helen Chu - UW Medicine
+* Dr. Sandra Valenciano - Public Health Seattle-King County
+* Dr. Jay Miller - Tacoma-Pierce County Health Department
+* 💵Jaime Bodden - WSALPHO
+* Roy Simms - Community Health of Central Washington
+* Dr. Katina Rue - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
-#### 944 👎 - Con
+#### 1027 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -60,6 +60,8 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
+### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
+
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  

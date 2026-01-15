@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5859 Competency-based assessments
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

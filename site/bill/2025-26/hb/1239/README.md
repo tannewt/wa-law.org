@@ -10,6 +10,15 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201239)
 
 ## Meetings
+### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
+Sign up to testify:
+
+#### 16 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
 #### 683 👍 - Pro
 Testifying:

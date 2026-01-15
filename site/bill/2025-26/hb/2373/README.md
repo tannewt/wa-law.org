@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2373 Electric utility bill assist
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Kristin Masteller - Mason County PUD No. 1
+* Stephen Taylor - Cowlitz PUD
+
+#### 0 ❓ - Other

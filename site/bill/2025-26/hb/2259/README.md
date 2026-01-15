@@ -10,3 +10,13 @@
 * 01/06/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 5973 — How the Legislature Is Quietly Undermining Washington’s Initiative Process - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb-5973-threat-to-wa-initiative-process/#:~:text=HB%202259)
 
 ## Meetings
+### Wed 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 2259 Initiatives and referenda
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Joe Kunzler - Private Citizen
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

@@ -11,3 +11,11 @@
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña introduces landmark bill to expand labor rights for agricultural workers  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/12/saldana-introduces-landmark-bill-to-expand-labor-rights-for-agricultural-workers/#:~:text=Senate%20Bill%206045)
 
 ## Meetings
+### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

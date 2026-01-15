@@ -14,12 +14,15 @@
 ### Fri 01/16 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2351 Emergency response
 Sign up to testify:
 
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Wayne Fournier - Thurston County Board of Commissioners
 * Jani Hitchen - Pierce County Council District 6
 * Cristina Gonzalez Torres - Latino Community Fund of WA
+* Noah Skartvedt
 
-#### 24 👎 - Con
+#### 186 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers

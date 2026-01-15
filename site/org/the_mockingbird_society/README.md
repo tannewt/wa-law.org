@@ -44,7 +44,7 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
 

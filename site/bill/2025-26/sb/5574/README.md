@@ -7,15 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles inclusive history education bill heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/14/nobles-inclusive-history-education-bill-heard-in-committee/#:~:text=Senate%20Bill%205574)
 * 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to require AANHPI history in schools heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/18/nobles-bill-to-require-aanhpi-history-in-schools-heard-in-committee/#:~:text=Senate%20Bill%205574)
 * 02/18/2025 [KING5](/org/king5/) - [Bill would integrate Asian America, Native Hawaiian, Pacific Islander history into WA classroom learning | king5.com](https://www.king5.com/article/news/politics/state-politics/asian-american-native-hawaiian-pacific-islander-history-washington-state/281-96e76840-9873-44b1-bb5c-70d22f258bce#:~:text=Senate%20Bill%205574)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205574)
 
 ## Meetings
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
-Sign up to testify:
-
-#### 693 👍 - Pro
+#### 846 👍 - Pro
 Testifying:
 * Scarlett Luo - Make Us Visible
 * Vivian Song
@@ -34,9 +33,11 @@ Testifying:
 * Nicholas Oh
 * Samantha Mark
 
-#### 639 👎 - Con
+#### 666 👎 - Con
+Testifying:
+* Tara Pines
 
-#### 9 ❓ - Other
+#### 16 ❓ - Other
 
 ### Tue 02/18 08:00 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
 #### 999 👍 - Pro

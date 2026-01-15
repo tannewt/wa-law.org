@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5918/</link>
 		<description>Updates about SB 5918</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 07:27:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>👍💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland</title>
+			<description>Melissa Gombosky signed up to testify Pro. They are signed up to represent Spokane, Evergreen, Vancouver and Richland. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Jan 2026 04:51:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Gombosky/2026-01-14 04:51:15</guid>
+		</item>
+		<item>
+			<title>👍Jim Kowalkowski - Rural Education Center</title>
+			<description>Jim Kowalkowski signed up to testify Pro. They are signed up to represent Rural Education Center.</description>
+			<pubDate>Wed, 14 Jan 2026 07:27:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Kowalkowski/2026-01-14 07:27:17</guid>
 		</item>
 	</channel>
 </rss>

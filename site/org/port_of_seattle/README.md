@@ -68,6 +68,8 @@
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 John Flanagan
 
+### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  

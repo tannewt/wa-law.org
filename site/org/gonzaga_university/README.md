@@ -7,12 +7,12 @@
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
-## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍52  
+## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍72  
 * 👍 Maelyn Carlsisle
 
 ## 2023-24
 
-### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍52  
+### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍72  
 * 👍 Maelyn Carlsisle
 
 ### [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants 👍1  

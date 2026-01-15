@@ -15,7 +15,7 @@
 ### Thu 01/15 01:30 PM - Capital Budget (CB): HB 2295 Capital budget, supplemental
 Sign up to testify:
 
-#### 24 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Rachael Myers - Washington Low Income Housing Alliance
@@ -32,11 +32,11 @@ Testifying:
 * Phedra Elliott - Housing Resources Bainbridge
 * David Buri - Eastern Washington University
 
-#### 5 👎 - Con
+#### 57 👎 - Con
 Testifying:
 * Kevin Chang - [University of Washington](/org/university_of_washington/)
 
-#### 13 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Darrell Jennings - State Board for Community and Technical Colleges
 * Dr. Eric Murray - Cascadia College
@@ -51,3 +51,6 @@ Testifying:
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * Ali Querin - Great Peninsula Conservancy
 * Daniel Hoult - Outdoor Discovery Project
+* Linda Lauch - American Indian Community Center (AICC)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Mark Finney - [Thrive International](/org/thrive_international/)

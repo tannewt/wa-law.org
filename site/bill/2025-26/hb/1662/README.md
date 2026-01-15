@@ -21,9 +21,13 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Dr. Randy Spaulding - State Board of Education
+* Dr. Randy Spaulding - State Board of Education
+* Marcus Haden - Charter School Comission
+* Tracy Godat - Financial Education Public - Private Partnership
+* Veronica Gallardo - Professional Educator Standards Board (PESB)
 
 ### Tue 02/11 04:00 PM - Education (ED): HB 1662 Education agencies/OSPI
 #### 17 👍 - Pro

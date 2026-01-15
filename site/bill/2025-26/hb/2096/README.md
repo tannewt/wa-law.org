@@ -10,3 +10,11 @@
 * 12/09/2025 [The Center Square](/org/the_center_square/) - [WA Dems propose issuing confidential IDs to AGO despite criticizing ICE | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d9b73ff2-0a40-4cb7-862c-0e4219b6fe36.html#:~:text=House%20Bill%202096)
 
 ## Meetings
+### Mon 01/19 04:00 PM - Transportation (TR): HB 2096 Attorney general inv. ID
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

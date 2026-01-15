@@ -16,7 +16,7 @@
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Education (ED): HB 1634 Behavioral health/schools
-#### 70 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Taanvi Arekapudi - Uplift Teens Today Nonprofit
 * AYANNA COLMAN - WASHINGTON STATE PTA
@@ -28,6 +28,7 @@ Testifying:
 * Erin Wick
 * Kirsten Williams
 * Marn Frank - N/A
+* Nicole Khouw - Parent and Bellevue PTSA
 
 #### 1259 👎 - Con
 Testifying:

@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 01/19 04:00 PM - Transportation (TRAN): SSB 5690 Utility relocation
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/17 04:00 PM - Transportation (TR): SSB 5690 Utility relocation
 #### 42 👍 - Pro
 Testifying:

@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2303 Employee microchipping
-Sign up to testify:
-
-#### 195 👍 - Pro
+#### 211 👍 - Pro
 
 #### 0 👎 - Con
 

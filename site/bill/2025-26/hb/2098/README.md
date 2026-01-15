@@ -12,3 +12,11 @@
 * 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=Her%20legislation)
 
 ## Meetings
+### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2098 Higher education funding
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

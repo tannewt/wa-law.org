@@ -443,20 +443,31 @@
 
 ### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
 
+### [HB 2212](/bill/2025-26/hb/2212/) - Reducing microplastic pollution from washing machines.  👎1 
+* 👎💵 Peter Godlewski
+
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.   ❓1
 * ❓💵 Peter Godlewski
 
 ### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
 * 👎 Max Martin
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
+* 👎💵 Peter Godlewski
+
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 
 * 👎 Peter God
+
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
 * 👍 Max Martin
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship  👎1 
 * 👎💵 Peter Godlewski
+
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 * 👍💵 Peter Godlewski

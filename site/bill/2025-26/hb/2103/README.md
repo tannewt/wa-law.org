@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 10:30 AM - Local Government (LG): HB 2103 Electric/public contracts
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1029/</link>
 		<description>Updates about HB 1029</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 18:21:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>People demand change to WA law they say endangers children | FOX 13 Seattle</title>
+			<description>News article "People demand change to WA law they say endangers children | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 14 Jan 2026 18:21:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/people-demand-change-wa-state-law-say-endangers-children#:~:text=HB%201029</guid>
 		</item>
 	</channel>
 </rss>

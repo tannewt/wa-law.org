@@ -102,6 +102,9 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍 Jennifer Gregerson
+
 ## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍 DAVID DEMARCO
 

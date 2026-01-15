@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1683/</link>
 		<description>Updates about HB 1683</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 06:31:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 03:12:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -92,6 +92,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nina/Martinez/2026-01-12 06:31:25</guid>
+		</item>
+		<item>
+			<title>❓💵Shannon Grimes - Sightline Institute</title>
+			<description>Shannon Grimes signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/sightline_institute/"&gt;Sightline Institute&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Jan 2026 03:12:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Shannon/Grimes/2026-01-14 03:12:01</guid>
 		</item>
 	</channel>
 </rss>

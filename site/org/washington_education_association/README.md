@@ -335,7 +335,8 @@
 
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
 
-### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
+### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍2  
+* 👍 Jared Mason-Gere
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
 
@@ -517,7 +518,7 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍3  
 
@@ -713,9 +714,14 @@
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 * 👍 Jared Mason-Gere
 
+### [SB 5952](/bill/2025-26/sb/5952/) - Standardizing the process for waiving physical education requirements for high school students.  👎1 
+
 ### [SB 5956](/bill/2025-26/sb/5956/) - Addressing artificial intelligence, student discipline, and surveillance in public schools. 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5969](/bill/2025-26/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans. 👍1  
+* 👍💵 Nasue Nishida
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Larry Delaney

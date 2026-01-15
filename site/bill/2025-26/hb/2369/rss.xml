@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2369/</link>
 		<description>Updates about HB 2369</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-09/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline</title>
+			<description>News article "2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline" from Food Lifeline.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2026-washington-state-legislative-session-update-statewide-food-security-strategy#:~:text=HB%202369</guid>
 		</item>
 	</channel>
 </rss>

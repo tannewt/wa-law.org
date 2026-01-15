@@ -35,11 +35,15 @@
 
 ### [SB 5683](/bill/2025-26/sb/5683/) - Health carrier payment times 👍1  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+
+## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts  👎1 
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts  👎1 
 
 ### [HB 1812](/bill/2023-24/hb/1812/) - Medicaid/B&O tax deductions 👍1  
 * 👍 Len Mc Comb

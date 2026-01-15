@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Wed 01/14 04:00 PM - Transportation (TR): HB 2306 Transportation budget, supp.
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Ashley Mathews - City of Bainbridge Island Council
 * Mike Ennis - Washington Asphalt Pavement Association (WAPA), and Icon Materials a CRH Company
@@ -22,13 +20,17 @@ Testifying:
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Jake Lewing - [City of Wenatchee](/org/city_of_wenatchee/)
 * 💵Jane Wall - County Road Administration Board
+* Jerry VanderWood - AGC
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Dan Twohig - International Organization of Masters, Mates, and Pilots
 
-#### 48 👎 - Con
+#### 71 👎 - Con
 Testifying:
 * Peter Brady
 * Tim Eyman - Initiative Activist
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Breck Lebegue MD MPH - WA Physicians for Social Responsibility
 * Mary Paterson - Solutionary Rail / Rail Can't Wait Coalition
@@ -36,3 +38,4 @@ Testifying:
 * Luke Kobin - Spokane Marshallese Association / One Pacific of WA
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Tim Gould

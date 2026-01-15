@@ -6,4 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Is Officially Underway - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/14/the-2026-legislative-session-is-officially-underway/#:~:text=SB%205892)
+
 ## Meetings
+### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5892 Voter registration database
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

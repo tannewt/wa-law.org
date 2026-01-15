@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 01:30 PM - Housing (HOUS): HB 1974 Land banking authorities
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 04:00 PM - Housing (HOUS): HB 1974 Land banking authorities
 #### 179 👍 - Pro
 Testifying:

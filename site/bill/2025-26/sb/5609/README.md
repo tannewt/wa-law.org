@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205609)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205609)
 
 ## Meetings

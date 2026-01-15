@@ -10,3 +10,11 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [El procurador general Brown, en colaboración con legisladores estatales, propone la Ley de Protección a Trabajadores Inmigrantes | Washington State](http://www.atg.wa.gov/news/news-releases/el-procurador-general-brown-en-colaboraci-n-con-legisladores-estatales-propone#:~:text=SB%205852)
 
 ## Meetings
+### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 5852 Immigrant workers
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

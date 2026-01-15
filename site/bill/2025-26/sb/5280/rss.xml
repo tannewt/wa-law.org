@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5280/</link>
 		<description>Updates about SB 5280</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 00:52:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -230,6 +230,13 @@
 			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-13/Placed on third reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Kicking off the 2026 session - Sen. Claudia Kauffman</title>
+			<description>News article "Kicking off the 2026 session - Sen. Claudia Kauffman" from Senate Democrats.</description>
+			<pubDate>Thu, 15 Jan 2026 00:52:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205280</guid>
 		</item>
 	</channel>
 </rss>

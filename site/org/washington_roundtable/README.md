@@ -36,12 +36,18 @@
 * 👎💵 Neil Strege
 * 👎💵 Neil Strege
 
-## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+* 👍💵 Neil Strege
+
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+* 👍💵 Neil Strege
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍💵 Neil Strege
 
 ## 2023-24
 
-### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp. 👍1  
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍💵 Neil Strege
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  

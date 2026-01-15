@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/14/2026 [The Center Square](/org/the_center_square/) - [WATCH: Proposed ban on police face coverings engenders heated debate in WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_675e795e-a07c-49c0-902a-e31fbef14ed9.html#:~:text=Senate%20Bill%205855)
+* 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Is Officially Underway - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/14/the-2026-legislative-session-is-officially-underway/#:~:text=SB%205855)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [WA State Standard: Proposed ban on police face coverings gains momentum in WA Legislature - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/13/wa-state-standard-proposed-ban-on-police-face-coverings-gains-momentum-in-wa-legislature/#:~:text=Senate%20Bill%205855)
 * 01/13/2026 [Washington State Standard](/org/washington_state_standard/) - [Proposed ban on police face coverings gains momentum in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/13/proposed-ban-on-police-face-coverings-gains-momentum-in-wa-legislature/#:~:text=Senate%20Bill%205855)
 * 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Law%20enforcement%20identification)

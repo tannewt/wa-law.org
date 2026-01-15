@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5938 Foreclosure prevention fee
-Sign up to testify:
-
-#### 84 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * 💵Elizabeth Perez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Raelene Schifano - HOA United
 * Seth Sivinski - [Northwest Justice Project](/org/northwest_justice_project/)
+* Paula Filmore-Sardinas - FMSGS/WBBA
 
-#### 29 👎 - Con
+#### 44 👎 - Con
 
 #### 0 ❓ - Other

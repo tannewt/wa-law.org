@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5952/</link>
 		<description>Updates about SB 5952</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 09:33:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 07:29:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dr. Randy/Spaulding/2026-01-13 09:33:18</guid>
+		</item>
+		<item>
+			<title>👎💵Roz Thompson - Association of Washington School Principals</title>
+			<description>Roz Thompson signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_school_principals/"&gt;Association of Washington School Principals&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Jan 2026 03:07:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Roz/Thompson/2026-01-14 03:07:11</guid>
+		</item>
+		<item>
+			<title>👎Kelsey Machado - Society of Health and Physical Educators of WA</title>
+			<description>Kelsey Machado signed up to testify Con. They are signed up to represent Society of Health and Physical Educators of WA.</description>
+			<pubDate>Wed, 14 Jan 2026 07:29:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kelsey/Machado/2026-01-14 07:29:48</guid>
 		</item>
 	</channel>
 </rss>

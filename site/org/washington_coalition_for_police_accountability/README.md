@@ -19,7 +19,7 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
-### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎1 
+### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎2 
 * 👎 Martina Morris
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍4  
@@ -31,17 +31,16 @@
 
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍2  
 
-## [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍3  
+### [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍3  
 * 👍 Debbie Novak
 * 👍 Sonia Joseph
 * 👍 Trishandra Pickup
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5584](/bill/2023-24/sb/5584/) - Independent prosecutor 👍3  
-* 👍 Debbie Novak
-* 👍 Sonia Joseph
-* 👍 Trishandra Pickup
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 * 👍 Sonia Joseph

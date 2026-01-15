@@ -12,3 +12,11 @@
 * 01/09/2026 [Axios](/org/axios/) - [Washington state lawmakers weigh AI chatbot regulations to protect minors - Axios Seattle](https://www.axios.com/local/seattle/2026/01/09/washington-ai-regulation-chatbots-kids-deepfakes#:~:text=One%20of%20the%20bills)
 
 ## Meetings
+### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 5984 AI companion chatbots
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

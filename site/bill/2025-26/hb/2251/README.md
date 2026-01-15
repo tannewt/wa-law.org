@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 04:00 PM - Appropriations (APP): HB 2251 Climate commit. act accounts
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

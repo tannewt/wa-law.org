@@ -122,6 +122,8 @@
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎4 
 * 👎💵 Darcy Nonemacher
 
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
+
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
 

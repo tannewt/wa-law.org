@@ -209,7 +209,8 @@
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
@@ -241,6 +242,8 @@
 ### [HB 1835](/bill/2025-26/hb/1835/) - Aligning cannabis licensing decisions by the liquor and cannabis board with local zoning ordinances. 👍1  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍💵 Carl Schroeder
@@ -304,6 +307,9 @@
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.   ❓1
 * ❓💵 Derrick Nunnally
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+* 👍💵 Carl Schroeder
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
@@ -312,6 +318,9 @@
 
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
 * ❓💵 Steven Ellis
+
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
+* ❓💵 Candice Bock
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -539,6 +548,9 @@
 * ❓💵 Derrick Nunnally
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Candice Bock
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
 * ❓💵 Candice Bock
 
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1

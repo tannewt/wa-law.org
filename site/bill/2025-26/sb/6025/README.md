@@ -10,7 +10,10 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 6025 Definition of fetal death
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* ARNP, Rachel Johnson CNM
+* Judy Kimmelman MD - ACOG
 
 #### 0 👎 - Con
 

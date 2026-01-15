@@ -15,13 +15,14 @@
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
 
-## [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
+### [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
 * 👍 Yokiko Hayashi-Saguil
+
+## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ## 2023-24
 
-### [SB 5275](/bill/2023-24/sb/5275/) - Passport to careers program 👍1  
-* 👍 Yokiko Hayashi-Saguil
+### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

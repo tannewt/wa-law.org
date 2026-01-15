@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2026 [FOX13](/org/fox13/) - [People demand change to WA law they say endangers children | FOX 13 Seattle](https://www.fox13seattle.com/news/people-demand-change-wa-state-law-say-endangers-children#:~:text=HB%201029)
+
 ## Meetings
 ### Wed 01/29 08:00 AM - Local Government (LG): HB 1029 3D-printed buildings
 #### 0 👍 - Pro

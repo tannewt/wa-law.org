@@ -10,3 +10,13 @@
 * 01/09/2026 [House Democrats](/org/house_democrats/) - [MOCC responds to UW Study on Federal Use of State Databases for Immigration Enforcement and Escalation of Violence by ICE – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/09/mocc-statement-on-uw-study-regarding-agency-collaboration-with-ice/#:~:text=HB%202332)
 
 ## Meetings
+### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2332 Driver privacy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

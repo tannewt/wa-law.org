@@ -13,6 +13,15 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205470)
 
 ## Meetings
+### Wed 01/21 10:30 AM - Housing (HSG): SB 5470 Detached ADUs
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/31 10:30 AM - Housing (HSG): SB 5470 Detached ADUs
 #### 50 👍 - Pro
 Testifying:

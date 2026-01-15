@@ -20,6 +20,8 @@
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
 * 👍💵 Matt Doumit
 
@@ -31,6 +33,8 @@
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
+### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍1  
 
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Matt Doumit

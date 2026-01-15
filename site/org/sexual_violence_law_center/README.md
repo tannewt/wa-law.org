@@ -63,13 +63,16 @@
 ### [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program 👍1  
 * 👍💵 Elizabeth Hendren
 
-## [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 * 👍💵 Elizabeth Hendren
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+* 👍 Alexander Bejarán  Estévez
 
 ## 2023-24
 
-### [SB 5855](/bill/2023-24/sb/5855/) - Law enf. face coverings 👍1  
-* 👍💵 Elizabeth Hendren
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+* 👍 Alexander Bejarán  Estévez
 
 ### [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  
 

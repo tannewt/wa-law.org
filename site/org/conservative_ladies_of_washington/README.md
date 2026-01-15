@@ -92,7 +92,8 @@
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy  👎1 
 * 👎 Mary Long
 
-### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎2 
+### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎2 ❓1
+* ❓ Julie Barrett
 
 ### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications.  👎1 
 

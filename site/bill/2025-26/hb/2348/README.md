@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/23 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2348 Timber sale process
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

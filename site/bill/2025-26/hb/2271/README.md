@@ -13,18 +13,30 @@
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2271 Plastics/recycled content
 Sign up to testify:
 
-#### 11 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - WRRA
 * Allison Kustic - Association of Plastic Recyclers (APR)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* McKenna Morrigan - Seattle Public Utilities
 
-#### 7 👎 - Con
+#### 77 👎 - Con
 Testifying:
 * 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * Dan Felton - Flexible Packaging Association (FPA)
 * 💵Bill Stauffacher - American Forest and Paper Association
+* Jamie Logan - American Cleaning Institute (ACI)
+* 💵Troy Nichols - [American Chemistry Council](/org/american_chemistry_council/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Christopher Finarelli - The Household & Commercial Products Association
+* 💵Edwin Borbon - AMERIPEN
+* 💵Darbi Gottlieb - AdvaMed
 
-#### 108 ❓ - Other
+#### 128 ❓ - Other
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Katherine Mahoney - [Consumer Healthcare Products Association](/org/consumer_healthcare_products_association/)

@@ -6,4 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-update-statewide-food-security-strategy#:~:text=HB%202369)
+
 ## Meetings
+### Tue 01/20 04:00 PM - Education (ED): HB 2369 Local foods/public schools
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -10,11 +10,11 @@
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 1496 Health care information
 Sign up to testify:
 
-#### 275 👍 - Pro
+#### 310 👍 - Pro
 Testifying:
 * Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
-#### 12 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Jennifer Burkhardt - Summit Pacific Medical Center
 * 💵Leslie Emerick - WA State Podiatric Medicine Asso, WA Acupuncture & E. Medicine Assn, American Massage Therapy Assn,

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/23 01:30 PM - Finance (FIN): HB 2194 Cultural access sales tax
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

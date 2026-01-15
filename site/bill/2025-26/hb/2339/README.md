@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2339 Nursing
-Sign up to testify:
-
-#### 15 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * PhD, ARNP, FNP-BC, Louise Kaplan - ARNPs United of Washington State
 * Dr. Mary Sue Gorski - Washington State Board of Nursing
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

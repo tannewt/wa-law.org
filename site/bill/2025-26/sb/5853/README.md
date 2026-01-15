@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/23 10:30 AM - State Government & Elections (SGE): SB 5853 Public official notification
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

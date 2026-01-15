@@ -18,7 +18,7 @@
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2105 Immigrant workers
 Sign up to testify:
 
-#### 1030 👍 - Pro
+#### 1434 👍 - Pro
 Testifying:
 * Weilson Geng
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
@@ -27,6 +27,7 @@ Testifying:
 * Heather Sisson
 * Stacey Powell
 * Valerie Middleton
+* Kathryn Pitroff
 * Angela Turletti
 * Madeline Schaller
 * Eugene Kemper
@@ -40,8 +41,14 @@ Testifying:
 * Meg Dambrosio
 * Patricia Blau
 * Ericka Baird - Tacoma German Language School
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Jennyfer Mesa - Latinos En Spokane
+* Edgar Franks - Familias Unidas por la Justicia
+* Pedro Espinoza
+* Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
+* Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 
-#### 76 👎 - Con
+#### 239 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Anna Burt

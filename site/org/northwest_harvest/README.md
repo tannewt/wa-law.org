@@ -33,6 +33,8 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
 * ❓💵 Anna Nepomuceno
 
+### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 
 ### [SB 5214](/bill/2025-26/sb/5214/) - Mobile market programs 👍1  

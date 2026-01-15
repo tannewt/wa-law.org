@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2132/</link>
 		<description>Updates about HB 2132</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 10:49:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 09:42:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,6 +76,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jocelyn/Granados/2026-01-13 10:49:54</guid>
+		</item>
+		<item>
+			<title>👍Tayler Barber - Evergreen Geoduck Student Union</title>
+			<description>Tayler Barber signed up to testify Pro.</description>
+			<pubDate>Wed, 14 Jan 2026 06:33:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tayler/Barber/2026-01-14 06:33:25</guid>
+		</item>
+		<item>
+			<title>👍Blanca Moreno - Communities for Our Colleges</title>
+			<description>Blanca Moreno signed up to testify Pro. They are signed up to represent Communities for Our Colleges.</description>
+			<pubDate>Wed, 14 Jan 2026 09:42:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Blanca/Moreno/2026-01-14 09:42:11</guid>
 		</item>
 	</channel>
 </rss>

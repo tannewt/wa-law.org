@@ -7,9 +7,22 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/14/2026 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [It’s time to regulate Flock Cameras and ALPRs, with the Driver Privacy Act - ACLU of Washington](https://www.aclu-wa.org/news/its-time-to-regulate-flock-cameras-and-alprs-with-the-driver-privacy-act/#:~:text=Senate%20Bill%206002)
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Condemns ICE Access to State Databases - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/12/washington-state-senate-members-of-color-caucus-condemns-ice-access-to-state-databases/#:~:text=Senate%20Bill%206002)
 * 01/12/2026 [KING5](/org/king5/) - [Washington's legislative session kicks off Monday | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-2026-legislative-session-kicks-off-60-days/281-f18519b9-2318-48ef-968b-46085ea0c2ff#:~:text=use%20of%20Flock%20data%20by%20law%20enforcement)
 * 01/08/2026 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Driver Privacy Act - ACLU of Washington](https://www.aclu-wa.org/legislation/driver-privacy-act/#:~:text=SB%206002)
 * 01/06/2026 [Senate Democrats](/org/senate_democrats/) - [Bill introduced to regulate ‘Flock’ automatic license plate reader cameras - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/06/bill-introduced-to-regulate-flock-automatic-license-plate-reader-cameras/#:~:text=SB%206002)
 
 ## Meetings
+### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6002 Driver privacy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* Gregory Smith
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

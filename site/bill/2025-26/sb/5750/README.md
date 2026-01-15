@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 04:00 PM - Transportation (TRAN): SB 5750 State facility EV charging
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

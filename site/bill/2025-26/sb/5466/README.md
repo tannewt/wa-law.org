@@ -13,6 +13,15 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205466)
 
 ## Meetings
+### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): ESSB 5466 Electric transmission system
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5466 Electric transmission system
 #### 168 👍 - Pro
 Testifying:

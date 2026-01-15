@@ -18,6 +18,9 @@
 
 ### [HB 2244](/bill/2025-26/hb/2244/) - Adopting the recommendations of the public records exemptions accountability committee in its 2025 annual report. 👍2  
 
+### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence.   ❓1
+* ❓💵 Donna Christensen
+
 ### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍3  
 * 👍💵 Donna Christensen
 

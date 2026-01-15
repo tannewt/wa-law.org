@@ -13,6 +13,8 @@
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 * 👍 King County Councilmember Jorge Baron
 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍2  
+
 ### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍1  
 * 👍 Mac Nicholson
 

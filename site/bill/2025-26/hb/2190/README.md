@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2190 Language access providers
-Sign up to testify:
-
-#### 75 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Barbara Robertson - WFSE
 * Kati Durkin - WFSE

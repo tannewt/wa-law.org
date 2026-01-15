@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/21 04:00 PM - Transportation (TR): HB 2374 Electric motorcycle, bicycle
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

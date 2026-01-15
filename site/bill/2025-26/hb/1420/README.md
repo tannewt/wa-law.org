@@ -16,13 +16,15 @@
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
 Sign up to testify:
 
-#### 321 👍 - Pro
+#### 369 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * McKenna Morrigan - Seattle Public Utilities
 * Amanda Miller - South King Tool Library
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Miguela Marzolf - Seattle Aquarium
 
-#### 192 👎 - Con
+#### 557 👎 - Con
 Testifying:
 * Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Darbi Gottlieb - AdvaMed
@@ -30,8 +32,16 @@ Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Jessica Franken Franken - Secondary Materials and Recycled Textiles Association (SMART)
+* Cameron Curtis - Secondary Materials and Recycled Textiles Assoc (to be called if Jessica Franken isn't available)
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Teresa Birge - American Circular Textiles
+* 💵Hanna Jones - Goodwill
+* Lindsay Herendeen - Washington State Board of Health
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Edwin Borbon - The Center for Baby and Adult Hygiene Products (BAHP)
 
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1420 Textile producers
 #### 9 👍 - Pro

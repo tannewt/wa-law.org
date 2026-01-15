@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 01:30 PM - Human Services (HS): SB 5681 DDA employment services age
+Sign up to testify:
+
+#### 11 👍 - Pro
+Testifying:
+* DARCY HUFFMAN - community employment alliance
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

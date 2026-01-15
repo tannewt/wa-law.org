@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 04:00 PM - Transportation (TRAN): ESB 5746 EV charger property crime
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 04/03 01:30 PM - Transportation (TR): ESB 5746 EV charger property crime
 #### 45 👍 - Pro
 Testifying:

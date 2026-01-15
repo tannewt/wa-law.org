@@ -37,13 +37,15 @@
 
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍3  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
@@ -110,13 +112,14 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-## [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Preston Peck
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5965](/bill/2023-24/sb/5965/) - Retail bags 👍1  
-* 👍 Preston Peck
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

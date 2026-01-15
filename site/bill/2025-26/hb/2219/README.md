@@ -11,13 +11,13 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2219 Child care providers
-Sign up to testify:
-
-#### 73 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * 💵Alex Galeana - Children's Campaign Fund Action
 * Jordan Crawley - SEIU 925 / Alki Beach Academy
 * 💵Erin Haick - SEIU 925
+* Mary Curry - Linked Arms/Pathways
+* 💵Alex Galeana - Children’s Campaign Fund Action
 
 #### 0 👎 - Con
 

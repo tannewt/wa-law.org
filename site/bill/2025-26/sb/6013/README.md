@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6013 Ski areas and winter sports
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

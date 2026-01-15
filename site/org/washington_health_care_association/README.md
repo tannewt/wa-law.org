@@ -23,6 +23,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 * 👎 Carma Matti-Jackson
 
+### [HB 2299](/bill/2025-26/hb/2299/) - Independent living ombuds  👎1 
+* 👎 Jeff Gombosky
+
 ### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1

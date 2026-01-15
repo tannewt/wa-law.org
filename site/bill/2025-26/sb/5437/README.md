@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
 #### 59 👍 - Pro
 Testifying:

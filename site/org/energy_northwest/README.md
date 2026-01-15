@@ -49,13 +49,16 @@
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 * 👍 Greg Cullen
 
-## [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 * 👍 Daniel Himebaugh
+
+## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ## 2023-24
 
-### [SB 6004](/bill/2023-24/sb/6004/) - Electric/public contracts 👍1  
-* 👍 Daniel Himebaugh
+### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

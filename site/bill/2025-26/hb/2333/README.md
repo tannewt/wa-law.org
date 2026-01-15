@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2333 Political violence
-Sign up to testify:
-
-#### 19 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Joe Kunzler - NEVER AGAIN MEANS NEVER AGAIN
 * Aparna Ghosh - Ghosh Innovation Lab
@@ -25,13 +23,23 @@ Testifying:
 * Alana Persson - RepresentWomen
 * Eveline Dowling - Expand Democracy
 * 💵Aquene Freechild - [Public Citizen](/org/public_citizen/)
+* Hanah Stiverson - Human Rights First
+* Valerie Bouffiou
+* Caroline Djamalov - King County Prosecutor’s Office
+* Michael Mohandeson - King County Prosecutor’s Office
+* David Larson
 
-#### 13 👎 - Con
+#### 491 👎 - Con
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington State Association of Broadcasters
 
-#### 6 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Dallas Burnett - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Heather Hirotaka - Office of Secretary of State / State Archives
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Lunell Haught - l
 * 💵Michael Shaw - Washington Association of County Officials, Washington State Association of County Auditors
+* 💵Donna Christensen - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Arthur West
+* Sean Flynn - Public Disclosure Commission

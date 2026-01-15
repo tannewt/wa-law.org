@@ -144,6 +144,8 @@
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 * 👍💵 Leah Missik
 
+### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
+
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Leah Missik
 

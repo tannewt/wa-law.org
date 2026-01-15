@@ -10,6 +10,15 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201652)
 
 ## Meetings
+### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 04:00 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
 #### 525 👍 - Pro
 Testifying:

@@ -10,7 +10,7 @@
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6037 Fire protection districts
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Rob Karlinsey - Moses Lake City Manager
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -19,6 +19,6 @@ Testifying:
 * DAVID DEMARCO - [City of Everett](/org/city_of_everett/)
 * John Williams - City Administrator for City of Lynden
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

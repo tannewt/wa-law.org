@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 1904 Declawing cats
-Sign up to testify:
-
-#### 2899 👍 - Pro
+#### 3184 👍 - Pro
 Testifying:
 * Dr. Jennifer Conrad - Paw Project
 * Tracey Frankcom
@@ -23,9 +21,10 @@ Testifying:
 * Leslie Dalzell - THE HUMANE SOCIETY FOR TACOMA & PIERCE COUNTY
 * Leslie Dalzell - THE HUMANE SOCIETY FOR TACOMA & PIERCE COUNTY
 * Cynthia Parsons
+* Craig Tebeau
 
-#### 107 👎 - Con
+#### 135 👎 - Con
 
-#### 19 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * 💵Greg Hanon - Washington State Veterinary Medical Assoc.

@@ -13,7 +13,7 @@
 ### Thu 01/15 04:00 PM - Ways & Means (WM): SB 5754 Washington state public bank
 Sign up to testify:
 
-#### 157 👍 - Pro
+#### 211 👍 - Pro
 Testifying:
 * Marco Rosaire Rossi - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
 * Toyoko Tsukuda
@@ -24,13 +24,17 @@ Testifying:
 * Patty Kuderer - Office of the Insurance Commissioner
 * Paula Fillmore-Sardinas - FMSGS/WBBA
 * 💵John Traynor - washington state labor council, afl-cio
+* Wayne Lau
+* BSN, RN, Kathryn Lewandowsky
+* Satpal Sidhu - Whatcom County
 
-#### 225 👎 - Con
+#### 675 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jackie Brunson - Washington State Association of County Treasurers
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5754 Washington state public bank
 #### 135 👍 - Pro

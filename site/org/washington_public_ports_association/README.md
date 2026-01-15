@@ -113,6 +113,9 @@
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
+* 👍 Eric ffitch
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  ❓1
@@ -196,6 +199,12 @@
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
+* 👍 James James Cockburn
+
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+* 👍 Eric ffitch
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels

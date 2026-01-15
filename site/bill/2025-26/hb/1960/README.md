@@ -9,6 +9,15 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Fri 01/23 01:30 PM - Finance (FIN): HB 1960 Renewable energy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/27 09:00 AM - Appropriations (APP): HB 1960 Renewable energy
 #### 10 👍 - Pro
 Testifying:

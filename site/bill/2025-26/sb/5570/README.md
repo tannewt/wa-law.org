@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205570)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SSB%205570)
 * 03/21/2025 [Senate Democrats](/org/senate_democrats/) - [Town halls tomorrow and an update - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/21/town-halls-tomorrow-and-an-update/#:~:text=5570)
 * 03/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 10: Senate Advances Special Education Bill - WSPTA](https://www.wastatepta.org/senate-advances-special-education-bill/#:~:text=SSB%205570)

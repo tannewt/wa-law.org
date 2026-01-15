@@ -10,13 +10,13 @@
 ### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5961 Imagination library program
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Brooke Fisher-Clarke - Imagination Library of Washington
 * Dr LoAnn Ayers - United Way of Benton & Franklin Counties
 * Scott Herrick - The Dollywood Foundation
 * Misha Cherniske - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 151 👎 - Con
 
 #### 0 ❓ - Other

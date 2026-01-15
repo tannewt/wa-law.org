@@ -8,9 +8,11 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2329 Midwife supervision
-Sign up to testify:
-
-#### 25 👍 - Pro
+#### 144 👍 - Pro
+Testifying:
+* Cynthia Flynn - Washington Association of Birth Centers
+* Lynette Pettibone - MAWS WABC Tye Bridge Birth Center
+* Carolee Hall
 
 #### 1 👎 - Con
 

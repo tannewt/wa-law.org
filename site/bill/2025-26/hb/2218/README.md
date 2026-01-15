@@ -10,11 +10,15 @@
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2218 Workers' comp. medical care
 Sign up to testify:
 
-#### 198 👍 - Pro
+#### 212 👍 - Pro
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific
+* Kris Tefft - Washington Self-Insurers Association
+* Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kirsta Glenn - Department of Labor & Industries

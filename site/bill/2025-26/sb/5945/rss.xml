@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5945/</link>
 		<description>Updates about SB 5945</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 12:26:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 04:54:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -165,6 +165,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Laurel/Redden/2026-01-13 12:26:38</guid>
+		</item>
+		<item>
+			<title>Proposed WA bill would remove juvenile offenses from ‘Three Strikes’ convictions – KIRO 7 News Seattle</title>
+			<description>News article "Proposed WA bill would remove juvenile offenses from ‘Three Strikes’ convictions – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Wed, 14 Jan 2026 04:54:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/proposed-wa-bill-would-remove-juvenile-offenses-three-strikes-convictions/4NS7UUA33NAT7EYPKJLSYTZWGU/#:~:text=Senate%20Bill%205945</guid>
 		</item>
 	</channel>
 </rss>

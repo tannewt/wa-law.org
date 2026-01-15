@@ -10,7 +10,7 @@
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SB 5874 Unemployment info. reporting
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

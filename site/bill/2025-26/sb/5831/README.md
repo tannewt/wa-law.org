@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5831 Uniform mortgage mod. act
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

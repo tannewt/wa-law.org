@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2249 Civil service/WaTech
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

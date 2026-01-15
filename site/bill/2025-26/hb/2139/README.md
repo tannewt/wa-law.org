@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/22 04:00 PM - Transportation (TR): HB 2139 Snowmobile registration fees
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

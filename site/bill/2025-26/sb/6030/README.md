@@ -8,12 +8,10 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 6030 Plastic carryout bags
-Sign up to testify:
+#### 192 👍 - Pro
 
-#### 170 👍 - Pro
+#### 11 👎 - Con
 
-#### 6 👎 - Con
-
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association

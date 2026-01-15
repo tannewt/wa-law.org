@@ -140,6 +140,9 @@
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
 * 👍 Sean DeWitz
 
+### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 
+* 👎 Sean DeWitz
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
@@ -227,7 +230,8 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎💵 Julia Gorton
 
-### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍2  
+### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍3  
+* 👍💵 Logan Dozier
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
 * ❓ Kerry Dolan

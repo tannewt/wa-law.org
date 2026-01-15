@@ -10,7 +10,7 @@
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5868 Superior court judges
 Sign up to testify:
 
-#### 10 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * LaDon Linde - Yakima County Commissioner
 * Commissioner Ron Wesen - [Skagit County](/org/skagit_county/)

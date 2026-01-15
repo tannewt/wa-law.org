@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5861 Education/community rep.
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* William Yoon - Youth Civic Bridge
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

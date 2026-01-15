@@ -8,19 +8,18 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Local Government (LG): HB 2201 Urban growth area planning
-Sign up to testify:
-
-#### 19 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Karl Almgren - City of Lynnwood - Community Planning Manager
 * Haylie Matson - Community & Economic Development Director, City of Pasco
 * Micheal Cerbone - [City of Ferndale](/org/city_of_ferndale/)
 * BRIAN ENSLOW - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 558 👎 - Con
+#### 572 👎 - Con
 Testifying:
 * 💵Michael Shaw - American Planning Association, WA Chapter
 * Jeff Pack - Me
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 4 ❓ - Other
 Testifying:

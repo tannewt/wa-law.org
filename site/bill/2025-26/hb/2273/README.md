@@ -10,12 +10,16 @@
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2273 Embodied carbon/buildings
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Chris Hellstern - AIA Washington
+* 💵Alexandra Johnson - Duwamish River Community Coalition
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Hanna Waterstrat - Department of Commerce

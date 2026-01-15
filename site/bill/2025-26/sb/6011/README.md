@@ -14,6 +14,6 @@ Sign up to testify:
 Testifying:
 * Bill Bowman - Washington State Court of Appeals
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

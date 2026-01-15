@@ -41,7 +41,7 @@
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 ❓1
 * 👎💵 Crystal Leatherman
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
@@ -177,7 +177,22 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 * 👎💵 Crystal Leatherman
 
+### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
+
+### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
+* 👎💵 Crystal Leatherman
+
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
+* 👎💵 Crystal Leatherman
+
+### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
+
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
+* 👍💵 Crystal Leatherman
+
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
 * 👍💵 Crystal Leatherman
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  

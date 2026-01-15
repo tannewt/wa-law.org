@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2355 Domestic workers
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

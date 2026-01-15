@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2372 Workers' compensation
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

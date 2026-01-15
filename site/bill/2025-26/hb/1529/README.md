@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 01/21 08:00 AM - Local Government (LG): HB 1529 Cities/county road resources
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 10:30 AM - Local Government (LG): HB 1529 Cities/county road resources
 #### 14 👍 - Pro
 Testifying:

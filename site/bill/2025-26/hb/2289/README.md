@@ -14,9 +14,7 @@
 
 ## Meetings
 ### Wed 01/14 04:00 PM - Appropriations (APP): HB 2289 Operating budget, supp.
-Sign up to testify:
-
-#### 27 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * Marty Reid
 * David Knight - UW
@@ -42,8 +40,9 @@ Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
 * Tom McGarry
+* 💵Michael Moran - WA Music Therapy Task Force
 
-#### 84 👎 - Con
+#### 1093 👎 - Con
 Testifying:
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 * Jay Tyus - Superintendent, Wilbur and Creston Cooperative School Districts
@@ -67,8 +66,11 @@ Testifying:
 * Chris Beckers - Parkside Retirement- Noble Healthcare
 * Monique Mason - Heartwood Extended Care- Evergreen Healthcare
 * Mindy Bradley - The Oaks at Lakewood
+* Cynthia Tamayo - WA State School Directors' Association
+* JOHN WORTHINGTON
+* Mindy Bradley - The Oaks at Lakewood
 
-#### 35 ❓ - Other
+#### 138 ❓ - Other
 Testifying:
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Kim Justice - Partners for Our Children
@@ -104,6 +106,8 @@ Testifying:
 * Tammy Bowen - Work Opportunities
 * 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
 * Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
+* Patricia Castaneda - [Manzanita House](/org/manzanita_house/)
+* Cathy Murahashi - The Arc of Washington
 
 ### Mon 01/12 04:00 PM - Appropriations (APP): HB 2289 Operating budget, supp.
 #### 41 👍 - Pro

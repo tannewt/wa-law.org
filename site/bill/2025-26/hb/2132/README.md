@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2132 Financial aid applic./PRA
-Sign up to testify:
-
-#### 620 👍 - Pro
+#### 764 👍 - Pro
 Testifying:
 * Dennise Arteaga - Communities for Our College
 * Angel Badillo - Communities for Our College
@@ -21,7 +19,9 @@ Testifying:
 * Brandon Elliott - ASUW
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
 * Jocelyn Granados
+* Tayler Barber
+* Blanca Moreno - Communities for Our Colleges
 
-#### 59 👎 - Con
+#### 84 👎 - Con
 
 #### 0 ❓ - Other

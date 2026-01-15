@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/14/2026 [KING5](/org/king5/) - [Washington crime victim organizations seek state help due to reduced federal funding | king5.com](https://www.king5.com/article/news/local/washington-crime-victim-organizations-seek-state-help-due-to-reduced-federal-funding/616-531e12cf-7a11-4390-bffe-61d48494439e#:~:text=the%20bill)
 * 07/17/2025 [Washington State Standard](/org/washington_state_standard/) - [Crime victim programs in Washington struggle as funding erodes • Washington State Standard](https://washingtonstatestandard.com/2025/07/17/crime-victim-programs-in-washington-struggle-as-funding-erodes/#:~:text=Senate%20Bill%205362)
 * 02/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Funding for crime victim services in Washington is running short • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/funding-for-crime-victim-services-in-washington-is-running-short/#:~:text=Proposals%20from%20Sen.%20Manka%20Dhingra,%20D-Redmond)
 * 01/31/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [Emergency Temp Home Page – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/emergency-temp-home-page/#:~:text=SB%205362)

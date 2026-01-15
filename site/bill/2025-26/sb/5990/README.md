@@ -10,7 +10,7 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5990 Rural local health officers
 Sign up to testify:
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 
 #### 5 👎 - Con
 

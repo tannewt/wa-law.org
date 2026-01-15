@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5956/</link>
 		<description>Updates about SB 5956</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 07:36:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 19:32:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jonathan/Pincus/2026-01-13 07:36:58</guid>
+		</item>
+		<item>
+			<title>Nobles bill to protect students from harmful uses of AI in public schools heard in committee - Sen. T’wina Nobles</title>
+			<description>News article "Nobles bill to protect students from harmful uses of AI in public schools heard in committee - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Wed, 14 Jan 2026 19:32:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/01/14/nobles-bill-to-protect-students-from-harmful-uses-of-ai-in-public-schools-heard-in-committee/#:~:text=Senate%20Bill%205956</guid>
 		</item>
 	</channel>
 </rss>

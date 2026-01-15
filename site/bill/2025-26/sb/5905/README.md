@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5905 Port workers PERS membership
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* James James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

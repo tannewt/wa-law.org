@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5919 Fire best practices
-Sign up to testify:
-
-#### 46 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Michael Harris - Franklin County Fire Protection District #3
 * 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)

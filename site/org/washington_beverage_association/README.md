@@ -8,6 +8,9 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Brad Boswell
 
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
+* ❓💵 Brad Boswell
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 * 👍💵 Brooke Davies
 * 👍💵 Brad Boswell

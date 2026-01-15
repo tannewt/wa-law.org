@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5918 School operating costs
+Sign up to testify:
+
+#### 5 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland
+* Jim Kowalkowski - Rural Education Center
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

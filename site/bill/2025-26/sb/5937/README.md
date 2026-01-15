@@ -11,17 +11,16 @@
 
 ## Meetings
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5937 Smart access systems/tenants
-Sign up to testify:
-
-#### 17 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Maddie Stoothoff
 * Ethan Martes - [Tenants Revolt](/org/tenants_revolt/)
 
-#### 14 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Daniel Bannon - RHAWA
+* 💵Chester Baldwin - Rental Housing Assn of WA
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Jake Mayson - Washington Multi-Family Housing Association

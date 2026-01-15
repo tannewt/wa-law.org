@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Human Services (HS): SB 5957 Homeless youth committee
-Sign up to testify:
-
-#### 24 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Gage Spicer - Office Of Homeless Youth Advisory Committee
 
-#### 35 👎 - Con
+#### 41 👎 - Con
 
 #### 0 ❓ - Other

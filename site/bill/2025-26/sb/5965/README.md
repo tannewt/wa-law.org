@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5965 Retail bags
-Sign up to testify:
-
-#### 533 👍 - Pro
+#### 552 👍 - Pro
 Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
 * Maggie Yuse - Seattle Public Utilities
@@ -25,8 +23,9 @@ Testifying:
 * Rick Hughes - Ray's Pharmacy
 * 💵Gail Cabahug - Puget Soundkeeper Alliance
 * Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 677 👎 - Con
+#### 701 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Crystal Leatherman

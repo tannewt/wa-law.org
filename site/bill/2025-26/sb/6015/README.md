@@ -10,3 +10,11 @@
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session is about to begin! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/09/2026-legislative-session-is-about-to-begin/#:~:text=Senate%20Bill%206015)
 
 ## Meetings
+### Wed 01/21 10:30 AM - Housing (HSG): SB 6015 Residential building plans
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

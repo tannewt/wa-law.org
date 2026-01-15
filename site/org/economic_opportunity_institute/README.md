@@ -58,8 +58,12 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
+### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 * 👍 Sam Hatzenbeler
+
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -114,13 +118,14 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 * 👍💵 Traci Underwood
+
+## [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
 ## 2023-24
 
-### [SB 5813](/bill/2023-24/sb/5813/) - Tax rates/cap. gains, estate 👍1  
-* 👍💵 Traci Underwood
+### [SB 5967](/bill/2023-24/sb/5967/) - Preventive health services 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

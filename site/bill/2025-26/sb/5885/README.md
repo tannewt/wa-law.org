@@ -7,14 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/14/2026 [The Center Square](/org/the_center_square/) - [Spokane housing bills clear first hurdle, could cost state millions in revenue | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_74a30acb-a834-4225-ba2d-3b0865868216.html#:~:text=Senate%20Bill%205885)
 * 01/13/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: Key housing bills to receive public hearings on Wednesday - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/13/media-advisory-key-housing-bills-to-receive-public-hearings-on-wednesday/#:~:text=Senate%20Bill%205885)
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=SB%205885)
 
 ## Meetings
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5885 Housing dev./religious orgs.
-Sign up to testify:
-
-#### 146 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Victoria OBanion
 * Angela Birney - City of Redmond Mayor
@@ -26,8 +25,9 @@ Testifying:
 * Brian Grow - Proclaim Liberty, affordable housing
 * Michael Blumson - LISC
 * Drew Peterson - Liminal Land Consultants
+* Kitty Klitzke - Spokane City Council
 
-#### 16 👎 - Con
+#### 152 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

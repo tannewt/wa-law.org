@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5735 Imitation firearm labeling
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 5 👎 - Con
+
+#### 0 ❓ - Other

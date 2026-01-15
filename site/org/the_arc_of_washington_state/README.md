@@ -33,6 +33,8 @@
 
 ### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
 
+### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member. 👍1  
+
 ### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  

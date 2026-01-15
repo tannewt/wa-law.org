@@ -10,7 +10,7 @@
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 2111 I-5 bridge account earnings
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Ron Arp - Identity Clark County
 * 💵Matt Zuvich - Office of the State Treasurer

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 6067 Workers' compensation
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

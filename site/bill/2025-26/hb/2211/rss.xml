@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2211/</link>
 		<description>Updates about HB 2211</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 03:40:20 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jillian/Moore/2026-01-13 03:40:20</guid>
+		</item>
+		<item>
+			<title>2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline</title>
+			<description>News article "2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline" from Food Lifeline.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2026-washington-state-legislative-session-update-statewide-food-security-strategy#:~:text=HB%202211</guid>
 		</item>
 	</channel>
 </rss>

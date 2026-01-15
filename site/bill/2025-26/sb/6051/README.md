@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 08:00 AM - Early Learning & K-12 Education (EDU): SB 6051 School district waivers
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

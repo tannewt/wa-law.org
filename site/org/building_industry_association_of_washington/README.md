@@ -184,6 +184,9 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Andrea Smiley
 
+### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
+* 👎 Mike Ennis
+
 ### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
 
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
@@ -365,6 +368,8 @@
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+
+### [SB 5874](/bill/2025-26/sb/5874/) - Concerning employers' information reporting for purposes of unemployment compensation. 👍1  
 
 ### [SB 5943](/bill/2025-26/sb/5943/) - Concerning the use of school impact fees.  👎1 
 * 👎💵 Bill Stauffacher

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2320 Firearm manufacturing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other

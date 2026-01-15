@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5820 Freight rail dependent use
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* 💵Amber Carter - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
+
+#### 0 ❓ - Other

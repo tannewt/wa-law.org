@@ -10,7 +10,10 @@
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2228 Scissor stairs
 Sign up to testify:
 
-#### 112 👍 - Pro
+#### 152 👍 - Pro
+Testifying:
+* Ivy Roth
+* Iain MacKenzie - TVA Architects
 
 #### 0 👎 - Con
 

@@ -10,8 +10,10 @@
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6066 Accident risk zones
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* Harold Stewart - City Manager at the City of Pasco
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

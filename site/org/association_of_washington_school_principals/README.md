@@ -139,6 +139,9 @@
 ### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications   ❓1
 * ❓💵 Roz Thompson
 
+### [SB 5952](/bill/2025-26/sb/5952/) - Standardizing the process for waiving physical education requirements for high school students.  👎1 
+* 👎💵 Roz Thompson
+
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 
 ## 2023-24

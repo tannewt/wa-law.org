@@ -10,15 +10,17 @@
 ### Thu 01/15 08:00 AM - Housing (HOUS): HB 2299 Independent living ombuds
 Sign up to testify:
 
-#### 176 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * Vivian A Alexander - 30th District Democrats
 * Laura Saunders - Washington Continuing Care Residents Asdiciationsociation
+* 💵Melanie Smith - WA State Long Term Care Ombuds Program
 
-#### 1 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * Sheryl Grant
+* Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
 
-#### 1 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Alyssa Odegaard - LeadingAge Washington

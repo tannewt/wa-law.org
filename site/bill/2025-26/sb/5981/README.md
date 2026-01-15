@@ -10,13 +10,21 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5981 340B drug pricing program
 Sign up to testify:
 
-#### 142 👍 - Pro
+#### 215 👍 - Pro
 Testifying:
 * Joseph Finley - Confederated Tribes of the Colville Reservation
+* Steve Kutz - Cowlitz Tribe/American Indian Health Commission
 
-#### 59 👎 - Con
+#### 70 👎 - Con
 Testifying:
 * Kalvin Pugh - Community Access National Network
 * Corbin Santo - Johnson & Johnson Innovative Medicine
+* Mary Fischietto - GSK
+* 💵Anne Murray - Bristol Myers Squibb
+* 💵Brandy Flores - Pfizer
+* Mike Ennis - Building Industry Association of Washington (BIAW)
+* Shari Beagelman - BlackDoctor
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society

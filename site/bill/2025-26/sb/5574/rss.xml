@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5574/</link>
 		<description>Updates about SB 5574</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 07:10:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 19:33:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -513,6 +513,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Samantha/Mark/2026-01-13 07:10:02</guid>
+		</item>
+		<item>
+			<title>👎Tara Pines - Seattle Council PTSA</title>
+			<description>Tara Pines signed up to testify Con.</description>
+			<pubDate>Wed, 14 Jan 2026 02:45:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tara/Pines/2026-01-14 02:45:29</guid>
+		</item>
+		<item>
+			<title>Nobles inclusive history education bill heard in committee - Sen. T’wina Nobles</title>
+			<description>News article "Nobles inclusive history education bill heard in committee - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Wed, 14 Jan 2026 19:33:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/01/14/nobles-inclusive-history-education-bill-heard-in-committee/#:~:text=Senate%20Bill%205574</guid>
 		</item>
 	</channel>
 </rss>

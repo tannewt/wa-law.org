@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2343 Game farm/water quality
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

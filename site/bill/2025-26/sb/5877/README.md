@@ -10,12 +10,12 @@
 ### Thu 01/15 08:00 AM - Health & Long Term Care (HLTC): SB 5877 Anesth. assistant surcharges
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Taylor Bacharach-Nixon - Washington Medical Commission
 * Chris Bundy - [Washington Physicians Health Program](/org/washington_physicians_health_program/)
 * 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

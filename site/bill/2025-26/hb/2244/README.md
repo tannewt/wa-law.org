@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2244 Public records exemptions
-Sign up to testify:
-
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Katherine George
 * Joe Kunzler - Private Citizen
 * Linda Krese - Not official rep, but am a past chair of the Pub. Records Exemptions Accountability Comm.
+* Arthur West
+* 💵Rowland Thompson - Public Records Exemptions Accountability Committee (Sunshine Committee)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Connor Haggerty - Washington State University
 
 #### 0 ❓ - Other

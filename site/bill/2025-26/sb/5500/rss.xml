@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5500/</link>
 		<description>Updates about SB 5500</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 14:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -157,6 +157,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/Moved to Rules White Sheet.</guid>
+		</item>
+		<item>
+			<title>WA DCYF child care reimbursement rates could increase by 30% from 2021 levels | Washington | thecentersquare.com</title>
+			<description>News article "WA DCYF child care reimbursement rates could increase by 30% from 2021 levels | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 14 Jan 2026 14:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0c79cfe6-7b01-4960-b901-599f84df051c.html#:~:text=Senate%20Bill%205500</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Local Government (LG): HB 2154 Conservation district land
-Sign up to testify:
-
-#### 70 👍 - Pro
+#### 99 👍 - Pro
 
 #### 9 👎 - Con
 Testifying:

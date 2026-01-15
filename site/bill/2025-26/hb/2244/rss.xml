@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2244/</link>
 		<description>Updates about HB 2244</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 11 Jan 2026 11:15:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 12:13:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Linda/Krese/2026-01-11 11:15:15</guid>
+		</item>
+		<item>
+			<title>👍Arthur West - Not official rep, but am a past chair of the Pub. Records Exemptions Accountability Comm.</title>
+			<description>Arthur West signed up to testify Pro.</description>
+			<pubDate>Wed, 14 Jan 2026 06:06:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Arthur/West/2026-01-14 06:06:23</guid>
+		</item>
+		<item>
+			<title>👍💵Rowland Thompson - Public Records Exemptions Accountability Committee (Sunshine Committee)</title>
+			<description>Rowland Thompson signed up to testify Pro. They are signed up to represent Public Records Exemptions Accountability Committee (Sunshine Committee). They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Jan 2026 09:21:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2026-01-14 09:21:00</guid>
+		</item>
+		<item>
+			<title>👎💵Connor Haggerty - Washington State University</title>
+			<description>Connor Haggerty signed up to testify Con. They are signed up to represent Washington State University. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Jan 2026 12:13:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Connor/Haggerty/2026-01-14 12:13:55</guid>
 		</item>
 	</channel>
 </rss>

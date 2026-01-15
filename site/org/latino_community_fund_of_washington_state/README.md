@@ -47,6 +47,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  

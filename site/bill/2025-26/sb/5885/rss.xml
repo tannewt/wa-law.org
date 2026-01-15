@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5885/</link>
 		<description>Updates about SB 5885</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 22:51:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 14:31:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,21 @@
 			<pubDate>Tue, 13 Jan 2026 22:51:07 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/riccelli/2026/01/13/media-advisory-key-housing-bills-to-receive-public-hearings-on-wednesday/#:~:text=Senate%20Bill%205885</guid>
+		</item>
+		<item>
+			<title>👍Kitty Klitzke - Spokane City Council</title>
+			<description>Kitty Klitzke signed up to testify Pro. They are signed up to represent Spokane City Council.</description>
+			<pubDate>Wed, 14 Jan 2026 09:10:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kitty/Klitzke/2026-01-14 09:10:51</guid>
+		</item>
+		<item>
+			<title>Spokane housing bills clear first hurdle, could cost state millions in revenue | Washington | thecentersquare.com</title>
+			<description>News article "Spokane housing bills clear first hurdle, could cost state millions in revenue | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 14 Jan 2026 14:31:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_74a30acb-a834-4225-ba2d-3b0865868216.html#:~:text=Senate%20Bill%205885</guid>
 		</item>
 	</channel>
 </rss>

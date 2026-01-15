@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA Democrats criticize reporter probes into potential daycare fraud | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_66d4ee59-856b-410c-bd7a-370f16a9cf4e.html#:~:text=Senate%20Bill%206020)
+
 ## Meetings

@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2229 Professional engineers
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * kristina Horton - BRPELS

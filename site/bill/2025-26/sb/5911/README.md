@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Human Services (HS): SB 5911 DCYF/financial stability
-Sign up to testify:
-
-#### 86 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * 💵Arthur Longworth - Team Child
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)

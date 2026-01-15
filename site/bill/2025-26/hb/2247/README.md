@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2247 Veterinarian relationship
-Sign up to testify:
-
-#### 1252 👍 - Pro
+#### 1303 👍 - Pro
 Testifying:
 * SARAH HOCK - The Washington Federation of Animal Care and Control Agencies
 * Dr. Jen Stonequist - Kitsap Humane Society
@@ -24,4 +22,6 @@ Testifying:
 
 #### 12 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Greg Hanon - Washington State Veterinary Medical Assoc.

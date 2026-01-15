@@ -6,4 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%206034)
+
 ## Meetings
+### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6034 Office of Indian affairs
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

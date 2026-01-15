@@ -13,7 +13,7 @@
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 2114 Defective license plates
 Sign up to testify:
 
-#### 73 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Marianne Nichols - Pend Oreille County Auditor
 * Thad Duvall - Douglas County Auditor

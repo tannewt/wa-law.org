@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6065/</link>
 		<description>Updates about SB 6065</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 05:23:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-09/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Jim Kowalkowski - Rural Education Center</title>
+			<description>Jim Kowalkowski signed up to testify Pro. They are signed up to represent Rural Education Center.</description>
+			<pubDate>Wed, 14 Jan 2026 05:23:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Kowalkowski/2026-01-14 05:23:52</guid>
 		</item>
 	</channel>
 </rss>

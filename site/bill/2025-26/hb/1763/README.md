@@ -11,6 +11,15 @@
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201763)
 
 ## Meetings
+### Tue 01/20 08:00 AM - Finance (FIN): HB 1763 Affordable housing funding
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1763 Affordable housing funding
 #### 10 👍 - Pro
 Testifying:

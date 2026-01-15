@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5871 Vehicle glass repair claims
-Sign up to testify:
-
 #### 10 👍 - Pro
 Testifying:
 * 💵Tom Tucker

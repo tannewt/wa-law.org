@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Is Officially Underway - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/14/the-2026-legislative-session-is-officially-underway/#:~:text=SB%205098)
 * 01/05/2026 [Senate Democrats](/org/senate_democrats/) - [Your Voice Matters: Pre-Session Town Hall, Jan. 8 - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/05/3154/#:~:text=Senate%20Bill%205098)
 * 11/21/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [What’s Coming for Washington Gun Owners in 2026 - Conservative Ladies of Washington](https://conservativeladiesofwa.com/2026-gun-bills-preview/#:~:text=SB%205098)
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Permit requirement for gun purchases clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/permit-requirement-for-gun-purchases-clears-washington-senate/#:~:text=expanding%20the%20list%20of%20places)

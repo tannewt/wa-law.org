@@ -51,7 +51,8 @@
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Emily Moore
 
-### [HB 1683](/bill/2025-26/hb/1683/) - School director districts   ❓1
+### [HB 1683](/bill/2025-26/hb/1683/) - School director districts   ❓2
+* ❓💵 Shannon Grimes
 * ❓💵 Shannon Grimes
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  

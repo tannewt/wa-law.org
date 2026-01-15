@@ -25,6 +25,8 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍2  
 
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+
 ### [HB 2039](/bill/2025-26/hb/2039/) - Child support pass through  👎1 
 
 ### [HB 2040](/bill/2025-26/hb/2040/) - ABD assistance recovery  👎2 
@@ -54,11 +56,13 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

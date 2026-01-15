@@ -10,7 +10,7 @@
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 5821 Advanced nuclear energy
 Sign up to testify:
 
-#### 41 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Greg Cullen - [Energy Northwest](/org/energy_northwest/)
 * Steve Verhey
@@ -22,8 +22,9 @@ Testifying:
 * Eric Meyer - Generation Atomic
 * Scott Aldridge
 * Madison Schroder - Generation Atomic
+* Dr. Gary Nelson
 
-#### 79 👎 - Con
+#### 212 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Jim Lazar - self
@@ -33,5 +34,6 @@ Testifying:
 * Roxanne Thayer
 * Lindsey Watchman - Chairman, General Council, Confederated Tribes of the Umatilla Indian Reservation
 * Lisa Ganuelas - Board of Trustees, Confederated Tribes of the Umatilla Indian Reservation
+* Sharon Abreu - Washington State Democrats State Committee Member for San Juan County
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

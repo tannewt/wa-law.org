@@ -13,10 +13,14 @@
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2284 Litter reduction
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Amber Carter - American Recyclable Plastic Bag Alliance (ARPBA)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 171 👎 - Con
+#### 202 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program

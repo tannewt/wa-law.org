@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2357 Civil air patrol
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

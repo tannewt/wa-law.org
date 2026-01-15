@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1662/</link>
 		<description>Updates about HB 1662</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 09:35:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 09:47:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Education.</guid>
 		</item>
 		<item>
-			<title>👍John Axtell - State Board of Education</title>
+			<title>👍John Axtell - Professional Educator Standards Board (PESB)</title>
 			<description>John Axtell signed up to testify Pro.</description>
 			<pubDate>Fri, 07 Feb 2025 12:45:57 GMT</pubDate>
 			<category>testifier</category>
@@ -126,6 +126,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Dr. Randy/Spaulding/2026-01-13 09:35:26</guid>
+		</item>
+		<item>
+			<title>❓Dr. Randy Spaulding - State Board of Education</title>
+			<description>Dr. Randy Spaulding signed up to testify Other. They are signed up to represent State Board of Education.</description>
+			<pubDate>Wed, 14 Jan 2026 09:13:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dr. Randy/Spaulding/2026-01-14 09:13:01</guid>
+		</item>
+		<item>
+			<title>❓Marcus Haden - Charter School Comission</title>
+			<description>Marcus Haden signed up to testify Other. They are signed up to represent Charter School Comission.</description>
+			<pubDate>Wed, 14 Jan 2026 09:13:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Marcus/Haden/2026-01-14 09:13:01</guid>
+		</item>
+		<item>
+			<title>❓Tracy Godat - Financial Education Public - Private Partnership</title>
+			<description>Tracy Godat signed up to testify Other. They are signed up to represent Financial Education Public - Private Partnership.</description>
+			<pubDate>Wed, 14 Jan 2026 09:13:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tracy/Godat/2026-01-14 09:13:01</guid>
+		</item>
+		<item>
+			<title>❓Veronica Gallardo - Professional Educator Standards Board (PESB)</title>
+			<description>Veronica Gallardo signed up to testify Other. They are signed up to represent Professional Educator Standards Board (PESB).</description>
+			<pubDate>Wed, 14 Jan 2026 09:47:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Veronica/Gallardo/2026-01-14 09:47:18</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2345 Paid leave contributions
-Sign up to testify:
-
-#### 17 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Joe Kendo - Washington State Labor Council, AFL-CIO
+* Josh Dye - Employment Security Department
 
 #### 3 👎 - Con
 Testifying:

@@ -536,6 +536,8 @@
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
 
+### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
+
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  

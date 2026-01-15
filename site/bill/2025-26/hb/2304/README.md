@@ -6,4 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026/01/14/2026-washington-legislature-catches-breath-on-housing/#:~:text=HB%202304)
+
 ## Meetings
+### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2304 Condominium warranties
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

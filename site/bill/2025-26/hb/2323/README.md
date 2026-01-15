@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/19 04:00 PM - Transportation (TR): HB 2323 Traffic stops/blue envelope
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

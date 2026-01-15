@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2095/</link>
 		<description>Updates about HB 2095</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 08:18:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 06:50:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/DeVere/2026-01-13 08:18:18</guid>
+		</item>
+		<item>
+			<title>❓James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Other. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Tue, 13 Jan 2026 11:34:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2026-01-13 11:34:44</guid>
+		</item>
+		<item>
+			<title>❓Arthur West - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Arthur West signed up to testify Other.</description>
+			<pubDate>Wed, 14 Jan 2026 05:44:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Arthur/West/2026-01-14 05:44:35</guid>
+		</item>
+		<item>
+			<title>👍Annemarie Dooley - Washington Physicians for Social Responsibility</title>
+			<description>Annemarie Dooley signed up to testify Pro. They are signed up to represent Washington Physicians for Social Responsibility.</description>
+			<pubDate>Wed, 14 Jan 2026 06:50:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Annemarie/Dooley/2026-01-14 06:50:43</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,11 +8,9 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2120 JLARC work plans
-Sign up to testify:
-
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

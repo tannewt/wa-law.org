@@ -10,7 +10,7 @@
 ### Thu 01/15 04:00 PM - Appropriations (APP): HB 2179 Port workers PERS membership
 Sign up to testify:
 
-#### 11 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Jonalthan Eder - Port of Vancouver, USA

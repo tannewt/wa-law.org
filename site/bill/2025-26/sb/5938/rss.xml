@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5938/</link>
 		<description>Updates about SB 5938</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 12:43:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 07:16:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Seth/Sivinski/2026-01-13 12:43:18</guid>
+		</item>
+		<item>
+			<title>👍Paula Filmore-Sardinas - FMSGS/WBBA</title>
+			<description>Paula Filmore-Sardinas signed up to testify Pro. They are signed up to represent FMSGS/WBBA.</description>
+			<pubDate>Wed, 14 Jan 2026 07:16:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paula/Filmore-Sardinas/2026-01-14 07:16:35</guid>
 		</item>
 	</channel>
 </rss>

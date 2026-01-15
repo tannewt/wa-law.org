@@ -158,11 +158,13 @@
 
 ### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 
-## [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
+### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
+
+## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ## 2023-24
 
-### [SB 5895](/bill/2023-24/sb/5895/) - Ex. medical placement 👍1  
+### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

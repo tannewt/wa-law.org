@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5860 School board compensation
-Sign up to testify:
-
-#### 148 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound Superintendents
 * John Axtell
 
-#### 40 👎 - Con
+#### 54 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

@@ -10,7 +10,7 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5933 Overdose mapping information
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * APRIL PROVOST - Snohomish County Recovery Coalition
 * Elizabeth Powell - Northwest High Intensity Drug Trafficking Area program

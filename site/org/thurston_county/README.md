@@ -11,6 +11,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 
+### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
+
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
@@ -19,13 +21,14 @@
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Commissioner Carolina Mejia
+
+## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
-* 👍 Commissioner Carolina Mejia
+### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

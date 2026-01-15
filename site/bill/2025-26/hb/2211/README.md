@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-update-statewide-food-security-strategy#:~:text=HB%202211)
+
 ## Meetings
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2211 Medically tailored meals
-Sign up to testify:
-
-#### 17 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Connie Gilfillan - Meals on Wheels People, Medically Tailored Meals Coalition of Washington
 * Emily Hanning - Lifelong Health for All, Medically Tailored Meals Coalition of Washington
@@ -19,6 +20,6 @@ Testifying:
 * Owen Esperas - Meals on Wheels Spokane, Medically Tailored Meals Coalition of Washington
 * Jillian Moore - Mom's Micro Garden
 
-#### 13 👎 - Con
+#### 33 👎 - Con
 
 #### 0 ❓ - Other

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/22 04:00 PM - Transportation (TR): HB 2109 Vehicle loads
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

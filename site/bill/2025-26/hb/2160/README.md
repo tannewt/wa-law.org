@@ -10,12 +10,19 @@
 ### Thu 01/15 04:00 PM - Appropriations (APP): HB 2160 SEBB membership/second year
 Sign up to testify:
 
-#### 418 👍 - Pro
+#### 448 👍 - Pro
 Testifying:
 * Peter Henry
 * Deborah Nissen
 * Mike Mielke
+* Adam Betts - Technical Support Specialist / SEIU 925
+* Lawrence Brown - Bus driver / SEIU 925
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Mike Acord
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Barbara Posthumus - Washington Association of School Business Officers (WASBO)
+* 💵Fred Yancey - Washington Association of School Administrators (WASA)
 
 #### 0 ❓ - Other

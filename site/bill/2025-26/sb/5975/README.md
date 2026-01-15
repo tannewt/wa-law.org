@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5975 Safe cookware
-Sign up to testify:
-
-#### 39 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Charlie Brown - Assn. of Home Appliance Manufacturers and Cookware Sustainabiity Alliance
 * Jacob Casssady - Association of Home Appliance Manufacturers
@@ -20,13 +18,14 @@ Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 525 👎 - Con
+#### 558 👎 - Con
 Testifying:
 * Katie Fellows - Hazardous Waste Management Program
 * Carissa Burk
 * 💵Nick Federici - Toxic Free Future
 * Tom Neltner - Unleaded Kids
 * Tamara Rubin - Lead Safe Mama, LLC
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 5 ❓ - Other
 Testifying:

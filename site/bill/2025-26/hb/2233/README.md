@@ -13,18 +13,35 @@
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2233 Retail bags
 Sign up to testify:
 
-#### 422 👍 - Pro
+#### 503 👍 - Pro
 Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Miguela Marzolf - Seattle Aquarium
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
+* 💵Jeremy Lucas - Oceana
+* MD, Judy Kimelman - WA Physicians for Social Responsibility
+* Marsha Cutting - Member of the Kitsap County Accessible Communities Advisory Committee
+* Jay Blazey - [Cedar Grove](/org/cedar_grove/)
+* Mike Wenrick - PCC Markets
+* Rick Hughes - Ray's Pharmacy
+* 💵Gail Cabahug - Puget Soundkeeper Alliance
+* Maggie Yuse - Seattle Public Utilities
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
-#### 34 👎 - Con
+#### 170 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Bill Stauffacher - American Forest and Paper Association
 * Erin Hass - American Recyclable Plastic Bag Alliance (ARPBA)
 * Shea Logan - [Novolex](/org/novolex/)
+* Cathy Browne - Crown Poly Bag
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Todd Myers - Washington Policy Center
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program

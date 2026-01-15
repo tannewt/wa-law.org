@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/14/2026 [The Washington Observer](/org/the_washington_observer/) - [A different sort of speech entirely](https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=House%20bill)
+
 ## Meetings
 ### Wed 02/05 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1592 Public defense services
 #### 2 👍 - Pro

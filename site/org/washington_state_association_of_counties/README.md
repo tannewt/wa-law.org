@@ -103,9 +103,10 @@
 ### [HB 1397](/bill/2025-26/hb/1397/) - Local property tax levies 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍3  
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍3  ❓1
 * 👍💵 Travis Dutton
 * 👍💵 Travis Dutton
+* ❓💵 Travis Dutton
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 * 👍💵 Paul Jewell
@@ -171,7 +172,8 @@
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
+* 👍💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
@@ -229,6 +231,9 @@
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.  👎1 
+* 👎💵 Kelsey Hulse
+
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
 * ❓💵 Travis Dutton
 
@@ -240,6 +245,12 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Curtis Steinhauer
 * 👍💵 Travis Dutton
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓💵 Axel Swanson
+
+### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
+* 👍💵 Axel Swanson
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
 * ❓💵 Paul Jewell

@@ -14,3 +14,13 @@
 * 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=his%20bill)
 
 ## Meetings
+### Thu 01/22 01:30 PM - Finance (FIN): HB 2100 Payroll expense tax
+Sign up to testify:
+
+#### 19 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* Laurie Layne
+
+#### 0 ❓ - Other

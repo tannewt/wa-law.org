@@ -3,6 +3,8 @@
 
 ### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
+
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 * 👍 Claudine Reynolds
 

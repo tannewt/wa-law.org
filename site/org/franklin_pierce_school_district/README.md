@@ -14,11 +14,13 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+
+## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
+### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 * 👍 Karen Brown

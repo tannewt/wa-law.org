@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2176 Drug therapy agreements/PRA
-Sign up to testify:
-
-#### 140 👍 - Pro
+#### 148 👍 - Pro
 Testifying:
 * Beth Rivin
 * Crystal Beal
 * Don Downing
 
-#### 12 👎 - Con
+#### 107 👎 - Con
+Testifying:
+* Arthur West
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington State Association of Broadcasters

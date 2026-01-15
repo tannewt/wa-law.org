@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6002/</link>
 		<description>Updates about SB 6002</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 20:25:33 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Jan 2026 18:22:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -42,6 +42,29 @@
 			<pubDate>Mon, 12 Jan 2026 20:25:33 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2026/01/12/washington-state-senate-members-of-color-caucus-condemns-ice-access-to-state-databases/#:~:text=Senate%20Bill%206002</guid>
+		</item>
+		<item>
+			<title>👎Gregory Smith - San Juan County</title>
+			<description>Gregory Smith signed up to testify Con.</description>
+			<pubDate>Wed, 14 Jan 2026 07:51:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gregory/Smith/2026-01-14 07:51:10</guid>
+		</item>
+		<item>
+			<title>❓💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Jan 2026 07:54:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2026-01-14 07:54:00</guid>
+		</item>
+		<item>
+			<title>It’s time to regulate Flock Cameras and ALPRs, with the Driver Privacy Act - ACLU of Washington</title>
+			<description>News article "It’s time to regulate Flock Cameras and ALPRs, with the Driver Privacy Act - ACLU of Washington" from American Civil Liberties Union of Washington.</description>
+			<pubDate>Wed, 14 Jan 2026 18:22:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.aclu-wa.org/news/its-time-to-regulate-flock-cameras-and-alprs-with-the-driver-privacy-act/#:~:text=Senate%20Bill%206002</guid>
 		</item>
 	</channel>
 </rss>
