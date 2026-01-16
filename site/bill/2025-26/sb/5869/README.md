@@ -10,10 +10,14 @@
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SB 5869 Construction hazards notice
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Jerry VanderWood - AGC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries

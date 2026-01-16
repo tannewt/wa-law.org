@@ -10,7 +10,7 @@
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2385 Medicaid access program
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

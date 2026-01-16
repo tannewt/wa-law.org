@@ -10,8 +10,8 @@
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6053 Domestic workers
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

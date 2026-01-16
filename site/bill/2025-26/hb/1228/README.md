@@ -14,7 +14,7 @@
 ### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1228 Toxicology testing
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -10,7 +10,7 @@
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 2183 Heat response plans
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

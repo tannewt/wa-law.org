@@ -10,7 +10,7 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5933 Overdose mapping information
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * APRIL PROVOST - Snohomish County Recovery Coalition
 * Elizabeth Powell - Northwest High Intensity Drug Trafficking Area program
@@ -20,6 +20,6 @@ Testifying:
 * 💵Paul Dillon - [City of Spokane](/org/city_of_spokane/)
 * Emma Shampain - Vashon Alliance to Reduce Substance Abuse (VARSA)
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

@@ -10,7 +10,7 @@
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5925 AGO investigation powers
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 92 👍 - Pro
 
 #### 0 👎 - Con
 

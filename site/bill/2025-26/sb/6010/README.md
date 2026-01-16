@@ -10,15 +10,20 @@
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 6010 EFSEC tribal consultation
 Sign up to testify:
 
-#### 18 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Council Brian Saluskin - Confederated Tribes and Bands of the Yakama Nation
 * Council Charlene Tillequots - Confederated Tribes and Bands of the Yakama Nation
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 * Council Terry Heemsah - Confederated Tribes and Bands of the Yakama Nation
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
+* Andrea Matheny - [Washington Conservation Action](/org/washington_conservation_action/)
 
-#### 3 👎 - Con
+#### 25 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * John Worthington
+* Lisa C McLean - Energy Facility Site Evaluation Council

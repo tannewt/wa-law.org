@@ -35,7 +35,7 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍4  
 
-### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍4  
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍5  
 * 👍 Brianna Dilts
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
@@ -108,7 +108,7 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍3  
 * 👍💵 Kristin Ang
 
 ## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  

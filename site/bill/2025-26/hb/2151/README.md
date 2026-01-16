@@ -13,8 +13,8 @@
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2151 Factory built structures
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

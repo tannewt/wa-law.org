@@ -7,13 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Toshiko Hasegawa Jumps in King County Council District 2 Race » The Urbanist](https://www.theurbanist.org/2026/01/15/toshiko-hasegawa-jumps-in-the-race-for-king-county-council-district-2/#:~:text=Senate%20Bill%205754)
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [The start of session - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/09/the-start-of-session/#:~:text=SB%205754)
 
 ## Meetings
 ### Thu 01/15 04:00 PM - Ways & Means (WM): SB 5754 Washington state public bank
-Sign up to testify:
-
-#### 211 👍 - Pro
+#### 274 👍 - Pro
 Testifying:
 * Marco Rosaire Rossi - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
 * Toyoko Tsukuda
@@ -27,8 +26,15 @@ Testifying:
 * Wayne Lau
 * BSN, RN, Kathryn Lewandowsky
 * Satpal Sidhu - Whatcom County
+* Glenn Gregory - Obsidian Investment Advisers
+* Chris Reykdal - Superintendent of Public Instuction
+* Beverly Allen
+* Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
+* Brian Sullivan
+* Lauri Deaton-Grein
+* Andre Stackhouse
 
-#### 675 👎 - Con
+#### 825 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jackie Brunson - Washington State Association of County Treasurers

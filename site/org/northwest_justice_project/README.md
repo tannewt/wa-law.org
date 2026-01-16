@@ -46,6 +46,9 @@
 ### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
 * 👍 Seth Sivinski
 
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+* 👍 Julia Kellison
+
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍 Tom McGarry
 

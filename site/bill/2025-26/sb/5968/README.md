@@ -14,7 +14,7 @@
 ### Fri 01/16 10:30 AM - State Government & Elections (SGE): SB 5968 Permitting and licensing
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Beau Perschbacher - Governor's Office
 * 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
@@ -22,7 +22,10 @@ Testifying:
 * 💵Heather Kurtenbach - WSBCTC
 * 💵Neil Hartman - Washington State Association of UA Plumbers, Pipefitters and HVAC/R Mechanics
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Dan McConnon - Director of ORIA - Available to respond to questions - no need to testify.
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Shawna Fox - Washington State Department of Health
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

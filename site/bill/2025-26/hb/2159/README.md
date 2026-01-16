@@ -10,7 +10,7 @@
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 2159 PreK promise account
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 57 👍 - Pro
 
 #### 1 👎 - Con
 

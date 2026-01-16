@@ -10,7 +10,7 @@
 ### Tue 01/20 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2279 Agriculture/PFAS chemicals
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

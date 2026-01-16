@@ -14,6 +14,8 @@
 * 👍 Jon Grant
 * 👍 Jon Grant
 
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍2  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍2  

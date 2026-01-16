@@ -127,13 +127,16 @@
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
+
+## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+* 👍 Andrea Matheny
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
-* 👎💵 Darcy Nonemacher
+### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+* 👍 Andrea Matheny
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

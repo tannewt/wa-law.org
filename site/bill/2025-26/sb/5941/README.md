@@ -10,9 +10,15 @@
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 5941 Schools/renewable energy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 77 👍 - Pro
+Testifying:
+* Jeff Baerwald - Nine Mile Falls School District
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 
-#### 2 👎 - Con
+#### 27 👎 - Con
+Testifying:
+* Peter Hasegawa - IBEW Local 46
 
 #### 0 ❓ - Other
 

@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Immigrant%20worker%20protections)
+* 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=(Companion%20bill:%20HB%202105))
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%202105)
 * 12/08/2025 [KUOW](/org/kuow/) - [KUOW - Ban on police face coverings pitched ahead of WA’s 2026 legislative session](https://www.kuow.org/stories/ban-on-police-face-coverings-pitched-ahead-of-wa-s-2026-legislative-session#:~:text=Immigrant%20Worker%20Protection%20Act)
 * 12/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Ban on police face coverings pitched ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/08/ban-on-police-face-coverings-pitched-ahead-of-was-2026-legislative-session/#:~:text=Immigrant%20Worker%20Protection%20Act)
@@ -18,7 +19,7 @@
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2105 Immigrant workers
 Sign up to testify:
 
-#### 1434 👍 - Pro
+#### 1698 👍 - Pro
 Testifying:
 * Weilson Geng
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
@@ -47,8 +48,15 @@ Testifying:
 * Pedro Espinoza
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
+* Guillermo Zazueta - OneAmerica
+* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
+* Adam Eitmann - Washington State Attorney General's Office
+* Guillermo Cruz
+* Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
+* Mercedes Gonzalez
+* 💵Kristin Ang
 
-#### 239 👎 - Con
+#### 749 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Anna Burt
@@ -59,7 +67,11 @@ Testifying:
 * Harry Truitt - Lighthouse Diving Center Inc
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵James Crandall - AWB
+* 💵Rose Gundersen - WA Retail Association
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)

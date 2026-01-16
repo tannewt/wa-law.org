@@ -15,7 +15,11 @@
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2098 Higher education funding
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵John Burbank
+* Janeen Contractor
+* Sabrina Nangonzi
 
 #### 0 👎 - Con
 

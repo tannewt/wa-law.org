@@ -13,7 +13,9 @@
 ### Fri 01/23 08:00 AM - State Government & Tribal Relations (SGOV): HB 2198 Permitting and licensing
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Beau Perschbacher - Governor's Office
 
 #### 0 👎 - Con
 

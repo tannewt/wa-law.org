@@ -13,9 +13,9 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6035 Voting services
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 49 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

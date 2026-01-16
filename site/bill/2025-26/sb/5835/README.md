@@ -10,8 +10,10 @@
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5835 Lump sum retirement payments
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Seth Miller - Department of Retirement Systems

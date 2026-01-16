@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5960/</link>
 		<description>Updates about SB 5960</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 10:44:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,38 @@
 			<pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👎PHD, Susan Kane-Ronning - Washington Sierra Club</title>
+			<description>PHD, Susan Kane-Ronning signed up to testify Con. They are signed up to represent Washington Sierra Club.</description>
+			<pubDate>Thu, 15 Jan 2026 02:16:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/PHD, Susan/Kane-Ronning/2026-01-15 02:16:24</guid>
+		</item>
+		<item>
+			<title>👍Zach Bogatz - Office Of Homeless Youth Advisory Committee</title>
+			<description>Zach Bogatz signed up to testify Pro.</description>
+			<pubDate>Thu, 15 Jan 2026 04:08:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Zach/Bogatz/2026-01-15 04:08:29</guid>
+		</item>
+		<item>
+			<title>👍don peaker - DPeak Appraisal</title>
+			<description>don peaker signed up to testify Pro. They are signed up to represent DPeak Appraisal.</description>
+			<pubDate>Thu, 15 Jan 2026 10:06:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/don/peaker/2026-01-15 10:06:47</guid>
+		</item>
+		<item>
+			<title>👎Francisco Santiago-Ávila - Washington Wildlife First</title>
+			<description>Francisco Santiago-Ávila signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_wildlife_first/"&gt;Washington Wildlife First&lt;/a&gt;.</description>
+			<pubDate>Thu, 15 Jan 2026 10:44:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Francisco/Santiago-Ávila/2026-01-15 10:44:47</guid>
 		</item>
 	</channel>
 </rss>

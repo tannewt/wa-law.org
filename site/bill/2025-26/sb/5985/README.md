@@ -10,7 +10,9 @@
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 5985 Endometriosis
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Wendy Bingham - Extrapelvic Not Rare
 
 #### 0 👎 - Con
 

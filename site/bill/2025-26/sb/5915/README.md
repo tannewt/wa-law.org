@@ -10,11 +10,12 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5915 Health technology assessment
 Sign up to testify:
 
-#### 140 👍 - Pro
+#### 148 👍 - Pro
 Testifying:
 * Lisa Woodard - n/a
 * Carolyn Monroe
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Carolina Sommer - NW Rare Disease Coalition
 
 #### 0 👎 - Con
 

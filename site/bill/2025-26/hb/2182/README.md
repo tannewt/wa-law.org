@@ -13,17 +13,22 @@
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2182 Abortion medications
 Sign up to testify:
 
-#### 367 👍 - Pro
+#### 518 👍 - Pro
 Testifying:
 * Caitlin Safford - Office of the Governor
 * Katie Eilers - Department of Health / Family & Community Health Improvement
 * Samantha Grono - Washington State Women's Commission
+* Gabbi Nazari - Pro-Choice Washington
+* Dr. Ying Zhang
+* Eunjae Jeon
 
-#### 561 👎 - Con
+#### 1237 👎 - Con
 Testifying:
 * Eric Lundberg
 * Matthew LePage - First Baptist Church of Lacey
 * Theresa Schrempp - No
 * Nicole Peterson
+* Mary Long - Conservative Ladies of America
+* Sharon Damoff
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other

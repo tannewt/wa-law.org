@@ -16,11 +16,16 @@
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
+### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  ❓1
+* 👍💵 Trevor Sandison
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓4
 * ❓ Jason Peterson
 * ❓ Jason Peterson
 
 ### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍2  
+
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 

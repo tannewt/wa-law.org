@@ -125,6 +125,9 @@
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
+* ❓💵 Andrea Reay
+
 ### [HB 2120](/bill/2025-26/hb/2120/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
 * ❓ Jeff Gunn
 
@@ -237,6 +240,9 @@
 * ❓ Kerry Dolan
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
+
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+* 👎💵 Logan Dozier
 
 ## [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags 👍1  
 

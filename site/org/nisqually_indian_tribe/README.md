@@ -6,6 +6,9 @@
 
 ### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
 
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+* ❓ David Troutt
+
 ### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
 
 ## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  

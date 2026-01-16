@@ -89,6 +89,9 @@
 
 ### [HB 1927](/bill/2025-26/hb/1927/) - Rent payment reporting 👍1  
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+* 👍 Mark Bowers
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
 

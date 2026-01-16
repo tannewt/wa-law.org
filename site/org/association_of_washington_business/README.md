@@ -805,10 +805,13 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎 Max Martin
 
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
 ### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 * 👍💵 Emily Wittman
 
-### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍1  
+### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags  👎1 
@@ -816,14 +819,23 @@
 
 ### [SB 5966](/bill/2025-26/sb/5966/) - Medically tailored meals 👍1  
 
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+* 👍💵 Emily Wittman
+
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍2  
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
+
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+* 👎💵 Emily Wittman
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
 * 👎💵 Peter Godlewski
 
 ### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage  👎1 
+
+### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council.  👎1 
+* 👎💵 Peter Godlewski
 
 ## [SB 6050](/bill/2025-26/sb/6050/) - Distributed energy resources  👎1 
 * 👎💵 Peter Godlewski

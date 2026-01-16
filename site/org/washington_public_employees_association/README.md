@@ -75,6 +75,8 @@
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
+### [HB 2309](/bill/2025-26/hb/2309/) - Reducing barriers to state employment by eliminating postgraduate degree requirements that are unnecessary. 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  

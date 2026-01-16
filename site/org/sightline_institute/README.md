@@ -108,11 +108,15 @@
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
-## [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍💵 Dan Bertolet
 
 ## 2023-24
 
-### [SB 5885](/bill/2023-24/sb/5885/) - Housing dev./religious orgs. 👍1  
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍💵 Dan Bertolet
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet

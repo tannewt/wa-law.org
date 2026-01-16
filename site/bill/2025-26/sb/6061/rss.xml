@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6061/</link>
 		<description>Updates about SB 6061</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 12:23:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-09/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👎Jeff Pack - Washington Citizens Against Unfair Taxes</title>
+			<description>Jeff Pack signed up to testify Con. They are signed up to represent Washington Citizens Against Unfair Taxes.</description>
+			<pubDate>Thu, 15 Jan 2026 12:23:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Pack/2026-01-15 12:23:28</guid>
 		</item>
 	</channel>
 </rss>

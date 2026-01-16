@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Climate Advocate Nilu Jenks Announces D5 Seattle Council Campaign » The Urbanist](https://www.theurbanist.org/2026/01/15/climate-advocate-nilu-jenks-announces-d5-seattle-council-campaign/#:~:text=regulating%20license%20plate%20readers)
 * 01/14/2026 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [It’s time to regulate Flock Cameras and ALPRs, with the Driver Privacy Act - ACLU of Washington](https://www.aclu-wa.org/news/its-time-to-regulate-flock-cameras-and-alprs-with-the-driver-privacy-act/#:~:text=Senate%20Bill%206002)
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Condemns ICE Access to State Databases - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/12/washington-state-senate-members-of-color-caucus-condemns-ice-access-to-state-databases/#:~:text=Senate%20Bill%206002)
 * 01/12/2026 [KING5](/org/king5/) - [Washington's legislative session kicks off Monday | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-2026-legislative-session-kicks-off-60-days/281-f18519b9-2318-48ef-968b-46085ea0c2ff#:~:text=use%20of%20Flock%20data%20by%20law%20enforcement)
@@ -17,12 +18,17 @@
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6002 Driver privacy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 478 👍 - Pro
+Testifying:
+* Loi Lumala - Latinos en Spokane
+* 💵Anita Yandle - Policing Project at NYU School of Law
 
-#### 3 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Gregory Smith
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Melissa Beard - Council of Presidents
+* 💵Scott Nelson - Office of the Washington State Auditor

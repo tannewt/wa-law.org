@@ -10,7 +10,7 @@
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5883 SEBB membership/second year
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
 #### 0 👎 - Con
 

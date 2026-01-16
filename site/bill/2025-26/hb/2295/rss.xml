@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2295/</link>
 		<description>Updates about HB 2295</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 09:53:42 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 11:48:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -283,6 +283,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Mark/Finney/2026-01-14 09:53:42</guid>
+		</item>
+		<item>
+			<title>❓Jackie Caro - Terrain Spokane</title>
+			<description>Jackie Caro signed up to testify Other. They are signed up to represent Terrain Spokane.</description>
+			<pubDate>Wed, 14 Jan 2026 10:03:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jackie/Caro/2026-01-14 10:03:38</guid>
+		</item>
+		<item>
+			<title>❓David Troutt - Nisqually Indian Tribe</title>
+			<description>David Troutt signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/nisqually_indian_tribe/"&gt;Nisqually Indian Tribe&lt;/a&gt;.</description>
+			<pubDate>Thu, 15 Jan 2026 08:45:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/David/Troutt/2026-01-15 08:45:18</guid>
+		</item>
+		<item>
+			<title>❓Elpidia Saavedra - City of Toppenish</title>
+			<description>Elpidia Saavedra signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_toppenish/"&gt;City of Toppenish&lt;/a&gt;.</description>
+			<pubDate>Thu, 15 Jan 2026 11:48:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Elpidia/Saavedra/2026-01-15 11:48:26</guid>
 		</item>
 	</channel>
 </rss>

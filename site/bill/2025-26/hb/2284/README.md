@@ -10,17 +10,27 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202284)
 
 ## Meetings
-### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2284 Litter reduction
+### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2284 Litter reduction
 Sign up to testify:
 
-#### 120 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2284 Litter reduction
+#### 152 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Amber Carter - American Recyclable Plastic Bag Alliance (ARPBA)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Caleb Gwerder - Washington Farm Bureau
 
-#### 202 👎 - Con
+#### 207 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program

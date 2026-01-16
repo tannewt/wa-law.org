@@ -7,14 +7,17 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%205852%20(Saldaña))
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [El procurador general Brown, en colaboración con legisladores estatales, propone la Ley de Protección a Trabajadores Inmigrantes | Washington State](http://www.atg.wa.gov/news/news-releases/el-procurador-general-brown-en-colaboraci-n-con-legisladores-estatales-propone#:~:text=SB%205852)
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 5852 Immigrant workers
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* Loi Lumala - Latinos en Spokane
 
-#### 1 👎 - Con
+#### 11 👎 - Con
 
 #### 0 ❓ - Other

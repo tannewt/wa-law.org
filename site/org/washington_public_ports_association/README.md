@@ -103,6 +103,8 @@
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
+### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍1  
+
 ### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
 * 👍💵 James Cockburn
 

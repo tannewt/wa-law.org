@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2362 Impaired driving
-Sign up to testify:
-
-#### 219 👍 - Pro
+#### 270 👍 - Pro
 Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 * Kayson Bonus - In memory of Stacy Gammons- Ankerfelt 1983-2012 Killed by an impaired driver
@@ -33,7 +31,7 @@ Testifying:
 * Tao Sheng Kwan-Gett - Washington Department of Health
 * Candace Reid - Mothers Against Drunk Driving
 
-#### 457 👎 - Con
+#### 501 👎 - Con
 Testifying:
 * Karlie Valdez - Washington Association of Criminal Defense Lawyers and Washington Defenders Association
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)

@@ -8,12 +8,14 @@
 
 ## Meetings
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6066 Accident risk zones
-Sign up to testify:
-
-#### 36 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * Harold Stewart - City Manager at the City of Pasco
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

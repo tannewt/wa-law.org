@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5983 Current use land/sale to gov
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

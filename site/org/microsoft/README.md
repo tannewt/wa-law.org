@@ -66,11 +66,15 @@
 
 ### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources  👎1 
 
-## [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍 Lauren McDonald
 
 ## 2023-24
 
-### [SB 5855](/bill/2023-24/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍 Lauren McDonald
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍2  
 

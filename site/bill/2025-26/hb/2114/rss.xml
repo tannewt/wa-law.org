@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2114/</link>
 		<description>Updates about HB 2114</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 12:59:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 02:27:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Thad/Duvall/2026-01-12 12:59:32</guid>
+		</item>
+		<item>
+			<title>❓Brian Cullinane - Washington Association of Vehicle Subagents</title>
+			<description>Brian Cullinane signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_association_of_vehicle_subagents/"&gt;Washington Association of Vehicle Subagents&lt;/a&gt;.</description>
+			<pubDate>Thu, 15 Jan 2026 01:28:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brian/Cullinane/2026-01-15 01:28:24</guid>
+		</item>
+		<item>
+			<title>👍Sally Estes - Douglas County Auditor</title>
+			<description>Sally Estes signed up to testify Pro.</description>
+			<pubDate>Thu, 15 Jan 2026 02:11:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sally/Estes/2026-01-15 02:11:47</guid>
+		</item>
+		<item>
+			<title>👍Sally Estes - Douglas County Auditor</title>
+			<description>Sally Estes signed up to testify Pro.</description>
+			<pubDate>Thu, 15 Jan 2026 02:27:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sally/Estes/2026-01-15 02:27:16</guid>
 		</item>
 	</channel>
 </rss>

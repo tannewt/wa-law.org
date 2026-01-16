@@ -13,7 +13,7 @@
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 1030 Counted ballot audits
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 

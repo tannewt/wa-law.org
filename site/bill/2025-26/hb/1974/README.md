@@ -10,7 +10,15 @@
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 1974 Land banking authorities
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Amanda DeShazo - Tacoma-Pierce Affordable Housing Consortium
+* Matt Hoffman - Maul Foster & Alongi, Inc.
+* Patience Malaba - HDC Seattle-King County
+* Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
+* Chris Collier - Housing Authority of Snohomish County
+* Reggie Brown - 1DROP
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con
 

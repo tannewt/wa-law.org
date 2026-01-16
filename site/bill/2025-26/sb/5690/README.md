@@ -11,7 +11,7 @@
 ### Mon 01/19 04:00 PM - Transportation (TRAN): SSB 5690 Utility relocation
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -237,7 +237,7 @@
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
-### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍1  
+### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍2  
 
 ### [HB 1835](/bill/2025-26/hb/1835/) - Aligning cannabis licensing decisions by the liquor and cannabis board with local zoning ordinances. 👍1  
 
@@ -321,6 +321,9 @@
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 * ❓💵 Candice Bock
+
+### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response   ❓1
+* ❓💵 Derrick Nunnally
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -559,13 +562,19 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓💵 Steven Ellis
 
-## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+* 👎💵 Carl Schroeder
+
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍💵 Candice Bock
+
+## [SB 6066](/bill/2025-26/sb/6066/) - Accident risk zones 👍1  
+* 👍💵 Steven Ellis
 
 ## 2023-24
 
-### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
-* 👍💵 Candice Bock
+### [SB 6066](/bill/2023-24/sb/6066/) - Accident risk zones 👍1  
+* 👍💵 Steven Ellis
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

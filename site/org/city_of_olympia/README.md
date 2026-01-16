@@ -32,11 +32,15 @@
 ### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 * 👍 Jacinda Steltjes
 
-## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+* 👍💵 Paul Berendt
 
 ## 2023-24
 
-### [SB 5812](/bill/2023-24/sb/5812/) - K-12 education funding 👍1  
+### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+* 👍💵 Paul Berendt
 
 ### [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍3  
 

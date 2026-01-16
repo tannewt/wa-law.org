@@ -10,15 +10,25 @@
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2218 Workers' comp. medical care
 Sign up to testify:
 
-#### 212 👍 - Pro
+#### 240 👍 - Pro
+Testifying:
+* Alan Thomas
+* 💵Brenda Wiest - Teamsters 117
+* David Lauman - Washington State Association for Justice
+* AJ Johnson - Washington State Council of Firefighters
+* Brian Wright
+* David Penner
 
-#### 10 👎 - Con
+#### 233 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific
 * Kris Tefft - Washington Self-Insurers Association
 * Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵James Crandall - AWB
+* 💵Rose Gundersen - WA Retail Association
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Kirsta Glenn - Department of Labor & Industries
+* Tammy Fellin - Department of Labor & Industries

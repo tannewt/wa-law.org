@@ -13,7 +13,9 @@
 ### Mon 01/19 04:00 PM - Transportation (TR): HB 2096 Attorney general inv. ID
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Alice Palosaari - Attorney General's Office
 
 #### 0 👎 - Con
 

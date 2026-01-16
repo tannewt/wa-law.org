@@ -11,13 +11,15 @@
 
 ## Meetings
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 2114 Defective license plates
-Sign up to testify:
-
-#### 101 👍 - Pro
+#### 139 👍 - Pro
 Testifying:
 * Marianne Nichols - Pend Oreille County Auditor
 * Thad Duvall - Douglas County Auditor
+* Sally Estes
+* Sally Estes
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Cullinane - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)

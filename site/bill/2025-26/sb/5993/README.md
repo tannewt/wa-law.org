@@ -10,7 +10,11 @@
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5993 Medical debt interest
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
+* 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society
 
 #### 0 👎 - Con
 

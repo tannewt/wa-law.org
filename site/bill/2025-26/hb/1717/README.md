@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
-Sign up to testify:
-
-#### 130 👍 - Pro
+#### 213 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Alyssa Torrez - South Sound Housing Affordability Partners
@@ -24,7 +22,7 @@ Testifying:
 * Beau Baker - Southport Financial Services
 * Emani Donaldson - Tacoma Pierce County Habitat for Humanity
 
-#### 70 👎 - Con
+#### 99 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

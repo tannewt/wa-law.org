@@ -10,8 +10,8 @@
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2367 Coal-fired electric plant
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

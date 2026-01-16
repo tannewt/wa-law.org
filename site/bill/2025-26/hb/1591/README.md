@@ -10,7 +10,7 @@
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1591 Defendant survivors
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * David Martin - KCPAO
 

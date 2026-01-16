@@ -10,9 +10,13 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5990 Rural local health officers
 Sign up to testify:
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Angela Ross - WA Assoc of Naturopathic Physicians
 
-#### 5 👎 - Con
+#### 31 👎 - Con
+Testifying:
+* 💵Jaime Bodden - WSALPHO
 
 #### 6 ❓ - Other
 Testifying:

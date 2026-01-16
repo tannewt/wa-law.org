@@ -10,3 +10,13 @@
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205765)
 
 ## Meetings
+### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 5765 Psychiatric pharmacists
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Jenny Arnold - Washington State Pharmacy Association
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

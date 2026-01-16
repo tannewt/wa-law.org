@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2160/</link>
 		<description>Updates about HB 2160</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 09:50:23 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 08:50:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mike/Acord/2026-01-14 09:50:23</guid>
+		</item>
+		<item>
+			<title>👎Kyla Shkerich Blair - WSSDA</title>
+			<description>Kyla Shkerich Blair signed up to testify Con. They are signed up to represent WSSDA.</description>
+			<pubDate>Thu, 15 Jan 2026 02:18:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kyla/Shkerich Blair/2026-01-15 02:18:13</guid>
+		</item>
+		<item>
+			<title>👍💵Erin Haick - SEIU 925</title>
+			<description>Erin Haick signed up to testify Pro. They are signed up to represent SEIU 925. They are a registered lobbyist.</description>
+			<pubDate>Thu, 15 Jan 2026 08:50:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erin/Haick/2026-01-15 08:50:43</guid>
 		</item>
 	</channel>
 </rss>

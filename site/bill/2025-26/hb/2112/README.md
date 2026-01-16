@@ -14,7 +14,7 @@
 ### Fri 01/16 08:00 AM - Consumer Protection & Business (CPB): HB 2112 Adult content/age minimum
 Sign up to testify:
 
-#### 144 👍 - Pro
+#### 167 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Iain Corby - The Age Verification Providers Association
@@ -29,7 +29,7 @@ Testifying:
 * Helen Taylor - Exodus Cry
 * Kyle Perry
 
-#### 1840 👎 - Con
+#### 2069 👎 - Con
 Testifying:
 * Steven Bock - Computer Scientist
 * Jonathan Pincus
@@ -58,8 +58,17 @@ Testifying:
 * Noel Hoyt
 * Xia Bouzek
 * Ashli McVey
+* Danni Askini - Gender Justice League
+* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
+* Ashley Funai
+* Tee Sannon - ACLU of Washington
+* Rose Itano Parsons
+* Jessie Hill
+* Serena Padilla
+* Quinn Van Order
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Michael Stabile - Free Speech Coalition
 * Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* 💵Rose Feliciano - TechNet

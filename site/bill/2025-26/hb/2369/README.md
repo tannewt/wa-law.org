@@ -13,7 +13,10 @@
 ### Tue 01/20 04:00 PM - Education (ED): HB 2369 Local foods/public schools
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 194 👍 - Pro
+Testifying:
+* Chris Teeny - Farmstand Local Foods
+* Austen Urlacher
 
 #### 0 👎 - Con
 

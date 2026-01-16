@@ -8,18 +8,20 @@
 
 ## Meetings
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6016 Aquifer recharge areas
-Sign up to testify:
-
-#### 94 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Michael Cade - Thurston EDC
 * 💵Ken Short - AWB
+* John Worthington
+* 💵Bill Clarke - Washington REALTORS
+* Rob Rice - Salish Landing
 
-#### 178 👎 - Con
+#### 230 👎 - Con
 Testifying:
 * Ronda Larson Kramer
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Dave Andersen - Wa St. Department of Commerce

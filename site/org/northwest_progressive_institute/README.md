@@ -58,6 +58,9 @@
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍2  
 * 👍 Cassie Clayton
 
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
+* 👍 Andrew Villeneuve
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
 
@@ -108,13 +111,19 @@
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 * 👍 Cassie Clayton
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
+* 👍 Andrew Villeneuve
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍 Seth Boun
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓ Andrew Villeneuve
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+* 👍 Seth Boun
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

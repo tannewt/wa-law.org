@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Thu 01/15 09:00 AM - Education (ED): HB 1662 Education agencies/OSPI
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Dr. Erica Hernandez-Scott - 495-96-9815
 

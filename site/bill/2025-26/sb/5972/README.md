@@ -10,11 +10,12 @@
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SB 5972 Correctional officers/arb.
 Sign up to testify:
 
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Carl Keller - Teamsters Local 760
 * David Simmons - Teamsters Local 760
 * David Simmons - Teamsters Local 760
+* Michael Rainey - Washington State Council of County and City Employees
 
 #### 1 👎 - Con
 

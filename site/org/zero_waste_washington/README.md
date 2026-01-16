@@ -79,7 +79,8 @@
 ### [HB 2212](/bill/2025-26/hb/2212/) - Reducing microplastic pollution from washing machines. 👍1  
 * 👍💵 Heather Trim
 
-### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍2  
+* 👍💵 Heather Trim
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓2
 * ❓💵 Heather Trim

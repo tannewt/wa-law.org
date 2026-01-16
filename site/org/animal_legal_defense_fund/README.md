@@ -29,13 +29,14 @@
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍2  
 * 👍 Cat Kelly
 
-## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍4  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍4  
 * 👍 Cat Kelly
+
+## [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations  👎1 
 
 ## 2023-24
 
-### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍4  
-* 👍 Cat Kelly
+### [SB 5960](/bill/2023-24/sb/5960/) - Ungulate populations  👎1 
 
 ### [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍2  
 

@@ -14,9 +14,14 @@
 ### Tue 01/20 08:00 AM - Finance (FIN): HB 1763 Affordable housing funding
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Allison Moser - WA Hosts Collaborative Alliance
+* Richard Moser - WA Hosts Collaborative Alliance
+* Sean Lynn - WA Hosts Collaborative Alliance
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other
 

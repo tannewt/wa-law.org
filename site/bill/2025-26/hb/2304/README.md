@@ -13,7 +13,7 @@
 ### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2304 Condominium warranties
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
 
 #### 0 👎 - Con
 

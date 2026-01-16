@@ -7,6 +7,8 @@
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
 
+### [HB 1496](/bill/2025-26/hb/1496/) - Health care information  👎1 
+
 ### [HB 1527](/bill/2025-26/hb/1527/) - Health care claims mediation 👍1  
 
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  

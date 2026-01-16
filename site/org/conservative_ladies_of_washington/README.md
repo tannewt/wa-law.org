@@ -200,6 +200,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 
+### [SB 5917](/bill/2025-26/sb/5917/) - Improving access to abortion medications.  👎1 
+
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 

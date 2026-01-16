@@ -13,12 +13,13 @@
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2196 PANDAS, pediatric treatment
 Sign up to testify:
 
-#### 439 👍 - Pro
+#### 474 👍 - Pro
 Testifying:
 * Aaron Klesick
 * Grayson Maywood
 * Brynn Blanchard - PANS family lived experience, WA Coordinator for Northwest PANDAS/ PANS Network
 * Dr. John Whelan - Associate Clinical Professor of Pediatrics in the Division of Rheumatology at UCLA
+* Dr. Kiki Chang - Co-Founder, Stanford PANS Clinic. Child, adolescent, and adult psychiatrist.
 
 #### 1 👎 - Con
 

@@ -14,13 +14,19 @@
 ### Fri 01/16 08:00 AM - State Government & Tribal Relations (SGOV): HB 2205 Regulated sports wagering
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Chairman Ron Allen - Jamestown S'Klallam Tribe
 * Kevin Zenishek - [Kalispel Tribe](/org/kalispel_tribe/)
+* Chairman Bill Sterud - [Puyallup Tribe of Indians](/org/puyallup_tribe_of_indians/)
+* Yale Rowe - GM, Emerald Queen Casino
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Brad Corbin - Washington State University
+* Chris Mulick - Washington State University
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Johnny Kampis - Taxpayers Protection Alliance (TPA)
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)

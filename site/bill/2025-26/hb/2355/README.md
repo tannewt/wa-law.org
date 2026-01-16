@@ -10,8 +10,12 @@
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2355 Domestic workers
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Diana Salazar - City of Seattle Office of Labor Standards
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

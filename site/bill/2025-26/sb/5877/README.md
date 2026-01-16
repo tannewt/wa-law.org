@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Health & Long Term Care (HLTC): SB 5877 Anesth. assistant surcharges
-Sign up to testify:
-
 #### 12 👍 - Pro
 Testifying:
 * Taylor Bacharach-Nixon - Washington Medical Commission

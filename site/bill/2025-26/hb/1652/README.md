@@ -13,9 +13,11 @@
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 78 👍 - Pro
+Testifying:
+* Adam Lough - Washington Physicians for Social Responsibility
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

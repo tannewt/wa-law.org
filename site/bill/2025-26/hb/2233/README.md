@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2233 Retail bags
-Sign up to testify:
-
-#### 503 👍 - Pro
+#### 511 👍 - Pro
 Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -28,8 +26,9 @@ Testifying:
 * 💵Gail Cabahug - Puget Soundkeeper Alliance
 * Maggie Yuse - Seattle Public Utilities
 * Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 170 👎 - Con
+#### 185 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Bill Stauffacher - American Forest and Paper Association
@@ -40,8 +39,9 @@ Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Todd Myers - Washington Policy Center
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Brandon Houskeeper - NW Grocery Retail Association

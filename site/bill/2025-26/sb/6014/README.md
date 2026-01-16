@@ -10,10 +10,10 @@
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SB 6014 Pregnancy accommodations
 Sign up to testify:
 
-#### 28 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
 
-#### 0 👎 - Con
+#### 288 👎 - Con
 
 #### 0 ❓ - Other

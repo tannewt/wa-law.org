@@ -64,6 +64,9 @@
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
 
+### [HB 2388](/bill/2025-26/hb/2388/) - Distributed energy/ag. lands 👍1  
+* 👍 Lily Storbeck
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  

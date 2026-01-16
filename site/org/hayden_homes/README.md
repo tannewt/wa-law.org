@@ -4,7 +4,7 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Blake Baldwin
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  
 

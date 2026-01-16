@@ -19,6 +19,9 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
+### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
+* 👍 Elaine Simons
+
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎2 
 * 👎 Martina Morris
 

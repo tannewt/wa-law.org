@@ -8,12 +8,10 @@
 
 ## Meetings
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 6011 Court of appeals bailiffs
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Bill Bowman - Washington State Court of Appeals
 
-#### 9 👎 - Con
+#### 11 👎 - Con
 
 #### 0 ❓ - Other

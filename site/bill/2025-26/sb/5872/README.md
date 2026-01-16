@@ -10,7 +10,7 @@
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5872 PreK promise account
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 77 👍 - Pro
 
 #### 0 👎 - Con
 

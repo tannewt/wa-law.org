@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%206045%20(Saldaña))
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña presenta proyecto de ley histórico para ampliar derechos laborales de trabajadores agrícolas  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/12/saldana-presenta-proyecto-de-ley-historico-para-ampliar-derechos-laborales-de-trabajadores-agricolas/#:~:text=El proyecto de%20ley%20del Senado 6045)
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña introduces landmark bill to expand labor rights for agricultural workers  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/12/saldana-introduces-landmark-bill-to-expand-labor-rights-for-agricultural-workers/#:~:text=Senate%20Bill%206045)
 
@@ -14,8 +15,8 @@
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 42 👎 - Con
 
 #### 0 ❓ - Other

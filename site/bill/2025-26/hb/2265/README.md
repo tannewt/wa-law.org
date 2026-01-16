@@ -10,8 +10,8 @@
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 2265 Extreme heat/tenants
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

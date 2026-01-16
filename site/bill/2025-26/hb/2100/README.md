@@ -17,10 +17,16 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2100 Payroll expense tax
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 87 👍 - Pro
+Testifying:
+* Mike Yestramski - WFSE
+* Cory Miller
 
-#### 3 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * Laurie Layne
+* Eric Lundberg
+* Anthony Mixer - Citizen Volunteer Lobbyist
+* Anna Burt
 
 #### 0 ❓ - Other

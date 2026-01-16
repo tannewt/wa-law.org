@@ -10,10 +10,14 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5992 Youth development fund
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Radu Smintina - School's Out Washington
+* Johnnie McRae
+* Gabriel Linares
+* Andrea Gomes Morrison - Girls on the Run Puget Sound
+* Dev Erikson
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

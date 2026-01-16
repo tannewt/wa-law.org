@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1302/</link>
 		<description>Updates about HB 1302</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -175,6 +175,13 @@
 			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-13/Rules Committee relieved of further consideration.  Placed on third reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 76; nays, 21; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 76; nays, 21; absent, 0; excused, 1.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/Third reading, passed; yeas, 76; nays, 21; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

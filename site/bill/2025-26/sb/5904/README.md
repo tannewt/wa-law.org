@@ -13,11 +13,12 @@
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5904 Use of nursing titles
 Sign up to testify:
 
-#### 786 👍 - Pro
+#### 897 👍 - Pro
 Testifying:
 * Delores Prescott - SEIU Healthcare 1199NW
 * Justin Gill - Washington State Nurses Association (WSNA)
+* 💵Jessica Hauffe - Washington State Nurses Association (WSNA)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 2 ❓ - Other

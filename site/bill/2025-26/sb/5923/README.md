@@ -10,7 +10,7 @@
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5923 Hospitals in Skagit county
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 62 👍 - Pro
 
 #### 0 👎 - Con
 

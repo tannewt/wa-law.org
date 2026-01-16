@@ -10,8 +10,12 @@
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2381 Low-rise res. buildings
 Sign up to testify:
 
-#### 127 👍 - Pro
+#### 227 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Andrea Smiley - Building industry association of washington
 
 #### 0 ❓ - Other

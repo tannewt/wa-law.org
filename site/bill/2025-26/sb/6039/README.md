@@ -10,7 +10,7 @@
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 6039 LNI communication methods
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

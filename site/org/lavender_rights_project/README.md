@@ -11,6 +11,9 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
+### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
+* 👎💵 Oliver Miska
+
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
 ### [HB 2293](/bill/2025-26/hb/2293/) - Prohibiting law enforcement training with certain foreign entities. 👍1  

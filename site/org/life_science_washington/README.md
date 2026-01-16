@@ -20,11 +20,17 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+
+### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
+
+## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+* 👎💵 Curtis Knapp
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program  👎1 
+* 👎💵 Curtis Knapp
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board  👎1 
 * 👎💵 Marc Cummings

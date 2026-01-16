@@ -12,6 +12,8 @@
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 
+### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
 ## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
 
 ## 2023-24

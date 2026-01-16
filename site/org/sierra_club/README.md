@@ -17,7 +17,11 @@
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎 Kathleen M. Saul
 
+### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  
+
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+
+### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 

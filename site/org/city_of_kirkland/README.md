@@ -131,6 +131,8 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.   ❓1
+
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 
 ## 2023-24

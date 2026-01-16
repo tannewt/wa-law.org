@@ -1,6 +1,8 @@
 # Fix Democracy First
 ## 2025-26
 
+### [HB 1030](/bill/2025-26/hb/1030/) - Counted ballot audits 👍1  
+
 ### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍2  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
@@ -33,6 +35,8 @@
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍2  
 * 👍💵 Cindy Black
 
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
+
 ### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. 👍1  
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
@@ -54,11 +58,17 @@
 
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1  
 
-## [SB 5840](/bill/2025-26/sb/5840/) - Campaign finance schedule 👍1  
+### [SB 5840](/bill/2025-26/sb/5840/) - Campaign finance schedule 👍1  
+
+### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification 👍1  
+
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
+
+## [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 
 ## 2023-24
 
-### [SB 5840](/bill/2023-24/sb/5840/) - Campaign finance schedule 👍1  
+### [SB 6035](/bill/2023-24/sb/6035/) - Voting services 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

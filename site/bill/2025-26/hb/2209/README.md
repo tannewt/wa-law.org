@@ -10,7 +10,7 @@
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2209 Stolen property/sentencing
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

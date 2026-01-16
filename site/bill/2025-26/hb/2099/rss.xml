@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2099/</link>
 		<description>Updates about HB 2099</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 19:07:12 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 11:33:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,30 @@
 			<pubDate>Wed, 14 Jan 2026 19:07:12 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=House%20Bill%202099</guid>
+		</item>
+		<item>
+			<title>👍Mark Geri - South Sound Military &amp; Communities Partnership</title>
+			<description>Mark Geri signed up to testify Pro.</description>
+			<pubDate>Thu, 15 Jan 2026 02:51:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Geri/2026-01-15 02:51:43</guid>
+		</item>
+		<item>
+			<title>👍Matthew Shillingburg - Veterans Legislative Caolition as Deputy Chair representing the VFW</title>
+			<description>Matthew Shillingburg signed up to testify Pro. They are signed up to represent Veterans Legislative Caolition as Deputy Chair representing the VFW.</description>
+			<pubDate>Thu, 15 Jan 2026 10:12:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Shillingburg/2026-01-15 10:12:42</guid>
+		</item>
+		<item>
+			<title>👍Lori Pittman - Puget Sound ESD</title>
+			<description>Lori Pittman signed up to testify Pro. They are signed up to represent Puget Sound ESD.</description>
+			<pubDate>Thu, 15 Jan 2026 11:33:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lori/Pittman/2026-01-15 11:33:16</guid>
 		</item>
 	</channel>
 </rss>

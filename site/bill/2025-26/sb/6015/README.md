@@ -13,7 +13,9 @@
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6015 Residential building plans
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Michone Preston - Habitat for Humanity of Washington State
 
 #### 0 👎 - Con
 

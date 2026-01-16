@@ -84,7 +84,13 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Bryce Yadon
 
+### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
+* 👍💵 Bryce Yadon
+
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
+* 👍💵 Bryce Yadon
+
+### [HB 2381](/bill/2025-26/hb/2381/) - Low-rise res. buildings 👍1  
 * 👍💵 Bryce Yadon
 
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
@@ -184,12 +190,15 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
+### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
+* ❓💵 Bryce Yadon
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.   ❓1
 * ❓💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 6016](/bill/2023-24/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.   ❓1
 * ❓💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1

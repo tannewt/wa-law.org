@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1859 Housing dev./religious orgs.
-Sign up to testify:
-
-#### 179 👍 - Pro
+#### 189 👍 - Pro
 Testifying:
 * Angela Birney - City of Redmond Mayor
 * Victoria OBanion
@@ -28,8 +26,11 @@ Testifying:
 * Saghar Amini - Habitat for Humanity Seattle-King & Kittitas Counties
 * Dave Hamilton - City of Bellevue Deputy Mayor
 * Brianna Dilts - [Faith Action Network](/org/faith_action_network/)
+* Malando Redeemer - Shiloh Baptist Church
 
-#### 133 👎 - Con
+#### 235 👎 - Con
+Testifying:
+* Tasha Mae
 
 #### 1 ❓ - Other
 Testifying:

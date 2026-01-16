@@ -8,11 +8,15 @@
 ### [HB 1982](/bill/2025-26/hb/1982/) - Treaty rights/convictions 👍1  
 * 👍 Chairman, Kris Peters
 
-## [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
+### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍2  
+
+### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
+
+## [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
 
 ## 2023-24
 
-### [SB 5264](/bill/2023-24/sb/5264/) - Tax compacts/capital invest. 👍1  
+### [SB 6016](/bill/2023-24/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
 
 ### [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
 

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
 Sign up to testify:
 

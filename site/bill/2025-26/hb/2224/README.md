@@ -10,8 +10,10 @@
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2224 Fire protection districts
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

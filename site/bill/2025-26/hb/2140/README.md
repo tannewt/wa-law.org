@@ -10,7 +10,7 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2140 Current use land/sale to gov
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

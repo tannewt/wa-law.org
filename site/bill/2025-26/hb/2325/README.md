@@ -10,8 +10,10 @@
 ### Wed 01/21 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2325 Tourism assessment
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

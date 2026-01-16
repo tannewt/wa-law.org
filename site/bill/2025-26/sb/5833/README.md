@@ -10,8 +10,8 @@
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5833 Pets in unattended vehicles
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

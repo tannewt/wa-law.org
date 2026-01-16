@@ -10,8 +10,14 @@
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2317 Early learning licensing
 Sign up to testify:
 
-#### 25 👍 - Pro
+#### 135 👍 - Pro
+Testifying:
+* Janette Wade - Opportunity Council - Early Learning and Family Services
+* 💵Katy Warren - WA St. Assn of Head Start and ECEAP
+* Nancy Trevena - Educational Opportunities for Children and Families
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Suzie Hanson - WA Federation of Independent Schools

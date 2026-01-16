@@ -7,14 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2026 [FOX13](/org/fox13/) - [Washington bill changing sheriff eligibility draws debate | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-bill-sheriff-eligibility-debate#:~:text=Senate%20Bill%205974)
+* 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%205974%20(Lovick))
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205974)
 * 01/06/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 5974 — Centralizing Power Over Washington’s Sheriffs - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb5974-washington-sheriffs-under-attack/#:~:text=SB%205974%20Washington%20State%20Legislature)
 
 ## Meetings
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5974 Local law enforcement
-Sign up to testify:
-
-#### 1737 👍 - Pro
+#### 1871 👍 - Pro
 Testifying:
 * David Berger - Salutation*
 * Karen Peacey - League of Women Voters of WA
@@ -28,7 +28,7 @@ Testifying:
 * Liz Moore - Peace Justice Action League Spokane (PJALS)
 * Patricia Arnold - Friends of the White Salmon River
 
-#### 7482 👎 - Con
+#### 12873 👎 - Con
 Testifying:
 * Bob Lindenhovius - WE THE PEOPLE   retired Veteran
 * Rick Kuss
@@ -51,9 +51,12 @@ Testifying:
 * Richard Myers
 * Christian Bianes-Delrosario
 * Derek Sanders - Thurston County Sheriff’s Office
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Brian Smith - Chief of Police, Port Angeles
+* Ryan Spurling
+* Jane Milhans
 
-#### 14 ❓ - Other
+#### 29 ❓ - Other
 Testifying:
 * Eric Pratt - America
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)

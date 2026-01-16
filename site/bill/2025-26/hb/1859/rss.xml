@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1859/</link>
 		<description>Updates about HB 1859</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 07:41:51 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 12:19:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -186,6 +186,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brianna/Dilts/2026-01-14 07:41:51</guid>
+		</item>
+		<item>
+			<title>👎Tasha Mae - Shiloh Baptist Church</title>
+			<description>Tasha Mae signed up to testify Con.</description>
+			<pubDate>Thu, 15 Jan 2026 04:27:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tasha/Mae/2026-01-15 04:27:04</guid>
+		</item>
+		<item>
+			<title>👍Malando Redeemer - Shiloh Baptist Church</title>
+			<description>Malando Redeemer signed up to testify Pro. They are signed up to represent Shiloh Baptist Church.</description>
+			<pubDate>Thu, 15 Jan 2026 12:19:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Malando/Redeemer/2026-01-15 12:19:03</guid>
 		</item>
 	</channel>
 </rss>

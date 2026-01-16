@@ -82,6 +82,9 @@
 ### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
 * 👍💵 Chloe Merino
 
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
+* 👍💵 Chloe Merino
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  

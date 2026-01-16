@@ -13,11 +13,14 @@
 ### Fri 01/16 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2186 Federal funds
 Sign up to testify:
 
-#### 22 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Richa Sigdel - [City of Pasco](/org/city_of_pasco/)
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Stephanie Button - Historic Downtown Kennewick Partnership
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kirk Esmond - Department of Commerce

@@ -14,9 +14,7 @@
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
-Sign up to testify:
-
-#### 369 👍 - Pro
+#### 377 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * McKenna Morrigan - Seattle Public Utilities
@@ -24,7 +22,7 @@ Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Miguela Marzolf - Seattle Aquarium
 
-#### 557 👎 - Con
+#### 586 👎 - Con
 Testifying:
 * Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Darbi Gottlieb - AdvaMed

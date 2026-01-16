@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 01/15 04:00 PM - Appropriations (APP): HB 2125 Retirement funds/expenses
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

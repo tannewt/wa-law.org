@@ -3,6 +3,8 @@
 
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement  👎1 
 
+### [HB 1496](/bill/2025-26/hb/1496/) - Health care information  👎1 
+
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
 * 👎 Cathy Bambrick
 

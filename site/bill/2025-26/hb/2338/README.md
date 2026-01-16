@@ -10,7 +10,7 @@
 ### Thu 01/22 01:30 PM - Capital Budget (CB): HB 2338 Community weatherization
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

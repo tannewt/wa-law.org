@@ -10,8 +10,10 @@
 ### Thu 01/22 04:00 PM - Transportation (TR): HB 2139 Snowmobile registration fees
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Stephen Alldridge - Z Bus
 
 #### 0 ❓ - Other

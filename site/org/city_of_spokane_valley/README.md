@@ -144,7 +144,7 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎2 
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
@@ -202,11 +202,13 @@
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.  👎1 
 
-## [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
+### [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
 
 ## 2023-24
 
-### [SB 6009](/bill/2023-24/sb/6009/) - Administrative appeals   ❓1
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

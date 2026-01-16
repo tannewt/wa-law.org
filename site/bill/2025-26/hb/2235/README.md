@@ -10,9 +10,9 @@
 ### Fri 01/23 08:00 AM - State Government & Tribal Relations (SGOV): HB 2235 PRA firearm exemptions
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Joe Kunzler
 

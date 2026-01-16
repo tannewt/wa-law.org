@@ -73,11 +73,13 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
+
+## [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍2  
+### [SB 5821](/bill/2023-24/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

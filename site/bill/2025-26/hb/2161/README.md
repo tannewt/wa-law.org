@@ -10,7 +10,9 @@
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2161 AGO investigation powers
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Elaine Simons - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
 #### 1 👎 - Con
 

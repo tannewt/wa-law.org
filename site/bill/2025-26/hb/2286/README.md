@@ -10,7 +10,7 @@
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2286 Social worker licensure
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

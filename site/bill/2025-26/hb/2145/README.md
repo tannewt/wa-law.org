@@ -10,7 +10,7 @@
 ### Tue 01/20 01:30 PM - Health Care & Wellness (HCW): HB 2145 340B drug pricing program
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

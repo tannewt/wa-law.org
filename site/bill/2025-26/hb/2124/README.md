@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 01/15 04:00 PM - Appropriations (APP): HB 2124 Lump sum retirement payments
-Sign up to testify:
-
 #### 20 👍 - Pro
 
 #### 0 👎 - Con

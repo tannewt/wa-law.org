@@ -61,7 +61,7 @@
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 

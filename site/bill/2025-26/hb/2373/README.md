@@ -12,9 +12,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Kristin Masteller - Mason County PUD No. 1
 * Stephen Taylor - Cowlitz PUD
+* Dan Fagerlie - Ferry (County) Public Utility District #1
 
 #### 0 ❓ - Other

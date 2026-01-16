@@ -13,8 +13,10 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5892 Voter registration database
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
-#### 2 👎 - Con
+#### 26 👎 - Con
 
 #### 0 ❓ - Other

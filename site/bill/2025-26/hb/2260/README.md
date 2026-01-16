@@ -12,6 +12,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
+* Tim Eyman - Initiative Activist
+* Laurie Layne
 
 #### 0 ❓ - Other

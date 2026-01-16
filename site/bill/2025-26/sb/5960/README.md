@@ -10,8 +10,14 @@
 ### Mon 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5960 Ungulate populations
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 102 👍 - Pro
+Testifying:
+* Zach Bogatz
+* don peaker - DPeak Appraisal
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* PHD, Susan Kane-Ronning - Washington Sierra Club
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 
 #### 0 ❓ - Other

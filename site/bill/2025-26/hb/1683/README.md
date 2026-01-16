@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Thu 01/15 09:00 AM - Education (ED): HB 1683 School director districts
-Sign up to testify:
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 
-#### 118 👎 - Con
+#### 163 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

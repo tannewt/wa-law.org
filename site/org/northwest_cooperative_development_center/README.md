@@ -33,12 +33,16 @@
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍2  
 * 👍 Victoria OBanion
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍2  
 
 ### [HB 2047](/bill/2025-26/hb/2047/) - Employee ownership program  👎2 
 * 👎 John McNamara
 
+### [HB 2151](/bill/2025-26/hb/2151/) - Factory built structures 👍1  
+
 ### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+
+### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Victoria OBanion

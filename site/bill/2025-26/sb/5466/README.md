@@ -16,7 +16,9 @@
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): ESSB 5466 Electric transmission system
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Hugo Huang
 
 #### 0 👎 - Con
 

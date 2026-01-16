@@ -10,7 +10,9 @@
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5978 Guaranteed admissions prg.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Melissa Beard - Council of Presidents
 
 #### 0 👎 - Con
 

@@ -46,15 +46,15 @@
 * 👎 Heba Qatrani
 * 👍💵 Isela Bonilla
 
-## [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍3  
+### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍3  
 * 👍💵 Sienna Jarrard
 * 👍💵 Collin Bannister
+
+## [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
 ## 2023-24
 
-### [SB 5841](/bill/2023-24/sb/5841/) - Financial aid applications 👍3  
-* 👍💵 Sienna Jarrard
-* 👍💵 Collin Bannister
+### [SB 5906](/bill/2023-24/sb/5906/) - Data and personal safety 👍2  
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

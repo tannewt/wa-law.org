@@ -10,7 +10,9 @@
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2254 Partnership access line
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Daniel Garcia - WA Health Care Authority
 
 #### 0 👎 - Con
 

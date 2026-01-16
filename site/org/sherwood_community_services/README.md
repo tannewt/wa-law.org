@@ -21,11 +21,13 @@
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
 * 👍💵 Lance Morehouse
 
-## [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍6  
+### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍6  
+
+## [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍4  
 
 ## 2023-24
 
-### [SB 5393](/bill/2023-24/sb/5393/) - Rainier school 👍6  
+### [SB 5681](/bill/2023-24/sb/5681/) - DDA employment services age 👍4  
 
 ### [HB 1506](/bill/2023-24/hb/1506/) - DSHS leases  👎1 
 

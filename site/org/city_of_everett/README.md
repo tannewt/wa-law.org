@@ -105,6 +105,8 @@
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍 Jennifer Gregerson
 
+### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+
 ## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍 DAVID DEMARCO
 

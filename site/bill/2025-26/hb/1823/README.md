@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 1823 Transp. improvement board
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Ashley Probart - Transportation Improvement Board
 
 #### 0 👎 - Con
 

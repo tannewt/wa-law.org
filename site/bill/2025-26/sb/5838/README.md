@@ -13,8 +13,8 @@
 ### Mon 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5838 Board of natural resources
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

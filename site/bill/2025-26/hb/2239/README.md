@@ -10,7 +10,7 @@
 ### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2239 Family burial grounds
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

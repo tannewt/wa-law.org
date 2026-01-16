@@ -6,6 +6,8 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Melissa Spear
 
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍4  
 * 👍 Melissa Spear
 

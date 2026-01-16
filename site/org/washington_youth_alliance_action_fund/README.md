@@ -28,6 +28,10 @@
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 * 👍 Kenia Soriano Hernandez
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
+
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍2  

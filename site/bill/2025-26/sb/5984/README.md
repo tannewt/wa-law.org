@@ -15,7 +15,14 @@
 ### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 5984 AI companion chatbots
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Jackson Munko
+* Laura Marquez-Garrett - The Social Media Victims Law Center
+* Beau Perschbacher - Governor's Office
+* Katie Davis
+* Kristin Bride - Executive Director, The Carson Bride Effect
+* Aaron Ping
 
 #### 0 👎 - Con
 

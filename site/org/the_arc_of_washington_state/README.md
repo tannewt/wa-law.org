@@ -26,6 +26,8 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
+### [HB 2196](/bill/2025-26/hb/2196/) - PANDAS, pediatric treatment 👍1  
+
 ### [HB 2230](/bill/2025-26/hb/2230/) - Streamlining monitoring and oversight activities related to community residential service business providers. 👍1  
 
 ### [HB 2252](/bill/2025-26/hb/2252/) - State historical records 👍2  
@@ -35,7 +37,8 @@
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member. 👍1  
 
-### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
+### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
+* 👍💵 Stacy Dym
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍💵 Stacy Dym
@@ -52,6 +55,8 @@
 * 👍💵 Stacy Dym
 
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
+
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍1  
 
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 

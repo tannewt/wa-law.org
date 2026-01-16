@@ -10,7 +10,9 @@
 ### Wed 01/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2389 Criminal offenses under 18
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 98 👍 - Pro
+Testifying:
+* Dr. Esther Matthews
 
 #### 0 👎 - Con
 

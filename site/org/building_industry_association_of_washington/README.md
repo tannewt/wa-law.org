@@ -230,6 +230,9 @@
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+* 👍💵 Jan Himebaugh
+
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
@@ -379,13 +382,15 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
 * 👍💵 Andrea Smiley
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍2  
 * 👍💵 Andrea Smiley
+* 👍💵 Bill Stauffacher
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍2  
 * 👍💵 Andrea Smiley
+* 👍💵 Bill Stauffacher
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

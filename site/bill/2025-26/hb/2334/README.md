@@ -13,8 +13,12 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2334 Cash transactions/pennies
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

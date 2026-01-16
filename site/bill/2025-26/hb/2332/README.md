@@ -13,10 +13,16 @@
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2332 Driver privacy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 438 👍 - Pro
+Testifying:
+* 💵Anita Yandle - Policing Project at NYU School of Law
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Gregory Smith
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Melissa Beard - Council of Presidents
+* 💵Scott Nelson - Office of the Washington State Auditor

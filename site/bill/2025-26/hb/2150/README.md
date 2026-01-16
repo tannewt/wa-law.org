@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA lawmaker and lawsuit attempt to force production of CCA climate data | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_18a78062-c3b0-4580-a529-9cc346d69d59.html#:~:text=House%20Bill%202150)
+
 ## Meetings

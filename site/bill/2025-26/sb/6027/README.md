@@ -10,7 +10,7 @@
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6027 Affordable housing funding
 Sign up to testify:
 
-#### 349 👍 - Pro
+#### 410 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer
 * Councilmember Robyn Denson - South Sound Housing Affordability Partners
@@ -20,7 +20,9 @@ Testifying:
 * Sarah Dickmeyer - Plymouth Housing
 * David Sackmann - Catholic Charities Eastern Washington
 * Joe McDermott - State Relations Director | King County
+* 💵Paul Berendt - [City of Olympia](/org/city_of_olympia/)
+* Em Stone - Governor's Office
 
-#### 3 👎 - Con
+#### 279 👎 - Con
 
 #### 0 ❓ - Other

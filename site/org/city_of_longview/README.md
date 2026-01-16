@@ -13,8 +13,10 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
-## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
 
 ## 2023-24
 
-## [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
+## [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 

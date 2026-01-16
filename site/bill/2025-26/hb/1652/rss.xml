@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1652/</link>
 		<description>Updates about HB 1652</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 07:50:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,14 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👍Adam Lough - Washington Physicians for Social Responsibility</title>
+			<description>Adam Lough signed up to testify Pro. They are signed up to represent Washington Physicians for Social Responsibility.</description>
+			<pubDate>Thu, 15 Jan 2026 07:50:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Adam/Lough/2026-01-15 07:50:16</guid>
 		</item>
 	</channel>
 </rss>

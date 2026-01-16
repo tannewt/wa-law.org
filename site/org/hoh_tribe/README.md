@@ -5,6 +5,8 @@
 * ❓💵 Mara Machulsky
 * ❓💵 Peggen Frank
 
+### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍1  
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
 * ❓💵 Mara Machulsky
 * ❓💵 Peggen Frank

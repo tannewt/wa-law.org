@@ -8,6 +8,9 @@
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎💵 Michael Gempler
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
+* ❓💵 Michael Gempler
+
 ## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Michael Gempler
 

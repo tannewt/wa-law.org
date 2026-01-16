@@ -325,6 +325,8 @@
 
 ### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
+
 ### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases. 👍1  
 
 ### [HB 2124](/bill/2025-26/hb/2124/) - Concerning the threshold for payment of a lump sum retirement allowance in lieu of a monthly benefit. 👍1  
@@ -351,6 +353,8 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
 ### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 * 👎💵 Larry Delaney
@@ -722,6 +726,8 @@
 
 ### [SB 5969](/bill/2025-26/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans. 👍1  
 * 👍💵 Nasue Nishida
+
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Larry Delaney

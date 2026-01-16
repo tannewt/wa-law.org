@@ -10,6 +10,8 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
@@ -52,11 +54,13 @@
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 
-## [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
+### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
 
 ## 2023-24
 
-### [SB 6008](/bill/2023-24/sb/6008/) - Residential energy storage 👍1  
+### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 

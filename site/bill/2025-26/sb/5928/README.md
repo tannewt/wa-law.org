@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5928 Wildfire risk models
-Sign up to testify:
-
-#### 160 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * Mike Bucy - Stevens County Fire Protection District 1
 * Mayor Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
@@ -22,12 +20,13 @@ Testifying:
 * 💵Andrew Eckels - 350 Washington
 * 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Patrick Tonasket - Confederated Tribes of the Colville Reservation
+* Daniel Holst - www.wainsurance.org
 
 #### 13 👎 - Con
 Testifying:
 * 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 * 💵Christine Brewer - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)

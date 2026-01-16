@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Health & Long Term Care (HLTC): SB 5967 Preventive health services
-Sign up to testify:
-
-#### 547 👍 - Pro
+#### 599 👍 - Pro
 Testifying:
 * Caitlin Safford - Washington State Office of the Governor
 * Dennis Worsham - Washington State Secretary of Health
@@ -39,6 +37,9 @@ Testifying:
 * Nina Gummadi - Washington Chapter of the American Academy of Pediatrics
 * Madeline Wozniak - Washington Chapter of the American Academy of Pediatrics
 
-#### 1734 👎 - Con
+#### 1792 👎 - Con
+Testifying:
+* Bob Runnells - Informed Choice Washington
+* Natalie Chavez
 
 #### 3 ❓ - Other

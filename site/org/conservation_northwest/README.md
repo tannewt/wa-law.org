@@ -46,6 +46,8 @@
 ### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission   ❓1
 * ❓ Jen Syrowitz
 
+### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎💵 Paula Swedeen
 

@@ -110,11 +110,15 @@
 * 👍 Tom Gorman
 * 👍 Tom Gorman
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
+
+### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure.   ❓1
+
+## [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing   ❓1
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue   ❓1
+### [SB 5968](/bill/2023-24/sb/5968/) - Permitting and licensing   ❓1
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5868 Superior court judges
-Sign up to testify:
-
 #### 21 👍 - Pro
 Testifying:
 * LaDon Linde - Yakima County Commissioner
@@ -19,6 +17,6 @@ Testifying:
 * Judge Elizabeth Neidzwski - Skagit County Superior Court
 * Judge Kevin Naught - Yakima County Superior Court
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

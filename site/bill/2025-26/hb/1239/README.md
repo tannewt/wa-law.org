@@ -13,11 +13,11 @@
 ### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 113 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
 #### 683 👍 - Pro

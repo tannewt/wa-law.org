@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Climate Advocate Nilu Jenks Announces D5 Seattle Council Campaign » The Urbanist](https://www.theurbanist.org/2026/01/15/climate-advocate-nilu-jenks-announces-d5-seattle-council-campaign/#:~:text=banning%20face%20coverings%20for%20law%20enforcement)
+* 01/15/2026 [KREM](/org/krem/) - [WA lawmakers consider bill banning law enforcement from wearing face coverings | krem.com](https://www.krem.com/article/news/local/washington/wa-lawmakers-bill-banning-law-enforcement-face-coverings/293-913064cc-20ab-4f38-a8db-d8391ae4ebe5#:~:text=Senate%20Bill%205855)
 * 01/14/2026 [The Center Square](/org/the_center_square/) - [WATCH: Proposed ban on police face coverings engenders heated debate in WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_675e795e-a07c-49c0-902a-e31fbef14ed9.html#:~:text=Senate%20Bill%205855)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Is Officially Underway - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/14/the-2026-legislative-session-is-officially-underway/#:~:text=SB%205855)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [WA State Standard: Proposed ban on police face coverings gains momentum in WA Legislature - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/13/wa-state-standard-proposed-ban-on-police-face-coverings-gains-momentum-in-wa-legislature/#:~:text=Senate%20Bill%205855)

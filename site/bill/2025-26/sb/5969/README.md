@@ -11,18 +11,18 @@
 
 ## Meetings
 ### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5969 IEP transition plans
-Sign up to testify:
-
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Alex Hur - Communities in Schools of Washington
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 115 👎 - Con
+#### 175 👎 - Con
 Testifying:
 * Tanya English
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Lisa Guthrie - Lake Washington School District Board of Directors
 * Jen Chong Jewell - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Misha Cherniske - Office of Superintendent of Public Instruction

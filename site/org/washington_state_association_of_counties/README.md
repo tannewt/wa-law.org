@@ -220,6 +220,9 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
 
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+* 👍💵 Curtis Steinhauer
+
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 * 👍💵 Brad Banks
 
@@ -239,7 +242,7 @@
 
 ### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍1  
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍2  
 * 👍💵 Travis Dutton
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓1
@@ -348,8 +351,9 @@
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
-### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍2  
 * 👍 BRIAN ENSLOW
+* 👍💵 Curtis Steinhauer
 
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍2  
 * 👍 BRIAN ENSLOW
@@ -455,11 +459,18 @@
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 
-## [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+
+### [SB 6064](/bill/2025-26/sb/6064/) - International fire code  👎1 
+* 👎💵 Curtis Steinhauer
+
+## [SB 6066](/bill/2025-26/sb/6066/) - Accident risk zones   ❓1
+* ❓💵 Axel Swanson
 
 ## 2023-24
 
-### [SB 6028](/bill/2023-24/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6066](/bill/2023-24/sb/6066/) - Accident risk zones   ❓1
+* ❓💵 Axel Swanson
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

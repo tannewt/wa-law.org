@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5974/</link>
 		<description>Updates about SB 5974</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 12:35:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 18:06:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -198,6 +198,13 @@
 			<guid isPermaLink="false">testifier/Joe/Kriete/2026-01-13 08:08:37</guid>
 		</item>
 		<item>
+			<title>NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Tue, 13 Jan 2026 16:51:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%205974%20(Lovick)</guid>
+		</item>
+		<item>
 			<title>👎brian keelean - Grant County Sheriff's Office</title>
 			<description>brian keelean signed up to testify Con.</description>
 			<pubDate>Wed, 14 Jan 2026 03:24:43 GMT</pubDate>
@@ -236,6 +243,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Brad/Banks/2026-01-14 08:42:05</guid>
+		</item>
+		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Wed, 14 Jan 2026 10:02:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2026-01-14 10:02:25</guid>
 		</item>
 		<item>
 			<title>👍Karen Peacey - League of Women Voters of WA</title>
@@ -324,6 +339,29 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brian/Smith/2026-01-14 12:35:54</guid>
+		</item>
+		<item>
+			<title>👎Ryan Spurling - Chief of Police, Port Angeles</title>
+			<description>Ryan Spurling signed up to testify Con.</description>
+			<pubDate>Thu, 15 Jan 2026 08:40:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ryan/Spurling/2026-01-15 08:40:15</guid>
+		</item>
+		<item>
+			<title>👎Jane Milhans - Chief of Police, Port Angeles</title>
+			<description>Jane Milhans signed up to testify Con.</description>
+			<pubDate>Thu, 15 Jan 2026 09:28:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jane/Milhans/2026-01-15 09:28:55</guid>
+		</item>
+		<item>
+			<title>Washington bill changing sheriff eligibility draws debate | FOX 13 Seattle</title>
+			<description>News article "Washington bill changing sheriff eligibility draws debate | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 15 Jan 2026 18:06:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/washington-bill-sheriff-eligibility-debate#:~:text=Senate%20Bill%205974</guid>
 		</item>
 	</channel>
 </rss>

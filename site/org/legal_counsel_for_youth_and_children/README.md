@@ -72,6 +72,8 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
+### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
+
 ### [HB 2185](/bill/2025-26/hb/2185/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
 ### [HB 2253](/bill/2025-26/hb/2253/) - Concerning updates to the licensing division of the department of children, youth, and families. 👍1  

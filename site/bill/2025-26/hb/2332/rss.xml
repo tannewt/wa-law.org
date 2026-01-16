@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2332/</link>
 		<description>Updates about HB 2332</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 07:54:37 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jan 2026 09:01:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Candice/Bock/2026-01-14 07:54:37</guid>
+		</item>
+		<item>
+			<title>❓Melissa Beard - Council of Presidents</title>
+			<description>Melissa Beard signed up to testify Other. They are signed up to represent Council of Presidents.</description>
+			<pubDate>Thu, 15 Jan 2026 02:09:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Melissa/Beard/2026-01-15 02:09:55</guid>
+		</item>
+		<item>
+			<title>👍💵Anita Yandle - Policing Project at NYU School of Law</title>
+			<description>Anita Yandle signed up to testify Pro. They are signed up to represent Policing Project at NYU School of Law. They are a registered lobbyist.</description>
+			<pubDate>Thu, 15 Jan 2026 04:16:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anita/Yandle/2026-01-15 04:16:17</guid>
+		</item>
+		<item>
+			<title>❓💵Scott Nelson - Office of the Washington State Auditor</title>
+			<description>Scott Nelson signed up to testify Other. They are signed up to represent Office of the Washington State Auditor. They are a registered lobbyist.</description>
+			<pubDate>Thu, 15 Jan 2026 05:10:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Scott/Nelson/2026-01-15 05:10:43</guid>
+		</item>
+		<item>
+			<title>👎Gregory Smith - Policing Project at NYU School of Law</title>
+			<description>Gregory Smith signed up to testify Con.</description>
+			<pubDate>Thu, 15 Jan 2026 09:01:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gregory/Smith/2026-01-15 09:01:20</guid>
 		</item>
 	</channel>
 </rss>

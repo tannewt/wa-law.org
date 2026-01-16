@@ -11,6 +11,15 @@
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=environmental%20and%20health%20disparities)
 
 ## Meetings
+### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 01:30 PM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
 #### 298 👍 - Pro
 Testifying:

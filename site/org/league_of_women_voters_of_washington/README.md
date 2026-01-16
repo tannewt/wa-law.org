@@ -96,6 +96,10 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 * 👍 Ann Murphy
 
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍2  
+* 👍 Alison McCaffree
+* 👍 Alison McCaffree
+
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
@@ -165,8 +169,14 @@
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1 👎1 
 * 👍 Dee Anne Finken
 
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
+* 👍 Alison McCaffree
+
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Ann Murphy
+
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
+* 👍 Alison McCaffree
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 

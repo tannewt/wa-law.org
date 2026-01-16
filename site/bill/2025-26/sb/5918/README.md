@@ -10,11 +10,15 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5918 School operating costs
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland
 * Jim Kowalkowski - Rural Education Center
+* Tori Emerson - President, Washington State PTA
+* Malorie Larson - Shoreline PTA
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

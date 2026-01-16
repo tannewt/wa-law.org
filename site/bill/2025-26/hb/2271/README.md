@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2271 Plastics/recycled content
-Sign up to testify:
-
-#### 31 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - WRRA
 * Allison Kustic - Association of Plastic Recyclers (APR)
@@ -21,7 +19,7 @@ Testifying:
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * McKenna Morrigan - Seattle Public Utilities
 
-#### 77 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * Dan Felton - Flexible Packaging Association (FPA)
@@ -33,7 +31,7 @@ Testifying:
 * 💵Edwin Borbon - AMERIPEN
 * 💵Darbi Gottlieb - AdvaMed
 
-#### 128 ❓ - Other
+#### 131 ❓ - Other
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program

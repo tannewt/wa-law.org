@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to update WA College Grant, College Bound Scholarship awards for private nonprofit institutions heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/15/nobles-bill-to-update-wa-college-grant-college-bound-scholarship-awards-for-private-nonprofit-institutions-heard-in-committee/#:~:text=Senate%20Bill%205828)
+
 ## Meetings
 ### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5828 College scholarships/private
-Sign up to testify:
-
-#### 2574 👍 - Pro
+#### 3032 👍 - Pro
 Testifying:
 * Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Katia Passerini - President, Gonzaga University
@@ -36,7 +37,7 @@ Testifying:
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Ben Small - LaunchNW
 
-#### 22 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Bidisha Biswas - Western Washington University Faculty Legislative Rep
 * Samuel Ligon - Eastern Washington University Faculty Legislative Rep. & Council of Faculty

@@ -53,6 +53,8 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍16  
