@@ -63,6 +63,9 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
 
+### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
+* 👍💵 Holly Hines
+
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 

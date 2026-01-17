@@ -7,13 +7,15 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202089)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202089)
 * 12/02/2025 [House Democrats](/org/house_democrats/) - [A New Vision for Washington: Scott introduces the Well Washington Fund payroll tax to protect state from Trump’s austerity budget. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/12/02/a-new-vision-for-washington-scott-introduces-the-well-washington-fund-payroll-tax-to-protect-state-from-trumps-austerity-budget/#:~:text=HB%202089)
 
 ## Meetings
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2089 Taxes on loan interest
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 2 👎 - Con
 

@@ -6,12 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206069)
+
 ## Meetings
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 24 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* Carol Helland - City of Redmond, Planning and Community Development Director

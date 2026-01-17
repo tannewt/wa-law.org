@@ -10,7 +10,7 @@
 ### Tue 01/20 01:30 PM - Health Care & Wellness (HCW): HB 2155 Use of nursing titles
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

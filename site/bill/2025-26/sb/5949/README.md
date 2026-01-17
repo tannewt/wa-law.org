@@ -10,8 +10,10 @@
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5949 Insurer taxes
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Steve Ewing - Dept. of Revenue
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

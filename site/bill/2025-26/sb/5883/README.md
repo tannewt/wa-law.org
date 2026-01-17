@@ -10,8 +10,10 @@
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5883 SEBB membership/second year
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 312 👍 - Pro
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Claire Olson - Nine Mile Falls School District
 
 #### 0 ❓ - Other

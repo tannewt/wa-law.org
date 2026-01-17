@@ -12,6 +12,6 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 38 👎 - Con
 
 #### 0 ❓ - Other

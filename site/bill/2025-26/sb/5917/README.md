@@ -13,9 +13,9 @@
 ### Wed 01/21 08:00 AM - Human Services (HS): SB 5917 Abortion medications
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 41 👍 - Pro
 
-#### 5 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 

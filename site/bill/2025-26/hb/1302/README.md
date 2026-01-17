@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA GOP leader: Energy subsidy bill 'warps meaning of affordability' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f004d30d-0985-4ae9-8e28-7ccfe830336f.html#:~:text=HB%201302)
 * 02/13/2025 [House Democrats](/org/house_democrats/) - [House Passes Bill to Support Sustainability & Economic Development – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/house-passes-bill-to-support-sustainability-economic-development/#:~:text=House%20Bill%201302)
 
 ## Meetings

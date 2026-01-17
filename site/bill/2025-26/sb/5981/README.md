@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5981 340B drug pricing program
-Sign up to testify:
-
-#### 261 👍 - Pro
+#### 267 👍 - Pro
 Testifying:
 * Joseph Finley - Confederated Tribes of the Colville Reservation
 * Steve Kutz - Cowlitz Tribe/American Indian Health Commission
@@ -25,7 +23,7 @@ Testifying:
 * Laura Boudreau - AIDS Healthcare Foundation
 * Steve Kutz - Cowlitz Tribe/American Indian Health Commission
 
-#### 228 👎 - Con
+#### 301 👎 - Con
 Testifying:
 * Kalvin Pugh - Community Access National Network
 * Corbin Santo - Johnson & Johnson Innovative Medicine

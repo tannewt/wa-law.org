@@ -10,12 +10,12 @@
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5844 Storage space rentals
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Lance Baker - Washington Self Storage Association
 * Patrick Gilroy - Washington Self Storage Association
 * Joe Doherty - Self Storage Association
 
-#### 1 👎 - Con
+#### 11 👎 - Con
 
 #### 0 ❓ - Other

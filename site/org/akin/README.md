@@ -30,6 +30,8 @@
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+
 ## [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
 ## 2023-24

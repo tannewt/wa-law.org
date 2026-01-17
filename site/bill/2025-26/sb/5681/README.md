@@ -10,10 +10,11 @@
 ### Mon 01/19 01:30 PM - Human Services (HS): SB 5681 DDA employment services age
 Sign up to testify:
 
-#### 133 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * DARCY HUFFMAN - community employment alliance
 * John Lemus
+* Rebekah Fuss - Selah School District - Selah Transition Education Program
 
 #### 0 👎 - Con
 

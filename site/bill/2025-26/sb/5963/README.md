@@ -10,7 +10,7 @@
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5963 Passport to careers program
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 

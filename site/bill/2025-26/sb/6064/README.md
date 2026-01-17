@@ -12,8 +12,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Randy Collins - Fire Marshal Mason County
+* Patrick Hanks - Building Industry Association of Washington (BIAW)
+* Seth Henderson - Snohomish County Fire Marshal's Office / Washington State Association of Fire Marshals
 
 #### 0 ❓ - Other

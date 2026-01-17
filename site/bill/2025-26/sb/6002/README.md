@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206002)
 * 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Climate Advocate Nilu Jenks Announces D5 Seattle Council Campaign » The Urbanist](https://www.theurbanist.org/2026/01/15/climate-advocate-nilu-jenks-announces-d5-seattle-council-campaign/#:~:text=regulating%20license%20plate%20readers)
 * 01/14/2026 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [It’s time to regulate Flock Cameras and ALPRs, with the Driver Privacy Act - ACLU of Washington](https://www.aclu-wa.org/news/its-time-to-regulate-flock-cameras-and-alprs-with-the-driver-privacy-act/#:~:text=Senate%20Bill%206002)
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Condemns ICE Access to State Databases - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/12/washington-state-senate-members-of-color-caucus-condemns-ice-access-to-state-databases/#:~:text=Senate%20Bill%206002)
@@ -18,17 +19,20 @@
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6002 Driver privacy
 Sign up to testify:
 
-#### 478 👍 - Pro
+#### 843 👍 - Pro
 Testifying:
 * Loi Lumala - Latinos en Spokane
 * 💵Anita Yandle - Policing Project at NYU School of Law
+* Heather Kelly - Washington Defender Association / Washington Association of Criminal Defense Lawyers
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Gregory Smith
+* Ken Roske - City of Pasco Police Chief
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Melissa Beard - Council of Presidents
 * 💵Scott Nelson - Office of the Washington State Auditor
+* Angela Birney - Mayor, City of Redmond

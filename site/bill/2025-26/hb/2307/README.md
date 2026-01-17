@@ -10,8 +10,9 @@
 ### Wed 01/21 04:00 PM - Transportation (TR): HB 2307 Commute trip reduction/times
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
+* Veronica Jarvis - WSDOT TDM Technical Committee
 * Kelli Refer - Move Redmond
 * Michael Leach - Move Redmond
 * Tara Peters - I'm representing the nonprofit organization, Commute Seattle.

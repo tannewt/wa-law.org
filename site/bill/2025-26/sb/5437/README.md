@@ -10,9 +10,13 @@
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Mark Mantei - [Vancouver Clinic](/org/vancouver_clinic/)
 
 #### 0 ❓ - Other
 

@@ -10,7 +10,9 @@
 ### Tue 01/20 01:30 PM - Health Care & Wellness (HCW): HB 1828 Plasma donation/physicians
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Crystal Phillips - [Plasma Protein Therapeutics Association](/org/plasma_protein_therapeutics_association/)
 
 #### 0 👎 - Con
 

@@ -10,8 +10,11 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5951 Albuterol access in schools
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Anjitha Gurrala
+* Rio Kawamoto
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

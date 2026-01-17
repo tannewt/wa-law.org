@@ -78,6 +78,8 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
+### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍2  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
@@ -122,6 +124,8 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
+### [SB 5720](/bill/2025-26/sb/5720/) - Uniform debt default act 👍1  
+
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍2  
 * 👍 Molly Gallagher
 
@@ -150,6 +154,8 @@
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
 ## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 

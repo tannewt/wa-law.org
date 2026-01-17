@@ -32,6 +32,8 @@
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
 * ❓ Lacey Jane Wolfe
 
+### [HB 1228](/bill/2025-26/hb/1228/) - Toxicology testing 👍1  
+
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  

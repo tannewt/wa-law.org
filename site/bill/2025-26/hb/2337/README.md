@@ -10,8 +10,9 @@
 ### Tue 01/20 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2337 Individual providers/family
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
+* Katie Scheid
 * De Anna Winterrose - Benton/Franklin Parent Coalition
 
 #### 0 👎 - Con

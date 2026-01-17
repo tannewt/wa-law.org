@@ -10,7 +10,9 @@
 ### Mon 01/19 01:30 PM - Human Services (HS): SB 6063 DSHS terminology
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Angela Ramirez - Department of Social and Health Services
 
 #### 0 👎 - Con
 

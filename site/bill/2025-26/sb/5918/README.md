@@ -10,14 +10,22 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5918 School operating costs
 Sign up to testify:
 
-#### 99 👍 - Pro
+#### 377 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland
 * Jim Kowalkowski - Rural Education Center
 * Tori Emerson - President, Washington State PTA
 * Malorie Larson - Shoreline PTA
+* Jason Perrins - Chewelah SD
+* Lindsey Yocum - Lake Washington School District Board of Directors
+* Jay Tyus - Wilbur and Creston Cooperative School Districts
+* Ashley Murphy - WA Assoc of School Administrators (WASA) & WA Assoc. of School Business Officials
+* Brad Wilson - Lake Chelan School District
+* Jayna Muneta
+* Dr. Melissa Beard - Washington State School Directors' Association (WSSDA)
+* Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 6 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

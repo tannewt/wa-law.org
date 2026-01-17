@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5915 Health technology assessment
-Sign up to testify:
-
-#### 148 👍 - Pro
+#### 150 👍 - Pro
 Testifying:
 * Lisa Woodard - n/a
 * Carolyn Monroe

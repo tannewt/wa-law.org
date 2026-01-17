@@ -56,9 +56,14 @@
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 * 👍💵 Alexis Mansanarez
 
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
+* 👍💵 Rian Watt
+
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 * 👍 Sam Hatzenbeler
@@ -121,7 +126,7 @@
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 * 👍💵 Traci Underwood
 
-### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍2  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 

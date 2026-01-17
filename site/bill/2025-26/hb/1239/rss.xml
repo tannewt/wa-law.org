@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1239/</link>
 		<description>Updates about HB 1239</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jan 2026 04:14:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Community Safety.</guid>
 		</item>
 		<item>
-			<title>👍Aaron Delaney - Bleeding Disorder Foundation of Washington</title>
+			<title>👍Aaron Delaney - WA State Sentencing Guidelines Commission</title>
 			<description>Aaron Delaney signed up to testify Pro.</description>
 			<pubDate>Wed, 22 Jan 2025 07:22:03 GMT</pubDate>
 			<category>testifier</category>
@@ -250,6 +250,30 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👎Tiffany Attrill - WA State Sentencing Guidelines Commission</title>
+			<description>Tiffany Attrill signed up to testify Con.</description>
+			<pubDate>Fri, 16 Jan 2026 02:46:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tiffany/Attrill/2026-01-16 02:46:14</guid>
+		</item>
+		<item>
+			<title>👍Cindy Arends - Washington Defender Association</title>
+			<description>Cindy Arends signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_defender_association/"&gt;Washington Defender Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 16 Jan 2026 03:14:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cindy/Arends/2026-01-16 03:14:34</guid>
+		</item>
+		<item>
+			<title>👍Keri-Anne Jetzer - WA State Sentencing Guidelines Commission</title>
+			<description>Keri-Anne Jetzer signed up to testify Pro. They are signed up to represent WA State Sentencing Guidelines Commission.</description>
+			<pubDate>Fri, 16 Jan 2026 04:14:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2026-01-16 04:14:13</guid>
 		</item>
 	</channel>
 </rss>

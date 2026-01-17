@@ -6,12 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202367)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202367)
+
 ## Meetings
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2367 Coal-fired electric plant
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
 
-#### 2 👎 - Con
+#### 68 👎 - Con
 
 #### 0 ❓ - Other

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 1496 Health care information
-Sign up to testify:
-
-#### 343 👍 - Pro
+#### 348 👍 - Pro
 Testifying:
 * Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Daniel Hinkle - American Association for Justice
@@ -18,7 +16,7 @@ Testifying:
 * Pamela Wells - Washington State Association for Justice
 * Lamar Stewart - ILWU Local 4 & WA Area District Council
 
-#### 135 👎 - Con
+#### 190 👎 - Con
 Testifying:
 * Jennifer Burkhardt - Summit Pacific Medical Center
 * 💵Leslie Emerick - WA State Podiatric Medicine Asso, WA Acupuncture & E. Medicine Assn, American Massage Therapy Assn,

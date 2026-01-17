@@ -52,6 +52,10 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍4  

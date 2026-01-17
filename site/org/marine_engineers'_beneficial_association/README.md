@@ -328,6 +328,8 @@
 
 ### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
 
+### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
+
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
@@ -538,17 +540,23 @@
 
 ### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
 
+### [SB 5869](/bill/2025-26/sb/5869/) - Construction hazards notice 👍1  
+
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
-### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎1 
+### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎2 
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
 
 ### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
 
 ### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
+
+### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ### [SB 6014](/bill/2025-26/sb/6014/) - Pregnancy accommodations 👍1  
 

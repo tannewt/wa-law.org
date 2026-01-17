@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202100)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202100)
 * 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Payroll%20tax%20proposal)
 * 12/23/2025 [The Stranger](/org/the_stranger/) - [Guest Rant: Governor Ferguson’s Proposed Budget Will Hurt Everyday Washingtonians - The Stranger](https://www.thestranger.com/guest-editorial/2025/12/23/80386128/guest-rant-governor-fergusons-proposed-budget-will-hurt-everyday-washingtonians#:~:text=House%20Bill%202100)
 * 12/07/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=his%20bill)
@@ -17,16 +19,19 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2100 Payroll expense tax
 Sign up to testify:
 
-#### 87 👍 - Pro
+#### 291 👍 - Pro
 Testifying:
 * Mike Yestramski - WFSE
 * Cory Miller
+* Martha Burke - Retired
+* Erica Limon-Trefielo - Communities in Schools of Washington
 
-#### 88 👎 - Con
+#### 413 👎 - Con
 Testifying:
 * Laurie Layne
 * Eric Lundberg
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Anna Burt
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

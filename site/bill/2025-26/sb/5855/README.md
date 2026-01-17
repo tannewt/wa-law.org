@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [FOX13](/org/fox13/) - [WA bill to ban cop face coverings heads to Senate | FOX 13 Seattle](https://www.fox13seattle.com/news/face-coverings-ban-bill-wa#:~:text=Senate%20Bill%205855)
+* 01/16/2026 [KUOW](/org/kuow/) - [KUOW - Know your rights: How to navigate an ICE encounter](https://www.kuow.org/stories/know-your-rights-how-to-navigate-an-ice-encounter#:~:text=new%20bill)
 * 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Climate Advocate Nilu Jenks Announces D5 Seattle Council Campaign » The Urbanist](https://www.theurbanist.org/2026/01/15/climate-advocate-nilu-jenks-announces-d5-seattle-council-campaign/#:~:text=banning%20face%20coverings%20for%20law%20enforcement)
 * 01/15/2026 [KREM](/org/krem/) - [WA lawmakers consider bill banning law enforcement from wearing face coverings | krem.com](https://www.krem.com/article/news/local/washington/wa-lawmakers-bill-banning-law-enforcement-face-coverings/293-913064cc-20ab-4f38-a8db-d8391ae4ebe5#:~:text=Senate%20Bill%205855)
 * 01/14/2026 [The Center Square](/org/the_center_square/) - [WATCH: Proposed ban on police face coverings engenders heated debate in WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_675e795e-a07c-49c0-902a-e31fbef14ed9.html#:~:text=Senate%20Bill%205855)

@@ -10,8 +10,11 @@
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5872 PreK promise account
 Sign up to testify:
 
-#### 77 👍 - Pro
+#### 146 👍 - Pro
+Testifying:
+* Andi Smith - Ballmer Group
+* Mary Sprute Garlant - Office of Governor Ferguson
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

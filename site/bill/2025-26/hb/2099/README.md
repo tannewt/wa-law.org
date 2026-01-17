@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2099 ECEAP access/military
-Sign up to testify:
-
-#### 140 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * 💵Joel Ryan - WA State Association of Head Start & ECEAP
 * 💵Alex Galeana - Children's Campaign Fund Action
@@ -23,6 +21,7 @@ Testifying:
 * Mark Geri
 * Matthew Shillingburg - Veterans Legislative Caolition as Deputy Chair representing the VFW
 * Lori Pittman - Puget Sound ESD
+* Lorine McFadden - Inspired to Write
 
 #### 2 👎 - Con
 

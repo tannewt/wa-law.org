@@ -62,13 +62,16 @@
 ### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 * 👍 Lauren Mendez
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Jenny Morgan
+
+## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+* 👍 Amy Barrett
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓💵 Jenny Morgan
+### [SB 6052](/bill/2023-24/sb/6052/) - Digital school transcripts 👍1  
+* 👍 Amy Barrett
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 

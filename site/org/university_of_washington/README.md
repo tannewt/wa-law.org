@@ -60,6 +60,8 @@
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences   ❓1
 
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
+
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍5  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
@@ -116,6 +118,8 @@
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Morgan Hickel

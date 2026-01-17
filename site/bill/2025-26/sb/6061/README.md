@@ -10,7 +10,7 @@
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6061 Tourism assessment
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
 #### 3 👎 - Con
 Testifying:

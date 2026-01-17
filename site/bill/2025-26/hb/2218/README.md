@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2218 Workers' comp. medical care
-Sign up to testify:
-
-#### 240 👍 - Pro
+#### 244 👍 - Pro
 Testifying:
 * Alan Thomas
 * 💵Brenda Wiest - Teamsters 117
@@ -19,7 +17,7 @@ Testifying:
 * Brian Wright
 * David Penner
 
-#### 233 👎 - Con
+#### 458 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific

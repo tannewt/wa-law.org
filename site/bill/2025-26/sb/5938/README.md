@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5938 Foreclosure prevention fee

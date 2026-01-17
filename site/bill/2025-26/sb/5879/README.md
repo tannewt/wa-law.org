@@ -10,7 +10,7 @@
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5879 JLARC work plans
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2381 Low-rise res. buildings
-Sign up to testify:
-
-#### 227 👍 - Pro
+#### 254 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 

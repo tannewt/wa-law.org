@@ -15,7 +15,9 @@
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5832 Motor vehicle arb. fee
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 103 👍 - Pro
+Testifying:
+* Nick Fielden - Washington State Attorney General's Office
 
 #### 1 👎 - Con
 

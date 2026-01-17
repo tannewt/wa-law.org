@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1175/</link>
 		<description>Updates about HB 1175</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jan 2026 14:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -235,6 +235,13 @@
 			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-15/Third reading, passed; yeas, 94; nays, 2; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Washington House Approves Neighborhood Cafe Bill in Early Floor Vote » The Urbanist</title>
+			<description>News article "Washington House Approves Neighborhood Cafe Bill in Early Floor Vote » The Urbanist" from The Urbanist.</description>
+			<pubDate>Fri, 16 Jan 2026 14:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026/01/16/washington-house-approves-neighborhood-cafe-bill-in-early-floor-vote/#:~:text=House%20Bill%201175</guid>
 		</item>
 	</channel>
 </rss>

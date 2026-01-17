@@ -6,11 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202235)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202235)
+
 ## Meetings
 ### Fri 01/23 08:00 AM - State Government & Tribal Relations (SGOV): HB 2235 PRA firearm exemptions
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
 #### 3 👎 - Con
 Testifying:

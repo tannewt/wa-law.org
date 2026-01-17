@@ -131,6 +131,8 @@
 ### [HB 2120](/bill/2025-26/hb/2120/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
 * ❓ Jeff Gunn
 
+### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍1  
+
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
@@ -233,8 +235,12 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎💵 Julia Gorton
 
+### [SB 5864](/bill/2025-26/sb/5864/) - Concerning verification of motor vehicle insurance. 👍1  
+
 ### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍3  
 * 👍💵 Logan Dozier
+
+### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
 * ❓ Kerry Dolan

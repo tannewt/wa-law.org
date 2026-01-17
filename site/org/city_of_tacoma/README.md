@@ -58,6 +58,8 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
+### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  ❓1
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Alex MacBain
 * 👍 Alex MacBain

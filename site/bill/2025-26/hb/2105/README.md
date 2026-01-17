@@ -17,9 +17,7 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2105 Immigrant workers
-Sign up to testify:
-
-#### 1698 👍 - Pro
+#### 1858 👍 - Pro
 Testifying:
 * Weilson Geng
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
@@ -55,8 +53,10 @@ Testifying:
 * Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
 * Mercedes Gonzalez
 * 💵Kristin Ang
+* Jeremiah Miller - Working WA
+* Commissioner Carolina Mejia
 
-#### 749 👎 - Con
+#### 952 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Anna Burt

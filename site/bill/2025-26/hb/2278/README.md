@@ -10,7 +10,7 @@
 ### Wed 01/21 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2278 Tourism promotion areas
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 
 #### 2 👎 - Con
 Testifying:

@@ -10,7 +10,7 @@
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5864 Vehicle insurance verif.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 

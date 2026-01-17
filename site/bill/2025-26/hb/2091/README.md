@@ -11,13 +11,11 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2091 Bargaining/employee info.
-Sign up to testify:
-
-#### 83 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * 💵Kurt Spiegel - The Washington Federation of State Employees/AFSCME C28
 * Joey Hicklin
 
-#### 39 👎 - Con
+#### 69 👎 - Con
 
 #### 0 ❓ - Other

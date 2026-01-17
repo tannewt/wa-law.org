@@ -7,13 +7,15 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202275)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202275)
 * 01/08/2026 [The Center Square](/org/the_center_square/) - [WATCH: Wildfire victim fund legislation prefiled; critic warns of higher power bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a1b515db-c74f-40e9-a230-a6398c6377e0.html#:~:text=House%20Bill%202275)
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2275 Wildfire prevention
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 

@@ -62,11 +62,13 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-## [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
+### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
+
+## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ## 2023-24
 
-### [SB 6018](/bill/2023-24/sb/6018/) - Housing finance commission 👍1  
+### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

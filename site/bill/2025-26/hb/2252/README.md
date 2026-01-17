@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - State Government & Tribal Relations (SGOV): HB 2252 State historical records
-Sign up to testify:
-
 #### 18 👍 - Pro
 Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)

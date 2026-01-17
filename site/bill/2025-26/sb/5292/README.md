@@ -16,15 +16,13 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SSB 5292 Family & medical leave rates
-Sign up to testify:
-
-#### 58 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
 * 💵James Crandall - AWB
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 764 👎 - Con
+#### 841 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Anthony Mixer - Citizen Volunteer Lobbyist

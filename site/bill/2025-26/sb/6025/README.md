@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 6025 Definition of fetal death
-Sign up to testify:
-
-#### 12 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * ARNP, Rachel Johnson CNM
 * Judy Kimmelman MD - ACOG
 * CNM, ARNP, Rachel Johnson
 * MD, Vivienne Meljen - WA State Medical Association (WSMA)
 
-#### 153 👎 - Con
+#### 220 👎 - Con
 
 #### 0 ❓ - Other

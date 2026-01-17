@@ -32,6 +32,8 @@
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
 * 👍 Steve DuPont
 
+### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍2  
+
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
@@ -62,7 +64,15 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
+
+### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
+
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
+
+### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont

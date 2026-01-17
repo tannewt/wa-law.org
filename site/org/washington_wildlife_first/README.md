@@ -9,6 +9,8 @@
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 * 👎 Dr. Francisco Santiago-Ávila
 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+
 ### [HB 1685](/bill/2025-26/hb/1685/) - Fish and wildlife governance 👍1  
 * 👍 Claire Davis
 

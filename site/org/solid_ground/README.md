@@ -58,6 +58,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+
 ## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ## 2023-24

@@ -13,7 +13,7 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2334 Cash transactions/pennies
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 

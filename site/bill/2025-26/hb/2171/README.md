@@ -10,7 +10,9 @@
 ### Tue 01/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2171 Foster youth
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Erica Limon-Trefielo - Communities in Schools of Washington
 
 #### 0 👎 - Con
 

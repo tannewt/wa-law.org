@@ -234,6 +234,8 @@
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.  👎1 
 * 👎💵 Kelsey Hulse
 

@@ -13,8 +13,12 @@
 ### Mon 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5838 Board of natural resources
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
+* Glenda Breiler - Office of the Commissioner of Public Lands, Department of Natural Resources
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

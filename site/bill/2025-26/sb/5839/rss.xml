@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5839/</link>
 		<description>Updates about SB 5839</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jan 2026 11:53:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>❓Stephen Orsini - Fair Fares LLC</title>
+			<description>Stephen Orsini signed up to testify Other. They are signed up to represent Fair Fares LLC.</description>
+			<pubDate>Fri, 16 Jan 2026 11:53:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Stephen/Orsini/2026-01-16 11:53:13</guid>
 		</item>
 	</channel>
 </rss>

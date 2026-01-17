@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 01/16/2026 [The Urbanist](/org/the_urbanist/) - [Washington House Approves Neighborhood Cafe Bill in Early Floor Vote » The Urbanist](https://www.theurbanist.org/2026/01/16/washington-house-approves-neighborhood-cafe-bill-in-early-floor-vote/#:~:text=House%20Bill%201175)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201175)
 * 02/12/2025 [KUOW](/org/kuow/) - [KUOW - Seattle could return to the days of neighborhood cafes](https://www.kuow.org/stories/seattle-could-return-to-the-days-of-neighborhood-c#:~:text=and%20read%20the%20bill%20here.)
 * 02/10/2025 [Axios](/org/axios/) - [Washington Legislature may force cities to allow neighborhood corner stores and cafes - Axios Seattle](https://www.axios.com/local/seattle/2025/02/10/neighborhood-cafe-law-washington-state#:~:text=House%20Bill%201175)

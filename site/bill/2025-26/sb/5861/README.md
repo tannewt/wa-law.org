@@ -10,7 +10,7 @@
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5861 Education/community rep.
 Sign up to testify:
 
-#### 59 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * William Yoon - Youth Civic Bridge
 * Anthony Mixer - Citizen Volunteer Lobbyist

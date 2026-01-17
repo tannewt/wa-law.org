@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2350 DD RHC federal compliance
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)

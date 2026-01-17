@@ -10,7 +10,7 @@
 ### Tue 01/20 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2311 Workforce board admin.
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 

@@ -10,7 +10,10 @@
 ### Thu 01/22 04:00 PM - Transportation (TR): HB 2192 Roadway fatalities
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
+* Shelly Baldwin - Washington Traffic Safety Commission
 
 #### 0 👎 - Con
 

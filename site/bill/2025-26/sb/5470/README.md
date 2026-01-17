@@ -16,9 +16,11 @@
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 5470 Detached ADUs
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Ron Perkerewicz - Inspection & Permit Services
 
 #### 0 👎 - Con
 

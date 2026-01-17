@@ -10,8 +10,8 @@
 ### Wed 01/21 01:30 PM - Health Care & Wellness (HCW): HB 2283 Medical loss ratio
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

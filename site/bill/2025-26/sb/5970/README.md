@@ -10,7 +10,7 @@
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5970 Senior citizen centers/tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

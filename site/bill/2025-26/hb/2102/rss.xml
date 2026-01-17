@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2102/</link>
 		<description>Updates about HB 2102</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jan 2026 21:34:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,36 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👍Keri-Anne Jetzer - WA State Sentencing Guidelines Commission</title>
+			<description>Keri-Anne Jetzer signed up to testify Pro. They are signed up to represent WA State Sentencing Guidelines Commission.</description>
+			<pubDate>Fri, 16 Jan 2026 04:09:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2026-01-16 04:09:22</guid>
+		</item>
+		<item>
+			<title>👍Jacob Kuykendall - WA State Sentencing Guidelines Commission</title>
+			<description>Jacob Kuykendall signed up to testify Pro.</description>
+			<pubDate>Fri, 16 Jan 2026 11:33:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jacob/Kuykendall/2026-01-16 11:33:26</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 19-23, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 19-23, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 16 Jan 2026 21:23:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202102</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 19-23, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 19-23, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202102</guid>
 		</item>
 	</channel>
 </rss>

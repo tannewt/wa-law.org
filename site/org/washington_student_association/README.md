@@ -24,6 +24,8 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍💵 Isela Bonilla
 
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
+
 ### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
 
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍1  
@@ -50,11 +52,13 @@
 * 👍💵 Sienna Jarrard
 * 👍💵 Collin Bannister
 
-## [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+
+## [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
 ## 2023-24
 
-### [SB 5906](/bill/2023-24/sb/5906/) - Data and personal safety 👍2  
+### [SB 5963](/bill/2023-24/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

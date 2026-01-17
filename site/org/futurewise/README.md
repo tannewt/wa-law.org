@@ -87,6 +87,9 @@
 ### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
+* 👍💵 Bryce Yadon
+
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 * 👍💵 Bryce Yadon
 

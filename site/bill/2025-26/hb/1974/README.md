@@ -10,7 +10,7 @@
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 1974 Land banking authorities
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Amanda DeShazo - Tacoma-Pierce Affordable Housing Consortium
 * Matt Hoffman - Maul Foster & Alongi, Inc.
@@ -19,8 +19,9 @@ Testifying:
 * Chris Collier - Housing Authority of Snohomish County
 * Reggie Brown - 1DROP
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Erin Chapman-Smith - Roots Young Adult Shelter
 
-#### 0 👎 - Con
+#### 60 👎 - Con
 
 #### 0 ❓ - Other
 

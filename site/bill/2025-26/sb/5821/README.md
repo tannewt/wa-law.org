@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 5821 Advanced nuclear energy
-Sign up to testify:
-
-#### 156 👍 - Pro
+#### 244 👍 - Pro
 Testifying:
 * Greg Cullen - [Energy Northwest](/org/energy_northwest/)
 * Steve Verhey
@@ -24,8 +22,9 @@ Testifying:
 * Madison Schroder - Generation Atomic
 * Dr. Gary Nelson
 * 💵Steve Taylor - Cowlitz Cnty Public Utility District No. 1
+* Matt Sen. Boehnke - Washington State Legislature
 
-#### 295 👎 - Con
+#### 346 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Jim Lazar - self
@@ -40,6 +39,8 @@ Testifying:
 * Paul Muldoon - 4115 SW Arroyo Dr.
 * Virginia Lohr
 * Paul Muldoon - Puget Sound Advocates for Retirment Action (PSARA)
+* Nancy Morris
+* 💵James Moschella - [Columbia Riverkeeper](/org/columbia_riverkeeper/)
 
 #### 2 ❓ - Other
 Testifying:

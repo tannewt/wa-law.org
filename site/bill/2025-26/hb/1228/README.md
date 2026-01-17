@@ -14,13 +14,16 @@
 ### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1228 Toxicology testing
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Erika Evans - Seattle City Attorney
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Bradley Lane - State Traffic Safety Resource Prosecutor
+* Bruce Adsero - Washington Association of  Criminal Defense Lawyers, and Washington Defender Association
 
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1228 Toxicology testing
 #### 4 👍 - Pro

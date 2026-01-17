@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - State Government & Tribal Relations (SGOV): HB 2205 Regulated sports wagering
-Sign up to testify:
-
-#### 51 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Chairman Ron Allen - Jamestown S'Klallam Tribe
 * Kevin Zenishek - [Kalispel Tribe](/org/kalispel_tribe/)

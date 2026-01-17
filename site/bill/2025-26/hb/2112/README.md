@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Consumer Protection & Business (CPB): HB 2112 Adult content/age minimum
-Sign up to testify:
-
-#### 167 👍 - Pro
+#### 170 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Iain Corby - The Age Verification Providers Association
@@ -29,7 +27,7 @@ Testifying:
 * Helen Taylor - Exodus Cry
 * Kyle Perry
 
-#### 2069 👎 - Con
+#### 2128 👎 - Con
 Testifying:
 * Steven Bock - Computer Scientist
 * Jonathan Pincus
@@ -65,7 +63,9 @@ Testifying:
 * Rose Itano Parsons
 * Jessie Hill
 * Serena Padilla
+* Natasha Stalker
 * Quinn Van Order
+* Ken Nichols
 
 #### 7 ❓ - Other
 Testifying:

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2026 [PubliCola](/org/publicola/) - [Bills Would Crack Down on City Efforts to Banish Homeless People, Shelter, and Housing - PubliCola](https://publicola.com/2026/01/15/bills-would-crack-down-on-city-efforts-to-banish-homeless-people-shelter-and-housing/#:~:text=House%20Bill%201380)
 * 03/17/2025 [Cascade PBS](/org/cascade_pbs/) - [Can Spokane’s shelter network program help alleviate homelessness? | Cascade PBS](https://www.cascadepbs.org/news/2025/03/can-spokanes-shelter-network-program-help-alleviate-homelessness/#:~:text=as%20House%20Bill%201380)
 * 03/16/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Tilting at windmills: How a developer's emails became the bullhorn of Spokane's anti-progressive politics](https://www.spokesman.com/stories/2025/mar/16/tilting-at-windmills-how-a-developers-emails-becam/#:~:text=bill%20introduced%20in%20the%20Legislature)
 * 02/28/2025 [The Center Square](/org/the_center_square/) - [Despite backlash, WA lawmakers advance controversial homeless bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5ac4e9ae-f606-11ef-a44c-d34b7da35575.html#:~:text=House%20Bill%201380)

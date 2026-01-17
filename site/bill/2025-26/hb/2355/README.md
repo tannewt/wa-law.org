@@ -6,11 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2026 [The Washington Observer](/org/the_washington_observer/) - [Domestic worker protections makes a return](https://washingtonobserver.substack.com/p/domestic-worker-protections-makes#:~:text=HB%202355)
+
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2355 Domestic workers
 Sign up to testify:
 
-#### 11 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Diana Salazar - City of Seattle Office of Labor Standards
 

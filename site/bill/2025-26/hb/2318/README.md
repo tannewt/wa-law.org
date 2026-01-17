@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2318 Early achievers awards
-Sign up to testify:
-
-#### 52 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Amber Paulson - Kaleidoscope Preschool and Early Learning Center
 * 💵Katy Warren - WA St. Assn of Head Start and ECEAP
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 1 ❓ - Other

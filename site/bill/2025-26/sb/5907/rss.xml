@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5907/</link>
 		<description>Updates about SB 5907</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jan 2026 11:29:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>👍Mark Geri - OneAmerica</title>
+			<description>Mark Geri signed up to testify Pro.</description>
+			<pubDate>Fri, 16 Jan 2026 09:03:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Geri/2026-01-16 09:03:56</guid>
+		</item>
+		<item>
+			<title>👍Kimberly Headrick - Medical Lake School District</title>
+			<description>Kimberly Headrick signed up to testify Pro. They are signed up to represent Medical Lake School District.</description>
+			<pubDate>Fri, 16 Jan 2026 09:48:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kimberly/Headrick/2026-01-16 09:48:54</guid>
+		</item>
+		<item>
+			<title>👍💵Alex Galeana - Children's Campaign Fund Action</title>
+			<description>Alex Galeana signed up to testify Pro. They are signed up to represent Children's Campaign Fund Action. They are a registered lobbyist.</description>
+			<pubDate>Fri, 16 Jan 2026 11:29:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Galeana/2026-01-16 11:29:19</guid>
 		</item>
 	</channel>
 </rss>

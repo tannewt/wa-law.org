@@ -13,9 +13,14 @@
 ### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
 Sign up to testify:
 
-#### 113 👍 - Pro
+#### 183 👍 - Pro
+Testifying:
+* Cindy Arends - [Washington Defender Association](/org/washington_defender_association/)
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
-#### 3 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Tiffany Attrill
 
 #### 1 ❓ - Other
 

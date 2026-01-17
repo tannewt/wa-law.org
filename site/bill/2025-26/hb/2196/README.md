@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2196 PANDAS, pediatric treatment
-Sign up to testify:
-
-#### 474 👍 - Pro
+#### 491 👍 - Pro
 Testifying:
 * Aaron Klesick
 * Grayson Maywood

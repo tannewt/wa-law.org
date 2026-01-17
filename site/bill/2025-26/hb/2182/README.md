@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2182 Abortion medications
-Sign up to testify:
-
-#### 518 👍 - Pro
+#### 530 👍 - Pro
 Testifying:
 * Caitlin Safford - Office of the Governor
 * Katie Eilers - Department of Health / Family & Community Health Improvement
@@ -22,7 +20,7 @@ Testifying:
 * Dr. Ying Zhang
 * Eunjae Jeon
 
-#### 1237 👎 - Con
+#### 1390 👎 - Con
 Testifying:
 * Eric Lundberg
 * Matthew LePage - First Baptist Church of Lacey
@@ -30,5 +28,6 @@ Testifying:
 * Nicole Peterson
 * Mary Long - Conservative Ladies of America
 * Sharon Damoff
+* Bruce monell - General Public on the Gig Harbor& Key Peninsulas--Media is invited, but rarely shows.6
 
 #### 4 ❓ - Other

@@ -8,12 +8,14 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6018 Housing finance commission
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * steve walker - Washinton State Housing Finance Commission
 
-#### 65 👎 - Con
+#### 108 👎 - Con
+Testifying:
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)

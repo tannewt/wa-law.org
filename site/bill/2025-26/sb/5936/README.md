@@ -10,7 +10,11 @@
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5936 Human trafficking
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Robin Miller - WASE
+* Noel Gomez - Washington against sexual exploitation (WASE Forward)
+* PAULA REED - Children's Advocacy Centers of WA
 
 #### 0 👎 - Con
 

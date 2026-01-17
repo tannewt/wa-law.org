@@ -56,13 +56,16 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 * 👎 Glen Simecek
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎 Glen Simecek
+
+## [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission   ❓1
+* ❓💵 Megan Managan
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
-* 👎 Glen Simecek
+### [SB 6018](/bill/2023-24/sb/6018/) - Housing finance commission   ❓1
+* ❓💵 Megan Managan
 
 ### [HB 1420](/bill/2023-24/hb/1420/) - Lien priority/mortgages 👍2  
 * 👍💵 Trent House

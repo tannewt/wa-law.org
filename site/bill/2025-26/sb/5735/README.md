@@ -10,8 +10,10 @@
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5735 Imitation firearm labeling
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 6 👎 - Con
+#### 120 👎 - Con
+Testifying:
+* 💵Aoibheann Cline - National Rifle Association- Institute for Legislative Action
 
 #### 0 ❓ - Other

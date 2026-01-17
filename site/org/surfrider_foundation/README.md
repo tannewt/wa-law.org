@@ -7,10 +7,12 @@
 
 ### [HB 1513](/bill/2025-26/hb/1513/) - Seashore conservation area 👍2  
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍2  
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍3  
 * 👍💵 Peter Steelquist
+
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍2  
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 * 👍 Pete Steelquist

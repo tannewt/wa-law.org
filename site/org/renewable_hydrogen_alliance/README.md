@@ -9,15 +9,18 @@
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Dave Arbaugh
+
+## [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
-* 👍 Dave Arbaugh
+### [SB 5968](/bill/2023-24/sb/5968/) - Permitting and licensing 👍1  
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
 

@@ -79,11 +79,13 @@
 
 ### [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
 
-## [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
+### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
+
+## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ## 2023-24
 
-### [SB 5590](/bill/2023-24/sb/5590/) - Livestock wolf predation  👎1 
+### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

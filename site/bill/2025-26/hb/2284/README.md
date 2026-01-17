@@ -7,19 +7,23 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202284)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202284)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202284)
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2284 Litter reduction
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2284 Litter reduction
 #### 152 👍 - Pro

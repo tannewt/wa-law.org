@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5840/</link>
 		<description>Updates about SB 5840</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 02:34:43 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jason/Bennett/2026-01-13 02:34:43</guid>
+		</item>
+		<item>
+			<title>SGTE - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>SGTE - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/SGTE - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

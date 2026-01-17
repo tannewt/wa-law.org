@@ -11,7 +11,7 @@
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 1529 Cities/county road resources
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

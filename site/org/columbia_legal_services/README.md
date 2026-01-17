@@ -92,6 +92,9 @@
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 * 👍 Mark Bowers
 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+* 👍💵 Sarah Nagy
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
 

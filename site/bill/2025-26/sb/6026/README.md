@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [KUOW](/org/kuow/) - [KUOW - Could fewer shops lead to lower housing costs in Washington? Gov. Ferguson hopes so](https://www.kuow.org/stories/could-fewer-shops-lead-to-lower-housing-costs-wa-s-governor-hopes-so#:~:text=6026)
 * 01/16/2026 [Washington State Standard](/org/washington_state_standard/) - [Microsoft jumps into WA Legislature’s housing debate • Washington State Standard](https://washingtonstatestandard.com/briefs/microsoft-jumps-into-wa-legislatures-housing-debate/#:~:text=Senate%20Bill%206026)
 * 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026/01/14/2026-washington-legislature-catches-breath-on-housing/#:~:text=SB%206026)
 * 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Housing%20in%20commercial%20zones)
@@ -14,9 +15,7 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6026 Residential dev./zones
-Sign up to testify:
-
-#### 482 👍 - Pro
+#### 511 👍 - Pro
 Testifying:
 * Patience Malaba - HDC
 * Carter Nelson
@@ -39,15 +38,18 @@ Testifying:
 * Meredith Holzemer - Mill Creek Residential
 * Seth Boun - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 306 👎 - Con
+#### 601 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Scott Bonjukian
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - Washington State Association of County Regional Planning Directors
 * Christine Mackay - West Seattle Junction
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Kristen Holdsworth - City of Kent/ Government Affairs Manager
+* Phill Marsh - City of Redmond, Economic Development Manager
+* Ivan Barragan - Community & Economic Development Planner, City of Pasco

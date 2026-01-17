@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - State Government & Elections (SGE): SB 5827 Veterans/discharge def.
-Sign up to testify:
-
-#### 20 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Jerry Fugich - Veterans Legislative Coalition
 

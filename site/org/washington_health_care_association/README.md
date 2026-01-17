@@ -45,13 +45,14 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.   ❓1
 * ❓ Jeff Gombosky
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎 Carma Matti-Jackson
+
+## [SB 6063](/bill/2025-26/sb/6063/) - DSHS terminology 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
-* 👎 Carma Matti-Jackson
+### [SB 6063](/bill/2023-24/sb/6063/) - DSHS terminology 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1
 * 👍 Jeff Gombosky

@@ -13,16 +13,19 @@
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2332 Driver privacy
 Sign up to testify:
 
-#### 438 👍 - Pro
+#### 775 👍 - Pro
 Testifying:
 * 💵Anita Yandle - Policing Project at NYU School of Law
+* Niles Wilson - Center for Policing Equity
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Gregory Smith
+* Ken Roske - City of Pasco, Police Chief
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Melissa Beard - Council of Presidents
 * 💵Scott Nelson - Office of the Washington State Auditor
+* Angela Birney - Mayor, City of Redmond

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Week one in review - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/16/week-one-in-review/#:~:text=SB%205754)
 * 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Toshiko Hasegawa Jumps in King County Council District 2 Race » The Urbanist](https://www.theurbanist.org/2026/01/15/toshiko-hasegawa-jumps-in-the-race-for-king-county-council-district-2/#:~:text=Senate%20Bill%205754)
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [The start of session - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/09/the-start-of-session/#:~:text=SB%205754)
 

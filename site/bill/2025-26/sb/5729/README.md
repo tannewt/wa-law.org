@@ -14,7 +14,9 @@
 ### Wed 01/21 10:30 AM - Housing (HSG): ESB 5729 Housing permitting
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 1 👎 - Con
 Testifying:

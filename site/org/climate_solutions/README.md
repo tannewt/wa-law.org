@@ -149,6 +149,8 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Leah Missik
 
+### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+
 ## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
 * 👎💵 Leah Missik
 

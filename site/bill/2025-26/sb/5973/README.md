@@ -15,15 +15,18 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5973 Initiatives and referenda
 Sign up to testify:
 
-#### 99 👍 - Pro
+#### 227 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Hanna Floss
 
-#### 36 👎 - Con
+#### 620 👎 - Con
 Testifying:
 * Laurie Layne
+* Anna Burt
+* Anna Burt
+* Eric Lundberg
 
 #### 0 ❓ - Other

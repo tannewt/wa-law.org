@@ -163,7 +163,7 @@
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
 
-### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
+### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍2  
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 
@@ -324,6 +324,8 @@
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response   ❓1
 * ❓💵 Derrick Nunnally
+
+### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -507,6 +509,8 @@
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
+### [SB 5690](/bill/2025-26/sb/5690/) - Utility relocation 👍1  
+
 ### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
 
 ### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
@@ -562,8 +566,13 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓💵 Steven Ellis
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎2 
 * 👎💵 Carl Schroeder
+* 👎💵 Carl Schroeder
+
+### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+
+### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍💵 Candice Bock

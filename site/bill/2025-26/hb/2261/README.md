@@ -10,7 +10,7 @@
 ### Wed 01/21 01:30 PM - Health Care & Wellness (HCW): HB 2261 Health care credentials
 Sign up to testify:
 
-#### 28 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Bridget Bush - WSMA
 * Robert Hsiung

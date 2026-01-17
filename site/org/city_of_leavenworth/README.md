@@ -6,6 +6,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
 ## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍4  
 * 👍 Carl Florea
 * 👍 Carl Florea

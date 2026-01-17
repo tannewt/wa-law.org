@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - State Government & Tribal Relations (SGOV): HB 2309 Postgrad degree requirements
-Sign up to testify:
-
-#### 19 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * Amy Lynn Roark
 * John Worthington
 
-#### 556 👎 - Con
+#### 645 👎 - Con
 
 #### 0 ❓ - Other

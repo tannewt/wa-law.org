@@ -10,9 +10,11 @@
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1591 Defendant survivors
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * David Martin - KCPAO
+* Emi Koyama - Coalition for Rights & Safety
+* Katie Hurley - King county dept of public defense
 
 #### 0 👎 - Con
 

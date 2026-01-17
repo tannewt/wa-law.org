@@ -11,13 +11,12 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2186 Federal funds
-Sign up to testify:
-
-#### 82 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Richa Sigdel - [City of Pasco](/org/city_of_pasco/)
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 * Stephanie Button - Historic Downtown Kennewick Partnership
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 
 #### 4 👎 - Con
 

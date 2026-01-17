@@ -10,7 +10,10 @@
 ### Tue 01/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2365 Digital opportunities
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Will Booth - Creating Pathways
+* Dr. Shaun Glaze - BBR Academy
 
 #### 0 👎 - Con
 

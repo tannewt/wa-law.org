@@ -10,8 +10,12 @@
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2209 Stolen property/sentencing
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Ken Roske - City of Pasco, Police Chief
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 
 #### 0 ❓ - Other

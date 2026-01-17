@@ -64,6 +64,8 @@
 
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications.  👎1 
 
+### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy   ❓1
@@ -104,6 +106,10 @@
 ### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
 
 ### [SB 5629](/bill/2025-26/sb/5629/) - Prosthetic limb coverage   ❓1
+
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+
+### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
 ## [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 

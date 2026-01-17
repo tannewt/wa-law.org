@@ -37,6 +37,8 @@
 ### [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  
 * 👍 Tim Gould
 
+### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎 Kathleen M. Saul
 

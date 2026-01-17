@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6027 Affordable housing funding
-Sign up to testify:
-
-#### 410 👍 - Pro
+#### 502 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer
 * Councilmember Robyn Denson - South Sound Housing Affordability Partners
@@ -23,6 +21,6 @@ Testifying:
 * 💵Paul Berendt - [City of Olympia](/org/city_of_olympia/)
 * Em Stone - Governor's Office
 
-#### 279 👎 - Con
+#### 547 👎 - Con
 
 #### 0 ❓ - Other

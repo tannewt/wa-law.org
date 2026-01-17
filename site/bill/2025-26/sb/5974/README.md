@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Law enforcement group threatens to expel Pierce County sheriff over fiery testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_da2387f5-b7f8-4c2a-9c58-9dfc7a34014f.html#:~:text=Senate%20Bill%205974)
 * 01/15/2026 [FOX13](/org/fox13/) - [Washington bill changing sheriff eligibility draws debate | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-bill-sheriff-eligibility-debate#:~:text=Senate%20Bill%205974)
 * 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%205974%20(Lovick))
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205974)

@@ -17,6 +17,6 @@ Sign up to testify:
 Testifying:
 * Alice Palosaari - Attorney General's Office
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -15,6 +15,17 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201607)
 
 ## Meetings
+### Wed 01/21 04:00 PM - Appropriations (APP): HB 1607 Recycling & waste reduction
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Rebecca Thomas - Glass Packaging Institute
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1607 Recycling & waste reduction
 #### 203 👍 - Pro
 Testifying:

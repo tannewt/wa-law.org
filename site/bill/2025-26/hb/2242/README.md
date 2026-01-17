@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 2242 Preventive health services
-Sign up to testify:
-
-#### 753 👍 - Pro
+#### 772 👍 - Pro
 Testifying:
 * Caitlin Safford - Washington State Office of the Governor
 * Dennis Worsham - Washington State Secretary of Health
@@ -34,6 +32,6 @@ Testifying:
 * Anne Mette Smeenk - Washington Chapter of the American Academy of Pediatrics
 * Jon Almquist - Washington Chapter of the American Academy of Pediatrics
 
-#### 1118 👎 - Con
+#### 1160 👎 - Con
 
 #### 1 ❓ - Other

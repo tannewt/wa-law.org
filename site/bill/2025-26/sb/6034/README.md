@@ -13,8 +13,10 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6034 Office of Indian affairs
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Michael Moran - 1. Confederated Tribes of the Chehalis Reservation 2. Confederated Tribes of the Colville Reserv.
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

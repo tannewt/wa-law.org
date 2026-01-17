@@ -49,19 +49,23 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+* 👍 Council Member Sarah Dixit
+
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍2  
 * 👍 Council Member Kitty Kliztke
 * 👍 Spencer Gardner
 
-## [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
+### [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 * 👍💵 Paul Dillon
+
+## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ## 2023-24
 
-### [SB 5933](/bill/2023-24/sb/5933/) - Overdose mapping information 👍1  
-* 👍💵 Paul Dillon
+### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -10,7 +10,9 @@
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 2159 PreK promise account
 Sign up to testify:
 
-#### 57 👍 - Pro
+#### 104 👍 - Pro
+Testifying:
+* Andi Smith - Ballmer Group
 
 #### 1 👎 - Con
 

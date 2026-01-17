@@ -13,13 +13,18 @@
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
 Sign up to testify:
 
-#### 78 👍 - Pro
+#### 285 👍 - Pro
 Testifying:
 * Adam Lough - Washington Physicians for Social Responsibility
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Donald Brown - Cruise Lines International Association (CLIA)
+* Kyle Burleson - [The American Waterways Operators](/org/the_american_waterways_operators/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Don Gourlie - Puget Sound Partnership
 
 ### Tue 02/04 04:00 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
 #### 525 👍 - Pro

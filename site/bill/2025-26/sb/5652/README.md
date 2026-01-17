@@ -14,7 +14,11 @@
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Brian Davis
+* Chad Rains
+* Karen Veloria
 
 #### 0 👎 - Con
 

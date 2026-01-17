@@ -10,7 +10,7 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 6042 School maps
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 

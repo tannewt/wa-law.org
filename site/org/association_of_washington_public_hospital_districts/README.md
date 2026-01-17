@@ -37,6 +37,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5923](/bill/2025-26/sb/5923/) - Hospitals in Skagit county 👍1  
+
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
 
 ## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts  👎1 

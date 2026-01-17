@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SB 5869 Construction hazards notice
-Sign up to testify:
-
-#### 85 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter

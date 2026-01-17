@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Law enforcement group threatens to expel Pierce County sheriff over fiery testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_da2387f5-b7f8-4c2a-9c58-9dfc7a34014f.html#:~:text=House%20Bill%202387)
+
 ## Meetings

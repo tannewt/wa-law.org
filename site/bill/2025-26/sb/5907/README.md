@@ -10,7 +10,11 @@
 ### Tue 01/20 08:00 AM - Early Learning & K-12 Education (EDU): SB 5907 ECEAP access/military
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Mark Geri
+* Kimberly Headrick - Medical Lake School District
+* 💵Alex Galeana - Children's Campaign Fund Action
 
 #### 0 👎 - Con
 

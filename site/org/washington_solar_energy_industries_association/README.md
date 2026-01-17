@@ -27,6 +27,8 @@
 ### [SB 5727](/bill/2025-26/sb/5727/) - Residential energy storage 👍4  
 * 👍 Bill Will
 
+### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎1 
+
 ## [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍2  
 * 👍 Jeremy Smithson
 

@@ -10,8 +10,10 @@
 ### Wed 01/21 04:00 PM - Transportation (TR): HB 2374 Electric motorcycle, bicycle
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 195 👍 - Pro
+Testifying:
+* Amy Falcone - Kirkland City Councilmember
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

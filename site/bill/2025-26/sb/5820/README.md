@@ -10,7 +10,7 @@
 ### Mon 01/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5820 Freight rail dependent use
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 Testifying:

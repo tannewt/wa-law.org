@@ -10,6 +10,8 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
+### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍2  
+
 ## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ## 2023-24

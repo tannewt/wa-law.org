@@ -58,6 +58,12 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍 Jennifer Gregerson
 
+### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
+* 👍 Jennifer Gregerson
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓1
+* ❓ Jennifer Gregerson
+
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
@@ -107,13 +113,16 @@
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 
-## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍 DAVID DEMARCO
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing   ❓1
+* ❓ Jennifer Gregerson
 
 ## 2023-24
 
-### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
-* 👍 DAVID DEMARCO
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing   ❓1
+* ❓ Jennifer Gregerson
 
 ### [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  
 * 👍 Jennifer Gregerson

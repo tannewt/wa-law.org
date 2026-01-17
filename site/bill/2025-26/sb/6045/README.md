@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206045)
 * 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%206045%20(Saldaña))
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña presenta proyecto de ley histórico para ampliar derechos laborales de trabajadores agrícolas  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/12/saldana-presenta-proyecto-de-ley-historico-para-ampliar-derechos-laborales-de-trabajadores-agricolas/#:~:text=El proyecto de%20ley%20del Senado 6045)
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña introduces landmark bill to expand labor rights for agricultural workers  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/12/saldana-introduces-landmark-bill-to-expand-labor-rights-for-agricultural-workers/#:~:text=Senate%20Bill%206045)
@@ -15,8 +16,12 @@
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 58 👍 - Pro
 
-#### 42 👎 - Con
+#### 237 👎 - Con
+Testifying:
+* Allison Schrader
+* Randy Munn
+* Paul Katovich - HighLine Grain Growers, Inc.
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 
 ### [HB 1759](/bill/2025-26/hb/1759/) - Day of the 12s 👍1  
 
-### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍2  
+### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍3  
 * 👍 Chairman Bill Sterud
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  

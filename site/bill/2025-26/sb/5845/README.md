@@ -10,7 +10,12 @@
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 5845 Health carrier payments
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Adam Dittemore - EvergreenHealth
+* Margrette Ramirez - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
+* Matthew Lund - UW Medicine
 
 #### 0 👎 - Con
 

@@ -16,11 +16,15 @@
 
 ### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists  👎1 
 
-## [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
+### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
+
+## [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
+* 👍 Margrette Ramirez
 
 ## 2023-24
 
-### [SB 5121](/bill/2023-24/sb/5121/) - Fertility-related services 👍1  
+### [SB 5845](/bill/2023-24/sb/5845/) - Health carrier payments 👍1  
+* 👍 Margrette Ramirez
 
 ### [HB 1079](/bill/2023-24/hb/1079/) - Whole genome sequencing 👍2  
 
