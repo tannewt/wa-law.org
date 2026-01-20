@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5845/</link>
 		<description>Updates about SB 5845</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 04:02:48 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 08:45:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Matthew/Lund/2026-01-16 04:02:48</guid>
+		</item>
+		<item>
+			<title>👍Saravanan Kasthuri - UW Medicine</title>
+			<description>Saravanan Kasthuri signed up to testify Pro.</description>
+			<pubDate>Sat, 17 Jan 2026 09:02:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Saravanan/Kasthuri/2026-01-17 09:02:22</guid>
+		</item>
+		<item>
+			<title>👍💵Sean Graham - Washington State Medical Assocation (WSMA)</title>
+			<description>Sean Graham signed up to testify Pro. They are signed up to represent Washington State Medical Assocation (WSMA). They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 02:14:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Graham/2026-01-19 02:14:47</guid>
+		</item>
+		<item>
+			<title>❓Jane Beyer - Office of the Insurance Commissioner</title>
+			<description>Jane Beyer signed up to testify Other. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Mon, 19 Jan 2026 04:23:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jane/Beyer/2026-01-19 04:23:05</guid>
+		</item>
+		<item>
+			<title>👎💵Christine Brewer - Premera Blue Cross</title>
+			<description>Christine Brewer signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/premera_blue_cross/"&gt;Premera Blue Cross&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 08:45:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Christine/Brewer/2026-01-19 08:45:41</guid>
 		</item>
 	</channel>
 </rss>

@@ -24,6 +24,8 @@
 
 ### [HB 2110](/bill/2025-26/hb/2110/) - Concerning personnel for ambulance service interfacility specialty care transports. 👍4  
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎6 

@@ -46,13 +46,16 @@
 
 ### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
 
-## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
 * 👎💵 Amy Anderson
+
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+
+## [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
 ## 2023-24
 
-### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎3 
-* 👎💵 Amy Anderson
+### [SB 5907](/bill/2023-24/sb/5907/) - ECEAP access/military 👍1  
 
 ### [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 

@@ -11,6 +11,9 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
+### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
+* 👍💵 John Seng
+
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 
 ## [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  

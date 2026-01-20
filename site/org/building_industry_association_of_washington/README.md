@@ -178,8 +178,15 @@
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
+* 👎 Mike Ennis
+
+### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers  👎1 
+
 ### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages  👎1 
 * 👎 Mike Ennis
+
+### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Andrea Smiley
@@ -189,13 +196,24 @@
 
 ### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
 
+### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management  👎1 
+* 👎💵 Andrea Smiley
+
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 * 👍💵 Andrea Smiley
 
 ### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
 
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+* 👍💵 Brent Ludeman
+
+### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. 👍1  
+* 👍💵 Andrea Smiley
+
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions   ❓1
 * ❓💵 Jan Himebaugh
+
+### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation  👎1 
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
@@ -258,6 +276,9 @@
 * ❓💵 Andrea Smiley
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
+
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
+* 👍💵 Andrea Smiley
 
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 
@@ -340,7 +361,8 @@
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners 👍2  
 * 👍💵 Andrea Smiley
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍4  
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍5  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
@@ -374,10 +396,18 @@
 
 ### [SB 5874](/bill/2025-26/sb/5874/) - Concerning employers' information reporting for purposes of unemployment compensation. 👍1  
 
-### [SB 5943](/bill/2025-26/sb/5943/) - Concerning the use of school impact fees.  👎1 
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers  👎1 
+
+### [SB 5943](/bill/2025-26/sb/5943/) - Use of school impact fees  👎1 
 * 👎💵 Bill Stauffacher
 
+### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
+
+### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
 
 ### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
 * 👍💵 Andrea Smiley

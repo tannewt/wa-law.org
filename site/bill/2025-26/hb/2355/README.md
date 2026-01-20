@@ -7,18 +7,27 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/19/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña y Thomas presentan proyecto de ley de derechos para personas trabajadoras del hogar para fortalecer protecciones y equidad laboral - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/19/saldana-y-thomas-presentan-proyecto-de-ley-de-derechos-para-personas-trabajadoras-del-hogar-para-fortalecer-protecciones-y-equidad-laboral/#:~:text=HB%202355%20en%20la%20Cámara%20de%20Representantes)
+* 01/19/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña, Thomas introduce Domestic Workers Bill of Rights to advance worker protections, equity  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/19/saldana-thomas-introduce-domestic-workers-bill-of-rights-to-advance-worker-protections-equity/#:~:text=House%20Bill%202355)
 * 01/16/2026 [The Washington Observer](/org/the_washington_observer/) - [Domestic worker protections makes a return](https://washingtonobserver.substack.com/p/domestic-worker-protections-makes#:~:text=HB%202355)
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2355 Domestic workers
 Sign up to testify:
 
-#### 66 👍 - Pro
+#### 413 👍 - Pro
 Testifying:
 * Diana Salazar - City of Seattle Office of Labor Standards
+* Laurisa Coffee
+* Becca Miller Rose
+* Cynthia Garcia
+* Daniel Cordova
+* Laura Campos
 
-#### 4 👎 - Con
+#### 131 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries

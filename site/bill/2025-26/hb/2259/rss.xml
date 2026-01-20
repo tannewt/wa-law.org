@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2259/</link>
 		<description>Updates about HB 2259</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 21:34:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 03:52:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,14 +106,46 @@
 			<description>News article "The Week Ahead: January 19-23, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:23:25 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202259</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202259</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 19-23, 2026 | Washington State House Republicans</title>
 			<description>News article "The Week Ahead: January 19-23, 2026 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202259</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202259</guid>
+		</item>
+		<item>
+			<title>👎Sharon Hanek - Initiative Activist</title>
+			<description>Sharon Hanek signed up to testify Con.</description>
+			<pubDate>Sun, 18 Jan 2026 12:52:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Hanek/2026-01-18 12:52:37</guid>
+		</item>
+		<item>
+			<title>👎Hongye Sun - Initiative Activist</title>
+			<description>Hongye Sun signed up to testify Con.</description>
+			<pubDate>Mon, 19 Jan 2026 02:16:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Hongye/Sun/2026-01-19 02:16:07</guid>
+		</item>
+		<item>
+			<title>👎Jane Ci - Initiative Activist</title>
+			<description>Jane Ci signed up to testify Con.</description>
+			<pubDate>Mon, 19 Jan 2026 02:39:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jane/Ci/2026-01-19 02:39:36</guid>
+		</item>
+		<item>
+			<title>👎Eric Pratt - America</title>
+			<description>Eric Pratt signed up to testify Con. They are signed up to represent America.</description>
+			<pubDate>Mon, 19 Jan 2026 03:52:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2026-01-19 03:52:16</guid>
 		</item>
 	</channel>
 </rss>

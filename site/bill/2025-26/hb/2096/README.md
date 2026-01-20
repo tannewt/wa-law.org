@@ -11,12 +11,13 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Transportation (TR): HB 2096 Attorney general inv. ID
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Alice Palosaari - Attorney General's Office
+* Heidi Low - Campaign for Tobacco-Free Kids
 
-#### 2 👎 - Con
+#### 289 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

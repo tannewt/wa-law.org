@@ -58,6 +58,8 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  ❓1
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
@@ -115,6 +117,10 @@
 * 👎 Carrie Wilhelme
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Preston Peck

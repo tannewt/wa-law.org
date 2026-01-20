@@ -13,10 +13,13 @@
 ### Wed 01/21 08:00 AM - Human Services (HS): SB 5917 Abortion medications
 Sign up to testify:
 
-#### 41 👍 - Pro
+#### 236 👍 - Pro
+Testifying:
+* Defne Yildirim
 
-#### 10 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
+* Eric Lundberg
 
 #### 0 ❓ - Other

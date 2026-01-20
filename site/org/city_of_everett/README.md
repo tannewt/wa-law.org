@@ -13,6 +13,8 @@
 * ❓ Paula Rhyne
 * 👍 Dave DeMarco
 
+### [HB 1228](/bill/2025-26/hb/1228/) - Toxicology testing 👍1  
+
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
@@ -57,6 +59,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍 Jennifer Gregerson
+
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 * 👍 Jennifer Gregerson
@@ -107,6 +111,8 @@
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍 Jennifer Gregerson

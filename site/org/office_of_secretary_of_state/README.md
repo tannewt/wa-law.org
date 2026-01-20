@@ -104,13 +104,23 @@
 
 ### [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
+* 👍 Sam Reed
+* 👍 Steve Hobbs
+
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda  👎1 
+* 👎 Steve Hobbs
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
+
+## [SB 6035](/bill/2025-26/sb/6035/) - Voting services  👎1 
+* 👎 Steve Hobbs
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓ Steve Hobbs
+### [SB 6035](/bill/2023-24/sb/6035/) - Voting services  👎1 
+* 👎 Steve Hobbs
 
 ### [HB 1031](/bill/2023-24/hb/1031/) - Medal of valor award 👍1  
 * 👍 Brian Hatfield

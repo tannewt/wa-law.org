@@ -8,12 +8,20 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5949 Insurer taxes
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
+* Sam Hatzenbeler - Economic Opportunity Intitute
 
-#### 3 👎 - Con
+#### 99 👎 - Con
+Testifying:
+* 💵Bill Stauffacher - [Coordinated Care](/org/coordinated_care/)
+* Dave Foster - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
+* 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Jennifer Muhm - [Regence Blue Shield](/org/regence_blue_shield/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - WA Roundtable
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
+* Kris Tefft - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

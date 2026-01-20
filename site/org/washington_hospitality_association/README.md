@@ -125,13 +125,24 @@
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
+### [HB 2087](/bill/2025-26/hb/2087/) - Addressing travel insurance. 👍1  
+
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+* 👎💵 Andrea Reay
+
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
 * ❓💵 Andrea Reay
 
 ### [HB 2120](/bill/2025-26/hb/2120/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
 * ❓ Jeff Gunn
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎2 
+* 👎💵 Logan Dozier
+* 👎💵 Logan Dozier
+
 ### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍1  
+
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
 
@@ -140,13 +151,21 @@
 
 ### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation.  👎1 
 
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
 
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
 * 👍 Sean DeWitz
 
+### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
+
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
+
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 
 * 👎 Sean DeWitz
+
+### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation  👎1 
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
@@ -235,10 +254,23 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎💵 Julia Gorton
 
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments   ❓1
+
+### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation.  👎1 
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers   ❓1
+* ❓💵 Andrea Reay
+
 ### [SB 5864](/bill/2025-26/sb/5864/) - Concerning verification of motor vehicle insurance. 👍1  
+
+### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
+* ❓ Jeff Gunn
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍3  
 * 👍💵 Logan Dozier
+
+### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking   ❓2
+* ❓💵 Andrea Reay
 
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
 

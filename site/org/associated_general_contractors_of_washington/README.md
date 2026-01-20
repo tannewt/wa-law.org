@@ -17,6 +17,8 @@
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
 
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
 * 👎💵 Christine Brewer
 

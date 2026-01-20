@@ -7,6 +7,9 @@
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
 * 👍 Mark McAvoy
 
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
+* 👍 Mark McAvoy
+
 ## [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ## 2023-24

@@ -32,7 +32,7 @@ Testifying:
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Tiffany Attrill
-* Roshelle Cleland - LCS Northwest
+* 💵Roshelle Cleland - LCS Northwest
 
 #### 10 ❓ - Other
 Testifying:

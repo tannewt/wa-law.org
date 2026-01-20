@@ -8,12 +8,12 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5833 Pets in unattended vehicles
-Sign up to testify:
+#### 107 👍 - Pro
 
-#### 19 👍 - Pro
-
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Sarah Hock - The Washington Federation of Animal Care and Control Agencies
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

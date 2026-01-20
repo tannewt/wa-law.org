@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5992/</link>
 		<description>Updates about SB 5992</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 17 Jan 2026 00:41:24 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 10:24:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,38 @@
 			<pubDate>Sat, 17 Jan 2026 00:41:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2026/01/16/done-with-week-one/#:~:text=SB%205992</guid>
+		</item>
+		<item>
+			<title>👍Amelie Madison - Communities in Schools of Washington</title>
+			<description>Amelie Madison signed up to testify Pro.</description>
+			<pubDate>Sun, 18 Jan 2026 05:46:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amelie/Madison/2026-01-18 05:46:05</guid>
+		</item>
+		<item>
+			<title>👍Elise Roe - Communities in Schools of Washington</title>
+			<description>Elise Roe signed up to testify Pro.</description>
+			<pubDate>Sun, 18 Jan 2026 05:46:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elise/Roe/2026-01-18 05:46:05</guid>
+		</item>
+		<item>
+			<title>👍Angelo Celleti - Communities in Schools of Washington</title>
+			<description>Angelo Celleti signed up to testify Pro.</description>
+			<pubDate>Mon, 19 Jan 2026 01:08:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angelo/Celleti/2026-01-19 01:08:58</guid>
+		</item>
+		<item>
+			<title>👍Meghan Francis - Confederated Tribes of the Colville Reservation</title>
+			<description>Meghan Francis signed up to testify Pro. They are signed up to represent Confederated Tribes of the Colville Reservation.</description>
+			<pubDate>Mon, 19 Jan 2026 10:24:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Meghan/Francis/2026-01-19 10:24:29</guid>
 		</item>
 	</channel>
 </rss>

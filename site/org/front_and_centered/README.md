@@ -36,6 +36,10 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
+
+### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
 * ❓ Nancy Canales
 * ❓ Nancy Canales

@@ -11,17 +11,16 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5993 Medical debt interest
-Sign up to testify:
-
-#### 61 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
 * 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society
 * Cathleen MacCaul - AARP Washington
 * Kris Shook
+* Sam Leonard - NW Consumer Law Center
 
-#### 15 👎 - Con
+#### 89 👎 - Con
 Testifying:
 * David Reid
 * 💵Emily Wittman - AWB
@@ -29,5 +28,8 @@ Testifying:
 * Alexandra Sandoval - NW Collectors Assoc.
 * Diana Hernandez - NW Collectors Assoc
 * Mindy Chumbley - NW Collectors Assoc.
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Malorie Toman - Washington State Medical Association (WSMA)
+* Brian Giles - Othello Community Hospital
 
 #### 1 ❓ - Other

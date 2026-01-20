@@ -68,11 +68,13 @@
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
-## [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
+### [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
+
+## [SB 6063](/bill/2025-26/sb/6063/) - DSHS terminology 👍1  
 
 ## 2023-24
 
-### [SB 6024](/bill/2023-24/sb/6024/) - DD res. service providers 👍1  
+### [SB 6063](/bill/2023-24/sb/6063/) - DSHS terminology 👍1  
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 

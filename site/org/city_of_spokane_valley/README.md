@@ -111,6 +111,8 @@
 
 ### [HB 2203](/bill/2025-26/hb/2203/) - Creating the offense of reckless interference with emergency operations.  👎1 
 
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
+
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
 
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving 👍1  
@@ -185,6 +187,8 @@
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
+
+### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 

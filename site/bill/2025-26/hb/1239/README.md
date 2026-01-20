@@ -11,16 +11,21 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
-Sign up to testify:
-
-#### 183 👍 - Pro
+#### 365 👍 - Pro
 Testifying:
 * Cindy Arends - [Washington Defender Association](/org/washington_defender_association/)
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Candice Baughman - WA Statewide Reentry Council
+* Dr. Esther Matthews - Concerned citizen
+* Karen Peacey - League of Women Voters
+* Noreen Light - Information for Change - Washington
 
-#### 7 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * Tiffany Attrill
+* Tracy Roberts - Crime assault survivor
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
 

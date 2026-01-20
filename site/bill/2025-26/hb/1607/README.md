@@ -18,13 +18,23 @@
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 1607 Recycling & waste reduction
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 379 👍 - Pro
 Testifying:
 * Rebecca Thomas - Glass Packaging Institute
 
-#### 0 👎 - Con
+#### 622 👎 - Con
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Jay Balasbas - Sunshine Disposal, Basin Disposal, Consolidated Disposal Services, Inc.
+* 💵Lyset Cadena - Waste Management
+* 💵Nick Streuli - Washington Refuse and Recycling Association
+* Walter McFadden
+* 💵Jennifer Ziegler - Sanitary Service Company
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Reggie Camp
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1607 Recycling & waste reduction
 #### 203 👍 - Pro

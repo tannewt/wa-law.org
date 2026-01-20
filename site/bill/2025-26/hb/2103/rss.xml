@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2103/</link>
 		<description>Updates about HB 2103</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 01:12:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 10:45:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,68 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👎Cathryn Chudy - WA State Sentencing Guidelines Commission</title>
+			<title>👎Cathryn Chudy - Energy Northwest</title>
 			<description>Cathryn Chudy signed up to testify Con.</description>
 			<pubDate>Fri, 16 Jan 2026 01:12:53 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Cathryn/Chudy/2026-01-16 01:12:53</guid>
+		</item>
+		<item>
+			<title>👎Roger Lippman - Energy Northwest</title>
+			<description>Roger Lippman signed up to testify Con.</description>
+			<pubDate>Sat, 17 Jan 2026 09:17:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Roger/Lippman/2026-01-17 09:17:00</guid>
+		</item>
+		<item>
+			<title>👍Amanda Wallner - City of Richland</title>
+			<description>Amanda Wallner signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_richland/"&gt;City of Richland&lt;/a&gt;.</description>
+			<pubDate>Mon, 19 Jan 2026 04:11:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/Wallner/2026-01-19 04:11:29</guid>
+		</item>
+		<item>
+			<title>👍💵Nicolas Garcia - WPUDA</title>
+			<description>Nicolas Garcia signed up to testify Pro. They are signed up to represent WPUDA. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 04:51:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicolas/Garcia/2026-01-19 04:51:39</guid>
+		</item>
+		<item>
+			<title>👍Daniel Himebaugh - Energy Northwest</title>
+			<description>Daniel Himebaugh signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/energy_northwest/"&gt;Energy Northwest&lt;/a&gt;.</description>
+			<pubDate>Mon, 19 Jan 2026 07:27:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Himebaugh/2026-01-19 07:27:37</guid>
+		</item>
+		<item>
+			<title>👎Curtis Eschels - Self</title>
+			<description>Curtis Eschels signed up to testify Con. They are signed up to represent Self.</description>
+			<pubDate>Mon, 19 Jan 2026 07:36:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Curtis/Eschels/2026-01-19 07:36:27</guid>
+		</item>
+		<item>
+			<title>👎Kathleen M Saul - Sierra Club</title>
+			<description>Kathleen M Saul signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/sierra_club/"&gt;Sierra Club&lt;/a&gt;.</description>
+			<pubDate>Mon, 19 Jan 2026 09:17:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kathleen M/Saul/2026-01-19 09:17:28</guid>
+		</item>
+		<item>
+			<title>👎Virginia Lohr - Sierra Club</title>
+			<description>Virginia Lohr signed up to testify Con.</description>
+			<pubDate>Mon, 19 Jan 2026 10:45:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Virginia/Lohr/2026-01-19 10:45:32</guid>
 		</item>
 	</channel>
 </rss>

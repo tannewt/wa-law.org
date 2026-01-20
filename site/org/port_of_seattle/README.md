@@ -48,7 +48,8 @@
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
 * 👍 Fred Felleman
 
-### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment   ❓1
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment   ❓2
+* ❓ John Flanagan
 * ❓ John Flanagan
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
@@ -122,6 +123,8 @@
 * 👎 John Flanagan
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  
 
 ## [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
 

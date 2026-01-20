@@ -13,6 +13,8 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
@@ -25,13 +27,14 @@
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 * 👍 Lauren Fay
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
-* 👍 Lauren Fay
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 

@@ -39,11 +39,15 @@
 * 👍 Sonia Joseph
 * 👍 Trishandra Pickup
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+* 👍 Sonia Joseph
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+* 👍 Sonia Joseph
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 * 👍 Sonia Joseph

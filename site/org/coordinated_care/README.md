@@ -107,15 +107,21 @@
 
 ### [SB 5629](/bill/2025-26/sb/5629/) - Prosthetic limb coverage   ❓1
 
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 
+
 ### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
-## [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+## [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
+* 👎💵 Bill Stauffacher
 
 ## 2023-24
 
-### [SB 5940](/bill/2023-24/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5949](/bill/2023-24/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
+* 👎💵 Bill Stauffacher
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

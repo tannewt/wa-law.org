@@ -204,6 +204,8 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services  👎1 
 
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda  👎1 
+
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 
 ## 2023-24

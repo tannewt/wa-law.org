@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6052/</link>
 		<description>Updates about SB 6052</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 08:43:52 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 06:41:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amy/Barrett/2026-01-16 08:43:52</guid>
+		</item>
+		<item>
+			<title>See you at Focus Day! - WSPTA</title>
+			<description>News article "See you at Focus Day! - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 19 Jan 2026 06:41:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%206052</guid>
 		</item>
 	</channel>
 </rss>

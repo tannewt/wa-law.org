@@ -8,16 +8,15 @@
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
-## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍4  
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍4  
 * 👍 Carl Florea
 * 👍 Carl Florea
 * 👍 Carl Florea
+
+## [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
 
 ## 2023-24
 
-### [SB 5576](/bill/2023-24/sb/5576/) - Affordable housing funding 👍4  
-* 👍 Carl Florea
-* 👍 Carl Florea
-* 👍 Carl Florea
+### [SB 6015](/bill/2023-24/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  

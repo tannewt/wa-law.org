@@ -16,12 +16,37 @@
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
 Sign up to testify:
 
-#### 58 👍 - Pro
+#### 399 👍 - Pro
+Testifying:
+* Iker Ramon
+* Jose Ramirez - FUJ
+* Octavia Santiago Martinez - FUJ
+* Lazaro Matamoros Zamora
+* 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
+* Lucy Madrigal - Community to Community
+* Jose Ochoa
+* Giselle Ramirez Silva - Familias Unidas por la Justicia
+* Tomas Ramon - FUJ
+* Benito Lopez - Familias Unidas por la Justicia
+* Gilardo Perez
+* Edgar Franks - Familias Unidas por la Justicia
+* Paulino Perea
+* Merado Glaya
+* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 
-#### 237 👎 - Con
+#### 529 👎 - Con
 Testifying:
 * Allison Schrader
 * Randy Munn
 * Paul Katovich - HighLine Grain Growers, Inc.
+* Pam Lewison - Ag Research Director, Washington Policy Center
+* Donald Gibson - Mount Adams Fruit
+* Enrique Gastelum - Worker and Farmer Labor Association
+* Ben Tindall - [Save Family Farming](/org/save_family_farming/)
+* Cody Anderson - L&L Ag Production
+* Blaine Smith
+* Lauren Gonzalez
+* Kellie Sundquist - Orchard & Vineyard Supply Co.
+* Timothy McDonald - Bluewater Legacy Estates
 
 #### 0 ❓ - Other

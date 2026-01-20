@@ -18,7 +18,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
 ### Tue 02/11 01:30 PM - Consumer Protection & Business (CPB): HB 1701 Liquor licensee premises
 #### 6 👍 - Pro

@@ -54,6 +54,14 @@
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental 👍1  
 * 👍 Jeff DeLuca
 
+### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍2  
+* 👍 Jeff DeLuca
+* 👍💵 Linda Garcia
+
+### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist 👍2  
+* 👍 Jeff DeLuca
+* 👍💵 Linda Garcia
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 

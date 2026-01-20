@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1529/</link>
 		<description>Updates about HB 1529</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 12:57:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,22 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/Referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👎Mike Ennis - Washington Asphalt Pavement Association (WAPA)</title>
+			<description>Mike Ennis signed up to testify Con. They are signed up to represent Washington Asphalt Pavement Association (WAPA).</description>
+			<pubDate>Mon, 19 Jan 2026 07:02:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Ennis/2026-01-19 07:02:10</guid>
+		</item>
+		<item>
+			<title>👍Mary Heather Ames - Deputy Public Works Director at the City of Pasco</title>
+			<description>Mary Heather Ames signed up to testify Pro. They are signed up to represent Deputy Public Works Director at the City of Pasco.</description>
+			<pubDate>Mon, 19 Jan 2026 12:57:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mary Heather/Ames/2026-01-19 12:57:52</guid>
 		</item>
 	</channel>
 </rss>

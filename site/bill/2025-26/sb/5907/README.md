@@ -6,16 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205907)
+
 ## Meetings
 ### Tue 01/20 08:00 AM - Early Learning & K-12 Education (EDU): SB 5907 ECEAP access/military
 Sign up to testify:
 
-#### 21 👍 - Pro
+#### 167 👍 - Pro
 Testifying:
 * Mark Geri
 * Kimberly Headrick - Medical Lake School District
 * 💵Alex Galeana - Children's Campaign Fund Action
+* 💵Joel Ryan - Washington State Association of Head Start & ECEAP
+* Lori Pittman - Puget Sound ESD
+* Matthew Shillingburg - Deputy Chair Veterans Legislative Coalition representing the VFW
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

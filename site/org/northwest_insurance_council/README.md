@@ -8,6 +8,8 @@
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 * 👍💵 Kenton Brine
 
+### [HB 2087](/bill/2025-26/hb/2087/) - Addressing travel insurance. 👍1  
+
 ### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.  👎1 
 
 ### [SB 5108](/bill/2025-26/sb/5108/) - Regulating service contracts and protection product guarantees. 👍1  
@@ -25,13 +27,16 @@
 
 ### [SB 5919](/bill/2025-26/sb/5919/) - Fire best practices 👍1  
 
-## [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure.   ❓1
+### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure.   ❓1
 * ❓💵 Kenton Brine
+
+## [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
+* 👎💵 Kenton Brine
 
 ## 2023-24
 
-### [SB 5928](/bill/2023-24/sb/5928/) - Concerning wildfire risk models and score disclosure.   ❓1
-* ❓💵 Kenton Brine
+### [SB 5949](/bill/2023-24/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
+* 👎💵 Kenton Brine
 
 ### [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction  👎1 
 * 👎💵 Kenton Brine

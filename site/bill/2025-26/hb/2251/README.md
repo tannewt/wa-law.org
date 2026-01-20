@@ -8,10 +8,16 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2251 Climate commit. act accounts
-Sign up to testify:
+#### 13 👍 - Pro
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 2 👍 - Pro
+#### 1521 👎 - Con
+Testifying:
+* John Axtell
 
-#### 62 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Todd Myers - Washington Policy Center

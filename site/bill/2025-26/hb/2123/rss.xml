@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2123 - Concerning foreign national participation in Washington state elections.</title>
+		<title>HB 2123 - Foreign nationals/elections</title>
 		<link>https://wa-law.org/bill/2025-26/hb/2123/</link>
 		<description>Updates about HB 2123</description>
 		<language>en-US</language>
@@ -124,6 +124,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jason/Bennett/2026-01-13 02:26:48</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>SGOV - Executive action taken by committee.</title>

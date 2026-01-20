@@ -56,11 +56,13 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+
+## [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍1  
+### [SB 5892](/bill/2023-24/sb/5892/) - Voter registration database 👍2  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

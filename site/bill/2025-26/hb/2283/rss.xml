@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2283/</link>
 		<description>Updates about HB 2283</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 10:35:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,54 @@
 			<pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-07/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Jim Freeburg - Patient Coalition of Washington</title>
+			<description>Jim Freeburg signed up to testify Pro. They are signed up to represent Patient Coalition of Washington.</description>
+			<pubDate>Mon, 19 Jan 2026 04:27:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Freeburg/2026-01-19 04:27:27</guid>
+		</item>
+		<item>
+			<title>❓Jane Beyer - Office of the Insurance Commissioner</title>
+			<description>Jane Beyer signed up to testify Other. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Mon, 19 Jan 2026 04:39:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jane/Beyer/2026-01-19 04:39:31</guid>
+		</item>
+		<item>
+			<title>👍💵Emily Brice - Northwest Health Law Advocates</title>
+			<description>Emily Brice signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_health_law_advocates/"&gt;Northwest Health Law Advocates&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 09:37:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Brice/2026-01-19 09:37:01</guid>
+		</item>
+		<item>
+			<title>👍💵Patrick Connor - NFIB</title>
+			<description>Patrick Connor signed up to testify Pro. They are signed up to represent NFIB. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 09:37:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patrick/Connor/2026-01-19 09:37:01</guid>
+		</item>
+		<item>
+			<title>👍💵Sean Graham - Washington State Medical Association</title>
+			<description>Sean Graham signed up to testify Pro. They are signed up to represent Washington State Medical Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 09:37:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Graham/2026-01-19 09:37:01</guid>
+		</item>
+		<item>
+			<title>👍Lois Cook - America's Phone Guys</title>
+			<description>Lois Cook signed up to testify Pro. They are signed up to represent America's Phone Guys.</description>
+			<pubDate>Mon, 19 Jan 2026 10:35:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lois/Cook/2026-01-19 10:35:50</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,8 @@
 ### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services  👎1 
 * 👎 Mariska Kecskes
 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+
 ### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
 * 👍 Susan Kane-Ronning
 * 👍 Susan Kane-Ronning
@@ -18,6 +20,9 @@
 * 👎 Kathleen M. Saul
 
 ### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  
+
+### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects.  👎1 
+* 👎 Kathleen M Saul
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 

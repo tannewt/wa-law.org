@@ -15,7 +15,7 @@ Testifying:
 * 💵Ken Short - AWB
 * John Worthington
 * 💵Bill Clarke - Washington REALTORS
-* Rob Rice - Salish Landing
+* Rob Rice - [Salish Landing](/org/salish_landing/)
 
 #### 230 👎 - Con
 Testifying:

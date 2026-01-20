@@ -11,9 +11,10 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Human Services (HS): SB 6036 Adult family home licensure
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Bea Rector - Dept. of Social and Health Services Home and Community Living Administration (DSHS HCLA)
+* 💵Amina Teouri - [Adult Family Home Council](/org/adult_family_home_council/)
 
 #### 0 👎 - Con
 

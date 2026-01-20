@@ -6,6 +6,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Patricia Castaneda
 

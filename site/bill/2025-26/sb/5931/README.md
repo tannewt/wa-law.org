@@ -8,13 +8,13 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5931 Workforce board admin.
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Bill Lyne - United Faculty of Washington State
+* Lauren McDonald - [Microsoft](/org/microsoft/)
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

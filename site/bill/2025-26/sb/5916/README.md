@@ -10,7 +10,7 @@
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 5916 Nonopioid drugs for pain
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Chanelle Cordova
 * Billy OBryan - Young People in Recovery
@@ -18,6 +18,10 @@ Testifying:
 * Coreen Johnson
 * Sarah Tompkins - NW Rare Disease Coalition (501.c.4)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵David Foster - Assoc of WA Healthcare Plans
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs

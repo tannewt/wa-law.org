@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Push for youth social media safeguards revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=House%20Bill%201834)
 * 03/05/2025 [The Center Square](/org/the_center_square/) - [WA resolution would enshrine abortion, gender-affirming care into state constitution | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_591bddea-f9dc-11ef-bc65-5b7421525a07.html#:~:text=House%20Bill%201834)
 * 02/20/2025 [FOX13](/org/fox13/) - [WA Senate panel advances age-based social media restrictions | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-age-restrictions-social-media#:~:text=companion%20bill)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201834)

@@ -60,7 +60,7 @@
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences   ❓1
 
-### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍2  
 
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍5  
 
@@ -76,6 +76,8 @@
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental  👎1 
 * 👎 Kevin Chang
+
+### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍1  
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
@@ -119,7 +121,7 @@
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Morgan Hickel

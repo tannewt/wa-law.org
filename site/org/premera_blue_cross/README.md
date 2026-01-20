@@ -64,11 +64,19 @@
 
 ### [SB 5594](/bill/2025-26/sb/5594/) - Biosimilar medicines 👍1  
 
-## [SB 5712](/bill/2025-26/sb/5712/) - Industrial stormwater permit  👎1 
+### [SB 5712](/bill/2025-26/sb/5712/) - Industrial stormwater permit  👎1 
+
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 
+* 👎💵 Christine Brewer
+
+### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+* 👎💵 Gary Strannigan
+
+## [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
 
 ## 2023-24
 
-### [SB 5712](/bill/2023-24/sb/5712/) - Industrial stormwater permit  👎1 
+### [SB 6031](/bill/2023-24/sb/6031/) - Insurance crimes 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

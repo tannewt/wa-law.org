@@ -35,6 +35,9 @@
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍2  
 * 👍 Greg Cullen
 
+### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects. 👍1  
+* 👍 Daniel Himebaugh
+
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
@@ -42,7 +45,7 @@
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
 * 👎 Daniel Himebaugh
 
-### [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍1  
+### [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍2  
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 

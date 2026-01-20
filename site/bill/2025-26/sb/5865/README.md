@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5865](/bill/2025-26/sb/5865/)
 
-# SB 5865 - Concerning garnishment forms.
+# SB 5865 - Garnishment forms
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5865&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5865 Garnishment forms

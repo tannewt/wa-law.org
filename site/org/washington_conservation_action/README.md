@@ -33,7 +33,10 @@
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
-### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍2  
+* 👍 Rein Attemann
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍2  
 * 👍 Mindy Roberts
@@ -63,6 +66,9 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
 
+### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
+* 👍💵 Darcy Nonemacher
+
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
 * 👍💵 Holly Hines
 
@@ -70,6 +76,9 @@
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
+
+### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
+* 👍 Caitlin Krenn
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
@@ -124,6 +133,8 @@
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎4 
 * 👎💵 Darcy Nonemacher
+
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 

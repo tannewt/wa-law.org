@@ -8,6 +8,8 @@
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
 
+### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
+
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  

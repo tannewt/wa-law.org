@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=HB%201204)
+
 ## Meetings
 ### Thu 01/23 08:00 AM - Housing (HOUS): HB 1204 Senior shared housing
 #### 391 👍 - Pro

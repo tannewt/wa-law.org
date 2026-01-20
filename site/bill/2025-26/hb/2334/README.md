@@ -13,12 +13,16 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2334 Cash transactions/pennies
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Amber Carter - WA Retail Association
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Patrick Connor - NFIB

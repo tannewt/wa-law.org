@@ -102,9 +102,13 @@
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
 
+### [HB 2279](/bill/2025-26/hb/2279/) - Agriculture/PFAS chemicals 👍1  
+
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
 
-### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎1 
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎3 
+
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍2  
 
@@ -169,11 +173,13 @@
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1 👎1 
 * 👍 Dee Anne Finken
 
-### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
 * 👍 Alison McCaffree
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Ann Murphy
+
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 * 👍 Alison McCaffree

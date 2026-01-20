@@ -10,6 +10,8 @@
 * 👍 Mike Peroni
 * 👍 Mike Peroni
 
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍 Mike Peroni
 

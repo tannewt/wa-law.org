@@ -6,13 +6,16 @@
 ### [HB 1926](/bill/2025-26/hb/1926/) - Home care aides 👍1  
 * 👍 Amy Thomas
 
-## [SB 5672](/bill/2025-26/sb/5672/) - Home care aide certification 👍1  
+### [SB 5672](/bill/2025-26/sb/5672/) - Home care aide certification 👍1  
 * 👍 Amy Thomas
+
+## [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍2  
+* 👍💵 Amina Teouri
 
 ## 2023-24
 
-### [SB 5672](/bill/2023-24/sb/5672/) - Home care aide certification 👍1  
-* 👍 Amy Thomas
+### [SB 6036](/bill/2023-24/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍2  
+* 👍💵 Amina Teouri
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary  👎1 
 * 👎💵 John Ficker

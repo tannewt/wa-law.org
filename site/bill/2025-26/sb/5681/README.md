@@ -8,13 +8,15 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Human Services (HS): SB 5681 DDA employment services age
-Sign up to testify:
-
-#### 175 👍 - Pro
+#### 193 👍 - Pro
 Testifying:
 * DARCY HUFFMAN - community employment alliance
 * John Lemus
 * Rebekah Fuss - Selah School District - Selah Transition Education Program
+* 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
+* 💵Vicki Christophersen - [Northwest Center](/org/northwest_center/)
+* 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
+* Tania May - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

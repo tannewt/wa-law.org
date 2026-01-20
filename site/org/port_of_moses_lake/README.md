@@ -8,6 +8,8 @@
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 * 👍 Richard Hanover
 
+### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. 👍1  
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 

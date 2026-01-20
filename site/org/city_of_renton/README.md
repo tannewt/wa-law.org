@@ -78,6 +78,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals   ❓1
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1

@@ -10,10 +10,13 @@
 ### Wed 01/21 04:00 PM - Transportation (TR): HB 2374 Electric motorcycle, bicycle
 Sign up to testify:
 
-#### 195 👍 - Pro
+#### 343 👍 - Pro
 Testifying:
 * Amy Falcone - Kirkland City Councilmember
+* Christopher Mendoza
+* Dave Rosenbaum - Mayor - City of Mercer Island
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

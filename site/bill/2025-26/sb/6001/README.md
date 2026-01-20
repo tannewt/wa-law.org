@@ -10,7 +10,7 @@
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6001 Scissor stairs
 Sign up to testify:
 
-#### 37 👍 - Pro
+#### 85 👍 - Pro
 
 #### 1 👎 - Con
 

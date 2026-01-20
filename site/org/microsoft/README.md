@@ -34,6 +34,8 @@
 
 ### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  
 
+### [HB 2151](/bill/2025-26/hb/2151/) - Factory built structures 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
@@ -67,6 +69,11 @@
 ### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources  👎1 
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
+* 👍 Lauren McDonald
+
+### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
 ## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍 Lauren McDonald

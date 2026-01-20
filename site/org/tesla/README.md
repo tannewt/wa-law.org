@@ -23,7 +23,7 @@
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale   ❓1
 * ❓💵 Noelani Derrickson
 
-### [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍2  
+### [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍3  
 
 ### [SB 5811](/bill/2025-26/sb/5811/) - Zero-emission vehicle prg.  👎1 
 * 👎 Jeff Gombosky

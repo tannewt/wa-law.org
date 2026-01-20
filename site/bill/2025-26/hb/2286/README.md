@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202286)
+
 ## Meetings
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2286 Social worker licensure
 Sign up to testify:

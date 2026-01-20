@@ -11,6 +11,8 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
+
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
 * 👎💵 Oliver Miska
 
@@ -18,15 +20,20 @@
 
 ### [HB 2293](/bill/2025-26/hb/2293/) - Prohibiting law enforcement training with certain foreign entities. 👍1  
 
-## [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.   ❓2
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+* 👍 Jaelynn Scott
+
+### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.   ❓2
 * ❓💵 Oliver Miska
 * ❓ Bryanna Jenkins
+
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+* 👍 Jaelynn Scott
 
 ## 2023-24
 
-### [SB 5180](/bill/2023-24/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.   ❓2
-* ❓💵 Oliver Miska
-* ❓ Bryanna Jenkins
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+* 👍 Jaelynn Scott
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 * 👍 Amari Leach

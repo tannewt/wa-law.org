@@ -10,10 +10,10 @@
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2194 Cultural access sales tax
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Wayne Fournier - Thurston County Commissioner
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

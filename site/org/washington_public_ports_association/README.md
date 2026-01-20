@@ -59,7 +59,8 @@
 * 👎 Eric ffitch
 * 👎 Eric ffitch
 
-### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎2 
+* 👎💵 Carly Michiels
 * 👎💵 Carly Michiels
 
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
@@ -102,6 +103,8 @@
 ### [HB 2016](/bill/2025-26/hb/2016/) - Capital budget for broadband 👍1  
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects. 👍1  
 
 ### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍1  
 

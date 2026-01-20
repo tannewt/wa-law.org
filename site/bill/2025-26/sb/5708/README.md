@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Push for youth social media safeguards revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=its%20version%20of%20the%20legislation)
 * 11/21/2025 [KUOW](/org/kuow/) - [KUOW - WA Legislature to consider requiring union talks over government use of AI](https://www.kuow.org/stories/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai#:~:text=Senate%20Bill%205708)
 * 11/20/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature to consider requiring union talks over government use of AI • Washington State Standard](https://washingtonstatestandard.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=Senate%20Bill%205708)
 * 11/20/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature to consider requiring union talks over government use of AI](https://gorgenewscenter.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=Senate%20Bill%205708)

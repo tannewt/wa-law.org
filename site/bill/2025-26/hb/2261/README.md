@@ -10,11 +10,16 @@
 ### Wed 01/21 01:30 PM - Health Care & Wellness (HCW): HB 2261 Health care credentials
 Sign up to testify:
 
-#### 43 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Bridget Bush - WSMA
 * Robert Hsiung
+* Rex Johnson - Washington Advocates for Patient Safety
+* 💵Amy Brackenbury - Washington State Medical Association
 
-#### 2 👎 - Con
+#### 201 👎 - Con
+Testifying:
+* Shannon Fitzgerald - ARNPs United
+* Kristine Highlander - Association of Advanced Practice Psychiatric Nurses (AAPPN)
 
 #### 0 ❓ - Other

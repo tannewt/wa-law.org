@@ -11,9 +11,13 @@
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 1529 Cities/county road resources
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Mary Heather Ames - Deputy Public Works Director at the City of Pasco
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Mike Ennis - Washington Asphalt Pavement Association (WAPA)
 
 #### 0 ❓ - Other
 

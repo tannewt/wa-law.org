@@ -8,17 +8,21 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
+* Jesse Wing - Washington Employment Lawyers Association (WELA)
+* Sung Shin
+* Taifa Harris
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
-#### 1 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Mark Mantei - [Vancouver Clinic](/org/vancouver_clinic/)
+* 💵James Crandall - AWB
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
 #### 59 👍 - Pro

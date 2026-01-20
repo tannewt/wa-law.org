@@ -13,6 +13,10 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
 * 👍💵 Amber Carter
 
+### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
+
+### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ John Traugott
 

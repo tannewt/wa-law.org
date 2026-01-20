@@ -14,11 +14,14 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6035 Voting services
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Julie Wise - King County Director of Elections
+* Veronica Roberts - Veterans Legislative Coalition
 
-#### 60 👎 - Con
+#### 182 👎 - Con
+Testifying:
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 1 ❓ - Other
 Testifying:

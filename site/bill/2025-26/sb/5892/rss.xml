@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5892/</link>
 		<description>Updates about SB 5892</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 17 Jan 2026 00:33:24 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 03:54:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,38 @@
 			<pubDate>Sat, 17 Jan 2026 00:33:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=SB%205892</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Office of Secretary of State</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Sat, 17 Jan 2026 10:26:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2026-01-17 10:26:02</guid>
+		</item>
+		<item>
+			<title>❓Gordy Lindstrom - Self</title>
+			<description>Gordy Lindstrom signed up to testify Other. They are signed up to represent Self.</description>
+			<pubDate>Sun, 18 Jan 2026 10:22:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Gordy/Lindstrom/2026-01-18 10:22:15</guid>
+		</item>
+		<item>
+			<title>👍Sam Reed - Office of Secretary of State</title>
+			<description>Sam Reed signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/office_of_secretary_of_state/"&gt;Office of Secretary of State&lt;/a&gt;.</description>
+			<pubDate>Mon, 19 Jan 2026 03:54:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sam/Reed/2026-01-19 03:54:21</guid>
+		</item>
+		<item>
+			<title>👍Steve Hobbs - Office of Secretary of State</title>
+			<description>Steve Hobbs signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/office_of_secretary_of_state/"&gt;Office of Secretary of State&lt;/a&gt;.</description>
+			<pubDate>Mon, 19 Jan 2026 03:54:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Hobbs/2026-01-19 03:54:21</guid>
 		</item>
 	</channel>
 </rss>

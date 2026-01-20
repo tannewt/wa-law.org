@@ -10,8 +10,8 @@
 ### Tue 01/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2364 Poverty reduction task force
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
-#### 0 👎 - Con
+#### 30 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

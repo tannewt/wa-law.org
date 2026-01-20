@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 1974 Land banking authorities
-Sign up to testify:
-
-#### 27 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Amanda DeShazo - Tacoma-Pierce Affordable Housing Consortium
 * Matt Hoffman - Maul Foster & Alongi, Inc.
@@ -20,10 +18,11 @@ Testifying:
 * Reggie Brown - 1DROP
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Erin Chapman-Smith - Roots Young Adult Shelter
+* Reggie Brown - 1DROP
 
-#### 60 👎 - Con
+#### 693 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/18 04:00 PM - Housing (HOUS): HB 1974 Land banking authorities
 #### 179 👍 - Pro

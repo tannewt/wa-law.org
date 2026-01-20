@@ -138,13 +138,23 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
+### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
+### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
+
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -233,9 +243,15 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
@@ -245,11 +261,13 @@
 
 ### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
 
-## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+
+## [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
 ## 2023-24
 
-### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
+### [SB 6053](/bill/2023-24/sb/6053/) - Domestic workers 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

@@ -13,8 +13,12 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍2  
 * 👍 Dr. Katina Rue
+
+### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍1  
 
 ### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
 

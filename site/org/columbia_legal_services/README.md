@@ -44,7 +44,7 @@
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍3  
 * 👍💵 Hannah Woerner
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍2  
 
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 * 👍💵 Sarah Nagy
@@ -91,6 +91,8 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 * 👍 Mark Bowers
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 * 👍💵 Sarah Nagy
@@ -164,13 +166,20 @@
 
 ### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+* 👍 Mark Bowers
+
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+
+## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
+* 👍💵 Andrea Schmitt
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC 👍2  
+* 👍💵 Andrea Schmitt
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

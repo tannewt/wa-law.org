@@ -6,12 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%206051)
+
 ## Meetings
 ### Tue 01/20 08:00 AM - Early Learning & K-12 Education (EDU): SB 6051 School district waivers
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 176 👍 - Pro
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Logan Noel-Endres - Washington State School Directors' Association (WSSDA)
+* 💵Marie Sullivan - Eastern WA Quality Schools Coalition
+* 💵Marissa Rathbone - Washington Association of School Administrators (WASA)

@@ -10,10 +10,17 @@
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5883 SEBB membership/second year
 Sign up to testify:
 
-#### 312 👍 - Pro
+#### 592 👍 - Pro
+Testifying:
+* Cedar Compher
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Claire Olson - Nine Mile Falls School District
+* Michelle Scott - Battle Ground School District - Battle Ground, WA & WASBO
+* 💵Fred Yancey - WA Assoc of School Administrators (WASA) & Assoc of WA School Principals (AWSP)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Iseminger - Health Care Authority (HCA)

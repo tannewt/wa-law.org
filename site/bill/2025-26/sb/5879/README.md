@@ -8,10 +8,12 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5879 JLARC work plans
-Sign up to testify:
+#### 102 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 2 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff Gunn - [Washington Hospitality Association](/org/washington_hospitality_association/)

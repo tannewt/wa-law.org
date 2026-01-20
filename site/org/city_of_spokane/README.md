@@ -18,11 +18,14 @@
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍5  
 
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+* 👍 Council Member Kitty Klitzke
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 

@@ -10,6 +10,8 @@
 
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍1  
 
+### [HB 2140](/bill/2025-26/hb/2140/) - Current use land/sale to gov 👍1  
+
 ## [SB 5479](/bill/2025-26/sb/5479/) - Open space incidental use 👍1  
 * 👍💵 Brad Tower
 

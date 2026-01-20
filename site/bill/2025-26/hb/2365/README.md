@@ -6,15 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202365)
+
 ## Meetings
 ### Tue 01/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2365 Digital opportunities
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Will Booth - Creating Pathways
 * Dr. Shaun Glaze - BBR Academy
+* Tori Emerson - President, Washington State PTA
 
-#### 0 👎 - Con
+#### 95 👎 - Con
 
 #### 0 ❓ - Other

@@ -9,7 +9,7 @@
 
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍1  
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍2  
 
 ## [SB 5662](/bill/2025-26/sb/5662/) - Utility connection charges 👍2  
 * 👍💵 Ben Stuckart

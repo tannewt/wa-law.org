@@ -10,8 +10,18 @@
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5925 AGO investigation powers
 Sign up to testify:
 
-#### 174 👍 - Pro
+#### 567 👍 - Pro
+Testifying:
+* Jeremiah Miller - Fair Work Center & Working Washington
+* Patricio Marquez - Attorney General's Office
+* 💵Samantha Grad - Teamsters 117
 
-#### 0 👎 - Con
+#### 220 👎 - Con
+Testifying:
+* Ryan Lufkin - WACOPS - Washington Council of Police and Sheriffs
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* 💵Rose Gundersen - WA Retail Association
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)

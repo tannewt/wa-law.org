@@ -6,11 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%206042)
+
 ## Meetings
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 6042 School maps
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Battalion Chief Alex Hickey - North Kitsap Fire & Rescue
+* Lieutenant Colonel Alex Carney - US Marine Corps, Chief Strategy officer, CRG
+* Lieutenant Fred Douglas - Gig Harbor Police Department
+* School Board Chair, Dave Teague - Freeman School District
 
 #### 1 👎 - Con
 

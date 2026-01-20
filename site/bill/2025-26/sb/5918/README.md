@@ -6,11 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205918)
+
 ## Meetings
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5918 School operating costs
 Sign up to testify:
 
-#### 377 👍 - Pro
+#### 1044 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland
 * Jim Kowalkowski - Rural Education Center
@@ -24,9 +27,12 @@ Testifying:
 * Jayna Muneta
 * Dr. Melissa Beard - Washington State School Directors' Association (WSSDA)
 * Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Mitch Denning - Alliance of Educational Associations
+* Travis Bown - WA Association of Maintenance and Operation Administrators
+* 💵Clifford Traisman - Seattle, Bellevue, Highline, and Northshore Public School Districts
 
-#### 15 👎 - Con
+#### 434 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

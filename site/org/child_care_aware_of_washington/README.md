@@ -36,6 +36,8 @@
 
 ### [HB 2099](/bill/2025-26/hb/2099/) - Expanding access to the early childhood education and assistance program for military families. 👍1  
 
+### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
+
 ### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
 
 ### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
@@ -84,11 +86,15 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
+
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+
+## [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍2  
+### [SB 5907](/bill/2023-24/sb/5907/) - ECEAP access/military 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

@@ -10,15 +10,15 @@
 * 👍 CMHS, NCC, Shannon Thompson LMHC
 * 👍 CMHS, NCC, Shannon Thompson LMHC
 
-## [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍4  
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍4  
 * 👍 Meg Curtin Rey-Bear
 * 👍 Sharon Shadwell
+
+## [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
 ## 2023-24
 
-### [HB 1589](/bill/2023-24/hb/1589/) - Health carriers & providers 👍4  
-* 👍 Meg Curtin Rey-Bear
-* 👍 Sharon Shadwell
+### [SB 5845](/bill/2023-24/sb/5845/) - Health carrier payments 👍1  
 
 ### [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍4  
 * 👍 Dominique Avery

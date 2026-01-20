@@ -38,6 +38,8 @@
 
 ### [HB 1593](/bill/2025-26/hb/1593/) - Social equity land trust 👍1  
 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
@@ -62,7 +64,16 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 David Mendoza
 
+### [HB 2183](/bill/2025-26/hb/2183/) - Requiring counties to develop and implement heat response plans. 👍1  
+
+### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
+* 👍💵 Justin Allegro
+
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
+
+### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
+
+### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist 👍1  
 
 ### [HB 2388](/bill/2025-26/hb/2388/) - Distributed energy/ag. lands 👍1  
 * 👍 Lily Storbeck

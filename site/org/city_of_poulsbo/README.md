@@ -22,11 +22,11 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5880](/bill/2025-26/sb/5880/) - Concerning toxicology testing by certified or accredited laboratories. 👍1  
+## [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
 ## 2023-24
 
-### [SB 5880](/bill/2023-24/sb/5880/) - Concerning toxicology testing by certified or accredited laboratories. 👍1  
+### [SB 5880](/bill/2023-24/sb/5880/) - Toxicology testing 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 * 👍 Kimberly Hendrickson

@@ -10,12 +10,13 @@
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5844 Storage space rentals
 Sign up to testify:
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Lance Baker - Washington Self Storage Association
 * Patrick Gilroy - Washington Self Storage Association
 * Joe Doherty - Self Storage Association
+* Kristi Tripple - Rowley Properties, Inc.
 
-#### 11 👎 - Con
+#### 103 👎 - Con
 
 #### 0 ❓ - Other

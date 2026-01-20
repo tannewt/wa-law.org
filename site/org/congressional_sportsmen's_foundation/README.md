@@ -6,11 +6,15 @@
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products  👎1 
 * 👎💵 Marie Neumiller
 
-## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+
+## [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations 👍1  
+* 👍💵 Marie Neumiller
 
 ## 2023-24
 
-### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍1  
+### [SB 5960](/bill/2023-24/sb/5960/) - Ungulate populations 👍1  
+* 👍💵 Marie Neumiller
 
 ### [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer  👎2 
 

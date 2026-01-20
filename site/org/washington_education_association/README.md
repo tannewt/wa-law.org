@@ -323,7 +323,11 @@
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 
+### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+
 ### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
@@ -335,6 +339,8 @@
 
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
 
+### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
+
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
 
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍2  
@@ -342,15 +348,23 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
 
+### [HB 2183](/bill/2025-26/hb/2183/) - Requiring counties to develop and implement heat response plans. 👍1  
+
 ### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
 
 ### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots. 👍1  
 
+### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
+
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
+
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
+
+### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
 ### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
 
@@ -361,7 +375,21 @@
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
+### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
+
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+
+### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member.  👎1 
+
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+
+### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
+### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
+
+### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍2  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -709,28 +737,64 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
+### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+
+### [SB 5835](/bill/2025-26/sb/5835/) - Lump sum retirement payments 👍1  
+
+### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
 
 ### [SB 5860](/bill/2025-26/sb/5860/) - Concerning school board compensation. 👍1  
 
+### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education. 👍1  
+
+### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
+* 👍 Jared Mason-Gere
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 * 👍 Jared Mason-Gere
+
+### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
+
+### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
+
+### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
 
 ### [SB 5952](/bill/2025-26/sb/5952/) - Standardizing the process for waiving physical education requirements for high school students.  👎1 
 
 ### [SB 5956](/bill/2025-26/sb/5956/) - Addressing artificial intelligence, student discipline, and surveillance in public schools. 👍1  
+
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
 ### [SB 5969](/bill/2025-26/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans. 👍1  
 * 👍💵 Nasue Nishida
 
+### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
+
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Larry Delaney
+
+### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
+
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
+
+### [SB 6051](/bill/2025-26/sb/6051/) - School district waivers  👎1 
+* 👎💵 Julie Salvi
+
+### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

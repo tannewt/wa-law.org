@@ -177,7 +177,13 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 * 👎💵 Crystal Leatherman
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+* 👎💵 Amber Carter
+
 ### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
+
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
+* 👍💵 Crystal Leatherman
 
 ### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
 * 👎💵 Crystal Leatherman
@@ -192,8 +198,12 @@
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
 * 👍💵 Crystal Leatherman
 
-### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍2  
 * 👍💵 Crystal Leatherman
+* 👍💵 Crystal Leatherman
+
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
+* ❓💵 Crystal Leatherman
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -293,13 +303,19 @@
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 
-## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
 * 👍💵 Crystal Leatherman
+
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots   ❓1
+* ❓💵 Crystal Leatherman
+
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
+* ❓💵 Crystal Leatherman
 
 ## 2023-24
 
-### [SB 5975](/bill/2023-24/sb/5975/) - Safe cookware 👍1  
-* 👍💵 Crystal Leatherman
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy   ❓1
+* ❓💵 Crystal Leatherman
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

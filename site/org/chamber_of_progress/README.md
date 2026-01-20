@@ -31,20 +31,25 @@
 ### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.   ❓1
 * ❓💵 Robert Singleton
 
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy  👎1 
+* 👎💵 Robert Singleton
+
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
 * 👍 Tahra Jirari
 
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations 👍1  
 * 👍💵 Robert Singleton
 
-## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors  👎2 
+### [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors  👎2 
 * 👎💵 Robert Singleton
+* 👎💵 Robert Singleton
+
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy  👎1 
 * 👎💵 Robert Singleton
 
 ## 2023-24
 
-### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors  👎2 
-* 👎💵 Robert Singleton
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy  👎1 
 * 👎💵 Robert Singleton
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  

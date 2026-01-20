@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2254 Partnership access line
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Daniel Garcia - WA Health Care Authority
 * Dr. Bob Hilt - Seattle Children's
+* Charlotte Shannon - UW Medicine
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

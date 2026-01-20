@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5994 Timber tax distributions
-Sign up to testify:
+#### 5 👍 - Pro
+Testifying:
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* 💵Heath Heikkila - American Forest Resource Council
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

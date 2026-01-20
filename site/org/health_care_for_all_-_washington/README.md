@@ -25,7 +25,11 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -56,13 +60,21 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
+### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state. 👍1  
+
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+
+## [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
 
 ## 2023-24
 
-### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program 👍1  
+### [SB 6031](/bill/2023-24/sb/6031/) - Insurance crimes 👍1  
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 * 👍 Ronnie Shure

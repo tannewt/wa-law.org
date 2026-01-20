@@ -43,7 +43,7 @@
 
 ### [HB 1228](/bill/2025-26/hb/1228/) - Toxicology testing 👍1  
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍2  
 * 👍 Kati Durkin
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
@@ -124,6 +124,8 @@
 
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
 
+### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
+
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
@@ -131,6 +133,9 @@
 ### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
 
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
+
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
+* 👍 Tim Tharp
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Kati Durkin
@@ -228,12 +233,19 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 * 👍 Ashley Fueston
 
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
 ### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board.   ❓1
 * ❓ Jeanette Oblecz
 
+### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
+* 👍 Kati Durkin
+
 ### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
 ## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓ Kati Durkin

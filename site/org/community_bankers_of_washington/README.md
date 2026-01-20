@@ -24,6 +24,11 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
 * 👎💵 Brad Tower
 
+### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest.  👎2 
+* 👎💵 Brad Tower
+
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices  👎1 
 * 👎💵 Brad Tower
 
@@ -38,6 +43,9 @@
 ### [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.   ❓2
 * ❓💵 Brad Tower
 * ❓💵 Brad Tower
+
+### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements  👎1 
+* 👎💵 Brad Tower
 
 ### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market  👎1 
 * 👎💵 Brad Tower
@@ -54,6 +62,8 @@
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎3 
 * 👎💵 Brad Tower
 * 👎💵 Brad Tower
+
+### [SB 5831](/bill/2025-26/sb/5831/) - Enacting the uniform mortgage modification act. 👍1  
 
 ## [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission  👎1 
 * 👎💵 Brad Tower

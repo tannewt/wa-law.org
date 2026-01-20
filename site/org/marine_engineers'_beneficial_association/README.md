@@ -300,9 +300,13 @@
 
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
 
+### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
+
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority 👍1  
 
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍2  
+
+### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
 
 ### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
 
@@ -318,17 +322,31 @@
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
 
+### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
+
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
+
 ### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
 ### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
 
+### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member.  👎1 
+
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
+
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+
+### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
+### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍1  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
@@ -532,9 +550,13 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
 ### [SB 5842](/bill/2025-26/sb/5842/) - Campaign memorabilia  👎1 
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
 
@@ -542,11 +564,17 @@
 
 ### [SB 5869](/bill/2025-26/sb/5869/) - Construction hazards notice 👍1  
 
+### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
+
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+
+### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎2 
+
+### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
@@ -554,11 +582,21 @@
 
 ### [SB 5972](/bill/2025-26/sb/5972/) - Correctional officers/arb. 👍1  
 
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
+
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
+
 ### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ### [SB 6014](/bill/2025-26/sb/6014/) - Pregnancy accommodations 👍1  
+
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
+
+### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+
+### [SB 6058](/bill/2025-26/sb/6058/) - Wage enforcement discretion 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 

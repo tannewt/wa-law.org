@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2161/</link>
 		<description>Updates about HB 2161</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 21:34:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 10:46:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,14 +35,62 @@
 			<description>News article "The Week Ahead: January 19-23, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:23:25 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202161</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202161</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 19-23, 2026 | Washington State House Republicans</title>
 			<description>News article "The Week Ahead: January 19-23, 2026 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202161</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202161</guid>
+		</item>
+		<item>
+			<title>👎Ryan Lufkin - WACOPS - Washington Council of Police and Sheriffs</title>
+			<description>Ryan Lufkin signed up to testify Con. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs.</description>
+			<pubDate>Mon, 19 Jan 2026 07:53:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ryan/Lufkin/2026-01-19 07:53:35</guid>
+		</item>
+		<item>
+			<title>❓Melody Brand - WACOPS - Washington Council of Police and Sheriffs</title>
+			<description>Melody Brand signed up to testify Other.</description>
+			<pubDate>Mon, 19 Jan 2026 09:13:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Melody/Brand/2026-01-19 09:13:40</guid>
+		</item>
+		<item>
+			<title>❓💵Derrick Nunnally - Association of Washington Cities</title>
+			<description>Derrick Nunnally signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 09:47:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Derrick/Nunnally/2026-01-19 09:47:33</guid>
+		</item>
+		<item>
+			<title>👍Jeremiah Miller - Fair Work Center &amp; Working Washington</title>
+			<description>Jeremiah Miller signed up to testify Pro. They are signed up to represent Fair Work Center &amp; Working Washington.</description>
+			<pubDate>Mon, 19 Jan 2026 10:46:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeremiah/Miller/2026-01-19 10:46:06</guid>
+		</item>
+		<item>
+			<title>👍Patricio Marquez - Attorney General's Office</title>
+			<description>Patricio Marquez signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Mon, 19 Jan 2026 10:46:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patricio/Marquez/2026-01-19 10:46:06</guid>
+		</item>
+		<item>
+			<title>👍💵Samantha Grad - Teamsters 117</title>
+			<description>Samantha Grad signed up to testify Pro. They are signed up to represent Teamsters 117. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 10:46:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Samantha/Grad/2026-01-19 10:46:06</guid>
 		</item>
 	</channel>
 </rss>

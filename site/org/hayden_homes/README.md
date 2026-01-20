@@ -6,6 +6,9 @@
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 
+### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. 👍1  
+* 👍💵 Blake Baldwin
+
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  
 
 ## [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners 👍4  

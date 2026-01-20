@@ -23,11 +23,13 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍6  
 
-## [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍4  
+## [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍5  
+* 👍💵 Lance Morehouse
 
 ## 2023-24
 
-### [SB 5681](/bill/2023-24/sb/5681/) - DDA employment services age 👍4  
+### [SB 5681](/bill/2023-24/sb/5681/) - DDA employment services age 👍5  
+* 👍💵 Lance Morehouse
 
 ### [HB 1506](/bill/2023-24/hb/1506/) - DSHS leases  👎1 
 

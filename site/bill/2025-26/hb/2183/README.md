@@ -10,8 +10,11 @@
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 2183 Heat response plans
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 120 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
+* 💵Jaime Bodden - WSALPHO

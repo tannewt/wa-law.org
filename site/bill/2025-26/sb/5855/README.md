@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=SB%205855)
 * 01/16/2026 [FOX13](/org/fox13/) - [WA bill to ban cop face coverings heads to Senate | FOX 13 Seattle](https://www.fox13seattle.com/news/face-coverings-ban-bill-wa#:~:text=Senate%20Bill%205855)
 * 01/16/2026 [KUOW](/org/kuow/) - [KUOW - Know your rights: How to navigate an ICE encounter](https://www.kuow.org/stories/know-your-rights-how-to-navigate-an-ice-encounter#:~:text=new%20bill)
 * 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Climate Advocate Nilu Jenks Announces D5 Seattle Council Campaign » The Urbanist](https://www.theurbanist.org/2026/01/15/climate-advocate-nilu-jenks-announces-d5-seattle-council-campaign/#:~:text=banning%20face%20coverings%20for%20law%20enforcement)

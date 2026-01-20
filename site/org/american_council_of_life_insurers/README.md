@@ -14,14 +14,16 @@
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎3 
 
-## [SB 5495](/bill/2025-26/sb/5495/) - Life insurance/suicide limit  👎2 
+### [SB 5495](/bill/2025-26/sb/5495/) - Life insurance/suicide limit  👎2 
 * 👎💵 Christine Brewer
+* 👎 Kris Tefft
+
+## [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
 * 👎 Kris Tefft
 
 ## 2023-24
 
-### [SB 5495](/bill/2023-24/sb/5495/) - Life insurance/suicide limit  👎2 
-* 👎💵 Christine Brewer
+### [SB 5949](/bill/2023-24/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
 * 👎 Kris Tefft
 
 ### [HB 1061](/bill/2023-24/hb/1061/) - Insurance producer education 👍1  

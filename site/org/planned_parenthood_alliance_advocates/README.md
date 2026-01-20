@@ -97,6 +97,8 @@
 
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications. 👍1  
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
@@ -104,6 +106,18 @@
 ### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
+
+### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
+
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍2  
+
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+
+### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
+### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
@@ -179,16 +193,31 @@
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
+
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
+### [SB 5917](/bill/2025-26/sb/5917/) - Improving access to abortion medications. 👍1  
+
+### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
+
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
+### [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
+
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Nicole Kern
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+* 👍💵 Courtney Normand
 
 ## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 

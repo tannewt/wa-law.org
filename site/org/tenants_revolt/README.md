@@ -5,6 +5,10 @@
 
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍1  
 
+### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants   ❓2
+* ❓💵 Ethan Martez
+* ❓ Rebecca Quirke
+
 ## [SB 5937](/bill/2025-26/sb/5937/) - Smart access systems/tenants 👍2  
 * 👍 Ethan Martes
 

@@ -7,8 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202098)
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202098)
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202098)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202098)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202098)
 * 12/07/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://www.spokesman.com/stories/2025/dec/07/bills-begin-streaming-in-ahead-of-was-2026-legisla/#:~:text=Her%20legislation)
 * 12/07/2025 [Gorge News Center](/org/gorge_news_center/) - [Bills begin streaming in ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/07/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=Her%20legislation)
 * 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=Her%20legislation)
@@ -17,7 +18,7 @@
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2098 Higher education funding
 Sign up to testify:
 
-#### 58 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * 💵John Burbank
 * Janeen Contractor
@@ -26,7 +27,10 @@ Testifying:
 * 💵Rian Watt - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Jackson Feaster - Communities For Our Colleges
+* Bill Lyne - United Faculty of Washington State
+* 💵Nathan Tippmann - Evergreen Geoduck Student Union
+* 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 
-#### 1 👎 - Con
+#### 425 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

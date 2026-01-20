@@ -58,13 +58,25 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
+
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
+
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
 
+### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
+
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -122,13 +134,25 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
+
+## [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 6053](/bill/2023-24/sb/6053/) - Domestic workers 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

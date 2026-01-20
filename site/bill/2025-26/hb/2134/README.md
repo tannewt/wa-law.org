@@ -8,10 +8,14 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Transportation (TR): HB 2134 Regional transp. plans
-Sign up to testify:
+#### 117 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Katy Ricchiuto - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Erik Lowe - Spokane Reimagined
 
-#### 5 👍 - Pro
+#### 689 👎 - Con
 
-#### 60 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mike Ennis - Icon Materials

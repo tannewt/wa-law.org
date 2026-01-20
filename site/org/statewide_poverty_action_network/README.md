@@ -76,6 +76,9 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍 Molly Gallagher
 
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
+* 👍💵 Marcy Bowers
+
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  

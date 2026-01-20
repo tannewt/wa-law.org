@@ -11,14 +11,16 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5838 Board of natural resources
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 * Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
 * Glenda Breiler - Office of the Commissioner of Public Lands, Department of Natural Resources
+* Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 
-#### 2 👎 - Con
+#### 107 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Josh Weiss - [Clallam Economic Alliance](/org/clallam_economic_alliance/)

@@ -12,7 +12,7 @@
 Testifying:
 * Brooke Fisher-Clarke - Imagination Library of Washington
 * Dr LoAnn Ayers - United Way of Benton & Franklin Counties
-* Scott Herrick - The Dollywood Foundation
+* 💵Scott Herrick - The Dollywood Foundation
 * Misha Cherniske - Office of Superintendent of Public Instruction
 
 #### 219 👎 - Con

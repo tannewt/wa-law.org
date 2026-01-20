@@ -10,8 +10,12 @@
 ### Fri 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 5899 Chiropractic/animals
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Dr. Heidi Bockhold - Options For Animals
+* Dr. Matt Waldron - WA State Chiropractic Association
+* Susan Jensen - Chiropractic Quality Assurance Comission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

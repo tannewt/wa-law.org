@@ -28,6 +28,9 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 
 * 👎💵 Brandon Houskeeper
 
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention  👎1 
+* 👎💵 Brandon Houskeeper
+
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Brandon Houskeeper
 

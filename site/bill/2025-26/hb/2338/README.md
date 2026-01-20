@@ -7,15 +7,19 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202338)
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202338)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202338)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202338)
 
 ## Meetings
 ### Thu 01/22 01:30 PM - Capital Budget (CB): HB 2338 Community weatherization
 Sign up to testify:
 
-#### 10 👍 - Pro
+#### 75 👍 - Pro
+Testifying:
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵John Seng - Spark NW
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

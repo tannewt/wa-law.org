@@ -10,9 +10,12 @@
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5905 Port workers PERS membership
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * James James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Jonalthan Eder - Port of Vancouver USA
+* KELLY DRIVER - Executive Director
+* Jared Ross - South Sound Building & Construction Trades Council
 
 #### 0 👎 - Con
 

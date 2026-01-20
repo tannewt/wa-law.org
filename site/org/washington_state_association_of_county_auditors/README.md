@@ -35,11 +35,16 @@
 
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties 👍1  
 
-## [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍2  
+### [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍2  
+
+### [SB 5902](/bill/2025-26/sb/5902/) - Voter notifications & forms 👍1  
+* 👍💵 Michael Shaw
+
+## [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 
 ## 2023-24
 
-### [SB 5684](/bill/2023-24/sb/5684/) - Electioneering/auditors 👍2  
+### [SB 6035](/bill/2023-24/sb/6035/) - Voting services 👍1  
 
 ### [HB 1037](/bill/2023-24/hb/1037/) - Family burial grounds   ❓1
 * ❓ Vicky Dalton

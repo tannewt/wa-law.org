@@ -10,8 +10,10 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5902 Voter notifications & forms
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
-#### 6 👎 - Con
+#### 63 👎 - Con
 
 #### 0 ❓ - Other

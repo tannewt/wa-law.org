@@ -47,9 +47,9 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
-### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍2  
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍4  
 
-### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍4  
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
@@ -57,11 +57,11 @@
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍2  
 
-### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍4  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍4  
 
@@ -121,11 +121,11 @@
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍2  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

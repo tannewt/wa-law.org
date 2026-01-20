@@ -7,21 +7,29 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202389)
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202389)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202389)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202389)
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2389 Criminal offenses under 18
 Sign up to testify:
 
-#### 131 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Judge David Keenan - Washington State Minority and Justice Commission
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Karen Peacey - League of Women Voters of WA
+* 💵Karen Pillar - TeamChild
 
-#### 2 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Tiffany Attrill
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Christine Simonsmeier - WAJCA
+* Judge Kristin Ferrera - Superior Court Judges’ Association
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Judge Cindy Larsen - Superior Court Judges' Association

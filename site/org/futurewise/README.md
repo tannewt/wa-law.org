@@ -81,10 +81,21 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2006](/bill/2025-26/hb/2006/) - Extending the deadline for a rural county collecting the sales and use tax for economic development purposes to designate industrial land banks under the growth management act.  👎1 
+* 👎💵 Bryce Yadon
+
+### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
+* 👍💵 Bryce Yadon
+
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Bryce Yadon
 
 ### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
+* 👍💵 Bryce Yadon
+
+### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 * 👍💵 Bryce Yadon
 
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
@@ -93,8 +104,14 @@
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.  👎1 
+* 👎💵 Bryce Yadon
+
 ### [HB 2381](/bill/2025-26/hb/2381/) - Low-rise res. buildings 👍1  
 * 👍💵 Bryce Yadon
+
+### [HB 2388](/bill/2025-26/hb/2388/) - Distributed energy/ag. lands   ❓1
+* ❓💵 Bryce Yadon
 
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
@@ -192,6 +209,9 @@
 * 👎💵 Bryce Yadon
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+* 👍💵 Bryce Yadon
 
 ### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
 * ❓💵 Bryce Yadon

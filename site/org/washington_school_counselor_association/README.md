@@ -20,6 +20,8 @@
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
 
+### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Jenny Morgan
 
@@ -61,6 +63,14 @@
 
 ### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 * 👍 Lauren Mendez
+
+### [SB 5859](/bill/2025-26/sb/5859/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  
+
+### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
+
+### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
+
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Jenny Morgan

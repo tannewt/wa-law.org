@@ -39,11 +39,17 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
-## [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍2  
+### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍2  
+
+## [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍2  
+* 👍 Scott Livengood
+* 👍 Jennifer Lengyel
 
 ## 2023-24
 
-### [SB 5393](/bill/2023-24/sb/5393/) - Rainier school 👍2  
+### [SB 6024](/bill/2023-24/sb/6024/) - DD res. service providers 👍2  
+* 👍 Scott Livengood
+* 👍 Jennifer Lengyel
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Melissa Johnson

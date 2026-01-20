@@ -48,6 +48,9 @@
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 * 👍 Laura Del Villar
 
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
+* 👍 Cassia Hershenow
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 * 👍💵 Anthony Blankenship
 

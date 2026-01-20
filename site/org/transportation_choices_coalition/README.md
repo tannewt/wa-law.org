@@ -28,6 +28,9 @@
 ### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways. 👍1  
 * 👍 Holden Ringer
 
+### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
+* 👍 Katy Ricchiuto
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍2  
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Kirk Hovenkotter

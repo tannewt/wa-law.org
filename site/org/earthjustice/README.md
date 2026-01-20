@@ -19,7 +19,8 @@
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
-### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍2  
+* 👍 Eric Gonzalez Alfaro
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍2  
 

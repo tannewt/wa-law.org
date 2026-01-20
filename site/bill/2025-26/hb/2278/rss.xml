@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2278/</link>
 		<description>Updates about HB 2278</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Jan 2026 02:33:14 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 18 Jan 2026 07:05:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Pack/2026-01-15 02:33:14</guid>
+		</item>
+		<item>
+			<title>👍Becky Bogard - Washington State Destination Marketing Organizations</title>
+			<description>Becky Bogard signed up to testify Pro. They are signed up to represent Washington State Destination Marketing Organizations.</description>
+			<pubDate>Sun, 18 Jan 2026 07:05:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Becky/Bogard/2026-01-18 07:05:09</guid>
+		</item>
+		<item>
+			<title>👍Kevin Lewis - Visit Tri Cities</title>
+			<description>Kevin Lewis signed up to testify Pro. They are signed up to represent Visit Tri Cities.</description>
+			<pubDate>Sun, 18 Jan 2026 07:05:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Lewis/2026-01-18 07:05:09</guid>
 		</item>
 	</channel>
 </rss>

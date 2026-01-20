@@ -90,6 +90,10 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
 
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+
+### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
@@ -143,6 +147,8 @@
 * 👍 Megan Moore
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+
+### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 

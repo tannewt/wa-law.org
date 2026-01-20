@@ -10,8 +10,8 @@
 ### Tue 01/20 08:00 AM - Finance (FIN): HB 2133 Senior citizen centers/tax
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 82 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -265,7 +265,8 @@
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍2  
 
-### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎2 
+* 👎💵 Peter Godlewski
 
 ### [HB 1656](/bill/2025-26/hb/1656/) - Wildfire costs/securitizing 👍2  
 * 👍💵 Peter Godlewski
@@ -438,8 +439,14 @@
 
 ### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases.  👎1 
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
+* 👎💵 Emily Wittman
+
 ### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
 * 👎 Max Martin
+
+### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
+* 👍💵 Emily Wittman
 
 ### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
 
@@ -464,16 +471,27 @@
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
 * 👍 Max Martin
 
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention  👎1 
+* 👎💵 Peter Godlewski
+
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship  👎1 
 * 👎💵 Peter Godlewski
 
-### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
+### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍2  
+* 👍💵 Peter Godlewski
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 * 👍💵 Peter Godlewski
 
 ### [HB 2296](/bill/2025-26/hb/2296/) - Distributed energy resources  👎1 
 * 👎💵 Peter Godlewski
+
+### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
+
+### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+
+### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant   ❓1
+* ❓💵 Peter Godlewski
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -814,6 +832,9 @@
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
+### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+* 👎💵 Emily Wittman
+
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags  👎1 
 * 👎💵 Peter Godlewski
 
@@ -832,18 +853,21 @@
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
 * 👎💵 Peter Godlewski
 
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots  👎1 
+
 ### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage  👎1 
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council.  👎1 
 * 👎💵 Peter Godlewski
 
-## [SB 6050](/bill/2025-26/sb/6050/) - Distributed energy resources  👎1 
+### [SB 6050](/bill/2025-26/sb/6050/) - Distributed energy resources  👎1 
 * 👎💵 Peter Godlewski
+
+## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 
 ## 2023-24
 
-### [SB 6050](/bill/2023-24/sb/6050/) - Distributed energy resources  👎1 
-* 👎💵 Peter Godlewski
+### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

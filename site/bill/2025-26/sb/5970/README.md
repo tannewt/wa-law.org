@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5970 Senior citizen centers/tax
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Cathleen MacCaul - AARP Washington State
 
 #### 0 👎 - Con
 

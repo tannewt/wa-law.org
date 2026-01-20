@@ -63,6 +63,9 @@
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
 
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
+* 👍💵 Emily Brice
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓3
 * ❓💵 Emily Brice
 * ❓💵 Emily Brice
@@ -135,7 +138,11 @@
 
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
 
+### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state. 👍1  
+
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
 * ❓💵 Emily Brice

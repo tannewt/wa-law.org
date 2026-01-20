@@ -141,7 +141,8 @@
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender   ❓1
 * ❓💵 Brad Banks
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓2
+* ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎4 
@@ -212,10 +213,11 @@
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍3  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍4  
 * 👍💵 Travis Dutton
 * 👍💵 Paul Jewell
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
@@ -253,6 +255,9 @@
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓💵 Axel Swanson
+
+### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  
+* 👍💵 Travis Dutton
 
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
 * 👍💵 Axel Swanson
@@ -439,6 +444,12 @@
 * 👎💵 Axel Swanson
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
+
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources   ❓1
+* ❓💵 Paul Jewell
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers   ❓1
+* ❓💵 Paul Jewell
 
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax   ❓1
 * ❓💵 Paul Jewell

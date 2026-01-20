@@ -125,13 +125,14 @@
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
+
+## [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓💵 Charles Smith
+### [SB 6036](/bill/2023-24/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

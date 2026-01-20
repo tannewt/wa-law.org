@@ -8,15 +8,19 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6064 International fire code
-Sign up to testify:
+#### 6 👍 - Pro
+Testifying:
+* Bob Chief Eastman - South County Fire
+* Dave Chief Sherman - South County Fire
+* 💵David Foster - South County Fire
+* Ryan White - Tulalip Bay fire department
 
-#### 0 👍 - Pro
-
-#### 49 👎 - Con
+#### 105 👎 - Con
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Randy Collins - Fire Marshal Mason County
 * Patrick Hanks - Building Industry Association of Washington (BIAW)
 * Seth Henderson - Snohomish County Fire Marshal's Office / Washington State Association of Fire Marshals
+* 💵Josh Weiss - Snohomish County
 
 #### 0 ❓ - Other

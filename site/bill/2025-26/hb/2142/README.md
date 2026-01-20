@@ -10,8 +10,8 @@
 ### Tue 01/20 04:00 PM - Education (ED): HB 2142 Remote and hybrid learning
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

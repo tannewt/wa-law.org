@@ -8,12 +8,12 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5720 Uniform debt default act
-Sign up to testify:
-
-#### 23 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * David Reid
 * Mindy Chumbley - NW Collectors Assoc
+* Sam Leonard - NW Consumer Law Center
+* Raymond Pepe - Uniform Law Commission
 
 #### 0 👎 - Con
 

@@ -6,14 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205951)
+
 ## Meetings
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5951 Albuterol access in schools
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Anjitha Gurrala
 * Rio Kawamoto
+* Leslie Maxwell
+* 💵Erica Hallock - School Nurse Organization of Washington
+* Lynnette Ondeck - School Nurse Organization of Washington
 
 #### 2 👎 - Con
 

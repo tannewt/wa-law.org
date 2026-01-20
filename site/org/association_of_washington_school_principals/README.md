@@ -63,6 +63,8 @@
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 
+### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
@@ -141,10 +143,16 @@
 ### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications   ❓1
 * ❓💵 Roz Thompson
 
+### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+
 ### [SB 5952](/bill/2025-26/sb/5952/) - Standardizing the process for waiving physical education requirements for high school students.  👎1 
 * 👎💵 Roz Thompson
 
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
+
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+
+### [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 

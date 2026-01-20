@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 5944 Language access providers
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
 #### 0 👎 - Con
 

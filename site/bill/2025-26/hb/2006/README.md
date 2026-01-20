@@ -10,8 +10,10 @@
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2006 Industrial land banks
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 28 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 ❓ - Other

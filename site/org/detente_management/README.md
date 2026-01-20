@@ -7,6 +7,8 @@
 
 ### [HB 1768](/bill/2025-26/hb/1768/) - Manuf. housing purchases  👎2 
 
+### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants  👎1 
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎2 
 
 ## [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market  👎1 

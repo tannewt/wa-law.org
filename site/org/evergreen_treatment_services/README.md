@@ -19,6 +19,8 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
+### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
+
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎 Chloe Gale
 

@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5988 Opioid treatment prg. fees
-Sign up to testify:
+#### 9 👍 - Pro
+Testifying:
+* 💵Ian Corbridge - Washington State Department of Health
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 53 👎 - Con
 
 #### 0 ❓ - Other

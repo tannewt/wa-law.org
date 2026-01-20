@@ -81,6 +81,8 @@
 
 ### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
 
+### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
+
 ## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
 ## 2023-24

@@ -14,10 +14,16 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5892 Voter registration database
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 606 👍 - Pro
 Testifying:
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Sam Reed - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 31 👎 - Con
+#### 1687 👎 - Con
+Testifying:
+* Laurie Layne
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Gordy Lindstrom - Self

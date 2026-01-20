@@ -15,18 +15,52 @@
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5973 Initiatives and referenda
 Sign up to testify:
 
-#### 227 👍 - Pro
+#### 1067 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Hanna Floss
+* DJ Brimmer
+* 💵Simone Boe
+* Zak Nelson
+* 💵Adam Glickman
+* Cliff Traisman
+* Brie Gynclid
+* Hanna Floss
+* Heather Wallace
+* Steven McCray
+* Debbie Borek
+* Lauren Dandridge
+* Thomas Marsland
+* 💵Damiana Merryweather
 
-#### 620 👎 - Con
+#### 7701 👎 - Con
 Testifying:
 * Laurie Layne
 * Anna Burt
 * Anna Burt
 * Eric Lundberg
+* Christian Bianes-Delrosario
+* Hongye Sun
+* Nancy Mowat
+* Jane Ci
+* Yan Li
+* Brian Heywood
+* Tara Bell
+* Christie Allemand
+* Sam Reed - Office of Secretary of State - Former Secretary of State
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Tracy Xu
+* John Wu
+* shan gao
+* Liangwei Ge - Intel
+* Dr. Janis Clark - Safe Homes
+* Eric Pratt - America
+* Xiaohua Chen
+* hai sun
+* yanrong liu
+* jerry sun
+* qingyang sun
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other

@@ -26,6 +26,8 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont
 
@@ -72,18 +74,19 @@
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
-### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍2  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont
 
-## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 * 👍 Steve DuPont
+
+## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
 
 ## 2023-24
 
-### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
-* 👍 Steve DuPont
+### [SB 6052](/bill/2023-24/sb/6052/) - Digital school transcripts 👍1  
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

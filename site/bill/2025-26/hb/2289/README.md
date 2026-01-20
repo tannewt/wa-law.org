@@ -185,7 +185,7 @@ Testifying:
 * 💵Alex Galeana - Children's Campaign Fund Action
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 * Rick Chisa - Public School Employees of WA/SEIU 1948
-* Roshelle Cleland - WA State Coalition Against Domestic and Sexual Violence
+* 💵Roshelle Cleland - WA State Coalition Against Domestic and Sexual Violence
 * PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
 * LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
 * 💵Nora Selander - Western Washington University

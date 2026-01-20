@@ -10,13 +10,16 @@
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1591 Defendant survivors
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * David Martin - KCPAO
 * Emi Koyama - Coalition for Rights & Safety
 * Katie Hurley - King county dept of public defense
+* Colleen McCarty - Oklahoma Appleseed
+* Cindy Elsberry - [Washington Defender Association](/org/washington_defender_association/)
+* 💵Roshelle Cleland - WA State Coalition Against Domestic Violence (WSCADV)
 
-#### 0 👎 - Con
+#### 599 👎 - Con
 
 #### 0 ❓ - Other
 

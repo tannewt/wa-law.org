@@ -22,6 +22,9 @@
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+* 👍 Sarah Dickmeyer
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍 Sarah Dickmeyer
 

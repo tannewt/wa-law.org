@@ -85,6 +85,9 @@
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓2
 * ❓💵 Heather Trim
 
+### [HB 2279](/bill/2025-26/hb/2279/) - Agriculture/PFAS chemicals 👍1  
+* 👍💵 Heather Trim
+
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎1 
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍7  

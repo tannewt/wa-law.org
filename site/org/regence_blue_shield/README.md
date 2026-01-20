@@ -15,11 +15,15 @@
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications.  👎1 
 * 👎💵 Carrie Tellefson
 
-## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
+
+## [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+* 👎💵 Jennifer Muhm
 
 ## 2023-24
 
-### [SB 5351](/bill/2023-24/sb/5351/) - Dental insurance practices  👎1 
+### [SB 5949](/bill/2023-24/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
+* 👎💵 Jennifer Muhm
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 

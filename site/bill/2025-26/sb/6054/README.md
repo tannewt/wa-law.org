@@ -13,7 +13,7 @@
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6054 Wildfire home hardening/CICs
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

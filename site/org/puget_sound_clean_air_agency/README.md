@@ -6,6 +6,8 @@
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍3  
 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 * 👍 Christine Cooley
 

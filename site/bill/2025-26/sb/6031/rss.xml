@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6031/</link>
 		<description>Updates about SB 6031</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 08 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 12:13:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-08/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Dory Nicpon - Office of the Insurance Commissioner</title>
+			<description>Dory Nicpon signed up to testify Pro. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Mon, 19 Jan 2026 03:56:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dory/Nicpon/2026-01-19 03:56:51</guid>
+		</item>
+		<item>
+			<title>👍Patty Kuderer - Office of the Insurance Commissioner</title>
+			<description>Patty Kuderer signed up to testify Pro. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Mon, 19 Jan 2026 03:56:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patty/Kuderer/2026-01-19 03:56:51</guid>
+		</item>
+		<item>
+			<title>👍Brent Walker - Coalition Against Insurance Fraud</title>
+			<description>Brent Walker signed up to testify Pro. They are signed up to represent Coalition Against Insurance Fraud.</description>
+			<pubDate>Mon, 19 Jan 2026 12:13:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brent/Walker/2026-01-19 12:13:32</guid>
 		</item>
 	</channel>
 </rss>

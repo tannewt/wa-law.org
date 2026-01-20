@@ -295,8 +295,14 @@
 ### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.   ❓1
 * ❓💵 Derrick Nunnally
 
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations  👎1 
+* 👎💵 Derrick Nunnally
+
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices   ❓1
 * ❓💵 Candice Bock
+
+### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers   ❓1
+* ❓💵 Derrick Nunnally
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings   ❓1
 * ❓💵 Derrick Nunnally
@@ -304,17 +310,29 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
+
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.   ❓1
 * ❓💵 Derrick Nunnally
 
+### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 * 👍💵 Carl Schroeder
+
+### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+* 👎💵 Carl Schroeder
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓💵 Steven Ellis
+
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
 * ❓💵 Steven Ellis
@@ -326,6 +344,9 @@
 * ❓💵 Derrick Nunnally
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
+
+### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
+* 👍💵 Steven Ellis
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -522,7 +543,8 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍2  
@@ -545,11 +567,17 @@
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings   ❓1
 * ❓💵 Derrick Nunnally
 
+### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
+* 👍💵 Candice Bock
+
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers   ❓1
+* ❓💵 Derrick Nunnally
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.   ❓1
 * ❓💵 Derrick Nunnally
@@ -565,6 +593,9 @@
 
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓💵 Steven Ellis
+
+### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+* ❓💵 Carl Schroeder
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎2 
 * 👎💵 Carl Schroeder

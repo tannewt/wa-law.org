@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Human Services (HS): SB 6024 DD res. service providers
-Sign up to testify:
+#### 8 👍 - Pro
+Testifying:
+* Scott Livengood - [Community Residential Services Association](/org/community_residential_services_association/)
+* Jennifer Lengyel - [Community Residential Services Association](/org/community_residential_services_association/)
 
-#### 2 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

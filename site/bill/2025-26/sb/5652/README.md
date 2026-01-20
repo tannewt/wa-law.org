@@ -14,15 +14,17 @@
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
 Sign up to testify:
 
-#### 9 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Brian Davis
 * Chad Rains
 * Karen Veloria
+* Rebecca Deming - [City of Des Moines](/org/city_of_des_moines/)
+* Marie Rule
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/18 01:30 PM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
 #### 298 👍 - Pro

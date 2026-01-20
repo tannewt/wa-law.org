@@ -31,7 +31,7 @@ Testifying:
 #### 13 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Roshelle Cleland - Washington State Coalition Against Domestic & Sexual Violence (WSCADV)
+* 💵Roshelle Cleland - Washington State Coalition Against Domestic & Sexual Violence (WSCADV)
 * Beth Leonard - Washington State Office of Civil Legal Aid
 * Derek VanSpoor - Retired Public Employees Council of WA
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

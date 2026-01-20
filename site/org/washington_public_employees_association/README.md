@@ -68,10 +68,15 @@
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
 
-### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
+### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍2  
 * 👍💵 Sam Tinsley
 
+### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
+
 ### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
+
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
+* 👍💵 Seamus Petrie
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Seamus Petrie
@@ -79,6 +84,10 @@
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
 ### [HB 2309](/bill/2025-26/hb/2309/) - Reducing barriers to state employment by eliminating postgraduate degree requirements that are unnecessary. 👍1  
+
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+
+### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
@@ -149,15 +158,22 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
 * 👍💵 Seamus Petrie
 
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
+### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍2  
+
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Seamus Petrie
+
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
+
+## [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓💵 Seamus Petrie
+### [SB 6053](/bill/2023-24/sb/6053/) - Domestic workers 👍1  
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 

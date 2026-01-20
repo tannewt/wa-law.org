@@ -61,20 +61,28 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
-### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
+### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍2  
 
 ### [HB 2230](/bill/2025-26/hb/2230/) - Streamlining monitoring and oversight activities related to community residential service business providers. 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Ramona Hattendorf
 
 ### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
 
+### [HB 2323](/bill/2025-26/hb/2323/) - Traffic stops/blue envelope 👍1  
+
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member. 👍1  
 
 ### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
 
+### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force   ❓1
+
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
+
+### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
@@ -177,6 +185,8 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
+### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
+
 ### [SB 5969](/bill/2025-26/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans.  👎2 
 * 👎💵 Ramona Hattendorf
 
@@ -186,11 +196,17 @@
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
 * ❓💵 Ramona Hattendorf
 
-## [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
+### [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
+
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
+
+### [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## 2023-24
 
-### [SB 6024](/bill/2023-24/sb/6024/) - DD res. service providers 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

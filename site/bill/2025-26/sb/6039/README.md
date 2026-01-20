@@ -8,10 +8,13 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 6039 LNI communication methods
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Rachel Hamar - Washington State Association for Justice
+* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO

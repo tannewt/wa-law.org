@@ -6,17 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205978)
+
 ## Meetings
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5978 Guaranteed admissions prg.
-Sign up to testify:
-
-#### 19 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Melissa Beard - Council of Presidents
 * Bill Lyne - United Faculty of Washington State
 * Omkar Page
 * Jeff Charbonneau - Zillah High School
+* Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
+* Jonathan Lin
+* Kaushal Rao
+* Hugo Huang
+* Ishan Sharma
+* Jayden Hong
+* 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
+* 💵Christopher Rosenquist - Associated Students of Western Washington University
+* Natalya Yudkovsky - Washington State PTA
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 0 👎 - Con
+#### 171 👎 - Con
 
 #### 0 ❓ - Other

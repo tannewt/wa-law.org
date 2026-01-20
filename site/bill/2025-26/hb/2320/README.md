@@ -6,14 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=2320)
+
 ## Meetings
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2320 Firearm manufacturing
 Sign up to testify:
 
-#### 149 👍 - Pro
+#### 708 👍 - Pro
+Testifying:
+* Brooke Gardner
+* Anika Mallett
+* Anika Mallett
 
-#### 7 👎 - Con
+#### 165 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - National Rifle Association - Institute for Legislative Action
+* Michael McKinley
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

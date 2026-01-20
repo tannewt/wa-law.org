@@ -11,7 +11,7 @@
 * 👍 Chelsea Cordoba
 * 👍 Marquesse Miguelle Christinia
 
-## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍207  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍207  
 * 👍 Allan Belton
 * 👍 Hector Marmolejo-Avila
 * 👍 Juleana Salazar Sandoval
@@ -20,17 +20,11 @@
 * 👍 Lusero Ramirez
 * 👍 Shariah Bell
 * 👍 Treva Esmailka
+
+## [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ## 2023-24
 
-### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍207  
-* 👍 Allan Belton
-* 👍 Hector Marmolejo-Avila
-* 👍 Juleana Salazar Sandoval
-* 👍 Nex Sherbahn
-* 👍 Diamond Casiano-Reyes
-* 👍 Lusero Ramirez
-* 👍 Shariah Bell
-* 👍 Treva Esmailka
+### [SB 5906](/bill/2023-24/sb/5906/) - Data and personal safety 👍1  
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  

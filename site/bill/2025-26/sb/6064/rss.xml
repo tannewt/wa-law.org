@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6064/</link>
 		<description>Updates about SB 6064</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 12:31:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 10:04:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Seth/Henderson/2026-01-16 12:31:53</guid>
+		</item>
+		<item>
+			<title>👎💵Josh Weiss - Snohomish County</title>
+			<description>Josh Weiss signed up to testify Con. They are signed up to represent Snohomish County. They are a registered lobbyist.</description>
+			<pubDate>Sun, 18 Jan 2026 03:29:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Josh/Weiss/2026-01-18 03:29:56</guid>
+		</item>
+		<item>
+			<title>👍Bob Chief Eastman - South County Fire</title>
+			<description>Bob Chief Eastman signed up to testify Pro. They are signed up to represent South County Fire.</description>
+			<pubDate>Mon, 19 Jan 2026 06:14:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bob/Chief Eastman/2026-01-19 06:14:19</guid>
+		</item>
+		<item>
+			<title>👍Dave Chief Sherman - South County Fire</title>
+			<description>Dave Chief Sherman signed up to testify Pro. They are signed up to represent South County Fire.</description>
+			<pubDate>Mon, 19 Jan 2026 06:14:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dave/Chief Sherman/2026-01-19 06:14:19</guid>
+		</item>
+		<item>
+			<title>👍💵David Foster - South County Fire</title>
+			<description>David Foster signed up to testify Pro. They are signed up to represent South County Fire. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 06:14:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Foster/2026-01-19 06:14:19</guid>
+		</item>
+		<item>
+			<title>👍Ryan White - Tulalip Bay fire department</title>
+			<description>Ryan White signed up to testify Pro. They are signed up to represent Tulalip Bay fire department.</description>
+			<pubDate>Mon, 19 Jan 2026 10:04:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/White/2026-01-19 10:04:04</guid>
 		</item>
 	</channel>
 </rss>

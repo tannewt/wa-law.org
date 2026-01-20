@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2260/</link>
 		<description>Updates about HB 2260</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 21:34:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 03:44:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,14 +60,30 @@
 			<description>News article "The Week Ahead: January 19-23, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:23:25 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202260</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202260</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 19-23, 2026 | Washington State House Republicans</title>
 			<description>News article "The Week Ahead: January 19-23, 2026 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202260</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202260</guid>
+		</item>
+		<item>
+			<title>👎Sharon Hanek - Initiative Activist</title>
+			<description>Sharon Hanek signed up to testify Con.</description>
+			<pubDate>Sun, 18 Jan 2026 12:53:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Hanek/2026-01-18 12:53:46</guid>
+		</item>
+		<item>
+			<title>👎Brian Heywood - Initiative Activist</title>
+			<description>Brian Heywood signed up to testify Con.</description>
+			<pubDate>Mon, 19 Jan 2026 03:44:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Heywood/2026-01-19 03:44:46</guid>
 		</item>
 	</channel>
 </rss>

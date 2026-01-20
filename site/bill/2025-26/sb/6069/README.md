@@ -8,14 +8,17 @@
 
 ## 📰 Articles
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206069)
+* 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=SB%206069)
 
 ## Meetings
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 Sign up to testify:
 
-#### 24 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Kitty Klitzke - Councilmember, City of Spokane City Council
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

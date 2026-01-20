@@ -55,6 +55,8 @@
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍4  
 
+### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍1  
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
@@ -75,6 +77,8 @@
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
 
 ### [HB 2185](/bill/2025-26/hb/2185/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
+### [HB 2246](/bill/2025-26/hb/2246/) - Updating policies for elementary and secondary school students with firearm violations.  👎1 
 
 ### [HB 2253](/bill/2025-26/hb/2253/) - Concerning updates to the licensing division of the department of children, youth, and families. 👍1  
 
@@ -159,6 +163,8 @@
 ### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
 
 ### [SB 5873](/bill/2025-26/sb/5873/) - Concerning escorted leaves of absence for incarcerated individuals. 👍1  
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 

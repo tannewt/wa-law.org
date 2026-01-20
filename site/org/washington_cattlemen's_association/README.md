@@ -44,13 +44,16 @@
 * 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
 
-## [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation 👍2  
+### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation 👍2  
 * 👍💵 Mark Streuli
+
+## [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations   ❓1
+* ❓💵 Mark Streuli
 
 ## 2023-24
 
-### [SB 5590](/bill/2023-24/sb/5590/) - Livestock wolf predation 👍2  
-* 👍💵 Mark Streuli
+### [SB 5960](/bill/2023-24/sb/5960/) - Ungulate populations   ❓1
+* ❓💵 Mark Streuli
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

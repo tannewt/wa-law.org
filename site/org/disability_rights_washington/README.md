@@ -76,14 +76,26 @@
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 * 👍💵 Cecelia Black
 
+### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
+
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎1 
 * 👎💵 Kimberly Mosolf
+
+### [HB 2246](/bill/2025-26/hb/2246/) - Updating policies for elementary and secondary school students with firearm violations.  👎1 
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+* 👍 Jenn Hendersen
+* 👍 Jenn Hendersen
 
 ### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
 * 👍💵 Chloe Merino
 
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+
 ### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍1  
 * 👍💵 Chloe Merino
+
+### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
@@ -117,13 +129,17 @@
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
 * 👍💵 Rachael Seevers
 
+### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
+
 ### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing. 👍1  
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

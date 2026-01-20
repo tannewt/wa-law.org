@@ -64,6 +64,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
 
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+* 👍 Andrew Villeneuve
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍4  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
@@ -116,6 +119,9 @@
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+* 👍 Andrew Villeneuve
 
 ## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍 Seth Boun

@@ -43,6 +43,8 @@
 
 ### [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions 👍1  
 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Altinay Karasapan
 
@@ -70,11 +72,15 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 Leah Missik
 
+### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
+
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
 * 👍💵 Leah Missik
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍2  
 * 👍💵 Leah Missik
+
+### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Leah Missik
@@ -82,6 +88,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎2 
 * 👎💵 Leah Missik
 * 👎💵 Leah Missik
+
+### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
+* 👍💵 Leah Missik
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎2 
 * 👎💵 Leah Missik

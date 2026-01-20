@@ -10,7 +10,7 @@
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5835 Lump sum retirement payments
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

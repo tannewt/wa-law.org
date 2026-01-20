@@ -7,18 +7,26 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202102)
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202102)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202102)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202102)
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2102 Legal financial obligations
 Sign up to testify:
 
-#### 32 👍 - Pro
+#### 243 👍 - Pro
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Jacob Kuykendall
+* 💵Marcy Bowers - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Gus Patel-Tupper
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Matija Ponton
+* Cassia Hershenow - [Civil Survival](/org/civil_survival/)
 
-#### 0 👎 - Con
+#### 50 👎 - Con
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kevin Underwood - Northwest Collectors Association
 
 #### 0 ❓ - Other

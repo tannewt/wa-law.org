@@ -10,9 +10,9 @@
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6061 Tourism assessment
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

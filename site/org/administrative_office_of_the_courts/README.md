@@ -55,7 +55,7 @@
 * 👍 Christopher Stanley
 * 👍 Brittany Gregory
 
-### [SB 5865](/bill/2025-26/sb/5865/) - Concerning garnishment forms. 👍1  
+### [SB 5865](/bill/2025-26/sb/5865/) - Garnishment forms 👍1  
 
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍 Christopher Stanley

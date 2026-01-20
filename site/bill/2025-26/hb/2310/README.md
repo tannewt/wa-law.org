@@ -8,10 +8,13 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2310 Sexually motivated assault
-Sign up to testify:
+#### 319 👍 - Pro
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 5 👍 - Pro
-
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 1 ❓ - Other

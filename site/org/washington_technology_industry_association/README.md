@@ -47,11 +47,15 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate  👎1 
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
+
+## [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots  👎1 
+* 👎💵 Amy Harris
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes  👎1 
+### [SB 5984](/bill/2023-24/sb/5984/) - AI companion chatbots  👎1 
+* 👎💵 Amy Harris
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

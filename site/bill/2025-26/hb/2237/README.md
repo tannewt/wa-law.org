@@ -10,7 +10,7 @@
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2237 Deputy state fire marshals
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Sam Tinsley - [Washington Public Employees Association](/org/washington_public_employees_association/)
 

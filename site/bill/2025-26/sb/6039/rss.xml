@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6039/</link>
 		<description>Updates about SB 6039</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 08 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 07:04:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-08/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Tammy Fellin - Department of Labor &amp; Industries</title>
+			<description>Tammy Fellin signed up to testify Pro. They are signed up to represent Department of Labor &amp; Industries.</description>
+			<pubDate>Sun, 18 Jan 2026 04:02:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammy/Fellin/2026-01-18 04:02:09</guid>
+		</item>
+		<item>
+			<title>❓Rachel Hamar - Washington State Association for Justice</title>
+			<description>Rachel Hamar signed up to testify Other. They are signed up to represent Washington State Association for Justice.</description>
+			<pubDate>Sun, 18 Jan 2026 04:32:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rachel/Hamar/2026-01-18 04:32:04</guid>
+		</item>
+		<item>
+			<title>❓💵Carissa Larsen - Washington State Labor Council, AFL-CIO</title>
+			<description>Carissa Larsen signed up to testify Other. They are signed up to represent Washington State Labor Council, AFL-CIO. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 07:04:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carissa/Larsen/2026-01-19 07:04:33</guid>
 		</item>
 	</channel>
 </rss>

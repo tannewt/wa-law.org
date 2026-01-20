@@ -10,8 +10,12 @@
 ### Tue 01/20 01:30 PM - Health Care & Wellness (HCW): HB 2155 Use of nursing titles
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 207 👍 - Pro
+Testifying:
+* Emily Kay - Washington State Nurses Association (WSNA)
+* 💵Jessica Hauffe - Washington State Nurses Association (WSNA)
+* Delores Prescott - SEIU Healthcare 1199NW
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -30,7 +30,8 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
-### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍2  
+* 👍 Preston Tucker
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
@@ -49,8 +50,10 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
+
+## [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ## 2023-24
 
-## [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍1  
+## [SB 5906](/bill/2023-24/sb/5906/) - Data and personal safety 👍1  

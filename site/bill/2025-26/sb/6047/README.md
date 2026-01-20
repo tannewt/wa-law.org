@@ -8,10 +8,13 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 6047 State capital projects
-Sign up to testify:
-
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Joel Ing - Edge Developers
+* Lua Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joel Hansen - Ameresco

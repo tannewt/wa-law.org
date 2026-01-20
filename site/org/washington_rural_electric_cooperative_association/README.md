@@ -1,6 +1,9 @@
 # Washington Rural Electric Cooperative Association
 ## 2025-26
 
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention  👎1 
+* 👎💵 Sheri Nelson
+
 ## [SB 5445](/bill/2025-26/sb/5445/) - Distributed energy resources 👍1  
 * 👍💵 Samantha Louderback
 

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/14/2026 [Washington State Standard](/org/washington_state_standard/) - [How Washington state lawmakers want to regulate AI • Washington State Standard](https://washingtonstatestandard.com/2026/01/14/how-washington-state-lawmakers-want-to-regulate-ai/#:~:text=House%20Bill%201170)

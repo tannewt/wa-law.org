@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2246/</link>
 		<description>Updates about HB 2246</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 21:34:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jan 2026 11:38:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -20,14 +20,37 @@
 			<description>News article "The Week Ahead: January 19-23, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:23:25 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202246</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202246</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: January 19-23, 2026 | Washington State House Republicans</title>
 			<description>News article "The Week Ahead: January 19-23, 2026 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202246</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202246</guid>
+		</item>
+		<item>
+			<title>👎💵Karen Pillar - TeamChild</title>
+			<description>Karen Pillar signed up to testify Con. They are signed up to represent TeamChild. They are a registered lobbyist.</description>
+			<pubDate>Sun, 18 Jan 2026 01:25:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Karen/Pillar/2026-01-18 01:25:22</guid>
+		</item>
+		<item>
+			<title>See you at Focus Day! - WSPTA</title>
+			<description>News article "See you at Focus Day! - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 19 Jan 2026 06:41:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202246</guid>
+		</item>
+		<item>
+			<title>❓Misha Cherniske - Office of Superintendent of Public Instruction</title>
+			<description>Misha Cherniske signed up to testify Other. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Mon, 19 Jan 2026 11:38:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Misha/Cherniske/2026-01-19 11:38:45</guid>
 		</item>
 	</channel>
 </rss>

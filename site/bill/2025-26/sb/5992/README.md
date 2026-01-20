@@ -13,7 +13,7 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5992 Youth development fund
 Sign up to testify:
 
-#### 28 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * 💵Radu Smintina - School's Out Washington
 * Johnnie McRae
@@ -25,7 +25,11 @@ Testifying:
 * Noa Mittelman - Lake Washington High School
 * Jolynn Kenney - MENTOR Washington
 * Erica Limon-Trefielo - Communities in Schools of Washington
+* Amelie Madison
+* Elise Roe
+* Angelo Celleti
+* Meghan Francis - Confederated Tribes of the Colville Reservation
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

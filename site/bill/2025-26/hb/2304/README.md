@@ -7,18 +7,19 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202304)
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202304)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202304)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202304)
 * 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026/01/14/2026-washington-legislature-catches-breath-on-housing/#:~:text=HB%202304)
 
 ## Meetings
 ### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2304 Condominium warranties
 Sign up to testify:
 
-#### 73 👍 - Pro
+#### 236 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

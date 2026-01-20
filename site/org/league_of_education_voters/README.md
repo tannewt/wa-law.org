@@ -68,11 +68,13 @@
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
-## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+
+## [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
 ## 2023-24
 
-### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 5978](/bill/2023-24/sb/5978/) - Guaranteed admissions prg. 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎2 
 

@@ -42,7 +42,8 @@
 
 ### [HB 2133](/bill/2025-26/hb/2133/) - Making the property tax exemption for multipurpose senior citizen centers permanent. 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
+* 👍 Dan Wise
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 

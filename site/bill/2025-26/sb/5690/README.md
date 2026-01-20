@@ -9,13 +9,17 @@
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Transportation (TRAN): SSB 5690 Utility relocation
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 49 👍 - Pro
+Testifying:
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* 💵Bill Clarke - WA PUD Association
+* Ian Cope - Grays Harbor PUD
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Greg Gachowsky - Washington State Department of Transportation
 
 ### Mon 03/17 04:00 PM - Transportation (TR): SSB 5690 Utility relocation
 #### 42 👍 - Pro

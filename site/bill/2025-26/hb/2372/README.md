@@ -7,15 +7,25 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202372)
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202372)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202372)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202372)
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2372 Workers' compensation
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 103 👍 - Pro
+Testifying:
+* Bill Hochberg - Washington State Association for Justice
+* Danielle Green - Cement masons and plasterers
+* Danielle Green
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - OPCMIA local 528
 
-#### 1 👎 - Con
+#### 62 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries

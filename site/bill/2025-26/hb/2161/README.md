@@ -7,17 +7,25 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202161)
-* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202161)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202161)
+* 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202161)
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2161 AGO investigation powers
 Sign up to testify:
 
-#### 23 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Elaine Simons - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Jeremiah Miller - Fair Work Center & Working Washington
+* Patricio Marquez - Attorney General's Office
+* 💵Samantha Grad - Teamsters 117
 
-#### 1 👎 - Con
+#### 230 👎 - Con
+Testifying:
+* Ryan Lufkin - WACOPS - Washington Council of Police and Sheriffs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Melody Brand
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)

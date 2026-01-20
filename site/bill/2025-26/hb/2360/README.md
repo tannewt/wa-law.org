@@ -6,12 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202360)
+
 ## Meetings
 ### Mon 01/19 01:30 PM - Education (ED): HB 2360 Albuterol access in schools
-Sign up to testify:
+#### 113 👍 - Pro
+Testifying:
+* Deborah Liptzin - Seattle Children's
+* Leslie Maxwell
+* 💵Erica Hallock - School Nurse Organization of Washington
+* Lynnette Ondeck - School Nurse Organization of Washington
+* Wendy Jones - School Nurse Organization of Washington
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* Robin Ortenberg
 
-#### 2 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Danielle Harvey

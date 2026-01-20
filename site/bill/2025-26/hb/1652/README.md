@@ -11,20 +11,27 @@
 
 ## Meetings
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
-Sign up to testify:
-
-#### 285 👍 - Pro
+#### 1771 👍 - Pro
 Testifying:
 * Adam Lough - Washington Physicians for Social Responsibility
+* Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
+* Kirsten Kane - Friends of the San Juans
+* MirMattia Ottaviani - Washington Yacht Club
+* Rein Attemann - [Washington Conservation Action](/org/washington_conservation_action/)
 
-#### 3 👎 - Con
+#### 122 👎 - Con
 Testifying:
 * Donald Brown - Cruise Lines International Association (CLIA)
 * Kyle Burleson - [The American Waterways Operators](/org/the_american_waterways_operators/)
+* 💵Amber Carter - Columbia River Steamship Operators Association (CRSOA)
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Don Gourlie - Puget Sound Partnership
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* John Worthington
 
 ### Tue 02/04 04:00 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
 #### 525 👍 - Pro
