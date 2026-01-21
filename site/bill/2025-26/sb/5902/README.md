@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5902 Voter notifications & forms
-Sign up to testify:
-
-#### 28 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
+* Stuart Holmes - Office of the Secretary of State, Director of Elections
 
-#### 63 👎 - Con
+#### 77 👎 - Con
 
 #### 0 ❓ - Other

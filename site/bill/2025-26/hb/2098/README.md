@@ -18,7 +18,7 @@
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2098 Higher education funding
 Sign up to testify:
 
-#### 124 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * 💵John Burbank
 * Janeen Contractor
@@ -30,7 +30,8 @@ Testifying:
 * Bill Lyne - United Faculty of Washington State
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
+* Angelita Cervantes - Communities for Our Colleges
 
-#### 425 👎 - Con
+#### 670 👎 - Con
 
 #### 1 ❓ - Other

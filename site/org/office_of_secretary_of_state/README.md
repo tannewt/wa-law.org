@@ -62,6 +62,12 @@
 
 ### [HB 2252](/bill/2025-26/hb/2252/) - State historical records 👍1  
 
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda  👎1 
+* 👎 Steve Hobbs
+
+### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions  👎1 
+* 👎 Steve Hobbs
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 

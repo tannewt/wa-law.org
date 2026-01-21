@@ -91,6 +91,8 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
+### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓3

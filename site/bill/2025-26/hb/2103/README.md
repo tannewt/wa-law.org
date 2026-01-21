@@ -8,20 +8,21 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2103 Electric/public contracts
-Sign up to testify:
-
-#### 77 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Amanda Wallner - [City of Richland](/org/city_of_richland/)
 * 💵Nicolas Garcia - WPUDA
 * Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
+* Fereshteh Bunk - Mothers for Nuclear
 
-#### 227 👎 - Con
+#### 273 👎 - Con
 Testifying:
 * Cathryn Chudy
 * Roger Lippman
 * Curtis Eschels - Self
 * Kathleen M Saul - [Sierra Club](/org/sierra_club/)
 * Virginia Lohr
+* Ruth Williams
+* Nancy Morris
 
 #### 0 ❓ - Other

@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2388 Distributed energy/ag. lands
-Sign up to testify:
-
-#### 134 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Lily Storbeck - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 641 👎 - Con
+#### 734 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

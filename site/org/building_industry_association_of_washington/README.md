@@ -196,6 +196,9 @@
 
 ### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
 
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+* 👍💵 Bill Stauffacher
+
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management  👎1 
 * 👎💵 Andrea Smiley
 

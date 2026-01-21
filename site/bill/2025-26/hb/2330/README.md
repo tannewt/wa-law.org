@@ -10,8 +10,8 @@
 ### Thu 01/22 01:30 PM - Capital Budget (CB): HB 2330 State campus district energy
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

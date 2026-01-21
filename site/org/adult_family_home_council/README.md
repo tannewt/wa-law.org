@@ -9,6 +9,8 @@
 ### [SB 5672](/bill/2025-26/sb/5672/) - Home care aide certification 👍1  
 * 👍 Amy Thomas
 
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments   ❓1
+
 ## [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍2  
 * 👍💵 Amina Teouri
 

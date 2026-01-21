@@ -7,6 +7,10 @@
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention  👎1 
+
+### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎3 
 * 👎💵 Andy Barth
 

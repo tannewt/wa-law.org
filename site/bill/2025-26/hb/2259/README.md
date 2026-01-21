@@ -16,15 +16,27 @@
 ### Wed 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 2259 Initiatives and referenda
 Sign up to testify:
 
-#### 807 👍 - Pro
+#### 907 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Hanna Floss
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Debbie Borek
+* 💵Adam Glickman - SEIU 775
+* Brie Gyncild
+* Hanna Floss
+* Louise Pathe
+* Vicki Bates
+* Kathleen Heiman
+* Lauren Dandridge
+* Thomas Marsland
+* Naida Spencer
+* Steven McCray
+* Laurel Fish
 
-#### 971 👎 - Con
+#### 1977 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Tim Eyman - Initiative Activist
@@ -34,5 +46,14 @@ Testifying:
 * Hongye Sun
 * Jane Ci
 * Eric Pratt - America
+* Teagan Levine
+* Tim Eyman - Initiative Activist
+* Kan Qiu - American Coalition for Equality
+* Emily Shi
+* Sam Reed - Former Secretary of State
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Linda Yang
+* Robyn Balcom
+* Brian Heywood
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

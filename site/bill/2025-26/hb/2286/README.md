@@ -13,8 +13,13 @@
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2286 Social worker licensure
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Lara Okoloko - Washington State Society for Clinical Social Work
+* Ben Packard - Washington Society for Clinical Social Work
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Dr. Stacey Hardy-Chandler - Association of Social Work Boards
 
 #### 0 ❓ - Other

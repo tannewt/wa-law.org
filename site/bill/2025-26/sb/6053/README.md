@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6053 Domestic workers
-Sign up to testify:
-
-#### 439 👍 - Pro
+#### 514 👍 - Pro
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * Ana Bello
@@ -24,8 +22,11 @@ Testifying:
 * Laura Coffee
 * Reina Castillo
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
+* Hibist Tigabu
+* Odessa Paule
+* Cindy Tan
 
-#### 89 👎 - Con
+#### 162 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

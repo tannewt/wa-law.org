@@ -33,7 +33,7 @@
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍3  
 * 👍 Cassia Hershenow
 
-### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍1  
+### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍2  
 
 ### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍6  
 * 👍💵 Prachi Dave

@@ -14,11 +14,14 @@
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2255 Litigation finance
 Sign up to testify:
 
-#### 105 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 * Kris Tefft - Washington Liability Reform Coalition
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 9 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* John Webber - Washington State Association for Justice
 
 #### 0 ❓ - Other

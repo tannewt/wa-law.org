@@ -465,6 +465,8 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 
 * 👎 Peter God
 
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
 * 👎💵 Peter Godlewski
 
@@ -473,6 +475,8 @@
 
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention  👎1 
 * 👎💵 Peter Godlewski
+
+### [HB 2279](/bill/2025-26/hb/2279/) - Agriculture/PFAS chemicals  👎1 
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship  👎1 
 * 👎💵 Peter Godlewski
@@ -489,6 +493,8 @@
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
 
 ### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+
+### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍1  
 
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant   ❓1
 * ❓💵 Peter Godlewski
@@ -660,8 +666,9 @@
 ### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
 * 👍💵 Peter Godlewski
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 ❓2
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 ❓3
 * 👎💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 

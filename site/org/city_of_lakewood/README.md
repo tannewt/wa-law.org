@@ -35,6 +35,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎4 
@@ -55,7 +57,7 @@
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  ❓1
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 

@@ -8,6 +8,9 @@
 * 👍💵 Logan Bahr
 * 👍💵 Logan Bahr
 
+### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist 👍1  
+* 👍💵 Marian Dacca
+
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 * 👍💵 Logan Bahr
 

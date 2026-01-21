@@ -8,17 +8,19 @@
 
 ## 📰 Articles
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202159)
+* 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202159)
 
 ## Meetings
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 2159 PreK promise account
 Sign up to testify:
 
-#### 196 👍 - Pro
+#### 242 👍 - Pro
 Testifying:
 * Andi Smith - Ballmer Group
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Tana Senn - Department of Children, Youth and Families
+* Mary Sprute Garlant - Office of Governor Ferguson
 
-#### 4 👎 - Con
+#### 63 👎 - Con
 
 #### 0 ❓ - Other

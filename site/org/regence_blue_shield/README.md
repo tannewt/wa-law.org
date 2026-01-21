@@ -15,6 +15,9 @@
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications.  👎1 
 * 👎💵 Carrie Tellefson
 
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
+* 👎💵 Carrie Tellefson
+
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
 ## [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 

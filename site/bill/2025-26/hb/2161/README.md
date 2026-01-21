@@ -12,20 +12,21 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2161 AGO investigation powers
-Sign up to testify:
-
-#### 192 👍 - Pro
+#### 214 👍 - Pro
 Testifying:
 * Elaine Simons - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Jeremiah Miller - Fair Work Center & Working Washington
 * Patricio Marquez - Attorney General's Office
 * 💵Samantha Grad - Teamsters 117
 
-#### 230 👎 - Con
+#### 373 👎 - Con
 Testifying:
 * Ryan Lufkin - WACOPS - Washington Council of Police and Sheriffs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Melody Brand
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* 💵Rose Gundersen - WA Retail Association

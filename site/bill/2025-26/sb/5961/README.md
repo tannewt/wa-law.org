@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Washington United Way's Advocate for Affordable Child Care, Housing, and Early Literacy in 2026 Legislative Session - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01202026#:~:text=SB%205961)
+
 ## Meetings
 ### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5961 Imagination library program
 #### 13 👍 - Pro

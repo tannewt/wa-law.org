@@ -130,10 +130,11 @@
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍4  
 * 👍💵 Altinay Karasapan
 * 👍💵 Altinay Karasapan
 * 👍💵 Altinay Karasapan
+* 👍💵 Leah Missik
 
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍💵 Leah Missik

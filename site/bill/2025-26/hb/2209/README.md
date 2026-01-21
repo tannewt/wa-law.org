@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2209 Stolen property/sentencing
-Sign up to testify:
-
-#### 125 👍 - Pro
+#### 279 👍 - Pro
 Testifying:
 * Ken Roske - City of Pasco, Police Chief
 * Eric Marlowe - Washington Organized Crime Association
@@ -18,10 +16,15 @@ Testifying:
 * Brian Jordan - Renton Police Department, Detective
 * Carl Kleinknecht - Washington Organized Crime Association
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Kyle Moore - City of Kent/ Government Affairs Manager
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Mark McAvoy - [City of Liberty Lake](/org/city_of_liberty_lake/)
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* Matthew Thomas - Pierce County Prosecutor's Office
 
-#### 24 👎 - Con
+#### 65 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers and Washington Defender Association
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

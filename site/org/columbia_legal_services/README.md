@@ -89,12 +89,21 @@
 
 ### [HB 1927](/bill/2025-26/hb/1927/) - Rent payment reporting 👍1  
 
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
+
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 * 👍 Mark Bowers
 
+### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
+
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property.  👎1 
+* 👎💵 Antonio Ginatta
+
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
-### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+### [HB 2279](/bill/2025-26/hb/2279/) - Agriculture/PFAS chemicals 👍1  
+
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍2  
 * 👍💵 Sarah Nagy
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  

@@ -8,20 +8,32 @@
 
 ## 📰 Articles
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=2320)
+* 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202320)
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2320 Firearm manufacturing
 Sign up to testify:
 
-#### 708 👍 - Pro
+#### 892 👍 - Pro
 Testifying:
 * Brooke Gardner
 * Anika Mallett
 * Anika Mallett
+* Jane Clinton
+* Bryan Crutchfield
+* Jenine Lewis
+* Matt Gillingham - Lake Washington School District
+* Alexander McCourt - Johns Hopkins University
+* 💵Blair Englebrecht - Moms Demand Action
+* Lily Martin - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
+* Colin Bell - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
+* Halle Norenberg - Students Demand Action
+* Jane Weiss
 
-#### 165 👎 - Con
+#### 554 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - National Rifle Association - Institute for Legislative Action
 * Michael McKinley
+* ZVONIMIR KOKOROVIC
 
 #### 2 ❓ - Other

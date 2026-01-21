@@ -10,12 +10,16 @@
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 2207 Warehousing of alcohol
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* James Carroll
 
-#### 11 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Michael Gonzales - Teamsters Local 174
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Sam Miller - [Republic National Distributing Company](/org/republic_national_distributing_company/)

@@ -12,15 +12,16 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2314 DD RHC dental care services
-Sign up to testify:
-
-#### 35 👍 - Pro
+#### 63 👍 - Pro
+Testifying:
+* Ashley Fueston - AFSCME Council 28/Washington Federation of State Employees (WFSE)
+* Karina Tharge
 
 #### 4 👎 - Con
 Testifying:
 * 💵Shawn Latham - Self Advocates In Leadership
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Cathy Murahashi - The Arc of Washington

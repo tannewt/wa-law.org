@@ -63,6 +63,11 @@
 * ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
+### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
+
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
+* 👍 George Geissler
+
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship   ❓1
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
@@ -114,11 +119,16 @@
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure.   ❓1
 
-## [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing   ❓1
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing   ❓1
+
+### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
+* 👍 Evan Pierce
+
+## [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
 
 ## 2023-24
 
-### [SB 5968](/bill/2023-24/sb/5968/) - Permitting and licensing   ❓1
+### [SB 6034](/bill/2023-24/sb/6034/) - Office of Indian affairs 👍1  
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

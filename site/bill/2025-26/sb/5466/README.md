@@ -16,13 +16,30 @@
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): ESSB 5466 Electric transmission system
 Sign up to testify:
 
-#### 188 👍 - Pro
+#### 260 👍 - Pro
 Testifying:
 * Hugo Huang
+* 💵Maya Gillett - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
+* 💵Spencer Gray - NIPPC (Northwest & Intermountain Power Producers Coalition)
+* 💵Emily Moore - [Sightline Institute](/org/sightline_institute/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
+* 💵Zachariah Baker - NW Energy Coalition
+* Angus Duncan - Natural Resources Defense Council
 
-#### 0 👎 - Con
+#### 82 👎 - Con
+Testifying:
+* 💵Nicolas Garcia - WPUDA
 
-#### 0 ❓ - Other
+#### 15 ❓ - Other
+Testifying:
+* George Lynch - Washington State Department of Commerce
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Cassie Bordelon - Climate Jobs WA
+* 💵Jason Hudson - IBEW 77
+* 💵Matthew Hepner - IBEW/CEWW
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5466 Electric transmission system
 #### 168 👍 - Pro

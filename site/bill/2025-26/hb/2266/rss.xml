@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2266/</link>
 		<description>Updates about HB 2266</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 10:29:48 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jan 2026 11:36:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Council Member Kitty/Klitzke/2026-01-17 06:51:44</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202266</guid>
 		</item>
 		<item>
 			<title>❓Michael Lilliquist - City of Bellingham</title>
@@ -148,6 +155,54 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ben/Wick/2026-01-19 10:29:48</guid>
+		</item>
+		<item>
+			<title>👎Gabe Jacobs - Councilmember, City of Spokane Valley</title>
+			<description>Gabe Jacobs signed up to testify Con.</description>
+			<pubDate>Mon, 19 Jan 2026 11:16:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gabe/Jacobs/2026-01-19 11:16:02</guid>
+		</item>
+		<item>
+			<title>👍Erin Chapman-Smith - ROOTS young adult shelter</title>
+			<description>Erin Chapman-Smith signed up to testify Pro. They are signed up to represent ROOTS young adult shelter.</description>
+			<pubDate>Tue, 20 Jan 2026 02:51:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erin/Chapman-Smith/2026-01-20 02:51:53</guid>
+		</item>
+		<item>
+			<title>👍Alexia Diorio - Washington State Attorney General's Office</title>
+			<description>Alexia Diorio signed up to testify Pro. They are signed up to represent Washington State Attorney General's Office.</description>
+			<pubDate>Tue, 20 Jan 2026 08:23:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alexia/Diorio/2026-01-20 08:23:38</guid>
+		</item>
+		<item>
+			<title>👍Joe McDermott - State Relations Director | King County</title>
+			<description>Joe McDermott signed up to testify Pro. They are signed up to represent State Relations Director | King County.</description>
+			<pubDate>Tue, 20 Jan 2026 09:07:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/McDermott/2026-01-20 09:07:18</guid>
+		</item>
+		<item>
+			<title>❓Kristen Holdsworth - Long Range Planning Manager/City of Kent</title>
+			<description>Kristen Holdsworth signed up to testify Other. They are signed up to represent Long Range Planning Manager/City of Kent.</description>
+			<pubDate>Tue, 20 Jan 2026 09:48:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kristen/Holdsworth/2026-01-20 09:48:35</guid>
+		</item>
+		<item>
+			<title>👍Mary Anito - Roots Young Adult Shelter</title>
+			<description>Mary Anito signed up to testify Pro. They are signed up to represent Roots Young Adult Shelter.</description>
+			<pubDate>Tue, 20 Jan 2026 11:36:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mary/Anito/2026-01-20 11:36:03</guid>
 		</item>
 	</channel>
 </rss>

@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2316 Shrubsteppe/land use
-Sign up to testify:
-
-#### 136 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Eric Mendenhall - [City of West Richland](/org/city_of_west_richland/)
 * KARL DYE - TRIDEC
@@ -24,13 +22,19 @@ Testifying:
 * 💵Blake Baldwin - [Hayden Homes](/org/hayden_homes/)
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Haylie Matson - Community & Economic Development Planner, City of Pasco
+* 💵Ken Short - AWB
+* Jet Richardson - Tri-County Partners Habitat for Humanity
 
-#### 176 👎 - Con
+#### 204 👎 - Con
 Testifying:
 * Jennifer Godfrey
 * Bonnie Symonds
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * June BlueSpruce
 * MARY MORGAN
+* Seth Hulett - [Audubon Washington](/org/audubon_washington/)
+* Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

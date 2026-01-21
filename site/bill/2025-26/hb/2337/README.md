@@ -8,14 +8,17 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2337 Individual providers/family
-Sign up to testify:
-
-#### 77 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Katie Scheid
 * De Anna Winterrose - Benton/Franklin Parent Coalition
 * Michelle O'Dell - Thurston Mason DD Coalition
 
-#### 14 👎 - Con
+#### 58 👎 - Con
+Testifying:
+* Lee Buxton - Family Caregiver
+* Angela Mason - Family Caregiver
+* Demas Nesterenko - SEIU775
+* Yuki Hayashi - SEIU 775 BENEFITS GROUP
 
 #### 0 ❓ - Other

@@ -13,7 +13,7 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5992 Youth development fund
 Sign up to testify:
 
-#### 43 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * 💵Radu Smintina - School's Out Washington
 * Johnnie McRae
@@ -29,7 +29,10 @@ Testifying:
 * Elise Roe
 * Angelo Celleti
 * Meghan Francis - Confederated Tribes of the Colville Reservation
+* Cadence Garwood
+* Evan Pierce - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Shawn Roberts - Arts Corps
 
-#### 3 👎 - Con
+#### 47 👎 - Con
 
 #### 0 ❓ - Other

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202294)
+
 ## Meetings
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2294 Use restrictions/food, med. 
 #### 11 👍 - Pro

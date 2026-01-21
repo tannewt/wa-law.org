@@ -19,6 +19,10 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations  👎1 
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+
 ### [HJM 4001](/bill/2025-26/hjm/4001/) - Russ Blount memorial bridge 👍3  
 * 👍💵 Michael Transue
 

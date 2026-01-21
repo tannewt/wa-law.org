@@ -10,11 +10,13 @@
 ### Thu 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5971 Green fertilizer incentives
 Sign up to testify:
 
-#### 30 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Erik Kamrath - Natural Resources Defense Council
 * charlotte furner - nobody
+* Dan Holmes - [Atlas Agro](/org/atlas_agro/)
+* KARL DYE - TRIDEC
 
-#### 0 👎 - Con
+#### 428 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

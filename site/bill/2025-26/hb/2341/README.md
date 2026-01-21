@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2026 [House Democrats](/org/house_democrats/) - [WA youth push bill modernizing civic education in schools, backed by Rep. Simmons – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/16/wa-youth-push-bill-modernizing-civic-education-in-schools-backed-by-rep-simmons/#:~:text=HB%202341)
+
 ## Meetings

@@ -11,6 +11,10 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍6  
+
+### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
 * 👎💵 Dorothy Miller
 

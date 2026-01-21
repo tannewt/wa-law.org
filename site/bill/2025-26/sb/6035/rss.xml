@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6035/</link>
 		<description>Updates about SB 6035</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 10:03:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jan 2026 11:13:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Veronica/Roberts/2026-01-19 10:03:08</guid>
+		</item>
+		<item>
+			<title>❓💵Nick Federici - Verified Voting</title>
+			<description>Nick Federici signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/verified_voting/"&gt;Verified Voting&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 11:14:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Nick/Federici/2026-01-19 11:14:24</guid>
+		</item>
+		<item>
+			<title>👍Marci Carpenter - National Federation of the Blind of Washington</title>
+			<description>Marci Carpenter signed up to testify Pro. They are signed up to represent National Federation of the Blind of Washington.</description>
+			<pubDate>Tue, 20 Jan 2026 11:13:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marci/Carpenter/2026-01-20 11:13:10</guid>
 		</item>
 	</channel>
 </rss>

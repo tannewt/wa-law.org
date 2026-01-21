@@ -11,12 +11,10 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2151 Factory built structures
-Sign up to testify:
-
-#### 259 👍 - Pro
+#### 328 👍 - Pro
 Testifying:
 * Tammy Fellin - Department of Labor & Industries
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

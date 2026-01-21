@@ -202,6 +202,8 @@
 * 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
+### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 * ❓💵 Crystal Leatherman
 

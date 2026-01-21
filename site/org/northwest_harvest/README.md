@@ -30,12 +30,16 @@
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍7  
 * 👍💵 Anna Nepomuceno
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
 * ❓💵 Anna Nepomuceno
 
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
 
-### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
+
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍2  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 

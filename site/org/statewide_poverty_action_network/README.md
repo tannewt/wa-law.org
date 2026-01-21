@@ -76,12 +76,19 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍 Molly Gallagher
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
+
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 * 👍💵 Marcy Bowers
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
-### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
+### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍2  
+
+### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
+* 👍💵 Marcy Bowers
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍2  
 
@@ -153,6 +160,8 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
 * 👍 Molly Gallagher
+
+### [SB 5844](/bill/2025-26/sb/5844/) - Concerning the delivery, execution, acceptance, and provisions of individual storage space rental agreements and modifying the use of individual storage spaces after notice of termination or nonrenewal of rental agreements.  👎1 
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 

@@ -11,13 +11,11 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6034 Office of Indian affairs
-Sign up to testify:
-
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Confederated Tribes of the Chehalis Reservation 2. Confederated Tribes of the Colville Reserv.
 * Tim Reynon - Governor's Office of Indian Affairs, Executive Director
 
-#### 27 👎 - Con
+#### 58 👎 - Con
 
 #### 0 ❓ - Other

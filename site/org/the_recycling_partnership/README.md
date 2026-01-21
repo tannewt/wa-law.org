@@ -7,7 +7,7 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 * 👍 Dylan de Thomas
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍7  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍8  
 * 👍 Dylan de Thomas
 * 👍 Dylan de Thomas
 * 👍 Dylan de Thomas

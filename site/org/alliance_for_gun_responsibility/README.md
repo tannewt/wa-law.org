@@ -59,6 +59,10 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍2  
+* 👍 Lily Martin
+* 👍 Colin Bell
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  

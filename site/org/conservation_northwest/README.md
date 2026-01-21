@@ -29,6 +29,8 @@
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Nadine Nadow
 
@@ -47,6 +49,8 @@
 * ❓ Jen Syrowitz
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
+
+### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎💵 Paula Swedeen
@@ -73,7 +77,8 @@
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+* 👍💵 Nadine Nadow
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 

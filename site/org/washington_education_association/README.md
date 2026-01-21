@@ -366,6 +366,9 @@
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
+### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
+* 👍💵 Simone Boe
+
 ### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
@@ -753,13 +756,15 @@
 
 ### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education. 👍1  
 
-### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
+### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍2  
 * 👍 Jared Mason-Gere
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 * 👍 Jared Mason-Gere
+
+### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
 
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
 

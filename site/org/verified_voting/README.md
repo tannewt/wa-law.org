@@ -4,15 +4,17 @@
 ### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute.   ❓1
 * ❓ C.Jay Coles
 
-## [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting  👎1 ❓1
+### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting  👎1 ❓1
 * 👎 C. Jay Coles
 * ❓ C.Jay Coles
+
+## [SB 6035](/bill/2025-26/sb/6035/) - Voting services   ❓1
+* ❓💵 Nick Federici
 
 ## 2023-24
 
-### [SB 5017](/bill/2023-24/sb/5017/) - Uniformed & overseas voting  👎1 ❓1
-* 👎 C. Jay Coles
-* ❓ C.Jay Coles
+### [SB 6035](/bill/2023-24/sb/6035/) - Voting services   ❓1
+* ❓💵 Nick Federici
 
 ## [HB 1475](/bill/2023-24/hb/1475/) - Online ballot portal  👎1 
 * 👎 C.Jay Coles

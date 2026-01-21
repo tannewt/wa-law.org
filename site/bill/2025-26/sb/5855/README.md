@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=Senate%20Bill%205855)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=SB%205855)
 * 01/16/2026 [FOX13](/org/fox13/) - [WA bill to ban cop face coverings heads to Senate | FOX 13 Seattle](https://www.fox13seattle.com/news/face-coverings-ban-bill-wa#:~:text=Senate%20Bill%205855)
 * 01/16/2026 [KUOW](/org/kuow/) - [KUOW - Know your rights: How to navigate an ICE encounter](https://www.kuow.org/stories/know-your-rights-how-to-navigate-an-ice-encounter#:~:text=new%20bill)

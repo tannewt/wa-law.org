@@ -36,6 +36,12 @@
 
 ### [HB 2151](/bill/2025-26/hb/2151/) - Factory built structures 👍1  
 
+### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
+* 👍 Lauren McDonald
+
+### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
+* 👍💵 Katherine Mahoney
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 

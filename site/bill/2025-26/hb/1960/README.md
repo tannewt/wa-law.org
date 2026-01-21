@@ -12,11 +12,12 @@
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 1960 Renewable energy
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Lily Storbeck - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 12 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

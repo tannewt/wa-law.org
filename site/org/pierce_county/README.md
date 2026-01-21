@@ -38,6 +38,9 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
+### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations   ❓1
+* ❓💵 Michael Shaw
+
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 * 👍 Bryan Yambe
 

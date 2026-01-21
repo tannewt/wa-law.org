@@ -20,6 +20,9 @@
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
+### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
+* 👍 Lee Lambert
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍 Lee Lambert
 

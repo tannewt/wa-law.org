@@ -90,6 +90,9 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎1 
 
+### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp.   ❓1
+* ❓💵 Heather Trim
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍7  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim

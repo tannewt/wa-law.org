@@ -22,6 +22,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍2  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  

@@ -12,16 +12,21 @@
 
 ## Meetings
 ### Tue 01/20 04:00 PM - Education (ED): HB 2369 Local foods/public schools
-Sign up to testify:
-
-#### 428 👍 - Pro
+#### 455 👍 - Pro
 Testifying:
 * Chris Teeny - Farmstand Local Foods
 * Austen Urlacher
 * Preston Tucker
 * Ridley Crump
 * Preston Tucker - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* jeremy vrablik - Cascadia Produce
+* Leanne Eko - Office of Superintendent of Public Instruction
+* 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potatoe and Onion Assoc.
+* Kendra Dean - Northeast Washington Educational Service District 101
+* Rebecca 'Rey' Cooley - Washington Farm to School Network
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 23 👎 - Con
+#### 64 👎 - Con
 
 #### 1 ❓ - Other

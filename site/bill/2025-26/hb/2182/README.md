@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2026 [House Democrats](/org/house_democrats/) - [Health Care & Wellness Committee to hear Chair Bronoske’s priority bills Friday  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/15/healthcare-wellness-committee-to-hear-chair-bronoskes-priority-bills-friday/#:~:text=HB%202182)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202182)
 
 ## Meetings

@@ -116,10 +116,16 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels
 
+### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
+
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
 * 👍 Eric ffitch
+
+### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+
+### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
 
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
@@ -187,6 +193,9 @@
 * 👍 Chris Herman
 * 👍 Chris Herman
 
+### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 
+* 👎 Eric ffitch
+
 ### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍2  
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍2  ❓1
@@ -216,13 +225,14 @@
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 
-## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 * 👍 Eric ffitch
+
+## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 
 ## 2023-24
 
-### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp. 👍1  
-* 👍 Eric ffitch
+### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

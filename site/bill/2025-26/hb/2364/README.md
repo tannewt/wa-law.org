@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2364 Poverty reduction task force
-Sign up to testify:
+#### 29 👍 - Pro
+Testifying:
+* 💵Marcy Bowers - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Lori Pfingst - WA Department of Social & Health Services
 
-#### 6 👍 - Pro
-
-#### 30 👎 - Con
+#### 58 👎 - Con
 
 #### 1 ❓ - Other

@@ -7,13 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=House%20Bill%202332)
+* 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202332)
 * 01/09/2026 [House Democrats](/org/house_democrats/) - [MOCC responds to UW Study on Federal Use of State Databases for Immigration Enforcement and Escalation of Violence by ICE – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/09/mocc-statement-on-uw-study-regarding-agency-collaboration-with-ice/#:~:text=HB%202332)
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2332 Driver privacy
-Sign up to testify:
-
-#### 1736 👍 - Pro
+#### 1869 👍 - Pro
 Testifying:
 * 💵Anita Yandle - Policing Project at NYU School of Law
 * Niles Wilson - Center for Policing Equity
@@ -35,13 +35,14 @@ Testifying:
 * Patrick Stickney - WA Office of Equity
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 181 👎 - Con
+#### 313 👎 - Con
 Testifying:
 * Gregory Smith
 * Ken Roske - City of Pasco, Police Chief
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 15 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Melissa Beard - Council of Presidents
@@ -55,3 +56,6 @@ Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters
 * 💵Rowland Thompson - Verra Mobility
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Dana Ralph - Mayor/City of Kent
+* 💵Michael Shaw - King County Metro
+* Maya Morales - WA People's Privacy

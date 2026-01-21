@@ -55,7 +55,7 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 
-### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
+### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍2  
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
@@ -103,17 +103,27 @@
 
 ### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.  👎1 
 
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
+
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority  👎2 
 
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
 ### [HB 2168](/bill/2025-26/hb/2168/) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. 👍1  
 
+### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
+
 ### [HB 2203](/bill/2025-26/hb/2203/) - Creating the offense of reckless interference with emergency operations.  👎1 
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
+
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
+### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
+
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving 👍1  
 
@@ -184,7 +194,7 @@
 
 ### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
 
 ### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 
@@ -208,11 +218,15 @@
 
 ### [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+
+## [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation  👎1 
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6067](/bill/2023-24/sb/6067/) - Workers' compensation  👎1 
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

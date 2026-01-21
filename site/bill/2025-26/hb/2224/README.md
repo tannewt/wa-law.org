@@ -8,15 +8,16 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2224 Fire protection districts
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Joe Walsh - City of Washougal
 * 💵Briahna Murray - Lobbyist for the Cities of Lynden and Moses Lake
+* Harold Scoggins - Washington Metro Fire Chiefs
+* DAVID DEMARCO - EVERETT FIRE DEPARTMENT
+* John Williams - City Administrator for City of Lynden
 
-#### 36 👎 - Con
+#### 61 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

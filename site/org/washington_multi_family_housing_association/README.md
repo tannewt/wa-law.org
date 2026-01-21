@@ -1,6 +1,8 @@
 # Washington Multi Family Housing Association
 ## 2025-26
 
+### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
+
 ## [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants  👎1 
 * 👎💵 Krystelle Purkey
 

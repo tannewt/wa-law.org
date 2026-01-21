@@ -14,9 +14,20 @@
 ### Wed 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 2260 Ballot measure petitions
 Sign up to testify:
 
-#### 60 👍 - Pro
+#### 113 👍 - Pro
+Testifying:
+* 💵Damiana Merryweather
+* Ryan Hollander
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Lucia Regan
+* 💵Stephen Paolini
+* 💵Diane Bedwell
+* 💵Jordan Waits
+* Louise Pathe
+* Suzi Henriot
+* Marrene Franich
 
-#### 967 👎 - Con
+#### 1570 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Tim Eyman - Initiative Activist
@@ -25,5 +36,12 @@ Testifying:
 * Eric Lundberg
 * Sharon Hanek
 * Brian Heywood
+* Teagan Levine
+* Tim Eyman - Initiative Activist
+* Sam Reed - Washington Secretary of State 2001 to 2013
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Linda Yang
+* Kan Qiu - American Coalition for Equality
+* Anna Burt
 
 #### 0 ❓ - Other

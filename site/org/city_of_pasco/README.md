@@ -15,6 +15,10 @@
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 * 👍 Richa Sigdel
 
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓1
+
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 

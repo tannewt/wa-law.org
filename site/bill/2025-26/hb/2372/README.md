@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2372 Workers' compensation
-Sign up to testify:
-
-#### 103 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Bill Hochberg - Washington State Association for Justice
 * Danielle Green - Cement masons and plasterers
@@ -22,7 +20,7 @@ Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - OPCMIA local 528
 
-#### 62 👎 - Con
+#### 116 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 

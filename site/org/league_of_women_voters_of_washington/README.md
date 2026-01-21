@@ -82,7 +82,7 @@
 
 ### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax 👍1  
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍2  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍3  
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 
@@ -108,7 +108,11 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎3 
 
+### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  
+
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+
+### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍2  
 
@@ -186,11 +190,13 @@
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 
-## [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
+### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
+
+## [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 
 ## 2023-24
 
-### [SB 6030](/bill/2023-24/sb/6030/) - Plastic carryout bags  👎1 
+### [SB 6035](/bill/2023-24/sb/6035/) - Voting services 👍1  
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption  👎1 ❓1
 * ❓ Sherri Dysart

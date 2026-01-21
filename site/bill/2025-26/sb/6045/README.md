@@ -14,9 +14,7 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
-Sign up to testify:
-
-#### 399 👍 - Pro
+#### 495 👍 - Pro
 Testifying:
 * Iker Ramon
 * Jose Ramirez - FUJ
@@ -25,6 +23,7 @@ Testifying:
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
 * Lucy Madrigal - Community to Community
 * Jose Ochoa
+* April Sims - Washington State Labor Council, AFL-CIO
 * Giselle Ramirez Silva - Familias Unidas por la Justicia
 * Tomas Ramon - FUJ
 * Benito Lopez - Familias Unidas por la Justicia
@@ -34,7 +33,7 @@ Testifying:
 * Merado Glaya
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 
-#### 529 👎 - Con
+#### 608 👎 - Con
 Testifying:
 * Allison Schrader
 * Randy Munn
@@ -48,5 +47,9 @@ Testifying:
 * Lauren Gonzalez
 * Kellie Sundquist - Orchard & Vineyard Supply Co.
 * Timothy McDonald - Bluewater Legacy Estates
+* 💵James Crandall - AWB
+* Charlie Brown - [Washington Asparagus Commission](/org/washington_asparagus_commission/)
+* David Burnett - Burnett Orchards-Owner
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 
 #### 0 ❓ - Other

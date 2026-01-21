@@ -59,7 +59,8 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+* 👍 Bailey Medilo
 
 ## [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 

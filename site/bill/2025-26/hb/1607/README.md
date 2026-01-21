@@ -18,11 +18,18 @@
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 1607 Recycling & waste reduction
 Sign up to testify:
 
-#### 379 👍 - Pro
+#### 655 👍 - Pro
 Testifying:
 * Rebecca Thomas - Glass Packaging Institute
+* Scott DeFife - Glass Packaging Institute
+* Francisco Castillo - Diageo North America
+* Sid Shirodkar - Seattle Aquarium / Zero Waste Washington
+* Liz Donohue - Primo Brands
+* Anusha Bharadvaj
+* Isabelle Hepler
+* Paige Christensen
 
-#### 622 👎 - Con
+#### 1248 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Jay Balasbas - Sunshine Disposal, Basin Disposal, Consolidated Disposal Services, Inc.
@@ -30,11 +37,14 @@ Testifying:
 * 💵Nick Streuli - Washington Refuse and Recycling Association
 * Walter McFadden
 * 💵Jennifer Ziegler - Sanitary Service Company
+* Anthony Mixer - Citizen Volunteer Lobbyist
+* Stephanie Draszt
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Reggie Camp
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1607 Recycling & waste reduction
 #### 203 👍 - Pro

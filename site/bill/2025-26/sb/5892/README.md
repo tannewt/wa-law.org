@@ -12,17 +12,19 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5892 Voter registration database
-Sign up to testify:
-
-#### 606 👍 - Pro
+#### 692 👍 - Pro
 Testifying:
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Sam Reed - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 1687 👎 - Con
+#### 1862 👎 - Con
 Testifying:
 * Laurie Layne
+* Richard Vermeers - Richard Vermeers
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 5 ❓ - Other
 Testifying:

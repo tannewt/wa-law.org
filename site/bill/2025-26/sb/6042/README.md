@@ -13,14 +13,15 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 6042 School maps
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Battalion Chief Alex Hickey - North Kitsap Fire & Rescue
 * Lieutenant Colonel Alex Carney - US Marine Corps, Chief Strategy officer, CRG
 * Lieutenant Fred Douglas - Gig Harbor Police Department
 * School Board Chair, Dave Teague - Freeman School District
+* Anna Chou
 
-#### 1 👎 - Con
+#### 41 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

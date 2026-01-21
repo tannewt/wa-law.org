@@ -52,6 +52,9 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
+* 👍 Seth Boun
+
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
 * 👎 Cassie Clayton
 
@@ -112,6 +115,9 @@
 * 👍 Andrew Villeneuve
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+* 👍 Cassie Clayton
+
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
 * 👍 Cassie Clayton
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  

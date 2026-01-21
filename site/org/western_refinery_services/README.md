@@ -24,6 +24,8 @@
 
 ### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages  👎1 
 
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda  👎1 
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎1 

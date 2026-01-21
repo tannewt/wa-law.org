@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2103/</link>
 		<description>Updates about HB 2103</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 10:45:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jan 2026 08:54:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👎Cathryn Chudy - Energy Northwest</title>
+			<title>👎Cathryn Chudy - Mothers for Nuclear</title>
 			<description>Cathryn Chudy signed up to testify Con.</description>
 			<pubDate>Fri, 16 Jan 2026 01:12:53 GMT</pubDate>
 			<category>testifier</category>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Cathryn/Chudy/2026-01-16 01:12:53</guid>
 		</item>
 		<item>
-			<title>👎Roger Lippman - Energy Northwest</title>
+			<title>👎Roger Lippman - Mothers for Nuclear</title>
 			<description>Roger Lippman signed up to testify Con.</description>
 			<pubDate>Sat, 17 Jan 2026 09:17:00 GMT</pubDate>
 			<category>testifier</category>
@@ -85,6 +85,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Virginia/Lohr/2026-01-19 10:45:32</guid>
+		</item>
+		<item>
+			<title>👎Ruth Williams - Sierra Club</title>
+			<description>Ruth Williams signed up to testify Con.</description>
+			<pubDate>Tue, 20 Jan 2026 02:40:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ruth/Williams/2026-01-20 02:40:56</guid>
+		</item>
+		<item>
+			<title>👍Fereshteh Bunk - Mothers for Nuclear</title>
+			<description>Fereshteh Bunk signed up to testify Pro. They are signed up to represent Mothers for Nuclear.</description>
+			<pubDate>Tue, 20 Jan 2026 08:04:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Fereshteh/Bunk/2026-01-20 08:04:56</guid>
+		</item>
+		<item>
+			<title>👎Nancy Morris - Sierra Club</title>
+			<description>Nancy Morris signed up to testify Con.</description>
+			<pubDate>Tue, 20 Jan 2026 08:54:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nancy/Morris/2026-01-20 08:54:14</guid>
 		</item>
 	</channel>
 </rss>

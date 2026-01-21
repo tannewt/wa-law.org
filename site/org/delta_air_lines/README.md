@@ -6,7 +6,7 @@
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 
-### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 
+### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎2 
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 

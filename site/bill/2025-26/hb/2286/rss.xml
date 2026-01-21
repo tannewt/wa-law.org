@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2286/</link>
 		<description>Updates about HB 2286</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 06:41:12 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jan 2026 12:46:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Mon, 19 Jan 2026 06:41:12 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202286</guid>
+		</item>
+		<item>
+			<title>👍Lara Okoloko - Washington State Society for Clinical Social Work</title>
+			<description>Lara Okoloko signed up to testify Pro. They are signed up to represent Washington State Society for Clinical Social Work.</description>
+			<pubDate>Tue, 20 Jan 2026 03:06:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lara/Okoloko/2026-01-20 03:06:42</guid>
+		</item>
+		<item>
+			<title>👎Dr. Stacey Hardy-Chandler - Association of Social Work Boards</title>
+			<description>Dr. Stacey Hardy-Chandler signed up to testify Con. They are signed up to represent Association of Social Work Boards.</description>
+			<pubDate>Tue, 20 Jan 2026 10:53:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dr. Stacey/Hardy-Chandler/2026-01-20 10:53:02</guid>
+		</item>
+		<item>
+			<title>👍Ben Packard - Washington Society for Clinical Social Work</title>
+			<description>Ben Packard signed up to testify Pro. They are signed up to represent Washington Society for Clinical Social Work.</description>
+			<pubDate>Tue, 20 Jan 2026 12:46:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Packard/2026-01-20 12:46:25</guid>
 		</item>
 	</channel>
 </rss>

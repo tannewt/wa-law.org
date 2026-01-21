@@ -14,11 +14,12 @@
 ### Fri 01/23 08:00 AM - State Government & Tribal Relations (SGOV): HB 2198 Permitting and licensing
 Sign up to testify:
 
-#### 31 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Beau Perschbacher - Governor's Office
 * 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Heather Kurtenbach - Washington State Building and Construction Trades
 
 #### 0 👎 - Con
 

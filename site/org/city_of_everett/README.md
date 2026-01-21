@@ -33,6 +33,8 @@
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 
+### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
@@ -60,13 +62,21 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍 Jennifer Gregerson
 
-### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
+### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍2  
+
+### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+
+### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 * 👍 Jennifer Gregerson
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓1
 * ❓ Jennifer Gregerson
+
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+
+### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
@@ -103,6 +113,8 @@
 ### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
 
 ### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
+
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 

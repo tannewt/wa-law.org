@@ -74,6 +74,9 @@
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
 
+### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+* 👍 Nick Leonti
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
@@ -123,6 +126,8 @@
 * 👎 John Flanagan
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
+
+### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
 ### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  
 

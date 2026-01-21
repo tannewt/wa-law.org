@@ -5,6 +5,10 @@
 
 ### [HB 1544](/bill/2025-26/hb/1544/) - Child abuse risk assessment 👍1  
 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎1 
+
+### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
 ### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
@@ -31,10 +35,16 @@
 
 ### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
 
+### [HB 2183](/bill/2025-26/hb/2183/) - Requiring counties to develop and implement heat response plans. 👍1  
+
 ### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
 
 ### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages 👍2  
 * 👍 Jeremiah Miller
+
+### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
+
+### [HB 2207](/bill/2025-26/hb/2207/) - Concerning warehousing of alcohol.  👎1 
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
 
@@ -50,9 +60,17 @@
 
 ### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
 
+### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
+
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
+
+### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
+
 ### [HB 2264](/bill/2025-26/hb/2264/) - Unemployment ins./layoffs 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
@@ -80,6 +98,8 @@
 
 ### [SB 5842](/bill/2025-26/sb/5842/) - Campaign memorabilia  👎1 
 
+### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
+
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍2  
 * 👍 Jeremiah Miller
 
@@ -97,9 +117,13 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
+### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎2 
 
 ### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
+
+### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
@@ -117,15 +141,19 @@
 
 ### [SB 6014](/bill/2025-26/sb/6014/) - Pregnancy accommodations 👍1  
 
+### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
+
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
-## [SB 6058](/bill/2025-26/sb/6058/) - Wage enforcement discretion 👍1  
+### [SB 6058](/bill/2025-26/sb/6058/) - Wage enforcement discretion 👍1  
+
+## [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation 👍1  
 
 ## 2023-24
 
-### [SB 6058](/bill/2023-24/sb/6058/) - Wage enforcement discretion 👍1  
+### [SB 6067](/bill/2023-24/sb/6067/) - Workers' compensation 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

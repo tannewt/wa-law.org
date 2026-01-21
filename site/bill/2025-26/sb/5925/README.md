@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5925 AGO investigation powers
-Sign up to testify:
-
-#### 567 👍 - Pro
+#### 600 👍 - Pro
 Testifying:
 * Jeremiah Miller - Fair Work Center & Working Washington
 * Patricio Marquez - Attorney General's Office
 * 💵Samantha Grad - Teamsters 117
 
-#### 220 👎 - Con
+#### 316 👎 - Con
 Testifying:
 * Ryan Lufkin - WACOPS - Washington Council of Police and Sheriffs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 3 ❓ - Other
 Testifying:

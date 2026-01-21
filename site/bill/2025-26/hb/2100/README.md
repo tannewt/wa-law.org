@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202100)
+* 01/19/2026 [House Democrats](/org/house_democrats/) - [Public Hearing for Rep. Shaun Scott’s HB 2100, the “Well Washington Fund” revenue proposal – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/public-hearing-for-rep-shaun-scotts-hb-2100-the-well-washington-fund-revenue-proposal/#:~:text=HB 2100)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202100)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202100)
 * 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Payroll%20tax%20proposal)
@@ -20,7 +21,7 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2100 Payroll expense tax
 Sign up to testify:
 
-#### 703 👍 - Pro
+#### 1419 👍 - Pro
 Testifying:
 * Mike Yestramski - WFSE
 * Cory Miller
@@ -30,8 +31,11 @@ Testifying:
 * Lizzie Carp
 * Paula Lukaszek - Union member
 * Manousos Jacobsen - Democratic Socialists of America
+* Natalie Wellen - UAW 4121
+* Andre Stackhouse - Whole Washington
+* Seth Boun - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 2081 👎 - Con
+#### 4899 👎 - Con
 Testifying:
 * Laurie Layne
 * Eric Lundberg
@@ -54,5 +58,11 @@ Testifying:
 * Nicole Maybury
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)
 * 💵Amy Harris
+* kristine a zachary - BURNS TOWING , INC
+* Elizabeth New - Washington Policy Center
+* John Schuler - [Compass Oncology](/org/compass_oncology/)
+* Melissa Sandven
+* Jason Hunt
+* Allen Swaney
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other

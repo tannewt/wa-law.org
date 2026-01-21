@@ -47,7 +47,7 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
-### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍4  
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍6  
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍4  
 
@@ -57,7 +57,7 @@
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍2  
 
@@ -109,6 +109,8 @@
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍3  
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 

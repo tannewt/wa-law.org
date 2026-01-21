@@ -3,6 +3,9 @@
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
+### [SB 5917](/bill/2025-26/sb/5917/) - Improving access to abortion medications. 👍1  
+* 👍 Katie Eilers
+
 ## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware   ❓1
 * ❓ Holly Davies
 

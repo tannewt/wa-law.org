@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 5845 Health carrier payments
-Sign up to testify:
-
-#### 63 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Adam Dittemore - EvergreenHealth
@@ -19,10 +17,11 @@ Testifying:
 * Saravanan Kasthuri
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner

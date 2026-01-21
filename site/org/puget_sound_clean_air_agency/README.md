@@ -11,6 +11,8 @@
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 * 👍 Christine Cooley
 
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 * 👎 Christine Cooley
 

@@ -15,11 +15,17 @@
 ### Wed 01/21 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2275 Wildfire prevention
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* Allie Zachariades - Small Business Owner
+* Melissa Hunter - Gray Fire survivor
+* Brian Colón - Managing Partner, Singleton Schreiber
+* Gerald Singleton - Managing Partner, Singleton Schreiber
+* Tony Craven - WA Farm Forestry Assn. (Wildland Firefighter)
+* George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 442 👎 - Con
+#### 731 👎 - Con
 Testifying:
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * Jillian Caires - Avista Corp.
@@ -29,5 +35,11 @@ Testifying:
 * 💵Matt Steuerwalt - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Sheri Nelson - [Washington Rural Electric Cooperative Association](/org/washington_rural_electric_cooperative_association/)
 * Jan Essenburg - [Public Utility Risk Management Services](/org/public_utility_risk_management_services/)
+* Scott Richards - WA Public Utility Districts Association (WPUDA)
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Jason Callahan - Green Diamond
+* John Worthington
+* Jason Lewis - Utilities & Transportation Commission
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)

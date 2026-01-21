@@ -10,6 +10,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ LaDessa Croucher
 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+* 👍 LaDessa Croucher
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ LaDessa Croucher
 

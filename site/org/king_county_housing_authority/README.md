@@ -1,19 +1,17 @@
 # King County Housing Authority
 ## 2025-26
 
-## [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍6  
+### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍6  
 * 👍 Dan Watson
 * 👍 Tim Walter
 * 👍 Dan Watson
 * 👍 Tim Walter
+
+## [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
 
 ## 2023-24
 
-### [HB 1075](/bill/2023-24/hb/1075/) - Affordable housing financing 👍6  
-* 👍 Dan Watson
-* 👍 Tim Walter
-* 👍 Dan Watson
-* 👍 Tim Walter
+### [HB 2338](/bill/2023-24/hb/2338/) - Community weatherization 👍1  
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
 

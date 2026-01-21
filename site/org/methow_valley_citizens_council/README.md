@@ -29,6 +29,8 @@
 
 ### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
@@ -39,6 +41,10 @@
 ### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
 
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
+
+### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
@@ -64,7 +70,9 @@
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
@@ -80,7 +88,7 @@
 
 ### [SB 5722](/bill/2025-26/sb/5722/) - Local farming grant program 👍1  
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍1  
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍2  
 
 ## [SB 5749](/bill/2025-26/sb/5749/) - Housing opportunity zones 👍1  
 

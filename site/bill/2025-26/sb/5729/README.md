@@ -14,18 +14,23 @@
 ### Wed 01/21 10:30 AM - Housing (HSG): ESB 5729 Housing permitting
 Sign up to testify:
 
-#### 105 👍 - Pro
+#### 326 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Chester Baldwin - WA Business Properties Association
+* William Weber
+* Billie Volkmann
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 4 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Curtis Steinhauer - Washington Association of Counties
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/18 10:30 AM - Local Government (LG): ESB 5729 Housing permitting
 #### 174 👍 - Pro

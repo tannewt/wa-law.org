@@ -10,7 +10,7 @@
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6019 Home care rates
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
 
 #### 0 👎 - Con
 

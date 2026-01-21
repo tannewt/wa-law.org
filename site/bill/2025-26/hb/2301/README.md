@@ -10,13 +10,17 @@
 ### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
 Sign up to testify:
 
-#### 46 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Pam Johnson - Hazardous Waste Management Program
+* Rick Gilbert - Kitsap County
 
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
 #### 0 👍 - Pro

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/20 08:00 AM - Finance (FIN): HB 2135 Adaptive housing tax pref.
-Sign up to testify:
-
-#### 226 👍 - Pro
+#### 290 👍 - Pro
 Testifying:
 * Allen Acosta - Veterans Legislative Coalition
 

@@ -13,10 +13,10 @@
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5859 Competency-based assessments
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Viet Cao Minh
 
-#### 2 👎 - Con
+#### 408 👎 - Con
 
 #### 0 ❓ - Other

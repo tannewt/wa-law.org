@@ -12,17 +12,17 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6035 Voting services
-Sign up to testify:
-
-#### 26 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Julie Wise - King County Director of Elections
 * Veronica Roberts - Veterans Legislative Coalition
+* Marci Carpenter - National Federation of the Blind of Washington
 
-#### 182 👎 - Con
+#### 266 👎 - Con
 Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Erica Engelhart
+* 💵Nick Federici - [Verified Voting](/org/verified_voting/)

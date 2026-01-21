@@ -11,12 +11,18 @@
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
 * ❓💵 Michael Gempler
 
-## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
+* 👎💵 Michael Gempler
+
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers   ❓1
+* ❓💵 Michael Gempler
+
+## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
 * 👎💵 Michael Gempler
 
 ## 2023-24
 
-### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards  👎1 
+### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC  👎1 
 * 👎💵 Michael Gempler
 
 ### [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data  👎1 

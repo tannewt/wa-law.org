@@ -19,6 +19,8 @@
 
 ### [HB 2041](/bill/2025-26/hb/2041/) - Postpartum coverage  👎2 
 
+### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  

@@ -6,9 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%201974)
+
 ## Meetings
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 1974 Land banking authorities
-#### 55 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Amanda DeShazo - Tacoma-Pierce Affordable Housing Consortium
 * Matt Hoffman - Maul Foster & Alongi, Inc.
@@ -19,6 +22,7 @@ Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Erin Chapman-Smith - Roots Young Adult Shelter
 * Reggie Brown - 1DROP
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 693 👎 - Con
 

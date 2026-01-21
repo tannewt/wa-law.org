@@ -10,8 +10,8 @@
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 2128 Alcohol service/recreational
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 23 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

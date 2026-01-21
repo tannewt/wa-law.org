@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2102 Legal financial obligations
-Sign up to testify:
-
-#### 243 👍 - Pro
+#### 258 👍 - Pro
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Jacob Kuykendall
@@ -23,10 +21,13 @@ Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Matija Ponton
 * Cassia Hershenow - [Civil Survival](/org/civil_survival/)
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 50 👎 - Con
+#### 119 👎 - Con
 Testifying:
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Kevin Underwood - Northwest Collectors Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Michael Shaw - [Pierce County](/org/pierce_county/)

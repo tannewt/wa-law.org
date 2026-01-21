@@ -11,14 +11,17 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2365 Digital opportunities
-Sign up to testify:
-
-#### 41 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Will Booth - Creating Pathways
 * Dr. Shaun Glaze - BBR Academy
 * Tori Emerson - President, Washington State PTA
+* Nancy Chang - Legislative District 10 Constituent
+* Sonee Kulaga Wilson Kulaga Wilson - Tri-Cities Diversity & Inclusion Council
+* Yekaterina Yefimova - Legislative District 36 Constituent
 
-#### 95 👎 - Con
+#### 152 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce

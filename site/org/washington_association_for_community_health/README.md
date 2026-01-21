@@ -39,7 +39,8 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍2  
+* 👍💵 Alyssa Patrick
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 

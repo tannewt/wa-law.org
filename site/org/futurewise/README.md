@@ -104,6 +104,8 @@
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
+
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.  👎1 
 * 👎💵 Bryce Yadon
 
@@ -144,8 +146,9 @@
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
 * ❓💵 Bryce Yadon
 
-### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs   ❓1
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs  👎1 ❓1
 * ❓💵 Bryce Yadon
+* 👎💵 Bryce Yadon
 
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓2
 * ❓💵 Bryce Yadon
@@ -190,7 +193,8 @@
 ### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development  👎1 
 * 👎💵 Bryce Yadon
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎3 
+* 👎💵 Bryce Yadon
 * 👎💵 Bryce Yadon
 
 ### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 

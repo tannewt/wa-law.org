@@ -16,7 +16,7 @@
 
 ### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
 
-### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍2  
 * 👍💵 Alizeh Bhojani
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
@@ -34,12 +34,12 @@
 
 ### [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion. 👍1  
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
 * 👍💵 Alizeh Bhojani
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍2  
 * 👍💵 Alizeh Bhojani
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  

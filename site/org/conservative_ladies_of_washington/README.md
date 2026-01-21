@@ -101,6 +101,8 @@
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions.  👎1 
 
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda  👎1 
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
@@ -200,7 +202,10 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 
-### [SB 5917](/bill/2025-26/sb/5917/) - Improving access to abortion medications.  👎1 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety  👎1 
+
+### [SB 5917](/bill/2025-26/sb/5917/) - Improving access to abortion medications.  👎2 
+* 👎 Mary Long
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services  👎1 
 

@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 5973 Initiatives and referenda
-Sign up to testify:
-
-#### 1067 👍 - Pro
+#### 1190 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
@@ -35,7 +33,7 @@ Testifying:
 * Thomas Marsland
 * 💵Damiana Merryweather
 
-#### 7701 👎 - Con
+#### 10551 👎 - Con
 Testifying:
 * Laurie Layne
 * Anna Burt
@@ -56,11 +54,19 @@ Testifying:
 * shan gao
 * Liangwei Ge - Intel
 * Dr. Janis Clark - Safe Homes
+* Rachel Liu - 17637 NE 138th St
+* Terry Golden
+* Kan Qiu - American Coalition for Equality
 * Eric Pratt - America
 * Xiaohua Chen
 * hai sun
 * yanrong liu
 * jerry sun
 * qingyang sun
+* Teresa Lundquist
+* Anne-Marie Ruud
+* Linda Yang
 
-#### 6 ❓ - Other
+#### 13 ❓ - Other
+Testifying:
+* MSLS,BSN, RN, Kathryn Lewandowsky

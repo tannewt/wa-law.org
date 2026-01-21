@@ -14,15 +14,23 @@
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
 Sign up to testify:
 
-#### 143 👍 - Pro
+#### 189 👍 - Pro
 Testifying:
 * Brian Davis
 * Chad Rains
 * Karen Veloria
 * Rebecca Deming - [City of Des Moines](/org/city_of_des_moines/)
 * Marie Rule
+* Jeff Harbaugh
+* Joe Vinson - City of SeaTac, Councilmember
+* Joe Dusenbury - Des Moines Airport Advisory Committee
+* Maria Batayola - Aviation Community Health Environment & Climate Advocates
+* Steve Edmiston
+* 💵Alexandra Johnson - Duwamish River Community Coalition
 
-#### 1 👎 - Con
+#### 79 👎 - Con
+Testifying:
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 1 ❓ - Other
 

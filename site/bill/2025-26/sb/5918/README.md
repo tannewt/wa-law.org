@@ -13,7 +13,7 @@
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5918 School operating costs
 Sign up to testify:
 
-#### 1044 👍 - Pro
+#### 1629 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland
 * Jim Kowalkowski - Rural Education Center
@@ -30,8 +30,15 @@ Testifying:
 * 💵Mitch Denning - Alliance of Educational Associations
 * Travis Bown - WA Association of Maintenance and Operation Administrators
 * 💵Clifford Traisman - Seattle, Bellevue, Highline, and Northshore Public School Districts
+* Michelle Harris - Parent Advocate
+* Kim Doepker - Walla Walla Public Schools
+* 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
+* Courtney Stepp - Renton Education Association / WEA
+* Eric Pickens - Washington Education Association & Sequim School Board
+* Steve Fisk - Odessa School District - Odessa, WA
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 434 👎 - Con
+#### 754 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

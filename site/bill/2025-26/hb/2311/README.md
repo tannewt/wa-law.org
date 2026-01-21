@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2311 Workforce board admin.
-Sign up to testify:
-
-#### 33 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Bill Lyne - United Faculty of Washington State
+* 💵Katherine Mahoney - [Microsoft](/org/microsoft/)
 
 #### 0 👎 - Con
 

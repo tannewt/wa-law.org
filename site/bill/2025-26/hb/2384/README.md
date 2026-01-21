@@ -10,11 +10,11 @@
 ### Fri 01/23 08:00 AM - Health Care & Wellness (HCW): HB 2384 Continuing care retirement
 Sign up to testify:
 
-#### 235 👍 - Pro
+#### 262 👍 - Pro
 Testifying:
 * Laura Saunders - [Washington Continuing Care Residents Association](/org/washington_continuing_care_residents_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

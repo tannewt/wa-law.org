@@ -8,12 +8,10 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2249 Civil service/WaTech
-Sign up to testify:
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Tim Tharp - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 22 👎 - Con
+#### 46 👎 - Con
 
 #### 0 ❓ - Other

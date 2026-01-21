@@ -58,11 +58,15 @@
 
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
-## [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
+
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
 ## 2023-24
 
-### [SB 5892](/bill/2023-24/sb/5892/) - Voter registration database 👍2  
+### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

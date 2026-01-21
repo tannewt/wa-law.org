@@ -76,6 +76,12 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
+
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+
+### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  

@@ -162,6 +162,9 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
 
+### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+* 👍 Anthony Anton
+
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 
 * 👎 Sean DeWitz
 

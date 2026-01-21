@@ -35,13 +35,17 @@
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 
+### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist   ❓1
+* ❓💵 John Rothlin
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓2
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓3
+* ❓💵 John Rothlin
 * ❓💵 John Rothlin
 * ❓💵 John Rothlin
 

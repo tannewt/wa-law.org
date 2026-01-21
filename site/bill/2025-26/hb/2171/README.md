@@ -8,12 +8,14 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2171 Foster youth
-Sign up to testify:
-
-#### 56 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Barbara Serrano - Dept. of Children, Youth, and Families
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)

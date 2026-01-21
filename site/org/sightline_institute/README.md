@@ -91,10 +91,12 @@
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+* 👍💵 Emily Moore
 * 👍💵 Emily Moore
 
-### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍3  
+* 👍 Catie Gould
 
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 

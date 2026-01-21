@@ -24,6 +24,9 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍 Patrick Murphy
 
+### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+* 👍 Patrick Murphy
+
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
@@ -44,6 +47,9 @@
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
+* 👍 Patrick Murphy
+
+### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
 * 👍 Patrick Murphy
 
 ## [SB 5943](/bill/2025-26/sb/5943/) - Use of school impact fees 👍1  

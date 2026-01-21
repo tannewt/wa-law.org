@@ -33,6 +33,9 @@
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications.  👎1 
 * 👎💵 Christine Brewer
 
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
+* 👎💵 Christine Brewer
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 

@@ -15,9 +15,7 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 5984 AI companion chatbots
-Sign up to testify:
-
-#### 150 👍 - Pro
+#### 232 👍 - Pro
 Testifying:
 * Jackson Munko
 * Laura Marquez-Garrett - The Social Media Victims Law Center
@@ -33,11 +31,15 @@ Testifying:
 * Kelly Stonelake
 * Katy Ruckle - WaTech
 
-#### 294 👎 - Con
+#### 481 👎 - Con
 Testifying:
 * Jeannie Magdua - Conservative Ladies of America
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* John Coleman - Foundation for Individual Rights and Expression
+* Kevin Frazier - The Abundance Institute
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Lucía Magis-Weinberg
+* Jonathan Pincus - The Nexus of Privacy

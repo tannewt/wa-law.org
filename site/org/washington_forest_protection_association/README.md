@@ -20,7 +20,12 @@
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
+
+### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention   ❓1
+* ❓💵 Matt Doumit
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
 * 👍💵 Matt Doumit

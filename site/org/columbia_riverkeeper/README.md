@@ -14,6 +14,8 @@
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎💵 James Moschella
 
+### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects.  👎1 
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  

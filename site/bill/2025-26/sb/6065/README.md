@@ -13,10 +13,10 @@
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 6065 School vehicle funds
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 
-#### 1 👎 - Con
+#### 425 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

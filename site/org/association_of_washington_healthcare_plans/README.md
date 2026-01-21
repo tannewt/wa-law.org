@@ -3,6 +3,8 @@
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications.  👎1 
 * 👎💵 Marissa Ingalls
 
@@ -11,6 +13,12 @@
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
 * 👍💵 Marissa Ingalls
+
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 
+* 👎💵 Marissa Ingalls
+
+### [SB 5916](/bill/2025-26/sb/5916/) - Nonopioid drugs for pain  👎1 
+* 👎💵 Marissa Ingalls
 
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
 * 👎 Dave Foster

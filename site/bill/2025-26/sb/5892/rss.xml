@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5892/</link>
 		<description>Updates about SB 5892</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 03:54:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jan 2026 10:03:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,7 +45,7 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=SB%205892</guid>
 		</item>
 		<item>
-			<title>👎Laurie Layne - Office of Secretary of State</title>
+			<title>👎Laurie Layne - Northwest Progressive Institute</title>
 			<description>Laurie Layne signed up to testify Con.</description>
 			<pubDate>Sat, 17 Jan 2026 10:26:02 GMT</pubDate>
 			<category>testifier</category>
@@ -75,6 +75,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Steve/Hobbs/2026-01-19 03:54:21</guid>
+		</item>
+		<item>
+			<title>👎Richard Vermeers - Richard Vermeers</title>
+			<description>Richard Vermeers signed up to testify Con. They are signed up to represent Richard Vermeers.</description>
+			<pubDate>Mon, 19 Jan 2026 09:38:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Richard/Vermeers/2026-01-19 09:38:24</guid>
+		</item>
+		<item>
+			<title>👍💵Cindy Black - Fix Democracy First</title>
+			<description>Cindy Black signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/fix_democracy_first/"&gt;Fix Democracy First&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 20 Jan 2026 09:12:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cindy/Black/2026-01-20 09:12:13</guid>
+		</item>
+		<item>
+			<title>👍Cassie Clayton - Northwest Progressive Institute</title>
+			<description>Cassie Clayton signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_progressive_institute/"&gt;Northwest Progressive Institute&lt;/a&gt;.</description>
+			<pubDate>Tue, 20 Jan 2026 09:49:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cassie/Clayton/2026-01-20 09:49:01</guid>
+		</item>
+		<item>
+			<title>👎Jeff Pack - Washington Citizens Against Unfair Taxes</title>
+			<description>Jeff Pack signed up to testify Con. They are signed up to represent Washington Citizens Against Unfair Taxes.</description>
+			<pubDate>Tue, 20 Jan 2026 10:03:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Pack/2026-01-20 10:03:26</guid>
 		</item>
 	</channel>
 </rss>

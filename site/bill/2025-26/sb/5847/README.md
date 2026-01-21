@@ -10,9 +10,9 @@
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 5847 Workers' comp. medical care
 Sign up to testify:
 
-#### 40 👍 - Pro
+#### 136 👍 - Pro
 
-#### 95 👎 - Con
+#### 107 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 

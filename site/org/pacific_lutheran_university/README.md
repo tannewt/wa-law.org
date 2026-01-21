@@ -6,6 +6,9 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
 
+### [HB 2363](/bill/2025-26/hb/2363/) - Music therapy exemptions 👍3  
+* 👍 Megumi Azekawa
+
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍3  
 * 👍 Allan Belton
 * 👍 Chelsea Cordoba

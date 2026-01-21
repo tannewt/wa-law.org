@@ -39,6 +39,8 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  

@@ -28,7 +28,8 @@
 
 ### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+* 👍 Casey MacLean
 * 👍 Casey MacLean
 
 ## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  

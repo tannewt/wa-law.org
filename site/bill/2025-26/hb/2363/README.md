@@ -10,10 +10,14 @@
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2363 Music therapy exemptions
 Sign up to testify:
 
-#### 27 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * 💵Michael Moran - WA Music Therapy Task Force
 * 💵Michael Moran - Washington State Music Therapy Task Force
+* cheryl harrison
+* Jeremiah Nelson - WA St Music Therapy Task Force
+* Megumi Azekawa - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Tanesha Ross - WA State Music Therapy Task Force
 
 #### 0 👎 - Con
 

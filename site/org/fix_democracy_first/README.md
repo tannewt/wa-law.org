@@ -62,7 +62,8 @@
 
 ### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification 👍1  
 
-### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
+* 👍💵 Cindy Black
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 

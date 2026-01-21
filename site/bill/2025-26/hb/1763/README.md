@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Tue 01/20 08:00 AM - Finance (FIN): HB 1763 Affordable housing funding
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 6 👎 - Con

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=Senate%20Bill%206002)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206002)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=SB%206002)
 * 01/15/2026 [The Urbanist](/org/the_urbanist/) - [Climate Advocate Nilu Jenks Announces D5 Seattle Council Campaign » The Urbanist](https://www.theurbanist.org/2026/01/15/climate-advocate-nilu-jenks-announces-d5-seattle-council-campaign/#:~:text=regulating%20license%20plate%20readers)
@@ -18,9 +19,7 @@
 
 ## Meetings
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6002 Driver privacy
-Sign up to testify:
-
-#### 2048 👍 - Pro
+#### 2148 👍 - Pro
 Testifying:
 * Loi Lumala - Latinos en Spokane
 * 💵Anita Yandle - Policing Project at NYU School of Law
@@ -45,16 +44,19 @@ Testifying:
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
 * Patrick Stickney - WA Office of Equity
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * Jim Leighty - Wa Coalition for Police Accountability
 
-#### 219 👎 - Con
+#### 315 👎 - Con
 Testifying:
 * Gregory Smith
 * Ken Roske - City of Pasco Police Chief
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
+* Dmitry Kravchinsky
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 16 ❓ - Other
+#### 20 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Melissa Beard - Council of Presidents
@@ -68,3 +70,5 @@ Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters
 * 💵Rowland Thompson - Verra Mobility
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Dana Ralph - Mayor/City of Kent
+* Maya Morales - WA People's Privacy

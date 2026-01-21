@@ -47,13 +47,14 @@
 ### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation 👍2  
 * 👍💵 Mark Streuli
 
-## [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations   ❓1
+### [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations   ❓1
 * ❓💵 Mark Streuli
+
+## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
 
 ## 2023-24
 
-### [SB 5960](/bill/2023-24/sb/5960/) - Ungulate populations   ❓1
-* ❓💵 Mark Streuli
+### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC  👎1 
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=Senate%20Bill%205906)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205906)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=SB%205906)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=SB%205906)
@@ -16,9 +17,7 @@
 
 ## Meetings
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5906 Data and personal safety
-Sign up to testify:
-
-#### 3297 👍 - Pro
+#### 3743 👍 - Pro
 Testifying:
 * Sarahi Jimenez Mendez - Community for our college
 * Hannah Lindell-Smith
@@ -34,13 +33,14 @@ Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Sharlyn Santiago - Malaya Tacoma
 * Claudia Krumpach - Malaya Tacoma
+* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * 💵Giovanni Severino - Progreso: Latino Progress
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * Mateo Lujan
 
-#### 1599 👎 - Con
+#### 2147 👎 - Con
 
-#### 23 ❓ - Other
+#### 25 ❓ - Other
 Testifying:
 * Cindy Liou - OneAmerica
 * Lee Che LEONG - Northwest Health Law Advocates (NoHLA)

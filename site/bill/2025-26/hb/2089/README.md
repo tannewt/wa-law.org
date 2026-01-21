@@ -15,7 +15,7 @@
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2089 Taxes on loan interest
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 25 👍 - Pro
 
 #### 9 👎 - Con
 Testifying:

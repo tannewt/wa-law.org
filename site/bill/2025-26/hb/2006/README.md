@@ -8,9 +8,11 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2006 Industrial land banks
-Sign up to testify:
-
-#### 28 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* 💵Bill Clarke - Kittitas County + Kittitas Reclamation District
+* Chad Bala - Kittitas County Planning Director
+* Cory Wright - Kittitas County Commissioner
 
 #### 2 👎 - Con
 Testifying:

@@ -76,6 +76,9 @@
 
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
 
+### [HB 2171](/bill/2025-26/hb/2171/) - Foster youth   ❓1
+* ❓💵 Roxana Gomez
+
 ### [HB 2185](/bill/2025-26/hb/2185/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
 ### [HB 2246](/bill/2025-26/hb/2246/) - Updating policies for elementary and secondary school students with firearm violations.  👎1 

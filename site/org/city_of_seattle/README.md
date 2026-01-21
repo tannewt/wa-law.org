@@ -140,6 +140,8 @@
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
+### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
+
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
@@ -153,6 +155,10 @@
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
+
+### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
+
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 
@@ -256,6 +262,8 @@
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+
+### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 

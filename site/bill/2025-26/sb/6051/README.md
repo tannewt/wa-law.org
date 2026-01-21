@@ -11,12 +11,14 @@
 
 ## Meetings
 ### Tue 01/20 08:00 AM - Early Learning & K-12 Education (EDU): SB 6051 School district waivers
-Sign up to testify:
-
-#### 176 👍 - Pro
-
-#### 6 👎 - Con
+#### 241 👍 - Pro
 Testifying:
+* Christian Bianes-Delrosario
+
+#### 8 👎 - Con
+Testifying:
+* Dr. Randy Spaulding - State Board of Education
+* Misha Cherniske - Office of Superintendent of Public Instruction
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 #### 3 ❓ - Other

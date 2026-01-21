@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6045/</link>
 		<description>Updates about SB 6045</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 11:55:44 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jan 2026 08:50:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,14 @@
 			<guid isPermaLink="false">testifier/Timothy/McDonald/2026-01-19 09:46:52</guid>
 		</item>
 		<item>
+			<title>👍April Sims - Washington State Labor Council, AFL-CIO</title>
+			<description>April Sims signed up to testify Pro. They are signed up to represent Washington State Labor Council, AFL-CIO.</description>
+			<pubDate>Mon, 19 Jan 2026 09:50:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/April/Sims/2026-01-19 09:50:15</guid>
+		</item>
+		<item>
 			<title>👍Giselle Ramirez Silva - Familias Unidas por la Justicia</title>
 			<description>Giselle Ramirez Silva signed up to testify Pro. They are signed up to represent Familias Unidas por la Justicia.</description>
 			<pubDate>Mon, 19 Jan 2026 09:59:16 GMT</pubDate>
@@ -258,6 +266,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lydia/Zepeda/2026-01-19 11:55:44</guid>
+		</item>
+		<item>
+			<title>👎💵James Crandall - AWB</title>
+			<description>James Crandall signed up to testify Con. They are signed up to represent AWB. They are a registered lobbyist.</description>
+			<pubDate>Tue, 20 Jan 2026 05:29:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Crandall/2026-01-20 05:29:21</guid>
+		</item>
+		<item>
+			<title>👎Charlie Brown - Washington Asparagus Commission</title>
+			<description>Charlie Brown signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_asparagus_commission/"&gt;Washington Asparagus Commission&lt;/a&gt;.</description>
+			<pubDate>Tue, 20 Jan 2026 06:27:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2026-01-20 06:27:10</guid>
+		</item>
+		<item>
+			<title>👎David Burnett - Burnett Orchards-Owner</title>
+			<description>David Burnett signed up to testify Con. They are signed up to represent Burnett Orchards-Owner.</description>
+			<pubDate>Tue, 20 Jan 2026 07:10:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Burnett/2026-01-20 07:10:25</guid>
+		</item>
+		<item>
+			<title>👎💵Michael Gempler - Washington Growers League</title>
+			<description>Michael Gempler signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_growers_league/"&gt;Washington Growers League&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 20 Jan 2026 08:50:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Gempler/2026-01-20 08:50:24</guid>
 		</item>
 	</channel>
 </rss>

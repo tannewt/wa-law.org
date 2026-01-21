@@ -14,7 +14,7 @@
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 1701 Liquor licensee premises
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

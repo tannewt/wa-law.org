@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5984/</link>
 		<description>Updates about SB 5984</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 11:00:02 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Jan 2026 08:55:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -177,6 +177,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Amy/Harris/2026-01-19 11:00:02</guid>
+		</item>
+		<item>
+			<title>❓Lucía Magis-Weinberg - Washington Retail Association</title>
+			<description>Lucía Magis-Weinberg signed up to testify Other.</description>
+			<pubDate>Tue, 20 Jan 2026 07:20:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lucía/Magis-Weinberg/2026-01-20 07:20:02</guid>
+		</item>
+		<item>
+			<title>👎John Coleman - Foundation for Individual Rights and Expression</title>
+			<description>John Coleman signed up to testify Con. They are signed up to represent Foundation for Individual Rights and Expression.</description>
+			<pubDate>Tue, 20 Jan 2026 07:41:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Coleman/2026-01-20 07:41:47</guid>
+		</item>
+		<item>
+			<title>👎Kevin Frazier - The Abundance Institute</title>
+			<description>Kevin Frazier signed up to testify Con. They are signed up to represent The Abundance Institute.</description>
+			<pubDate>Tue, 20 Jan 2026 08:42:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kevin/Frazier/2026-01-20 08:42:45</guid>
+		</item>
+		<item>
+			<title>❓Jonathan Pincus - The Nexus of Privacy</title>
+			<description>Jonathan Pincus signed up to testify Other. They are signed up to represent The Nexus of Privacy.</description>
+			<pubDate>Tue, 20 Jan 2026 08:55:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jonathan/Pincus/2026-01-20 08:55:01</guid>
 		</item>
 	</channel>
 </rss>

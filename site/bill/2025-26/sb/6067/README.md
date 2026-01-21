@@ -10,9 +10,9 @@
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 6067 Workers' compensation
 Sign up to testify:
 
-#### 18 👍 - Pro
+#### 62 👍 - Pro
 
-#### 5 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 

@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Tue 01/20 04:00 PM - Education (ED): HB 2142 Remote and hybrid learning
-Sign up to testify:
+#### 52 👍 - Pro
+Testifying:
+* Mark Clements
 
-#### 18 👍 - Pro
-
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

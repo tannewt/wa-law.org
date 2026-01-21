@@ -14,13 +14,14 @@
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 * ❓ Nick Bond
 
-## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 * 👍 Nick Bond
+
+## [SB 6042](/bill/2025-26/sb/6042/) - School maps 👍1  
 
 ## 2023-24
 
-### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
-* 👍 Nick Bond
+### [SB 6042](/bill/2023-24/sb/6042/) - School maps 👍1  
 
 ### [HB 1166](/bill/2023-24/hb/1166/) - Water quality trading prog. 👍1  
 

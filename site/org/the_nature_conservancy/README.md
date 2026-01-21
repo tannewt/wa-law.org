@@ -58,8 +58,9 @@
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍3  ❓1
 * ❓💵 David Mendoza
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
 * 👍 Joshua Rubenstein
+* 👍 Lily Storbeck
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 David Mendoza
@@ -115,7 +116,8 @@
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍2  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍4  
+* 👍💵 Maya Gillett
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
 * 👍 Skippy Shaw
@@ -128,11 +130,13 @@
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 David Mendoza
 
-## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+
+## [SB 6054](/bill/2025-26/sb/6054/) - Wildfire home hardening/CICs 👍1  
 
 ## 2023-24
 
-### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6054](/bill/2023-24/sb/6054/) - Wildfire home hardening/CICs 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

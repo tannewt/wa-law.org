@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2352 Conflict of interest
-Sign up to testify:
-
-#### 36 👍 - Pro
+#### 82 👍 - Pro
 
 #### 2 👎 - Con
 

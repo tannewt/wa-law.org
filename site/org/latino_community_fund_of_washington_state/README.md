@@ -47,11 +47,15 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+
 ### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
+
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
@@ -100,16 +104,23 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
 * 👍 Lilliane Ballesteros
 
+### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍2  
+* 👍💵 Jake Garcia
+
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 * 👍💵 Jake García
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
+
+## [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+### [SB 6053](/bill/2023-24/sb/6053/) - Domestic workers 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

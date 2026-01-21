@@ -134,6 +134,8 @@
 
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
 
+### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
+
 ### [HB 2249](/bill/2025-26/hb/2249/) - Amending the state civil service statutes to include Washington technology solutions network and security systems employees. 👍1  
 * 👍 Tim Tharp
 
@@ -144,6 +146,8 @@
 
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
 * ❓ Kati Durkin
+
+### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
 ### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. 👍1  
 
@@ -236,6 +240,8 @@
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+
+### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
 ### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board.   ❓1
 * ❓ Jeanette Oblecz

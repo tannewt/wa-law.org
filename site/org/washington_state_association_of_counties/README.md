@@ -125,6 +125,9 @@
 * ❓💵 Travis Dutton
 * 👍💵 Travis Dutton
 
+### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
+* 👍💵 Axel Swanson
+
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
@@ -222,8 +225,9 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍2  
 * 👍💵 Curtis Steinhauer
+* 👍💵 Kelsey Hulse
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 * 👍💵 Brad Banks
@@ -236,7 +240,12 @@
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 2174](/bill/2025-26/hb/2174/) - Accident risk zones   ❓1
+* ❓💵 Axel Swanson
+
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
+### [HB 2194](/bill/2025-26/hb/2194/) - Cultural access sales tax 👍1  
 
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.  👎1 
 * 👎💵 Kelsey Hulse
@@ -245,6 +254,8 @@
 * ❓💵 Travis Dutton
 
 ### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+
+### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍2  
 * 👍💵 Travis Dutton
@@ -261,6 +272,11 @@
 
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
 * 👍💵 Axel Swanson
+
+### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
+* ❓💵 Kelsey Hulse
+
+### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
 * ❓💵 Paul Jewell
@@ -469,6 +485,9 @@
 
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 * 👍💵 Axel Swanson
+
+### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+* ❓💵 Curtis Steinhauer
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 

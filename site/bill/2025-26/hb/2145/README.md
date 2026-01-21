@@ -12,14 +12,21 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Health Care & Wellness (HCW): HB 2145 340B drug pricing program
-Sign up to testify:
-
-#### 208 👍 - Pro
+#### 349 👍 - Pro
 Testifying:
 * Joseph Finley - Confederated Tribes of the Colville Reservation
 * 💵Chelene Whiteaker - Washington State Hospital Association
+* Aaric Ross - NEW Health
+* Lisa Nelson - Unity Care NW
+* Victor Velazquez
+* Mike Glenn - Jefferson Healthcare
+* Ryan Scheffelmaier - Whole Health Pharmacy
+* Sumona Das Gupta - UW Medicine
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
+* Laura Boudreau - AIDS Healthcare Foundation
+* 💵Alyssa Patrick - [Washington Association for Community Health](/org/washington_association_for_community_health/)
 
-#### 142 👎 - Con
+#### 235 👎 - Con
 Testifying:
 * Primo Castro
 * Shawn Gremminger - National Alliance of Healthcare Purchaser Coalitions
@@ -36,5 +43,7 @@ Testifying:
 * 💵Matthew Helder - GSK
 * Dharia McGrew - Pharmaceutical Research and Manufacturers of America
 * Kalvin Pugh - Community Access National Network
+* 💵Anne Murray - Bristol Myers Squibb
+* Gabriel Prawl Sr - A. Philip Randolph Institute
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

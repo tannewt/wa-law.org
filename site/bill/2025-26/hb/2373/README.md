@@ -12,14 +12,15 @@
 
 ## Meetings
 ### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2373 Electric utility bill assist
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Marian Dacca - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
+* 💵Charlee Thompson - NW Energy Coalition
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
-#### 730 👎 - Con
+#### 893 👎 - Con
 Testifying:
 * Kristin Masteller - Mason County PUD No. 1
 * Stephen Taylor - Cowlitz PUD
@@ -28,7 +29,10 @@ Testifying:
 * Jennifer Langdon
 * 💵Nicolas Garcia - WPUDA
 * SUE LANI MADSEN - Washington Rural Environmental Network
+* Ian Cope - Grays Harbor PUD
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Austin Scharff - Department of Commerce
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* Jack Wellman - [Puget Sound Energy](/org/puget_sound_energy_inc/)

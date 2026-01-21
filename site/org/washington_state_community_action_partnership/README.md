@@ -47,6 +47,8 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓2
 * ❓ Jeff DeLuca
 * ❓ Jeff DeLuca
@@ -57,6 +59,8 @@
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍2  
 * 👍 Jeff DeLuca
 * 👍💵 Linda Garcia
+
+### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
 
 ### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist 👍2  
 * 👍 Jeff DeLuca
