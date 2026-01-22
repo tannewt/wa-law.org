@@ -66,6 +66,9 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
+* 👎 Andrea Davis
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy   ❓1

@@ -30,6 +30,8 @@
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
 
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
@@ -71,6 +73,8 @@
 ### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+
+### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 
 ## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
 

@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 2183 Heat response plans
-Sign up to testify:
-
-#### 188 👍 - Pro
+#### 208 👍 - Pro
 Testifying:
 * Gayle Kouklis - Washington Physicians for Social Responsibility
 * Gordon Wheat - Washington Physicians for Social Responsibility
 
-#### 46 👎 - Con
+#### 56 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

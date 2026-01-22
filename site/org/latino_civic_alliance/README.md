@@ -58,9 +58,14 @@
 
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
+### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education. 👍1  
+* 👍 Nina Martinez
+
 ### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
 
 ## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 

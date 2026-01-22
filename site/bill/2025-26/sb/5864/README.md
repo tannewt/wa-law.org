@@ -10,8 +10,12 @@
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5864 Vehicle insurance verif.
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* Brian Allen - [Grange Insurance Association](/org/grange_insurance_association/)
+* Dan McGrady - PEMCO Insurance
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 
-#### 14 👎 - Con
+#### 55 👎 - Con
 
 #### 0 ❓ - Other

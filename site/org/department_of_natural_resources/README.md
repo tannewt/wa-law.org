@@ -63,6 +63,9 @@
 * ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
+### [HB 2139](/bill/2025-26/hb/2139/) - Snowmobile registration fees 👍1  
+* 👍 Sam Hensold
+
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
 
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  

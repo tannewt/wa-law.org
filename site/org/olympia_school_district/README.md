@@ -49,6 +49,11 @@
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
 * 👍 Patrick Murphy
 
+### [SB 5859](/bill/2025-26/sb/5859/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  
+
+### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education.   ❓1
+* ❓ Kate Davis
+
 ### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
 * 👍 Patrick Murphy
 

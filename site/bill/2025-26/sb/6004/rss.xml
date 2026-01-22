@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6004/</link>
 		<description>Updates about SB 6004</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 08:59:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 00:45:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Nancy/Morris/2026-01-16 08:59:44</guid>
+		</item>
+		<item>
+			<title>2026 Quaker Voice Priority Bills — Quaker Voice</title>
+			<description>News article "2026 Quaker Voice Priority Bills — Quaker Voice" from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Thu, 22 Jan 2026 00:45:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%206004</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202100)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202100)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [Public Hearing for Rep. Shaun Scott’s HB 2100, the “Well Washington Fund” revenue proposal – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/public-hearing-for-rep-shaun-scotts-hb-2100-the-well-washington-fund-revenue-proposal/#:~:text=HB 2100)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202100)
@@ -21,7 +22,7 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2100 Payroll expense tax
 Sign up to testify:
 
-#### 1419 👍 - Pro
+#### 2264 👍 - Pro
 Testifying:
 * Mike Yestramski - WFSE
 * Cory Miller
@@ -34,8 +35,28 @@ Testifying:
 * Natalie Wellen - UAW 4121
 * Andre Stackhouse - Whole Washington
 * Seth Boun - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Jeff DeBray - [Fuse Washington](/org/fuse_washington/)
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Professor James Pfeiffer - UW Wa Physicians for Social Responsibility
+* Gina Green-Fabara
+* 💵Annie Kucklick - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Kristina Sawyckyj - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Emily Vyhnanek - Washington Budget & Policy Center
+* Fatema Boxwala - Tech 4 Taxes
+* Salia Gartrell - Mom's Rising
+* Rhonda Parker
+* Erica Ruedas Hall - MomsRising
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Edgar Espino - Washington Bus
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
+* Hannah Lindell-Smith - [The Washington Bus](/org/the_washington_bus/)
+* Lac Tran - [The Washington Bus](/org/the_washington_bus/)
+* Odessa Paule - [The Washington Bus](/org/the_washington_bus/)
+* Treveon Parish - [The Washington Bus](/org/the_washington_bus/)
 
-#### 4899 👎 - Con
+#### 10622 👎 - Con
 Testifying:
 * Laurie Layne
 * Eric Lundberg
@@ -64,5 +85,12 @@ Testifying:
 * Melissa Sandven
 * Jason Hunt
 * Allen Swaney
+* Tim Eyman - Initiative Activist
+* Len Mc Comb - WASHINGTON STATE HOSPITAL ASSOCIATION
+* Joe Fain - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* Joe Nguyen - Seattle Chamber of Commerce
+* Kris Johnson - Association of WA Business
+* 💵Rachel Smith - [Washington Roundtable](/org/washington_roundtable/)
+* 💵Amy Harris
 
-#### 3 ❓ - Other
+#### 10 ❓ - Other

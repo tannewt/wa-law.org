@@ -13,8 +13,8 @@
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 5857 School projects/engineering
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

@@ -7,12 +7,22 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2026 [KUOW](/org/kuow/) - [KUOW - Push for youth social media safeguards revived in WA Legislature](https://www.kuow.org/stories/push-for-youth-social-media-safeguards-revived-in-wa-legislature#:~:text=proposed%20a%20new%20tax)
 * 01/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Push for youth social media safeguards revived in WA Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/jan/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=proposed%20a%20new%20tax)
 * 01/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Push for youth social media safeguards revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=proposed%20a%20new%20tax)
 * 04/07/2025 [Washington St Pta](/org/washington_st_pta/) - [Capital Budgets Released, Governor Says “No Go” on Wealth Tax - WSPTA](https://www.wastatepta.org/capital-budgets-released-governor-says-no-go-on-wealth-tax/#:~:text=HB%202038)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=HB%202038)
 
 ## Meetings
+### Fri 01/30 01:30 PM - Finance (FIN): HB 2038 Youth behavioral health acc.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 04/07 10:00 AM - Finance (FIN): HB 2038 Youth behavioral health acc.
 #### 212 👍 - Pro
 Testifying:

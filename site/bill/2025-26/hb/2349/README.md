@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2349 Sexually violent predators
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Laurie Layne
+
+#### 0 ❓ - Other

@@ -32,6 +32,8 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
+
 ## [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 
 ## 2023-24

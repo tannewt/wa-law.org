@@ -9,14 +9,13 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%205466)
 * 12/18/2025 [Sightline Institute](/org/sightline_institute/) - [How the 2026 Washington Legislature Can Right-Size the Power Grid | Sightline Institute](https://www.sightline.org/2025/12/18/how-the-2026-washington-legislature-can-right-size-the-power-grid/#:~:text=state%20transmission%20authority%20in%202025)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205466)
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): ESSB 5466 Electric transmission system
-Sign up to testify:
-
-#### 260 👍 - Pro
+#### 272 👍 - Pro
 Testifying:
 * Hugo Huang
 * 💵Maya Gillett - [The Nature Conservancy](/org/the_nature_conservancy/)
@@ -28,11 +27,12 @@ Testifying:
 * 💵Zachariah Baker - NW Energy Coalition
 * Angus Duncan - Natural Resources Defense Council
 
-#### 82 👎 - Con
+#### 103 👎 - Con
 Testifying:
 * 💵Nicolas Garcia - WPUDA
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
-#### 15 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * George Lynch - Washington State Department of Commerce
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
@@ -40,6 +40,7 @@ Testifying:
 * 💵Jason Hudson - IBEW 77
 * 💵Matthew Hepner - IBEW/CEWW
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5466 Electric transmission system
 #### 168 👍 - Pro

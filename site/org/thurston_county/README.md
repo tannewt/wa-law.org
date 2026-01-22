@@ -13,7 +13,7 @@
 
 ### [HB 2194](/bill/2025-26/hb/2194/) - Cultural access sales tax 👍1  
 
-### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
+### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍2  
 * 👍 Commissioner Carolina Mejia
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  

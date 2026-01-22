@@ -1,7 +1,8 @@
 # Diageo
 ## 2025-26
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍2  
+* 👍 Francisco Castillo
 * 👍 Francisco Castillo
 
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 

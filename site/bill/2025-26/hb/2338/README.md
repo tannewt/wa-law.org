@@ -14,7 +14,7 @@
 ### Thu 01/22 01:30 PM - Capital Budget (CB): HB 2338 Community weatherization
 Sign up to testify:
 
-#### 135 👍 - Pro
+#### 356 👍 - Pro
 Testifying:
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵John Seng - Spark NW

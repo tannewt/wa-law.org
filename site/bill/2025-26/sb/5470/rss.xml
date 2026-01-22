@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5470/</link>
 		<description>Updates about SB 5470</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 07:14:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 07:32:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -189,6 +189,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Bryce/Yadon/2026-01-20 07:14:54</guid>
+		</item>
+		<item>
+			<title>👍💵Bill Clarke - WA REALTORS + Kittitas County</title>
+			<description>Bill Clarke signed up to testify Pro. They are signed up to represent WA REALTORS + Kittitas County. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Jan 2026 07:32:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Clarke/2026-01-21 07:32:54</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/29 08:00 AM - Environment & Energy (ENVI): HB 2322 Alternative jet fuel
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2322 Alternative jet fuel
 #### 0 👍 - Pro
 

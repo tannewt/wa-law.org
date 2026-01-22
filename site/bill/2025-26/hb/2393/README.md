@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/21/2026 [The Washington Observer](/org/the_washington_observer/) - [A progressive bid to limit a less-useful initiative process](https://washingtonobserver.substack.com/p/a-progressive-bid-to-limit-a-less#:~:text=Rep.%20David%20Hackney’s)
+
 ## Meetings

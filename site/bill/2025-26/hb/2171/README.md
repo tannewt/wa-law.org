@@ -8,9 +8,10 @@
 
 ## Meetings
 ### Tue 01/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2171 Foster youth
-#### 89 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
+* Brian Burnett - WA State Legislature
 
 #### 3 👎 - Con
 

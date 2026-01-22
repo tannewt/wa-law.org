@@ -136,6 +136,9 @@
 ### [HB 2120](/bill/2025-26/hb/2120/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
 * ❓ Jeff Gunn
 
+### [HB 2128](/bill/2025-26/hb/2128/) - Concerning alcohol service at facilities with sports, amusement, or recreational activities engaged in by patrons. 👍1  
+* 👍 Sean DeWitz
+
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎2 
 * 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
@@ -285,11 +288,15 @@
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
 * 👎💵 Logan Dozier
 
-## [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags 👍1  
+### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags 👍1  
+
+## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+* 👍 Anthony Anton
 
 ## 2023-24
 
-### [SB 6030](/bill/2023-24/sb/6030/) - Plastic carryout bags 👍1  
+### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
+* 👍 Anthony Anton
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

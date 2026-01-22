@@ -117,6 +117,12 @@
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
+### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
+* 👍💵 Dan Bertolet
+
+### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
+* 👍💵 Dan Bertolet
+
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍💵 Dan Bertolet
 

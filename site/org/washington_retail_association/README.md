@@ -311,13 +311,14 @@
 ### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots   ❓1
 * ❓💵 Crystal Leatherman
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
 * ❓💵 Crystal Leatherman
+
+## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy   ❓1
-* ❓💵 Crystal Leatherman
+### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

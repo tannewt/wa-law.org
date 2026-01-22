@@ -13,6 +13,12 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
 
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding.  👎1 
+* 👎💵 Neil Strege
+
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+* 👎💵 Rachel Smith
+
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
 * 👍💵 Neil Strege
 

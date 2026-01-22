@@ -12,15 +12,14 @@
 
 ## Meetings
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 2159 PreK promise account
-Sign up to testify:
-
-#### 242 👍 - Pro
+#### 273 👍 - Pro
 Testifying:
 * Andi Smith - Ballmer Group
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Tana Senn - Department of Children, Youth and Families
 * Mary Sprute Garlant - Office of Governor Ferguson
+* Danielle Rasmussen - Catholic Charities Serving Central Washington
 
-#### 63 👎 - Con
+#### 116 👎 - Con
 
 #### 0 ❓ - Other

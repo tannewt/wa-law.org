@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2171/</link>
 		<description>Updates about HB 2171</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 11:07:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 09:02:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Charles/Smith/2026-01-20 11:07:56</guid>
+		</item>
+		<item>
+			<title>👍Brian Burnett - WA State Legislature</title>
+			<description>Brian Burnett signed up to testify Pro. They are signed up to represent WA State Legislature.</description>
+			<pubDate>Wed, 21 Jan 2026 09:02:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Burnett/2026-01-21 09:02:06</guid>
 		</item>
 	</channel>
 </rss>

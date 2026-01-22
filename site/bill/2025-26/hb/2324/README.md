@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2324 Child of veteran/tuition
-Sign up to testify:
-
-#### 42 👍 - Pro
+#### 103 👍 - Pro
 
 #### 0 👎 - Con
 

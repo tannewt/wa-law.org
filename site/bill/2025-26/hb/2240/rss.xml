@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2240/</link>
 		<description>Updates about HB 2240</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 04:52:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-02/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Joe Doherty - Self Storage Association</title>
+			<description>Joe Doherty signed up to testify Pro. They are signed up to represent Self Storage Association.</description>
+			<pubDate>Wed, 21 Jan 2026 04:52:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Doherty/2026-01-21 04:52:18</guid>
+		</item>
+		<item>
+			<title>👍Lance Baker - Washington Self Storage Association</title>
+			<description>Lance Baker signed up to testify Pro. They are signed up to represent Washington Self Storage Association.</description>
+			<pubDate>Wed, 21 Jan 2026 04:52:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lance/Baker/2026-01-21 04:52:18</guid>
+		</item>
+		<item>
+			<title>👍Patrick Gilroy - Washington Self Storage Association</title>
+			<description>Patrick Gilroy signed up to testify Pro. They are signed up to represent Washington Self Storage Association.</description>
+			<pubDate>Wed, 21 Jan 2026 04:52:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patrick/Gilroy/2026-01-21 04:52:18</guid>
 		</item>
 	</channel>
 </rss>

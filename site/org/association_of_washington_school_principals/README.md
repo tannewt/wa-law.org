@@ -143,9 +143,12 @@
 ### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications   ❓1
 * ❓💵 Roz Thompson
 
-### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+### [SB 5859](/bill/2025-26/sb/5859/) - Expanding opportunities for competency-based assessments in graduation pathway options.   ❓1
+* ❓💵 Roz Thompson
 
-### [SB 5952](/bill/2025-26/sb/5952/) - Standardizing the process for waiving physical education requirements for high school students.  👎1 
+### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍2  
+
+### [SB 5952](/bill/2025-26/sb/5952/) - High school PE waivers  👎1 
 * 👎💵 Roz Thompson
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  

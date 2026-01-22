@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/21 04:00 PM - Transportation (TR): HB 2307 Commute trip reduction/times
-Sign up to testify:
-
-#### 143 👍 - Pro
+#### 177 👍 - Pro
 Testifying:
 * Veronica Jarvis - WSDOT TDM Technical Committee
 * Kelli Refer - Move Redmond
@@ -18,7 +16,8 @@ Testifying:
 * Tara Peters - I'm representing the nonprofit organization, Commute Seattle.
 * Lauren McDonald - [Microsoft](/org/microsoft/)
 * Holden Ringer - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Laura Svancarek - Tacoma On the Go
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

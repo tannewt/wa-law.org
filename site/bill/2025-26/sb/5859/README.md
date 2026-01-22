@@ -13,10 +13,17 @@
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5859 Competency-based assessments
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Viet Cao Minh
+* Duncan Hamshere - Pearson
+* Jonathan Wong
+* Nora Palattao Burnes - Pearson
+* Paul Kelly - Pearson
 
-#### 408 👎 - Con
+#### 766 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Randy Spaulding - WA State Board of Education
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

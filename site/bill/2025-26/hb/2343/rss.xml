@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2343/</link>
 		<description>Updates about HB 2343</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 10:19:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 06:50:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jeff/Landrum/2026-01-20 10:19:54</guid>
+		</item>
+		<item>
+			<title>👍Amy White - Fords Prairie / Mayberry Road resident</title>
+			<description>Amy White signed up to testify Pro. They are signed up to represent Fords Prairie / Mayberry Road resident.</description>
+			<pubDate>Wed, 21 Jan 2026 01:39:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amy/White/2026-01-21 01:39:56</guid>
+		</item>
+		<item>
+			<title>❓Cynthia Wilkerson - WDFW</title>
+			<description>Cynthia Wilkerson signed up to testify Other. They are signed up to represent WDFW.</description>
+			<pubDate>Wed, 21 Jan 2026 02:08:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Cynthia/Wilkerson/2026-01-21 02:08:07</guid>
+		</item>
+		<item>
+			<title>👍Sean Swope - Fords Prairie / Mayberry Road resident</title>
+			<description>Sean Swope signed up to testify Pro.</description>
+			<pubDate>Wed, 21 Jan 2026 06:50:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Swope/2026-01-21 06:50:39</guid>
 		</item>
 	</channel>
 </rss>

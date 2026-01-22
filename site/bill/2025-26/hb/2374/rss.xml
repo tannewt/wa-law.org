@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2374/</link>
 		<description>Updates about HB 2374</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 09:59:45 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 07:58:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -134,6 +134,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jesse/Cunningham/2026-01-20 09:59:45</guid>
+		</item>
+		<item>
+			<title>👍Jill Meis - Washington Recreation and Park Association</title>
+			<description>Jill Meis signed up to testify Pro. They are signed up to represent Washington Recreation and Park Association.</description>
+			<pubDate>Wed, 21 Jan 2026 07:58:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jill/Meis/2026-01-21 07:58:43</guid>
 		</item>
 	</channel>
 </rss>

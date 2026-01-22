@@ -14,10 +14,17 @@
 ### Thu 01/22 04:00 PM - Transportation (TR): HB 2139 Snowmobile registration fees
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Justinian Davis - Snowmobile Advisory Committee to State Parks
+* Cindy Hoover
+* Brian Considine - WA State Parks, External and Legislative Relations Director
+* Rob Sendak - WA State Parks, Winter Recreation & Boating Program Manager
+* Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 33 👎 - Con
+#### 86 👎 - Con
 Testifying:
 * Stephen Alldridge - Z Bus
+* Greg Figg - Spokane Winter Knights Snowmobile Club
 
 #### 0 ❓ - Other

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5831 Uniform mortgage mod. act
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Jane Sternecky - Uniform Law Commission
 

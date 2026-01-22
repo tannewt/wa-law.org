@@ -10,17 +10,22 @@
 ### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
 Sign up to testify:
 
-#### 67 👍 - Pro
+#### 251 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jeremy Jones - American Coatings Associatiom
+* 💵Mike Burgess - [American Coatings Association](/org/american_coatings_association/)
 
-#### 1 👎 - Con
+#### 80 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - [Western Wood Preservers Institute](/org/western_wood_preservers_institute/)
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Pam Johnson - Hazardous Waste Management Program
 * Rick Gilbert - Kitsap County
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
 #### 0 👍 - Pro

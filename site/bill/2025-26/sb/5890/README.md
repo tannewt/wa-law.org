@@ -10,3 +10,11 @@
 * 01/14/2026 [The Washington Observer](/org/the_washington_observer/) - [A different sort of speech entirely](https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=Senate%20Bill%205890)
 
 ## Meetings
+### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5890 Reckless driving, speed
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

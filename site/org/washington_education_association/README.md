@@ -366,6 +366,9 @@
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
+* 👍💵 Simone Boe
+
 ### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
 * 👍💵 Simone Boe
 
@@ -752,7 +755,7 @@
 
 ### [SB 5858](/bill/2025-26/sb/5858/) - Providing pupil transportation safety net funding for special passengers. 👍1  
 
-### [SB 5860](/bill/2025-26/sb/5860/) - Concerning school board compensation. 👍1  
+### [SB 5860](/bill/2025-26/sb/5860/) - School board compensation 👍1  
 
 ### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education. 👍1  
 
@@ -772,7 +775,7 @@
 
 ### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
 
-### [SB 5952](/bill/2025-26/sb/5952/) - Standardizing the process for waiving physical education requirements for high school students.  👎1 
+### [SB 5952](/bill/2025-26/sb/5952/) - High school PE waivers  👎1 
 
 ### [SB 5956](/bill/2025-26/sb/5956/) - Addressing artificial intelligence, student discipline, and surveillance in public schools. 👍1  
 

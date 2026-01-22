@@ -10,6 +10,15 @@
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205185)
 
 ## Meetings
+### Tue 01/27 10:30 AM - Health & Long Term Care (HLTC): SB 5185 International med. pathways
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5185 International med. pathways
 #### 26 👍 - Pro
 Testifying:

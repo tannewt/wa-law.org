@@ -10,9 +10,12 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2326 Emerg. med. service levies
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* John Nohr - clark-cowlitz fire and rescue
+* Ryan spiller - WA Fire Commissioners Association
 
-#### 3 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/27 04:00 PM - Ways & Means (WM): HB 1376 Capital gains tax prepayment
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1376 Capital gains tax prepayment
 #### 51 👍 - Pro
 

@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
-Sign up to testify:
-
-#### 189 👍 - Pro
+#### 197 👍 - Pro
 Testifying:
 * Brian Davis
 * Chad Rains
@@ -28,9 +26,11 @@ Testifying:
 * Steve Edmiston
 * 💵Alexandra Johnson - Duwamish River Community Coalition
 
-#### 79 👎 - Con
+#### 100 👎 - Con
 Testifying:
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* 💵Ken Short - AWB
 
 #### 1 ❓ - Other
 

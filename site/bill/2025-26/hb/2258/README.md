@@ -14,7 +14,7 @@
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2258 Animal control excise tax
 Sign up to testify:
 
-#### 587 👍 - Pro
+#### 711 👍 - Pro
 Testifying:
 * Commissioner Carolina Mejia - [Thurston County](/org/thurston_county/)
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
@@ -22,7 +22,7 @@ Testifying:
 * Iana Taraiarova
 * Bekka Kraai - Joint Animal Services/Washington State Animal Fighting Taskforce
 
-#### 17 👎 - Con
+#### 478 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

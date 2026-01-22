@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2389 Criminal offenses under 18
-Sign up to testify:
-
-#### 367 👍 - Pro
+#### 473 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Judge David Keenan - Washington State Minority and Justice Commission
@@ -29,8 +27,16 @@ Testifying:
 * LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
 * Dr. Edward Mulvey - University of Pittsburgh School of Medicine
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Gisella Gonzales - Team children
+* Brodey Brownell - Capitol Classroom-Green Hill School
+* Diante Pellum - Capitol Classroom-Green Hill School
+* Jaeshawn Singh-Fletcher - Capitol Classroom-Green Hill School
+* 💵Myle Tang - Stand for Children WA
+* Liz Trautman - Stand for Children WA
+* 💵Roxana Gomez
+* Rashan Williams - Shifted Theory Youth Mentoring
 
-#### 114 👎 - Con
+#### 221 👎 - Con
 Testifying:
 * Tiffany Attrill
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
@@ -39,8 +45,12 @@ Testifying:
 * Mary Williams - The Royal Program / The Black and Brown Girls' Summit
 * Tina Rothert - I’m a violent crime victim survivor
 * Ashlynn Danielson
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* ERIC ZIMMERMAN - Mayor, City of Normandy Park
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Christine Simonsmeier - WAJCA
 * Judge Kristin Ferrera - Superior Court Judges’ Association
@@ -50,3 +60,4 @@ Testifying:
 * Harold Wright - Dept. of Children, Youth, and Families
 * Brian Kilgore - Tulalip Tribes
 * 💵Nicole Gomez - AFSCME Council 28/Washington Federation of State Employees (WFSE)
+* Joe Alonzo - [Cocoon House](/org/cocoon_house/)

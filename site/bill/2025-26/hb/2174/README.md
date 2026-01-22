@@ -12,16 +12,15 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 2174 Accident risk zones
-Sign up to testify:
-
-#### 137 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * Michael Robitaille
 * Maria Serra - Public Works Director for the City of Pasco
 
 #### 8 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* LARRY WALKER - ABATE of WA  (Motorcyclists)

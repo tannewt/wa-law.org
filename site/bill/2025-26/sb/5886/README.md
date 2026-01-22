@@ -10,3 +10,11 @@
 * 01/09/2026 [Axios](/org/axios/) - [Washington state lawmakers weigh AI chatbot regulations to protect minors - Axios Seattle](https://www.axios.com/local/seattle/2026/01/09/washington-ai-regulation-chatbots-kids-deepfakes#:~:text=digital-likeness%20proposal)
 
 ## Meetings
+### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 5886 Forged digital likenesses
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

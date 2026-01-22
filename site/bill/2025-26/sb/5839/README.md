@@ -10,9 +10,12 @@
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5839 County ferry districts
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Elizabeth Kosa
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

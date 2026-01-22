@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 6017 Crime victims & witnesses
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Abigail Echo-Hawk - Seattle Indian Health Board
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

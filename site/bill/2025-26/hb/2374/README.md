@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/21 04:00 PM - Transportation (TR): HB 2374 Electric motorcycle, bicycle
-Sign up to testify:
-
-#### 389 👍 - Pro
+#### 399 👍 - Pro
 Testifying:
 * Amy Falcone - Kirkland City Councilmember
 * Christopher Mendoza
@@ -27,7 +25,8 @@ Testifying:
 * Emerson Repass
 * Malia Donohue
 * Jesse Cunningham - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* Jill Meis - Washington Recreation and Park Association
 
-#### 30 👎 - Con
+#### 67 👎 - Con
 
 #### 2 ❓ - Other

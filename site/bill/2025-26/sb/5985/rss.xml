@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5985/</link>
 		<description>Updates about SB 5985</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 02:07:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 10:32:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amara/Drazkowski/2026-01-19 02:07:26</guid>
+		</item>
+		<item>
+			<title>👍Aparna Ramanathan - University of Washington</title>
+			<description>Aparna Ramanathan signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/university_of_washington/"&gt;University of Washington&lt;/a&gt;.</description>
+			<pubDate>Wed, 21 Jan 2026 04:08:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Aparna/Ramanathan/2026-01-21 04:08:30</guid>
+		</item>
+		<item>
+			<title>👍Heidi Berthoud - University of Washington</title>
+			<description>Heidi Berthoud signed up to testify Pro.</description>
+			<pubDate>Wed, 21 Jan 2026 10:32:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heidi/Berthoud/2026-01-21 10:32:42</guid>
 		</item>
 	</channel>
 </rss>

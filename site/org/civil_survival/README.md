@@ -51,6 +51,8 @@
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 * 👍 Cassia Hershenow
 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 * 👍💵 Anthony Blankenship
 

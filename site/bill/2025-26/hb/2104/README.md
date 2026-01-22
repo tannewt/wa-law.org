@@ -15,7 +15,7 @@
 ### Fri 01/23 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2104 Aviation assurance funding
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 
 #### 0 👎 - Con
 

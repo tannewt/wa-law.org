@@ -10,12 +10,16 @@
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5861 Education/community rep.
 Sign up to testify:
 
-#### 140 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * William Yoon - Youth Civic Bridge
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Christian Bianes-Delrosario
+* Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 
-#### 11 👎 - Con
+#### 173 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kate Davis - [Olympia School District](/org/olympia_school_district/)
+* Dr. Karen Bolton - Washington State School Directors' Association (WSSDA)

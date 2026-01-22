@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5423/</link>
 		<description>Updates about SB 5423</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 00:45:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -212,6 +212,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>2026 Quaker Voice Priority Bills — Quaker Voice</title>
+			<description>News article "2026 Quaker Voice Priority Bills — Quaker Voice" from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Thu, 22 Jan 2026 00:45:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%205502</guid>
 		</item>
 	</channel>
 </rss>

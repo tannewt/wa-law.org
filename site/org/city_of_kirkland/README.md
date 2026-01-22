@@ -78,7 +78,7 @@
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
-### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍2  
 
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
 

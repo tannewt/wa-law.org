@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%201607)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%201607)
 * 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington legislators debate bills to boost recycling • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-legislators-debate-bills-to-boost-recycling/#:~:text=House%20Bill%201607)
 * 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201607)
@@ -16,20 +17,29 @@
 
 ## Meetings
 ### Wed 01/21 04:00 PM - Appropriations (APP): HB 1607 Recycling & waste reduction
-Sign up to testify:
-
-#### 655 👍 - Pro
+#### 954 👍 - Pro
 Testifying:
 * Rebecca Thomas - Glass Packaging Institute
 * Scott DeFife - Glass Packaging Institute
 * Francisco Castillo - Diageo North America
 * Sid Shirodkar - Seattle Aquarium / Zero Waste Washington
 * Liz Donohue - Primo Brands
+* Adam Rack - Revino
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* McKenna Morrigan - Seattle Public Utilities
+* 💵Peter Steelquist - Surfrider
+* Colin Schilling - Schilling Cider
+* Allison Kustic - Assoc of Plastic Recyclers
+* Liz Donohue - Primo Brands
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* Francisco Castillo - [Diageo](/org/diageo/)
+* Cliff Traisman - Environmental Priorities Coalition
 * Anusha Bharadvaj
 * Isabelle Hepler
 * Paige Christensen
+* Linus Darvas
 
-#### 1248 👎 - Con
+#### 1505 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Jay Balasbas - Sunshine Disposal, Basin Disposal, Consolidated Disposal Services, Inc.
@@ -39,6 +49,11 @@ Testifying:
 * 💵Jennifer Ziegler - Sanitary Service Company
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Stephanie Draszt
+* Alissa Campbell - Recology King County
+* Timi Weathers
+* Rick Vahl - Waste Connections
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Brandon Houskeeper - NW Grocery Retail Association
 
 #### 4 ❓ - Other
 Testifying:

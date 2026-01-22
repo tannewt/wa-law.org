@@ -33,7 +33,8 @@
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍2  
+* 👍💵 Clifford Traisman
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍2  
 * 👍 Rein Attemann
@@ -68,6 +69,11 @@
 
 ### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
 * 👍💵 Darcy Nonemacher
+
+### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
+* 👍 Cliff Traisman
+
+### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  
 
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
 * 👍💵 Holly Hines

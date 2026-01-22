@@ -74,6 +74,8 @@
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
 
+### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
+
 ### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
 * 👍 Nick Leonti
 
@@ -117,7 +119,8 @@
 * 👍💵 Brooke Davies
 * 👍 John Flanagan
 
-### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 
+### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎2 
+* 👎 John Flanagan
 * 👎 John Flanagan
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
@@ -131,11 +134,15 @@
 
 ### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  
 
-## [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+* 👍 Fred Felleman
 
 ## 2023-24
 
-### [SB 5968](/bill/2023-24/sb/5968/) - Permitting and licensing 👍1  
+### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
+* 👍 Fred Felleman
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

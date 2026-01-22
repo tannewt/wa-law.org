@@ -10,8 +10,13 @@
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6019 Home care rates
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Imelda Salinas-Gomez
+* 💵Brad Banks - Home Care Coalition
+* Demas Nesterenko - SEIU775
+* Peter Nazzal - Catholic Communit Services
 
-#### 0 👎 - Con
+#### 35 👎 - Con
 
 #### 0 ❓ - Other

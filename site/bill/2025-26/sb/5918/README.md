@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5918 School operating costs
-Sign up to testify:
-
-#### 1629 👍 - Pro
+#### 1916 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland
 * Jim Kowalkowski - Rural Education Center
@@ -34,11 +32,14 @@ Testifying:
 * Kim Doepker - Walla Walla Public Schools
 * 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
 * Courtney Stepp - Renton Education Association / WEA
+* Chitra Iyer - Washington State Association of School Psychologists (WSASP)
 * Eric Pickens - Washington Education Association & Sequim School Board
 * Steve Fisk - Odessa School District - Odessa, WA
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Charlie Brown - South Sound Superintendents and State Skills Centers
+* Rick Chisa - Public School Employees of Washington (PSE)
 
-#### 754 👎 - Con
+#### 855 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

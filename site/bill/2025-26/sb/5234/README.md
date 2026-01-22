@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/26 04:00 PM - Transportation (TRAN): SB 5234 Snowmobile registration fees
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 04/04 01:30 PM - Transportation (TR): SB 5234 Snowmobile registration fees
 #### 10 👍 - Pro
 Testifying:

@@ -12,19 +12,19 @@
 
 ## Meetings
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6015 Residential building plans
-Sign up to testify:
-
-#### 59 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Michone Preston - Habitat for Humanity of Washington State
 * Deb Flagan - [Hayden Homes](/org/hayden_homes/)
 * Joshua Schaaf - Craft Contracting and Consulting
 * Caitlin Sullivan
 * MATT HUTCHINS - CAST architecture
+* Geoff Anderson - AIA Washington Council
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 37 👎 - Con
+#### 56 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Tammy Fellin - Department of Labor & Industries
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

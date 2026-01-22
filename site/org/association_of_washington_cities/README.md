@@ -543,7 +543,7 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎3 
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 

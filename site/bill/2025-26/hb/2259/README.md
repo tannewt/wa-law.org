@@ -14,9 +14,7 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 2259 Initiatives and referenda
-Sign up to testify:
-
-#### 907 👍 - Pro
+#### 979 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
@@ -29,14 +27,18 @@ Testifying:
 * Hanna Floss
 * Louise Pathe
 * Vicki Bates
+* Heather Wallace
 * Kathleen Heiman
 * Lauren Dandridge
 * Thomas Marsland
 * Naida Spencer
 * Steven McCray
 * Laurel Fish
+* Cliff Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* DJ Brimer
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 1977 👎 - Con
+#### 3621 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Tim Eyman - Initiative Activist
@@ -54,6 +56,11 @@ Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Linda Yang
 * Robyn Balcom
+* Tim Eyman - Initiative Activist
 * Brian Heywood
+* Xiting Phillips
+* William Weber
+* Pauly Giuglianotti - Partnership for a Truly Independent Prosecutor
+* Stan Sachava
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

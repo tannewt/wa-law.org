@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Human Services (HS): SB 5917 Abortion medications
-Sign up to testify:
-
-#### 350 👍 - Pro
+#### 362 👍 - Pro
 Testifying:
 * Defne Yildirim
 * Gabbi Nazari - Pro-Choice Washington
@@ -22,12 +20,13 @@ Testifying:
 * Katie Eilers - [Department of Health](/org/department_of_health/)
 * Samantha Grono - Washington State Women's Commission
 
-#### 308 👎 - Con
+#### 385 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Eric Lundberg
 * Kirsten Nelsen - Love Life
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Theresa Schrempp
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

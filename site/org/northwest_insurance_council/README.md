@@ -22,6 +22,9 @@
 * 👎💵 Kenton Brine
 * ❓💵 Kenton Brine
 
+### [SB 5864](/bill/2025-26/sb/5864/) - Concerning verification of motor vehicle insurance. 👍1  
+* 👍💵 Kenton Brine
+
 ### [SB 5871](/bill/2025-26/sb/5871/) - Vehicle glass repair claims 👍1  
 * 👍💵 Kenton Brine
 

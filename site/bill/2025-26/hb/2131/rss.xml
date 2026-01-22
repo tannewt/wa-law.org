@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2131/</link>
 		<description>Updates about HB 2131</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 06:12:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👎Erin Gless - Pacific Whale Watch Association</title>
+			<description>Erin Gless signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/pacific_whale_watch_association/"&gt;Pacific Whale Watch Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 21 Jan 2026 06:12:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Erin/Gless/2026-01-21 06:12:50</guid>
 		</item>
 	</channel>
 </rss>

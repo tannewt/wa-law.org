@@ -10,8 +10,10 @@
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2140 Current use land/sale to gov
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)

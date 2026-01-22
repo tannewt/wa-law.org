@@ -278,6 +278,9 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
+* 👎💵 Travis Dutton
+
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
 * ❓💵 Paul Jewell
 
@@ -463,6 +466,9 @@
 
 ### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources   ❓1
 * ❓💵 Paul Jewell
+
+### [SB 5839](/bill/2025-26/sb/5839/) - County ferry districts 👍1  
+* 👍💵 Axel Swanson
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers   ❓1
 * ❓💵 Paul Jewell

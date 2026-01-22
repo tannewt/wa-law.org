@@ -12,3 +12,11 @@
 * 12/30/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington’s Latest Push Toward Universal Health Care: What This 2026 Bill Package Really Means - Conservative Ladies of Washington](https://conservativeladiesofwa.com/wa-universal-healthcare-bill-package/#:~:text=SB%205947)
 
 ## Meetings
+### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5947 Health care board
+Sign up to testify:
+
+#### 5 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

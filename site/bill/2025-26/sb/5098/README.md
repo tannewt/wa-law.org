@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 01/21/2026 [Senate Democrats](/org/senate_democrats/) - [Valdez bill restricting weapons in certain public spaces passes Senate  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/21/valdez-bill-restricting-weapons-in-certain-public-spaces-passes-senate/#:~:text=Senate%20Bill%205098)
+* 01/21/2026 [The Center Square](/org/the_center_square/) - [WATCH: Bill to secure guns in vehicles moves forward | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_18a8b893-cee9-49c4-b70f-a7951a9f0c2f.html#:~:text=Senate%20Bill%205098)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Is Officially Underway - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/14/the-2026-legislative-session-is-officially-underway/#:~:text=SB%205098)
 * 01/05/2026 [Senate Democrats](/org/senate_democrats/) - [Your Voice Matters: Pre-Session Town Hall, Jan. 8 - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/05/3154/#:~:text=Senate%20Bill%205098)
 * 11/21/2025 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [What’s Coming for Washington Gun Owners in 2026 - Conservative Ladies of Washington](https://conservativeladiesofwa.com/2026-gun-bills-preview/#:~:text=SB%205098)

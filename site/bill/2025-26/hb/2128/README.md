@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 2128 Alcohol service/recreational
-Sign up to testify:
+#### 46 👍 - Pro
+Testifying:
+* Nancy West - Leavenworth Adventure Park
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 23 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

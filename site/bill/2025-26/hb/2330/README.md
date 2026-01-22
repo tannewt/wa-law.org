@@ -10,8 +10,11 @@
 ### Thu 01/22 01:30 PM - Capital Budget (CB): HB 2330 State campus district energy
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Chris Mulick - Washington State University
+* Kevin Chang - [University of Washington](/org/university_of_washington/)
 
-#### 3 👎 - Con
+#### 58 👎 - Con
 
 #### 0 ❓ - Other

@@ -165,7 +165,7 @@
 
 ### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
 
-### [SB 5873](/bill/2025-26/sb/5873/) - Concerning escorted leaves of absence for incarcerated individuals. 👍1  
+### [SB 5873](/bill/2025-26/sb/5873/) - DOC/escorted leave 👍1  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 

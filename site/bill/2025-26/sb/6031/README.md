@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6031 Insurance crimes
-Sign up to testify:
-
-#### 16 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Dory Nicpon - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner

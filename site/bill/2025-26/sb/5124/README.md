@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5124 SNF & rehab network adequacy

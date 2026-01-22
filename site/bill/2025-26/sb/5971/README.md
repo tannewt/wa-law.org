@@ -10,13 +10,18 @@
 ### Thu 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5971 Green fertilizer incentives
 Sign up to testify:
 
-#### 54 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * Erik Kamrath - Natural Resources Defense Council
 * charlotte furner - nobody
 * Dan Holmes - [Atlas Agro](/org/atlas_agro/)
 * KARL DYE - TRIDEC
+* Cassie Losey - Port of Benton
+* 💵Mark Streuli - Washington Potato Commission
+* 💵Seth Worley - Government Affairs Director, UA Plumbers & Steamfitters Local 598
 
-#### 428 👎 - Con
+#### 647 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Dept. of Agriculture

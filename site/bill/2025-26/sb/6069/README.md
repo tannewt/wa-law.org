@@ -11,6 +11,15 @@
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=SB%206069)
 
 ## Meetings
+### Wed 01/28 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 Sign up to testify:
 

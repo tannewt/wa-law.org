@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/26 04:00 PM - Appropriations (APP): HB 1570 Academic employee bargaining
+Sign up to testify:
+
+#### 85 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/22 09:00 AM - Appropriations (APP): HB 1570 Academic employee bargaining
 #### 864 👍 - Pro
 Testifying:

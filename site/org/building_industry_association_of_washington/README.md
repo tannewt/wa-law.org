@@ -178,6 +178,8 @@
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
 * 👎 Mike Ennis
 
@@ -206,6 +208,8 @@
 * 👍💵 Andrea Smiley
 
 ### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+
+### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp.  👎1 
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 * 👍💵 Brent Ludeman

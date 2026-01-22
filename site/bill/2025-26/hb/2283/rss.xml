@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2283/</link>
 		<description>Updates about HB 2283</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 02:31:35 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 11:14:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Christine/Brewer/2026-01-20 02:31:35</guid>
+		</item>
+		<item>
+			<title>👍Steven Field - America's Phone Guys</title>
+			<description>Steven Field signed up to testify Pro.</description>
+			<pubDate>Wed, 21 Jan 2026 05:08:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steven/Field/2026-01-21 05:08:49</guid>
+		</item>
+		<item>
+			<title>👎Andrea Davis - Coordinated Care</title>
+			<description>Andrea Davis signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/coordinated_care/"&gt;Coordinated Care&lt;/a&gt;.</description>
+			<pubDate>Wed, 21 Jan 2026 08:24:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andrea/Davis/2026-01-21 08:24:16</guid>
+		</item>
+		<item>
+			<title>👎💵Marissa Ingalls - Association of Washington Healthcare Plans</title>
+			<description>Marissa Ingalls signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_healthcare_plans/"&gt;Association of Washington Healthcare Plans&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Jan 2026 08:24:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Marissa/Ingalls/2026-01-21 08:24:16</guid>
+		</item>
+		<item>
+			<title>👍Andre Stackhouse - Whole Washington</title>
+			<description>Andre Stackhouse signed up to testify Pro. They are signed up to represent Whole Washington.</description>
+			<pubDate>Wed, 21 Jan 2026 11:14:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andre/Stackhouse/2026-01-21 11:14:25</guid>
 		</item>
 	</channel>
 </rss>

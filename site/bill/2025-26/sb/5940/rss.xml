@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5940/</link>
 		<description>Updates about SB 5940</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 11:39:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nathan/Witherow/2026-01-12 11:39:10</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-21/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

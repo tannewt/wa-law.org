@@ -35,6 +35,8 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍4  
 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+
 ### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍5  
 * 👍 Brianna Dilts
 
@@ -47,7 +49,8 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
-### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍6  
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍9  
+* 👍💵 Kristin Ang
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍4  
 

@@ -6,6 +6,9 @@
 ### [HB 1926](/bill/2025-26/hb/1926/) - Home care aides 👍1  
 * 👍 Amy Thomas
 
+### [HB 2261](/bill/2025-26/hb/2261/) - Health care credentials  👎1 
+* 👎💵 Amina Teouri
+
 ### [SB 5672](/bill/2025-26/sb/5672/) - Home care aide certification 👍1  
 * 👍 Amy Thomas
 

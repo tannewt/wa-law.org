@@ -12,9 +12,9 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 1701 Liquor licensee premises
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Jodi Cowell - One Wines Inc and One Brewing
 
 #### 0 👎 - Con
 

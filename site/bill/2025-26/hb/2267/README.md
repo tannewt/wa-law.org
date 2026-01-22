@@ -11,19 +11,17 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 2267 Urban forest management
-Sign up to testify:
-
 #### 23 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Holly Hines - [Washington Conservation Action](/org/washington_conservation_action/)
 * Jesse Pestana - The Nature Conservancy in Washington
 
-#### 146 👎 - Con
+#### 157 👎 - Con
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Robb Krehbiel - Puget Sound Partnership
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties

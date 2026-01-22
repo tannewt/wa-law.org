@@ -40,9 +40,15 @@
 
 ### [HB 2151](/bill/2025-26/hb/2151/) - Factory built structures 👍1  
 
+### [HB 2227](/bill/2025-26/hb/2227/) - Providing a real estate excise tax exemption for the sale of qualified affordable housing. 👍1  
+
 ### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
+
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+
+### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Victoria OBanion

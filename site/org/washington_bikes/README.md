@@ -18,6 +18,8 @@
 ### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways. 👍2  
 * 👍 Vicky Clarke
 
+### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
+
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  

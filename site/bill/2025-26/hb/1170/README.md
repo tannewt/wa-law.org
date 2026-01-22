@@ -16,6 +16,15 @@
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations/#:~:text=House%20Bill%201170)
 
 ## Meetings
+### Mon 01/26 04:00 PM - Appropriations (APP): HB 1170 AI content notices
+Sign up to testify:
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1170 AI content notices
 #### 169 👍 - Pro
 Testifying:

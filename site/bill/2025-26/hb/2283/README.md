@@ -8,20 +8,22 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Health Care & Wellness (HCW): HB 2283 Medical loss ratio
-Sign up to testify:
-
-#### 98 👍 - Pro
+#### 170 👍 - Pro
 Testifying:
 * Jim Freeburg - Patient Coalition of Washington
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * 💵Patrick Connor - NFIB
 * 💵Sean Graham - Washington State Medical Association
 * Lois Cook - America's Phone Guys
+* Steven Field
+* Andre Stackhouse - Whole Washington
 
-#### 31 👎 - Con
+#### 67 👎 - Con
 Testifying:
 * 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* Andrea Davis - [Coordinated Care](/org/coordinated_care/)
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
 #### 1 ❓ - Other
 Testifying:

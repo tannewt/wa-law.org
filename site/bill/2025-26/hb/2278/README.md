@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2278 Tourism promotion areas
-Sign up to testify:
-
-#### 47 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Becky Bogard - Washington State Destination Marketing Organizations
 * Kevin Lewis - Visit Tri Cities
 
-#### 42 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

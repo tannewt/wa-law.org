@@ -3,6 +3,8 @@
 
 ### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits  👎3 
 
+### [HB 2207](/bill/2025-26/hb/2207/) - Concerning warehousing of alcohol.  👎2 
+
 ### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study 👍10  
 * 👍 devan pierce
 

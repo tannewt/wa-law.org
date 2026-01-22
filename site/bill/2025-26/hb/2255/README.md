@@ -7,21 +7,22 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/21/2026 [The Washington Observer](/org/the_washington_observer/) - [A progressive bid to limit a less-useful initiative process](https://washingtonobserver.substack.com/p/a-progressive-bid-to-limit-a-less#:~:text=Rep.%20Amy%20Walen’s%20bill)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202255)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202255)
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2255 Litigation finance
-Sign up to testify:
-
-#### 174 👍 - Pro
+#### 184 👍 - Pro
 Testifying:
 * 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 * Kris Tefft - Washington Liability Reform Coalition
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
 
-#### 16 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * John Webber - Washington State Association for Justice
+* Dai Wai Chin Feman - International Legal Finance Association
 
 #### 0 ❓ - Other

@@ -10,3 +10,11 @@
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [Bipartisan Bill Introduced to Protect Anesthesia Coverage – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/bipartisan-bill-introduced-to-protect-anesthesia-coverage/#:~:text=House%20Bill%201812)
 
 ## Meetings
+### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 1812 Anesthesia services
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

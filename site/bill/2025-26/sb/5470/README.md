@@ -14,9 +14,7 @@
 
 ## Meetings
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 5470 Detached ADUs
-Sign up to testify:
-
-#### 215 👍 - Pro
+#### 252 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -24,8 +22,9 @@ Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
+* 💵Bill Clarke - WA REALTORS + Kittitas County
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 

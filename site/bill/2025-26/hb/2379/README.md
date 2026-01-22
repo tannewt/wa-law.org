@@ -12,10 +12,8 @@
 
 ## Meetings
 ### Wed 01/21 04:00 PM - Transportation (TR): HB 2379 Emergency tolling suspension
-Sign up to testify:
+#### 210 👍 - Pro
 
-#### 81 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

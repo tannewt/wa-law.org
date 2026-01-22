@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%206004)
+
 ## Meetings
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 6004 Electric/public contracts
 #### 116 👍 - Pro

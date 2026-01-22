@@ -127,6 +127,8 @@
 
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving 👍1  
 
+### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎3 

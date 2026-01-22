@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5832/</link>
 		<description>Updates about SB 5832</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 18 Jan 2026 01:48:17 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 01:28:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -58,6 +58,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2026-01-18 01:48:17</guid>
+		</item>
+		<item>
+			<title>WATCH: Creating more affordable housing in Spokane - Sen. Marcus Riccelli</title>
+			<description>News article "WATCH: Creating more affordable housing in Spokane - Sen. Marcus Riccelli" from Senate Democrats.</description>
+			<pubDate>Thu, 22 Jan 2026 01:28:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/riccelli/2026/01/21/watch-creating-more-affordable-housing-in-spokane/#:~:text=SB%205832</guid>
 		</item>
 	</channel>
 </rss>

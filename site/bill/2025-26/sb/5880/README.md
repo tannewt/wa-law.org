@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 01/26 04:00 PM - Ways & Means (WM): SSB 5880 Toxicology testing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5880 Toxicology testing
 #### 18 👍 - Pro
 Testifying:

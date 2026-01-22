@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2363 Music therapy exemptions
-Sign up to testify:
-
-#### 85 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * 💵Michael Moran - WA Music Therapy Task Force
 * 💵Michael Moran - Washington State Music Therapy Task Force

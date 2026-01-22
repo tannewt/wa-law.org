@@ -15,9 +15,9 @@
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2089 Taxes on loan interest
 Sign up to testify:
 
-#### 25 👍 - Pro
+#### 204 👍 - Pro
 
-#### 9 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 

@@ -7,6 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/26 10:30 AM - Labor & Commerce (LC): SB 5882 Correctional workers/stress
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Michael Rainey - Washington State Council of County and City Employees
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 5882 Correctional workers/stress
 Sign up to testify:
 

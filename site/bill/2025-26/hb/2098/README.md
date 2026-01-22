@@ -16,9 +16,7 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2098 Higher education funding
-Sign up to testify:
-
-#### 179 👍 - Pro
+#### 213 👍 - Pro
 Testifying:
 * 💵John Burbank
 * Janeen Contractor
@@ -31,7 +29,13 @@ Testifying:
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 * Angelita Cervantes - Communities for Our Colleges
+* 💵Bhargav Iyer - Associated Students of Washington State University
 
-#### 670 👎 - Con
+#### 773 👎 - Con
+Testifying:
+* Chris Mulick - Washington State University
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

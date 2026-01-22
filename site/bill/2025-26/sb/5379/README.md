@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 5379 Parks & rec./interest arb.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 10:30 AM - Labor & Commerce (LC): SB 5379 Parks & rec./interest arb.
 #### 28 👍 - Pro
 

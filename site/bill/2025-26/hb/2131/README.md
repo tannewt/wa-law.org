@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2131 Sea lion predation donations
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
+
+#### 0 ❓ - Other

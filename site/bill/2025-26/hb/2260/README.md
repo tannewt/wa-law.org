@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Wed 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 2260 Ballot measure petitions
-Sign up to testify:
-
-#### 113 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * 💵Damiana Merryweather
 * Ryan Hollander
@@ -27,7 +25,7 @@ Testifying:
 * Suzi Henriot
 * Marrene Franich
 
-#### 1570 👎 - Con
+#### 2499 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Tim Eyman - Initiative Activist
@@ -42,6 +40,10 @@ Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Linda Yang
 * Kan Qiu - American Coalition for Equality
+* Tim Eyman - Initiative Activist
 * Anna Burt
+* Eric Pratt - America
+* Brian Palmer
+* Brian Heywood
 
 #### 0 ❓ - Other

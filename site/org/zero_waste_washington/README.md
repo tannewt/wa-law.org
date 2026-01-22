@@ -64,7 +64,8 @@
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍4  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍5  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 

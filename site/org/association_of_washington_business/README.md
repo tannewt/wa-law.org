@@ -248,7 +248,8 @@
 ### [HB 1598](/bill/2025-26/hb/1598/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎2 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎3 
+* 👎💵 Peter Godlewski
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 * 👎💵 Morgan Irwin
@@ -433,6 +434,11 @@
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍2  
 
+### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding.  👎1 
+* 👎💵 Emily Wittman
+
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+
 ### [HB 2110](/bill/2025-26/hb/2110/) - Concerning personnel for ambulance service interfacility specialty care transports. 👍1  
 
 ### [HB 2113](/bill/2025-26/hb/2113/) - Radiologic technologists 👍1  
@@ -480,6 +486,8 @@
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship  👎1 
 * 👎💵 Peter Godlewski
+
+### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍2  
 * 👍💵 Peter Godlewski

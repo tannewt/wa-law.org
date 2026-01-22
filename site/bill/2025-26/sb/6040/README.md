@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6040 Lottery promotional entries
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

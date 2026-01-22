@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/22/2026 [Senate Democrats](/org/senate_democrats/) - [WATCH: Creating more affordable housing in Spokane - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/21/watch-creating-more-affordable-housing-in-spokane/#:~:text=Senate%20Bill%205884)
 * 01/14/2026 [The Center Square](/org/the_center_square/) - [Spokane housing bills clear first hurdle, could cost state millions in revenue | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_74a30acb-a834-4225-ba2d-3b0865868216.html#:~:text=Senate%20Bill%205884)
 * 01/13/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: Key housing bills to receive public hearings on Wednesday - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/13/media-advisory-key-housing-bills-to-receive-public-hearings-on-wednesday/#:~:text=Senate%20Bill%205884)
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205884)

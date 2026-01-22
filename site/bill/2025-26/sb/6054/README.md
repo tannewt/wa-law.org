@@ -11,10 +11,11 @@
 
 ## Meetings
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6054 Wildfire home hardening/CICs
-Sign up to testify:
+#### 6 👍 - Pro
 
-#### 3 👍 - Pro
+#### 56 👎 - Con
 
-#### 36 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sheryl Grant
+* Hilary Bublitz - WSCAI Legislative Action Committee

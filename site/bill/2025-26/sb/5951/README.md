@@ -11,16 +11,15 @@
 
 ## Meetings
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5951 Albuterol access in schools
-Sign up to testify:
-
-#### 161 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * Anjitha Gurrala
 * Rio Kawamoto
 * Leslie Maxwell
 * 💵Erica Hallock - School Nurse Organization of Washington
 * Lynnette Ondeck - School Nurse Organization of Washington
+* Deborah Liptzin - Seattle Children's
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
 #### 1 ❓ - Other

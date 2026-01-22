@@ -113,6 +113,9 @@
 
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 
+### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
+* 👍💵 Carly Michiels
+
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels
 
@@ -219,6 +222,8 @@
 
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
 * 👍 Eric ffitch
+
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels

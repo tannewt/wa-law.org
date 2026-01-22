@@ -87,6 +87,9 @@
 ### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 2140](/bill/2025-26/hb/2140/) - Current use land/sale to gov   ❓1
+* ❓💵 Bryce Yadon
+
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Bryce Yadon
 
@@ -215,6 +218,9 @@
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
 ### [SB 5820](/bill/2025-26/sb/5820/) - Concerning the responsibility of certain counties to include freight rail dependent use overlay as part of the transportation element of their comprehensive plan. 👍1  
+* 👍💵 Bryce Yadon
+
+### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
 * 👍💵 Bryce Yadon
 
 ### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1

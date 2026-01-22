@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 6055 Firearms background checks
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

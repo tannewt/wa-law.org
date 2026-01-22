@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/21 10:30 AM - Early Learning & K-12 Education (EDU): SB 5992 Youth development fund
-Sign up to testify:
-
-#### 118 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * 💵Radu Smintina - School's Out Washington
 * Johnnie McRae
@@ -32,7 +30,8 @@ Testifying:
 * Cadence Garwood
 * Evan Pierce - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Shawn Roberts - Arts Corps
+* Misha Cherniske - Office of Superintendent of Public Instruction
 
-#### 47 👎 - Con
+#### 68 👎 - Con
 
 #### 0 ❓ - Other

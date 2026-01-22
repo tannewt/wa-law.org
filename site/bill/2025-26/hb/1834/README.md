@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/20/2026 [KUOW](/org/kuow/) - [KUOW - Push for youth social media safeguards revived in WA Legislature](https://www.kuow.org/stories/push-for-youth-social-media-safeguards-revived-in-wa-legislature#:~:text=House%20Bill%201834)
 * 01/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Push for youth social media safeguards revived in WA Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/jan/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=House%20Bill%201834)
 * 01/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Push for youth social media safeguards revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=House%20Bill%201834)
 * 03/05/2025 [The Center Square](/org/the_center_square/) - [WA resolution would enshrine abortion, gender-affirming care into state constitution | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_591bddea-f9dc-11ef-bc65-5b7421525a07.html#:~:text=House%20Bill%201834)
@@ -17,6 +18,15 @@
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201834)
 
 ## Meetings
+### Mon 01/26 04:00 PM - Appropriations (APP): HB 1834 Online services/minors
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1834 Online services/minors
 #### 83 👍 - Pro
 Testifying:
