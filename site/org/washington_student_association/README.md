@@ -27,7 +27,7 @@
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍3  
 * 👍💵 Sienna Jarrard
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍1  
 * 👍💵 Collin Bannister

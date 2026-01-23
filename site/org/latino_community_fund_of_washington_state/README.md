@@ -49,7 +49,7 @@
 
 ### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 

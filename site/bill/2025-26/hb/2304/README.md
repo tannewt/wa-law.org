@@ -15,13 +15,22 @@
 ### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2304 Condominium warranties
 Sign up to testify:
 
-#### 362 👍 - Pro
+#### 484 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * jason gano - 1DROP Homes
 * Mary Hull-Drury - Washington Realtors
+* cathleen MacCaul - AARP Washington State
+* Brady Nordstrom - Housing Development Consortium
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Jason Gano - 1 DROP
+* Mike Appleby - MBAKS / Chicago Title of Washington
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Mary Drury - Washington Realtor
+* 💵Ryan Donohue - Habitat for Humanity, Seattle-King & Kittitas Counties
+* Tyler Langford - Office of the Insurance Commissioner
 
 #### 2 👎 - Con
 

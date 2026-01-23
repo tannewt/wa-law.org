@@ -93,11 +93,13 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
-## [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
+## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
 
 ## 2023-24
 
-### [SB 5957](/bill/2023-24/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

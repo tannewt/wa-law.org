@@ -9,6 +9,8 @@
 * 👍 Bryanna Jenkins
 * 👍💵 Oliver Miska
 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors   ❓1
+
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍2  

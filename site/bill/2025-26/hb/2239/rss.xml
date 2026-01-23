@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2239/</link>
 		<description>Updates about HB 2239</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 21:34:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 05:02:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,22 @@
 			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202239</guid>
+		</item>
+		<item>
+			<title>👍Ewing Stringfellow - Stringfellow Family Farm</title>
+			<description>Ewing Stringfellow signed up to testify Pro. They are signed up to represent Stringfellow Family Farm.</description>
+			<pubDate>Thu, 22 Jan 2026 04:51:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ewing/Stringfellow/2026-01-22 04:51:11</guid>
+		</item>
+		<item>
+			<title>👍💵Mark Streuli - Washington Cattlemen's Association</title>
+			<description>Mark Streuli signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_cattlemen's_association/"&gt;Washington Cattlemen's Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Jan 2026 05:02:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Streuli/2026-01-22 05:02:17</guid>
 		</item>
 	</channel>
 </rss>

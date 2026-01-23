@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2026 [The Center Square](/org/the_center_square/) - [Fmr. cabinet appointee joins 12K people against Democrat socialist's payroll tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e9423791-113f-4689-a927-b622e9e67ae7.html#:~:text=House%20Bill%202100)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202100)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202100)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [Public Hearing for Rep. Shaun Scott’s HB 2100, the “Well Washington Fund” revenue proposal – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/public-hearing-for-rep-shaun-scotts-hb-2100-the-well-washington-fund-revenue-proposal/#:~:text=HB 2100)
@@ -20,9 +21,7 @@
 
 ## Meetings
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2100 Payroll expense tax
-Sign up to testify:
-
-#### 2264 👍 - Pro
+#### 2545 👍 - Pro
 Testifying:
 * Mike Yestramski - WFSE
 * Cory Miller
@@ -51,12 +50,23 @@ Testifying:
 * 💵Edgar Espino - Washington Bus
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
+* Annie Fitzgerald
 * Hannah Lindell-Smith - [The Washington Bus](/org/the_washington_bus/)
 * Lac Tran - [The Washington Bus](/org/the_washington_bus/)
 * Odessa Paule - [The Washington Bus](/org/the_washington_bus/)
 * Treveon Parish - [The Washington Bus](/org/the_washington_bus/)
+* Heather Bush
+* Chris Reykdal - Office of Superintendent of Public Instruction
+* Kathleen Richmire
+* Maria R
+* Lana Yavir
+* Ana Claudia Rodriguez Mendoza
+* Rhonda Parker
+* MSLS,BSN, RN, Kathryn Lewandowsky
+* Ashley Nerbovig
+* Linda Noble - interpreter for testifiers: Lana Yavir and Maria R
 
-#### 10622 👎 - Con
+#### 12843 👎 - Con
 Testifying:
 * Laurie Layne
 * Eric Lundberg
@@ -87,10 +97,20 @@ Testifying:
 * Allen Swaney
 * Tim Eyman - Initiative Activist
 * Len Mc Comb - WASHINGTON STATE HOSPITAL ASSOCIATION
+* Teagan Levine
+* Lisa Olson
 * Joe Fain - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Joe Nguyen - Seattle Chamber of Commerce
 * Kris Johnson - Association of WA Business
 * 💵Rachel Smith - [Washington Roundtable](/org/washington_roundtable/)
 * 💵Amy Harris
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* Eric Pratt - America
+* Tim Eyman - Initiative Activist
+* Chellore Knudtson
+* Ryan Frost - Washington Policy Center
 
-#### 10 ❓ - Other
+#### 18 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

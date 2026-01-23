@@ -10,8 +10,10 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2257 Tax administration
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 30 ❓ - Other
+Testifying:
+* Suzie Hanson - WA Federation of Independent Schools

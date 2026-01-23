@@ -12,7 +12,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
 

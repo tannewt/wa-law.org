@@ -8,17 +8,18 @@
 
 ## Meetings
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5824 Fifth-wheel travel trailers
-Sign up to testify:
-
-#### 42 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Charlie Power - RV Country
 * John McLeod - Camper's Choice RV
 * LaDonna Meadows - Tacoma RV
 * Randy Edwards - RV Country
 * Michael Ochs - RV Industry Association
+* 💵Ken Short - AWB
+* Keith Goehner - WA State Senate
+* Mike Chapman - WA State Senate
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

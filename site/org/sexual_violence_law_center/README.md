@@ -31,6 +31,9 @@
 ### [HB 2178](/bill/2025-26/hb/2178/) - Court rules and procedures   ❓1
 * ❓💵 Elizabeth Hendren
 
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+* 👎💵 Elizabeth Hendren
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  

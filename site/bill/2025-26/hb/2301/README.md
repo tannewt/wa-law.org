@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
-Sign up to testify:
-
-#### 251 👍 - Pro
+#### 271 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Jeremy Jones - American Coatings Associatiom
 * 💵Mike Burgess - [American Coatings Association](/org/american_coatings_association/)
 
-#### 80 👎 - Con
+#### 110 👎 - Con
 Testifying:
 * 💵Brandon Houskeeper - [Western Wood Preservers Institute](/org/western_wood_preservers_institute/)
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 1823 Transp. improvement board

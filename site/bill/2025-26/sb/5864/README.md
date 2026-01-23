@@ -8,14 +8,17 @@
 
 ## Meetings
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5864 Vehicle insurance verif.
-Sign up to testify:
-
-#### 25 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Brian Allen - [Grange Insurance Association](/org/grange_insurance_association/)
 * Dan McGrady - PEMCO Insurance
 * 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 55 👎 - Con
+#### 158 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Kathryn Sheldon
+* Thad Duvall - Douglas County Auditor/ Licensing Co-Chair Washington Association of County Auditors
+* 💵Marian Dacca - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)

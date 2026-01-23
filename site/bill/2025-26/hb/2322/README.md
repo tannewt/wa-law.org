@@ -10,7 +10,9 @@
 ### Thu 01/29 08:00 AM - Environment & Energy (ENVI): HB 2322 Alternative jet fuel
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Derek Phelps - Twelve Benefit Corp
 
 #### 0 👎 - Con
 

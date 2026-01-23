@@ -18,13 +18,16 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Christoph Mair
 
-## [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
 * 👍 Joe Kendo
+
+## [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
+* 👍💵 Carissa Larsen
 
 ## 2023-24
 
-### [SB 5463](/bill/2023-24/sb/5463/) - Industrial insurance/duties 👍1  
-* 👍 Joe Kendo
+### [SB 5847](/bill/2023-24/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
+* 👍💵 Carissa Larsen
 
 ### [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  
 * 👍 Joe Kendo

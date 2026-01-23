@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5945 - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing.</title>
+		<title>SB 5945 - Persistent offenders</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5945/</link>
 		<description>Updates about SB 5945</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 04:54:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -172,6 +172,13 @@
 			<pubDate>Wed, 14 Jan 2026 04:54:57 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kiro7.com/news/local/proposed-wa-bill-would-remove-juvenile-offenses-three-strikes-convictions/4NS7UUA33NAT7EYPKJLSYTZWGU/#:~:text=Senate%20Bill%205945</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

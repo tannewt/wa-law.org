@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2139/</link>
 		<description>Updates about HB 2139</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 11:25:18 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 06:41:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,14 @@
 			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202139</guid>
+		</item>
+		<item>
+			<title>👍Dean Meakin - Washington State Snowmobile Association</title>
+			<description>Dean Meakin signed up to testify Pro. They are signed up to represent Washington State Snowmobile Association.</description>
+			<pubDate>Wed, 21 Jan 2026 09:29:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dean/Meakin/2026-01-21 09:29:21</guid>
 		</item>
 		<item>
 			<title>👍Justinian Davis - Snowmobile Advisory Committee to State Parks</title>
@@ -91,6 +99,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sam/Hensold/2026-01-21 11:25:18</guid>
+		</item>
+		<item>
+			<title>👍Cory Wright - Kittitas County Commissioner</title>
+			<description>Cory Wright signed up to testify Pro. They are signed up to represent Kittitas County Commissioner.</description>
+			<pubDate>Thu, 22 Jan 2026 06:41:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cory/Wright/2026-01-22 06:41:56</guid>
 		</item>
 	</channel>
 </rss>

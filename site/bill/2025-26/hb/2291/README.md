@@ -10,7 +10,7 @@
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2291 Kratom
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

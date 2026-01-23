@@ -58,9 +58,10 @@
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍3  ❓1
 * ❓💵 David Mendoza
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  ❓1
 * 👍 Joshua Rubenstein
 * 👍 Lily Storbeck
+* ❓💵 Justin Allegro
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 David Mendoza

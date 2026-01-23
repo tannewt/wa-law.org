@@ -64,7 +64,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
 

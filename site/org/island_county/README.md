@@ -14,6 +14,8 @@
 
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 * 👍 Janet St Clair
 

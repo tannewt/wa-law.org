@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2100/</link>
 		<description>Updates about HB 2100</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 00:45:07 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 18:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -58,7 +58,7 @@
 			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Payroll%20tax%20proposal</guid>
 		</item>
 		<item>
-			<title>👎Laurie Layne - The Washington Bus</title>
+			<title>👎Laurie Layne - interpreter for testifiers: Lana Yavir and Maria R</title>
 			<description>Laurie Layne signed up to testify Con.</description>
 			<pubDate>Wed, 14 Jan 2026 05:04:13 GMT</pubDate>
 			<category>testifier</category>
@@ -74,7 +74,7 @@
 			<guid isPermaLink="false">testifier/Mike/Yestramski/2026-01-14 10:27:22</guid>
 		</item>
 		<item>
-			<title>👎Eric Lundberg - The Washington Bus</title>
+			<title>👎Eric Lundberg - interpreter for testifiers: Lana Yavir and Maria R</title>
 			<description>Eric Lundberg signed up to testify Con.</description>
 			<pubDate>Thu, 15 Jan 2026 02:06:58 GMT</pubDate>
 			<category>testifier</category>
@@ -534,6 +534,30 @@
 			<guid isPermaLink="false">testifier/Oliver/Miska/2026-01-21 08:30:46</guid>
 		</item>
 		<item>
+			<title>👎Teagan Levine - WASHINGTON STATE HOSPITAL ASSOCIATION</title>
+			<description>Teagan Levine signed up to testify Con.</description>
+			<pubDate>Wed, 21 Jan 2026 08:56:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Teagan/Levine/2026-01-21 08:56:07</guid>
+		</item>
+		<item>
+			<title>👍Annie Fitzgerald - Lavender Rights Project</title>
+			<description>Annie Fitzgerald signed up to testify Pro.</description>
+			<pubDate>Wed, 21 Jan 2026 09:14:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Annie/Fitzgerald/2026-01-21 09:14:17</guid>
+		</item>
+		<item>
+			<title>👎Lisa Olson - WASHINGTON STATE HOSPITAL ASSOCIATION</title>
+			<description>Lisa Olson signed up to testify Con.</description>
+			<pubDate>Wed, 21 Jan 2026 09:21:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lisa/Olson/2026-01-21 09:21:17</guid>
+		</item>
+		<item>
 			<title>👎Joe Fain - Bellevue Chamber of Commerce</title>
 			<description>Joe Fain signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/bellevue_chamber_of_commerce/"&gt;Bellevue Chamber of Commerce&lt;/a&gt;.</description>
 			<pubDate>Wed, 21 Jan 2026 10:03:57 GMT</pubDate>
@@ -574,6 +598,14 @@
 			<guid isPermaLink="false">testifier/Amy/Harris/2026-01-21 10:05:42</guid>
 		</item>
 		<item>
+			<title>👎💵Carolyn Logue - Associated Builders &amp; Contractors Inland Pacific Chapter</title>
+			<description>Carolyn Logue signed up to testify Con. They are signed up to represent Associated Builders &amp; Contractors Inland Pacific Chapter. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Jan 2026 10:24:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2026-01-21 10:24:33</guid>
+		</item>
+		<item>
 			<title>👍Hannah Lindell-Smith - The Washington Bus</title>
 			<description>Hannah Lindell-Smith signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/the_washington_bus/"&gt;The Washington Bus&lt;/a&gt;.</description>
 			<pubDate>Wed, 21 Jan 2026 11:48:56 GMT</pubDate>
@@ -611,6 +643,141 @@
 			<pubDate>Thu, 22 Jan 2026 00:45:07 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202100</guid>
+		</item>
+		<item>
+			<title>👎💵Brandon Houskeeper - NW Grocery Retail Association</title>
+			<description>Brandon Houskeeper signed up to testify Con. They are signed up to represent NW Grocery Retail Association. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Jan 2026 06:12:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brandon/Houskeeper/2026-01-22 06:12:16</guid>
+		</item>
+		<item>
+			<title>👍Heather Bush - The Washington Bus</title>
+			<description>Heather Bush signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 06:14:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Bush/2026-01-22 06:14:43</guid>
+		</item>
+		<item>
+			<title>👎Eric Pratt - America</title>
+			<description>Eric Pratt signed up to testify Con. They are signed up to represent America.</description>
+			<pubDate>Thu, 22 Jan 2026 08:10:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2026-01-22 08:10:03</guid>
+		</item>
+		<item>
+			<title>👍Chris Reykdal - Office of Superintendent of Public Instruction</title>
+			<description>Chris Reykdal signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Thu, 22 Jan 2026 08:55:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Reykdal/2026-01-22 08:55:38</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Thu, 22 Jan 2026 08:58:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2026-01-22 08:58:14</guid>
+		</item>
+		<item>
+			<title>❓Steve Ewing - Dept. of Revenue</title>
+			<description>Steve Ewing signed up to testify Other. They are signed up to represent Dept. of Revenue.</description>
+			<pubDate>Thu, 22 Jan 2026 09:12:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Steve/Ewing/2026-01-22 09:12:27</guid>
+		</item>
+		<item>
+			<title>👎Chellore Knudtson - Initiative Activist</title>
+			<description>Chellore Knudtson signed up to testify Con.</description>
+			<pubDate>Thu, 22 Jan 2026 10:08:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Chellore/Knudtson/2026-01-22 10:08:43</guid>
+		</item>
+		<item>
+			<title>👍Kathleen Richmire - Office of Superintendent of Public Instruction</title>
+			<description>Kathleen Richmire signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 10:25:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathleen/Richmire/2026-01-22 10:25:09</guid>
+		</item>
+		<item>
+			<title>👍Maria R - Office of Superintendent of Public Instruction</title>
+			<description>Maria R signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 10:27:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maria/R/2026-01-22 10:27:42</guid>
+		</item>
+		<item>
+			<title>👍Lana Yavir - Office of Superintendent of Public Instruction</title>
+			<description>Lana Yavir signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 10:29:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lana/Yavir/2026-01-22 10:29:23</guid>
+		</item>
+		<item>
+			<title>👍Ana Claudia Rodriguez Mendoza - Office of Superintendent of Public Instruction</title>
+			<description>Ana Claudia Rodriguez Mendoza signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 10:31:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ana Claudia/Rodriguez Mendoza/2026-01-22 10:31:23</guid>
+		</item>
+		<item>
+			<title>👍Rhonda Parker - Office of Superintendent of Public Instruction</title>
+			<description>Rhonda Parker signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 10:36:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rhonda/Parker/2026-01-22 10:36:03</guid>
+		</item>
+		<item>
+			<title>👍MSLS,BSN, RN, Kathryn Lewandowsky - Office of Superintendent of Public Instruction</title>
+			<description>MSLS,BSN, RN, Kathryn Lewandowsky signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 11:11:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MSLS,BSN, RN, Kathryn/Lewandowsky/2026-01-22 11:11:41</guid>
+		</item>
+		<item>
+			<title>👎Ryan Frost - Washington Policy Center</title>
+			<description>Ryan Frost signed up to testify Con. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Thu, 22 Jan 2026 11:26:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ryan/Frost/2026-01-22 11:26:30</guid>
+		</item>
+		<item>
+			<title>👍Ashley Nerbovig - Office of Superintendent of Public Instruction</title>
+			<description>Ashley Nerbovig signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 11:52:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ashley/Nerbovig/2026-01-22 11:52:54</guid>
+		</item>
+		<item>
+			<title>👍Linda Noble - interpreter for testifiers: Lana Yavir and Maria R</title>
+			<description>Linda Noble signed up to testify Pro. They are signed up to represent interpreter for testifiers: Lana Yavir and Maria R.</description>
+			<pubDate>Thu, 22 Jan 2026 12:28:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Linda/Noble/2026-01-22 12:28:56</guid>
+		</item>
+		<item>
+			<title>Fmr. cabinet appointee joins 12K people against Democrat socialist's payroll tax | Washington | thecentersquare.com</title>
+			<description>News article "Fmr. cabinet appointee joins 12K people against Democrat socialist's payroll tax | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 22 Jan 2026 18:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_e9423791-113f-4689-a927-b622e9e67ae7.html#:~:text=House%20Bill%202100</guid>
 		</item>
 	</channel>
 </rss>

@@ -18,7 +18,7 @@
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 * 👍 Mabel Thackeray
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 

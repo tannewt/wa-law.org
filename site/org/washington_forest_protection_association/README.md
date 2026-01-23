@@ -39,7 +39,7 @@
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 
-### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍1  
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
 
 ### [SB 5994](/bill/2025-26/sb/5994/) - Timber tax distributions 👍1  
 * 👍💵 Matt Doumit

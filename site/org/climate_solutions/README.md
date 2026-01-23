@@ -89,6 +89,10 @@
 * 👎💵 Leah Missik
 * 👎💵 Leah Missik
 
+### [HB 2330](/bill/2025-26/hb/2330/) - Establishing a prioritization process for capital funding for state campus district energy systems. 👍1  
+
+### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
+
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
 * 👍💵 Leah Missik
 

@@ -10,7 +10,7 @@
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2313 Public grocery stores
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

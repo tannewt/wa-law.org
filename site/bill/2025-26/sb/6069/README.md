@@ -14,9 +14,9 @@
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
 
-#### 0 👎 - Con
+#### 31 👎 - Con
 
 #### 0 ❓ - Other
 

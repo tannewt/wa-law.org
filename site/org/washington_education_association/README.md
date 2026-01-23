@@ -335,7 +335,7 @@
 
 ### [HB 2124](/bill/2025-26/hb/2124/) - Concerning the threshold for payment of a lump sum retirement allowance in lieu of a monthly benefit. 👍1  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
 
@@ -777,7 +777,7 @@
 
 ### [SB 5952](/bill/2025-26/sb/5952/) - High school PE waivers  👎1 
 
-### [SB 5956](/bill/2025-26/sb/5956/) - Addressing artificial intelligence, student discipline, and surveillance in public schools. 👍1  
+### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 

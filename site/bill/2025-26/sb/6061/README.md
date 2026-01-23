@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6061 Tourism assessment
-Sign up to testify:
-
-#### 72 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Fred Felleman - [Port of Seattle](/org/port_of_seattle/)
 * Annie McGrath - State of Washington Tourism
@@ -20,7 +18,7 @@ Testifying:
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Shelly Stevens - Tri County Economic Development District (TEDD)
 
-#### 45 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

@@ -35,11 +35,13 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
@@ -64,7 +66,7 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
-### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing. 👍1  
+### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
 ## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 

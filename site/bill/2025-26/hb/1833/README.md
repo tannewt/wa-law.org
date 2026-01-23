@@ -14,9 +14,9 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): SHB 1833 AI grant program
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

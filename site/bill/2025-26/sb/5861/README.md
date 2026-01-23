@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5861 Education/community rep.
-Sign up to testify:
-
-#### 158 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * William Yoon - Youth Civic Bridge
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Christian Bianes-Delrosario
 * Nina Martinez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 
-#### 173 👎 - Con
+#### 270 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

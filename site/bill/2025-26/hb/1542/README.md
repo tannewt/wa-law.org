@@ -14,11 +14,13 @@
 ### Mon 01/26 01:30 PM - Housing (HOUS): HB 1542 Senior independent housing
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Stacey Valenzuela
 
 ### Mon 02/03 01:30 PM - Housing (HOUS): HB 1542 Senior independent housing
 #### 37 👍 - Pro

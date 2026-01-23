@@ -19,6 +19,9 @@
 
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 
+### [HB 2239](/bill/2025-26/hb/2239/) - Providing Washingtonians and their loved ones with location choices for interment of remains. 👍1  
+* 👍💵 Mark Streuli
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5117](/bill/2025-26/sb/5117/) - Agriculture impacts 👍1  

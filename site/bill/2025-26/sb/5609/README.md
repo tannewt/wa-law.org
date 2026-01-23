@@ -14,9 +14,11 @@
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kurt Wilson
 
 #### 0 ❓ - Other
 

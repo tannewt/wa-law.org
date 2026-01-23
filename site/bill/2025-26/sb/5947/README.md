@@ -15,8 +15,10 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5947 Health care board
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 81 👍 - Pro
+Testifying:
+* Steven Field
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

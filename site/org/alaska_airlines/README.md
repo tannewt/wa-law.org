@@ -3,6 +3,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 
+### [HB 2087](/bill/2025-26/hb/2087/) - Addressing travel insurance. 👍1  
+
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  

@@ -14,6 +14,6 @@ Sign up to testify:
 Testifying:
 * Samantha Grono - Washington State Women's Commission
 
-#### 6 👎 - Con
+#### 46 👎 - Con
 
 #### 0 ❓ - Other

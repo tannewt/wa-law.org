@@ -13,8 +13,16 @@
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2387 Elected sheriffs
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 2 👎 - Con
+#### 77 👎 - Con
+Testifying:
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Amy McColm
+* Michael McIntyre - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
+* Fred Thomas - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Karen Peacey - League of Women Voters of WA
 
 #### 0 ❓ - Other

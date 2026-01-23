@@ -72,6 +72,8 @@
 
 ### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
+### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education. 👍1  
+
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  

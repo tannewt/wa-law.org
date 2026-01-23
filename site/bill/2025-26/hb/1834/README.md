@@ -21,11 +21,15 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1834 Online services/minors
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Nick Fielden - Washington State Attorney General's Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1834 Online services/minors
 #### 83 👍 - Pro

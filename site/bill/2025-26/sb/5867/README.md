@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 5867 Mobile pregnancy application
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

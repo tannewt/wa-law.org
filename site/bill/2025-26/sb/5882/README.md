@@ -14,7 +14,9 @@ Sign up to testify:
 Testifying:
 * Michael Rainey - Washington State Council of County and City Employees
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Rose Gundersen - WA Retail Association
 
 #### 0 ❓ - Other
 

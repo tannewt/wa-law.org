@@ -75,6 +75,9 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors  👎1 
+* 👎 Jeannie Magdua
+
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act  👎2 
 * 👎 Mary Long
 

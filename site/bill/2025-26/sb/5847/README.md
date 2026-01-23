@@ -10,13 +10,25 @@
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 5847 Workers' comp. medical care
 Sign up to testify:
 
-#### 150 👍 - Pro
+#### 181 👍 - Pro
+Testifying:
+* 💵Carissa Larsen - [Washington State Labor Council](/org/washington_state_labor_council/)
+* David Lauman - Washington State Association for Justice
+* Lee Thomas - Washington State Association for Justice
+* Brian Wright - Washington State Association for Justice
+* David Penner
+* 💵Minna Long - Washington State Building & Construction Trades Council, AFL-CIO
 
-#### 110 👎 - Con
+#### 119 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
+* 💵James Crandall - AWB
+* Andrew Friedman
+* Kris Tefft
+* Mike Ennis - Building Industry Association of Washington (BIAW)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Brenda Heilman - Department of Labor & Industries
 * Tammy Fellin - Department of Labor & Industries
+* 💵Rose Gundersen - WA Retail Association

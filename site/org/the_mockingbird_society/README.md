@@ -46,7 +46,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2171](/bill/2025-26/hb/2171/) - Foster youth   ❓2
 * ❓💵 Charles Smith
@@ -131,11 +131,13 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
-## [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
+### [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
+
+## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
 
 ## 2023-24
 
-### [SB 6036](/bill/2023-24/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
+### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/27 01:30 PM - State Government & Tribal Relations (SGOV): HB 1692 Tribes/PRA exemption
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/12 01:30 PM - State Government & Tribal Relations (SGOV): HB 1692 Tribes/PRA exemption
 #### 12 👍 - Pro
 Testifying:

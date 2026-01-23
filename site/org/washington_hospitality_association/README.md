@@ -272,7 +272,7 @@
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
 * ❓ Jeff Gunn
 
-### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍3  
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍3  
 * 👍💵 Logan Dozier
 
 ### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking   ❓2

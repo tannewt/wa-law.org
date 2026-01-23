@@ -56,6 +56,8 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
+### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
+
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  

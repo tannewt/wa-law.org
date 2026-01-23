@@ -25,6 +25,9 @@
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎2 
 * 👎 Martina Morris
 
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+* 👎 Fred Thomas
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍4  
 * 👍 Shelly Washington
 * 👍💵 Nickeia Hunter

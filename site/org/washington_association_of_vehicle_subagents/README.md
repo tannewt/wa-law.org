@@ -7,13 +7,16 @@
 ### [HB 2114](/bill/2025-26/hb/2114/) - Defective license plates   ❓1
 * ❓ Brian Cullinane
 
-## [SB 5432](/bill/2025-26/sb/5432/) - License plate production 👍1  
+### [SB 5432](/bill/2025-26/sb/5432/) - License plate production 👍1  
 * 👍 Brian Cullinane
+
+## [SB 5864](/bill/2025-26/sb/5864/) - Concerning verification of motor vehicle insurance.   ❓1
+* ❓💵 Marian Dacca
 
 ## 2023-24
 
-### [SB 5432](/bill/2023-24/sb/5432/) - License plate production 👍1  
-* 👍 Brian Cullinane
+### [SB 5864](/bill/2023-24/sb/5864/) - Concerning verification of motor vehicle insurance.   ❓1
+* ❓💵 Marian Dacca
 
 ### [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 * 👍 Joe DePinto

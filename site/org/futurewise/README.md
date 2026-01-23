@@ -107,6 +107,9 @@
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+* 👍💵 Bryce Yadon
+
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.  👎1 

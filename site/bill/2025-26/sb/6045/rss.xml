@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6045/</link>
 		<description>Updates about SB 6045</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 08:50:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 11:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -298,6 +298,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Michael/Gempler/2026-01-20 08:50:24</guid>
+		</item>
+		<item>
+			<title>State Bills Bring Farmworkers to the Table - The Stranger</title>
+			<description>News article "State Bills Bring Farmworkers to the Table - The Stranger" from The Stranger.</description>
+			<pubDate>Thu, 22 Jan 2026 11:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thestranger.com/news/2026/01/22/80432178/state-bills-bring-farmworkers-to-the-table#:~:text=Senate%20Bill%206045</guid>
 		</item>
 	</channel>
 </rss>

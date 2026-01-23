@@ -63,6 +63,9 @@
 * 👍 Lily Martin
 * 👍 Colin Bell
 
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+* 👎 Michael McIntyre
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  

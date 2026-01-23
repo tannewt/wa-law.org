@@ -10,7 +10,9 @@
 ### Tue 01/27 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2386 Garnishment forms
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Judge Andrew Biviano - District & Municipal Court Judges' Association
 
 #### 0 👎 - Con
 

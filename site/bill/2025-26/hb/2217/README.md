@@ -10,7 +10,9 @@
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2217 Rehabilitative pathways
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Gisella Gonzales - Team children
 
 #### 0 👎 - Con
 

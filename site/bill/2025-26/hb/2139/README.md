@@ -12,17 +12,17 @@
 
 ## Meetings
 ### Thu 01/22 04:00 PM - Transportation (TR): HB 2139 Snowmobile registration fees
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
+* Dean Meakin - Washington State Snowmobile Association
 * Justinian Davis - Snowmobile Advisory Committee to State Parks
 * Cindy Hoover
 * Brian Considine - WA State Parks, External and Legislative Relations Director
 * Rob Sendak - WA State Parks, Winter Recreation & Boating Program Manager
 * Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Cory Wright - Kittitas County Commissioner
 
-#### 86 👎 - Con
+#### 148 👎 - Con
 Testifying:
 * Stephen Alldridge - Z Bus
 * Greg Figg - Spokane Winter Knights Snowmobile Club

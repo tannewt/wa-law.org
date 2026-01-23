@@ -69,6 +69,9 @@
 ### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
 * 👍💵 Dan Bertolet
 
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+* 👍💵 Dan Bertolet
+
 ### [HB 2381](/bill/2025-26/hb/2381/) - Low-rise res. buildings 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  

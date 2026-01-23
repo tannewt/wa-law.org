@@ -10,10 +10,18 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 6017 Crime victims & witnesses
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Abigail Echo-Hawk - Seattle Indian Health Board
+* Temryss Lane
+* Emi Koyama - Coalition for Rights & Safety
+* Celeste Lucero - Seattle Indian Health Board
+* Jocelyn Cooney - King County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lauren Vlas - Attorney General's Office

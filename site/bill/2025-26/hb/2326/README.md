@@ -8,15 +8,15 @@
 
 ## Meetings
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2326 Emerg. med. service levies
-Sign up to testify:
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * John Nohr - clark-cowlitz fire and rescue
 * Ryan spiller - WA Fire Commissioners Association
+* Chris Drone - Fire Chief - Clark County Fire District 3
 
-#### 21 👎 - Con
+#### 66 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Laurie Layne
 
 #### 0 ❓ - Other

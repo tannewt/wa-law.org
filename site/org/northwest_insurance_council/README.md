@@ -30,7 +30,7 @@
 
 ### [SB 5919](/bill/2025-26/sb/5919/) - Fire best practices 👍1  
 
-### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure.   ❓1
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 * ❓💵 Kenton Brine
 
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 

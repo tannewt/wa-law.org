@@ -6,6 +6,8 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍 Suresh Chanmugam
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍2  
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax 👍1  

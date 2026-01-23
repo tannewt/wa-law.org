@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 6032 Vehicle loads
-Sign up to testify:
-
-#### 36 👍 - Pro
+#### 139 👍 - Pro
 Testifying:
 * Mark Couper
 * Mike Ennis
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 5765 Psychiatric pharmacists
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association

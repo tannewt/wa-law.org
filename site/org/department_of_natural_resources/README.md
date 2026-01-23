@@ -63,6 +63,12 @@
 * ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
+### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+* 👍 Pat Sullivan
+
+### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
+* 👍 George Geissler
+
 ### [HB 2139](/bill/2025-26/hb/2139/) - Snowmobile registration fees 👍1  
 * 👍 Sam Hensold
 
@@ -120,7 +126,7 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
 
-### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure.   ❓1
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing   ❓1
 

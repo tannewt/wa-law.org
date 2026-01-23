@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5829 Attorney general inv. ID
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

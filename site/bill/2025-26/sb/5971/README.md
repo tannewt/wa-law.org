@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5971 Green fertilizer incentives
-Sign up to testify:
-
-#### 124 👍 - Pro
+#### 211 👍 - Pro
 Testifying:
 * Erik Kamrath - Natural Resources Defense Council
 * charlotte furner - nobody
@@ -18,9 +16,11 @@ Testifying:
 * KARL DYE - TRIDEC
 * Cassie Losey - Port of Benton
 * 💵Mark Streuli - Washington Potato Commission
+* Phyllis Farrell - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Seth Worley - Government Affairs Director, UA Plumbers & Steamfitters Local 598
+* Reagan Grabner - CSS Farms
 
-#### 647 👎 - Con
+#### 737 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

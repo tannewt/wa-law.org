@@ -10,7 +10,7 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1570 Academic employee bargaining
 Sign up to testify:
 
-#### 85 👍 - Pro
+#### 307 👍 - Pro
 
 #### 0 👎 - Con
 

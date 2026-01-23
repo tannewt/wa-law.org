@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2343 Game farm/water quality
-Sign up to testify:
-
-#### 374 👍 - Pro
+#### 441 👍 - Pro
 Testifying:
 * Norm Chapman - Mayor of Centralia WA
 * Andy Oien - Centralia Public Works
@@ -23,7 +21,7 @@ Testifying:
 * Amy White - Fords Prairie / Mayberry Road resident
 * Sean Swope
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

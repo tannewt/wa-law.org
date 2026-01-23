@@ -19,7 +19,7 @@
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍7  
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍8  
 * 👍 Stephan Blanford
 * 👍 Stephan Blanford
 

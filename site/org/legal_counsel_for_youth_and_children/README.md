@@ -177,9 +177,9 @@
 
 ### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board.   ❓1
 
-### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing. 👍1  
+### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5956](/bill/2025-26/sb/5956/) - Addressing artificial intelligence, student discipline, and surveillance in public schools. 👍1  
+### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 

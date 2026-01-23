@@ -110,6 +110,9 @@
 
 ### [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 
+### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification   ❓1
+* ❓ Brian Hatfield
+
 ### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
 * 👍 Sam Reed
 * 👍 Steve Hobbs

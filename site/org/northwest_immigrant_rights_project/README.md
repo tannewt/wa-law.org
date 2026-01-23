@@ -37,7 +37,7 @@
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 * 👍💵 Malou Chavez
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Concerning applications for state financial aid. 👍2  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
@@ -47,6 +47,9 @@
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 * 👍 Tim Warden-Hertz
+
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎2 
+* 👎💵 Malou Chavez
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 

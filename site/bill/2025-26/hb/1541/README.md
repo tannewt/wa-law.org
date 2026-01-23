@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Second Engrossed Substitute](S.E2/)
 
 ## Meetings
 ### Tue 03/25 01:30 PM - State Government & Elections (SGE): ESHB 1541 Veterans affairs adv. comm.

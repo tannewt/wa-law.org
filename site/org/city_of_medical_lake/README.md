@@ -23,12 +23,12 @@
 
 ### [SB 5919](/bill/2025-26/sb/5919/) - Fire best practices 👍1  
 
-## [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍2  
+## [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍2  
 * 👍 Mayor Terri Cooper
 
 ## 2023-24
 
-### [SB 5928](/bill/2023-24/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍2  
+### [SB 5928](/bill/2023-24/sb/5928/) - Wildfire risk models 👍2  
 * 👍 Mayor Terri Cooper
 
 ## [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction 👍2  

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall bill to reduce Sea-Tac Airport’s environmental and health effects heard in committee - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/01/22/orwall-bill-to-reduce-sea-tac-airports-environmental-and-health-effects-heard-in-committee/#:~:text=Senate%20Bill%205652)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205652)
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=environmental%20and%20health%20disparities)
 

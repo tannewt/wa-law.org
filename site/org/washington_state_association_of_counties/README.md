@@ -428,7 +428,8 @@
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
 * 👎💵 Curtis Steinhauer
 
-### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓2
+* ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
@@ -473,13 +474,15 @@
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers   ❓1
 * ❓💵 Paul Jewell
 
+### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification 👍1  
+
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax   ❓1
 * ❓💵 Paul Jewell
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing.  👎1 
+### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders  👎1 
 * 👎💵 Travis Dutton
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1

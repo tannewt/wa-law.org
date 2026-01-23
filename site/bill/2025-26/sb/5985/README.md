@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 5985 Endometriosis
-Sign up to testify:
-
-#### 32 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Wendy Bingham - Extrapelvic Not Rare
 * Debrah Stark
 * Heather Guidone - Center for Endometriosis Care
 * Amara Drazkowski
 * Aparna Ramanathan - [University of Washington](/org/university_of_washington/)
+* Angela Ruggiero
 * Heidi Berthoud
 
-#### 36 👎 - Con
+#### 56 👎 - Con
 
 #### 0 ❓ - Other

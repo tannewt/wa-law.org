@@ -10,7 +10,7 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2175 Free DME providers/tax
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
 
 #### 0 👎 - Con
 

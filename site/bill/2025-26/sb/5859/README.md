@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 5859 Competency-based assessments
-Sign up to testify:
-
-#### 15 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Viet Cao Minh
 * Duncan Hamshere - Pearson
@@ -21,7 +19,7 @@ Testifying:
 * Nora Palattao Burnes - Pearson
 * Paul Kelly - Pearson
 
-#### 766 👎 - Con
+#### 898 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

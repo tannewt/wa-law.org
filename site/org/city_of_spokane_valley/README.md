@@ -103,6 +103,8 @@
 
 ### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.  👎1 
 
+### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
+
 ### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
 
 ### [HB 2156](/bill/2025-26/hb/2156/) - AGO investigator authority  👎2 
@@ -204,7 +206,7 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-### [SB 5928](/bill/2025-26/sb/5928/) - Concerning wildfire risk models and score disclosure. 👍1  
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
 
 ### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
 
@@ -212,7 +214,7 @@
 
 ### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board. 👍1  
 
-### [SB 5945](/bill/2025-26/sb/5945/) - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing.  👎1 
+### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders  👎1 
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 

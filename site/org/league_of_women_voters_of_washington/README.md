@@ -183,7 +183,8 @@
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Ann Murphy
 
-### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
+* 👍 Phyllis Farrell
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 * 👍 Alison McCaffree

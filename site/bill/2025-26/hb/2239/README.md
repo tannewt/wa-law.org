@@ -14,8 +14,11 @@
 ### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2239 Family burial grounds
 Sign up to testify:
 
-#### 25 👍 - Pro
+#### 204 👍 - Pro
+Testifying:
+* Ewing Stringfellow - Stringfellow Family Farm
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

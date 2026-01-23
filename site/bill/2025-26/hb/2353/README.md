@@ -10,7 +10,7 @@
 ### Thu 01/29 01:30 PM - Capital Budget (CB): HB 2353 Capital predesign thresholds
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

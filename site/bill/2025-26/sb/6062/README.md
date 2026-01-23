@@ -10,8 +10,11 @@
 ### Mon 01/26 01:30 PM - Human Services (HS): SB 6062 Criminal offenses under 18
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 47 👍 - Pro
+Testifying:
+* Gisella Gonzales - Team children
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

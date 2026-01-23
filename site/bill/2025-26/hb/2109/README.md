@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Thu 01/22 04:00 PM - Transportation (TR): HB 2109 Vehicle loads
-Sign up to testify:
-
-#### 63 👍 - Pro
+#### 217 👍 - Pro
 Testifying:
 * Mark Couper
 * Mike Ennis
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

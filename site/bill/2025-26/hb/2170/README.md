@@ -10,8 +10,11 @@
 ### Wed 01/28 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2170 Ecosystem services
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Mark Ozias - Clallam County
+* Amy Cruver - representing Pierce County 3rd Council District
 
 #### 0 ❓ - Other

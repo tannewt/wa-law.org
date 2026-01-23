@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Thu 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5816 Sale of juice grapes
-Sign up to testify:
-
-#### 14 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * David Golladay
+* David Golladay
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

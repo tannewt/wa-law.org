@@ -10,7 +10,9 @@
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2199 Derelict vessels
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* James Weaver - Port of Poulsbo
 
 #### 0 👎 - Con
 

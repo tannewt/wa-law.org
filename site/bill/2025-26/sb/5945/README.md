@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5945](/bill/2025-26/sb/5945/)
 
-# SB 5945 - Modifying the definition of persistent offender to exclude convictions for offenses committed by someone under the age of 18 and providing for resentencing.
+# SB 5945 - Persistent offenders
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5945&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/14/2026 [KIRO7](/org/kiro7/) - [Proposed WA bill would remove juvenile offenses from ‘Three Strikes’ convictions – KIRO 7 News Seattle](https://www.kiro7.com/news/local/proposed-wa-bill-would-remove-juvenile-offenses-three-strikes-convictions/4NS7UUA33NAT7EYPKJLSYTZWGU/#:~:text=Senate%20Bill%205945)

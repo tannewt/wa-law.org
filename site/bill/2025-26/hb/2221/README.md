@@ -10,8 +10,10 @@
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2221 Ungulate populations
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 13 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* PHD, Susan Kane-Ronning - Washington Sierra Club
 
 #### 0 ❓ - Other

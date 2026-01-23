@@ -16,6 +16,8 @@
 
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 
+### [HB 2330](/bill/2025-26/hb/2330/) - Establishing a prioritization process for capital funding for state campus district energy systems. 👍1  
+
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
 ## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 

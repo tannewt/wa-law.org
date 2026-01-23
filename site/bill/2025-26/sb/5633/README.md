@@ -19,7 +19,9 @@ Sign up to testify:
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 02/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5633 Subdivision of land
 #### 112 👍 - Pro

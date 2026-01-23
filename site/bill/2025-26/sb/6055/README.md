@@ -12,6 +12,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 111 👎 - Con
+Testifying:
+* 💵Aoibheann Cline - National Rifle Association - Institute for Legislative Action
+* Michael McKinley
 
 #### 0 ❓ - Other
