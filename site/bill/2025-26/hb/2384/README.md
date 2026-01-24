@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/23 08:00 AM - Health Care & Wellness (HCW): HB 2384 Continuing care retirement
-Sign up to testify:
-
-#### 337 👍 - Pro
+#### 342 👍 - Pro
 Testifying:
 * Laura Saunders - [Washington Continuing Care Residents Association](/org/washington_continuing_care_residents_association/)
 * Laura Saunders - WACCRA
@@ -19,8 +17,8 @@ Testifying:
 * Kim Hickman - WACCRA
 * Laura Saunders - Washington Continuing Care Residents Association (WACCRA)
 
-#### 15 👎 - Con
+#### 18 👎 - Con
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Alyssa Odegaard - LeadingAge Washington

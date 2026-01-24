@@ -10,16 +10,15 @@
 
 ## Meetings
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 1960 Renewable energy
-Sign up to testify:
-
-#### 219 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Lily Storbeck - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Jackie Brunson - Washington State Association of County Treasurers
 * Mike Hougardy - Kittitas County Assessor
+* 💵Travis Dutton - Association of Washington Counties
 
-#### 127 👎 - Con
+#### 167 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)

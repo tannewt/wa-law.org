@@ -6,11 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202175)
+
 ## Meetings
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2175 Free DME providers/tax
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 40 👍 - Pro
+Testifying:
+* Jerry Rhoads - KC Help (knights Community Hospital Equipment lend Program)
 
 #### 0 👎 - Con
 

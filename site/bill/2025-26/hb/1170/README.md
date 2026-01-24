@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%201170)
 * 01/14/2026 [Washington State Standard](/org/washington_state_standard/) - [How Washington state lawmakers want to regulate AI • Washington State Standard](https://washingtonstatestandard.com/2026/01/14/how-washington-state-lawmakers-want-to-regulate-ai/#:~:text=House%20Bill%201170)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201170)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%201170)
@@ -19,7 +20,7 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1170 AI content notices
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 
 #### 0 👎 - Con
 

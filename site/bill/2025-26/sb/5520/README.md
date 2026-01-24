@@ -10,8 +10,8 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5520 Wrongly convicted persons
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 11 👎 - Con
+#### 97 👎 - Con
 
 #### 0 ❓ - Other

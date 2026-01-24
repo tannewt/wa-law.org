@@ -46,11 +46,15 @@
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍3  
 
-## [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍3  
+### [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍3  
+
+## [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
+* 👍 PAULA REED
 
 ## 2023-24
 
-### [SB 5375](/bill/2023-24/sb/5375/) - Clergy, duty to report abuse 👍3  
+### [SB 6017](/bill/2023-24/sb/6017/) - Crime victims & witnesses 👍1  
+* 👍 PAULA REED
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

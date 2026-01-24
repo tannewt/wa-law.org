@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5921/</link>
 		<description>Updates about SB 5921</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 11:04:38 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 11:42:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mark/Gaskill/2026-01-22 11:04:38</guid>
+		</item>
+		<item>
+			<title>👍Joy Laramy - Marriage and Family Therapy Associates</title>
+			<description>Joy Laramy signed up to testify Pro.</description>
+			<pubDate>Fri, 23 Jan 2026 07:11:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joy/Laramy/2026-01-23 07:11:58</guid>
+		</item>
+		<item>
+			<title>👍Matt Thierfelder - N/A</title>
+			<description>Matt Thierfelder signed up to testify Pro. They are signed up to represent N/A.</description>
+			<pubDate>Fri, 23 Jan 2026 11:42:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Thierfelder/2026-01-23 11:42:50</guid>
 		</item>
 	</channel>
 </rss>

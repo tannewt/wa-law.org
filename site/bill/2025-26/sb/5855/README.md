@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%205855)
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB%205855)
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What I’m working on this session - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/23/what-im-working-on-this-session/#:~:text=Senate%20Bill%205855)
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Happy week two of the 2026 legislative session! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/01/23/happy-week-two-of-the-2026-legislative-session/#:~:text=Senate%20Bill 5855)
 * 01/22/2026 [MyNorthwest](/org/mynorthwest/) - [Taking aim at ICE: State bill would ban former agents from being hired as police officers - MyNorthwest.com](https://mynorthwest.com/local/ice-bill-police-officers/4191755#:~:text=Senate%20Bill%205855)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%205855)
 * 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=Senate%20Bill%205855)

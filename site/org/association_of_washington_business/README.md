@@ -443,7 +443,7 @@
 
 ### [HB 2113](/bill/2025-26/hb/2113/) - Radiologic technologists 👍1  
 
-### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases.  👎1 
+### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm.  👎1 
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
 * 👎💵 Emily Wittman
@@ -470,6 +470,8 @@
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 
 * 👎 Peter God
+
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency 👍1  
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 

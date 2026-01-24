@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%201834)
 * 01/20/2026 [KUOW](/org/kuow/) - [KUOW - Push for youth social media safeguards revived in WA Legislature](https://www.kuow.org/stories/push-for-youth-social-media-safeguards-revived-in-wa-legislature#:~:text=House%20Bill%201834)
 * 01/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Push for youth social media safeguards revived in WA Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/jan/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=House%20Bill%201834)
 * 01/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Push for youth social media safeguards revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=House%20Bill%201834)
@@ -21,15 +22,15 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1834 Online services/minors
 Sign up to testify:
 
-#### 17 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * Nick Fielden - Washington State Attorney General's Office
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1834 Online services/minors
 #### 83 👍 - Pro

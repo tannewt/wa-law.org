@@ -58,6 +58,8 @@
 * 👎💵 Bill Stauffacher
 * ❓💵 Marissa Ingalls
 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍2  
+
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy   ❓2
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB%205967)
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Happy week two of the 2026 legislative session! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/01/23/happy-week-two-of-the-2026-legislative-session/#:~:text=Senate%20Bill%205967)
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205967)
 * 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=SB%205967)
 

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 5899 Chiropractic/animals
-Sign up to testify:
-
-#### 58 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Dr. Heidi Bockhold - Options For Animals
 * Dr. Matt Waldron - WA State Chiropractic Association
@@ -19,8 +17,9 @@ Testifying:
 * DVM, Gene Giggleman - Parker University Animal Chiropractic Program
 * Dr. Heidi Bockhold - Options For Animals
 * Susan Jensen - Chiropractic Quality Assurance Commission
+* Marko Liias - Senator
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Eddie Haigh DVM - Washington State Veterinary Medical Assoc.
 * 💵Greg Hanon - Washington State Veterinary Medical Assoc.

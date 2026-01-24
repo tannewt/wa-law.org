@@ -202,11 +202,11 @@
 
 ### [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

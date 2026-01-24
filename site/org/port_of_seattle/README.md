@@ -72,6 +72,8 @@
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 * 👍 John Flanagan
 
+### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
+
 ### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  

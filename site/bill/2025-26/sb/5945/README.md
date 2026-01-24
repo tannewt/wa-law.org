@@ -11,6 +11,15 @@
 * 01/14/2026 [KIRO7](/org/kiro7/) - [Proposed WA bill would remove juvenile offenses from ‘Three Strikes’ convictions – KIRO 7 News Seattle](https://www.kiro7.com/news/local/proposed-wa-bill-would-remove-juvenile-offenses-three-strikes-convictions/4NS7UUA33NAT7EYPKJLSYTZWGU/#:~:text=Senate%20Bill%205945)
 
 ## Meetings
+### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5945 Persistent offenders
+Sign up to testify:
+
+#### 110 👍 - Pro
+
+#### 255 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - Human Services (HS): SB 5945 Persistent offenders
 #### 261 👍 - Pro
 Testifying:

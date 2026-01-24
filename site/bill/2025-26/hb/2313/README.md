@@ -6,12 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202313)
+
 ## Meetings
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2313 Public grocery stores
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Avyay Nalumachu
+* Erik Ghulyan
+* Erik Straka
 
 #### 0 ❓ - Other

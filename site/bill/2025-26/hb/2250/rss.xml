@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2250/</link>
 		<description>Updates about HB 2250</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 02:56:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Robert Rosencrantz - Pend Oreille County</title>
+			<description>Robert Rosencrantz signed up to testify Pro. They are signed up to represent Pend Oreille County.</description>
+			<pubDate>Fri, 23 Jan 2026 02:56:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Rosencrantz/2026-01-23 02:56:41</guid>
 		</item>
 	</channel>
 </rss>

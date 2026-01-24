@@ -8,15 +8,18 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%201542)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=HB%201542)
 
 ## Meetings
 ### Mon 01/26 01:30 PM - Housing (HOUS): HB 1542 Senior independent housing
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Cathy MacCaul - AARP Washington
 
-#### 0 👎 - Con
+#### 45 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

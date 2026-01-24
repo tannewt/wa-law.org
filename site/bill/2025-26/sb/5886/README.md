@@ -13,7 +13,7 @@
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 5886 Forged digital likenesses
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 20 👍 - Pro
 
 #### 0 👎 - Con
 

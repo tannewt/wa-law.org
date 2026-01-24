@@ -331,7 +331,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
-### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases. 👍1  
+### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm. 👍1  
 
 ### [HB 2124](/bill/2025-26/hb/2124/) - Concerning the threshold for payment of a lump sum retirement allowance in lieu of a monthly benefit. 👍1  
 

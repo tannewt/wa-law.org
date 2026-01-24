@@ -10,7 +10,9 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2270 Lodging tax revenue use
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 1 👎 - Con
 

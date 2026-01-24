@@ -1,13 +1,16 @@
 # Freedom Foundation
 ## 2025-26
 
-## [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining   ❓1
+### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining   ❓1
 * ❓💵 Maxford Nelsen
+
+## [HB 2391](/bill/2025-26/hb/2391/) - PRA/lists of individuals  👎1 
+* 👎💵 Maxford Nelsen
 
 ## 2023-24
 
-### [HB 1069](/bill/2023-24/hb/1069/) - Supp. retirement bargaining   ❓1
-* ❓💵 Maxford Nelsen
+### [HB 2391](/bill/2023-24/hb/2391/) - PRA/lists of individuals  👎1 
+* 👎💵 Maxford Nelsen
 
 ### [HB 1122](/bill/2023-24/hb/1122/) - WMS bargaining   ❓1
 * ❓💵 Maxford Nelsen

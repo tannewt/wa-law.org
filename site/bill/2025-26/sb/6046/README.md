@@ -10,7 +10,7 @@
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6046 Civil air patrol
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
 
 #### 0 👎 - Con
 

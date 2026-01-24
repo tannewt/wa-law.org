@@ -5,7 +5,7 @@
 
 ### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
 
-### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases. 👍2  
+### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm. 👍2  
 * 👍💵 Matt Prokop
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  

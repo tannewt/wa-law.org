@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=install%20portable%20solar%20devices)
+
 ## Meetings
 ### Tue 01/13 01:30 PM - Environment, Energy & Technology (ENET): SB 6050 Distributed energy resources
 #### 180 👍 - Pro

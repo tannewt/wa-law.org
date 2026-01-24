@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Fri 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2304 Condominium warranties
-Sign up to testify:
-
-#### 484 👍 - Pro
+#### 525 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
@@ -31,6 +29,8 @@ Testifying:
 * Mary Drury - Washington Realtor
 * 💵Ryan Donohue - Habitat for Humanity, Seattle-King & Kittitas Counties
 * Tyler Langford - Office of the Insurance Commissioner
+* Rico Quirindongo - [City of Seattle](/org/city_of_seattle/)
+* Michael Hubner - City of Seattle, Office of Planning and Community Development
 
 #### 2 👎 - Con
 

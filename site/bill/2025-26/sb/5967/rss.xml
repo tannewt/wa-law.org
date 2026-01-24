@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5967/</link>
 		<description>Updates about SB 5967</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Jan 2026 03:24:40 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 23:23:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -220,6 +220,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Natalie/Chavez/2026-01-15 03:24:40</guid>
+		</item>
+		<item>
+			<title>Happy week two of the 2026 legislative session! - Sen. Vandana Slatter</title>
+			<description>News article "Happy week two of the 2026 legislative session! - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Fri, 23 Jan 2026 17:37:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2026/01/23/happy-week-two-of-the-2026-legislative-session/#:~:text=Senate%20Bill%205967</guid>
+		</item>
+		<item>
+			<title>Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett</title>
+			<description>News article "Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett" from Senate Democrats.</description>
+			<pubDate>Fri, 23 Jan 2026 23:23:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB%205967</guid>
 		</item>
 	</channel>
 </rss>

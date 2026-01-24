@@ -61,6 +61,8 @@
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 * 👎💵 John Rothlin
 
+### [SB 5893](/bill/2025-26/sb/5893/) - Forest health appropriation 👍1  
+
 ## [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍2  
 * 👍💵 John Rothlin
 * 👍💵 John Rothlin

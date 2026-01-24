@@ -12,6 +12,8 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 
 #### 0 ❓ - Other

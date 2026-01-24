@@ -10,7 +10,7 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5934 Postconviction DNA testing
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 
 #### 1 👎 - Con
 

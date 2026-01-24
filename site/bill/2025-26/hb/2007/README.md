@@ -10,7 +10,9 @@
 ### Thu 01/29 08:00 AM - Education (ED): HB 2007 Competency-based assessments
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* Abigail Stiffler
 
 #### 1 👎 - Con
 

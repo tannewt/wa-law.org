@@ -79,6 +79,9 @@
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship   ❓1
 
+### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
+* 👍 Pat Sullivan
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
 * 👍 Duane Emmons
 * 👍 Duane Emmons

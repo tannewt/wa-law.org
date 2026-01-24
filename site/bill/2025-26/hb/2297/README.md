@@ -13,7 +13,7 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2297 Grocery store incentives
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
 #### 1 👎 - Con
 

@@ -12,8 +12,9 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 30 ❓ - Other
+#### 47 ❓ - Other
 Testifying:
 * Suzie Hanson - WA Federation of Independent Schools
+* Milt Harper - Student Orchestras of Greater Olympia

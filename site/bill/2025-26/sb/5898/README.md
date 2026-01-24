@@ -10,7 +10,9 @@
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SB 5898 Aircraft fuel tax proceeds
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 
 #### 0 👎 - Con
 

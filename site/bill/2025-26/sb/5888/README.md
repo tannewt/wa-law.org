@@ -8,12 +8,10 @@
 
 ## Meetings
 ### Fri 01/23 10:30 AM - State Government & Elections (SGE): SB 5888 Women's commission members
-Sign up to testify:
-
 #### 6 👍 - Pro
 Testifying:
 * Samantha Grono - Washington State Women's Commission
 
-#### 46 👎 - Con
+#### 66 👎 - Con
 
 #### 0 ❓ - Other

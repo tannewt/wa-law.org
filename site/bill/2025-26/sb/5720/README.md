@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5720 Uniform debt default act

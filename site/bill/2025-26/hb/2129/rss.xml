@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2129/</link>
 		<description>Updates about HB 2129</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 04:02:37 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 18:19:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Darrin/morrison/2026-01-21 04:02:37</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 26-30, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 26-30, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 23 Jan 2026 18:19:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202129</guid>
 		</item>
 	</channel>
 </rss>

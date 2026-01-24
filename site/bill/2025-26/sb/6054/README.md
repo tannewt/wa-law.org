@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session is in Full Swing! - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/23/the-2026-legislative-session-is-in-full-swing/#:~:text=SB%206054)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=SB%206054)
 
 ## Meetings

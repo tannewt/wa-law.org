@@ -12,6 +12,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 4 👎 - Con
+#### 58 👎 - Con
+Testifying:
+* Cathy MacCaul - AARP Washington
 
 #### 0 ❓ - Other

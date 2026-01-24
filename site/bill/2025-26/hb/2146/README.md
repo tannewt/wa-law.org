@@ -10,10 +10,13 @@
 ### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2146 Sexual exploitation of minor
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * Robin Sand - Pierce County Prosecutor's Office
 * Stephen Thomas - Olympia Police Department
+* Bryce Nelson - Pierce County Prosecutor's Office
+* Ivy-Rose Kramer - Pierce County Prosecutor's Office
+* Robin Sand - Pierce County Prosecutor's Office
 
 #### 0 👎 - Con
 

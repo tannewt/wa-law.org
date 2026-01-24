@@ -10,7 +10,7 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2227 Affordable housing/REET
 Sign up to testify:
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Kerri Burnside - Bellingham Tenants Union
 

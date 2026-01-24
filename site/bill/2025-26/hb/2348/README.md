@@ -8,11 +8,11 @@
 
 ## Meetings
 ### Fri 01/23 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2348 Timber sale process
-Sign up to testify:
-
-#### 31 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * 💵Heath Heikkila - American Forest Resource Council
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 #### 1 👎 - Con
 

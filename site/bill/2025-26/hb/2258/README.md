@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2258 Animal control excise tax
-Sign up to testify:
-
 #### 711 👍 - Pro
 Testifying:
 * Commissioner Carolina Mejia - [Thurston County](/org/thurston_county/)

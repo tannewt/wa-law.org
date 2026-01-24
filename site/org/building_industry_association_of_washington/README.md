@@ -401,7 +401,7 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 
-### [SB 5874](/bill/2025-26/sb/5874/) - Concerning employers' information reporting for purposes of unemployment compensation. 👍1  
+### [SB 5874](/bill/2025-26/sb/5874/) - Unemployment info. reporting 👍1  
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers  👎1 
 

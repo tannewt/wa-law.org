@@ -15,8 +15,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 4 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * 💵Timothy Grisham - WA Assn of County Officials
+* WILLIAM LEACH - Benton County Coroner's Office
+* Warren McLeod - Lewis County Coroner-WACME
 
 #### 0 ❓ - Other

@@ -6,11 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%201364%20()
+
 ## Meetings
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 1364 Unlicensed bingo, etc.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Erin Thoeny
 
 #### 0 👎 - Con
 

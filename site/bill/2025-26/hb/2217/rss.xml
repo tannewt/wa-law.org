@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2217/</link>
 		<description>Updates about HB 2217</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 01:27:11 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 11:14:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Gisella/Gonzales/2026-01-22 01:27:11</guid>
+		</item>
+		<item>
+			<title>👍Kevin Schnepel - Team children</title>
+			<description>Kevin Schnepel signed up to testify Pro.</description>
+			<pubDate>Fri, 23 Jan 2026 03:36:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Schnepel/2026-01-23 03:36:01</guid>
+		</item>
+		<item>
+			<title>👍Kari Reardon - WACDL/WDA</title>
+			<description>Kari Reardon signed up to testify Pro. They are signed up to represent WACDL/WDA.</description>
+			<pubDate>Fri, 23 Jan 2026 11:04:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kari/Reardon/2026-01-23 11:04:35</guid>
+		</item>
+		<item>
+			<title>👍Andre Penalver - Minority &amp; Justice Commission</title>
+			<description>Andre Penalver signed up to testify Pro. They are signed up to represent Minority &amp; Justice Commission.</description>
+			<pubDate>Fri, 23 Jan 2026 11:14:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andre/Penalver/2026-01-23 11:14:47</guid>
 		</item>
 	</channel>
 </rss>

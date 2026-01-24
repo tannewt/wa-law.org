@@ -13,9 +13,9 @@
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5633 Subdivision of land
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 67 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

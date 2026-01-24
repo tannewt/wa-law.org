@@ -10,8 +10,8 @@
 ### Wed 01/28 08:00 AM - Labor & Workplace Standards (LAWS): HB 2188 Industrial insurance rates
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 74 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

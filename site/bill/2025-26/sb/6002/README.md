@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB%206002)
 * 01/22/2026 [MyNorthwest](/org/mynorthwest/) - [Taking aim at ICE: State bill would ban former agents from being hired as police officers - MyNorthwest.com](https://mynorthwest.com/local/ice-bill-police-officers/4191755#:~:text=Senate%20Bill%206002)
 * 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=Senate%20Bill%206002)
 * 01/19/2026 [The Urbanist](/org/the_urbanist/) - [State Lawmakers Move to Regulate License Plate Readers, Fearing ICE Misuse » The Urbanist](https://www.theurbanist.org/2026/01/19/state-lawmakers-move-to-regulate-license-plate-readers-fearing-ice-misuse/#:~:text=Senate%20Bill%206002)

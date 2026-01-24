@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Fri 01/23 08:00 AM - Consumer Protection & Business (CPB): HB 2087 Travel insurance
-Sign up to testify:
-
-#### 119 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * Caren Alvarado - US Travel Insurance Association: USTIA
 * Duke de Haas - US Travel Insurance Association: USTIA
 * 💵Jean Leonard - US Travel Insurance Association: USTIA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

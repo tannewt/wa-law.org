@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Fri 01/23 10:30 AM - State Government & Elections (SGE): SB 5853 Public official notification
-Sign up to testify:
-
-#### 165 👍 - Pro
+#### 192 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Shawn Merchant - [Office of Secretary of State](/org/office_of_secretary_of_state/)

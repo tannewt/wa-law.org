@@ -13,13 +13,12 @@
 
 ## Meetings
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2089 Taxes on loan interest
-Sign up to testify:
-
-#### 272 👍 - Pro
+#### 295 👍 - Pro
 Testifying:
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
 
-#### 107 👎 - Con
+#### 141 👎 - Con
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 

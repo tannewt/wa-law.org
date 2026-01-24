@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2210/</link>
 		<description>Updates about HB 2210</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 18:22:03 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -243,6 +243,13 @@
 			<pubDate>Tue, 13 Jan 2026 18:22:03 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/release/today-statewide-ranked-choice-voting-bill-hearing/#:~:text=HB%202210</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/SGOV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

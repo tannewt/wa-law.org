@@ -10,9 +10,11 @@
 ### Tue 01/27 04:00 PM - Ways & Means (WM): HB 1376 Capital gains tax prepayment
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Laurie Layne
 
 #### 0 ❓ - Other
 

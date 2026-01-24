@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=turn%20vacant%20commercial%20buildings)
 * 01/20/2026 [PubliCola](/org/publicola/) - [Legislation Would Open Up Commercial Areas, and Ground-Floor Spaces, to Housing - PubliCola](https://publicola.com/2026/01/20/legislation-would-open-up-commercial-areas-and-ground-floor-spaces-to-housing/#:~:text=sponsoring%20a%20bill)
 * 01/16/2026 [KUOW](/org/kuow/) - [KUOW - Could fewer shops lead to lower housing costs in Washington? Gov. Ferguson hopes so](https://www.kuow.org/stories/could-fewer-shops-lead-to-lower-housing-costs-wa-s-governor-hopes-so#:~:text=6026)
 * 01/16/2026 [Washington State Standard](/org/washington_state_standard/) - [Microsoft jumps into WA Legislature’s housing debate • Washington State Standard](https://washingtonstatestandard.com/briefs/microsoft-jumps-into-wa-legislatures-housing-debate/#:~:text=Senate%20Bill%206026)

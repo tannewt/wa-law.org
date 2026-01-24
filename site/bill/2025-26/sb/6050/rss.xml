@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6050/</link>
 		<description>Updates about SB 6050</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Jan 2026 10:30:30 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 19:15:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Peter/Godlewski/2026-01-13 10:30:30</guid>
+		</item>
+		<item>
+			<title>What does affordability mean to you? - Sen. Marko Liias</title>
+			<description>News article "What does affordability mean to you? - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Fri, 23 Jan 2026 19:15:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=install%20portable%20solar%20devices</guid>
 		</item>
 	</channel>
 </rss>

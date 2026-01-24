@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1904/</link>
 		<description>Updates about HB 1904</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,6 +132,13 @@
 			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%201904</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/HCW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

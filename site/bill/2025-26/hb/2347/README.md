@@ -6,11 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202347)
+
 ## Meetings
 ### Thu 01/29 04:00 PM - Transportation (TR): HB 2347 Luxury aircraft tax
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 
 #### 1 👎 - Con
 

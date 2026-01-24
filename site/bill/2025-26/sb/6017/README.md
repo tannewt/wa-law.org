@@ -10,13 +10,16 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 6017 Crime victims & witnesses
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Abigail Echo-Hawk - Seattle Indian Health Board
 * Temryss Lane
 * Emi Koyama - Coalition for Rights & Safety
 * Celeste Lucero - Seattle Indian Health Board
 * Jocelyn Cooney - King County Prosecuting Attorney's Office
+* PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Gabriella Newman
+* Kate Garvey - King County Sexual Assault Resource Center
 
 #### 1 👎 - Con
 Testifying:

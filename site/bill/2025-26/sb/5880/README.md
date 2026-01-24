@@ -11,7 +11,7 @@
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SSB 5880 Toxicology testing
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -182,13 +182,16 @@
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
-## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 * 👍💵 Andrea Schmitt
+
+## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+* 👍💵 Sarah Nagy
 
 ## 2023-24
 
-### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC 👍2  
-* 👍💵 Andrea Schmitt
+### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍1  
+* 👍💵 Sarah Nagy
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

@@ -12,6 +12,8 @@
 
 ### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
+
 ## [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
 
 ## 2023-24

@@ -10,10 +10,14 @@
 ### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2349 Sexually violent predators
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 98 👍 - Pro
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Laurie Layne
+* Aimee Martin
+* Devon Gibbs
 
 #### 0 ❓ - Other

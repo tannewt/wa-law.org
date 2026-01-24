@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%205735)
+
 ## Meetings
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5735 Imitation firearm labeling
 #### 8 👍 - Pro

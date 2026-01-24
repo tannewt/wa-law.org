@@ -10,12 +10,14 @@
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2298 Property title protection
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jared Krause - Thurston County Licensing & Recording Manager
 * Mary Hall - Thurston County Auditor
 * Steve Duenkel - Mason County Auditor
 
-#### 0 👎 - Con
+#### 76 👎 - Con
+Testifying:
+* 💵Holly Chisa - United Trustees Associationo
 
 #### 0 ❓ - Other

@@ -6,13 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202129)
+
 ## Meetings
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2129 Agritourism
 Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Darrin morrison
 

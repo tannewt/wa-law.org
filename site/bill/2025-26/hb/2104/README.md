@@ -13,12 +13,11 @@
 
 ## Meetings
 ### Fri 01/23 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2104 Aviation assurance funding
-Sign up to testify:
-
-#### 156 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * Noel Hardin - Asotin County Fire District 1
 * George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
+* ROBERT BELL - HUNTIN WITH BOB
 
 #### 1 👎 - Con
 

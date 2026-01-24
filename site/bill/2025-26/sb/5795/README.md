@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%205795)
 * 04/09/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Progressive revenue bills 2025 — Quaker Voice](https://www.quakervoicewa.org/progressive-revenue-bills-2025/#:~:text=B%205795)
 * 04/08/2025 [Senate Democrats](/org/senate_democrats/) - [Full steam ahead - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/08/full-steam-ahead/#:~:text=5795)
 * 03/29/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 12: Revenue hearings, capital budget and another cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/29/this-week-in-the-senate-week-12-revenue-hearings-capital-budget-and-another-cutoff-arrives/#:~:text=SB%205795)

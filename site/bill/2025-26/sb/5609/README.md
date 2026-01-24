@@ -14,13 +14,17 @@
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Bill Iyall - Chairman, Cowlitz Indian Tribe
 
-#### 1 👎 - Con
+#### 73 👎 - Con
 Testifying:
 * Kurt Wilson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 02/11 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
 #### 1 👍 - Pro

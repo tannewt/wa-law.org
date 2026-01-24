@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What I’m working on this session - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/23/what-im-working-on-this-session/#:~:text=House%20Bill%202173)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202173)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202173)
 * 01/13/2026 [Washington State Standard](/org/washington_state_standard/) - [Proposed ban on police face coverings gains momentum in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/13/proposed-ban-on-police-face-coverings-gains-momentum-in-wa-legislature/#:~:text=identical%20version%20of%20the%20legislation%20in%20the%20House)

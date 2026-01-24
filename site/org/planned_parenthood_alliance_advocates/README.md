@@ -119,6 +119,8 @@
 
 ### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍1  
 
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  

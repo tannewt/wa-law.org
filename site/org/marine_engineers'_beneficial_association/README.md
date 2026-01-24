@@ -294,7 +294,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
-### [HB 2122](/bill/2025-26/hb/2122/) - Requiring hospitals to offer immunizations for influenza in certain cases. 👍1  
+### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm. 👍1  
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 

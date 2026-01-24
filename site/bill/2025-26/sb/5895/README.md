@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5895 Ex. medical placement
+Sign up to testify:
+
+#### 5 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - Human Services (HS): SB 5895 Ex. medical placement
 #### 40 👍 - Pro
 Testifying:

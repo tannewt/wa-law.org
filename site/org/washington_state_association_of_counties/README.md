@@ -418,6 +418,9 @@
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Curtis Steinhauer
 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use   ❓1
+* ❓💵 Curtis Steinhauer
+
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload   ❓1
 * ❓💵 Curtis Steinhauer
 

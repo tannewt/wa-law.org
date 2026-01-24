@@ -10,7 +10,12 @@
 ### Thu 01/29 08:00 AM - Education (ED): HB 1295 Reading and writing literacy
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Balvina Cortez
+* Sara Buetow - Decoding Dyslexia Washington
+* Kristi Schwesinger - Washington State PTA
+* Lauren Schmidt
 
 #### 0 👎 - Con
 

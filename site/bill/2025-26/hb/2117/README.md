@@ -10,7 +10,7 @@
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2117 Board of natural resources
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 27 👍 - Pro
 
 #### 0 👎 - Con
 

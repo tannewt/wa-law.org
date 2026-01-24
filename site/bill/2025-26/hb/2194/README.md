@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 2194 Cultural access sales tax
-Sign up to testify:
-
-#### 164 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * Wayne Fournier - Thurston County Commissioner
 * Aslan Meade - Thurston economic development council
 * Y?n Hu?nh - [City of Olympia](/org/city_of_olympia/)
 
-#### 737 👎 - Con
+#### 796 👎 - Con
 
 #### 4 ❓ - Other

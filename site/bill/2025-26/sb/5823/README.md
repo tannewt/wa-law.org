@@ -6,12 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%205823)
+
 ## Meetings
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5823 Patient advocates
 Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

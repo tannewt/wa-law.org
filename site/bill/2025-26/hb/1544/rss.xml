@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1544/</link>
 		<description>Updates about HB 1544</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 21:34:44 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,13 @@
 			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%201544</guid>
+		</item>
+		<item>
+			<title>ELHS - Executive action taken by committee.</title>
+			<description>ELHS - Executive action taken by committee.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/ELHS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

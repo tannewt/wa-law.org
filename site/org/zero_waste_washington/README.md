@@ -77,6 +77,8 @@
 * 👎💵 Heather Trim
 * ❓💵 Heather Trim
 
+### [HB 2175](/bill/2025-26/hb/2175/) - Free DME providers/tax 👍1  
+
 ### [HB 2212](/bill/2025-26/hb/2212/) - Reducing microplastic pollution from washing machines. 👍1  
 * 👍💵 Heather Trim
 

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 10/13/2025 [KUOW](/org/kuow/) - [KUOW - Washington’s paid leave program heads toward a fiscal cliff](https://www.kuow.org/stories/washington-s-paid-leave-program-heads-toward-a-fiscal-cliff#:~:text=Senate%20Bill%205292,)

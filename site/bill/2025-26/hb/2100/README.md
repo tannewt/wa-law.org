@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2026 [FOX13](/org/fox13/) - [WA's statewide payroll tax proposal draws debate | FOX 13 Seattle](https://www.fox13seattle.com/news/salary-tax-proposal-public-hearing#:~:text=HB%202100)
 * 01/22/2026 [The Center Square](/org/the_center_square/) - [Fmr. cabinet appointee joins 12K people against Democrat socialist's payroll tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e9423791-113f-4689-a927-b622e9e67ae7.html#:~:text=House%20Bill%202100)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202100)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202100)

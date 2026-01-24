@@ -10,9 +10,13 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1570 Academic employee bargaining
 Sign up to testify:
 
-#### 307 👍 - Pro
+#### 456 👍 - Pro
+Testifying:
+* Bill Lyne - United Faculty of Washington State
+* 💵Emily Myers - UAW Region 6
+* Jase Kaeberlein
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

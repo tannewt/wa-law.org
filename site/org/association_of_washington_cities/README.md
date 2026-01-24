@@ -326,6 +326,9 @@
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
 * 👎💵 Carl Schroeder
 
+### [HB 2270](/bill/2025-26/hb/2270/) - Lodging tax revenue use 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
@@ -341,6 +344,9 @@
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 * ❓💵 Candice Bock
+
+### [HB 2349](/bill/2025-26/hb/2349/) - Sexually violent predators 👍1  
+* 👍💵 Derrick Nunnally
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response   ❓1
 * ❓💵 Derrick Nunnally
@@ -571,6 +577,8 @@
 
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 * 👍💵 Candice Bock
+
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 

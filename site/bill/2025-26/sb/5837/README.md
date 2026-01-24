@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5837 Guardianship, etc.

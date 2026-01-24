@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2089/</link>
 		<description>Updates about HB 2089</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 12:28:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 10:03:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -66,6 +66,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Pat/Sullivan/2026-01-22 12:28:23</guid>
+		</item>
+		<item>
+			<title>👍💵Seamus Petrie - Washington Public Employees Association</title>
+			<description>Seamus Petrie signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_employees_association/"&gt;Washington Public Employees Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Jan 2026 10:03:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Seamus/Petrie/2026-01-23 10:03:09</guid>
 		</item>
 	</channel>
 </rss>

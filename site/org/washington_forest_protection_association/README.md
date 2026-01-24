@@ -30,6 +30,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
 * 👍💵 Matt Doumit
 
+### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
+* 👍💵 Matt Doumit
+
 ### [SB 5170](/bill/2025-26/sb/5170/) - DNR boundary line surveys 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
@@ -38,6 +41,9 @@
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
+### [SB 5893](/bill/2025-26/sb/5893/) - Forest health appropriation 👍1  
+* 👍💵 Matt Doumit
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
 

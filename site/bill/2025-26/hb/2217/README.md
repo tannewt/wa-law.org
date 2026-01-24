@@ -10,9 +10,12 @@
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2217 Rehabilitative pathways
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Gisella Gonzales - Team children
+* Kevin Schnepel
+* Kari Reardon - WACDL/WDA
+* Andre Penalver - Minority & Justice Commission
 
 #### 0 👎 - Con
 

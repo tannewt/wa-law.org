@@ -17,6 +17,8 @@
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
 
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+
 ### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍2  
 * 👍 Fernanda Armas
 * 👍 Heba Qatrani
@@ -54,6 +56,8 @@
 ### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍3  
 * 👍💵 Sienna Jarrard
 * 👍💵 Collin Bannister
+
+### [SB 5886](/bill/2025-26/sb/5886/) - Forged digital likenesses 👍1  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍4  
 
