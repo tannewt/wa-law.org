@@ -10,8 +10,15 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5934 Postconviction DNA testing
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
+* Lindsey Whyte - [Washington Innocence Project](/org/washington_innocence_project/)
+* Ted Bradford
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

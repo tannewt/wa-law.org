@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5882/</link>
 		<description>Updates about SB 5882</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 05:16:30 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 25 Jan 2026 08:15:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kris/Tefft/2026-01-23 05:16:30</guid>
+		</item>
+		<item>
+			<title>👍Doug Palmer - Washington State Association for Justice</title>
+			<description>Doug Palmer signed up to testify Pro. They are signed up to represent Washington State Association for Justice.</description>
+			<pubDate>Sat, 24 Jan 2026 01:34:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Doug/Palmer/2026-01-24 01:34:57</guid>
+		</item>
+		<item>
+			<title>👎💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sat, 24 Jan 2026 10:53:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2026-01-24 10:53:15</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Sun, 25 Jan 2026 08:15:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2026-01-25 08:15:21</guid>
 		</item>
 	</channel>
 </rss>

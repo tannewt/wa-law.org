@@ -107,6 +107,8 @@
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
 
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
+
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
 
 ### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions 👍1  

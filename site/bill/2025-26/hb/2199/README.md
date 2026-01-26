@@ -10,10 +10,11 @@
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2199 Derelict vessels
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * James Weaver - Port of Poulsbo
 * Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
+* Tarin Todd - [Recreational Boating Association of Washington](/org/recreational_boating_association_of_washington/)
 
 #### 0 👎 - Con
 

@@ -40,6 +40,8 @@
 
 ### [HB 1919](/bill/2025-26/hb/1919/) - Working conn. child care 👍1  
 
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  

@@ -6,15 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202257)
+
 ## Meetings
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2257 Tax administration
 Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn
 
-#### 47 ❓ - Other
+#### 54 ❓ - Other
 Testifying:
 * Suzie Hanson - WA Federation of Independent Schools
 * Milt Harper - Student Orchestras of Greater Olympia
+* Charlie Brown - South Sound Superintendents
+* Cliff Traisman - Highline, Seattle, Northshore, Bellevue
+* 💵Marissa Rathbone - WA Assoc of School Administrators (WASA) and WA Assoc of School Business Officials (WASBO)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

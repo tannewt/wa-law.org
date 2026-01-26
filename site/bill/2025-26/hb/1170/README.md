@@ -20,9 +20,9 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1170 AI content notices
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 176 👍 - Pro
 
-#### 0 👎 - Con
+#### 30 👎 - Con
 
 #### 0 ❓ - Other
 

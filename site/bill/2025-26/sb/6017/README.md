@@ -10,7 +10,7 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 6017 Crime victims & witnesses
 Sign up to testify:
 
-#### 22 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Abigail Echo-Hawk - Seattle Indian Health Board
 * Temryss Lane
@@ -20,11 +20,16 @@ Testifying:
 * PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
 * Gabriella Newman
 * Kate Garvey - King County Sexual Assault Resource Center
+* Erica Ciganek
+* Absa Samba - Washington Coalition to End Female Genital Mulation/Cutting
+* Muna Osman - Holistic Famy care clinic
+* Niha Dhillon
 
 #### 1 👎 - Con
 Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Lauren Vlas - Attorney General's Office
+* Zafu Aragai

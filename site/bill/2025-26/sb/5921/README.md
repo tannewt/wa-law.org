@@ -10,13 +10,16 @@
 ### Tue 01/27 10:30 AM - Health & Long Term Care (HLTC): SB 5921 Psilocybin
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Brian Kennedy - Marriage and Family Therapy Associates
 * Mark Gaskill
 * Joy Laramy
 * Matt Thierfelder - N/A
+* Tamara Greenwell
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Rebecca Mains - Botanical Regulatory Consulting - BRC
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

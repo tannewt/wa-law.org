@@ -11,6 +11,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 * ❓ Nick Bond
 

@@ -17,6 +17,6 @@ Testifying:
 * Patrick Gilroy - Washington Self Storage Association
 * Kristi Tripple - Rowley Properties, Inc.
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

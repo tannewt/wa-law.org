@@ -10,14 +10,16 @@
 ### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2349 Sexually violent predators
 Sign up to testify:
 
-#### 98 👍 - Pro
+#### 305 👍 - Pro
 Testifying:
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lisa Beaton - Deputy City Manager, City of Kennewick
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Laurie Layne
 * Aimee Martin
 * Devon Gibbs
+* Jessica Fleming - WACDL/WDA
 
 #### 0 ❓ - Other

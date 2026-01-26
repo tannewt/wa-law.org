@@ -13,9 +13,10 @@
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2327 County forest board lands
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jim Buck - Retired
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con
 

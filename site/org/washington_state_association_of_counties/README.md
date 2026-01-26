@@ -237,6 +237,9 @@
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
 * ❓💵 Paul Jewell
 
+### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources   ❓1
+* ❓💵 Paul Jewell
+
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
 * 👎💵 Paul Jewell
 
@@ -254,6 +257,9 @@
 * ❓💵 Travis Dutton
 
 ### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+
+### [HB 2257](/bill/2025-26/hb/2257/) - Tax administration   ❓1
+* ❓💵 Paul Jewell
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
@@ -275,6 +281,9 @@
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
 * ❓💵 Kelsey Hulse
+
+### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands 👍1  
+* 👍💵 Paul Jewell
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 

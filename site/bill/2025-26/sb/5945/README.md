@@ -14,9 +14,11 @@
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5945 Persistent offenders
 Sign up to testify:
 
-#### 110 👍 - Pro
+#### 244 👍 - Pro
 
-#### 255 👎 - Con
+#### 397 👎 - Con
+Testifying:
+* Christian Bianes-Delrosario
 
 #### 0 ❓ - Other
 

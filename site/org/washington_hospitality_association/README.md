@@ -143,6 +143,9 @@
 * 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 
+### [HB 2188](/bill/2025-26/hb/2188/) - Industrial insurance rates 👍1  
+* 👍💵 Andrea Reay
+
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 * 👍 Sean DeWitz
 
@@ -274,6 +277,10 @@
 
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
 * ❓ Jeff Gunn
+
+### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress  👎1 
+
+### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments 👍1  
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍3  
 * 👍💵 Logan Dozier

@@ -15,8 +15,10 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ## 2023-24
 
-## [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+## [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 

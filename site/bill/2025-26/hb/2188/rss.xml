@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2188/</link>
 		<description>Updates about HB 2188</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 25 Jan 2026 11:02:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>❓Tammy Fellin - Department of Labor &amp; Industries</title>
+			<description>Tammy Fellin signed up to testify Other. They are signed up to represent Department of Labor &amp; Industries.</description>
+			<pubDate>Sun, 25 Jan 2026 01:51:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tammy/Fellin/2026-01-25 01:51:57</guid>
+		</item>
+		<item>
+			<title>👍💵Michael Ennis - Building Industry Association of Washington (BIAW)</title>
+			<description>Michael Ennis signed up to testify Pro. They are signed up to represent Building Industry Association of Washington (BIAW). They are a registered lobbyist.</description>
+			<pubDate>Sun, 25 Jan 2026 07:04:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Ennis/2026-01-25 07:04:00</guid>
+		</item>
+		<item>
+			<title>👍💵Andrea Reay - Washington Hospitality Association</title>
+			<description>Andrea Reay signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_hospitality_association/"&gt;Washington Hospitality Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 25 Jan 2026 11:02:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrea/Reay/2026-01-25 11:02:35</guid>
 		</item>
 	</channel>
 </rss>

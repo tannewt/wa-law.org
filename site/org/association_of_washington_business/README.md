@@ -475,6 +475,8 @@
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
+### [HB 2257](/bill/2025-26/hb/2257/) - Tax administration   ❓1
+
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
 * 👎💵 Peter Godlewski
 
@@ -497,8 +499,12 @@
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 * 👍💵 Peter Godlewski
 
+### [HB 2292](/bill/2025-26/hb/2292/) - Small business stock gains  👎1 
+
 ### [HB 2296](/bill/2025-26/hb/2296/) - Distributed energy resources  👎1 
 * 👎💵 Peter Godlewski
+
+### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
 

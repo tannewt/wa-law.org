@@ -13,9 +13,11 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2382 Tobacco product excise taxes
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 15 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Shaun D’Sylva
 

@@ -16,17 +16,18 @@
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 Sign up to testify:
 
-#### 236 👍 - Pro
+#### 505 👍 - Pro
 Testifying:
 * Joe Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 * Sarah Dickmeyer - Plymouth Housing
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 
-#### 45 👎 - Con
+#### 52 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Carol Helland - Director, Planning & Community Development for City of Redmond
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 #### 59 👍 - Pro

@@ -13,7 +13,7 @@
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 1364 Unlicensed bingo, etc.
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Erin Thoeny
 

@@ -10,9 +10,9 @@
 ### Tue 01/27 01:30 PM - Consumer Protection & Business (CPB): HB 2361 Small loans maximum amount
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 58 👎 - Con
+#### 112 👎 - Con
 Testifying:
 * Cathy MacCaul - AARP Washington
 

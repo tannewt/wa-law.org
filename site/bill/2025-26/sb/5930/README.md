@@ -10,8 +10,10 @@
 ### Mon 01/26 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5930 Irrigation dist. directors
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 45 👍 - Pro
+Testifying:
+* 💵John Stuhlmiller - Washington Water Resources Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

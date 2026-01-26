@@ -10,12 +10,13 @@
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2131 Sea lion predation donations
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Nello Picinich - Coastal Conservation Association
 
-#### 25 👎 - Con
+#### 55 👎 - Con
 Testifying:
 * Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
+* Liam Doucet
 
 #### 0 ❓ - Other

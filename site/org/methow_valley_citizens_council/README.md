@@ -46,6 +46,8 @@
 
 ### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
 
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  

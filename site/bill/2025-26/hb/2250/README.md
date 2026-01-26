@@ -10,10 +10,10 @@
 ### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 2250 Charity care residency
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Robert Rosencrantz - Pend Oreille County
 
-#### 0 👎 - Con
+#### 26 👎 - Con
 
 #### 0 ❓ - Other

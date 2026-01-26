@@ -6,17 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%201295)
+
 ## Meetings
 ### Thu 01/29 08:00 AM - Education (ED): HB 1295 Reading and writing literacy
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Balvina Cortez
 * Sara Buetow - Decoding Dyslexia Washington
 * Kristi Schwesinger - Washington State PTA
 * Lauren Schmidt
+* mary west
+* Heather Schwindt - Decoding Dyslexia / Dyslexia Support Washington State
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tara gusler
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

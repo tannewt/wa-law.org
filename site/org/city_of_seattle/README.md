@@ -260,6 +260,9 @@
 
 ### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
 
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+* 👍 Erika Evans
+
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  

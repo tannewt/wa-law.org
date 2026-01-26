@@ -10,14 +10,17 @@
 ### Mon 01/26 10:30 AM - Labor & Commerce (LC): SB 5882 Correctional workers/stress
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Michael Rainey - Washington State Council of County and City Employees
+* Doug Palmer - Washington State Association for Justice
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 3 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * 💵Rose Gundersen - WA Retail Association
 * Kris Tefft - Washington Self-Insurers Association
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other
 

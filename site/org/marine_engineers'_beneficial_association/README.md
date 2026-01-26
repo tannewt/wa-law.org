@@ -582,6 +582,8 @@
 
 ### [SB 5869](/bill/2025-26/sb/5869/) - Construction hazards notice 👍1  
 
+### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress 👍1  
+
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  

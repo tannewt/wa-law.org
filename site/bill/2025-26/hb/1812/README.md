@@ -13,7 +13,7 @@
 ### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 1812 Anesthesia services
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 38 👍 - Pro
 
 #### 0 👎 - Con
 

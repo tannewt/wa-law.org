@@ -185,12 +185,14 @@
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 * 👍💵 Andrea Schmitt
 
-## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍2  
+* 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
 
 ## 2023-24
 
-### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍1  
+### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍2  
+* 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2

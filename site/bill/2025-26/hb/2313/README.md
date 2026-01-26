@@ -13,9 +13,9 @@
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2313 Public grocery stores
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 
-#### 8 👎 - Con
+#### 41 👎 - Con
 Testifying:
 * Avyay Nalumachu
 * Erik Ghulyan

@@ -14,13 +14,14 @@
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Bill Iyall - Chairman, Cowlitz Indian Tribe
 
-#### 73 👎 - Con
+#### 98 👎 - Con
 Testifying:
 * Kurt Wilson
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 
 #### 1 ❓ - Other
 Testifying:

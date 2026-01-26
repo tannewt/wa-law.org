@@ -63,6 +63,8 @@
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍3  
 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  
+
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1884](/bill/2025-26/hb/1884/) - Cannabis regulation  👎1 
@@ -74,7 +76,7 @@
 
 ### [HB 2037](/bill/2025-26/hb/2037/) - Cannabis   ❓1
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍2  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
@@ -93,6 +95,8 @@
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
+### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
@@ -152,13 +156,14 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
+
+## [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓💵 Amy Brackenbury
+### [SB 6049](/bill/2023-24/sb/6049/) - PRA/students & employees 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2292/</link>
 		<description>Updates about HB 2292</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 12:07:41 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 04:38:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,45 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Patrick/Connor/2026-01-23 12:07:41</guid>
+		</item>
+		<item>
+			<title>👎Aviel Ginzburg - Startup Foundations, Inc</title>
+			<description>Aviel Ginzburg signed up to testify Con. They are signed up to represent Startup Foundations, Inc.</description>
+			<pubDate>Sat, 24 Jan 2026 03:01:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Aviel/Ginzburg/2026-01-24 03:01:22</guid>
+		</item>
+		<item>
+			<title>👎Dave Parker - Startup Foundations, Inc</title>
+			<description>Dave Parker signed up to testify Con.</description>
+			<pubDate>Sat, 24 Jan 2026 05:25:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dave/Parker/2026-01-24 05:25:54</guid>
+		</item>
+		<item>
+			<title>👎Emily Choi-Greene - Clearly AI</title>
+			<description>Emily Choi-Greene signed up to testify Con. They are signed up to represent Clearly AI.</description>
+			<pubDate>Sun, 25 Jan 2026 10:20:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emily/Choi-Greene/2026-01-25 10:20:40</guid>
+		</item>
+		<item>
+			<title>👎Nicole Doyle - Clearly AI</title>
+			<description>Nicole Doyle signed up to testify Con.</description>
+			<pubDate>Sun, 25 Jan 2026 11:38:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nicole/Doyle/2026-01-25 11:38:08</guid>
+		</item>
+		<item>
+			<title>Write your Legislators during Focus on Advocacy Week - WSPTA</title>
+			<description>News article "Write your Legislators during Focus on Advocacy Week - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 26 Jan 2026 04:38:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202292</guid>
 		</item>
 	</channel>
 </rss>

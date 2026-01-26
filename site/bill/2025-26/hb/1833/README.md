@@ -14,13 +14,13 @@
 ### Mon 01/26 04:00 PM - Appropriations (APP): SHB 1833 AI grant program
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Kevin Frazier - The Abundance Institute
 
-#### 3 👎 - Con
+#### 7 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/25 01:30 PM - Environment, Energy & Technology (ENET): SHB 1833 AI grant program
 #### 19 👍 - Pro

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%205978)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Guaranteeing college admission to WSU, Western and more for students with a 3.0 GPA - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/01/23/guaranteeing-college-admission-to-wsu-western-and-more-for-students-with-a-3-0/#:~:text=SB%205978,)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205978)
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2217/</link>
 		<description>Updates about HB 2217</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 11:14:47 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 25 Jan 2026 07:53:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andre/Penalver/2026-01-23 11:14:47</guid>
+		</item>
+		<item>
+			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Sat, 24 Jan 2026 05:11:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2026-01-24 05:11:41</guid>
+		</item>
+		<item>
+			<title>👎Michelle Bart - National Womens Coalition Against Violence and Exploitation</title>
+			<description>Michelle Bart signed up to testify Con. They are signed up to represent National Womens Coalition Against Violence and Exploitation.</description>
+			<pubDate>Sat, 24 Jan 2026 12:40:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michelle/Bart/2026-01-24 12:40:52</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Doleac - Arnold Ventures</title>
+			<description>Jennifer Doleac signed up to testify Pro. They are signed up to represent Arnold Ventures.</description>
+			<pubDate>Sun, 25 Jan 2026 07:53:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Doleac/2026-01-25 07:53:41</guid>
 		</item>
 	</channel>
 </rss>

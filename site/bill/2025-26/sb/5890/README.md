@@ -13,8 +13,12 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5890 Reckless driving, speed
 Sign up to testify:
 
-#### 97 👍 - Pro
+#### 236 👍 - Pro
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

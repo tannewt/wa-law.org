@@ -41,17 +41,21 @@
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax   ❓1
 
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ## 2023-24
 
-### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

@@ -10,10 +10,13 @@
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SB 5898 Aircraft fuel tax proceeds
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
+* Dawson Frank - Washington Airport Management Association (WAMA)
+* Josh Marcy - Washington Airport Management Association (WAMA)
+* Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -137,12 +137,17 @@
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍 DAVID DEMARCO
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing   ❓1
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
+* 👎 Jennifer Gregerson
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing   ❓2
+* ❓ Jennifer Gregerson
 * ❓ Jennifer Gregerson
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing   ❓1
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing   ❓2
+* ❓ Jennifer Gregerson
 * ❓ Jennifer Gregerson
 
 ### [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  

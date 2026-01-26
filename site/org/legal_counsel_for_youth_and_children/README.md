@@ -183,6 +183,8 @@
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
+### [SB 5977](/bill/2025-26/sb/5977/) - Child near fatality reviews 👍1  
+
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Kat Lohman
 

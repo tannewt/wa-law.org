@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202292)
+
 ## Meetings
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2292 Small business stock gains
 Sign up to testify:
@@ -14,8 +17,12 @@ Sign up to testify:
 Testifying:
 * 💵Mia Shigemura - Washington State Budget & Policy Center
 
-#### 17 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
+* Aviel Ginzburg - Startup Foundations, Inc
+* Dave Parker
+* Emily Choi-Greene - Clearly AI
+* Nicole Doyle
 
 #### 0 ❓ - Other

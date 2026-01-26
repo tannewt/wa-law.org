@@ -11,7 +11,7 @@
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5895 Ex. medical placement
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 
 #### 1 👎 - Con
 

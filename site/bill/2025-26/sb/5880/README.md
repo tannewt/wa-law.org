@@ -11,11 +11,13 @@
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SSB 5880 Toxicology testing
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* Erika Evans - [City of Seattle](/org/city_of_seattle/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5880 Toxicology testing
 #### 18 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2235/</link>
 		<description>Updates about HB 2235</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 18:19:12 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 25 Jan 2026 09:03:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to State Government &amp; Tribal Relations.</guid>
 		</item>
 		<item>
-			<title>👎Joe Kunzler - NW Grocery Retail Association</title>
+			<title>👎Joe Kunzler - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn</title>
 			<description>Joe Kunzler signed up to testify Con.</description>
 			<pubDate>Wed, 14 Jan 2026 06:42:18 GMT</pubDate>
 			<category>testifier</category>
@@ -58,6 +58,22 @@
 			<pubDate>Fri, 23 Jan 2026 18:19:12 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202235</guid>
+		</item>
+		<item>
+			<title>👎Joe Kunzler - Concerned Citizen</title>
+			<description>Joe Kunzler signed up to testify Con. They are signed up to represent Concerned Citizen.</description>
+			<pubDate>Sat, 24 Jan 2026 08:20:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joe/Kunzler/2026-01-24 08:20:34</guid>
+		</item>
+		<item>
+			<title>❓💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn</title>
+			<description>Rowland Thompson signed up to testify Other. They are signed up to represent Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn. They are a registered lobbyist.</description>
+			<pubDate>Sun, 25 Jan 2026 09:03:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2026-01-25 09:03:17</guid>
 		</item>
 	</channel>
 </rss>

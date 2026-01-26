@@ -28,13 +28,14 @@
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
-## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 * 👎 Lauren Gubbe
+
+## [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments 👍1  
 
 ## 2023-24
 
-### [SB 5548](/bill/2023-24/sb/5548/) - Workers' compensation  👎1 
-* 👎 Lauren Gubbe
+### [SB 5927](/bill/2023-24/sb/5927/) - Workers' comp. adjustments 👍1  
 
 ### [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎2 
 

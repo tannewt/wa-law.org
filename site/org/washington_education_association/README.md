@@ -210,7 +210,7 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍3  
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart 👍1  
 
@@ -773,6 +773,8 @@
 
 ### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
 
+### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍1  
+
 ### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
 
 ### [SB 5952](/bill/2025-26/sb/5952/) - High school PE waivers  👎1 
@@ -797,7 +799,11 @@
 
 ### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
 
+### [SB 6044](/bill/2025-26/sb/6044/) - Diwali and Bandi Chhor Divas 👍1  
+
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
+
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 
 ### [SB 6051](/bill/2025-26/sb/6051/) - School district waivers  👎1 
 * 👎💵 Julie Salvi

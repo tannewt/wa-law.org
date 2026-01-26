@@ -32,6 +32,8 @@
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍2  
 
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  

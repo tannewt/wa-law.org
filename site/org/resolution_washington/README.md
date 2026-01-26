@@ -19,13 +19,16 @@
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 LaDessa Croucher
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ LaDessa Croucher
+
+## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+* 👍 Dave Martine
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓ LaDessa Croucher
+### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍1  
+* 👍 Dave Martine
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 * 👍 Jody Suhrbier

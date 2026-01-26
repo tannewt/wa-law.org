@@ -10,9 +10,9 @@
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 5927 Workers' comp. adjustments
 Sign up to testify:
 
-#### 74 👍 - Pro
+#### 105 👍 - Pro
 
-#### 3 👎 - Con
+#### 12 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -10,8 +10,8 @@
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 5950 Nonlegal state holidays
 Sign up to testify:
 
-#### 52 👍 - Pro
+#### 129 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other

@@ -200,13 +200,21 @@
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
 
+### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍1  
+
 ### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+
+### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍1  
+
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍1  
+
+### [SB 5934](/bill/2025-26/sb/5934/) - Postconviction DNA testing  👎1 
 
 ### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
 
@@ -225,6 +233,8 @@
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 
 ## [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation  👎1 
 

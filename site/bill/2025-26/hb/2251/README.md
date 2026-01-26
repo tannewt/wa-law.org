@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202251)
+
 ## Meetings
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2251 Climate commit. act accounts
 #### 13 👍 - Pro

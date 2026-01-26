@@ -10,7 +10,7 @@
 ### Mon 01/26 01:30 PM - Human Services (HS): SB 6062 Criminal offenses under 18
 Sign up to testify:
 
-#### 202 👍 - Pro
+#### 361 👍 - Pro
 Testifying:
 * Gisella Gonzales - Team children
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
@@ -19,13 +19,37 @@ Testifying:
 * Ahmont Williams - Capitol Classroom-Green Hill School
 * Benito Marquez - Capitol Classroom-Green Hill School
 * Carlos Renteria - Capitol Classroom-Green Hill School
+* Maddie Fleming
+* Katie Hurley - King County Department of Public Defense
+* Voss Carpenter
+* Darrius Bruton
+* Katie Hurley - KC Dept of Public Defense
+* Dave Martine - [Resolution Washington](/org/resolution_washington/)
+* Edward Mulvey - University of Pittsburgh School of Medicine
+* 💵Karen Pillar - TeamChild
+* Ramona Brandes - WA Defender Association
+* Liz Mustin - Office of Public Defense
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Myle Tang - Stand for Children WA
+* 💵Roxana Gomez - LCYC
+* Liz Mustin
 
-#### 68 👎 - Con
+#### 257 👎 - Con
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 * Tiffany Attrill - Crime victim advocate
 * Natasha Willson - Crime victim  advocate
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Shawn Ledford - Tulalip Police Department
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* Krista Stogner - Surviving Family Member of Murder Victim
+* Danielle Mikinka Grass - Crime Victim Family Member
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Jacqueline Johnson - WFSE Member
+* Barbara Serrano - Dept. of Children, Youth, and Families
+* Jr., Harold Wright - Dept. of Children, Youth, and Families
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Judge Kristin Ferrera - Superior Court Judges’ Association

@@ -13,7 +13,9 @@
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 5886 Forged digital likenesses
 Sign up to testify:
 
-#### 20 👍 - Pro
+#### 81 👍 - Pro
+Testifying:
+* Sonal Virk - Associated Students of the University of Washington Seattle
 
 #### 0 👎 - Con
 

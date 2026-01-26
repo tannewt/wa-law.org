@@ -10,7 +10,9 @@
 ### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 2232 Time-sensitive emergencies
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Malorie Toman - WA-Chapter, American College of Emergency Physicians
 
 #### 0 👎 - Con
 

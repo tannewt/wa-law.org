@@ -580,6 +580,9 @@
 
 ### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
+### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress  👎1 
+* 👎💵 Candice Bock
+
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  

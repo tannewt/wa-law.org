@@ -17,7 +17,8 @@
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍3  
+* 👍💵 Sienna Jarrard
 
 ### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍2  
 * 👍 Fernanda Armas

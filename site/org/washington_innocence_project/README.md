@@ -10,13 +10,21 @@
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
 
-## [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎1 
+### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎1 
 * 👎 John Marlow
+
+### [SB 5520](/bill/2025-26/sb/5520/) - Wrongly convicted persons 👍1  
+* 👍💵 Lara Zarowsky
+
+## [SB 5934](/bill/2025-26/sb/5934/) - Postconviction DNA testing 👍4  
+* 👍💵 Lara Zarowsky
+* 👍 Lindsey Whyte
 
 ## 2023-24
 
-### [SB 5169](/bill/2023-24/sb/5169/) - Testimony of children  👎1 
-* 👎 John Marlow
+### [SB 5934](/bill/2023-24/sb/5934/) - Postconviction DNA testing 👍4  
+* 👍💵 Lara Zarowsky
+* 👍 Lindsey Whyte
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 * 👍💵 Lara Zarowsky

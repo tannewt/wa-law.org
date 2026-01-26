@@ -10,7 +10,7 @@
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 5763 Law enf. aviation support
 Sign up to testify:
 
-#### 21 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Susanna Johnson - Snohomish County Sheriff
 * David Ellis - Spokane County Sheriff's Office

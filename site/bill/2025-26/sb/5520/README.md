@@ -10,8 +10,11 @@
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5520 Wrongly convicted persons
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
+* Ted Bradford
 
-#### 97 👎 - Con
+#### 262 👎 - Con
 
 #### 0 ❓ - Other

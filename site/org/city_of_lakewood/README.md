@@ -37,6 +37,8 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
 
+### [HB 2349](/bill/2025-26/hb/2349/) - Sexually violent predators 👍2  
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎4 
@@ -63,11 +65,13 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ## 2023-24
 
-### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

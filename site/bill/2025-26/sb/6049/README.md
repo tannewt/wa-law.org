@@ -6,15 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206049)
+
 ## Meetings
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6049 PRA/students & employees
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * 💵Alexandra Johnson - Duwamish River Community Coalition
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Joe Kunzler - Private Citizen
 
 #### 0 ❓ - Other

@@ -62,6 +62,8 @@
 
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 
+### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress  👎1 
+
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
@@ -70,11 +72,11 @@
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎2 
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎2 
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 

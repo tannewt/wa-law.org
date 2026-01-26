@@ -14,12 +14,19 @@
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5346 Student mobile device use
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Gabriella Barrett-Bowen
+* Julie Molina
+* Lillian Fuller
+* Romy Yoffe
+* Sidney Shepherd
 
 #### 2 👎 - Con
 Testifying:
 * John Axtell
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Danica Noble - Coalition for a Media-Safe Childhood
+* MD MPH, Dr. Dimitri Christakis - Professor, Seattle Children's Hospital; Editor in Chief, JAMA Pediatrics
