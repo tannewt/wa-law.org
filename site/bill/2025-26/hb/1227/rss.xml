@@ -667,11 +667,25 @@
 			<guid isPermaLink="false">2025-03-27/Minority; do not pass.</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-27/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>TR - Executive action taken by committee.</title>
 			<description>TR - Executive action taken by committee.</description>
 			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-27/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-27/TR - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>
@@ -686,6 +700,13 @@
 			<pubDate>Thu, 03 Apr 2025 17:10:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_c77b4339-e875-458e-83aa-46b4e83aa0ee.html#:~:text=revenue%20bill</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>House Rules "X" file.</title>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2309/</link>
 		<description>Updates about HB 2309</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 12:13:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,6 +24,13 @@
 			<guid isPermaLink="false">testifier/Sheri/Sawyer/2026-01-10 11:56:39</guid>
 		</item>
 		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
 			<title>👍Amy Lynn Roark - Office of Financial Management</title>
 			<description>Amy Lynn Roark signed up to testify Pro.</description>
 			<pubDate>Mon, 12 Jan 2026 10:17:01 GMT</pubDate>
@@ -38,6 +45,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Worthington/2026-01-14 12:13:00</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-20/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; do pass.</title>
+			<description>SGOV - Majority; do pass.</description>
+			<pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-20/SGOV - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

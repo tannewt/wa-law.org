@@ -167,6 +167,20 @@
 			<guid isPermaLink="false">2025-02-20/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-20/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-20/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
@@ -188,11 +202,39 @@
 			<guid isPermaLink="false">2025-03-07/2nd substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 52; nays, 44; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 52; nays, 44; absent, 0; excused, 2.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/Third reading, passed; yeas, 52; nays, 44; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 53; nays, 44; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 53; nays, 44; absent, 0; excused, 1.</description>
 			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-07/Third reading, passed; yeas, 53; nays, 44; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Vote on third reading will be reconsidered.</title>
+			<description>Vote on third reading will be reconsidered.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/Vote on third reading will be reconsidered.</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Human Services.</title>
@@ -264,6 +306,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Cindy Arends/Elsberry/2025-03-18 11:27:46</guid>
+		</item>
+		<item>
+			<title>HS - Majority; do pass with amendment(s).</title>
+			<description>HS - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-25/HS - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-25/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-25/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>WA bill would speed pardon reviews for immigrants facing deportation • Washington State Standard</title>
@@ -360,6 +423,27 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-04-03 12:46:48</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass with amendment(s).</title>
+			<description>WM - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-07/WM - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-08/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading by Rules Committee.</title>
 			<description>Placed on second reading by Rules Committee.</description>
 			<pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
@@ -367,11 +451,32 @@
 			<guid isPermaLink="false">2025-04-09/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-15/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-15/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 28; nays, 19; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 28; nays, 19; absent, 0; excused, 2.</description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-15/Third reading, passed; yeas, 28; nays, 19; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-22/House concurred in Senate amendments.</guid>
 		</item>
 		<item>
 			<title>Passed final passage; yeas, 50; nays, 46; absent, 0; excused, 2.</title>
@@ -430,11 +535,25 @@
 			<guid isPermaLink="true">https://www.cascadepbs.org/briefs/2025/05/wa-governor-signs-three-immigrants-rights-bills-law#:~:text=expedited%20pardon%20process%20for%20those%20facing%20deportation</guid>
 		</item>
 		<item>
+			<title>Chapter 371, 2025 Laws.</title>
+			<description>Chapter 371, 2025 Laws.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Chapter 371, 2025 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/27/2025*.</title>
 			<description>Effective date 7/27/2025*.</description>
 			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-20/Effective date 7/27/2025*.</guid>
+		</item>
+		<item>
+			<title>Governor partially vetoed.</title>
+			<description>Governor partially vetoed.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Governor partially vetoed.</guid>
 		</item>
 		<item>
 			<title>New law will help Wash. board review more petitions for clemency and pardons – Washington State House Democrats</title>

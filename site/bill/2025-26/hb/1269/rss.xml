@@ -115,6 +115,13 @@
 			<guid isPermaLink="false">2025-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 91; nays, 3; absent, 0; excused, 4.</title>
 			<description>Third reading, passed; yeas, 91; nays, 3; absent, 0; excused, 4.</description>
 			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
@@ -192,6 +199,13 @@
 			<guid isPermaLink="false">testifier/Michael/Transue/2025-03-13 06:33:51</guid>
 		</item>
 		<item>
+			<title>BFT - Majority; do pass.</title>
+			<description>BFT - Majority; do pass.</description>
+			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-26/BFT - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
@@ -220,11 +234,25 @@
 			<guid isPermaLink="false">2025-04-27/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Consumer Protection &amp; Business.</title>
 			<description>Referred to Consumer Protection &amp; Business.</description>
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/Referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Rules Committee relieved of further consideration.</guid>
 		</item>
 		<item>
 			<title>CPB - Executive action taken by committee.</title>

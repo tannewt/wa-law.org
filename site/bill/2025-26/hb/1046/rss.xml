@@ -125,6 +125,27 @@
 			<guid isPermaLink="false">testifier/Jasmine/Borland/2025-03-12 09:11:52</guid>
 		</item>
 		<item>
+			<title>LAW - Majority; do pass with amendment(s).</title>
+			<description>LAW - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-20/LAW - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-20/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
@@ -139,6 +160,20 @@
 			<guid isPermaLink="false">2025-04-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-14/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-14/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.</description>
 			<pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
@@ -146,11 +181,25 @@
 			<guid isPermaLink="false">2025-04-14/Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-17/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
 			<title>Passed final passage; yeas, 60; nays, 36; absent, 0; excused, 2.</title>
 			<description>Passed final passage; yeas, 60; nays, 36; absent, 0; excused, 2.</description>
 			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-17/Passed final passage; yeas, 60; nays, 36; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-18/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -174,11 +223,25 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/04/22/rep-mari-leavitt-leads-legislative-wins-for-animal-welfare-in-washington/#:~:text=HB%201046</guid>
 		</item>
 		<item>
+			<title>Chapter 183, 2025 Laws.</title>
+			<description>Chapter 183, 2025 Laws.</description>
+			<pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-30/Chapter 183, 2025 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/27/2025.</title>
 			<description>Effective date 7/27/2025.</description>
 			<pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-30/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-30/Governor signed.</guid>
 		</item>
 		<item>
 			<title>WA law: No penalty for rescuing kids, pets from heatstroke in cars</title>

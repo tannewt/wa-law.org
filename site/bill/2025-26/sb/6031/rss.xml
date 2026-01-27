@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6031/</link>
 		<description>Updates about SB 6031</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 08:28:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-08/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Business, Trade &amp; Economic Development.</title>
+			<description>First reading, referred to Business, Trade &amp; Economic Development.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Business, Trade &amp; Economic Development.</guid>
 		</item>
 		<item>
 			<title>👍Dory Nicpon - Office of the Insurance Commissioner</title>
@@ -62,6 +69,27 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Thomas/Neill/2026-01-20 08:28:48</guid>
+		</item>
+		<item>
+			<title>BTE - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>BTE - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/BTE - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

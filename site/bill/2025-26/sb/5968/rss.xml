@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5968/</link>
 		<description>Updates about SB 5968</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 19:15:31 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,13 @@
 			<pubDate>Sun, 11 Jan 2026 22:59:29 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205968</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government, Tribal Affairs &amp; Elections.</title>
+			<description>First reading, referred to State Government, Tribal Affairs &amp; Elections.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
 		</item>
 		<item>
 			<title>👍💵Brooke Davies - Cosmetologists of Washington United</title>
@@ -109,11 +116,25 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2026/01/16/done-with-week-one/#:~:text=SB%205968</guid>
 		</item>
 		<item>
+			<title>SGTE - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>SGTE - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/SGTE - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>What does affordability mean to you? - Sen. Marko Liias</title>
 			<description>News article "What does affordability mean to you? - Sen. Marko Liias" from Senate Democrats.</description>
 			<pubDate>Fri, 23 Jan 2026 19:15:31 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=permitting%20and%20licensing%20processes</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

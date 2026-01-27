@@ -40,6 +40,13 @@
 			<guid isPermaLink="false">testifier/Rick/Hoffman/2025-02-03 06:31:00</guid>
 		</item>
 		<item>
+			<title>LGV - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LGV - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/LGV - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
@@ -59,6 +66,13 @@
 			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-26/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>
@@ -113,6 +127,13 @@
 			<guid isPermaLink="false">2025-04-01/LG - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>LG - Majority; do pass with amendment(s).</title>
+			<description>LG - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/LG - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
@@ -127,6 +148,20 @@
 			<guid isPermaLink="false">2025-04-08/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-16/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-16/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 88; nays, 9; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 88; nays, 9; absent, 0; excused, 1.</description>
 			<pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
@@ -139,6 +174,13 @@
 			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-21/Passed final passage; yeas, 48; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-21/Senate concurred in House amendments.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -162,11 +204,25 @@
 			<guid isPermaLink="false">2025-04-24/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 336, 2025 Laws.</title>
+			<description>Chapter 336, 2025 Laws.</description>
+			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-17/Chapter 336, 2025 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/27/2025.</title>
 			<description>Effective date 7/27/2025.</description>
 			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-17/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-17/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

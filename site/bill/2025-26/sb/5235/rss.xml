@@ -58,6 +58,20 @@
 			<guid isPermaLink="false">2025-03-05/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-06/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</description>
 			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
@@ -98,6 +112,13 @@
 			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-27/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ED - Majority; do pass with amendment(s).</title>
+			<description>ED - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-27/ED - Majority; do pass with amendment(s).</guid>
 		</item>
 		<item>
 			<title>Minority; do not pass.</title>

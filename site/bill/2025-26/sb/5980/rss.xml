@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5980/</link>
 		<description>Updates about SB 5980</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

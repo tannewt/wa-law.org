@@ -105,6 +105,13 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205138</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</description>
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
@@ -173,6 +180,13 @@
 			<guid isPermaLink="false">2025-03-27/FIN - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>FIN - Majority; do pass.</title>
+			<description>FIN - Majority; do pass.</description>
+			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-27/FIN - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
@@ -194,6 +208,20 @@
 			<guid isPermaLink="false">2025-04-08/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-12/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 62; nays, 32; absent, 0; excused, 4.</title>
 			<description>Third reading, passed; yeas, 62; nays, 32; absent, 0; excused, 4.</description>
 			<pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
@@ -206,6 +234,13 @@
 			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-17/Passed final passage; yeas, 31; nays, 18; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-17/Senate concurred in House amendments.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -236,11 +271,25 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/05/08/session-adjourned-heres-what-we-did/#:~:text=SB%205138</guid>
 		</item>
 		<item>
+			<title>Chapter 376, 2025 Laws.</title>
+			<description>Chapter 376, 2025 Laws.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Chapter 376, 2025 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/27/2025.</title>
 			<description>Effective date 7/27/2025.</description>
 			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-20/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-20/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

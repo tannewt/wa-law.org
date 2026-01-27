@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2319/</link>
 		<description>Updates about HB 2319</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 11:19:18 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-07/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; Human Services.</title>
+			<description>First reading, referred to Early Learning &amp; Human Services.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Early Learning &amp; Human Services.</guid>
 		</item>
 		<item>
 			<title>The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats</title>
@@ -45,6 +52,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Chloe/Merino/2026-01-12 11:19:18</guid>
+		</item>
+		<item>
+			<title>ELHS - Executive action taken by committee.</title>
+			<description>ELHS - Executive action taken by committee.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/ELHS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ELHS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ELHS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/ELHS - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -172,6 +172,13 @@
 			<guid isPermaLink="false">2025-02-10/CS - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-10/CS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
@@ -205,6 +212,27 @@
 			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-08/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 50; nays, 46; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 50; nays, 46; absent, 0; excused, 2.</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/Third reading, passed; yeas, 50; nays, 46; absent, 0; excused, 2.</guid>
 		</item>
 		<item>
 			<title>House floor action | Washington State House Republicans</title>
@@ -380,11 +408,25 @@
 			<guid isPermaLink="false">2025-04-27/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Community Safety.</title>
 			<description>Referred to Community Safety.</description>
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/Referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>

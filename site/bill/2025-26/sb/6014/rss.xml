@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6014/</link>
 		<description>Updates about SB 6014</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 17:21:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-07/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 		<item>
 			<title>👍💵Maggie Humphreys - MomsRising</title>
@@ -29,6 +36,27 @@
 			<pubDate>Fri, 16 Jan 2026 17:21:20 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/01/16/nobles-bill-to-clarify-pregnancy-accommodation-protections-heard-in-committee/#:~:text=Senate%20Bill%206014</guid>
+		</item>
+		<item>
+			<title>LC - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LC - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/LC - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

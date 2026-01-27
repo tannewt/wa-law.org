@@ -96,6 +96,13 @@
 			<guid isPermaLink="false">2025-02-19/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-25/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
@@ -198,6 +205,20 @@
 			<guid isPermaLink="false">2025-04-10/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-11/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 92; nays, 2; absent, 0; excused, 4.</title>
 			<description>Third reading, passed; yeas, 92; nays, 2; absent, 0; excused, 4.</description>
 			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
@@ -212,11 +233,25 @@
 			<guid isPermaLink="false">2025-04-11/Third reading, passed; yeas, 93; nays, 2; absent, 0; excused, 3.</guid>
 		</item>
 		<item>
+			<title>Vote on third reading will be reconsidered.</title>
+			<description>Vote on third reading will be reconsidered.</description>
+			<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-11/Vote on third reading will be reconsidered.</guid>
+		</item>
+		<item>
 			<title>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-17/Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-17/Senate concurred in House amendments.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -240,11 +275,25 @@
 			<guid isPermaLink="false">2025-04-23/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 331, 2025 Laws.</title>
+			<description>Chapter 331, 2025 Laws.</description>
+			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-17/Chapter 331, 2025 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/1/2025.</title>
 			<description>Effective date 7/1/2025.</description>
 			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-17/Effective date 7/1/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-17/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

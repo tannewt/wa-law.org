@@ -132,6 +132,13 @@
 			<guid isPermaLink="false">2025-02-18/TEDV - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>TEDV - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TEDV - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/TEDV - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
@@ -167,11 +174,25 @@
 			<guid isPermaLink="false">2025-03-19/Returned to Rules Committee for second reading.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Technology, Economic Development, &amp; Veterans.</title>
 			<description>Referred to Technology, Economic Development, &amp; Veterans.</description>
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/Referred to Technology, Economic Development, &amp; Veterans.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>

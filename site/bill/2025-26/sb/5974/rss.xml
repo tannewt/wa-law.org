@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5974/</link>
 		<description>Updates about SB 5974</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 08:44:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,13 @@
 			<pubDate>Sun, 11 Jan 2026 22:59:29 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205974</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 		<item>
 			<title>👎Amanda McKinney - Yakima County Commissioner</title>
@@ -371,11 +378,39 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_da2387f5-b7f8-4c2a-9c58-9dfc7a34014f.html#:~:text=Senate%20Bill%205974</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Taking aim at ICE: State bill would ban former agents from being hired as police officers - MyNorthwest.com</title>
 			<description>News article "Taking aim at ICE: State bill would ban former agents from being hired as police officers - MyNorthwest.com" from MyNorthwest.</description>
 			<pubDate>Thu, 22 Jan 2026 08:44:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://mynorthwest.com/local/ice-bill-police-officers/4191755#:~:text=Senate%20Bill%205974</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

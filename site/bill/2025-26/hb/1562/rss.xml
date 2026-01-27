@@ -89,6 +89,20 @@
 			<guid isPermaLink="false">2025-03-04/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-04/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-04/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 67; nays, 28; absent, 0; excused, 3.</title>
 			<description>Third reading, passed; yeas, 67; nays, 28; absent, 0; excused, 3.</description>
 			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
@@ -108,6 +122,13 @@
 			<pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-14/And refer to Local Government.</guid>
+		</item>
+		<item>
+			<title>SGTE - Majority; without recommendation.</title>
+			<description>SGTE - Majority; without recommendation.</description>
+			<pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-14/SGTE - Majority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>Referred to Local Government.</title>
@@ -157,6 +178,13 @@
 			<guid isPermaLink="false">testifier/Katie/Beeson/2025-03-24 08:25:41</guid>
 		</item>
 		<item>
+			<title>LGV - Majority; do pass with amendment(s).</title>
+			<description>LGV - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-27/LGV - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
@@ -178,11 +206,32 @@
 			<guid isPermaLink="false">2025-04-11/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-15/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-15/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-15/Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-19/House concurred in Senate amendments.</guid>
 		</item>
 		<item>
 			<title>Passed final passage; yeas, 67; nays, 26; absent, 0; excused, 5.</title>
@@ -206,11 +255,32 @@
 			<guid isPermaLink="false">2025-04-23/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-23/President signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 274, 2025 Laws.</title>
+			<description>Chapter 274, 2025 Laws.</description>
+			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-13/Chapter 274, 2025 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/27/2025.</title>
 			<description>Effective date 7/27/2025.</description>
 			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-05-13/Effective date 7/27/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-05-13/Governor signed.</guid>
 		</item>
 		<item>
 			<title>WA law requires diaper changing stations in more restrooms | FOX 13 Seattle</title>

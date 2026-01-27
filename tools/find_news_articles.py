@@ -54,7 +54,7 @@ EXCLUDE = {
 DATE_PATTERN = r"(\d{4})[/-](\d{2}|\w{3})[/-](\d{2})[^\d]"
 
 
-after_date = arrow.get(2025, 12, 1)
+after_date = arrow.get(2026, 1, 1)
 
 
 def parse_date(content):

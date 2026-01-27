@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6018/</link>
 		<description>Updates about SB 6018</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 08:36:18 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,6 +24,13 @@
 			<guid isPermaLink="false">testifier/steve/walker/2026-01-09 01:25:49</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-12/First reading, referred to Housing.</guid>
+		</item>
+		<item>
 			<title>❓💵Megan Managan - Washington Bankers Association</title>
 			<description>Megan Managan signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_bankers_association/"&gt;Washington Bankers Association&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Fri, 16 Jan 2026 06:56:04 GMT</pubDate>
@@ -38,6 +45,34 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brad/Tower/2026-01-16 08:36:18</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-21/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HSG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HSG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-21/HSG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-21/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

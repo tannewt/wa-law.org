@@ -158,6 +158,13 @@
 			<guid isPermaLink="false">2025-02-12/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 39; nays, 10; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 39; nays, 10; absent, 0; excused, 0.</description>
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
@@ -281,11 +288,25 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=SB%205017</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>SGOV - Executive action taken by committee.</title>
 			<description>SGOV - Executive action taken by committee.</description>
 			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-04-01/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; do pass with amendment(s).</title>
+			<description>SGOV - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-04-01/SGOV - Majority; do pass with amendment(s).</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>

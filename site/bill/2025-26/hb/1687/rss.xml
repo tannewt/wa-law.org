@@ -38,6 +38,13 @@
 			<guid isPermaLink="false">2025-02-11/HOUS - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HOUS - Majority; do pass.</title>
+			<description>HOUS - Majority; do pass.</description>
+			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-11/HOUS - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
@@ -66,6 +73,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brian/Gregory/2025-02-19 07:59:39</guid>
+		</item>
+		<item>
+			<title>CB - Executive action taken by committee.</title>
+			<description>CB - Executive action taken by committee.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/CB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CB - Majority; do pass.</title>
+			<description>CB - Majority; do pass.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/CB - Majority; do pass.</guid>
 		</item>
 		<item>
 			<title>Minority; do not pass.</title>

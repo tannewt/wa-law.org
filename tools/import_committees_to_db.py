@@ -112,7 +112,8 @@ async def main():
                         cur.execute("INSERT OR IGNORE INTO testimony_options VALUES (?)", (option.text,))
                         cur.execute("SELECT rowid FROM testimony_options WHERE option = ?", (option.text,))
                         option_rowid = cur.fetchone()[0]
-                        
+                        if "href" not in option:
+                            continue
                         cur.execute("INSERT OR IGNORE INTO testimony_links VALUES (?, ?, ?)", (item_rowid, option_rowid, option["href"]))
                     db.commit()
 
