@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2382/</link>
 		<description>Updates about HB 2382</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 24 Jan 2026 05:59:19 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 12:12:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2026-01-09/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👎Shaun D’Sylva - Citizen Volunteer Lobbyist</title>
+			<title>👎Shaun D’Sylva - Washington State Public Heatlh Association</title>
 			<description>Shaun D’Sylva signed up to testify Con.</description>
 			<pubDate>Fri, 23 Jan 2026 04:03:00 GMT</pubDate>
 			<category>testifier</category>
@@ -37,6 +37,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anthony/Mixer/2026-01-24 05:59:19</guid>
+		</item>
+		<item>
+			<title>👍Josh Binda - Chair of the NAACP Political Action Committee</title>
+			<description>Josh Binda signed up to testify Pro. They are signed up to represent Chair of the NAACP Political Action Committee.</description>
+			<pubDate>Mon, 26 Jan 2026 08:11:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Josh/Binda/2026-01-26 08:11:56</guid>
+		</item>
+		<item>
+			<title>👍Megan Moore - Washington State Public Heatlh Association</title>
+			<description>Megan Moore signed up to testify Pro. They are signed up to represent Washington State Public Heatlh Association.</description>
+			<pubDate>Mon, 26 Jan 2026 12:12:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Megan/Moore/2026-01-26 12:12:07</guid>
 		</item>
 	</channel>
 </rss>

@@ -15,6 +15,9 @@
 
 ### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
 
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency 👍1  
+* 👍 Suzanne Vanderwerff
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
 * 👎💵 Dorothy Miller
 

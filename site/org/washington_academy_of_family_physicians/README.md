@@ -22,6 +22,8 @@
 
 ### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
 
+### [SB 5185](/bill/2025-26/sb/5185/) - Establishing preceptorship and hardship pathways to medical practice for international medical graduates.   ❓1
+
 ## [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍2  
 * 👍 Dr. Katina Rue
 

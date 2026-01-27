@@ -13,7 +13,7 @@
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6049 PRA/students & employees
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * 💵Alexandra Johnson - Duwamish River Community Coalition

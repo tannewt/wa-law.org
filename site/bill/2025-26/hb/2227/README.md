@@ -10,10 +10,14 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2227 Affordable housing/REET
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Kerri Burnside - Bellingham Tenants Union
+* Dominique Merriweather - Proud Ground
+* Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
+* Rose Lathrop - Kulshan Community Land Trust
+* Tom Venable - Methow Housing Trust
 
-#### 2 👎 - Con
+#### 26 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

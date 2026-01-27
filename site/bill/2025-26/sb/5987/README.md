@@ -13,7 +13,7 @@
 ### Tue 01/27 04:00 PM - Transportation (TRAN): SB 5987 SR 165 replacements
 Sign up to testify:
 
-#### 439 👍 - Pro
+#### 535 👍 - Pro
 Testifying:
 * Jeff Pack - Me
 * Jayme Peloli - Mayor, Town of Wilkeson
@@ -22,6 +22,6 @@ Testifying:
 * Denice Carnahan
 * Nichol Phillips - Pacific Northwest 4-Wheel Drive Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 2 ❓ - Other

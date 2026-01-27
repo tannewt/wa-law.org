@@ -18,6 +18,10 @@
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 * 👍 Mabel Thackeray
 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  
+
+### [HB 2007](/bill/2025-26/hb/2007/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  
+
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
@@ -74,6 +78,8 @@
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Jenny Morgan
+
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 
 ## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
 * 👍 Amy Barrett

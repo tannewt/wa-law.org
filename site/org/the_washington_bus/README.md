@@ -41,7 +41,7 @@
 * 👍 Odessa Paule
 * 👍 Treveon Parish
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍3  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 

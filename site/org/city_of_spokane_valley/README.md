@@ -115,7 +115,7 @@
 
 ### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
 
-### [HB 2203](/bill/2025-26/hb/2203/) - Creating the offense of reckless interference with emergency operations.  👎1 
+### [HB 2203](/bill/2025-26/hb/2203/) - Interference with emergency  👎1 
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
@@ -236,11 +236,15 @@
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 
-## [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation  👎1 
+### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation  👎1 
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+* 👎 Gloria Mantz
 
 ## 2023-24
 
-### [SB 6067](/bill/2023-24/sb/6067/) - Workers' compensation  👎1 
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
+* 👎 Gloria Mantz
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

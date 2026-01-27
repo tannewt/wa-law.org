@@ -74,7 +74,9 @@
 
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
@@ -132,11 +134,17 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
+### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds   ❓1
+* ❓ John Flanagan
+
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
 ### [SB 5936](/bill/2025-26/sb/5936/) - Human trafficking 👍1  
 
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
+* 👍 John Flanagan
 
 ## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 * 👍 Fred Felleman

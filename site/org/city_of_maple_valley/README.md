@@ -8,13 +8,16 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 * 👎 City Councilmember John Herbert
+
+## [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍1  
+* 👍 Mayor Sean Kelly
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements  👎1 
-* 👎 City Councilmember John Herbert
+### [SB 5763](/bill/2023-24/sb/5763/) - Law enf. aviation support 👍1  
+* 👍 Mayor Sean Kelly
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
 * 👎 Councilmember Syd Dawson

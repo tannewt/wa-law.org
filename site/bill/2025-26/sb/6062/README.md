@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Mon 01/26 01:30 PM - Human Services (HS): SB 6062 Criminal offenses under 18
-Sign up to testify:
-
-#### 361 👍 - Pro
+#### 481 👍 - Pro
 Testifying:
 * Gisella Gonzales - Team children
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
@@ -34,7 +32,7 @@ Testifying:
 * 💵Roxana Gomez - LCYC
 * Liz Mustin
 
-#### 257 👎 - Con
+#### 449 👎 - Con
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 * Tiffany Attrill - Crime victim advocate
@@ -45,11 +43,15 @@ Testifying:
 * Krista Stogner - Surviving Family Member of Murder Victim
 * Danielle Mikinka Grass - Crime Victim Family Member
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Armondo Pavone - Mayor, City of Renton
+* Dana Ralph - Mayor/City of Kent
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Jacqueline Johnson - WFSE Member
 * Barbara Serrano - Dept. of Children, Youth, and Families
 * Jr., Harold Wright - Dept. of Children, Youth, and Families
 * Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * Judge Kristin Ferrera - Superior Court Judges’ Association
+* George Moya - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Joe Alonzo - [Cocoon House](/org/cocoon_house/)

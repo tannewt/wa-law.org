@@ -34,11 +34,11 @@
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 
-### [HB 2099](/bill/2025-26/hb/2099/) - Expanding access to the early childhood education and assistance program for military families. 👍1  
+### [HB 2099](/bill/2025-26/hb/2099/) - ECEAP access/military 👍1  
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 
 ### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
 

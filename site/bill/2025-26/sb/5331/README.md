@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Five bills sponsored by Cortes move through the legislative process - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/26/five-bills-sponsored-by-cortes-move-through-the-legislative-process/#:~:text=Senate%20Bill%205331)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%205331)
 * 05/05/2025 [The Washington Observer](/org/the_washington_observer/) - [How an accountability bill for bad actors in the insurance industry died](https://washingtonobserver.substack.com/p/how-an-accountability-bill-for-bad#:~:text=Senate%20Bill%205331)
 * 03/19/2025 [Senate Democrats](/org/senate_democrats/) - [Post house of origin cutoff update! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/03/19/post-house-of-origin-cutoff-update/#:~:text=5331)

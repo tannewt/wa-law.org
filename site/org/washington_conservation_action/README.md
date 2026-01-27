@@ -59,7 +59,7 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍2  
 * 👍 Julian Santos
@@ -141,6 +141,8 @@
 * 👎💵 Darcy Nonemacher
 
 ### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
+
+### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds  👎1 
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2298/</link>
 		<description>Updates about HB 2298</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 01:34:34 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 11:03:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Holly/Chisa/2026-01-23 01:34:34</guid>
+		</item>
+		<item>
+			<title>❓Maureen Pfaff - Olympic Peninsula Title</title>
+			<description>Maureen Pfaff signed up to testify Other. They are signed up to represent Olympic Peninsula Title.</description>
+			<pubDate>Mon, 26 Jan 2026 04:18:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Maureen/Pfaff/2026-01-26 04:18:32</guid>
+		</item>
+		<item>
+			<title>❓Sean Holland - Washington Land Title Association</title>
+			<description>Sean Holland signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_land_title_association/"&gt;Washington Land Title Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 26 Jan 2026 04:18:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sean/Holland/2026-01-26 04:18:32</guid>
+		</item>
+		<item>
+			<title>👍Jackie Brunson - WA Association of County Treasurers</title>
+			<description>Jackie Brunson signed up to testify Pro. They are signed up to represent WA Association of County Treasurers.</description>
+			<pubDate>Mon, 26 Jan 2026 10:32:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jackie/Brunson/2026-01-26 10:32:05</guid>
+		</item>
+		<item>
+			<title>👎💵Andrea Smiley - Building Industry Association of Washington</title>
+			<description>Andrea Smiley signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/building_industry_association_of_washington/"&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 26 Jan 2026 11:03:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andrea/Smiley/2026-01-26 11:03:19</guid>
 		</item>
 	</channel>
 </rss>

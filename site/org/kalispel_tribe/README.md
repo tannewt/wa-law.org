@@ -1,12 +1,12 @@
 # Kalispel Tribe
 ## 2025-26
 
-## [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍1  
+## [HB 2205](/bill/2025-26/hb/2205/) - Regulated sports wagering 👍1  
 * 👍 Kevin Zenishek
 
 ## 2023-24
 
-### [HB 2205](/bill/2023-24/hb/2205/) - Concerning the regulated sports wagering industry. 👍1  
+### [HB 2205](/bill/2023-24/hb/2205/) - Regulated sports wagering 👍1  
 * 👍 Kevin Zenishek
 
 ### [HB 1684](/bill/2023-24/hb/1684/) - Tribes/job title reporting 👍1  

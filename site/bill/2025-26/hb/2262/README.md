@@ -10,7 +10,7 @@
 ### Thu 01/29 08:00 AM - Education (ED): HB 2262 Signature education
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 124 👍 - Pro
 
 #### 0 👎 - Con
 

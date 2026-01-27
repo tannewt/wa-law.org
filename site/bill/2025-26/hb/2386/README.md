@@ -14,6 +14,8 @@ Sign up to testify:
 Testifying:
 * Judge Andrew Biviano - District & Municipal Court Judges' Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Mindy Chumbley - NW Collectors Association
 
 #### 0 ❓ - Other

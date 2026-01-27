@@ -41,7 +41,7 @@
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 ❓1
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎2 ❓1
 * 👎💵 Crystal Leatherman
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
@@ -139,7 +139,8 @@
 
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products  👎1 
 
-### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍1  
+### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍2  
+* 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
@@ -185,7 +186,7 @@
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 * 👍💵 Crystal Leatherman
 
-### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
+### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots  👎1 
 * 👎💵 Crystal Leatherman
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 

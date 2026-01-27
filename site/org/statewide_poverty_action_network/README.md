@@ -85,9 +85,16 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
+### [HB 2240](/bill/2025-26/hb/2240/) - Concerning the delivery, execution, acceptance, and provisions of individual storage space rental agreements and modifying the use of individual storage spaces after notice of termination or nonrenewal of rental agreements.  👎1 
+
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
+
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍2  
+
+### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
+* 👎💵 Marcy Bowers
 
 ### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
 * 👍💵 Marcy Bowers
@@ -171,11 +178,13 @@
 
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

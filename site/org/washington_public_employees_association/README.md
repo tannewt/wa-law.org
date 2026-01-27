@@ -28,7 +28,7 @@
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍3  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍2  
 * 👍 Joey Hicklin
@@ -71,7 +71,7 @@
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍2  
 * 👍💵 Sam Tinsley
@@ -166,6 +166,8 @@
 ### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
+### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
 
 ### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍2  
 

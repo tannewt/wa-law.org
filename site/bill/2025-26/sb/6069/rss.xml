@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6069/</link>
 		<description>Updates about SB 6069</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 24 Jan 2026 10:38:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 12:50:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,6 +106,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jennifer/Gregerson/2026-01-24 10:38:11</guid>
+		</item>
+		<item>
+			<title>👍💵Eric Pettigrew - The Moore Group</title>
+			<description>Eric Pettigrew signed up to testify Pro. They are signed up to represent The Moore Group. They are a registered lobbyist.</description>
+			<pubDate>Mon, 26 Jan 2026 04:24:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Pettigrew/2026-01-26 04:24:36</guid>
+		</item>
+		<item>
+			<title>👍Jameel Brown - 2027146332</title>
+			<description>Jameel Brown signed up to testify Pro. They are signed up to represent 2027146332.</description>
+			<pubDate>Mon, 26 Jan 2026 04:24:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jameel/Brown/2026-01-26 04:24:36</guid>
+		</item>
+		<item>
+			<title>👍Tanikka Watford - The Moore Wright Group</title>
+			<description>Tanikka Watford signed up to testify Pro. They are signed up to represent The Moore Wright Group.</description>
+			<pubDate>Mon, 26 Jan 2026 04:24:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tanikka/Watford/2026-01-26 04:24:36</guid>
+		</item>
+		<item>
+			<title>👎Gloria Mantz - City of Spokane Valley</title>
+			<description>Gloria Mantz signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_spokane_valley/"&gt;City of Spokane Valley&lt;/a&gt;.</description>
+			<pubDate>Mon, 26 Jan 2026 12:50:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gloria/Mantz/2026-01-26 12:50:23</guid>
 		</item>
 	</channel>
 </rss>

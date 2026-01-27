@@ -10,12 +10,19 @@
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2117 Board of natural resources
 Sign up to testify:
 
-#### 121 👍 - Pro
+#### 178 👍 - Pro
+Testifying:
+* Bill Iyall - Chairman, Cowlitz Indian Tribe
+* Jeremy "JJ" Wilbur - Senator, Swinomish Indian Tribal Community
+* Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
+* Glenda Breiler - Office of the Commissioner of Public Lands, Department of Natural Resources
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 
-#### 3 👎 - Con
+#### 71 👎 - Con
 Testifying:
 * john WORTHINGTON
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Josh Weiss - Skagit County; Clallam Economic Alliance

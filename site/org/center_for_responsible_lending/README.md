@@ -4,6 +4,9 @@
 ### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services   ❓1
 * ❓💵 Andrew Kushner
 
+### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
+* 👎 Yasmin Farahi
+
 ## [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services   ❓1
 * ❓💵 Andrew Kushner
 

@@ -13,7 +13,7 @@
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5924 Pharmacist prescriptive auth
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -29,7 +29,7 @@
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
 
-### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
+### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots  👎1 
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍2  
 

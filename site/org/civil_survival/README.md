@@ -51,6 +51,8 @@
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 * 👍 Cassia Hershenow
 
+### [HB 2217](/bill/2025-26/hb/2217/) - Concerning rehabilitative pathways for persons charged with certain felony offenses who have no prior felony convictions in adult criminal court. 👍1  
+
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
@@ -66,6 +68,10 @@
 ### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
 
 ### [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍2  
+
+### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
+
+### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
 ## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 

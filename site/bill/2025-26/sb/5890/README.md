@@ -11,13 +11,11 @@
 
 ## Meetings
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5890 Reckless driving, speed
-Sign up to testify:
-
-#### 236 👍 - Pro
+#### 284 👍 - Pro
 Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

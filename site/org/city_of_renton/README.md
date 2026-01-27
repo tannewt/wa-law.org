@@ -130,6 +130,8 @@
 
 ### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
 
+### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍1  
+
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  

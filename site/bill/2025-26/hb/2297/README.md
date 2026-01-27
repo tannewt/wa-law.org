@@ -13,7 +13,9 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2297 Grocery store incentives
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 1 👎 - Con
 

@@ -8,18 +8,22 @@
 
 ## Meetings
 ### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2349 Sexually violent predators
-Sign up to testify:
-
-#### 305 👍 - Pro
+#### 410 👍 - Pro
 Testifying:
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Lisa Beaton - Deputy City Manager, City of Kennewick
+* Nancy Backus - Mayor, City of Auburn
+* Stan Flemming - Mayor,  City of University Place
 
-#### 6 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Laurie Layne
 * Aimee Martin
 * Devon Gibbs
 * Jessica Fleming - WACDL/WDA
+* Sonja Hardenbrook - Hardenbrook Law
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Candice Yi - DSHS Behavioral Health and Habilitation Administration
+* Tony Bowie - DSHS Behavioral Health and Habilitation Administration

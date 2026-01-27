@@ -103,7 +103,7 @@
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
-### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
+### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications 👍1  
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
 

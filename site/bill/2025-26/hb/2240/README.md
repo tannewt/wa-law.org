@@ -10,13 +10,13 @@
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2240 Storage space rentals
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Joe Doherty - Self Storage Association
 * Lance Baker - Washington Self Storage Association
 * Patrick Gilroy - Washington Self Storage Association
 * Kristi Tripple - Rowley Properties, Inc.
 
-#### 2 👎 - Con
+#### 63 👎 - Con
 
 #### 0 ❓ - Other

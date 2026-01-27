@@ -88,9 +88,13 @@
 
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 
+### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
+
 ### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism. 👍1  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍1  
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
 * 👍 Alison McCaffree
 
 ### [HB 2212](/bill/2025-26/hb/2212/) - Reducing microplastic pollution from washing machines. 👍1  

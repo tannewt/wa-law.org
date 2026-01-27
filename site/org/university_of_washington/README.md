@@ -67,7 +67,7 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry.   ❓1
+### [HB 2205](/bill/2025-26/hb/2205/) - Regulated sports wagering   ❓1
 * ❓💵 Morgan Hickel
 
 ### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation. 👍1  

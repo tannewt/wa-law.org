@@ -20,20 +20,28 @@
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1834 Online services/minors
-Sign up to testify:
-
-#### 232 👍 - Pro
+#### 398 👍 - Pro
 Testifying:
 * Nick Fielden - Washington State Attorney General's Office
+* Anni-Michele Jean-Pierre - [Children's Alliance](/org/children's_alliance/)
+* Taj Jensen
+* Brian Boland
+* Kelly Stonelake
 
-#### 88 👎 - Con
+#### 531 👎 - Con
 Testifying:
 * Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Charlie Brown - Information Technology Industry Council
 * Amy Bos - NetChoice
 * 💵Rose Feliciano - TechNet
+* Sheila Stickel - patient advocate
+* Tee Sannon - ACLU of Washington
+* 💵Amy Harris
+* 💵Amy Harris
+* David McGarry - Taxpayers Protection Alliance
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 108 ❓ - Other
+#### 168 ❓ - Other
 
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1834 Online services/minors
 #### 83 👍 - Pro

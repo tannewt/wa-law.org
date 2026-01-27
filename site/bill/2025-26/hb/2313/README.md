@@ -13,12 +13,14 @@
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2313 Public grocery stores
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 51 👍 - Pro
 
-#### 41 👎 - Con
+#### 163 👎 - Con
 Testifying:
 * Avyay Nalumachu
 * Erik Ghulyan
 * Erik Straka
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 0 ❓ - Other

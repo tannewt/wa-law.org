@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2219 - Enhancing the operational efficiency of child care providers.</title>
+		<title>HB 2219 - Child care providers</title>
 		<link>https://wa-law.org/bill/2025-26/hb/2219/</link>
 		<description>Updates about HB 2219</description>
 		<language>en-US</language>
@@ -83,6 +83,13 @@
 			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-23/ELHS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ELHS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ELHS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/ELHS - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

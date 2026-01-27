@@ -32,7 +32,7 @@
 
 ### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute. 👍1  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍2  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
 * 👍💵 Cindy Black
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  

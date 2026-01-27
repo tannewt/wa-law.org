@@ -10,13 +10,17 @@
 ### Thu 01/29 08:00 AM - Environment & Energy (ENVI): HB 2322 Alternative jet fuel
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Derek Phelps - Twelve Benefit Corp
+* Don Myers - Council Member, City of Moses Lake
+* Don Myers - Deputy Mayor, City of Moses Lake
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joel Creswell - Washington Department of Ecology
 
 ### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2322 Alternative jet fuel
 #### 0 👍 - Pro

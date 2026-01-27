@@ -24,7 +24,7 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area. 👍1  
 * 👍 BRIAN ENSLOW
 
-### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 

@@ -13,10 +13,14 @@
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 5886 Forged digital likenesses
 Sign up to testify:
 
-#### 81 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Sonal Virk - Associated Students of the University of Washington Seattle
+* Jai Jaisimha - Transparency Coalition.ai
+* 💵Bhargav Iyer - Associated Students of Washington State University
+* Brandon Elliott - Associated Students of the University of Washington
+* Reed Scott - Associated Students of Washington State University
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

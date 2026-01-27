@@ -10,7 +10,7 @@
 ### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 2340 Nursing assistants/SUD prg.
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

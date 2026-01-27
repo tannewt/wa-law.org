@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington from ICE - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/01/26/protecting-washington-from-ice/#:~:text=SB%205855)
+* 01/26/2026 [The Center Square](/org/the_center_square/) - [WA leaders intensify opposition to federal immigration enforcement efforts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0d60b7f8-7b40-4148-b413-1d394c57d0cd.html#:~:text=Senate%20Bill%205855)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%205855)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB%205855)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What I’m working on this session - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/23/what-im-working-on-this-session/#:~:text=Senate%20Bill%205855)

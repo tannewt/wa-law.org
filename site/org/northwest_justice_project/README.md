@@ -29,6 +29,9 @@
 * 👍 Tom McGarry
 * 👍 Christopher Brunetti
 
+### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
+* 👎 Julia Kellison
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 * 👍 Julia Kellison
 * 👍 Julia Kellison

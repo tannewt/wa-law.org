@@ -43,7 +43,11 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
+### [HB 2217](/bill/2025-26/hb/2217/) - Concerning rehabilitative pathways for persons charged with certain felony offenses who have no prior felony convictions in adult criminal court. 👍1  
+
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎1 
+
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 * 👍 Tim Warden-Hertz

@@ -10,10 +10,17 @@
 ### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 2250 Charity care residency
 Sign up to testify:
 
-#### 25 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Robert Rosencrantz - Pend Oreille County
+* Justin Peters - Newport Hospital & Health Services
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Robert Rosencrantz
+* Suzanne Vanderwerff - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
+* Elizabeth New - Washington Policy Center
 
-#### 26 👎 - Con
+#### 121 👎 - Con
+Testifying:
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 
 #### 0 ❓ - Other

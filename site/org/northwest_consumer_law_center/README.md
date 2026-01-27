@@ -10,15 +10,21 @@
 ### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
 * 👎 Amanda Martin
 
+### [HB 2240](/bill/2025-26/hb/2240/) - Concerning the delivery, execution, acceptance, and provisions of individual storage space rental agreements and modifying the use of individual storage spaces after notice of termination or nonrenewal of rental agreements.  👎1 
+
+### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 * 👍 Amanda Martin
 * 👍 Amanda Martin
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+
+## [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail  👎1 
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍1  
+### [SB 5976](/bill/2023-24/sb/5976/) - Commercial electronic mail  👎1 
 
 ### [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍2  
 * 👍 Christina Henry

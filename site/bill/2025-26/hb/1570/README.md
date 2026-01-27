@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1570 Academic employee bargaining
-Sign up to testify:
-
-#### 659 👍 - Pro
+#### 754 👍 - Pro
 Testifying:
 * Bill Lyne - United Faculty of Washington State
 * 💵Emily Myers - UAW Region 6
@@ -19,7 +17,7 @@ Testifying:
 * 💵Nathan Tippmann - Geoduck Student Union - Evergreen State College
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 
-#### 44 👎 - Con
+#### 63 👎 - Con
 
 #### 1 ❓ - Other
 

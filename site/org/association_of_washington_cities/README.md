@@ -312,10 +312,10 @@
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.   ❓1
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections   ❓1
 * ❓💵 Derrick Nunnally
 
-### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
 * 👍💵 Candice Bock
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
@@ -586,6 +586,8 @@
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+
+### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds   ❓1
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 

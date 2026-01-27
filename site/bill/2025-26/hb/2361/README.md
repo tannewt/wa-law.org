@@ -10,10 +10,18 @@
 ### Tue 01/27 01:30 PM - Consumer Protection & Business (CPB): HB 2361 Small loans maximum amount
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Trent Matson - [Moneytree, Inc.](/org/moneytree,_inc./)
 
-#### 112 👎 - Con
+#### 225 👎 - Con
 Testifying:
 * Cathy MacCaul - AARP Washington
+* Caesar Carter
+* 💵Marcy Bowers - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Yasmin Farahi - [Center for Responsible Lending](/org/center_for_responsible_lending/)
+* 💵Denisse Guerrero - Washington Community Alliance
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
+* Demas Nesterenko - SEIU775
 
 #### 0 ❓ - Other

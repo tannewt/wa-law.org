@@ -7,6 +7,8 @@
 
 ### [HB 1705](/bill/2025-26/hb/1705/) - Large animal veterinarians 👍1  
 
+### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism. 👍1  
+
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
 ### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍3  ❓1

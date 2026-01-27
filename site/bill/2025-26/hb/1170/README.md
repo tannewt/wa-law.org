@@ -18,11 +18,12 @@
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1170 AI content notices
-Sign up to testify:
+#### 297 👍 - Pro
 
-#### 176 👍 - Pro
-
-#### 30 👎 - Con
+#### 50 👎 - Con
+Testifying:
+* 💵Amy Harris
+* 💵Amy Harris
 
 #### 0 ❓ - Other
 

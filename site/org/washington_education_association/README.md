@@ -346,15 +346,17 @@
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍2  
 * 👍 Jared Mason-Gere
 
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
+
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
 
-### [HB 2183](/bill/2025-26/hb/2183/) - Requiring counties to develop and implement heat response plans. 👍1  
+### [HB 2183](/bill/2025-26/hb/2183/) - Heat response plans 👍1  
 
 ### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
 
-### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots. 👍1  
+### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots 👍1  
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
@@ -768,6 +770,8 @@
 * 👍 Jared Mason-Gere
 
 ### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+
+### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
 
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
 

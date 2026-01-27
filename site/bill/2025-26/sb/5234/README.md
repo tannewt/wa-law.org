@@ -8,11 +8,16 @@
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Transportation (TRAN): SB 5234 Snowmobile registration fees
-Sign up to testify:
+#### 7 👍 - Pro
+Testifying:
+* Justinian Davis
+* Dean Meakin - Washington State Snowmobile Association
+* Brian Considine - State Parks, Policy & Gov't Affairs Director
+* Rob Sendak - WA State Parks, Winter Recreation & Boating Program Manager
 
-#### 1 👍 - Pro
-
-#### 67 👎 - Con
+#### 106 👎 - Con
+Testifying:
+* Greg Figg - Spokane Winter Knights Snowmobile Club
 
 #### 0 ❓ - Other
 

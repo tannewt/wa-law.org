@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 6017 Crime victims & witnesses
-Sign up to testify:
-
-#### 84 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Abigail Echo-Hawk - Seattle Indian Health Board
 * Temryss Lane
@@ -24,8 +22,11 @@ Testifying:
 * Absa Samba - Washington Coalition to End Female Genital Mulation/Cutting
 * Muna Osman - Holistic Famy care clinic
 * Niha Dhillon
+* Trisha Smith - Dept of Commerce
+* Severina Lemachokoti - Washington FGM/C. Coalition
+* Stefania Ramos Birch
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 

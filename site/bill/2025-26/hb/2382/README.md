@@ -13,11 +13,13 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2382 Tobacco product excise taxes
 Sign up to testify:
 
-#### 11 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
+* Josh Binda - Chair of the NAACP Political Action Committee
+* Megan Moore - Washington State Public Heatlh Association
 
-#### 20 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Shaun D’Sylva
 

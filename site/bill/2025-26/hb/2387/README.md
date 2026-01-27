@@ -13,11 +13,13 @@
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2387 Elected sheriffs
 Sign up to testify:
 
-#### 50 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * Ryan Spurling - Mason County Sheriff
+* Fred Thomas - Wa coalition for police accountability
+* Clay Myers - Kittitas County Sheriff's Office
 
-#### 428 👎 - Con
+#### 1051 👎 - Con
 Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)

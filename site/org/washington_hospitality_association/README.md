@@ -149,7 +149,7 @@
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 * 👍 Sean DeWitz
 
-### [HB 2205](/bill/2025-26/hb/2205/) - Concerning the regulated sports wagering industry. 👍1  
+### [HB 2205](/bill/2025-26/hb/2205/) - Regulated sports wagering 👍1  
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 

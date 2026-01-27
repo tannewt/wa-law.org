@@ -66,7 +66,9 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 David Mendoza
 
-### [HB 2183](/bill/2025-26/hb/2183/) - Requiring counties to develop and implement heat response plans. 👍1  
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+
+### [HB 2183](/bill/2025-26/hb/2183/) - Heat response plans 👍1  
 
 ### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
 * 👍💵 Justin Allegro
@@ -127,6 +129,8 @@
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
 
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 David Mendoza

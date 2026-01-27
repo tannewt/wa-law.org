@@ -18,7 +18,7 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2038 Youth behavioral health acc.
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 12 👍 - Pro
 
 #### 4 👎 - Con
 Testifying:

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2026 [FOX13](/org/fox13/) - [Rivian pledging $4.6M to WA ballot initiative | FOX 13 Seattle](https://www.fox13seattle.com/news/rivian-tesla-wa-ballot-initiative#:~:text=SB%205592)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205592)
 * 02/24/2025 [KUOW](/org/kuow/) - [KUOW - Tesla's direct car sales loophole survives in Washington state — for now](https://www.kuow.org/stories/tesla-s-washington-loophole-survives-for-another-year#:~:text=5592)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205592)

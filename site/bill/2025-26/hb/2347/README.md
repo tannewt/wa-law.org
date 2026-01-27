@@ -13,10 +13,23 @@
 ### Thu 01/29 04:00 PM - Transportation (TR): HB 2347 Luxury aircraft tax
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
+* Alan Burnett - Pacific Northwest Business Aviation Association (PNBAA)
+* Eric Schneider - Modern Aviation
+* Steve Bogner - Fortive
+* Brian Hammer - Citizen Air
+* Phil Derner - National Business Aviation Association (NBAA)
+* Stephen Ratzlaff - Friends of Boeing Field & Washington Seaplane Pilots Association
+* Adina Bielenberg - Schweitzer Engineering Laboratories (SEL)
+* Ed Schweitzer - Schweitzer Engineering Laboratories (SEL)
+* Scott Hazelgrove - Weyerhaeuser
+* Tony Bean - Pullman-Moscow Regional Airport
+* 💵Ken Short - Association of Washington Business (AWB)
+* Maddie DuBray - DuBray Consulting
+* Mike Ennis - Washington Airport Managment Association (WAMA)
 
-#### 2 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other

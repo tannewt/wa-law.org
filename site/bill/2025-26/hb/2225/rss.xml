@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2225 - Concerning regulation of artificial intelligence companion chatbots.</title>
+		<title>HB 2225 - AI companion chatbots</title>
 		<link>https://wa-law.org/bill/2025-26/hb/2225/</link>
 		<description>Updates about HB 2225</description>
 		<language>en-US</language>
@@ -257,6 +257,13 @@
 			<pubDate>Mon, 19 Jan 2026 06:41:12 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202225</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>TEDV - Executive action taken by committee.</title>

@@ -14,9 +14,11 @@ Sign up to testify:
 Testifying:
 * Nello Picinich - Coastal Conservation Association
 
-#### 55 👎 - Con
+#### 73 👎 - Con
 Testifying:
 * Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
 * Liam Doucet
+* Christine Parker-Graham - Wildlife veterinarian (independent)
+* Casey Mclean - SR3 Sealife Response, Rehab and Research
 
 #### 0 ❓ - Other

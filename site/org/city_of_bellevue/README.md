@@ -166,6 +166,8 @@
 
 ### [SB 5796](/bill/2025-26/sb/5796/) - Payroll expense tax  👎1 
 
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+
 ## [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
 ## 2023-24

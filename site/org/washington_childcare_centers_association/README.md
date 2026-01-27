@@ -24,7 +24,7 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers.   ❓1
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers   ❓1
 * ❓💵 Amy Anderson
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 

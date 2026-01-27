@@ -15,15 +15,15 @@
 ### Tue 01/27 01:30 PM - State Government & Tribal Relations (SGOV): HB 2235 PRA firearm exemptions
 Sign up to testify:
 
-#### 66 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * Michael McKinley
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Joe Kunzler - Concerned Citizen
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn
 

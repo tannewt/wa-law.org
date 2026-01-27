@@ -10,7 +10,7 @@
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 6041 Personality rights
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 21 👍 - Pro
 
 #### 0 👎 - Con
 

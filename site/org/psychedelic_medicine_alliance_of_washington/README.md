@@ -7,11 +7,15 @@
 ### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances   ❓1
 * ❓ Kody Zalewski
 
-## [SB 5204](/bill/2025-26/sb/5204/) - Ibogaine-assisted therapy   ❓1
+### [SB 5204](/bill/2025-26/sb/5204/) - Ibogaine-assisted therapy   ❓1
+
+## [SB 5921](/bill/2025-26/sb/5921/) - Psilocybin   ❓1
+* ❓ Kody Zalewski
 
 ## 2023-24
 
-### [SB 5204](/bill/2023-24/sb/5204/) - Ibogaine-assisted therapy   ❓1
+### [SB 5921](/bill/2023-24/sb/5921/) - Psilocybin   ❓1
+* ❓ Kody Zalewski
 
 ## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍4  
 * 👍 Kody Zalewski

@@ -68,6 +68,8 @@
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
+### [HB 2292](/bill/2025-26/hb/2292/) - Small business stock gains 👍1  
+
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 * 👍 Sam Hatzenbeler
 

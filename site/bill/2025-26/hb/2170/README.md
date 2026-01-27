@@ -14,14 +14,28 @@
 ### Wed 01/28 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2170 Ecosystem services
 Sign up to testify:
 
-#### 709 👍 - Pro
+#### 936 👍 - Pro
+Testifying:
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Kate Dean - Office of the Commissioner of Public Lands, Department of Natural Resources
 
-#### 54 👎 - Con
+#### 501 👎 - Con
 Testifying:
 * Mark Ozias - Clallam County
 * Amy Cruver - representing Pierce County 3rd Council District
 * David Bingham - Crescent School School District #313
 * Russ Pfeiffer-Hoyt - Washington State School Directors' Association (WSSDA)
 * Carmen Smith - R L Smith Logging Inc
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Kevin Shutty - Economic Development Council of Mason County
+* Katie Whittier - [Skamania County](/org/skamania_county/)
+* Ann Rivers - Hampton Lumber
+* Bill Turner - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
+* 💵Heath Heikkila - American Forest Resource Council
+* Jim Stoffer
+* 💵Jerrold Bonagofsky - WA Contract Loggers Assn.
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
+* Todd Myers - Washington Policy Center

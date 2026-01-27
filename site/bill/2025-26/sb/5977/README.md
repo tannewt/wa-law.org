@@ -10,7 +10,7 @@
 ### Tue 01/27 01:30 PM - Human Services (HS): SB 5977 Child near fatality reviews
 Sign up to testify:
 
-#### 35 👍 - Pro
+#### 71 👍 - Pro
 
 #### 0 👎 - Con
 

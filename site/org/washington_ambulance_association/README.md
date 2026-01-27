@@ -1,6 +1,8 @@
 # Washington Ambulance Association
 ## 2025-26
 
+### [HB 2232](/bill/2025-26/hb/2232/) - Improving system outcomes for time-sensitive emergencies. 👍1  
+
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments  👎1 
 
 ## [SB 5764](/bill/2025-26/sb/5764/) - Ambulance transport fund 👍1  

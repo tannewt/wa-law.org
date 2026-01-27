@@ -22,9 +22,11 @@
 
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications. 👍4  
 
-### [HB 2110](/bill/2025-26/hb/2110/) - Concerning personnel for ambulance service interfacility specialty care transports. 👍4  
+### [HB 2110](/bill/2025-26/hb/2110/) - Specialty care transports 👍4  
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency 👍1  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 

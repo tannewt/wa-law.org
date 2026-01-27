@@ -64,7 +64,7 @@
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍2  
 
-### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
@@ -75,6 +75,8 @@
 * ❓ Jennifer Gregerson
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+
+### [HB 2349](/bill/2025-26/hb/2349/) - Sexually violent predators 👍1  
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
@@ -128,6 +130,8 @@
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
+
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍 Jennifer Gregerson

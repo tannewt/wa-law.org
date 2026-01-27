@@ -27,6 +27,8 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍3  
 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1  
+
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍2  
@@ -150,7 +152,7 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
 
 ### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍2  
 
@@ -312,9 +314,11 @@
 
 ### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
 
-### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
+### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications 👍1  
 
-### [HB 2183](/bill/2025-26/hb/2183/) - Requiring counties to develop and implement heat response plans. 👍1  
+### [HB 2183](/bill/2025-26/hb/2183/) - Heat response plans 👍1  
+
+### [HB 2188](/bill/2025-26/hb/2188/) - Industrial insurance rates  👎1 
 
 ### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
 
@@ -328,7 +332,7 @@
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
@@ -361,6 +365,8 @@
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
+### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍1  
 
@@ -443,6 +449,8 @@
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes   ❓1
+
+### [SB 5379](/bill/2025-26/sb/5379/) - Parks & rec./interest arb. 👍1  
 
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault 👍1  
 
@@ -586,6 +594,8 @@
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
 
+### [SB 5886](/bill/2025-26/sb/5886/) - Forged digital likenesses  👎1 
+
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
@@ -593,6 +603,8 @@
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
 ### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+
+### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
 
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy  👎2 
 
@@ -625,6 +637,8 @@
 ### [SB 6058](/bill/2025-26/sb/6058/) - Wage enforcement discretion 👍1  
 
 ### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation 👍1  
+
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 

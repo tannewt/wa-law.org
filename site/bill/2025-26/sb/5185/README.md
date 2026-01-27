@@ -13,11 +13,17 @@
 ### Tue 01/27 10:30 AM - Health & Long Term Care (HLTC): SB 5185 International med. pathways
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
+* Micah Matthews - Washington Medical Commission (WMC)
+* Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
+* Oksana Nesterenko
+* CALEB CHU
 
-#### 0 👎 - Con
+#### 63 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5185 International med. pathways
 #### 26 👍 - Pro

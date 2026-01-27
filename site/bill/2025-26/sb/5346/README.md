@@ -14,7 +14,7 @@
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5346 Student mobile device use
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Gabriella Barrett-Bowen
 * Julie Molina

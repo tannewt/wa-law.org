@@ -15,7 +15,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 37 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * 💵Timothy Grisham - WA Assn of County Officials
 * WILLIAM LEACH - Benton County Coroner's Office

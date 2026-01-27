@@ -14,7 +14,9 @@
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
-### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications. 👍1  
+### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications 👍1  
+
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍2  
 * 👍💵 Alizeh Bhojani

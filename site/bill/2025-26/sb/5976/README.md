@@ -10,8 +10,8 @@
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5976 Commercial electronic mail
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

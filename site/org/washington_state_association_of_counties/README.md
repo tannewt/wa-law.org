@@ -243,6 +243,9 @@
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
+* 👎💵 Paul Jewell
+
 ### [HB 2174](/bill/2025-26/hb/2174/) - Accident risk zones   ❓1
 * ❓💵 Axel Swanson
 

@@ -75,7 +75,7 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors  👎1 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors  👎2 
 * 👎 Jeannie Magdua
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act  👎2 
@@ -98,9 +98,9 @@
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎2 ❓1
 * ❓ Julie Barrett
 
-### [HB 2182](/bill/2025-26/hb/2182/) - Improving access to abortion medications.  👎1 
+### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications  👎1 
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments.  👎1 
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections  👎1 
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions.  👎1 
 

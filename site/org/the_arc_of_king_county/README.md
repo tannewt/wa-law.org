@@ -65,6 +65,8 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍2  
 
+### [HB 2227](/bill/2025-26/hb/2227/) - Providing a real estate excise tax exemption for the sale of qualified affordable housing.   ❓1
+
 ### [HB 2230](/bill/2025-26/hb/2230/) - Streamlining monitoring and oversight activities related to community residential service business providers. 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  

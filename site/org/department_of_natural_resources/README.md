@@ -72,12 +72,19 @@
 ### [HB 2139](/bill/2025-26/hb/2139/) - Snowmobile registration fees 👍1  
 * 👍 Sam Hensold
 
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+* 👍 Duane Emmons
+
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
 
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
 * 👍 George Geissler
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship   ❓1
+
+### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands   ❓1
 
 ### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
 * 👍 Pat Sullivan
@@ -90,7 +97,7 @@
 * ❓ Duane Emmons
 * ❓ Duane Emmons
 
-### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍3  
+### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍4  
 * 👍 Sam Hensold
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
@@ -128,6 +135,9 @@
 * 👍 Tom Gorman
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
+
+### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support   ❓1
+* ❓ George Geissler
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 

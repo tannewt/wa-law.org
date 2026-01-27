@@ -131,7 +131,8 @@
 * 👍 cecelia black
 * 👍 cecelia black
 
-### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
+### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍2  
+* 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  

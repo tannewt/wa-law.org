@@ -19,9 +19,10 @@
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍8  
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍9  
 * 👍 Stephan Blanford
 * 👍 Stephan Blanford
+* 👍 Anni-Michele Jean-Pierre
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
 
@@ -39,7 +40,7 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍3  
 
-### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots. 👍2  
+### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots 👍2  
 * 👍 Max Lau
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  

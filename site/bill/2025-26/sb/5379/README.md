@@ -10,12 +10,12 @@
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 5379 Parks & rec./interest arb.
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Ann Grabler - WFSE Member
 * Andrew Kallinen - WFSE Member
 
-#### 1 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other
 

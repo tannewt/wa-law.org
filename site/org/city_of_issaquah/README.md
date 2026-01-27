@@ -26,7 +26,7 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 

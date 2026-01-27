@@ -13,7 +13,7 @@
 ### Thu 01/29 08:00 AM - Education (ED): HB 1295 Reading and writing literacy
 Sign up to testify:
 
-#### 38 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Balvina Cortez
 * Sara Buetow - Decoding Dyslexia Washington
@@ -21,9 +21,16 @@ Testifying:
 * Lauren Schmidt
 * mary west
 * Heather Schwindt - Decoding Dyslexia / Dyslexia Support Washington State
+* Ava Schwesinger - Student Advocate
+* Lisa Repp - INW Dyslexia Alliance
+* Bridget Reeves
+* Stacie Davis
+* Julie Wolter - Dean, School of Health Sciences, Gonzaga University
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Tara gusler
+* Dolores Tadlock
+* Rhonda S Stone - Master's level Self-Employed Reading Tutor & Trainer
 
 #### 1 ❓ - Other

@@ -45,11 +45,13 @@
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍4  
 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  
+
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 2033](/bill/2025-26/hb/2033/) - Nicotine product taxation 👍1  
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍2  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
@@ -62,6 +64,8 @@
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍2  
 * 👍 Lily Martin
 * 👍 Colin Bell
+
+### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 * 👎 Michael McIntyre
@@ -114,13 +118,14 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍2  
 * 👍 Mike McIntyre
+
+## [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍2  
-* 👍 Mike McIntyre
+### [SB 6049](/bill/2023-24/sb/6049/) - PRA/students & employees 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

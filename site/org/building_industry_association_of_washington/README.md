@@ -196,7 +196,7 @@
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
 * 👎 Mike Ennis
 
-### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
+### [HB 2228](/bill/2025-26/hb/2228/) - Scissor stairs 👍1  
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 * 👍💵 Bill Stauffacher
@@ -208,6 +208,9 @@
 * 👍💵 Andrea Smiley
 
 ### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+
+### [HB 2298](/bill/2025-26/hb/2298/) - Property title protection  👎2 
+* 👎💵 Andrea Smiley
 
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp.  👎1 
 
@@ -328,6 +331,9 @@
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  ❓1
 * ❓💵 Bill Stauffacher
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎2 
+* 👎💵 Andrea Smiley
 
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍2  
 * 👍💵 Bill Stauffacher

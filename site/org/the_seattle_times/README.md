@@ -1,6 +1,10 @@
 # The Seattle Times
 ## 2025-26
 
+### [HB 2257](/bill/2025-26/hb/2257/) - Tax administration  👎2 
+* 👎 Alan Fisco
+* 👎 Ryan Blethen
+
 ## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
 * 👍 Alan Fisco
 * 👍 Frank Blethen

@@ -84,7 +84,7 @@
 * 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
-### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎2 
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎3 
 * 👎💵 Morgan Irwin
 * 👎 Max Martin
 
@@ -338,8 +338,11 @@
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Driver course/work zones 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors  👎1 
+### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍1  
+
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors  👎2 
 * 👎💵 Morgan Irwin
+* 👎 Max Martin
 
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
 * 👎💵 Emily Wittman
@@ -439,7 +442,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
-### [HB 2110](/bill/2025-26/hb/2110/) - Concerning personnel for ambulance service interfacility specialty care transports. 👍1  
+### [HB 2110](/bill/2025-26/hb/2110/) - Specialty care transports 👍1  
 
 ### [HB 2113](/bill/2025-26/hb/2113/) - Radiologic technologists 👍1  
 
@@ -462,7 +465,7 @@
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.   ❓1
 * ❓💵 Peter Godlewski
 
-### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.  👎1 
+### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots  👎1 
 * 👎 Max Martin
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
@@ -753,6 +756,9 @@
 ### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact  👎1 
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎1 
+* 👎💵 Peter Godlewski
 
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 

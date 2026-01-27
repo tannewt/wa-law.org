@@ -130,7 +130,7 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2219](/bill/2025-26/hb/2219/) - Enhancing the operational efficiency of child care providers. 👍1  
+### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
 
@@ -238,6 +238,8 @@
 * 👍 Ashley Fueston
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
+
+### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress 👍1  
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 

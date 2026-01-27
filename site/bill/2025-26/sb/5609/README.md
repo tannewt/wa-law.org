@@ -14,14 +14,26 @@
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Bill Iyall - Chairman, Cowlitz Indian Tribe
+* Jarred-Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
+* Robert de los Angeles - Chairman, Snoqualmie Indian Tribe
+* Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
+* Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
+* Jarred-Michael Erickson - Chairman of the Colville Tribal Business Council
+* Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
+* Jarred-Michael Erickson - Chairman of the Colville Tribal Business Council
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 
-#### 98 👎 - Con
+#### 164 👎 - Con
 Testifying:
 * Kurt Wilson
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* Cheryl Ebsworth - Master Builders of Pierce County
+* James Kirkebo - Apex Engineering LLC
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other
 Testifying:

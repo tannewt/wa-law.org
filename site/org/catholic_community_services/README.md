@@ -45,6 +45,8 @@
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
 * 👍 Dan Wise
 
+### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
+
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  ❓1
@@ -77,11 +79,13 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## 2023-24
 
-### [SB 5798](/bill/2023-24/sb/5798/) - Property tax 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

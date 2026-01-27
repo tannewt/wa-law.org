@@ -62,6 +62,8 @@
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
+
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍2  
@@ -122,6 +124,8 @@
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍3  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board. 👍1  
 
 ### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍2  
 

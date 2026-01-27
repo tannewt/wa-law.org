@@ -9,15 +9,18 @@
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SSB 5880 Toxicology testing
-Sign up to testify:
-
-#### 38 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Erika Evans - [City of Seattle](/org/city_of_seattle/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Captain Deion Glover - Washington State Patrol
+* Elizabeth Gough - Washington State Patrol
 
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5880 Toxicology testing
 #### 18 👍 - Pro

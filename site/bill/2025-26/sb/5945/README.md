@@ -14,9 +14,15 @@
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5945 Persistent offenders
 Sign up to testify:
 
-#### 244 👍 - Pro
+#### 275 👍 - Pro
+Testifying:
+* Jacob Schmitt - Just Us Solutions, LLC
+* Brian Flaherty - Law Office of Brian Flaherty
+* Jacob Schmitt - Just Us Solutions, LLC
+* Rory Andes - Just Us Solutions, LLC
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
-#### 397 👎 - Con
+#### 412 👎 - Con
 Testifying:
 * Christian Bianes-Delrosario
 

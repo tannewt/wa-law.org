@@ -13,9 +13,11 @@
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2129 Agritourism
 Sign up to testify:
 
-#### 69 👍 - Pro
+#### 124 👍 - Pro
+Testifying:
+* Andrew Miller - Tulip Valley Farms
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Darrin morrison
 

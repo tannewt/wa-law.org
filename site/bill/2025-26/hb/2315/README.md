@@ -10,7 +10,7 @@
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2315 Cannabis oversupply
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Eric Gaston
 * Shea Hynes - Lux Pot Shop
@@ -27,6 +27,6 @@ Testifying:
 * Bethany Rondeaux - Olympus Horticulture LLC
 * Jeffrey McCoy - 1937 Farms - operator
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

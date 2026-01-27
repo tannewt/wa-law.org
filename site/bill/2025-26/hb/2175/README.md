@@ -13,10 +13,10 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2175 Free DME providers/tax
 Sign up to testify:
 
-#### 183 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
 * Jerry Rhoads - KC Help (knights Community Hospital Equipment lend Program)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

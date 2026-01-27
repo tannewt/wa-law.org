@@ -16,13 +16,18 @@
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 Sign up to testify:
 
-#### 505 👍 - Pro
+#### 843 👍 - Pro
 Testifying:
 * Joe Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 * Sarah Dickmeyer - Plymouth Housing
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
+* 💵Eric Pettigrew - The Moore Group
+* Jameel Brown - 2027146332
+* Tanikka Watford - The Moore Wright Group
 
-#### 52 👎 - Con
+#### 62 👎 - Con
+Testifying:
+* Gloria Mantz - [City of Spokane Valley](/org/city_of_spokane_valley/)
 
 #### 2 ❓ - Other
 Testifying:

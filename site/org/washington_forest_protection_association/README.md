@@ -30,6 +30,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
 * 👍💵 Matt Doumit
 
+### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands 👍1  
+* 👍💵 Matt Doumit
+
 ### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
 * 👍💵 Matt Doumit
 

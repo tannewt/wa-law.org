@@ -10,7 +10,10 @@
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6046 Civil air patrol
 Sign up to testify:
 
-#### 26 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* Gent Welsh - Washington Military Department
+* Sid Wiggs - Washington Civil Air Patrol
 
 #### 0 👎 - Con
 

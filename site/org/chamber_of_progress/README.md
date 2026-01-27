@@ -28,7 +28,7 @@
 ### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
 * 👎💵 Robert Singleton
 
-### [HB 2225](/bill/2025-26/hb/2225/) - Concerning regulation of artificial intelligence companion chatbots.   ❓1
+### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots   ❓1
 * ❓💵 Robert Singleton
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy  👎1 

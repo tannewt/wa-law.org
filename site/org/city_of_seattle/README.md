@@ -148,7 +148,9 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2224](/bill/2025-26/hb/2224/) - Concerning fire protection districts. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
 
@@ -162,6 +164,8 @@
 * 👍 Rico Quirindongo
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
+
+### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 

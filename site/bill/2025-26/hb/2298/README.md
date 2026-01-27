@@ -10,14 +10,19 @@
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2298 Property title protection
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Jared Krause - Thurston County Licensing & Recording Manager
 * Mary Hall - Thurston County Auditor
 * Steve Duenkel - Mason County Auditor
+* Jackie Brunson - WA Association of County Treasurers
 
-#### 101 👎 - Con
+#### 126 👎 - Con
 Testifying:
 * 💵Holly Chisa - United Trustees Associationo
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Maureen Pfaff - Olympic Peninsula Title
+* Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)

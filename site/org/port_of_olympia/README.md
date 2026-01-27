@@ -4,6 +4,8 @@
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍3  
 * 👍💵 Jasmine Vasavada
 
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+
 ## [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
 
 ## 2023-24

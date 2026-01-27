@@ -49,6 +49,8 @@
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
 * 👎 Daniel Himebaugh
 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎1 
+
 ### [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍2  
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 

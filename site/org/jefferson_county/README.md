@@ -10,7 +10,11 @@
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
 * 👍 Jefferson County Comm'r Heidi Eisenhour
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.   ❓1
+* ❓ Heidi Eisenhour
+
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍2  
+* 👍 Heidi Eisenhour
 * 👍 Heidi Eisenhour
 
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  

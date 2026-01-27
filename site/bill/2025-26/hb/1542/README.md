@@ -13,18 +13,18 @@
 
 ## Meetings
 ### Mon 01/26 01:30 PM - Housing (HOUS): HB 1542 Senior independent housing
-Sign up to testify:
-
-#### 38 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Cathy MacCaul - AARP Washington
+* 💵Brad Forbes - Alzheimer's Association
 
-#### 581 👎 - Con
+#### 725 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Stacey Valenzuela
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Alyssa Odegaard - LeadingAge Washington
 
 ### Mon 02/03 01:30 PM - Housing (HOUS): HB 1542 Senior independent housing
 #### 37 👍 - Pro

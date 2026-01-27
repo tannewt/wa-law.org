@@ -7,12 +7,15 @@
 * 👍 Joseph Alonzo
 * 👍 Rachel Mathison
 
-## [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18   ❓1
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18   ❓1
+* ❓ Joe Alonzo
+
+## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18   ❓1
 * ❓ Joe Alonzo
 
 ## 2023-24
 
-### [HB 2389](/bill/2023-24/hb/2389/) - Criminal offenses under 18   ❓1
+### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18   ❓1
 * ❓ Joe Alonzo
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍5  

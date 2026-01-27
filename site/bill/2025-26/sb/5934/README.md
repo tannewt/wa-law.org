@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5934 Postconviction DNA testing
-Sign up to testify:
-
-#### 24 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
 * Lindsey Whyte - [Washington Innocence Project](/org/washington_innocence_project/)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2117/</link>
 		<description>Updates about HB 2117</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 25 Jan 2026 10:56:24 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 12:27:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,12 +31,60 @@
 			<guid isPermaLink="false">testifier/Paul/Jewell/2026-01-25 05:06:39</guid>
 		</item>
 		<item>
-			<title>👎john WORTHINGTON - Washington Association of Vehicle Subagents</title>
+			<title>👎john WORTHINGTON - Confederated Tribes of the Colville Reservation</title>
 			<description>john WORTHINGTON signed up to testify Con.</description>
 			<pubDate>Sun, 25 Jan 2026 10:56:24 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/john/WORTHINGTON/2026-01-25 10:56:24</guid>
+		</item>
+		<item>
+			<title>❓💵Josh Weiss - Skagit County; Clallam Economic Alliance</title>
+			<description>Josh Weiss signed up to testify Other. They are signed up to represent Skagit County; Clallam Economic Alliance. They are a registered lobbyist.</description>
+			<pubDate>Mon, 26 Jan 2026 02:51:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Josh/Weiss/2026-01-26 02:51:20</guid>
+		</item>
+		<item>
+			<title>👍Bill Iyall - Chairman, Cowlitz Indian Tribe</title>
+			<description>Bill Iyall signed up to testify Pro. They are signed up to represent Chairman, Cowlitz Indian Tribe.</description>
+			<pubDate>Mon, 26 Jan 2026 11:07:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Iyall/2026-01-26 11:07:48</guid>
+		</item>
+		<item>
+			<title>👍Jeremy "JJ" Wilbur - Senator, Swinomish Indian Tribal Community</title>
+			<description>Jeremy "JJ" Wilbur signed up to testify Pro. They are signed up to represent Senator, Swinomish Indian Tribal Community.</description>
+			<pubDate>Mon, 26 Jan 2026 11:42:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeremy "JJ"/Wilbur/2026-01-26 11:42:11</guid>
+		</item>
+		<item>
+			<title>👍Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources</title>
+			<description>Dave Upthegrove signed up to testify Pro. They are signed up to represent Office of the Commissioner of Public Lands, Department of Natural Resources.</description>
+			<pubDate>Mon, 26 Jan 2026 12:22:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dave/Upthegrove/2026-01-26 12:22:21</guid>
+		</item>
+		<item>
+			<title>👍Glenda Breiler - Office of the Commissioner of Public Lands, Department of Natural Resources</title>
+			<description>Glenda Breiler signed up to testify Pro. They are signed up to represent Office of the Commissioner of Public Lands, Department of Natural Resources.</description>
+			<pubDate>Mon, 26 Jan 2026 12:22:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Glenda/Breiler/2026-01-26 12:22:21</guid>
+		</item>
+		<item>
+			<title>👍Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation</title>
+			<description>Jarred-Michael Erickson signed up to testify Pro. They are signed up to represent Confederated Tribes of the Colville Reservation.</description>
+			<pubDate>Mon, 26 Jan 2026 12:27:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jarred-Michael/Erickson/2026-01-26 12:27:13</guid>
 		</item>
 	</channel>
 </rss>

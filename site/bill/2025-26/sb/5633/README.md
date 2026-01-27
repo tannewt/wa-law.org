@@ -13,7 +13,7 @@
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5633 Subdivision of land
 Sign up to testify:
 
-#### 88 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * Brian Holtzclaw - Master Builders Association of King & Snohomish Counties
 * Ian Faulds - Core Design

@@ -10,8 +10,8 @@
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6044 Diwali and Bandi Chhor Divas
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 17 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

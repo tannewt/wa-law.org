@@ -58,7 +58,7 @@
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
 * 👎 Cassie Clayton
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Protecting local representation by strengthening and securing fair elections in local governments. 👍2  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
 * 👍 Cassie Clayton
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  

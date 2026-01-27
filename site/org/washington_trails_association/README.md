@@ -5,6 +5,8 @@
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
+### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
+
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍 Michael DeCramer
 

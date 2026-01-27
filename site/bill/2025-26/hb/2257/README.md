@@ -13,13 +13,24 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2257 Tax administration
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kate Armstrong - Department of Revenue
+* Steve Ewing - Department of Revenue
 
-#### 5 👎 - Con
+#### 58 👎 - Con
 Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn
+* Paul Archipley - Owner, Beacon Publishing
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* 💵Connor Haggerty - Washington State University
+* Carrie Radcliff
+* Lloyd Mullen - The Port Townsend & Jefferson County Leader
+* Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
+* Keith Shipman - Washington State Association of Broadcasters
+* Ryan Blethen - [The Seattle Times](/org/the_seattle_times/)
 
-#### 54 ❓ - Other
+#### 59 ❓ - Other
 Testifying:
 * Suzie Hanson - WA Federation of Independent Schools
 * Milt Harper - Student Orchestras of Greater Olympia
@@ -27,3 +38,6 @@ Testifying:
 * Cliff Traisman - Highline, Seattle, Northshore, Bellevue
 * 💵Marissa Rathbone - WA Assoc of School Administrators (WASA) and WA Assoc of School Business Officials (WASBO)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Devin Gombosky - [Northwest Career College Federation](/org/northwest_career_college_federation/)
+* 💵Mike Nelson - Washington Society of CPA's
+* Jessi Wasson - Inspire Washington

@@ -116,6 +116,9 @@
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 * 👍💵 Carly Michiels
 
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+* 👍💵 James Cockburn
+
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels
 
@@ -217,6 +220,9 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
+### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds   ❓1
+* ❓ Eric ffitch
+
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 * 👍 James James Cockburn
 
@@ -227,6 +233,8 @@
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels
+
+### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 

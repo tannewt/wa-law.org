@@ -93,7 +93,7 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Bryce Yadon
 
-### [HB 2228](/bill/2025-26/hb/2228/) - Concerning scissor stair regulations in the state building code. 👍1  
+### [HB 2228](/bill/2025-26/hb/2228/) - Scissor stairs 👍1  
 * 👍💵 Bryce Yadon
 
 ### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  

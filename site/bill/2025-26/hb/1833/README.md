@@ -12,13 +12,12 @@
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Appropriations (APP): SHB 1833 AI grant program
-Sign up to testify:
-
-#### 29 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Kevin Frazier - The Abundance Institute
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 
 #### 1 ❓ - Other
 

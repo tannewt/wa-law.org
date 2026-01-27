@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5592/</link>
 		<description>Updates about SB 5592</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 14:05:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -296,6 +296,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Rivian pledging $4.6M to WA ballot initiative | FOX 13 Seattle</title>
+			<description>News article "Rivian pledging $4.6M to WA ballot initiative | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Mon, 26 Jan 2026 14:05:46 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/rivian-tesla-wa-ballot-initiative#:~:text=SB%205592</guid>
 		</item>
 	</channel>
 </rss>
