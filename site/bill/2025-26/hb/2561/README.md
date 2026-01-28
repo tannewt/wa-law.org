@@ -1,0 +1,9 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2561](/bill/2025-26/hb/2561/)
+
+# HB 2561 - LEOFF 2/standby pay
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2561&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings

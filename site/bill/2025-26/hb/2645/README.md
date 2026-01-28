@@ -1,0 +1,28 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2645](/bill/2025-26/hb/2645/)
+
+# HB 2645 - SR 165 replacements
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2645&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## 📰 Articles
+* 01/23/2026 [The Center Square](/org/the_center_square/) - [Owl nesting season may delay critical project as Wilkeson suffers under red tape | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_11111c3f-3517-402a-83a0-5f126b034fac.html#:~:text=House%20Bill%202645)
+
+## Meetings
+### Wed 01/28 04:00 PM - Transportation (TR): HB 2645 SR 165 replacements
+Sign up to testify:
+
+#### 712 👍 - Pro
+Testifying:
+* Jeff Pack - Me
+* Denice Carnahan
+* Jayme Peloli - Mayor of Wilkeson
+* Laurie Layne
+* Jill Cartwright
+* Larry Leveen - ForeverGreen Trails
+* Breanna Fokes - Foothills Rails to Trails Coalition
+
+#### 3 👎 - Con
+
+#### 4 ❓ - Other

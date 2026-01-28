@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SSB%205169)
 * 03/25/2025 [Senate Democrats](/org/senate_democrats/) - [March Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/25/march-session-recap-2/#:~:text=SB%205169)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to protect children who witness violent crimes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/11/senate-passes-nobles-bill-to-protect-children-who-witness-violent-crimes/#:~:text=Senate%20Bill%205169)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205169)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/02/2026 [MyNorthwest](/org/mynorthwest/) - [WA’s new laws for 2026: Minimum wage hike, nicotine tax, more worker protections](https://mynorthwest.com/mynorthwest-politics/washington-laws-2026/4180467#:~:text=Senate%20Bill%205689)
 * 12/31/2025 [The Center Square](/org/the_center_square/) - [Several new laws to take effect in Washington state in 2026 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dfd8bcb2-ed34-4896-bd1a-000eb34a42b2.html#:~:text=Senate%20Bill%205689)
 
 ## Meetings

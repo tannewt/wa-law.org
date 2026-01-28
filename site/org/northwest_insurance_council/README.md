@@ -28,6 +28,8 @@
 ### [SB 5871](/bill/2025-26/sb/5871/) - Vehicle glass repair claims 👍1  
 * 👍💵 Kenton Brine
 
+### [SB 5893](/bill/2025-26/sb/5893/) - Forest health appropriation 👍1  
+
 ### [SB 5919](/bill/2025-26/sb/5919/) - Fire best practices 👍1  
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1

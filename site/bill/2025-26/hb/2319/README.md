@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2319](/bill/2025-26/hb/2319/)
 
-# HB 2319 - Renaming certain state residential facilities for persons with developmental disabilities.
+# HB 2319 - DD RHC facilities renaming
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2319&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202319)

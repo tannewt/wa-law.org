@@ -8,10 +8,12 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2026 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist](https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/#:~:text=House%20Bill%202225)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202225)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202225)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202225)
 * 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=HB%202225)
+* 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=HB%202225)
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2225 AI companion chatbots

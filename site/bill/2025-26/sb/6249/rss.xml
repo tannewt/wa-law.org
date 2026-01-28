@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6249 - Stalking/DOC supervision</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6249/</link>
+		<description>Updates about SB 6249</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 10:24:04 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-21/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Desseret Doane - Community victims.</title>
+			<description>Desseret Doane signed up to testify Pro. They are signed up to represent Community victims..</description>
+			<pubDate>Fri, 23 Jan 2026 05:23:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Desseret/Doane/2026-01-23 05:23:09</guid>
+		</item>
+		<item>
+			<title>👍Christopher Bonnington - Community victims.</title>
+			<description>Christopher Bonnington signed up to testify Pro.</description>
+			<pubDate>Fri, 23 Jan 2026 11:36:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christopher/Bonnington/2026-01-23 11:36:15</guid>
+		</item>
+		<item>
+			<title>👍Shyann Ross - Community victims.</title>
+			<description>Shyann Ross signed up to testify Pro.</description>
+			<pubDate>Mon, 26 Jan 2026 08:26:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shyann/Ross/2026-01-26 08:26:50</guid>
+		</item>
+		<item>
+			<title>👍Sheila LaRose - Community victims.</title>
+			<description>Sheila LaRose signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 10:24:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sheila/LaRose/2026-01-27 10:24:04</guid>
+		</item>
+	</channel>
+</rss>

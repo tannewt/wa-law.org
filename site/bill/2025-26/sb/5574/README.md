@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205574)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205574)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles inclusive history education bill heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/14/nobles-inclusive-history-education-bill-heard-in-committee/#:~:text=Senate%20Bill%205574)
 * 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to require AANHPI history in schools heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/18/nobles-bill-to-require-aanhpi-history-in-schools-heard-in-committee/#:~:text=Senate%20Bill%205574)

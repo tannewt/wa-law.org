@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6201 - Social housing agencies/tax</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6201/</link>
+		<description>Updates about SB 6201</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 02:14:54 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍💵Jeff Paul - Co-Executive Director of House Our Neighbors</title>
+			<description>Jeff Paul signed up to testify Pro. They are signed up to represent Co-Executive Director of House Our Neighbors. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Jan 2026 10:19:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Paul/2026-01-22 10:19:54</guid>
+		</item>
+		<item>
+			<title>👍James Mayton - Seattle Social Housing Developer</title>
+			<description>James Mayton signed up to testify Pro. They are signed up to represent Seattle Social Housing Developer.</description>
+			<pubDate>Tue, 27 Jan 2026 02:14:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Mayton/2026-01-27 02:14:54</guid>
+		</item>
+	</channel>
+</rss>

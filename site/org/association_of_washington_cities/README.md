@@ -342,6 +342,8 @@
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
 * ❓💵 Steven Ellis
 
+### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
+
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 * ❓💵 Candice Bock
 
@@ -623,13 +625,16 @@
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍💵 Candice Bock
 
-## [SB 6066](/bill/2025-26/sb/6066/) - Accident risk zones 👍1  
+### [SB 6066](/bill/2025-26/sb/6066/) - Accident risk zones 👍1  
 * 👍💵 Steven Ellis
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+* 👎💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 6066](/bill/2023-24/sb/6066/) - Accident risk zones 👍1  
-* 👍💵 Steven Ellis
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
+* 👎💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

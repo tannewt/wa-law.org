@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2551 - School district solvency</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2551/</link>
+		<description>Updates about HB 2551</description>
+		<language>en-US</language>
+		<lastBuildDate>Sat, 24 Jan 2026 11:46:13 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>❓Tyler Muench - Office of Superintendent of Public Instruction</title>
+			<description>Tyler Muench signed up to testify Other. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Fri, 23 Jan 2026 02:40:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tyler/Muench/2026-01-23 02:40:46</guid>
+		</item>
+		<item>
+			<title>👍Charlie Brown - Tacoma Public Schools</title>
+			<description>Charlie Brown signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/tacoma_public_schools/"&gt;Tacoma Public Schools&lt;/a&gt;.</description>
+			<pubDate>Sat, 24 Jan 2026 11:46:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2026-01-24 11:46:13</guid>
+		</item>
+	</channel>
+</rss>

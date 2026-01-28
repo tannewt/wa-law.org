@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2497 - Child welfare response</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2497/</link>
+		<description>Updates about HB 2497</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 07:35:06 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Early Learning &amp; Human Services.</title>
+			<description>First reading, referred to Early Learning &amp; Human Services.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/First reading, referred to Early Learning &amp; Human Services.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 26-30, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 26-30, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 23 Jan 2026 18:19:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202497</guid>
+		</item>
+		<item>
+			<title>3 bills could rewrite CPS rules that failed 9-year-old boy living in Aurora Ave. tent - MyNorthwest.com</title>
+			<description>News article "3 bills could rewrite CPS rules that failed 9-year-old boy living in Aurora Ave. tent - MyNorthwest.com" from MyNorthwest.</description>
+			<pubDate>Mon, 26 Jan 2026 07:35:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/kiro-opinion/9-year-old-boy-aurora-ave-tent/4193577#:~:text=HB%202497</guid>
+		</item>
+	</channel>
+</rss>

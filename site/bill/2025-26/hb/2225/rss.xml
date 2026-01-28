@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2225/</link>
 		<description>Updates about HB 2225</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jai/Jaisimha/2026-01-08 01:21:43</guid>
+		</item>
+		<item>
+			<title>New laws proposed for WA's 2026 legislative session | FOX 13 Seattle</title>
+			<description>News article "New laws proposed for WA's 2026 legislative session | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 08 Jan 2026 17:36:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=HB%202225</guid>
 		</item>
 		<item>
 			<title>👍LORI Schott - Parents Rise</title>
@@ -285,6 +292,20 @@
 			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-23/TEDV - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist</title>
+			<description>News article "Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist" from The Urbanist.</description>
+			<pubDate>Tue, 27 Jan 2026 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/#:~:text=House%20Bill%202225</guid>
 		</item>
 	</channel>
 </rss>

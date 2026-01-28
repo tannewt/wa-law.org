@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/02/2026 [MyNorthwest](/org/mynorthwest/) - [WA’s new laws for 2026: Minimum wage hike, nicotine tax, more worker protections](https://mynorthwest.com/mynorthwest-politics/washington-laws-2026/4180467#:~:text=Senate%20Bill%205101)
 * 12/31/2025 [The Center Square](/org/the_center_square/) - [Several new laws to take effect in Washington state in 2026 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dfd8bcb2-ed34-4896-bd1a-000eb34a42b2.html#:~:text=Senate%20Bill%205101)
 * 07/22/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington - Washington Senate Democrats](https://senatedemocrats.wa.gov/protecting-washington/#:~:text=SB%205101)
 * 07/15/2025 [Senate Democrats](/org/senate_democrats/) - [Legislature takes action to protect Washington from Trump administration - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/07/15/legislature-takes-action-to-protect-washington-from-trump-administration/#:~:text=SB%205101)

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6318 - Commercial shellfish fees</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6318/</link>
+		<description>Updates about SB 6318</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 05:07:39 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Agriculture &amp; Natural Resources.</title>
+			<description>First reading, referred to Agriculture &amp; Natural Resources.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Evie Fagergren - Calm Cove Oyster Company</title>
+			<description>Evie Fagergren signed up to testify Pro. They are signed up to represent Calm Cove Oyster Company.</description>
+			<pubDate>Tue, 27 Jan 2026 04:06:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Evie/Fagergren/2026-01-27 04:06:23</guid>
+		</item>
+		<item>
+			<title>👍💵Troy Nichols - Willapa Grays Harbor Oyster Growers Association</title>
+			<description>Troy Nichols signed up to testify Pro. They are signed up to represent Willapa Grays Harbor Oyster Growers Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 05:07:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Troy/Nichols/2026-01-27 05:07:39</guid>
+		</item>
+	</channel>
+</rss>

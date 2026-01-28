@@ -246,7 +246,7 @@
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
 * 👎💵 Paul Jewell
 
-### [HB 2174](/bill/2025-26/hb/2174/) - Accident risk zones   ❓1
+### [HB 2174](/bill/2025-26/hb/2174/) - Crash prevention zones   ❓1
 * ❓💵 Axel Swanson
 
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  

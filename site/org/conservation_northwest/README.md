@@ -48,6 +48,11 @@
 ### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission   ❓1
 * ❓ Jen Syrowitz
 
+### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
+
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+* 👍💵 Nadine Nadow
+
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
@@ -85,6 +90,8 @@
 ### [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
 
 ### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
 
 ### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
 

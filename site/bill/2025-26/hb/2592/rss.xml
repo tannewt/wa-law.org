@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2592 - Aircraft fuel tax proceeds</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2592/</link>
+		<description>Updates about HB 2592</description>
+		<language>en-US</language>
+		<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-20/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>Committee relieved of further consideration.</title>
+			<description>Committee relieved of further consideration.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/Committee relieved of further consideration.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/Referred to Appropriations.</guid>
+		</item>
+	</channel>
+</rss>

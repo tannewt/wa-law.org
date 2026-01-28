@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2574 - Deceased candidates</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2574/</link>
+		<description>Updates about HB 2574</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 23 Jan 2026 18:19:12 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-19/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 26-30, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 26-30, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 23 Jan 2026 18:19:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202574</guid>
+		</item>
+	</channel>
+</rss>

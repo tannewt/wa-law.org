@@ -1,0 +1,252 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2457](/bill/2025-26/hb/2457/) > [Original Bill](/bill/2025-26/hb/2457/1/)
+
+# HB 2457 - Crime victim penalty assess.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2457.pdf)
+
+## Section 1
+1. When any adult person is found guilty in any superior court of having committed a crime, except as provided in subsection (2) of this section, there shall be imposed by the court upon such convicted person a penalty assessment. The assessment shall be in addition to any other penalty or fine imposed by law and shall be $2,000 for each case or cause of action that includes one or more convictions of a felony or gross misdemeanor and $1,000 for any case or cause of action that includes convictions of only one or more misdemeanors. The court may impose an additional surcharge on the penalty assessment, as provided in this section, to ensure the availability of victim support services and sustainable funding for such services, and to provide the defendant an opportunity to repair the harm the defendant has caused.
+
+2. The assessment imposed by subsection (1) of this section shall not apply to motor vehicle crimes defined in Title 46 RCW except those defined in the following sections: RCW 46.61.520, 46.61.522, 46.61.024, 46.52.090, 46.70.140, 46.61.502, 46.61.504, 46.52.101, 46.20.410, 46.52.020, 46.10.495, 46.09.480, 46.61.5249, 46.61.525, 46.61.685, 46.61.530, 46.61.500, 46.61.015, 46.52.010, 46.44.180, 46.10.490(2), and 46.09.470(2).
+
+3. Except as provided in subsection (4) of this section, when any adult person accused of having committed a crime posts bail in superior court pursuant to the provisions of chapter 10.19 RCW and such bail is forfeited, there shall be deducted from the proceeds of such forfeited bail a penalty assessment, in addition to any other penalty or fine imposed by law, equal to the assessment which would be applicable under subsection (1) of this section if the person had been convicted of the crime.
+
+4. [Empty]
+
+    a. The court shall  impose the penalty assessment under this section unless the defendant provides documentary proof and the court finds, at the sentencing hearing and on the record, that the defendant, at the time of sentencing, is indigent as defined in this section.
+
+    b. Upon motion by the prosecutor that the defendant may possess substantial financial resources, as defined in this section, the court shall order the defendant to provide to the court proof of any and all forms of income prior to the sentencing hearing. The court shall evaluate the defendant's proof of income at the sentencing hearing. The court may impose an additional surcharge on the penalty assessment up to a maximum of $50,000 if the court finds by a preponderance of the evidence that the defendant possesses substantial financial resources. The surcharge should be proportionate to the severity of the offense and the harm to the victim and the community.
+
+5. Upon motion by a defendant, the court shall waive any crime victim penalty assessment imposed prior to July 1, 2023, if:
+
+    a. The person was a juvenile at the time the penalty assessment was imposed; or
+
+    b. The person does not have the ability to pay the penalty assessment. A person does not have the ability to pay if the person is presently indigent as defined in this section.
+
+6. Such penalty assessments and surcharge, if any, shall be paid by the clerk of the superior court to the county treasurer. Each county shall deposit one hundred percent of the money it receives per case or cause of action under subsection (1) of this section, not less than one and seventy-five one-hundredths percent of the remaining money it retains under RCW 10.82.070 and the money it retains under chapter 3.62 RCW, and all money it receives under subsection (9) of this section into a fund maintained exclusively for the support of comprehensive programs to encourage and facilitate testimony by the victims of crimes and witnesses to crimes. A program shall be considered "comprehensive" only after approval of the department upon application by the county prosecuting attorney. The department shall approve as comprehensive only programs which:
+
+    a. Provide comprehensive services to victims and witnesses of all types of crime with particular emphasis on serious crimes against persons and property. It is the intent of the legislature to make funds available only to programs which do not restrict services to victims or witnesses of a particular type or types of crime and that such funds supplement, not supplant, existing local funding levels;
+
+    b. Are administered by the county prosecuting attorney either directly through the prosecuting attorney's office or by contract between the county and agencies providing services to victims of crime;
+
+    c. Make a reasonable effort to inform the known victim or his or her surviving dependents of the existence of this chapter and the procedure for making application for benefits;
+
+    d. Assist victims in the restitution and adjudication process; and
+
+    e. Assist victims of violent crimes in the preparation and presentation of their claims to the department of labor and industries under this chapter.
+
+Before a program in any county west of the Cascade mountains is submitted to the department for approval, it shall be submitted for review and comment to each city within the county with a population of more than one hundred fifty thousand. The department will consider if the county's proposed comprehensive plan meets the needs of crime victims in cases adjudicated in municipal, district or superior courts and of crime victims located within the city and county.
+
+7. Upon submission to the department of a letter of intent to adopt a comprehensive program, the prosecuting attorney shall retain the money deposited by the county under subsection (6) of this section until such time as the county prosecuting attorney has obtained approval of a program from the department. Approval of the comprehensive plan by the department must be obtained within one year of the date of the letter of intent to adopt a comprehensive program. The county prosecuting attorney shall not make any expenditures from the money deposited under subsection (6) of this section until approval of a comprehensive plan by the department. If a county prosecuting attorney has failed to obtain approval of a program from the department under subsection (6) of this section or failed to obtain approval of a comprehensive program within one year after submission of a letter of intent under this section, the county treasurer shall monthly transmit one hundred percent of the money deposited by the county under subsection (6) of this section to the state treasurer for deposit in the state general fund.
+
+8. County prosecuting attorneys are responsible to make every reasonable effort to insure that the penalty assessments of this chapter are imposed and collected.
+
+9. Every city and town shall transmit monthly one and seventy-five one-hundredths percent of all money, other than money received for parking infractions, retained under RCW 3.50.100 and 35.20.220 to the county treasurer for deposit as provided in subsection (6) of this section.
+
+10. For the purposes of this section, a person is "indigent" if the person is:
+
+    a. Receiving one of the following types of public assistance: Temporary assistance for needy families; aged, blind, or disabled assistance benefits; medical care services under RCW 74.09.035; pregnant women assistance benefits; poverty-related veterans' benefits; food stamps or food stamp benefits transferred electronically; refugee resettlement benefits; medicaid; or supplemental security income; or
+
+    b. Involuntarily committed to a public mental health facility; or
+
+    c. Ineligible for public assistance programs listed in (a) of this subsection due solely to the person's immigration status and has annual income at or below 125 percent of the most current federal poverty level, as determined annually by the United States department of health and human services.
+
+11. For the purposes of this section, "substantial financial resources" means having a household income that exceeds 200 percent of the area median income.
+
+## Section 2
+1. Whenever any person is convicted of any crime except murder, burglary in the first degree, arson in the first degree, robbery, rape of a child, or rape, the superior court may, in its discretion, at the time of imposing sentence upon such person, direct that such sentence be stayed and suspended until otherwise ordered by the superior court, and, upon such terms as the superior court may determine, that the sentenced person be placed under the charge of:
+
+    a. A community corrections officer employed by the department of corrections, if the person is subject to supervision under RCW 9.94A.501 or 9.94A.5011; or
+
+    b. A probation officer employed or contracted for by the county, if the county has elected to assume responsibility for the supervision of superior court misdemeanant probationers.
+
+2. As a condition to suspension of sentence, the superior court shall require the payment of the crime victim penalty assessment imposed and not waived under RCW 7.68.035, and the penalty assessment surcharge, if imposed under RCW 7.68.035. In addition, the superior court may require the convicted person to make such monetary payments, on such terms as the superior court deems appropriate under the circumstances, as are necessary: (a) To comply with any order of the court for the payment of family support; (b) to make restitution to any person or persons who may have suffered loss or damage by reason of the commission of the crime in question or when the offender pleads guilty to a lesser offense or fewer offenses and agrees with the prosecutor's recommendation that the offender be required to pay restitution to a victim of an offense or offenses which are not prosecuted pursuant to a plea agreement; (c) to pay any fine imposed and not suspended and the court or other costs incurred in the prosecution of the case, including reimbursement of the state for costs of extradition if return to this state by extradition was required; and (d) to contribute to a county or interlocal drug fund.
+
+3. At any time, including at sentencing, the court may determine that the offender is not required to pay, or may relieve the offender of the requirement to pay, full or partial restitution and accrued interest on restitution where the entity to whom restitution is owed is an insurer or a state agency, except for restitution owed to the department of labor and industries under chapter 7.68 RCW, if the court finds that the offender does not have the current or likely future ability to pay. A person does not have the current ability to pay if the person is indigent as defined in RCW 10.01.160(3). For the purposes of this subsection, the terms "insurer" and "state agency" have the same meanings as provided in RCW 9.94A.750(3).
+
+4. As a condition of the suspended sentence, the superior court may order the probationer to report to the secretary of corrections or such officer as the secretary may designate and as a condition of the probation to follow the instructions of the secretary. If the county legislative authority has elected to assume responsibility for the supervision of superior court misdemeanant probationers within its jurisdiction, the superior court misdemeanant probationer shall report to a probation officer employed or contracted for by the county. In cases where a superior court misdemeanant probationer is sentenced in one county, but resides within another county, there must be provisions for the probationer to report to the agency having supervision responsibility for the probationer's county of residence.
+
+5. If restitution to the victim has been ordered under subsection (2)(b) of this section and the superior court has ordered supervision, the officer supervising the probationer shall make a reasonable effort to ascertain whether restitution has been made as ordered. If the superior court has ordered supervision and restitution has not been made, the officer shall inform the prosecutor of that violation of the terms of the suspended sentence not less than three months prior to the termination of the suspended sentence.
+
+## Section 3
+1. If an offender violates any condition or requirement of a sentence, and the offender is not being supervised by the department, the court may modify its order of judgment and sentence and impose further punishment in accordance with this section.
+
+2. If an offender fails to comply with any of the nonfinancial conditions or requirements of a sentence the following provisions apply:
+
+    a. The court, upon the motion of the state, or upon its own motion, shall require the offender to show cause why the offender should not be punished for the noncompliance. The court may issue a summons or a warrant of arrest for the offender's appearance;
+
+    b. The state has the burden of showing noncompliance by a preponderance of the evidence;
+
+    c. If the court finds that a violation has been proved, it may impose the sanctions specified in RCW 9.94A.633(1). Alternatively, the court may:
+
+        i. Convert a term of partial confinement to total confinement; or
+
+        ii. Convert community restitution obligation to total or partial confinement;
+
+    d. If the court finds that the violation was not willful, the court may modify its previous order regarding community restitution obligations; and
+
+    e. If the violation involves a failure to undergo or comply with a mental health status evaluation and/or outpatient mental health treatment, the court shall seek a recommendation from the treatment provider or proposed treatment provider. Enforcement of orders concerning outpatient mental health treatment must reflect the availability of treatment and must pursue the least restrictive means of promoting participation in treatment. If the offender's failure to receive care essential for health and safety presents a risk of serious physical harm or probable harmful consequences, the civil detention and commitment procedures of chapter 71.05 RCW shall be considered in preference to incarceration in a local or state correctional facility.
+
+3. If an offender fails to pay legal financial obligations as a requirement of a sentence the following provisions apply:
+
+    a. The court, upon the motion of the state, or upon its own motion, shall require the offender to show cause why the offender should not be punished for the noncompliance. The court may issue a summons or a warrant of arrest for the offender's appearance;
+
+    b. The state has the burden of showing noncompliance by a preponderance of the evidence;
+
+    c. The court may not sanction the offender for failure to pay legal financial obligations unless the court finds, after a hearing and on the record, that the failure to pay is willful. A failure to pay is willful if the offender has the current ability to pay but refuses to do so. In determining whether the offender has the current ability to pay, the court shall inquire into and consider: (i) The offender's income and assets; (ii) the offender's basic living costs as defined by RCW 10.101.010 and other liabilities including child support and other legal financial obligations; and (iii) the offender's bona fide efforts to acquire additional resources. For legal financial obligations other than the crime victim penalty assessment under RCW 7.68.035, an offender who is indigent as defined in RCW 10.01.160(3) is presumed to lack the current ability to pay. For crime victim penalty assessment imposed under RCW 7.68.035, an offender who is indigent as defined in RCW 7.68.035 is presumed to lack the current ability to pay;
+
+    d. If the court determines that the offender is homeless or a person who is mentally ill, as defined in RCW 71.24.025, failure to pay a legal financial obligation is not willful noncompliance and shall not subject the offender to penalties;
+
+    e. If the court finds that a failure to pay is willful noncompliance, it may impose the sanctions specified in RCW 9.94A.633(1); and
+
+    f. Except as otherwise provided in this subsection, if the court finds that the violation was not willful, the court may, and if the court finds that the defendant is indigent as defined in RCW 10.01.160(3), the court shall modify the terms of payment of the legal financial obligations, reduce or waive nonrestitution legal financial obligations, or convert nonrestitution legal financial obligations to community restitution hours, if the jurisdiction operates a community restitution program, at the rate of no less than the state minimum wage established in RCW 49.46.020 for each hour of community restitution. The crime victim penalty assessment and the penalty assessment surcharge under RCW 7.68.035 may not be reduced, waived, or converted to community restitution hours except as authorized under RCW 7.68.035(5).
+
+4. Any time served in confinement awaiting a hearing on noncompliance shall be credited against any confinement ordered by the court.
+
+5. Nothing in this section prohibits the filing of escape charges if appropriate.
+
+## Section 4
+1. Whenever a person is convicted in superior court, the court shall impose the crime victim penalty assessment under RCW 7.68.035 and may order the payment of other legal financial obligations as part of the sentence. The court may not order an offender to pay costs as described in RCW 10.01.160 if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.01.160(3). An offender being indigent as defined in RCW 10.01.160(3) is not grounds for failing to impose restitution, subject to RCW 9.94A.750(3) and 9.94A.753(3) or the crime victim penalty assessment under RCW 7.68.035. The court must on either the judgment and sentence or on a subsequent order to pay, designate the total amount of a legal financial obligation and segregate this amount among the separate assessments made for restitution, costs, fines, and other assessments required by law. On the same order, the court is also to set a sum that the offender is required to pay on a monthly basis towards satisfying the legal financial obligation. If the court fails to set the offender monthly payment amount, the department shall set the amount if the department has active supervision of the offender, otherwise the county clerk shall set the amount.
+
+2. Upon receipt of each payment made by or on behalf of an offender, the county clerk shall distribute the payment in the following order of priority until satisfied:
+
+    a. First, proportionally to restitution to victims that have not been fully compensated from other sources;
+
+    b. Second, proportionally to restitution to insurance or other sources with respect to a loss that has provided compensation to victims;
+
+    c. Third, proportionally to crime victims' assessments that have not been waived under RCW 7.68.035; and
+
+    d. Fourth, proportionally to costs, fines, and other assessments required by law.
+
+3. If the court determines that the offender, at the time of sentencing, has the means to pay for the cost of incarceration, the court may require the offender to pay for the cost of incarceration. The court shall not order the offender to pay the cost of incarceration if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.01.160(3). Costs of incarceration ordered by the court shall not exceed a rate of $50 per day of incarceration, if incarcerated in a prison, or the actual cost of incarceration per day of incarceration, if incarcerated in a county jail. In no case may the court require the offender to pay more than $100 per day for the cost of incarceration. All funds recovered from offenders for the cost of incarceration in the county jail shall be remitted to the county and the costs of incarceration in a prison shall be remitted to the department.
+
+4. The court may add to the judgment and sentence or subsequent order to pay a statement that a notice of payroll deduction is to be issued immediately. If the court chooses not to order the immediate issuance of a notice of payroll deduction at sentencing, the court shall add to the judgment and sentence or subsequent order to pay a statement that a notice of payroll deduction may be issued or other income-withholding action may be taken, without further notice to the offender if a monthly court-ordered legal financial obligation payment is not paid when due, and an amount equal to or greater than the amount payable for one month is owed.
+
+If a judgment and sentence or subsequent order to pay does not include the statement that a notice of payroll deduction may be issued or other income-withholding action may be taken if a monthly legal financial obligation payment is past due, the department or the county clerk may serve a notice on the offender stating such requirements and authorizations. Service shall be by personal service or any form of mail requiring a return receipt.
+
+5. [Empty]
+
+    a. Independent of the department or the county clerk, the party or entity to whom the legal financial obligation is owed shall have the authority to use any other remedies available to the party or entity to collect the legal financial obligation. These remedies include enforcement in the same manner as a judgment in a civil action by the party or entity to whom the legal financial obligation is owed. Restitution collected through civil enforcement must be paid through the registry of the court and must be distributed proportionately according to each victim's loss when there is more than one victim. The judgment and sentence shall identify the party or entity to whom restitution is owed so that the state, party, or entity may enforce the judgment.
+
+    b. If restitution is ordered pursuant to RCW 9.94A.750(6) or 9.94A.753(6) to a victim of rape of a child or a victim's child born from the rape, the Washington state child support registry shall be identified as the party to whom payments must be made. Restitution obligations arising from the rape of a child in the first, second, or third degree that result in the pregnancy of the victim may be enforced for the time periods provided under RCW 9.94A.750(6) and 9.94A.753(6).
+
+    c. All other restitution obligations for an offense committed prior to July 1, 2000, may be enforced at any time during the 10-year period following the offender's release from total confinement or within 10 years of entry of the judgment and sentence, whichever period ends later. Prior to the expiration of the initial 10-year period, the superior court may extend the criminal judgment an additional 10 years for payment of restitution obligations. All other restitution obligations for an offense committed on or after July 1, 2000, may be enforced at any time the offender remains under the court's jurisdiction. For an offense committed on or after July 1, 2000, the court shall retain jurisdiction over the offender, for purposes of the offender's compliance with payment of the restitution obligations, until the obligation is completely satisfied, regardless of the statutory maximum for the crime.
+
+    d. All other legal financial obligations other than restitution may be enforced at any time during the 10-year period following the offender's release from total confinement or within 10 years of entry of the judgment and sentence, whichever period ends later. Prior to the expiration of the initial 10-year period, the superior court may extend the criminal judgment an additional 10 years for payment of nonrestitution legal financial obligations only if the court finds that the offender has the current or likely future ability to pay the obligations. For legal financial obligations other than the crime victim penalty assessment under RCW 7.68.035, a person does not have the current ability to pay if the person is indigent as defined in RCW 10.01.160(3). For the crime victim penalty assessment under RCW 7.68.035, a person does not have the current ability to pay if the person is indigent as defined in RCW 7.68.035.
+
+    e. The department may only supervise the offender's compliance with payment of the legal financial obligations during any period in which the department is authorized to supervise the offender in the community under RCW 9.94A.728, 9.94A.501, or in which the offender is confined in a state correctional institution or a correctional facility pursuant to a transfer agreement with the department, and the department shall supervise the offender's compliance during any such period. The department is not responsible for supervision of the offender during any subsequent period of time the offender remains under the court's jurisdiction. The county clerk is authorized to collect unpaid legal financial obligations at any time the offender remains under the jurisdiction of the court for purposes of his or her legal financial obligations.
+
+6. In order to assist the court in setting a monthly sum that the offender must pay during the period of supervision, the offender is required to report to the department for purposes of preparing a recommendation to the court. When reporting, the offender is required, under oath, to respond truthfully and honestly to all questions concerning present, past, and future earning capabilities and the location and nature of all property or financial assets. The offender is further required to bring all documents requested by the department.
+
+7. After completing the investigation, the department shall make a report to the court on the amount of the monthly payment that the offender should be required to make towards a satisfied legal financial obligation.
+
+8. [Empty]
+
+    a. During the period of supervision, the department may make a recommendation to the court that the offender's monthly payment schedule be modified so as to reflect a change in financial circumstances. If the department sets the monthly payment amount, the department may modify the monthly payment amount without the matter being returned to the court. During the period of supervision, the department may require the offender to report to the department for the purposes of reviewing the appropriateness of the collection schedule for the legal financial obligation. During this reporting, the offender is required under oath to respond truthfully and honestly to all questions concerning earning capabilities and the location and nature of all property or financial assets. The offender shall bring all documents requested by the department in order to prepare the collection schedule.
+
+    b. Subsequent to any period of supervision, or if the department is not authorized to supervise the offender in the community, the county clerk may make a recommendation to the court that the offender's monthly payment schedule be modified so as to reflect a change in financial circumstances. If the county clerk sets the monthly payment amount, or if the department set the monthly payment amount and the department has subsequently turned the collection of the legal financial obligation over to the county clerk, the clerk may modify the monthly payment amount without the matter being returned to the court. During the period of repayment, the county clerk may require the offender to report to the clerk for the purpose of reviewing the appropriateness of the collection schedule for the legal financial obligation. During this reporting, the offender is required under oath to respond truthfully and honestly to all questions concerning earning capabilities and the location and nature of all property or financial assets. The offender shall bring all documents requested by the county clerk in order to prepare the collection schedule.
+
+9. After the judgment and sentence or payment order is entered, the department is authorized, for any period of supervision, to collect the legal financial obligation from the offender. Subsequent to any period of supervision or, if the department is not authorized to supervise the offender in the community, the county clerk is authorized to collect unpaid legal financial obligations from the offender. Any amount collected by the department shall be remitted daily to the county clerk for the purpose of disbursements. The department and the county clerks are authorized, but not required, to accept credit cards as payment for a legal financial obligation, and any costs incurred related to accepting credit card payments shall be the responsibility of the offender.
+
+10. The department or any obligee of the legal financial obligation may seek a mandatory wage assignment for the purposes of obtaining satisfaction for the legal financial obligation pursuant to RCW 9.94A.7701. Any party obtaining a wage assignment shall notify the county clerk. The county clerks shall notify the department, or the administrative office of the courts, whichever is providing the monthly billing for the offender.
+
+11. The requirement that the offender pay a monthly sum towards a legal financial obligation constitutes a condition or requirement of a sentence and the offender is subject to the penalties for noncompliance as provided in RCW 9.94B.040, 9.94A.737, or 9.94A.740. If the court determines that the offender is homeless or a person who is mentally ill, as defined in RCW 71.24.025, failure to pay a legal financial obligation is not willful noncompliance and shall not subject the offender to penalties.
+
+12. [Empty]
+
+    a. The administrative office of the courts shall mail individualized periodic billings to the address known by the office for each offender with an unsatisfied legal financial obligation.
+
+    b. The billing shall direct payments to the county clerk.
+
+    c. The county clerk shall provide the administrative office of the courts with notice of payments by such offenders no less frequently than weekly.
+
+    d. The county clerks, the administrative office of the courts, and the department shall maintain agreements to implement this subsection.
+
+13. The department shall arrange for the collection of unpaid legal financial obligations during any period of supervision in the community through the county clerk. The department shall either collect unpaid legal financial obligations or arrange for collections through another entity if the clerk does not assume responsibility or is unable to continue to assume responsibility for collection pursuant to subsection (5) of this section. The costs for collection services shall be paid by the offender.
+
+14. The county clerk may access the records of the employment security department for the purposes of verifying employment or income, seeking any assignment of wages, or performing other duties necessary to the collection of an offender's legal financial obligations.
+
+15. Nothing in this chapter makes the department, the state, the counties, or any state or county employees, agents, or other persons acting on their behalf liable under any circumstances for the payment of these legal financial obligations or for the acts of any offender who is no longer, or was not, subject to supervision by the department for a term of community custody, and who remains under the jurisdiction of the court for payment of legal financial obligations.
+
+## Section 5
+1. If an offender violates any condition or requirement of a sentence, the court may modify its order of judgment and sentence and impose further punishment in accordance with this section.
+
+2. In cases where conditions from a second or later sentence of community supervision begin prior to the term of the second or later sentence, the court shall treat a violation of such conditions as a violation of the sentence of community supervision currently being served.
+
+3. If an offender fails to comply with any of the nonfinancial requirements or conditions of a sentence the following provisions apply:
+
+    a. [Empty]
+
+        i. Following the violation, if the offender and the department make a stipulated agreement, the department may impose sanctions such as work release, home detention with electronic monitoring, work crew, community restitution, inpatient treatment, daily reporting, curfew, educational or counseling sessions, supervision enhanced through electronic monitoring, jail time, or other sanctions available in the community.
+
+        ii. Within 72 hours of signing the stipulated agreement, the department shall submit a report to the court and the prosecuting attorney outlining the violation or violations, and sanctions imposed. Within 15 days of receipt of the report, if the court is not satisfied with the sanctions, the court may schedule a hearing and may modify the department's sanctions. If this occurs, the offender may withdraw from the stipulated agreement.
+
+        iii. If the offender fails to comply with the sanction administratively imposed by the department, the court may take action regarding the original noncompliance. Offender failure to comply with the sanction administratively imposed by the department may be considered an additional violation;
+
+    b. In the absence of a stipulated agreement, or where the court is not satisfied with the department's sanctions as provided in (a) of this subsection, the court, upon the motion of the state, or upon its own motion, shall require the offender to show cause why the offender should not be punished for the noncompliance. The court may issue a summons or a warrant of arrest for the offender's appearance;
+
+    c. The state has the burden of showing noncompliance by a preponderance of the evidence. If the court finds that the violation has occurred, it may order the offender to be confined for a period not to exceed 60 days for each violation, and may (i) convert a term of partial confinement to total confinement, (ii) convert community restitution obligation to total or partial confinement, or (iii) order one or more of the penalties authorized in (a)(i) of this subsection. Any time served in confinement awaiting a hearing on noncompliance shall be credited against any confinement order by the court;
+
+    d. If the court finds that the violation was not willful, the court may modify its previous order regarding community restitution obligations; and
+
+    e. If the violation involves a failure to undergo or comply with mental status evaluation and/or outpatient mental health treatment, the community corrections officer shall consult with the treatment provider or proposed treatment provider. Enforcement of orders concerning outpatient mental health treatment must reflect the availability of treatment and must pursue the least restrictive means of promoting participation in treatment. If the offender's failure to receive care essential for health and safety presents a risk of serious physical harm or probable harmful consequences, the civil detention and commitment procedures of chapter 71.05 RCW shall be considered in preference to incarceration in a local or state correctional facility.
+
+4. If the violation involves failure to pay legal financial obligations, the following provisions apply:
+
+    a. The department and the offender may enter into a stipulated agreement that the failure to pay was willful noncompliance, according to the provisions and requirements of subsection (3)(a) of this section;
+
+    b. In the absence of a stipulated agreement, or where the court is not satisfied with the department's sanctions as provided in a stipulated agreement under (a) of this subsection, the court, upon the motion of the state, or upon its own motion, shall require the offender to show cause why the offender should not be punished for the noncompliance. The court may issue a summons or a warrant of arrest for the offender's appearance;
+
+    c. The state has the burden of showing noncompliance by a preponderance of the evidence. The court may not sanction the offender for failure to pay legal financial obligations unless the court finds, after a hearing and on the record, that the failure to pay is willful. A failure to pay is willful if the offender has the current ability to pay but refuses to do so. In determining whether the offender has the current ability to pay, the court shall inquire into and consider: (i) The offender's income and assets; (ii) the offender's basic living costs as defined by RCW 10.101.010 and other liabilities including child support and other legal financial obligations; and (iii) the offender's bona fide efforts to acquire additional resources. For legal financial obligations other than the crime victim penalty assessment under RCW 7.68.035, an offender who is indigent as defined in RCW 10.01.160(3) is presumed to lack the current ability to pay. For the crime victim penalty assessment under RCW 7.68.035, an offender who is indigent as defined in RCW 7.68.035 is presumed to lack the current ability to pay;
+
+    d. If the court determines that the offender is homeless or a person who is mentally ill, as defined in RCW 71.24.025, failure to pay a legal financial obligation is not willful noncompliance and shall not subject the offender to penalties;
+
+    e. If the court finds that the failure to pay is willful noncompliance, the court may order the offender to be confined for a period not to exceed 60 days for each violation or order one or more of the penalties authorized in subsection (3)(a)(i) of this section; and
+
+    f. Except as otherwise provided in this subsection, if the court finds that the violation was not willful, the court may, and if the court finds that the defendant is indigent as defined in RCW 10.01.160(3), the court shall modify the terms of payment of the legal financial obligations, reduce or waive nonrestitution legal financial obligations, or convert nonrestitution legal financial obligations to community restitution hours, if the jurisdiction operates a community restitution program, at the rate of no less than the state minimum wage established in RCW 49.46.020 for each hour of community restitution. The crime victim penalty assessment and the penalty assessment surcharge under RCW 7.68.035 may not be reduced, waived, or converted to community restitution hours except as authorized under RCW 7.68.035(5).
+
+5. The community corrections officer may obtain information from the offender's mental health treatment provider on the offender's status with respect to evaluation, application for services, registration for services, and compliance with the supervision plan, without the offender's consent, as described under RCW 71.05.630.
+
+6. An offender under community placement or community supervision who is civilly detained under chapter 71.05 RCW, and subsequently discharged or conditionally released to the community, shall be under the supervision of the department of corrections for the duration of his or her period of community placement or community supervision. During any period of inpatient mental health treatment that falls within the period of community placement or community supervision, the inpatient treatment provider and the supervising community corrections officer shall notify each other about the offender's discharge, release, and legal status, and shall share other relevant information.
+
+7. Nothing in this section prohibits the filing of escape charges if appropriate.
+
+## Section 6
+1. [Empty]
+
+    a. Except as provided in (b) of this subsection in granting probation, the superior court may suspend the imposition or the execution of the sentence and may direct that the suspension may continue upon such conditions and for such time as it shall designate, not exceeding the maximum term of sentence or two years, whichever is longer.
+
+    b. For a defendant sentenced for a domestic violence offense, or under RCW 46.61.5055, the superior court may suspend the imposition or the execution of the sentence and may direct that the suspension continue upon such conditions and for such time as the court shall designate, not to exceed five years. The court shall have continuing jurisdiction and authority to suspend the execution of all or any part of the sentence upon stated terms, including installment payment of fines. A defendant who has been sentenced, and who then fails to appear for any hearing to address the defendant's compliance with the terms of probation when ordered to do so by the court shall have the term of probation tolled until such time as the defendant makes his or her presence known to the court on the record. Any time before entering an order terminating probation, the court may modify or revoke its order suspending the imposition or execution of the sentence if the defendant violates or fails to carry out any of the conditions of the suspended sentence.
+
+2. In the order granting probation and as a condition thereof, the superior court may in its discretion imprison the defendant in the county jail for a period not exceeding one year and may fine the defendant any sum not exceeding the statutory limit for the offense committed, and court costs. As a condition of probation, the superior court shall require the payment of the crime victim penalty assessment imposed and not waived under RCW 7.68.035, and the penalty assessment surcharge, if imposed under RCW 7.68.035. In addition, the court may require the defendant to make such monetary payments, on such terms as it deems appropriate under the circumstances, as are necessary: (a) To comply with any order of the court for the payment of family support; (b) to make restitution to any person or persons who may have suffered loss or damage by reason of the commission of the crime in question or when the offender pleads guilty to a lesser offense or fewer offenses and agrees with the prosecutor's recommendation that the offender be required to pay restitution to a victim of an offense or offenses which are not prosecuted pursuant to a plea agreement; (c) to pay such fine as may be imposed and court costs, including reimbursement of the state for costs of extradition if return to this state by extradition was required; (d) following consideration of the financial condition of the person subject to possible electronic monitoring, to pay for the costs of electronic monitoring if that monitoring was required by the court as a condition of release from custody or as a condition of probation; (e) to contribute to a county or interlocal drug fund; and (f) to make restitution to a public agency for the costs of an emergency response under RCW 38.52.430, and may require bonds for the faithful observance of any and all conditions imposed in the probation.
+
+3. The superior court shall order restitution in all cases where the victim is entitled to benefits under the crime victims' compensation act, chapter 7.68 RCW. If the superior court does not order restitution and the victim of the crime has been determined to be entitled to benefits under the crime victims' compensation act, the department of labor and industries, as administrator of the crime victims' compensation program, may petition the superior court within one year of imposition of the sentence for entry of a restitution order. Upon receipt of a petition from the department of labor and industries, the superior court shall hold a restitution hearing and shall enter a restitution order.
+
+4. At any time, including at sentencing, the court may determine that the offender is not required to pay, or may relieve the offender of the requirement to pay, full or partial restitution and accrued interest on restitution where the entity to whom restitution is owed is an insurer or a state agency, except for restitution owed to the department of labor and industries under chapter 7.68 RCW, if the court finds that the offender does not have the current or likely future ability to pay. A person does not have the current ability to pay if the person is indigent as defined in RCW 10.01.160(3). For the purposes of this subsection, the terms "insurer" and "state agency" have the same meanings as provided in RCW 9.94A.750(3).
+
+5. In granting probation, the superior court may order the probationer to report to the secretary of corrections or such officer as the secretary may designate and as a condition of the probation to follow the instructions of the secretary for up to twelve months. If the county legislative authority has elected to assume responsibility for the supervision of superior court misdemeanant probationers within its jurisdiction, the superior court misdemeanant probationer shall report to a probation officer employed or contracted for by the county. In cases where a superior court misdemeanant probationer is sentenced in one county, but resides within another county, there must be provisions for the probationer to report to the agency having supervision responsibility for the probationer's county of residence.
+
+6. If the probationer has been ordered to make restitution and the superior court has ordered supervision, the officer supervising the probationer shall make a reasonable effort to ascertain whether restitution has been made. If the superior court has ordered supervision and restitution has not been made as ordered, the officer shall inform the prosecutor of that violation of the terms of probation not less than three months prior to the termination of the probation period. The secretary of corrections will promulgate rules and regulations for the conduct of the person during the term of probation. For defendants found guilty in district court, like functions as the secretary performs in regard to probation may be performed by probation officers employed for that purpose by the county legislative authority of the county wherein the court is located.
+
+7. The provisions of RCW 9.94A.501 and 9.94A.5011 apply to sentences imposed under this section.
+
+8. For purposes of this section, "domestic violence" means the same as in RCW 10.99.020.
+
+## Section 7
+1. A defendant sentenced to pay any fine, penalty, assessment, fee, or costs who willfully defaults in the payment thereof or of any installment is in contempt of court as provided in chapter 7.21 RCW. The court may issue a warrant of arrest for his or her appearance.
+
+2. When any fine, penalty, assessment, fee, or assessment of costs is imposed on a corporation or unincorporated association, it is the duty of the person authorized to make disbursement from the assets of the corporation or association to pay the obligation from those assets, and his or her failure to do so may be held to be contempt.
+
+3. [Empty]
+
+    a. The court shall not sanction a defendant for contempt based on failure to pay fines, penalties, assessments, fees, or costs unless the court finds, after a hearing and on the record, that the failure to pay is willful. A failure to pay is willful if the defendant has the current ability to pay but refuses to do so.
+
+    b. In determining whether the defendant has the current ability to pay, the court shall inquire into and consider: (i) The defendant's income and assets; (ii) the defendant's basic living costs as defined by RCW 10.101.010 and other liabilities including child support and other legal financial obligations; and (iii) the defendant's bona fide efforts to acquire additional resources. For legal financial obligations other than the crime victim penalty assessment under RCW 7.68.035, a defendant who is indigent as defined in RCW 10.01.160(3) is presumed to lack the current ability to pay. For the crime victim penalty assessment imposed under RCW 7.68.035, an offender who is indigent as defined in RCW 7.68.035 is presumed to lack the current ability to pay.
+
+    c. If the court determines that the defendant is homeless or a person who is mentally ill, as defined in RCW 71.24.025, failure to pay a legal financial obligation is not willful contempt and shall not subject the defendant to penalties.
+
+4. If a term of imprisonment for contempt for nonpayment of any fine, penalty, assessment, fee, or costs is ordered, the term of imprisonment shall be set forth in the commitment order, and shall not exceed one day for each $25 of the amount ordered, 30 days if the amount ordered of costs was imposed upon conviction of a violation or misdemeanor, or one year in any other case, whichever is the shorter period. A person committed for nonpayment of any fine, penalty, assessment, fee, or costs shall be given credit toward payment for each day of imprisonment at the rate specified in the commitment order.
+
+5. Except as otherwise provided in this subsection, if it appears to the satisfaction of the court that the default in the payment of any fine, penalty, assessment, fee, or costs is not willful contempt, the court may, and if the defendant is indigent as defined in RCW 10.01.160(3), the court shall enter an order: (a) Allowing the defendant additional time for payment; (b) reducing the amount thereof or of each installment; (c) revoking the fine, penalty, assessment, fee, or costs or the unpaid portion thereof in whole or in part; or (d) converting the unpaid fine, penalty, assessment, fee, or costs to community restitution hours, if the jurisdiction operates a community restitution program, at the rate of no less than the state minimum wage established in RCW 49.46.020 for each hour of community restitution. The crime victim penalty assessment and the penalty assessment surcharge under RCW 7.68.035 may not be reduced, waived, or converted to community restitution hours except as authorized under RCW 7.68.035(5).
+
+6. A default in the payment of any fine, penalty, assessment, fee, or costs or any installment thereof may be collected by any means authorized by law for the enforcement of a judgment. The levy of execution for the collection of any fine, penalty, assessment, fee, or costs shall not discharge a defendant committed to imprisonment for contempt until the amount has actually been collected.

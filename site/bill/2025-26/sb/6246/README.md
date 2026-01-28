@@ -1,0 +1,36 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6246](/bill/2025-26/sb/6246/)
+
+# SB 6246 - Emissions/trade-exposed
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6246&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings
+### Wed 01/28 08:00 AM - Environment, Energy & Technology (ENET): SB 6246 Emissions/trade-exposed
+Sign up to testify:
+
+#### 143 👍 - Pro
+Testifying:
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵David Mendoza - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Kate White Tudor - The Natural Resources Defense Council
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+
+#### 64 👎 - Con
+Testifying:
+* 💵Jessica Spiegel - WSPA
+* Peter Godliewski - AWB
+* Chris McCabe - Northwest Pulp and Paper Association
+* Josh Estes - Association of Western Pulp & Paper Workers
+* Pamela Barrow - [Food Northwest](/org/food_northwest/)
+* Perry Hanson - Simplot Company
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+
+#### 6 ❓ - Other
+Testifying:
+* Joel Creswell - Washington Department of Ecology
+* 💵Isaac Kastama - Clean and Prosperous Washington
+* Edgar Scott - [Kaiser Aluminum](/org/kaiser_aluminum/)
+* Toyin Olowu - Nucor Steel
+* 💵Steve Taylor - Cowlitz Cnty Public Utility District No. 1

@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/02/2026 [MyNorthwest](/org/mynorthwest/) - [WA’s new laws for 2026: Minimum wage hike, nicotine tax, more worker protections](https://mynorthwest.com/mynorthwest-politics/washington-laws-2026/4180467#:~:text=Second%20Substitute%20House%20Bill%201524)
 * 06/18/2025 [Senate Democrats](/org/senate_democrats/) - [New laws improve worker protections - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/06/18/new-laws-improve-worker-protections/#:~:text=HB%201524)
 * 03/05/2025 [House Democrats](/org/house_democrats/) - [House Passes Obras Bill Enforcing Protections for Housekeepers, Security Guards, and Janitors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/house-passes-obras-bill-enforcing-protections-for-housekeepers-security-guards-and-janitors/#:~:text=House%20Bill%201524)
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [Committee approves Obras’ bill enforcing protections for housekeepers, security guards and janitors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/committee-approves-obras-bill-enforcing-protections-for-housekeepers-security-guards-and-janitors/#:~:text=House%20Bill%201524)

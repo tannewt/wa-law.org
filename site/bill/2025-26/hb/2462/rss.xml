@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2462 - Unpiloted aircraft systems</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2462/</link>
+		<description>Updates about HB 2462</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 23 Jan 2026 06:19:27 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-14/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Dennis "Denny" Frey - Washington Military Department</title>
+			<description>Dennis "Denny" Frey signed up to testify Pro. They are signed up to represent Washington Military Department.</description>
+			<pubDate>Wed, 21 Jan 2026 03:38:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dennis "Denny"/Frey/2026-01-21 03:38:43</guid>
+		</item>
+		<item>
+			<title>👍Wesley "Wes" Watson - Washington Military Department</title>
+			<description>Wesley "Wes" Watson signed up to testify Pro. They are signed up to represent Washington Military Department.</description>
+			<pubDate>Wed, 21 Jan 2026 03:38:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Wesley "Wes"/Watson/2026-01-21 03:38:43</guid>
+		</item>
+		<item>
+			<title>👍Robert Kruse - Washington Military Department</title>
+			<description>Robert Kruse signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 10:13:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Kruse/2026-01-22 10:13:58</guid>
+		</item>
+		<item>
+			<title>👍Robert Kruse - Washington Military Department</title>
+			<description>Robert Kruse signed up to testify Pro.</description>
+			<pubDate>Fri, 23 Jan 2026 06:19:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Kruse/2026-01-23 06:19:27</guid>
+		</item>
+	</channel>
+</rss>

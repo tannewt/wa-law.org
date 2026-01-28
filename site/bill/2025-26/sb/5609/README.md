@@ -12,21 +12,22 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
-Sign up to testify:
-
-#### 19 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Bill Iyall - Chairman, Cowlitz Indian Tribe
 * Jarred-Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
 * Robert de los Angeles - Chairman, Snoqualmie Indian Tribe
 * Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
+* 💵Michael Moran - Confederated Tribes of the Chehalis Reservation
+* Shelia Bray - Vice-Chairwoman Confederated Tribes of the Chehalis Reservation
 * Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
 * Jarred-Michael Erickson - Chairman of the Colville Tribal Business Council
 * Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
 * Jarred-Michael Erickson - Chairman of the Colville Tribal Business Council
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Kimberly Dietz - [City of Redmond](/org/city_of_redmond/)
 
-#### 164 👎 - Con
+#### 275 👎 - Con
 Testifying:
 * Kurt Wilson
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
@@ -34,10 +35,14 @@ Testifying:
 * James Kirkebo - Apex Engineering LLC
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Gina Carlson - Dunamis Interiors  Design Build
+* Kent Arola
+* Stuart Drebick - adroit contractors inc
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Blake Lyon - City of Bellingham, WA
 
 ### Tue 02/11 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
 #### 1 👍 - Pro

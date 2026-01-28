@@ -10,7 +10,7 @@
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2217 Rehabilitative pathways
 Sign up to testify:
 
-#### 55 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Gisella Gonzales - Team children
 * Kevin Schnepel
@@ -20,7 +20,7 @@ Testifying:
 * Katherine Hurley - King County Dept of Public Defense
 * Ramona Brandes - Sentencing Guidelines Commission
 
-#### 3 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Michelle Bart - National Womens Coalition Against Violence and Exploitation

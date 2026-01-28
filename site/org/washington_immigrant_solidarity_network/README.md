@@ -78,6 +78,8 @@
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
@@ -148,11 +150,13 @@
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
-## [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## 2023-24
 
-### [SB 6053](/bill/2023-24/sb/6053/) - Domestic workers 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

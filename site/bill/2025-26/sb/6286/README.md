@@ -1,0 +1,24 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6286](/bill/2025-26/sb/6286/)
+
+# SB 6286 - Detention facility fines/DOH
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6286&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## 📰 Articles
+* 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%206286)
+
+## Meetings
+### Wed 01/28 05:45 PM - Human Services (HS): SB 6286 Detention facility fines/DOH
+Sign up to testify:
+
+#### 323 👍 - Pro
+Testifying:
+* Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Melissa Chaudhry
+* Zahid Chaudhry
+
+#### 67 👎 - Con
+
+#### 0 ❓ - Other

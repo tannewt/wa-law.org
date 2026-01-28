@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2501 - Real estate disclosure form</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2501/</link>
+		<description>Updates about HB 2501</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 01:50:52 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍💵Bill Clarke - Washington REALTORS</title>
+			<description>Bill Clarke signed up to testify Pro. They are signed up to represent Washington REALTORS. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 01:50:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Clarke/2026-01-27 01:50:52</guid>
+		</item>
+	</channel>
+</rss>

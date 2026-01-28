@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1622/</link>
 		<description>Updates about HB 1622</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -662,6 +662,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%201622</guid>
 		</item>
 	</channel>
 </rss>

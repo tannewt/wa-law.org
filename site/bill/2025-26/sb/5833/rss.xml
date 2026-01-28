@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5833/</link>
 		<description>Updates about SB 5833</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Jan 2026 14:19:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-23/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Washington state bill would allow leaving cars running to protect pets - Axios Seattle</title>
+			<description>News article "Washington state bill would allow leaving cars running to protect pets - Axios Seattle" from Axios.</description>
+			<pubDate>Mon, 26 Jan 2026 14:19:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/01/26/washington-state-pet-safety-idling-law-bill-2026#:~:text=Senate%20Bill%205833</guid>
 		</item>
 	</channel>
 </rss>

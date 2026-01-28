@@ -8,10 +8,16 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6044 Diwali and Bandi Chhor Divas
-Sign up to testify:
+#### 31 👍 - Pro
+Testifying:
+* Srinivas Khedam - Hindu American Community of Seattle
+* Satwinder Kaur
+* ARUN SHARMA - UTSAV
+* Pradeep Tiwari
+* Avani Desai
 
-#### 17 👍 - Pro
+#### 7 👎 - Con
 
-#### 2 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Deepa Bhav

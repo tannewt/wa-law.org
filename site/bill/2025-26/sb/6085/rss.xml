@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6085 - Institutional welfare acct</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6085/</link>
+		<description>Updates about SB 6085</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 20 Jan 2026 12:27:45 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>❓Megan Pirie - Department of Corrections</title>
+			<description>Megan Pirie signed up to testify Other. They are signed up to represent Department of Corrections.</description>
+			<pubDate>Tue, 20 Jan 2026 10:37:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Megan/Pirie/2026-01-20 10:37:02</guid>
+		</item>
+		<item>
+			<title>❓Jim Chambers - Wa State Reentry Council</title>
+			<description>Jim Chambers signed up to testify Other. They are signed up to represent Wa State Reentry Council.</description>
+			<pubDate>Tue, 20 Jan 2026 12:27:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jim/Chambers/2026-01-20 12:27:45</guid>
+		</item>
+	</channel>
+</rss>

@@ -155,6 +155,9 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Leah Missik
 
+### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel  👎1 
+* 👎💵 Leah Missik
+
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 * 👍💵 Leah Missik
 

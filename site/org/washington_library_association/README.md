@@ -1,7 +1,7 @@
 # Washington Library Association
 ## 2025-26
 
-### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍2  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 

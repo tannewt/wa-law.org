@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2117 Board of natural resources
-Sign up to testify:
-
-#### 178 👍 - Pro
+#### 197 👍 - Pro
 Testifying:
 * Bill Iyall - Chairman, Cowlitz Indian Tribe
 * Jeremy "JJ" Wilbur - Senator, Swinomish Indian Tribal Community
@@ -18,7 +16,7 @@ Testifying:
 * Glenda Breiler - Office of the Commissioner of Public Lands, Department of Natural Resources
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 
-#### 71 👎 - Con
+#### 125 👎 - Con
 Testifying:
 * john WORTHINGTON
 

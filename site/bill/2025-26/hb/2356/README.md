@@ -10,7 +10,7 @@
 ### Wed 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 2356 PRA/homicide cases
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 98 👍 - Pro
 
 #### 2 👎 - Con
 Testifying:

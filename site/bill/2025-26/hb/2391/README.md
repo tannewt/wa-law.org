@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Tribal Relations (SGOV): HB 2391 PRA/lists of individuals
-Sign up to testify:
-
 #### 3 👍 - Pro
 
 #### 1 👎 - Con

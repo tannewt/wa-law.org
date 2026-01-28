@@ -10,7 +10,7 @@
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SB 5439 Thermal coal divestment/SIB
 Sign up to testify:
 
-#### 902 👍 - Pro
+#### 1545 👍 - Pro
 Testifying:
 * 💵Jeffrey Johnson - PSARA Puget Sound Advocates for Retirement Action
 * Adam Lough - Washington Physicians for Social Responsibility
@@ -27,7 +27,15 @@ Testifying:
 * Bill McKibben - Third Act
 * Jeff Johnson - Puget Sound Advocates for Retirement Action (PSARA)
 * Keith Gonzalez
+* 💵Andrew Eckels - [350 Seattle](/org/350_seattle/)
+* Barbara Carey - Divest Washington
+* Ben Avery - WA State Sierra Club
+* Bill McKibben - Third Act
+* Jeff Johnson - [Puget Sound Advocates for Retirement Action](/org/puget_sound_advocates_for_retirement_action/)
+* Katrin Ganswindt - Urgewald
+* Keith Gonzalez
+* Stewart Henderson
 
-#### 2 👎 - Con
+#### 610 👎 - Con
 
 #### 0 ❓ - Other

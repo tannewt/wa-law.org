@@ -141,11 +141,17 @@
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+* 👍💵 Jenn Henderson
+* 👍💵 Kimberly Mosolf
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
+* 👍💵 Jenn Henderson
+* 👍💵 Kimberly Mosolf
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

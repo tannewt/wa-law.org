@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2437 - Opioid treatment prg. fees</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2437/</link>
+		<description>Updates about HB 2437</description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 18 Jan 2026 07:59:27 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Health Care &amp; Wellness.</title>
+			<description>First reading, referred to Health Care &amp; Wellness.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>👍💵Ian Corbridge - Washington State Department of Health</title>
+			<description>Ian Corbridge signed up to testify Pro. They are signed up to represent Washington State Department of Health. They are a registered lobbyist.</description>
+			<pubDate>Sun, 18 Jan 2026 07:59:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ian/Corbridge/2026-01-18 07:59:27</guid>
+		</item>
+	</channel>
+</rss>

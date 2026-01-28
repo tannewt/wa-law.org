@@ -1,0 +1,22 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2410](/bill/2025-26/hb/2410/)
+
+# HB 2410 - Commercial truck council
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2410&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings
+### Thu 01/29 04:00 PM - Transportation (TR): HB 2410 Commercial truck council
+Sign up to testify:
+
+#### 10 👍 - Pro
+Testifying:
+* Abigail Potter - Washington Trucking Associations
+* Abigail Potter - Washington Trucking Associations
+* Jason McFadden
+* Joshua Sternberg
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

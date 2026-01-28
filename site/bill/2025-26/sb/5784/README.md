@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 5784 Agency demographic data
-Sign up to testify:
+#### 4 👍 - Pro
 
-#### 0 👍 - Pro
+#### 58 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Patrick Stickney - WA Office of Equity

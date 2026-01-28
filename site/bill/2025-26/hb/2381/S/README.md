@@ -1,0 +1,68 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2381](/bill/2025-26/hb/2381/) > [Substitute Bill](/bill/2025-26/hb/2381/S/)
+
+# HB 2381 - Low-rise res. buildings
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2381-S.pdf)
+
+## Section 1
+The legislature finds that Washington faces an ongoing shortage of low-rise residential buildings and that existing building code compliance pathways are largely prescriptive or applied on a project-by-project basis, increasing permitting uncertainty, limiting innovation, and constraining the ability to scale housing production. Performance-based building codes are effectively used nationally and internationally to address structural design, fire and life safety, egress, durability, and other core building functions, enabling repeatable approvals and industrialized housing delivery. Washington currently lacks a comparable, system-level performance-based compliance pathway under the international building code for low-rise residential buildings.
+
+The legislature further finds that establishing a codified performance-based compliance pathway for low-rise residential buildings can reduce regulatory friction, improve permitting predictability, and support off-site manufacturing and industrialized construction. By allowing housing systems and building plans to demonstrate compliance based on measured performance rather than prescribed methods, such a pathway can enable reuse of approved designs across jurisdictions, support manufacturing at scale, and help reduce the cost of housing delivery while maintaining appropriate health, safety, and welfare protections.
+
+The legislature additionally finds that a unified performance-based approach can provide a foundation for aligning building code compliance with existing performance-based energy efficiency and emissions programs, including opportunities to streamline energy code compliance and integrate operational energy efficiency and whole life carbon considerations, including embodied carbon.
+
+It is therefore the objective of the legislature to facilitate increased housing production and predictability by directing the development of a state-approved performance-based housing system and plan certification pathway for low-rise residential buildings.
+
+## Section 2
+1. The state building code council shall adopt, by rule, a mandatory appendix to the international building code as amended by Washington to establish a performance-based code compliance pathway for low-rise residential buildings with residential occupancy. The appendix shall apply to buildings of one to six stories above grade plane that are not classified as high-rise buildings under international building code as amended by Washington, section 202.
+
+2. In developing the appendix required under subsection (1) of this section, the council shall convene a technical advisory group for the purpose of recommending performance-based code amendments. The advisory group shall include subject matter experts and appropriate state agencies, including the department of labor and industries, the department of commerce, the University of Washington, and Washington State University.
+
+3. The advisory group shall develop and recommend performance criteria categories and targets for building systems, subsystems, components, products, and materials. In developing its recommendations, the advisory group shall consider existing and emerging nationally recognized standards and certification frameworks, including system-level housing performance and certification efforts developed or sponsored by the national institute of building sciences.
+
+4. In adopting rules under this section, the council shall ensure that the performance-based compliance pathway supports integrated and harmonized compliance across the international building code as amended by Washington, the Washington state energy codes, and rules addressing building-related greenhouse gas emissions, including both operational energy emissions and emissions associated with building materials. The council shall provide for a performance-based approach that allows coordinated compliance using whole-building or system-level metrics, to the extent practicable and consistent with existing statutory authority. The approach shall function as an alternative to separate prescriptive compliance pathways otherwise applicable and shall avoid duplicative compliance submittals and reviews.
+
+5. The council shall adopt rules establishing criteria under which housing systems and plan certifications issued by independent, nationally recognized third-party evaluation or certification organizations may be recognized for purposes of demonstrating compliance with the state building code. A housing system or plan certification recognized under this section shall be deemed to demonstrate compliance with the applicable provisions of the state building code and shall be accepted by local authorities having jurisdiction for purposes of permit review and inspection within the scope of the certification.
+
+6. The advisory group shall provide its recommendations to the council in time for the council to adopt or amend rules and codes as necessary for implementation in the first substantive code update to the state building code, as provided for in RCW 19.27.031 and 19.27.032, occurring after January 1, 2027.
+
+7. The state building code council shall adopt section R406 of the international energy conservation code as part of the appendix pursuant to subsection (1) of this section.
+
+8. For the purposes of this section, the following definitions apply:
+
+    a. "Low-rise residential building" means a building with residential occupancy containing from one to 24 dwelling units, including detached, attached, stacked, or clustered housing types.
+
+    b. "Performance-based code" means a regulatory framework that establishes measurable performance objectives for buildings, building systems, or building elements, without prescribing specific materials, assemblies, or construction methods, and that allows compliance to be demonstrated through engineering analysis, testing, certification, modeling, or other approved evaluation methods. A performance-based code may include prescriptive provisions but allows alternative compliance pathways that achieve equivalent or superior performance.
+
+## Section 3
+1. The state building code council in the department of enterprise services shall adopt rules to be known as the Washington state energy code as part of the state building code.
+
+2. The council shall follow the legislature's standards set forth in this section to adopt rules to be known as the Washington state energy code. The Washington state energy code shall be designed to:
+
+    a. Construct increasingly energy efficient homes and buildings by the year 2031;
+
+    b. Require new buildings to meet a certain level of energy efficiency, but allow flexibility in building design, construction, and heating equipment efficiencies within that framework;
+
+    c. Allow space heating equipment efficiency to offset or substitute for building envelope thermal performance; and
+
+    d. Allow demonstrated reductions in embodied carbon associated with building materials to offset or substitute for modeled operational energy use intensity requirements in performance-based compliance pathways applicable to buildings subject to the international building code as amended by Washington state.
+
+3. The Washington state energy code may not in any way prohibit, penalize, or discourage the use of gas for any form of heating, or for uses related to any appliance or equipment, in any building.
+
+4. The Washington state energy code shall take into account regional climatic conditions. One climate zone includes: Adams, Asotin, Benton, Chelan, Columbia, Douglas, Ferry, Franklin, Garfield, Grant, Kittitas, Klickitat, Lincoln, Okanogan, Pend Oreille, Skamania, Spokane, Stevens, Walla Walla, Whitman, and Yakima counties. The other climate zone includes all other counties not listed in this subsection (4). The assignment of a county to a climate zone may not be changed by adoption of a model code or rule. Nothing in this section prohibits the council from adopting the same rules or standards for each climate zone.
+
+5. The Washington state energy code for residential buildings shall be the 2006 edition of the Washington state energy code, or as amended by rule by the council.
+
+6. The minimum state energy code for new nonresidential buildings shall be the Washington state energy code, 2006 edition, or as amended by the council by rule.
+
+7. [Empty]
+
+    a. Except as provided in (b) of this subsection, the Washington state energy code for residential structures shall preempt the residential energy code of each city, town, and county in the state of Washington.
+
+    b. The state energy code for residential structures does not preempt a city, town, or county's energy code for residential structures which exceeds the requirements of the state energy code and which was adopted by the city, town, or county prior to March 1, 1990. Such cities, towns, or counties may not subsequently amend their energy code for residential structures to exceed the requirements adopted prior to March 1, 1990.
+
+8. The state building code council shall consult with the department of enterprise services as provided in RCW 34.05.310 prior to publication of proposed rules. The director of the department of enterprise services shall recommend to the state building code council any changes necessary to conform the proposed rules to the requirements of this section.
+
+9. The state building code council shall evaluate and consider adoption of the international energy conservation code in Washington state in place of the existing state energy code.
+
+10. The definitions in RCW 19.27A.140 apply throughout this section.

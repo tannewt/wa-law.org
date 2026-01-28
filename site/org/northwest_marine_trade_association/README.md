@@ -14,6 +14,8 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
+### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍4  
 * 👍 Roman Daniels-Brown
 * 👍 Roman Daniels-Brown

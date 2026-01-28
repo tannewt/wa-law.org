@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/14/2026 [The Washington Observer](/org/the_washington_observer/) - [A different sort of speech entirely](https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=Senate%20Bill%205890)
+* 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=SB%205890)
 
 ## Meetings
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5890 Reckless driving, speed

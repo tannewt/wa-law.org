@@ -1,0 +1,238 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2660](/bill/2025-26/hb/2660/) > [Original Bill](/bill/2025-26/hb/2660/1/)
+
+# HB 2660 - Child shelter care orders
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2660.pdf)
+
+## Section 1
+1. The legislature finds that critical incidents, maltreatment-related child fatalities or near fatalities involving families with an open child welfare case within one year of the incident, increased by 70 percent from 2021 to 2024. In the first quarter of 2025, there were 22 critical incidents compared to nine critical incidents in the first quarter of 2024.
+
+2. The legislature intends to address the concerning rise in critical incidents by increasing court oversight of child welfare cases during the shelter care phase for children under age five.
+
+## Section 2
+1. [Empty]
+
+    a. When a child is removed or when the petitioner is seeking the removal of a child from the child's parent, guardian, or legal custodian, the court shall hold a shelter care hearing within 72 hours, excluding Saturdays, Sundays, and holidays. The primary purpose of the shelter care hearing is to determine whether the child can be immediately and safely returned home while the adjudication of the dependency is pending. The court shall hold an additional shelter care hearing within 72 hours, excluding Saturdays, Sundays, and holidays if the child is removed from the care of a parent, guardian, or legal custodian at any time after an initial shelter care hearing under this section.
+
+    b. Any child's attorney, parent, guardian, or legal custodian who for good cause is unable to attend or adequately prepare for the shelter care hearing may request that the initial shelter care hearing be continued or that a subsequent shelter care hearing be scheduled. The request shall be made to the clerk of the court where the petition is filed prior to the initial shelter care hearing. Upon the request of the child's attorney, parent, guardian, or legal custodian, the court shall schedule the hearing within 72 hours of the request, excluding Saturdays, Sundays, and holidays. The clerk shall notify all other parties of the hearing by any reasonable means. If the parent, guardian, or legal custodian is not represented by counsel, the clerk shall provide information to the parent, guardian, or legal custodian regarding how to obtain counsel.
+
+2. [Empty]
+
+    a. If it is likely that the child will remain in shelter care longer than 72 hours, the department shall submit a recommendation to the court as to the further need for shelter care in all cases in which the child will remain in shelter care longer than the 72 hour period. In all other cases, the recommendation shall be submitted by the juvenile court probation counselor.
+
+    b. All parties have the right to present testimony to the court regarding the need or lack of need for shelter care.
+
+    c. Hearsay evidence before the court regarding the need or lack of need for shelter care must be supported by sworn testimony, affidavit, or declaration of the person offering such evidence.
+
+3. [Empty]
+
+    a. At the commencement of the hearing, the court shall notify the parent, guardian, or custodian of the following:
+
+        i. The parent, guardian, or custodian has the right to a shelter care hearing;
+
+        ii. The nature of the shelter care hearing, the rights of the parents, and the proceedings that will follow; and
+
+        iii. If the parent, guardian, or custodian is not represented by counsel, the right to be represented. If the parent, guardian, or custodian is indigent, the court shall appoint counsel as provided in RCW 13.34.090; and
+
+    b. If a parent, guardian, or legal custodian desires to waive the shelter care hearing, the court shall determine, on the record and with the parties present, whether such waiver is knowing and voluntary. A parent may not waive his or her right to the shelter care hearing unless he or she appears in court, in person, or by remote means, and the court determines that the waiver is knowing and voluntary. Regardless of whether the court accepts the parental waiver of the shelter care hearing, the court must provide notice to the parents of their rights required under (a) of this subsection and make the finding required under subsection (4) of this section.
+
+4. At the shelter care hearing the court shall examine the need for shelter care and inquire into the status of the case. The paramount consideration for the court shall be the health, welfare, and safety of the child. At a minimum, the court shall inquire into the following:
+
+    a. Whether the notice required under RCW 13.34.062 was given to all known parents, guardians, or legal custodians of the child. The court shall make an express finding as to whether the notice required under RCW 13.34.062 was given to the parent, guardian, or legal custodian. If actual notice was not given to the parent, guardian, or legal custodian and the whereabouts of such person is known or can be ascertained, the court shall order the department to make diligent efforts to advise the parent, guardian, or legal custodian of the status of the case, including the date and time of any subsequent hearings, and their rights under RCW 13.34.090;
+
+    b. Whether the child can be safely returned home while the adjudication of the dependency is pending;
+
+    c. What efforts have been made to place the child with a relative. The court shall ask the parents whether the department discussed with them the placement of the child with a relative or other suitable person described in RCW 13.34.130(1)(b) and shall determine what efforts have been made toward such a placement;
+
+    d. What services were provided to the family to prevent or eliminate the need for removal of the child from the child's home. If the dependency petition or other information before the court alleges that experiencing homelessness or the lack of suitable housing was a significant factor contributing to the removal of the child, the court shall inquire as to whether housing assistance was provided to the family to prevent or eliminate the need for removal of the child or children;
+
+    e. Is the placement proposed by the department the least disruptive and most family-like setting that meets the needs of the child;
+
+    f. Whether it is in the best interest of the child to remain enrolled in the school, developmental program, or child care the child was in prior to placement and what efforts have been made to maintain the child in the school, program, or child care if it would be in the best interest of the child to remain in the same school, program, or child care;
+
+    g. Appointment of a guardian ad litem or attorney;
+
+    h. Whether the child is or may be an Indian child as defined in RCW 13.38.040, whether the provisions of the federal Indian child welfare act or chapter 13.38 RCW apply, and whether there is compliance with the federal Indian child welfare act and chapter 13.38 RCW, including notice to the child's tribe;
+
+        i. Whether, as provided in RCW 26.44.063, restraining orders, or orders expelling an allegedly abusive household member from the home of a nonabusive parent, guardian, or legal custodian, will allow the child to safely remain in the home;
+
+    j. Whether any orders for examinations, evaluations, or immediate services are needed. Except as provided in subsection (5)(c) of this section, the court may not order a parent to undergo examinations, evaluation, or services at the shelter care hearing unless the parent agrees to the examination, evaluation, or service;
+
+    k. The terms and conditions for parental, sibling, and family visitation.
+
+5. [Empty]
+
+    a. The court shall release a child alleged to be dependent to the care, custody, and control of the child's parent, guardian, or legal custodian unless the court finds there is reasonable cause to believe that:
+
+        i. After consideration of the specific services that have been provided, reasonable efforts have been made to prevent or eliminate the need for removal of the child from the child's home and to make it possible for the child to return home; and
+
+        ii.(A) The child has no parent, guardian, or legal custodian to provide supervision and care for such child; or
+
+(B)(I) Removal of the child is necessary to prevent imminent physical harm due to child abuse or neglect, including that which results from sexual abuse, sexual exploitation, a high-potency synthetic opioid, or a pattern of severe neglect, notwithstanding an order entered pursuant to RCW 26.44.063. The evidence must show a causal relationship between the particular conditions in the home and imminent physical harm to the child. The existence of community or family poverty, isolation, single parenthood, age of the parent, crowded or inadequate housing, substance abuse, prenatal drug or alcohol exposure, mental illness, disability or special needs of the parent or child, or nonconforming social behavior does not by itself constitute imminent physical harm. The court shall give great weight to the lethality of high-potency synthetic opioids and public health guidance from the department of health related to high-potency synthetic opioids when determining whether removal of the child is necessary to prevent imminent physical harm due to child abuse or neglect;
+
+(II) It is contrary to the welfare of the child to be returned home; and
+
+(III) After considering the particular circumstances of the child, any imminent physical harm to the child outweighs the harm the child will experience as a result of removal; or
+
+(C) The parent, guardian, or custodian to whom the child could be released has been charged with violating RCW 9A.40.060 or 9A.40.070.
+
+    b. If the court finds that the elements of (a)(ii)(B) of this subsection require removal of the child, the court shall further consider:
+
+        i. Whether participation by the parents, guardians, or legal custodians in any prevention services would prevent or eliminate the need for removal and, if so, shall inquire of the parent whether they are willing to participate in such services. If the parent agrees to participate in the prevention services identified by the court that would prevent or eliminate the need for removal, the court shall place the child with the parent. The court shall give great weight to the lethality of high-potency synthetic opioids and public health guidance from the department of health related to high-potency synthetic opioids when deciding whether to place the child with the parent. Except as provided in (c) of this subsection, the court shall not order a parent to participate in prevention services over the objection of the parent, however, parents shall have the opportunity to consult with counsel prior to deciding whether to agree to proposed prevention services as a condition of having the child return to or remain in the care of the parent; and
+
+        ii. Whether the issuance of a temporary order of protection directing the removal of a person or persons from the child's residence would prevent the need for removal of the child.
+
+    c. If a child is under the age of five at the time of filing the dependency petition and the court releases the child to the care, custody, and control of a parent, guardian, or legal custodian under subsection (a) of this section, the court may order the parent, guardian, or legal custodian to comply with conditions necessary to maintain the safety of the child in the home if the court finds that there is reasonable cause to believe that these conditions are necessary to maintain the safety of the child. If these conditions involve the participation of the parent, guardian, or legal custodian in a service or evaluation, the parent, guardian, or legal custodian shall sign a release of information allowing the department to make a referral and receive any related results and the department shall provide all necessary referrals to that service or evaluation within seven days of signing this release. Failure by the department to provide timely referrals or access to service conditions may not be used as a basis for removal, continued shelter care, or a finding of dependency. The court may only order conditions under this subsection (5)(c) that the department identifies as:
+
+        i. Culturally appropriate;
+
+        ii. Reasonably available to the parent, guardian, or legal custodian; and
+
+        iii. Reasonably accessible to the parent, guardian, or legal custodian.
+
+    d. [Empty]
+
+        i. If the court does not release the child to his or her parent, guardian, or legal custodian, the court shall order placement with a relative or other suitable person as described in RCW 13.34.130(1)(b), unless the petitioner establishes that there is reasonable cause to believe that:
+
+(A) Placement in licensed foster care is necessary to prevent imminent physical harm to the child due to child abuse or neglect, including that which results from sexual abuse, sexual exploitation, a high-potency synthetic opioid, or a pattern of severe neglect, because no relative or other suitable person is capable of ensuring the basic safety of the child; or
+
+(B) The efforts to reunite the parent and child will be hindered.
+
+        ii. In making the determination in (d)(i) of this subsection, the court shall:
+
+(A) Inquire of the petitioner and any other person present at the hearing for the child whether there are any relatives or other suitable persons who are willing to care for the child. This inquiry must include whether any relative or other suitable person:
+
+(I) Has expressed an interest in becoming a caregiver for the child;
+
+(II) Is able to meet any special needs of the child;
+
+(III) Is willing to facilitate the child's sibling and parent visitation if such visitation is ordered by the court; and
+
+(IV) Supports reunification of the parent and child once reunification can safely occur; and
+
+(B) Give great weight to the stated preference of the parent, guardian, or legal custodian, and the child.
+
+        iii. If a relative or other suitable person expressed an interest in caring for the child, can meet the child's special needs, can support parent-child reunification, and will facilitate court-ordered sibling or parent visitation, the following must not prevent the child's placement with such relative or other suitable person:
+
+(A) An incomplete department or fingerprint-based background check, if such relative or other suitable person appears otherwise suitable and competent to provide care and treatment, but the background checks must be completed as soon as possible after placement;
+
+(B) Uncertainty on the part of the relative or other suitable person regarding potential adoption of the child;
+
+(C) Disbelief on the part of the relative or other suitable person that the parent, guardian, or legal custodian presents a danger to the child, provided the caregiver will protect the safety of the child and comply with court orders regarding contact with a parent, guardian, or legal custodian; or
+
+(D) The conditions of the relative or other suitable person's home are not sufficient to satisfy the requirements of a licensed foster home. The court may order the department to provide financial or other support to the relative or other suitable person necessary to ensure safe conditions in the home.
+
+    e. If the child was not initially placed with a relative or other suitable person, and the court does not release the child to his or her parent, guardian, or legal custodian, the department shall make reasonable efforts to locate a relative or other suitable person pursuant to RCW 13.34.060(1).
+
+    f. If the court does not order placement with a relative or other suitable person, the court shall place the child in licensed foster care and shall set forth its reasons for the order. If the court orders placement of the child with a person not related to the child and not licensed to provide foster care, the placement is subject to all terms and conditions of this section that apply to relative placements.
+
+    g. Any placement with a relative, or other suitable person approved by the court pursuant to this section, shall be contingent upon cooperation with the department's or agency's case plan and compliance with court orders related to the care and supervision of the child including, but not limited to, court orders regarding parent-child contacts, sibling contacts, and any other conditions imposed by the court. Noncompliance with the case plan or court order is grounds for removal of the child from the home of the relative or other suitable person, subject to review by the court.
+
+    h. If the child is placed in a qualified residential treatment program as defined in this chapter, the court shall, within 60 days of placement, hold a hearing to:
+
+        i. Consider the assessment required under RCW 13.34.420 and submitted as part of the department's social study, and any related documentation;
+
+        ii. Determine whether placement in foster care can meet the child's needs or if placement in another available placement setting best meets the child's needs in the least restrictive environment; and
+
+        iii. Approve or disapprove the child's placement in the qualified residential treatment program.
+
+        i. Uncertainty by a parent, guardian, legal custodian, relative, or other suitable person that the alleged abuser has in fact abused the child shall not, alone, be the basis upon which a child is removed from the care of a parent, guardian, or legal custodian under (a) of this subsection, nor shall it be a basis, alone, to preclude placement with a relative or other suitable person under (d) of this subsection.
+
+    j. If the court places with a relative or other suitable person, and that person has indicated a desire to become a licensed foster parent, the court shall order the department to commence an assessment of the home of such relative or other suitable person within 10 days and thereafter issue an initial license as provided under RCW 74.15.120 for such relative or other suitable person, if qualified, as a foster parent. The relative or other suitable person shall receive a foster care maintenance payment, starting on the date the department approves the initial license. If such home is found to be unqualified for licensure, the department shall report such fact to the court within one week of that determination. The department shall report on the status of the licensure process during the entry of any dispositional orders in the case.
+
+    k. If the court places the child in licensed foster care:
+
+        i. The petitioner shall report to the court, at the shelter care hearing, the location of the licensed foster placement the petitioner has identified for the child and the court shall inquire as to whether:
+
+(A) The identified placement is the least restrictive placement necessary to meet the needs of the child;
+
+(B) The child will be able to remain in the same school and whether any orders of the court are necessary to ensure educational stability for the child;
+
+(C) The child will be placed with a sibling or siblings, and whether court-ordered sibling contact would promote the well-being of the child;
+
+(D) The licensed foster placement is able to meet the special needs of the child;
+
+(E) The location of the proposed foster placement will impede visitation with the child's parent or parents;
+
+        ii. The court may order the department to:
+
+(A) Place the child in a less restrictive placement;
+
+(B) Place the child in a location in closer proximity to the child's parent, home, or school;
+
+(C) Place the child with the child's sibling or siblings;
+
+(D) Take any other necessary steps to ensure the child's health, safety, and well-being;
+
+        iii. The court shall advise the petitioner that:
+
+(A) Failure to comply with court orders while a child is in shelter care will be considered when determining whether reasonable efforts have been made by the department during a hearing under RCW 13.34.110; and
+
+(B) Placement moves while a child is in shelter care will be considered when determining whether reasonable efforts have been made by the department during a hearing under RCW 13.34.110.
+
+6. [Empty]
+
+    a. A shelter care order issued pursuant to this section shall include the requirement for a case conference as provided in RCW 13.34.067. However, if the parent is not present at the shelter care hearing, or does not agree to the case conference, the court shall not include the requirement for the case conference in the shelter care order.
+
+    b. If the court orders a case conference, the shelter care order shall include notice to all parties and establish the date, time, and location of the case conference which shall be no later than 30 days before the fact-finding hearing.
+
+    c. The court may order another conference, case staffing, or hearing as an alternative to the case conference required under RCW 13.34.067 so long as the conference, case staffing, or hearing ordered by the court meets all requirements under RCW 13.34.067, including the requirement of a written agreement specifying the services to be provided to the parent.
+
+7. [Empty]
+
+    a. [Empty]
+
+        i. A shelter care order issued pursuant to this section may be amended at any time with notice and hearing thereon. The shelter care decision of placement shall be modified only upon a showing of change in circumstances. No child may be placed in shelter care for longer than thirty days without an order, signed by the judge, authorizing continued shelter care.
+
+        ii. If the court previously ordered that visitation between a parent and child be supervised or monitored, there shall be a presumption that such supervision or monitoring will no longer be necessary following a continued shelter care order under (a)(i) of this subsection. To overcome this presumption, a party must provide a report to the court including evidence establishing that removing visit supervision or monitoring would create a risk to the child's safety, and the court shall make a determination as to whether visit supervision or monitoring must continue.
+
+    b. [Empty]
+
+        i. An order releasing the child on any conditions specified in this section may at any time be amended, with notice and hearing thereon, so as to return the child to shelter care for failure of the parties to conform to the conditions originally imposed.
+
+        ii. The court shall consider whether nonconformance with any conditions resulted from circumstances beyond the control of the parent, guardian, or legal custodian and give weight to that fact before ordering return of the child to shelter care.
+
+8. The department and its employees shall not be held liable in any civil action for complying with an order issued under this section for placement: With a parent who has agreed to accept services, a relative, or a suitable person.
+
+9. [Empty]
+
+    a. If a child is placed out of the home of a parent, guardian, or legal custodian following a shelter care hearing, the court shall order the petitioner to provide regular visitation with the parent, guardian, or legal custodian, and siblings. Early, consistent, and frequent visitation is crucial for maintaining parent-child relationships and allowing family reunification. The court shall order a visitation plan individualized to the needs of the family with a goal of providing the maximum parent, child, and sibling contact possible.
+
+    b. Visitation under this subsection shall not be limited as a sanction for a parent's failure to comply with recommended services during shelter care.
+
+    c. Visitation under this subsection may only be limited where necessary to ensure the health, safety, or welfare of the child.
+
+    d. The first visit must take place within 72 hours of the child being delivered into the custody of the department, unless the court finds that extraordinary circumstances require delay.
+
+    e. If the first visit under (d) of this subsection occurs in an in-person format, this first visit must be supervised unless the department determines that visit supervision is not necessary.
+
+## Section 3
+1. The court shall hold a fact-finding hearing on the petition and, unless the court dismisses the petition, shall make written findings of fact, stating the reasons therefor. The rules of evidence shall apply at the fact-finding hearing and the parent, guardian, or legal custodian of the child shall have all of the rights provided in RCW 13.34.090(1). The petitioner shall have the burden of establishing by a preponderance of the evidence that the child is dependent within the meaning of RCW 13.34.030.
+
+2. [Empty]
+
+    a. The court in a fact-finding hearing may consider the history of past involvement of child protective services or law enforcement agencies with the family for the purpose of establishing a pattern of conduct, behavior, or inaction with regard to the health, safety, or welfare of the child on the part of the child's parent, guardian, or legal custodian, or for the purpose of establishing that reasonable efforts have been made by the department to prevent or eliminate the need for removal of the child from the child's home. No report of child abuse or neglect that has been destroyed or expunged under RCW 26.44.031 may be used for such purposes.
+
+    b. The fact that the parent participated in prevention services, safety planning, or conditions necessary to maintain the safety of the child under RCW 13.34.065(5)(c) may not be construed as an admission of abuse or neglect.
+
+3. [Empty]
+
+    a. The parent, guardian, or legal custodian of the child may waive his or her right to a fact-finding hearing by stipulating or agreeing to the entry of an order of dependency establishing that the child is dependent within the meaning of RCW 13.34.030. The parent, guardian, or legal custodian may also stipulate or agree to an order of disposition pursuant to RCW 13.34.130 at the same time. Any stipulated or agreed order of dependency or disposition must be signed by the parent, guardian, or legal custodian and his or her attorney, unless the parent, guardian, or legal custodian has waived his or her right to an attorney in open court, and by the petitioner and the attorney, guardian ad litem, or court-appointed special advocate for the child, if any. If the department is not the petitioner and is required by the order to supervise the placement of the child or provide services to any party, the department must also agree to and sign the order.
+
+    b. Entry of any stipulated or agreed order of dependency or disposition is subject to approval by the court. The court shall receive and review a social study before entering a stipulated or agreed order and shall consider whether the order is consistent with the allegations of the dependency petition and the problems that necessitated the child's placement in out-of-home care. No social file or social study may be considered by the court in connection with the fact-finding hearing or prior to factual determination, except as otherwise admissible under the rules of evidence.
+
+    c. Prior to the entry of any stipulated or agreed order of dependency, the parent, guardian, or legal custodian of the child and his or her attorney must appear before the court and the court within available resources must inquire and establish on the record that:
+
+        i. The parent, guardian, or legal custodian understands the terms of the order or orders he or she has signed, including his or her responsibility to participate in remedial services as provided in any disposition order;
+
+        ii. The parent, guardian, or legal custodian understands that entry of the order starts a process that could result in the filing of a petition to terminate his or her relationship with the child within the time frames required by state and federal law if he or she fails to comply with the terms of the dependency or disposition orders or fails to substantially remedy the problems that necessitated the child's placement in out-of-home care;
+
+        iii. The parent, guardian, or legal custodian understands that the entry of the stipulated or agreed order of dependency is an admission that the child is dependent within the meaning of RCW 13.34.030 and shall have the same legal effect as a finding by the court that the child is dependent by at least a preponderance of the evidence, and that the parent, guardian, or legal custodian shall not have the right in any subsequent proceeding for termination of parental rights pursuant to this chapter or guardianship pursuant to chapters [chapter] 13.36 or 11.130 RCW to challenge or dispute the fact that the child was found to be dependent; and
+
+        iv. The parent, guardian, or legal custodian knowingly and willingly stipulated and agreed to and signed the order or orders, without duress, and without misrepresentation or fraud by any other party.
+
+If a parent, guardian, or legal custodian fails to appear before the court after stipulating or agreeing to entry of an order of dependency, the court may enter the order upon a finding that the parent, guardian, or legal custodian had actual notice of the right to appear before the court and chose not to do so. The court may require other parties to the order, including the attorney for the parent, guardian, or legal custodian, to appear and advise the court of the parent's, guardian's, or legal custodian's notice of the right to appear and understanding of the factors specified in this subsection. A parent, guardian, or legal custodian may choose to waive his or her presence at the in-court hearing for entry of the stipulated or agreed order of dependency by submitting to the court through counsel a completed stipulated or agreed dependency fact-finding/disposition statement in a form determined by the Washington state supreme court pursuant to General Rule GR 9.
+
+4. Immediately after the entry of the findings of fact, the court shall hold a disposition hearing, unless there is good cause for continuing the matter for up to fourteen days. If good cause is shown, the case may be continued for longer than fourteen days. Notice of the time and place of the continued hearing may be given in open court. If notice in open court is not given to a party, that party shall be notified by certified mail of the time and place of any continued hearing. Unless there is reasonable cause to believe the health, safety, or welfare of the child would be jeopardized or efforts to reunite the parent and child would be hindered, the court shall direct the department to notify those adult persons who: (a) Are related by blood or marriage to the child in the following degrees: Parent, grandparent, brother, sister, stepparent, stepbrother, stepsister, uncle, or aunt; (b) are known to the department as having been in contact with the family or child within the past twelve months; and (c) would be an appropriate placement for the child. Reasonable cause to dispense with notification to a parent under this section must be proved by clear, cogent, and convincing evidence.
+
+The parties need not appear at the fact-finding or dispositional hearing if the parties, their attorneys, the guardian ad litem, and court-appointed special advocates, if any, are all in agreement.

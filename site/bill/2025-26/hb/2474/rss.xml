@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2474 - Postsecondary closures</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2474/</link>
+		<description>Updates about HB 2474</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 02:00:55 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Postsecondary Education &amp; Workforce.</title>
+			<description>First reading, referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-14/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
+		</item>
+		<item>
+			<title>👍💵Joel Anderson - Washington Student Achievement Council</title>
+			<description>Joel Anderson signed up to testify Pro. They are signed up to represent Washington Student Achievement Council. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Jan 2026 12:04:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joel/Anderson/2026-01-22 12:04:56</guid>
+		</item>
+		<item>
+			<title>👍Christopher Madaio - The Institute for College Access and Success</title>
+			<description>Christopher Madaio signed up to testify Pro. They are signed up to represent The Institute for College Access and Success.</description>
+			<pubDate>Fri, 23 Jan 2026 12:32:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christopher/Madaio/2026-01-23 12:32:20</guid>
+		</item>
+		<item>
+			<title>👍Mahmood Alkhazraji - ASCWU</title>
+			<description>Mahmood Alkhazraji signed up to testify Pro. They are signed up to represent ASCWU.</description>
+			<pubDate>Tue, 27 Jan 2026 02:00:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mahmood/Alkhazraji/2026-01-27 02:00:55</guid>
+		</item>
+	</channel>
+</rss>

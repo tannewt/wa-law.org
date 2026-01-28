@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2350 DD RHC federal compliance

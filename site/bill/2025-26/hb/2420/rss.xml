@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2420 - Small works roster limits</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2420/</link>
+		<description>Updates about HB 2420</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 04:02:31 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Capital Budget.</title>
+			<description>First reading, referred to Capital Budget.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Capital Budget.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 26-30, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 26-30, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 23 Jan 2026 18:19:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202420</guid>
+		</item>
+		<item>
+			<title>👍John McClellan - Alderwood Water &amp; Wastewater District</title>
+			<description>John McClellan signed up to testify Pro. They are signed up to represent Alderwood Water &amp; Wastewater District.</description>
+			<pubDate>Mon, 26 Jan 2026 05:21:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/McClellan/2026-01-26 05:21:26</guid>
+		</item>
+		<item>
+			<title>👍Steve DuPont - Alderwood Water &amp; Wastewater District</title>
+			<description>Steve DuPont signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 04:02:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/DuPont/2026-01-27 04:02:31</guid>
+		</item>
+	</channel>
+</rss>

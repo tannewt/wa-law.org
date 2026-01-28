@@ -15,10 +15,12 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5947 Health care board
 Sign up to testify:
 
-#### 1278 👍 - Pro
+#### 1724 👍 - Pro
 Testifying:
 * Steven Field
+* David Loud - Health Care Is a Human Right WA
+* Mike Yestramski - WFSE
 
-#### 8 👎 - Con
+#### 602 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

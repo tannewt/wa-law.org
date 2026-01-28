@@ -1,0 +1,25 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6137](/bill/2025-26/sb/6137/)
+
+# SB 6137 - Regulated sports wagering
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6137&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings
+### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6137 Regulated sports wagering
+#### 113 👍 - Pro
+Testifying:
+* Chairman Ron Allen - Jamestown S'Klallam Tribe
+* Kevin Zenishek - [Kalispel Tribe](/org/kalispel_tribe/)
+* Bill Sterud - Chairman, Puyallup Tribe of Indians
+* Yale Rowe - General Manager, Emerald Queen Casino
+
+#### 4 👎 - Con
+Testifying:
+* Brad Corbin - Washington State University
+* Chris Mulick - Washington State University
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)

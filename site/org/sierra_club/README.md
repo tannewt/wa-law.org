@@ -24,6 +24,9 @@
 ### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects.  👎1 
 * 👎 Kathleen M Saul
 
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+* 👍 Mariska Kecska
+
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  

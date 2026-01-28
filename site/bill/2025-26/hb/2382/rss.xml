@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2382/</link>
 		<description>Updates about HB 2382</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 12:12:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 08:53:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Finance.</guid>
 		</item>
 		<item>
-			<title>👎Shaun D’Sylva - Washington State Public Heatlh Association</title>
+			<title>👎Shaun D’Sylva - Andy Hill CARE Fund</title>
 			<description>Shaun D’Sylva signed up to testify Con.</description>
 			<pubDate>Fri, 23 Jan 2026 04:03:00 GMT</pubDate>
 			<category>testifier</category>
@@ -46,6 +46,13 @@
 			<guid isPermaLink="false">testifier/Anthony/Mixer/2026-01-24 05:59:19</guid>
 		</item>
 		<item>
+			<title>The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202382</guid>
+		</item>
+		<item>
 			<title>👍Josh Binda - Chair of the NAACP Political Action Committee</title>
 			<description>Josh Binda signed up to testify Pro. They are signed up to represent Chair of the NAACP Political Action Committee.</description>
 			<pubDate>Mon, 26 Jan 2026 08:11:56 GMT</pubDate>
@@ -60,6 +67,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Megan/Moore/2026-01-26 12:12:07</guid>
+		</item>
+		<item>
+			<title>👍💵Lyset Cadena - Andy Hill CARE Fund</title>
+			<description>Lyset Cadena signed up to testify Pro. They are signed up to represent Andy Hill CARE Fund. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 08:53:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lyset/Cadena/2026-01-27 08:53:23</guid>
 		</item>
 	</channel>
 </rss>

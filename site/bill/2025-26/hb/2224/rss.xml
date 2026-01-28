@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2224/</link>
 		<description>Updates about HB 2224</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -98,6 +98,13 @@
 			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-23/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Finance.</title>
+			<description>Referred to Finance.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Referred to Finance.</guid>
 		</item>
 	</channel>
 </rss>

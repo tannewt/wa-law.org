@@ -11,13 +11,12 @@
 
 ## Meetings
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2292 Small business stock gains
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Mia Shigemura - Washington State Budget & Policy Center
+* Sarah Austin - Institute on Taxation and Economic Policy
 
-#### 416 👎 - Con
+#### 525 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * Aviel Ginzburg - Startup Foundations, Inc

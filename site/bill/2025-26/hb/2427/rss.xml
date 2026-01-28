@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2427 - Tattoo artist training</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2427/</link>
+		<description>Updates about HB 2427</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 01:56:26 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Postsecondary Education &amp; Workforce.</title>
+			<description>First reading, referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
+		</item>
+		<item>
+			<title>👍Noel Gomez - Washington against sexual exploitation (WASE Forward)</title>
+			<description>Noel Gomez signed up to testify Pro. They are signed up to represent Washington against sexual exploitation (WASE Forward).</description>
+			<pubDate>Sat, 24 Jan 2026 05:07:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Noel/Gomez/2026-01-24 05:07:13</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202427</guid>
+		</item>
+		<item>
+			<title>👎HUMA KALI - TacitGlobal Intelligence</title>
+			<description>HUMA KALI signed up to testify Con. They are signed up to represent TacitGlobal Intelligence.</description>
+			<pubDate>Tue, 27 Jan 2026 01:56:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/HUMA/KALI/2026-01-27 01:56:26</guid>
+		</item>
+	</channel>
+</rss>

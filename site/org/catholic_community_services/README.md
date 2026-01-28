@@ -81,11 +81,13 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+* 👍 Dan Wise
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
+* 👍 Dan Wise
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

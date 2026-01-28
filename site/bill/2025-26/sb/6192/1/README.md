@@ -1,0 +1,184 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6192](/bill/2025-26/sb/6192/) > [Original Bill](/bill/2025-26/sb/6192/1/)
+
+# SB 6192 - Reading and math instruction
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6192.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. Subject to the availability of amounts appropriated for this specific purpose, each educational service district shall annually select from within the educational service district's boundaries three teachers in mathematics and three teachers in English language arts to receive a star teacher award, as follows:
+
+        i. One math teacher must be selected based on improvement in kindergarten to sixth grade student scores over the previous two years;
+
+        ii. One math teacher must be selected based on improvement in seventh to 12th grade student scores over the previous two years;
+
+        iii. One math teacher must be selected at the educational service district's discretion, incorporating consideration of the teacher's engagement with students, knowledge of the teaching materials, ability to implement best practices for teaching, and student outcomes;
+
+        iv. One English language arts teacher must be selected based on improvement in kindergarten to sixth grade student scores over the previous two years;
+
+    v. One English language arts teacher must be selected based on improvement in seventh to 12th grade student scores over the previous two years; and
+
+    vi. One English language arts teacher must be selected at the educational service district's discretion, incorporating consideration of the teacher's engagement with students, knowledge of the teaching materials, ability to implement best practices for teaching, and student outcomes.
+
+    b. When assessing student improvement under (a)(i), (ii), (iv), and (v) of this subsection, the educational service district shall make a reasonable assessment of improvement that accounts for the difficulty level of the courses taught.
+
+2. Beginning in the year in which the teacher is selected as a star teacher, the star teacher will receive a $10,000 bonus for each year that he or she is a full-time educator teaching in his or her awarded subject area.
+
+3. Beginning in the year in which the teacher is selected as a star teacher, the star teacher will receive an additional $10,000 bonus for each year that he or she is a full-time educator teaching in his or her awarded subject area in a school that:
+
+    a. Meets the definition of high poverty school, as defined in rule by the office of the superintendent of public instruction, in the school year immediately preceding the school's participating in the United States department of agriculture's community eligibility provision; or
+
+    b. Has at least 70 percent of the student body qualify for the free and reduced-price lunch program.
+
+4. No teacher may hold more than one star teacher designation simultaneously.
+
+5. The bonuses provided under this section are in addition to compensation received under a school district's salary schedule adopted in accordance with RCW 28A.405.200 and may not be included in calculations of a school district's average salary and associated salary limitations under RCW 28A.400.200.
+
+## Section 2
+1. School districts
+
+shall implement a structured literacy program that uses evidence-based instructional practices to promote the early literacy of students in kindergarten through fourth grade and reading and writing literacy of students in kindergarten through 12th grade. School districts are encouraged to phase in use of the program elements beginning with the 2026-27 school year and shall fully implement all program elements by the beginning of the 2028-29 school year.
+
+2. A structured literacy program required by subsection (1) of this section must:
+
+    a. Include at least the following essential components: Semantics or comprehending written language; reading and writing fluency; orthographic knowledge or phonics; phonology and phonemic awareness; and vocabulary or oral language knowledge and proficiency;
+
+    b. Be systemic, sequential, and cumulative;
+
+    c. Provide direct, explicit, and rigorous instruction that is high quality and knowledge rich;
+
+    d. Be diagnostic of and responsive to individual student needs, including by being multisensory and multimodal;
+
+    e. Provide instruction and services, including literacy interventions under RCW 28A.320.260 within a multitiered system of supports;
+
+    f. Use screening assessments and other tools to identify at-risk readers in kindergarten through 12th grade, such as the Washington kindergarten inventory of developing skills, the Washington state early learning and development guidelines for birth through third grade, literacy screenings for students in kindergarten through second grade under RCW 28A.320.260, the second grade reading assessment under RCW 28A.300.310, and locally used assessments and other tools
+
+;
+
+    g. For students in third grade who are reading below grade level, implement intensive reading improvement strategies under RCW 28A.655.230 and 28A.655.235; and
+
+    h. Use research-based family involvement and engagement strategies, including strategies to help families and guardians assist in improving students' reading and early literacy skills at home.
+
+3. A structured literacy program must offer the parents of a student who performs below grade level on any reading assessments a reading improvement strategy that may include small group reading instruction, a summer program, or other options developed to meet the needs of the student.
+
+4. This section governs school operation and management under RCW 28A.710.040 and 28A.715.020 and applies to charter schools established under chapter 28A.710 RCW and state-tribal education compact schools subject to chapter 28A.715 RCW to the same extent as the section applies to school districts.
+
+## Section 3
+1. School districts shall implement a structured numeracy program that uses evidence-based instructional practices to promote the early mathematics skills of students in kindergarten through fourth grade and mathematics skills of students in kindergarten through 12th grade. School districts are encouraged to phase in use of the program elements beginning with the 2026-27 school year and shall fully implement all program elements by the beginning of the 2028-29 school year.
+
+2. A structured numeracy program required by subsection (1) of this section must:
+
+    a. Include instruction aligned to achieve age and developmentally appropriate mathematical proficiency. Mathematical proficiency includes, but is not limited to, conceptual understanding, procedural fluency, strategic competence, adaptive reasoning, and a productive disposition;
+
+    b. Use high quality instructional materials. High quality instructional materials are rigorous, standards-aligned, evidence-based teaching resources that promote deep conceptual understanding of mathematics and provide clear guidance and support for diverse learners;
+
+    c. Be systematic, sequential, and cumulative;
+
+    d. Provide direct, explicit, and rigorous instruction that is high quality and knowledge rich;
+
+    e. Provide instruction and services, including numeracy interventions with a multitiered system of supports;
+
+    f. Use screening assessments and other tools to identify students who are at risk of not achieving age and developmentally appropriate mathematical proficiency;
+
+        i. Screening assessments must include evidence-based screening methods for dyscalculia. If a student is identified as being at risk, the student's parent or guardian must be notified. After notification, schools must consult with the parent or guardian to develop a personalized intervention plan to help the student achieve age and developmentally appropriate mathematical proficiency;
+
+        ii. Screening assessments may be administered at any grade level, but must include assessment at the end of kindergarten and third grade;
+
+    g. Implement intensive mathematic improvement strategies described in sections 5 and 6 of this act for students in third grade who are not mathematically proficient; and
+
+    h. Use research-based family involvement and engagement strategies, including strategies to help parents and guardians improve students' numeracy and mathematical proficiency skills at home.
+
+3. A structured numeracy program must offer all students who perform below grade level on any state mathematics assessment administered under RCW 28A.655.070(3) a math improvement strategy.
+
+    a. A math improvement strategy must use reasonable interventions, which may include, but are not limited to, small class sizes, access to on-site tutoring, small group instruction, a summer program, technology-based tutoring, or other options designed to meet the individual needs of the student.
+
+    b. The student's parent or guardian may decline the student's participation in the math improvement strategy.
+
+4. Students with disabilities whose individualized education program includes specially designed instruction in mathematics are exempt from subsections (2)(f) and (g) and (3) of this section. Communication and consultation with parents or guardians must occur through the individualized education program process required under chapter 28A.155 RCW and associated administrative rules.
+
+5. This section governs school operation and management under RCW 28A.710.040 and 28A.715.020 and applies to charter schools established under chapter 28A.710 RCW and state-tribal education compact schools subject to chapter 28A.715 RCW to the same extent as the section applies to school districts.
+
+## Section 4
+1. Within existing resources and by September 1, 2027, the Washington professional educator standards board shall adopt revised standards for teacher endorsements with reading and writing literacy competencies. The revised standards must include those competencies necessary to participate in the delivery of a structured literacy program under RCW 28A.320.202, which, among other requirements, includes the essential components of phonemic awareness, phonics, fluency, vocabulary, and comprehension.
+
+2. The Washington professional educator standards board shall require approved educator preparation programs offering teacher endorsements with reading and writing literacy competencies to incorporate the revised standards into their programs by the beginning of the 2028-29 school year.
+
+3. For the purposes of this section "teacher endorsements with reading and writing literacy competencies" includes early childhood education, early childhood special education, elementary education, reading, special education, and other endorsements related to reading and writing literacy as determined by the Washington professional educator standards board.
+
+## Section 5
+1. The definitions in this subsection apply throughout this section and section 6 of this act unless the context clearly requires otherwise.
+
+    a. "Basic" means a score on the statewide student assessment at a level two in a four-level scoring system.
+
+    b. "Below basic" means a score on the statewide student assessment at a level one in a four-level scoring system.
+
+2. Prior to the return of the results of the statewide student assessment in mathematics, elementary schools shall require meetings between teachers and parents of students in third grade who are performing below grade level or who, based on formative or diagnostic assessment, and other indicators, are likely to score in the below basic level on the third grade statewide student assessment in mathematics. At the meeting, the teacher shall inform the parents or guardians of the requirements of this section and the intensive mathematics improvement strategies that will be available to students before fourth grade. The teacher shall also inform the parents and guardians of the school district's grade placement policy for the following year. Schools that have regularly scheduled parent-teacher conferences may use those meetings to comply with this section.
+
+3. For students identified in subsection (2) of this section to be placed in fourth grade, the strategies provided by the school district must include an intensive improvement strategy provided, supported, or contracted by the school district that includes a summer program or other options developed to meet the needs of students to prepare for fourth grade.
+
+4. If a student in third grade scores below grade level on the third grade statewide student assessment in mathematics, and there was no meeting under subsection (2) of this section, the principal or his or her designee shall notify the student's parents or guardians of the following:
+
+    a. The below basic score;
+
+    b. An explanation of the requirements of this section;
+
+    c. The intensive improvement strategy options that are available;
+
+    d. The school district's grade placement policy;
+
+    e. Contact information for a school district employee who can respond to questions and provide additional information; and
+
+    f. A reasonable deadline for obtaining the parent's consent regarding the student's intensive improvement strategies that will be implemented and the student's grade placement.
+
+5. The parent's or guardian's consent must be obtained regarding the appropriate grade placement and the intensive improvement strategy to be implemented. The school district must implement the strategy selected in consultation with the student's parents or guardians. If the school district does not receive a response from a parent by the deadline or a reasonable time thereafter, the principal or his or her designee shall make a decision on the student's grade placement for the following year and the intensive improvement strategies that will be implemented during the following school year.
+
+6. If the school principal and parent cannot agree on the appropriate grade placement and improvement strategies from the list of available options, the parent's request will be honored.
+
+7. If a student does not have a score in mathematics on the third grade statewide student assessment but the district determines, or is able to anticipate, using district or classroom-based formative or diagnostic assessments or another standardized assessment, that the student's performance is equivalent to below basic in mathematics, the policy in subsections (2) through (6) of this section applies.
+
+8. Students with disabilities whose individualized education program includes specially designed instruction in mathematics are exempt from subsections (2) through (7) of this section. Communication and consultation with parents or guardians of such students must occur through the individualized education program process required under chapter 28A.155 RCW and associated administrative rules.
+
+## Section 6
+1. [Empty]
+
+    a. Beginning in the 2026-27 school year, except as otherwise provided in this subsection (1), for any student who received a score of basic or below basic on the third grade statewide student assessment in mathematics in the previous school year, the school district must implement an intensive mathematics improvement strategy from a state menu of best practices established in accordance with subsection (3) of this section or an alternative strategy in accordance with subsection (4) of this section.
+
+    b. Mathematics improvement strategies for students with disabilities whose individualized education program includes specially designed instruction in mathematics are provided in the individualized education program.
+
+2. [Empty]
+
+    a. Also beginning in the 2026-27 school year, in any school where more than 40 percent of the tested students received a score of basic or below basic on the third grade statewide student assessment in mathematics in the previous school year, as calculated under this subsection (2), the school district must implement an intensive mathematics improvement strategy from a state menu of best practices established in accordance with subsection (3) of this section or an alternative strategy in accordance with subsection (4) of this section for all students in grades kindergarten through four at the school.
+
+    b. For the purposes of this subsection (2), the office of the superintendent of public instruction shall exclude the following from the calculation of a school's percentage of tested students receiving a score of basic or below basic on the third grade statewide student assessment:
+
+        i. Students with disabilities whose individualized education program specifies a different standard to measure mathematics performance than is required for the statewide student assessment; and
+
+        ii. Schools with fewer than 10 students in third grade.
+
+3. The office of the superintendent of public instruction shall convene a panel of experts to develop a state menu of best practices and strategies for intensive mathematics improvement designed to assist struggling students in reaching grade level in mathematics by the end of fourth grade. The state menu must also include best practices and strategies to improve the mathematics skills of students who are English language learners and for system improvements that schools and school districts can implement to improve mathematics instruction for all students. The office of the superintendent of public instruction shall publish the state menu by July 1, 2026, and update the state menu by each July 1st thereafter.
+
+4. School districts may use an alternative practice or strategy that is not on a state menu developed under subsection (3) of this section for two school years initially. If the district is able to demonstrate improved outcomes for participating students over the previous two school years at a level commensurate with the best practices and strategies on the state menu, the office of the superintendent of public instruction must approve use of the alternative practice or strategy by the district for two additional school years. Subsequent biannual approval by the superintendent of public instruction to use the alternative practice or strategy is dependent on the district continuing to demonstrate results that equal or exceed those attained under the state menu.
+
+## Section 7
+1. [Empty]
+
+    a. Beginning in the 2015-16 school year, except as otherwise provided in this subsection (1), for any student who received a score of basic or below basic on the third grade statewide student assessment in English language arts in the previous school year, the school district must implement an intensive reading and literacy improvement strategy from a state menu of best practices established in accordance with subsection (3) of this section or an alternative strategy in accordance with subsection (4) of this section.
+
+    b. Reading and literacy improvement strategies for students with disabilities whose individualized education program includes specially designed instruction in reading or English language arts shall be as provided in the individualized education program.
+
+2. [Empty]
+
+    a. Also beginning in the 2015-16 school year, in any school where more than forty percent of the tested students received a score of basic or below basic on the third grade statewide student assessment in English language arts in the previous school year, as calculated under this subsection (2), the school district must implement an intensive reading and literacy improvement strategy from a state menu of best practices established in accordance with subsection (3) of this section or an alternative strategy in accordance with subsection (4) of this section for all students in grades kindergarten through four at the school.
+
+    b. For the purposes of this subsection (2), the office of the superintendent of public instruction shall exclude the following from the calculation of a school's percentage of tested students receiving a score of basic or below basic on the third grade statewide student assessment:
+
+        i. Students enrolled in the transitional bilingual instruction program unless the student has participated in the transitional bilingual instruction program for three school years;
+
+        ii. Students with disabilities whose individualized education program specifies a different standard to measure reading performance than is required for the statewide student assessment; and
+
+        iii. Schools with fewer than ten students in third grade.
+
+3. The office of the superintendent of public instruction shall convene a panel of experts, including the Washington state institute for public policy, to develop a state menu of best practices and strategies for intensive reading and literacy improvement designed to assist struggling students in reaching grade level in reading by the end of fourth grade. The state menu must also include best practices and strategies to improve the reading and literacy of students who are English language learners and for system improvements that schools and school districts can implement to improve reading instruction for all students. The office of the superintendent of public instruction shall publish the state menu by July 1, 2014, and update the state menu by each July 1st thereafter.
+
+4. School districts may use an alternative practice or strategy that is not on a state menu developed under subsection (3) of this section for two school years initially. If the district is able to demonstrate improved outcomes for participating students over the previous two school years at a level commensurate with the best practices and strategies on the state menu, the office of the superintendent of public instruction must approve use of the alternative practice or strategy by the district for two additional school years. Subsequent biannual approval by the superintendent of public instruction to use the alternative practice or strategy is dependent on the district continuing to demonstrate results that equal or exceed those attained under the state menu of best practices under section 6 of this act.

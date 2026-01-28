@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202165)
+* 01/15/2026 [Axios](/org/axios/) - [Washington state lawmakers push limits on masked ICE arrests, other tactics - Axios Seattle](https://www.axios.com/local/seattle/2026/01/15/washington-ice-mask-ban-school-access-worker-notice-bills-immigration#:~:text=Ferguson-backed%20bill)
 * 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=HB%202165)
 
 ## Meetings

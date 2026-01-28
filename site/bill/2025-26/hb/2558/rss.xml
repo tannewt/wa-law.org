@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2558 - Mental health sentencing alt</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2558/</link>
+		<description>Updates about HB 2558</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 10:24:24 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Community Safety.</title>
+			<description>First reading, referred to Community Safety.</description>
+			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-19/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>👎Kari Reardon - WACDL/WDA</title>
+			<description>Kari Reardon signed up to testify Con. They are signed up to represent WACDL/WDA.</description>
+			<pubDate>Thu, 22 Jan 2026 07:40:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kari/Reardon/2026-01-22 07:40:18</guid>
+		</item>
+		<item>
+			<title>👍Breck Lebegue MD MPH - WA State Psychiatric Association</title>
+			<description>Breck Lebegue MD MPH signed up to testify Pro. They are signed up to represent WA State Psychiatric Association.</description>
+			<pubDate>Mon, 26 Jan 2026 08:06:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Breck/Lebegue MD MPH/2026-01-26 08:06:32</guid>
+		</item>
+		<item>
+			<title>👎Katherine Hurley - King County Dept of Public Defense</title>
+			<description>Katherine Hurley signed up to testify Con. They are signed up to represent King County Dept of Public Defense.</description>
+			<pubDate>Mon, 26 Jan 2026 08:32:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Katherine/Hurley/2026-01-26 08:32:45</guid>
+		</item>
+		<item>
+			<title>❓Rachael Rogers - Prosecutor</title>
+			<description>Rachael Rogers signed up to testify Other. They are signed up to represent Prosecutor.</description>
+			<pubDate>Tue, 27 Jan 2026 10:12:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rachael/Rogers/2026-01-27 10:12:54</guid>
+		</item>
+		<item>
+			<title>👍Jana Robison - WA State Psychiatric Association</title>
+			<description>Jana Robison signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 10:24:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jana/Robison/2026-01-27 10:24:24</guid>
+		</item>
+	</channel>
+</rss>

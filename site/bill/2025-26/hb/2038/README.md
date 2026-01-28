@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202038)
+* 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202038)
 * 01/20/2026 [KUOW](/org/kuow/) - [KUOW - Push for youth social media safeguards revived in WA Legislature](https://www.kuow.org/stories/push-for-youth-social-media-safeguards-revived-in-wa-legislature#:~:text=proposed%20a%20new%20tax)
 * 01/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [Push for youth social media safeguards revived in WA Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/jan/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=proposed%20a%20new%20tax)
 * 01/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Push for youth social media safeguards revived in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/19/push-for-youth-social-media-safeguards-revived-in-wa-legislature/#:~:text=proposed%20a%20new%20tax)
@@ -18,9 +19,11 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2038 Youth behavioral health acc.
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Tim Jordan
 
-#### 4 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 

@@ -16,7 +16,7 @@
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 Sign up to testify:
 
-#### 843 👍 - Pro
+#### 1343 👍 - Pro
 Testifying:
 * Joe Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 * Sarah Dickmeyer - Plymouth Housing
@@ -24,15 +24,22 @@ Testifying:
 * 💵Eric Pettigrew - The Moore Group
 * Jameel Brown - 2027146332
 * Tanikka Watford - The Moore Wright Group
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
+* 💵Jenn Henderson - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Nick Fielden - Washington State Attorney General's Office
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 62 👎 - Con
+#### 291 👎 - Con
 Testifying:
 * Gloria Mantz - [City of Spokane Valley](/org/city_of_spokane_valley/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Carol Helland - Director, Planning & Community Development for City of Redmond
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* Kyle Moore - Government Relations Manager/City of Kent
 
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6069 Supportive & emerg. housing
 #### 59 👍 - Pro

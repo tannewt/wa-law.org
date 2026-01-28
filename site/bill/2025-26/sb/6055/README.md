@@ -6,10 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%206055)
+
 ## Meetings
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 6055 Firearms background checks
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 145 👎 - Con

@@ -1,0 +1,21 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6184](/bill/2025-26/sb/6184/)
+
+# SB 6184 - Office of homeless youth
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6184&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings
+### Tue 01/27 01:30 PM - Human Services (HS): SB 6184 Office of homeless youth
+#### 17 👍 - Pro
+Testifying:
+* Gisella Gonzales - Team children
+* Jim Theofelis - NorthStar Advocates
+* Cacey Hanauer-Sutton - Dept of Commerce
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
+* 💵Alex Hur - Communities in Schools of Washington
+
+#### 58 👎 - Con
+
+#### 0 ❓ - Other

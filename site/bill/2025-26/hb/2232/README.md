@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - Health Care & Wellness (HCW): HB 2232 Time-sensitive emergencies
-Sign up to testify:
-
-#### 23 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵Malorie Toman - WA-Chapter, American College of Emergency Physicians
 * Karen Kettner - Emergency Nurses Association
@@ -18,8 +16,9 @@ Testifying:
 * 💵Malorie Toman - WA-Chapter, American College of Emergency Physicians
 * MD, FACEP, Cameron Buck
 
-#### 1 👎 - Con
+#### 48 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Katie Kolan - Washington State Hospital Association (WSHA)
+* Catie Holstein - Washington State Department of Health

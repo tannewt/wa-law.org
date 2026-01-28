@@ -99,6 +99,9 @@
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property.  👎1 
 * 👎💵 Antonio Ginatta
 
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
+* 👎 Niyura Jasso
+
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2279](/bill/2025-26/hb/2279/) - Agriculture/PFAS chemicals 👍1  

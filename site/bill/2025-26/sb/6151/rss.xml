@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6151 - Env. programs/fee accounts</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6151/</link>
+		<description>Updates about SB 6151</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 19 Jan 2026 11:36:35 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Carrie Sessions - WA State Department of Ecology</title>
+			<description>Carrie Sessions signed up to testify Pro. They are signed up to represent WA State Department of Ecology.</description>
+			<pubDate>Sun, 18 Jan 2026 05:01:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carrie/Sessions/2026-01-18 05:01:18</guid>
+		</item>
+		<item>
+			<title>👍💵Travis Dutton - Washington State Association of Counties</title>
+			<description>Travis Dutton signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 11:36:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Travis/Dutton/2026-01-19 11:36:35</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,116 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6320](/bill/2025-26/sb/6320/) > [Original Bill](/bill/2025-26/sb/6320/1/)
+
+# SB 6320 - Alternative learning
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6320.pdf)
+
+## Section 1
+(1) Beginning in calendar year 2020 and each calendar year thereafter, the state must provide state local effort assistance funding to supplement school district enrichment levies as provided in this section.
+
+## Section 2
+1. School districts may petition the office of the superintendent of public instruction for restoration of funding under RCW 28A.500.015(4)(f) on a per-student basis.
+
+2. The office of the superintendent of public instruction may restore funding to districts under this section only for students who:
+
+    a. Reside within the boundaries of the petitioning district; and
+
+    b. Have provided the district with a written certification signed by a health care practitioner attesting that the student is unable to attend courses at a school building in their resident school district for reasons of immunosuppression, severe and chronic illness, severe injury, or severe bullying that has resulted in a documented medical condition.
+
+3. For purposes of this section, "health care practitioner" means a physician licensed under chapter 18.71 or 18.57 RCW, a naturopath licensed under chapter 18.36A RCW, a physician assistant licensed under chapter 18.71A RCW, or an advanced registered nurse practitioner licensed under chapter 18.79 RCW.
+
+4. The superintendent of public instruction may adopt rules to implement this section.
+
+## Section 3
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. [Empty]
+
+    a. "Multidistrict online provider" means:
+
+        i. A public or nonprofit organization that enters into a contract with a school district to provide online courses or programs to K-12 students from more than one school district;
+
+        ii. A public or nonprofit organization that enters into contracts with multiple school districts to provide online courses or programs to K-12 students from those districts; or
+
+        iii. Except as provided in (b) of this subsection, a school district that provides online courses or programs to students who reside outside the geographic boundaries of the school district.
+
+    b. "Multidistrict online provider" does not include a school district online learning program in which fewer than ten percent of the students enrolled in the program are from other districts under the interdistrict student transfer provisions of RCW 28A.225.225. "Multidistrict online provider" also does not include regional online learning programs that are jointly developed and implemented by two or more school districts or an educational service district through an interdistrict cooperative program agreement that addresses, at minimum, how the districts share student full-time equivalency for state basic education funding purposes and how categorical education programs, including special education, are provided to eligible students.
+
+2. [Empty]
+
+    a. "Online course" means a course or grade-level coursework where:
+
+        i. More than half of the course content is delivered electronically using the internet or other computer-based methods;
+
+        ii. More than half of the teaching is conducted from a remote location through an online course learning management system or other online or electronic tools;
+
+        iii. A certificated teacher has the primary responsibility for the student's instructional interaction. Instructional interaction between the teacher and the student includes, but is not limited to, direct instruction, review of assignments, assessment, testing, progress monitoring, and educational facilitation; and
+
+        iv. Students have access to the teacher synchronously, asynchronously, or both.
+
+    b. "Online school program" means a school program that offers a sequential set of online courses or grade-level coursework that may be taken in a single school term or throughout the school year in a manner that could provide a full-time basic education program if so desired by the student. Students may enroll in the program as part-time or full-time students.
+
+    c. An online course or online school program may be delivered to students at school as part of the regularly scheduled school day. An online course or online school program also may be delivered to students, in whole or in part, independently from a regular classroom schedule, but such courses or programs must comply with RCW 28A.232.010 and associated rules adopted by the superintendent of public instruction to qualify for state basic education funding.
+
+3. "Online provider" means any public or nonprofit provider of an online course or program, including multidistrict online providers under RCW 28A.250.020, all school district online learning programs, and all regional online learning programs.
+
+## Section 4
+1. The definitions in this subsection apply throughout this chapter unless the context clearly requires otherwise.
+
+    a. "Alternative learning experience course" means a course, or for grades kindergarten through eight grade-level coursework, that is a delivery method for the program of basic education and is:
+
+        i. Provided in whole or in part independently from a regular classroom setting or schedule, but may include some components of direct instruction;
+
+        ii. Supervised, monitored, assessed, evaluated, and documented by a certificated teacher employed by the school district or under contract as permitted by applicable rules; and
+
+        iii. Provided in accordance with a written student learning plan that is implemented pursuant to the school district's policy and rules adopted by the superintendent of public instruction for alternative learning experiences.
+
+    b. "In-person" means face-to-face instructional contact in a physical classroom environment.
+
+    c. "Instructional contact time" means instructional time with a certificated teacher. Instructional contact time must be for the purposes of actual instruction, review of assignments, testing, evaluation of student progress, or other learning activities or requirements identified in the student's written student learning plan. Instructional contact time must be related to an alternative learning experience course identified in the student's written student learning plan. Instructional contact time may occur in a group setting between the teacher and multiple students and may be delivered either in-person or remotely using technology.
+
+    d. "Online course" means an alternative learning experience course that has the same meaning as provided in RCW 28A.250.010.
+
+    e. "Remote course" means an alternative learning experience course that is not an online course where the written student learning plan for the course does not include a requirement for in-person instructional contact time. No minimum in-person instructional contact time is required. The remote course must be provided by a public or nonprofit organization.
+
+    f. "Site-based course" means an alternative learning experience course where the written student learning plan for the course includes a requirement for in-person instructional contact time.
+
+    g. "Total weekly time" means the estimated average hours per school week the student will engage in learning activities to meet the requirements of the written student learning plan.
+
+2. School districts may claim state funding under RCW 28A.232.020, to the extent otherwise allowed by state law including the provisions of RCW 28A.250.060, for students enrolled in remote, site-based, or online alternative learning experience courses. High school courses must meet district or state graduation requirements and be offered for high school credit.
+
+3. School districts that offer alternative learning experience courses may not provide any compensation, reimbursement, gift, reward, or gratuity to any parents, guardians, or students for participation in the courses. School district employees are prohibited from receiving any compensation or payment as an incentive to increase student enrollment of out-of-district students in alternative learning experience courses. This prohibition includes, but is not limited to, providing funds to parents, guardians, or students for the purchase of educational materials, supplies, experiences, services, or technological equipment. A district may purchase educational materials, equipment, or other nonconsumable supplies for students' use in alternative learning experience courses if the purchase is consistent with the district's approved curriculum, conforms to applicable laws and rules, and is made in the same manner as such purchases are made for students in the district's regular instructional program. Items so purchased remain the property of the school district upon program completion. School districts may not purchase or contract for instructional or cocurricular experiences and services that are included in an alternative learning experience written student learning plan, including but not limited to lessons, trips, and other activities, unless substantially similar experiences and services are available to students enrolled in the district's regular instructional program. School districts that purchase or contract for such experiences and services for students enrolled in an alternative learning experience course must submit an annual report to the office of the superintendent of public instruction detailing the costs and purposes of the expenditures. These requirements extend to contracted providers of alternative learning experience courses, and each district shall be responsible for monitoring the compliance of its providers with these requirements. However, nothing in this subsection shall prohibit school districts from contracting with school district employees to provide services or experiences to students, or from contracting with online providers approved by the office of the superintendent of public instruction pursuant to chapter 28A.250 RCW.
+
+4. Each school district offering or contracting to offer alternative learning experience courses must:
+
+    a. Report annually to the superintendent of public instruction regarding the course types and offerings, and number of students participating in each;
+
+    b. Document the district of residence for each student enrolled in an alternative learning experience course; and
+
+    c. Beginning in the 2013‑14 school year and continuing through the 2016‑17 school year, pay costs associated with a biennial measure of student outcomes and financial audit of the district's alternative learning experience courses by the office of the state auditor.
+
+5. A school district offering or contracting to offer an alternative learning experience course to a nonresident student must inform the resident school district if the student drops out of the course or is otherwise no longer enrolled.
+
+6. School districts must assess the educational progress of enrolled students at least annually, using, for full-time students, the state assessment for the student's grade level and using any other annual assessments required by the school district. Part-time students must also be assessed at least annually. However, part-time students who are either receiving home-based instruction under chapter 28A.200 RCW or who are enrolled in an approved private school under chapter 28A.195 RCW are not required to participate in the assessments required under chapter 28A.655 RCW. The rules must address how students who reside outside the geographic service area of the school district are to be assessed.
+
+7. Beginning with the 2013-14 school year, school districts must designate alternative learning experience courses as such when reporting course information to the office of the superintendent of public instruction under RCW 28A.300.500.
+
+8. [Empty]
+
+    a. The superintendent of public instruction shall adopt rules necessary to implement this section.
+
+    b. Rules adopted for weekly direct personal contact requirements and monthly progress evaluation must be flexible and reflect the needs of the student and the student's individual learning plan rather than specifying an amount of time. In addition, the rules must reduce documentation requirements, particularly for students making satisfactory progress, based on the unique aspects of the alternative learning experience course types defined in this section and taking into consideration the technical and system capabilities associated with the different course types.
+
+    c. The rules must establish procedures that address how the counting of students must be coordinated by resident and nonresident districts for state funding so that no student is counted for more than one full‑time equivalent in the aggregate.
+
+## Section 5
+1. The superintendent of public instruction, in collaboration with the state board of education, shall develop and implement approval criteria and a process for approving online providers; a process for monitoring and if necessary rescinding the approval of courses or programs offered by an online provider; and an appeals process. The criteria and processes for multidistrict online providers shall be adopted by rule by December 1, 2009.
+
+2. No private or for-profit entity may be approved as an online provider or multidistrict online provider under this section. The superintendent of public instruction must rescind the approval of any private or for-profit online providers or multidistrict online providers no later than August 1, 2026.
+
+3. When developing the approval criteria, the superintendent of public instruction shall require that providers offering online courses or programs have accreditation, or are candidates for accreditation, through the Northwest accreditation commission or another national, regional, or state accreditation program listed by the office of the superintendent of public instruction. In addition to other criteria, the approval criteria shall include the degree of alignment with state academic standards and require that all teachers be certificated in accordance with Washington state law. When reviewing online providers that offer high school courses, the superintendent of public instruction shall assure that the courses offered by the provider are eligible for high school credit. However, final decisions regarding whether credit meets the school district's graduation requirements shall remain the responsibility of the school districts.
+
+4. Initial approval of online providers by the superintendent of public instruction shall be for four years. The superintendent of public instruction shall develop a process for the renewal of approvals and for rescinding approvals based on noncompliance with approval requirements. Any multidistrict online provider that was approved by the digital learning commons or accredited by the Northwest association of accredited schools before July 26, 2009, and that meets the teacher certification requirements of subsection (3) of this section, is exempt from the initial approval process under this section until August 31, 2012, but must comply with the process for renewal of approvals and must comply with approval requirements.
+
+5. The superintendent of public instruction shall make the first round of decisions regarding approval of multidistrict online providers by April 1, 2010. The first round of decisions regarding approval of online providers that are not multidistrict online providers shall be made by April 1, 2013. Thereafter, the superintendent of public instruction shall make annual approval decisions no later than November 1st of each year.
+
+6. The superintendent of public instruction shall establish an online learning advisory committee within existing resources that shall provide advice to the superintendent regarding the approval criteria, major components of the website, the model school district policy, model agreements, and other related matters. The committee shall include a representative of each of the following groups: Public online providers, parents of online students, accreditation organizations, educational service districts, school principals, teachers, school administrators, school board members, institutions of higher education, and other individuals as determined by the superintendent. Members of the advisory committee shall be selected by the superintendent based on nominations from statewide organizations, shall serve three-year terms, and may be reappointed. The superintendent shall select the chair of the committee.

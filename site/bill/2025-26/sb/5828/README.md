@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205828)
 * 01/22/2026 [Washington State Standard](/org/washington_state_standard/) - [Lawmakers look to reverse financial aid cuts for students at WA’s private colleges • Washington State Standard](https://washingtonstatestandard.com/2026/01/22/lawmakers-look-to-reverse-financial-aid-cuts-for-students-at-was-private-colleges/#:~:text=A%20bill)
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to update WA College Grant, College Bound Scholarship awards for private nonprofit institutions heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/15/nobles-bill-to-update-wa-college-grant-college-bound-scholarship-awards-for-private-nonprofit-institutions-heard-in-committee/#:~:text=Senate%20Bill%205828)
 

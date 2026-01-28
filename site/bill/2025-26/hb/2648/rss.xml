@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2648 - Immigration enf. interaction</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2648/</link>
+		<description>Updates about HB 2648</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 03:49:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Community Safety.</title>
+			<description>First reading, referred to Community Safety.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202648</guid>
+		</item>
+		<item>
+			<title>WA leaders intensify opposition to federal immigration enforcement efforts | Washington | thecentersquare.com</title>
+			<description>News article "WA leaders intensify opposition to federal immigration enforcement efforts | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 26 Jan 2026 14:50:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0d60b7f8-7b40-4148-b413-1d394c57d0cd.html#:~:text=HB%202648</guid>
+		</item>
+		<item>
+			<title>👎Rafael Padilla - Washington Association of Sheriffs and Police Chiefs</title>
+			<description>Rafael Padilla signed up to testify Con. They are signed up to represent Washington Association of Sheriffs and Police Chiefs.</description>
+			<pubDate>Tue, 27 Jan 2026 03:49:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rafael/Padilla/2026-01-27 03:49:00</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,137 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2464](/bill/2025-26/hb/2464/) > [Original Bill](/bill/2025-26/hb/2464/1/)
+
+# HB 2464 - Private detention/reports
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2464.pdf)
+
+## Section 1
+1. This section does not apply to private detention facilities operating pursuant to a valid contract that was in effect prior to January 1, 2023, for the duration of that contract, not to include any extensions or modifications made to, or authorized by, that contract.
+
+2. A private detention facility operating pursuant to a contract or agreement with a federal, state, or local government shall comply with the following:
+
+    a. The private detention facility shall:
+
+        i. Comply with food service rules under chapters 246-215 and 246-217 WAC;
+
+        ii. Designate an individual responsible for managing and supervising food services 24 hours per day, including:
+
+(A) Incorporating ongoing recommendations of a dietitian;
+
+(B) Serving at least three meals a day at regular intervals with 15 or fewer hours between the evening meal and breakfast, unless the facility provides a nutritious snack between the evening meal and breakfast;
+
+(C) Providing well-balanced meals and nourishments that meet the current recommendations published in recommended dietary allowances by the national research council, 10th edition, 1989, adjusted for the detained person's age, sex, and activities unless contraindicated;
+
+(D) Making nourishing snacks available as needed for detained persons, and posted as part of the menu;
+
+(E) Preparing and serving therapeutic diets according to written medical orders;
+
+(F) Preparing and serving meals under the supervision of food service staff;
+
+(G) Maintaining a current diet manual, approved in writing by the dietitian and medical staff, for use in planning and preparing therapeutic diets; and
+
+(H) Ensuring all menus: Are written at least one week in advance; indicate the date, day of week, month, and year; include all foods and snacks served that contribute to nutritional requirements; provide a variety of foods; are approved in writing by the dietitian; are posted in a location easily accessible to detained persons at the facility; and are retained for one year;
+
+        iii. Substitute foods, when necessary, of comparable nutrient value and record changes on the menu;
+
+        iv. Allow sufficient time for detained persons to consume meals;
+
+    v. Ensure staff from dietary and food services are present in the facility during all meal times; and
+
+    vi. Keep policies and procedures pertaining to food storage, preparation, and cleaning food service equipment and work areas in the food service area for easy reference by dietary staff at all times;
+
+    b. The private detention facility shall provide a readily available telephone for detained persons to make and receive confidential calls, and make a nonpay telephone or equivalent communication device readily accessible on each floor occupied by a detained person for emergency use;
+
+    c. The private detention facility shall provide a visiting area allowing privacy for detained persons and visitors;
+
+    d. The private detention facility shall report to the department of health and the law enforcement agency with primary jurisdiction in the area the facility is located, by the end of the next business day of the incident occurring, serious or undesirable outcomes that occur in the facility, including:
+
+        i. Allegations of abuse or neglect;
+
+        ii. Death;
+
+        iii. Suicide;
+
+        iv. Injuries resulting in an inpatient hospital stay; and
+
+    v. Disruption of services through internal or external emergency or disaster;
+
+    e. The private detention facility shall develop and implement the written policies and procedures consistent with assuring the rights of detained persons, protecting against abuse and neglect, and reporting suspected incidents, and post those policies and procedures in a prominent place for detained persons at the facility to read;
+
+    f. The private detention facility shall employ sufficient, qualified staff to:
+
+        i. Provide adequate services to detained persons;
+
+        ii. Maintain the facility free of safety hazards; and
+
+        iii. Implement fire and disaster plans;
+
+    g. The private detention facility shall provide and document orientation and appropriate training for all staff, including:
+
+        i. Organization of the facility;
+
+        ii. Physical layout of facility, including buildings, departments, exits, and services;
+
+        iii. Fire and disaster plans, including monthly drills;
+
+        iv. Infection control;
+
+    v. Specific duties and responsibilities;
+
+    vi. Policies, procedures, and equipment necessary to perform duties;
+
+    vii. Policies related to the rights of detained persons and protecting against abuse and neglect;
+
+    viii. Managing the behavior of detained persons; and
+
+        ix. Appropriate training for expected duties; and
+
+    h. The private detention facility shall establish and implement an effective facility-wide infection control program including, at a minimum, the following:
+
+        i. Written policies and procedures describing:
+
+(A) Types of surveillance used to monitor rates of infections originating at the facility;
+
+(B) Systems to collect and analyze data; and
+
+(C) Activities to prevent and control infections;
+
+        ii. A review process to determine if staff and detained person infections originated at the facility;
+
+        iii. A procedure for reviewing and approving infection control aspects of policies and procedures used in each area of the facility;
+
+        iv. A procedure to monitor the physical environment of the facility for situations which may contribute to the spread of infectious diseases; and
+
+    v. Provisions for:
+
+(A) Providing consultation regarding care practices, equipment, and supplies which may influence the risk of infection;
+
+(B) Providing consultation regarding appropriate procedures and products for cleaning, disinfecting, and sterilizing;
+
+(C) Providing infection control information for orientation and in-service education for staff providing direct care;
+
+(D) Making recommendations, consistent with federal, state, and local laws and rules, for methods of safe and sanitary disposal of sewage, solid and liquid wastes, and infectious wastes, including safe management of sharps;
+
+(E) Identifying specific precautions to prevent transmission of infections; and
+
+(F) Coordinating employee activities to control exposure and transmission of infections to or from employees and others performing services.
+
+3. The office of the attorney general may enforce violations of this section on its own initiative or in response to complaints or violations.
+
+## Section 2
+Beginning November 1, 2026, and every year thereafter, each law enforcement agency in the state having one or more private detention facilities in its jurisdiction shall submit an annual report to the department of health containing the following information for each facility in its jurisdiction:
+
+1. The number of calls that were received related to incidents at or involving the facility; and
+
+2. For each such call:
+
+    a. Whether the agency responded to the call or conducted any further investigation;
+
+    b. Whether law enforcement spoke with the victim;
+
+    c. Whether the victim was provided a copy of the police report for the incident;
+
+    d. Whether the agency received an internal report or other information from the facility related to the incident;
+
+    e. Whether the agency referred the case for prosecution; and
+
+    f. Whether a prosecution resulted.

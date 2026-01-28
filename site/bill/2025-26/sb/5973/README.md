@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/26/2026 [KUOW](/org/kuow/) - [KUOW - Democrats’ plan to revamp WA's initiative process stirs backlash](https://www.kuow.org/stories/democrats-plan-to-revamp-wa-s-initiative-process-stirs-backlash#:~:text=Senate%20Bill%205973)
 * 01/26/2026 [Washington State Standard](/org/washington_state_standard/) - [Democrats’ plan to revamp WA’s initiative process stirs backlash • Washington State Standard](https://washingtonstatestandard.com/2026/01/26/democrats-plan-to-revamp-was-initiative-process-stirs-backlash/#:~:text=Senate%20Bill%205973)
 * 01/21/2026 [The Washington Observer](/org/the_washington_observer/) - [A progressive bid to limit a less-useful initiative process](https://washingtonobserver.substack.com/p/a-progressive-bid-to-limit-a-less#:~:text=Senate%20Bill%205973)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session Is Officially Underway - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/14/the-2026-legislative-session-is-officially-underway/#:~:text=SB%205973)

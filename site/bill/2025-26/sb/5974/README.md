@@ -1,13 +1,17 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5974](/bill/2025-26/sb/5974/)
 
-# SB 5974 - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.
+# SB 5974 - Local law enforcement
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5974&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington Sheriffs Targeted Again: Is HB 2387 Really Better Than SB 5974? - Conservative Ladies of Washington](https://conservativeladiesofwa.com/washington-sheriffs-hb-2387-vs-sb-5974/#:~:text=SB%205974)
 * 01/22/2026 [MyNorthwest](/org/mynorthwest/) - [Taking aim at ICE: State bill would ban former agents from being hired as police officers - MyNorthwest.com](https://mynorthwest.com/local/ice-bill-police-officers/4191755#:~:text=Senate%20Bill%205974)
+* 01/20/2026 [MyNorthwest](/org/mynorthwest/) - [Sheriff Swank slams law enforcement oversight panel: 'They don't understand what's at stake here' - MyNorthwest.com](https://mynorthwest.com/john-curley/sheriff-swank-law-enforcement/4190758#:~:text=SB%205974)
+* 01/16/2026 [MyNorthwest](/org/mynorthwest/) - [Pierce County sheriff's comments may get him kicked out of police group - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/pierce-county-sheriff-7/4189076#:~:text=SB%205974)
 * 01/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Law enforcement group threatens to expel Pierce County sheriff over fiery testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_da2387f5-b7f8-4c2a-9c58-9dfc7a34014f.html#:~:text=Senate%20Bill%205974)
 * 01/15/2026 [FOX13](/org/fox13/) - [Washington bill changing sheriff eligibility draws debate | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-bill-sheriff-eligibility-debate#:~:text=Senate%20Bill%205974)
 * 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%205974%20(Lovick))

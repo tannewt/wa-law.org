@@ -108,6 +108,9 @@
 
 ### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍1  
 
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
+* 👎 Eric ffitch
+
 ### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
 * 👍💵 James Cockburn
 
@@ -235,6 +238,8 @@
 * ❓💵 Carly Michiels
 
 ### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
+
+### [SB 6000](/bill/2025-26/sb/6000/) - OPMA/natural disasters 👍1  
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 

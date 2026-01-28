@@ -13,19 +13,20 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Tribal Relations (SGOV): HB 2235 PRA firearm exemptions
-Sign up to testify:
-
-#### 191 👍 - Pro
+#### 887 👍 - Pro
 Testifying:
 * Michael McKinley
+* Daniel Mitchell - Washington Civil Rights Association
+* Justin Whitaker
 
-#### 4 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Joe Kunzler - Concerned Citizen
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn
+* Arthur West
 
 ### Fri 01/23 08:00 AM - State Government & Tribal Relations (SGOV): HB 2235 PRA firearm exemptions
 #### 3 👍 - Pro

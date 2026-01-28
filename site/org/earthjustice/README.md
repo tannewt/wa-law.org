@@ -44,6 +44,8 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 * 👍 Eric Gonzalez Alfaro
 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
+
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  

@@ -1,0 +1,66 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2563](/bill/2025-26/hb/2563/) > [Original Bill](/bill/2025-26/hb/2563/1/)
+
+# HB 2563 - Unemployment comp. notices
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2563.pdf)
+
+## Section 1
+1. The agency or the office of administrative hearings shall set the time and place of the hearing and give not less than seven days advance written notice to all parties and to all persons who have filed written petitions to intervene in the matter.
+
+2. The notice shall include:
+
+    a. Unless otherwise ordered by the presiding officer, the names and mailing addresses of all parties to whom notice is being given and, if known, the names and addresses of their representatives;
+
+    b. If the agency intends to appear, the mailing address and telephone number of the office designated to represent the agency in the proceeding;
+
+    c. The official file or other reference number and the name of the proceeding;
+
+    d. The name, official title, mailing address, and telephone number of the presiding officer, if known;
+
+    e. A statement of the time, place and nature of the proceeding;
+
+    f. A statement of the legal authority and jurisdiction under which the hearing is to be held;
+
+    g. A reference to the particular sections of the statutes and rules involved;
+
+    h. A short and plain statement of the matters asserted by the agency; and
+
+        i. A statement that a party who fails to attend or participate in a hearing or other stage of an adjudicative proceeding may be held in default in accordance with this chapter.
+
+3. If the agency is unable to state the matters required by subsection (2)(h) of this section at the time the notice is served, the initial notice may be limited to a statement of the issues involved. If the proceeding is initiated by a person other than the agency, the initial notice may be limited to the inclusion of a copy of the initiating document. Thereafter, upon request, a more definite and detailed statement shall be furnished.
+
+4. The notice may include any other matters considered desirable by the agency.
+
+5. In cases arising under Title 50 RCW, the notice may be served electronically during a pilot period through June 30, 2029. In all other cases, the notice may be served on a party via electronic distribution, with that party's agreement.
+
+## Section 2
+1. Except as provided in subsection (2) of this section:
+
+    a. If the presiding officer is the agency head or one or more members of the agency head, the presiding officer may enter an initial order if further review is available within the agency, or a final order if further review is not available;
+
+    b. If the presiding officer is a person designated by the agency to make the final decision and enter the final order, the presiding officer shall enter a final order; and
+
+    c. If the presiding officer is one or more administrative law judges, the presiding officer shall enter an initial order.
+
+2. With respect to agencies exempt from chapter 34.12 RCW or an institution of higher education, the presiding officer shall transmit a full and complete record of the proceedings, including such comments upon demeanor of witnesses as the presiding officer deems relevant, to each agency official who is to enter a final or initial order after considering the record and evidence so transmitted.
+
+3. Initial and final orders shall include a statement of findings and conclusions, and the reasons and basis therefor, on all the material issues of fact, law, or discretion presented on the record, including the remedy or sanction and, if applicable, the action taken on a petition for a stay of effectiveness. Any findings based substantially on credibility of evidence or demeanor of witnesses shall be so identified. Findings set forth in language that is essentially a repetition or paraphrase of the relevant provision of law shall be accompanied by a concise and explicit statement of the underlying evidence of record to support the findings. The order shall also include a statement of the available procedures and time limits for seeking reconsideration or other administrative relief. An initial order shall include a statement of any circumstances under which the initial order, without further notice, may become a final order.
+
+4. Findings of fact shall be based exclusively on the evidence of record in the adjudicative proceeding and on matters officially noticed in that proceeding. Findings shall be based on the kind of evidence on which reasonably prudent persons are accustomed to rely in the conduct of their affairs. Findings may be based on such evidence even if it would be inadmissible in a civil trial. However, the presiding officer shall not base a finding exclusively on such inadmissible evidence unless the presiding officer determines that doing so would not unduly abridge the parties' opportunities to confront witnesses and rebut evidence. The basis for this determination shall appear in the order.
+
+5. Where it bears on the issues presented, the agency's experience, technical competency, and specialized knowledge may be used in the evaluation of evidence.
+
+6. If a person serving or designated to serve as presiding officer becomes unavailable for any reason before entry of the order, a substitute presiding officer shall be appointed as provided in RCW 34.05.425. The substitute presiding officer shall use any existing record and may conduct any further proceedings appropriate in the interests of justice.
+
+7. The presiding officer may allow the parties a designated time after conclusion of the hearing for the submission of memos, briefs, or proposed findings.
+
+8. [Empty]
+
+    a. Except as otherwise provided in (b) of this subsection, initial or final orders shall be served in writing within 90 days after conclusion of the hearing or after submission of memos, briefs, or proposed findings in accordance with subsection (7) of this section unless this period is waived or extended for good cause shown. In cases arising under Title 50 RCW, the initial order may be served on a party electronically during a pilot period through June 30, 2029. In all other cases, the initial or final order may be served on a party via electronic distribution, with that party's agreement.
+
+    b. This subsection does not apply to the final order of the shorelines hearings board on appeal under RCW 90.58.180(3).
+
+9. The presiding officer shall cause copies of the order to be served on each party and the agency.
+
+## Section 3
+This act takes effect July 1, 2026.

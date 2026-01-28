@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%206014)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to clarify pregnancy accommodation protections heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/16/nobles-bill-to-clarify-pregnancy-accommodation-protections-heard-in-committee/#:~:text=Senate%20Bill%206014)
 
 ## Meetings

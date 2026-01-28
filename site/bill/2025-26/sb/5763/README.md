@@ -8,19 +8,20 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 5763 Law enf. aviation support
-Sign up to testify:
-
-#### 94 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Susanna Johnson - Snohomish County Sheriff
 * David Ellis - Spokane County Sheriff's Office
 * Rob Martin - Snohomish County Sheriff's Office
 * Patricia Cole-Tindall - King County Sheriff's Office
 * Mayor Sean Kelly - [City of Maple Valley](/org/city_of_maple_valley/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mike Morrison - Chelan County Sheriff's Office
+* Einar Espeland - snohomish county sheriffs office
 
-#### 0 👎 - Con
+#### 57 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
 * George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)

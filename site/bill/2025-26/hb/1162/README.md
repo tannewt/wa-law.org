@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/02/2026 [MyNorthwest](/org/mynorthwest/) - [WA’s new laws for 2026: Minimum wage hike, nicotine tax, more worker protections](https://mynorthwest.com/mynorthwest-politics/washington-laws-2026/4180467#:~:text=House%20Bill%201162)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201162)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201162)
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201162)

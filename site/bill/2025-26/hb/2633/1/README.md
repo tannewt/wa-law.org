@@ -1,0 +1,647 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2633](/bill/2025-26/hb/2633/) > [Original Bill](/bill/2025-26/hb/2633/1/)
+
+# HB 2633 - Mattress producer resp.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2633.pdf)
+
+## Section 1
+The legislature finds that:
+
+1. While mattresses are generally made of recyclable materials, the majority of mattresses are landfilled. There are few options for mattress recycling in Washington.
+
+2. Mattresses are bulky products that are difficult to handle, on average weighing 55 pounds and taking up about one cubic yard of landfill space, float to the surface of landfills and are challenging to manage at transfer stations. They are illegally dumped along our roadways and in remote locations.
+
+3. There are economic benefits to increasing mattress recycling. Most mattress recyclers use manual labor to dismantle a mattress, which involves cutting it open, separating the components, and bailing them to then be recycled by other commodity recyclers into useful products elsewhere. Increasing the number of mattresses recycled will increase recycling jobs and reduce the environmental and economic costs of landfilling and illegal dumping.
+
+4. There are environmental benefits to increasing mattress recycling, which captures useful materials such as metal, foam, wood, and cotton for recycling, reduces climate emissions associated with production of new materials, and avoids their placement in landfills. Mattress recycling also avoids damage to solid waste equipment.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Brand" means a name, symbol, word, or mark that attributes a mattress as the producer of the mattress.
+
+2. "Consumer" means a person, including individuals and business entities, that purchase a mattress for use in this state.
+
+3. [Empty]
+
+    a. "Discarded mattress" means a mattress that has been used and abandoned or discarded in this state.
+
+    b. "Discarded mattress" does not include a mattress transported from outside of the state to be discarded in this state.
+
+4. "Department" means the department of ecology.
+
+5. "Distributor" means a person that has a contractual relationship with one or more manufacturers to market and sell mattresses to retailers in Washington.
+
+6. "Environmentally sound management practices" means practices that include, but are not limited to:
+
+    a. Keeping detailed documentation of the methods used to:
+
+        i. Manage discarded mattresses to the extent feasible, cost-effective, and environmentally efficient; and
+
+        ii. Track and document the fate of discarded mattresses from collection through final disposition within this state;
+
+    b. Adequate record keeping;
+
+    c. Performance audits and inspections of recyclers, haulers, and other parties as determined by a stewardship organization;
+
+    d. Compliance with worker health and safety requirements; and
+
+    e. Maintenance of adequate liability insurance for a stewardship organization and contractors working for the stewardship organization.
+
+7. "Final disposition" means the point beyond which no further processing takes place and a discarded mattress and its components have been recycled, renovated, or disposed of.
+
+8. "Foundation" means a ticking-covered structure that is used to support a mattress or sleep surface and that may be constructed of frames, foam, box springs, or other materials, used alone or in combination.
+
+9. "Government entity" means any:
+
+    a. County, city, town, or other local government, including any municipal corporation, quasi-municipal corporation, or special purpose district, or any office, department, division, bureau, board, commission, or agency thereof, or other local public agency;
+
+    b. State office, department, division, bureau, board, commission, or other state agency;
+
+    c. Federally recognized Indian tribe whose traditional lands and territories include parts of Washington; or
+
+    d. Federal office, department, division, bureau, board, commission, or other federal agency.
+
+10. "Introduce" means to sell, offer for sale, distribute, or ship a product within or into this state, irrespective of the selling technique used, including that of remote sale.
+
+11. [Empty]
+
+    a. "Mattress" means:
+
+        i. A resilient material or combination of materials that is enclosed by ticking, is used alone or in combination with other products, and is intended or promoted for sleeping upon;
+
+        ii. A foundation; or
+
+        iii. The mattress component of a mattress-containing furniture piece, such as a sofa bed, where the mattress is easily separable from the rest of the furniture piece without specialized tools.
+
+    b. "Mattress" does not include:
+
+        i. A sleeping bag;
+
+        ii. A pillow;
+
+        iii. A waterbed, air mattress, or other product that contains liquid or gas-filled ticking and that does not contain upholstery material between the ticking and the mattress core; or
+
+        iv. A mattress-containing furniture piece, such as a sofa bed, where the mattress component is:
+
+(A) Not easily separable from the rest of the furniture piece without specialized tools; or
+
+(B) No longer included in the furniture piece.
+
+12. "Mattress management hierarchy" means a management system of mattresses prioritized in descending order as follows:
+
+    a. Waste prevention and reduction;
+
+    b. Reuse, when reuse is appropriate;
+
+    c. Recycling, as defined in this chapter; and
+
+    d. Other means of end-of-life management, which may only be utilized after demonstrating to the department that it is not feasible to manage the mattresses under the higher priority options in (a) through (c) of this subsection.
+
+13. "Person" means an individual, firm, corporation, association, partnership, consortium, joint venture, or commercial entity.
+
+14. "Plan" means a description of the approach and activities developed by a producer responsibility organization to fulfill the requirements and to carry out the responsibilities of producers under this chapter.
+
+15. "Producer" means the person responsible for compliance with requirements under this chapter for a covered mattress introduced into the state that:
+
+    a. Is the owner of a trademark or brand under which a mattress is introduced, whether or not such trademark or brand is registered in this state;
+
+    b. If there is no person to which (a) of this subsection applies, is the person who manufactures the mattress;
+
+    c. If there is no person to which (a) or (b) of this subsection applies, is the person who imports the mattress into the United States;
+
+    d. If there is no person described in (a) through (c) of this subsection with a commercial presence within the state, is the person who first introduces the mattress in this state.
+
+16. "Producer responsibility organization" means:
+
+    a. A nonprofit organization that qualifies for a tax exemption under 26 U.S.C. Sec. 501(c)(3) of the federal internal revenue code and is designated by a producer or group of producers to fulfill the requirements of this chapter;
+
+    b. A producer that registers with the department as a producer responsibility organization; or
+
+    c. An organization as defined by the department by rule.
+
+17. "Program" means a mattress stewardship program implemented by a producer responsibility organization consistent with an approved producer responsibility plan under this chapter.
+
+18. "Recycler" means a person that recycles discarded mattresses.
+
+19. "Recycling" means any process in which discarded mattresses, components, and by-products may lose their original identity or form as they are dismantled and their materials transformed into new, usable, or marketable materials.
+
+20. [Empty]
+
+    a. "Renovate" means to alter a discarded mattress for resale through adding to or replacing the ticking or filling, adding additional filling, or replacing components.
+
+    b. "Renovate" does not mean:
+
+        i. Stripping a discarded mattress of the ticking or filling without adding new material; or
+
+        ii. The sanitization or sterilization of a discarded mattress without other alteration to the discarded mattress.
+
+21. "Retailer" means any person that offers a mattress for sale at retail in Washington.
+
+22. "Service provider" means an entity that serves as a collection site for mattresses or a processor of mattresses. A government entity that provides, contracts for, or otherwise arranges for another party to provide services within its jurisdiction may be a service provider regardless of whether it provided, contracted for, or otherwise arranged for similar services before the approval of the applicable plan.
+
+23. [Empty]
+
+    a. "Ticking" means the outermost layer of fabric, or related material, of a mattress.
+
+    b. "Ticking" does not include any layer of fabric or material quilted together with, or otherwise attached to, the outermost layer of fabric or material of a mattress.
+
+## Section 3
+1. A producer of a mattress introduced for use in this state shall implement a producer responsibility program through participation in and appropriate funding of a producer responsibility organization to develop and carry out implementation of an approved producer responsibility plan.
+
+2. By January 1, 2027, each producer must appoint a producer responsibility organization under which it will participate.
+
+3. By July 1, 2027, and annually thereafter, each producer must be listed as a member in good standing in a registration submitted to the department by a producer responsibility organization approved to operate under this chapter.
+
+4. Beginning January 1, 2031, a producer that is not a member in good standing with a registered producer responsibility organization and producer responsibility plan may not introduce mattresses covered by this chapter for use in this state.
+
+## Section 4
+1. By March 1, 2027, and annually thereafter, a producer responsibility organization must register with the department on behalf of its producers. A registration submission by a producer responsibility organization must include the following:
+
+    a. Contact information for a person responsible for implementing an approved plan;
+
+    b. A list of all member producers that have entered into written agreements to operate under an approved plan by the producer responsibility organization, copies of the written agreements for each member producer upon request of the department, and a list of all brands of each producer's mattresses introduced;
+
+    c. A plan for recruiting additional member producers;
+
+    d. A list of current board members and the executive director if different than the person responsible for implementing approved plans; and
+
+    e. Documentation demonstrating adequate financial responsibility and financial controls to ensure proper management of funds and payment of the annual registration fee to the department.
+
+2. [Empty]
+
+    a. Except as provided in (b) of this subsection, by May 1, 2028, and each May 1st thereafter, a producer responsibility organization must submit the annual registration fee established in section 12 of this act to fund all costs of the department to implement, administer, and enforce this chapter.
+
+    b. By September 1, 2027, a producer responsibility organization must submit a one-time payment to the department in an amount determined by the department to cover the costs of the department under this chapter from the effective date of this section through June 30, 2028.
+
+3. By July 1, 2029, or within six months of the adoption of rules under section 12 of this act, whichever comes later, each registered approved producer responsibility organization must submit a plan that meets the requirements of this chapter to the department for approval. A producer responsibility organization may submit a plan at any time to the department for review and approval, but must submit a plan no less than every five years.
+
+4. By January 1, 2031, or within one year of plan approval, whichever is later, a producer responsibility organization must implement the plan approved by the department.
+
+5. By June 1, 2031, and each June 1st thereafter, a producer responsibility organization must submit an annual report to the department for the prior calendar year.
+
+6. A producer responsibility organization must:
+
+    a. Ensure that each producer operating under a plan administered by the producer responsibility organization complies with the requirements of the plan and this chapter;
+
+    b. Consider and respond in writing to comments received from the advisory council created in section 15 of this act, including justifications for not incorporating advisory council recommendations;
+
+    c. Notify the department within 30 days of a change made to the contact information for a person responsible for implementing the plan, to board membership, or to the executive director;
+
+    d. Establish an initial producer fee structure to fund the initial implementation of the program, to be used until the program has an approved plan, and collect fees annually from registered producers;
+
+    e. Reimburse service providers in a timely manner and in accordance with the terms of the contract between the service provider and the producer responsibility organization;
+
+    f. Reimburse government entities for demonstrable costs, as defined by rules adopted by the department, incurred as a result of a government entity's facility or solid waste handling facility serving as a collection site for a program including, but not limited to, associated labor costs and other costs associated with accessibility and collection site standards such as storage;
+
+    g. Maintain a website and implement education and outreach activities as required under section 11 of this act; and
+
+    h. Comply with all other applicable requirements of this chapter.
+
+7. A producer responsibility organization may use the fees collected in this state by the producer responsibility organization to pay the costs to plan, implement, administer, and operate a mattress stewardship program in this state, including a financial reserve, as provided for in section 8 of this act, to prudently prepare for unexpected costs.
+
+## Section 5
+1. Beginning July 1, 2029, and except as provided in subsection (3) of this section, a producer, renovator, or retailer may not sell or offer for sale any mattress to any person in this state unless the producer, renovator, or retailer is registered with a producer responsibility organization with a plan approved by the department under section 6 of this act.
+
+2. On and after the date that a mattress stewardship program is implemented, a retailer:
+
+    a. Shall purchase a mattress only from a producer or renovator that is registered with a producer responsibility organization as of the date of purchase as evidenced by information made available by a producer responsibility organization pursuant to subsection (4) of this section; and
+
+    b. Shall provide to consumers, at the point of retail sale, information on available collection opportunities for discarded mattresses through the mattress stewardship program.
+
+3. Following the implementation of the mattress stewardship program, a retailer complies with the requirements of this section if, on the date the mattress was ordered from the producer or its agent, the producer of the mattress brand is listed on the department's website as implementing or participating in an approved mattress stewardship program.
+
+4. A producer responsibility organization shall make available on the stewardship program's website and on request:
+
+    a. Information on the brands owned by all producers and renovators registered with the producer responsibility organization;
+
+    b. Information on available collection opportunities; and
+
+    c. Any other information necessary for retailers to comply with subsection (2) of this section.
+
+## Section 6
+1. A plan submitted by a producer responsibility organization under this chapter must:
+
+    a. Describe the producer responsibility organization structure and governance and each producer and mattress brand covered in the plan;
+
+    b. Propose performance goals, consistent with section 7 of this act;
+
+    c. Describe how the producer responsibility organization will make retailers aware of their obligation to sell only mattresses of producers participating in an approved plan;
+
+    d. Describe the education and communication strategy being implemented to effectively promote participation in the approved producer responsibility program and provide the information necessary for the effective participation of consumers, businesses, government entities, retailers, and others;
+
+    e. Describe how the producer responsibility organization will make available to retailers in-store signage, written materials, and other promotional materials that retailers will use to inform customers of the available reuse and end-of-life management options for mattresses offered through the producer responsibility program;
+
+    f. List promotional activities to be undertaken, and the identification of consumer awareness goals and strategies that the program will employ to achieve these goals after the program is implemented;
+
+    g. Describe how the producer responsibility organization will pay for activities undertaken by collection sites associated with implementation of the program, and include an example template service agreement and any other forms, contracts, or other documents for use as payment for services;
+
+    h. Describe how the program will collect all mattress types and brands on a continuous, convenient, visible, and accessible basis, and consistent with the requirements of section 9 of this act, include a description of how the statewide convenience standard will be met and a list of collection sites, the addresses of collection sites, and how the program will discourage and address illegal dumping;
+
+        i. Describe the criteria to be used in the program to determine whether an entity may serve as a collection site for mattresses under the program;
+
+    j. Identify proposed brokers, transporters, processors, and facilities to be used by the program for the reuse, recycling, or final disposition of mattresses and how collected mattresses will be managed at facilities operating in compliance with all applicable local, state, and federal laws and regulations. For any materials from collected mattresses that are managed outside of the United States, identify how the program will ensure that facilities operate in accordance with human health, labor, and environmental protection standards that are broadly equivalent to or better than those required in the United States;
+
+    k. Detail how the program will achieve its target recycling rates, consistent with the requirements of section 7 of this act, including by conducting research, as needed, related to improving used mattress collection, dismantling, and recycling operations, including pilot programs to test new processes, methods, or equipment on a local, regional, or otherwise limited basis;
+
+    l. Describe how the public education and outreach components of the program under section 10 of this act will be implemented and how public awareness goals will be met;
+
+    m. Propose actions to be taken to make the mattress collection and reuse and recycling system more efficient, such as providing incentives for collection, reducing illegal dumping through campaigns and labeling, and additional collection opportunities; and
+
+    n. Provide a summary of consultations held with the advisory council created in section 15 of this act and other interested parties to provide input to the plan, a list of recommendations that were incorporated into the plan as a result, and a list of rejected recommendations and the reasons for rejection.
+
+2. The plan must describe the method to establish and administer a means for fully funding the program in a manner that equitably distributes the program's costs among the producers that are part of the producer responsibility organization and includes plans and funding for infrastructure and market development. For producers that elect to meet the requirements of this chapter individually, the plan must describe the proposed method to establish and administer a means for fully funding the program. For a producer responsibility organization implementing a plan on behalf of multiple producers, the plan must describe the financing methods used to implement the plan, consistent with section 8 of this act, including:
+
+    a. An anticipated annual operating budget for the mattress stewardship program for two years of operation of the program, beginning with the year in which the plan is submitted to the department; and
+
+    b. The proposed method for collecting the producer responsibility organization fees from retailers and a method for ensuring the fees are remitted to the producer responsibility organization. The producer responsibility organization fees must be sufficient to recover, but not exceed, the costs of establishing and administering the mattress stewardship program.
+
+3. The plan must provide the anticipated annual operating budget for a mattress stewardship program. The operating budget shall include, but need not be limited to, budget line items relating to:
+
+    a. The collection, transportation, and processing of program mattresses;
+
+    b. How the stewardship program will comply with the reserve funds requirements in section 8 of this act; and
+
+    c. The annual fee to be paid to the department pursuant to section 12 of this act.
+
+4. A producer responsibility organization must submit a new plan to the department for approval under the following conditions:
+
+    a. If there are significant changes to the methods of collection, transport, or end-of-life management of mattresses under section 9 of this act that are not provided for in the plan. The department may, by rule, identify the types of significant changes that require a new plan to be submitted to the department for approval. For purposes of this subsection, adding or removing a processor or transporter under the plan is not considered a significant change that requires a plan resubmittal; and
+
+    b. No less than every five years.
+
+5. [Empty]
+
+    a. As part of a producer responsibility organization plan, a producer responsibility organization must submit to the department a contingency plan. The contingency plan must demonstrate how the activities in the plan will continue to be carried out by some other entity, such as an escrow company, if needed:
+
+        i. Until such time as a new or updated plan is submitted and approved by the department;
+
+        ii. Upon the expiration of an approved plan;
+
+        iii. If the producer responsibility organization notifies the department that it will cease to implement an approved plan; or
+
+        iv. In any other event that the producer responsibility organization can no longer carry out plan implementation.
+
+    b. The requirements of (a) of this subsection do not require a producer responsibility organization to hold funds in a dedicated account until such time as the contingency plan must be implemented.
+
+    c. The department must follow the same process and timelines for reviewing and approving the contingency plan as it follows for the plan. The department may require a producer responsibility organization to revise the contingency plan coincident with any plan submittal.
+
+6. If required by the department, a producer responsibility organization must provide plan amendments to the department for approval:
+
+    a. When proposing changes to the performance goals under section 7 of this act based on the up-to-date experience of the program;
+
+    b. When there is a change to the method of financing plan implementation under section 8 of this act. This does not include changes to the fees or fee structure established in the plan; or
+
+    c. When adding or removing a processor or transporter.
+
+7. No earlier than five years after the initial approval of a plan, the department may require a producer responsibility organization to submit a revised plan, which may include improvements to the collection site network or increased expenditures dedicated to education and outreach if the approved plan has not met the performance goals under section 7 of this act.
+
+## Section 7
+1. A plan submitted by a producer responsibility organization must include performance goals that measure, on an annual basis, the achievements of the program. Performance goals must take into consideration technical feasibility and economic practicality in achieving continuous, meaningful progress in improving:
+
+    a. The rate of mattress collection for recycling in Washington;
+
+    b. The reuse and renovation rate of the program;
+
+    c. The recycling rate of the program; and
+
+    d. Public awareness of the program.
+
+2. The performance goals established in each producer responsibility plan must include, but are not limited to:
+
+    a. Target annual collection rates;
+
+    b. Target recycling rates of at least 70 percent; and
+
+    c. Goals for public awareness of the program established in section 10 of this act, including subgoals applicable to public awareness of the program in vulnerable populations and overburdened communities identified by the department under chapter 70A.02 RCW.
+
+## Section 8
+1. Each producer responsibility organization must ensure adequate funding is available to fully implement approved producer responsibility plans. The fee collected by the producer responsibility organization must generate revenue sufficient to pay in full the costs of implementing an approved plan, including:
+
+    a. The fee to the department required under section 3 of this act;
+
+    b. The financial obligations to complete activities described in an approved plan and meet the performance goals described in section 7 of this act including, but not limited to:
+
+        i. Mattress collection, transporting, and processing, including disposal of nonrecyclable mattresses collected for recycling;
+
+        ii. Education and outreach; and
+
+        iii. Program evaluation;
+
+    c. The operating costs of the producer responsibility organization; and
+
+    d. Establishment and maintenance of a financial reserve that is sufficient to operate the program in a fiscally prudent and responsible manner in accordance with the guidelines provided in subsection (8) of this section.
+
+2. A registered producer responsibility organization may charge each member producer a fee by a method it determines to be an equitable determination of each producer's payment obligation, so that the aggregate fees charged to member producers are sufficient to pay the producer responsibility organization's costs in full until the producer responsibility organization has an approved plan.
+
+3. A producer responsibility organization with an approved plan must develop, and continually improve over the years of program implementation, a system to collect charges from participating producers to cover the costs of plan implementation in an environmentally sound and socially just manner that encourages the use of design attributes that reduce the environmental impacts of mattresses, such as through the use of eco-modulated fees. Examples of fee structures that meet the requirements of this subsection include using eco-modulated fees to:
+
+    a. Encourage designs intended to facilitate reuse and recycling;
+
+    b. Encourage the use of recycled content;
+
+    c. Discourage the use of problematic materials that increase system costs of managing mattresses;
+
+    d. Encourage other design attributes that reduce the environmental impacts of mattresses; and
+
+    e. Encourage the responsible management of mattresses in accordance with this chapter and discourage the illegal dumping of mattresses.
+
+4. Revenues collected under this section that exceed the amount needed to pay the costs described in subsection (1) of this section must be used to improve or enhance program outcomes or to reduce producer fees according to provisions of an approved plan.
+
+5. A nonreimburseable point of sale fee may not be charged by retail establishments to consumers to recoup the costs of meeting producer obligations under this chapter.
+
+6. [Empty]
+
+    a. Each producer responsibility organization is responsible for all costs of participating in mattress collection, transportation, processing, education, administration, agency reimbursement, recycling, and end-of-life management in accordance with the mattress management hierarchy and environmentally sound management practices.
+
+    b. Each producer responsibility organization must meet the collection goals as specified in section 7 of this act.
+
+    c. A producer responsibility organization is not authorized to reduce or cease collection, education and outreach, or other activities implemented under an approved plan based on achievement of program performance goals.
+
+7. [Empty]
+
+    a. A producer responsibility organization must reimburse government entities for demonstrable costs, as defined by rules adopted by the department, incurred as a result of a government entity's facility or solid waste handling facility serving as a collection site for a program including, but not limited to, associated labor costs and other costs associated with accessibility and collection site standards such as storage.
+
+    b. Except as to the costs of containers and other materials and services requirements addressed by a government entity or local government facility exercising the authority granted by section 9(4) of this act, a producer responsibility organization shall at a minimum provide collection sites with appropriate containers for mattresses subject to its program, signage, safety guidance, and educational materials, at no cost to the collection sites.
+
+    c. A producer responsibility organization must include in its producer responsibility plan an example template of the service agreement and any other forms, contracts, or other documents for use in payment for services. The entities seeking to provide services from the producer responsibility organization are not required to use the template agreement included in the program plan and are not limited to the terms of the template agreement included in the program plan.
+
+8. A producer responsibility organization must maintain a prudent financial reserve that may not be less than two months in aggregate operating expenses and not more than six months in aggregate operating expenses. If the financial reserve falls below or exceeds the requirements under this subsection, the department may take actions it deems appropriate to ensure the program goals in section 7 of this act are met.
+
+9. Fees collected under this section may not be used for lobbying or political advocacy activities that would require reporting under chapter 42.17A RCW or under the federal election campaign act, 2 U.S.C. chapter 14.
+
+## Section 9
+1. Producer responsibility organizations implementing a producer responsibility program must provide for the collection of all mattresses, including all types and brands of mattresses, on a continuous, convenient, visible, and accessible basis to any person, business, government agency, or nonprofit organization. Each producer responsibility program plan must:
+
+    a. Allow any person, business, government agency, or nonprofit organization in the state to discard each type and brand of mattress at each collection site in the state that counts towards the satisfaction of the collection site criteria in subsection (3) of this section;
+
+    b. Incentivize the responsible management of mattresses in accordance with this chapter and discourage the illegal dumping of mattresses; and
+
+    c. Provide a collection mechanism for capturing mattresses illegally dumped.
+
+2. For each collection site utilized by the program, each producer responsibility organization must provide suitable collection containers for mattresses that are segregated from other solid waste or make mutually agreeable alternative arrangements for the collection of mattresses at the site. The location of collection containers at each collection site used by the program must be accompanied by signage made available to the collection site by the producer responsibility organization that informs customers regarding the end-of-life management options for mattresses provided by the collection site under this chapter. Each collection site must adhere to the operations manual and other safety information provided to the collection site by the producer responsibility organization.
+
+3. Each producer responsibility organization implementing a producer responsibility program plan shall ensure statewide collection opportunities for all mattresses. Producer responsibility organizations shall coordinate activities with other program operators, including mattress collection and recycle programs, with regard to the proper management or recycling of collected mattresses, for purposes of providing the efficient delivery of services and avoiding unnecessary duplication of effort and expense. Statewide collection opportunities must be determined by geographic information modeling that considers permanent collection sites.
+
+4. Each program shall provide for convenient consumer access to the program, including permanent mattress drop-off locations throughout the state, collection events in underserved areas of the state, and a convenient way for the public to access a list of mattress collection opportunities. The program must provide:
+
+    a. Service to areas without a permanent collection site, including service to island and geographically isolated communities without a permanent collection site; and
+
+    b. Bulk pickup service at no cost to collect a minimum of 100 properly source separated mattresses at a single time.
+
+5. The producer responsibility organization may use curbside collection services in lieu of permanent collection sites as required under subsection (4) of this section provided that no fee is charged for this service.
+
+## Section 10
+1. Each producer responsibility organization must carry out promotional activities in support of plan implementation including, but not limited to, the development:
+
+    a. And maintenance of a website;
+
+    b. And distribution of periodic press releases and articles;
+
+    c. And placement of advertisements for use on social media or other relevant media platforms;
+
+    d. Of promotional materials about the program and the restriction on the disposal of mattresses to be used by retailers, government agencies, and nonprofit organizations;
+
+    e. And implementation of outreach and educational resources targeted to overburdened communities and vulnerable populations identified by the department under chapter 70A.02 RCW that are conceptually, linguistically, and culturally accurate for the communities served and reach the state's diverse ethnic populations, including through meaningful consultation with communities that bear disproportionately higher levels of adverse environmental and social justice impacts.
+
+2. Each producer responsibility organization must provide consumer-focused educational promotional materials to each collection site used by the program and retailers that sell mattresses, and make them directly accessible to customers on the organization's own website.
+
+3. Each producer responsibility organization must provide outreach and educational resources to service providers for the management of mattresses prior to the implementation of the program.
+
+4. Upon request by a retailer, the producer responsibility organization must provide the retailer with educational materials describing collection opportunities for mattresses.
+
+5. If multiple producer responsibility organizations are implementing plans approved by the department, the producer responsibility organizations must coordinate in carrying out their education and outreach responsibilities under this section and must include in their annual reports to the department under section 11 of this act a summary of their coordinated education and outreach efforts.
+
+6. During the fourth year of program implementation and every five years thereafter, each producer responsibility organization must carry out a survey of public awareness regarding the requirements of the program established under this chapter. Each producer responsibility organization must share the results of the public awareness surveys with the department.
+
+## Section 11
+1. By June 1, 2031, and each June 1st thereafter, each producer responsibility organization must submit an annual report to the department covering the preceding calendar year of producer responsibility plan implementation. The report must include the following elements, based on information provided by each participating producer:
+
+    a. An independent financial assessment of a program implemented by the producer responsibility organization, including a breakdown of the program's expenses, such as collection, reuse, recycling, education, and overhead, when required by the department;
+
+    b. A summary financial statement documenting the financing of a producer responsibility organization's program and an analysis of program costs and expenditures, including an analysis of the program's expenses, such as collection, transportation, reuse, recycling, education, and administrative overhead, and activities and investments undertaken related to infrastructure and market development. The summary financial statement must be sufficiently detailed to provide transparency that funds collected from producers as a result of their activities in this state are spent on program implementation in this state. Producer responsibility organizations implementing similar producer responsibility programs in multiple states may submit a financial statement including all covered states, as long as the statement breaks out financial information pertinent to this state;
+
+    c. The unit and weight, by type, the number of mattresses collected under the program, and the collection rate achieved under the program, including a description of how this collection rate was calculated;
+
+    d. The number of mattresses managed relative to the state's mattress management hierarchy, including weight of materials recycled from mattresses collected under the program, in total, and by method of mattress recycling;
+
+    e. A calculation of the recycling rates, as measured consistent with subsection (2) of this section;
+
+    f. Information on the number and tonnage of discarded mattresses collected pursuant to the program for recycling during the previous calendar year at a sufficient level of disaggregation to determine how the program is performing in different regions of the state;
+
+    g. The weight of mattress materials recycled and the final disposition of mattress materials, by weight and by material, sold as commodities in secondary markets;
+
+    h. The weight of program mattress materials sent for disposal at each of the following:
+
+        i. Waste-to-energy facilities;
+
+        ii. Landfills; and
+
+        iii. Any other facilities;
+
+        i. An evaluation of why the mattress materials sent for disposal were not recycled and a description of program efforts that will be taken to increase the recycling rate of mattress materials under the program;
+
+    j. The strategies the stewardship organization will take to address discarded mattresses that are not program mattresses and discarded mattresses that are illegally dumped;
+
+    k. A description of the education and outreach efforts supporting the program plan implementation including a:
+
+        i. Summary of education and outreach provided to consumers, including to diverse populations and through culturally and linguistically appropriate materials, collection sites, government entities, manufacturers, distributors, and retailers by the producer responsibility organization for the purpose of promoting the collection and reuse or recycling of mattresses;
+
+        ii. Description of how the education and outreach met the requirements of section 10 of this act and samples of education and outreach materials;
+
+        iii. Summary of coordinated education and outreach efforts with any other producer responsibility organization implementing a plan approved by the department; and
+
+        iv. Summary of any changes made during the previous calendar year to education and outreach activities;
+
+    l. A list of all collection sites, including an accompanying address for each listed site, and an up-to-date map indicating the location of all collection sites used to implement the program and the consumer information associated with those sites;
+
+    m. A description of methods and services used to collect, transport, and reuse and recycle mattresses by the producer responsibility organization, including population coverage and accessibility in accordance with section 9 of this act;
+
+    n. A summary on progress made towards the program performance goals established under section 7 of this act, and an explanation of why any performance goals were not met; and
+
+    o. An evaluation of the effectiveness of education and outreach activities and customer service efforts.
+
+2. The weight of mattresses or recovered resources from those mattresses must only be counted once and may not be counted by more than one producer responsibility organization.
+
+3. In addition to the requirements of subsection (1) of this section, with respect to each facility used in the processing or disposition of mattresses collected under the program, the producer responsibility organization must report:
+
+    a. Whether the facility is located domestically, in an organization for economic cooperation and development country, or in a country that meets organization for economic cooperation and development operating standards; and
+
+    b. What facilities processed the mattresses, including a summary of any violations of environmental or labor laws and regulations over the previous three years at each facility.
+
+4. If a producer responsibility organization has disposed of mattresses through energy recovery, incineration, or landfilling during the preceding calendar year of program implementation, the annual report must specify the steps that the producer responsibility organization will take to make the reuse or recycling of mattresses cost-effective, where possible, or to otherwise increase mattress recycling rates achieved by the producer responsibility organization.
+
+5. Each producer must submit all information and records necessary for the producer responsibility organization to meet the reporting requirements of this section.
+
+6. A producer or producer responsibility organization that submits information or records to the department under this chapter may request that the information or records be made available only for the confidential use of the department, the director of the department, or the appropriate division of the department. The director of the department must consider the request and, if this action is not detrimental to the public interest and is otherwise in accordance with the policies and purposes of chapter 43.21A RCW, the director must grant the request for the information to remain confidential as authorized in RCW 43.21A.160.
+
+## Section 12
+1. The department must adopt rules as necessary for the purpose of implementing, administering, and enforcing this chapter.
+
+2. The department must:
+
+    a. By March 31, 2027, determine the one-time payment to the department to cover the costs of the department under this chapter from the effective date of this section through June 30, 2028;
+
+    b. By March 31, 2028, and each March 31st thereafter:
+
+        i. Determine the total annual registration fee to be paid by each producer responsibility organization that is adequate to cover, but not exceed, the costs to implement, administer, and enforce this chapter in the next fiscal year; and
+
+        ii. Adjust the fee to account for funds received during the previous year by:
+
+(A) Applying any remaining annual fee payment funds from the current year to the annual fee for the coming fiscal year if the collected annual fee exceeds the costs for a given year; and
+
+(B) Increasing annual fees for the coming fiscal year to cover the costs if the collected annual fee was less than the amount required to cover costs for a given year;
+
+    c. By January 1, 2029, adopt rules to equitably determine annual registration fees for producer responsibility organizations if the department has approved the registration of more than one producer responsibility organization; and
+
+    d. Send notice to each producer responsibility organization of fee amounts due.
+
+3. The responsibilities of the department in implementing, administering, and enforcing this chapter include, but are not limited to:
+
+    a. By January 1, 2027, appointing the initial membership of the advisory council, and providing administrative and operating support to the advisory council, as required under section 15 of this act;
+
+    b. By March 1, 2027, accepting the registration of producer responsibility organizations;
+
+    c. Reviewing submitted producer responsibility plans and plan amendments and making determinations as to whether to approve the plan or plan amendment:
+
+        i. The department must provide a letter of approval for the plan or plan amendment if it provides for the establishment of a producer responsibility program that meets the requirements of sections 3 through 9 of this act;
+
+        ii. If a plan or plan amendment is rejected, the department must provide the reasons for rejecting the plan to the producer responsibility organization. The producer responsibility organization must submit a new plan within 60 days after receipt of the letter of disapproval; and
+
+        iii. When a plan or an amendment to an approved plan is submitted under this section, the department shall make the proposed plan or amendment available for public review and comment for at least 30 days;
+
+    d. Reviewing annual reports submitted under section 11 of this act within 90 days of submission to ensure compliance with that section;
+
+    e. [Empty]
+
+        i. Maintaining a website that lists producers and their brands that are participating in an approved plan, and that makes available to the public each plan, plan amendment, and annual report received by the department under this chapter;
+
+        ii. Upon the date the first plan is approved, the department must post on its website a list of producers and their brands for which the department has approved a plan. The department must update the list of producers and brands participating under an approved program plan based on information provided to the department from producer responsibility organizations; and
+
+    f. Providing technical assistance to producers and retailers related to the requirements of this chapter and issuing orders or imposing civil penalties authorized under section 13 of this act where the technical assistance efforts do not lead to compliance by a producer or retailer.
+
+4. Beginning January 1, 2034, and every five years thereafter, after consultation with producer responsibility organizations, the department may by rule increase the minimum recycling rates established in section 7 of this act based on the most economically and technically feasible processes and methodologies available.
+
+## Section 13
+1. [Empty]
+
+    a. The department may administratively impose a civil penalty on a person who violates this chapter in an amount of up to $1,000 per violation per day.
+
+    b. The department may administratively impose a civil penalty of up to $10,000 per violation per day on a person for repeated violations of this chapter or failure to comply with an order issued under (c) of this subsection.
+
+    c. Whenever on the basis of any information the department determines that a person has violated or is in violation of this chapter, the department may issue an order requiring compliance. A person who fails to take corrective action as specified in a compliance order is liable for a civil penalty as provided in (b) of this subsection, without receiving a written warning prescribed in (e) of this subsection.
+
+    d. A person who is issued an order or incurs a penalty under this section may appeal the order or penalty to the pollution control hearings board established in chapter 43.21B RCW.
+
+    e. Prior to imposing penalties under this section, the department must provide a producer, retailer, or producer responsibility organization with a written warning for the first violation by the producer, retailer, or producer responsibility organization of the requirements of this chapter. The written warning must inform a producer, retailer, or producer responsibility organization that it must participate in an approved plan or otherwise come into compliance with the requirements of this chapter within 30 days of the notice. A producer, retailer, or producer responsibility organization that violates a provision of this chapter after the initial written warning may be assessed a penalty as provided in this subsection.
+
+2. Penalties levied under subsection (1) of this section must be deposited in the responsible mattress management account created in section 14 of this act.
+
+## Section 14
+The responsible mattress management account is created in the custody of the state treasurer. All receipts from fees paid under this chapter must be deposited in the account. Only the director of the department or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures. Moneys in the account may be used solely by the department for administering, implementing, and enforcing the requirements of this chapter. Funds in the account may not be diverted for any purpose or activity other than those specified in this section.
+
+## Section 15
+1. The advisory council on responsible management of mattresses is created.
+
+2. [Empty]
+
+    a. The advisory council on responsible management of mattresses consists of not more than 12 members appointed by the department to represent the interests of the following entities:
+
+        i. Government entities representing geographic areas across the state representative of urban and rural communities, including at least one representative of counties and at least one representative of cities;
+
+        ii. The solid waste industry, including a representative of tribal or indigenous solid waste services organizations;
+
+        iii. Service providers that serve as collectors, transporters, or processors of mattresses;
+
+        iv. The environmental community;
+
+    v. A small business not otherwise eligible for representation under this subsection;
+
+    vi. Producers, producer trade associations, or producer responsibility organizations;
+
+    vii. Retail establishments; and
+
+    viii. Consumer rights organizations.
+
+    b. A member appointed to the advisory council under this subsection may not be a representative or a member of the board of directors of a producer responsibility organization registered with the department under section 4 of this act.
+
+3. Advisory councilmembers must be appointed by the director of the department by January 1, 2027. In appointing members, the department shall:
+
+    a. Appoint members that, to the greatest extent practicable, represent diversity in race, ethnicity, age, gender, urban and rural areas, and different regions of the state;
+
+    b. Consider recommendations for appointments from relevant represented groups or associations and from individuals interested in participating on the advisory council.
+
+4. [Empty]
+
+    a. The terms of initial appointments must be staggered to two and three-year appointments, with subsequent terms of three years. Members are eligible for reappointment.
+
+    b. If there is a vacancy for any reason, the department shall make an appointment to become effective immediately for the unexpired term.
+
+5. [Empty]
+
+    a. The advisory council shall elect one of its members to serve as chairperson and another to serve as vice chairperson, for the terms and with the duties and powers necessary for the performance of the functions of such offices as the advisory council determines. The chairperson and vice chairperson may not both be members appointed under the same category as in subsection (2)(a)(i) through (viii) of this section.
+
+    b. The advisory council may adopt bylaws and a charter for the operation of its business for the purposes of this chapter.
+
+6. The advisory council shall meet at least once every three months for the first three years, at times and places specified by the chairperson. The advisory council may also meet at other times and places, including virtually, specified by the call of the chairperson or of a majority of the councilmembers, as necessary, to carry out the duties of the advisory council.
+
+7. [Empty]
+
+    a. The department shall provide staff support and facilitation as necessary for the advisory council to carry out its duties.
+
+    b. The department may select an impartial, third-party facilitator to convene and provide administrative support to the advisory council.
+
+8. The duties of the advisory council include the following:
+
+    a. Advise and make recommendations to any registered producer responsibility organization during review of stakeholder consultation on plans prior to submission as required under section 6 of this act;
+
+    b. Review and comment on all new and updated plans submitted by a producer responsibility organization to the department, including making recommendations to the department on plan approvals, as part of the public comment period as established under section 12 of this act;
+
+    c. Advise and make recommendations to any registered producer responsibility organization on annual reports prior to submission as established in section 11 of this act;
+
+    d. Review and comment on all annual reports submitted by producer responsibility organizations to the department, including making recommendations to the department regarding the need for any plan amendments or other recommendations regarding program activities;
+
+    e. Provide input, review, and comment on rules proposed by the department under this chapter.
+
+9. Advisory councilmembers that are representatives of tribes or tribal and indigenous services organizations or community-based and environmental nonprofit organizations must, if requested, be compensated and reimbursed in accordance with RCW 43.03.050, 43.03.060, and 43.03.220.
+
+10. The department must include costs related to the advisory council in the estimate of annual costs as established in section 12 of this act, including costs for:
+
+    a. Department resources, including staff time;
+
+    b. A third-party facilitator, including related costs; and
+
+    c. Expenses related to member participation.
+
+11. Nothing in this section limits the authority of the department to approve plans or reports or carry out other duties as assigned under this chapter.
+
+## Section 16
+Producers, retailers, and producer responsibility organizations acting on behalf of producers that prepare, submit, and implement a producer responsibility program plan pursuant to this chapter and who are thereby subject to regulation by the department are granted immunity from federal and state laws relating to antitrust, restraint of trade, unfair trade practices, and other regulation of trade and commerce, for the limited purpose of planning, reporting, and operating a producer responsibility program, including the:
+
+1. Creation, implementation, or management of a producer responsibility organization and any producer responsibility plan regardless of whether it is submitted, denied, or approved;
+
+2. Determination of the cost and structure of a producer responsibility plan; and
+
+3. Types or quantities of mattresses being recycled or otherwise managed pursuant to this chapter.
+
+## Section 17
+Nothing in this chapter changes or limits the authority of the Washington utilities and transportation commission to regulate collection of solid waste, including curbside collection of residential recyclable materials, nor does this chapter change or limit the authority of a city or town to provide the service itself or by contract under RCW 81.77.020.
+
+## Section 18
+There shall be no charge at the point of collection of discarded mattresses, except that the stewardship organization may allow for a person that provides a premium service under the program to charge for the additional cost of that premium service.
+
+## Section 19
+1. This chapter does not apply to the receipts of a producer responsibility organization formed under chapter 70A.--- RCW (the new chapter created in section 22 of this act) from charges to participating producers under a producer responsibility program as provided in section 8 of this act.
+
+2. This section is not subject to the requirements of RCW 82.32.805 and 82.32.808 and is not subject to an expiration date.
+
+3. The definitions in section 2 of this act apply throughout this section unless the context clearly requires otherwise.
+
+## Section 20
+(1) The hearings board shall only have jurisdiction to hear and decide appeals from the following decisions of the department, the director, local conservation districts, the air pollution control boards or authorities as established pursuant to chapter 70A.15 RCW, local health departments, the department of natural resources, the department of fish and wildlife, the parks and recreation commission, and authorized public entities described in chapter 79.100 RCW:
+
+## Section 21
+(1) Any civil penalty provided in RCW 18.104.155, 70A.15.3160, 70A.205.280, 70A.230.080, 70A.300.090, 70A.20.050, 70A.245.040, 70A.245.050, 70A.245.070, 70A.245.080, 70A.245.130, 70A.245.140, 70A.65.200, 70A.430.070, 70A.455.090, 70A.500.260, 70A.505.110, 70A.555.110, 70A.560.020, 70A.208.230, 70A.565.030, 86.16.081, 88.46.090, 90.03.600, 90.46.270, 90.48.144, 90.56.310, 90.56.330, and 90.64.102 and chapter 70A.355 RCW shall be imposed by a notice in writing, either by certified mail with return receipt requested or by personal service, to the person incurring the penalty from the department or the local air authority, describing the violation with reasonable particularity. For penalties issued by local air authorities, within 30 days after the notice is received, the person incurring the penalty may apply in writing to the authority for the remission or mitigation of the penalty. Upon receipt of the application, the authority may remit or mitigate the penalty upon whatever terms the authority in its discretion deems proper. The authority may ascertain the facts regarding all such applications in such reasonable manner and under such rules as it may deem proper and shall remit or mitigate the penalty only upon a demonstration of extraordinary circumstances such as the presence of information or factors not considered in setting the original penalty.
+
+## Section 23
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

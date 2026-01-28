@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2228/</link>
 		<description>Updates about HB 2228</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👍Ivy Roth - Methow Housing Trust</title>
+			<title>👍Ivy Roth - Kulshan Community Land Trust</title>
 			<description>Ivy Roth signed up to testify Pro.</description>
 			<pubDate>Wed, 14 Jan 2026 05:03:51 GMT</pubDate>
 			<category>testifier</category>
@@ -91,6 +91,13 @@
 			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-23/LG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

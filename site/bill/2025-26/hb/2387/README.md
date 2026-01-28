@@ -11,15 +11,16 @@
 
 ## Meetings
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2387 Elected sheriffs
-Sign up to testify:
-
-#### 132 👍 - Pro
+#### 301 👍 - Pro
 Testifying:
 * Ryan Spurling - Mason County Sheriff
 * Fred Thomas - Wa coalition for police accountability
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Clay Myers - Kittitas County Sheriff's Office
+* Mark Crider - Sheriff Walla Walla County, President Washington State Sheriff's Association
+* Bob Aroyan
 
-#### 1051 👎 - Con
+#### 2495 👎 - Con
 Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
@@ -30,5 +31,9 @@ Testifying:
 * Karen Peacey - League of Women Voters of WA
 * Liz Moore - Peace and Justice Action League of Spokane
 * 💵Jazmyn Clark - ACLU of Washington
+* Tim Eyman - Initiative Activist
+* Arthur West
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Rick Kuss

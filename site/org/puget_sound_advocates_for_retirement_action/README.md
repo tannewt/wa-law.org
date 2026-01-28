@@ -51,6 +51,9 @@
 
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
+### [SB 5439](/bill/2025-26/sb/5439/) - Thermal coal divestment/SIB 👍1  
+* 👍 Jeff Johnson
+
 ### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  

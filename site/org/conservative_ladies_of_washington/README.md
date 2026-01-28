@@ -106,6 +106,8 @@
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda  👎1 
 
+### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  

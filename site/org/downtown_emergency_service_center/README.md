@@ -30,11 +30,11 @@
 ### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
 * 👍 Lauren Fay
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
 
 ### [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 

@@ -10,7 +10,7 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2018 Solid waste/local government
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

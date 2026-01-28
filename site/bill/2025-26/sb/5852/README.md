@@ -14,7 +14,9 @@
 * 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=Senate%20Bill%205852)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=SB%205852)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Big issues in the Legislature - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/16/big-issues-in-the-legislature/#:~:text=SB%205852)
+* 01/15/2026 [Axios](/org/axios/) - [Washington state lawmakers push limits on masked ICE arrests, other tactics - Axios Seattle](https://www.axios.com/local/seattle/2026/01/15/washington-ice-mask-ban-school-access-worker-notice-bills-immigration#:~:text=third%20proposal)
 * 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=SB%205852%20(Saldaña))
+* 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=SB%205852)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [El procurador general Brown, en colaboración con legisladores estatales, propone la Ley de Protección a Trabajadores Inmigrantes | Washington State](http://www.atg.wa.gov/news/news-releases/el-procurador-general-brown-en-colaboraci-n-con-legisladores-estatales-propone#:~:text=SB%205852)
 
 ## Meetings

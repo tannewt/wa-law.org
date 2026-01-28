@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2432 - Students/surplus technology</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2432/</link>
+		<description>Updates about HB 2432</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 20 Jan 2026 10:07:44 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>👍Martin Turney - Issaquah School District — Chief of Finance and Operations</title>
+			<description>Martin Turney signed up to testify Pro. They are signed up to represent Issaquah School District — Chief of Finance and Operations.</description>
+			<pubDate>Thu, 15 Jan 2026 05:08:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Martin/Turney/2026-01-15 05:08:37</guid>
+		</item>
+		<item>
+			<title>See you at Focus Day! - WSPTA</title>
+			<description>News article "See you at Focus Day! - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 19 Jan 2026 06:41:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202432</guid>
+		</item>
+		<item>
+			<title>👍David S. Moon II - Sultan School District, Technology Director</title>
+			<description>David S. Moon II signed up to testify Pro. They are signed up to represent Sultan School District, Technology Director.</description>
+			<pubDate>Tue, 20 Jan 2026 10:07:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David S./Moon II/2026-01-20 10:07:44</guid>
+		</item>
+	</channel>
+</rss>

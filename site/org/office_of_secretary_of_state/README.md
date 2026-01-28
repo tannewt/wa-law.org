@@ -68,6 +68,8 @@
 ### [HB 2260](/bill/2025-26/hb/2260/) - Ballot measure petitions  👎1 
 * 👎 Steve Hobbs
 
+### [HB 2262](/bill/2025-26/hb/2262/) - Signature education 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 

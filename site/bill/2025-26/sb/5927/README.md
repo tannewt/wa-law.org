@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 5927 Workers' comp. adjustments
-Sign up to testify:
-
-#### 197 👍 - Pro
+#### 243 👍 - Pro
 Testifying:
 * 💵James Crandall - AWB
 * Kris Tefft - Washington Self-Insurers Association
 
-#### 141 👎 - Con
+#### 152 👎 - Con
+Testifying:
+* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
+* Elizabeth LePley - Washington State Association for Justice
+* 💵Ray Dumas - Operative Plasterers and Cement Masons
 
 #### 2 ❓ - Other
 

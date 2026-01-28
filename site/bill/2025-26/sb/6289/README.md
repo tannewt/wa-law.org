@@ -1,0 +1,20 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6289](/bill/2025-26/sb/6289/)
+
+# SB 6289 - Economic dev. strategic plan
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6289&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings
+### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6289 Economic dev. strategic plan
+Sign up to testify:
+
+#### 6 👍 - Pro
+Testifying:
+* 💵Amber Carter - Identity Clark County
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

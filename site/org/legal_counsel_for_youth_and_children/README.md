@@ -185,6 +185,9 @@
 
 ### [SB 5977](/bill/2025-26/sb/5977/) - Child near fatality reviews 👍1  
 
+### [SB 5979](/bill/2025-26/sb/5979/) - Dependency/substance abuse 👍1  
+* 👍 Annie Chung
+
 ## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Kat Lohman
 

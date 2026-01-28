@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5984/</link>
 		<description>Updates about SB 5984</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 08:55:01 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -216,6 +216,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jonathan/Pincus/2026-01-20 08:55:01</guid>
+		</item>
+		<item>
+			<title>Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist</title>
+			<description>News article "Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist" from The Urbanist.</description>
+			<pubDate>Tue, 27 Jan 2026 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/#:~:text=Senate%20Bill%205984</guid>
 		</item>
 	</channel>
 </rss>

@@ -1,0 +1,334 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5974](/bill/2025-26/sb/5974/) > [Substitute Bill](/bill/2025-26/sb/5974/S/)
+
+# SB 5974 - Local law enforcement
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5974-S.pdf)
+
+## Section 1
+The legislature finds that certain laws governing the eligibility requirements, duties, and responsibilities of sheriffs, police chiefs, and town marshals should be updated and revised to reflect best practices, and to ensure that local law enforcement leaders, whether sheriffs, police chiefs, or town marshals, whether appointed or elected, and whether partisan or nonpartisan, are subject to the same eligibility requirements and standards. For sheriffs, the legislature is authorized to prescribe eligibility requirements. However, other than the eligibility requirements for any elected official, the only requirement for sheriffs in existing law is completion of academy training within 12 months of being elected, and this requirement applies only to persons who have been elected to the office, and not to appointed sheriffs. The legislature may also prescribe eligibility requirements for police chiefs and town marshals, but those requirements have not been updated since 1987. The existing requirements do not include elements such as a minimum age requirement or a prohibition on misconduct that would require denial or revocation of certification. The background check requirement for appointment as a police chief or town marshal has also not been updated in many years, and there is no required background check before appointment or election as a sheriff. The legislature finds that the state Constitution requires it to provide for the duties of elected officials, including sheriffs, for whom duties were first prescribed by the legislature in 1854, but existing law is in part outdated and inconsistent with current values and practices.
+
+For example, there is a need to clarify and reinforce state law that a primary duty of sheriffs, in addition to upholding the United States Constitution, is to uphold and enforce the Washington state Constitution and laws, as enacted by the legislature and interpreted by the Washington supreme court, so as to align state law with the Washington supreme court's ruling in In re Recall of Fortney, 196 Wn.2d 766 (2021).
+
+All persons who serve in law enforcement must maintain peace officer certification, but state law could be clearer regarding what must occur when a sheriff, police chief, or town marshal has their certification revoked, to ensure that the law reflects the same standards of strong accountability for all ranks. By enacting updated, clear, and consistent requirements and standards for all law enforcement leaders, the legislature intends to enhance the effectiveness, professionalism, and accountability of law enforcement leaders, promote public trust and confidence in law enforcement, and increase community safety.
+
+The legislature also finds that these goals can best be met by ensuring the updated standards, requirements, and duties are in effect prior to the filing deadline for 2026 elections, which will include elections for 35 sheriffs.
+
+The legislature further finds that the provision in existing law that authorizes sheriffs to "call to their aid such persons, or power of their county as they may deem necessary" has been interpreted by some as authorizing volunteers to enforce criminal laws or civil immigration laws, engage in pursuits, detain or arrest, or use force, without the training and certification required of law enforcement officers and without accountability in the event of misconduct. Volunteers and youth cadets, if used by sheriffs, police chiefs, or town marshals to assist with agency needs, should be limited to the types of roles as enumerated below that do not include this kind of authority, unless the person has completed peace officer training and maintained certification requirements.
+
+Because of this, the legislature also finds that as part of modernizing the duties and responsibilities of law enforcement leaders, there is a need for sheriffs, police chiefs, and town marshals to establish in policy and local law best practices and safeguards for their use of personnel who are not certified peace officers. To do so, law enforcement agencies must have policies, and local jurisdictions must have ordinances, that require the supervision of volunteers, youth cadets, and specially commissioned officers. The policies and ordinances must also circumscribe the use of uniforms, badges, and face coverings by specially commissioned officers, volunteers, and youth cadets, so that members of the public and others can readily distinguish them from peace officers; require appropriate training for any specially commissioned officers and youth cadets authorized to use firearms or other weapons; and prescribe permissible roles for volunteers, which may include, but are not limited to, roles such as technical and administrative support; bicycle recovery; community crime prevention coordination; vehicle maintenance; helping with search and rescue; serving as faith leaders; helping with transport, parking enforcement, and traffic management; assisting with parks and recreation; assisting with animal control and caring for domestic animals, but not using dogs to track people or animals other than for search and rescue, and not using dogs to apprehend, or bite people or animals; and engaging in other public safety-related community service, education, and outreach work.
+
+Finally, the legislature finds that the 1894 chapter in state law regarding use of "police matrons" by police chiefs and town marshals is antiquated and should be repealed.
+
+## Section 2
+1. A person seeking appointment to the office of chief of police or marshalin any city or town is eligible for appointment, holding office, and remaining in that office only if that person:
+
+    a. Is a citizen of the United States of America;
+
+    b. Is at least 25 years old;
+
+    c. Has obtained a high school diploma or high school equivalency certificate as provided in RCW 28B.50.536;
+
+    d. Has not been convicted under the laws of this state, another state,  the United States, or the substantial equivalent under foreign law, of a felony;
+
+    e. Has not been convicted under the laws of this state, another state, the United States, or the substantial equivalent under foreign law, of a gross misdemeanor ;
+
+    f. Has not engaged and does not engage in conduct meeting the criteria requiring denial or revocation of certification set forth in RCW 43.101.105(2);
+
+    g. Has received at least a general discharge under honorable conditions from any branch of the armed services for any military service if the person was in the military service;
+
+    h. Has completed at least five years of regular, uninterrupted, full-time  law enforcement employment involving enforcement responsibilities with a government law enforcement agency, as defined in subsection (4) of this section;
+
+        i. Within nine months of assuming office, unless otherwise extended by the criminal justice training commission, has obtained certification, thereafter maintains certification as required under chapter 43.101 RCW and the rules of the commission, and has never had their certification denied, revoked, or voluntarily surrendered, and not reinstated, by any other state; and
+
+    j. Except as provided in subsection (3) of this section, if not yet certified, has met the background investigation requirements under RCW 43.101.095, and if certified, has met the requirements in (a) through (i) of this subsection.
+
+        i. The background investigation under RCW 43.101.095 must be completed by the appointing authority no earlier than six months prior to the date of appointment. The appointing authority must submit verification to the criminal justice training commission that the person meets the eligibility criteria, has complied with all applicable standards, and was not determined by the background investigation and commission rules to be unsuitable for employment by a law enforcement agency or to serve in the office of chief of police or marshal. Such verification is a public record.
+
+        ii. The appointing authority is responsible for any cost associated with the background investigation.
+
+2.
+
+A person seeking appointment to the office of chief of police or marshal shall provide a sworn statement under penalty of perjury to the appointing authority stating that the person meets the requirements of this section.
+
+3. The background investigation requirements and the age requirement in subsection (1) of this section do not apply to any person who is holding the office of chief of police or marshal as of the effective date of this section, unless the person seeks appointment to a different office of chief of police or town marshal. All other eligibility requirements apply as of the effective date of this section.
+
+4. For the purposes of this section, "government law enforcement agency" means a general authority Washington law enforcement agency or a limited authority Washington law enforcement agency as defined in RCW 10.93.020, or a state or federal governmental agency that is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of, any person for any violation of law.
+
+## Section 3
+1. Before making an appointment to the office of chief of police or marshal in any city or town, the appointing authority must attest as part of the public record of appointment that the requirements of RCW 35.21.333 have been met.
+
+2. Such appointment shall be terminated, and a vacancy created, if the chief of police's or marshal's certification is not maintained as required under chapter 43.101 RCW and the rules of the commission, if the chief of police or marshal is decertified under chapter 43.101 RCW, or if the other requirements of RCW 35.21.333 are determined to have not been met, or to have not been complied with while in office. The appointing city or town authority shall appoint a replacement to fill the office. The person appointed must meet the requirements of RCW 35.21.333.
+
+## Section 4
+The department of police in a city of the second class shall be under the direction and control of the chief of police subject to the direction of the mayor. The city and police chief must comply with the requirements set forth in RCW 35.21.333 and 35.21.334. Any police officer may pursue and arrest violators of city ordinances beyond the city limits.
+
+The city and department must comply with the requirements set forth in section 6 of this act regarding use of volunteers, specially commissioned officers, and youth cadets as defined in section 6 of this act.
+
+The police chief shall have the same authority as that conferred upon sheriffs
+
+pursuant to RCW 36.28.010(7).
+
+## Section 5
+The department of police in a town shall be under the direction and control of the marshal subject to the direction of the mayor. The town and marshal must comply with the requirements set forth in RCW 35.21.333 and 35.21.334. The marshal may pursue and arrest violators of town ordinances beyond the town limits.
+
+The marshal's lawful orders shall be promptly executed by deputiesand police officers . The marshal may appoint, subject to the approval of the mayor, one or more deputies, for whose acts the marshal shall be responsible, and whose compensation shall be fixed by the council. The town and department must comply with the requirements set forth in section 6 of this act regarding use of volunteers, specially commissioned officers, and youth cadets as defined in section 6 of this act.
+
+The marshal shall have the same authority as that conferred upon sheriffs pursuant to RCW 36.28.010(7).
+
+The marshal shall execute and return all process issued and directed to the marshal by any legal authority . The marshal shall perform such other services as the council by ordinance may require.
+
+## Section 6
+1. [Empty]
+
+    a. Any law enforcement agency in any city or town that uses volunteers or youth cadets, as defined in this section, to assist in the work of its law enforcement agency may not authorize them, unless they have completed peace officer training and maintained certification requirements, to enforce criminal laws or civil immigration laws; engage in pursuits; detain or arrest; use force; carry or use firearms or other weapons; use surveillance technologies; or share information from law enforcement databases. They also may not be authorized to use dogs to track people or animals, other than to assist with search and rescue, and may not use dogs to apprehend or bite people or animals.
+
+    b. A law enforcement agency in a city or town may authorize volunteers to assist with roles including, but not limited to, technical and administrative support, bicycle recovery, community crime prevention coordination, vehicle maintenance, helping with search and rescue, serving as faith leaders, transport, parking enforcement and traffic management, assisting with parks and recreation, animal control and caring for domestic animals, and other public safety-related community service, education, and outreach work.
+
+2. [Empty]
+
+    a. Limitations on authority and permissible roles pursuant to subsection (1) of this section, and required supervision of volunteers and youth cadets, must be set forth in agency policies. Agency policies must also include limitations on the authority of, and requirements for, specially commissioned officers, including requirements that specially commissioned officers must be supervised by the law enforcement agency that commissioned them, other than when acting pursuant to RCW 10.93.050. Policies and ordinances must require appropriate training for any firearms or other weapons that specially commissioned officers or youth cadets are authorized to use.
+
+Agency policies must also require that volunteers, youth cadets, and specially commissioned officers be clearly identifiable by the public as such, and as distinguishable from peace officers, with limitations on the use of face coverings consistent with standards in state law for law enforcement. Sheriffs, police chiefs, and marshals must only provide badges or other identifying insignia to volunteers, youth cadets, and specially commissioned officers that are authorized in agency policy, and such identification may only be used by them while on duty in their authorized roles.
+
+    b. Any city or town that uses volunteers, youth cadets, or specially commissioned officers must adopt or amend its laws and ordinances to comply with the requirements of this section. The requirements of this section take effect January 1, 2027, to provide time for adoption of policies, laws, and ordinances, and this section supersedes, preempts, and invalidates any local law or ordinance that conflicts with this section.
+
+    c. For purposes of this section, "youth cadets" means participants in law enforcement agency training programs for careers in law enforcement.
+
+## Section 7
+1. [Empty]
+
+    a. Any law enforcement agency in any code city that uses volunteers or youth cadets, as defined in section 6 of this act, to assist in the work of its law enforcement agency may not provide authority to these volunteers, unless they have completed peace officer training and maintained certification requirements, to enforce criminal laws or civil immigration laws; engage in pursuits; detain or arrest; use force; carry or use firearms or other weapons; use surveillance technologies; or share information from law enforcement databases. They also may not be authorized to use dogs to track people or animals, other than to assist with search and rescue, and may not use dogs to apprehend or bite people or animals.
+
+    b. A law enforcement agency in a code city may authorize volunteers to assist with roles including, but not limited to, technical and administrative support, bicycle recovery, community crime prevention coordination, vehicle maintenance, helping with search and rescue, serving as faith leaders, transport, parking enforcement and traffic management, assisting with parks and recreation, animal control and caring for domestic animals, and other public safety-related community service, education, and outreach work.
+
+2. [Empty]
+
+    a. Limitations on authority and permissible roles pursuant to subsection (1) of this section, and required supervision of volunteers and youth cadets, must be set forth in agency policies. Agency policies must also include limitations on the authority of, and requirements for, specially commissioned officers, including requirements that specially commissioned officers must be supervised by the law enforcement agency that commissioned them, other than when acting pursuant to RCW 10.93.050. Policies and ordinances must require appropriate training for any firearms or other weapons that specially commissioned officers or youth cadets are authorized to use. Agency policies must also require that volunteers, youth cadets, and specially commissioned officers be clearly identifiable by the public as such, and as distinguishable from peace officers, with limitations on the use of face coverings consistent with standards in state law for law enforcement. Sheriffs, police chiefs, and marshals must only provide badges or other identifying insignia to volunteers, youth cadets, and specially commissioned officers that are authorized in agency policy, and such identification may only be used by them while on duty in their authorized roles.
+
+    b. Any code city that uses volunteers, youth cadets, or specially commissioned officers must adopt or amend its laws and ordinances to comply with the requirements of this section. The requirements of this section take effect January 1, 2027, to provide time for adoption of policies, laws, and ordinances, and this section supersedes, preempts, and invalidates any local law or ordinance that conflicts with this section.
+
+## Section 8
+The sheriff is the chief executive officer and conservator of the peace of the county. In the execution of the office, the sheriff and the sheriff's deputies:
+
+1. Shall uphold and enforce the Constitution and laws of the state of Washington, as interpreted and applied by the state supreme court, and uphold the United States Constitution;
+
+2. Shall be authorized to address all violations of the law and arrest  persons who break the law;
+
+3. Shall defend the county against those who, by riot or otherwise, endanger the public peace or safety;
+
+4. Shall execute the process and orders of the courts of justice or judicial officers, when delivered for that purpose, according to law;
+
+5. Shall execute all warrants delivered for that purpose by other public officers, according to the provisions of particular statutes;
+
+6. Shall  obey  lawful judicial orders or directions;
+
+7. Shall keep and preserve the peace in their respective counties, and are authorized to work in collaboration with other law enforcement agencies pursuant to the Washington mutual aid peace officers powers act, chapter 10.93 RCW;
+
+8. Shall effect the service of process in civil or criminal cases; and
+
+9. [Empty]
+
+    a. [Empty]
+
+        i. May call to their aid volunteers and youth cadets, as defined in section 6 of this act. Any sheriff in any county that uses volunteers or youth cadets to assist in the sheriff's work may not provide authority to them, unless they have completed peace officer training and maintained certification requirements, to enforce criminal laws or civil immigration laws; engage in pursuits; detain or arrest; use force; carry or use firearms or other weapons; use surveillance technologies; or share information from law enforcement databases. Additionally, volunteers and youth cadets may not be authorized to use dogs to track people or animals, other than to assist with search and rescue, and may not use dogs to apprehend or bite people or animals.
+
+        ii. A sheriff may authorize volunteers to assist with roles including, but not limited to, technical and administrative support, bicycle recovery, community crime prevention coordination, vehicle maintenance, helping with search and rescue, serving as faith leaders, transport, parking enforcement and traffic management, assisting with parks and recreation, animal control and caring for domestic animals, and other public safety-related community service, education, and outreach work.
+
+    b. Limitations on authority pursuant to (a) of this subsection, and the required supervision of volunteers and youth cadets, must be set forth in agency policies. Agency policies must also include limitations on the authority of, and requirements for, specially commissioned officers, including requirements that specially commissioned officers must be supervised by the law enforcement agency that commissioned them, other than when acting pursuant to RCW 10.93.050. Policies and ordinances must require appropriate training for any firearms or other weapons that specially commissioned officers or youth cadets are authorized to use. Agency policies must also require that volunteers, youth cadets, and specially commissioned officers be clearly identifiable by the public as such, and as distinguishable from peace officers, with limitations on the use of face coverings consistent with standards in state law for law enforcement. Sheriffs, police chiefs, and marshals must only provide badges or other identifying insignia to volunteers, youth cadets, and specially commissioned officers that are authorized in agency policy, and such identification may only be used by them while on duty in their authorized roles.
+
+The requirements of this subsection must be implemented in accordance with section 10 of this act and take effect January 1, 2027, to provide time for adoption of policies, laws, and ordinances.
+
+## Section 9
+1. A person filing for candidacy for the office of sheriff, or seeking appointment to the office of sheriff, is eligible for election, appointment, holding office, and remaining in that office only if that person:
+
+    a. Is a citizen of the United States of America;
+
+    b. Is at least 25 years old;
+
+    c. Has obtained a high school diploma or high school equivalency certificate as provided in RCW 28B.50.536;
+
+    d. Has not been convicted under the laws of this state, another state, the United States, or the substantial equivalent under foreign law, of a felony;
+
+    e. Has not been convicted under the laws of this state, another state, the United States, or the substantial equivalent under foreign law, of a gross misdemeanor;
+
+    f. Has not engaged in and does not engage in conduct meeting the criteria requiring denial or revocation of certification set forth in RCW 43.101.105(2);
+
+    g. Has received at least a general discharge under honorable conditions from any branch of the armed services for any military service if the person was in the military service;
+
+    h. Has completed at least five years of regular, uninterrupted, full-time law enforcement employment, involving enforcement responsibilities with a government law enforcement agency, as defined in subsection (3) of this section;
+
+        i. Within nine months of assuming office, unless otherwise extended by the criminal justice training commission, has obtained certification, thereafter maintains certification as required under chapter 43.101 RCW and the rules of the commission, and has never had their certification denied, revoked, or voluntarily surrendered, and not reinstated, by any other state; and
+
+    j. Except as provided in subsection (4) of this section, prior to the election filing deadline, within 30 days after certification of the election, or at the time of appointment, if not yet certified, has met the background investigation requirements under RCW 43.101.095, or if certified, has completed a background investigation that confirms that the person has met the requirements in (a) through (i) of this subsection.
+
+        i. For any person filing for candidacy or elected to the office of sheriff, the Washington state patrol must conduct the background investigation and submit the completed background investigation to the criminal justice training commission for verification that it complies with the requirements of this section no later than the election filing deadline, or, if the request for the background investigation is made too close to the election filing deadline to meet that timeline, no later than one month after the date of certification of the election results. A person filing for candidacy for the office of sheriff must submit a background investigation request to the Washington state patrol within six months of, and up to, the deadline for filing for election, and provide with the request the attestation required by subsection (2) of this section. If the commission determines additional background information must be gathered to fulfill the statutory requirements, the commission shall request that the state patrol conduct the necessary additional investigation and the state patrol shall resubmit the completed investigation to the commission for verification. Once the commission verifies that the background investigation requirements have or have not been met, the commission shall notify the state patrol and the candidate or elected person.
+
+        ii. Immediately following the filing deadline, the commission shall post on its public website maintained under RCW 43.101.400(4) a list of all candidates for sheriff who have submitted the request for a background investigation and the attestation as required by this section, and each candidate who has passed the required background investigation.
+
+        iii. The Washington state patrol must develop and provide on its website, by October 1, 2026, a standard form and process for persons filing for candidacy for the office of sheriff to use in requesting the required background investigation, providing necessary information, and the required attestation that the person meets all eligibility requirements.
+
+        iv. In the case of appointment, the background investigation under RCW 43.101.095 must be completed by the appointing authority no earlier than six months prior to the date of appointment. The appointing authority must submit verification to the commission that the person meets the eligibility criteria, has complied with all applicable standards, and was not determined by the background investigation and commission rules to be unsuitable for employment by a law enforcement agency or to serve in the office of sheriff. Such verification is a public record.
+
+    v. The county in which a person is seeking appointment or election to the office of sheriff is responsible for any costs associated with the background investigation required by this section. The county shall reimburse the Washington state patrol for all costs associated with the background investigation it conducts for any person seeking election to the office of sheriff. The appointing authority is responsible for all costs associated with the background investigation it conducts for any person being appointed to the office of sheriff in that county.
+
+2. A person seeking election or appointment to the office of sheriff must provide a sworn statement under penalty of perjury to the state patrol or to the appointing authority stating that the person meets the requirements of this section, and the state patrol, upon completion of the background investigation, or appointing authority must attest as part of the public record that the requirements of this section have been met. In addition to posting all requests for background investigations, attestations, and a list of background investigations completed, and whether each person passed or failed, by the filing deadline as required in subsection (1)(j)(ii) of this section, the criminal justice training commission shall, after the election, but no later than 60 days following the election, post on its public website maintained under RCW 43.101.400(4) a list of sheriffs who have completed the background investigation, and whether each passed or failed, as required by this section.
+
+3. For the purposes of this section, "government law enforcement agency" means a general authority Washington law enforcement agency or a limited authority Washington law enforcement agency as defined in RCW 10.93.020, or a state or federal governmental agency that is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law.
+
+4. The background investigation requirements and the age requirement in subsection (1) of this section do not apply to any person who is holding the office of sheriff as of the effective date of this section, unless the person seeks election to a different office of sheriff, or appointment to a different office of sheriff. All other eligibility requirements apply as of the effective date of this section.
+
+## Section 10
+1. [Empty]
+
+    a. Any sheriff in any county that uses volunteers or youth cadets, as defined in section 6 of this act, to assist in the sheriff's work may not provide authority to them, unless they have completed peace officer training and maintained certification requirements, to enforce criminal laws or civil immigration laws; engage in pursuits; detain or arrest; use force; carry or use firearms or other weapons; use surveillance technologies; or share information from law enforcement databases. They also may not be authorized to use dogs to track people or animals, other than to assist with search and rescue, and may not use dogs to apprehend or bite people or animals.
+
+    b. A sheriff may authorize volunteers to assist with roles including, but not limited to, technical and administrative support, bicycle recovery, community crime prevention coordination, vehicle maintenance, helping with search and rescue, serving as faith leaders, transport, parking enforcement and traffic management, assisting with parks and recreation, animal control and caring for domestic animals, and other public safety-related community service, education, and outreach work.
+
+2. [Empty]
+
+    a. Limitations on authority pursuant to subsection (1) of this section, and the required supervision of volunteers and youth cadets, must be set forth in agency policies. Agency policies must also include limitations on the authority of, and requirements for, specially commissioned officers, including requirements that specially commissioned officers must be supervised by the law enforcement agency that commissioned them, other than when acting pursuant to RCW 10.93.050. Policies and ordinances must require appropriate training for any firearms or other weapons that specially commissioned officers or youth cadets are authorized to use. Agency policies must also require that volunteers, youth cadets, and specially commissioned officers be clearly identifiable by the public as such, and as distinguishable from peace officers, with limitations on the use of face coverings consistent with standards in state law for law enforcement. Sheriffs, police chiefs, and marshals must only provide badges or other identifying insignia to volunteers, youth cadets, and specially commissioned officers that are authorized in agency policy, and such identification may only be used by them while on duty in their authorized roles.
+
+    b. In any county where the sheriff's office uses volunteers, youth cadets, or specially commissioned officers, the county must adopt or amend its laws and ordinances to comply with the requirements of this section. The requirements of this section take effect January 1, 2027, to provide time for adoption of policies, laws, and ordinances, and this section supersedes, preempts, and invalidates any local law or ordinance that conflicts with this section.
+
+## Section 11
+1. In addition to the causes for vacancy of elective office set forth in RCW 42.12.010, a vacancy in the office of sheriff is created if the incumbent does not maintain certification as required under chapter 43.101 RCW, is decertified under chapter 43.101 RCW, or if the other requirements of RCW 36.28.025 are determined to have not been met or to have not been complied with while in office. When a vacancy has been created, the vacancy shall be filled pursuant to RCW 36.16.110. The person appointed must meet the requirements of RCW 36.28.025.
+
+2. Where the office of sheriff is an appointed position, such appointment is terminated, and a vacancy created, if the incumbent does not maintain certification as required under chapter 43.101 RCW, is decertified under chapter 43.101 RCW, or if the other requirements of RCW 36.28.025 are determined to have not been met or to have not been complied with while in office. The appointing county legislative authority shall appoint a replacement to fill the office. The person appointed must meet the requirements of RCW 36.28.025.
+
+## Section 12
+Every elective office shall become vacant on the happening of any of the following events:
+
+1. The death of the incumbent;
+
+2. The resignation of the incumbent. A vacancy caused by resignation shall be deemed to occur upon the effective date of the resignation;
+
+3. The removal of the incumbent;
+
+4. Except as provided in RCW 3.46.067 and 3.50.057, the incumbent ceasing to be a legally registered voter of the district, county, city, town, or other municipal or quasi municipal corporation from which the incumbent shall have been elected or appointed, including where applicable the council district, commissioner district, or ward from which the incumbent shall have been elected or appointed;
+
+5. The incumbent's conviction of a felony, or of any offense involving a violation of the incumbent's official oath;
+
+6. The incumbent's refusal or neglect to take their oath of office, or to give or renew their official bond, or to deposit such oath or bond within the time prescribed by law;
+
+7. The decision of a competent tribunal declaring void the incumbent's election or appointment;
+
+8. Whenever a judgment shall be obtained against that incumbent for breach of the condition of their official bond; or
+
+9. Whenever an elected law enforcement official does not maintain certification as required under chapter 43.101 RCW, is decertified under chapter 43.101 RCW, or if the other requirements of RCW 36.28.025 are determined to have not been met or to have not been complied with while in office.
+
+## Section 13
+1. [Empty]
+
+    a. As a condition of employment, election, or appointment to office, all peace officers and all corrections officers are required to obtain certification  and maintain certification as required by this chapter and the rules of the commission.
+
+    b. To ensure that sheriffs, police chiefs, and town marshals meet the requirements in RCW 35.21.333 and 36.28.025 to obtain certification within nine months of assuming office, the commission must prioritize their access to any commission training required for certification.
+
+2. [Empty]
+
+    a. Any person seeking election, appointment, or employment as a peace officer , reserve officer,  corrections officer , or  as a limited authority Washington peace officer who if hired would qualify as a peace officer as defined in RCW 43.101.010 , must submit to a background investigation to determine the person's suitability for employment. Any person seeking election to the office of sheriff must meet the background investigation requirements under RCW 36.28.025. This requirement does not apply to any person whose certification has lapsed as a result of a break of more than 24 consecutive months in the officer's service as a result of being recalled into military service. Employing agencies and appointing authorities may only make a conditional offer of employment pending completion of the background investigation and shall attest in writing to the commission that they have complied with all background investigation requirements prior to making any nonconditional offer of employment.
+
+    b. The background investigation must have been completed within the prior six months, and include:
+
+        i. A check of criminal history, any national decertification index, commission records, and all disciplinary records by any previous law enforcement or correctional employer, including complaints or investigations of misconduct and the reason for separation from employment. Law enforcement or correctional agencies that previously employed or received an application from the person shall retain application records and disclose employment or application information within 30 days of receiving a written request from the employing agency conducting the background investigation, including the reason for the person's separation from the agency, any information regarding the person's application to that agency, and any other information obtained during the background investigation conducted as part of the application process. Complaints or investigations of misconduct must be disclosed regardless of the result of the investigation or whether the complaint was unfounded;
+
+        ii. Inquiry to the local prosecuting authority in any jurisdiction in which the person has served as to whether the person is on any potential impeachment disclosure list;
+
+        iii. Inquiry into whether the person has any past or present affiliations with extremist organizations, as defined by the commission;
+
+        iv. A review of the person's social media accounts;
+
+    v. Verification of immigrant or citizenship status as either a citizen of the United States of America, lawful permanent resident, or deferred action for childhood arrivals recipient;
+
+    vi. A psychological examination administered by a psychiatrist licensed in the state of Washington pursuant to chapter 18.71 RCW or a psychologist licensed in the state of Washington pursuant to chapter 18.83 RCW, in compliance with standards established in rules of the commission;
+
+    vii. A polygraph or similar assessment administered by an experienced professional with appropriate training and in compliance with standards established in rules of the commission; and
+
+    viii. Except as otherwise provided in this section, any test or assessment to be administered as part of the background investigation shall be administered in compliance with standards established in rules of the commission.
+
+    c. The commission shall establish standards for the background investigation requirements in this section and any other preemployment background investigation requirement that may be imposed by an employing agency or the commission.
+
+3. [Empty]
+
+    a. The commission shall allow a peace officer or corrections officer to retain status as a certified  officer as long as the officer: (i) Timely meets the basic training requirements, or is exempted therefrom, in whole or in part, under RCW 43.101.200 or under rule of the commission; (ii) timely meets or is exempted from any other requirements under this chapter as administered under the rules adopted by the commission; (iii) is not denied certification by the commission under this chapter; and (iv) has not had certification suspended or revoked by the commission.
+
+    b. The commission shall certify peace officers who are limited authority Washington peace officers employed on or before July 1, 2023. Thereafter, the commission may revoke certification pursuant to this chapter.
+
+4. As a condition of certification and of a background investigation, a peace officer or corrections officer must:
+
+    a. On a form devised or adopted by the commission, authorize the release to the employing county, city, or agency and to the commission of the officer's personnel files, including disciplinary, termination, civil or criminal investigation, or other records or information that are directly related to a certification matter or decertification matter before the commission;
+
+    b. Consent to and facilitate a review of the officer's social media accounts, however, consistent with RCW 49.44.200, the officer is not required to provide login information. The release of information may not be delayed, limited, or precluded by any agreement or contract between the officer, or the officer's union, and the entity responsible for the records or information; and
+
+    c. Indicate, on a form provided by the hiring agency, any prior application materials, including any background investigation conducted while seeking employment with any other law enforcement agency, including where the person began but did not complete a full background investigation.
+
+5. The employing county, city, or agency andthe commission are authorized to receive criminal history record information that includes nonconviction data for any purpose associated with employment or certification under this chapter. Dissemination or use of nonconviction data for purposes other than that authorized in this section is prohibited.
+
+6. For a national criminal history records check, the commission shall require fingerprints be submitted and searched through the Washington state patrol identification and criminal history section. The Washington state patrol shall forward the fingerprints to the federal bureau of investigation.
+
+7. Prior to certification, or to appointment as a sheriff, chief, or marshal, the employing agency shall attest to the commission that the agency has received or conducted a completed  background investigation, that no information has been found that would disqualify the person from certification, and that the person was determined by the background investigation and under commission rules to be suitable for employment as a peace officer , corrections officer, sheriff, chief, or marshal. Persons determined by the background investigation to have engaged in conduct meeting the criteria set forth in RCW 43.101.105(2) shall be considered unsuitable for employment as a peace officer. For candidates for the elective office of sheriff, the person filing for office must, by the deadline to file as a candidate, have submitted the request for the background investigation and the required attestation that the candidate meets all eligibility requirements pursuant to RCW 36.28.025.
+
+8. All files, papers, and other information obtained as part of the background investigation are confidential and exempt from public disclosure under chapter 42.56 RCW. The verification by the commission that the background investigation has been completed, and whether it has been passed or failed, is a public record. The commission must retain background investigation files it receives.
+
+9. [Empty]
+
+    a. In order to assure consistent use of best practices regarding the standards for determining whether a background investigation has identified information that should disqualify a person, the commission shall, by December 31, 2027, issue guidelines with criteria to be applied by employing counties, cities, agencies, and the commission in determining whether a person is suitable for employment pursuant to this section.
+
+    b. To assist in developing these guidelines regarding potentially disqualifying criteria, the commission shall seek input from individuals who have experience in conducting or reviewing law enforcement background investigations, misconduct or human resource complaints, investigations, or disciplinary decisions, or who provide community perspective, which may include:
+
+        i. Chiefs, sheriffs, law enforcement agency human resource staff, legal counsel, or others from law enforcement agencies or city, county, or state human resources departments;
+
+        ii. Individuals who serve as or have served as polygraph examiners or psychologists for law enforcement background investigations;
+
+        iii. Individuals who serve in or have served in law enforcement accountability oversight roles;
+
+        iv. Representatives from the Washington association of sheriffs and police chiefs, the Washington state patrol, the Washington fraternal order of police, the Washington council of police and sheriffs, and a union representing the interests of peace officers and corrections officers; and
+
+    v. Community representatives, including a community member from eastern Washington.
+
+    c. The guidelines shall include criteria that must result in mandatory disqualification under RCW 43.101.105(2), and criteria that may result in disqualification, including all grounds for the denial, suspension, or revocation of an officer's certification under RCW 43.101.105(3), with factors to be considered by the agency or by the commission in making that discretionary determination.
+
+10. The requirements of this section apply to persons applying to serve as a new officer, a lateral transfer within the state or from another state from a law enforcement or corrections agency to a different law enforcement or corrections agency, or an officer moving from a corrections division to a law enforcement division or vice versa within the same agency unless exempted by the commission, or a person seeking appointment or election as a sheriff, chief, or marshal.
+
+11. Every individual, legal entity, and agency of federal, state, or local government is immune from civil liability, whether direct or derivative, for providing information to the commission, employing agencies, potential employing agencies, or appointing authorities in good faith.
+
+## Section 14
+1. A person denied a certification based upon dismissal or withdrawal from a basic law enforcement academy or basic corrections academy under RCW 43.101.105(3)(a) is eligible for readmission and certification upon meeting standards established in rules of the commission, which rules may provide for probationary terms on readmission.
+
+2. A person whose certification is denied or revoked based upon prior administrative error of issuance, failure to cooperate, or interference with an investigation is eligible for certification upon meeting standards established in rules of the commission, which rules shall provide for a probationary period of certification in the event of reinstatement of eligibility.
+
+3. A person whose certification is mandatorily denied or revoked pursuant to RCW 43.101.105(2) is not eligible for certification at any time.
+
+4. Any officer who is required to obtain and maintain certification and who has had their certification denied, revoked, or voluntarily surrendered and not reinstated in this state or any other state may not serve in any role as a peace officer, corrections officer, limited authority Washington peace officer, specially commissioned officer, or reserve officer.
+
+5. A person whose certification is denied or revoked for reasons other than provided in subsections (1) through (3) of this section may, five years after the revocation or denial, petition the commission for reinstatement of the certificate or for eligibility for reinstatement. The commission may hold a hearing on the petition to consider reinstatement, and the commission may allow reinstatement based upon standards established in rules of the commission. If the certificate is reinstated or eligibility for certification is determined, the commission shall establish a probationary period of certification.
+
+6. A person whose certification is revoked based solely upon a criminal conviction may petition the commission for reinstatement immediately upon a final judicial reversal of the conviction. The commission shall hold a hearing on request to consider reinstatement, and the commission may allow reinstatement based on standards established in rules of the commission. If the certificate is reinstated or if eligibility for certification is determined, the commission shall establish a probationary period of certification.
+
+7. The commission's rules and decisions regarding reinstatement shall align with its responsibilities to enhance public trust and confidence in the law enforcement profession and correctional system.
+
+## Section 15
+A general authority Washington law enforcement agency or limited authority Washington law enforcement agency is prohibited from considering the application for any office, place, position, or employment within the agency if the person has not provided the agency a document, voluntarily and knowingly signed by the person, that authorizes each prior employer and each agency to which the person has applied to release any and all information relating to the person's employment and application for employment, and further releasing and holding harmless the agency and each prior employer and agency to which the person has applied from any and all liability that may potentially result from the release and use of such information provided.
+
+## Section 16
+Persons may  be deputed by the sheriff in writing to conduct service of process in civil or criminal cases, and the sheriff shall be responsible on the sheriff's official bond for their default or misconduct. The use of such persons shall be limited to functions and actions not involving use of law enforcement authority or carrying of firearms or other weapons unless such persons are certified as peace officers under chapter 43.101 RCW.
+
+## Section 17
+1. Except as provided under subsection (2) of this section, all files, papers, and other information obtained by the commission as part of a background investigation pursuant to RCW 43.101.095 , 36.28.025, and 35.21.333 are confidential and exempt from public disclosure. Such records are not subject to public disclosure, subpoena, or discovery proceedings in any civil action, except as provided in RCW 43.101.380(6) or which become part of the record in a suspension or decertification hearing.
+
+2. Records which are otherwise confidential and exempt from public disclosure under subsection (1) of this section may be reviewed and copied: (a) By the officer involved or the officer's counsel or authorized representative, who may review the officer's file after the officer has been served with a statement of charges pursuant to RCW 43.101.155, and may submit any additional exculpatory or explanatory evidence, statements, or other information, any of which must be included in the file; (b) by a duly authorized representative of (i) the agency of termination, or (ii) a current employing law enforcement or corrections agency, which may review and copy its employee-officer's file; or (c) by a representative of or investigator for the commission.
+
+3. Records which are otherwise confidential and exempt from public disclosure under subsection (1) of this section may also be inspected at the offices of the commission by a duly authorized representative of a law enforcement or corrections agency considering an application for employment by a person who is the subject of a record. A copy of records which are otherwise confidential and exempt under subsection (1) of this section may later be obtained by an agency after it hires the person. In all other cases under this subsection, the agency may not obtain a copy of the record.
+
+4. The commission shall maintain a database that is publicly searchable, machine readable, and exportable, and accompanied by a complete, plain-language data dictionary describing the names of officers and employing agencies, all conduct investigated, certifications denied, notices and accompanying information provided by law enforcement or correctional agencies, including the reasons for separation from the agency, decertification or suspension actions pursued, and final disposition and the reasons therefor for at least 30 years after final disposition of each incident. The dates for each material step of the process must be included. Any decertification must be reported to the national decertification index.
+
+5. Every individual, legal entity, and agency of federal, state, or local government is immune from civil liability, whether direct or derivative, for providing information to the commission in good faith.
+
+## Section 18
+## Section 19
+Sections 6, 7, and 10 of this act take effect January 1, 2027.
+
+## Section 20
+Except for sections 6, 7, and 10 of this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect April 30, 2026.
+
+## Section 21
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

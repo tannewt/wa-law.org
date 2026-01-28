@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2413 - Electric utilities/adequacy</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2413/</link>
+		<description>Updates about HB 2413</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 13 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+	</channel>
+</rss>

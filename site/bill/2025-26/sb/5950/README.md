@@ -8,12 +8,16 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 5950 Nonlegal state holidays
-Sign up to testify:
-
-#### 224 👍 - Pro
+#### 272 👍 - Pro
 Testifying:
 * Yuval Berenstein - ADL
+* Jasmit Singh - Sikh Coalition (National), Khalsa Gurmat Center (Federal Way)
+* 💵Maxima Patashnik - [Jewish Federation of Greater Seattle](/org/jewish_federation_of_greater_seattle/)
+* Mahrukh Motafram - Federation of Zoroastrian Associations of North America (FEZANA)
+* Srinivas Khedam - Hindu American Community of Seattle
+* Steve Wilhelm - Northwest Dharma Association
+* 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other

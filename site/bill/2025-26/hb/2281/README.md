@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2281 State-tribal relationship

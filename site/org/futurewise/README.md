@@ -84,6 +84,9 @@
 ### [HB 2006](/bill/2025-26/hb/2006/) - Extending the deadline for a rural county collecting the sales and use tax for economic development purposes to designate industrial land banks under the growth management act.  👎1 
 * 👎💵 Bryce Yadon
 
+### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism.  👎1 
+* 👎💵 Bryce Yadon
+
 ### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
 * 👍💵 Bryce Yadon
 
@@ -229,13 +232,16 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
 * ❓💵 Bryce Yadon
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.   ❓1
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.   ❓1
 * ❓💵 Bryce Yadon
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+* 👍💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.   ❓1
-* ❓💵 Bryce Yadon
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+* 👍💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

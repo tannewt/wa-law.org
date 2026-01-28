@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%201622)
 * 11/21/2025 [KUOW](/org/kuow/) - [KUOW - WA Legislature to consider requiring union talks over government use of AI](https://www.kuow.org/stories/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai#:~:text=House%20Bill%201622)
 * 11/20/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature to consider requiring union talks over government use of AI • Washington State Standard](https://washingtonstatestandard.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=House%20Bill%201622)
 * 11/20/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature to consider requiring union talks over government use of AI](https://gorgenewscenter.com/2025/11/20/wa-legislature-to-consider-requiring-union-talks-over-government-use-of-ai/#:~:text=House%20Bill%201622)

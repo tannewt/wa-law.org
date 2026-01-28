@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5828/</link>
 		<description>Updates about SB 5828</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 22:35:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -263,6 +263,13 @@
 			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-23/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>January Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "January Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 27 Jan 2026 22:35:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205828</guid>
 		</item>
 	</channel>
 </rss>

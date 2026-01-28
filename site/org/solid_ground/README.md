@@ -40,7 +40,7 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
-### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
+### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎2 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 

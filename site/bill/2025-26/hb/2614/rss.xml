@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2614 - Home cultivation of cannabis</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2614/</link>
+		<description>Updates about HB 2614</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 09:29:40 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍John Kingsbury - Cannabis Alliance</title>
+			<description>John Kingsbury signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cannabis_alliance/"&gt;Cannabis Alliance&lt;/a&gt;.</description>
+			<pubDate>Thu, 22 Jan 2026 05:23:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Kingsbury/2026-01-22 05:23:16</guid>
+		</item>
+		<item>
+			<title>👎💵Derrick Nunnally - Association of Washington Cities</title>
+			<description>Derrick Nunnally signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Jan 2026 04:48:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Derrick/Nunnally/2026-01-23 04:48:15</guid>
+		</item>
+		<item>
+			<title>❓Tyler Markwart - Association of Washington Cities</title>
+			<description>Tyler Markwart signed up to testify Other.</description>
+			<pubDate>Fri, 23 Jan 2026 07:43:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tyler/Markwart/2026-01-23 07:43:28</guid>
+		</item>
+		<item>
+			<title>👍Robert Stuberg - Cannabis Alliance</title>
+			<description>Robert Stuberg signed up to testify Pro.</description>
+			<pubDate>Sat, 24 Jan 2026 11:03:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Stuberg/2026-01-24 11:03:46</guid>
+		</item>
+		<item>
+			<title>👍Mike Asai - Emerald City Collective</title>
+			<description>Mike Asai signed up to testify Pro. They are signed up to represent Emerald City Collective.</description>
+			<pubDate>Mon, 26 Jan 2026 09:29:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Asai/2026-01-26 09:29:40</guid>
+		</item>
+	</channel>
+</rss>

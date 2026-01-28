@@ -1,0 +1,110 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2507](/bill/2025-26/hb/2507/) > [Original Bill](/bill/2025-26/hb/2507/1/)
+
+# HB 2507 - Sex offender information
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2507.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. Any adult residing whether or not the person has a fixed residence, or who is a student, is employed, or carries on a vocation in this state who has been found to have committed or has been convicted of any sex offense or kidnapping offense, or who has been found not guilty by reason of insanity under chapter 10.77 RCW of committing any sex offense or kidnapping offense, shall register with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation, or as otherwise specified in this section.
+
+    b. Any person who is not an adult residing whether or not the person has a fixed residence, or who is a student, is employed, or carries on a vocation in this state shall register with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation, or as otherwise specified in this section if the person:
+
+        i. Committed a class A or class B sex offense when the person was age 16 or 17 and did not receive a special sex offender disposition alternative under RCW 13.40.162;
+
+        ii. Committed rape in the first degree when the person was age 14 or 15;
+
+        iii. Committed rape in the second degree when the person was age 14 or 15 and the person did not receive a special sex offender disposition alternative under RCW 13.40.162;
+
+        iv. Committed a sex offense and, on the offense date, the juvenile had a prior conviction for a sex offense as defined in RCW 9A.44.128 or had a deferred disposition for a sex offense pursuant to RCW 13.40.127;
+
+    v. Has a special sex offender disposition alternative under RCW 13.40.162 revoked for:
+
+(A) A class A or class B sex offense that was committed when the person was age 16 or 17; or
+
+(B) A rape in the second degree offense that was committed when the person was age 14 or 15;
+
+    vi. Has an out-of-state, tribal, or federal conviction for a sex offense;
+
+    vii. Committed a kidnapping offense; or
+
+    viii. Is found by the court based on clear, cogent, and convincing evidence to:
+
+(A) Be age 14 through 17 on the offense date;
+
+(B) Not have received a special sex offender disposition alternative under RCW 13.40.162 for the offense triggering possible registration or have had a special sex offender disposition alternative under RCW 13.40.162 revoked for that offense;
+
+(C) Have been adjudicated of multiple sex offenses involving two or more distinct victims in separate counts or separate causes;
+
+(D) Present a serious threat to public safety after the last date of release from confinement, including full-time residential treatment, if any, or entry of disposition; and
+
+(E) Require registration in order to lessen the serious threat to public safety.
+
+    c. When a person required to register under this section is in custody of the state department of corrections, the state department of social and health services, a local division of youth services, or a local jail or juvenile detention facility as a result of a sex offense or kidnapping offense, the person shall also register at the time of release from custody with an official designated by the agency that has jurisdiction over the person.
+
+    d. Any adult or juvenile who is required to register under (b) of this subsection must give notice to the county sheriff of the county with whom the person is registered within three business days:
+
+        i. Prior to arriving at a school or institution of higher education to attend classes;
+
+        ii. Prior to starting work at an institution of higher education; or
+
+        iii. After any termination of enrollment or employment at a school or institution of higher education.
+
+2. [Empty]
+
+    a. A person required to register under this section must provide the following information when registering: (i) Name and any aliases used; (ii) complete and accurate residential address or, if the person lacks a fixed residence, where he or she plans to stay; (iii) date and place of birth; (iv) place of employment or volunteer work; (v) crime for which convicted; (vi) date and place of conviction; (vii) social security number; (viii) name and address of any place the person is a student or will be a student; (ix) designations the person uses for purposes of routing or self-identification in internet or telephonic communications or postings, including email addresses and telephone numbers; (x) the license plate number and description of any vehicle owned or operated by the person; (xi) photograph; and (xii) fingerprints.
+
+    b. A person may be required to update any of the information required in this subsection in conjunction with any address verification conducted by the county sheriff or as part of any notice required by this section.
+
+    c. A photograph or copy of an individual's fingerprints, which may include palmprints may be taken at any time to update an individual's file.
+
+3. Any person required to register under this section who intends to travel outside the United States must provide, by certified mail, with return receipt requested, or in person, signed written notice of the plan to travel outside the country to the county sheriff of the county with whom the person is registered at least twenty-one days prior to travel. The notice shall include the following information: (a) Name; (b) passport number and country; (c) destination; (d) itinerary details including departure and return dates; (e) means of travel; and (f) purpose of travel. If the offender subsequently cancels or postpones travel outside the United States, the offender must notify the county sheriff not later than three days after cancellation or postponement of the intended travel outside the United States or on the departure date provided in the notification, whichever is earlier. The county sheriff shall notify the United States marshals service as soon as practicable after receipt of the notification. In cases of unexpected travel due to family or work emergencies, or for offenders who travel routinely across international borders for work-related purposes, the notice must be submitted in person at least twenty-four hours prior to travel to the sheriff of the county where such offenders are registered with a written explanation of the circumstances that make compliance with this subsection (3) impracticable.
+
+4. [Empty]
+
+    a. Offenders shall register with the county sheriff within the following deadlines:
+
+        i. OFFENDERS IN CUSTODY. Sex offenders or kidnapping offenders who are in custody of the state department of corrections, the state department of social and health services, a local division of youth services, or a local jail or juvenile detention facility, must register at the time of release from custody with an official designated by the agency that has jurisdiction over the offender. The agency shall within three days forward the registration information to the county sheriff for the county of the offender's anticipated residence. The offender must also register within three business days from the time of release with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation. The agency that has jurisdiction over the offender shall provide notice to the offender of the duty to register.
+
+When the agency with jurisdiction intends to release an offender with a duty to register under this section, and the agency has knowledge that the offender is eligible for developmental disability services from the department of social and health services, the agency shall notify the division of developmental disabilities of the release. Notice shall occur not more than thirty days before the offender is to be released. The agency and the division shall assist the offender in meeting the initial registration requirement under this section. Failure to provide such assistance shall not constitute a defense for any violation of this section.
+
+When a person required to register under this section is in the custody of the state department of corrections or a local corrections or probations agency and has been approved for partial confinement as defined in RCW 9.94A.030, the person must register at the time of transfer to partial confinement with the official designated by the agency that has jurisdiction over the offender. The agency shall within three days forward the registration information to the county sheriff for the county in which the offender is in partial confinement. The offender must also register within three business days from the time of the termination of partial confinement or release from confinement with the county sheriff for the county of the person's residence. The agency that has jurisdiction over the offender shall provide notice to the offender of the duty to register.
+
+        ii. OFFENDERS UNDER FEDERAL JURISDICTION. Sex offenders or kidnapping offenders who are in the custody of the United States bureau of prisons or other federal or military correctional agency must register within three business days from the time of release with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation.
+
+        iii. OFFENDERS WHO ARE CONVICTED BUT NOT CONFINED. Sex offenders who are convicted of a sex offense and kidnapping offenders who are convicted for a kidnapping offense but who are not sentenced to serve a term of confinement immediately upon sentencing shall report to the county sheriff to register within three business days of being sentenced.
+
+        iv. OFFENDERS WHO ARE NEW RESIDENTS, TEMPORARY RESIDENTS, OR RETURNING WASHINGTON RESIDENTS. Sex offenders and kidnapping offenders who move to Washington state from another state or a foreign country must register within three business days of establishing residence or reestablishing residence if the person is a former Washington resident. If the offender is under the jurisdiction of an agency of this state when the offender moves to Washington, the agency shall provide notice to the offender of the duty to register.
+
+Sex offenders and kidnapping offenders who are visiting Washington state and intend to reside or be present in the state for ten days or more shall register his or her temporary address or where he or she plans to stay with the county sheriff of each county where the offender will be staying within three business days of arrival. Registration for temporary residents shall include the information required by subsection (2)(a) of this section, except the photograph and fingerprints.
+
+    v. OFFENDERS FOUND NOT GUILTY BY REASON OF INSANITY. Any adult or juvenile who has been found not guilty by reason of insanity under chapter 10.77 RCW of committing a sex offense or a kidnapping offense and who is in custody, as a result of that finding, of the state department of social and health services, must register within three business days from the time of release with the county sheriff for the county of the person's residence. The state department of social and health services shall provide notice to the adult or juvenile in its custody of the duty to register.
+
+    vi. OFFENDERS WHO LACK A FIXED RESIDENCE. Any person who lacks a fixed residence and leaves the county in which he or she is registered and enters and remains within a new county for twenty-four hours is required to register with the county sheriff not more than three business days after entering the county and provide the information required in subsection (2)(a) of this section.
+
+    vii. OFFENDERS WHO LACK A FIXED RESIDENCE AND WHO ARE UNDER SUPERVISION. Offenders who lack a fixed residence and who are under the supervision of the department shall register in the county of their supervision.
+
+    viii. OFFENDERS WHO MOVE TO, WORK, CARRY ON A VOCATION, OR ATTEND SCHOOL IN ANOTHER STATE. Offenders required to register in Washington, who move to another state, or who work, carry on a vocation, or attend school in another state shall register a new address, fingerprints, and photograph with the new state within three business days after establishing residence, or after beginning to work, carry on a vocation, or attend school in the new state. The person must also send written notice within three business days of moving to the new state or to a foreign country to the county sheriff with whom the person last registered in Washington state. The county sheriff shall promptly forward this information to the Washington state patrol.
+
+    b. The county sheriff shall not be required to determine whether the person is living within the county.
+
+    c. An arrest on charges of failure to register, service of an information, or a complaint for a violation of RCW 9A.44.132, or arraignment on charges for a violation of RCW 9A.44.132, constitutes actual notice of the duty to register. Any person charged with the crime of failure to register under RCW 9A.44.132 who asserts as a defense the lack of notice of the duty to register shall register within three business days following actual notice of the duty through arrest, service, or arraignment. Failure to register as required under this subsection (4)(c) constitutes grounds for filing another charge of failing to register. Registering following arrest, service, or arraignment on charges shall not relieve the offender from criminal liability for failure to register prior to the filing of the original charge.
+
+5. [Empty]
+
+    a. If any person required to register pursuant to this section changes his or her residence address within the same county, the person must provide, by certified mail, with return receipt requested or in person, signed written notice of the change of address to the county sheriff within three business days of moving.
+
+    b. If any person required to register pursuant to this section moves to a new county, within three business days of moving the person must register with the county sheriff of the county into which the person has moved and provide, by certified mail, with return receipt requested or in person, signed written notice of the change of address to the county sheriff with whom the person last registered. The county sheriff with whom the person last registered is responsible for address verification pursuant to RCW 9A.44.135 until the person completes registration of his or her new residence address.
+
+6. [Empty]
+
+    a. Any person required to register under this section who lacks a fixed residence shall provide signed written notice to the sheriff of the county where he or she last registered within three business days after ceasing to have a fixed residence. The notice shall include the information required by subsection (2)(a) of this section, except the photograph, fingerprints, and palmprints. The county sheriff may, for reasonable cause, require the offender to provide a photograph and fingerprints. The sheriff shall forward this information to the sheriff of the county in which the person intends to reside, if the person intends to reside in another county.
+
+    b. A person who lacks a fixed residence must report weekly, in person, to the sheriff of the county where he or she is registered. The weekly report shall be on a day specified by the county sheriff's office, and shall occur during normal business hours. The person must keep an accurate accounting of where he or she stays during the week and provide it to the county sheriff upon request. The lack of a fixed residence is a factor that may be considered in determining an offender's risk level and shall make the offender subject to disclosure of information to the public at large pursuant to RCW 4.24.550.
+
+    c. If any person required to register pursuant to this section does not have a fixed residence, it is an affirmative defense to the charge of failure to register, that he or she provided written notice to the sheriff of the county where he or she last registered within three business days of ceasing to have a fixed residence and has subsequently complied with the requirements of subsection (4)(a)(vi) or (vii) of this section and this subsection. To prevail, the person must prove the defense by a preponderance of the evidence.
+
+7. A sex offender subject to registration requirements under this section who applies to change his or her name under RCW 4.24.130 or any other law shall submit a copy of the application to the county sheriff of the county of the person's residence and to the state patrol not fewer than five days before the entry of an order granting the name change. No sex offender under the requirement to register under this section at the time of application shall be granted an order changing his or her name if the court finds that doing so will interfere with legitimate law enforcement interests, except that no order shall be denied when the name change is requested for religious or legitimate cultural reasons or in recognition of marriage or dissolution of marriage. A sex offender under the requirement to register under this section who receives an order changing his or her name shall submit a copy of the order to the county sheriff of the county of the person's residence and to the state patrol within three business days of the entry of the order.
+
+8. Except as may otherwise be provided by law, nothing in this section shall impose any liability upon a peace officer, including a county sheriff, or law enforcement agency, for failing to release information authorized under this section.

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2644 - Law enf. body worn cameras</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2644/</link>
+		<description>Updates about HB 2644</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Rep. Tarra Simmons introduces bill package requiring officer-worn body cameras statewide and ensuring due process for Brady-listed police officers – Washington State House Democrats</title>
+			<description>News article "Rep. Tarra Simmons introduces bill package requiring officer-worn body cameras statewide and ensuring due process for Brady-listed police officers – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/22/rep-tarra-simmons-introduces-bill-package-requiring-officer-worn-body-cameras-statewide-and-ensuring-due-process-for-brady-listed-police-officers/#:~:text=House%20Bill%202644</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+	</channel>
+</rss>

@@ -11,14 +11,12 @@
 
 ## Meetings
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2257 Tax administration
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * Kate Armstrong - Department of Revenue
 * Steve Ewing - Department of Revenue
 
-#### 58 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn
 * Paul Archipley - Owner, Beacon Publishing

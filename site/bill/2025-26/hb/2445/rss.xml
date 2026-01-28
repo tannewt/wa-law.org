@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2445 - Probate</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2445/</link>
+		<description>Updates about HB 2445</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 06:51:18 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👍Ben Carr - Washington State Attorney General's Office</title>
+			<description>Ben Carr signed up to testify Pro. They are signed up to represent Washington State Attorney General's Office.</description>
+			<pubDate>Fri, 23 Jan 2026 02:50:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Carr/2026-01-23 02:50:07</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202445</guid>
+		</item>
+		<item>
+			<title>👍Robert Miller - Northwest Justice Project</title>
+			<description>Robert Miller signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_justice_project/"&gt;Northwest Justice Project&lt;/a&gt;.</description>
+			<pubDate>Mon, 26 Jan 2026 06:51:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Miller/2026-01-26 06:51:18</guid>
+		</item>
+	</channel>
+</rss>

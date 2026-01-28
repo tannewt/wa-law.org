@@ -85,6 +85,9 @@
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
+* 👍 Kimberly Dietz
+
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 

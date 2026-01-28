@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6305 - Mental health coverage</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6305/</link>
+		<description>Updates about SB 6305</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 11:25:15 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Health &amp; Long-Term Care.</title>
+			<description>First reading, referred to Health &amp; Long-Term Care.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-26/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Katherine Glaves - Washington Association of Marriage and Family Therapy</title>
+			<description>Katherine Glaves signed up to testify Pro. They are signed up to represent Washington Association of Marriage and Family Therapy.</description>
+			<pubDate>Mon, 26 Jan 2026 07:25:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katherine/Glaves/2026-01-26 07:25:01</guid>
+		</item>
+		<item>
+			<title>👍Jane Beyer - Office of the Insurance Commissioner</title>
+			<description>Jane Beyer signed up to testify Pro. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Mon, 26 Jan 2026 11:25:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jane/Beyer/2026-01-26 11:25:15</guid>
+		</item>
+	</channel>
+</rss>

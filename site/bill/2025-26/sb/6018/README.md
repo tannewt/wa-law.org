@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6018 Housing finance commission

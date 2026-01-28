@@ -39,6 +39,9 @@
 
 ### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
 
+### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
+* 👍💵 Anna Nepomuceno
+
 ### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
 
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍2  

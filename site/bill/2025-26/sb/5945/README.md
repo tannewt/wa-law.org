@@ -14,15 +14,19 @@
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5945 Persistent offenders
 Sign up to testify:
 
-#### 275 👍 - Pro
+#### 304 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Brian Flaherty - Law Office of Brian Flaherty
 * Jacob Schmitt - Just Us Solutions, LLC
 * Rory Andes - Just Us Solutions, LLC
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Karen Peacey - League of Women Voters
+* Katherine Daley - Seattle Clemency Project
+* Katherine Hurley - King County Public Defense
+* Randy Nunez - Washington State Commission on Hispanic Affairs
 
-#### 412 👎 - Con
+#### 422 👎 - Con
 Testifying:
 * Christian Bianes-Delrosario
 

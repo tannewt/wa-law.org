@@ -1,0 +1,108 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2506](/bill/2025-26/hb/2506/) > [Original Bill](/bill/2025-26/hb/2506/1/)
+
+# HB 2506 - Sex offender reg. compliance
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2506.pdf)
+
+## Section 1
+The duty to register under RCW 9A.44.130 shall continue for the duration provided in this section.
+
+1. For an adult convicted in this state of a class A felony, or an adult convicted of any sex offense or kidnapping offense who has one or more prior convictions for a sex offense or kidnapping offense, the duty to register shall continue indefinitely.
+
+2. For an adult convicted in this state of a class B felony who does not have one or more prior convictions for a sex offense or kidnapping offense, the duty to register shall end 15 years after the last date of release from confinement, if any, (including full-time residential treatment) pursuant to the conviction, or entry of the judgment and sentence, if the adult has spent 15 consecutive years in the community without being convicted of a disqualifying offense during that time period and has been in full compliance with RCW 9A.44.130 during that time period.
+
+3. For an adult convicted in this state of a class C felony, a violation of RCW 9.68A.090 or 9A.44.096, or an attempt, solicitation, or conspiracy to commit a class C felony, and the adult does not have one or more prior convictions for a sex offense or kidnapping offense, the duty to register shall end 10 years after the last date of release from confinement, if any, (including full-time residential treatment) pursuant to the conviction, or entry of the judgment and sentence, if the adult has spent 10 consecutive years in the community without being convicted of a disqualifying offense during that time period and has been in full compliance with RCW 9A.44.130 during that time period.
+
+4. [Empty]
+
+    a. For a person required to register under RCW 9A.44.130(1)(b), the duty to register will end three years after the last date of release from confinement, including full-time residential treatment, if any, or entry of disposition if the person is required to register for a class A offense committed at age 15, 16, or 17.
+
+    b. For a person required to register under RCW 9A.44.130(1)(b) who does not meet the description provided in (a) of this subsection, the duty to register will end two years after the last date of release from confinement, including full-time residential treatment, if any, or entry of disposition.
+
+5. Except as provided in RCW 9A.44.142, for a person required to register for a federal, tribal, or out-of-state conviction, the duty to register shall continue indefinitely.
+
+6. For a person who is or has been determined to be a sexually violent predator pursuant to chapter 71.09 RCW, the duty to register shall continue for the person's lifetime.
+
+7. Nothing in this section prevents a person from being relieved of the duty to register under RCW 9A.44.142, 9A.44.143, and 13.40.162.
+
+8. Nothing in RCW 9.94A.637 relating to discharge of an offender shall be construed as operating to relieve the offender of his or her duty to register pursuant to RCW 9A.44.130.
+
+9. For purposes of determining whether a person has been convicted of more than one sex offense, failure to register as a sex offender or kidnapping offender is not a sex or kidnapping offense.
+
+10. The provisions of this section and RCW 9A.44.141 through 9A.44.143 apply equally to a person who has been found not guilty by reason of insanity under chapter 10.77 RCW of a sex offense or kidnapping offense.
+
+## Section 2
+1. Upon the request of a person who is listed in the Washington state patrol central registry of sex offenders and kidnapping offenders, the county sheriff shall investigate whether a person's duty to register has ended by operation of law pursuant to RCW 9A.44.140.
+
+    a. Using available records, the county sheriff shall verify that the offender has spent the requisite time in the community , has not been convicted of a disqualifying offense, and has been in full compliance with RCW 9A.44.130.
+
+    b. If the county sheriff determines the person's duty to register has ended by operation of law, the county sheriff shall request the Washington state patrol remove the person's name from the central registry.
+
+2. Nothing in this subsection prevents a county sheriff from investigating, upon his or her own initiative, whether a person's duty to register has ended by operation of law pursuant to RCW 9A.44.140.
+
+3. [Empty]
+
+    a. A person who is listed in the central registry as the result of a federal, tribal, or out-of-state conviction may request the county sheriff to investigate whether the person should be removed from the registry if:
+
+        i. A court or other administrative authority in the person's state of conviction has made an individualized determination that the person is not required to register; and
+
+        ii. The person provides proof of relief from registration to the county sheriff.
+
+    b. If the county sheriff determines the person has been relieved of the duty to register in his or her state of conviction, the county sheriff shall request the Washington state patrol remove the person's name from the central registry.
+
+4. An appointed or elected public official, public employee, or public agency as defined in RCW 4.24.470, or units of local government and its employees, as provided in RCW 36.28A.010, are immune from civil liability for damages for removing or requesting the removal of a person from the central registry of sex offenders and kidnapping offenders or the failure to remove or request removal of a person within the time frames provided in RCW 9A.44.140.
+
+## Section 3
+1. A person who is required to register under RCW 9A.44.130 may petition the superior court to be relieved of the duty to register:
+
+    a. If the person has a duty to register for a sex offense or kidnapping offense committed when the offender was a juvenile, regardless of whether the conviction was in this state, as provided in RCW 9A.44.143;
+
+    b. If the person is required to register for a conviction in this state and is not prohibited from petitioning for relief from registration under subsection (2) of this section, when the person has spent 10 consecutive years in the community without being convicted of a disqualifying offense during that time period and has been in full compliance with RCW 9A.44.130 during that time period; or
+
+    c. If the person is required to register for a federal, tribal, or out-of-state conviction, when the person has spent 15 consecutive years in the community without being convicted of a disqualifying offense during that time period and has been in full compliance with RCW 9A.44.130 during that time period.
+
+2. [Empty]
+
+    a. A person may not petition for relief from registration if the person has been:
+
+        i. Determined to be a sexually violent predator pursuant to chapter 71.09 RCW; or
+
+        ii. Convicted as an adult of a sex offense or kidnapping offense that is a class A felony and that was committed with forcible compulsion on or after June 8, 2000.
+
+    b. Any person who may not be relieved of the duty to register may petition the court to be exempted from any community notification requirements that the person may be subject to 15 years after the later of the entry of the judgment and sentence or the last date of release from confinement, including full-time residential treatment, pursuant to the conviction, if the person has spent the time in the community without being convicted of a disqualifying offense and has spent the time in full compliance with RCW 9A.44.130.
+
+3. A petition for relief from registration or exemption from notification under this section shall be made to the court in which the petitioner was convicted of the offense that subjects him or her to the duty to register or, in the case of convictions in other states, a foreign country, or a federal, tribal, or military court, to the court in the county where the person is registered at the time the petition is sought. The prosecuting attorney of the county shall be named and served as the respondent in any such petition. The prosecuting attorney must make reasonable efforts to notify the victim via the victim's choice of telephone, letter, or email, if known.
+
+4. [Empty]
+
+    a. The court may relieve a petitioner of the duty to register only if the petitioner shows by clear and convincing evidence that the petitioner is sufficiently rehabilitated to warrant removal from the central registry of sex offenders and kidnapping offenders.
+
+    b. In determining whether the petitioner is sufficiently rehabilitated to warrant removal from the registry, the following factors are provided as guidance to assist the court in making its determination:
+
+        i. The nature of the registrable offense committed including the number of victims and the length of the offense history;
+
+        ii. Any subsequent criminal history;
+
+        iii. The petitioner's compliance with supervision requirements;
+
+        iv. The length of time since the charged incident(s) occurred;
+
+    v. Any input from community corrections officers, law enforcement, or treatment providers;
+
+    vi. Participation in sex offender treatment;
+
+    vii. Participation in other treatment and rehabilitative programs;
+
+    viii. The offender's stability in employment and housing;
+
+        ix. The offender's community and personal support system;
+
+    x. Any risk assessments or evaluations prepared by a qualified professional;
+
+    xi. Any updated polygraph examination;
+
+    xii. Any input of the victim;
+
+    xiii. Any other factors the court may consider relevant.
+
+5. If a person is relieved of the duty to register pursuant to this section, the relief of registration does not constitute a certificate of rehabilitation, or the equivalent of a certificate of rehabilitation, for the purposes of restoration of firearm possession under RCW 9.41.040.

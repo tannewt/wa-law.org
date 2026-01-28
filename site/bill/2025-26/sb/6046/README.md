@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6046 Civil air patrol
-Sign up to testify:
-
-#### 62 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Gent Welsh - Washington Military Department
 * Sid Wiggs - Washington Civil Air Patrol
+* Charles Wharton - Veterans Legislative Coalition
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

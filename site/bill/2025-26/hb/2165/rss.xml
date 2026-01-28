@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2165/</link>
 		<description>Updates about HB 2165</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,13 @@
 			<guid isPermaLink="false">testifier/Nathan/Olson/2026-01-12 10:27:23</guid>
 		</item>
 		<item>
+			<title>Washington state lawmakers push limits on masked ICE arrests, other tactics - Axios Seattle</title>
+			<description>News article "Washington state lawmakers push limits on masked ICE arrests, other tactics - Axios Seattle" from Axios.</description>
+			<pubDate>Thu, 15 Jan 2026 14:20:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/01/15/washington-ice-mask-ban-school-access-worker-notice-bills-immigration#:~:text=Ferguson-backed%20bill</guid>
+		</item>
+		<item>
 			<title>The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats</title>
 			<description>News article "The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
 			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
@@ -72,6 +79,13 @@
 			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-22/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

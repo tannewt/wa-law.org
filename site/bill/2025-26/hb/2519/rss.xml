@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2519 - Utilities/education entities</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2519/</link>
+		<description>Updates about HB 2519</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 04:38:24 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>Write your Legislators during Focus on Advocacy Week - WSPTA</title>
+			<description>News article "Write your Legislators during Focus on Advocacy Week - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 26 Jan 2026 04:38:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202519</guid>
+		</item>
+	</channel>
+</rss>

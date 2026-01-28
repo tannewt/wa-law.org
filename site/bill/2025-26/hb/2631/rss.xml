@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2631 - Agency customer service</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2631/</link>
+		<description>Updates about HB 2631</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 09:27:24 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>❓Brian Hatfield - Office of Secretary of State</title>
+			<description>Brian Hatfield signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/office_of_secretary_of_state/"&gt;Office of Secretary of State&lt;/a&gt;.</description>
+			<pubDate>Tue, 27 Jan 2026 04:31:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brian/Hatfield/2026-01-27 04:31:45</guid>
+		</item>
+		<item>
+			<title>👍Jordan See - Qualtrics</title>
+			<description>Jordan See signed up to testify Pro. They are signed up to represent Qualtrics.</description>
+			<pubDate>Tue, 27 Jan 2026 09:27:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jordan/See/2026-01-27 09:27:24</guid>
+		</item>
+	</channel>
+</rss>

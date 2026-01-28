@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2491 - WaTech/PRA exemption</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2491/</link>
+		<description>Updates about HB 2491</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 11:10:15 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Bill Kehoe - WaTech</title>
+			<description>Bill Kehoe signed up to testify Pro. They are signed up to represent WaTech.</description>
+			<pubDate>Fri, 23 Jan 2026 02:09:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Kehoe/2026-01-23 02:09:05</guid>
+		</item>
+		<item>
+			<title>❓💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn</title>
+			<description>Rowland Thompson signed up to testify Other. They are signed up to represent Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn. They are a registered lobbyist.</description>
+			<pubDate>Sun, 25 Jan 2026 09:19:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2026-01-25 09:19:00</guid>
+		</item>
+		<item>
+			<title>👎Colette Weeks - Washington Coalition for Open Government</title>
+			<description>Colette Weeks signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_coalition_for_open_government/"&gt;Washington Coalition for Open Government&lt;/a&gt;.</description>
+			<pubDate>Mon, 26 Jan 2026 10:13:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Colette/Weeks/2026-01-26 10:13:34</guid>
+		</item>
+		<item>
+			<title>👎Arthur West - Washington Coalition for Open Government</title>
+			<description>Arthur West signed up to testify Con.</description>
+			<pubDate>Tue, 27 Jan 2026 10:21:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Arthur/West/2026-01-27 10:21:26</guid>
+		</item>
+		<item>
+			<title>👎Jamie Nixon - Washington Coalition for Open Government</title>
+			<description>Jamie Nixon signed up to testify Con.</description>
+			<pubDate>Tue, 27 Jan 2026 11:10:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jamie/Nixon/2026-01-27 11:10:15</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6189 - Aquatics/sports PFD deadline</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6189/</link>
+		<description>Updates about SB 6189</description>
+		<language>en-US</language>
+		<lastBuildDate>Thu, 22 Jan 2026 10:52:30 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Local Government.</title>
+			<description>First reading, referred to Local Government.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Sylvana Niehuser - City of Olympia</title>
+			<description>Sylvana Niehuser signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_olympia/"&gt;City of Olympia&lt;/a&gt;.</description>
+			<pubDate>Wed, 21 Jan 2026 09:09:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sylvana/Niehuser/2026-01-21 09:09:45</guid>
+		</item>
+		<item>
+			<title>👍Paul Simmons - City of Tumwater</title>
+			<description>Paul Simmons signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_tumwater/"&gt;City of Tumwater&lt;/a&gt;.</description>
+			<pubDate>Thu, 22 Jan 2026 03:59:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Simmons/2026-01-22 03:59:26</guid>
+		</item>
+		<item>
+			<title>👍Mike Brewer - City of Tumwater</title>
+			<description>Mike Brewer signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 10:52:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Brewer/2026-01-22 10:52:30</guid>
+		</item>
+	</channel>
+</rss>

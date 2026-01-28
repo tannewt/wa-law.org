@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2357/</link>
 		<description>Updates about HB 2357</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 11:28:38 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sid/Wiggs/2026-01-19 11:28:38</guid>
+		</item>
+		<item>
+			<title>TEDV - Executive action taken by committee.</title>
+			<description>TEDV - Executive action taken by committee.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/TEDV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

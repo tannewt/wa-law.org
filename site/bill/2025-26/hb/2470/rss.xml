@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2470 - On-base school construction</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2470/</link>
+		<description>Updates about HB 2470</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Capital Budget.</title>
+			<description>First reading, referred to Capital Budget.</description>
+			<pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-14/First reading, referred to Capital Budget.</guid>
+		</item>
+		<item>
+			<title>👍Tyler Muench - Office of Superintendent of Public Instruction</title>
+			<description>Tyler Muench signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Thu, 22 Jan 2026 03:21:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tyler/Muench/2026-01-22 03:21:23</guid>
+		</item>
+		<item>
+			<title>👍Jerry Fugich - Veterans Legislative Coalition</title>
+			<description>Jerry Fugich signed up to testify Pro. They are signed up to represent Veterans Legislative Coalition.</description>
+			<pubDate>Sat, 24 Jan 2026 07:47:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jerry/Fugich/2026-01-24 07:47:23</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202470</guid>
+		</item>
+	</channel>
+</rss>

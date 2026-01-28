@@ -1,0 +1,105 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2415](/bill/2025-26/hb/2415/) > [Original Bill](/bill/2025-26/hb/2415/1/)
+
+# HB 2415 - DSHS unexpected fatalities
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2415.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. The department shall conduct an unexpected fatality review upon the unexpected fatality of any resident of a department facility or in any case identified for an unexpected fatality review by the office of the developmental disabilities ombuds or the office of the patient rights ombuds.
+
+    b. The department shall convene an unexpected fatality review team and determine the membership of the review team. The team shall comprise of individuals with appropriate expertise including, but not limited to, individuals whose professional expertise is pertinent to the dynamics of the case. The unexpected fatality review team shall include a representative from the health care authority, and either a representative from the office of the patient rights ombuds in cases of an unexpected fatality of a resident of a department facility that is not a residential habilitation center or state-operated living alternative, or the developmental disabilities ombuds or the ombuds' designee in cases involving an unexpected fatality of a resident of a residential habilitation center or state-operated living alternative. The department shall ensure that the unexpected fatality review team is made up of individuals who had no previous involvement in the case.
+
+    c. The primary purpose of the unexpected fatality review shall be the development of recommendations to the department and legislature regarding changes in practices or policies to prevent fatalities and strengthen safety and health protections for residents in department facilities. The unexpected fatality review must not take precedence over investigations being conducted by adult protective services, child protective services, residential care services, or law enforcement.
+
+    d. Upon conclusion of an unexpected fatality review required pursuant to this section, the department shall, within 120 days following the fatality, issue a report on the results of the review, unless an extension has been granted by the governor. Prior to issuing a report, the review team must perform an internal review for accuracy and thoroughness of the report. The report must contain a record of each review team member's vote, participation, or comment in relation to the findings and recommendations. If the report concerns a person who was the subject of one or more reports of abuse or neglect within the last year, the report must also describe the nature of any abuse or neglect reports. Completed reports must be distributed to the appropriate committees of the legislature, and the department shall create a public website where all unexpected fatality review reports required under this section must be posted and maintained. An unexpected fatality review report completed pursuant to this section is subject to public disclosure and must be posted on the public website, except that confidential information must be redacted by the department consistent with the requirements of applicable state and federal laws.
+
+    e. Within 10 days of completion of an unexpected fatality review under this section, the department shall develop an associated corrective action plan to address any concerns and implement any recommendations made by the review team in the unexpected fatality review report. Corrective action plans shall be implemented within 120 days, unless an extension has been granted by the governor. Corrective action plans are subject to public disclosure, and must be posted on the department's website in accordance with (d) of this subsection, except that confidential information must be redacted by the department consistent with the requirements of applicable state and federal laws.
+
+    f. The department shall develop and implement procedures to carry out the requirements of this section.
+
+2. In any review of an unexpected fatality, the department and the unexpected fatality review team shall have access to all records and files regarding the person or otherwise relevant to the review that have been produced or retained by the department including, but not limited to, critical incident reviews, root cause analysis, and mortality review committee reports.
+
+3. [Empty]
+
+    a. An unexpected fatality review completed pursuant to this section is subject to discovery in a civil or administrative proceeding, but may not be admitted into evidence or otherwise used in a civil or administrative proceeding except pursuant to this section.
+
+    b. A department employee responsible for conducting an unexpected fatality review, or a member of an unexpected fatality review team, may not be examined in a civil or administrative proceeding regarding: (i) The work of the unexpected fatality review team; (ii) the incident under review; (iii) his or her statements, deliberations, thoughts, analyses, or impressions relating to the work of the unexpected fatality review team or the incident under review; or (iv) the statements, deliberations, thoughts, analyses, or impressions of any other member of the unexpected fatality review team, or any person who provided information to the unexpected fatality review team relating to the work of the unexpected fatality review team or the incident under review.
+
+    c. Documents prepared by or for an unexpected fatality review team are inadmissible and may not be used in a civil or administrative proceeding, except that any document that exists before its use or consideration in an unexpected fatality review, or that is created independently of such review, does not become inadmissible merely because it is reviewed or used by an unexpected fatality review team. A person is not unavailable as a witness merely because the person has been interviewed by, or has provided a statement for, an unexpected fatality review, but if the person is called as a witness, the person may not be examined regarding the person's interactions with the unexpected fatality review including, without limitation, whether the person was interviewed during such review, the questions that were asked during such review, and the answers that the person provided during such review. This section may not be construed as restricting the person from testifying fully in any proceeding regarding his or her knowledge of the incident under review.
+
+    d. The restrictions set forth in this section do not apply in a licensing or disciplinary proceeding arising from an agency's effort to revoke or suspend the license of any licensed professional based in whole or in part upon allegations of wrongdoing in connection with an unexpected fatality reviewed by an unexpected fatality review team.
+
+4. For the purposes of this section:
+
+    a. "Department facilities" include facilities operated by the department that provide care on a residential or inpatient basis, including:
+
+        i. Residential habilitation center facilities under chapter 71A.20 RCW;
+
+        ii. State-operated living alternatives as defined in RCW 71A.10.020;
+
+        iii. Transitional care facilities as defined in RCW 43.43.837;
+
+        iv. State hospitals under chapter 72.23 RCW;
+
+    v. The child study and treatment center as identified in RCW 71.34.380;
+
+    vi. The special commitment center and secure community transition facilities under chapter 71.09 RCW; and
+
+    vii. Other facilities that provide inpatient services to individuals who are placed in the care of the department under chapter 71.05, 71.34, or 10.77 RCW.
+
+    b. "Residents of a department facility" do not include residents of facilities licensed or certified by the department of health including, but not limited to, 23-hour crisis relief centers and evaluation and treatment facilities.
+
+    c. "Unexpected fatality" means a death of any resident of a department facility, regardless of where the death actually occurred, that:
+
+        i. Was not the result of a diagnosed or documented terminal illness or other debilitating or deteriorating illness or condition where the death was anticipated; or
+
+        ii. Occurred within one year of a report of abuse or neglect of the resident.
+
+    d. "Unexpected fatality review" means a review of any unexpected fatality. A review must include an analysis of the root cause or causes of the unexpected fatality, and an associated corrective action plan for the department to address identified root causes and recommendations made by the unexpected fatality review team under this section.
+
+## Section 2
+1. The department of social and health services shall identify all fatalities of residents of department facilities that occurred on or after July 1, 2015, and before the effective date of this section, that would qualify as unexpected fatalities. To the extent possible, the department of social and health services must additionally identify the root cause or causes of each included fatality along with a description of any corrective action or other measures taken to address the cause of the fatality. The department of social and health services shall, in compliance with RCW 43.01.036, compile the information identified in this section into a report and submit the report to the governor and the legislature by November 1, 2027. Confidential information must be redacted from the report consistent with the requirements of applicable state and federal laws.
+
+2. For purposes of this section, "department facilities" and "unexpected fatalities" have the same meaning as in section 1 of this act.
+
+## Section 3
+1. The ombuds or the ombuds' designee shall serve as a member of the unexpected fatality review team as required under section 1 of this act.
+
+2. The department of social and health services shall:
+
+    a. Permit the ombuds or the ombuds' designee physical access to department of social and health services facilities for the purposes of carrying out its duties under section 1 of this act; and
+
+    b. Upon the ombuds' request, grant the ombuds or the ombuds' designee the right to access, inspect, and copy all relevant information, records, or documents in the possession or control of the department of social and health services that the ombuds considers necessary in a review.
+
+## Section 4
+1. There is created an office of the developmental disabilities ombuds. The department of commerce shall contract with a private, independent nonprofit organization to provide developmental disability ombuds services. The department of commerce shall designate, by a competitive bidding process, the nonprofit organization that will contract to operate the ombuds. The selection process must include consultation of stakeholders in the development of the request for proposals and evaluation of bids. The selected organization must have experience and the capacity to effectively communicate regarding developmental disabilities issues with policymakers, stakeholders, and the general public and must be prepared and able to provide all program and staff support necessary, directly or through subcontracts, to carry out all duties of the office.
+
+2. The contracting organization and its subcontractors, if any, are not state agencies or departments, but instead are private, independent entities operating under contract with the state.
+
+3. The governor or state may not revoke the designation of the organization contracted to provide the services of the ombuds except upon a showing of neglect of duty, misconduct, or inability to perform duties.
+
+4. The department of commerce shall ensure that the ombuds staff has access to sufficient training or experience with issues relating to persons with developmental disabilities and the program and staff support necessary to enable the ombuds to effectively protect the interests of persons with developmental disabilities. The office of the developmental disabilities ombuds shall have the powers and duties to do the following:
+
+    a. Provide information as appropriate on the rights and responsibilities of persons receiving developmental disabilities administration services or other state services, and on the procedures for providing these services;
+
+    b. Investigate, upon its own initiative or upon receipt of a complaint, an administrative act related to a person with developmental disabilities alleged to be contrary to law, rule, or policy, imposed without an adequate statement of reason, or based on irrelevant, immaterial, or erroneous grounds; however, the ombuds may decline to investigate any complaint;
+
+    c. Monitor the procedures as established, implemented, and practiced by the department to carry out its responsibilities in the delivery of services to a person with developmental disabilities, with a view toward appropriate preservation of families and ensuring health and safety;
+
+    d. Review periodically the facilities and procedures of state institutions which serve persons with developmental disabilities and state-licensed facilities or residences;
+
+    e. Recommend changes in the procedures for addressing the needs of persons with developmental disabilities;
+
+    f. Participate in unexpected fatality reviews as required in section 1 of this act;
+
+    g. Submit annually, by November 1st, to the governor and appropriate committees of the legislature a report analyzing the work of the office, including recommendations;
+
+    h. Establish procedures to protect the confidentiality of records and sensitive information to ensure that the identity of any complainant or person with developmental disabilities will not be disclosed without the written consent of the complainant or person, or upon court order;
+
+        i. Maintain independence and authority within the bounds of the duties prescribed by this chapter, insofar as this independence and authority is exercised in good faith and within the scope of contract; and
+
+    j. Carry out such other activities as determined by the department of commerce within the scope of this chapter.
+
+5. The developmental disabilities ombuds must consult with stakeholders to develop a plan for future expansion of the ombuds into a model of individual ombuds services akin to the operations of the long-term care ombuds. The developmental disabilities ombuds shall report its progress and recommendations related to this subsection to the governor and appropriate committees of the legislature by November 1, 2019.

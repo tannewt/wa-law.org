@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2550 - Free transit/CTC students</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2550/</link>
+		<description>Updates about HB 2550</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 05:40:38 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>❓💵Michael Shaw - Washington State Transit Association</title>
+			<description>Michael Shaw signed up to testify Other. They are signed up to represent Washington State Transit Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 02:55:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michael/Shaw/2026-01-27 02:55:53</guid>
+		</item>
+		<item>
+			<title>👍💵Bryce Yadon - Transportation Choices Coalition</title>
+			<description>Bryce Yadon signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/transportation_choices_coalition/"&gt;Transportation Choices Coalition&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 05:40:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bryce/Yadon/2026-01-27 05:40:38</guid>
+		</item>
+	</channel>
+</rss>

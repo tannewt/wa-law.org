@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6037 Fire protection districts

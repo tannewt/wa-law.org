@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5979/</link>
 		<description>Updates about SB 5979</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 10:35:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,54 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Kim Justice - Partners for Our Children</title>
+			<description>Kim Justice signed up to testify Pro. They are signed up to represent Partners for Our Children.</description>
+			<pubDate>Tue, 27 Jan 2026 03:46:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kim/Justice/2026-01-27 03:46:56</guid>
+		</item>
+		<item>
+			<title>👍Sarah Akey - Partners for Our Children</title>
+			<description>Sarah Akey signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 04:59:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Akey/2026-01-27 04:59:07</guid>
+		</item>
+		<item>
+			<title>❓Amelia Watson - Supervising Attorney, Washington State Office of Public Defense</title>
+			<description>Amelia Watson signed up to testify Other. They are signed up to represent Supervising Attorney, Washington State Office of Public Defense.</description>
+			<pubDate>Tue, 27 Jan 2026 05:47:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Amelia/Watson/2026-01-27 05:47:14</guid>
+		</item>
+		<item>
+			<title>❓💵Julie Watts - Department of Children, Youth and Families</title>
+			<description>Julie Watts signed up to testify Other. They are signed up to represent Department of Children, Youth and Families. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 07:54:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Julie/Watts/2026-01-27 07:54:53</guid>
+		</item>
+		<item>
+			<title>👍Amy Parks - Partners for Our Children</title>
+			<description>Amy Parks signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 08:27:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amy/Parks/2026-01-27 08:27:51</guid>
+		</item>
+		<item>
+			<title>👍Annie Chung - Legal Counsel for Youth and Children</title>
+			<description>Annie Chung signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/legal_counsel_for_youth_and_children/"&gt;Legal Counsel for Youth and Children&lt;/a&gt;.</description>
+			<pubDate>Tue, 27 Jan 2026 10:35:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Annie/Chung/2026-01-27 10:35:31</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/02/2026 [MyNorthwest](/org/mynorthwest/) - [WA’s new laws for 2026: Minimum wage hike, nicotine tax, more worker protections](https://mynorthwest.com/mynorthwest-politics/washington-laws-2026/4180467#:~:text=Senate%20Bill%205486)
 * 05/02/2025 [Senate Democrats](/org/senate_democrats/) - [End of session update - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/05/02/end-of-session-update/#:~:text=SB%205486)
 * 04/10/2025 [Senate Democrats](/org/senate_democrats/) - [Week 13 update: Key bills, asthma resources, some special thanks, and an upcoming town hall - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/04/09/week-13-update-key-bills-asthma-resources-some-special-thanks-and-an-upcoming-town-hall/#:~:text=captioning%20accessibility)
 

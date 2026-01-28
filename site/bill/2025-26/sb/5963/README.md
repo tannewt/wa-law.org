@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205963)
 * 01/19/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill updating Passport to Careers funding, aligning WA College Grant eligibility heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/19/nobles-bill-updating-passport-to-careers-funding-aligning-wa-college-grant-eligibility-heard-in-committee/#:~:text=Senate%20Bill%205963)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205963)
 

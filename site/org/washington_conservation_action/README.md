@@ -59,6 +59,11 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
 
+### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
+
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
+* 👍 Rachel Baker
+
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍2  
@@ -82,6 +87,9 @@
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
+
+### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands   ❓1
+* ❓ Rachel Baker
 
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
 * 👍 Caitlin Krenn
@@ -131,6 +139,8 @@
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓2
 * ❓ Caitlin Krenn
 * ❓💵 Clifford Traisman
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
 
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 

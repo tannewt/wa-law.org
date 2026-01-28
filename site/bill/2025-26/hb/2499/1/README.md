@@ -1,0 +1,125 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2499](/bill/2025-26/hb/2499/) > [Original Bill](/bill/2025-26/hb/2499/1/)
+
+# HB 2499 - Conservation districts
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2499.pdf)
+
+## Section 1
+1. If the commission finds the project practicable, it shall appoint two supervisors who shall be qualified by training and experience to perform the specialized skilled services required of them. They, with the three elected supervisors,  shall constitute the governing board of the district.
+
+2. The two appointed supervisors shall file with the secretary of state a sworn application, reciting that a petition was filed with the commission for the creation of the district; that all required proceedings were had thereon; that they were appointed by the commission as such supervisors; and that the application is being filed to complete the organization of the district. It shall contain the names and residences of the applicants, a certified copy of their appointments, the name of the district, the location of the office of the supervisors and the term of office of each applicant.
+
+3. The application shall be accompanied by a statement of the commission, reciting that a petition was filed, notice issued, and hearing held thereon as required; that it determined the need for the district and defined the boundaries thereof; that notice was given and an election held on the question of creating the district; that a majority vote favored the district, and that the commission had determined the district practicable; and shall set forth the boundaries of the district.
+
+## Section 2
+1. Within thirty days after the issuance of the certificate of organization, unless the time is extended by the commission, petitions shall be filed with the commission to nominate candidates for the three elected supervisors. The petition shall be signed by not less than twenty-five district electors, and a district elector may sign petitions nominating more than one person. Within one week of the filing of a petition, the commission shall transmit the name and contact information of the candidate to the public disclosure commission.
+
+2. In the case of a new district, the commission shall give due notice to elect the three supervisors. All provisions pertaining to elections on the creation of a district shall govern this election so far as applicable. The names of all nominees shall appear on the ballot in alphabetical order, together with instructions to vote for three. The three candidates receiving the most votes shall be declared elected supervisors, the one receiving the most being elected for a three-year term, the next for two and the last for one year. An alternate method of dividing the district into three zones may be used when requested by the board of supervisors and approved by the commission. In such case, instructions will be to vote for one in each zone. The candidate receiving the most votes in a zone shall be declared elected.
+
+3. Each year after the creation of the first board of supervisors, the board shall by resolution and by giving due notice, set a date during the first quarter of each calendar year at which time it shall conduct an election, except that for elections in 2002 only, the board shall set the date during the second quarter of the calendar year at which time it shall conduct an election. Names of candidates nominated by petition shall appear in alphabetical order on the ballots, together with an extra line wherein may be written in the name of any other candidate. The commission shall establish procedures for elections, canvass the returns and announce the official results thereof. Election results may be announced by polling officials at the close of the election subject to official canvass of ballots by the commission. Supervisors elected shall take office at the first board meeting following the election.
+
+4. A district board of supervisors may choose to conduct the election of supervisors subject to Title 29A RCW. Such change by the district board of supervisors must be made by a vote of a majority of the district supervisors following public notice and a hearing on the proposal. The district shall notify the commission of the proposed motion and public notice of the action. In the event a district chooses to conduct the election subject to Title 29A RCW, rules and guidance developed by the commission for the conduct of supervisor elections do not apply and the district shall comply with all provisions of Title 29A RCW.
+
+## Section 3
+1. The term of office of each supervisor shall be four years and until his or her successor is appointed or elected and qualified, except that the supervisors first appointed shall serve for one and two years respectively from the date of their appointments, as designated in their appointments.
+
+2. In the case of elected supervisors, the term of office of each supervisor shall be four years and until his or her successor is elected and qualified, except that for the first election, the one receiving the largest number of votes shall be elected for three years; the next largest two years; and the third largest one year. Successors shall be elected for four-year terms.
+
+3. Vacancies in the office of appointed supervisors shall be filled by the state conservation commission. Vacancies in the office of elected supervisors shall be filled by appointment made by the remaining supervisors for the unexpired term.
+
+4. A majority of the supervisors shall constitute a quorum and the concurrence of a majority is required for any official action or determination.
+
+5. Supervisors shall serve without compensation, but they shall be entitled to expenses, including traveling expenses, necessarily incurred in discharge of their duties. A supervisor may be removed by the state conservation commission upon notice and hearing, for neglect of duty or malfeasance in office, but for no other reason.
+
+6. The governing board shall designate a chair from time to time.
+
+## Section 4
+1. All city, town, and district general elections shall be held throughout the state of Washington on the first Tuesday following the first Monday in November in the odd-numbered years.
+
+This section shall not apply to:
+
+    a. Elections for the recall of any elective public officer;
+
+    b. Public utility districts, conservation districts using chapter 89.08 RCW to conduct their elections, or district elections at which the ownership of property within those districts is a prerequisite to voting, all of which elections shall be held at the times prescribed in the laws specifically applicable thereto;
+
+    c. Consolidation proposals as provided for in RCW 28A.315.235 and nonhigh capital fund aid proposals as provided for in chapter 28A.540 RCW; and
+
+    d. Special flood control districts consisting of three or more counties.
+
+2. The county auditor, as ex officio supervisor of elections, upon request in the form of a resolution of the governing body of a city, town, or district, presented to the auditor prior to the proposed election date, shall call a special election in such city, town, or district, and for the purpose of such special election he or she may combine, unite, or divide precincts. Such a special election shall be held on one of the following dates as decided by the governing body:
+
+    a. The second Tuesday in February;
+
+    b. The fourth Tuesday in April;
+
+    c. The day of the primary election as specified by RCW 29A.04.311; or
+
+    d. The first Tuesday after the first Monday in November.
+
+3. A resolution calling for a special election on a date set forth in subsection (2)(a) and (b) of this section must be presented to the county auditor at least sixty days prior to the election date. A resolution calling for a special election on a date set forth in subsection (2)(c) of this section must be presented to the county auditor no later than the Friday immediately before the first day of regular candidate filing. A resolution calling for a special election on a date set forth in subsection (2)(d) of this section must be presented to the county auditor no later than the day of the primary.
+
+4. In addition to subsection (2)(a) through (d) of this section, a special election to validate an excess levy or bond issue may be called at any time to meet the needs resulting from fire, flood, earthquake, or other act of God, except that no special election may be held between the first day for candidates to file for public office and the last day to certify the returns of the general election other than as provided in subsection (2)(c) and (d) of this section. Such special election shall be conducted and notice thereof given in the manner provided by law.
+
+5. This section shall supersede the provisions of any and all other statutes, whether general or special in nature, having different dates for such city, town, and district elections, the purpose of this section being to establish mandatory dates for holding elections.
+
+## Section 5
+1. Except as provided in subsections (2), (3),  (7), and (8) of this section, the reporting provisions of this title do not apply to:
+
+    a. Candidates, elected officials, and agencies in political subdivisions with fewer than 2,000 registered voters as of the date of the most recent general election in the jurisdiction;
+
+    b. Political committees formed to support or oppose candidates or ballot propositions in such political subdivisions; or
+
+    c. Persons making independent expenditures in support of or opposition to such ballot propositions.
+
+2. The reporting provisions of this title apply in any exempt political subdivision from which a "petition for disclosure" containing the valid signatures of 15 percent of the number of registered voters, as of the date of the most recent general election in the political subdivision, is filed with the commission. The commission shall by rule prescribe the form of the petition. After the signatures are gathered, the petition shall be presented to the auditor or elections officer of the county, or counties, in which the political subdivision is located. The auditor or elections officer shall verify the signatures and certify to the commission that the petition contains no less than the required number of valid signatures. The commission, upon receipt of a valid petition, shall order every known affected person in the political subdivision to file the initially required statement and reports within 14 days of the date of the order.
+
+3. The reporting provisions of this title apply in any exempt political subdivision that by ordinance, resolution, or other official action has petitioned the commission to make the provisions applicable to elected officials and candidates of the exempt political subdivision. A copy of the action shall be sent to the commission. If the commission finds the petition to be a valid action of the appropriate governing body or authority, the commission shall order every known affected person in the political subdivision to file the initially required statement and reports within 14 days of the date of the order.
+
+4. The commission shall void any order issued by it pursuant to subsection (2) or (3) of this section when, at least four years after issuing the order, the commission is presented a petition or official action so requesting from the affected political subdivision. Such petition or official action shall meet the respective requirements of subsection (2) or (3) of this section.
+
+5. Any petition for disclosure, ordinance, resolution, or official action of an agency petitioning the commission to void the exemption in RCW 29B.25.010(3) shall not be considered unless it has been filed with the commission:
+
+    a. In the case of a ballot proposition, at least 60 days before the date of any election in which campaign finance reporting is to be required;
+
+    b. In the case of a candidate, at least 60 days before the first day on which a person may file a declaration of candidacy for any election in which campaign finance reporting is to be required.
+
+6. Any person exempted from reporting under this title may at the person's option file the statement and reports.
+
+7. The reporting provisions of this title apply to a candidate in any political subdivision if the candidate receives or expects to receive five thousand dollars or more in contributions.
+
+8. The personal financial affairs reporting requirements of this title apply to an appointed or elected supervisor and a candidate for supervisor for a conservation district board that holds its election under chapter 89.08 RCW with fewer than 2,000 registered voters as of the date of the most recent general election in the jurisdiction.
+
+9. The personal financial affairs reporting requirements of this title do not apply to supervisors appointed to a conservation district board that holds its elections under Title 29A RCW in a district with fewer than 2,000 registered voters as of the date of the most recent general election in the jurisdiction.
+
+## Section 6
+For the purposes of RCW 29B.55.010, "executive state officer" includes:
+
+## Section 7
+1. After January 1st and before April 15th of each year, every elected official and every executive state officer who served for any portion of the preceding year shall electronically file with the commission a statement of financial affairs for the preceding calendar year or for that portion of the year served. Any official or officer in office for any period of time in a calendar year, but not in office as of January 1st of the following year, may electronically file either within 60 days of leaving office or during the January 1st through April 15th reporting period of that following year. Such filing must include information for the portion of the current calendar year for which the official or officer was in office.
+
+2. Within two weeks of becoming a candidate, every candidate shall file with the commission a statement of financial affairs for the preceding 12 months.
+
+3. Within two weeks of appointment, every person appointed to a vacancy in an elective office or executive state officer position during the months of January through November shall file with the commission a statement of financial affairs for the preceding 12 months, except as provided in subsection (4) of this section. For appointments made in December, the appointee must file the statement of financial affairs between January 1st and January 15th of the immediate following year for the preceding 12-month period ending on December 31st.
+
+4. A statement of a candidate or appointee filed during the period from January 1st to April 15th shall cover the period from January 1st of the preceding calendar year to the time of candidacy or appointment if the filing of the statement would relieve the individual of a prior obligation to file a statement covering the entire preceding calendar year.
+
+5. No individual may be required to file more than once in any calendar year.
+
+6. Each statement of financial affairs filed under this section shall be sworn as to its truth and accuracy.
+
+7. Every elected official and every executive state officer shall file with their statement of financial affairs a statement certifying that they have read and are familiar with RCW 29B.45.010 or 42.52.180, whichever is applicable.
+
+8. For the purposes of this section, the term "executive state officer" includes those listed in RCW 29B.55.020.
+
+9. This section does not apply to incumbents or candidates for a federal office or the office of precinct committee officer.
+
+10. A person who is an elected supervisor or candidate for elected supervisor for a conservation district that holds its elections under chapter 89.08 RCW shall file with the commission a statement of financial affairs in accordance with this section.
+
+## Section 8
+Elections of conservation district supervisors held pursuant to chapter 89.08 RCW shall not be considered general or special elections for purposes of the campaign disclosure and personal financial affairs reporting requirements of this title. Conservation district supervisors elected under chapter 89.08 RCW must comply with the annual personal financial affairs reporting requirement pursuant to RCW 29B.55.010.
+
+## Section 9
+The provisions of this title relating to the financing of election campaigns shall apply in all election campaigns other than (1) for precinct committee officer; (2) for a federal elective office;  (3) for conservation district supervisors in elections held pursuant to chapter 89.08 RCW; and (4) for an office of a political subdivision of the state that does not encompass a whole county and that contains fewer than 5,000 registered voters as of the date of the most recent general election in the subdivision, unless required by RCW 29B.20.070 (2) through (5) and (7).
+
+## Section 10
+Sections 5 through 9 of this act take effect January 1, 2027.

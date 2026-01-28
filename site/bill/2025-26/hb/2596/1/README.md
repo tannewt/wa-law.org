@@ -1,0 +1,262 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2596](/bill/2025-26/hb/2596/) > [Original Bill](/bill/2025-26/hb/2596/1/)
+
+# HB 2596 - Lost parenting time
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2596.pdf)
+
+## Section 1
+1. For the purposes of this section:
+
+    a. "Alleging parent" means a parent who makes an allegation of child abuse or neglect against the denied parent;
+
+    b. "Denied parent" means a parent whose court-ordered residential time under a parenting plan was temporarily reduced, suspended, denied, or restricted, in whole or in part, due to an allegation of child abuse or neglect that: (i) Was made by the alleging parent; (ii) triggered an investigation, protective order, or emergency custody action; and (iii) subsequently resulted in an unfounded outcome;
+
+    c. "Unfounded outcome" means:
+
+        i. A closure, screening out, unfounded finding, or other disposition of a report of child abuse or neglect by the department of children, youth, and families under chapter 26.44 RCW that does not result in a founded finding of child abuse or neglect; or
+
+        ii. A determination by law enforcement that an allegation of child abuse or neglect lacks probable cause or does not warrant further investigation.
+
+2. A denied parent may file a motion to initiate an action for restoration of residential time lost by the denied parent due to an allegation of child abuse or neglect that was made by the alleging parent and subsequently resulted in an unfounded outcome. The denied parent may not be charged a filing fee for bringing the motion pursuant to this section.
+
+3. The hearing on the motion brought pursuant to this section must be heard no later than 20 days after the motion is filed.
+
+4. If the court finds that the denied parent has provided sufficient proof that the allegation of child abuse or neglect was unfounded, the court shall enter an order restoring the denied parent's full residential time with the child and providing the denied parent additional time with the child. The additional time must be equal to the time lost with the child due to the unfounded allegation of child abuse or neglect.
+
+5. The court may award the denied parent additional time with the child equal to double the time lost due to the allegation and investigation if the court finds:
+
+    a. By the preponderance of the evidence that the unfounded allegation of child abuse or neglect was made solely for the purpose of interfering with the denied parent's residential time with the child; and
+
+    b. That awarding the denied parent double the time lost is in the best interest of the child.
+
+6. The restoration order must allocate the restored and additional time, including doubled time, if any, proportionally across weekends, holidays, school breaks, overnights, and special occasions to replicate the original residential schedule. Doubled time must be allocated so as to be completed no later than within 12 months following the entry of the restoration order.
+
+7. If the court enters a restoration order under this section, the court shall award the denied parent all reasonable attorneys' fees, expert fees, court costs, travel expenses, and lost wages incurred in bringing a restoration motion under this section, assessed against the alleging parent.
+
+8. [Empty]
+
+    a. A denied parent may bring a motion to initiate a contempt action to coerce the alleging parent to comply with a restoration order entered under this section.
+
+    b. If the court finds there is reasonable cause to believe that the alleging parent has not complied with the order, the court may issue an order to show cause why the relief requested should not be granted.
+
+    c. If, after a hearing on the matter and based on all the facts and circumstances, the court finds that the alleging parent, in bad faith, has not complied with the restoration order, the court shall find the alleging parent in contempt of court.
+
+    d. Upon a finding of contempt, the court shall order the alleging parent:
+
+        i. To provide the denied parent additional time with the child equal to the time missed due to the alleging parent's noncompliance;
+
+        ii. To pay to the denied parent all court costs, reasonable attorneys' fees, and other reasonable expenses incurred as a result of noncompliance; and
+
+        iii. To pay to the denied parent a civil penalty of not less than $100 and not more than $500 per day of time with the child lost due to the alleging parent's noncompliance.
+
+    e. The court may also order the alleging parent to be imprisoned in the county jail, if the alleging parent is presently able to comply with the provisions of the restoration order and is presently unwilling to comply. The alleging parent may be imprisoned until he or she agrees to comply with the order, but in no event for more than 30 days.
+
+## Section 2
+1. Except as otherwise provided in subsections (4), (5), (6), (8), and (10) of this section, the court shall not modify a prior custody decree or a parenting plan unless it finds, upon the basis of facts that have arisen since the prior decree or plan or that were unknown to the court at the time of the prior decree or plan, that a substantial change has occurred in the circumstances of the child or the nonmoving party and that the modification is in the best interest of the child and is necessary to serve the best interests of the child. The effect of a parent's military duties potentially impacting parenting functions shall not, by itself, be a substantial change of circumstances justifying a permanent modification of a prior decree or plan.
+
+2. In applying these standards, the court shall retain the residential schedule established by the decree or parenting plan unless:
+
+    a. The parents agree to the modification;
+
+    b. The child has been integrated into the family of the petitioner with the consent of the other parent in substantial deviation from the parenting plan;
+
+    c. The child's present environment is detrimental to the child's physical, mental, or emotional health and the harm likely to be caused by a change of environment is outweighed by the advantage of a change to the child; or
+
+    d. The court has found the nonmoving parent in contempt of court at least twice within three years because the parent failed to comply with the residential time provisions in the court-ordered parenting plan, or the parent has been convicted of custodial interference in the first or second degree under RCW 9A.40.060 or 9A.40.070.
+
+3. A conviction of custodial interference in the first or second degree under RCW 9A.40.060 or 9A.40.070 shall constitute a substantial change of circumstances for the purposes of this section.
+
+4. The court may reduce or restrict contact between the child and the parent with whom the child does not reside a majority of the time if it finds that the reduction or restriction would serve and protect the best interests of the child using the criteria in RCW 26.09.191 and 26.09.192.
+
+5. The court may order adjustments to the residential aspects of a parenting plan upon a showing of a substantial change in circumstances of either parent or of the child, and without consideration of the factors set forth in subsection (2) of this section, if the proposed modification is only a minor modification in the residential schedule that does not change the residence the child is scheduled to reside in the majority of the time and:
+
+    a. Does not exceed twenty-four full days in a calendar year; or
+
+    b. Is based on a change of residence of the parent with whom the child does not reside the majority of the time or an involuntary change in work schedule by a parent which makes the residential schedule in the parenting plan impractical to follow; or
+
+    c. Does not result in a schedule that exceeds ninety overnights per year in total, if the court finds that, at the time the petition for modification is filed, the decree of dissolution or parenting plan does not provide reasonable time with the parent with whom the child does not reside a majority of the time, and further, the court finds that it is in the best interests of the child to increase residential time with the parent in excess of the residential time period in (a) of this subsection. However, any motion under this subsection (5)(c) is subject to the factors established in subsection (2) of this section if the party bringing the petition has previously been granted a modification under this same subsection within twenty-four months of the current motion. Relief granted under this section shall not be the sole basis for adjusting or modifying child support.
+
+6. The court may order adjustments to the residential aspects of a parenting plan pursuant to a proceeding to permit or restrain a relocation of the child. The person objecting to the relocation of the child or the relocating person's proposed revised residential schedule may file a petition to modify the parenting plan, including a change of the residence in which the child resides the majority of the time, without a showing of adequate cause other than the proposed relocation itself. A hearing to determine adequate cause for modification shall not be required so long as the request for relocation of the child is being pursued. In making a determination of a modification pursuant to relocation of the child, the court shall first determine whether to permit or restrain the relocation of the child using the procedures and standards provided in RCW 26.09.405 through 26.09.560. Following that determination, the court shall determine what modification pursuant to relocation should be made, if any, to the parenting plan or custody order or visitation order.
+
+7. A parent with whom the child does not reside a majority of the time and whose residential time with the child is subject to limitations pursuant to RCW 26.09.191 or 26.09.192 may not seek expansion of residential time under subsection (5)(c) of this section unless that parent demonstrates a substantial change in circumstances specifically related to the basis for the limitation.
+
+8. [Empty]
+
+    a. If a parent with whom the child does not reside a majority of the time voluntarily fails to exercise residential time for an extended period, that is, one year or longer, the court upon proper motion may make adjustments to the parenting plan in keeping with the best interests of the minor child.
+
+    b. For the purposes of determining whether the parent has failed to exercise residential time for one year or longer, the court may not count any time periods during which the parent did not exercise residential time due to the effect of the parent's military duties potentially impacting parenting functions.
+
+9. A parent with whom the child does not reside a majority of the time who is required by the existing parenting plan to complete evaluations, treatment, parenting, or other classes may not seek expansion of residential time under subsection (5)(c) of this section unless that parent has fully complied with such requirements.
+
+10. The court may order adjustments to any of the nonresidential aspects of a parenting plan upon a showing of a substantial change of circumstances of either parent or of a child, and the adjustment is in the best interest of the child. Adjustments ordered under this section may be made without consideration of the factors set forth in subsection (2) of this section.
+
+11. If the parent with whom the child resides a majority of the time receives temporary duty, deployment, activation, or mobilization orders from the military that involve moving a substantial distance away from the parent's residence or otherwise would have a material effect on the parent's ability to exercise parenting functions and primary placement responsibilities, then:
+
+    a. Any temporary custody order for the child during the parent's absence shall end no later than ten days after the returning parent provides notice to the temporary custodian, but shall not impair the discretion of the court to conduct an expedited or emergency hearing for resolution of the child's residential placement upon return of the parent and within ten days of the filing of a motion alleging an immediate danger of irreparable harm to the child. If a motion alleging immediate danger has not been filed, the motion for an order restoring the previous residential schedule shall be granted; and
+
+    b. The temporary duty, activation, mobilization, or deployment and the temporary disruption to the child's schedule shall not be a factor in a determination of change of circumstances if a motion is filed to transfer residential placement from the parent who is a military service member.
+
+12. If a parent receives military temporary duty, deployment, activation, or mobilization orders that involve moving a substantial distance away from the military parent's residence or otherwise have a material effect on the military parent's ability to exercise residential time or visitation rights, at the request of the military parent, the court may delegate the military parent's residential time or visitation rights, or a portion thereof, to a child's family member, including a stepparent, or another person other than a parent, with a close and substantial relationship to the minor child for the duration of the military parent's absence, if delegating residential time or visitation rights is in the child's best interest. The court may not permit the delegation of residential time or visitation rights to a person who would be subject to limitations on residential time under RCW 26.09.191 or 26.09.192. The parties shall attempt to resolve disputes regarding delegation of residential time or visitation rights through the dispute resolution process specified in their parenting plan, unless excused by the court for good cause shown. Such a court‑ordered temporary delegation of a military parent's residential time or visitation rights does not create separate rights to residential time or visitation for a person other than a parent.
+
+13. If the court finds that a motion to modify a prior decree or parenting plan has been brought in bad faith, the court shall assess the attorney's fees and court costs of the nonmoving parent against the moving party.
+
+14. A substantial change of circumstances exists where an allegation of child abuse or neglect by one parent against the other parent results in an unfounded outcome, as defined in section 1 of this act. If a denied parent, as defined in section 1 of this act, brings a motion to modify the parenting plan, the court must presume that full restoration or expansion of residential time with the denied parent is in the child's best interests. This presumption is rebuttable only by clear and convincing evidence of serious endangerment to the child's physical or psychological well-being. The court must hear the motion to modify a parenting plan brought by a denied parent within 30 days of filing.
+
+## Section 3
+1. PURPOSE. Parents are responsible for protecting and preserving the health and well-being of their minor children. When a parent acts contrary to the health and well-being of the parent's child, or engages in conduct that creates an unreasonable risk of harm to a child, the court may, and in some situations must, impose limitations intended to protect the child from harm as described in this section and RCW 26.09.192.
+
+2. GENERAL CONSIDERATIONS.
+
+    a. In entering a permanent parenting plan, the court shall not draw any presumptions from the provisions of the temporary parenting plan.
+
+    b. The weight given to the existence of a protection order issued under chapter 7.105 RCW or former chapter 26.50 RCW as to domestic violence is within the discretion of the court.
+
+    c. In determining whether any of the conduct described in this section or RCW 26.09.192 has occurred, the court shall apply the rules of evidence and civil procedure except where the parties have opted for an informal family law trial pursuant to state or local court rules.
+
+3. DEFINITIONS. The definitions in this subsection apply throughout this section and RCW 26.09.192 unless the context clearly requires otherwise.
+
+    a. "Abusive use of conflict" refers to a party engaging in ongoing and deliberate actions to misuse conflict. This includes, but is not limited to: (i) Repeated bad faith violations of court orders regarding the child or the protection of the child or other parent; (ii) credible threats of physical, emotional, or financial harm to the other parent or to family, friends, or professionals providing support to the child or other parent; (iii) intentional use of the child in conflict; or (iv) abusive litigation as defined in RCW 26.51.020. Litigation that is aggressive or improper but does not meet the definition of abusive litigation shall not constitute a basis for finding abusive use of conflict under this section. Protective actions as defined in this section shall not constitute a basis for a finding of abusive use of conflict.
+
+    b. "Child" shall also mean "children."
+
+    c. "Knowingly" means knows or reasonably should know.
+
+    d. "Parenting functions" has the same meaning as in RCW 26.09.004.
+
+    e. "Protective actions" are actions taken by a parent in good faith for the purpose of protecting themselves or the parent's child from the risk of harm posed by the other parent. "Protective actions" can include, but are not limited to: (i) Reports or complaints regarding physical, sexual, or mental abuse of a child or child neglect to an individual or entity connected to the provision of care or safety of the child such as law enforcement, medical professionals, therapists, schools, day cares, or child protective services; (ii) seeking court orders changing residential time; or (iii) petitions for protection or restraining orders.
+
+    f. "Sex offense against a child" means any of the following offenses involving a child victim: (i) Any sex offense as defined in RCW 9.94A.030; (ii) any offense with a finding of sexual motivation; (iii) any offense in violation of chapter 9A.44 RCW other than RCW 9A.44.132; (iv) any offense involving the sexual abuse of a minor, including any offense under chapter 9.68A RCW; or (v) any federal or out-of-state offense comparable to any offense under (f)(i) through (iv) of this subsection.
+
+    g. "Social worker" means a person with a master's degree or further advanced degree from a social work educational program accredited and approved as provided in RCW 18.320.010.
+
+    h. "Willful abandonment" has occurred when the child's parent has expressed, either by statement or conduct, an intent to forego, for an extended period, parental rights or responsibilities despite an ability to exercise such rights and responsibilities. "Willful abandonment" does not include a parent who has been unable to see the child due to circumstances that include, but are not limited to: Incarceration, deportation, inpatient treatment, medical emergency, fleeing to an emergency shelter or domestic violence shelter, or withholding of the child by the other parent.
+
+4. RESIDENTIAL TIME LIMITATIONS.
+
+    a. PARENTAL CONDUCT REQUIRING LIMITS ON A PARENT'S RESIDENTIAL TIME. A parent's residential time with the parent's child shall be limited if it is found that a parent has engaged in any of the following conduct:
+
+        i. Willful abandonment that continues for an extended period of time;
+
+        ii. Physical abuse or a pattern of emotional abuse of a child;
+
+        iii. A history of acts of domestic violence as defined in RCW 7.105.010, an assault that causes grievous bodily harm or the fear of such harm, or any sexual assault; or
+
+        iv. Sexual abuse of a child. Required limitations and considerations for a parent who has been convicted of a sex offense against a child or found to have sexually abused a child in the current case or a prior case are addressed in RCW 26.09.192.
+
+    b. PARENT RESIDING WITH A PERSON WHOSE CONDUCT REQUIRES RESIDENTIAL TIME LIMITATIONS. A parent's residential time with the child shall be limited if it is found that the parent knowingly resides with a person who has engaged in any of the following conduct:
+
+        i. Physical abuse or a pattern of emotional abuse of a child;
+
+        ii. A history of acts of domestic violence as defined in RCW 7.105.010, an assault that causes grievous bodily harm or the fear of such harm, or any sexual assault; or
+
+        iii. Sexual abuse of a child. Required limitations and considerations on a parent who resides with someone convicted of a sex offense against a child or found to have sexually abused a child in the current case or a prior case are addressed in RCW 26.09.192.
+
+    c. PARENTAL CONDUCT THAT MAY RESULT IN LIMITATIONS ON A PARENT'S RESIDENTIAL TIME. A parent's involvement or conduct may have an adverse effect on the child's best interests, and the court may preclude or limit any provisions of the parenting plan, if any of the following factors exist:
+
+        i. A parent's neglect or substantial nonperformance of parenting functions;
+
+        ii. A long-term emotional or physical impairment that interferes with the parent's performance of parenting functions;
+
+        iii. A long-term impairment resulting from drug, alcohol, or other substance abuse that interferes with the performance of parenting functions;
+
+        iv. The absence or substantial impairment of emotional ties between the parent and the child;
+
+    v. A parent has engaged in the abusive use of conflict which creates the danger of serious damage to the child's psychological development;
+
+    vi. A parent has withheld from the other parent access to the child for a protracted period without good cause. Withholding does not include protective actions taken by a parent in good faith for the legitimate and lawful purpose of protecting themselves or the parent's child from the risk of harm posed by the other parent;
+
+    vii. A parent has made one or more knowingly false allegations of child abuse or neglect against the other parent for the purpose of interfering with the other parent's residential time or to gain advantage in parenting plan proceedings; or
+
+    viii. Such other factors or conduct as the court expressly finds adverse to the best interests of the child.
+
+    d. LIMITATIONS A COURT MAY IMPOSE ON A PARENT'S RESIDENTIAL TIME. The limitations that may be imposed by the court under this section shall be reasonably calculated to protect a child from the physical, sexual, or emotional abuse or harm that could result if a child has contact with the parent requesting residential time. The limitations shall also be reasonably calculated to provide for the safety of the parent who may be at risk of physical, sexual, or emotional abuse or harm that could result if the parent has contact with the other parent. The limitations the court may impose include, but are not limited to:
+
+        i. SUPERVISED VISITATION. A court may, in its discretion, order supervised contact between a child and the parent.
+
+(A) If the court requires supervised visitation, there is a presumption that the supervision shall be provided by a professional supervisor. This presumption is overcome if the court finds: (I) There is a lay person who has demonstrated through sworn testimony and evidence of past interactions with children that they are capable and committed to protecting the child from physical or emotional abuse or harm; and (II) the parent is unable to access professional supervision due to (1) geographic isolation or other factors that would make professionally supervised visitation inaccessible or (2) financial indigency that has been demonstrated by a general rule 34 waiver or other evidence that the parent's current income and necessary expenses do not allow for the cost of professional supervision.
+
+(B) For all supervision, the court shall include clear written guidelines and prohibitions to be followed by the supervised party. No visits shall take place until the supervised parent and supervisor, or designated representative of a professional supervision program, have signed an acknowledgment confirming that they have read the court orders and the guidelines and prohibitions regarding visitation and agree to follow them. The court shall only permit supervision by an individual or program that is committed to protecting the child from any physical or emotional abuse or harm and is willing and capable of intervening in behaviors inconsistent with the court orders and guidelines.
+
+(C) A parent may seek an emergency ex parte order temporarily suspending residential time until review by the court if: (I) The supervised parent repeatedly violates the court order or guidelines; (II) the supervised parent threatens the supervisor or child with physical harm, commits an act of domestic violence, or materially violates any treatment condition associated with any restrictions under this section (a missed counseling appointment does not constitute a violation); (III) the supervisor is unable or unwilling to protect the child and/or the protected parent; or (IV) the supervisor is no longer willing to provide service to the supervised parent. The court suspending residential time shall set a review hearing to take place within 14 days of entering the ex parte order.
+
+        ii. EVALUATION OR TREATMENT. The court may order a parent to undergo evaluations for such issues as domestic violence perpetration, substance use disorder, mental health, or anger management, with collateral input provided from the other parent. Any evaluation report that does not include collateral input must provide details as to why and the attempts made to obtain collateral input.
+
+(A) The court may also order that a parent complete treatment for any of these issues if the need for treatment is supported by the evidence and the evidence supports a finding that the issue interferes with parenting functions.
+
+(B) A parent's residential time and decision-making authority may be conditioned on the parent's completion of an evaluation or treatment ordered by the court.
+
+        iii. NO CONTACT. If, based on the evidence, the court expressly finds that limitations on the residential time with a child will not adequately protect a child from the harm or abuse that could result if a child has contact with the parent requesting residential time, the court shall restrain the parent requesting residential time from all contact with a child.
+
+5. LIMITATIONS ON DECISION MAKING AND DISPUTE RESOLUTION. Except for circumstances provided in subsection (6)(b) of this section, the court shall order sole decision making and no dispute resolution other than court action if it is found that a parent has engaged in any of the following conduct:
+
+    a. Willful abandonment that continues for an extended period;
+
+    b. Physical, sexual, or a pattern of emotional abuse of a child;
+
+    c. A history of acts of domestic violence as defined in RCW 7.105.010; or
+
+    d. An assault that causes grievous bodily harm or the fear of such harm or any sexual assault.
+
+6. DETERMINATION NOT TO IMPOSE LIMITATIONS.
+
+    a. If the court makes express written findings based on clear and convincing evidence that contact between the parent and the child will not cause physical, sexual, or emotional abuse or harm to the child and that the probability that the parent's or other person's harmful or abusive conduct will recur is so remote that it would not be in the child's best interests to apply limitations to residential time under subsection (4) of this section, then the court need not apply the limitations of subsection (4) of this section. This subsection shall not apply to findings of sexual abuse which are governed by RCW 26.09.192.
+
+    b. If the court makes express written findings based on clear and convincing evidence that it would be contrary to the child's best interests to order sole decision making or preclude dispute resolution under subsection (5) of this section, the court need not apply those limitations. Where there has been a finding of domestic violence, there is a rebuttable presumption that there will be sole decision making. The court shall not require face-to-face mediation, arbitration, or interventions, including therapeutic interventions, that require the parties to share the same physical or virtual space if there has been a finding of domestic violence.
+
+    c. In determining whether there is clear and convincing evidence supporting a determination not to impose limitations, the court shall consider and make express written findings on all of the following factors:
+
+        i. Any current risk posed by the parent to the physical or psychological well-being of the child or other parent;
+
+        ii. Whether a parent has demonstrated that they can and will prioritize the child's physical and psychological well-being;
+
+        iii. Whether a parent has adhered to and is likely to adhere to court orders;
+
+        iv. Whether a parent has genuinely acknowledged past harm and is committed to avoiding harm in the future; and
+
+    v. A parent's compliance with any previously court-ordered treatment. A parent's compliance with the requirements for participation in a treatment program does not, by itself, constitute evidence that the parent has made the requisite changes.
+
+7. WHEN LIMITATIONS APPLY TO BOTH PARENTS.
+
+    a. When mandatory limitations in subsection (4)(a) or (b) of this section apply to both parents, the court may make an exception in applying mandatory limitations. The court shall make detailed written findings regarding the comparative risk of harm to the child posed by each parent, and shall explain the limitations imposed on each parent, including any decision not to impose restrictions on a parent or to award decision making to a parent who is subject to limitations.
+
+    b. When mandatory limitations under subsection (4)(a) or (b) of this section apply to one parent and discretionary limitations under subsection (4)(c) of this section apply to another parent, there is a presumption that the mandatory limitations shall have priority in setting the limitations of the residential schedule, decision making, and dispute resolution. If the court deviates from this presumption, the court shall make detailed written findings as to the reasons for the deviation.
+
+    c. When discretionary limitations in subsection (4)(c) of this section apply to both parents, the court shall make detailed written findings regarding the comparative risk of harm to the child posed by each parent, and shall explain the limitations imposed on each parent, including any decision not to impose restrictions on a parent or to award decision making to a parent who is subject to limitations in subsection (4)(c) of this section.
+
+    d. In making the determinations under (a), (b), or (c) of this subsection, the court shall consider the best interests of the child and which parenting arrangement best maintains a child's emotional growth, health and stability, and physical care. Further, the best interests of the child are ordinarily served when the existing pattern of interaction between a parent and child is altered only to the extent necessitated by the changed relationship of the parents or as required to protect the child from physical, mental, or emotional harm.
+
+8. RIGHTS TO APPEAL. Nothing in this section restricts any right to appeal.
+
+## Section 4
+1. The legislature finds parents and children often are not aware of their due process rights when agencies are investigating allegations of child abuse and neglect. The legislature reaffirms that all citizens, including parents, shall be afforded due process, that protection of children remains the priority of the legislature, and that this protection includes protecting the family unit from unnecessary disruption. To facilitate this goal, the legislature wishes to ensure that parents and children be advised in writing and orally, if feasible, of their basic rights and other specific information as set forth in this chapter, provided that nothing contained in this chapter shall cause any delay in protective custody action.
+
+2. The department shall notify the parent, guardian, or legal custodian of a child of any allegations of child abuse or neglect made against such person at the initial point of contact with such person, in a manner consistent with the laws maintaining the confidentiality of the persons making the complaints or allegations. Investigations of child abuse and neglect should be conducted in a manner that will not jeopardize the safety or protection of the child or the integrity of the investigation process.
+
+Whenever the department completes an investigation of a child abuse or neglect report under this chapter, the department shall notify the subject of the report of the department's investigative findings. The notice shall also advise the subject of the report that:
+
+    a. A written response to the report may be provided to the department and that such response will be filed in the record following receipt by the department;
+
+    b. Information in the department's record may be considered in subsequent investigations or proceedings related to child protection or child custody;
+
+    c. Founded reports of child abuse and neglect may be considered in determining whether the person is disqualified from being licensed to provide child care, employed by a licensed child care agency, or authorized by the department to care for children; and
+
+    d. A subject named in a founded report of child abuse or neglect has the right to seek review of the finding as provided in this chapter.
+
+3. The founded finding notification required by this section shall be made by certified mail, return receipt requested, to the person's last known address.
+
+4. The unfounded finding notification required by this section must be made by regular mail to the person's last known address or by email. The unfounded finding notification must include information on the motion for restoration of residential time under section 1 of this act.
+
+5. The duty of notification created by this section is subject to the ability of the department to ascertain the location of the person to be notified. The department shall exercise reasonable, good faith efforts to ascertain the location of persons entitled to notification under this section.
+
+6. The department shall provide training to all department personnel who conduct investigations under this section that shall include, but is not limited to, training regarding the legal duties of the department from the initial time of contact during investigation through treatment in order to protect children and families.
+
+## Section 5
+1. The administrative office of the courts shall, within existing resources, incorporate into its regular judicial education program a single online module not to exceed 60 minutes that covers:
+
+    a. Recognition of false allegation patterns in custody disputes;
+
+    b. Application of presumptions, timelines, and conduct under section 1 of this act, RCW 26.09.260(14), and 26.09.191(4)(c)(vii); and
+
+    c. Bias mitigation in parenting time decisions.
+
+2. The administrative office of the courts may adapt existing materials from recognized judicial education providers and shall publish a bench card and model orders on its website.

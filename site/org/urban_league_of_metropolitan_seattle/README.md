@@ -77,11 +77,13 @@
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences 👍1  
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍2  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

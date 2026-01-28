@@ -1,0 +1,51 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2486](/bill/2025-26/hb/2486/) > [Original Bill](/bill/2025-26/hb/2486/1/)
+
+# HB 2486 - State energy code costs
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2486.pdf)
+
+## Section 1
+The median price of a new home in Washington is $700,683, the sixth highest in the nation. At this price, 82 percent of Washington households are unable to afford a new home. In June 2025, Washington ranked as the second worst state in the country to buy a starter home. By 2030, Washington is on track to become the fifth most expensive state for housing, with median home prices topping $900,000.
+
+The legislature recognizes that energy efficiency goals have resulted in much higher costs to construct buildings, and has had a negative impact on the cost of all buildings, including housing. The legislature intends the state building code council to be serious about providing more affordable smaller homes. The state building code council is being directed to control cost escalation when updating the state energy code.
+
+## Section 2
+1. A code official may approve designs for construction or repairs which do not fully conform with all of the requirements of the state energy code where, in the opinion of the code official, full compliance is physically impossible or economically impractical and the proposed alternative meets safety requirements. Economically impractical includes, but is not limited to, circumstances in which the cost of the requirement far exceeds the ability to recover the additional expense for the improvement through reductions in operational costs or savings from reduced energy usage within 10 years.
+
+2. [Empty]
+
+    a. During the 2026 and 2029 code cycles, the state building code council may not impose requirements that would add more to the total cost to build a 1,700 foot or smaller residential building or unit than the cost to build in accordance with the state energy code in effect January 1, 2026.
+
+    b. A code official may approve use of a less costly option provided in a prior state energy code if building to the existing state energy code exceeds the cost limitations imposed in this subsection.
+
+3. In circumstances where a project is intended to provide affordable housing residences, a code official may approve project designs that conform to less costly provisions from prior versions of the state energy code.
+
+4. For purposes of this section, "code official" means the officer or designated authority charged with the administration and enforcement of the codes adopted under chapters 19.27 and 19.27A RCW.
+
+## Section 3
+1. The governing bodies of counties and cities may amend the codes enumerated in RCW 19.27.031 as amended and adopted by the state building code council as they apply within their respective jurisdictions, but the amendments shall not result in a code that is less than the minimum performance standards and objectives contained in the state building code except as provided in subsection (2) of this section.
+
+    a. Except as provided in subsection (2) of this section, no amendment to a code enumerated in RCW 19.27.031 as amended and adopted by the state building code council that affects single-family or multifamily residential buildings shall be effective unless the amendment is approved by the building code council under RCW 19.27.074(1)(b).
+
+    b. Any county or city amendment to a code enumerated in RCW 19.27.031 which is approved under RCW 19.27.074(1)(b) shall continue to be effective after any action is taken under RCW 19.27.074(1)(a) without necessity of reapproval under RCW 19.27.074(1)(b) unless the amendment is declared null and void by the council at the time any action is taken under RCW 19.27.074(1)(a) because such action in any way altered the impact of the amendment.
+
+2. The legislative body of a county or city, in exercising the authority provided under subsection (1) of this section to amend the code enumerated in RCW 19.27.031(1)(a)(ii), may adopt amendments that eliminate any minimum gross floor area requirement for single-family detached dwellings or that provide a minimum gross floor area requirement below the minimum performance standards and objectives contained in the state building code.
+
+3. Except as permitted or provided otherwise under this section, the state building code shall be applicable to all buildings and structures including those owned by the state or by any governmental subdivision or unit of local government.
+
+4. The governing body of each county or city may limit the application of any portion of the state building code to exclude specified classes or types of buildings or structures according to use other than single-family or multifamily residential buildings. However, in no event shall fruits or vegetables of the tree or vine stored in buildings or warehouses constitute combustible stock for the purposes of application of the uniform fire code. A governing body of a county or city may inspect facilities used for temporary storage and processing of agricultural commodities.
+
+5. No provision of the uniform fire code concerning roadways shall be part of the state building code: PROVIDED, That this subsection shall not limit the authority of a county or city to adopt street, road, or access standards.
+
+6. The provisions of the state building code may be preempted by any city or county to the extent that the code provisions relating to the installation or use of sprinklers in jail cells conflict with the secure and humane operation of jails.
+
+7. [Empty]
+
+    a. Effective one year after July 23, 1989, the governing bodies of counties and cities may adopt an ordinance or resolution to exempt from permit requirements certain construction or alteration of either group R, division 3, or group M, division 1 occupancies, or both, as defined in the uniform building code, 1988 edition, for which the total cost of fair market value of the construction or alteration does not exceed fifteen hundred dollars. The permit exemption shall not otherwise exempt the construction or alteration from the substantive standards of the codes enumerated in RCW 19.27.031, as amended and maintained by the state building code council under RCW 19.27.070.
+
+    b. Prior to July 23, 1989, the state building code council shall adopt by rule, guidelines exempting from permit requirements certain construction and alteration activities under (a) of this subsection.
+
+8. Actions by a code official in compliance with section 2 of this act are not subject to the provisions of this section.
+
+## Section 4
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

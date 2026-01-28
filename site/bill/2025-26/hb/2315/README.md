@@ -29,4 +29,6 @@ Testifying:
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Kaden Davis - Washington CannaBusiness Association

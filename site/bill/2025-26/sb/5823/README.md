@@ -14,10 +14,10 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5823 Patient advocates
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 
-#### 1 👎 - Con
+#### 569 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association

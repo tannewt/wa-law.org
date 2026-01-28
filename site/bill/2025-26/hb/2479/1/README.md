@@ -1,0 +1,392 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2479](/bill/2025-26/hb/2479/) > [Original Bill](/bill/2025-26/hb/2479/1/)
+
+# HB 2479 - Unpaid wage recovery
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2479.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. If an employee files a wage complaint with the department, the department may investigate the wage complaint. The department must establish a written process by which wage complaints will be prioritized based on factors including, but not limited to, the harm to the affected employee, the severity of the complaint, the number of employees potentially affected, and the probability of retaliation. The department's enforcement priorities must be made publicly available.
+
+    b. Unless otherwise resolved, when the department accepts a complaint, the department shall issue either a citation and notice of assessment or a determination of compliance no later than 60 days after the date on which the department accepted the wage complaint. The department may extend the time period by providing advance written notice to the employee and the employer setting forth good cause for an extension of the time period and specifying the duration of the extension.
+
+    c. The department may not investigate any alleged violation of a wage payment requirement that occurred more than three years before the date that the employee filed the wage complaint.
+
+    d. The department shall send the citation and notice of assessment or the determination of compliance to both the employer and the employee by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses.
+
+    e. During an investigation, if the department discovers information suggesting additional violations of any requirements related to compensation under this chapter, or any associated rule, the department may expand its investigation and take appropriate enforcement action to ensure compliance, without any additional complaints filed. The department may also initiate an investigation on behalf of one or more employees for a violation of any requirement related to compensation under this chapter or any associated rule, when the department has reason to believe a violation has occurred or will occur.
+
+    f. The department may conduct a consolidated investigation for any alleged violation of a requirement related to compensation under this chapter or associated rule when there are common questions of law or fact involving employees of the same employer.
+
+2. If the department determines that an employer has violated a wage payment requirement and issues to the employer a citation and notice of assessment, the department may order the employer to pay employees all wages owed, including interest of one percent per month on all wages owed, to the employee. The wages and interest owed must be calculated from the first date wages were owed to the employee, except that the department may not order the employer to pay any wages and interest that were owed more than three years before the date the wage complaint was filed with the department.
+
+3. If the department determines that the violation of the wage payment requirement was a willful violation, the department also may order the employer to pay the department a civil penalty as specified in (a) of this subsection. The department shall assess a civil penalty against any repeat willful violator as required by RCW 49.48.125 or any willful violator where the employer previously settled or otherwise resolved a wage complaint more than once in the preceding 12 months or three times in the preceding 24 months.
+
+    a. [Empty]
+
+        i. A civil penalty for a willful violation of a wage payment requirement shall be not less than $1,500 or an amount equal to 10 percent of the total amount of unpaid wages, whichever is greater. Beginning in 2030, and every three years thereafter, the department shall increase the base penalty amount by the cumulative rate of inflation, rounded to the nearest 50 dollars, using the same process provided in RCW 49.46.020.
+
+        ii. The department shall, by rule, create a matrix of criteria for the imposition of penalties. In creating the matrix, the department must consider the appropriateness of the penalty with respect to the number of affected employees of the employer subject to the penalty, the gravity of the violation, the size of the employer's business, the good faith of the employer, the source or cause of any error, the promptness of remedy, the employer's history of previous complaints and violations, or other factors the department considers relevant.
+
+    b. The department may not assess a civil penalty if the employer reasonably relied on: (i) A rule related to any wage payment requirement; (ii) a written order, ruling, approval, opinion, advice, determination, or interpretation of the director; or (iii) an interpretive or administrative policy issued by the department and filed with the office of the code reviser. In accordance with the department's retention schedule obligations under chapter 40.14 RCW, the department shall maintain a complete and accurate record of all written orders, rulings, approvals, opinions, advice, determinations, and interpretations for purposes of determining whether an employer is immune from civil penalties under (b)(ii) of this subsection.
+
+    c. The department may waive any civil penalty assessed against an employer under this section if all of the following conditions are met: The employer is not a repeat willful violator, the employer has not previously settled or otherwise resolved a wage complaint more than once in the preceding 12 months or three times in the preceding 24 months, and the director determines that the employer has provided payment to the employee of all wages and interest that the department determined that the employer owed to the employee, including interest, within 10 business days of the employer's receipt of the citation and notice of assessment from the department.
+
+    d. The department may  reduce at any time a civil penalty assessed under this section if the director determines that the employer paid all wages and interest owed to an employee.
+
+    e. Until the effective date of this section, the department shall deposit civil penalties paid under this section in the supplemental pension fund established under RCW 51.44.033. Beginning on the effective date of this section, the department shall deposit all civil penalties paid under this chapter in the wage recovery account created under section 3 of this act.
+
+4. Upon payment by an employer, and acceptance by an employee, of all wages and interest assessed by the department in a citation and notice of assessment issued to the employer, the fact of such payment by the employer, and of such acceptance by the employee, shall: (a) Constitute a full and complete satisfaction by the employer of all specific wage payment requirements addressed in the citation and notice of assessment; and (b) bar the employee from initiating or pursuing any court action or other judicial or administrative proceeding based on the specific wage payment requirements addressed in the citation and notice of assessment. The citation and notice of assessment shall include a notification and summary of the specific requirements of this subsection.
+
+5. The applicable statute of limitations for civil actions is tolled for an employee's wage complaint against an employer once filed with the department. For the purposes of this subsection, a complaint filed with the department begins on the date the employee files the wage complaint with the department and ends when: (a) The wage complaint is finally determined through a final and binding citation and notice of assessment or determination of compliance;  (b) the department notifies the employer and the employee in writing that the wage complaint has been otherwise resolved or that the employee has elected to terminate the department's administrative action under RCW 49.48.085; or (c) the department notifies the worker the wage complaint will not be accepted.
+
+6. For all wage complaints filed on or after January 1, 2024, if the department offers the employer the option to resolve a wage complaint without a citation and notice of assessment, and the employer chooses to accept the offer, any settlement must include interest of one percent per month on all amounts owed. The employee may request a waiver or reduction of interest as part of the settlement process.
+
+## Section 2
+1. [Empty]
+
+    a. Subject to the availability of funds appropriated for this purpose, the wage recovery program is created and administered by the department. The purpose of the wage recovery program is to allow the department to disburse funds to unpaid low-wage employees, prior to the department issuing a citation and notice of assessment or collecting unpaid wages and interest from an employer, if the employee would otherwise experience immediate economic harm due to the nonpayment of wages.
+
+    b. The department may adopt rules to administer the program.
+
+2. Beginning July 1, 2028, or when the account created under section 3 of this act contains at least $130,000, whichever is later, an employee is eligible to recover from the wage recovery program if each of the following conditions is satisfied:
+
+    a. The employee has filed a wage complaint with the department under RCW 49.48.083 and the department has investigated and determined that the wage complaint has merit;
+
+    b. The employee has assigned the employee's wage complaint to the department as required under this section;
+
+    c. The employee requested to be considered a recipient of funds from the wage recovery program;
+
+    d. The employee's earnings during the preceding 12 months were less than the maximum amount established by the department by rule and according to the process provided by rule;
+
+    e. The employee attests that without relief from the wage recovery program, the employee will suffer immediate economic harm; and
+
+    f. The employee, as a condition of receiving funds under the wage recovery program, has waived the ability to appeal the citation and any notice of assessment as well as any private right of action.
+
+3. [Empty]
+
+    a. To help prevent immediate economic harm to the employee, the department should attempt to disburse funds after the department has determined the complaint has merit and at the earliest possible point in the investigation process, as determined by the department.
+
+    b. In determining an eligible employee's need for funds to prevent immediate economic harm, the department may identify other factors for consideration, such as resources available to the employee, the employee's current employment status, and family size.
+
+    c. The department may determine the priority of payments made between eligible employees and whether to issue funds for eligible employees. Factors to consider in prioritizing applications for funds from the program should include, but are not limited to, the severity of the potential economic harm to the employee, whether the department is likely to recover the unpaid wages and interest from the employer, and availability of funds to be distributed throughout the year given the seasonality of some industries.
+
+4. [Empty]
+
+    a. As a condition of receiving a disbursement of funds under the wage recovery program, the employee must assign to the department the employee's right to any claim on wages and interest owed by the employer.
+
+    b. An employee receiving funds from the wage recovery program may not pursue collection, or authorize another entity other than the department to pursue collection on the employee's behalf.
+
+    c. When an employer pays the department wages and interest for a wage complaint assigned to the department, the department shall  deposit into the wage recovery account created under section 3 of this act the amounts necessary to reimburse the account for the disbursements made to the employee, plus interest. The department shall pay any remaining payment of wages and interest by the employer on the claim to the employee.
+
+5. An eligible employee may receive up to 85 percent of wages the employee is anticipated to be owed at the time of disbursement from the fund, up to a maximum of $2,500, from the account.
+
+6. Total payments made under the wage recovery program for any fiscal year may not be greater than 80 percent of the account balance, calculated at the end of the previous fiscal year.
+
+7. [Empty]
+
+    a. Eligibility for payment under the wage recovery program does not create a right to payment. Payments under this section are discretionary. This section does not create an entitlement to payment or services. This section does not create a right of action.
+
+    b. The department is not criminally or civilly liable and may not have any penalty or cause of action of any nature arise against it regarding the provision or lack of provision of funds for payments under this section.
+
+8. As part of its annual report submitted under RCW 49.12.180, the department shall include a report of the wage recovery program, including the following information:
+
+    a. Amounts available in the account for disbursement at the beginning of the year and at the end of the year;
+
+    b. Amounts paid out from the account;
+
+    c. The number of employees and wage complaints that resulted in payments made from the account;
+
+    d. The types and frequency of immediate economic harm identified by the employee through attestation;
+
+    e. The total amount of wages and interest owed to employees in notices of assessment where the program issued a payment;
+
+    f. The average payment made to employees under the program;
+
+    g. The total amount of penalties assessed in notices of assessment where there were payments made under the program;
+
+    h. The total recovery from employers of amounts paid from the account;
+
+        i. The total outstanding recovery from employers of amounts paid from the account;
+
+    j. The total collection of all wages, interest, and penalties assessed in notices of assessment from employers where there was payment from the account;
+
+    k. The number of notices of assessment where the wages and interest ultimately assessed were less than the amount paid from the account to the employee;
+
+    l. The number of employer appeals of notices of assessment where there was payment from the account;
+
+    m. The number of appeals where the final decision resulted in a lower wage owed to the employee than the amount paid out of the account to the employee;
+
+    n. The number of appeals where an employee who received payment from the account failed to participate;
+
+    o. The number of payments from the account subject to the 85 percent disbursement cap.
+
+## Section 3
+The wage recovery account is created in the custody of the state treasurer. All receipts from civil penalties collected under this chapter and chapter 49.46 RCW, and all moneys recovered from wage complaints assigned to the department as authorized under this section must be deposited into the account. Expenditures from the account may be used only for disbursements to employees in accordance with section 2 of this act. Only the director of or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+## Section 4
+1. The department shall assess a civil penalty against any repeat willful violator in an amount consistent with RCW 49.48.083(3).
+
+2. The department may  reduce a civil penalty assessed under this section if the director determines that the employer has paid all wages and interest owed to the employee.
+
+## Section 5
+1. By June 30, 2034, but no sooner than five years from the date the department of labor and industries begins disbursing funds from the wage recovery program, the joint committee must conduct a program and fiscal review of the wage recovery program created in section 2 of this act. The committee must evaluate the effectiveness of the program and the extent to which the program helped low-wage employees avoid immediate economic harm.
+
+2. The committee must report its findings to the appropriate committees of the legislature and the governor by December 1, 2035. The report must be prepared in the manner set forth in RCW 44.28.071 and 44.28.075 and may include surveying employees regarding their direct lived experiences with accessing the wage recovery program.
+
+3. The committee may make recommendations to improve the effectiveness and feasibility of the program.
+
+4. This section expires July 1, 2036.
+
+## Section 6
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
+
+## Section 7
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
+
+## Section 8
+1. [Empty]
+
+    a. If a driver files a complaint with the department alleging that a transportation network company failed to provide any compensation amounts due to the driver under RCW 49.46.300, the department shall investigate the complaint under this section. Unless otherwise resolved, the department shall issue either a citation and notice of assessment or a determination of compliance no later than 60 days after the date on which the department received the compensation-related complaint. The department may extend the time period by providing advance written notice to the driver and the transportation network company setting forth good cause for an extension of the time period and specifying the duration of the extension.
+
+    b. The department may not investigate any alleged compensation-related violation that occurred more than three years before the date that the driver filed the compensation-related complaint.
+
+    c. The department shall send the citation and notice of assessment or the determination of compliance to both the transportation network company and the driver by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses. A transportation network company may designate a mailing address of record for service, and additionally may provide an email address to which the department shall direct electronic courtesy copies of mailed correspondence, if such email address is provided.
+
+2. If the department determines that a transportation network company has violated a compensation requirement in RCW 49.46.300 and issues to the transportation network company a citation and notice of assessment, the department may order the transportation network company to pay drivers all compensation owed, including interest of one percent per month on all compensation owed, to the driver. The compensation and interest owed must be calculated from the first date compensation was owed to the driver, except that the department may not order the transportation network company to pay any compensation and interest that were owed more than three years before the date the complaint was filed with the department.
+
+3. If the department determines that the compensation-related violation was a willful violation, and the transportation network company fails to take corrective action, the department also may order the transportation network company to pay the department a civil penalty as specified in (a) of this subsection.
+
+    a. A civil penalty for a willful violation shall be not less than $1,000 or an amount equal to 10 percent of the total amount of unpaid compensation per claimant, whichever is greater. The maximum civil penalty for a willful violation of requirements in RCW 49.46.300 shall be $20,000 per claimant.
+
+    b. The department may not assess a civil penalty if the transportation network company reasonably relied on: (i) A rule related to any requirements in this section; (ii) a written order, ruling, approval, opinion, advice, determination, or interpretation of the director; or (iii) an interpretive or administrative policy issued by the department and filed with the office of the code reviser. In accordance with the department's retention schedule obligations under chapter 40.14 RCW, the department shall maintain a complete and accurate record of all written orders, rulings, approvals, opinions, advice, determinations, and interpretations for purposes of determining whether a transportation network company is immune from civil penalties under this subsection (3)(b).
+
+    c. The department shall waive any civil penalty assessed against a transportation network company under this section if the transportation network company is not a repeat willful violator, and the director determines that the transportation network company has provided payment to the driver of all compensation that the department determined that the transportation network company owed to the driver, including interest, within 30 days of the transportation network company's receipt of the citation and notice of assessment from the department.
+
+    d. The department may waive or reduce at any time a civil penalty assessed under this section if the director determines that the transportation network company paid all compensation and interest owed to a driver.
+
+    e. The department shall deposit civil penalties paid under this section in the wage recovery account created under section 3 of this act.
+
+4. Upon payment by a transportation network company, and acceptance by a driver, of all compensation and interest assessed by the department in a citation and notice of assessment issued to the transportation network company, the fact of such payment by the transportation network company, and of such acceptance by the driver, shall: (a) Constitute a full and complete satisfaction by the transportation network company of all specific requirements of RCW 49.46.300 addressed in the citation and notice of assessment; and (b) bar the driver from initiating or pursuing any court action or other judicial or administrative proceeding, including arbitration, based on the specific requirements addressed in the citation and notice of assessment. The citation and notice of assessment shall include a notification and summary of the specific requirements of RCW 49.46.300.
+
+5. The applicable statute of limitations for civil actions is tolled during the department's investigation of a driver's complaint against a transportation network company. For the purposes of this subsection, the department's investigation begins on the date the driver files the complaint with the department and ends when: (a) The complaint is finally determined through a final and binding citation and notice of assessment or determination of compliance; or (b) the department notifies the transportation network company and the driver in writing that the complaint has been otherwise resolved or that the driver has elected to terminate the department's administrative action under subsection (12) of this section.
+
+6. A person, firm, or corporation aggrieved by a citation and notice of assessment or a determination of compliance issued by the department under this section or the assessment of a civil penalty due to a determination of status as a repeat willful violator may appeal the citation and notice of assessment, the determination of compliance, or the assessment of a civil penalty to the director by filing a notice of appeal with the director within 30 days of the department's service, as provided in subsection (1) of this section, on the aggrieved party of the citation and notice of assessment, the determination of compliance, or the assessment of a civil penalty. A citation and notice of assessment, a determination of compliance, or an assessment of a civil penalty not appealed within 30 days is final and binding, and not subject to further appeal.
+
+7. A notice of appeal filed with the director under this section shall stay the effectiveness of the citation and notice of assessment, the determination of compliance, or the assessment of a civil penalty pending final review of the appeal by the director as provided for in chapter 34.05 RCW.
+
+8. Upon receipt of a notice of appeal, the director shall assign the hearing to an administrative law judge of the office of administrative hearings to conduct the hearing and issue an initial order. The hearing and review procedures shall be conducted in accordance with chapter 34.05 RCW, and the standard of review by the administrative law judge of an appealed citation and notice of assessment, an appealed determination of compliance, or an appealed assessment of a civil penalty shall be de novo. Any party who seeks to challenge an initial order shall file a petition for administrative review with the director within 30 days after service of the initial order. The director shall conduct administrative review in accordance with chapter 34.05 RCW.
+
+9. The director shall issue all final orders after appeal of the initial order. The final order of the director is subject to judicial review in accordance with chapter 34.05 RCW.
+
+10. Orders that are not appealed within the time period specified in this section and chapter 34.05 RCW are final and binding, and not subject to further appeal.
+
+11. Absent good cause, a transportation network company that fails to allow adequate inspection of records in an investigation by the department under this chapter within a reasonable time period may not use such records in any appeal under this section to challenge the correctness of any determination by the department of wages owed or penalties assessed.
+
+12. A driver who has filed a complaint under this section with the department may elect to terminate the department's administrative action, thereby preserving any private right of action, if any exists, by providing written notice to the department within 10 business days after the driver's receipt of the department's citation and notice of assessment.
+
+13. If the driver elects to terminate the department's administrative action: (a) The department shall immediately discontinue its action against the transportation network company; (b) the department shall vacate a citation and notice of assessment already issued by the department to the transportation network company; and (c) the citation and notice of assessment, and any related findings of fact or conclusions of law by the department, and any payment or offer of payment by the transportation network company of the compensation, including interest, assessed by the department in the citation and notice of assessment, shall not be admissible in any court action or other judicial or administrative proceeding.
+
+14. Nothing in this section shall be construed to limit or affect: (a) The right of any driver to pursue any judicial, administrative, or other action available with respect to a transportation network company; (b) the right of the department to pursue any judicial, administrative, or other action available with respect to a driver that is identified as a result of a complaint for a violation of RCW 49.46.300; or (c) the right of the department to pursue any judicial, administrative, or other action available with respect to a transportation network company in the absence of a complaint for a violation of RCW 49.46.300. For purposes of this subsection, "driver" means a driver other than a driver who has filed a complaint with the department and who thereafter has elected to terminate the department's administrative action as provided in subsection (1) of this section.
+
+15. After a final order is issued under this section, and served as provided in subsection (1) of this section, if a transportation network company defaults in the payment of: (a) Any compensation determined by the department to be owed to a driver, including interest; or (b) any civil penalty ordered by the department under this section, the director may file with the clerk of any county within the state a warrant in the amount of the payment plus any filing fees. The clerk of the county in which the warrant is filed shall immediately designate a superior court cause number for the warrant, and the clerk shall cause to be entered in the judgment docket under the superior court cause number assigned to the warrant, the name of the transportation network company mentioned in the warrant, the amount of payment due plus any filing fees, and the date when the warrant was filed. The aggregate amount of the warrant as docketed becomes a lien upon the title to, and interest in, all real and personal property of the transportation network company against whom the warrant is issued, the same as a judgment in a civil case docketed with the superior court clerk. The sheriff shall proceed upon the warrant in all respects and with like effect as prescribed by law with respect to execution or other process issued against rights or property upon judgment in a court of competent jurisdiction. The warrant so docketed is sufficient to support the issuance of writs of garnishment in favor of the state in a manner provided by law in case of judgment, wholly or partially unsatisfied. The clerk of the court is entitled to a filing fee which will be added to the amount of the warrant. A copy of the warrant shall be served on the transportation network company, as provided in subsection (1) of this section, within three days of filing with the clerk.
+
+16. [Empty]
+
+    a. The director may issue to any person, firm, corporation, other entity, municipal corporation, political subdivision of the state, public corporation, or any agency of the state, a notice and order to withhold and deliver property of any kind when he or she has reason to believe that there is in the possession of the person, firm, corporation, other entity, municipal corporation, political subdivision of the state, public corporation, or agency of the state, property that is or will become due, owing, or belonging to a transportation network company upon whom a notice of assessment has been served by the department for payments or civil penalties due to the department. The effect of a notice and order is continuous from the date the notice and order is first made until the liability out of which the notice and order arose is satisfied or becomes unenforceable because of lapse of time. The department shall release the notice and order when the liability out of which the notice and order arose is satisfied or becomes unenforceable by reason of lapse of time and shall notify the person against whom the notice and order was made that the notice and order has been released.
+
+    b. The notice and order to withhold and deliver must be served by the sheriff of the county or by the sheriff's deputy, by certified mail, return receipt requested, or by the director. A person, firm, corporation, other entity, municipal corporation, political subdivision of the state, public corporation, or agency of the state upon whom service has been made shall answer the notice within 20 days exclusive of the day of service, under oath and in writing, and shall make true answers to the matters inquired of in the notice and order. Upon service of the notice and order, if the party served possesses any property that may be subject to the claim of the department, the party shall promptly deliver the property to the director. The director shall hold the property in trust for application on the transportation network company's indebtedness to the department, or for return without interest, in accordance with a final determination of a petition for review. In the alternative, the party shall furnish a good and sufficient surety bond satisfactory to the director conditioned upon final determination of liability. If a party served and named in the notice fails to answer the notice within the time prescribed in this section, the court may render judgment by default against the party for the full amount claimed by the director in the notice, together with costs. If a notice is served upon a transportation network company and the property subject to it is compensation, the transportation network company may assert in the answer all exemptions provided for by chapter 6.27 RCW to which the compensation earner is entitled.
+
+    c. As an alternative to the methods of service described in this section, the department may electronically serve a financial institution with a notice and order to withhold and deliver by providing a list of its outstanding warrants, except those for which a payment agreement is in good standing, to the department of revenue. The department of revenue may include the warrants provided by the department in a notice and order to withhold and deliver served under RCW 82.32.235(3). A financial institution that is served with a notice and order to withhold and deliver under this subsection (16)(c) must answer the notice within the time period applicable to service under RCW 82.32.235(3). The department and the department of revenue may adopt rules to implement this subsection (16)(c).
+
+17. [Empty]
+
+    a. In addition to the procedure for collection of compensation owed, including interest, and civil penalties as set forth in this section, the department may recover compensation owed, including interest, and civil penalties assessed under RCW 49.48.083 in a civil action brought in a court of competent jurisdiction of the county where the violation is alleged to have occurred.
+
+    b. The department may use the procedures under this section to foreclose compensation liens established under chapter 60.90 RCW. When the department is foreclosing on a compensation lien, the date the compensation lien was originally filed shall be the date by which priority is determined, regardless of the date the warrant is filed under this section.
+
+18. Whenever any transportation network company quits business, sells out, exchanges, or otherwise disposes of the transportation network company's business or stock of goods, any person who becomes a successor to the business becomes liable for the full amount of any outstanding citation and notice of assessment or penalty against the transportation network company's business under this chapter if, at the time of the conveyance of the business, the successor has: (a) Actual knowledge of the fact and amount of the outstanding citation and notice of assessment; or (b) a prompt, reasonable, and effective means of accessing and verifying the fact and amount of the outstanding citation and notice of assessment from the department. If the citation and notice of assessment or penalty is not paid in full by the transportation network company within 10 days of the date of the sale, exchange, or disposal, the successor is liable for the payment of the full amount of the citation and notice of assessment or penalty, and payment thereof by the successor must, to the extent thereof, be deemed a payment upon the purchase price. If the payment is greater in amount than the purchase price, the amount of the difference becomes a debt due the successor from the transportation network company.
+
+19. This section does not affect other collection remedies that are otherwise provided by law.
+
+## Section 9
+1. If a driver files a complaint with the department alleging a violation of any noncompensation requirement of RCW 49.46.300 (7) through (10) and (12) through (14), the department shall investigate the complaint under this section.
+
+    a. The department may not investigate any such alleged violation that occurred more than three years before the date that the driver filed the complaint or prior to this law going into effect.
+
+    b. If a driver files a timely complaint with the department, the department will investigate the complaint and issue either a citation assessing a civil penalty or a closure letter within 60 days after the date on which the department received the complaint, unless the complaint is otherwise resolved. The department may extend the period by providing advance written notice to the driver and the transportation network company setting forth good cause for an extension of the period, and specifying the duration of the extension.
+
+    c. The department shall send notice of either a citation and notice of assessment or a citation assessing a civil penalty or the closure letter to both the transportation network company and the driver by service of process or by United States mail using a method by which delivery of such written notice to the transportation network company can be tracked and confirmed. A transportation network company may designate a mailing address of record for service, and additionally may provide an email address to which the department shall direct electronic courtesy copies of mailed correspondence, if such email address is provided.
+
+2. If the department's investigation finds that the driver's allegation cannot be substantiated, the department shall issue a closure letter to the driver and the transportation network company detailing such finding.
+
+3. If the department determines that the violation was a willful violation, and the transportation network company fails to take corrective action, the department may order the transportation network company to pay the department a civil penalty as specified in (a) of this subsection.
+
+    a. A citation assessing a civil penalty for a willful violation will be $1,000 for each willful violation. For a repeat willful violator, the citation assessing a civil penalty will not be less than $2,000 for each repeat willful violation per claimant, but no greater than $20,000 for each repeat willful violation per claimant.
+
+    b. The department may not issue a citation assessing a civil penalty if the transportation network company reasonably relied on: (i) A written order, ruling, approval, opinion, advice, determination, or interpretation of the director; or (ii) an interpretive or administrative policy issued by the department and filed with the office of the code reviser. In accordance with the department's retention schedule obligations under chapter 40.14 RCW, the department shall maintain a complete and accurate record of all written orders, rulings, approvals, opinions, advice, determinations, and interpretations for purposes of determining whether a transportation network company is immune from civil penalties under this subsection (3)(b).
+
+    c. The department may, at any time, waive or reduce a civil penalty assessed under this section if the director determines that the transportation network company has taken corrective action to resolve the violation.
+
+    d. The department shall deposit civil penalties paid under this section in the wage recovery account created under section 3 of this act.
+
+    e. If the department determines that a transportation network company has violated RCW 49.46.300(12), and issues to the transportation network company a citation and notice of assessment, the department may order the transportation network company to pay all owed remittance payments as required under RCW 49.46.300(12). The department shall deposit all owed remittance payments in the driver resource center fund.
+
+4. For purposes of this section, the following definitions apply:
+
+    a. "Repeat willful violator" means any transportation network company that has been the subject of a final and binding citation for a willful violation of one or more rights under this chapter and all applicable rules, within three years of the date of issuance of the most recent citation for a willful violation of one or more such rights.
+
+    b. "Willful" means a knowing and intentional action that is neither accidental nor the result of a bona fide dispute.
+
+5. A person, firm, or corporation aggrieved by a citation assessing a civil penalty issued by the department under this section may appeal the citation assessing a civil penalty to the director by filing a notice of appeal with the director within 30 days of the department's issuance of the citation assessing a civil penalty. A citation assessing a civil penalty not appealed within 30 days is final and binding, and not subject to further appeal.
+
+6. A notice of appeal filed with the director under this section stays the effectiveness of the citation assessing a civil penalty pending final review of the appeal by the director as provided for in chapter 34.05 RCW.
+
+7. Upon receipt of a notice of appeal, the director shall assign the hearing to an administrative law judge of the office of administrative hearings to conduct the hearing and issue an initial order. The hearing and review procedures must be conducted in accordance with chapter 34.05 RCW, and the standard of review by the administrative law judge of an appealed citation assessing a civil penalty must be de novo. Any party who seeks to challenge an initial order shall file a petition for administrative review with the director within 30 days after service of the initial order. The director shall conduct administrative review in accordance with chapter 34.05 RCW.
+
+8. The director shall issue all final orders after appeal of the initial order. The final order of the director is subject to judicial review in accordance with chapter 34.05 RCW.
+
+9. Orders that are not appealed within the period specified in this section and chapter 34.05 RCW are final and binding, and not subject to further appeal.
+
+10. Absent good cause, a transportation network company that fails to allow adequate inspection of records in an investigation by the department under this section within a reasonable time period may not use such records in any appeal under such rules to challenge the correctness of any determination by the department of penalties assessed.
+
+11. Collections of unpaid citations assessing civil penalties will be handled pursuant to the procedures outlined in RCW 49.48.086.
+
+12. If the department determines that a transportation network company has violated the requirements in RCW 49.46.300(12) to collect and remit the established fee, and issues to the transportation network company a citation and notice of assessment, the department may order the transportation network company to pay all owed remittance payments as required under RCW 49.46.300(12). The department shall deposit all unpaid remittance amounts into the driver resource center fund established in RCW 49.46.310.
+
+## Section 10
+1. It is unlawful for a transportation network company to interfere with, restrain, or deny the exercise of any driver right provided under or in connection with RCW 49.46.300 and 49.46.210(5). This means a transportation network company may not use a driver's exercise of any of the rights provided under RCW 49.46.300 and 49.46.210(5) as a factor in any action that adversely affects the driver's use of the transportation network.
+
+2. It is unlawful for a transportation network company to adopt or enforce any policy that counts the use of earned paid sick time for a purpose authorized under RCW 49.46.210(1) (b) and (c) as time off the platform that may lead to or result in temporary or permanent deactivation by the transportation network company against the driver.
+
+3. It is unlawful for a transportation network company to take any adverse action against a driver because the driver has exercised their rights provided under RCW 49.46.300 and 49.46.210(5). Such rights include, but are not limited to: Filing an action, or instituting or causing to be instituted any proceeding under or related to RCW 49.46.300 and 49.46.210(5), or testifying or intending to testify in any such proceeding related to any rights provided under RCW 49.46.300 and 49.46.210(5).
+
+4. Adverse action means any action taken or threatened by a transportation network company against a driver for the driver's exercise of rights under RCW 49.46.300 and 49.46.210(5).
+
+5. A driver who believes that he or she was subject to retaliation by a transportation network company for the exercise of any driver right under RCW 49.46.300 and 49.46.210(5) may file a complaint with the department within 180 days of the alleged retaliatory action. The department may, at its discretion, extend the 180-day period on recognized equitable principles or because of extenuating circumstances beyond the control of the department. The department may extend the 180-day period when there is a preponderance of evidence that the transportation network company has concealed or misled the driver regarding the alleged retaliatory action.
+
+6. If a driver files a timely complaint with the department alleging retaliation, the department shall investigate the complaint and issue either a citation and notice of assessment or a determination of compliance within 90 days after the date on which the department received the complaint, unless the complaint is otherwise resolved. The department may extend the period by providing advance written notice to the driver and the transportation network company setting forth good cause for an extension of the period, and specifying the duration of the extension.
+
+7. The department may consider a complaint to be otherwise resolved when the driver and the transportation network company reach a mutual agreement to remedy any retaliatory action, or the driver voluntarily and on the driver's own initiative withdraws the complaint.
+
+8. If the department's investigation finds that the driver's allegation of retaliation cannot be substantiated, the department shall issue a determination of compliance to the driver and the transportation network company detailing such finding.
+
+9. If the department's investigation finds that the transportation network company retaliated against the driver, and the complaint is not otherwise resolved, the department may, at its discretion, notify the transportation network company that the department intends to issue a citation and notice of assessment, and may provide up to 30 days after the date of such notification for the transportation network company to take corrective action to remedy the retaliatory action. If the complaint is not otherwise resolved, then the department shall issue a citation and notice of assessment. The department's citation and notice of assessment may:
+
+    a. Order the transportation network company to make payable to the driver earnings that the driver did not receive due to the transportation network company's retaliatory action, including interest of one percent per month on all earnings owed. The earnings and interest owed will be calculated from the first date earnings were owed to the driver;
+
+    b. Order the transportation network company to restore the contract of the driver, unless otherwise prohibited by law;
+
+    c. Order the transportation network company to cease using any policy that counts the use of earned paid sick time as time off the platform or an adverse action against the driver;
+
+    d. For the first violation, order the transportation network company to pay the department a civil penalty established in subsection (15) of this section; and
+
+    e. For a repeat violation, order the transportation network company to pay the department up to double the civil penalty established in subsection (15) of this section.
+
+10. The department shall send the citation and notice of assessment or determination of compliance to both the transportation network company and driver by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses. A transportation network company may designate a mailing address of record for service, and additionally may provide an email address to which the department shall direct electronic courtesy copies of mailed correspondence, if such email address is provided.
+
+11. During an investigation of the driver's retaliation complaint, if the department discovers information suggesting alleged violations by the transportation network company of the driver's other rights under this chapter, and all applicable rules, the department may investigate and take appropriate enforcement action without requiring the driver to file a new or separate complaint. In the event the department so expands an investigation, it shall provide reasonable notice to the transportation network company that it is doing so. If the department determines that the transportation network company violated additional rights of the driver under this chapter, and all applicable rules, the transportation network company may be subject to additional enforcement actions for the violation of such rights. If the department discovers information alleging the transportation network company retaliated against or otherwise violated rights of other drivers under this chapter, and all applicable rules, the department may launch further investigation under this chapter, and all applicable rules, without requiring additional complaints to be filed.
+
+12. The department may prioritize retaliation investigations as needed to allow for timely resolution of complaints.
+
+13. Nothing in this section impedes the department's ability to investigate under the authority prescribed in RCW 49.48.040.
+
+14. Nothing in this section precludes a driver's right to pursue private legal action, if any exists.
+
+15. If the department's investigation finds that a transportation network company retaliated against a driver, pursuant to the procedures outlined in this section, the department may order the transportation network company to pay the department a civil penalty. A civil penalty for a transportation network company's retaliatory action will not be less than $1,000 or an amount equal to 10 percent of the total amount of unpaid earnings attributable to the retaliatory action per claimant, whichever is greater. The maximum civil penalty for a transportation network company's retaliatory action shall be $20,000 per claimant for the first violation, and $40,000 for each repeat violation.
+
+16. The department may, at any time, waive or reduce any civil penalty assessed against a transportation network company under this section if the department determines that the transportation network company has taken corrective action to remedy the retaliatory action.
+
+17. The department will deposit civil penalties paid under this section in the wage recovery account created under section 3 of this act.
+
+18. Collections of amounts owed for unpaid citations and notices of assessment, as detailed in this section, will be handled pursuant to the procedures outlined in RCW 49.48.086.
+
+19. A person, firm, or corporation aggrieved by a citation and notice of assessment or a determination of compliance may, within 30 days after the date of such determination, submit a request for reconsideration to the department setting forth the grounds for seeking such reconsideration, or submit an appeal to the director pursuant to the procedures outlined in subsection (22) of this section. If the department receives a timely request for reconsideration, the department shall either accept the request or treat the request as a notice of appeal.
+
+20. If a request for reconsideration is accepted, the department shall send notice of the request for reconsideration to the transportation network company and the driver. The department shall determine if there are any valid reasons to reverse or modify the department's original decision to issue a citation and notice of assessment or determination of compliance within 30 days of receipt of such request. The department may extend this period by providing advance written notice to the driver and transportation network company setting forth good cause for an extension of the period, and specifying the duration of the extension. After reviewing the reconsideration, the department shall either:
+
+    a. Notify the driver and the transportation network company that the citation and notice of assessment or determination of compliance is affirmed; or
+
+    b. Notify the driver and the transportation network company that the citation and notice of assessment or determination of compliance has been reversed or modified.
+
+21. A request for reconsideration submitted to the department shall stay the effectiveness of the citation and notice of assessment or the determination of compliance pending the reconsideration decision by the department.
+
+22. [Empty]
+
+    a. Within 30 days after the date the department issues a citation and notice of assessment or a determination of compliance, or within 30 days after the date the department issues its decision on the request for reconsideration, a person, firm, or corporation aggrieved by a citation and notice of assessment or a determination of compliance may file with the director a notice of appeal.
+
+    b. A notice of appeal filed with the director under this section shall stay the effectiveness of the citation and notice of assessment or the determination of compliance pending final review of the appeal by the director as provided for in chapter 34.05 RCW.
+
+    c. Upon receipt of a notice of appeal, the director shall assign the hearing to an administrative law judge of the office of administrative hearings to conduct the hearing and issue an initial order. The hearing and review procedures shall be conducted in accordance with chapter 34.05 RCW, and the standard of review by the administrative law judge of an appealed citation and notice of assessment or determination of compliance shall be de novo. Any party who seeks to challenge an initial order shall file a petition for administrative review with the director within 30 days after service of the initial order. The director shall conduct administrative review in accordance with chapter 34.05 RCW.
+
+23. If a request for reconsideration is not submitted to the department within 30 days after the date of the original citation and notice of assessment or determination of compliance, and a person, firm, or corporation aggrieved by a citation and notice of assessment or determination of compliance did not submit an appeal to the director, then the citation and notice of assessment or determination of compliance is final and binding, and not subject to further appeal.
+
+24. The director shall issue all final orders after appeal of the initial order. The final order of the director is subject to judicial review in accordance with chapter 34.05 RCW.
+
+25. The director's orders that are not appealed within the time period specified in this section and chapter 34.05 RCW are final and binding, and not subject to further appeal.
+
+26. Absent good cause, a transportation network company that fails to allow adequate inspection of records in an investigation by the department under this section within a reasonable time period may not use such records in any appeal under such rules to challenge the correctness of any determination by the department.
+
+## Section 11
+1. Any employer that coerces an employee in furtherance of the employer committing a violation of wage payment requirements as defined in chapter 49.48 RCW, condition of labor requirements as defined in chapter 49.12 RCW, or any violations under chapter 49.30 RCW, including rules issued by the department pursuant to chapter 49.30 RCW, is subject to a civil penalty under this section, in addition to any other penalty that may be imposed by the department against an employer for those violations. If an employer's violation subjects the employer to a penalty under this section and a separate penalty under RCW 49.46.100, the employer must be assessed the higher amount of the two penalties.
+
+2. A worker who believes the worker was subject to coercion by the worker's employer based on the worker's immigration status may file a complaint with the department within 180 days of the alleged coercive action.
+
+3. [Empty]
+
+    a. The department must investigate a complaint of coercion by an employer based on immigration status.
+
+    b. Unless otherwise resolved, the department shall issue either a notice of citation assessing a penalty or a closure letter no later than 90 days after the date on which the department received the complaint.
+
+    c. The department may extend the time period by providing advance written notice to the employee and the employer setting forth good cause for an extension of the time period and specifying the duration of the extension.
+
+    d. The department shall send the citation assessing a penalty or closure letter to both the employer and the employee by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses.
+
+    e. If the department's investigation finds that the employee's allegation cannot be substantiated, the department must issue a closure letter to the employee and employer detailing such finding.
+
+    f. If the department determines the employer violated this section, the department must assess a civil penalty for each coercive act as follows:
+
+        i. For the first violation, a civil penalty not to exceed $1,000;
+
+        ii. For the second violation, a civil penalty not to exceed $5,000; and
+
+        iii. For any subsequent violation, a civil penalty not to exceed $10,000.
+
+4. Each act of coercion against each affected employee constitutes a separate violation of chapter 236, Laws of 2025.
+
+5. The department shall deposit all civil penalties paid under this section in the wage recovery account created under section 3 of this act.
+
+6. [Empty]
+
+    a. The penalties payable pursuant to this section shall be adjusted for inflation every three years, beginning July 1, 2028, based upon changes in the consumer price index during that time period.
+
+    b. For purposes of this subsection, "consumer price index" means, for any calendar year, that year's average consumer price index for the Seattle, Washington area for urban wage earners and clerical workers, all items, compiled by the bureau of labor statistics, United States department of labor.
+
+7. Any personal information about the employee or the employee's family members, including names, in a complaint or investigation is confidential and may be disclosed only to the employer. Any personal information may not be disclosed to any other person or entity without the written permission of the employee.
+
+8. If, during an investigation of any other complaint, the department discovers information that suggests an employer has coerced an employee based on immigration status, the department may investigate and take appropriate enforcement action without requiring the employee to file a new or separate complaint.
+
+9. [Empty]
+
+    a. A person, firm, or corporation aggrieved by a citation assessing a civil penalty issued by the department under this section may appeal the citation to the director by filing a notice of appeal with the director within 30 days of the department's issuance of the citation. A citation assessing a civil penalty not appealed within 30 days is final and binding, and not subject to further appeal.
+
+    b. A notice of appeal filed with the director under this section stays the effectiveness of the citation assessing a civil penalty pending final review of the appeal by the director as provided for in chapter 34.05 RCW.
+
+    c. Upon receipt of a notice of appeal, the director shall assign the hearing to an administrative law judge of the office of administrative hearings to conduct the hearing and issue an initial order. The hearing and review procedures must be conducted in accordance with chapter 34.05 RCW, and the standard of review by the administrative law judge of an appealed citation assessing a civil penalty shall be de novo. Any party who seeks to challenge an initial order shall file a petition for administrative review with the director within 30 days after service of the initial order. The director will conduct administrative review in accordance with chapter 34.05 RCW.
+
+    d. The director shall issue all final orders after appeal of the initial order. The final order of the director is subject to judicial review in accordance with chapter 34.05 RCW.
+
+    e. Orders that are not appealed within the period specified in this section and chapter 34.05 RCW are final and binding, and not subject to further appeal.
+
+    f. An employer who fails to allow adequate inspection of records in an investigation by the department under this section within a reasonable time period may not use such records in any appeal under such rules to challenge the correctness of any determination by the department of penalties assessed.
+
+10. The collections procedures under RCW 49.48.086 apply to this section.
+
+11. For the purposes of this section, "department" means the department of labor and industries.
+
+## Section 12
+Section 6 of this act expires July 1, 2030.
+
+## Section 13
+Section 7 of this act takes effect July 1, 2030.

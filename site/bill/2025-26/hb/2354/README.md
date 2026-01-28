@@ -10,7 +10,9 @@
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2354 Common interest communities
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Dylan Doty - Washington State Chapter - Community Associations Institute (WSCAI)
 
 #### 0 👎 - Con
 

@@ -1,0 +1,15 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6228](/bill/2025-26/sb/6228/) > [Original Bill](/bill/2025-26/sb/6228/1/)
+
+# SB 6228 - Prescription drugs/taxes
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6228.pdf)
+
+## Section 1
+The legislature finds that, according to the most recent tax exemption study published by the department of revenue, there are currently 786 tax exemptions for the major state and local tax sources in Washington. A number of these tax exemptions have been unchanged in law for a long time and exist as the result of private interests securing preferential tax treatment. Furthermore, the legislature finds that the state's tax code must be periodically reviewed and updated to ensure that tax policy reflects our modern economy and provides adequate revenue to fund necessary and essential services to support the well-being of Washingtonians. Thus, it is the intent of the legislature to remove a tax preference in order to increase revenue to the state's general fund to maintain essential state services.
+
+## Section 2
+(1) Upon every person engaging within this state in the business of: (a) Printing materials other than newspapers, and of publishing periodicals or magazines; (b) building, repairing or improving any street, place, road, highway, easement, right-of-way, mass public transportation terminal or parking facility, bridge, tunnel, or trestle which is owned by a municipal corporation or political subdivision of the state or by the United States and which is used or to be used, primarily for foot or vehicular traffic including mass transportation vehicles of any kind and including any readjustment, reconstruction or relocation of the facilities of any public, private or cooperatively owned utility or railroad in the course of such building, repairing or improving, the cost of which readjustment, reconstruction, or relocation, is the responsibility of the public authority whose street, place, road, highway, easement, right-of-way, mass public transportation terminal or parking facility, bridge, tunnel, or trestle is being built, repaired or improved; (c) extracting for hire or processing for hire, except persons taxable as extractors for hire or processors for hire under another section of this chapter; (d) operating a cold storage warehouse or storage warehouse, but not including the rental of cold storage lockers; (e) representing and performing services for fire or casualty insurance companies as an independent resident managing general agent licensed under the provisions of chapter 48.17 RCW; (f) engaging in activities which bring a person within the definition of consumer contained in RCW 82.04.190(6); and (g) warehousing and reselling drugs for human use pursuant to a prescription; as to such persons, the amount of tax on such business is equal to the gross income of the business multiplied by the rate of 0.5 percent.
+
+## Section 3
+## Section 4
+Sections 2 and 3 of this act take effect January 1, 2027.

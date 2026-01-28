@@ -7,16 +7,17 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202297)
 * 01/15/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-update-statewide-food-security-strategy#:~:text=HB%202297)
 
 ## Meetings
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2297 Grocery store incentives
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 
-#### 1 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other

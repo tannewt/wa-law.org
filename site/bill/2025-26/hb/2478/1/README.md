@@ -1,0 +1,45 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2478](/bill/2025-26/hb/2478/) > [Original Bill](/bill/2025-26/hb/2478/1/)
+
+# HB 2478 - Wage enforcement discretion
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2478.pdf)
+
+## Section 1
+1. The department of labor and industries may:
+
+    a. Upon obtaining information indicating an employer may be committing a violation under this chapter and chapters 39.12and 49.46 RCW and associated rules, conduct investigations to ensure compliance with this chapter and chapters 39.12and 49.46 RCW and associated rules;
+
+    b. Order the payment of all amounts owed the workers under this chapter and chapters 39.12 and 49.46 RCW, and associated rules and institute actions necessary for the collection of the amounts determined owed; and
+
+    c. Take assignments of  claims under this chapter and chapters 39.12 and 49.46 RCW, and associated rules and prosecute actions for the collection of amounts owed of persons who are financially unable to employ counsel when in the judgment of the director of the department the claims are valid and enforceable in the courts.
+
+2. When the department orders the payment of all amounts owed under subsection (1)(b) of this section in an administrative order, including interest of one percent per month on all wages owed, the department may also assess penalties under RCW 49.48.083(3). The amounts and interest owed must be calculated from the first date amounts were owed to the employee, except that the department may not order the employer to pay any amounts and interest that were owed more than three years before the date the department obtained information indicating an employer may have committed violations under this chapter and chapters 39.12 and 49.46 RCW or associated rules. Appeals to administrative orders issued under this section are conducted pursuant to RCW 49.48.084. Collections of the administrative orders issued under this section are conducted pursuant to RCW 49.48.086.
+
+3. The director of the department or any authorized representative may, for the purpose of carrying out RCW 49.48.040 through 49.48.080: (a) Issue subpoenas to compel the attendance of witnesses or parties and the production of books, papers, or records; (b) administer oaths and examine witnesses under oath; (c) take the verification of proof of instruments of writing; and (d) take depositions and affidavits. If assignments for wage claims are taken, court costs shall not be payable by the department for prosecuting such suits.
+
+4. The director shall have a seal inscribed "Department of Labor and IndustriesState of Washington" and all courts shall take judicial notice of such seal. Obedience to subpoenas issued by the director or authorized representative shall be enforced by the courts in any county.
+
+5. The director or authorized representative shall have free access to all places and works of labor. Any employer or any agent or employee of such employer who refuses the director or authorized representative admission therein, or who, when requested by the director or authorized representative, willfully neglects or refuses to furnish the director or authorized representative any statistics or information pertaining to his or her lawful duties, which statistics or information may be in his or her possession or under the control of the employer or agent, shall be guilty of a misdemeanor.
+
+## Section 2
+1. If an employee files a wage complaint with the department, the department may investigate the wage complaint. Unless otherwise resolved, when the department accepts a complaint either a citation and notice of assessment or a determination of compliance shall be issued no later than 60 days after the date on which the department accepted the wage complaint. The department may extend the time period by providing advance written notice to the employee and the employer setting forth good cause for an extension of the time period and specifying the duration of the extension. The department may not investigate any alleged violation of a wage payment requirement that occurred more than three years before the date that the employee filed the wage complaint. The department shall send the citation and notice of assessment or the determination of compliance to both the employer and the employee by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses.
+
+2. If the department determines that an employer has violated a wage payment requirement and issues to the employer a citation and notice of assessment, the department may order the employer to pay employees all wages owed, including interest of one percent per month on all wages owed, to the employee. The wages and interest owed must be calculated from the first date wages were owed to the employee, except that the department may not order the employer to pay any wages and interest that were owed more than three years before the date the wage complaint was filed with the department.
+
+3. If the department determines that the violation of the wage payment requirement was a willful violation, the department also may order the employer to pay the department a civil penalty as specified in (a) of this subsection.
+
+    a. A civil penalty for a willful violation of a wage payment requirement shall be not less than $1,000 or an amount equal to 10 percent of the total amount of unpaid wages, whichever is greater. The maximum civil penalty for a willful violation of a wage payment requirement is $20,000.
+
+    b. The department may not assess a civil penalty if the employer reasonably relied on: (i) A rule related to any wage payment requirement; (ii) a written order, ruling, approval, opinion, advice, determination, or interpretation of the director; or (iii) an interpretive or administrative policy issued by the department and filed with the office of the code reviser. In accordance with the department's retention schedule obligations under chapter 40.14 RCW, the department shall maintain a complete and accurate record of all written orders, rulings, approvals, opinions, advice, determinations, and interpretations for purposes of determining whether an employer is immune from civil penalties under (b)(ii) of this subsection.
+
+    c. The department shall waive any civil penalty assessed against an employer under this section if the employer is not a repeat willful violator, and the director determines that the employer has provided payment to the employee of all wages that the department determined that the employer owed to the employee, including interest, within 10 business days of the employer's receipt of the citation and notice of assessment from the department.
+
+    d. The department may waive or reduce at any time a civil penalty assessed under this section if the director determines that the employer paid all wages and interest owed to an employee.
+
+    e. The department shall deposit civil penalties paid under this section in the supplemental pension fund established under RCW 51.44.033.
+
+4. Upon payment by an employer, and acceptance by an employee, of all wages and interest assessed by the department in a citation and notice of assessment issued to the employer, the fact of such payment by the employer, and of such acceptance by the employee, shall: (a) Constitute a full and complete satisfaction by the employer of all specific wage payment requirements addressed in the citation and notice of assessment; and (b) bar the employee from initiating or pursuing any court action or other judicial or administrative proceeding based on the specific wage payment requirements addressed in the citation and notice of assessment. The citation and notice of assessment shall include a notification and summary of the specific requirements of this subsection.
+
+5. The applicable statute of limitations for civil actions is tolled for an employee's wage complaint against an employer once filed with the department. For the purposes of this subsection, a complaint is filed with the department on the date the employee files the wage complaint with the department and ends when: (a) The wage complaint is finally determined through a final and binding citation and notice of assessment or determination of compliance;  (b) the department notifies the employer and the employee in writing that the wage complaint has been otherwise resolved or that the employee has elected to terminate the department's administrative action under RCW 49.48.085; or (c) the department notifies the worker the wage complaint will not be accepted.
+
+6. For all wage complaints filed on or after January 1, 2024, if the department offers the employer the option to resolve a wage complaint without a citation and notice of assessment, and the employer chooses to accept the offer, any settlement must include interest of one percent per month on all amounts owed. The employee may request a waiver or reduction of interest as part of the settlement process.

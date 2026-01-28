@@ -13,12 +13,19 @@
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2129 Agritourism
 Sign up to testify:
 
-#### 124 👍 - Pro
+#### 450 👍 - Pro
 Testifying:
 * Andrew Miller - Tulip Valley Farms
+* Derrill Fussell
+* Larry Jensen - Washington Farm Bureau
 
-#### 8 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Darrin morrison
+* Lora Claus - Skagitonians to Preserve Farmland
+* Mikala Staples Hughes - Western Washington Agricultural Association
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Ellen Bynum - Friends of Skagit County
+* Kraig Knutzen
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

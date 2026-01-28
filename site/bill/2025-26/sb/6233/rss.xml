@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6233 - Sale of covered animals</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6233/</link>
+		<description>Updates about SB 6233</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 12:10:28 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Agriculture &amp; Natural Resources.</title>
+			<description>First reading, referred to Agriculture &amp; Natural Resources.</description>
+			<pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-20/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Samuel Wasser - University of Washington Center for Environmental</title>
+			<description>Samuel Wasser signed up to testify Pro. They are signed up to represent University of Washington Center for Environmental.</description>
+			<pubDate>Mon, 26 Jan 2026 12:10:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Samuel/Wasser/2026-01-26 12:10:28</guid>
+		</item>
+	</channel>
+</rss>

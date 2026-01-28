@@ -166,6 +166,8 @@
 
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
 
+### [SB 5439](/bill/2025-26/sb/5439/) - Thermal coal divestment/SIB 👍1  
+
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ### [SB 5458](/bill/2025-26/sb/5458/) - Newspaper tax preference 👍1  

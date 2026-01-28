@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=HB%202138)
+
 ## Meetings

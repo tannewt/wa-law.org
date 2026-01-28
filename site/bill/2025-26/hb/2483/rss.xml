@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2483 - Data broker registry</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2483/</link>
+		<description>Updates about HB 2483</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 20 Jan 2026 10:59:42 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-14/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 19-23, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 19-23, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 16 Jan 2026 21:23:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202483</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: January 19-23, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: January 19-23, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 16 Jan 2026 21:34:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202483</guid>
+		</item>
+		<item>
+			<title>👎Max Martin - Association of Washington Business</title>
+			<description>Max Martin signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;.</description>
+			<pubDate>Mon, 19 Jan 2026 05:52:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Max/Martin/2026-01-19 05:52:56</guid>
+		</item>
+		<item>
+			<title>👎💵Rose Feliciano - TECHNOLOGY NETWORK</title>
+			<description>Rose Feliciano signed up to testify Con. They are signed up to represent TECHNOLOGY NETWORK. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Jan 2026 05:52:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rose/Feliciano/2026-01-19 05:52:56</guid>
+		</item>
+		<item>
+			<title>👎💵Crystal Leatherman - Washington Retail Association</title>
+			<description>Crystal Leatherman signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_retail_association/"&gt;Washington Retail Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 20 Jan 2026 10:59:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Crystal/Leatherman/2026-01-20 10:59:42</guid>
+		</item>
+	</channel>
+</rss>

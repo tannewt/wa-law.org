@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2527 - Eventual tenant ownership</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2527/</link>
+		<description>Updates about HB 2527</description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 25 Jan 2026 02:53:52 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👎lisa vatske - Washington State Housing Finance Commission</title>
+			<description>lisa vatske signed up to testify Con. They are signed up to represent Washington State Housing Finance Commission.</description>
+			<pubDate>Fri, 23 Jan 2026 10:39:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/lisa/vatske/2026-01-23 10:39:48</guid>
+		</item>
+		<item>
+			<title>👎steve walker - Washington State Housing Finance Commission</title>
+			<description>steve walker signed up to testify Con. They are signed up to represent Washington State Housing Finance Commission.</description>
+			<pubDate>Fri, 23 Jan 2026 10:39:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/steve/walker/2026-01-23 10:39:48</guid>
+		</item>
+		<item>
+			<title>👍💵Gabriel Galanda - Galanda Broadman</title>
+			<description>Gabriel Galanda signed up to testify Pro. They are signed up to represent Galanda Broadman. They are a registered lobbyist.</description>
+			<pubDate>Sun, 25 Jan 2026 02:53:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gabriel/Galanda/2026-01-25 02:53:52</guid>
+		</item>
+	</channel>
+</rss>

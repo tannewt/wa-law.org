@@ -1,0 +1,17 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6148](/bill/2025-26/sb/6148/) > [Original Bill](/bill/2025-26/sb/6148/1/)
+
+# SB 6148 - RTA bond issues maximum term
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6148.pdf)
+
+## Section 1
+Notwithstanding RCW 39.36.020(1), an authority may at any time contract indebtedness or borrow money for authority purposes and may issue general obligation bonds in an amount not exceeding, together with any existing indebtedness of the authority not authorized by the voters, one and one-half percent of the value of the taxable property within the boundaries of the authority; and with the assent of three-fifths of the voters therein voting at an election called for that purpose, may contract indebtedness or borrow money for authority purposes and may issue general obligation bonds therefor, provided the total indebtedness of the authority shall not exceed five percent of the value of the taxable property therein. Such bonds shall be issued and sold in accordance with chapter 39.46 RCW, except that the maximum term of any general obligation bond issue shall be 75 years. However, if an authority issues any general obligation bonds with a maximum term greater than 40 years, the authority is not eligible for regional mobility grant program funds.
+
+The term "value of the taxable property" shall have the meaning set forth in RCW 39.36.015.
+
+## Section 2
+1. An authority may issue revenue bonds to provide funds to carry out its authorized functions without submitting the matter to the voters of the authority. The authority shall create a special fund or funds for the sole purpose of paying the principal of and interest on the bonds of each such issue, into which fund or funds the authority may obligate itself to pay such amounts of the gross revenue of the high capacity transportation system constructed, acquired, improved, added to, or repaired out of the proceeds of sale of such bonds, as the authority shall determine and may obligate the authority to pay such amounts out of otherwise unpledged revenue that may be derived from the ownership, use, or operation of properties or facilities owned, used, or operated incident to the performance of the authorized function for which such bonds are issued or out of otherwise unpledged fees, tolls, charges, tariffs, fares, rentals, special taxes, or other sources of payment lawfully authorized for such purpose, as the authority shall determine. The principal of, and interest on, such bonds shall be payable only out of such special fund or funds, and the owners of such bonds shall have a lien and charge against the gross revenue of such high capacity transportation system or any other revenue, fees, tolls, charges, tariffs, fares, special taxes, or other authorized sources pledged to the payment of such bonds.
+
+Such revenue bonds and the interest thereon issued against such fund or funds shall be a valid claim of the owners thereof only as against such fund or funds and the revenue pledged therefor, and shall not constitute a general indebtedness of the authority.
+
+2. Notwithstanding subsection (1) of this section, such bonds may be issued and sold in accordance with chapter 39.46 RCW, except that the maximum term of any revenue bond issue shall be 75 years. However, if an authority issues any revenue bonds with a maximum term greater than 40 years, the authority is not eligible for regional mobility grant program funds.

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2539 - Inmate funds</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2539/</link>
+		<description>Updates about HB 2539</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 01:16:29 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Community Safety.</title>
+			<description>First reading, referred to Community Safety.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>👍Derond Potts - Nucor Steel</title>
+			<description>Derond Potts signed up to testify Pro.</description>
+			<pubDate>Mon, 26 Jan 2026 01:02:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Derond/Potts/2026-01-26 01:02:19</guid>
+		</item>
+		<item>
+			<title>👍Tonelli Anderson - Nucor Steel</title>
+			<description>Tonelli Anderson signed up to testify Pro.</description>
+			<pubDate>Mon, 26 Jan 2026 11:29:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tonelli/Anderson/2026-01-26 11:29:50</guid>
+		</item>
+		<item>
+			<title>👍💵Emijah Smith - Colorful Communities LLC</title>
+			<description>Emijah Smith signed up to testify Pro. They are signed up to represent Colorful Communities LLC. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 01:16:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emijah/Smith/2026-01-27 01:16:29</guid>
+		</item>
+	</channel>
+</rss>

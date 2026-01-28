@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6194 - Allowable costs/hospital</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6194/</link>
+		<description>Updates about SB 6194</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Health &amp; Long-Term Care.</title>
+			<description>First reading, referred to Health &amp; Long-Term Care.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; without recommendation.</title>
+			<description>HLTC - Majority; without recommendation.</description>
+			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-22/HLTC - Majority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-23/Referred to Ways &amp; Means.</guid>
+		</item>
+	</channel>
+</rss>

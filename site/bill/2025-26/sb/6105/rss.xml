@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6105 - Medical debt garnishments</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6105/</link>
+		<description>Updates about SB 6105</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 23 Jan 2026 19:15:31 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>What does affordability mean to you? - Sen. Marko Liias</title>
+			<description>News article "What does affordability mean to you? - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Fri, 23 Jan 2026 19:15:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=take-home pay</guid>
+		</item>
+	</channel>
+</rss>

@@ -10,7 +10,7 @@
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2223 Irrigation dist. directors
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * 💵John Stuhlmiller - Washington State Water Resources Association
 

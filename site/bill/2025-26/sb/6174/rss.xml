@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6174 - Textile producers</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6174/</link>
+		<description>Updates about SB 6174</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 23 Jan 2026 23:23:16 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Environment, Energy &amp; Technology.</title>
+			<description>First reading, referred to Environment, Energy &amp; Technology.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/First reading, referred to Environment, Energy &amp; Technology.</guid>
+		</item>
+		<item>
+			<title>Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett</title>
+			<description>News article "Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett" from Senate Democrats.</description>
+			<pubDate>Fri, 23 Jan 2026 23:23:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB%206174</guid>
+		</item>
+	</channel>
+</rss>

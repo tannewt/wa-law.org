@@ -13,7 +13,7 @@
 ### Thu 01/29 04:00 PM - Transportation (TR): HB 2347 Luxury aircraft tax
 Sign up to testify:
 
-#### 26 👍 - Pro
+#### 215 👍 - Pro
 Testifying:
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 * Alan Burnett - Pacific Northwest Business Aviation Association (PNBAA)
@@ -29,7 +29,13 @@ Testifying:
 * 💵Ken Short - Association of Washington Business (AWB)
 * Maddie DuBray - DuBray Consulting
 * Mike Ennis - Washington Airport Managment Association (WAMA)
+* Krzysztof Zelazowski - Lumen Wings LLC
+* Louis Kitz
+* Steve Sullivan
+* John Edwards
 
-#### 10 👎 - Con
+#### 57 👎 - Con
+Testifying:
+* Breck Lebegue MD MPH
 
 #### 0 ❓ - Other

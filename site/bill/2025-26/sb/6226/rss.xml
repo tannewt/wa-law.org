@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6226 - Audiologist autonomy</title>
+		<link>https://wa-law.org/bill/2025-26/sb/6226/</link>
+		<description>Updates about SB 6226</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jan 2026 08:45:37 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Health &amp; Long-Term Care.</title>
+			<description>First reading, referred to Health &amp; Long-Term Care.</description>
+			<pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-20/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Stephanie Czuhajewski - Academy of Doctors of Audiology</title>
+			<description>Stephanie Czuhajewski signed up to testify Pro. They are signed up to represent Academy of Doctors of Audiology.</description>
+			<pubDate>Mon, 26 Jan 2026 08:45:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stephanie/Czuhajewski/2026-01-26 08:45:37</guid>
+		</item>
+	</channel>
+</rss>

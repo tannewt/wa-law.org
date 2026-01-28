@@ -27,11 +27,13 @@
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
 
-## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ## 2023-24
 
-### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 * ❓ Anji Jorstad

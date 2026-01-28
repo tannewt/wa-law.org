@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2476 - Theater licenses/alcohol</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2476/</link>
+		<description>Updates about HB 2476</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 21 Jan 2026 11:30:05 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-14/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍Matt Dunne - Cinemark</title>
+			<description>Matt Dunne signed up to testify Pro. They are signed up to represent Cinemark.</description>
+			<pubDate>Tue, 20 Jan 2026 03:35:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Dunne/2026-01-20 03:35:59</guid>
+		</item>
+		<item>
+			<title>👍Stephen Mercy - Yakima Theatres</title>
+			<description>Stephen Mercy signed up to testify Pro. They are signed up to represent Yakima Theatres.</description>
+			<pubDate>Tue, 20 Jan 2026 10:34:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stephen/Mercy/2026-01-20 10:34:55</guid>
+		</item>
+		<item>
+			<title>👍Sean DeWitz - Washington Hospitality Association</title>
+			<description>Sean DeWitz signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_hospitality_association/"&gt;Washington Hospitality Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 21 Jan 2026 11:30:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/DeWitz/2026-01-21 11:30:05</guid>
+		</item>
+	</channel>
+</rss>

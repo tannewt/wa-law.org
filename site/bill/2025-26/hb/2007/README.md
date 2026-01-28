@@ -10,10 +10,14 @@
 ### Thu 01/29 08:00 AM - Education (ED): HB 2007 Competency-based assessments
 Sign up to testify:
 
-#### 147 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * Abigail Stiffler
+* Aabriella Frazier
+* Andre Ferreira
+* Nandini Damodaran
+* Noah Wissner
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

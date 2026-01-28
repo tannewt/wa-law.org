@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2566 - Local government procurement</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2566/</link>
+		<description>Updates about HB 2566</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 09:07:29 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Local Government.</title>
+			<description>First reading, referred to Local Government.</description>
+			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-19/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍💵Axel Swanson - Washington State Association of Counties</title>
+			<description>Axel Swanson signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Jan 2026 03:13:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Axel/Swanson/2026-01-23 03:13:53</guid>
+		</item>
+		<item>
+			<title>❓💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn</title>
+			<description>Rowland Thompson signed up to testify Other. They are signed up to represent Allied Daily Newspapers of WA, WA Newspaper Publishers Assn. They are a registered lobbyist.</description>
+			<pubDate>Sun, 25 Jan 2026 08:52:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2026-01-25 08:52:36</guid>
+		</item>
+		<item>
+			<title>👍Ken Guy - King County government</title>
+			<description>Ken Guy signed up to testify Pro. They are signed up to represent King County government.</description>
+			<pubDate>Mon, 26 Jan 2026 12:30:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ken/Guy/2026-01-26 12:30:44</guid>
+		</item>
+		<item>
+			<title>❓💵Michael Transue - Mechanical Contractors Association of Western Washington</title>
+			<description>Michael Transue signed up to testify Other. They are signed up to represent Mechanical Contractors Association of Western Washington. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 09:07:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michael/Transue/2026-01-27 09:07:29</guid>
+		</item>
+	</channel>
+</rss>

@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 01/27 01:30 PM - Consumer Protection & Business (CPB): HB 2268 Mortgage escrow accounts
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

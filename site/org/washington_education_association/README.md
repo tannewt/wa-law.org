@@ -597,6 +597,8 @@
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 
+### [SB 5379](/bill/2025-26/sb/5379/) - Parks & rec./interest arb. 👍1  
+
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  

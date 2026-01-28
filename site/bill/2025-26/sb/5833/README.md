@@ -5,6 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+
+## 📰 Articles
+* 01/26/2026 [Axios](/org/axios/) - [Washington state bill would allow leaving cars running to protect pets - Axios Seattle](https://www.axios.com/local/seattle/2026/01/26/washington-state-pet-safety-idling-law-bill-2026#:~:text=Senate%20Bill%205833)
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5833 Pets in unattended vehicles

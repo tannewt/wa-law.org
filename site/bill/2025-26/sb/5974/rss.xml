@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5974 - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.</title>
+		<title>SB 5974 - Local law enforcement</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5974/</link>
 		<description>Updates about SB 5974</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 06:54:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -378,6 +378,20 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_da2387f5-b7f8-4c2a-9c58-9dfc7a34014f.html#:~:text=Senate%20Bill%205974</guid>
 		</item>
 		<item>
+			<title>Pierce County sheriff's comments may get him kicked out of police group - MyNorthwest.com</title>
+			<description>News article "Pierce County sheriff's comments may get him kicked out of police group - MyNorthwest.com" from MyNorthwest.</description>
+			<pubDate>Fri, 16 Jan 2026 12:08:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/pierce-county-sheriff-7/4189076#:~:text=SB%205974</guid>
+		</item>
+		<item>
+			<title>Sheriff Swank slams law enforcement oversight panel: 'They don't understand what's at stake here' - MyNorthwest.com</title>
+			<description>News article "Sheriff Swank slams law enforcement oversight panel: 'They don't understand what's at stake here' - MyNorthwest.com" from MyNorthwest.</description>
+			<pubDate>Tue, 20 Jan 2026 13:02:29 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/john-curley/sheriff-swank-law-enforcement/4190758#:~:text=SB%205974</guid>
+		</item>
+		<item>
 			<title>And refer to Ways &amp; Means.</title>
 			<description>And refer to Ways &amp; Means.</description>
 			<pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
@@ -411,6 +425,13 @@
 			<pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-23/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Washington Sheriffs Targeted Again: Is HB 2387 Really Better Than SB 5974? - Conservative Ladies of Washington</title>
+			<description>News article "Washington Sheriffs Targeted Again: Is HB 2387 Really Better Than SB 5974? - Conservative Ladies of Washington" from Conservative Ladies of Washington.</description>
+			<pubDate>Tue, 27 Jan 2026 06:54:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://conservativeladiesofwa.com/washington-sheriffs-hb-2387-vs-sb-5974/#:~:text=SB%205974</guid>
 		</item>
 	</channel>
 </rss>

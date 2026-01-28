@@ -14,12 +14,18 @@
 ### Wed 01/28 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2170 Ecosystem services
 Sign up to testify:
 
-#### 936 👍 - Pro
+#### 1277 👍 - Pro
 Testifying:
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Kate Dean - Office of the Commissioner of Public Lands, Department of Natural Resources
+* Mariska Kecska - [Sierra Club](/org/sierra_club/)
+* 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
+* Rachel Baker - [Washington Conservation Action](/org/washington_conservation_action/)
+* Tye Menser - Thurston County Board of Commissioner
+* Ben Avery
+* Daniel Harm - [Center for Responsible Forestry](/org/center_for_responsible_forestry/)
 
-#### 501 👎 - Con
+#### 801 👎 - Con
 Testifying:
 * Mark Ozias - Clallam County
 * Amy Cruver - representing Pierce County 3rd Council District
@@ -34,8 +40,14 @@ Testifying:
 * 💵Heath Heikkila - American Forest Resource Council
 * Jim Stoffer
 * 💵Jerrold Bonagofsky - WA Contract Loggers Assn.
+* Lisa Olsen - Pacific County
+* Garret Stump - WKO Inc
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
-#### 8 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * Todd Myers - Washington Policy Center
+* 💵Kaylee Galloway - Whatcom County Council
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)

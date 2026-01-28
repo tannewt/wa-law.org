@@ -136,8 +136,12 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
 
-### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support   ❓1
+### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support   ❓2
 * ❓ George Geissler
+* ❓ George Geissler
+
+### [SB 5893](/bill/2025-26/sb/5893/) - Forest health appropriation 👍1  
+* 👍 George Geissler
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 

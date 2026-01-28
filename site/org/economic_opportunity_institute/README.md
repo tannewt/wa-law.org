@@ -66,6 +66,8 @@
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
 
+### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
+
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
 ### [HB 2292](/bill/2025-26/hb/2292/) - Small business stock gains 👍1  

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2500 - Transfers to charities</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2500/</link>
+		<description>Updates about HB 2500</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 09:31:26 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-15/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👍Johni Hays - Washington State Conservation Commission</title>
+			<description>Johni Hays signed up to testify Pro.</description>
+			<pubDate>Thu, 22 Jan 2026 04:56:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Johni/Hays/2026-01-22 04:56:29</guid>
+		</item>
+		<item>
+			<title>👍Larry Symonds - Washington State Conservation Commission</title>
+			<description>Larry Symonds signed up to testify Pro.</description>
+			<pubDate>Fri, 23 Jan 2026 09:19:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Larry/Symonds/2026-01-23 09:19:43</guid>
+		</item>
+		<item>
+			<title>👍Chris Stiles - Gonzaga University</title>
+			<description>Chris Stiles signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/gonzaga_university/"&gt;Gonzaga University&lt;/a&gt;.</description>
+			<pubDate>Sat, 24 Jan 2026 09:33:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Stiles/2026-01-24 09:33:34</guid>
+		</item>
+		<item>
+			<title>👍Douglas Page - Greater Tacoma Community Foundation</title>
+			<description>Douglas Page signed up to testify Pro. They are signed up to represent Greater Tacoma Community Foundation.</description>
+			<pubDate>Mon, 26 Jan 2026 11:47:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Douglas/Page/2026-01-26 11:47:40</guid>
+		</item>
+		<item>
+			<title>❓💵Lyset Cadena - WA Credit Unions</title>
+			<description>Lyset Cadena signed up to testify Other. They are signed up to represent WA Credit Unions. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 05:36:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lyset/Cadena/2026-01-27 05:36:05</guid>
+		</item>
+		<item>
+			<title>❓💵Brad Tower - Community Bankers of Washington</title>
+			<description>Brad Tower signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/community_bankers_of_washington/"&gt;Community Bankers of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 27 Jan 2026 09:31:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brad/Tower/2026-01-27 09:31:26</guid>
+		</item>
+	</channel>
+</rss>

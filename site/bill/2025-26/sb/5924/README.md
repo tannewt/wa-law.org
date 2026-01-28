@@ -13,7 +13,9 @@
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5924 Pharmacist prescriptive auth
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Boris Zhang
 
 #### 0 👎 - Con
 

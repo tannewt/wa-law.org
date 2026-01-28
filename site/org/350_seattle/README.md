@@ -15,7 +15,8 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding  👎1 
 
-### [SB 5439](/bill/2025-26/sb/5439/) - Thermal coal divestment/SIB 👍1  
+### [SB 5439](/bill/2025-26/sb/5439/) - Thermal coal divestment/SIB 👍2  
+* 👍💵 Andrew Eckels
 * 👍💵 Andrew Eckels
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  

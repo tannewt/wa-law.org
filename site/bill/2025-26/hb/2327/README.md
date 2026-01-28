@@ -11,15 +11,15 @@
 
 ## Meetings
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2327 County forest board lands
-Sign up to testify:
-
-#### 64 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * Jim Buck - Retired
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Heath Heikkila - American Forest Resource Council
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Rachel Baker - [Washington Conservation Action](/org/washington_conservation_action/)

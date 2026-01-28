@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2441 - Survivor insurance/LEOFF</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2441/</link>
+		<description>Updates about HB 2441</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 19 Jan 2026 07:37:44 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Appropriations.</title>
+			<description>First reading, referred to Appropriations.</description>
+			<pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-13/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Jacob White - LEOFF 2 Board</title>
+			<description>Jacob White signed up to testify Pro. They are signed up to represent LEOFF 2 Board.</description>
+			<pubDate>Mon, 19 Jan 2026 07:37:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jacob/White/2026-01-19 07:37:44</guid>
+		</item>
+	</channel>
+</rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6044/</link>
 		<description>Updates about SB 6044</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 12:29:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,54 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Srinivas Khedam - Hindu American Community of Seattle</title>
+			<description>Srinivas Khedam signed up to testify Pro. They are signed up to represent Hindu American Community of Seattle.</description>
+			<pubDate>Tue, 27 Jan 2026 02:09:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Srinivas/Khedam/2026-01-27 02:09:50</guid>
+		</item>
+		<item>
+			<title>👍Satwinder Kaur - Hindu American Community of Seattle</title>
+			<description>Satwinder Kaur signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 09:01:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Satwinder/Kaur/2026-01-27 09:01:15</guid>
+		</item>
+		<item>
+			<title>👍ARUN SHARMA - UTSAV</title>
+			<description>ARUN SHARMA signed up to testify Pro. They are signed up to represent UTSAV.</description>
+			<pubDate>Tue, 27 Jan 2026 09:07:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/ARUN/SHARMA/2026-01-27 09:07:47</guid>
+		</item>
+		<item>
+			<title>👍Pradeep Tiwari - UTSAV</title>
+			<description>Pradeep Tiwari signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 12:14:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Pradeep/Tiwari/2026-01-27 12:14:46</guid>
+		</item>
+		<item>
+			<title>👍Avani Desai - UTSAV</title>
+			<description>Avani Desai signed up to testify Pro.</description>
+			<pubDate>Tue, 27 Jan 2026 12:19:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Avani/Desai/2026-01-27 12:19:04</guid>
+		</item>
+		<item>
+			<title>❓Deepa Bhav - UTSAV</title>
+			<description>Deepa Bhav signed up to testify Other.</description>
+			<pubDate>Tue, 27 Jan 2026 12:29:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Deepa/Bhav/2026-01-27 12:29:52</guid>
 		</item>
 	</channel>
 </rss>

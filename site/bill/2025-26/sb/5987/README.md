@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 01/27 04:00 PM - Transportation (TRAN): SB 5987 SR 165 replacements
-Sign up to testify:
-
-#### 535 👍 - Pro
+#### 613 👍 - Pro
 Testifying:
 * Jeff Pack - Me
 * Jayme Peloli - Mayor, Town of Wilkeson
@@ -21,7 +19,11 @@ Testifying:
 * RON FOWLER - Tacoma, WA 98406
 * Denice Carnahan
 * Nichol Phillips - Pacific Northwest 4-Wheel Drive Association
+* Breanna Fokes - Foothills Rails to Trails Coalition
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Larry Leveen - ForeverGreen Trails
+* 💵Allison Krutsinger - Washington State Department of Transportation

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2157/</link>
 		<description>Updates about HB 2157</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,20 @@
 			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202157</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202157</guid>
+		</item>
+		<item>
+			<title>TEDV - Executive action taken by committee.</title>
+			<description>TEDV - Executive action taken by committee.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/TEDV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

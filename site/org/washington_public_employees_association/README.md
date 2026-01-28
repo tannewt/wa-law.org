@@ -65,6 +65,9 @@
 
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
 
+### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.   ❓1
+* ❓💵 Seamus Petrie
+
 ### [HB 2179](/bill/2025-26/hb/2179/) - Port workers PERS membership 👍1  
 
 ### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  

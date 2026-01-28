@@ -1,0 +1,12 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6105](/bill/2025-26/sb/6105/)
+
+# SB 6105 - Medical debt garnishments
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6105&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## 📰 Articles
+* 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=take-home pay)
+
+## Meetings

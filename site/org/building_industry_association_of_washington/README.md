@@ -353,7 +353,8 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 
-### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍2  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage. 👍1  

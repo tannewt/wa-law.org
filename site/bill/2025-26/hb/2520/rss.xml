@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2520 - Emergency meetings</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2520/</link>
+		<description>Updates about HB 2520</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 27 Jan 2026 10:15:46 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-16/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>❓Joe Kunzler - Private Citizen</title>
+			<description>Joe Kunzler signed up to testify Other. They are signed up to represent Private Citizen.</description>
+			<pubDate>Thu, 22 Jan 2026 12:00:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joe/Kunzler/2026-01-22 12:00:54</guid>
+		</item>
+		<item>
+			<title>❓💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn</title>
+			<description>Rowland Thompson signed up to testify Other. They are signed up to represent Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn. They are a registered lobbyist.</description>
+			<pubDate>Sun, 25 Jan 2026 09:15:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2026-01-25 09:15:29</guid>
+		</item>
+		<item>
+			<title>👎Colette Weeks - Washington Coalition for Open Government</title>
+			<description>Colette Weeks signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_coalition_for_open_government/"&gt;Washington Coalition for Open Government&lt;/a&gt;.</description>
+			<pubDate>Mon, 26 Jan 2026 01:16:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Colette/Weeks/2026-01-26 01:16:26</guid>
+		</item>
+		<item>
+			<title>👍💵Josh Weiss - Skagit County</title>
+			<description>Josh Weiss signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/skagit_county/"&gt;Skagit County&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 26 Jan 2026 02:52:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Josh/Weiss/2026-01-26 02:52:24</guid>
+		</item>
+		<item>
+			<title>👍💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 26 Jan 2026 06:03:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2026-01-26 06:03:13</guid>
+		</item>
+		<item>
+			<title>👎Arthur West - Washington Coalition for Open Government</title>
+			<description>Arthur West signed up to testify Con.</description>
+			<pubDate>Tue, 27 Jan 2026 10:15:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Arthur/West/2026-01-27 10:15:46</guid>
+		</item>
+	</channel>
+</rss>

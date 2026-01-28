@@ -5,12 +5,14 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202105)
 * 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Immigrant%20worker%20protections)
 * 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=(Companion%20bill:%20HB%202105))
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%202105)
+* 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=HB%202105)
 * 12/08/2025 [KUOW](/org/kuow/) - [KUOW - Ban on police face coverings pitched ahead of WA’s 2026 legislative session](https://www.kuow.org/stories/ban-on-police-face-coverings-pitched-ahead-of-wa-s-2026-legislative-session#:~:text=Immigrant%20Worker%20Protection%20Act)
 * 12/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Ban on police face coverings pitched ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/08/ban-on-police-face-coverings-pitched-ahead-of-was-2026-legislative-session/#:~:text=Immigrant%20Worker%20Protection%20Act)
 * 12/08/2025 [Gorge News Center](/org/gorge_news_center/) - [Ban on police face coverings pitched ahead of WA’s 2026 legislative session](https://gorgenewscenter.com/2025/12/08/ban-on-police-face-coverings-pitched-ahead-of-was-2026-legislative-session/#:~:text=Immigrant%20Worker%20Protection%20Act)

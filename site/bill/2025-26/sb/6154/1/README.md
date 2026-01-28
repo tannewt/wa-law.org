@@ -1,0 +1,88 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6154](/bill/2025-26/sb/6154/) > [Original Bill](/bill/2025-26/sb/6154/1/)
+
+# SB 6154 - Culvert replacement permits
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6154.pdf)
+
+## Section 1
+1. Except as provided in RCW 77.55.031, 77.55.051, 77.55.041, and 77.55.361, in the event that any person or government agency desires to undertake a hydraulic project, the person or government agency shall, before commencing work thereon, secure the approval of the department in the form of a permit as to the adequacy of the means proposed for the protection of fish life.
+
+2. A complete written application for a permit may be submitted in person or by registered mail and must contain the following:
+
+    a. General plans for the overall project;
+
+    b. Complete plans and specifications of the proposed construction or work within the mean higher high water line in salt water or within the ordinary high water line in fresh water;
+
+    c. Complete plans and specifications for the proper protection of fish life;
+
+    d. Notice of compliance with any applicable requirements of the state environmental policy act, unless otherwise provided for in this chapter; and
+
+    e. In the event that any person or government agency desires to undertake mineral prospecting or mining using motorized or gravity siphon equipment or desires to discharge effluent from such an activity to waters of the state, the person or government agency must also provide proof of compliance with the requirements of the federal clean water act issued by the department of ecology.
+
+3. The department may establish direct billing accounts or other funds transfer methods with permit applicants to satisfy the fee payment requirements of RCW 77.55.321.
+
+4. The department may accept complete, written applications as provided in this section for multiple site permits and may issue these permits. For multiple site permits, each specific location must be identified.
+
+5. With the exception of emergency permits as provided in subsection (12) of this section, applications for permits must be submitted to the department's headquarters office in Olympia. Requests for emergency permits as provided in subsection (12) of this section may be made to the permitting biologist assigned to the location in which the emergency occurs, to the department's regional office in which the emergency occurs, or to the department's headquarters office.
+
+6. Except as provided for emergency permits in subsection (12) of this section, the department may not proceed with permit review until all fees are paid in full as required in RCW 77.55.321.
+
+7. [Empty]
+
+    a. Protection of fish life is the only ground upon which approval of a permit may be denied or conditioned. Approval of a permit may not be unreasonably withheld or unreasonably conditioned.
+
+    b. Except as provided in this subsection and subsections (12) through (14) and (16) of this section, the department has 45 calendar days upon receipt of a complete application to grant or deny approval of a permit. The 45-day requirement is suspended if:
+
+        i. After 10 working days of receipt of the application, the applicant remains unavailable or unable to arrange for a timely field evaluation of the proposed project;
+
+        ii. The site is physically inaccessible for inspection;
+
+        iii. The applicant requests a delay; or
+
+        iv. The department is issuing a permit for a stormwater discharge and is complying with the requirements of RCW 77.55.161(3)(b).
+
+    c. Immediately upon determination that the 45-day period is suspended under (b) of this subsection, the department shall notify the applicant in writing of the reasons for the delay.
+
+    d. The period of 45 calendar days may be extended if the permit is part of a multiagency permit streamlining effort and all participating permitting agencies and the permit applicant agree to an extended timeline longer than 45 calendar days.
+
+8. If the department denies approval of a permit, the department shall provide the applicant a written statement of the specific reasons why and how the proposed project would adversely affect fish life.
+
+    a. Except as provided in (b) of this subsection, issuance, denial, conditioning, or modification of a permit shall be appealable to the board within 30 days from the date of receipt of the decision as provided in RCW 43.21B.230.
+
+    b. Issuance, denial, conditioning, or modification of a permit may be informally appealed to the department within 30 days from the date of receipt of the decision. Requests for informal appeals must be filed in the form and manner prescribed by the department by rule. A permit decision that has been informally appealed to the department is appealable to the board within 30 days from the date of receipt of the department's decision on the informal appeal.
+
+9. [Empty]
+
+    a. (i) Except as provided for in (b) of this subsection, the permittee must demonstrate substantial progress on construction of that portion of the project relating to the permit within two years of the date of issuance.
+
+        ii. Approval of a permit is valid for up to five years from the date of issuance, except as provided in (c) of this subsection and in RCW 77.55.151.
+
+    b. The permittee may apply to the department for an exception in (a) of this subsection if the permittee is a local government and the permittee can demonstrate that the permit for hydraulic projects to replace existing culverts should be extended because the replacement of the culvert will not provide a substantial fish habitat benefit due to existing culverts blocking access within a specified stream reach or reaches.
+
+    c. A permit remains in effect without need for periodic renewal for hydraulic projects that divert water for agricultural irrigation or stock watering purposes and that involve seasonal construction or other work. A permit for stream bank stabilization projects to protect farm and agricultural land as defined in RCW 84.34.020 remains in effect without need for periodic renewal if the problem causing the need for the stream bank stabilization occurs on an annual or more frequent basis. The permittee must notify the appropriate agency before commencing the construction or other work within the area covered by the permit.
+
+10. The department may, after consultation with the permittee, modify a permit due to changed conditions. A modification under this subsection is not subject to the fees provided under RCW 77.55.321. The modification is appealable as provided in subsection (8) of this section. For a hydraulic project that diverts water for agricultural irrigation or stock watering purposes, when the hydraulic project or other work is associated with stream bank stabilization to protect farm and agricultural land as defined in RCW 84.34.020, the burden is on the department to show that changed conditions warrant the modification in order to protect fish life.
+
+11. A permittee may request modification of a permit due to changed conditions. The request must be processed within 45 calendar days of receipt of the written request and payment of applicable fees under RCW 77.55.321. A decision by the department is appealable as provided in subsection (8) of this section. For a hydraulic project that diverts water for agricultural irrigation or stock watering purposes, when the hydraulic project or other work is associated with stream bank stabilization to protect farm and agricultural land as defined in RCW 84.34.020, the burden is on the permittee to show that changed conditions warrant the requested modification and that such a modification will not impair fish life.
+
+12. [Empty]
+
+    a. The department, the county legislative authority, or the governor may declare and continue an emergency. If the county legislative authority declares an emergency under this subsection, it shall immediately notify the department. A declared state of emergency by the governor under RCW 43.06.010 shall constitute a declaration under this subsection.
+
+    b. The department, through its authorized representatives, shall issue immediately, upon request, verbal approval for a stream crossing, or work to remove any obstructions, repair existing structures, restore stream banks, protect fish life, or protect property threatened by the stream or a change in the streamflow without the necessity of obtaining a written permit prior to commencing work. If the site of an emergency culvert replacement project does not provide substantial fish habitat benefits, and after the work has been completed to restore stream conveyance to preemergency conditions or restore, repair, and protect fish life and property at the emergency location, a permittee that is a local government may apply to the department for permission to invest equivalent resources in upgrading an alternate fish passage barrier within that local government's prioritized watershed strategy that would provide substantial fish habitat benefits, rather than investing those resources at the site of the emergency culvert location. Conditions of the emergency verbal permit must be reduced to writing within 30 days and complied with as provided for in this chapter.
+
+    c. The department may not require the provisions of the state environmental policy act, chapter 43.21C RCW, to be met as a condition of issuing a permit under this subsection.
+
+    d. The department may not charge a person requesting an emergency permit any of the fees authorized by RCW 77.55.321 until after the emergency permit is issued and reduced to writing.
+
+13. All state and local agencies with authority under this chapter to issue permits or other authorizations in connection with emergency water withdrawals and facilities authorized under RCW 43.83B.410 shall expedite the processing of such permits or authorizations in keeping with the emergency nature of such requests and shall provide a decision to the applicant within 15 calendar days of the date of application.
+
+14. The department or the county legislative authority may determine an imminent danger exists. The county legislative authority shall notify the department, in writing, if it determines that an imminent danger exists. In cases of imminent danger, the department shall issue an expedited written permit, upon request, for work to remove any obstructions, repair existing structures, restore banks, protect fish resources, or protect property. Expedited permit requests require a complete written application as provided in subsection (2) of this section and must be issued within 15 calendar days of the receipt of a complete written application. Approval of an expedited permit is valid for up to 60 days from the date of issuance. The department may not require the provisions of the state environmental policy act, chapter 43.21C RCW, to be met as a condition of issuing a permit under this subsection.
+
+15. [Empty]
+
+    a. For any property, except for property located on a marine shoreline, that has experienced at least two consecutive years of flooding or erosion that has damaged or has threatened to damage a major structure, water supply system, septic system, or access to any road or highway, the county legislative authority may determine that a chronic danger exists. The county legislative authority shall notify the department, in writing, when it determines that a chronic danger exists. In cases of chronic danger, the department shall issue a permit, upon request, for work necessary to abate the chronic danger by removing any obstructions, repairing existing structures, restoring banks, restoring road or highway access, protecting fish resources, or protecting property. Permit requests must be made and processed in accordance with subsections (2) and (7) of this section.
+
+    b. Any projects proposed to address a chronic danger identified under (a) of this subsection that satisfies the project description identified in RCW 77.55.181(1)(a)(ii) are not subject to the provisions of the state environmental policy act, chapter 43.21C RCW. However, the project is subject to the review process established in RCW 77.55.181(3) as if it were a fish habitat improvement project.
+
+16. The department may issue an expedited written permit in those instances where normal permit processing would result in significant hardship for the applicant or unacceptable damage to the environment. Expedited permit requests require a complete written application as provided in subsection (2) of this section and must be issued within 15 calendar days of the receipt of a complete written application. Approval of an expedited permit is valid for up to 60 days from the date of issuance. The department may not require the provisions of the state environmental policy act, chapter 43.21C RCW, to be met as a condition of issuing a permit under this subsection.
