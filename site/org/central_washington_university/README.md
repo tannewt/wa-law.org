@@ -36,6 +36,10 @@
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍2  
 
+### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures 👍2  
+
+### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍1  
+
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
@@ -82,11 +86,17 @@
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 * 👍 Steve DuPont
 
-## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+### [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+
+### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
+
+### [SB 6227](/bill/2025-26/sb/6227/) - Parenting student data 👍1  
+
+## [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
 
 ## 2023-24
 
-### [SB 6052](/bill/2023-24/sb/6052/) - Digital school transcripts 👍1  
+### [SB 6325](/bill/2023-24/sb/6325/) - Higher education procedures 👍1  
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

@@ -29,6 +29,11 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Jenny Morgan
 
+### [HB 2458](/bill/2025-26/hb/2458/) - College grant/credential prg 👍1  
+
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 
+* 👎💵 Catherine Holm
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍4  
@@ -81,13 +86,18 @@
 
 ### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 
-## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+### [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
 * 👍 Amy Barrett
+
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+## [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎1 
+* 👎💵 Jenny Morgan
 
 ## 2023-24
 
-### [SB 6052](/bill/2023-24/sb/6052/) - Digital school transcripts 👍1  
-* 👍 Amy Barrett
+### [SB 6260](/bill/2023-24/sb/6260/) - Public education funding  👎1 
+* 👎💵 Jenny Morgan
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 

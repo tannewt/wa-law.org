@@ -27,19 +27,25 @@
 
 ### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍2  
 
-### [HB 2247](/bill/2025-26/hb/2247/) - Concerning veterinarian-client-patient relationships. 👍2  
+### [HB 2247](/bill/2025-26/hb/2247/) - Veterinarian relationship 👍2  
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
+
+### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
+
+### [HB 2542](/bill/2025-26/hb/2542/) - Animal testing alternatives 👍1  
 
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍2  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-## [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+## [SB 6072](/bill/2025-26/sb/6072/) - Veterinarian relationship 👍1  
 
 ## 2023-24
 
-### [SB 5474](/bill/2023-24/sb/5474/) - Organic, etc. agriculture 👍1  
+### [SB 6072](/bill/2023-24/sb/6072/) - Veterinarian relationship 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 

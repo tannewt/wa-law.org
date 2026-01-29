@@ -22,6 +22,9 @@
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp. 👍1  
 * 👍💵 Neil Strege
 
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes  👎1 
+* 👎💵 Neil Strege
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Neil Strege
 
@@ -54,13 +57,14 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 * 👍💵 Neil Strege
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍💵 Neil Strege
+
+## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
-* 👍💵 Neil Strege
+### [SB 6148](/bill/2023-24/sb/6148/) - RTA bond issues maximum term 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 

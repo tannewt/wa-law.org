@@ -31,6 +31,11 @@
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍2  
+* 👍 Chris Averyt
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
@@ -68,11 +73,11 @@
 ### [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 * 👍💵 Paul Dillon
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+## [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2023-24/sb/6027/) - Affordable housing funding 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -24,6 +24,9 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones   ❓1
+* ❓ Kristen Holdsworth
+
 ### [HJM 4000](/bill/2025-26/hjm/4000/) - Martin Luther King, Jr. Way 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
@@ -43,6 +46,8 @@
 ### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍1  
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ## [SJM 8000](/bill/2025-26/sjm/8000/) - Martin Luther King, Jr. Way 👍1  
 

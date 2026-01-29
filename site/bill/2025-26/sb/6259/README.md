@@ -10,8 +10,8 @@
 ### Thu 01/29 01:30 PM - Higher Education & Workforce Development (HEWD): SB 6259 Higher ed./damage by student
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 156 👍 - Pro
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

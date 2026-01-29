@@ -6,6 +6,8 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+
 ## [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
 ## 2023-24

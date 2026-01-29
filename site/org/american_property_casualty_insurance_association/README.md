@@ -17,13 +17,17 @@
 * 👎 Kris Tefft
 * ❓ Kris Tefft
 
-## [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
+### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 * ❓💵 Christine Brewer
+
+### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants  👎1 
+* 👎 Kris Tefft
+
+## [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
 
 ## 2023-24
 
-### [SB 5928](/bill/2023-24/sb/5928/) - Wildfire risk models   ❓1
-* ❓💵 Christine Brewer
+### [SB 6159](/bill/2023-24/sb/6159/) - Public hospitals  👎1 
 
 ### [HB 1722](/bill/2023-24/hb/1722/) - Tow truck operator comp.  👎1 
 * 👎 Kris Tefft

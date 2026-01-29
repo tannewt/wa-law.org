@@ -39,6 +39,11 @@
 * 👍💵 Aaron Yared
 * 👍💵 Aaron Yared
 
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+* 👍💵 Aaron Yared
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍3  
 
 ### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍2  
@@ -87,13 +92,14 @@
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍2  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Aaron Yared
+
+## [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
-* 👍💵 Aaron Yared
+### [SB 6184](/bill/2023-24/sb/6184/) - Office of homeless youth 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

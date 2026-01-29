@@ -43,6 +43,8 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 
+### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍2  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
@@ -68,11 +70,13 @@
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 * 👍 Bailey Medilo
 
-## [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+
+## [SB 6320](/bill/2025-26/sb/6320/) - Alternative learning 👍2  
 
 ## 2023-24
 
-### [SB 5978](/bill/2023-24/sb/5978/) - Guaranteed admissions prg. 👍1  
+### [SB 6320](/bill/2023-24/sb/6320/) - Alternative learning 👍2  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith

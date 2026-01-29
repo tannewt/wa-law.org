@@ -56,11 +56,15 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 * 👍 Preston Peck
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  ❓1
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Alex MacBain
@@ -125,11 +129,19 @@
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Preston Peck
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
+
+### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+
+## [SB 6175](/bill/2025-26/sb/6175/) - Ticket sales   ❓1
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 6175](/bill/2023-24/sb/6175/) - Ticket sales   ❓1
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

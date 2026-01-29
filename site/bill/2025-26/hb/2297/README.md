@@ -14,10 +14,11 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2297 Grocery store incentives
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* Lylianna Allala - [City of Seattle](/org/city_of_seattle/)
 
-#### 15 👎 - Con
+#### 450 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

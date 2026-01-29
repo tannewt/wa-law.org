@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2412 Superior court judge/Yakima
-Sign up to testify:
-
 #### 9 👍 - Pro
 Testifying:
 * LaDon Linde - Yakima County Commissioner

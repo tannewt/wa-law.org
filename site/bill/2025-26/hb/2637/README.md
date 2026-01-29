@@ -10,11 +10,13 @@
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2637 PRA/personal information
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
-#### 49 👎 - Con
+#### 517 👎 - Con
 Testifying:
 * Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

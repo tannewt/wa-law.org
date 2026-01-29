@@ -10,13 +10,14 @@
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6197 Plumbing contractors
 Sign up to testify:
 
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Jason Hewitt - WA State Association of UA Plumbers, Pipefitters, HVAC/R Service Technicians
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington
 
-#### 22 👎 - Con
+#### 51 👎 - Con
 Testifying:
 * 💵Carolyn Logue - ABC Inland Pacific Chapter and WA Air Conditioning Contractors Association
+* 💵Carter Carlson - Associated Builders and Contractors of Western Washington
 
 #### 0 ❓ - Other

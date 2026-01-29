@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5067/</link>
 		<description>Updates about SB 5067</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 00:59:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -548,6 +548,34 @@
 			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-21/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 26; nays, 23; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 26; nays, 23; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Third reading, passed; yeas, 26; nays, 23; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Lovick Bill to Reduce Legal Blood Alcohol Concentration Limit for Drivers to .05 Passes Senate - Sen. John Lovick</title>
+			<description>News article "Lovick Bill to Reduce Legal Blood Alcohol Concentration Limit for Drivers to .05 Passes Senate - Sen. John Lovick" from Senate Democrats.</description>
+			<pubDate>Thu, 29 Jan 2026 00:59:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovick/2026/01/28/lovick-bill-to-reduce-legal-blood-alcohol-concentration-limit-for-drivers-to-05-passes-senate/#:~:text=Senate%20Bill%205067</guid>
 		</item>
 	</channel>
 </rss>

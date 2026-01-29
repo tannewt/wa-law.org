@@ -27,7 +27,7 @@
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 * 👍 Lauren Fay
 
 ## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  

@@ -8,14 +8,15 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2474 Postsecondary closures
-Sign up to testify:
-
-#### 33 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Christopher Madaio - The Institute for College Access and Success
 * Mahmood Alkhazraji - ASCWU
+* 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 
 #### 0 ❓ - Other

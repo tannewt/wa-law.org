@@ -108,6 +108,15 @@
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement  👎1 
+
+### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek  👎1 
+
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information  👎2 
+* 👎 Jeannie Magdua
+
+### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring  👎1 
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
@@ -209,12 +218,19 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety  👎1 
 
-### [SB 5917](/bill/2025-26/sb/5917/) - Improving access to abortion medications.  👎2 
+### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications  👎2 
 * 👎 Mary Long
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services  👎1 
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda  👎1 
+
+### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 ❓1
+* ❓ Julie Barrett
+
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program  👎5 
+* 👎 Mary Long
+* 👎 Mary Long
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 

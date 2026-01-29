@@ -26,6 +26,11 @@
 ### [HB 2299](/bill/2025-26/hb/2299/) - Independent living ombuds  👎1 
 * 👎 Jeff Gombosky
 
+### [HB 2425](/bill/2025-26/hb/2425/) - Nursing delegation 👍1  
+* 👍 Jeff Gombosky
+
+### [HB 2468](/bill/2025-26/hb/2468/) - DSHS terminology 👍1  
+
 ### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
@@ -48,11 +53,13 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎 Carma Matti-Jackson
 
-## [SB 6063](/bill/2025-26/sb/6063/) - DSHS terminology 👍1  
+### [SB 6063](/bill/2025-26/sb/6063/) - DSHS terminology 👍1  
+
+## [SB 6153](/bill/2025-26/sb/6153/) - Senior independent housing   ❓1
 
 ## 2023-24
 
-### [SB 6063](/bill/2023-24/sb/6063/) - DSHS terminology 👍1  
+### [SB 6153](/bill/2023-24/sb/6153/) - Senior independent housing   ❓1
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1
 * 👍 Jeff Gombosky

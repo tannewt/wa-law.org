@@ -10,10 +10,15 @@
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 6226 Audiologist autonomy
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Stephanie Czuhajewski - Academy of Doctors of Audiology
+* 💵Abbey Smelcer - [Hear.com](/org/hear.com/)
+* John DeSimone - VirtuHear
+* John Linder
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - Washington Speech-Language-Hearing Association

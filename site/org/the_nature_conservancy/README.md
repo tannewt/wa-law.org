@@ -82,6 +82,20 @@
 ### [HB 2388](/bill/2025-26/hb/2388/) - Distributed energy/ag. lands 👍1  
 * 👍 Lily Storbeck
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+* 👍💵 Justin Allegro
+
+### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
+* 👍💵 David Mendoza
+
+### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
@@ -137,11 +151,22 @@
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
-## [SB 6054](/bill/2025-26/sb/6054/) - Wildfire home hardening/CICs 👍1  
+### [SB 6054](/bill/2025-26/sb/6054/) - Wildfire home hardening/CICs 👍1  
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
+* 👍💵 Justin Allegro
+
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  
+* 👍💵 David Mendoza
 
 ## 2023-24
 
-### [SB 6054](/bill/2023-24/sb/6054/) - Wildfire home hardening/CICs 👍1  
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍1  
+* 👍💵 David Mendoza
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

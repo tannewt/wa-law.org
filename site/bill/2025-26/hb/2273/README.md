@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/04 04:00 PM - Capital Budget (CB): HB 2273 Embodied carbon/buildings
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2273 Embodied carbon/buildings
 #### 17 👍 - Pro
 Testifying:

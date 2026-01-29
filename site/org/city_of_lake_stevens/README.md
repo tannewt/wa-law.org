@@ -19,6 +19,8 @@
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 

@@ -23,6 +23,8 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use   ❓1
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
@@ -51,11 +53,17 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+
+### [SB 6096](/bill/2025-26/sb/6096/) - Delayed utility conn. fees  👎1 
+
+### [SB 6131](/bill/2025-26/sb/6131/) - Roadway fatalities 👍1  
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

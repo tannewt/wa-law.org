@@ -70,13 +70,19 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6074](/bill/2025-26/sb/6074/) - Parole   ❓1
+
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
+
+## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎1 
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍3  
 * 👍💵 Kelly Olson

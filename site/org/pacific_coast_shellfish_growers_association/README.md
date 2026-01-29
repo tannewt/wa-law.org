@@ -7,16 +7,22 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5322](/bill/2025-26/sb/5322/) - Burrowing shrimp 👍2  
 * 👍💵 Diana Carlen
 
-## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
+
+### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎1 
+
+## [SB 6318](/bill/2025-26/sb/6318/) - Commercial shellfish fees 👍1  
 
 ## 2023-24
 
-### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC  👎1 
+### [SB 6318](/bill/2023-24/sb/6318/) - Commercial shellfish fees 👍1  
 
 ### [HB 1166](/bill/2023-24/hb/1166/) - Water quality trading prog. 👍1  
 

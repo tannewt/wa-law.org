@@ -17,15 +17,24 @@
 
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
 
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 
+
+### [HB 2593](/bill/2025-26/hb/2593/) - School district accounting  👎1 
+
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎1 
 
-## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
 * 👍 Elizabeth Ward Robertson
+
+### [SB 6125](/bill/2025-26/sb/6125/) - School stabilization funding 👍1  
+
+### [SB 6192](/bill/2025-26/sb/6192/) - Reading and math instruction  👎1 
+
+## [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎2 
 
 ## 2023-24
 
-### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍1  
-* 👍 Elizabeth Ward Robertson
+### [SB 6260](/bill/2023-24/sb/6260/) - Public education funding  👎2 
 
 ### [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
 

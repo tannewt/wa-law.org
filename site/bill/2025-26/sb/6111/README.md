@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [Salomon bill protecting children online to be heard in committee - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/28/salomon-bill-protecting-children-online-to-be-heard-in-committee/#:~:text=Senate%20Bill%206111)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206111)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%206111)
 
@@ -14,7 +15,7 @@
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6111 Minors/digital services
 Sign up to testify:
 
-#### 9 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Danica Noble - Washington State PTA
 * Meghan Kaul - Mothers Against Media Addiction
@@ -22,11 +23,19 @@ Testifying:
 * Tess Moore - Greenlake Primary Care
 * Diana Hsu
 * xingchun zheng
+* Delight Roberts
+* Manuela Slye
 
-#### 43 👎 - Con
+#### 670 👎 - Con
 Testifying:
 * William Bei
+* Aodhan Downey - Computer and Communications Industry Association
+* Jonathan Pincus - The Nexus of Privacy
+* 💵Amy Harris - WA TECHNOLOGY INDUSTRY ASSN
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Rose Feliciano - TECHNOLOGY NETWORK
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Colette Vogele - parent advocate
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)

@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Wed 01/28 04:00 PM - Appropriations (APP): HB 2565 UW investments
-Sign up to testify:
-
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* Scott Davies - University of Washington - UWINCO
 
 #### 0 ❓ - Other

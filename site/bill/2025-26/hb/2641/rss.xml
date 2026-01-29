@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2641/</link>
 		<description>Updates about HB 2641</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 14:50:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 12:53:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2026-01-23/First reading, referred to Community Safety.</guid>
 		</item>
 		<item>
-			<title>👎Shaun D’Sylva - I am testifying on behalf of myself and my community</title>
+			<title>👎Shaun D’Sylva - Council on American-Islamic Relations Washington (CAIR-WA)</title>
 			<description>Shaun D’Sylva signed up to testify Con.</description>
 			<pubDate>Fri, 23 Jan 2026 08:03:50 GMT</pubDate>
 			<category>testifier</category>
@@ -38,7 +38,7 @@
 			<guid isPermaLink="false">testifier/Shaun/D’Sylva/2026-01-23 08:03:50</guid>
 		</item>
 		<item>
-			<title>👎Eric Lundberg - I am testifying on behalf of myself and my community</title>
+			<title>👎Eric Lundberg - Council on American-Islamic Relations Washington (CAIR-WA)</title>
 			<description>Eric Lundberg signed up to testify Con.</description>
 			<pubDate>Sat, 24 Jan 2026 09:58:01 GMT</pubDate>
 			<category>testifier</category>
@@ -46,7 +46,7 @@
 			<guid isPermaLink="false">testifier/Eric/Lundberg/2026-01-24 09:58:01</guid>
 		</item>
 		<item>
-			<title>👎Eric Lundberg - I am testifying on behalf of myself and my community</title>
+			<title>👎Eric Lundberg - Council on American-Islamic Relations Washington (CAIR-WA)</title>
 			<description>Eric Lundberg signed up to testify Con.</description>
 			<pubDate>Sat, 24 Jan 2026 10:20:13 GMT</pubDate>
 			<category>testifier</category>
@@ -82,6 +82,22 @@
 			<pubDate>Mon, 26 Jan 2026 14:50:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0d60b7f8-7b40-4148-b413-1d394c57d0cd.html#:~:text=HB%202641</guid>
+		</item>
+		<item>
+			<title>👎Steve Strachan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Steve Strachan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Wed, 28 Jan 2026 07:27:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steve/Strachan/2026-01-28 07:27:23</guid>
+		</item>
+		<item>
+			<title>👍Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)</title>
+			<description>Imraan Siddiqi signed up to testify Pro. They are signed up to represent Council on American-Islamic Relations Washington (CAIR-WA).</description>
+			<pubDate>Wed, 28 Jan 2026 12:53:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Imraan/Siddiqi/2026-01-28 12:53:12</guid>
 		</item>
 	</channel>
 </rss>

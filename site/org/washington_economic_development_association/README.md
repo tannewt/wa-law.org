@@ -9,6 +9,10 @@
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 * 👍 Suzanne Dale Estey
 
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
+
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍2  ❓1
 * 👍 Suzanne Dale Estey
 * ❓ Suzanne Dale Estey
@@ -16,11 +20,17 @@
 
 ### [SB 5682](/bill/2025-26/sb/5682/) - Employment training program 👍1  
 
-## [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎1 
+
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+* 👍 Suzanne Dale Estey
 
 ## 2023-24
 
-### [SB 5968](/bill/2023-24/sb/5968/) - Permitting and licensing 👍1  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
+* 👍 Suzanne Dale Estey
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓ Suzanne Dale Estey

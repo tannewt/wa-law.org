@@ -14,10 +14,19 @@
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2648 Immigration enf. interaction
 Sign up to testify:
 
-#### 136 👍 - Pro
+#### 255 👍 - Pro
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* paul benz - WA Coalition for Police Accountability
+* Joe Kunzler - Private Citizen and Fierce Patriot
+* 💵Brenda Wiest - Teamsters117
 
-#### 596 👎 - Con
+#### 928 👎 - Con
 Testifying:
 * Rafael Padilla - Washington Association of Sheriffs and Police Chiefs
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Captain Deion Glover - Washington State Patrol
+* Steve Strachan - WA Assoc Sheriffs & Police Chiefs

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6289/</link>
 		<description>Updates about SB 6289</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 02:17:51 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 09:41:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Suzanne/Dale Estey/2026-01-26 02:17:51</guid>
+		</item>
+		<item>
+			<title>❓Andrea Chartock - Washington State Department of Commerce</title>
+			<description>Andrea Chartock signed up to testify Other. They are signed up to represent Washington State Department of Commerce.</description>
+			<pubDate>Wed, 28 Jan 2026 03:24:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Andrea/Chartock/2026-01-28 03:24:03</guid>
+		</item>
+		<item>
+			<title>👍Eric ffitch - Washington Public Ports Association</title>
+			<description>Eric ffitch signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_ports_association/"&gt;Washington Public Ports Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 28 Jan 2026 09:41:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/ffitch/2026-01-28 09:41:38</guid>
 		</item>
 	</channel>
 </rss>

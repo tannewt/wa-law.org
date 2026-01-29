@@ -11,16 +11,19 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
 
+### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍4  
+
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍2  
 * 👍 Christina Bayaniyan
 * 👍 Christina Bayaniyan
 
-## [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
+### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 * 👍 Sam Hem
+
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎1 
 
 ## 2023-24
 
-### [SB 5572](/bill/2023-24/sb/5572/) - School construction projects 👍1  
-* 👍 Sam Hem
+### [SB 6231](/bill/2023-24/sb/6231/) - Data center equipment/taxes  👎1 
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  

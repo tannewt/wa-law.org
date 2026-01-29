@@ -89,6 +89,12 @@
 ### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
 * 👍 Pat Sullivan
 
+### [HB 2454](/bill/2025-26/hb/2454/) - Infrastructure materials   ❓1
+* ❓ Ana Shafer
+
+### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
+* 👍 Robin Hammill
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
 * 👍 Duane Emmons
 * 👍 Duane Emmons
@@ -150,11 +156,23 @@
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 * 👍 Evan Pierce
 
-## [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
+### [SB 6034](/bill/2025-26/sb/6034/) - Office of Indian affairs 👍1  
+
+### [SB 6073](/bill/2025-26/sb/6073/) - Wildland firefighters/LEOFF 👍1  
+* 👍 George Geissler
+
+### [SB 6104](/bill/2025-26/sb/6104/) - Agriculture impacts   ❓1
+
+### [SB 6160](/bill/2025-26/sb/6160/) - Reports by state agencies 👍1  
+
+### [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
+* 👍 Erika Odem
+
+## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
 ## 2023-24
 
-### [SB 6034](/bill/2023-24/sb/6034/) - Office of Indian affairs 👍1  
+### [SB 6304](/bill/2023-24/sb/6304/) - WSIB investing principles 👍1  
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

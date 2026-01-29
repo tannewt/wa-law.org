@@ -74,6 +74,15 @@
 
 ### [HB 2381](/bill/2025-26/hb/2381/) - Low-rise res. buildings 👍1  
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones 👍1  
+* 👍💵 Dan Bertolet
+
+### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
+* 👍💵 Shannon Grimes
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+* 👍💵 Emily Moore
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
@@ -131,13 +140,15 @@
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍💵 Dan Bertolet
 
-### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+## [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6214](/bill/2023-24/sb/6214/) - Land banking authorities 👍1  
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet

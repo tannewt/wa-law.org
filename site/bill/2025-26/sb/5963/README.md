@@ -12,6 +12,17 @@
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205963)
 
 ## Meetings
+### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5963 Passport to careers program
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Joel Anderson - Washington Student Achievement Council
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5963 Passport to careers program
 #### 52 👍 - Pro
 Testifying:

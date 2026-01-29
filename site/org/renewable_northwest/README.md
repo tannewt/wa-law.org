@@ -19,6 +19,8 @@
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎 Casey MacLean
 
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍2  
 
 ### [SB 5283](/bill/2025-26/sb/5283/) - Prohibiting the energy facility site evaluation council from preempting local laws that forbid the siting of certain storage facilities in critical areas.  👎1 

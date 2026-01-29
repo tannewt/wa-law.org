@@ -10,8 +10,8 @@
 ### Thu 01/29 04:00 PM - Transportation (TRAN): SB 6155 Parking, person w/disability
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 46 👍 - Pro
 
-#### 1 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other

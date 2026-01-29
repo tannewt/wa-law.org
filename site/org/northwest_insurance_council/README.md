@@ -12,6 +12,11 @@
 
 ### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.  👎1 
 
+### [HB 2394](/bill/2025-26/hb/2394/) - Insurance crimes 👍1  
+* 👍💵 Kenton Brine
+
+### [HB 2399](/bill/2025-26/hb/2399/) - Prop. insurance assignments 👍1  
+
 ### [SB 5108](/bill/2025-26/sb/5108/) - Regulating service contracts and protection product guarantees. 👍1  
 
 ### [SB 5262](/bill/2025-26/sb/5262/) - Insurance statutes 👍1  
@@ -38,13 +43,19 @@
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
 * 👎💵 Kenton Brine
 
-## [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
+### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
 * 👍💵 Kenton Brine
+
+### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
+* 👎💵 Kenton Brine
+
+### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
+
+## [SB 6248](/bill/2025-26/sb/6248/) - Travel insurance 👍1  
 
 ## 2023-24
 
-### [SB 6031](/bill/2023-24/sb/6031/) - Insurance crimes 👍1  
-* 👍💵 Kenton Brine
+### [SB 6248](/bill/2023-24/sb/6248/) - Travel insurance 👍1  
 
 ### [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction  👎1 
 * 👎💵 Kenton Brine

@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Wed 01/28 10:30 AM - Early Learning & K-12 Education (EDU): SB 6263 School public bid limits
-Sign up to testify:
-
-#### 81 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Rick Chisa - Public School Employees of Washington (PSE)
+* 💵Grace Yuan - Puget Sound School Coalition
 
-#### 539 👎 - Con
+#### 558 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

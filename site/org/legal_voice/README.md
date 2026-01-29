@@ -21,6 +21,8 @@
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍2  
 * 👍💵 Alizeh Bhojani
 
+### [HB 2526](/bill/2025-26/hb/2526/) - Prostitution  👎1 
+
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 * 👍💵 Yvette Maganya
 
@@ -36,13 +38,16 @@
 
 ### [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion. 👍1  
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
 * 👍💵 Alizeh Bhojani
+
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍2  
-* 👍💵 Alizeh Bhojani
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims  👎1 
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

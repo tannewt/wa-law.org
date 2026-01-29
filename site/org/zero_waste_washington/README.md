@@ -98,6 +98,14 @@
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp.   ❓1
 * ❓💵 Heather Trim
 
+### [HB 2402](/bill/2025-26/hb/2402/) - Phthalates/medical equipment 👍1  
+* 👍💵 Heather Trim
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
+* 👎💵 Heather Trim
+
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍7  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
@@ -147,11 +155,18 @@
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎2 
 * 👎💵 Heather Trim
 
-## [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
+### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍2  
+* 👍💵 Heather Trim
+
+## [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍1  
+* 👍💵 Heather Trim
 
 ## 2023-24
 
-### [SB 6030](/bill/2023-24/sb/6030/) - Plastic carryout bags  👎1 
+### [SB 6124](/bill/2023-24/sb/6124/) - Appliance afford. index 👍1  
+* 👍💵 Heather Trim
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
 * 👍💵 Heather Trim

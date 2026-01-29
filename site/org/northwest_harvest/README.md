@@ -27,7 +27,7 @@
 
 ### [HB 2211](/bill/2025-26/hb/2211/) - Concerning medically tailored meals. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍7  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍7  
 * 👍💵 Anna Nepomuceno
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
@@ -45,6 +45,13 @@
 ### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
 
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍2  
+
+### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍2  
+* 👍💵 Anna Nepomuceno
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍2  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 
@@ -70,13 +77,16 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board. 👍1  
+
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Anna Nepomuceno
+
+## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
-* 👍💵 Anna Nepomuceno
+### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

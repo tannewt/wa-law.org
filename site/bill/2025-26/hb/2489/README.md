@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: True compassion requires the ability to intervene before harm becomes entrenched | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_0893401d-ae56-4324-a36d-4d54d763112c.html#:~:text=House%20Bill%202489)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202489)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202489)
 * 01/21/2026 [FOX13](/org/fox13/) - [Homeless encampment sweeps blocked under proposed WA law | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-law-homeless-sweeps-shelter-available#:~:text=HB%202489)

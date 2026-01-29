@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2512/</link>
 		<description>Updates about HB 2512</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 10:08:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 08:34:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -182,6 +182,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ken/Short/2026-01-27 10:08:27</guid>
+		</item>
+		<item>
+			<title>❓Chalia Stallings-Ala'ilima - Washington State Attorney General's Office</title>
+			<description>Chalia Stallings-Ala'ilima signed up to testify Other. They are signed up to represent Washington State Attorney General's Office.</description>
+			<pubDate>Wed, 28 Jan 2026 08:34:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Chalia/Stallings-Ala'ilima/2026-01-28 08:34:44</guid>
 		</item>
 	</channel>
 </rss>

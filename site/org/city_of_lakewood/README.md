@@ -39,6 +39,11 @@
 
 ### [HB 2349](/bill/2025-26/hb/2349/) - Sexually violent predators 👍2  
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+* 👎 Captain Chris Westby
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎4 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Second Engrossed Substitute](S.E2/)
 
 ## 📰 Articles
 * 03/25/2025 [The Center Square](/org/the_center_square/) - [Republican-backed bill addresses ‘vexing problem’ of unlawful gun possession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_57f547c1-66c8-47a9-b0b5-88dcae2194d4.html#:~:text=Senate%20Bill%205268)

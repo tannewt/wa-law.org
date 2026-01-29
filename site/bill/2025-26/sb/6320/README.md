@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Wed 01/28 10:30 AM - Early Learning & K-12 Education (EDU): SB 6320 Alternative learning
-Sign up to testify:
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Shannon Hughes - Lamont Middle School
 
-#### 391 👎 - Con
+#### 709 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Matt Mallery - Mary M Knight SD
@@ -36,11 +34,19 @@ Testifying:
 * Ilyannie Gonzalez - Washington Virtual Academies
 * Mandi Rehn - Valley School District
 * Scott Haeberle - Omak School District
+* Nikolas Petrosyan
+* Anna Bezirganyan
 * Jeff Gombosky - [Graduation Alliance](/org/graduation_alliance/)
 * Diana Reaume - Quillayute Valley School District
 * Danielle Tupek
 * Felicia Kern
+* Sahar Alhassan - NA
+* Malek Hamaydeh
+* Mauricio Valdez Rios - Yes,  student
+* Anabel Gobea - Online school parent
+* Crystal Gobea
+* Jaimie Onigkeit
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * John Axtell

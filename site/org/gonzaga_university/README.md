@@ -1,6 +1,9 @@
 # Gonzaga University
 ## 2025-26
 
+### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities 👍1  
+* 👍 Chris Stiles
+
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 
 
 ### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 

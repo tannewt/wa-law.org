@@ -13,13 +13,15 @@
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2221 Ungulate populations
 Sign up to testify:
 
-#### 175 👍 - Pro
+#### 304 👍 - Pro
 Testifying:
 * Gary Douvia - northeast washington wildlife group
 * don peaker
 
-#### 122 👎 - Con
+#### 299 👎 - Con
 Testifying:
 * PHD, Susan Kane-Ronning - Washington Sierra Club
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mick Cope - WDFW

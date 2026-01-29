@@ -23,6 +23,8 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
 ### [HJM 4001](/bill/2025-26/hjm/4001/) - Russ Blount memorial bridge 👍3  
 * 👍💵 Michael Transue
 
@@ -33,11 +35,15 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
+
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+
+## [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
 ## 2023-24
 
-### [SB 5880](/bill/2023-24/sb/5880/) - Toxicology testing 👍1  
+### [SB 6123](/bill/2023-24/sb/6123/) - Local gov. employees/PRA 👍1  
 
 ### [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍1  
 

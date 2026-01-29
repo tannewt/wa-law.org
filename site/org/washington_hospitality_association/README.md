@@ -179,6 +179,24 @@
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation  👎1 
 
+### [HB 2394](/bill/2025-26/hb/2394/) - Insurance crimes 👍1  
+
+### [HB 2399](/bill/2025-26/hb/2399/) - Prop. insurance assignments 👍1  
+
+### [HB 2465](/bill/2025-26/hb/2465/) - Water recreation facilities 👍1  
+* 👍💵 Samantha Louderback
+
+### [HB 2476](/bill/2025-26/hb/2476/) - Theater licenses/alcohol 👍1  
+* 👍 Sean DeWitz
+
+### [HB 2483](/bill/2025-26/hb/2483/) - Data broker registry  👎1 
+
+### [HB 2536](/bill/2025-26/hb/2536/) - Wineries/restaurant license 👍1  
+* 👍 Sean DeWitz
+
+### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek  👎1 
+* 👎💵 Andrea Reay
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
@@ -295,18 +313,34 @@
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
 
+### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
+* 👍 Sean DeWitz
+
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
 * 👎💵 Logan Dozier
 
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags 👍1  
 
-## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 * 👍 Anthony Anton
+
+### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍1  
+
+### [SB 6136](/bill/2025-26/sb/6136/) - Industrial insurance rates 👍1  
+* 👍💵 Andrea Reay
+
+### [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering 👍1  
+
+### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 
+* 👎💵 Andrea Reay
+
+## [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
 
 ## 2023-24
 
-### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
-* 👍 Anthony Anton
+### [SB 6178](/bill/2023-24/sb/6178/) - Prop. insurance assignments 👍1  
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

@@ -89,11 +89,15 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
@@ -168,11 +172,13 @@
 
 ### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
-## [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+
+## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ## 2023-24
 
-### [SB 5885](/bill/2023-24/sb/5885/) - Housing dev./religious orgs. 👍1  
+### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

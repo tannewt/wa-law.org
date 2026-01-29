@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6286/</link>
 		<description>Updates about SB 6286</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 09:51:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 04:56:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Zahid/Chaudhry/2026-01-27 09:51:10</guid>
+		</item>
+		<item>
+			<title>👍Kristina Walker - Councilmember, City of Tacoma</title>
+			<description>Kristina Walker signed up to testify Pro. They are signed up to represent Councilmember, City of Tacoma.</description>
+			<pubDate>Wed, 28 Jan 2026 01:34:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristina/Walker/2026-01-28 01:34:40</guid>
+		</item>
+		<item>
+			<title>Defending our values and our communities - Sen. Javier Valdez</title>
+			<description>News article "Defending our values and our communities - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Wed, 28 Jan 2026 04:56:23 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%206286</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2564/</link>
 		<description>Updates about HB 2564</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 08:40:45 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 12:15:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -126,6 +126,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Vicki/Lowe/2026-01-27 08:40:45</guid>
+		</item>
+		<item>
+			<title>👍Callista Kennedy - Public Health - Seattle and King County</title>
+			<description>Callista Kennedy signed up to testify Pro. They are signed up to represent Public Health - Seattle and King County.</description>
+			<pubDate>Wed, 28 Jan 2026 08:17:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Callista/Kennedy/2026-01-28 08:17:48</guid>
+		</item>
+		<item>
+			<title>👎Andrea Davis - Coordinated Care of WA</title>
+			<description>Andrea Davis signed up to testify Con. They are signed up to represent Coordinated Care of WA.</description>
+			<pubDate>Wed, 28 Jan 2026 10:43:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andrea/Davis/2026-01-28 10:43:35</guid>
+		</item>
+		<item>
+			<title>👎💵David Foster - Assoc of WA Healthcare Plans</title>
+			<description>David Foster signed up to testify Con. They are signed up to represent Assoc of WA Healthcare Plans. They are a registered lobbyist.</description>
+			<pubDate>Wed, 28 Jan 2026 10:43:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Foster/2026-01-28 10:43:35</guid>
+		</item>
+		<item>
+			<title>👍Keith Wallace - PCF Insurance Services</title>
+			<description>Keith Wallace signed up to testify Pro. They are signed up to represent PCF Insurance Services.</description>
+			<pubDate>Wed, 28 Jan 2026 12:15:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keith/Wallace/2026-01-28 12:15:04</guid>
 		</item>
 	</channel>
 </rss>

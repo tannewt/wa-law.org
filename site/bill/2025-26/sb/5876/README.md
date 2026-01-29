@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Defending our values and our communities - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%205876)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington from ICE - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/01/26/protecting-washington-from-ice/#:~:text=SB%205876)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Five bills sponsored by Cortes move through the legislative process - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/26/five-bills-sponsored-by-cortes-move-through-the-legislative-process/#:~:text=Senate%20Bill%205876)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%205876)

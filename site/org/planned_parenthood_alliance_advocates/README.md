@@ -123,6 +123,8 @@
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
@@ -205,7 +207,7 @@
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
-### [SB 5917](/bill/2025-26/sb/5917/) - Improving access to abortion medications. 👍1  
+### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications 👍1  
 
 ### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
 
@@ -213,7 +215,7 @@
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
 ### [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
 
@@ -223,11 +225,25 @@
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍💵 Courtney Normand
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
+* 👍💵 Nicole Kern
+* 👍💵 Nicole Kern
+
+### [SB 6183](/bill/2025-26/sb/6183/) - HIV antiviral drug coverage 👍1  
+
+## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6210](/bill/2023-24/sb/6210/) - Health plan certification 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

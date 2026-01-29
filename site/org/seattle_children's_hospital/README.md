@@ -18,6 +18,8 @@
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency 👍1  
 * 👍 Suzanne Vanderwerff
 
+### [HB 2613](/bill/2025-26/hb/2613/) - Compounded medications  👎1 
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
 * 👎💵 Dorothy Miller
 

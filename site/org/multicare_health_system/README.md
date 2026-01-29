@@ -9,6 +9,9 @@
 
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications. 👍1  
 
+### [HB 2613](/bill/2025-26/hb/2613/) - Compounded medications  👎1 
+* 👎 JP Guhman
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 

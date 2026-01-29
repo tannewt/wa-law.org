@@ -10,6 +10,11 @@
 ### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍3  
 * 👍💵 Stephanie Hillman
 
+### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍2  
+
+### [HB 2542](/bill/2025-26/hb/2542/) - Animal testing alternatives 👍1  
+* 👍💵 Stephanie Hillman
+
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
 * 👍 Dan Paul
 
@@ -24,10 +29,11 @@
 ### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
 * 👎 Dan Paul
 
-## [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations  👎1 
+### [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations  👎1 
 * 👎💵 Stephanie Hillman
+
+## [SB 6072](/bill/2025-26/sb/6072/) - Veterinarian relationship 👍1  
 
 ## 2023-24
 
-## [SB 5960](/bill/2023-24/sb/5960/) - Ungulate populations  👎1 
-* 👎💵 Stephanie Hillman
+## [SB 6072](/bill/2023-24/sb/6072/) - Veterinarian relationship 👍1  

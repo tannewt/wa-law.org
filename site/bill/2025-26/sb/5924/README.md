@@ -13,9 +13,12 @@
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5924 Pharmacist prescriptive auth
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * Boris Zhang
+* Yujun Luo
+* Alex Nguyen
+* Quinn Lifschitz
 
 #### 0 👎 - Con
 

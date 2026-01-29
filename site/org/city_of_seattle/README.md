@@ -152,13 +152,16 @@
 
 ### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
+
+### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+* 👍 Lylianna Allala
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
 * 👍 Rico Quirindongo
@@ -172,6 +175,22 @@
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
+
+### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍1  
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍1  
+
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+
+### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -279,19 +298,27 @@
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
-### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
+
+### [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍1  
+
+## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

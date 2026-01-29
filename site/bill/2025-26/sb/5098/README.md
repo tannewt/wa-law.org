@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Defending our values and our communities - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%205098)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=E2SSB%205098)
 * 01/21/2026 [Senate Democrats](/org/senate_democrats/) - [Valdez bill restricting weapons in certain public spaces passes Senate  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/21/valdez-bill-restricting-weapons-in-certain-public-spaces-passes-senate/#:~:text=Senate%20Bill%205098)
 * 01/21/2026 [The Center Square](/org/the_center_square/) - [WATCH: Bill to secure guns in vehicles moves forward | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_18a8b893-cee9-49c4-b70f-a7951a9f0c2f.html#:~:text=Senate%20Bill%205098)

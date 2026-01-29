@@ -11,6 +11,8 @@
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 * 👍💵 Kelly Fukai
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎1 
+
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍1  
 * 👍💵 Natasha Jackson
 

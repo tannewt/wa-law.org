@@ -17,6 +17,10 @@
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
+### [HB 2401](/bill/2025-26/hb/2401/) - Boys and men commission 👍2  
+
+### [HB 2503](/bill/2025-26/hb/2503/) - AI training data 👍1  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
@@ -28,11 +32,15 @@
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
-## [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
+### [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
+
+### [SB 6116](/bill/2025-26/sb/6116/) - Vapor products/tax 👍1  
+
+## [SB 6258](/bill/2025-26/sb/6258/) - Medical license relinquish. 👍1  
 
 ## 2023-24
 
-### [SB 5985](/bill/2023-24/sb/5985/) - Endometriosis 👍1  
+### [SB 6258](/bill/2023-24/sb/6258/) - Medical license relinquish. 👍1  
 
 ### [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists  👎1 
 

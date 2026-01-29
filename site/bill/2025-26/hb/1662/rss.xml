@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1662/</link>
 		<description>Updates about HB 1662</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 09:47:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Veronica/Gallardo/2026-01-14 09:47:18</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/ED - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

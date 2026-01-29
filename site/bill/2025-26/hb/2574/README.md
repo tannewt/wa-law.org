@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 2574 Deceased candidates
-Sign up to testify:
-
-#### 71 👍 - Pro
+#### 143 👍 - Pro
 
 #### 1 👎 - Con
 

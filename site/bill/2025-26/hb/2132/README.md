@@ -11,6 +11,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202132)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Appropriations (APP): SHB 2132 Financial aid applic./PRA
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2132 Financial aid applic./PRA
 #### 764 👍 - Pro
 Testifying:

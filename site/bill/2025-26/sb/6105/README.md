@@ -10,3 +10,11 @@
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=take-home pay)
 
 ## Meetings
+### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6105 Medical debt garnishments
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

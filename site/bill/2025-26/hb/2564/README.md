@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Health Care & Wellness (HCW): HB 2564 Health plan certification
-Sign up to testify:
-
-#### 107 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Ingrid Ulrey - Washington Health Benefit Exchange
@@ -22,12 +20,16 @@ Testifying:
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * John Schapman - Thriving Together & HBE Board Member
 * 💵Vicki Lowe - American Indian Health Commission
+* Callista Kennedy - Public Health - Seattle and King County
+* Keith Wallace - PCF Insurance Services
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Chris Bandoli - National Association of Insurance and Financial Advisors Washington
+* Andrea Davis - Coordinated Care of WA
+* 💵David Foster - Assoc of WA Healthcare Plans
 
 #### 1 ❓ - Other
 Testifying:

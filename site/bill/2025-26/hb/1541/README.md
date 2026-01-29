@@ -10,6 +10,15 @@
 * [Second Engrossed Substitute](S.E2/)
 
 ## Meetings
+### Tue 02/03 01:30 PM - State Government & Elections (SGE): 2ESHB 1541 Veterans affairs adv. comm.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 01:30 PM - State Government & Elections (SGE): ESHB 1541 Veterans affairs adv. comm.
 #### 22 👍 - Pro
 Testifying:

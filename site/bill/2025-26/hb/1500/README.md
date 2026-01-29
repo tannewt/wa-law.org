@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 02/04 10:30 AM - Housing (HSG): ESHB 1500 CIC resale certificates
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1500 CIC resale certificates
 #### 3 👍 - Pro
 Testifying:

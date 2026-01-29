@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6248 Travel insurance
-Sign up to testify:
-
-#### 66 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Caren Alvarado - US Travel Insurance Association: USTIA
 * 💵Jean Leonard - US Travel Insurance Association: USTIA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

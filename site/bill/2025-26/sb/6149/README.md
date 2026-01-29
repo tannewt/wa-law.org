@@ -8,10 +8,8 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6149 Public facilities funding
-Sign up to testify:
+#### 206 👍 - Pro
 
-#### 176 👍 - Pro
-
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

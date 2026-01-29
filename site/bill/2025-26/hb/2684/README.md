@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/03 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2684 Business enterprise cert.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

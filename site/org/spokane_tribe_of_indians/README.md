@@ -7,6 +7,8 @@
 
 ### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
 
+### [HB 2437](/bill/2025-26/hb/2437/) - Opioid treatment prg. fees 👍1  
+
 ### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 * 👍 Monica Tonasket
 

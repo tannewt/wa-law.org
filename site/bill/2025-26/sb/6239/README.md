@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2026 [The Washington Observer](/org/the_washington_observer/) - [Fact-checking the farmworker union debate](https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=Sen.%20Manka%20Dhingra’s%20bill)
 * 01/28/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers attempt to rein in runaway lawsuit costs • Washington State Standard](https://washingtonstatestandard.com/2026/01/27/wa-lawmakers-attempt-to-rein-in-runaway-lawsuit-costs/#:~:text=Senate%20Bill%206239)
 
 ## Meetings

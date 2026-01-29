@@ -9,13 +9,20 @@
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 * 👍 Julia O'Connor
 
-## [HB 1816](/bill/2025-26/hb/1816/) - Civilian crisis resp. teams   ❓1
+### [HB 1816](/bill/2025-26/hb/1816/) - Civilian crisis resp. teams   ❓1
 * ❓ Olivia Shangrow
+
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2453](/bill/2025-26/hb/2453/) - Psychiatric pharmacists 👍1  
+
+### [HB 2599](/bill/2025-26/hb/2599/) - Therapy and psychotherapy 👍1  
+
+## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
 ## 2023-24
 
-### [HB 1816](/bill/2023-24/hb/1816/) - Civilian crisis resp. teams   ❓1
-* ❓ Olivia Shangrow
+### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍1  
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

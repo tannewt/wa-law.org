@@ -15,6 +15,10 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding  👎1 
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+
 ### [SB 5439](/bill/2025-26/sb/5439/) - Thermal coal divestment/SIB 👍2  
 * 👍💵 Andrew Eckels
 * 👍💵 Andrew Eckels

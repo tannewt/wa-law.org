@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Human Services (HS): SB 5979 Dependency/substance abuse
-Sign up to testify:
-
-#### 10 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Kim Justice - Partners for Our Children
 * Sarah Akey

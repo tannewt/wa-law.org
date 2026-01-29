@@ -16,13 +16,16 @@
 * 👎 Allan Warren
 * 👍 Allan Warren
 
-## [SB 5510](/bill/2025-26/sb/5510/) - Conservation district limits 👍1  
+### [SB 5510](/bill/2025-26/sb/5510/) - Conservation district limits 👍1  
 * 👍 Allan Warren
+
+## [SB 6237](/bill/2025-26/sb/6237/) - Rental property flood discl. 👍1  
+* 👍 Kas Guillozet
 
 ## 2023-24
 
-### [SB 5510](/bill/2023-24/sb/5510/) - Conservation district limits 👍1  
-* 👍 Allan Warren
+### [SB 6237](/bill/2023-24/sb/6237/) - Rental property flood discl. 👍1  
+* 👍 Kas Guillozet
 
 ## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
 * 👍 Allan Warren

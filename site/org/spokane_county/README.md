@@ -26,6 +26,12 @@
 
 ### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍2  
 
+### [HB 2018](/bill/2025-26/hb/2018/) - Solid waste/local government 👍1  
+* 👍 Lindsay Chapman
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin.   ❓1
+* ❓ Al French
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎2 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 
@@ -39,13 +45,16 @@
 ### [SB 5635](/bill/2025-26/sb/5635/) - Alt. on-site sewage systems 👍1  
 * 👍 Commissioner Josh Kerns
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍2  
+### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍2  
 * 👍 KYLE TWOHIG
+
+## [SB 6094](/bill/2025-26/sb/6094/) - Pediatric transitional care 👍1  
+* 👍 Commissioner Amber Waldref
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste 👍2  
-* 👍 KYLE TWOHIG
+### [SB 6094](/bill/2023-24/sb/6094/) - Pediatric transitional care 👍1  
+* 👍 Commissioner Amber Waldref
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 * ❓ Commissioner Amber Waldref

@@ -15,12 +15,23 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5947 Health care board
 Sign up to testify:
 
-#### 1724 👍 - Pro
+#### 2305 👍 - Pro
 Testifying:
 * Steven Field
 * David Loud - Health Care Is a Human Right WA
 * Mike Yestramski - WFSE
+* Andre Stackhouse - Whole Washington
+* 💵Vicki Lowe - American Indian Health Commission
+* 💵Richard Burton - AFT Washington Labor Federation
+* Dr Julie Pease - One Payer States (national org) and Maine AllCare
+* Mohamed Shidane - Somali Community
+* Steven Field
+* Ishita Suri
+* Jeff Nichols - Twin Harbors Central Labor Council, AFL-CIO
+* Alexa Allamano - Small Business Owner
+* Hiroshi Nakano
+* Alfred Albear - Students for a National Health Program
 
-#### 602 👎 - Con
+#### 772 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

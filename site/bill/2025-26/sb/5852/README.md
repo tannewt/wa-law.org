@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2026 [The Center Square](/org/the_center_square/) - [WA Senate passes bill banning law enforcement from wearing masks amid ICE activity | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_99476763-d74d-4e3e-9eea-bb4ea08a39d7.html#:~:text=notify)
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Defending our values and our communities - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%205852)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington from ICE - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/01/26/protecting-washington-from-ice/#:~:text=SB%205852)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%205852)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB%205852)

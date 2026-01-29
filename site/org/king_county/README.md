@@ -31,7 +31,9 @@
 
 ### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots  👎1 
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍2  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
 
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 

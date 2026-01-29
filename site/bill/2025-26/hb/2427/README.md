@@ -11,13 +11,11 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2427 Tattoo artist training
-Sign up to testify:
-
-#### 44 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * Noel Gomez - Washington against sexual exploitation (WASE Forward)
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * HUMA KALI - TacitGlobal Intelligence
 

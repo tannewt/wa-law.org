@@ -7,6 +7,9 @@
 
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎2 
 
+### [HB 2428](/bill/2025-26/hb/2428/) - Life insurance policy lapses   ❓1
+* ❓💵 Christine Brewer
+
 ### [SB 5141](/bill/2025-26/sb/5141/) - Requiring that experience-rated group disability income insurers include all applicable rating factors and credibility formulas in rate manual filings with the insurance commissioner. 👍3  
 * 👍 John Mangan
 * 👍 John Mangan

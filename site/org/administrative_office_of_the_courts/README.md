@@ -37,6 +37,8 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Christopher Stanley
 
+### [HB 2412](/bill/2025-26/hb/2412/) - Superior court judge/Yakima 👍1  
+
 ### [SB 5133](/bill/2025-26/sb/5133/) - Sentencing guide/caregivers 👍1  
 * 👍 Brittany Gregory
 

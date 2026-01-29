@@ -8,11 +8,15 @@
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍3  
 * 👍 Mayor Chris Roberts
 
-## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
+
+## [SB 6154](/bill/2025-26/sb/6154/) - Culvert replacement permits 👍1  
+* 👍 Tricia Juhnke
 
 ## 2023-24
 
-### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs 👍1  
+### [SB 6154](/bill/2023-24/sb/6154/) - Culvert replacement permits 👍1  
+* 👍 Tricia Juhnke
 
 ### [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍2  
 

@@ -20,7 +20,7 @@ Testifying:
 * Mark Crider - Sheriff Walla Walla County, President Washington State Sheriff's Association
 * Bob Aroyan
 
-#### 2495 👎 - Con
+#### 2496 👎 - Con
 Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
@@ -33,6 +33,7 @@ Testifying:
 * 💵Jazmyn Clark - ACLU of Washington
 * Tim Eyman - Initiative Activist
 * Arthur West
+* Heather Kelly - League of Women Voters of WA
 
 #### 2 ❓ - Other
 Testifying:

@@ -21,6 +21,13 @@
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
+
+### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders   ❓1
+* ❓ Dr. Daniele Lyman-Torres
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
@@ -34,11 +41,19 @@
 
 ### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
 
-## [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims   ❓1
+
+## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓1
+* ❓ Dr. Daniele Lyman-Torres
 
 ## 2023-24
 
-### [SB 5940](/bill/2023-24/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 6308](/bill/2023-24/sb/6308/) - Child shelter care orders   ❓1
+* ❓ Dr. Daniele Lyman-Torres
 
 ### [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 * 👍 Heather Cantamessa

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6068 Construction worker wages
+Sign up to testify:
+
+#### 20 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -10,12 +10,13 @@
 ### Thu 01/29 04:00 PM - Transportation (TR): HB 2410 Commercial truck council
 Sign up to testify:
 
-#### 10 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Abigail Potter - Washington Trucking Associations
 * Abigail Potter - Washington Trucking Associations
 * Jason McFadden
 * Joshua Sternberg
+* 💵Ken Short - AWB
 
 #### 2 👎 - Con
 

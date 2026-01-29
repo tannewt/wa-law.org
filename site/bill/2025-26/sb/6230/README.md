@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6230 Cash transactions/pennies
-Sign up to testify:
-
 #### 10 👍 - Pro
 Testifying:
 * 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 
-#### 46 👎 - Con
+#### 60 👎 - Con
 
 #### 0 ❓ - Other

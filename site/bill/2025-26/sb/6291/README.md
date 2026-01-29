@@ -10,7 +10,7 @@
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6291 On-site wastewater systems
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Jaime Bodden - WSALPHO
 * Erin Hockaday - Benton-Franklin Health District

@@ -13,7 +13,7 @@
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2619 Agriculture regulations
 Sign up to testify:
 
-#### 123 👍 - Pro
+#### 146 👍 - Pro
 
 #### 4 👎 - Con
 

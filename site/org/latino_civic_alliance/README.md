@@ -42,6 +42,12 @@
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  
@@ -69,11 +75,13 @@
 
 ### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
 
-## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
+
+## [SB 6078](/bill/2025-26/sb/6078/) - Child care provider supports 👍1  
 
 ## 2023-24
 
-### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC 👍1  
+### [SB 6078](/bill/2023-24/sb/6078/) - Child care provider supports 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

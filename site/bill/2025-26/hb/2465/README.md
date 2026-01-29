@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2465 Water recreation facilities
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 18 👎 - Con
+#### 58 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 

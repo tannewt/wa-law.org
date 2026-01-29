@@ -10,15 +10,23 @@
 
 ### [HB 2205](/bill/2025-26/hb/2205/) - Regulated sports wagering 👍2  
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
 ### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
 
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
 
-## [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
+### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
+
+## [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax  👎1 
 
 ## 2023-24
 
-### [SB 6016](/bill/2023-24/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
+### [SB 6129](/bill/2023-24/sb/6129/) - Cigarettes, nicotine/tax  👎1 
 
 ### [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
 

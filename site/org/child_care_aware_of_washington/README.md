@@ -44,6 +44,8 @@
 
 ### [HB 2318](/bill/2025-26/hb/2318/) - Adjusting the early achievers quality improvement awards. 👍1  
 
+### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍1  
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1

@@ -13,12 +13,15 @@
 ### Fri 01/30 10:30 AM - Local Government (LG): HB 2094 Coroner appointment
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* John Worthington
 
-#### 57 👎 - Con
+#### 83 👎 - Con
 Testifying:
 * 💵Timothy Grisham - WA Assn of County Officials
 * WILLIAM LEACH - Benton County Coroner's Office
 * Warren McLeod - Lewis County Coroner-WACME
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 1 ❓ - Other

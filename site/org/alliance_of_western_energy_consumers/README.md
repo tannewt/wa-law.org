@@ -36,6 +36,12 @@
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Brandon Houskeeper
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+* 👎💵 Brandon Houskeeper
+
+### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed  👎1 
+* 👎💵 Brandon Houskeeper
+
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers   ❓1
 * ❓ Curt Augustine
 
@@ -53,12 +59,18 @@
 * 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
 
-## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 
+* 👎💵 Brandon Houskeeper
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
+* 👎💵 Brandon Houskeeper
+
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎1 
 * 👎💵 Brandon Houskeeper
 
 ## 2023-24
 
-### [SB 5982](/bill/2023-24/sb/5982/) - Consumer-owned utilities  👎1 
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed  👎1 
 * 👎💵 Brandon Houskeeper
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  

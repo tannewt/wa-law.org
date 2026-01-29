@@ -77,6 +77,14 @@
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍1  
+* 👍 Sam Hatzenbeler
+
+### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
+* 👍 Sam Hatzenbeler
+
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍4  
@@ -137,13 +145,19 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-## [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 * 👍 Sam Hatzenbeler
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
+* 👍 Sam Hatzenbeler
+
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+
+## [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains 👍1  
 
 ## 2023-24
 
-### [SB 5993](/bill/2023-24/sb/5993/) - Medical debt interest 👍1  
-* 👍 Sam Hatzenbeler
+### [SB 6229](/bill/2023-24/sb/6229/) - Small business stock gains 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

@@ -20,6 +20,10 @@
 
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 
+
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎1 
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
@@ -32,11 +36,13 @@
 * 👎 Michelle Hennings
 * 👎 Michelle Hennings
 
-## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
+
+## [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎1 
 
 ## 2023-24
 
-### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC  👎1 
+### [SB 6117](/bill/2023-24/sb/6117/) - Collective bargaining  👎1 
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

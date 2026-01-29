@@ -16,6 +16,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
 * 👍 Doug Hostetter
 
+### [HB 2551](/bill/2025-26/hb/2551/) - School district solvency 👍1  
+* 👍 Charlie Brown
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  

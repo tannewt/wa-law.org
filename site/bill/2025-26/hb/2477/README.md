@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2477 Real estate appraisals
-Sign up to testify:
-
-#### 16 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* Kathy Walsh - Appraisers Coalition of WA
 
 #### 2 👎 - Con
 

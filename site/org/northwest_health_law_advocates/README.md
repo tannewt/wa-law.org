@@ -77,6 +77,14 @@
 * ❓💵 Emily Brice
 * ❓💵 Vanessa Saavedra
 
+### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
+
+### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
+* 👍💵 Emily Brice
+
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+* 👍💵 Emily Brice
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
@@ -150,15 +158,23 @@
 
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
 * ❓💵 Emily Brice
 * ❓ Lee Che LEONG
+
+### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals   ❓1
+* ❓💵 Emily Brice
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
+* 👍💵 Emily Brice
+
+## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+* 👍💵 Emily Brice
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓2
-* ❓💵 Emily Brice
-* ❓ Lee Che LEONG
+### [SB 6210](/bill/2023-24/sb/6210/) - Health plan certification 👍1  
+* 👍💵 Emily Brice
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 04:00 PM - Transportation (TR): HB 2645 SR 165 replacements
-Sign up to testify:
-
-#### 712 👍 - Pro
+#### 845 👍 - Pro
 Testifying:
 * Jeff Pack - Me
 * Denice Carnahan
@@ -21,8 +19,17 @@ Testifying:
 * Laurie Layne
 * Jill Cartwright
 * Larry Leveen - ForeverGreen Trails
+* Steve Albrecht
 * Breanna Fokes - Foothills Rails to Trails Coalition
+* Taylor Hobi - International Association of Fire Fighters Local 3520 East Pierce Professional Firefighters
+* Taylor Phillips
+* Daniel Hoult - Outdoor Discovery Project
+* 💵Heather Kurtenbach - Washington State Building and Construction Trades
+* Jill Cartwright
+* Jon Parkinson - East Pierce Fire & Rescue - Fire Chief
 
 #### 3 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Allison Krutsinger - Washington State Department of Transportation

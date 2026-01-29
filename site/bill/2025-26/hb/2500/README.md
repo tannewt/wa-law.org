@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2500 Transfers to charities
-Sign up to testify:
-
-#### 96 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * Johni Hays
 * Larry Symonds

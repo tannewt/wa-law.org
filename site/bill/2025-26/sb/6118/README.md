@@ -6,18 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill strengthening schools’ cardiac emergency response plans heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/28/nobles-bill-strengthening-schools-cardiac-emergency-response-plans-heard-in-committee/#:~:text=Senate%20Bill%206118)
+
 ## Meetings
 ### Wed 01/28 10:30 AM - Early Learning & K-12 Education (EDU): SB 6118 Cardiac emerg. plans/schools
-Sign up to testify:
-
-#### 75 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Angel Joshi
 * Andrea Won
 * Isabelle Hepler
 * Adam Lang - DP Foundation
+* Asher Crossley
 * Melinda Truax
+* Paul Fillmore-Sardinas - WA Build Back Black Alliance
 
-#### 556 👎 - Con
+#### 592 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

@@ -13,11 +13,11 @@
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 6125 School stabilization funding
 Sign up to testify:
 
-#### 467 👍 - Pro
+#### 519 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 578 👎 - Con
+#### 893 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

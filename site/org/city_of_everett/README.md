@@ -85,6 +85,20 @@
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
 * 👎 Jennifer Gregerson
 
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+* 👍 Jennifer Gregerson
+
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones 👍1  
+* 👍 Jennifer Gregerson
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+
+### [HB 2552](/bill/2025-26/hb/2552/) - Transportation contracting 👍1  
+
+### [HB 2559](/bill/2025-26/hb/2559/) - Affordable housing funding 👍1  
+
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
@@ -138,7 +152,7 @@
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍 Jennifer Gregerson
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍 DAVID DEMARCO
@@ -146,15 +160,17 @@
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 * 👎 Jennifer Gregerson
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing   ❓2
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing   ❓2
 * ❓ Jennifer Gregerson
 * ❓ Jennifer Gregerson
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+
+## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing   ❓2
-* ❓ Jennifer Gregerson
-* ❓ Jennifer Gregerson
+### [SB 6148](/bill/2023-24/sb/6148/) - RTA bond issues maximum term 👍1  
 
 ### [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  
 * 👍 Jennifer Gregerson

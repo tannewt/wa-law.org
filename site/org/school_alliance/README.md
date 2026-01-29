@@ -21,13 +21,16 @@
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding   ❓1
 * ❓💵 Lacey Stanage
 
-## [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
 * 👍💵 Lacey Stanage
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+* 👍💵 Grace Yuan
 
 ## 2023-24
 
-### [SB 5918](/bill/2023-24/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
-* 👍💵 Lacey Stanage
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
+* 👍💵 Grace Yuan
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding   ❓1
 * ❓💵 Lacey Stanage

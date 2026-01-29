@@ -10,8 +10,21 @@
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6250 Small loans maximum amount
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Trent Matson - [Moneytree, Inc.](/org/moneytree,_inc./)
 
-#### 211 👎 - Con
+#### 234 👎 - Con
+Testifying:
+* Andrea Luquetta - [Center for Responsible Lending](/org/center_for_responsible_lending/)
+* Cathleen McCaul - AARP
+* 💵Denisse Guerrero - Washington Community Alliance
+* Demas Nesterenko - SEIU 775
+* 💵Jake Garcia - [Latino Community Fund](/org/latino_community_fund/)
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
+* 💵Michele Thomas - WA Low Income Housing Alliance
+* Caesar Carter
+* Kristina Sawyckyj
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 ❓ - Other

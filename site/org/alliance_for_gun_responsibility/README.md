@@ -70,6 +70,14 @@
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 * 👎 Michael McIntyre
 
+### [HB 2456](/bill/2025-26/hb/2456/) - Juvenile firearm interv.   ❓1
+
+### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
+
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+
+### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders 👍1  
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
@@ -118,14 +126,22 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 * 👍 Mike McIntyre
 
-## [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+
+### [SB 6118](/bill/2025-26/sb/6118/) - Cardiac emerg. plans/schools 👍1  
+
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
 
 ## 2023-24
 
-### [SB 6049](/bill/2023-24/sb/6049/) - PRA/students & employees 👍1  
+### [SB 6308](/bill/2023-24/sb/6308/) - Child shelter care orders 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

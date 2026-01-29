@@ -6,6 +6,11 @@
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+* 👎 Councilmember Dana Parnello
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 

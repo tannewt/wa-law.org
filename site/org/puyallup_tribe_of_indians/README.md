@@ -8,13 +8,17 @@
 ### [HB 2205](/bill/2025-26/hb/2205/) - Regulated sports wagering 👍3  
 * 👍 Chairman Bill Sterud
 
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
-## [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration 👍1  
+### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration 👍1  
+
+## [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering 👍2  
 
 ## 2023-24
 
-### [SB 5804](/bill/2023-24/sb/5804/) - Fish habitat restoration 👍1  
+### [SB 6137](/bill/2023-24/sb/6137/) - Regulated sports wagering 👍2  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
 

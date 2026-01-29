@@ -412,7 +412,8 @@
 
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc.  👎1 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc.  👎2 
+* 👎 Max Martin
 * 👎 Max Martin
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources   ❓1
@@ -517,6 +518,55 @@
 
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant   ❓1
 * ❓💵 Peter Godlewski
+
+### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes  👎1 
+* 👎 Max Martin
+
+### [HB 2400](/bill/2025-26/hb/2400/) - Social media content  👎1 
+* 👎 Max Martin
+
+### [HB 2402](/bill/2025-26/hb/2402/) - Phthalates/medical equipment  👎1 
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities   ❓1
+* ❓💵 Peter Godlewski
+
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎1 
+* 👎💵 Peter Godlewski
+
+### [HB 2425](/bill/2025-26/hb/2425/) - Nursing delegation 👍1  
+
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎1 
+* 👎 Max Martin
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎1 
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎1 
+
+### [HB 2483](/bill/2025-26/hb/2483/) - Data broker registry  👎1 
+* 👎 Max Martin
+
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes  👎1 
+* 👎 Max Martin
+
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation  👎1 
+* 👎💵 Peter Godlewski
+
+### [HB 2501](/bill/2025-26/hb/2501/) - Real estate disclosure form 👍1  
+
+### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+* 👎💵 Peter Godlewski
+
+### [HB 2575](/bill/2025-26/hb/2575/) - Environmental reporting 👍1  
+
+### [HB 2577](/bill/2025-26/hb/2577/) - Hospital inspections 👍1  
+
+### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants  👎1 
+
+### [HB 2585](/bill/2025-26/hb/2585/) - State false claims act  👎1 
+
+### [HB 2605](/bill/2025-26/hb/2605/) - Fibrous silicate materials 👍1  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -876,6 +926,9 @@
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
+### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
+* 👍 Max Martin
+
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
 * 👎💵 Emily Wittman
 
@@ -892,11 +945,54 @@
 ### [SB 6050](/bill/2025-26/sb/6050/) - Distributed energy resources  👎1 
 * 👎💵 Peter Godlewski
 
-## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+
+### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 
+* 👎 Max Martin
+
+### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓2
+* ❓ Max Martin
+
+### [SB 6114](/bill/2025-26/sb/6114/) - Excise tax/fixture defined  👎1 
+* 👎 Max Martin
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes  👎1 
+* 👎💵 Peter Godlewski
+
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax  👎1 
+* 👎 Max Martin
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
+* 👎💵 Peter Godlewski
+
+### [SB 6172](/bill/2025-26/sb/6172/) - Coal-fired electric plant   ❓2
+* ❓💵 Peter Godlewski
+* ❓💵 Peter Godlewski
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 
+* 👎 Max Martin
+
+### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
+
+### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎2 
+* 👎💵 Emily Wittman
+
+### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains  👎1 
+
+### [SB 6230](/bill/2025-26/sb/6230/) - Cash transactions/pennies 👍1  
+
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎1 
+
+### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants  👎1 
+* 👎💵 Peter Godlewski
+
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
+
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ## 2023-24
 
-### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

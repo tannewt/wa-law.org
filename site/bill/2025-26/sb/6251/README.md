@@ -10,8 +10,10 @@
 ### Thu 01/29 01:30 PM - Higher Education & Workforce Development (HEWD): SB 6251 Medical school grading
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Chris Mulick - Washington State University
 
 #### 0 ❓ - Other

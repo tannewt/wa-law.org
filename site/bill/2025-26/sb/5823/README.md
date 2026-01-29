@@ -14,10 +14,13 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5823 Patient advocates
 Sign up to testify:
 
-#### 11 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Greg Flakus - Gf strategies inc
 
-#### 569 👎 - Con
+#### 744 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
+* Jim Freeburg - Patient Coalition of Washington

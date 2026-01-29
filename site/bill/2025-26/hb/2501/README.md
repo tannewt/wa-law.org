@@ -8,12 +8,10 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2501 Real estate disclosure form
-Sign up to testify:
-
-#### 18 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * 💵Bill Clarke - Washington REALTORS
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

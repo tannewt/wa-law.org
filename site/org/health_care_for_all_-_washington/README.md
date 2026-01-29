@@ -31,6 +31,8 @@
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
@@ -64,6 +66,8 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
+### [SB 5924](/bill/2025-26/sb/5924/) - Pharmacist prescriptive auth 👍1  
+
 ### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board.   ❓1
 
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state. 👍1  
@@ -72,11 +76,21 @@
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
 
-## [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
+### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
+
+### [SB 6103](/bill/2025-26/sb/6103/) - Rural hospital payments 👍1  
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
+
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+
+## [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 
 ## 2023-24
 
-### [SB 6031](/bill/2023-24/sb/6031/) - Insurance crimes 👍1  
+### [SB 6292](/bill/2023-24/sb/6292/) - Health care financing 👍1  
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 * 👍 Ronnie Shure

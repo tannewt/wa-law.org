@@ -13,7 +13,7 @@
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2447 State shark
 Sign up to testify:
 
-#### 98 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Sixgill Shark Coalition
 * Eleanor Miller - Self
@@ -23,7 +23,8 @@ Testifying:
 * 💵Anthony Hemstad - [City of Des Moines](/org/city_of_des_moines/)
 * Mira Leatherman - Student & Shark Enthusiast
 * AUDREY Holloway - Communities for a Healthy Bay
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

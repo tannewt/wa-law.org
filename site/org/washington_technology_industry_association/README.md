@@ -24,9 +24,21 @@
 
 ### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  
 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc.  👎1 
+* 👎💵 Amy Harris
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
+
+### [HB 2446](/bill/2025-26/hb/2446/) - Quantum technology industry 👍1  
+* 👍💵 Amy Harris
+
+### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+
+### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants  👎1 
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 
@@ -49,13 +61,19 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes  👎1 
 
-## [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots  👎1 
+### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots  👎1 
 * 👎💵 Amy Harris
+
+### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains  👎1 
+* 👎💵 Amy Harris
+
+## [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
+* ❓💵 Amy Harris
 
 ## 2023-24
 
-### [SB 5984](/bill/2023-24/sb/5984/) - AI companion chatbots  👎1 
-* 👎💵 Amy Harris
+### [SB 6284](/bill/2023-24/sb/6284/) - AI consumer protections   ❓1
+* ❓💵 Amy Harris
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

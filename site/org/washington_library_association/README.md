@@ -22,6 +22,11 @@
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
 
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+
+### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants   ❓1
+* ❓ Eryn Duffee
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
@@ -44,11 +49,11 @@
 
 ### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍2  
 
-## [SB 5961](/bill/2025-26/sb/5961/) - Imagination library program 👍1  
+## [SB 5961](/bill/2025-26/sb/5961/) - Early literacy programs 👍1  
 
 ## 2023-24
 
-### [SB 5961](/bill/2023-24/sb/5961/) - Imagination library program 👍1  
+### [SB 5961](/bill/2023-24/sb/5961/) - Early literacy programs 👍1  
 
 ### [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍5  
 * 👍 Sarah Logan

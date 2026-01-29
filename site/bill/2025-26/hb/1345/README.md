@@ -14,6 +14,15 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201345)
 
 ## Meetings
+### Wed 02/04 10:30 AM - Housing (HSG): EHB 1345 Detached ADU limits
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/27 01:30 PM - Housing (HOUS): HB 1345 Detached ADU limits
 #### 16 👍 - Pro
 Testifying:

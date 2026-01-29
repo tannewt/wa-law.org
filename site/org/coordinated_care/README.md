@@ -71,6 +71,8 @@
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
 * 👎 Andrea Davis
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy   ❓1
@@ -120,13 +122,23 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
-## [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
+### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
 * 👎💵 Bill Stauffacher
+
+### [SB 6071](/bill/2025-26/sb/6071/) - Health carrier overpayments  👎1 
+
+### [SB 6094](/bill/2025-26/sb/6094/) - Pediatric transitional care 👍1  
+
+### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
+
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎1 
+* 👎 Andrea Davis
+
+## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍3  
 
 ## 2023-24
 
-### [SB 5949](/bill/2023-24/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
-* 👎💵 Bill Stauffacher
+### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍3  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

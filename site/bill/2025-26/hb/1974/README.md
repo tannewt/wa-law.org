@@ -11,6 +11,15 @@
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%201974)
 
 ## Meetings
+### Tue 02/03 08:00 AM - Finance (FIN): HB 1974 Land banking authorities
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 1974 Land banking authorities
 #### 56 👍 - Pro
 Testifying:

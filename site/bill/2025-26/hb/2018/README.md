@@ -10,8 +10,12 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2018 Solid waste/local government
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Lindsay Chapman - [Spokane County](/org/spokane_county/)
+* Margo Gillaspy - [Skagit County](/org/skagit_county/)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

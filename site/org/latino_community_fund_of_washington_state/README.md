@@ -59,6 +59,9 @@
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+* 👍💵 Jake García
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
@@ -118,11 +121,22 @@
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
-## [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6080](/bill/2025-26/sb/6080/) - Federal custody contracts 👍1  
+* 👍💵 Jake García
+
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
+
+## [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
 
 ## 2023-24
 
-### [SB 6053](/bill/2023-24/sb/6053/) - Domestic workers 👍1  
+### [SB 6178](/bill/2023-24/sb/6178/) - Prop. insurance assignments 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

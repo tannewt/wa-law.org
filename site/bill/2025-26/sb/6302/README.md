@@ -10,8 +10,8 @@
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6302 Public works/finishing trade
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 29 👍 - Pro
 
-#### 19 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other

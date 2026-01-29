@@ -14,9 +14,18 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 6182 Abortion savings program
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Gabbi Nazari - Pro Choice Washington
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Mercedes Sanchez - [Cedar River Clinics](/org/cedar_river_clinics/)
+* Raquel Campezano - Planned Parenthood of Greater Washington and North Idaho
+* Shaine Truscott - SEIU 775
+* Kari Pacheco - Planned Parenthood Great Northwest, Hawaii, Alaska, Indiana, Kentucky
+* Pablo Barcenas
+* Ahna Rader
 
-#### 20 👎 - Con
+#### 362 👎 - Con
 Testifying:
 * Jessica Casca
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
@@ -24,7 +33,9 @@ Testifying:
 * Jennifer Child
 * Eric Lundberg
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
 ### Tue 01/27 10:30 AM - Health & Long Term Care (HLTC): SB 6182 Abortion savings program
 #### 213 👍 - Pro

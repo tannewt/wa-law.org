@@ -32,6 +32,12 @@
 ### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
 * 👎 Julia Kellison
 
+### [HB 2445](/bill/2025-26/hb/2445/) - Probate 👍1  
+* 👍 Robert Miller
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
+* 👍 Scott Crain
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 * 👍 Julia Kellison
 * 👍 Julia Kellison
@@ -55,13 +61,16 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍 Tom McGarry
 
-## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 * 👍 Christopher Brunetti
+
+## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
+* 👎 Julia Kellison
 
 ## 2023-24
 
-### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
-* 👍 Christopher Brunetti
+### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎1 
+* 👎 Julia Kellison
 
 ### [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 * 👍 Christopher Brunetti

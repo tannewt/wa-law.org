@@ -11,6 +11,15 @@
 * 01/13/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 6081 – Hiding Sex‑Designation Changes in Government Records - Conservative Ladies of Washington](https://conservativeladiesofwa.com/bill-alert-sb6081-sex-confidentiality/#:~:text=HB%206081)
 
 ## Meetings
+### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6081 Government record privacy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6081 Government record privacy
 #### 437 👍 - Pro
 Testifying:

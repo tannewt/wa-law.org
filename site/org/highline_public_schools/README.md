@@ -3,6 +3,10 @@
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 
+### [HB 2432](/bill/2025-26/hb/2432/) - Students/surplus technology 👍1  
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
+
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍 Holly Ferguson
 

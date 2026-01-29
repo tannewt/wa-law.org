@@ -27,6 +27,8 @@
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 * 👍 Patrick Murphy
 
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 
+
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
@@ -57,11 +59,15 @@
 ### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
 * 👍 Patrick Murphy
 
-## [SB 5943](/bill/2025-26/sb/5943/) - Use of school impact fees 👍1  
+### [SB 5943](/bill/2025-26/sb/5943/) - Use of school impact fees 👍1  
+
+## [SB 6125](/bill/2025-26/sb/6125/) - School stabilization funding 👍1  
+* 👍 Patrick Murphy
 
 ## 2023-24
 
-### [SB 5943](/bill/2023-24/sb/5943/) - Use of school impact fees 👍1  
+### [SB 6125](/bill/2023-24/sb/6125/) - School stabilization funding 👍1  
+* 👍 Patrick Murphy
 
 ### [HB 1436](/bill/2023-24/hb/1436/) - Special education funding  👎1 
 * 👎 Superintendent, Patrick Murphy

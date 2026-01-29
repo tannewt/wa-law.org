@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2611/</link>
 		<description>Updates about HB 2611</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 09:07:20 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 14:44:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202611</guid>
 		</item>
 		<item>
-			<title>👍Nestor Pelaez Guillen - Sierra Club</title>
+			<title>👍Nestor Pelaez Guillen - Homestead Community Land Trust</title>
 			<description>Nestor Pelaez Guillen signed up to testify Pro.</description>
 			<pubDate>Mon, 26 Jan 2026 02:31:37 GMT</pubDate>
 			<category>testifier</category>
@@ -39,7 +39,7 @@
 			<guid isPermaLink="false">testifier/Nestor/Pelaez Guillen/2026-01-26 02:31:37</guid>
 		</item>
 		<item>
-			<title>👍Michael Berryhill - Sierra Club</title>
+			<title>👍Michael Berryhill - Homestead Community Land Trust</title>
 			<description>Michael Berryhill signed up to testify Pro.</description>
 			<pubDate>Mon, 26 Jan 2026 02:37:30 GMT</pubDate>
 			<category>testifier</category>
@@ -101,6 +101,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Miriam/Battson/2026-01-27 09:07:20</guid>
+		</item>
+		<item>
+			<title>WA considers 32-hour work week | FOX 13 Seattle</title>
+			<description>News article "WA considers 32-hour work week | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 28 Jan 2026 14:44:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-lawmaker-32-hour-week#:~:text=House%20Bill%202611</guid>
 		</item>
 	</channel>
 </rss>

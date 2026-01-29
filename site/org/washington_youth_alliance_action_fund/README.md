@@ -35,6 +35,9 @@
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍2  
 * 👍 Preston Tucker
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍3  
+* 👍 Jack Farrell
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍2  
@@ -54,8 +57,10 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
 ## 2023-24
 
-## [SB 5906](/bill/2023-24/sb/5906/) - Data and personal safety 👍1  
+## [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍1  

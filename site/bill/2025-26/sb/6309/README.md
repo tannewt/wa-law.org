@@ -10,8 +10,8 @@
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6309 High cap. transit permits
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

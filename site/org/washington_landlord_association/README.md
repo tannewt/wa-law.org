@@ -1,15 +1,15 @@
 # Washington Landlord Association
 ## 2025-26
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎3 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎3 
 * 👎 Errin Reynolds
 * 👎 Errin Reynolds
+
+## [HB 2664](/bill/2025-26/hb/2664/) - Unlawful detainer notices 👍1  
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants  👎3 
-* 👎 Errin Reynolds
-* 👎 Errin Reynolds
+### [HB 2664](/bill/2023-24/hb/2664/) - Unlawful detainer notices 👍1  
 
 ### [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases  👎1 
 

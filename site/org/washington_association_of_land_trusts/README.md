@@ -18,6 +18,9 @@
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓ Vanessa Kritzer
 
+### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
+* 👍 Vanessa Kritzer
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓2
 * ❓ Vanessa Kritzer
 * ❓ Vanessa Kritzer
@@ -28,13 +31,14 @@
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
-## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
 * ❓ Vanessa Kritzer
+
+## [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 
 ## 2023-24
 
-### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental   ❓1
-* ❓ Vanessa Kritzer
+### [SB 6097](/bill/2023-24/sb/6097/) - Conservation futures/tribes 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Vanessa Kritzer

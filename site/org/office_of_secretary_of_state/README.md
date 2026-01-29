@@ -77,6 +77,16 @@
 * ❓ Dallas Burnett
 * ❓ Stuart Holmes
 
+### [HB 2435](/bill/2025-26/hb/2435/) - Leg. Indian affairs office 👍1  
+
+### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
+
+### [HB 2572](/bill/2025-26/hb/2572/) - Voting services   ❓1
+* ❓ Shawn Merchant
+
+### [HB 2631](/bill/2025-26/hb/2631/) - Agency customer service   ❓1
+* ❓ Brian Hatfield
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍2  
 * 👍 Brian Hatfield
 * 👍 Brian Hatfield
@@ -126,13 +136,17 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 
-## [SB 6035](/bill/2025-26/sb/6035/) - Voting services  👎1 
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services  👎1 
 * 👎 Steve Hobbs
+
+### [SB 6084](/bill/2025-26/sb/6084/) - Voting more than once 👍1  
+* 👍 Brian Hatfield
+
+## [SB 6130](/bill/2025-26/sb/6130/) - National voter reg. day 👍1  
 
 ## 2023-24
 
-### [SB 6035](/bill/2023-24/sb/6035/) - Voting services  👎1 
-* 👎 Steve Hobbs
+### [SB 6130](/bill/2023-24/sb/6130/) - National voter reg. day 👍1  
 
 ### [HB 1031](/bill/2023-24/hb/1031/) - Medal of valor award 👍1  
 * 👍 Brian Hatfield

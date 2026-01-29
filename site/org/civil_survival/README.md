@@ -55,6 +55,20 @@
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
+### [HB 2403](/bill/2025-26/hb/2403/) - Sex offenders/registration 👍2  
+
+### [HB 2430](/bill/2025-26/hb/2430/) - Crime victim penalty assess.  👎1 
+
+### [HB 2457](/bill/2025-26/hb/2457/) - Crime victim penalty assess.  👎1 
+
+### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
+
+### [HB 2539](/bill/2025-26/hb/2539/) - Inmate funds 👍1  
+
+### [HB 2558](/bill/2025-26/hb/2558/) - Mental health sentencing alt  👎1 
+
+### [HB 2595](/bill/2025-26/hb/2595/) - Collateral attacks/criminal 👍1  
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 * 👍💵 Anthony Blankenship
 
@@ -73,11 +87,15 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+
+### [SB 6074](/bill/2025-26/sb/6074/) - Parole   ❓2
+
+## [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 6286](/bill/2023-24/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ### [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 

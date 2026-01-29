@@ -10,11 +10,14 @@
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6274 Street standards
 Sign up to testify:
 
-#### 125 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * DAVID NEIMAN - Neiman Taber Architects
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Josh Friedmann
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Blake Lyon - City of Bellingham, WA

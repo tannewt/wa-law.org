@@ -83,10 +83,24 @@
 
 ### [HB 2246](/bill/2025-26/hb/2246/) - Updating policies for elementary and secondary school students with firearm violations.  👎1 
 
-### [HB 2253](/bill/2025-26/hb/2253/) - Concerning updates to the licensing division of the department of children, youth, and families. 👍1  
+### [HB 2253](/bill/2025-26/hb/2253/) - DCYF licensing division 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Kat Lohman
+
+### [HB 2412](/bill/2025-26/hb/2412/) - Superior court judge/Yakima 👍1  
+
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2456](/bill/2025-26/hb/2456/) - Juvenile firearm interv.   ❓1
+
+### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
+* 👎 Annie Chung
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
+### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders   ❓1
+* ❓ Annie Chung
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
@@ -188,13 +202,26 @@
 ### [SB 5979](/bill/2025-26/sb/5979/) - Dependency/substance abuse 👍1  
 * 👍 Annie Chung
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Kat Lohman
+
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+* 👎 Rhea Yo
+
+### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓1
+* ❓ Annie Chung
+
+## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍1  
+* 👍 Annie Chung
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓ Kat Lohman
+### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare time extension 👍1  
+* 👍 Annie Chung
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

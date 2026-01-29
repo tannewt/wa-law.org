@@ -28,6 +28,8 @@
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
+### [HB 2432](/bill/2025-26/hb/2432/) - Students/surplus technology 👍1  
+
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍3  
 * 👍 Martin Turney
 * 👍 Martin Turney
@@ -68,6 +70,9 @@
 ### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎2 
 
 ### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
+
+### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍1  
+* 👍 Jason Golec
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓ Harlan Gallinger

@@ -14,11 +14,16 @@
 * 👍 Meg Curtin Rey-Bear
 * 👍 Sharon Shadwell
 
-## [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
+### [HB 2599](/bill/2025-26/hb/2599/) - Therapy and psychotherapy 👍3  
+* 👍 Shannon Thompson LMHC
+
+### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
+
+## [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍1  
 
 ## 2023-24
 
-### [SB 5845](/bill/2023-24/sb/5845/) - Health carrier payments 👍1  
+### [SB 6305](/bill/2023-24/sb/6305/) - Mental health coverage 👍1  
 
 ### [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍4  
 * 👍 Dominique Avery

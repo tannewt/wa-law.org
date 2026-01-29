@@ -11,12 +11,12 @@
 * 👍 J. Lee Schultz
 * 👍 Alissa Muller
 
-## [SB 5969](/bill/2025-26/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans.  👎1 
+## [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans  👎1 
 * 👎 Jen Chong Jewell
 
 ## 2023-24
 
-### [SB 5969](/bill/2023-24/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans.  👎1 
+### [SB 5969](/bill/2023-24/sb/5969/) - IEP transition plans  👎1 
 * 👎 Jen Chong Jewell
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access 👍1  

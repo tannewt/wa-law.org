@@ -10,11 +10,12 @@
 ### Thu 01/29 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6318 Commercial shellfish fees
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Evie Fagergren - Calm Cove Oyster Company
 * 💵Troy Nichols - Willapa Grays Harbor Oyster Growers Association
+* Bill Dewey - Taylor Shellfish Farms
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

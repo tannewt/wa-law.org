@@ -37,6 +37,11 @@
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
 
+### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures 👍1  
+* 👍💵 Sienna Jarrard
+
+### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓💵 Isela Bonilla
 
@@ -69,11 +74,18 @@
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍3  
 * 👍💵 Sienna Jarrard
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+
+### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
+* 👍💵 Sienna Jarrard
+
+## [SB 6227](/bill/2025-26/sb/6227/) - Parenting student data 👍2  
+* 👍💵 Sienna Jarrard
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
+### [SB 6227](/bill/2023-24/sb/6227/) - Parenting student data 👍2  
+* 👍💵 Sienna Jarrard
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

@@ -10,7 +10,7 @@
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6215 Fraud prevention/auditor
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 22 👍 - Pro
 
 #### 1 👎 - Con
 

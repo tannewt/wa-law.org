@@ -94,6 +94,50 @@
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍1  
 
+### [HB 2401](/bill/2025-26/hb/2401/) - Boys and men commission 👍1  
+
+### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍1  
+
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2422](/bill/2025-26/hb/2422/) - Private security guards 👍1  
+
+### [HB 2471](/bill/2025-26/hb/2471/) - Collective bargaining 👍1  
+
+### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work 👍1  
+
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
+
+### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍1  
+
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
+### [HB 2513](/bill/2025-26/hb/2513/) - Plumbing contractors 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+
+### [HB 2517](/bill/2025-26/hb/2517/) - High cap. transit permits 👍1  
+
+### [HB 2524](/bill/2025-26/hb/2524/) - Security guards board 👍1  
+
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2605](/bill/2025-26/hb/2605/) - Fibrous silicate materials 👍1  
+
+### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek 👍1  
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
+
+### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
+
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
 
 ### [SB 5379](/bill/2025-26/sb/5379/) - Parks & rec./interest arb. 👍1  
@@ -167,11 +211,41 @@
 
 ### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining 👍1  
+
+### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+### [SB 6152](/bill/2025-26/sb/6152/) - Workers' comp./PTs & OTs 👍1  
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
+
+### [SB 6180](/bill/2025-26/sb/6180/) - Occupational disease/heart 👍1  
+
+### [SB 6197](/bill/2025-26/sb/6197/) - Plumbing contractors 👍1  
+
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎1 
+
+### [SB 6234](/bill/2025-26/sb/6234/) - Sewage grinder pumps  👎1 
+
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+
+### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
+
+### [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface 👍1  
+
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍1  
+
+### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
+
+### [SB 6302](/bill/2025-26/sb/6302/) - Public works/finishing trade 👍1  
+
+## [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6312](/bill/2023-24/sb/6312/) - Retail pricing 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

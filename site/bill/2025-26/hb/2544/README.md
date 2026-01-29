@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2544 Upper Columbia water rights
-Sign up to testify:
-
-#### 47 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Cody Desautel - Confederated Tribes of the Colville Reservation
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation

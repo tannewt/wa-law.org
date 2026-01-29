@@ -131,6 +131,14 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+
+### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child 👍1  
+
+### [HB 2614](/bill/2025-26/hb/2614/) - Home cultivation of cannabis  👎1 
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎3 
@@ -226,7 +234,7 @@
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.  👎1 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
 
 ### [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
 
@@ -238,13 +246,22 @@
 
 ### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation  👎1 
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 * 👎 Gloria Mantz
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+
+### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+### [SB 6158](/bill/2025-26/sb/6158/) - Factory built structures 👍1  
+
+### [SB 6196](/bill/2025-26/sb/6196/) - Kratom taxation   ❓1
+
+## [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
-* 👎 Gloria Mantz
+### [SB 6204](/bill/2023-24/sb/6204/) - Home cultivation of cannabis  👎1 
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

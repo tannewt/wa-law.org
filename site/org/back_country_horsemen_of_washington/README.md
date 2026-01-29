@@ -16,11 +16,13 @@
 * 👍 Juelanne Dalzell
 * ❓ Jeff Chapman
 
-## [SB 5899](/bill/2025-26/sb/5899/) - Chiropractic/animals 👍1  
+### [SB 5899](/bill/2025-26/sb/5899/) - Chiropractic/animals 👍1  
+
+## [SB 6072](/bill/2025-26/sb/6072/) - Veterinarian relationship 👍1  
 
 ## 2023-24
 
-### [SB 5899](/bill/2023-24/sb/5899/) - Chiropractic/animals 👍1  
+### [SB 6072](/bill/2023-24/sb/6072/) - Veterinarian relationship 👍1  
 
 ### [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍1  
 

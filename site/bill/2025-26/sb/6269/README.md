@@ -10,7 +10,7 @@
 ### Fri 01/30 10:30 AM - Environment, Energy & Technology (ENET): SB 6269 Definition of motor fuel
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 
 #### 1 👎 - Con
 

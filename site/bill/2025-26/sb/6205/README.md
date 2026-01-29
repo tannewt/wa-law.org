@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6205 Grant distribution
-Sign up to testify:
-
-#### 3161 👍 - Pro
+#### 3867 👍 - Pro
 Testifying:
 * Corey Orvold
 * Eric Pratt - America
 * Kay Clemons - As a volunteer In many BIPOC organizations. Entertainment Resource Alliance
 * Olena Zhenochin
 * Anu TEWARI
+* Sai Samineni
 * Angelina Bundy - 4007 SW 325th Street
 
-#### 565 👎 - Con
+#### 591 👎 - Con
 
 #### 6 ❓ - Other

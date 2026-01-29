@@ -151,6 +151,38 @@
 
 ### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. 👍1  
 
+### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍2  
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2471](/bill/2025-26/hb/2471/) - Collective bargaining 👍1  
+
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+* 👍 Kati Durkin
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
+
+### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍1  
+
+### [HB 2510](/bill/2025-26/hb/2510/) - Community cust. supervision 👍1  
+
+### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child 👍2  
+* 👍 Allison Rogers
+* 👍 Dianna Dickins
+
+### [HB 2529](/bill/2025-26/hb/2529/) - DCYF accountability board   ❓1
+* ❓ Kati Durkin
+
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
+
+### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek 👍1  
+* 👍 Ashley Fueston
+
+### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders   ❓3
+* ❓ Amy Conklin
+* ❓ Jeanette Obelcz
+* ❓ Kati Durkin
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
@@ -255,12 +287,29 @@
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
-## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+* ❓ Kati Durkin
+
+### [SB 6073](/bill/2025-26/sb/6073/) - Wildland firefighters/LEOFF 👍1  
+
+### [SB 6170](/bill/2025-26/sb/6170/) - Highway construction 👍1  
+* 👍 Kati Durkin
+
+### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+* 👍 Ashley Fueston
+
+## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓4
+* ❓ Jeanette Obelcz
+* ❓ Michele Anslow
+* ❓ Michelle Sety
 * ❓ Kati Durkin
 
 ## 2023-24
 
-### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp.   ❓1
+### [SB 6308](/bill/2023-24/sb/6308/) - Child shelter care orders   ❓4
+* ❓ Jeanette Obelcz
+* ❓ Michele Anslow
+* ❓ Michelle Sety
 * ❓ Kati Durkin
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  

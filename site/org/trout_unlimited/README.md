@@ -15,6 +15,9 @@
 
 ### [HB 1976](/bill/2025-26/hb/1976/) - Release of pets & plants 👍1  
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+* 👍💵 Alexei Calambokidis
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  
 * 👍💵 Alexei Calambokidis
 * 👍💵 Alexei Calambokidis
@@ -23,11 +26,15 @@
 
 ### [SB 5390](/bill/2025-26/sb/5390/) - Access to recreation sites 👍1  
 
-## [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
+### [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
+
+## [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
+* 👍 Alexei Calombikidis
 
 ## 2023-24
 
-### [SB 5583](/bill/2023-24/sb/5583/) - Fishing and hunting licenses 👍1  
+### [SB 6119](/bill/2023-24/sb/6119/) - Tires/6PPD and substitutes 👍1  
+* 👍 Alexei Calombikidis
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
 * 👍 Lisa Pelly

@@ -38,6 +38,10 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍2  

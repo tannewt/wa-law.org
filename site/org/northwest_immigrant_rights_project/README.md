@@ -43,7 +43,8 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2217](/bill/2025-26/hb/2217/) - Concerning rehabilitative pathways for persons charged with certain felony offenses who have no prior felony convictions in adult criminal court. 👍1  
+### [HB 2217](/bill/2025-26/hb/2217/) - Concerning rehabilitative pathways for persons charged with certain felony offenses who have no prior felony convictions in adult criminal court. 👍2  
+* 👍 Tim Warden-Hertz
 
 ### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎1 
 
@@ -54,6 +55,18 @@
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎2 
 * 👎💵 Malou Chavez
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+* 👍 Xiomara Uran
+
+### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities 👍1  
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+* 👍💵 Malou Chavez
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+
+### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -77,16 +90,19 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 * 👍💵 Malou Chavez
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍 Tim Warden-Hertz
+
+## [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍2  
+* 👍 Tim Warden Hertz
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
-* 👍 Tim Warden-Hertz
+### [SB 6109](/bill/2023-24/sb/6109/) - Private detention/investment 👍2  
+* 👍 Tim Warden Hertz
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

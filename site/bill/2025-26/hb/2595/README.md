@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2595 Collateral attacks/criminal
-Sign up to testify:
-
-#### 299 👍 - Pro
+#### 312 👍 - Pro
 Testifying:
 * Jessica Levin
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -19,7 +17,7 @@ Testifying:
 * Karen Peacey - League of Women Voters of WA
 * Kimberly Ambrose
 
-#### 226 👎 - Con
+#### 266 👎 - Con
 Testifying:
 * Natasha Willson
 * Ann Summers - King County Prosecutor's Office

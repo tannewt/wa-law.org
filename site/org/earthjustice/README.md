@@ -28,6 +28,12 @@
 
 ### [HB 1712](/bill/2025-26/hb/1712/) - Qualified biomass facilities  👎1 
 
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
@@ -52,11 +58,17 @@
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
-## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
+### [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
+
+### [SB 6172](/bill/2025-26/sb/6172/) - Coal-fired electric plant 👍1  
+
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  
 
 ## 2023-24
 
-### [SB 6056](/bill/2023-24/sb/6056/) - Utility service vehicles  👎1 
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍1  
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
 

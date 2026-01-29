@@ -33,7 +33,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
-### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission.   ❓1
+### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission   ❓1
 * ❓💵 Megan Managan
 
 ### [HB 2298](/bill/2025-26/hb/2298/) - Property title protection  👎1 
@@ -66,12 +66,15 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎 Glen Simecek
 
-## [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission   ❓1
+### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission   ❓1
+* ❓💵 Megan Managan
+
+## [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
 * ❓💵 Megan Managan
 
 ## 2023-24
 
-### [SB 6018](/bill/2023-24/sb/6018/) - Housing finance commission   ❓1
+### [SB 6284](/bill/2023-24/sb/6284/) - AI consumer protections   ❓1
 * ❓💵 Megan Managan
 
 ### [HB 1420](/bill/2023-24/hb/1420/) - Lien priority/mortgages 👍2  

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2480 Residential dev./zones
-Sign up to testify:
-
-#### 121 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * Carl Shorett
 * Sarah Clark - Seattle Metro Chamber
@@ -29,7 +27,7 @@ Testifying:
 * Nikki Stuck - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Lauren McDonald - [Microsoft](/org/microsoft/)
 
-#### 104 👎 - Con
+#### 134 👎 - Con
 Testifying:
 * Melissa Stuart - City of Redmond, Council President
 * Neal Black - Council Member,  City of Kirkland
@@ -42,7 +40,7 @@ Testifying:
 * Mason Thompson - City of Bothell, Mayor
 * Councilmember Dana Parnello - [City of Maple Valley](/org/city_of_maple_valley/)
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Blake Lyon - City of Bellingham, WA
@@ -50,3 +48,4 @@ Testifying:
 * Karl Almgren - Community Planning Manager, City of Lynnwood
 * Kristen Holdsworth - [City of Kent](/org/city_of_kent/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Janet Lee - U District Partnership

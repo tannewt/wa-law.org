@@ -11,6 +11,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202367)
 
 ## Meetings
+### Tue 02/03 08:00 AM - Finance (FIN): HB 2367 Coal-fired electric plant
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2367 Coal-fired electric plant
 #### 116 👍 - Pro
 Testifying:

@@ -58,6 +58,12 @@
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍16  
@@ -131,13 +137,17 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
-### [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
+### [SB 6036](/bill/2025-26/sb/6036/) - Adult family home licensure 👍1  
 
-## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+## [SB 6227](/bill/2025-26/sb/6227/) - Parenting student data 👍1  
 
 ## 2023-24
 
-### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍1  
+### [SB 6227](/bill/2023-24/sb/6227/) - Parenting student data 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

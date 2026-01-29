@@ -13,6 +13,8 @@
 
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
 * 👎💵 Diana Carlen
 

@@ -7,12 +7,25 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2026 [Washington State Standard](/org/washington_state_standard/) - [Lower drunk driving limit approved by WA Senate • Washington State Standard](https://washingtonstatestandard.com/2026/01/28/lower-drunk-driving-limit-approved-by-wa-senate/#:~:text=Similar%20legislation)
 * 01/21/2026 [FOX13](/org/fox13/) - [Washington lawmakers consider lowering BAC limit to 0.05 | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-lowering-bac-limit#:~:text=2362)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202362)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202362)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202362)
 
 ## Meetings
+### Thu 02/05 01:00 PM - Transportation (TR): HB 2362 Impaired driving
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Linda Thompson - In Memory of Trevor Pierce, 9/16/1982 - 8/16/1986
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2362 Impaired driving
 #### 270 👍 - Pro
 Testifying:

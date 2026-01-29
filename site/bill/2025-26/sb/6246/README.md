@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Environment, Energy & Technology (ENET): SB 6246 Emissions/trade-exposed
-Sign up to testify:
-
-#### 143 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵David Mendoza - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Kate White Tudor - The Natural Resources Defense Council
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 64 👎 - Con
+#### 83 👎 - Con
 Testifying:
 * 💵Jessica Spiegel - WSPA
 * Peter Godliewski - AWB

@@ -80,6 +80,12 @@
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
@@ -144,7 +150,7 @@
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
@@ -152,11 +158,13 @@
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+## [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6286](/bill/2023-24/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

@@ -9,6 +9,9 @@
 
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
 
+### [HB 2664](/bill/2025-26/hb/2664/) - Unlawful detainer notices 👍1  
+* 👍 Joe Plotts
+
 ## [SB 5725](/bill/2025-26/sb/5725/) - Housing on college lands 👍1  
 * 👍 Susan Boyd
 

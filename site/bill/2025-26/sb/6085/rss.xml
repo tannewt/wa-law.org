@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6085/</link>
 		<description>Updates about SB 6085</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 12:27:45 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,41 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jim/Chambers/2026-01-20 12:27:45</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/HS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Rules Committee for second reading.</title>
+			<description>On motion, referred to Rules Committee for second reading.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/On motion, referred to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

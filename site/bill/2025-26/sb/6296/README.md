@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6296 Involuntary treatment
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Laura Cissna - Washington state designated crisis responder association
+
+#### 0 ❓ - Other

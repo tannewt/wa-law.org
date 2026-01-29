@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2490 Ex. medical placement
-#### 41 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Marc Stern
 * Karen Peacey - League of Women Voters of WA
@@ -17,6 +17,7 @@ Testifying:
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * Sarah Leon
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* Heather Kelly - League of Women Voters of WA
 
 #### 208 👎 - Con
 

@@ -32,6 +32,8 @@
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 
 * 👎💵 Daniel Olson
 
+### [HB 2536](/bill/2025-26/hb/2536/) - Wineries/restaurant license 👍1  
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
 * 👎💵 Daniel Olson
 * 👎 Daniel Olsen

@@ -25,13 +25,16 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
-## [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
+### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
 * 👍 Stacy Taeuber
+
+## [SB 6074](/bill/2025-26/sb/6074/) - Parole   ❓1
+* ❓ Cindy Arends
 
 ## 2023-24
 
-### [SB 5103](/bill/2023-24/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
-* 👍 Stacy Taeuber
+### [SB 6074](/bill/2023-24/sb/6074/) - Parole   ❓1
+* ❓ Cindy Arends
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty  👎1 
 * 👎 Jason Schwarz

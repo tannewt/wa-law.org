@@ -11,14 +11,13 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2589 Higher ed. encampments
-Sign up to testify:
-
-#### 181 👍 - Pro
+#### 256 👍 - Pro
 Testifying:
 * Huma Kali
 * Jackson Pincus - Seattle regional office of American Jewish Committee
+* Janine Hasson
 
-#### 239 👎 - Con
+#### 244 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -11,6 +11,15 @@
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Washington United Way's Advocate for Affordable Child Care, Housing, and Early Literacy in 2026 Legislative Session - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01202026#:~:text=SB%205961)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5961 Early literacy programs
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5961 Imagination library program
 #### 13 👍 - Pro
 Testifying:

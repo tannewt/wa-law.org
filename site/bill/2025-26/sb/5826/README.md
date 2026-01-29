@@ -11,6 +11,17 @@
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill expanding access to medication abortion at public colleges, universities heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/15/nobles-bill-expanding-access-to-medication-abortion-at-public-colleges-universities-heard-in-committee/#:~:text=Senate%20Bill%205826)
 
 ## Meetings
+### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5826 Postsecondary/med. abortion
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Raquel Mendoza
+
 ### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5826 Postsecondary/med. abortion
 #### 309 👍 - Pro
 Testifying:

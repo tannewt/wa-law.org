@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5981 340B drug pricing program

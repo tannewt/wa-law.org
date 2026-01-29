@@ -25,15 +25,17 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
-## [SB 5990](/bill/2025-26/sb/5990/) - Rural local health officers   ❓2
+### [SB 5990](/bill/2025-26/sb/5990/) - Rural local health officers   ❓2
 * ❓ Commissioner Melanie Bacon
 * ❓ Shawn Morris
+
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 
 ## 2023-24
 
-### [SB 5990](/bill/2023-24/sb/5990/) - Rural local health officers   ❓2
-* ❓ Commissioner Melanie Bacon
-* ❓ Shawn Morris
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
 
 ### [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 

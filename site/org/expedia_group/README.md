@@ -13,13 +13,14 @@
 * 👍💵 Brent Ludeman
 * 👍💵 Brent Ludeman
 
-## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
+### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎 Richard de Sam Lazaro
+
+## [SB 6248](/bill/2025-26/sb/6248/) - Travel insurance 👍1  
 
 ## 2023-24
 
-### [SB 5794](/bill/2023-24/sb/5794/) - Tax preferences  👎1 
-* 👎 Richard de Sam Lazaro
+### [SB 6248](/bill/2023-24/sb/6248/) - Travel insurance 👍1  
 
 ### [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 * 👍 Krista Bentley

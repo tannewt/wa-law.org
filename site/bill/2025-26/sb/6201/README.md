@@ -8,13 +8,13 @@
 
 ## Meetings
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6201 Social housing agencies/tax
-Sign up to testify:
-
-#### 108 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * 💵Jeff Paul - Co-Executive Director of House Our Neighbors
 * James Mayton - Seattle Social Housing Developer
 
-#### 41 👎 - Con
+#### 54 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sai Samineni

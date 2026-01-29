@@ -38,6 +38,12 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
+
+### [HB 2559](/bill/2025-26/hb/2559/) - Affordable housing funding 👍1  
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
@@ -50,11 +56,13 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 * 👍 Clare Fogelsong

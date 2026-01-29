@@ -12,14 +12,14 @@
 
 ## Meetings
 ### Wed 01/28 10:30 AM - Early Learning & K-12 Education (EDU): SB 6222 Students/surplus technology
-Sign up to testify:
-
-#### 52 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Jason Golec - [Issaquah School District](/org/issaquah_school_district/)
 * Oliver Jungles
 * Sachi Seno
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Heather Morris
 
 #### 0 ❓ - Other

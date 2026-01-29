@@ -89,7 +89,7 @@
 
 ### [HB 2314](/bill/2025-26/hb/2314/) - Concerning dental care services at residential habilitation centers.   ❓1
 
-### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍1  
 * 👍💵 Chloe Merino
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
@@ -101,6 +101,14 @@
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 * 👎💵 Kimberly Mosolf
+
+### [HB 2415](/bill/2025-26/hb/2415/) - DSHS unexpected fatalities 👍1  
+
+### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍2  
+* 👍💵 Rachael Seevers
+* 👍💵 Rachael Seevers
+
+### [HB 2595](/bill/2025-26/hb/2595/) - Collateral attacks/criminal 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
@@ -139,19 +147,21 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
 * 👍💵 Jenn Henderson
 * 👍💵 Kimberly Mosolf
+
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+
+## [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
-* 👍💵 Jenn Henderson
-* 👍💵 Kimberly Mosolf
+### [SB 6286](/bill/2023-24/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

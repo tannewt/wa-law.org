@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6027 Affordable housing funding
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6027 Affordable housing funding
 #### 502 👍 - Pro
 Testifying:

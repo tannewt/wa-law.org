@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Environment, Energy & Technology (ENET): SB 5932 Alternative jet fuel
-Sign up to testify:
-
-#### 169 👍 - Pro
+#### 205 👍 - Pro
 Testifying:
 * 💵Dave Warren - Twelve Benefit Corp
 * Derek Phelps - Twelve Benefit Corp
 * Don Myers - Deputy Mayor, City of Moses Lake
 * Don Myers - Deputy Mayor, City of Moses Lake
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 

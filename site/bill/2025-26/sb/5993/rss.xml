@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5993/</link>
 		<description>Updates about SB 5993</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 19:15:31 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -190,6 +190,13 @@
 			<pubDate>Fri, 23 Jan 2026 19:15:31 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=interest%20charges</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

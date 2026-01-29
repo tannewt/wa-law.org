@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Appropriations (APP): HB 2403 Sex offenders/registration
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2403 Sex offenders/registration
 #### 36 👍 - Pro
 Testifying:

@@ -8,13 +8,13 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Labor & Workplace Standards (LAWS): HB 2563 Unemployment comp. notices
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Brendon Tukey - Office of Administrative Hearings
 * Mike Wark - Office of Administrative Hearings
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 
 #### 0 ❓ - Other

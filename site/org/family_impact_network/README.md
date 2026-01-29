@@ -14,6 +14,11 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 * 👎 Sheila Morley
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders 👍1  
+* 👍 Shannon Selland
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍2  
 
 ### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍2  
@@ -42,13 +47,16 @@
 
 ### [SB 5979](/bill/2025-26/sb/5979/) - Dependency/substance abuse 👍1  
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎 Sheila Morley
+
+## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
+* 👍 Shannon Selland
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.  👎1 
-* 👎 Sheila Morley
+### [SB 6308](/bill/2023-24/sb/6308/) - Child shelter care orders 👍1  
+* 👍 Shannon Selland
 
 ### [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 

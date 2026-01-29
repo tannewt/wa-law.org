@@ -26,6 +26,9 @@
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. 👍1  
 * 👍 Amanda Wallner
 
+### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref. 👍1  
+* 👍 Joe Schiessl
+
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  

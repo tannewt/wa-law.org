@@ -117,6 +117,9 @@
 ### [HB 1289](/bill/2025-26/hb/1289/) - Public school survey info.   ❓1
 * ❓💵 Nasue Nishida
 
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+* 👍💵 Nasue Nishida
+
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍5  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
@@ -360,7 +363,7 @@
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
@@ -398,6 +401,58 @@
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍2  
+
+### [HB 2401](/bill/2025-26/hb/2401/) - Boys and men commission 👍1  
+
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2440](/bill/2025-26/hb/2440/) - Education ombuds records 👍1  
+
+### [HB 2458](/bill/2025-26/hb/2458/) - College grant/credential prg 👍1  
+
+### [HB 2459](/bill/2025-26/hb/2459/) - Schools outside UGAs 👍1  
+
+### [HB 2470](/bill/2025-26/hb/2470/) - On-base school construction 👍1  
+
+### [HB 2471](/bill/2025-26/hb/2471/) - Collective bargaining 👍1  
+
+### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures 👍1  
+
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
+
+### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍1  
+
+### [HB 2513](/bill/2025-26/hb/2513/) - Plumbing contractors 👍1  
+
+### [HB 2524](/bill/2025-26/hb/2524/) - Security guards board 👍1  
+
+### [HB 2534](/bill/2025-26/hb/2534/) - Military families/education   ❓1
+* ❓ Jared Mason-Gere
+
+### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
+
+### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
+
+### [HB 2551](/bill/2025-26/hb/2551/) - School district solvency 👍1  
+
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 
+
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+
+### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍1  
+
+### [HB 2593](/bill/2025-26/hb/2593/) - School district accounting  👎2 
+* 👎💵 Julie Salvi
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
+
+### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -580,6 +635,8 @@
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+
+### [SB 5346](/bill/2025-26/sb/5346/) - Student mobile device use 👍1  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍2  
 * 👍💵 Simone Boe
@@ -791,7 +848,7 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5969](/bill/2025-26/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans. 👍1  
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1  
 * 👍💵 Nasue Nishida
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
@@ -815,6 +872,50 @@
 * 👎💵 Julie Salvi
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+
+### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system   ❓1
+* ❓💵 Simone Boe
+
+### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services 👍1  
+
+### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining 👍1  
+
+### [SB 6125](/bill/2025-26/sb/6125/) - School stabilization funding 👍2  
+* 👍💵 Julie Salvi
+
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+
+### [SB 6152](/bill/2025-26/sb/6152/) - Workers' comp./PTs & OTs 👍1  
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
+
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+
+### [SB 6192](/bill/2025-26/sb/6192/) - Reading and math instruction  👎3 
+* 👎💵 Nasue Nishida
+
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+
+### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
+
+### [SB 6247](/bill/2025-26/sb/6247/) - School financial management   ❓1
+* ❓💵 Julie Salvi
+
+### [SB 6255](/bill/2025-26/sb/6255/) - Poverty reduction task force 👍1  
+
+### [SB 6259](/bill/2025-26/sb/6259/) - Higher ed./damage by student  👎1 
+
+### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎2 
+
+### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍1  
+
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍1  
+
+### [SB 6320](/bill/2025-26/sb/6320/) - Alternative learning  👎1 
+* 👎💵 Julie Salvi
+
+### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
+* 👍💵 Simone Boe
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

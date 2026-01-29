@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 2631 Agency customer service
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Jordan See - Qualtrics
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Jesse Jones - Your Washington, Office of the Governor
+* Rachel Murata - Your Washington, Office of the Governor

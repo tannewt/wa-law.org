@@ -20,11 +20,13 @@
 
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
-## [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail  👎1 
+### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail  👎1 
+
+## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 
 ## 2023-24
 
-### [SB 5976](/bill/2023-24/sb/5976/) - Commercial electronic mail  👎1 
+### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎1 
 
 ### [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍2  
 * 👍 Christina Henry

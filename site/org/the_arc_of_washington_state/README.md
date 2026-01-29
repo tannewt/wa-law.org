@@ -36,11 +36,14 @@
 ### [HB 2314](/bill/2025-26/hb/2314/) - Concerning dental care services at residential habilitation centers. 👍1  ❓1
 * ❓💵 Stacy Dym
 
-### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍1  
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member. 👍1  
 
 ### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
+* 👍💵 Stacy Dym
+
+### [HB 2415](/bill/2025-26/hb/2415/) - DSHS unexpected fatalities 👍2  
 * 👍💵 Stacy Dym
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
@@ -70,11 +73,15 @@
 
 ### [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
 
-## [SB 6063](/bill/2025-26/sb/6063/) - DSHS terminology 👍1  
+### [SB 6063](/bill/2025-26/sb/6063/) - DSHS terminology 👍1  
+
+### [SB 6163](/bill/2025-26/sb/6163/) - DD services waiver/budget 👍1  
+
+## [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
 
 ## 2023-24
 
-### [SB 6063](/bill/2023-24/sb/6063/) - DSHS terminology 👍1  
+### [SB 6268](/bill/2023-24/sb/6268/) - Special ed. complaint record 👍1  
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 

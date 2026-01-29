@@ -70,6 +70,9 @@
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 * 👍 Andrew Villeneuve
 
+### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
+* 👍 Cassie Clayton
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍4  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
@@ -129,13 +132,18 @@
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍 Andrew Villeneuve
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 * 👍 Seth Boun
+
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+
+## [SB 6101](/bill/2025-26/sb/6101/) - Coroner appointment 👍1  
+* 👍 Cassie Clayton
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
-* 👍 Seth Boun
+### [SB 6101](/bill/2023-24/sb/6101/) - Coroner appointment 👍1  
+* 👍 Cassie Clayton
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6261/</link>
 		<description>Updates about SB 6261</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 09:57:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 09:02:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,7 +151,7 @@
 			<guid isPermaLink="false">testifier/Maria/Dispenza/2026-01-25 01:36:53</guid>
 		</item>
 		<item>
-			<title>❓Ivana Rotari - Student</title>
+			<title>❓Ivana Rotari - America</title>
 			<description>Ivana Rotari signed up to testify Other.</description>
 			<pubDate>Sun, 25 Jan 2026 10:16:52 GMT</pubDate>
 			<category>testifier</category>
@@ -261,6 +261,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sarah/Garriott/2026-01-27 09:57:57</guid>
+		</item>
+		<item>
+			<title>👎Eric Pratt - America</title>
+			<description>Eric Pratt signed up to testify Con. They are signed up to represent America.</description>
+			<pubDate>Tue, 27 Jan 2026 10:44:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2026-01-27 10:44:39</guid>
+		</item>
+		<item>
+			<title>👎Michael Nehring - America</title>
+			<description>Michael Nehring signed up to testify Con.</description>
+			<pubDate>Wed, 28 Jan 2026 08:33:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Nehring/2026-01-28 08:33:58</guid>
+		</item>
+		<item>
+			<title>👎Imelda Arellano - America</title>
+			<description>Imelda Arellano signed up to testify Con.</description>
+			<pubDate>Wed, 28 Jan 2026 09:02:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Imelda/Arellano/2026-01-28 09:02:27</guid>
 		</item>
 	</channel>
 </rss>

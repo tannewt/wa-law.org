@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 2460 Vacancies in partisan office
-Sign up to testify:
-
-#### 74 👍 - Pro
+#### 189 👍 - Pro
 
 #### 2 👎 - Con
 

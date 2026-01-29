@@ -32,8 +32,11 @@
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices  👎1 
 * 👎💵 Brad Tower
 
-### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission.  👎1 
+### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission  👎1 
 * 👎💵 Brad Tower
+
+### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities   ❓1
+* ❓💵 Brad Tower
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 

@@ -225,6 +225,26 @@
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation  👎1 
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎1 
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎1 
+
+### [HB 2452](/bill/2025-26/hb/2452/) - Rent increase notice service 👍1  
+
+### [HB 2458](/bill/2025-26/hb/2458/) - College grant/credential prg 👍1  
+
+### [HB 2459](/bill/2025-26/hb/2459/) - Schools outside UGAs   ❓1
+* ❓💵 Bill Stauffacher
+
+### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work  👎1 
+* 👎💵 Bill Stauffacher
+
+### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍1  
+
+### [HB 2528](/bill/2025-26/hb/2528/) - Real estate excise taxes/GMA  👎1 
+
+### [HB 2605](/bill/2025-26/hb/2605/) - Fibrous silicate materials 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
@@ -426,15 +446,40 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
 * 👍💵 Andrea Smiley
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍2  
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍2  
 * 👍💵 Andrea Smiley
 * 👍💵 Bill Stauffacher
+
+### [SB 6075](/bill/2025-26/sb/6075/) - Habitat mitigation grants 👍1  
+
+### [SB 6077](/bill/2025-26/sb/6077/) - Property assessment appeals   ❓1
+* ❓💵 Brent Ludeman
+
+### [SB 6096](/bill/2025-26/sb/6096/) - Delayed utility conn. fees 👍1  
+* 👍💵 Andrea Smiley
+
+### [SB 6114](/bill/2025-26/sb/6114/) - Excise tax/fixture defined  👎1 
+* 👎💵 Brent Ludeman
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes  👎1 
+
+### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA  👎1 
+
+### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
+
+### [SB 6234](/bill/2025-26/sb/6234/) - Sewage grinder pumps 👍1  
+
+### [SB 6274](/bill/2025-26/sb/6274/) - Street standards 👍1  
+* 👍💵 Andrea Smiley
+
+### [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface  👎1 
+* 👎💵 Andrea Smiley
+
+## [SB 6291](/bill/2025-26/sb/6291/) - On-site wastewater systems 👍1  
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍2  
-* 👍💵 Andrea Smiley
-* 👍💵 Bill Stauffacher
+### [SB 6291](/bill/2023-24/sb/6291/) - On-site wastewater systems 👍1  
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

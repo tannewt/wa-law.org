@@ -24,6 +24,11 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎1 
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2447](/bill/2025-26/hb/2447/) - State shark 👍1  
+* 👍💵 Peter Steelquist
+
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
@@ -40,11 +45,15 @@
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍2  
 * 👍💵 Peter Steelquist
 
-## [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
+
+## [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍1  
 
 ## 2023-24
 
-### [SB 5975](/bill/2023-24/sb/5975/) - Safe cookware  👎1 
+### [SB 6124](/bill/2023-24/sb/6124/) - Appliance afford. index 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍6  
 * 👍💵 Peter Steelquist

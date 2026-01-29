@@ -10,6 +10,15 @@
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/02/03/lizs-loveletter-back-at-the-capitol-for-the-2025-session/#:~:text=SB%205519)
 
 ## Meetings
+### Wed 02/04 08:00 AM - Environment, Energy & Technology (ENET): SB 5519 Ocean vessels/environment
+Sign up to testify:
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/07 10:30 AM - Environment, Energy & Technology (ENET): SB 5519 Ocean vessels/environment
 #### 416 👍 - Pro
 Testifying:

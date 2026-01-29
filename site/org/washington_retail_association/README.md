@@ -192,7 +192,7 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
 
@@ -209,6 +209,19 @@
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 * ❓💵 Crystal Leatherman
+
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎1 
+* 👎💵 Crystal Leatherman
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎1 
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎1 
+* 👎💵 Crystal Leatherman
+
+### [HB 2483](/bill/2025-26/hb/2483/) - Data broker registry  👎1 
+* 👎💵 Crystal Leatherman
+
+### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -311,17 +324,34 @@
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
 * 👍💵 Crystal Leatherman
 
+### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
+* 👍💵 Crystal Leatherman
+
 ### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots   ❓1
 * ❓💵 Crystal Leatherman
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
 * ❓💵 Crystal Leatherman
 
-## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+
+### [SB 6147](/bill/2025-26/sb/6147/) - Grocery estab. closures  👎1 
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 
+* 👎💵 Amber Carter
+
+### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎1 
+
+### [SB 6230](/bill/2025-26/sb/6230/) - Cash transactions/pennies 👍1  
+* 👍💵 Amber Carter
+
+## [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing  👎1 
+* 👎💵 Crystal Leatherman
 
 ## 2023-24
 
-### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
+### [SB 6312](/bill/2023-24/sb/6312/) - Retail pricing  👎1 
+* 👎💵 Crystal Leatherman
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

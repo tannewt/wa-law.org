@@ -83,6 +83,13 @@
 ### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
 * 👍 Nick Leonti
 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+* 👍 John Flanagan
+
+### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref. 👍1  
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
@@ -146,13 +153,19 @@
 ### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
 * 👍 John Flanagan
 
-## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 * 👍 Fred Felleman
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
+* 👍 John Flanagan
+
+## [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants   ❓1
+* ❓ John Flanagan
 
 ## 2023-24
 
-### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
-* 👍 Fred Felleman
+### [SB 6240](/bill/2023-24/sb/6240/) - Aviation impacts grants   ❓1
+* ❓ John Flanagan
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

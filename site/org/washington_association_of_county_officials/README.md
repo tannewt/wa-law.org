@@ -12,11 +12,16 @@
 ### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access   ❓1
 * ❓💵 Timothy Grisham
 
-## [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
+### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
+
+### [SB 6101](/bill/2025-26/sb/6101/) - Coroner appointment  👎1 
+* 👎💵 Timothy Grisham
+
+## [SB 6130](/bill/2025-26/sb/6130/) - National voter reg. day 👍1  
 
 ## 2023-24
 
-### [SB 5089](/bill/2023-24/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
+### [SB 6130](/bill/2023-24/sb/6130/) - National voter reg. day 👍1  
 
 ### [HB 1205](/bill/2023-24/hb/1205/) - Service by pub./dependency 👍1  
 

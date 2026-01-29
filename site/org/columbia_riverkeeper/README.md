@@ -16,6 +16,10 @@
 
 ### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects.  👎1 
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref.  👎1 
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
@@ -23,11 +27,13 @@
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎💵 James Moschella
 
-## [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts  👎1 
+### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts  👎1 
+
+## [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 
 ## 2023-24
 
-### [SB 6004](/bill/2023-24/sb/6004/) - Electric/public contracts  👎1 
+### [SB 6119](/bill/2023-24/sb/6119/) - Tires/6PPD and substitutes 👍1  
 
 ### [HB 1981](/bill/2023-24/hb/1981/) - Incentivizing clean nuclear energy manufacturing through preferential business and occupation tax rates.  👎1 
 

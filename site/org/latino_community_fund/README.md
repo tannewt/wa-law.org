@@ -10,15 +10,22 @@
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+* 👍💵 Giovanni Severino
+
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
-## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
+
+## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
+* 👎💵 Jake Garcia
 
 ## 2023-24
 
-### [SB 5351](/bill/2023-24/sb/5351/) - Dental insurance practices  👎1 
+### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎1 
+* 👎💵 Jake Garcia
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 * 👍💵 Giovanni Severino

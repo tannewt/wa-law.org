@@ -83,7 +83,7 @@
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 * 👍💵 Marcy Bowers
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2240](/bill/2025-26/hb/2240/) - Concerning the delivery, execution, acceptance, and provisions of individual storage space rental agreements and modifying the use of individual storage spaces after notice of termination or nonrenewal of rental agreements.  👎1 
 
@@ -98,6 +98,12 @@
 
 ### [HB 2364](/bill/2025-26/hb/2364/) - Poverty reduction task force 👍1  
 * 👍💵 Marcy Bowers
+
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍2  
 
@@ -178,13 +184,19 @@
 
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
+
+## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
+* 👎 Molly Gallagher
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎2 
+* 👎 Molly Gallagher
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

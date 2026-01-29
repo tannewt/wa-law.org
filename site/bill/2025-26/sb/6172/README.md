@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Environment, Energy & Technology (ENET): SB 6172 Coal-fired electric plant
-Sign up to testify:
-
-#### 473 👍 - Pro
+#### 484 👍 - Pro
 Testifying:
 * Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 201 👎 - Con
+#### 239 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Sophia Steele Conley - WSPA
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Nicolas Garcia - WPUDA

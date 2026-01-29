@@ -23,7 +23,7 @@
 * ❓ Jason Peterson
 * ❓ Jason Peterson
 
-### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍2  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍2  
 
 ### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
 

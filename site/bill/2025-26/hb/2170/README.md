@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2170 Ecosystem services
-Sign up to testify:
-
-#### 1277 👍 - Pro
+#### 1296 👍 - Pro
 Testifying:
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Kate Dean - Office of the Commissioner of Public Lands, Department of Natural Resources
@@ -25,7 +23,7 @@ Testifying:
 * Ben Avery
 * Daniel Harm - [Center for Responsible Forestry](/org/center_for_responsible_forestry/)
 
-#### 801 👎 - Con
+#### 838 👎 - Con
 Testifying:
 * Mark Ozias - Clallam County
 * Amy Cruver - representing Pierce County 3rd Council District

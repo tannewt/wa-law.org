@@ -136,6 +136,24 @@
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
 
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+* 👍💵 Carly Michiels
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+* 👍💵 James Cockburn
+
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin.   ❓1
+* ❓ Eric ffitch
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities   ❓1
+* ❓💵 Carly Michiels
+
+### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  ❓1
@@ -229,6 +247,8 @@
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 * 👍 James James Cockburn
 
+### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel 👍1  
+
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
 * 👍 Eric ffitch
 
@@ -246,11 +266,29 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 * 👍 Eric ffitch
 
-## [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+
+### [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍1  
+
+### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+### [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍1  
+
+### [SB 6149](/bill/2025-26/sb/6149/) - Public facilities funding 👍1  
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities   ❓1
+* ❓💵 Carly Michiels
+
+### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants   ❓1
+* ❓ Eric ffitch
+
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+* 👍 Eric ffitch
 
 ## 2023-24
 
-### [SB 6061](/bill/2023-24/sb/6061/) - Tourism assessment 👍1  
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
+* 👍 Eric ffitch
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

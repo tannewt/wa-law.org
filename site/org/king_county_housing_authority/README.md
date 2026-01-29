@@ -7,11 +7,15 @@
 * 👍 Dan Watson
 * 👍 Tim Walter
 
-## [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
+### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
+## [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
 ## 2023-24
 
-### [HB 2338](/bill/2023-24/hb/2338/) - Community weatherization 👍1  
+### [SB 6223](/bill/2023-24/sb/6223/) - Community weatherization 👍1  
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
 

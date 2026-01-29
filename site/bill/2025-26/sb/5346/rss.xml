@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5346/</link>
 		<description>Updates about SB 5346</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 09:45:19 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 12:58:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,7 +52,7 @@
 			<guid isPermaLink="false">testifier/Danica/Noble/2026-01-23 12:48:10</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - NFIB</title>
+			<title>👎John Axtell - Sherman Elementary PTSA</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Fri, 23 Jan 2026 12:59:14 GMT</pubDate>
 			<category>testifier</category>
@@ -124,7 +124,7 @@
 			<guid isPermaLink="false">testifier/Eric/Chung/2026-01-27 04:36:55</guid>
 		</item>
 		<item>
-			<title>👎Julie Chea - NFIB</title>
+			<title>👎Julie Chea - Sherman Elementary PTSA</title>
 			<description>Julie Chea signed up to testify Con.</description>
 			<pubDate>Tue, 27 Jan 2026 08:35:37 GMT</pubDate>
 			<category>testifier</category>
@@ -186,6 +186,70 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/MIsha/Cherniske/2026-01-27 09:45:19</guid>
+		</item>
+		<item>
+			<title>👍Devan Harbani - NFIB</title>
+			<description>Devan Harbani signed up to testify Pro.</description>
+			<pubDate>Wed, 28 Jan 2026 03:52:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Devan/Harbani/2026-01-28 03:52:08</guid>
+		</item>
+		<item>
+			<title>❓Dr. Russ Payne - Office of Superintendent of Public Instruction</title>
+			<description>Dr. Russ Payne signed up to testify Other.</description>
+			<pubDate>Wed, 28 Jan 2026 07:29:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dr. Russ/Payne/2026-01-28 07:29:28</guid>
+		</item>
+		<item>
+			<title>❓Mark Lovre - Teacher</title>
+			<description>Mark Lovre signed up to testify Other. They are signed up to represent Teacher.</description>
+			<pubDate>Wed, 28 Jan 2026 07:29:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mark/Lovre/2026-01-28 07:29:28</guid>
+		</item>
+		<item>
+			<title>❓Mo Canady - National Association of School Resource Officers</title>
+			<description>Mo Canady signed up to testify Other. They are signed up to represent National Association of School Resource Officers.</description>
+			<pubDate>Wed, 28 Jan 2026 07:29:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mo/Canady/2026-01-28 07:29:28</guid>
+		</item>
+		<item>
+			<title>👍Connor Hui - NFIB</title>
+			<description>Connor Hui signed up to testify Pro.</description>
+			<pubDate>Wed, 28 Jan 2026 08:16:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Connor/Hui/2026-01-28 08:16:23</guid>
+		</item>
+		<item>
+			<title>👍Devan Harbani - NFIB</title>
+			<description>Devan Harbani signed up to testify Pro.</description>
+			<pubDate>Wed, 28 Jan 2026 08:55:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Devan/Harbani/2026-01-28 08:55:38</guid>
+		</item>
+		<item>
+			<title>👍Takahiro Yoshida - NFIB</title>
+			<description>Takahiro Yoshida signed up to testify Pro.</description>
+			<pubDate>Wed, 28 Jan 2026 08:55:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Takahiro/Yoshida/2026-01-28 08:55:38</guid>
+		</item>
+		<item>
+			<title>👍David Jackson - Sherman Elementary PTSA</title>
+			<description>David Jackson signed up to testify Pro. They are signed up to represent Sherman Elementary PTSA.</description>
+			<pubDate>Wed, 28 Jan 2026 12:58:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Jackson/2026-01-28 12:58:13</guid>
 		</item>
 	</channel>
 </rss>

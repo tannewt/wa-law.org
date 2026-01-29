@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2540 EMT recertification
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Nicholas Gullickson - Washington State Council of Firefighters
 
 #### 0 👎 - Con
 

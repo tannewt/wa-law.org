@@ -12,6 +12,15 @@
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205969)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5969 IEP transition plans
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5969 IEP transition plans
 #### 10 👍 - Pro
 Testifying:

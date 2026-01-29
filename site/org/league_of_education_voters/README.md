@@ -32,6 +32,16 @@
 
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍2  
+
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍2  
+
+### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍2  
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍3  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
@@ -78,11 +88,18 @@
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 
-## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+### [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+
+### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
+* 👍 Arik Korman
+
+### [SB 6206](/bill/2025-26/sb/6206/) - First responders/child care 👍1  
+
+## [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
 
 ## 2023-24
 
-### [SB 6052](/bill/2023-24/sb/6052/) - Digital school transcripts 👍1  
+### [SB 6268](/bill/2023-24/sb/6268/) - Special ed. complaint record 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎2 
 

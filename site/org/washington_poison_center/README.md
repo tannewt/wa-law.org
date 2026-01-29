@@ -13,17 +13,29 @@
 ### [HB 2168](/bill/2025-26/hb/2168/) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. 👍1  
 * 👍 MD, Scott Phillips
 
+### [HB 2291](/bill/2025-26/hb/2291/) - Kratom   ❓1
+* ❓ Dr. Jimmy Leonard
+
+### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides   ❓1
+* ❓ Dr. Scott Phillips
+
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale   ❓1
+* ❓ Dr. Jimmy Leonard
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  
 
-## [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
+### [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 * 👍 MD, Scott Phillips
+
+## [SB 6287](/bill/2025-26/sb/6287/) - Kratom products 👍1  
+* 👍 Dr. Jimmy Leonard
 
 ## 2023-24
 
-### [SB 5933](/bill/2023-24/sb/5933/) - Overdose mapping information 👍1  
-* 👍 MD, Scott Phillips
+### [SB 6287](/bill/2023-24/sb/6287/) - Kratom products 👍1  
+* 👍 Dr. Jimmy Leonard
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Dr. Scott Phillips

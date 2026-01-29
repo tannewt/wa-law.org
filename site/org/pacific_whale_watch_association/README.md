@@ -6,6 +6,8 @@
 ### [HB 2131](/bill/2025-26/hb/2131/) - Providing for voluntary donations to the sea lion predation control account at the time of vessel registration for the purpose of salmon level preservation.  👎1 
 * 👎 Erin Gless
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
 ## [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
 ## 2023-24

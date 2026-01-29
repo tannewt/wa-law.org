@@ -34,6 +34,9 @@
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 
 * 👎 Josh McDonald
 
+### [HB 2536](/bill/2025-26/hb/2536/) - Wineries/restaurant license 👍1  
+* 👍 Josh McDonald
+
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption   ❓2
 * ❓ Josh McDonald
 * ❓ Josh McDonald

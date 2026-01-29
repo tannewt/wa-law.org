@@ -70,6 +70,14 @@
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍4  
 
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍2  
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍4  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍4  
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍4  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍6  
@@ -129,18 +137,22 @@
 
 ### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍2  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍3  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
 * 👍💵 Kristin Ang
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍3  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍3  
+
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍2  
+
+## [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍4  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍3  
+### [SB 6171](/bill/2023-24/sb/6171/) - Large energy use facilities 👍4  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

@@ -9,6 +9,9 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
+### [HB 1295](/bill/2025-26/hb/1295/) - Reading and writing literacy 👍1  
+* 👍 Gena Vincent
+
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎1 
 * 👎 Joseph Romero
 

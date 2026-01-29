@@ -10,15 +10,17 @@
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2558 Mental health sentencing alt
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Breck Lebegue MD MPH - WA State Psychiatric Association
 * Jana Robison
+* ANNA KLEIN - [Clark County](/org/clark_county/)
 
-#### 16 👎 - Con
+#### 106 👎 - Con
 Testifying:
 * Kari Reardon - WACDL/WDA
 * Katherine Hurley - King County Dept of Public Defense
+* Rebecca Vasquez - Snohomish County Prosecutor's Office
 
 #### 1 ❓ - Other
 Testifying:

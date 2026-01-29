@@ -13,6 +13,14 @@
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 
+### [HB 2447](/bill/2025-26/hb/2447/) - State shark 👍1  
+* 👍💵 Anthony Hemstad
+
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎2 
+* 👎 Rebecca Deming
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
@@ -26,10 +34,16 @@
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+
+## [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants 👍2  
+* 👍 Rebecca Deming
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6240](/bill/2023-24/sb/6240/) - Aviation impacts grants 👍2  
+* 👍 Rebecca Deming
 
 ## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1

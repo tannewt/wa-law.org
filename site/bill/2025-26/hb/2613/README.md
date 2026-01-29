@@ -14,8 +14,16 @@ Sign up to testify:
 Testifying:
 * Jenny Cravens - Self
 
-#### 43 👎 - Con
+#### 96 👎 - Con
 Testifying:
 * Anne Henriksen - Malley's Compounding Pharmacy - Richland, WA
+* Dawn Ipsen - Washington State Pharmacy Association
+* Jenny Arnold - Washington State Pharmacy Association
+* Richard Molitor
+* JP Guhman - [Multicare Health System](/org/multicare_health_system/)
+* Dawn Ipsen - WSPA
+* Richard Molitor
+* Richard Molitor
+* Erika Anderson
 
 #### 0 ❓ - Other

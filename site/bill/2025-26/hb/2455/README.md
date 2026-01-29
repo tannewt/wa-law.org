@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2455 Foster care housing pilot
-Sign up to testify:
-
-#### 289 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * Gisella Gonzales - Team children
 * Lee Haas - Youth-Action Coalition/TeamChild
@@ -24,7 +22,8 @@ Testifying:
 * Courtney Hageman
 * Sierra Rogers
 * 💵Alex Hur - Communities in Schools of Washington
+* Corrina Chatterton
 
-#### 105 👎 - Con
+#### 212 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

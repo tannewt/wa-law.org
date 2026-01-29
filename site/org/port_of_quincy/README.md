@@ -6,15 +6,24 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities  👎1 ❓1
 * ❓💵 Patrick Boss
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎2 
+* 👎💵 Patrick Boss
+
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 
-## [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 ❓1
+### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 ❓1
 * ❓💵 Patrick Boss
+
+### [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍1  
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎3 
+* 👎💵 Patrick Boss
+
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎2 
 
 ## 2023-24
 
-### [SB 5982](/bill/2023-24/sb/5982/) - Consumer-owned utilities  👎1 ❓1
-* ❓💵 Patrick Boss
+### [SB 6231](/bill/2023-24/sb/6231/) - Data center equipment/taxes  👎2 
 
 ### [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 

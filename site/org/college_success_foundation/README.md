@@ -7,6 +7,8 @@
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 
+### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍1  
+
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2

@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6312 Retail pricing
-Sign up to testify:
-
-#### 74 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Jennifer Edwards
 * Ryan Stokes
 * 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 * 💵Dustin Lambro - UFCW 3000
+* Jonathan Pincus - The Nexus of Privacy
 * Maya Morales - WA People's Privacy
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Marian Dacca - Northwest Grocery Retail Association

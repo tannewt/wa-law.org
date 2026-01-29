@@ -49,6 +49,10 @@
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍3  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  ❓1
 * ❓ Hollianne Monson
 * 👍 Cynthia Green
@@ -81,13 +85,16 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
 * 👍 Dan Wise
+
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍2  
+
+## [SB 6220](/bill/2025-26/sb/6220/) - Nonprofit housing providers 👍2  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
-* 👍 Dan Wise
+### [SB 6220](/bill/2023-24/sb/6220/) - Nonprofit housing providers 👍2  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

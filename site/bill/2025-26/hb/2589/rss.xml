@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2589/</link>
 		<description>Updates about HB 2589</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 04:43:17 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 07:52:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jackson/Pincus/2026-01-27 04:43:17</guid>
+		</item>
+		<item>
+			<title>👍Janine Hasson - Seattle regional office of American Jewish Committee</title>
+			<description>Janine Hasson signed up to testify Pro.</description>
+			<pubDate>Wed, 28 Jan 2026 07:52:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Janine/Hasson/2026-01-28 07:52:57</guid>
 		</item>
 	</channel>
 </rss>

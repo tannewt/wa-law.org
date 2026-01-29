@@ -10,8 +10,8 @@
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6313 Capitol centennial account
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 21 👎 - Con
 
 #### 0 ❓ - Other

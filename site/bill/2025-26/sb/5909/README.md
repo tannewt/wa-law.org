@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5909 Undergraduate programs
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5909 Undergraduate programs
 #### 104 👍 - Pro
 Testifying:

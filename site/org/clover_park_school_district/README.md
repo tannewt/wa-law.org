@@ -8,6 +8,9 @@
 
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
 
+### [HB 2470](/bill/2025-26/hb/2470/) - On-base school construction 👍1  
+* 👍 Charlie Brown
+
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  

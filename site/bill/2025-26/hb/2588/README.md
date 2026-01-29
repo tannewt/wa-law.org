@@ -10,12 +10,12 @@
 ### Fri 01/30 10:30 AM - Local Government (LG): HB 2588 County ferry districts
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Councilmember Jani Hitchen - Pierce County Council
 * Elizabeth Kosa - Whatcom County Public Works
 
-#### 41 👎 - Con
+#### 473 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

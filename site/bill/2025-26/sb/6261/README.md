@@ -11,13 +11,11 @@
 
 ## Meetings
 ### Wed 01/28 10:30 AM - Early Learning & K-12 Education (EDU): SB 6261 School enroll. declaration
-Sign up to testify:
-
-#### 6 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Chris Reykdal - [Superintendent of Public Instruction](/org/superintendent_of_public_instruction/)
 
-#### 2182 👎 - Con
+#### 2595 👎 - Con
 Testifying:
 * Raquel Mendoza
 * Alexiah-Renee Burgos
@@ -47,6 +45,9 @@ Testifying:
 * Nikki Curnutt
 * Janet He
 * Sarah Garriott
+* Eric Pratt - America
+* Michael Nehring
+* Imelda Arellano
 
 #### 2 ❓ - Other
 Testifying:

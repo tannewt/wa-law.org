@@ -28,13 +28,16 @@
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions   ❓1
 * ❓ Shawn Merchant
 
-## [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration   ❓1
+### [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration   ❓1
 * ❓ Shawn Merchant
+
+## [SB 6086](/bill/2025-26/sb/6086/) - Judicial security   ❓1
+* ❓ Heather Hirotaka
 
 ## 2023-24
 
-### [SB 5580](/bill/2023-24/sb/5580/) - Corp. homeowner registration   ❓1
-* ❓ Shawn Merchant
+### [SB 6086](/bill/2023-24/sb/6086/) - Judicial security   ❓1
+* ❓ Heather Hirotaka
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 

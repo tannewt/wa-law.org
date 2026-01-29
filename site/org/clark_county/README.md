@@ -11,6 +11,11 @@
 
 ### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍1  
 
+### [HB 2558](/bill/2025-26/hb/2558/) - Mental health sentencing alt 👍1  
+* 👍 ANNA KLEIN
+
+### [HB 2566](/bill/2025-26/hb/2566/) - Local government procurement 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  

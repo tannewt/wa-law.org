@@ -19,6 +19,18 @@
 * 01/06/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 5974 — Centralizing Power Over Washington’s Sheriffs - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb5974-washington-sheriffs-under-attack/#:~:text=SB%205974%20Washington%20State%20Legislature)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5974 Local law enforcement
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 5 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Laurie Layne
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5974 Local law enforcement
 #### 1871 👍 - Pro
 Testifying:

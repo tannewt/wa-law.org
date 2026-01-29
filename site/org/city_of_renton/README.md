@@ -80,6 +80,10 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals   ❓1
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
@@ -136,11 +140,13 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+
+## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎2 
 * 👎 Katie Buchl-Morales

@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2624 Unsolicited real estate tx.
-Sign up to testify:
-
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Bill Clarke - [The Trust for Public Land](/org/the_trust_for_public_land/)
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)

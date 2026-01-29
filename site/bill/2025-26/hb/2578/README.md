@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2578 Fish and wildlife commission
-Sign up to testify:
-
-#### 25 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Chairman Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 * Councilmember Mel Tonasket - Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
-#### 616 👎 - Con
+#### 640 👎 - Con
 Testifying:
 * Nello Picinich - Coastal Conservation Association
 

@@ -10,7 +10,7 @@
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SB 6304 WSIB investing principles
 Sign up to testify:
 
-#### 833 👍 - Pro
+#### 1364 👍 - Pro
 Testifying:
 * Paula Lukaszek - State employee
 * Laila Saliba - Washington for Peace and Justice
@@ -21,7 +21,16 @@ Testifying:
 * 💵Joseph Lopez - [Church Council of Greater Seattle](/org/church_council_of_greater_seattle/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Helena Ribeiro - AFT 1789
+* 💵Jacqui Cain - AFT Washington
+* Kate Schneier
+* Martha Schmidt
+* Julianna Dauble - Renton Education Association
+* Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
+* Rachelle Martin - Thu
+* Ross Kirshenbaum
+* Ashley Fueston - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Deborah Nemens
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

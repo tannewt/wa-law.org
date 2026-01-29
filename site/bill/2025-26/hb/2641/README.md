@@ -16,15 +16,17 @@
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2641 Law enforcement hiring
 Sign up to testify:
 
-#### 1285 👍 - Pro
+#### 1524 👍 - Pro
 Testifying:
 * Genevieve Fain - I am testifying on behalf of myself and my community
 * Jan Nelson
+* Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 
-#### 642 👎 - Con
+#### 974 👎 - Con
 Testifying:
 * Shaun D’Sylva
 * Eric Lundberg
 * Eric Lundberg
+* Steve Strachan - WA Assoc Sheriffs & Police Chiefs
 
 #### 2 ❓ - Other

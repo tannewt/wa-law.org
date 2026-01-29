@@ -14,7 +14,7 @@
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5945 Persistent offenders
 Sign up to testify:
 
-#### 304 👍 - Pro
+#### 323 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Brian Flaherty - Law Office of Brian Flaherty
@@ -25,10 +25,16 @@ Testifying:
 * Katherine Daley - Seattle Clemency Project
 * Katherine Hurley - King County Public Defense
 * Randy Nunez - Washington State Commission on Hispanic Affairs
+* James Paulk - Just Us Solutions, LLC
 
-#### 422 👎 - Con
+#### 552 👎 - Con
 Testifying:
 * Christian Bianes-Delrosario
+* Tiffany Attrill - crime victim advocate
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Natasha Willson - crime victim advocate
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other
 

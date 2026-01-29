@@ -30,15 +30,17 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  ❓1
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  ❓1
 * ❓ Audrey Miller Garcia
 * 👍 Audrey Miller Garcia
+
+## [SB 6116](/bill/2025-26/sb/6116/) - Vapor products/tax   ❓1
+* ❓ Audrey Miller Garcia
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes 👍1  ❓1
+### [SB 6116](/bill/2023-24/sb/6116/) - Vapor products/tax   ❓1
 * ❓ Audrey Miller Garcia
-* 👍 Audrey Miller Garcia
 
 ### [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
 * 👍 Matt Helder

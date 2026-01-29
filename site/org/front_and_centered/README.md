@@ -47,6 +47,13 @@
 ### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist 👍1  
 * 👍💵 Guillermo Rogel
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities   ❓1
+* ❓ Cameron Steinback
+
+### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
@@ -79,13 +86,19 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Guillermo Rogel
 
-## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1
 * ❓💵 Guillermo Rogel
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities   ❓1
+* ❓💵 Guillermo Rogel
+
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍2  
+
+## [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants 👍1  
 
 ## 2023-24
 
-### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental   ❓1
-* ❓💵 Guillermo Rogel
+### [SB 6240](/bill/2023-24/sb/6240/) - Aviation impacts grants 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

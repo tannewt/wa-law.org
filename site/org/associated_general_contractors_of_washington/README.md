@@ -21,6 +21,9 @@
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
+* 👍💵 Christine Brewer
+
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
 * 👎💵 Christine Brewer
 
@@ -33,11 +36,13 @@
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 * 👎 Lauren Gubbe
 
-## [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments 👍1  
+### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments 👍1  
+
+## [SB 6180](/bill/2025-26/sb/6180/) - Occupational disease/heart  👎1 
 
 ## 2023-24
 
-### [SB 5927](/bill/2023-24/sb/5927/) - Workers' comp. adjustments 👍1  
+### [SB 6180](/bill/2023-24/sb/6180/) - Occupational disease/heart  👎1 
 
 ### [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎2 
 

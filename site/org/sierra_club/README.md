@@ -31,6 +31,16 @@
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+* 👍 Ben Avery
+
+### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍2  
+
+### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref.  👎1 
+* 👎 Kathleen M Saul
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program  👎1 
@@ -56,11 +66,18 @@
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts  👎1 
 * 👎 Kathleen M. Saul
 
-## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
+### [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍2  
+* 👍 Ben Avery
+
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+* 👍 Ben Avery
 
 ## 2023-24
 
-### [SB 6056](/bill/2023-24/sb/6056/) - Utility service vehicles  👎1 
+### [SB 6231](/bill/2023-24/sb/6231/) - Data center equipment/taxes 👍1  
+* 👍 Ben Avery
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Jesse Piedfort

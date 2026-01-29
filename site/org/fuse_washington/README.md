@@ -38,12 +38,12 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+## [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 * 👍 Jeff DeBray
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2023-24/sb/5974/) - Local law enforcement 👍1  
 * 👍 Jeff DeBray
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  

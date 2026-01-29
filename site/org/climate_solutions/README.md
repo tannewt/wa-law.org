@@ -96,6 +96,17 @@
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
 * 👍💵 Leah Missik
 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
+* 👎💵 Leah Missik
+
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+* 👍💵 Leah Missik
+
+### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
+* 👍💵 Leah Missik
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎2 
 * 👎💵 Leah Missik
 
@@ -168,13 +179,24 @@
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 
-## [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
+### [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
 * 👎💵 Leah Missik
+
+### [SB 6151](/bill/2025-26/sb/6151/) - Env. programs/fee accounts 👍1  
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
+* 👍💵 Leah Missik
+
+### [SB 6172](/bill/2025-26/sb/6172/) - Coal-fired electric plant 👍1  
+* 👍💵 Leah Missik
+
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  
+* 👍💵 Leah Missik
 
 ## 2023-24
 
-### [SB 6056](/bill/2023-24/sb/6056/) - Utility service vehicles  👎1 
-* 👎💵 Leah Missik
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍1  
+* 👍💵 Leah Missik
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik

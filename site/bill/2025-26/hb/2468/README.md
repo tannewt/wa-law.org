@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2468 DSHS terminology
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Angela Ramirez - Department of Social and Health Services
+* Bea Rector - Department of Social and Health Services
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

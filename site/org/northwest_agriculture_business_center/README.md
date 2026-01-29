@@ -4,13 +4,15 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Mike Peroni
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍2  
 * 👍 Mike Peroni
 * 👍 Mike Peroni
 
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
+
+### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍 Mike Peroni

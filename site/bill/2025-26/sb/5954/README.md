@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Ways & Means (WM): SB 5954 Vet. survivor tuition waiver
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5954 Vet. survivor tuition waiver
 #### 121 👍 - Pro
 Testifying:

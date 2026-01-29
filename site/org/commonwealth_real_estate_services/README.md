@@ -28,6 +28,8 @@
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences  👎1 
 * 👎💵 Brad Tower
 
+### [HB 2452](/bill/2025-26/hb/2452/) - Rent increase notice service 👍1  
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
 * 👎💵 Brad Tower
 
@@ -41,12 +43,15 @@
 
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants   ❓1
+### [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants   ❓1
+* ❓💵 Brad Tower
+
+## [SB 6153](/bill/2025-26/sb/6153/) - Senior independent housing   ❓1
 * ❓💵 Brad Tower
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants   ❓1
+### [SB 6153](/bill/2023-24/sb/6153/) - Senior independent housing   ❓1
 * ❓💵 Brad Tower
 
 ### [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees  👎2 

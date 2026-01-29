@@ -14,12 +14,12 @@
 ### Thu 01/29 08:00 AM - Education (ED): HB 2636 Public education reviews
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Emma Toyama
 * John Axtell
 * Jim Kowalkowski - Rural Education Center
 
-#### 574 👎 - Con
+#### 676 👎 - Con
 
 #### 0 ❓ - Other

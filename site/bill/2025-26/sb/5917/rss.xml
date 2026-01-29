@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5917 - Improving access to abortion medications.</title>
+		<title>SB 5917 - Abortion medications</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5917/</link>
 		<description>Updates about SB 5917</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 24 Jan 2026 00:33:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,6 +131,27 @@
 			<pubDate>Sat, 24 Jan 2026 00:33:10 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/01/23/town-hall-recap/#:~:text=SB%205917</guid>
+		</item>
+		<item>
+			<title>HS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/HS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

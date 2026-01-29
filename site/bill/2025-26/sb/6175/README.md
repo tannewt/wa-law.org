@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6175 Ticket sales
-Sign up to testify:
-
-#### 265 👍 - Pro
+#### 275 👍 - Pro
 Testifying:
 * Ron Gubitz - Music Artists Coalition
 * Jill Barnes - The Washington Center for the Performing Arts
@@ -29,14 +27,15 @@ Testifying:
 * David Touhey - International Association of Venue Managers
 * Josh LaBelle - [Seattle Theatre Group](/org/seattle_theatre_group/)
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Brian Young - Sports Fans Coalition
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Ian Lee - Ticket Policy Forum
 * Sean Auyash - StubHub
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * John Breyault - National Consumers League
 * Karen Hanan - ArtsWA (WA State Arts Commission)
+* Josh Stephens - Live Nation

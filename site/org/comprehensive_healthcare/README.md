@@ -5,6 +5,12 @@
 * 👍 Courtney Hesla
 * 👍 Courtney Hesla
 
+### [HB 2453](/bill/2025-26/hb/2453/) - Psychiatric pharmacists 👍5  
+* 👍 Laura Powers
+* 👍 Alan Kearns
+* 👍 Mark Bradshaw
+* 👍 Courtney Hesla
+
 ## [SB 5924](/bill/2025-26/sb/5924/) - Pharmacist prescriptive auth 👍1  
 
 ## 2023-24

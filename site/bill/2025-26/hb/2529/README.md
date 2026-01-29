@@ -8,11 +8,9 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2529 DCYF accountability board
-Sign up to testify:
+#### 4 👍 - Pro
 
-#### 2 👍 - Pro
-
-#### 84 👎 - Con
+#### 141 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -56,12 +56,15 @@
 ### [SB 5994](/bill/2025-26/sb/5994/) - Timber tax distributions 👍1  
 * 👍💵 Matt Doumit
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
+* 👍💵 Matt Doumit
+
+## [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
 * 👍💵 Matt Doumit
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp. 👍1  
+### [SB 6216](/bill/2023-24/sb/6216/) - Timber sale process 👍1  
 * 👍💵 Matt Doumit
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  

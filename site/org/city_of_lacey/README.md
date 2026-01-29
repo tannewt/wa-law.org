@@ -3,6 +3,9 @@
 
 ### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍1  
 
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+* 👎 Shannon Vincent
+
 ## [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 * 👎 sarah schelling
 

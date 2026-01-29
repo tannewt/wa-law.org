@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2512 Real estate/exclusive market
-Sign up to testify:
-
-#### 43 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Lucy Wood - Windermere
 * Nicole Bascomb-Green - Bascomb Real Estate Group
@@ -23,7 +21,7 @@ Testifying:
 * Adria Buchanan - Fair Housing Center of Washington
 * 💵Ken Short - AWB
 
-#### 181 👎 - Con
+#### 182 👎 - Con
 Testifying:
 * Rich Whitehill - Washington Realtor
 * Carol Wyda
@@ -37,4 +35,6 @@ Testifying:
 * Janelle Kaufman
 * Brandi Huff - Compass Washington/Seattle
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Chalia Stallings-Ala'ilima - Washington State Attorney General's Office

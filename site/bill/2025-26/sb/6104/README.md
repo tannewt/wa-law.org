@@ -10,10 +10,14 @@
 ### Thu 01/29 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6104 Agriculture impacts
 Sign up to testify:
 
-#### 20 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Dave Hedrick - Ferry Conservation District
+* 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potatoe and Onion Assoc.
 
-#### 1 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Yvonne Kraus - WA Wildlife and Recreation Coalition
+* Amanda Fox - Animal Research Initiative
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

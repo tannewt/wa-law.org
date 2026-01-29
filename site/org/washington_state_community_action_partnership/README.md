@@ -66,6 +66,12 @@
 * 👍 Jeff DeLuca
 * 👍💵 Linda Garcia
 
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+* 👍 Jeff DeLuca
+* 👍💵 Linda Garcia
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 
@@ -103,13 +109,26 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 
-## [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
+### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 * 👍 Jeff DeLuca
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍2  
+* 👍 Jeff DeLuca
+* 👍💵 Linda Garcia
+
+### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
+* 👍 Shay Stokes
+
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+* 👍💵 Linda Garcia
+
+## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+* 👍💵 Linda Garcia
 
 ## 2023-24
 
-### [SB 6003](/bill/2023-24/sb/6003/) - Capital budget, supplemental 👍1  
-* 👍 Jeff DeLuca
+### [SB 6231](/bill/2023-24/sb/6231/) - Data center equipment/taxes 👍1  
+* 👍💵 Linda Garcia
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 

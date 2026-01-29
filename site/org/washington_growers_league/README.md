@@ -11,6 +11,12 @@
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
 * ❓💵 Michael Gempler
 
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 
+* 👎💵 Michael Gempler
+
+### [HB 2471](/bill/2025-26/hb/2471/) - Collective bargaining  👎1 
+* 👎💵 Michael Gempler
+
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Michael Gempler
 

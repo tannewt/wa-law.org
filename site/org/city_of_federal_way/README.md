@@ -12,6 +12,8 @@
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 * 👍 Mayor Jim Ferrell
 
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+
 ## [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ## 2023-24

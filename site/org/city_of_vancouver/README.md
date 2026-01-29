@@ -28,6 +28,9 @@
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin.  👎1 
+* 👎 Patrick Quinton
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍 Ty Stober
 * 👍 Ty Stober
@@ -54,11 +57,15 @@
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 * 👍 Patrick Quinton
 
-## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+
+### [SB 6080](/bill/2025-26/sb/6080/) - Federal custody contracts 👍1  
+
+## [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
 ## 2023-24
 
-### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts 👍1  
+### [SB 6123](/bill/2023-24/sb/6123/) - Local gov. employees/PRA 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

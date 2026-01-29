@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2459 Schools outside UGAs
-Sign up to testify:
-
-#### 13 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Brian Buck - Lake Washington School District
 * Bill Hernandez - CFO, Tahoma School District

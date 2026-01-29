@@ -24,6 +24,9 @@
 
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area. 👍1  
 
+### [HB 2530](/bill/2025-26/hb/2530/) - Aquatics/sports PFD deadline 👍1  
+* 👍 Sylvana Niehuser
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
@@ -37,13 +40,16 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 * 👍💵 Paul Berendt
+
+## [SB 6189](/bill/2025-26/sb/6189/) - Aquatics/sports PFD deadline 👍1  
+* 👍 Sylvana Niehuser
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
-* 👍💵 Paul Berendt
+### [SB 6189](/bill/2023-24/sb/6189/) - Aquatics/sports PFD deadline 👍1  
+* 👍 Sylvana Niehuser
 
 ### [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍3  
 

@@ -124,6 +124,19 @@
 ### [HB 2388](/bill/2025-26/hb/2388/) - Distributed energy/ag. lands   ❓1
 * ❓💵 Bryce Yadon
 
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review  👎2 
+* 👎💵 Bryce Yadon
+* 👎💵 Bryce Yadon
+
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+* 👍💵 Bryce Yadon
+
+### [HB 2459](/bill/2025-26/hb/2459/) - Schools outside UGAs  👎1 
+* 👎💵 Bryce Yadon
+
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones   ❓1
+* ❓💵 Bryce Yadon
+
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 
@@ -235,13 +248,16 @@
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.   ❓1
 * ❓💵 Bryce Yadon
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 * 👍💵 Bryce Yadon
+
+### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍1  
+
+## [SB 6181](/bill/2025-26/sb/6181/) - City incorporation 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
-* 👍💵 Bryce Yadon
+### [SB 6181](/bill/2023-24/sb/6181/) - City incorporation 👍1  
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

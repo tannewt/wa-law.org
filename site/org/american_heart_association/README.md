@@ -26,13 +26,21 @@
 
 ### [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍2  
 
-## [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
+### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes   ❓1
 * ❓💵 Alex Hamasaki
+
+### [SB 6116](/bill/2025-26/sb/6116/) - Vapor products/tax  👎1 
+* 👎💵 Alex Hamasaki
+
+### [SB 6118](/bill/2025-26/sb/6118/) - Cardiac emerg. plans/schools 👍2  
+
+## [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+* 👍💵 Alex Hamasaki
 
 ## 2023-24
 
-### [SB 5814](/bill/2023-24/sb/5814/) - Excise taxes   ❓1
-* ❓💵 Alex Hamasaki
+### [SB 6129](/bill/2023-24/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+* 👍💵 Alex Hamasaki
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

@@ -30,6 +30,10 @@
 
 ### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.  👎1 
 
+### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
+
+### [HB 2542](/bill/2025-26/hb/2542/) - Animal testing alternatives 👍1  
+
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍2  
 * 👍 Cat Kelly
 

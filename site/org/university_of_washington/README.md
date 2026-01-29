@@ -85,6 +85,19 @@
 
 ### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍1  
 
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities 👍1  
+
+### [HB 2565](/bill/2025-26/hb/2565/) - UW investments  👎1 
+* 👎💵 Morgan Hickel
+
+### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍1  
+
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
@@ -138,11 +151,20 @@
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental  👎1 
 * 👎 Kevin Chang
 
-## [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
+### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
+
+### [SB 6137](/bill/2025-26/sb/6137/) - Regulated sports wagering   ❓1
+* ❓💵 Morgan Hickel
+
+### [SB 6138](/bill/2025-26/sb/6138/) - Dental deep sedation  👎2 
+
+## [SB 6235](/bill/2025-26/sb/6235/) - Athletics/private equity  👎1 
+* 👎💵 Morgan Hickel
 
 ## 2023-24
 
-### [SB 6008](/bill/2023-24/sb/6008/) - Residential energy storage 👍1  
+### [SB 6235](/bill/2023-24/sb/6235/) - Athletics/private equity  👎1 
+* 👎💵 Morgan Hickel
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

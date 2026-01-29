@@ -7,6 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 01:00 PM - Transportation (TR): HB 1367 Right shoulder/motorcycles
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Wed 01/22 04:00 PM - Transportation (TR): HB 1367 Right shoulder/motorcycles
 #### 1567 👍 - Pro
 Testifying:

@@ -34,6 +34,13 @@
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 * 👍 Holden Ringer
 
+### [HB 2495](/bill/2025-26/hb/2495/) - Removal of vehicles 👍1  
+
+### [HB 2517](/bill/2025-26/hb/2517/) - High cap. transit permits 👍1  
+
+### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
+* 👍💵 Bryce Yadon
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍2  
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Kirk Hovenkotter
@@ -53,13 +60,18 @@
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
-## [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources   ❓1
+### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources   ❓1
 * ❓💵 Bryce Yadon
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+
+## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+* 👍💵 Kirk Hovenkotter
 
 ## 2023-24
 
-### [SB 5801](/bill/2023-24/sb/5801/) - Transportation resources   ❓1
-* ❓💵 Bryce Yadon
+### [SB 6148](/bill/2023-24/sb/6148/) - RTA bond issues maximum term 👍1  
+* 👍💵 Kirk Hovenkotter
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

@@ -10,10 +10,16 @@
 ### Fri 01/30 10:30 AM - Housing (HSG): SB 6214 Land banking authorities
 Sign up to testify:
 
-#### 31 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Kitty Klitzke
+* Amanda DeShazo - Affordable Housing Consortium of Tacoma-Pierce County/BHI Network Policy Strategy Team
+* Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
+* Matt Hoffman - Maul Foster & Alongi, Inc./Scalable Starter Home Production Plan Team
+* Chris Collier - Housing Authority of Snohomish County
+* Reggie Brown - 1DROP
 
-#### 21 👎 - Con
+#### 488 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

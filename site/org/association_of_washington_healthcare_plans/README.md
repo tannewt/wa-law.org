@@ -17,6 +17,8 @@
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
 * 👎💵 Marissa Ingalls
 
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification  👎1 
+
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 
 * 👎💵 Marissa Ingalls
 
@@ -26,12 +28,29 @@
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
 * 👎 Dave Foster
 
-## [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
+* 👍💵 Marissa Ingalls
+
+### [SB 6071](/bill/2025-26/sb/6071/) - Health carrier overpayments  👎1 
+* 👎💵 Marissa Ingalls
+
+### [SB 6094](/bill/2025-26/sb/6094/) - Pediatric transitional care 👍1  
+
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+
+### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎2 
+* 👎💵 David Foster
+* 👎💵 Marissa Ingalls
+
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program   ❓3
+* ❓💵 Marissa Ingalls
+
+## [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 * 👍💵 Marissa Ingalls
 
 ## 2023-24
 
-### [SB 5967](/bill/2023-24/sb/5967/) - Preventive health services 👍1  
+### [SB 6292](/bill/2023-24/sb/6292/) - Health care financing 👍1  
 * 👍💵 Marissa Ingalls
 
 ### [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health   ❓1

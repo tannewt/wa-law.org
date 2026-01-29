@@ -25,6 +25,11 @@
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
+* 👍💵 Matthew Ellsworth
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 
@@ -45,11 +50,15 @@
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
 
-## [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts  👎1 
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts  👎1 
+
+## [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals   ❓1
+* ❓💵 Lisa Thatcher
 
 ## 2023-24
 
-### [SB 6037](/bill/2023-24/sb/6037/) - Fire protection districts  👎1 
+### [SB 6159](/bill/2023-24/sb/6159/) - Public hospitals   ❓1
+* ❓💵 Lisa Thatcher
 
 ### [HB 1812](/bill/2023-24/hb/1812/) - Medicaid/B&O tax deductions 👍1  
 * 👍 Len Mc Comb

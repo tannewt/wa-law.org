@@ -98,6 +98,19 @@
 
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
+* 👍 Megan Moore
+
+### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
+
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
+
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+
+### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
@@ -161,11 +174,33 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
 
-## [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+
+### [SB 6118](/bill/2025-26/sb/6118/) - Cardiac emerg. plans/schools 👍1  
+
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+
+### [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply   ❓1
+
+### [SB 6196](/bill/2025-26/sb/6196/) - Kratom taxation 👍1  
+* 👍💵 Amy Brackenbury
+
+### [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
+* 👎💵 Amy Brackenbury
+
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+### [SB 6287](/bill/2025-26/sb/6287/) - Kratom products 👍1  
+
+## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
 
 ## 2023-24
 
-### [SB 6049](/bill/2023-24/sb/6049/) - PRA/students & employees 👍1  
+### [SB 6308](/bill/2023-24/sb/6308/) - Child shelter care orders 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

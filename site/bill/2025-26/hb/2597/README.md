@@ -7,13 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2026 [The Center Square](/org/the_center_square/) - [WA bill would limit immunity for ICE agents in noncriminal enforcement activities | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0ca2959a-9cc0-4605-a91d-a6b110e16d1e.html#:~:text=House%20Bill%202597)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202597)
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2597 Immigration enforcement
-Sign up to testify:
-
-#### 1023 👍 - Pro
+#### 1081 👍 - Pro
 Testifying:
 * 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * Alex Dietz - Washington State Association for Justice
@@ -30,7 +29,7 @@ Testifying:
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 * Anders Ibsen - Mayor, City of Tacoma
 
-#### 1246 👎 - Con
+#### 1350 👎 - Con
 Testifying:
 * Rebecca Faust - n/a
 

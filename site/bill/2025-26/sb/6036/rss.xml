@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 6036 - Exempting certain former foster care providers from adult family home licensure.</title>
+		<title>SB 6036 - Adult family home licensure</title>
 		<link>https://wa-law.org/bill/2025-26/sb/6036/</link>
 		<description>Updates about SB 6036</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 08:55:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amina/Teouri/2026-01-19 08:55:29</guid>
+		</item>
+		<item>
+			<title>HS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/HS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

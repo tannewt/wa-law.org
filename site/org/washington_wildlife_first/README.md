@@ -17,6 +17,10 @@
 ### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission  👎1 
 * 👎 Dr. Francisco Santiago-Ávila
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
+
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 * 👍 Francisco Santiago-Ávila
 
@@ -39,13 +43,14 @@
 ### [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
 * 👎 Francisco Santiago-Ávila
 
-## [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations  👎1 
+### [SB 5960](/bill/2025-26/sb/5960/) - Ungulate populations  👎1 
 * 👎 Francisco Santiago-Ávila
+
+## [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 
 ## 2023-24
 
-### [SB 5960](/bill/2023-24/sb/5960/) - Ungulate populations  👎1 
-* 👎 Francisco Santiago-Ávila
+### [SB 6119](/bill/2023-24/sb/6119/) - Tires/6PPD and substitutes 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Samantha Bruegger

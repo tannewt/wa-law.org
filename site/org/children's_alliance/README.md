@@ -43,6 +43,8 @@
 ### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots 👍2  
 * 👍 Max Lau
 
+### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓2
@@ -69,11 +71,18 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-## [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
+### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍2  
+
+### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
+* 👍 Soleil Boyd
+
+## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍2  
+* 👍 Max Lau
 
 ## 2023-24
 
-### [SB 5813](/bill/2023-24/sb/5813/) - Tax rates/cap. gains, estate 👍2  
+### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍2  
+* 👍 Max Lau
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

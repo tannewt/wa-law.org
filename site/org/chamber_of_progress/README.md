@@ -34,6 +34,15 @@
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy  👎1 
 * 👎💵 Robert Singleton
 
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎1 
+* 👎💵 Robert Singleton
+
+### [HB 2503](/bill/2025-26/hb/2503/) - AI training data   ❓1
+* ❓💵 Robert Singleton
+
+### [HB 2559](/bill/2025-26/hb/2559/) - Affordable housing funding  👎1 
+* 👎💵 Robert Singleton
+
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
 * 👍 Tahra Jirari
 
@@ -44,12 +53,21 @@
 * 👎💵 Robert Singleton
 * 👎💵 Robert Singleton
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy  👎1 
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy  👎1 
+* 👎💵 Robert Singleton
+
+### [SB 6175](/bill/2025-26/sb/6175/) - Ticket sales  👎1 
+* 👎💵 Robert Singleton
+
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections  👎1 
+* 👎💵 Robert Singleton
+
+## [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing  👎1 
 * 👎💵 Robert Singleton
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy  👎1 
+### [SB 6312](/bill/2023-24/sb/6312/) - Retail pricing  👎1 
 * 👎💵 Robert Singleton
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  

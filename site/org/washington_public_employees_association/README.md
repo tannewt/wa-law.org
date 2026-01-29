@@ -97,6 +97,8 @@
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍1  
 
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
@@ -181,11 +183,16 @@
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 
-## [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+
+### [SB 6073](/bill/2025-26/sb/6073/) - Wildland firefighters/LEOFF 👍3  
+* 👍💵 Seamus Petrie
+
+## [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
 
 ## 2023-24
 
-### [SB 6053](/bill/2023-24/sb/6053/) - Domestic workers 👍1  
+### [SB 6325](/bill/2023-24/sb/6325/) - Higher education procedures 👍1  
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 

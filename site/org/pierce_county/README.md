@@ -43,8 +43,15 @@
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Concerning statewide food security. 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 * 👍 Bryan Yambe
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+* 👍 Anita Gallagher
+
+### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
+
+### [HB 2588](/bill/2025-26/hb/2588/) - County ferry districts 👍1  
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
@@ -69,11 +76,25 @@
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+* 👍 Robin Vazquez
+
+### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍1  
+
+### [SB 6181](/bill/2025-26/sb/6181/) - City incorporation 👍1  
+* 👍 alon bassok
+
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+* 👍 Ryan Mello
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
+* 👍 Ryan Mello
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

@@ -28,17 +28,31 @@
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 * 👍 Jaelynn Scott
 
+### [HB 2526](/bill/2025-26/hb/2526/) - Prostitution  👎1 
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+
+### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring 👍1  
+
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.   ❓2
 * ❓💵 Oliver Miska
 * ❓ Bryanna Jenkins
 
-## [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍 Jaelynn Scott
+
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
+* 👍 Jaelynn Scott
+
+### [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍1  
+
+## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
 ## 2023-24
 
-### [SB 6002](/bill/2023-24/sb/6002/) - Driver privacy 👍1  
-* 👍 Jaelynn Scott
+### [SB 6304](/bill/2023-24/sb/6304/) - WSIB investing principles 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 * 👍 Amari Leach

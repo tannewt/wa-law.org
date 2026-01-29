@@ -49,13 +49,14 @@
 
 ### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
 
-## [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
+### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓ Sean Eagan
+
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ## 2023-24
 
-### [SB 6005](/bill/2023-24/sb/6005/) - Transportation budget, supp.   ❓1
-* ❓ Sean Eagan
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

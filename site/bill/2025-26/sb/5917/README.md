@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5917](/bill/2025-26/sb/5917/)
 
-# SB 5917 - Improving access to abortion medications.
+# SB 5917 - Abortion medications
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5917&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall recap - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/23/town-hall-recap/#:~:text=SB%205917)

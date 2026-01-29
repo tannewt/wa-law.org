@@ -94,6 +94,23 @@
 ### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
 * 👍 Caitlin Krenn
 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
+* 👎💵 Darcy Nonemacher
+
+### [HB 2426](/bill/2025-26/hb/2426/) - Pollution control appeals 👍1  
+* 👍💵 Clifford Traisman
+
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+* 👍 Stephanie Masterman
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+* 👍💵 Clifford Traisman
+
+### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  
+* 👍 Caitlin Krenn
+
+### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
@@ -154,6 +171,8 @@
 
 ### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds  👎1 
 
+### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel  👎1 
+
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
@@ -162,13 +181,24 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
 
-## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
 * 👍 Andrea Matheny
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
+* 👍 Caitlin Krenn
+
+### [SB 6172](/bill/2025-26/sb/6172/) - Coal-fired electric plant 👍1  
+* 👍 Caitlin Krenn
+
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  
+* 👍 Caitlin Krenn
 
 ## 2023-24
 
-### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
-* 👍 Andrea Matheny
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍1  
+* 👍 Caitlin Krenn
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

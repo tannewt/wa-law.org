@@ -120,6 +120,34 @@
 
 ### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍1  
 
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2463](/bill/2025-26/hb/2463/) - Farmers/food programs 👍1  
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+* 👍 Lydia Zepeda
+
+### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
+* 👍 Ann Murphy
+
+### [HB 2572](/bill/2025-26/hb/2572/) - Voting services  👎1 
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+* 👍 Lydia Zepeda
+
+### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations   ❓1
+
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+* 👍 Lydia Zepeda
+
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
+* 👍 Lydia Zepeda
+
+### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
+* 👍 Lydia Zepeda
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍2  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
@@ -201,11 +229,26 @@
 
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
 
-## [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
+
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍2  
+
+### [SB 6130](/bill/2025-26/sb/6130/) - National voter reg. day 👍2  
+
+### [SB 6153](/bill/2025-26/sb/6153/) - Senior independent housing 👍1  
+
+### [SB 6161](/bill/2025-26/sb/6161/) - Dementia information 👍1  
+
+### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
+* 👍 Lydia Zepeda
+
+### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+
+## [SB 6313](/bill/2025-26/sb/6313/) - Capitol centennial account 👍1  
 
 ## 2023-24
 
-### [SB 6035](/bill/2023-24/sb/6035/) - Voting services 👍1  
+### [SB 6313](/bill/2023-24/sb/6313/) - Capitol centennial account 👍1  
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption  👎1 ❓1
 * ❓ Sherri Dysart

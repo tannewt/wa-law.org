@@ -12,6 +12,12 @@
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 * 👍 Kari McVeigh
 
+### [HB 2436](/bill/2025-26/hb/2436/) - Oil tanker escort 👍1  
+
+### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
+
+### [HB 2559](/bill/2025-26/hb/2559/) - Affordable housing funding 👍1  
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes.   ❓1
 
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
@@ -22,13 +28,14 @@
 
 ### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Councilmember Kari McVeigh
+
+## [SB 6238](/bill/2025-26/sb/6238/) - Oil tanker escort 👍1  
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓ Councilmember Kari McVeigh
+### [SB 6238](/bill/2023-24/sb/6238/) - Oil tanker escort 👍1  
 
 ### [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
 

@@ -25,6 +25,8 @@
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍 Lee Lambert
 
+### [HB 2589](/bill/2025-26/hb/2589/) - Higher ed. encampments 👍1  
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍 Lee Lambert
 
@@ -35,13 +37,16 @@
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
-## [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources 👍1  
+### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources 👍1  
 * 👍 Vicky Clarke
+
+## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍4  
+* 👍 Lee Lambert
 
 ## 2023-24
 
-### [SB 5801](/bill/2023-24/sb/5801/) - Transportation resources 👍1  
-* 👍 Vicky Clarke
+### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍4  
+* 👍 Lee Lambert
 
 ### [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 

@@ -8,6 +8,12 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
+### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures  👎1 
+* 👎 Terri Standish-Kuon
+
+### [HB 2589](/bill/2025-26/hb/2589/) - Higher ed. encampments   ❓1
+* ❓ Ph.D., Terri Standish-Kuon
+
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
@@ -22,12 +28,15 @@
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎2 
 * 👎 Ph.D., Terri Standish-Kuon
 
-## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+* 👍 Ph.D., Terri Standish-Kuon
+
+## [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
 
 ## 2023-24
 
-### [SB 5828](/bill/2023-24/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 6089](/bill/2023-24/sb/6089/) - Education data/P20W system 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
 
 ### [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams   ❓1

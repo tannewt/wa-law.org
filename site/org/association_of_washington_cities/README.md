@@ -358,6 +358,44 @@
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍💵 Steven Ellis
 
+### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍1  
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review   ❓1
+* ❓💵 Carl Schroeder
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+* 👍💵 Steven Ellis
+
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+* 👍💵 Carl Schroeder
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+* 👍💵 Candice Bock
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+* 👍💵 Candice Bock
+
+### [HB 2465](/bill/2025-26/hb/2465/) - Water recreation facilities  👎1 
+* 👎💵 Candice Bock
+
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
+* 👎💵 Carl Schroeder
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
+* 👎💵 Carl Schroeder
+
+### [HB 2528](/bill/2025-26/hb/2528/) - Real estate excise taxes/GMA 👍1  
+* 👍💵 Candice Bock
+
+### [HB 2559](/bill/2025-26/hb/2559/) - Affordable housing funding 👍2  
+* 👍💵 Carl Schroeder
+* 👍💵 Candice Bock
+
+### [HB 2614](/bill/2025-26/hb/2614/) - Home cultivation of cannabis  👎1 
+* 👎💵 Derrick Nunnally
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
@@ -596,7 +634,7 @@
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers   ❓1
 * ❓💵 Derrick Nunnally
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons.   ❓1
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement   ❓1
 * ❓💵 Derrick Nunnally
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
@@ -618,23 +656,46 @@
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
-### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍💵 Candice Bock
 
-### [SB 6066](/bill/2025-26/sb/6066/) - Accident risk zones 👍1  
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
 * 👍💵 Steven Ellis
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 * 👎💵 Carl Schroeder
+
+### [SB 6096](/bill/2025-26/sb/6096/) - Delayed utility conn. fees   ❓1
+* ❓💵 Carl Schroeder
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+* 👍💵 Steven Ellis
+
+### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+### [SB 6180](/bill/2025-26/sb/6180/) - Occupational disease/heart  👎1 
+* 👎💵 Candice Bock
+
+### [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
+* 👎💵 Derrick Nunnally
+
+### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍1  
+* 👍💵 Steven Ellis
+
+### [SB 6234](/bill/2025-26/sb/6234/) - Sewage grinder pumps   ❓1
+* ❓💵 Steven Ellis
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+* 👍💵 Candice Bock
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing  👎1 
-* 👎💵 Carl Schroeder
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
+* 👍💵 Candice Bock
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

@@ -42,6 +42,10 @@
 
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
+### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref. 👍1  
+
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
@@ -63,11 +67,13 @@
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 * 👍 Daniel Himebaugh
 
-## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+
+## [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍1  
 
 ## 2023-24
 
-### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6076](/bill/2023-24/sb/6076/) - Utility procurement 👍1  
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

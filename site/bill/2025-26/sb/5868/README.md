@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Ways & Means (WM): SB 5868 Superior court judges
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5868 Superior court judges
 #### 21 👍 - Pro
 Testifying:

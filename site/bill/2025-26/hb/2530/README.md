@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2530 Aquatics/sports PFD deadline
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * Sylvana Niehuser - [City of Olympia](/org/city_of_olympia/)

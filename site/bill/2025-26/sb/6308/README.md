@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Human Services (HS): SB 6308 Child shelter care orders
-Sign up to testify:
-
-#### 12 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Reymond Lozano
 * Shannon Selland - [Family Impact Network](/org/family_impact_network/)
@@ -19,7 +17,7 @@ Testifying:
 * 💵Julie Watts - Department of Children, Youth and Families
 * Susan Stoner - WA Parent-Child Assistance Program
 
-#### 66 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * Amelia Watson - Supervising Attorney, Washington State Office of Public Defense
 * Amy Parks

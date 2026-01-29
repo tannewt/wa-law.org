@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 01/28 05:45 PM - Human Services (HS): SB 6224 Youth behavioral health
-Sign up to testify:
-
-#### 164 👍 - Pro
+#### 238 👍 - Pro
 Testifying:
 * Peggy Dolane
 * Marianne Gibson - Inseparable
@@ -24,9 +22,16 @@ Testifying:
 * Angela Cruze Boldt - CYBHWG
 * Alysha Thompson - Seattle Children's
 * Karen Kelly
+* Jim Theofelis - NorthStar Advocates
+* Paul Patu - Urban Family
+* Taanvi Arekapudi - Uplift Teens Today 501c3 Nonprofit
+* Anne Mette Smeenk
+* Taku Mineshita - Office of the Governor
+* Shawn O'Neill - Legislative Relations Manager, Washington State Health Care Authority
 
-#### 65 👎 - Con
+#### 131 👎 - Con
 Testifying:
 * Gabe Jacobs
+* Kathleen Wedemeyer - The Citizens Commission on Human Rights
 
 #### 0 ❓ - Other

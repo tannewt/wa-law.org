@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 2572 Voting services
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Julie Wise - King County Director of Elections
+* Linda Farmer - WSACA Legislative Co Chair
 
-#### 870 👎 - Con
+#### 970 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

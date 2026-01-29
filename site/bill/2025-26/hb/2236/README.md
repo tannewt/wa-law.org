@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/04 04:00 PM - Capital Budget (CB): SHB 2236 Housing finance commission
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 04:00 PM - Housing (HOUS): HB 2236 Housing finance commission
 #### 9 👍 - Pro
 Testifying:

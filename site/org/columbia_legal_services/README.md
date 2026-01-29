@@ -111,6 +111,34 @@
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍2  
 * 👍💵 Sarah Nagy
 
+### [HB 2403](/bill/2025-26/hb/2403/) - Sex offenders/registration 👍1  
+
+### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+* 👍💵 Andrea Schmitt
+
+### [HB 2430](/bill/2025-26/hb/2430/) - Crime victim penalty assess.  👎1 
+* 👎💵 Hannah Woerner
+
+### [HB 2457](/bill/2025-26/hb/2457/) - Crime victim penalty assess.  👎1 
+* 👎💵 Hannah Woerner
+
+### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
+* 👍💵 Hannah Woerner
+
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
+
+### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍2  
+* 👍💵 Sarah Nagy
+
+### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
+
+### [HB 2595](/bill/2025-26/hb/2595/) - Collateral attacks/criminal 👍1  
+
+### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+* 👍💵 Antonio Ginatta
+
+### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction   ❓1
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
 
@@ -185,20 +213,27 @@
 
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Modernizing and strengthening laws concerning sheriffs, police chiefs, town marshals, law enforcement agency volunteers, youth cadets, specially commissioned officers, and police matrons. 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 * 👍💵 Andrea Schmitt
 
-## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍3  
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍3  
 * 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
+
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
+* 👍💵 Hannah Woerner
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+* 👎💵 Antonio Ginatta
 
 ## 2023-24
 
-### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍3  
-* 👍💵 Sarah Nagy
-* 👍💵 Sarah Nagy
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims  👎1 
+* 👎💵 Antonio Ginatta
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

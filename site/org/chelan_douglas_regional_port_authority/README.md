@@ -6,6 +6,9 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+* 👎 Jim Kuntz
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓2
 * ❓💵 Blake Baldwin
 * ❓💵 Blake Baldwin
@@ -13,13 +16,16 @@
 ### [SB 5898](/bill/2025-26/sb/5898/) - Aircraft fuel tax proceeds 👍1  
 * 👍 Jim Kuntz
 
-## [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
+### [SB 5989](/bill/2025-26/sb/5989/) - Aircraft fuel tax distrib. 👍1  
 * 👍 Jim Kuntz
+
+## [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
+* 👎 Jim Kuntz
 
 ## 2023-24
 
-### [SB 5989](/bill/2023-24/sb/5989/) - Aircraft fuel tax distrib. 👍1  
-* 👍 Jim Kuntz
+### [SB 6171](/bill/2023-24/sb/6171/) - Large energy use facilities  👎1 
+* 👎 Jim Kuntz
 
 ### [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
 * 👍💵 Blake Baldwin

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2165/</link>
 		<description>Updates about HB 2165</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 00:05:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,13 @@
 			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-27/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>WA Senate passes ban on police face coverings • Washington State Standard</title>
+			<description>News article "WA Senate passes ban on police face coverings • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 29 Jan 2026 00:05:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/01/28/wa-senate-passes-ban-on-police-face-coverings/#:~:text=House%20Bill%202165</guid>
 		</item>
 	</channel>
 </rss>

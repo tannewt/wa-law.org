@@ -51,6 +51,14 @@
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2456](/bill/2025-26/hb/2456/) - Juvenile firearm interv. 👍2  
+* 👍💵 Rachel Sottile
+* 👍 William Hairston
+
+### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍2  

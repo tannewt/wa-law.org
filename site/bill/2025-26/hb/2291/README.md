@@ -13,8 +13,18 @@
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2291 Kratom
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Micah Wakefield
+* Misty Brown
+* Jennifer Gillis
+* Eric Onisko - City Of Shelton council member, Mason County board of health Chair
+* Melody Woolf
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dr. Jimmy Leonard - [Washington Poison Center](/org/washington_poison_center/)

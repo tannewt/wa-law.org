@@ -8,6 +8,12 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/29/2026 [Washington State Standard](/org/washington_state_standard/) - [WA Senate passes ban on police face coverings • Washington State Standard](https://washingtonstatestandard.com/2026/01/28/wa-senate-passes-ban-on-police-face-coverings/#:~:text=Senate%20Bill%205855)
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes Valdez bill banning law enforcement, including ICE, from wearing masks on duty  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/28/senate-passes-valdez-bill-banning-law-enforcement-including-ice-from-wearing-masks-on-duty/#:~:text=Senate%20Bill%205855)
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes Valdez bill banning law enforcement, including ICE, from wearing masks on duty  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/28/senate-passes-valdez-bill-banning-law-enforcement-including-ice-from-wearing-masks-on-duty/#:~:text=Senate%20Bill%205855)
+* 01/28/2026 [The Center Square](/org/the_center_square/) - [WA Senate passes bill banning law enforcement from wearing masks amid ICE activity | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_99476763-d74d-4e3e-9eea-bb4ea08a39d7.html#:~:text=Senate%20Bill%205855)
+* 01/28/2026 [FOX13](/org/fox13/) - [WA Senate bans law enforcement face coverings | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-senate-police-face-coverings#:~:text=Senate%20Bill%205855)
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Defending our values and our communities - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%205855)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington from ICE - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/01/26/protecting-washington-from-ice/#:~:text=SB%205855)
 * 01/26/2026 [The Center Square](/org/the_center_square/) - [WA leaders intensify opposition to federal immigration enforcement efforts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0d60b7f8-7b40-4148-b413-1d394c57d0cd.html#:~:text=Senate%20Bill%205855)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%205855)

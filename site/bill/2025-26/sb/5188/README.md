@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/04 04:00 PM - Capital Budget (CB): SB 5188 Broadband repair loans
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5188 Broadband repair loans
 #### 7 👍 - Pro
 Testifying:

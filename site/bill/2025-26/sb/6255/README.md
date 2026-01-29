@@ -8,12 +8,11 @@
 
 ## Meetings
 ### Wed 01/28 05:45 PM - Human Services (HS): SB 6255 Poverty reduction task force
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Babs Roberts - WA Department of Social & Health Services
+* Tasha Le - Person w/lived experience
 
-#### 56 👎 - Con
+#### 117 👎 - Con
 
 #### 1 ❓ - Other

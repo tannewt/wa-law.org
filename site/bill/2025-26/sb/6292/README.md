@@ -10,10 +10,17 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 6292 Health care financing
 Sign up to testify:
 
-#### 335 👍 - Pro
+#### 368 👍 - Pro
 Testifying:
 * Nico Janssen - Office of the Insurance Commissioner
+* Gaelon Spradley - Valley View Health Center
+* Jim Freeburg - Patient Coalition of Washington
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
+* 💵Sean Graham - Washington State Medical Association
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ryan Moran - Health Care Authority (HCA) - Director

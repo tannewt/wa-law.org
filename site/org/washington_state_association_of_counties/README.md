@@ -232,6 +232,9 @@
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 * 👍💵 Brad Banks
 
+### [HB 2018](/bill/2025-26/hb/2018/) - Solid waste/local government 👍1  
+* 👍💵 Travis Dutton
+
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
@@ -239,6 +242,9 @@
 
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources   ❓1
 * ❓💵 Paul Jewell
+
+### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism.   ❓1
+* ❓💵 Kelsey Hulse
 
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb.  👎1 
 * 👎💵 Paul Jewell
@@ -259,7 +265,7 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
 * ❓💵 Travis Dutton
 
-### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission 👍1  
 
 ### [HB 2257](/bill/2025-26/hb/2257/) - Tax administration   ❓1
 * ❓💵 Paul Jewell
@@ -292,6 +298,35 @@
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
 * 👎💵 Travis Dutton
+
+### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review  👎1 
+* 👎💵 Kelsey Hulse
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+* 👍💵 Axel Swanson
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+* 👍💵 Paul Jewell
+
+### [HB 2456](/bill/2025-26/hb/2456/) - Juvenile firearm interv.   ❓1
+* ❓💵 Travis Dutton
+
+### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones   ❓1
+* ❓💵 Curtis Steinhauer
+
+### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
+* 👍💵 Paul Jewell
+
+### [HB 2528](/bill/2025-26/hb/2528/) - Real estate excise taxes/GMA 👍1  
+* 👍💵 Paul Jewell
+
+### [HB 2559](/bill/2025-26/hb/2559/) - Affordable housing funding 👍1  
+* 👍 BRIAN ENSLOW
+
+### [HB 2566](/bill/2025-26/hb/2566/) - Local government procurement 👍1  
+* 👍💵 Axel Swanson
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1
 * ❓💵 Paul Jewell
@@ -497,7 +532,8 @@
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders  👎1 
+### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders  👎2 
+* 👎💵 Travis Dutton
 * 👎💵 Travis Dutton
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
@@ -515,18 +551,46 @@
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 
-### [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
 
 ### [SB 6064](/bill/2025-26/sb/6064/) - International fire code  👎1 
 * 👎💵 Curtis Steinhauer
 
-## [SB 6066](/bill/2025-26/sb/6066/) - Accident risk zones   ❓1
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones   ❓1
 * ❓💵 Axel Swanson
+
+### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+### [SB 6151](/bill/2025-26/sb/6151/) - Env. programs/fee accounts 👍1  
+* 👍💵 Travis Dutton
+
+### [SB 6180](/bill/2025-26/sb/6180/) - Occupational disease/heart  👎1 
+* 👎💵 Paul Jewell
+
+### [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply   ❓1
+
+### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍1  
+* 👍💵 Paul Jewell
+
+### [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
+* 👍💵 Curtis Steinhauer
+
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+* 👍💵 Paul Jewell
+
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+* 👍💵 Derek Young
+
+### [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
+* 👍💵 Paul Jewell
+
+## [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface   ❓1
+* ❓💵 Curtis Steinhauer
 
 ## 2023-24
 
-### [SB 6066](/bill/2023-24/sb/6066/) - Accident risk zones   ❓1
-* ❓💵 Axel Swanson
+### [SB 6279](/bill/2023-24/sb/6279/) - Wildland urban interface   ❓1
+* ❓💵 Curtis Steinhauer
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

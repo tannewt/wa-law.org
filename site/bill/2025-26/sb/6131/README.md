@@ -10,11 +10,11 @@
 ### Thu 01/29 04:00 PM - Transportation (TRAN): SB 6131 Roadway fatalities
 Sign up to testify:
 
-#### 15 👍 - Pro
+#### 214 👍 - Pro
 Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 
-#### 0 👎 - Con
+#### 16 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

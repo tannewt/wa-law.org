@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2026 [Washington State Standard](/org/washington_state_standard/) - [The latest attempt to legalize homegrown marijuana in Washington • Washington State Standard](https://washingtonstatestandard.com/2026/01/28/the-latest-attempt-to-legalize-homegrown-marijuana-in-washington/#:~:text=Senate%20Bill%206204)
+
 ## Meetings
 ### Mon 01/26 10:30 AM - Labor & Commerce (LC): SB 6204 Home cultivation of cannabis
 #### 132 👍 - Pro

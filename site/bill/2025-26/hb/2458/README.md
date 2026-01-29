@@ -11,16 +11,15 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2458 College grant/credential prg
-Sign up to testify:
-
-#### 169 👍 - Pro
+#### 274 👍 - Pro
 Testifying:
 * Arlen Harris - State Board for Community & Technical Colleges
 * Daimon Doyle - Instructor, Construction Trades, SPSCC
 * Dr. Timothy Stokes - President, South Puget Sound Community College
 * Chris Wells - United Way of Thurston County
 * Al Audette - Washington Home Builders Foundation
+* Daimon Doyle
 
-#### 16 👎 - Con
+#### 59 👎 - Con
 
 #### 0 ❓ - Other

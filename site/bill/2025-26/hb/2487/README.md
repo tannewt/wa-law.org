@@ -13,14 +13,18 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2487 Insurer taxes
 Sign up to testify:
 
-#### 29 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
-#### 14 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Bill Stauffacher - Coordinated Care of WA
+* 💵David Foster - Assoc of WA Healthcare Plans
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
 #### 0 ❓ - Other

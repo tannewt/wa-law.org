@@ -49,11 +49,13 @@
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
 
-## [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+
+## [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍20  
 
 ## 2023-24
 
-### [SB 5738](/bill/2023-24/sb/5738/) - Retired employees/work 👍1  
+### [SB 6162](/bill/2023-24/sb/6162/) - Property tax 👍20  
 
 ### [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 

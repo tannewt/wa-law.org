@@ -36,6 +36,14 @@
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
 * 👎💵 Christine Brewer
 
+### [HB 2394](/bill/2025-26/hb/2394/) - Insurance crimes 👍1  
+
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes  👎1 
+* 👎💵 Christine Brewer
+
+### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification  👎1 
+* 👎💵 Christine Brewer
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
@@ -75,11 +83,21 @@
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
 * 👎💵 Gary Strannigan
 
-## [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
+### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
+
+### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
+* 👎💵 Christine Brewer
+
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification  👎1 
+* 👎💵 Christine Brewer
+
+### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎1 
+
+## [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 
 ## 2023-24
 
-### [SB 6031](/bill/2023-24/sb/6031/) - Insurance crimes 👍1  
+### [SB 6292](/bill/2023-24/sb/6292/) - Health care financing 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

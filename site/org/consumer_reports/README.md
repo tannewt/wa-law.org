@@ -4,6 +4,9 @@
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy 👍1  
 * 👍 Matt Schwartz
 
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing   ❓1
+* ❓ Derek Kravitz
+
 ## [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
 * 👍 Charles Bell
 

@@ -19,6 +19,16 @@
 
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 
+### [HB 2018](/bill/2025-26/hb/2018/) - Solid waste/local government 👍1  
+* 👍 Margo Gillaspy
+
+### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism.  👎1 
+
+### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
+* 👍💵 Josh Weiss
+
+### [HB 2588](/bill/2025-26/hb/2588/) - County ferry districts 👍1  
+
 ### [SB 5021](/bill/2025-26/sb/5021/) - Retention of court exhibits 👍1  
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects   ❓2
@@ -32,13 +42,16 @@
 
 ### [SB 5475](/bill/2025-26/sb/5475/) - Salmon recovery maintenance 👍1  
 
-## [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
+### [SB 5868](/bill/2025-26/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
 * 👍 Commissioner Ron Wesen
+
+### [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
+
+## [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
 
 ## 2023-24
 
-### [SB 5868](/bill/2023-24/sb/5868/) - Adding an additional superior court judge in Skagit county and in Yakima county. 👍1  
-* 👍 Commissioner Ron Wesen
+### [SB 6242](/bill/2023-24/sb/6242/) - County shared stewardship 👍1  
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 

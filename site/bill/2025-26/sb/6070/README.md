@@ -11,6 +11,17 @@
 * 01/20/2026 [FOX13](/org/fox13/) - [What is a Purple Alert? Proposed WA legislation | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-law-purple-alert#:~:text=Senate%20Bill%206070)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6070 Recovery of missing persons
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6070 Recovery of missing persons
 #### 277 👍 - Pro
 Testifying:

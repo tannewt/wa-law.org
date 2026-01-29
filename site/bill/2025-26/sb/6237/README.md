@@ -10,8 +10,12 @@
 ### Fri 01/30 10:30 AM - Housing (HSG): SB 6237 Rental property flood discl.
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Krystelle Purkey - Washington Multi-Family Housing Association

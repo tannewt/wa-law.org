@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6014/</link>
 		<description>Updates about SB 6014</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 22:35:17 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -64,6 +64,13 @@
 			<pubDate>Tue, 27 Jan 2026 22:35:17 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%206014</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

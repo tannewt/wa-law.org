@@ -8,12 +8,12 @@
 
 ## Meetings
 ### Wed 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 2356 PRA/homicide cases
-Sign up to testify:
-
-#### 98 👍 - Pro
+#### 166 👍 - Pro
 
 #### 2 👎 - Con
 Testifying:
 * Colette Weeks - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters

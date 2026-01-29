@@ -12,6 +12,10 @@
 ### [HB 2154](/bill/2025-26/hb/2154/) - Conservation district land  👎1 
 * 👎 Tom Salzer
 
+### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts  👎2 
+* 👎 Tom Salzer
+* 👎 Amy McKay
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Tom Salzer
 

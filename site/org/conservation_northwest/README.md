@@ -57,6 +57,12 @@
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
 
+### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
+
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+
+### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎💵 Paula Swedeen
 
@@ -95,11 +101,15 @@
 
 ### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
 
-## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+
+### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
+
+## [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
 
 ## 2023-24
 
-### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6171](/bill/2023-24/sb/6171/) - Large energy use facilities 👍1  
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

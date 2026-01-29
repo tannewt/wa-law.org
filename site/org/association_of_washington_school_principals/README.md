@@ -51,6 +51,8 @@
 
 ### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍2  
 
+### [HB 2007](/bill/2025-26/hb/2007/) - Expanding opportunities for competency-based assessments in graduation pathway options.   ❓1
+
 ### [HB 2044](/bill/2025-26/hb/2044/) - Unexcused student absences   ❓2
 * ❓💵 Roz Thompson
 
@@ -64,6 +66,8 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
+### [HB 2636](/bill/2025-26/hb/2636/) - Public education reviews 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -155,7 +159,17 @@
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+
 ### [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
+
+### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
+
+### [SB 6130](/bill/2025-26/sb/6130/) - National voter reg. day 👍1  
+
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 

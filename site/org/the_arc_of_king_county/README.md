@@ -74,7 +74,7 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Ramona Hattendorf
 
-### [HB 2319](/bill/2025-26/hb/2319/) - Renaming certain state residential facilities for persons with developmental disabilities. 👍1  
+### [HB 2319](/bill/2025-26/hb/2319/) - DD RHC facilities renaming 👍1  
 
 ### [HB 2323](/bill/2025-26/hb/2323/) - Traffic stops/blue envelope 👍1  
 
@@ -87,6 +87,18 @@
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
 
 ### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍1  
+
+### [HB 2415](/bill/2025-26/hb/2415/) - DSHS unexpected fatalities 👍1  
+
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
+
+### [HB 2505](/bill/2025-26/hb/2505/) - Adult family home licensure 👍1  
+
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
@@ -191,7 +203,7 @@
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
-### [SB 5969](/bill/2025-26/sb/5969/) - Fulfilling high school and beyond plan requirements with individualized education program transition plans.  👎2 
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans  👎2 
 * 👎💵 Ramona Hattendorf
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
@@ -204,13 +216,26 @@
 
 ### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 
-### [SB 6036](/bill/2025-26/sb/6036/) - Exempting certain former foster care providers from adult family home licensure. 👍1  
+### [SB 6036](/bill/2025-26/sb/6036/) - Adult family home licensure 👍1  
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+
+### [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍1  
+
+### [SB 6163](/bill/2025-26/sb/6163/) - DD services waiver/budget 👍3  
+* 👍💵 Ramona Hattendorf
+
+### [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎1 
+
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍2  
+
+### [SB 6255](/bill/2025-26/sb/6255/) - Poverty reduction task force   ❓1
+
+## [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
+### [SB 6268](/bill/2023-24/sb/6268/) - Special ed. complaint record 👍1  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

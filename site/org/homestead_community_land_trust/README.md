@@ -17,16 +17,23 @@
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
+### [HB 2610](/bill/2025-26/hb/2610/) - Nonprofit housing providers 👍1  
+* 👍 Kathleen Hosfeld
+
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 * 👍 Kathleen M Hosfeld
 
-## [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+
+## [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎1 
 
 ## 2023-24
 
-### [SB 5938](/bill/2023-24/sb/5938/) - Foreclosure prevention fee 👍1  
+### [SB 6167](/bill/2023-24/sb/6167/) - Down payment assistance  👎1 
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 

@@ -42,13 +42,16 @@
 
 ### [HB 2227](/bill/2025-26/hb/2227/) - Providing a real estate excise tax exemption for the sale of qualified affordable housing. 👍1  
 
-### [HB 2236](/bill/2025-26/hb/2236/) - Concerning the housing finance commission. 👍1  
+### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission 👍1  
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
+
+### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍2  
+* 👍 Victoria OBanion
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Victoria OBanion
@@ -73,11 +76,15 @@
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
 
-## [SB 6028](/bill/2025-26/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
+
+### [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎1 
+
+## [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
 
 ## 2023-24
 
-### [SB 6028](/bill/2023-24/sb/6028/) - Establishing a revolving loan fund for mixed-income affordable homeownership development. 👍1  
+### [SB 6214](/bill/2023-24/sb/6214/) - Land banking authorities 👍1  
 
 ### [HB 1743](/bill/2023-24/hb/1743/) - Employee ownership 👍1  
 * 👍 John McNamara

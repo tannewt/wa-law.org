@@ -18,6 +18,8 @@
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
 
+### [HB 2530](/bill/2025-26/hb/2530/) - Aquatics/sports PFD deadline 👍1  
+
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
@@ -29,11 +31,18 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Commissioner Carolina Mejia
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+### [SB 6154](/bill/2025-26/sb/6154/) - Culvert replacement permits 👍1  
+* 👍 Karen Weiss
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+* 👍 Commissioner Tye Menser
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Modifying requirements and allowed uses for certain funding related to providing and maintaining affordable housing and related services. 👍1  
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
+* 👍 Commissioner Tye Menser
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

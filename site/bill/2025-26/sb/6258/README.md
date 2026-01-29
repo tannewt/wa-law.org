@@ -10,9 +10,12 @@
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 6258 Medical license relinquish.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Fatima Mirza - Washington Medical Commission
+* MD, Chris Bundy - [Washington Physicians Health Program](/org/washington_physicians_health_program/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

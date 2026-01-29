@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5827 Veterans/discharge def.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - State Government & Elections (SGE): SB 5827 Veterans/discharge def.
 #### 41 👍 - Pro
 Testifying:

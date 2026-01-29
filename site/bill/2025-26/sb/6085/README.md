@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Human Services (HS): SB 6085 Institutional welfare acct

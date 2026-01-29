@@ -10,13 +10,15 @@
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2632 Noncitizen terminology
 Sign up to testify:
 
-#### 318 👍 - Pro
+#### 400 👍 - Pro
 Testifying:
 * Andres Munoz
 * Eilish Villa Malone - Central WA Legal Aid
 * Zaida Rivera
+* Elizabeth Fitzgearld
+* Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 
-#### 37 👎 - Con
+#### 511 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 

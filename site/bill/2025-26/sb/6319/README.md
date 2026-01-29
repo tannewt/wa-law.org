@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Human Services (HS): SB 6319 Child welfare time extension
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Kim Justice - Partners for Our Children
 * Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
