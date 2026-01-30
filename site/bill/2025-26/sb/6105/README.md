@@ -13,8 +13,16 @@
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6105 Medical debt garnishments
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 29 👎 - Con
+Testifying:
+* David Reid
+* Donald Maurice
+* Jay Bajwa
+* 💵Kelsi Hamilton - On behalf of my family
+* Alexandra Sandoval - NW Collectors Association
+* Diana Hernandez - NW Collectors Association
+* Mindy Chumbley - NW Collectors Association
 
 #### 0 ❓ - Other

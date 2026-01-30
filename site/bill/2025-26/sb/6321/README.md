@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 01/29 01:30 PM - Higher Education & Workforce Development (HEWD): SB 6321 Scientific research
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

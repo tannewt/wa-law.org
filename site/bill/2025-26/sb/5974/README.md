@@ -22,14 +22,21 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5974 Local law enforcement
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
-#### 5 👎 - Con
+#### 442 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Laurie Layne
+* Rick Kuss
+* Anna Burt
+* Eric Lundberg
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lunden Espinosa Kennedy
 
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5974 Local law enforcement
 #### 1871 👍 - Pro

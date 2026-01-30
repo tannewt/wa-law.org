@@ -332,6 +332,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
+### [HB 2291](/bill/2025-26/hb/2291/) - Kratom   ❓1
+* ❓💵 Derrick Nunnally
+
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓💵 Steven Ellis
 
@@ -576,7 +579,8 @@
 ### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 ❓1
 * 👎💵 Kelsey Hulse
 
-### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓2
+* ❓💵 Carl Schroeder
 
 ### [SB 5690](/bill/2025-26/sb/5690/) - Utility relocation 👍1  
 
@@ -652,7 +656,7 @@
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎2 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
@@ -689,13 +693,19 @@
 ### [SB 6234](/bill/2025-26/sb/6234/) - Sewage grinder pumps   ❓1
 * ❓💵 Steven Ellis
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 * 👍💵 Candice Bock
+
+### [SB 6274](/bill/2025-26/sb/6274/) - Street standards   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits   ❓1
+* ❓💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
-* 👍💵 Candice Bock
+### [SB 6309](/bill/2023-24/sb/6309/) - High cap. transit permits   ❓1
+* ❓💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

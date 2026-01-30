@@ -87,10 +87,12 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍 Megan Moore
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
+
+### [HB 2291](/bill/2025-26/hb/2291/) - Kratom 👍1  
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
@@ -108,6 +110,8 @@
 ### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
 
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+
+### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants 👍1  
 
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders 👍1  
 
@@ -167,7 +171,7 @@
 
 ### [SB 5921](/bill/2025-26/sb/5921/) - Psilocybin   ❓1
 
-### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
+### [SB 5951](/bill/2025-26/sb/5951/) - Albuterol access in schools 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
@@ -195,6 +199,8 @@
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
 ### [SB 6287](/bill/2025-26/sb/6287/) - Kratom products 👍1  
+
+### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 
 ## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
 

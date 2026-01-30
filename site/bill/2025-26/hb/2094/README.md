@@ -13,11 +13,12 @@
 ### Fri 01/30 10:30 AM - Local Government (LG): HB 2094 Coroner appointment
 Sign up to testify:
 
-#### 18 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * John Worthington
+* LaDon Linde - Yakima County Commissioner
 
-#### 83 👎 - Con
+#### 149 👎 - Con
 Testifying:
 * 💵Timothy Grisham - WA Assn of County Officials
 * WILLIAM LEACH - Benton County Coroner's Office

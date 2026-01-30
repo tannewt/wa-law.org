@@ -10,11 +10,13 @@
 ### Wed 02/04 10:30 AM - Housing (HSG): EHB 1501 CIC unit owner inquiries
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Horvath - HOA United
 
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1501 CIC unit owner inquiries
 #### 3 👍 - Pro

@@ -11,14 +11,12 @@
 
 ## Meetings
 ### Thu 01/29 01:30 PM - Capital Budget (CB): HB 2470 On-base school construction
-Sign up to testify:
-
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jerry Fugich - Veterans Legislative Coalition
 * Charlie Brown - [Clover Park School District](/org/clover_park_school_district/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

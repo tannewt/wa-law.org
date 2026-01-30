@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/13 04:00 PM - Environment & Energy (ENVI): HB 2245 Consumer-owned utilities

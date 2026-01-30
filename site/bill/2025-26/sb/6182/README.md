@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 6182 Abortion savings program
-Sign up to testify:
-
-#### 24 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Gabbi Nazari - Pro Choice Washington
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
@@ -25,7 +23,7 @@ Testifying:
 * Pablo Barcenas
 * Ahna Rader
 
-#### 362 👎 - Con
+#### 496 👎 - Con
 Testifying:
 * Jessica Casca
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)

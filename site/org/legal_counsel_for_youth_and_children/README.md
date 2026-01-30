@@ -99,6 +99,9 @@
 
 ### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
 
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+* 👍 Chach Duarte White
+
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders   ❓1
 * ❓ Annie Chung
 
@@ -189,7 +192,7 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
-### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board.   ❓1
+### [SB 5942](/bill/2025-26/sb/5942/) - DCYF accountability board   ❓1
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 

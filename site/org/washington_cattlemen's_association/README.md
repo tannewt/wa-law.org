@@ -19,6 +19,9 @@
 
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 
+### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.   ❓1
+* ❓💵 Mark Streuli
+
 ### [HB 2239](/bill/2025-26/hb/2239/) - Providing Washingtonians and their loved ones with location choices for interment of remains. 👍1  
 * 👍💵 Mark Streuli
 

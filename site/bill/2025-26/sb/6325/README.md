@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to strengthen higher education funding, student services heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/29/nobles-bill-to-strengthen-higher-education-funding-student-services-heard-in-committee/#:~:text=Senate%20Bill 6325)
+
 ## Meetings
 ### Thu 01/29 01:30 PM - Higher Education & Workforce Development (HEWD): SB 6325 Higher education procedures
-Sign up to testify:
-
-#### 15 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Chris Mulick - Washington State University
 * 💵Nora Selander - Western Washington University
@@ -20,6 +21,17 @@ Testifying:
 * Bidisha Biswas - Faculty Legislative Rep for WWU
 * Stephen Bollens - Washngton State University Faculty Senate
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Chemene Crawford - Everett Community College
+* Bill Lyne - United Faculty of Washington State
+* 💵Jacqui Cain - American Federation of Teachers (AFT-WA)
+* Amy Parris - Board Chair, Big Bend Community College
+* Arlen Harris - State Board for Community & Technical Colleges
+* Dr. Amy Morrison - President, Lake Washington Institute of Technology
+* Dr. Joyce Loveday - President, Clover Park Technical College
+* Dr. Rebekah Woods - President, Columbia Basin College
+* Dr. Suzy Ames - President, Peninsula College
+* Dr. Timonthy Stokes - President, South Puget Sound Community College
+* Dr. Chantae Recasner - President, Seattle Central College
 
 #### 2 👎 - Con
 

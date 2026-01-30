@@ -12,6 +12,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Ajay Mendoza - Washington State Board of Nursing
+* Alison Bradywood - Washington State Board of Nursing
 
 #### 0 ❓ - Other

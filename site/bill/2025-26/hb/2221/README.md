@@ -13,15 +13,28 @@
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2221 Ungulate populations
 Sign up to testify:
 
-#### 304 👍 - Pro
+#### 649 👍 - Pro
 Testifying:
 * Gary Douvia - northeast washington wildlife group
 * don peaker
+* 💵Michael Moran - Self (consulting)
+* Kathleen McKay - K-Diamond-K Guest Ranch
+* Sheila Shockey
+* Nancy Churchill
+* 💵Marie Neumiller - Congressional Sportsmen’s Foundation
+* Raymond Maycumber - Ferry County Sheriff's Office
+* Chloe Heneghen - 532577699
+* Sheriff Paul Budrow - Okanogan County Sheriff Office
 
-#### 299 👎 - Con
+#### 373 👎 - Con
 Testifying:
 * PHD, Susan Kane-Ronning - Washington Sierra Club
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
+* Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
+* Liz Carr - Kettle Range Conservation Group
+* 💵Stephanie Hillman - [Humane World for Animals](/org/humane_world_for_animals/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Mick Cope - WDFW
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)

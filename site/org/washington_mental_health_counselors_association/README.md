@@ -19,11 +19,13 @@
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
-## [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍1  
+## [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍2  
+* 👍 Casey Akerhielm
 
 ## 2023-24
 
-### [SB 6305](/bill/2023-24/sb/6305/) - Mental health coverage 👍1  
+### [SB 6305](/bill/2023-24/sb/6305/) - Mental health coverage 👍2  
+* 👍 Casey Akerhielm
 
 ### [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍4  
 * 👍 Dominique Avery

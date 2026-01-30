@@ -20,6 +20,9 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍 Audrey Miller Garcia
 
+### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍2  
+* 👍 Audrey Miller Garcia
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Audrey Miller Garcia
 

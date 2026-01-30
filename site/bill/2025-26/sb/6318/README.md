@@ -8,14 +8,19 @@
 
 ## Meetings
 ### Thu 01/29 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6318 Commercial shellfish fees
-Sign up to testify:
-
-#### 23 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Evie Fagergren - Calm Cove Oyster Company
 * 💵Troy Nichols - Willapa Grays Harbor Oyster Growers Association
 * Bill Dewey - Taylor Shellfish Farms
+* margaret pilaro - pacific coast shellfish growers association
+* michael nordin - Pacific Conservation District
+* John Hansen
+* Kyle Lentz - Chelsea Farms
 
-#### 1 👎 - Con
+#### 7 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kristin Bettridge - Washington State Department of Health (AVAILABLE FOR QUESTIONS)
+* Lauren Jenks - Washington State Department of Health (AVAILABLE FOR QUESTIONS)

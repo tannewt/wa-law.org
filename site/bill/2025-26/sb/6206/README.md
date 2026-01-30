@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 6206 First responders/child care
-Sign up to testify:
-
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Rebecca Horrocks - Washington State Fraternal Order of Police
 * Theresa Schrimpsher - Washington State Fraternal Order of Police
@@ -19,7 +17,8 @@ Testifying:
 * Rachel Toves - Vancouver Police Department
 * Nicole Vigil - Vancouver Police Department
 * Erica Nilsen - Vancouver Police Department
+* Jim Mackay - Nat'l Law Enforcement Foundation
 
-#### 36 👎 - Con
+#### 61 👎 - Con
 
 #### 0 ❓ - Other

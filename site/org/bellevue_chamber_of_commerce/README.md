@@ -44,11 +44,11 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍3  
+## [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍3  
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍3  
+### [SB 6026](/bill/2023-24/sb/6026/) - Residential dev./zones 👍3  
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓2
 * ❓💵 Jodie Alberts

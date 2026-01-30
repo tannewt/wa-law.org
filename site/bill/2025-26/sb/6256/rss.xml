@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6256/</link>
 		<description>Updates about SB 6256</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 05:32:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-21/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Rachel Downes - Housing Hope</title>
+			<description>Rachel Downes signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/housing_hope/"&gt;Housing Hope&lt;/a&gt;.</description>
+			<pubDate>Thu, 29 Jan 2026 01:10:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rachel/Downes/2026-01-29 01:10:04</guid>
+		</item>
+		<item>
+			<title>👍Brian Lloyd - Beacon Development Group</title>
+			<description>Brian Lloyd signed up to testify Pro. They are signed up to represent Beacon Development Group.</description>
+			<pubDate>Thu, 29 Jan 2026 05:32:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Lloyd/2026-01-29 05:32:34</guid>
 		</item>
 	</channel>
 </rss>

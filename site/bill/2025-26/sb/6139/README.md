@@ -10,10 +10,14 @@
 ### Fri 01/30 10:30 AM - Housing (HSG): SB 6139 Rental payments
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 
-#### 1 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Daniel Lugo - Citizen Advocate
+* Kerri Burnside - Bellingham Tenants Union
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Krystelle Purkey - Washington Multi-Family Housing Association
+* Daniel Bannon - RHAWA

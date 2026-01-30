@@ -10,7 +10,7 @@
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2683 Health carriers & providers
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

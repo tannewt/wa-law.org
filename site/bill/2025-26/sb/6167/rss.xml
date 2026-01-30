@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6167/</link>
 		<description>Updates about SB 6167</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 08:30:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 18:32:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,7 +56,7 @@
 			<guid isPermaLink="false">testifier/Dana/Le Roy/2026-01-23 12:01:57</guid>
 		</item>
 		<item>
-			<title>👍Corey Orvold - The Arc of King County</title>
+			<title>👍Corey Orvold - WaTech</title>
 			<description>Corey Orvold signed up to testify Pro.</description>
 			<pubDate>Mon, 26 Jan 2026 07:18:51 GMT</pubDate>
 			<category>testifier</category>
@@ -96,7 +96,7 @@
 			<guid isPermaLink="false">testifier/Token/Dunbar/2026-01-27 10:48:05</guid>
 		</item>
 		<item>
-			<title>👍Angelina Bundy - The Arc of King County</title>
+			<title>👍Angelina Bundy - WaTech</title>
 			<description>Angelina Bundy signed up to testify Pro.</description>
 			<pubDate>Tue, 27 Jan 2026 11:47:23 GMT</pubDate>
 			<category>testifier</category>
@@ -104,7 +104,7 @@
 			<guid isPermaLink="false">testifier/Angelina/Bundy/2026-01-27 11:47:23</guid>
 		</item>
 		<item>
-			<title>👍Angelina Bundy - The Arc of King County</title>
+			<title>👍Angelina Bundy - WaTech</title>
 			<description>Angelina Bundy signed up to testify Pro.</description>
 			<pubDate>Tue, 27 Jan 2026 12:02:26 GMT</pubDate>
 			<category>testifier</category>
@@ -133,6 +133,13 @@
 			<pubDate>Wed, 28 Jan 2026 08:30:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_fbe2e805-06a5-465c-99d6-ea077609ca8d.html#:~:text=6167</guid>
+		</item>
+		<item>
+			<title>WATCH: Bill to reveal potential NGO fraud may have a chance in WA | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: Bill to reveal potential NGO fraud may have a chance in WA | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 29 Jan 2026 18:32:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_1a58a726-6df8-4686-9059-faa3c593198b.html#:~:text=6167</guid>
 		</item>
 	</channel>
 </rss>

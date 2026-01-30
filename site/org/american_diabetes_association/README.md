@@ -8,6 +8,8 @@
 ### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm. 👍2  
 * 👍💵 Matt Prokop
 
+### [HB 2613](/bill/2025-26/hb/2613/) - Compounded medications 👍1  
+
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 * 👍 Matthew Prokop
 

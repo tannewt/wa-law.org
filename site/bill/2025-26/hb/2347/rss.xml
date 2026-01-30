@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2347/</link>
 		<description>Updates about HB 2347</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 10:12:03 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 12:40:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -166,7 +166,7 @@
 			<guid isPermaLink="false">testifier/Steve/Sullivan/2026-01-27 08:02:58</guid>
 		</item>
 		<item>
-			<title>👎Breck Lebegue MD MPH - PNBAA - Pacific Northwest Business Aviation Association</title>
+			<title>👎Breck Lebegue MD MPH - Director - Yakima Air Terminal - McAllister Field</title>
 			<description>Breck Lebegue MD MPH signed up to testify Con.</description>
 			<pubDate>Tue, 27 Jan 2026 09:28:03 GMT</pubDate>
 			<category>testifier</category>
@@ -238,12 +238,60 @@
 			<guid isPermaLink="false">testifier/Carson/Nelson/2026-01-28 08:53:58</guid>
 		</item>
 		<item>
+			<title>👍Rhys Jones - PNBAA - Pacific Northwest Business Aviation Association</title>
+			<description>Rhys Jones signed up to testify Pro.</description>
+			<pubDate>Wed, 28 Jan 2026 09:13:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rhys/Jones/2026-01-28 09:13:50</guid>
+		</item>
+		<item>
 			<title>👍Joseph Smith - PNBAA - Pacific Northwest Business Aviation Association</title>
 			<description>Joseph Smith signed up to testify Pro.</description>
 			<pubDate>Wed, 28 Jan 2026 10:12:03 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Joseph/Smith/2026-01-28 10:12:03</guid>
+		</item>
+		<item>
+			<title>👍Brett Smith - Propeller Airports</title>
+			<description>Brett Smith signed up to testify Pro. They are signed up to represent Propeller Airports.</description>
+			<pubDate>Thu, 29 Jan 2026 02:36:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brett/Smith/2026-01-29 02:36:53</guid>
+		</item>
+		<item>
+			<title>👍Christopher Hopkins - Director - Yakima Air Terminal - McAllister Field</title>
+			<description>Christopher Hopkins signed up to testify Pro. They are signed up to represent Director - Yakima Air Terminal - McAllister Field.</description>
+			<pubDate>Thu, 29 Jan 2026 08:27:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christopher/Hopkins/2026-01-29 08:27:04</guid>
+		</item>
+		<item>
+			<title>👍William Hanlon - Director - Yakima Air Terminal - McAllister Field</title>
+			<description>William Hanlon signed up to testify Pro.</description>
+			<pubDate>Thu, 29 Jan 2026 11:42:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/William/Hanlon/2026-01-29 11:42:12</guid>
+		</item>
+		<item>
+			<title>❓John Flanagan - Port of Seattle</title>
+			<description>John Flanagan signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/port_of_seattle/"&gt;Port of Seattle&lt;/a&gt;.</description>
+			<pubDate>Thu, 29 Jan 2026 12:02:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/John/Flanagan/2026-01-29 12:02:36</guid>
+		</item>
+		<item>
+			<title>👍Jeff Powell - Director - Yakima Air Terminal - McAllister Field</title>
+			<description>Jeff Powell signed up to testify Pro.</description>
+			<pubDate>Thu, 29 Jan 2026 12:40:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Powell/2026-01-29 12:40:06</guid>
 		</item>
 	</channel>
 </rss>

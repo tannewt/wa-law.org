@@ -12,9 +12,11 @@
 ### Wed 02/04 10:30 AM - Housing (HSG): ESHB 1500 CIC resale certificates
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Steve Horvath - HOA United
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

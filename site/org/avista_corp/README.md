@@ -40,6 +40,8 @@
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
+### [HB 2486](/bill/2025-26/hb/2486/) - State energy code costs 👍1  
+
 ### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities   ❓1
 * ❓💵 Josie Cummings
 

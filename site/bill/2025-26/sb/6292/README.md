@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 6292 Health care financing
-Sign up to testify:
-
-#### 368 👍 - Pro
+#### 378 👍 - Pro
 Testifying:
 * Nico Janssen - Office of the Insurance Commissioner
 * Gaelon Spradley - Valley View Health Center

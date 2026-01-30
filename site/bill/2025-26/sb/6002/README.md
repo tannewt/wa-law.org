@@ -8,7 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206002)
 * 01/28/2026 [The Washington Observer](/org/the_washington_observer/) - [Fact-checking the farmworker union debate](https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=SB%206002)
+* 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%206002)
 * 01/28/2026 [The Center Square](/org/the_center_square/) - [WA Senate passes bill banning law enforcement from wearing masks amid ICE activity | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_99476763-d74d-4e3e-9eea-bb4ea08a39d7.html#:~:text=surveillance)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Defending our values and our communities - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%206002)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington from ICE - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/01/26/protecting-washington-from-ice/#:~:text=SB%206002)

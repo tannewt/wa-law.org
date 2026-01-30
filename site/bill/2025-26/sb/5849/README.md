@@ -10,7 +10,12 @@
 ### Wed 02/04 10:30 AM - Early Learning & K-12 Education (EDU): SB 5849 Financial education
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Jeff Gadman - Thurston County Treasurer, President WSACT, Vice President WACO
+* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Conrad Krol - Westbank Financials
+* Elizabeth Cameron
 
 #### 0 👎 - Con
 

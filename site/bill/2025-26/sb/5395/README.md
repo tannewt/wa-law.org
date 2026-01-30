@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 09/25/2025 [Washington State Standard](/org/washington_state_standard/) - [AI reviews rolling out for Medicare in WA for some procedures • Washington State Standard](https://washingtonstatestandard.com/2025/09/25/ai-reviews-rolling-out-for-medicare-in-wa-for-some-procedures/#:~:text=considered%20legislation)

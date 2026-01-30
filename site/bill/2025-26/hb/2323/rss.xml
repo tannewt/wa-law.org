@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2323/</link>
 		<description>Updates about HB 2323</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 09:20:09 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 15:35:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ryan/Fox/2026-01-19 09:20:09</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Bill establishing program helping neurodivergent people interact with police advances in Washington House committee</title>
+			<description>News article "Bill establishing program helping neurodivergent people interact with police advances in Washington House committee" from The Spokesman-Review.</description>
+			<pubDate>Thu, 29 Jan 2026 15:35:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2026/jan/29/bill-establishing-program-helping-neurodivergent-p/#:~:text=The%20bill</guid>
 		</item>
 	</channel>
 </rss>

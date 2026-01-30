@@ -28,13 +28,16 @@
 
 ### [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
 
-## [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
+### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 * 👍 Alexei Calombikidis
+
+## [SB 6241](/bill/2025-26/sb/6241/) - Steelhead populations  👎1 
+* 👎 Jonathan Stumpf
 
 ## 2023-24
 
-### [SB 6119](/bill/2023-24/sb/6119/) - Tires/6PPD and substitutes 👍1  
-* 👍 Alexei Calombikidis
+### [SB 6241](/bill/2023-24/sb/6241/) - Steelhead populations  👎1 
+* 👎 Jonathan Stumpf
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
 * 👍 Lisa Pelly

@@ -10,7 +10,9 @@
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6164 WaTech/PRA exemption
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Bill Kehoe - WaTech
 
 #### 1 👎 - Con
 

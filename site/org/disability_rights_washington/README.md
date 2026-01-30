@@ -147,7 +147,7 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
@@ -157,11 +157,15 @@
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 
-## [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
+### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
+
+## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎1 
+* 👎💵 Kimberly Mosolf
 
 ## 2023-24
 
-### [SB 6286](/bill/2023-24/sb/6286/) - Detention facility fines/DOH 👍1  
+### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment  👎1 
+* 👎💵 Kimberly Mosolf
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

@@ -25,6 +25,8 @@
 ### [HB 2306](/bill/2025-26/hb/2306/) - Transportation budget, supp.   ❓1
 * ❓ Sean Eagan
 
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
+
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2

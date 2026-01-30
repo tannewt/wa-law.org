@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Education (ED): HB 1295 Reading and writing literacy
-Sign up to testify:
-
-#### 377 👍 - Pro
+#### 473 👍 - Pro
 Testifying:
 * Balvina Cortez
 * Sara Buetow - Decoding Dyslexia Washington
@@ -35,13 +33,17 @@ Testifying:
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Alicia Roberts Frank
 * Jill Davidson - Washington State Association of School Psychologists
+* Aileen Hammar
+* Cindy Dupuy
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Tara gusler
 * Dolores Tadlock
 * Rhonda S Stone - Master's level Self-Employed Reading Tutor & Trainer
 * Vicki Stearns
+* Jennifer Denham
+* Garrett Denham
 
 #### 4 ❓ - Other
 Testifying:

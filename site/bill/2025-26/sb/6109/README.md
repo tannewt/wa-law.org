@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SB 6109 Private detention/investment
-Sign up to testify:
-
-#### 905 👍 - Pro
+#### 990 👍 - Pro
 Testifying:
 * Paula Lukaszek - State employee
 * 💵Jean Hill - Washington State Catholic Conference
@@ -20,6 +18,6 @@ Testifying:
 * 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * Tim Warden Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
-#### 66 👎 - Con
+#### 143 👎 - Con
 
 #### 1 ❓ - Other

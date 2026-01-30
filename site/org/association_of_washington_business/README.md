@@ -434,7 +434,7 @@
 * 👎 Max Martin
 * 👎 Max Martin
 
-### [HB 2088](/bill/2025-26/hb/2088/) - Concerning the dietitian licensure compact. 👍1  
+### [HB 2088](/bill/2025-26/hb/2088/) - Dietitian licensure compact 👍1  
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍2  
 
@@ -463,7 +463,7 @@
 ### [HB 2212](/bill/2025-26/hb/2212/) - Reducing microplastic pollution from washing machines.  👎1 
 * 👎💵 Peter Godlewski
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.   ❓1
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act   ❓1
 * ❓💵 Peter Godlewski
 
 ### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots  👎1 
@@ -512,7 +512,7 @@
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
 
 ### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍1  
 
@@ -752,7 +752,7 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 
-### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
 * 👍💵 Lindsey Hueer
 
 ### [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement  👎1 

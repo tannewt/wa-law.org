@@ -87,7 +87,7 @@
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
 * 👍 Lauren McDonald
 
 ## [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1

@@ -22,12 +22,12 @@
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+## [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
 * 👎 Mindy Brooks
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2023-24/sb/6026/) - Residential dev./zones  👎1 
 * 👎 Mindy Brooks
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  

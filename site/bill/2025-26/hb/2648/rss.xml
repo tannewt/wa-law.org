@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2648/</link>
 		<description>Updates about HB 2648</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 08:56:55 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 14:24:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -92,6 +92,29 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brenda/Wiest/2026-01-28 08:56:55</guid>
+		</item>
+		<item>
+			<title>👍Demi Chatters - Teamsters117</title>
+			<description>Demi Chatters signed up to testify Pro.</description>
+			<pubDate>Wed, 28 Jan 2026 09:30:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Demi/Chatters/2026-01-28 09:30:03</guid>
+		</item>
+		<item>
+			<title>👎Sharon Damoff - Washington Association of Sheriffs and Police Chiefs</title>
+			<description>Sharon Damoff signed up to testify Con.</description>
+			<pubDate>Thu, 29 Jan 2026 12:28:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Damoff/2026-01-29 12:28:09</guid>
+		</item>
+		<item>
+			<title>WATCH: Washington lawmakers clash over bills directed at limiting ICE officers | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: Washington lawmakers clash over bills directed at limiting ICE officers | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 29 Jan 2026 14:24:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_203c927e-29f0-4c14-a13c-e05f5e6ae078.html#:~:text=HB%202648</guid>
 		</item>
 	</channel>
 </rss>

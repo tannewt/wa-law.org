@@ -16,11 +16,13 @@
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍6  
 
-## [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍3  
+### [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍3  
+
+## [SB 6068](/bill/2025-26/sb/6068/) - Construction worker wages 👍2  
 
 ## 2023-24
 
-### [SB 5701](/bill/2023-24/sb/5701/) - Prevailing wage/records 👍3  
+### [SB 6068](/bill/2023-24/sb/6068/) - Construction worker wages 👍2  
 
 ### [HB 1981](/bill/2023-24/hb/1981/) - Incentivizing clean nuclear energy manufacturing through preferential business and occupation tax rates. 👍1  
 

@@ -13,7 +13,7 @@
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2567 College scholarships/private
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 17 👍 - Pro
 
 #### 0 👎 - Con
 

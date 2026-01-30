@@ -10,7 +10,7 @@
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2403 Sex offenders/registration
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

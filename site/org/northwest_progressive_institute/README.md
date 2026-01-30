@@ -117,6 +117,9 @@
 * 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
+### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍1  
+* 👍 Cassie Clayton
+
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 * 👍 Cassie Clayton
 
@@ -132,7 +135,7 @@
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍 Andrew Villeneuve
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
 * 👍 Seth Boun
 
 ### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  

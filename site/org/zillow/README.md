@@ -20,7 +20,7 @@
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
 
 ### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍1  
 * 👍💵 Anna Boone

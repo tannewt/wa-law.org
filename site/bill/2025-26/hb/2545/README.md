@@ -10,8 +10,17 @@
 ### Fri 01/30 08:00 AM - Health Care & Wellness (HCW): HB 2545 Coronary interventions
 Sign up to testify:
 
-#### 73 👍 - Pro
+#### 117 👍 - Pro
+Testifying:
+* Dr. Amir Durrani - Kaiser Permanente Federation
+* Roman Daniels-Brown - Washington Ambulatory Surgercy Center Assn.
+* Dr. Charles Rossow - Pulse Heart Institute, Interventional Cardiologist
+* Dr. Mortada Shams - Pulse Heart Institute/Multicare Health System
+* Emily Studebaker - WA Ambulatory Surgery Center Assn, Executive Director
+* Denise Busman - MedAtlas CV
 
-#### 49 👎 - Con
+#### 50 👎 - Con
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 #### 0 ❓ - Other

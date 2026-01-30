@@ -10,7 +10,7 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2610 Nonprofit housing providers
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
 

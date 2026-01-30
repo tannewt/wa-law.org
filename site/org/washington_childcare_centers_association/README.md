@@ -27,6 +27,8 @@
 ### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers   ❓1
 * ❓💵 Amy Anderson
 
+### [HB 2470](/bill/2025-26/hb/2470/) - On-base school construction 👍1  
+
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
@@ -41,7 +43,7 @@
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
 
-### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
 * 👍💵 Amy Anderson
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  

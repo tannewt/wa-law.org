@@ -9,8 +9,10 @@
 
 ### [SB 6209](/bill/2025-26/sb/6209/) - Financial aid awards/private 👍1  
 
-## [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
+### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
+
+## [SB 6259](/bill/2025-26/sb/6259/) - Higher ed./damage by student  👎1 
 
 ## 2023-24
 
-## [SB 6217](/bill/2023-24/sb/6217/) - College grant/credential prg 👍1  
+## [SB 6259](/bill/2023-24/sb/6259/) - Higher ed./damage by student  👎1 

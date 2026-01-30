@@ -37,11 +37,13 @@
 
 ### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
 
-## [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
+### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
+
+## [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
 
 ## 2023-24
 
-### [SB 6004](/bill/2023-24/sb/6004/) - Electric/public contracts 👍1  
+### [SB 6066](/bill/2023-24/sb/6066/) - Crash prevention zones 👍1  
 
 ### [HB 1173](/bill/2023-24/hb/1173/) - Light pollution 👍1  
 

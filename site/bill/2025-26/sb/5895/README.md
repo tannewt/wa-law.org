@@ -9,14 +9,12 @@
 
 ## Meetings
 ### Thu 01/29 04:00 PM - Ways & Means (WM): SSB 5895 Ex. medical placement
-Sign up to testify:
-
-#### 40 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * Sarah Leon
 
-#### 14 👎 - Con
+#### 25 👎 - Con
 
 #### 0 ❓ - Other
 

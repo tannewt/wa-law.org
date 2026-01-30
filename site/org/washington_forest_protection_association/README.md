@@ -39,6 +39,9 @@
 ### [HB 2348](/bill/2025-26/hb/2348/) - Timber sale process 👍1  
 * 👍💵 Matt Doumit
 
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making 👍1  
+* 👍💵 Matt Doumit
+
 ### [SB 5170](/bill/2025-26/sb/5170/) - DNR boundary line surveys 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1

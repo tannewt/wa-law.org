@@ -11,11 +11,9 @@
 
 ## Meetings
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 6192 Reading and math instruction
-Sign up to testify:
+#### 277 👍 - Pro
 
-#### 191 👍 - Pro
-
-#### 273 👎 - Con
+#### 278 👎 - Con
 Testifying:
 * Tara gusler
 * Rhonda S Stone
@@ -24,8 +22,10 @@ Testifying:
 * Lorenzo D’ambrosi
 * Yuri Banzato
 * Vicki Stearns
+* Jennifer Denham
+* Garrett Denham
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Melissa Gombosky - Association of Educational Service Districts (AESD)
 * Misha Cherniske - Office of Superintendent of Public Instruction

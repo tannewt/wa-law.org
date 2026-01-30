@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6015/</link>
 		<description>Updates about SB 6015</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 09:17:45 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 21:42:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -115,6 +115,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dan/Bertolet/2026-01-21 09:17:45</guid>
+		</item>
+		<item>
+			<title>What’s moving in Olympia right now - Sen. June Robinson</title>
+			<description>News article "What’s moving in Olympia right now - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Thu, 29 Jan 2026 21:42:29 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6015</guid>
 		</item>
 	</channel>
 </rss>

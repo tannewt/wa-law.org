@@ -10,8 +10,13 @@
 ### Tue 02/03 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2620 Forest practices rule-making
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 
-#### 0 👎 - Con
+#### 23 👎 - Con
+Testifying:
+* Daniel Harm - The Center for Responsible Forestry
 
 #### 0 ❓ - Other

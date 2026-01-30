@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/29/2026 [KING5](/org/king5/) - [Legislation to set speed threshold for reckless driving charge advances in Olympia | king5.com](https://www.king5.com/article/traffic/traffic-news/reckless-driving-legislation-committee-approval-olympia/281-62665682-bfae-4de9-992c-7acdeb430cc8#:~:text=Senate%20Bill%205238)
 * 03/27/2025 [KIRO7](/org/kiro7/) - [Washington is one step closer to cracking down on excessive speeding – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-is-one-step-closer-cracking-down-excessive-speeding/SAMTZXCZ5JDW7AV4QIOOQ4ZAOM/#:~:text=Senate%20Bill%205238)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205238)
 * 01/27/2025 [MyNorthwest](/org/mynorthwest/) - [New Washington bill targets chronic speeders](https://mynorthwest.com/mynorthwest-politics/washington-bill/4034935#:~:text=Senate%20Bill%205238)

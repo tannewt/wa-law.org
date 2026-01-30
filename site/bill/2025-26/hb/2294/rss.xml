@@ -59,5 +59,26 @@
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-27/CPB - Executive action taken by committee.</guid>
 		</item>
+		<item>
+			<title>CPB - Majority; do pass.</title>
+			<description>CPB - Majority; do pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/CPB - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Minority; without recommendation.</guid>
+		</item>
 	</channel>
 </rss>

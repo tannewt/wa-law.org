@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2385/</link>
 		<description>Updates about HB 2385</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 18 Jan 2026 08:17:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sean/Graham/2026-01-18 08:17:49</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

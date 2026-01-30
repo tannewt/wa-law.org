@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6250 Small loans maximum amount
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * 💵Trent Matson - [Moneytree, Inc.](/org/moneytree,_inc./)
 
-#### 234 👎 - Con
+#### 237 👎 - Con
 Testifying:
 * Andrea Luquetta - [Center for Responsible Lending](/org/center_for_responsible_lending/)
 * Cathleen McCaul - AARP
@@ -27,4 +25,6 @@ Testifying:
 * Kristina Sawyckyj
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Drew Bouton - Department of Financial Institutions

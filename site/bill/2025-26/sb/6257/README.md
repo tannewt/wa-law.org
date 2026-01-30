@@ -8,10 +8,8 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6257 Real estate appraisers
-Sign up to testify:
+#### 49 👍 - Pro
 
-#### 32 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

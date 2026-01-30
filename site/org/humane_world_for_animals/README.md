@@ -10,6 +10,11 @@
 ### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍3  
 * 👍💵 Stephanie Hillman
 
+### [HB 2131](/bill/2025-26/hb/2131/) - Providing for voluntary donations to the sea lion predation control account at the time of vessel registration for the purpose of salmon level preservation.  👎1 
+
+### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.  👎1 
+* 👎💵 Stephanie Hillman
+
 ### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍2  
 
 ### [HB 2542](/bill/2025-26/hb/2542/) - Animal testing alternatives 👍1  

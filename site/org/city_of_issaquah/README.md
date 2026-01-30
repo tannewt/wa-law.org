@@ -74,7 +74,7 @@
 
 ### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
 
 ## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎2 
 

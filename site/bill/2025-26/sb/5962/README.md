@@ -10,3 +10,13 @@
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205962)
 
 ## Meetings
+### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 5962 Spring blade knives
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Michael McKinley
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

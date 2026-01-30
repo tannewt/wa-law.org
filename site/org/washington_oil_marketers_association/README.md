@@ -19,7 +19,7 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
 * 👎💵 Diana Carlen
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.   ❓1
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act   ❓1
 * ❓💵 Diana Carlen
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  

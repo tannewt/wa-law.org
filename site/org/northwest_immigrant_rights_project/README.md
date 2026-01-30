@@ -90,7 +90,8 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
+* 👍💵 Malou Chavez
 * 👍💵 Malou Chavez
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  

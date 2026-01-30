@@ -80,10 +80,17 @@
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Establishing a tourism self-supported assessment program to fund statewide tourism promotion. 👍1  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
 * 👍 Nick Leonti
 
+### [HB 2347](/bill/2025-26/hb/2347/) - Luxury aircraft tax   ❓1
+* ❓ John Flanagan
+
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
+
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
 ### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
 * 👍 John Flanagan
@@ -159,13 +166,14 @@
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 * 👍 John Flanagan
 
-## [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants   ❓1
+### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants   ❓1
 * ❓ John Flanagan
+
+## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ## 2023-24
 
-### [SB 6240](/bill/2023-24/sb/6240/) - Aviation impacts grants   ❓1
-* ❓ John Flanagan
+### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

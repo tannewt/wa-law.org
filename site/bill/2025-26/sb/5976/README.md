@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5976 Commercial electronic mail
-Sign up to testify:
-
-#### 102 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Curt Wike - CSWW, Inc., dba North 40 Outfitters
@@ -22,7 +20,7 @@ Testifying:
 * Poonam Patel - S&P Hotel
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 48 👎 - Con
+#### 55 👎 - Con
 Testifying:
 * Blythe Chandler - WA State Association for Justice
 * Jason Rittereiser - HKM Employment Attorneys

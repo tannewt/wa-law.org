@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Education (ED): HB 2007 Competency-based assessments
-Sign up to testify:
-
-#### 194 👍 - Pro
+#### 210 👍 - Pro
 Testifying:
 * Abigail Stiffler
 * Aabriella Frazier
@@ -18,8 +16,10 @@ Testifying:
 * Nandini Damodaran
 * Noah Wissner
 * Keshav Gopinath
+* Shreya Amit Kumar
+* Elizabeth Cameron
 
-#### 225 👎 - Con
+#### 320 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

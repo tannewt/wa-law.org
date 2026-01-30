@@ -10,8 +10,12 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6294 Local government fund use
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 1 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

@@ -10,7 +10,7 @@
 ### Mon 02/02 01:30 PM - Human Services (HS): SB 6186 SNAP benefits/unhealthy food
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 14 👍 - Pro
 
 #### 0 👎 - Con
 

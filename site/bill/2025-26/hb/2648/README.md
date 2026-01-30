@@ -7,24 +7,25 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2026 [The Center Square](/org/the_center_square/) - [WATCH: Washington lawmakers clash over bills directed at limiting ICE officers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_203c927e-29f0-4c14-a13c-e05f5e6ae078.html#:~:text=HB%202648)
 * 01/26/2026 [The Center Square](/org/the_center_square/) - [WA leaders intensify opposition to federal immigration enforcement efforts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0d60b7f8-7b40-4148-b413-1d394c57d0cd.html#:~:text=HB%202648)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202648)
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2648 Immigration enf. interaction
-Sign up to testify:
-
-#### 255 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * paul benz - WA Coalition for Police Accountability
 * Joe Kunzler - Private Citizen and Fierce Patriot
 * 💵Brenda Wiest - Teamsters117
+* Demi Chatters
 
-#### 928 👎 - Con
+#### 1029 👎 - Con
 Testifying:
 * Rafael Padilla - Washington Association of Sheriffs and Police Chiefs
+* Sharon Damoff
 
 #### 4 ❓ - Other
 Testifying:

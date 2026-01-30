@@ -10,8 +10,11 @@
 ### Fri 01/30 10:30 AM - Environment, Energy & Technology (ENET): SB 6269 Definition of motor fuel
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Alison Halpern - Department of Agriculture
+* 💵Stephanie Celt - Washington State Department of Commerce

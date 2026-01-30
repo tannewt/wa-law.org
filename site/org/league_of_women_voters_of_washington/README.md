@@ -114,6 +114,8 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎3 
 
+### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍2  
+
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  
 
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
@@ -230,6 +232,8 @@
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
 
 ### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
+
+### [SB 6104](/bill/2025-26/sb/6104/) - Agriculture impacts   ❓1
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍2  
 

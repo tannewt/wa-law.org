@@ -105,7 +105,7 @@
 
 ### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
@@ -209,7 +209,7 @@
 
 ### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications 👍1  
 
-### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
+### [SB 5951](/bill/2025-26/sb/5951/) - Albuterol access in schools 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 

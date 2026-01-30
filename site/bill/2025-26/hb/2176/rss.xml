@@ -63,11 +63,32 @@
 			<guid isPermaLink="false">testifier/Rowland/Thompson/2026-01-14 09:13:05</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>SGOV - Executive action taken by committee.</title>
 			<description>SGOV - Executive action taken by committee.</description>
 			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-28/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; do pass.</title>
+			<description>SGOV - Majority; do pass.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/SGOV - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

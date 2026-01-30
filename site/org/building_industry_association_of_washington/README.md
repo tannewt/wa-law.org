@@ -446,7 +446,7 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones. 👍2  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
 * 👍💵 Andrea Smiley
 * 👍💵 Bill Stauffacher
 

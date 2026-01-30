@@ -140,7 +140,7 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
 
 ## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 

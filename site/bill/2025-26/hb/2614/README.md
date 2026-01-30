@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2026 [KUOW](/org/kuow/) - [KUOW - The latest attempt to legalize homegrown marijuana in Washington](https://www.kuow.org/stories/the-latest-attempt-to-legalize-homegrown-marijuana-in-washington#:~:text=House%20Bill%202614,)
 * 01/28/2026 [Washington State Standard](/org/washington_state_standard/) - [The latest attempt to legalize homegrown marijuana in Washington • Washington State Standard](https://washingtonstatestandard.com/2026/01/28/the-latest-attempt-to-legalize-homegrown-marijuana-in-washington/#:~:text=House%20Bill%202614)
 
 ## Meetings

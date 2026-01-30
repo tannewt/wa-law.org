@@ -10,7 +10,9 @@
 ### Fri 01/30 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2640 Unauthorized UCC filings
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* James Manuel - WA Department of Licensing
 
 #### 0 👎 - Con
 

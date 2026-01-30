@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington’s SB 6320 Targets Online and ALE Programs, And Even Big Education Is Pushing Back - Conservative Ladies of Washington](https://conservativeladiesofwa.com/washington-sb-6320-online-learning-ale/#:~:text=SB%206320)
+
 ## Meetings
 ### Wed 01/28 10:30 AM - Early Learning & K-12 Education (EDU): SB 6320 Alternative learning
 #### 11 👍 - Pro

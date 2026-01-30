@@ -64,7 +64,7 @@
 
 ### [HB 2182](/bill/2025-26/hb/2182/) - Abortion medications 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 * 👎💵 Vanessa Saavedra
@@ -150,7 +150,9 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
-### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
+### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍2  
+
+### [SB 5947](/bill/2025-26/sb/5947/) - Establishing the Washington health care board. 👍1  
 
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state. 👍1  
 
@@ -168,13 +170,16 @@
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 * 👍💵 Emily Brice
 
-## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 * 👍💵 Emily Brice
+
+## [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍1  
 
 ## 2023-24
 
-### [SB 6210](/bill/2023-24/sb/6210/) - Health plan certification 👍1  
-* 👍💵 Emily Brice
+### [SB 6305](/bill/2023-24/sb/6305/) - Mental health coverage 👍1  
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

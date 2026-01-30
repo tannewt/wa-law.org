@@ -277,7 +277,7 @@
 
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 
-### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board.   ❓1
+### [SB 5942](/bill/2025-26/sb/5942/) - DCYF accountability board   ❓1
 * ❓ Jeanette Oblecz
 
 ### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  

@@ -8,10 +8,12 @@
 
 ## Meetings
 ### Thu 01/29 04:00 PM - Transportation (TRAN): SB 6155 Parking, person w/disability
-Sign up to testify:
+#### 145 👍 - Pro
+Testifying:
+* Richard Willerton
 
-#### 46 👍 - Pro
-
-#### 14 👎 - Con
+#### 67 👎 - Con
+Testifying:
+* Kristina Sawyckyj
 
 #### 0 ❓ - Other

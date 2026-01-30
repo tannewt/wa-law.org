@@ -102,7 +102,7 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections  👎1 
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions.  👎1 
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services  👎1 
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda  👎1 
 

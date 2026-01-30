@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Thu 01/29 01:30 PM - Higher Education & Workforce Development (HEWD): SB 6259 Higher ed./damage by student
-Sign up to testify:
+#### 324 👍 - Pro
 
-#### 156 👍 - Pro
+#### 204 👎 - Con
 
-#### 14 👎 - Con
-
-#### 3 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Bhargav Iyer - Associated Students of Washington State University

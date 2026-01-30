@@ -10,7 +10,7 @@
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6158 Factory built structures
 Sign up to testify:
 
-#### 74 👍 - Pro
+#### 193 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Tammy Fellin - Department of Labor & Industries

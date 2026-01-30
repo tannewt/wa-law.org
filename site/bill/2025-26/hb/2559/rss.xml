@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2559/</link>
 		<description>Updates about HB 2559</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 13:49:16 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -378,6 +378,13 @@
 			<pubDate>Fri, 23 Jan 2026 13:49:16 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kuow.org/stories/tax-on-short-term-rentals-like-airbnb-again-under-discussion-in-wa#:~:text=House%20Bill%202559</guid>
+		</item>
+		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/FIN - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

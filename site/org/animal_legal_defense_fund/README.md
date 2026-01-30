@@ -26,9 +26,11 @@
 
 ### [HB 1904](/bill/2025-26/hb/1904/) - Declawing cats 👍1  
 
-### [HB 2131](/bill/2025-26/hb/2131/) - Providing for voluntary donations to the sea lion predation control account at the time of vessel registration for the purpose of salmon level preservation.  👎1 
+### [HB 2131](/bill/2025-26/hb/2131/) - Providing for voluntary donations to the sea lion predation control account at the time of vessel registration for the purpose of salmon level preservation.  👎2 
+* 👎 Cat Kelly
 
-### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.  👎1 
+### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.  👎2 
+* 👎 Cat Kelly
 
 ### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
 

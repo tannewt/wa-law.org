@@ -8,17 +8,17 @@
 
 ## Meetings
 ### Thu 01/29 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6241 Steelhead populations
-Sign up to testify:
-
-#### 1258 👍 - Pro
+#### 1541 👍 - Pro
 Testifying:
 * Nello Picinich - Coastal Conservation Association
 * Ryan Swanson
 * Carter Barnes
 * Amanda Fox - Animal Research Initiative
+* Josh Harrel
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * David Moskowitz - No
+* Jonathan Stumpf - [Trout Unlimited](/org/trout_unlimited/)
 
-#### 33 ❓ - Other
+#### 38 ❓ - Other

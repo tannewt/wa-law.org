@@ -328,7 +328,7 @@
 
 ### [HB 2207](/bill/2025-26/hb/2207/) - Concerning warehousing of alcohol.  👎1 
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍1  
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
 
@@ -336,7 +336,7 @@
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
@@ -377,6 +377,8 @@
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
+
+### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
 ### [HB 2422](/bill/2025-26/hb/2422/) - Private security guards 👍1  
 
@@ -652,7 +654,7 @@
 
 ### [SB 5944](/bill/2025-26/sb/5944/) - Concerning language access providers' collective bargaining. 👍1  
 
-### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
+### [SB 5951](/bill/2025-26/sb/5951/) - Albuterol access in schools 👍1  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
@@ -674,6 +676,8 @@
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
+### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
 ### [SB 6058](/bill/2025-26/sb/6058/) - Wage enforcement discretion 👍1  
@@ -685,6 +689,8 @@
 ### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining 👍1  
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+### [SB 6131](/bill/2025-26/sb/6131/) - Roadway fatalities  👎1 
 
 ### [SB 6152](/bill/2025-26/sb/6152/) - Workers' comp./PTs & OTs 👍1  
 
@@ -709,6 +715,8 @@
 ### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
 ### [SB 6302](/bill/2025-26/sb/6302/) - Public works/finishing trade 👍1  
+
+### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
 
 ### [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing 👍1  
 

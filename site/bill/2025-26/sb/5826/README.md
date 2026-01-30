@@ -14,9 +14,11 @@
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5826 Postsecondary/med. abortion
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 54 👍 - Pro
 
-#### 1 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Theresa Schrempp
 
 #### 1 ❓ - Other
 Testifying:

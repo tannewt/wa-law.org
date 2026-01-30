@@ -1,0 +1,79 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2704](/bill/2025-26/hb/2704/) > [Original Bill](/bill/2025-26/hb/2704/1/)
+
+# HB 2704 - Less restrictive alt./DSHS
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2704.pdf)
+
+## Section 1
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Department" means the department of social and health services.
+
+2. "Fair share principles" and "fair share principles of release" means that each county has adequate options for conditional release housing placements in a number generally equivalent to the number of residents from that county who are subject to total confinement pursuant to this chapter.
+
+3. "Health care facility" means any hospital, hospice care center, licensed or certified health care facility, health maintenance organization regulated under chapter 48.46 RCW, federally qualified health maintenance organization, federally approved renal dialysis center or facility, or federally approved blood bank.
+
+4. "Health care practitioner" means an individual or firm licensed or certified to engage actively in a regulated health profession.
+
+5. "Health care services" means those services provided by health professionals licensed pursuant to RCW 18.120.020(4).
+
+6. "Health profession" means those licensed or regulated professions set forth in RCW 18.120.020(4).
+
+7. "Less restrictive alternative" means court-ordered treatment in a setting less restrictive than total confinement that is operated by the department or a provider under contract with the department, and which satisfies the conditions set forth in RCW 71.09.092. A less restrictive alternative may not include placement in the community protection program as pursuant to RCW 71A.12.230.
+
+8. "Likely to engage in predatory acts of sexual violence if not confined in a secure facility" means that the person more probably than not will engage in such acts if released unconditionally from detention on the sexually violent predator petition. Such likelihood must be evidenced by a recent overt act if the person is not totally confined at the time the petition is filed under RCW 71.09.030.
+
+9. "Mental abnormality" means a congenital or acquired condition affecting the emotional or volitional capacity which predisposes the person to the commission of criminal sexual acts in a degree constituting such person a menace to the health and safety of others.
+
+10. "Personality disorder" means an enduring pattern of inner experience and behavior that deviates markedly from the expectations of the individual's culture, is pervasive and inflexible, has onset in adolescence or early adulthood, is stable over time and leads to distress or impairment. Purported evidence of a personality disorder must be supported by testimony of a licensed forensic psychologist or psychiatrist.
+
+11. "Predatory" means acts directed towards: (a) Strangers; (b) individuals with whom a relationship has been established or promoted for the primary purpose of victimization; or (c) persons of casual acquaintance with whom no substantial personal relationship exists.
+
+12. "Prosecuting agency" means the prosecuting attorney of the county where the person was convicted or charged or the attorney general if requested by the prosecuting attorney, as provided in RCW 71.09.030.
+
+13. "Recent overt act" means any act, threat, or combination thereof that has either caused harm of a sexually violent nature or creates a reasonable apprehension of such harm in the mind of an objective person who knows of the history and mental condition of the person engaging in the act or behaviors.
+
+14. "Risk potential activity" or "risk potential facility" means an activity or facility that provides a higher incidence of risk to the public from persons conditionally released from the special commitment center. Risk potential activities and facilities include: Public and private schools, school bus stops, licensed day care and licensed preschool facilities, public parks, publicly dedicated trails, sports fields, playgrounds, recreational and community centers, churches, synagogues, temples, mosques, public libraries, public and private youth camps, and others identified by the department following the hearings on a potential site required in RCW 71.09.315. For purposes of this chapter, "school bus stops" does not include bus stops established primarily for public transit.
+
+15. "Secretary" means the secretary of social and health services or the secretary's designee.
+
+16. "Secure community transition facility" means a residential facility for persons civilly committed and conditionally released to a less restrictive alternative under this chapter. A secure community transition facility has supervision and security, and either provides or ensures the provision of sex offender treatment services. Secure community transition facilities include but are not limited to the facility established pursuant to RCW 71.09.250(1)(a)(i) and any community-based facilities established under this chapter and operated by the secretary or under contract with the secretary.
+
+17. "Secure facility" means a residential facility for persons civilly confined under the provisions of this chapter that includes security measures sufficient to protect the community. Such facilities include total confinement facilities, secure community transition facilities, and any residence used as a court-ordered placement under RCW 71.09.096.
+
+18. "Sexually violent offense" means an act committed on, before, or after July 1, 1990, that is: (a) An act defined in Title 9A RCW as rape in the first degree, rape in the second degree by forcible compulsion, rape of a child in the first or second degree, statutory rape in the first or second degree, indecent liberties by forcible compulsion, indecent liberties against a child under age fourteen, incest against a child under age fourteen, or child molestation in the first or second degree; (b) a felony offense in effect at any time prior to July 1, 1990, that is comparable to a sexually violent offense as defined in (a) of this subsection, or any federal or out-of-state conviction for a felony offense that under the laws of this state would be a sexually violent offense as defined in this subsection; (c) an act of murder in the first or second degree, assault in the first or second degree, assault of a child in the first or second degree, kidnapping in the first or second degree, burglary in the first degree, residential burglary, or unlawful imprisonment, which act, either at the time of sentencing for the offense or subsequently during civil commitment proceedings pursuant to this chapter, has been determined beyond a reasonable doubt to have been sexually motivated, as that term is defined in RCW 9.94A.030; or (d) an act as described in chapter 9A.28 RCW, that is an attempt, criminal solicitation, or criminal conspiracy to commit one of the felonies designated in (a), (b), or (c) of this subsection.
+
+19. "Sexually violent predator" means any person who has been convicted of or charged with a crime of sexual violence and who suffers from a mental abnormality or personality disorder which makes the person likely to engage in predatory acts of sexual violence if not confined in a secure facility.
+
+20. "Total confinement facility" means a secure facility that provides supervision and sex offender treatment services in a total confinement setting. Total confinement facilities include the special commitment center and any similar facility designated as a total confinement facility by the secretary.
+
+21. "Treatment" means the sex offender specific treatment program at the special commitment center or a specific course of sex offender treatment pursuant to RCW 71.09.092 (1) and (2).
+
+## Section 2
+Before the court may enter an order directing conditional release to a less restrictive alternative, it must find the following: (1) The person will be treated by a treatment provider who is qualified to provide such treatment in the state of Washington under chapter 18.155 RCW; (2) the treatment provider has presented a specific course of treatment and has agreed to assume responsibility for such treatment and will report progress to the court on a regular basis, and will report violations immediately to the court, the prosecutor, the supervising community corrections officer, and the superintendent of the special commitment center; (3) housing exists in Washington that complies with distance restrictions, is sufficiently secure to protect the community, is operated by the department or a provider under contract with the department, and the person or agency providing housing to the conditionally released person has agreed in writing to accept the person, to provide the level of security required by the court, and immediately to report to the court, the prosecutor, the supervising community corrections officer, and the superintendent of the special commitment center if the person leaves the housing to which he or she has been assigned without authorization; (4) if the department has proposed housing that is outside of the county of commitment, a documented effort was made by the department to ensure that placement is consistent with fair share principles of release; (5) the person is willing to comply with the treatment provider and all requirements imposed by the treatment provider and by the court; and (6) the person will be under the supervision of the department of corrections and is willing to comply with supervision requirements imposed by the department of corrections.
+
+## Section 3
+1. In accordance with RCW 71.09.090, 71.09.092, and 71.09.096, the department shall have the primary responsibility for developing a less restrictive alternative placement and the exclusive authority to contract with providers to operate housing options for individuals qualifying for a less restrictive alternative. To ensure the department has sufficient less restrictive alternative placements to choose from that satisfy the requirements of RCW 71.09.092, subject to the availability of amounts appropriated for this specific purpose, the department shall use a request for proposal process to solicit and contract with housing and treatment providers from across the state and facilitate fair share principles among the counties. In order to increase the number of housing options for individuals qualifying for a less restrictive alternative and ensure the quality and compliance of such housing, the department shall have oversight of the vendors and providers who contract with the state, including the authority to inspect and ensure compliance, adopt rules to establish and adjust a fee schedule for the rates charged for services, ensure adequate living conditions of housing locations, and terminate contracts. The department shall maintain a statewide accounting of the contracted community housing and treatment providers in each county and provide a biannual report to the legislature and governor by December 1st on the availability and adequacy of less restrictive alternative placements and the department's compliance with fair share principles.
+
+2. To facilitate its duties required under this section, the department shall use the following housing matrix and considerations as a guide to planning and developing less restrictive alternative placements. The following considerations may not be used as a reason to deny a less restrictive alternative placement.
+
+    a. Considerations for evaluating a proposed vendor's application for less restrictive alternative housing services shall include applicable state and local zoning and building codes, general housing requirements, availability of public services, and other considerations identified in accordance with RCW 71.09.315. The department shall require the housing provider to provide proof that the facility is in compliance with all local zoning and building codes.
+
+        i. General housing requirements include running water, electricity, bedroom and living space of adequate size, and no mold or infestations.
+
+        ii. Availability of public services include availability of chaperones and whether the placement is within a reasonable distance to a grocery store, bank, public transportation options, and offices for public services and benefits.
+
+        iii. Other considerations include whether the placement is consistent with fair share principles across the counties, whether the placement is within reasonable distance to other current or planned components of the less restrictive alternative, whether the placement is within reasonable distance to employment opportunities, and the reliability of global positioning system technology.
+
+    b. Factors for evaluating less restrictive alternative options for a specific individual include sex offender treatment considerations, criminogenic needs and risk factors, protective factors, and the specific needs of the client.
+
+        i. Sex offender treatment considerations include whether the housing is within a reasonable distance from the treatment provider, whether the treatment provider is a good therapeutic match with the client, and whether the treatment provider has relevant experience and background to treat the client if the client has special needs.
+
+        ii. Criminogenic needs and risk factors include consideration of the person's specific needs and risk factors in evaluating less restrictive alternative options.
+
+        iii. Protective factors include whether housing is within a reasonable distance of family, friends, potential hobbies, potential employment, and educational opportunities.
+
+        iv. Consideration of the client's specific needs includes assessing the availability of personal care assistance and in-home care assistance, and whether housing is within a reasonable distance of mental health, medical treatment options, and substance use disorder treatment options.
+
+## Section 4
+Sections 1 and 2 of this act take effect August 1, 2027.

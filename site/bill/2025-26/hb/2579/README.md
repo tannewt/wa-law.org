@@ -15,19 +15,26 @@
 ### Fri 01/30 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2579 Public media grants
 Sign up to testify:
 
-#### 810 👍 - Pro
+#### 3525 👍 - Pro
 Testifying:
 * David Fischer
 * Peter Morton
 * 💵Jean Hill - Washington State Catholic Conference
 * Genevieve Barlow - Executive Director of KPTZ Radio Port Townsend
 * Skyler Reep - KSPS PBS
+* Mary Jane Francis
+* Sabrina Roach
+* Peter Kuentzel
+* Pam Goshorn
+* Buck Pavoni - Thurston Community Media
+* Jeannette Sorice
+* Kevin Sur - KEXP
 
-#### 669 👎 - Con
+#### 1037 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jeff Gombosky - CTIA - The Wireless Association
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Eryn Duffee - [Washington Library Association](/org/washington_library_association/)

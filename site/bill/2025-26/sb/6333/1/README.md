@@ -1,0 +1,45 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6333](/bill/2025-26/sb/6333/) > [Original Bill](/bill/2025-26/sb/6333/1/)
+
+# SB 6333 - Multimodal transp. plan
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6333.pdf)
+
+## Section 1
+1. The department shall develop a statewide multimodal transportation plan under RCW 47.01.071(4) and in conformance with federal requirements every three years, to ensure the continued mobility of people and goods within regions and across the state in a safe, cost-effective manner. The statewide multimodal transportation plan shall consist of:
+
+    a. A state-owned facilities component, which shall guide state investment for state highways including bicycle and pedestrian facilities, and state ferries; and
+
+    b. A state-interest component, which shall define the state interest in aviation, marine ports and navigation, freight rail, intercity passenger rail, bicycle transportation and pedestrian walkways, and public transportation, and recommend actions in coordination with appropriate public and private transportation providers to ensure that the state interest in these transportation modes is met.
+
+2. The plans developed under each component must be consistent with the state transportation policy plan and with each other, reflect public involvement, be consistent with regional transportation planning, high capacity transportation planning, and local comprehensive plans prepared under chapter 36.70A RCW, and include analysis of intermodal connections and choices. A primary emphasis for these plans shall be the relief of congestion, the preservation of existing investments and downtowns, ability to attract or accommodate planned population, and employment growth, the improvement of traveler safety, the efficient movement of freight and goods, and the improvement and integration of all transportation modes to create a seamless intermodal transportation system for people and goods.
+
+3. In the development of the statewide multimodal transportation plan, the department shall identify and document potential affected environmental resources including, but not limited to, wetlands, stormwater runoff, flooding, air quality, fish passage, and wildlife habitat. The department shall conduct its environmental identification and documentation in coordination with all relevant environmental regulatory authorities including, but not limited to, local governments. The department shall give the relevant environmental regulatory authorities an opportunity to review the department's environmental plans. The relevant environmental regulatory authorities shall provide comments on the department's environmental plans in a timely manner. Environmental identification and documentation as provided for in RCW 47.01.300 and this section is not intended to create a private right of action or require an environmental impact statement as provided in chapter 43.21C RCW.
+
+4. Beginning January 1, 2027, as part of each statewide multimodal transportation plan, the department must report to the transportation committees of the legislature and the office of financial management with the following information:
+
+    a. Notification of completion of the plan and the date of publication of the previous statewide multimodal transportation plan;
+
+    b. Identification of the part or parts of the report that fulfill each requirement in this chapter;
+
+    c. If a requirement in this chapter is not met by the plan, identification of the requirement with an explanation of why it could not be met; and
+
+    d. An update on progress toward achieving the objectives identified in the state bridge preservation plan in RCW 47.06.050(3).
+
+## Section 2
+The state-owned facilities component of the statewide multimodal transportation plan shall consist of:
+
+1. The state highway system plan, which identifies program and financing needs and recommends specific and financially realistic improvements to preserve the structural integrity of the state highway system, ensure acceptable operating conditions, and provide for enhanced access to scenic, recreational, and cultural resources. The state highway system plan shall contain the following elements:
+
+    a. A system preservation element, which shall establish structural preservation objectives for the state highway system including bridges, identify current and future structural deficiencies based upon analysis of current conditions and projected future deterioration, and recommend program funding levels and specific actions necessary to preserve the structural integrity of the state highway system consistent with adopted objectives. Lowest life-cycle cost methodologies must be used in developing a pavement management system. This element shall serve as the basis for the preservation component of the six-year highway program and the two-year biennial budget request to the legislature;
+
+    b. A highway maintenance element, establishing service levels for highway maintenance on state-owned highways. The highway maintenance element must include an estimate of costs for achieving those service levels over 20 years. This element will serve as the basis for the maintenance component of the six-year highway program and the two-year biennial budget request to the legislature;
+
+    c. A capacity and operational improvement element, which shall establish operational objectives, including safety considerations, for moving people and goods on the state highway system, identify current and future capacity, operational, and safety deficiencies, and recommend program funding levels and specific improvements and strategies necessary to achieve the operational objectives. In developing capacity and operational improvement plans the department shall first assess strategies to enhance the operational efficiency of the existing system before recommending system expansion. Strategies to enhance the operational efficiencies include but are not limited to access management, transportation system management, demand management, and high occupancy vehicle facilities. The capacity and operational improvement element must conform to the state implementation plan for air quality and be consistent with regional transportation plans adopted under chapter 47.80 RCW, and shall serve as the basis for the capacity and operational improvement portions of the six-year highway program and the two-year biennial budget request to the legislature;
+
+    d. A scenic and recreational highways element, which shall identify and recommend designation of scenic and recreational highways, provide for enhanced access to scenic, recreational, and cultural resources associated with designated routes, and recommend a variety of management strategies to protect, preserve, and enhance these resources. The department, affected counties, cities, and towns, regional transportation planning organizations, and other state or federal agencies shall jointly develop this element;
+
+    e. A paths and trails element, which shall identify the needs of nonmotorized transportation modes on the state transportation systems and provide the basis for the investment of state transportation funds in paths and trails, including funding provided under chapter 47.30 RCW.
+
+2. The state ferry system plan, which shall guide capital and operating investments in the state ferry system. The plan shall establish service objectives for state ferry routes, forecast travel demand for the various markets served in the system, develop strategies for ferry system investment that consider regional and statewide vehicle and passenger needs, support local land use plans, and assure that ferry services are fully integrated with other transportation services. The plan must provide for maintenance of capital assets. The plan must also provide for preservation of capital assets based on lowest life-cycle cost methodologies. The plan shall assess the role of private ferries operating under the authority of the utilities and transportation commission and shall coordinate ferry system capital and operational plans with these private operations. The ferry system plan must be consistent with the regional transportation plans for areas served by the state ferry system, and shall be developed in conjunction with the ferry advisory committees.
+
+3. The state bridge preservation plan, which shall establish a long-term plan to bring all state-owned bridges to a state of good repair.

@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Environment & Energy (ENVI): HB 2436 Oil tanker escort
-Sign up to testify:
-
 #### 2 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jaimie Bever - Executive Director, Board of Pilotage Commissioners

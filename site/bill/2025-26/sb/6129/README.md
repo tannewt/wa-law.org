@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206129)
+
 ## Meetings
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6129 Cigarettes, nicotine/tax
 #### 118 👍 - Pro

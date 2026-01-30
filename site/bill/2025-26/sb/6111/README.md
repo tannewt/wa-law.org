@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6111 Minors/digital services
-Sign up to testify:
-
-#### 16 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Danica Noble - Washington State PTA
 * Meghan Kaul - Mothers Against Media Addiction
@@ -26,7 +24,7 @@ Testifying:
 * Delight Roberts
 * Manuela Slye
 
-#### 670 👎 - Con
+#### 759 👎 - Con
 Testifying:
 * William Bei
 * Aodhan Downey - Computer and Communications Industry Association
@@ -35,7 +33,7 @@ Testifying:
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Feliciano - TECHNOLOGY NETWORK
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Colette Vogele - parent advocate
 * Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)

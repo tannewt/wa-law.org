@@ -11,7 +11,7 @@
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SSB 6066 Crash prevention zones
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 

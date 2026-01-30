@@ -10,9 +10,11 @@
 ### Wed 02/04 04:00 PM - Capital Budget (CB): HB 2273 Embodied carbon/buildings
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other
 

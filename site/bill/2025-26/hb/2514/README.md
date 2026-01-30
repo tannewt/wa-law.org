@@ -10,8 +10,8 @@
 ### Tue 02/03 01:30 PM - State Government & Tribal Relations (SGOV): HB 2514 War on terror memorial
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 30 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

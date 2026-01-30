@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [Bill establishing program helping neurodivergent people interact with police advances in Washington House committee](https://www.spokesman.com/stories/2026/jan/29/bill-establishing-program-helping-neurodivergent-p/#:~:text=The%20bill)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202323)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202323)
 

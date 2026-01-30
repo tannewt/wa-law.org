@@ -14,9 +14,11 @@
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6081 Government record privacy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Dana Savage - Association of Washington Assistant Attorneys General
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

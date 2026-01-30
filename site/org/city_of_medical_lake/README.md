@@ -11,6 +11,9 @@
 
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
 
+### [HB 2291](/bill/2025-26/hb/2291/) - Kratom   ❓1
+* ❓ Mayor Terri Cooper
+
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍2  

@@ -19,9 +19,9 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): 2SSB 5292 Family & medical leave rates
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

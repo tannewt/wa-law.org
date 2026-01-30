@@ -12,7 +12,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Beth Ebel - UW Faculty Leg Rep, Council of Faculty
+* Matt Altman - CWU Faculty Legislative Rep, Council of Faculty
 
 #### 0 ❓ - Other
 

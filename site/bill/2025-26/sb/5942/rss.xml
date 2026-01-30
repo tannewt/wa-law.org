@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5942 - Concerning the department of children, youth, and families accountability board.</title>
+		<title>SB 5942 - DCYF accountability board</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5942/</link>
 		<description>Updates about SB 5942</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 15:44:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 07:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,34 @@
 			<pubDate>Wed, 14 Jan 2026 15:44:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_66d4ee59-856b-410c-bd7a-370f16a9cf4e.html#:~:text=Senate%20Bill%205942</guid>
+		</item>
+		<item>
+			<title>HS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/HS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-27/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Op-Ed: Terrible time to shut down oversight of WA children’s agency | Opinion | thecentersquare.com</title>
+			<description>News article "Op-Ed: Terrible time to shut down oversight of WA children’s agency | Opinion | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 29 Jan 2026 07:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/opinion/article_c604f787-daed-47cc-ba38-8e113650240c.html#:~:text=Senate%20Bill%205942</guid>
 		</item>
 	</channel>
 </rss>

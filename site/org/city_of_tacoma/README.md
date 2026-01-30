@@ -66,6 +66,8 @@
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
+### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Alex MacBain
 * 👍 Alex MacBain

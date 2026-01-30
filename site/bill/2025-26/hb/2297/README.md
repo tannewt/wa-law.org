@@ -14,11 +14,18 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2297 Grocery store incentives
 Sign up to testify:
 
-#### 20 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * Lylianna Allala - [City of Seattle](/org/city_of_seattle/)
+* 💵Jake Garcia - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* Mike Wenrick - PCC Community Makrets
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
+* 💵Nilu Jenks
 
-#### 450 👎 - Con
+#### 737 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kate Armstrong - Department of Revenue

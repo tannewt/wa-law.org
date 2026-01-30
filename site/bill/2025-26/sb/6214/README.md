@@ -10,7 +10,7 @@
 ### Fri 01/30 10:30 AM - Housing (HSG): SB 6214 Land banking authorities
 Sign up to testify:
 
-#### 62 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Kitty Klitzke
@@ -20,6 +20,8 @@ Testifying:
 * Chris Collier - Housing Authority of Snohomish County
 * Reggie Brown - 1DROP
 
-#### 488 👎 - Con
+#### 907 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kate Armstrong - Department of Revenue

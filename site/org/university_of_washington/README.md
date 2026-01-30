@@ -158,13 +158,16 @@
 
 ### [SB 6138](/bill/2025-26/sb/6138/) - Dental deep sedation  👎2 
 
-## [SB 6235](/bill/2025-26/sb/6235/) - Athletics/private equity  👎1 
+### [SB 6235](/bill/2025-26/sb/6235/) - Athletics/private equity  👎1 
 * 👎💵 Morgan Hickel
+
+### [SB 6259](/bill/2025-26/sb/6259/) - Higher ed./damage by student  👎2 
+
+## [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
 
 ## 2023-24
 
-### [SB 6235](/bill/2023-24/sb/6235/) - Athletics/private equity  👎1 
-* 👎💵 Morgan Hickel
+### [SB 6325](/bill/2023-24/sb/6325/) - Higher education procedures 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

@@ -16,11 +16,13 @@
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Dave Arbaugh
 
-## [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+
+## [SB 6269](/bill/2025-26/sb/6269/) - Definition of motor fuel 👍1  
 
 ## 2023-24
 
-### [SB 5968](/bill/2023-24/sb/5968/) - Permitting and licensing 👍1  
+### [SB 6269](/bill/2023-24/sb/6269/) - Definition of motor fuel 👍1  
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
 

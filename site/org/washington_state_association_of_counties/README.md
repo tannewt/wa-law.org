@@ -282,6 +282,9 @@
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓💵 Axel Swanson
 
+### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  
 * 👍💵 Travis Dutton
 
@@ -326,6 +329,9 @@
 * 👍 BRIAN ENSLOW
 
 ### [HB 2566](/bill/2025-26/hb/2566/) - Local government procurement 👍1  
+* 👍💵 Axel Swanson
+
+### [HB 2588](/bill/2025-26/hb/2588/) - County ferry districts 👍1  
 * 👍💵 Axel Swanson
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Election security   ❓1

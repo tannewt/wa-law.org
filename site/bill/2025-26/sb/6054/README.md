@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session is in Full Swing! - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/23/the-2026-legislative-session-is-in-full-swing/#:~:text=SB%206054)

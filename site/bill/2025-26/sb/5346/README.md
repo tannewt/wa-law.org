@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5346 Student mobile device use
-Sign up to testify:
-
-#### 96 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Gabriella Barrett-Bowen
 * Julie Molina
@@ -27,12 +25,12 @@ Testifying:
 * Takahiro Yoshida
 * David Jackson - Sherman Elementary PTSA
 
-#### 4 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * John Axtell
 * Julie Chea
 
-#### 15 ❓ - Other
+#### 20 ❓ - Other
 Testifying:
 * Danica Noble - Coalition for a Media-Safe Childhood
 * MD MPH, Dr. Dimitri Christakis - Professor, Seattle Children's Hospital; Editor in Chief, JAMA Pediatrics
@@ -48,3 +46,4 @@ Testifying:
 * Dr. Russ Payne
 * Mark Lovre - Teacher
 * Mo Canady - National Association of School Resource Officers
+* Payton Drader - High School Student

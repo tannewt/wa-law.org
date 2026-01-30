@@ -10,11 +10,19 @@
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 6305 Mental health coverage
 Sign up to testify:
 
-#### 270 👍 - Pro
+#### 368 👍 - Pro
 Testifying:
 * Katherine Glaves - Washington Association of Marriage and Family Therapy
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵London Breedlove - Washington State Psychological Association
+* Chuck Benincasa
+* Jaime Wilson
+* 💵David Lloyd - Inseparable
+* Casey Akerhielm - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Steven Pearce - Citizens Commission on Human Rights
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
 #### 0 ❓ - Other

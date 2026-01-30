@@ -10,7 +10,7 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 5868 Superior court judges
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

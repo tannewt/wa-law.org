@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%205884)
 * 01/22/2026 [Senate Democrats](/org/senate_democrats/) - [WATCH: Creating more affordable housing in Spokane - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/21/watch-creating-more-affordable-housing-in-spokane/#:~:text=Senate%20Bill%205884)
 * 01/14/2026 [The Center Square](/org/the_center_square/) - [Spokane housing bills clear first hurdle, could cost state millions in revenue | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_74a30acb-a834-4225-ba2d-3b0865868216.html#:~:text=Senate%20Bill%205884)
 * 01/13/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: Key housing bills to receive public hearings on Wednesday - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/13/media-advisory-key-housing-bills-to-receive-public-hearings-on-wednesday/#:~:text=Senate%20Bill%205884)
@@ -17,7 +18,7 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5884 Underutilized property/tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

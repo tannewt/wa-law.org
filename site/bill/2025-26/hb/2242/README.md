@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2242](/bill/2025-26/hb/2242/)
 
-# HB 2242 - Preserving access to preventive services by clarifying state authority and definitions.
+# HB 2242 - Preventive health services
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2242&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/15/2026 [House Democrats](/org/house_democrats/) - [Health Care & Wellness Committee to hear Chair Bronoske’s priority bills Friday  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/15/healthcare-wellness-committee-to-hear-chair-bronoskes-priority-bills-friday/#:~:text=HB 2242)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6239/</link>
 		<description>Updates about SB 6239</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 19:59:30 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -271,11 +271,39 @@
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/01/27/wa-lawmakers-attempt-to-rein-in-runaway-lawsuit-costs/#:~:text=Senate%20Bill%206239</guid>
 		</item>
 		<item>
+			<title>KUOW - Washington lawmakers attempt to rein in runaway lawsuit costs</title>
+			<description>News article "KUOW - Washington lawmakers attempt to rein in runaway lawsuit costs" from KUOW.</description>
+			<pubDate>Wed, 28 Jan 2026 14:44:40 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/washington-lawmakers-attempt-to-rein-in-runaway-lawsuit-costs#:~:text=Senate%20Bill%206239</guid>
+		</item>
+		<item>
 			<title>Fact-checking the farmworker union debate</title>
 			<description>News article "Fact-checking the farmworker union debate" from The Washington Observer.</description>
 			<pubDate>Wed, 28 Jan 2026 19:59:30 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=Sen.%20Manka%20Dhingra’s%20bill</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

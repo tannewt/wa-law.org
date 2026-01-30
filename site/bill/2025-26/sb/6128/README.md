@@ -10,7 +10,10 @@
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6128 Independent medical exams
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Brett Fink
+* 💵Carolyn Logue - Washington IME Coalition
 
 #### 0 👎 - Con
 

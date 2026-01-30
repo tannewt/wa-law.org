@@ -23,6 +23,9 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎5 
 
+### [SB 5924](/bill/2025-26/sb/5924/) - Pharmacist prescriptive auth 👍1  
+* 👍 Jimmy Houpt
+
 ## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
 
 ## 2023-24

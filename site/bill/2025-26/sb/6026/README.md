@@ -1,12 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6026](/bill/2025-26/sb/6026/)
 
-# SB 6026 - Concerning residential development in commercial and mixed-use zones.
+# SB 6026 - Residential dev./zones
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=6026&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6026)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=turn%20vacant%20commercial%20buildings)
 * 01/20/2026 [PubliCola](/org/publicola/) - [Legislation Would Open Up Commercial Areas, and Ground-Floor Spaces, to Housing - PubliCola](https://publicola.com/2026/01/20/legislation-would-open-up-commercial-areas-and-ground-floor-spaces-to-housing/#:~:text=sponsoring%20a%20bill)
 * 01/16/2026 [KUOW](/org/kuow/) - [KUOW - Could fewer shops lead to lower housing costs in Washington? Gov. Ferguson hopes so](https://www.kuow.org/stories/could-fewer-shops-lead-to-lower-housing-costs-wa-s-governor-hopes-so#:~:text=6026)

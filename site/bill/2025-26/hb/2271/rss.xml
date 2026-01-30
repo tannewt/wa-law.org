@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2271/</link>
 		<description>Updates about HB 2271</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jan 2026 12:52:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -180,6 +180,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Darbi/Gottlieb/2026-01-14 12:52:24</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

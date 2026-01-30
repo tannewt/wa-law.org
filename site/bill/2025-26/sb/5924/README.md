@@ -13,13 +13,31 @@
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5924 Pharmacist prescriptive auth
 Sign up to testify:
 
-#### 124 👍 - Pro
+#### 267 👍 - Pro
 Testifying:
 * Boris Zhang
 * Yujun Luo
 * Alex Nguyen
 * Quinn Lifschitz
+* Colby Burns - I am a member of the Washington State Pharmacy Association
+* Mary Munjua - Bridging Care
+* 💵Carolyn Logue - Washington Food Industry Association
+* Amna Qazi
+* Bob Lutz
+* 💵Brandy Seignemartin - Alaska Pharmacy Association
+* Jenny Arnold - Washington State Pharmacy Association
+* Jacqueline Eide - Goldendale Pharmacy
+* Kayla Hensley - Fred Meyer Pharmacy
+* Scott Herzog - Kelley-Ross Pharmacies
+* Boris Zhang - Washington State Pharmacy Association
+* Jimmy Houpt - [Multicare Health System](/org/multicare_health_system/)
+* Lisa Nelson - Unity Care NW
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Kelly Richardson - CCHR Washington State
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Sherry Thomas - Washington State Department of Health
+* Gabriel Jacobs

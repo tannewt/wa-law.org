@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5947 Health care board
-Sign up to testify:
-
-#### 2305 👍 - Pro
+#### 2459 👍 - Pro
 Testifying:
 * Steven Field
 * David Loud - Health Care Is a Human Right WA
@@ -32,6 +30,6 @@ Testifying:
 * Hiroshi Nakano
 * Alfred Albear - Students for a National Health Program
 
-#### 772 👎 - Con
+#### 825 👎 - Con
 
 #### 3 ❓ - Other

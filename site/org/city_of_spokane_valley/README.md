@@ -202,7 +202,7 @@
 
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload  👎2 
 
-### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓2
 
 ### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
 
@@ -228,7 +228,7 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
-### [SB 5942](/bill/2025-26/sb/5942/) - Concerning the department of children, youth, and families accountability board. 👍1  
+### [SB 5942](/bill/2025-26/sb/5942/) - DCYF accountability board 👍1  
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders  👎1 
 
@@ -240,7 +240,7 @@
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 

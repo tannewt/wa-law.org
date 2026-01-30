@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1980/</link>
 		<description>Updates about HB 1980</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 06:26:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -245,6 +245,22 @@
 			<pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-19/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Kevin Wallace - Wallace Properties, Inc.</title>
+			<description>Kevin Wallace signed up to testify Pro. They are signed up to represent Wallace Properties, Inc..</description>
+			<pubDate>Thu, 29 Jan 2026 05:12:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Wallace/2026-01-29 05:12:22</guid>
+		</item>
+		<item>
+			<title>👍Matt Jack - Bellevue Downtown Association</title>
+			<description>Matt Jack signed up to testify Pro. They are signed up to represent Bellevue Downtown Association.</description>
+			<pubDate>Thu, 29 Jan 2026 06:26:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Jack/2026-01-29 06:26:35</guid>
 		</item>
 	</channel>
 </rss>

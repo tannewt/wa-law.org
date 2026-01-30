@@ -22,6 +22,8 @@
 
 ### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍1  
 
+### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
+
 ### [HB 2578](/bill/2025-26/hb/2578/) - Fish and wildlife commission 👍1  
 
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍2  

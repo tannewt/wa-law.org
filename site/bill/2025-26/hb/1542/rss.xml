@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1542/</link>
 		<description>Updates about HB 1542</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 11:35:53 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Alyssa/Odegaard/2026-01-26 11:35:53</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

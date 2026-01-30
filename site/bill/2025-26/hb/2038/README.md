@@ -19,11 +19,11 @@
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2038 Youth behavioral health acc.
 Sign up to testify:
 
-#### 22 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Tim Jordan
 
-#### 463 👎 - Con
+#### 784 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * 💵Amy Harris - WA TECHNOLOGY INDUSTRY ASSN

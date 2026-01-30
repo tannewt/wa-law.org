@@ -10,8 +10,10 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2376 Property tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Laurie Layne
 
 #### 0 ❓ - Other

@@ -213,6 +213,8 @@
 
 ### [SB 5895](/bill/2025-26/sb/5895/) - Ex. medical placement 👍1  
 
+### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
+
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
@@ -227,13 +229,16 @@
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
 * 👍💵 Hannah Woerner
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 * 👎💵 Antonio Ginatta
+
+### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
+
+## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims  👎1 
-* 👎💵 Antonio Ginatta
+### [SB 6304](/bill/2023-24/sb/6304/) - WSIB investing principles 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

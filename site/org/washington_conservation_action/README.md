@@ -66,7 +66,7 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍2  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
 * 👍 Julian Santos
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
@@ -190,6 +190,9 @@
 * 👍 Caitlin Krenn
 
 ### [SB 6172](/bill/2025-26/sb/6172/) - Coal-fired electric plant 👍1  
+* 👍 Caitlin Krenn
+
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 * 👍 Caitlin Krenn
 
 ## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  

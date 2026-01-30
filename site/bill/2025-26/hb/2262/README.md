@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Education (ED): HB 2262 Signature education
-Sign up to testify:
-
-#### 382 👍 - Pro
+#### 456 👍 - Pro
 Testifying:
 * Brenda Chilton - Benton County Auditor
 

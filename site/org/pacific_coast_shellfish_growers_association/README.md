@@ -16,6 +16,8 @@
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
 
+### [SB 6104](/bill/2025-26/sb/6104/) - Agriculture impacts 👍1  
+
 ### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎1 
 
 ## [SB 6318](/bill/2025-26/sb/6318/) - Commercial shellfish fees 👍1  

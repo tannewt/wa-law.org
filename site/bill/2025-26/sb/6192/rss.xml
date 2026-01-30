@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6192/</link>
 		<description>Updates about SB 6192</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 12:04:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 12:50:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Vicki/Stearns/2026-01-28 12:04:32</guid>
+		</item>
+		<item>
+			<title>👎Jennifer Denham - Washington Education Association</title>
+			<description>Jennifer Denham signed up to testify Con.</description>
+			<pubDate>Thu, 29 Jan 2026 12:49:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jennifer/Denham/2026-01-29 12:49:23</guid>
+		</item>
+		<item>
+			<title>👎Garrett Denham - Washington Education Association</title>
+			<description>Garrett Denham signed up to testify Con.</description>
+			<pubDate>Thu, 29 Jan 2026 12:50:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Garrett/Denham/2026-01-29 12:50:08</guid>
 		</item>
 	</channel>
 </rss>

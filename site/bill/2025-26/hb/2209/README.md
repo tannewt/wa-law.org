@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2026 [Axios](/org/axios/) - [Felony retail theft cases hit 5-year high in King County - Axios Seattle](https://www.axios.com/local/seattle/2026/01/28/king-county-retail-theft-data-repeat-offenders-2025-washington-state#:~:text=HB%202209)
+
 ## Meetings
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2209 Stolen property/sentencing
 #### 279 👍 - Pro

@@ -319,6 +319,8 @@
 * 👎💵 Julie Salvi
 * 👎💵 Julie Salvi
 
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
+
 ### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg. 👍2  
 * 👍 Joanna Barnes
 
@@ -675,6 +677,8 @@
 
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
+### [SB 5439](/bill/2025-26/sb/5439/) - Thermal coal divestment/SIB 👍1  
+
 ### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
@@ -838,7 +842,7 @@
 
 ### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍1  
 
-### [SB 5951](/bill/2025-26/sb/5951/) - Expanding access to albuterol in public and private schools. 👍1  
+### [SB 5951](/bill/2025-26/sb/5951/) - Albuterol access in schools 👍1  
 
 ### [SB 5952](/bill/2025-26/sb/5952/) - High school PE waivers  👎1 
 
@@ -876,6 +880,8 @@
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system   ❓1
 * ❓💵 Simone Boe
 
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
+
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services 👍1  
 
 ### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining 👍1  
@@ -911,10 +917,12 @@
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍1  
 
+### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+
 ### [SB 6320](/bill/2025-26/sb/6320/) - Alternative learning  👎1 
 * 👎💵 Julie Salvi
 
-### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
+### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍2  
 * 👍💵 Simone Boe
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1

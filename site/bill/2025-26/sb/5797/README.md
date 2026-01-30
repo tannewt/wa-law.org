@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/29/2026 [The Center Square](/org/the_center_square/) - [Tech sector gloom prompts worries of an economic slowdown in Seattle | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_197077b9-c22c-4adc-9704-072866c0ca1e.html#:~:text=wealth)
 * 11/19/2025 [KUOW](/org/kuow/) - [KUOW - Downbeat outlook persists in WA’s final budget forecast of the year](https://www.kuow.org/stories/downbeat-outlook-persists-in-wa-s-final-budget-forecast-of-the-year#:~:text=untested%20“wealth%20tax”)
 * 11/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Downbeat outlook persists in WA’s final budget forecast of the year • Washington State Standard](https://washingtonstatestandard.com/2025/11/18/downbeat-outlook-persists-in-was-final-budget-forecast-of-the-year/#:~:text=untested%20“wealth%20tax)
 * 11/14/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature’s ‘Revenue Queen’ readies for 2026 tax battles • Washington State Standard](https://washingtonstatestandard.com/2025/11/14/wa-legislatures-revenue-queen-readies-for-2026-tax-battles/#:~:text=One,%20the%20so-called%20wealth%20tax)

@@ -11,7 +11,7 @@
 ### [HB 2196](/bill/2025-26/hb/2196/) - PANDAS, pediatric treatment   ❓1
 * ❓💵 Marissa Ingalls
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 * 👍💵 Marissa Ingalls
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
@@ -45,13 +45,16 @@
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program   ❓3
 * ❓💵 Marissa Ingalls
 
-## [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 * 👍💵 Marissa Ingalls
+
+## [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage  👎1 
+* 👎💵 Marissa Ingalls
 
 ## 2023-24
 
-### [SB 6292](/bill/2023-24/sb/6292/) - Health care financing 👍1  
-* 👍💵 Marissa Ingalls
+### [SB 6305](/bill/2023-24/sb/6305/) - Mental health coverage  👎1 
+* 👎💵 Marissa Ingalls
 
 ### [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health   ❓1
 * ❓ Peggi Lewis Fu

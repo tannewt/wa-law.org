@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2411/</link>
 		<description>Updates about HB 2411</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -89,6 +89,27 @@
 			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-27/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 60; nays, 36; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 60; nays, 36; absent, 0; excused, 2.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Third reading, passed; yeas, 60; nays, 36; absent, 0; excused, 2.</guid>
 		</item>
 	</channel>
 </rss>

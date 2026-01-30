@@ -38,7 +38,7 @@
 
 ### [HB 2191](/bill/2025-26/hb/2191/) - Construction worker wages  👎1 
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington.  👎1 
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act  👎1 
 
 ### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation.  👎1 
 

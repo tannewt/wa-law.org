@@ -10,11 +10,14 @@
 ### Fri 01/30 10:30 AM - Environment, Energy & Technology (ENET): SB 6223 Community weatherization
 Sign up to testify:
 
-#### 268 👍 - Pro
+#### 398 👍 - Pro
 Testifying:
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Allen Carbert - Washington State Department of Commerce

@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 01/29 04:00 PM - Transportation (TR): HB 2347 Luxury aircraft tax
-Sign up to testify:
-
-#### 409 👍 - Pro
+#### 578 👍 - Pro
 Testifying:
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 * Alan Burnett - Pacific Northwest Business Aviation Association (PNBAA)
@@ -40,10 +38,17 @@ Testifying:
 * Shawn Pratt
 * Justin Miller - PNBAA - Pacific Northwest Business Aviation Association
 * Carson Nelson
+* Rhys Jones
 * Joseph Smith
+* Brett Smith - Propeller Airports
+* Christopher Hopkins - Director - Yakima Air Terminal - McAllister Field
+* William Hanlon
+* Jeff Powell
 
-#### 330 👎 - Con
+#### 403 👎 - Con
 Testifying:
 * Breck Lebegue MD MPH
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)

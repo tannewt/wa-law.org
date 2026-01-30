@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2209/</link>
 		<description>Updates about HB 2209</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 11:23:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 14:25:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -125,6 +125,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Antonio/Ginatta/2026-01-20 11:23:25</guid>
+		</item>
+		<item>
+			<title>Felony retail theft cases hit 5-year high in King County - Axios Seattle</title>
+			<description>News article "Felony retail theft cases hit 5-year high in King County - Axios Seattle" from Axios.</description>
+			<pubDate>Wed, 28 Jan 2026 14:25:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/01/28/king-county-retail-theft-data-repeat-offenders-2025-washington-state#:~:text=HB%202209</guid>
 		</item>
 	</channel>
 </rss>

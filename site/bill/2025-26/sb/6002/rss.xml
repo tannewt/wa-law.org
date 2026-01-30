@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6002/</link>
 		<description>Updates about SB 6002</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 19:59:30 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Jan 2026 21:42:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -523,11 +523,25 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_99476763-d74d-4e3e-9eea-bb4ea08a39d7.html#:~:text=surveillance</guid>
 		</item>
 		<item>
+			<title>Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen</title>
+			<description>News article "Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 28 Jan 2026 19:00:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%206002</guid>
+		</item>
+		<item>
 			<title>Fact-checking the farmworker union debate</title>
 			<description>News article "Fact-checking the farmworker union debate" from The Washington Observer.</description>
 			<pubDate>Wed, 28 Jan 2026 19:59:30 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=SB%206002</guid>
+		</item>
+		<item>
+			<title>What’s moving in Olympia right now - Sen. June Robinson</title>
+			<description>News article "What’s moving in Olympia right now - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Thu, 29 Jan 2026 21:42:29 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206002</guid>
 		</item>
 	</channel>
 </rss>

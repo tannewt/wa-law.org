@@ -72,9 +72,9 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 Leah Missik
 
-### [HB 2134](/bill/2025-26/hb/2134/) - Concerning regional transportation plans, of regional transportation planning organizations containing certain counties, providing for reductions in greenhouse gas emissions and vehicle miles traveled. 👍1  
+### [HB 2134](/bill/2025-26/hb/2134/) - Regional transp. plans 👍1  
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Concerning climate commitment act compliance obligations for fuels supplied or otherwise sold into Washington. 👍1  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍1  
 * 👍💵 Leah Missik
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍2  
@@ -189,6 +189,8 @@
 
 ### [SB 6172](/bill/2025-26/sb/6172/) - Coal-fired electric plant 👍1  
 * 👍💵 Leah Missik
+
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
 ## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  
 * 👍💵 Leah Missik

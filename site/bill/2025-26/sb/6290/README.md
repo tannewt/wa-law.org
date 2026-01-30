@@ -10,7 +10,7 @@
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6290 Liquor and cannabis board
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

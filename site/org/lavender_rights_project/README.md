@@ -46,6 +46,8 @@
 ### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
 * 👍 Jaelynn Scott
 
+### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services   ❓1
+
 ### [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍1  
 
 ## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  

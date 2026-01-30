@@ -61,7 +61,7 @@
 
 ### [SB 5310](/bill/2025-26/sb/5310/) - Child care subsidy rates  👎1 
 
-### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care rate model 👍1  
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍4  
 

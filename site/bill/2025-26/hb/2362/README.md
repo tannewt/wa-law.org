@@ -17,10 +17,14 @@
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2362 Impaired driving
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Linda Thompson - In Memory of Trevor Pierce, 9/16/1982 - 8/16/1986
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Candace Reid - Mothers Against Drunk Driving
+* Mark McKechnie - Washington Traffic Safety Commission
+* Mellani McAleenan - AAA Washington
+* James Fell - Independent Research Consultant
 
 #### 0 👎 - Con
 

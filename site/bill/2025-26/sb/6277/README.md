@@ -10,7 +10,7 @@
 ### Tue 02/03 08:00 AM - Early Learning & K-12 Education (EDU): SB 6277 Military families/education
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

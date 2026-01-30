@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2217 Rehabilitative pathways
-Sign up to testify:
-
-#### 81 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Gisella Gonzales - Team children
 * Kevin Schnepel
@@ -24,7 +22,7 @@ Testifying:
 * Melinda Young
 * Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
-#### 196 👎 - Con
+#### 278 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Michelle Bart - National Womens Coalition Against Violence and Exploitation

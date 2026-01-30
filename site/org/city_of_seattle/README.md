@@ -188,7 +188,11 @@
 
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
 
+### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants 👍1  
+
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
+
+### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 

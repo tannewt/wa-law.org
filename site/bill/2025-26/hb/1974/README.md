@@ -14,9 +14,9 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 1974 Land banking authorities
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

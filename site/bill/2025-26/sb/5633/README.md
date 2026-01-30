@@ -11,25 +11,26 @@
 
 ## Meetings
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5633 Subdivision of land
-Sign up to testify:
-
-#### 195 👍 - Pro
+#### 246 👍 - Pro
 Testifying:
 * Brian Holtzclaw - Master Builders Association of King & Snohomish Counties
 * Ian Faulds - Core Design
 * Mark Villwock - DR Horton
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bill Clarke - Washington REALTORS
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Jeff Rimack - City of Lakewood, Planning & Public Works Director
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Jeff Pack - me
 * Blake Lyon - City of Bellingham, WA
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 02/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5633 Subdivision of land
 #### 112 👍 - Pro

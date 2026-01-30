@@ -4,7 +4,7 @@
 ### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
 * 👍 Jackie Boschok
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ## [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 

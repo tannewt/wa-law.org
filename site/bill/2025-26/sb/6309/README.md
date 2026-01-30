@@ -8,10 +8,13 @@
 
 ## Meetings
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6309 High cap. transit permits
-Sign up to testify:
+#### 13 👍 - Pro
+Testifying:
+* Kristina Walker - Sound Transit
+* 💵Alex Soldano
 
-#### 3 👍 - Pro
+#### 4 👎 - Con
 
-#### 3 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

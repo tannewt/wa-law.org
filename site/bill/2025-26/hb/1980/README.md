@@ -12,7 +12,10 @@
 ### Tue 02/03 04:00 PM - Transportation (TRAN): ESHB 1980 Employer transp. services
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Kevin Wallace - Wallace Properties, Inc.
+* Matt Jack - Bellevue Downtown Association
 
 #### 0 👎 - Con
 

@@ -53,6 +53,9 @@
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍2  
 * 👍💵 Rian Watt
 
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
+* 👍 Sam Hatzenbeler
+
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 * 👍💵 Alexis Mansanarez
 
@@ -64,7 +67,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
-### [HB 2242](/bill/2025-26/hb/2242/) - Preserving access to preventive services by clarifying state authority and definitions. 👍1  
+### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 

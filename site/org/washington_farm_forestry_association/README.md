@@ -19,6 +19,9 @@
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
 
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making 👍1  
+* 👍 Elaine Oneil
+
 ### [SB 5444](/bill/2025-26/sb/5444/) - Special license plates 👍3  ❓1
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍2  

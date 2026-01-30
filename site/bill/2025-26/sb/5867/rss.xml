@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5867/</link>
 		<description>Updates about SB 5867</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 19:00:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen</title>
+			<description>News article "Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 28 Jan 2026 19:00:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%205876</guid>
 		</item>
 	</channel>
 </rss>

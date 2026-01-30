@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2026 [The Center Square](/org/the_center_square/) - [WATCH: Bill to reveal potential NGO fraud may have a chance in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1a58a726-6df8-4686-9059-faa3c593198b.html#:~:text=6167)
 * 01/28/2026 [The Center Square](/org/the_center_square/) - [WATCH: Hearing set on bills inspired by whistleblower to stop NGO self-dealing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fbe2e805-06a5-465c-99d6-ea077609ca8d.html#:~:text=6167)
 
 ## Meetings

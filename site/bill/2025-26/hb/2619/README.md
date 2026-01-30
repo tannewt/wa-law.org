@@ -13,8 +13,14 @@
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2619 Agriculture regulations
 Sign up to testify:
 
-#### 146 👍 - Pro
+#### 347 👍 - Pro
+Testifying:
+* 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potato and Onion Assoc.
+* Dave Hedrick - Ferry Conservation District
+* Jay Gordon - Washington State Dairy Federation
 
 #### 4 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Dept. of Agriculture

@@ -39,7 +39,7 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Concerning residential development in commercial and mixed-use zones.  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
 
 ## [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍2  
 * 👍 Elizabeth Chamberlain

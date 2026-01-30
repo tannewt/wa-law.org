@@ -14,7 +14,10 @@
 ### Mon 02/02 04:00 PM - Appropriations (APP): SHB 2132 Financial aid applic./PRA
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Dennise Arteaga - Communities for Our College
+* Ana Diaz - Communities for Our College
 
 #### 0 👎 - Con
 

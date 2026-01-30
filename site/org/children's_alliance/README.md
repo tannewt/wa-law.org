@@ -28,7 +28,7 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍2  
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍3  
 * 👍 Stephan Blanford
 * 👍💵 Reid Saaris
 

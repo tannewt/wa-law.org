@@ -12,13 +12,11 @@
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 5823 Patient advocates
-Sign up to testify:
-
-#### 16 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Greg Flakus - Gf strategies inc
 
-#### 744 👎 - Con
+#### 792 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

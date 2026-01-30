@@ -73,11 +73,15 @@
 ### [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 * 👍💵 Paul Dillon
 
-## [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+## [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+* 👍 Jon Snyder
 
 ## 2023-24
 
-### [SB 6027](/bill/2023-24/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6262](/bill/2023-24/sb/6262/) - Vehicle fees/maximum weight 👍1  
+* 👍 Jon Snyder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

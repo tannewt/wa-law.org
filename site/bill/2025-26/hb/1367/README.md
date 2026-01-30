@@ -10,7 +10,9 @@
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 1367 Right shoulder/motorcycles
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* LARRY WALKER - ABATE of WA  (Motorcyclists)
 
 #### 1 👎 - Con
 Testifying:
