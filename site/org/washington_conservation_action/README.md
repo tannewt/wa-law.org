@@ -181,7 +181,7 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎💵 Darcy Nonemacher
 
-### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 * 👍 Andrea Matheny
 
 ### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  

@@ -37,12 +37,12 @@
 * 👍 Casey MacLean
 * 👍 Casey MacLean
 
-## [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+## [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 * 👍 Casey MacLean
 
 ## 2023-24
 
-### [SB 6010](/bill/2023-24/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2023-24/sb/6010/) - EFSEC tribal consultation 👍1  
 * 👍 Casey MacLean
 
 ### [HB 1173](/bill/2023-24/hb/1173/) - Light pollution  👎1 

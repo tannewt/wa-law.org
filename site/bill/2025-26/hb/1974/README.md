@@ -14,9 +14,11 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 1974 Land banking authorities
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 👎 - Con
+#### 18 👎 - Con
 
 #### 0 ❓ - Other
 

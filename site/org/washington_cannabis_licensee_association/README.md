@@ -36,10 +36,13 @@
 ### [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry  👎1 
 * 👎💵 Trent Matson
 
-## [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply 👍1  
+### [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply 👍1  
+* 👍💵 Trent Matson
+
+## [SB 6328](/bill/2025-26/sb/6328/) - Cannabis excise tax 👍1  
 * 👍💵 Trent Matson
 
 ## 2023-24
 
-## [SB 6195](/bill/2023-24/sb/6195/) - Cannabis oversupply 👍1  
+## [SB 6328](/bill/2023-24/sb/6328/) - Cannabis excise tax 👍1  
 * 👍💵 Trent Matson

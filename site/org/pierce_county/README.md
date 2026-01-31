@@ -41,6 +41,8 @@
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations   ❓1
 * ❓💵 Michael Shaw
 
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
+
 ### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
@@ -88,13 +90,16 @@
 
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 * 👍 Ryan Mello
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+* 👍 Anita Gallagher
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
-* 👍 Ryan Mello
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
+* 👍 Anita Gallagher
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

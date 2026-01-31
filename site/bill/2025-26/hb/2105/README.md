@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2026 [The Urbanist](/org/the_urbanist/) - [Washington State Reacts to Feared ICE Invasion, Constitutional Crisis » The Urbanist](https://www.theurbanist.org/2026/01/30/washington-state-reacts-to-feared-ice-invasion-constitutional-crisis/#:~:text=House%20Bill%202105)
+* 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%202105)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=HB%202105)
 * 01/13/2026 [KING5](/org/king5/) - [Key bills to watch as Washington’s 2026 legislative session begins | king5.com](https://www.king5.com/article/news/politics/state-politics/key-bills-to-watch-washington-2026-legislative-session/281-327f2a69-8ca1-4159-a8c8-1363fadf1861#:~:text=Immigrant%20worker%20protections)
 * 01/13/2026 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: In the Hole...Right back where we were this time last year - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-hole-right-back-time-last-year/#:~:text=(Companion%20bill:%20HB%202105))

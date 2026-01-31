@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 6010 - Concerning tribal consultation conducted by the energy facility site evaluation council.</title>
+		<title>SB 6010 - EFSEC tribal consultation</title>
 		<link>https://wa-law.org/bill/2025-26/sb/6010/</link>
 		<description>Updates about SB 6010</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Jan 2026 11:31:05 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andrea/Matheny/2026-01-15 11:31:05</guid>
+		</item>
+		<item>
+			<title>ENET - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENET - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/ENET - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

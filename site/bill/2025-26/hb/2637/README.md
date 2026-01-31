@@ -8,17 +8,17 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2637 PRA/personal information
-Sign up to testify:
-
 #### 55 👍 - Pro
 Testifying:
 * Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Nam Nguyen - Commission on Asian Pacific American Affairs
 * Ping Ping - CAPAA (Commission on Asian Pacific American Affairs)
 
-#### 853 👎 - Con
+#### 921 👎 - Con
 Testifying:
 * Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Anthony Mixer - Citizen Volunteer Lobbyist
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters

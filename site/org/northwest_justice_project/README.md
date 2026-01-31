@@ -64,6 +64,9 @@
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 * 👍 Christopher Brunetti
 
+### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
+* 👍 Julia Kellison
+
 ## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 * 👎 Julia Kellison
 

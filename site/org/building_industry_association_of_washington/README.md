@@ -66,6 +66,9 @@
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
 * 👎💵 Jan Himebaugh
 
+### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍1  
+* 👍💵 Andrea Smiley
+
 ### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍2  
 * 👍💵 Andrea Smiley
 
@@ -207,7 +210,7 @@
 ### [HB 2269](/bill/2025-26/hb/2269/) - Middle housing/uninc. areas 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎2 
 
 ### [HB 2298](/bill/2025-26/hb/2298/) - Property title protection  👎2 
 * 👎💵 Andrea Smiley
@@ -443,12 +446,14 @@
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
 
-### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area. 👍1  
+### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas 👍1  
 * 👍💵 Andrea Smiley
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
 * 👍💵 Andrea Smiley
 * 👍💵 Bill Stauffacher
+
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts  👎1 
 
 ### [SB 6075](/bill/2025-26/sb/6075/) - Habitat mitigation grants 👍1  
 

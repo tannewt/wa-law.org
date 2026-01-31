@@ -25,8 +25,10 @@
 ### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍1  
 * 👍💵 Anna Boone
 
-## [SB 6158](/bill/2025-26/sb/6158/) - Factory built structures 👍1  
+### [SB 6158](/bill/2025-26/sb/6158/) - Factory built structures 👍1  
+
+## [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
 
 ## 2023-24
 
-## [SB 6158](/bill/2023-24/sb/6158/) - Factory built structures 👍1  
+## [SB 6214](/bill/2023-24/sb/6214/) - Land banking authorities 👍1  

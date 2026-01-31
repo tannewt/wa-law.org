@@ -225,15 +225,17 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍2  
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍3  
 * 👍💵 Curtis Steinhauer
 * 👍💵 Kelsey Hulse
+* 👍💵 Curtis Steinhauer
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 * 👍💵 Brad Banks
 
-### [HB 2018](/bill/2025-26/hb/2018/) - Solid waste/local government 👍1  
+### [HB 2018](/bill/2025-26/hb/2018/) - Solid waste/local government 👍2  
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
@@ -318,6 +320,9 @@
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones   ❓1
 * ❓💵 Curtis Steinhauer
+
+### [HB 2486](/bill/2025-26/hb/2486/) - State energy code costs 👍1  
+* 👍💵 Curtis Steinhauer
 
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
 * 👍💵 Paul Jewell
@@ -555,7 +560,10 @@
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
 * ❓💵 Curtis Steinhauer
 
-### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
+### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  
+
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+* 👍💵 Curtis Steinhauer
 
 ### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
 

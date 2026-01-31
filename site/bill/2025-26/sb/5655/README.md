@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%205655)
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [New year, new session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/09/new-year-new-session/#:~:text=SB%205655)
 * 05/01/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/05/01/the-legislature-is-adjourned/#:~:text=SB%205655)
 * 04/30/2025 [Senate Democrats](/org/senate_democrats/) - [The Legislature is adjourned - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/04/30/the-legislature-is-adjourned/#:~:text=SB%205655)

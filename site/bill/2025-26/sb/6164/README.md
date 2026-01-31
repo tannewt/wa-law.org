@@ -8,12 +8,14 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6164 WaTech/PRA exemption
-Sign up to testify:
-
 #### 2 👍 - Pro
 Testifying:
 * Bill Kehoe - WaTech
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Colette Weeks - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters

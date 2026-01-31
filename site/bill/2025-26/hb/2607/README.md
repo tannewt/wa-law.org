@@ -6,11 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202607)
+
 ## Meetings
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2607 Child care rate regions
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

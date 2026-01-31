@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5400/</link>
 		<description>Updates about SB 5400</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 05:13:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -466,6 +466,22 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👍David Fischrr - KNKX Radio</title>
+			<description>David Fischrr signed up to testify Pro. They are signed up to represent KNKX Radio.</description>
+			<pubDate>Fri, 30 Jan 2026 02:52:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Fischrr/2026-01-30 02:52:01</guid>
+		</item>
+		<item>
+			<title>👍Dee Anne Finken - League of Women Voters of Washington</title>
+			<description>Dee Anne Finken signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/league_of_women_voters_of_washington/"&gt;League of Women Voters of Washington&lt;/a&gt;.</description>
+			<pubDate>Fri, 30 Jan 2026 05:13:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dee Anne/Finken/2026-01-30 05:13:18</guid>
 		</item>
 	</channel>
 </rss>

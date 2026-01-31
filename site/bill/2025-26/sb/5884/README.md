@@ -18,11 +18,13 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5884 Underutilized property/tax
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Cathy Reines - Koz Development
 
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5884 Underutilized property/tax
 #### 22 👍 - Pro

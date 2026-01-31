@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2639 Complimentary cannabis
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)

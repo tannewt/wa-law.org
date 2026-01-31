@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2161/</link>
 		<description>Updates about HB 2161</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 20:49:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -129,6 +129,20 @@
 			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202161</guid>
+		</item>
+		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>WATCH: WA Democrats pushing ahead with bill to expand AG's power | Washington | thecentersquare.com</title>
+			<description>News article "WATCH: WA Democrats pushing ahead with bill to expand AG's power | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 30 Jan 2026 20:49:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_e629e6f8-a94d-497f-9561-971443587777.html#:~:text=Senate%20House%20Bill%202161</guid>
 		</item>
 	</channel>
 </rss>

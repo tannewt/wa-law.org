@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 6190 Critical infrastructure

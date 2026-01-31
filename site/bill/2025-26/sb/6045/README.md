@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2026 [The Urbanist](/org/the_urbanist/) - [Washington State Reacts to Feared ICE Invasion, Constitutional Crisis » The Urbanist](https://www.theurbanist.org/2026/01/30/washington-state-reacts-to-feared-ice-invasion-constitutional-crisis/#:~:text=Senate%20Bill%206045)
 * 01/28/2026 [The Washington Observer](/org/the_washington_observer/) - [Fact-checking the farmworker union debate](https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=SB%206045)
 * 01/22/2026 [The Stranger](/org/the_stranger/) - [State Bills Bring Farmworkers to the Table - The Stranger](https://www.thestranger.com/news/2026/01/22/80432178/state-bills-bring-farmworkers-to-the-table#:~:text=Senate%20Bill%206045)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206045)

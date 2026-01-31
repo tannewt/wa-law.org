@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6302 Public works/finishing trade
-Sign up to testify:
-
-#### 53 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Chris Ellis - Bricklayers and Allied Craftworkers Local 1
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council

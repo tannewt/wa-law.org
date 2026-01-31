@@ -10,7 +10,9 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 5868 Superior court judges
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Christopher Stanley - Administrative Office of the Courts & The Board for Judicial Administration
 
 #### 0 👎 - Con
 

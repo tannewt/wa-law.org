@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/01/30/legislative-action-to-keep-our-communities-safe-and-supported/#:~:text=SB%206002)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206002)
 * 01/28/2026 [The Washington Observer](/org/the_washington_observer/) - [Fact-checking the farmworker union debate](https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=SB%206002)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%206002)

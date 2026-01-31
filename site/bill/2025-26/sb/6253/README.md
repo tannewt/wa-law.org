@@ -10,7 +10,7 @@
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6253 PTBA governing bodies
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

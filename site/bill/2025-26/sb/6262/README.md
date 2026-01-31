@@ -10,11 +10,14 @@
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6262 Vehicle fees/maximum weight
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Jon Snyder - [City of Spokane](/org/city_of_spokane/)
 * Zack Zappone - Spokane City Council
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

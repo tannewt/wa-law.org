@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6094/</link>
 		<description>Updates about SB 6094</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 10:54:01 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 17:47:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Paul/Dillon/2026-01-22 10:54:01</guid>
+		</item>
+		<item>
+			<title>Working to secure sustainable funding for Maddie’s Place - Sen. Marcus Riccelli</title>
+			<description>News article "Working to secure sustainable funding for Maddie’s Place - Sen. Marcus Riccelli" from Senate Democrats.</description>
+			<pubDate>Fri, 30 Jan 2026 17:47:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/riccelli/2026/01/30/working-to-secure-sustainable-funding-for-maddies-place/#:~:text=Senate%20Bill%206094</guid>
 		</item>
 	</channel>
 </rss>

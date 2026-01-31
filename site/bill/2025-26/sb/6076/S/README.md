@@ -1,0 +1,60 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6076](/bill/2025-26/sb/6076/) > [Substitute Bill](/bill/2025-26/sb/6076/S/)
+
+# SB 6076 - Utility procurement
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6076-S.pdf)
+
+## Section 1
+The legislature finds that the state has committed to achieving carbon neutrality by 2030 and becoming carbon-free by 2045. At the same time, electricity demand in Washington is rising sharply and current regional forecasts project an increase in electricity demand of over 30 percent in the next decade.
+
+The legislature also finds that Washington's existing transmission system lacks the capacity to meet existing demand and integrate future intermittent clean energy generation, and that significant cost increases and supply chain delays in the electric utility sector require urgent action to maintain affordability for electric ratepayers. This challenge is especially heightened during extreme weather events, which increases the need for heating and cooling and places sustained pressure on the grid during peak periods.
+
+Therefore, it is the intent of the legislature to streamline certain procurement laws for consumer-owned utilities until the 2045 carbon free compliance date under the clean energy transformation act. These changes are intended to expedite needed energy generation, storage, transmission, and distribution to support Washington's growing energy demand and its clean energy commitments in the most timely and cost effective manner.
+
+## Section 2
+(1) Any item, or items of the same kind of materials, equipment, or supplies purchased, the estimated cost of which is in excess of $30,000, exclusive of sales tax, shall be by contract. However, a district may make purchases of the same kind of items of materials, equipment, and supplies not exceeding $12,000 in any calendar month without a contract, purchasing any excess thereof over $12,000 by contract.
+
+## Section 3
+Any notice inviting sealed bids shall state generally the work to be done, or the material to be purchased and shall call for proposals for furnishing it, to be sealed and filed with the commission on or before the time named therein. Utilities with a purchasing department are authorized to receive hard copy or electronic bids. Each bid shall be accompanied by a certified or cashier's check, payable to the order of the commission, for a sum not less than five percent of the amount of the bid, or accompanied by a bid bond in an amount not less than five percent of the bid with a corporate surety licensed to do business in the state, conditioned that the bidder will pay the district as liquidated damages the amount specified in the bond unless he or she enters into a contract in accordance with his or her bid and furnishes the performance bond within ten days from the date on which he or she is notified that he or she is the successful bidder. A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project.
+
+At the time and place named, the bids shall be publicly opened and read, and the commission shall canvass the bids, and may let the contract to the lowest responsible and responsive bidder upon the plans and specifications on file, or to the best bidder submitting his or her own plans or specifications; or if the contract to be let is to construct or improve electrical facilities, the contract may be let to the lowest bidder prequalified according to the provisions of RCW 54.04.085 upon the plans and specifications on file, or to the best bidder submitting his or her own plans and specifications: PROVIDED, That no contract shall be let for more than 25 percent in excess of the estimated cost of the materials or work. The commission may reject all bids and readvertise, and in such case all checks shall be returned to the bidders. The commission may procure materials in the open market, have its own personnel perform the work or negotiate a contract for such work to be performed by others, in lieu of readvertising, if it receives no bid. If the contract is let, all checks shall be returned to the bidders, except that of the successful bidder, which shall be retained until a contract is entered into and a bond to perform the work furnished, with sureties satisfactory to the commission, in an amount to be fixed by the commission, not less than 25 percent of the contract price, in accordance with the bid. If the bidder fails to enter into the contract and furnish the bond within ten days from the date at which he or she is notified that he or she is the successful bidder, his or her check and the amount thereof shall be forfeited to the district.
+
+The commission shall, by resolution, define the term "same kind of materials, equipment, and supplies" with respect to purchase of items under the provisions of RCW 54.04.070.
+
+The term "construction or improvement of any electrical facility" as used in this section and in RCW 54.04.085, shall mean the construction, the moving, maintenance, modification, or enlargement of facilities primarily used or to be used for the transmission or distribution of electricity at voltages above seven hundred fifty volts, including structures directly supporting transmission or distribution conductors but not including site preparation, housing, or protective fencing associated with but not included in a contract for such construction, moving, modification, maintenance, or enlargement of such facilities.
+
+The commission shall be the final authority with regard to whether a bid is responsive to the call for bids and as to whether a bidder is a responsible bidder under the conditions of his or her bid. No award of contract shall be invalidated solely because of the failure of any prospective bidder to receive an invitation to bid.
+
+## Section 4
+1. For the awarding of a contract to purchase any item, or items of the same kind of materials, equipment, or supplies in an amount exceeding $50,000 per calendar month, but less than $250,000 per calendar month, exclusive of sales tax, the district commission may, in lieu of the procedure described in RCW 54.04.070 and 54.04.080 requiring public notice to invite sealed proposals for such materials, equipment, or supplies, pursuant to commission resolution, use the process provided in RCW 39.04.190. Waiver of the deposit or bid bond required under RCW 54.04.080 may be authorized by the commission in securing such bid quotations.
+
+2. This section applies only to new or existing nonemitting electric generation, electric generation from a renewable resource, energy storage, transmission, or distribution projects as defined in RCW 54.04.070.
+
+## Section 5
+This section provides uniform exemptions to competitive bidding requirements utilized by municipalities when awarding contracts for public works and contracts for purchases. The statutes governing a specific type of municipality may also include other exemptions from competitive bidding requirements. The purpose of this section is to supplement and not to limit the current powers of any municipality to provide exemptions from competitive bidding requirements.
+
+1. Competitive bidding requirements may be waived by the governing body of the municipality for:
+
+    a. Purchases that are clearly and legitimately limited to a single source of supply;
+
+    b. Purchases involving special facilities or market conditions;
+
+    c. Purchases in the event of an emergency;
+
+    d. Purchases of insurance or bonds;
+
+    e. Until January 1, 2045, purchases involving projects that are common facilities as described in RCW 54.44.020;
+
+    f. Until January 1, 2045, purchases relating to energy generation, storage, transmission, or distribution facilities if the governing body determines that the expedited procurement action is for proprietary or specialized technologies with no comparable alternatives, is necessary to ensure compliance with electrical reliability standards, or prevent threats to grid reliability; and
+
+    g. Public works in the event of an emergency.
+
+2. [Empty]
+
+    a. The waiver of competitive bidding requirements under subsection (1) of this section may be by resolution or by the terms of written policies adopted by the municipality, at the option of the governing body of the municipality. If the governing body elects to waive competitive bidding requirements by the terms of written policies adopted by the municipality, immediately after the award of any contract, the contract and the factual basis for the exception must be recorded and open to public inspection.
+
+If a resolution is adopted by a governing body to waive competitive bidding requirements under (b) of this subsection, the resolution must recite the factual basis for the exception. This subsection (2)(a) does not apply in the event of an emergency.
+
+    b. If an emergency exists, the person or persons designated by the governing body of the municipality to act in the event of an emergency may declare an emergency situation exists, waive competitive bidding requirements, and award all necessary contracts on behalf of the municipality to address the emergency situation. If a contract is awarded without competitive bidding due to an emergency, a written finding of the existence of an emergency must be made by the governing body or its designee and duly entered of record no later than two weeks following the award of the contract.
+
+3. For purposes of this section "emergency" means unforeseen circumstances beyond the control of the municipality that either: (a) Present a real, immediate threat to the proper performance of essential functions; or (b) will likely result in material loss or damage to property, bodily injury, or loss of life if immediate action is not taken.

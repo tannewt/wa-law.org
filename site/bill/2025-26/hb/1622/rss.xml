@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1622/</link>
 		<description>Updates about HB 1622</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 23:55:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -676,6 +676,13 @@
 			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-28/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>The top issue I’ve heard from you - Sen. Jessica Bateman</title>
+			<description>News article "The top issue I’ve heard from you - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Fri, 30 Jan 2026 23:55:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=HB%201622</guid>
 		</item>
 	</channel>
 </rss>

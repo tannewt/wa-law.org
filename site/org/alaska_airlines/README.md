@@ -17,12 +17,12 @@
 * 👍 Scott Kennedy
 * 👍 Scott Kennedy
 
-## [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎2 
+## [SB 5652](/bill/2025-26/sb/5652/) - Environment/port districts  👎2 
 * 👎 Alethia Miller
 
 ## 2023-24
 
-### [SB 5652](/bill/2023-24/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎2 
+### [SB 5652](/bill/2023-24/sb/5652/) - Environment/port districts  👎2 
 * 👎 Alethia Miller
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  

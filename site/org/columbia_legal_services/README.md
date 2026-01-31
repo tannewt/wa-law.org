@@ -224,7 +224,7 @@
 * 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
 
-### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
 
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
 * 👍💵 Hannah Woerner

@@ -14,4 +14,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)

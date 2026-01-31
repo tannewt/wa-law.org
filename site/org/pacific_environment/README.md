@@ -20,8 +20,8 @@
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 
-## [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts. 👍1  
+## [SB 5652](/bill/2025-26/sb/5652/) - Environment/port districts 👍1  
 
 ## 2023-24
 
-## [SB 5652](/bill/2023-24/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts. 👍1  
+## [SB 5652](/bill/2023-24/sb/5652/) - Environment/port districts 👍1  

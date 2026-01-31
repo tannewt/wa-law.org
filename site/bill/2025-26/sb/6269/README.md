@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - Environment, Energy & Technology (ENET): SB 6269 Definition of motor fuel
-Sign up to testify:
-
-#### 7 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Kelsey Hulse - Douglas County Public Utility District
 
 #### 2 👎 - Con
 

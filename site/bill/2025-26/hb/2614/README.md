@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2614 Home cultivation of cannabis
-Sign up to testify:
-
 #### 16 👍 - Pro
 Testifying:
 * John Kingsbury - [Cannabis Alliance](/org/cannabis_alliance/)

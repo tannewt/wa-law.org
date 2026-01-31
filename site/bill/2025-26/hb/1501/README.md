@@ -10,7 +10,7 @@
 ### Wed 02/04 10:30 AM - Housing (HSG): EHB 1501 CIC unit owner inquiries
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

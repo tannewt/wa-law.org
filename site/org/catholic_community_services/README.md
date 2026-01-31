@@ -85,6 +85,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
 * 👍 Dan Wise
 

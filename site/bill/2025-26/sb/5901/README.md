@@ -12,6 +12,17 @@
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205901)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5901 On-base school construction
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5901 On-base school construction
 #### 89 👍 - Pro
 Testifying:

@@ -10,7 +10,7 @@
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 6194 Allowable costs/hospital
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 49 👍 - Pro
 
 #### 0 👎 - Con
 

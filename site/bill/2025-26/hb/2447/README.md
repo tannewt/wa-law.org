@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2447 State shark
-Sign up to testify:
-
-#### 188 👍 - Pro
+#### 229 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Sixgill Shark Coalition
 * Eleanor Miller - Self

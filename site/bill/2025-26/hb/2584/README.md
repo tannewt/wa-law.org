@@ -10,7 +10,7 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2584 Farm machinery sales tax
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 36 👍 - Pro
 
 #### 0 👎 - Con
 

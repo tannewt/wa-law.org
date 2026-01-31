@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6197 Plumbing contractors
-Sign up to testify:
-
-#### 21 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Jason Hewitt - WA State Association of UA Plumbers, Pipefitters, HVAC/R Service Technicians
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington

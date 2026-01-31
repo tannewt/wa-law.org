@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5652](/bill/2025-26/sb/5652/)
 
-# SB 5652 - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.
+# SB 5652 - Environment/port districts
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5652&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall bill to reduce Sea-Tac Airport’s environmental and health effects heard in committee - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/01/22/orwall-bill-to-reduce-sea-tac-airports-environmental-and-health-effects-heard-in-committee/#:~:text=Senate%20Bill%205652)

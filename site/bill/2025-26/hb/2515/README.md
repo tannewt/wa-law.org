@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [The top issue I’ve heard from you - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=HB%202515)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Bill protecting ratepayers, ensuring electrical grid reliability, guiding responsible data center development heard in committee - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2026/01/23/bill-protecting-ratepayers-ensuring-electrical-grid-reliability-guiding-responsible-data-center-development-heard-in-committee/#:~:text=House%20Bill%202515)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202515)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202515)

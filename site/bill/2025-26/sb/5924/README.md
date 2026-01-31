@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5924 Pharmacist prescriptive auth
-Sign up to testify:
-
-#### 267 👍 - Pro
+#### 279 👍 - Pro
 Testifying:
 * Boris Zhang
 * Yujun Luo
@@ -33,9 +31,10 @@ Testifying:
 * Jimmy Houpt - [Multicare Health System](/org/multicare_health_system/)
 * Lisa Nelson - Unity Care NW
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Kelly Richardson - CCHR Washington State
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
 #### 4 ❓ - Other
 Testifying:

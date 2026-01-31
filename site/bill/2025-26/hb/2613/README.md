@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Health Care & Wellness (HCW): HB 2613 Compounded medications
-Sign up to testify:
-
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Jenny Cravens - Self
 * Michael Stepanovic - FirstWave Advisory Solutions
@@ -19,7 +17,7 @@ Testifying:
 * Gabrielle Cosel - Novo Nordisk
 * 💵Michael Transue - Novo Nordisk
 
-#### 330 👎 - Con
+#### 387 👎 - Con
 Testifying:
 * Anne Henriksen - Malley's Compounding Pharmacy - Richland, WA
 * Dawn Ipsen - Washington State Pharmacy Association
@@ -31,6 +29,7 @@ Testifying:
 * Richard Molitor
 * Erika Anderson
 * 💵Malorie Toman - Washington State Medical Association (WSMA)
+* Jennifer Brown - Evexia NW
 * Katie Kolan - Washington State Hospital Association (WSHA)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

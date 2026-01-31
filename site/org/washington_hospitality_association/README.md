@@ -286,7 +286,7 @@
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments   ❓1
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation.  👎1 
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care  👎1 
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers   ❓1
 * ❓💵 Andrea Reay

@@ -12,6 +12,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 172 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers

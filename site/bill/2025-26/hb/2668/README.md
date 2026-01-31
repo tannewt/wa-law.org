@@ -6,15 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202668)
+
 ## Meetings
 ### Wed 02/04 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2668 Bob Oke game farm relocation
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Michael Thomas - [City of Centralia](/org/city_of_centralia/)
 * Meja Handlen - Lewis County Public health & Social Services
 * Andy Oien - Centralia Public Works
+* Madoleen Goddard
 
 #### 0 👎 - Con
 

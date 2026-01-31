@@ -13,11 +13,15 @@
 ### Wed 02/04 08:00 AM - Environment, Energy & Technology (ENET): SB 5519 Ocean vessels/environment
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 24 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Maureen Hayes - Cruise Lines International Association (CLIA)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dan Twohig - International Association of Masters, Mates & Pilots
 
 ### Fri 02/07 10:30 AM - Environment, Energy & Technology (ENET): SB 5519 Ocean vessels/environment
 #### 416 👍 - Pro

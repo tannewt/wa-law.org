@@ -10,8 +10,11 @@
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6203 Out-of-state convictions
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 324 👍 - Pro
 
-#### 0 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
 #### 0 ❓ - Other

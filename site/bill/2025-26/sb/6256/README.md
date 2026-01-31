@@ -10,7 +10,7 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 6256 Unoccupied housing/tax
 Sign up to testify:
 
-#### 22 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Rachel Downes - [Housing Hope](/org/housing_hope/)
 * Brian Lloyd - Beacon Development Group

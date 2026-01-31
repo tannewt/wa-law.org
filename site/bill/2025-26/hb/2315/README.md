@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2315 Cannabis oversupply
-Sign up to testify:
-
 #### 20 👍 - Pro
 Testifying:
 * Eric Gaston

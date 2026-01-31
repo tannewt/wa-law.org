@@ -14,11 +14,17 @@
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6081 Government record privacy
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Dana Savage - Association of Washington Assistant Attorneys General
+* Tanya Leslie
+* Sept Gernez - Gender Justice League
+* Jenna Comstock - QLaw Association
+* Tyrone Heartwood
+* Tasha Cruz
+* Jevan Hutson
 
-#### 4 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other
 

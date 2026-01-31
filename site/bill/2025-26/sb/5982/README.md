@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/13 01:30 PM - Environment, Energy & Technology (ENET): SB 5982 Consumer-owned utilities

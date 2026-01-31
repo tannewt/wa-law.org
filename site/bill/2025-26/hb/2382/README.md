@@ -7,14 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2026 [The Center Square](/org/the_center_square/) - [WA considers major tobacco, vapor product tax hikes, raising flags around smuggling | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_107c4b23-0bde-4a02-9015-fd7aeb6d9409.html#:~:text=House%20Bill%202382)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202382)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202382)
 
 ## Meetings
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2382 Tobacco product excise taxes
-Sign up to testify:
-
-#### 84 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Josh Binda - Chair of the NAACP Political Action Committee
@@ -25,11 +24,14 @@ Testifying:
 * Noelle Clardy
 * Susan Ben-Rubin
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Cora Breuner - Wcaap
 * Suhani Singh
 * Carrie Nyssen - American Lung Association
 * Heidi Low - Campaign for Tobacco-Free Kids
+* Suhani Singh
+* 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 
-#### 134 👎 - Con
+#### 164 👎 - Con
 Testifying:
 * Shaun D’Sylva
 * Ryan Neufeld - Private Resident
@@ -41,6 +43,7 @@ Testifying:
 * Yujin Ghim - Washington Korean American Grocers Association
 * Tom Eshleman - Doyles Sheehan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Margaret Mahoney
+* 💵Sara Stewart - Washington Smoke-Free Assocation

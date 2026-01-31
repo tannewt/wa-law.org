@@ -67,7 +67,7 @@
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 * 👍 Daniel Himebaugh
 
-### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
 ## [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍1  
 

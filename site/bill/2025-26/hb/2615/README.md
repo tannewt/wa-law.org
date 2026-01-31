@@ -6,11 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202615)
+
 ## Meetings
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2615 Tax voluntary disclosure
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

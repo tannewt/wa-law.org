@@ -17,9 +17,13 @@
 ### Wed 02/04 10:30 AM - Housing (HSG): EHB 1345 Detached ADU limits
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 55 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

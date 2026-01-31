@@ -10,7 +10,12 @@
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6303 Cannabis product packaging
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Jason Lammers - The Cannabis Alliance
+* Shawn Denae WAGENSELLER - Washington Bud Company
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Matthew Friedlander - Skagit Organics
 
 #### 0 👎 - Con
 

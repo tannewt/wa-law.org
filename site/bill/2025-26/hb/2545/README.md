@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Health Care & Wellness (HCW): HB 2545 Coronary interventions
-Sign up to testify:
-
-#### 117 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Dr. Amir Durrani - Kaiser Permanente Federation
 * Roman Daniels-Brown - Washington Ambulatory Surgercy Center Assn.

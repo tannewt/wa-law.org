@@ -10,8 +10,10 @@
 ### Mon 02/02 01:30 PM - Human Services (HS): SB 6007 DCYF assessment practices
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 88 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Julie Watts - Department of Children, Youth and Families

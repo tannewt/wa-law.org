@@ -10,8 +10,8 @@
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6282 Apprenticeships/wellness
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

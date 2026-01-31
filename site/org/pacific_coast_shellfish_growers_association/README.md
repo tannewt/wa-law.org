@@ -9,6 +9,8 @@
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 
 
+### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations 👍1  
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5322](/bill/2025-26/sb/5322/) - Burrowing shrimp 👍2  

@@ -10,10 +10,12 @@
 ### Mon 02/02 01:30 PM - Human Services (HS): SB 6212 Children benefit pilot prg.
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Kamau Chege - Washington Community Alliance
+* Matthew Bruenig
+* Sukhi Samra
 
-#### 6 👎 - Con
+#### 194 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

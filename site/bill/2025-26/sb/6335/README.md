@@ -10,10 +10,13 @@
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6335 Transportation commission
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 77 👍 - Pro
 
-#### 2 👎 - Con
+#### 190 👎 - Con
 Testifying:
 * Bobble Garver - Citizens of Washington Stste
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Lois Bollenback - SRTC - Spokane Regional Transportation Council
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)

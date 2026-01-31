@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6082 Student financial aid fraud
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 6082 Student financial aid fraud
 #### 349 👍 - Pro
 Testifying:

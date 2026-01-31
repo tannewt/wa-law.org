@@ -12,6 +12,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202174)
 
 ## Meetings
+### Thu 02/05 01:00 PM - Transportation (TR): SHB 2174 Crash prevention zones
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 2174 Accident risk zones
 #### 175 👍 - Pro
 Testifying:

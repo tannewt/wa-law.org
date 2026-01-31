@@ -149,7 +149,7 @@
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 David Mendoza
 
-### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
 ### [SB 6054](/bill/2025-26/sb/6054/) - Wildfire home hardening/CICs 👍1  
 

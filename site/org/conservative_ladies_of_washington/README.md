@@ -95,6 +95,9 @@
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy  👎1 
 * 👎 Mary Long
 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc.  👎1 
+* 👎 Mary Long
+
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎2 ❓1
 * ❓ Julie Barrett
 
@@ -216,6 +219,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 
+### [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion.  👎1 
+
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety  👎1 
 
 ### [SB 5917](/bill/2025-26/sb/5917/) - Abortion medications  👎2 
@@ -224,6 +229,8 @@
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services  👎1 
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda  👎1 
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
 
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 ❓1
 * ❓ Julie Barrett

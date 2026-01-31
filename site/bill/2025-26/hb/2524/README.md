@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202524)
+
 ## Meetings
 ### Tue 01/27 10:30 AM - Labor & Workplace Standards (LAWS): HB 2524 Security guards board
 #### 32 👍 - Pro

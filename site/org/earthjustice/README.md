@@ -56,7 +56,7 @@
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
 
-### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
 ### [SB 6056](/bill/2025-26/sb/6056/) - Utility service vehicles  👎1 
 

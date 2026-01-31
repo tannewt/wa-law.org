@@ -939,7 +939,7 @@
 
 ### [SB 6008](/bill/2025-26/sb/6008/) - Residential energy storage  👎1 
 
-### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council.  👎1 
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation  👎1 
 * 👎💵 Peter Godlewski
 
 ### [SB 6050](/bill/2025-26/sb/6050/) - Distributed energy resources  👎1 

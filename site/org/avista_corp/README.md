@@ -72,15 +72,15 @@
 
 ### [SB 5893](/bill/2025-26/sb/5893/) - Forest health appropriation 👍1  
 
-## [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍2  
+### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍2  
 * 👍💵 John Rothlin
 * 👍💵 John Rothlin
+
+## [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
 ## 2023-24
 
-### [SB 5941](/bill/2023-24/sb/5941/) - Schools/renewable energy 👍2  
-* 👍💵 John Rothlin
-* 👍💵 John Rothlin
+### [SB 6223](/bill/2023-24/sb/6223/) - Community weatherization 👍1  
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 * 👍💵 John Rothlin

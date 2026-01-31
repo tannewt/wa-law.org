@@ -63,7 +63,7 @@
 * 👍💵 Sienna Jarrard
 * 👍💵 Collin Bannister
 
-### [SB 5886](/bill/2025-26/sb/5886/) - Forged digital likenesses 👍1  
+### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights 👍1  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍4  
 

@@ -242,7 +242,7 @@
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
 * 👍💵 Bryce Yadon
 
-### [SB 6016](/bill/2025-26/sb/6016/) - Considering critical aquifer recharge areas when revising an urban growth area.   ❓1
+### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas   ❓1
 * ❓💵 Bryce Yadon
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1

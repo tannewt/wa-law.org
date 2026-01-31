@@ -14,11 +14,11 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5961 Early literacy programs
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 50 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/15 10:30 AM - Early Learning & K-12 Education (EDU): SB 5961 Imagination library program
 #### 13 👍 - Pro

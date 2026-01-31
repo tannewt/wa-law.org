@@ -6,13 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202273)
+
 ## Meetings
 ### Wed 02/04 04:00 PM - Capital Budget (CB): HB 2273 Embodied carbon/buildings
 Sign up to testify:
 
 #### 7 👍 - Pro
 
-#### 8 👎 - Con
+#### 54 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

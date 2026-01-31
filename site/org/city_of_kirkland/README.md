@@ -141,6 +141,8 @@
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
 
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  

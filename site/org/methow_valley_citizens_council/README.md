@@ -46,6 +46,8 @@
 
 ### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  
 
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
+
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
@@ -70,7 +72,7 @@
 
 ### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍2  
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍2  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
 

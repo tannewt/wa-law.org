@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6000 OPMA/natural disasters
-Sign up to testify:
-
 #### 19 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen

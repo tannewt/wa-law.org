@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2579 Public media grants
-Sign up to testify:
-
-#### 3525 👍 - Pro
+#### 4130 👍 - Pro
 Testifying:
 * David Fischer
 * Peter Morton
@@ -29,8 +27,13 @@ Testifying:
 * Buck Pavoni - Thurston Community Media
 * Jeannette Sorice
 * Kevin Sur - KEXP
+* Akhil Kalla
+* Buck Pavoni - TCMedia
+* Darleen Adkins - TCMedia
+* Meagan Murphy Ross - TC Media
+* Robert Kam
 
-#### 1037 👎 - Con
+#### 1135 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jeff Gombosky - CTIA - The Wireless Association

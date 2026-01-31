@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5652 - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.</title>
+		<title>SB 5652 - Environment/port districts</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5652/</link>
 		<description>Updates about SB 5652</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 23:34:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -313,6 +313,27 @@
 			<pubDate>Thu, 22 Jan 2026 23:34:48 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/orwall/2026/01/22/orwall-bill-to-reduce-sea-tac-airports-environmental-and-health-effects-heard-in-committee/#:~:text=Senate%20Bill%205652</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>ENET - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENET - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/ENET - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

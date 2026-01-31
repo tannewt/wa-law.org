@@ -6,12 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202626)
+
 ## Meetings
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2626 Health insurance premium tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 44 👎 - Con
 
 #### 0 ❓ - Other

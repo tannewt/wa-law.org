@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - Local Government (LG): HB 2226 PTBA governing bodies
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 6 👎 - Con

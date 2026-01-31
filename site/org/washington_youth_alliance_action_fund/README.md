@@ -18,8 +18,10 @@
 * 👍 Mahi Malladi
 * 👍 Mahi Malladi
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍3  
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍5  
 * 👍💵 Chetan Soni
+* 👍 Kenneth Garcia
+* 👍 Mahi Malladi
 
 ### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg. 👍1  
 

@@ -23,6 +23,8 @@
 
 ### [HB 2458](/bill/2025-26/hb/2458/) - College grant/credential prg 👍1  
 
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  

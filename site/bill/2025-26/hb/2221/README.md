@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2221 Ungulate populations
-Sign up to testify:
-
-#### 649 👍 - Pro
+#### 772 👍 - Pro
 Testifying:
 * Gary Douvia - northeast washington wildlife group
 * don peaker
@@ -24,17 +22,21 @@ Testifying:
 * 💵Marie Neumiller - Congressional Sportsmen’s Foundation
 * Raymond Maycumber - Ferry County Sheriff's Office
 * Chloe Heneghen - 532577699
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Sheriff Paul Budrow - Okanogan County Sheriff Office
+* Commissioner Zack Trudell - Ferry county
 
-#### 373 👎 - Con
+#### 392 👎 - Con
 Testifying:
 * PHD, Susan Kane-Ronning - Washington Sierra Club
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * Liz Carr - Kettle Range Conservation Group
 * 💵Stephanie Hillman - [Humane World for Animals](/org/humane_world_for_animals/)
+* Ronald Reed - Independent citizen
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Mick Cope - WDFW
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* 💵Caleb Gwerder - Washington Farm Bureau

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2026 [House Democrats](/org/house_democrats/) - [Lekanoff’s agenda to strengthen government-to-government partnership and protect future generations – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/lekanoffs-to-strengthen-government-to-government-partnership-and-protect-future-generations/#:~:text=HB%202435)
+
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2435 Leg. Indian affairs office
 #### 11 👍 - Pro

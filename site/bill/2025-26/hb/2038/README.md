@@ -17,19 +17,23 @@
 
 ## Meetings
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2038 Youth behavioral health acc.
-Sign up to testify:
-
-#### 79 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * Tim Jordan
+* Kenneth Garcia - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Mahi Malladi - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Cora Breuner - Wcaap
 
-#### 784 👎 - Con
+#### 889 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * 💵Amy Harris - WA TECHNOLOGY INDUSTRY ASSN
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Feliciano - TECHNOLOGY NETWORK
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Angelise Pratt
+* Eric Pratt - America
 
 #### 0 ❓ - Other
 

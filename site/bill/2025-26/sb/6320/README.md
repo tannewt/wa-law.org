@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2026 [Senate Democrats](/org/senate_democrats/) - [Saving public money - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/01/30/saving-public-money/#:~:text=Another%20bill%20of%20mine)
 * 01/29/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington’s SB 6320 Targets Online and ALE Programs, And Even Big Education Is Pushing Back - Conservative Ladies of Washington](https://conservativeladiesofwa.com/washington-sb-6320-online-learning-ale/#:~:text=SB%206320)
 
 ## Meetings

@@ -16,6 +16,18 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/#:~:text=Senate%20Bill%205400)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5400 Local news journalism
+Sign up to testify:
+
+#### 6 👍 - Pro
+Testifying:
+* David Fischrr - KNKX Radio
+* Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 04:00 PM - Ways & Means (WM): SSB 5400 Local news journalism
 #### 199 👍 - Pro
 Testifying:

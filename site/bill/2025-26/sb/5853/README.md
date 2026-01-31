@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/23 10:30 AM - State Government & Elections (SGE): SB 5853 Public official notification

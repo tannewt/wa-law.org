@@ -168,7 +168,7 @@
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
 * 👍💵 Seamus Petrie
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 

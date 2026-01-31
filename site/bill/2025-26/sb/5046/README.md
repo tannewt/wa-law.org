@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 5046 Kimchi day
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 1 👎 - Con

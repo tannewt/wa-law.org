@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2235/</link>
 		<description>Updates about HB 2235</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 10:50:57 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -98,6 +98,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Justin/Whitaker/2026-01-27 10:50:57</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/SGOV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

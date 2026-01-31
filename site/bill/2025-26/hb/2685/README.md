@@ -6,11 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2026 [House Democrats](/org/house_democrats/) - [Lekanoff’s agenda to strengthen government-to-government partnership and protect future generations – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/lekanoffs-to-strengthen-government-to-government-partnership-and-protect-future-generations/#:~:text=HB%202685)
+
 ## Meetings
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2685 Tribal data
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Alison Boyd-Ball - Confederated Tribes of the Colville Reservation
 * 💵Vicki Lowe - American Indian Health Commission

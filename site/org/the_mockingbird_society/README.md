@@ -56,6 +56,8 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
+### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
@@ -133,6 +135,8 @@
 * 👍 Nathan Witherow
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith

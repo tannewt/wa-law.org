@@ -30,6 +30,8 @@
 ### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
 * 👍💵 Matthew Ellsworth
 
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 

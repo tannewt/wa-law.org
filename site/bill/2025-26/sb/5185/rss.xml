@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5185 - Establishing preceptorship and hardship pathways to medical practice for international medical graduates.</title>
+		<title>SB 5185 - International med. pathways</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5185/</link>
 		<description>Updates about SB 5185</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 10:35:21 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -282,6 +282,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/CALEB/CHU/2026-01-26 10:35:21</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HLTC - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/HLTC - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

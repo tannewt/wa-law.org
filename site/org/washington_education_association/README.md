@@ -340,7 +340,7 @@
 
 ### [HB 2124](/bill/2025-26/hb/2124/) - Concerning the threshold for payment of a lump sum retirement allowance in lieu of a monthly benefit. 👍1  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
 ### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
 
@@ -455,6 +455,8 @@
 ### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
 
 ### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring 👍1  
+
+### [HB 2685](/bill/2025-26/hb/2685/) - Tribal data 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -812,7 +814,7 @@
 
 ### [SB 5835](/bill/2025-26/sb/5835/) - Lump sum retirement payments 👍1  
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
@@ -828,6 +830,8 @@
 * 👍 Jared Mason-Gere
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 * 👍 Jared Mason-Gere
@@ -848,7 +852,7 @@
 
 ### [SB 5956](/bill/2025-26/sb/5956/) - AI use/student discipline 👍1  
 
-### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍2  
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
@@ -880,6 +884,8 @@
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system   ❓1
 * ❓💵 Simone Boe
 
+### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
+
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
 
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services 👍1  
@@ -902,10 +908,14 @@
 
 ### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 
+### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍1  
+
 ### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
 
 ### [SB 6247](/bill/2025-26/sb/6247/) - School financial management   ❓1
 * ❓💵 Julie Salvi
+
+### [SB 6252](/bill/2025-26/sb/6252/) - Free transit/CTC students 👍1  
 
 ### [SB 6255](/bill/2025-26/sb/6255/) - Poverty reduction task force 👍1  
 

@@ -15,9 +15,11 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6028 Homeownership dev. loans
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 0 👎 - Con
+#### 162 👎 - Con
 
 #### 0 ❓ - Other
 

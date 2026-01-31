@@ -10,7 +10,13 @@
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6265 Vehicle transfers to insurer
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Ben Buchholz - CoPart
+* Monica Baumann - CoPart
+* Robert Foehl - CoPart
+* Robert Foehl - CoPart
+* monica baumann - copart
 
 #### 0 👎 - Con
 

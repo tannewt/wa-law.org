@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5981 340B drug pricing program
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 32 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5981 340B drug pricing program
 #### 267 👍 - Pro
 Testifying:

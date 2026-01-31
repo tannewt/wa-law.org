@@ -21,6 +21,8 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
+### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
+
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍2  
 * 👍 Christine Cooley
 * 👍 Christine Cooley

@@ -154,7 +154,7 @@
 
 ### [SB 5842](/bill/2025-26/sb/5842/) - Campaign memorabilia  👎1 
 
-### [SB 5847](/bill/2025-26/sb/5847/) - Concerning access to medical care in workers' compensation. 👍1  
+### [SB 5847](/bill/2025-26/sb/5847/) - Workers' comp. medical care 👍1  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍2  
 * 👍 Jeremiah Miller
@@ -169,7 +169,7 @@
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
 
-### [SB 5886](/bill/2025-26/sb/5886/) - Forged digital likenesses  👎1 
+### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights  👎1 
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
@@ -199,7 +199,7 @@
 
 ### [SB 5995](/bill/2025-26/sb/5995/) - Zero emission cargo handling 👍1  
 
-### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
 ### [SB 6014](/bill/2025-26/sb/6014/) - Pregnancy accommodations 👍1  
 

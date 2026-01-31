@@ -22,11 +22,15 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5974 Local law enforcement
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 242 👍 - Pro
 Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Michael McIntyre - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
+* Karen Peacey - League of Women Voters of WA
+* Steve Albrecht
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
-#### 442 👎 - Con
+#### 503 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Laurie Layne

@@ -25,6 +25,8 @@
 
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
 
+### [HB 2587](/bill/2025-26/hb/2587/) - Nonprofit grant advances 👍1  
+
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders   ❓1
 * ❓ Dr. Daniele Lyman-Torres
 

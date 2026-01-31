@@ -6,11 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2026 [House Democrats](/org/house_democrats/) - [Lekanoff’s agenda to strengthen government-to-government partnership and protect future generations – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/lekanoffs-to-strengthen-government-to-government-partnership-and-protect-future-generations/#:~:text=HB%202555)
+
 ## Meetings
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2555 Traditional health/medicaid
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Vicki Lowe - American Indian Health Commission
 

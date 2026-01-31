@@ -14,9 +14,9 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2367 Coal-fired electric plant
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 33 👍 - Pro
 
-#### 2 👎 - Con
+#### 13 👎 - Con
 
 #### 0 ❓ - Other
 

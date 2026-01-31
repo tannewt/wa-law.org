@@ -39,6 +39,8 @@
 ### [HB 2526](/bill/2025-26/hb/2526/) - Prostitution  👎1 
 * 👎💵 Elizabeth Hendren
 
+### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
@@ -74,8 +76,9 @@
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 * 👍💵 Elizabeth Hendren
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 * 👍 Alexander Bejarán  Estévez
+* 👍💵 Elizabeth Hendren
 
 ## [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
 

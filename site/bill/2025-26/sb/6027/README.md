@@ -14,9 +14,13 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6027 Affordable housing funding
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Joe McDermott - State Relations Director | King County
 
-#### 1 👎 - Con
+#### 176 👎 - Con
 
 #### 0 ❓ - Other
 

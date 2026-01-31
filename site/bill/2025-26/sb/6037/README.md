@@ -11,9 +11,12 @@
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SSB 6037 Fire protection districts
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Jennifer Gregerson - City of Everett, Government Affairs Director
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 7 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

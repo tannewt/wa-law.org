@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6037/</link>
 		<description>Updates about SB 6037</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 09:19:14 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 10:46:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -105,6 +105,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Pack/2026-01-28 09:19:14</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Gregerson - City of Everett, Government Affairs Director</title>
+			<description>Jennifer Gregerson signed up to testify Pro. They are signed up to represent City of Everett, Government Affairs Director.</description>
+			<pubDate>Fri, 30 Jan 2026 04:02:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Gregerson/2026-01-30 04:02:56</guid>
+		</item>
+		<item>
+			<title>👍💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 30 Jan 2026 10:46:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2026-01-30 10:46:27</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,7 +10,7 @@
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2658 Mental health coverage
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
 
 #### 0 👎 - Con
 

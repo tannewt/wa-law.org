@@ -10,7 +10,10 @@
 ### Tue 02/03 08:00 AM - Early Learning & K-12 Education (EDU): SB 6277 Military families/education
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Kellen Wilk
+* Connor Fagan
 
 #### 0 👎 - Con
 

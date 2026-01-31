@@ -53,6 +53,8 @@
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 * 👍💵 Nadine Nadow
 
+### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.  👎1 
+
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
@@ -101,7 +103,7 @@
 
 ### [SB 5838](/bill/2025-26/sb/5838/) - Board of natural resources 👍1  
 
-### [SB 6010](/bill/2025-26/sb/6010/) - Concerning tribal consultation conducted by the energy facility site evaluation council. 👍1  
+### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
 ### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 

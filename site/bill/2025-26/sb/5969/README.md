@@ -15,9 +15,9 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5969 IEP transition plans
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 109 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

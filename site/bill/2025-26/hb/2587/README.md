@@ -10,7 +10,9 @@
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2587 Nonprofit grant advances
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Sornsawan Wilson - Tri-Cities Diversity & Inclusion Council
 
 #### 0 👎 - Con
 

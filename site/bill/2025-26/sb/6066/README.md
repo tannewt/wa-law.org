@@ -11,9 +11,11 @@
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SSB 6066 Crash prevention zones
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 82 👍 - Pro
+Testifying:
+* Maria Serra - Public Works Director at the City of Pasco
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

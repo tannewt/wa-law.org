@@ -160,12 +160,15 @@
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍2  
 * 👍💵 Heather Trim
 
-## [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍1  
+### [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍1  
+* 👍💵 Heather Trim
+
+## [SB 6303](/bill/2025-26/sb/6303/) - Cannabis product packaging 👍1  
 * 👍💵 Heather Trim
 
 ## 2023-24
 
-### [SB 6124](/bill/2023-24/sb/6124/) - Appliance afford. index 👍1  
+### [SB 6303](/bill/2023-24/sb/6303/) - Cannabis product packaging 👍1  
 * 👍💵 Heather Trim
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  

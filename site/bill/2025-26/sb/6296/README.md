@@ -10,11 +10,14 @@
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6296 Involuntary treatment
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Laura Cissna - Washington state designated crisis responder association
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dr. Matthew Goldman - Chief Medical Officer, King County Behavioral Health and Recovery Division
+* Teesha Kirschbaum - Director, Division of Behavioral Health and Recovery at HCA

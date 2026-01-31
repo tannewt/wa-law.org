@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2141/</link>
 		<description>Updates about HB 2141</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 04:57:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍💵Curtis Steinhauer - Washington State Association of County Planning Directors</title>
+			<description>Curtis Steinhauer signed up to testify Pro. They are signed up to represent Washington State Association of County Planning Directors. They are a registered lobbyist.</description>
+			<pubDate>Fri, 30 Jan 2026 02:24:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Curtis/Steinhauer/2026-01-30 02:24:37</guid>
+		</item>
+		<item>
+			<title>👎Darren Schwend - ASHRAE</title>
+			<description>Darren Schwend signed up to testify Con. They are signed up to represent ASHRAE.</description>
+			<pubDate>Fri, 30 Jan 2026 04:44:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Darren/Schwend/2026-01-30 04:44:42</guid>
+		</item>
+		<item>
+			<title>👎💵Bryan Imai - International Code Council</title>
+			<description>Bryan Imai signed up to testify Con. They are signed up to represent International Code Council. They are a registered lobbyist.</description>
+			<pubDate>Fri, 30 Jan 2026 04:57:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bryan/Imai/2026-01-30 04:57:07</guid>
 		</item>
 	</channel>
 </rss>

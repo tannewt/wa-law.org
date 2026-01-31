@@ -399,6 +399,9 @@
 ### [HB 2614](/bill/2025-26/hb/2614/) - Home cultivation of cannabis  👎1 
 * 👎💵 Derrick Nunnally
 
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
+* 👍💵 Candice Bock
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
@@ -664,10 +667,11 @@
 
 ### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  
 
-### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍2  
 * 👍💵 Steven Ellis
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
@@ -696,16 +700,28 @@
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 * 👍💵 Candice Bock
 
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+* 👍💵 Steven Ellis
+
 ### [SB 6274](/bill/2025-26/sb/6274/) - Street standards   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits   ❓1
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+* 👍💵 Candice Bock
+
+### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits   ❓1
 * ❓💵 Carl Schroeder
+
+### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage   ❓1
+* ❓💵 Steven Ellis
+
+## [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
+* ❓💵 Steven Ellis
 
 ## 2023-24
 
-### [SB 6309](/bill/2023-24/sb/6309/) - High cap. transit permits   ❓1
-* ❓💵 Carl Schroeder
+### [SB 6335](/bill/2023-24/sb/6335/) - Transportation commission   ❓1
+* ❓💵 Steven Ellis
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

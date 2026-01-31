@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6080/</link>
 		<description>Updates about SB 6080</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 01:07:07 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 21:04:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2026-01-21 01:07:07</guid>
+		</item>
+		<item>
+			<title>Bill to clarify the law on ICE detainees brought across state lines to Washington jails heard in Senate. - Sen. Annette Cleveland</title>
+			<description>News article "Bill to clarify the law on ICE detainees brought across state lines to Washington jails heard in Senate. - Sen. Annette Cleveland" from Senate Democrats.</description>
+			<pubDate>Fri, 30 Jan 2026 21:04:19 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cleveland/2026/01/30/bill-to-clarify-the-law-on-ice-detainees-brought-across-state-lines-to-washington-jails-heard-in-senate/#:~:text=Senate%20Bill%206080</guid>
 		</item>
 	</channel>
 </rss>

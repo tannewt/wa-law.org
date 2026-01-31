@@ -6,13 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202403)
+
 ## Meetings
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2403 Sex offenders/registration
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* Whitney Hunt - Sex Offender Policy Board
+* Katie Hurley - King County Dept of Public Defense
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

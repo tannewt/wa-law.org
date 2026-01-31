@@ -13,6 +13,8 @@
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
 * 👍 Florence Bien-Aime
 
+### [HB 2587](/bill/2025-26/hb/2587/) - Nonprofit grant advances 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Ginger Kwan
 

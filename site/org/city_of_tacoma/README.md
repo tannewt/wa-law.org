@@ -133,17 +133,23 @@
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍1  
 
 ### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
 
-## [SB 6175](/bill/2025-26/sb/6175/) - Ticket sales   ❓1
+### [SB 6175](/bill/2025-26/sb/6175/) - Ticket sales   ❓1
+
+## [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
+* 👍 Preston Peck
 
 ## 2023-24
 
-### [SB 6175](/bill/2023-24/sb/6175/) - Ticket sales   ❓1
+### [SB 6271](/bill/2023-24/sb/6271/) - Mattress producer resp. 👍1  
+* 👍 Preston Peck
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

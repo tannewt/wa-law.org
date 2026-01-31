@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2291 Kratom
-Sign up to testify:
-
-#### 27 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Micah Wakefield
 * Misty Brown
@@ -26,7 +24,7 @@ Testifying:
 * Kadince Matteson - Cle Elum Roslyn High School Prevention Club
 * Angelica Joyce
 
-#### 66 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * Matthew Lowe - Global Kratom Coalition

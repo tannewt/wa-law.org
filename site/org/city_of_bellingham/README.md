@@ -58,11 +58,13 @@
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
-## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## 2023-24
 
-### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 * 👍 Clare Fogelsong

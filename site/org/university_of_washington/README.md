@@ -60,6 +60,8 @@
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences   ❓1
 
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍2 👎1 
 * 👎💵 Morgan Hickel
 

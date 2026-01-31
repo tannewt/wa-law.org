@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%206130)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206130)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [Done with week one - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/16/done-with-week-one/#:~:text=SB%206130)
 

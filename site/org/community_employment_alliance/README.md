@@ -47,7 +47,7 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
-### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍3  
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍4  
 * 👍💵 Aaron Dickson
 
 ### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍2  

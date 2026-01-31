@@ -11,14 +11,13 @@
 
 ## Meetings
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2487 Insurer taxes
-Sign up to testify:
-
-#### 44 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Steve Ewing - Dept. of Revenue
+* Jim Freeburg - Patient Coalition of Washington
 
-#### 69 👎 - Con
+#### 97 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)

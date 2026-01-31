@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6186/</link>
 		<description>Updates about SB 6186</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 04:38:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-16/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👎💵Claire Lane - Anti-Hunger &amp; Nutrition Coalition</title>
+			<description>Claire Lane signed up to testify Con. They are signed up to represent Anti-Hunger &amp; Nutrition Coalition. They are a registered lobbyist.</description>
+			<pubDate>Fri, 30 Jan 2026 04:34:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Claire/Lane/2026-01-30 04:34:40</guid>
+		</item>
+		<item>
+			<title>👎Diane Evans - Anti-Hunger &amp; Nutrition Coalition</title>
+			<description>Diane Evans signed up to testify Con.</description>
+			<pubDate>Fri, 30 Jan 2026 04:38:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Diane/Evans/2026-01-30 04:38:39</guid>
+		</item>
+		<item>
+			<title>👎💵Lianna Kressin - Statewide Poverty Action Network</title>
+			<description>Lianna Kressin signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/statewide_poverty_action_network/"&gt;Statewide Poverty Action Network&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 30 Jan 2026 04:38:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lianna/Kressin/2026-01-30 04:38:39</guid>
 		</item>
 	</channel>
 </rss>

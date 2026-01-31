@@ -37,8 +37,9 @@
 
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍2  
+### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍3  
 * 👍💵 Anna Nepomuceno
+* 👍 Dante Pollard
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 * 👍💵 Anna Nepomuceno

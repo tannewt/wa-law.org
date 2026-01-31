@@ -30,6 +30,9 @@
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings  👎1 
 * 👎 Colette Weeks
 
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force  👎1 
+* 👎 Michael Fancher
+
 ### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍3  
 * 👍💵 Donna Christensen
 
@@ -39,6 +42,9 @@
 * 👍 ROBERT McCLURE
 
 ### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍1  
+
+### [SB 6164](/bill/2025-26/sb/6164/) - WaTech/PRA exemption  👎1 
+* 👎 Colette Weeks
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎2 
 

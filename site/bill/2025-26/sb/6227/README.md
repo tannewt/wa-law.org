@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/26 10:30 AM - Higher Education & Workforce Development (HEWD): SB 6227 Parenting student data

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [The top issue I’ve heard from you - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=SB%206312)
+
 ## Meetings
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6312 Retail pricing
 #### 97 👍 - Pro

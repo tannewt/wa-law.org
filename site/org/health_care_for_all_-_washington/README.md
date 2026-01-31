@@ -25,13 +25,21 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
+
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍1  
 
+### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
+
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
+
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax 👍1  
+
+### [HB 2683](/bill/2025-26/hb/2683/) - Health carriers & providers 👍1  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 

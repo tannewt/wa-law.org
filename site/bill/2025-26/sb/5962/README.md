@@ -13,10 +13,11 @@
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 5962 Spring blade knives
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Michael McKinley
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

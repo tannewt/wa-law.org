@@ -10,13 +10,16 @@
 ### [HB 1940](/bill/2025-26/hb/1940/) - Cannabis industry 👍1  
 * 👍 Andy Brassington
 
-## [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry 👍1  
+### [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry 👍1  
 * 👍 Andy Brassington
+
+## [SB 6328](/bill/2025-26/sb/6328/) - Cannabis excise tax  👎1 
+* 👎 Andy Brassington
 
 ## 2023-24
 
-### [SB 5456](/bill/2023-24/sb/5456/) - Cannabis industry 👍1  
-* 👍 Andy Brassington
+### [SB 6328](/bill/2023-24/sb/6328/) - Cannabis excise tax  👎1 
+* 👎 Andy Brassington
 
 ### [HB 1341](/bill/2023-24/hb/1341/) - Cannabis license ownership 👍3  
 * 👍 Andy Brassington

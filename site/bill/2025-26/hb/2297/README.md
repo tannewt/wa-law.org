@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Fri 01/30 01:30 PM - Finance (FIN): HB 2297 Grocery store incentives
-Sign up to testify:
-
-#### 32 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * Lylianna Allala - [City of Seattle](/org/city_of_seattle/)
@@ -23,8 +21,13 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
 * 💵Nilu Jenks
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* Dante Pollard - [Northwest Harvest](/org/northwest_harvest/)
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Elizabeth Kimball - Public Health - Seattle and King County
+* Kian Jenks
 
-#### 737 👎 - Con
+#### 810 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

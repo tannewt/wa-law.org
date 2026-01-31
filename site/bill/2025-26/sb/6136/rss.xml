@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6136/</link>
 		<description>Updates about SB 6136</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 12:39:22 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mike/Ennis/2026-01-22 12:39:22</guid>
+		</item>
+		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/LC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

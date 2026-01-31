@@ -6,12 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202514)
+
 ## Meetings
 ### Tue 02/03 01:30 PM - State Government & Tribal Relations (SGOV): HB 2514 War on terror memorial
 Sign up to testify:
 
-#### 30 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* Allen Acosta - Veterans Legislative Coalition
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

@@ -10,8 +10,14 @@
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6290 Liquor and cannabis board
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* John Worthington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Shawn Denae WAGENSELLER - Washington Bud Company
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE

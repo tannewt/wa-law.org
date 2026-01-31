@@ -126,8 +126,9 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
 * 👍 Mike McIntyre
+* 👍 Michael McIntyre
 
 ### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 

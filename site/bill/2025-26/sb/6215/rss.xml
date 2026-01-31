@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6215/</link>
 		<description>Updates about SB 6215</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 02:48:17 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 31 Jan 2026 00:08:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,20 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Scott/Nelson/2026-01-26 02:48:17</guid>
+		</item>
+		<item>
+			<title>Media advisory: Bipartisan Hansen Fraud Prevention Act to receive public hearing this morning - Sen. Drew Hansen</title>
+			<description>News article "Media advisory: Bipartisan Hansen Fraud Prevention Act to receive public hearing this morning - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Fri, 30 Jan 2026 17:21:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2026/01/30/media-advisory-bipartisan-hansen-fraud-prevention-act-to-receive-public-hearing-this-morning/#:~:text=Senate%20Bill%206215,</guid>
+		</item>
+		<item>
+			<title>Saving public money - Sen. Drew Hansen</title>
+			<description>News article "Saving public money - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Sat, 31 Jan 2026 00:08:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2026/01/30/saving-public-money/#:~:text=SB%206215,</guid>
 		</item>
 	</channel>
 </rss>

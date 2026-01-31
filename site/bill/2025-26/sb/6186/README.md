@@ -10,8 +10,12 @@
 ### Mon 02/02 01:30 PM - Human Services (HS): SB 6186 SNAP benefits/unhealthy food
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 108 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Diane Evans
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 ❓ - Other

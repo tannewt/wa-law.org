@@ -53,7 +53,8 @@
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍2  
 * 👍💵 Rian Watt
 
-### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍2  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
@@ -97,7 +98,7 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Sam Hatzenbeler
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍4  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍5  
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
 * ❓ Sam Hatzenbeler
@@ -150,6 +151,9 @@
 
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 * 👍 Sam Hatzenbeler
+
+### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
+* 👍💵 Helen Ippolito
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 * 👍 Sam Hatzenbeler

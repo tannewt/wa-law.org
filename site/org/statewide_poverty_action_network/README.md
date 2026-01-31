@@ -190,6 +190,9 @@
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
+### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
+* 👎💵 Lianna Kressin
+
 ## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
 * 👎 Molly Gallagher
 

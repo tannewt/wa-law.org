@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5681 DDA employment services age
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Human Services (HS): SB 5681 DDA employment services age
 #### 193 👍 - Pro
 Testifying:

@@ -10,7 +10,11 @@
 ### Tue 02/03 10:30 AM - Local Government (LG): HB 2486 State energy code costs
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Sue Lani Madsen - WA Rural Environmental Network
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 0 👎 - Con
 

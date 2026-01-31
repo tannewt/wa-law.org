@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5984/</link>
 		<description>Updates about SB 5984</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 15:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jan 2026 23:55:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -223,6 +223,34 @@
 			<pubDate>Tue, 27 Jan 2026 15:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/#:~:text=Senate%20Bill%205984</guid>
+		</item>
+		<item>
+			<title>ENET - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENET - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/ENET - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-30/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>The top issue I’ve heard from you - Sen. Jessica Bateman</title>
+			<description>News article "The top issue I’ve heard from you - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Fri, 30 Jan 2026 23:55:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=SB%205984</guid>
 		</item>
 	</channel>
 </rss>

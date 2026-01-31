@@ -72,6 +72,8 @@
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+
 ## [SB 6320](/bill/2025-26/sb/6320/) - Alternative learning 👍2  
 
 ## 2023-24

@@ -11,15 +11,14 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - Housing (HSG): SB 6237 Rental property flood discl.
-Sign up to testify:
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Krystelle Purkey - Washington Multi-Family Housing Association
+* 💵Jim Henderson - National Association of Residential Property Managers (NARPM)

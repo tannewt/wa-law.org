@@ -49,7 +49,7 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
 
-### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
+### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍2  
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
@@ -76,6 +76,10 @@
 * ❓💵 Emily Brice
 * ❓💵 Emily Brice
 * ❓💵 Vanessa Saavedra
+
+### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
+
+### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍1  
 
 ### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
 
@@ -163,6 +167,8 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓2
 * ❓💵 Emily Brice
 * ❓ Lee Che LEONG
+
+### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 
 ### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals   ❓1
 * ❓💵 Emily Brice

@@ -10,7 +10,7 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 5954 Vet. survivor tuition waiver
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

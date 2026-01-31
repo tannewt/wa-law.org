@@ -61,11 +61,13 @@
 
 ### [SB 6080](/bill/2025-26/sb/6080/) - Federal custody contracts 👍1  
 
-## [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+## [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ## 2023-24
 
-### [SB 6123](/bill/2023-24/sb/6123/) - Local gov. employees/PRA 👍1  
+### [SB 6262](/bill/2023-24/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

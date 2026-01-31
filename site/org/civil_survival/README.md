@@ -55,7 +55,7 @@
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
 
-### [HB 2403](/bill/2025-26/hb/2403/) - Sex offenders/registration 👍2  
+### [HB 2403](/bill/2025-26/hb/2403/) - Sex offenders/registration 👍3  
 
 ### [HB 2430](/bill/2025-26/hb/2430/) - Crime victim penalty assess.  👎1 
 
@@ -87,7 +87,7 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 
 ### [SB 6074](/bill/2025-26/sb/6074/) - Parole   ❓2
 

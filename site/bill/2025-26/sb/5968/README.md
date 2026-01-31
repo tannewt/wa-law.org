@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%205968)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=permitting%20and%20licensing%20processes)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [Done with week one - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/16/done-with-week-one/#:~:text=SB%205968)
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205968)

@@ -11,9 +11,9 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6018 Housing finance commission
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 179 👎 - Con
 
 #### 0 ❓ - Other
 
