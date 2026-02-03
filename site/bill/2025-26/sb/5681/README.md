@@ -11,7 +11,9 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5681 DDA employment services age
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 89 👍 - Pro
+Testifying:
+* 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 
 #### 0 👎 - Con
 

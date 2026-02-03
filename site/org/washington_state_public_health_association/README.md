@@ -87,6 +87,8 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍 Megan Moore
 
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
+
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
@@ -95,6 +97,8 @@
 ### [HB 2291](/bill/2025-26/hb/2291/) - Kratom 👍1  
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
+
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
@@ -113,6 +117,8 @@
 
 ### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants 👍1  
 
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax 👍1  
+
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
@@ -129,6 +135,8 @@
 ### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising  👎2 
 
 ### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍1  
+
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
 
 ### [SB 5335](/bill/2025-26/sb/5335/) - Rural nursing education 👍1  
 
@@ -178,13 +186,19 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Amy Brackenbury
 
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
 ### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
+
+### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 
 ### [SB 6118](/bill/2025-26/sb/6118/) - Cardiac emerg. plans/schools 👍1  
 
 ### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+
+### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
 ### [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply   ❓1
 
@@ -201,6 +215,9 @@
 ### [SB 6287](/bill/2025-26/sb/6287/) - Kratom products 👍1  
 
 ### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+
+### [SB 6303](/bill/2025-26/sb/6303/) - Cannabis product packaging  👎1 
+* 👎 Megan Moore
 
 ## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
 

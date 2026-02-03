@@ -11,10 +11,11 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2607 Child care rate regions
-Sign up to testify:
+#### 120 👍 - Pro
+Testifying:
+* Brian Ace - Boys & Girls Clubs of Benton and Franklin Counties
+* Jerome Delvin - Benton County
 
-#### 2 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

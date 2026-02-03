@@ -10,8 +10,10 @@
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6252 Free transit/CTC students
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 250 👍 - Pro
+Testifying:
+* Amir Mehr
 
-#### 12 👎 - Con
+#### 165 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

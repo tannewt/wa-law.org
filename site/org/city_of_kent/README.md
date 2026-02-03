@@ -27,6 +27,8 @@
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones   ❓1
 * ❓ Kristen Holdsworth
 
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
+
 ### [HJM 4000](/bill/2025-26/hjm/4000/) - Martin Luther King, Jr. Way 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  

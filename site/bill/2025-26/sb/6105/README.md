@@ -11,15 +11,15 @@
 
 ## Meetings
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6105 Medical debt garnishments
-Sign up to testify:
-
-#### 13 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society
 * 💵Helen Ippolito - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
+* Jim Freeburg - Patient Coalition of Washington
+* Cathleen MacCaul - AARP Washington
 
-#### 60 👎 - Con
+#### 114 👎 - Con
 Testifying:
 * David Reid
 * Donald Maurice

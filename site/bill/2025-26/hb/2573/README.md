@@ -10,8 +10,18 @@
 ### Tue 02/03 10:30 AM - Local Government (LG): HB 2573 Grocery stores & pharmacies
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Cesar Garcia - Lake City Collective
+* Francesca Kennedy
+* Marynn Brown
+* Nancy Canales - [Front and Centered](/org/front_and_centered/)
+* Rod Dembowski - King County Councilmember
+* 💵Dustin Lambro - UFCW 3000
 
-#### 0 👎 - Con
+#### 100 👎 - Con
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Brandon Houskeeper - NW Grocery Retail Association
 
 #### 0 ❓ - Other

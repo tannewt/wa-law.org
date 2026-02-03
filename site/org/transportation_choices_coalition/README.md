@@ -65,13 +65,16 @@
 
 ### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 
-## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
+### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
 * 👍💵 Kirk Hovenkotter
+
+## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
+* 👍 Katy Ricchiuto
 
 ## 2023-24
 
-### [SB 6148](/bill/2023-24/sb/6148/) - RTA bond issues maximum term 👍1  
-* 👍💵 Kirk Hovenkotter
+### [SB 6311](/bill/2023-24/sb/6311/) - Pedestrian passage 👍1  
+* 👍 Katy Ricchiuto
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

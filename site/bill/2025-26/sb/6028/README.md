@@ -13,15 +13,14 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6028 Homeownership dev. loans
-Sign up to testify:
-
-#### 28 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* steve walker - Washington State Housing Finance Commission
 
-#### 162 👎 - Con
+#### 749 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
 
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6028 Homeownership dev. loans
 #### 42 👍 - Pro

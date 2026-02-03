@@ -24,6 +24,8 @@
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification  👎1 
 * 👎💵 Carrie Tellefson
 
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
+
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
 ## [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 

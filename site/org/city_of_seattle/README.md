@@ -131,6 +131,8 @@
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 
+### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍1  
+
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 * 👍 Dan Eder
 
@@ -318,11 +320,19 @@
 
 ### [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍1  
 
-## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+### [SB 6252](/bill/2025-26/sb/6252/) - Free transit/CTC students 👍1  
+
+### [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
+
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+
+## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
 
 ## 2023-24
 
-### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍1  
+### [SB 6311](/bill/2023-24/sb/6311/) - Pedestrian passage 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

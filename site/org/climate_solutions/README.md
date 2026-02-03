@@ -74,13 +74,17 @@
 
 ### [HB 2134](/bill/2025-26/hb/2134/) - Regional transp. plans 👍1  
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍1  
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
+* 👎 Deepa Sivarajan
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍2  
 * 👍💵 Leah Missik
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Leah Missik
@@ -93,7 +97,8 @@
 
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍1  
 
-### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
+### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 

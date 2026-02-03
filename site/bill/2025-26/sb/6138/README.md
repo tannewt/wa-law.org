@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2026 [FOX13](/org/fox13/) - [WA bill aims to regulate sedation work at the dentist | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-statewide-deep-sedation-dental-offices#:~:text=Senate%20Bill%206138)
+
 ## Meetings
 ### Fri 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 6138 Dental deep sedation
 #### 255 👍 - Pro

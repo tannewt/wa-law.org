@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%205906)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/01/30/legislative-action-to-keep-our-communities-safe-and-supported/#:~:text=SB%205906)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%205906)
 * 01/28/2026 [The Center Square](/org/the_center_square/) - [WA Senate passes bill banning law enforcement from wearing masks amid ICE activity | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_99476763-d74d-4e3e-9eea-bb4ea08a39d7.html#:~:text=entering)

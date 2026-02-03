@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2026 [The Center Square](/org/the_center_square/) - [Nearly 2,200 Seattle-area jobs included in latest round of Amazon corporate layoffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dae5582-8f54-43fa-b6ec-0fab01798478.html#:~:text=head)
 * 01/29/2026 [The Burner](/org/the_burner/) - [GUEST POST: If Washington Democrats Want To Stand Up To Trump, They Need To Tax Big Business](https://www.theburnerseattle.com/post/guest-post-if-washington-democrats-want-to-stand-up-to-trump-they-need-to-tax-big-business#:~:text=WA%20State%20Representative%20Shaun%20Scott’s%20bill,%20H.B.%202100.)
 * 01/29/2026 [The Center Square](/org/the_center_square/) - [Tech sector gloom prompts worries of an economic slowdown in Seattle | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_197077b9-c22c-4adc-9704-072866c0ca1e.html#:~:text=House%20Bill%202100)
 * 01/23/2026 [FOX13](/org/fox13/) - [WA's statewide payroll tax proposal draws debate | FOX 13 Seattle](https://www.fox13seattle.com/news/salary-tax-proposal-public-hearing#:~:text=HB%202100)

@@ -20,6 +20,8 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+
 ## [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍1  
 
 ## 2023-24

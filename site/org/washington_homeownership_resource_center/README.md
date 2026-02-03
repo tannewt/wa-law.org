@@ -74,7 +74,7 @@
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍2  
 
-### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
+### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  
 
 ### [SB 6091](/bill/2025-26/sb/6091/) - Real estate/exclusive market 👍1  
 

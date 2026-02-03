@@ -14,7 +14,7 @@
 
 ### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍3  
 
-### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
+### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  
 
 ## [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍1  
 

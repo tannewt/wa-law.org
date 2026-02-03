@@ -1,6 +1,8 @@
 # Working Washington
 ## 2025-26
 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+
 ### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1  
 
 ### [HB 1496](/bill/2025-26/hb/1496/) - Health care information 👍1  
@@ -19,15 +21,19 @@
 
 ### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm. 👍1  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb. 👍1  
 
-### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
+
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍2  
+
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
 ### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
 
@@ -50,9 +56,11 @@
 
 ### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
 
-### [HB 2207](/bill/2025-26/hb/2207/) - Concerning warehousing of alcohol.  👎1 
+### [HB 2207](/bill/2025-26/hb/2207/) - Warehousing of alcohol  👎1 
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍1  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
 
 ### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
 
@@ -76,6 +84,8 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
+### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention 👍1  
 
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
@@ -83,6 +93,8 @@
 ### [HB 2317](/bill/2025-26/hb/2317/) - Concerning early learning program licensing requirements. 👍1  
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member.  👎1 
+
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  
 
@@ -140,7 +152,11 @@
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
+
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
 
 ### [SB 5379](/bill/2025-26/sb/5379/) - Parks & rec./interest arb. 👍1  
 
@@ -168,6 +184,8 @@
 ### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress 👍1  
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
+
+### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 
 ### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights  👎1 
 
@@ -215,13 +233,21 @@
 
 ### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation 👍1  
 
+### [SB 6068](/bill/2025-26/sb/6068/) - Construction worker wages 👍1  
+
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
 
 ### [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining 👍1  
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
+### [SB 6128](/bill/2025-26/sb/6128/) - Independent medical exams  👎1 
+
 ### [SB 6131](/bill/2025-26/sb/6131/) - Roadway fatalities  👎1 
+
+### [SB 6135](/bill/2025-26/sb/6135/) - Interest arbitration factors  👎1 
 
 ### [SB 6152](/bill/2025-26/sb/6152/) - Workers' comp./PTs & OTs 👍1  
 
@@ -239,7 +265,11 @@
 
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 
+### [SB 6253](/bill/2025-26/sb/6253/) - PTBA governing bodies 👍1  
+
 ### [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface 👍1  
+
+### [SB 6282](/bill/2025-26/sb/6282/) - Apprenticeships/wellness 👍1  
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍1  
 
@@ -249,11 +279,15 @@
 
 ### [SB 6309](/bill/2025-26/sb/6309/) - High cap. transit permits 👍1  
 
-## [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing 👍1  
+### [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing 👍1  
+
+### [SB 6323](/bill/2025-26/sb/6323/) - Survivor insurance/LEOFF 👍1  
+
+## [SB 6324](/bill/2025-26/sb/6324/) - LEOFF 2/standby pay 👍1  
 
 ## 2023-24
 
-### [SB 6312](/bill/2023-24/sb/6312/) - Retail pricing 👍1  
+### [SB 6324](/bill/2023-24/sb/6324/) - LEOFF 2/standby pay 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

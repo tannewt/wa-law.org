@@ -32,6 +32,8 @@
 
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍1  
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
 ### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍2  

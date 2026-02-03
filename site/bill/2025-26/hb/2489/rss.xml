@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2489/</link>
 		<description>Updates about HB 2489</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 17:33:40 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -453,6 +453,13 @@
 			<pubDate>Fri, 30 Jan 2026 17:33:40 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202489</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

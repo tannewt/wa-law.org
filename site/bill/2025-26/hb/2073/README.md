@@ -11,14 +11,19 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2073 Health carrier surpluses
-Sign up to testify:
-
-#### 189 👍 - Pro
+#### 471 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * 💵Patrick Connor - NFIB
+* Jim Freeburg - Patient Coalition of Washington
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 0 👎 - Con
+#### 151 👎 - Con
+Testifying:
+* 💵Carrie Tellefson - Regence BlueShield
+* 💵David Foster - Assoc of WA Healthcare Plans
+* 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

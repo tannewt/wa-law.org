@@ -66,6 +66,9 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 * 👎 Glen Simecek
 
+### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍2  
+* 👍 Sherry Krainick
+
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission   ❓1
 * ❓💵 Megan Managan
 

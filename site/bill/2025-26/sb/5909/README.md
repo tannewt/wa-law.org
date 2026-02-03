@@ -10,12 +10,15 @@
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5909 Undergraduate programs
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* David Buri - Eastern Washington University
 
-#### 120 👎 - Con
+#### 304 👎 - Con
 Testifying:
 * Beth Ebel - UW Faculty Leg Rep, Council of Faculty
 * Matt Altman - CWU Faculty Legislative Rep, Council of Faculty
+* Mahmood Alkhazraji - ASCWU
 
 #### 0 ❓ - Other
 

@@ -17,7 +17,12 @@
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio  👎1 
 * 👎💵 Marissa Ingalls
 
+### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
+
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification  👎1 
+
+### [HB 2658](/bill/2025-26/hb/2658/) - Mental health coverage  👎1 
+* 👎💵 Marissa Ingalls
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 
 * 👎💵 Marissa Ingalls

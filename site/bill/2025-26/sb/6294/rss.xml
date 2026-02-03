@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6294/</link>
 		<description>Updates about SB 6294</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 10:46:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 03:58:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,29 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Candice/Bock/2026-01-30 10:46:00</guid>
+		</item>
+		<item>
+			<title>👍Regan Bolli - City of Covington</title>
+			<description>Regan Bolli signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_covington/"&gt;City of Covington&lt;/a&gt;.</description>
+			<pubDate>Sun, 01 Feb 2026 06:10:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Regan/Bolli/2026-02-01 06:10:03</guid>
+		</item>
+		<item>
+			<title>👎💵Scott Hazlegrove - WA State Auto Dealers Association</title>
+			<description>Scott Hazlegrove signed up to testify Con. They are signed up to represent WA State Auto Dealers Association. They are a registered lobbyist.</description>
+			<pubDate>Sun, 01 Feb 2026 11:19:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2026-02-01 11:19:02</guid>
+		</item>
+		<item>
+			<title>February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA</title>
+			<description>News article "February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 02 Feb 2026 03:58:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%206294</guid>
 		</item>
 	</channel>
 </rss>

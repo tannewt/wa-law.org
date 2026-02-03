@@ -61,7 +61,7 @@
 
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb. 👍1  
 
-### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍2  
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍3  
 
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
 
@@ -92,6 +92,8 @@
 ### [HB 2303](/bill/2025-26/hb/2303/) - Employee microchipping 👍1  
 
 ### [HB 2309](/bill/2025-26/hb/2309/) - Reducing barriers to state employment by eliminating postgraduate degree requirements that are unnecessary. 👍1  
+
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
@@ -187,6 +189,10 @@
 
 ### [SB 6073](/bill/2025-26/sb/6073/) - Wildland firefighters/LEOFF 👍3  
 * 👍💵 Seamus Petrie
+
+### [SB 6128](/bill/2025-26/sb/6128/) - Independent medical exams  👎2 
+
+### [SB 6135](/bill/2025-26/sb/6135/) - Interest arbitration factors  👎2 
 
 ## [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
 

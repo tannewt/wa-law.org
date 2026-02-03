@@ -73,6 +73,8 @@
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy   ❓1

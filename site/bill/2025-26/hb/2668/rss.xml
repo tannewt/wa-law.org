@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2668/</link>
 		<description>Updates about HB 2668</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 17:33:40 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 07:00:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,22 @@
 			<pubDate>Fri, 30 Jan 2026 17:33:40 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202668</guid>
+		</item>
+		<item>
+			<title>👍Sean Swope - Centralia Public Works</title>
+			<description>Sean Swope signed up to testify Pro.</description>
+			<pubDate>Mon, 02 Feb 2026 02:54:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Swope/2026-02-02 02:54:10</guid>
+		</item>
+		<item>
+			<title>👍Chris Stone - Water Operations Manager, City of Centralia</title>
+			<description>Chris Stone signed up to testify Pro. They are signed up to represent Water Operations Manager, City of Centralia.</description>
+			<pubDate>Mon, 02 Feb 2026 07:00:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Stone/2026-02-02 07:00:15</guid>
 		</item>
 	</channel>
 </rss>

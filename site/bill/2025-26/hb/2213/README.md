@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2026 [MyNorthwest](/org/mynorthwest/) - [Thieves moved on from catalytic converters to stealing copper wire, prosecutor says - MyNorthwest.com](https://mynorthwest.com/crime-blotter/thieves-copper-wire/4197255#:~:text=House%20Bill%202213)
+
 ## Meetings

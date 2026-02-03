@@ -6,15 +6,25 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%206277)
+
 ## Meetings
 ### Tue 02/03 08:00 AM - Early Learning & K-12 Education (EDU): SB 6277 Military families/education
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Kellen Wilk
 * Connor Fagan
+* Kathryn Salveson - Washington State Association of School Psychologists
+* Tammie Perreault - Department of Defense/War Department
+* Natalie Wimberley - Peninsula School District
+* Charles Wharton - Veterans Legislative Coalition
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tawni Barlow - Medical Lake School District
+* Charlie Brown - South Sound Superintendents

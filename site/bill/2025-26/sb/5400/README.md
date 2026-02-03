@@ -19,12 +19,14 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5400 Local news journalism
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 430 👍 - Pro
 Testifying:
 * David Fischrr - KNKX Radio
 * Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Matt Pearce - Rebuild Local News
+* Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 
-#### 0 👎 - Con
+#### 95 👎 - Con
 
 #### 0 ❓ - Other
 

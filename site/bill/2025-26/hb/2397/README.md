@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2397 Fire services mobilization
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2397 Fire services mobilization
 #### 7 👍 - Pro
 Testifying:

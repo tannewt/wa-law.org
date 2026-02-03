@@ -12,6 +12,20 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202210)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2210 Local government elections
+Sign up to testify:
+
+#### 267 👍 - Pro
+Testifying:
+* James Wang
+
+#### 109 👎 - Con
+Testifying:
+* Gregor Doerr - Washington State Young Republicans
+* Laurie Layne
+
+#### 1 ❓ - Other
+
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2210 Local government elections
 #### 5369 👍 - Pro
 Testifying:

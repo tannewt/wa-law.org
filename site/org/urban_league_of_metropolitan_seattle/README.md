@@ -87,6 +87,10 @@
 
 ### [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance 👍1  
 
+### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍1  
+
+### [SB 6275](/bill/2025-26/sb/6275/) - Community reinvestment prg. 👍1  
+
 ## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
 ## 2023-24

@@ -136,7 +136,7 @@
 
 ### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
 
-### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
+### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 
 ### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍1  
 
@@ -172,7 +172,7 @@
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍2  
+### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍3  
 * 👍 Chris Herman
 * 👍 Chris Herman
 
@@ -284,13 +284,16 @@
 ### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants   ❓1
 * ❓ Eric ffitch
 
-## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 * 👍 Eric ffitch
+
+## [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
+* ❓ Eric ffitch
 
 ## 2023-24
 
-### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
-* 👍 Eric ffitch
+### [SB 6335](/bill/2023-24/sb/6335/) - Transportation commission   ❓1
+* ❓ Eric ffitch
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

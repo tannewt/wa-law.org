@@ -336,6 +336,9 @@
 ### [HB 2566](/bill/2025-26/hb/2566/) - Local government procurement 👍1  
 * 👍💵 Axel Swanson
 
+### [HB 2584](/bill/2025-26/hb/2584/) - Farm machinery sales tax   ❓1
+* ❓💵 Paul Jewell
+
 ### [HB 2588](/bill/2025-26/hb/2588/) - County ferry districts 👍1  
 * 👍💵 Axel Swanson
 
@@ -379,7 +382,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 
-### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
+### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍2  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓💵 Paul Jewell
@@ -575,6 +578,9 @@
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
 
+### [SB 6135](/bill/2025-26/sb/6135/) - Interest arbitration factors 👍1  
+* 👍💵 Paul Jewell
+
 ### [SB 6151](/bill/2025-26/sb/6151/) - Env. programs/fee accounts 👍1  
 * 👍💵 Travis Dutton
 
@@ -598,13 +604,19 @@
 ### [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface   ❓1
+### [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface   ❓1
 * ❓💵 Curtis Steinhauer
+
+### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage   ❓1
+* ❓💵 Axel Swanson
+
+## [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
+* ❓💵 Axel Swanson
 
 ## 2023-24
 
-### [SB 6279](/bill/2023-24/sb/6279/) - Wildland urban interface   ❓1
-* ❓💵 Curtis Steinhauer
+### [SB 6335](/bill/2023-24/sb/6335/) - Transportation commission   ❓1
+* ❓💵 Axel Swanson
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

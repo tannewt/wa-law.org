@@ -9,13 +9,14 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SSB 6066 Crash prevention zones
-Sign up to testify:
-
-#### 82 👍 - Pro
+#### 285 👍 - Pro
 Testifying:
 * Maria Serra - Public Works Director at the City of Pasco
+* 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Stephen Alldridge
 
 #### 0 ❓ - Other
 

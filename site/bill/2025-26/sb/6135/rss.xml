@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6135/</link>
 		<description>Updates about SB 6135</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 29 Jan 2026 08:34:18 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 01 Feb 2026 07:26:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Daron/Smith/2026-01-29 08:34:18</guid>
+		</item>
+		<item>
+			<title>👍💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 01 Feb 2026 03:28:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2026-02-01 03:28:15</guid>
+		</item>
+		<item>
+			<title>👎Carl Keller - Teamsters Local 760</title>
+			<description>Carl Keller signed up to testify Con. They are signed up to represent Teamsters Local 760.</description>
+			<pubDate>Sun, 01 Feb 2026 04:24:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carl/Keller/2026-02-01 04:24:48</guid>
+		</item>
+		<item>
+			<title>👍💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 01 Feb 2026 07:26:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2026-02-01 07:26:39</guid>
 		</item>
 	</channel>
 </rss>

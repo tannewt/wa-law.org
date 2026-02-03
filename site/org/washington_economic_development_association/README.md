@@ -24,6 +24,8 @@
 
 ### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes  👎1 
 
+### [SB 6275](/bill/2025-26/sb/6275/) - Community reinvestment prg. 👍1  
+
 ## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 * 👍 Suzanne Dale Estey
 

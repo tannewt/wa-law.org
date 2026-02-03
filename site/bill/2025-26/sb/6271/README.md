@@ -10,10 +10,12 @@
 ### Wed 02/04 08:00 AM - Environment, Energy & Technology (ENET): SB 6271 Mattress producer resp.
 Sign up to testify:
 
-#### 91 👍 - Pro
+#### 408 👍 - Pro
 Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Alison Keane - International Sleep Products Association
 
 #### 0 ❓ - Other

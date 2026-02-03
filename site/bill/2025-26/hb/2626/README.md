@@ -13,8 +13,19 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2626 Health insurance premium tax
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 132 👍 - Pro
 
-#### 44 👎 - Con
+#### 289 👎 - Con
+Testifying:
+* Monty Robinson - [Delta Dental of Washington](/org/delta_dental_of_washington/)
+* Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Melissa Johnson - Willamette Dental Group of Washington
+* 💵David Foster - Assoc of WA Healthcare Plans
+* 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Chris Bandoli - National Association of Insurance and Financial Advisors Washington
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Jim Freeburg - Patient Coalition of Washington

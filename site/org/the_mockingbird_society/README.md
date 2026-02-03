@@ -46,7 +46,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
 ### [HB 2171](/bill/2025-26/hb/2171/) - Foster youth   ❓2
 * ❓💵 Charles Smith
@@ -123,6 +123,8 @@
 * 👍💵 Samuel Martin
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
+
+### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍1  
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 * 👍💵 Charles Smith

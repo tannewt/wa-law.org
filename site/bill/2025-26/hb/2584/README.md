@@ -10,8 +10,12 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2584 Farm machinery sales tax
 Sign up to testify:
 
-#### 36 👍 - Pro
+#### 120 👍 - Pro
+Testifying:
+* Pam Lewison
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Record deaths in WA child welfare system have Legislature’s attention • Washington State Standard](https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=House%20Bill%202660)
+
 ## Meetings
 ### Tue 01/27 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2660 Child shelter care orders
 #### 14 👍 - Pro

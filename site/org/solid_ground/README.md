@@ -70,9 +70,13 @@
 
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
+
+### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍1  
 
 ## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
 

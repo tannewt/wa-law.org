@@ -10,7 +10,7 @@
 ### Thu 02/05 08:00 AM - Finance (FIN): HB 2431 Nonprofit halls/fundraising
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -16,13 +16,16 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5884 Underutilized property/tax
-Sign up to testify:
+#### 25 👍 - Pro
+Testifying:
+* Council Member Kitty Klitzke
+* Kristen Holdsworth - City of Kent/Long Range Planning Manager
 
-#### 3 👍 - Pro
+#### 90 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Cathy Reines - Koz Development
 

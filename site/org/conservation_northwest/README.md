@@ -65,6 +65,9 @@
 
 ### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
 
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎1 
+* 👎💵 Nadine Nadow
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget  👎1 
 * 👎💵 Paula Swedeen
 

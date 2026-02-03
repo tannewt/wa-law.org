@@ -61,6 +61,8 @@
 
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
 
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
+
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 * 👍 Rachel Baker
 
@@ -72,7 +74,7 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
 * 👍💵 Darcy Nonemacher
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
@@ -91,7 +93,7 @@
 ### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands   ❓1
 * ❓ Rachel Baker
 
-### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍1  
+### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant 👍2  
 * 👍 Caitlin Krenn
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
@@ -110,6 +112,9 @@
 * 👍 Caitlin Krenn
 
 ### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍1  
+
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎1 
+* 👎 Rachel Baker
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 

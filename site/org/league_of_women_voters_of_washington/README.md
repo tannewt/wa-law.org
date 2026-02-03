@@ -141,6 +141,8 @@
 
 ### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations   ❓1
 
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎1 
+
 ### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
 * 👍 Lydia Zepeda
 

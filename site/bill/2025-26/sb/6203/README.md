@@ -8,13 +8,14 @@
 
 ## Meetings
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6203 Out-of-state convictions
-Sign up to testify:
+#### 2098 👍 - Pro
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 324 👍 - Pro
-
-#### 11 👎 - Con
+#### 70 👎 - Con
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 0 ❓ - Other

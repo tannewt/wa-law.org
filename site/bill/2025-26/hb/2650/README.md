@@ -10,8 +10,10 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2650 Excise tax administration
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Steve Ewing - Dept. of Revenue
 
-#### 0 👎 - Con
+#### 31 👎 - Con
 
 #### 0 ❓ - Other

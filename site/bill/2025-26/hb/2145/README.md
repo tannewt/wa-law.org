@@ -12,6 +12,19 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202145)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2145 340B drug pricing program
+Sign up to testify:
+
+#### 65 👍 - Pro
+Testifying:
+* 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
+
+#### 2 👎 - Con
+Testifying:
+* Corbin Santo
+
+#### 1 ❓ - Other
+
 ### Tue 01/20 01:30 PM - Health Care & Wellness (HCW): HB 2145 340B drug pricing program
 #### 349 👍 - Pro
 Testifying:

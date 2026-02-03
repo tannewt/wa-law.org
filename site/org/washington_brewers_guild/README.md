@@ -26,7 +26,7 @@
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
 * 👎💵 Daniel Olson
 
-### [HB 2207](/bill/2025-26/hb/2207/) - Concerning warehousing of alcohol. 👍1  
+### [HB 2207](/bill/2025-26/hb/2207/) - Warehousing of alcohol 👍1  
 * 👍💵 Daniel Olson
 
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 

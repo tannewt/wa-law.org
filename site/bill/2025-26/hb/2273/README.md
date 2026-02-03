@@ -7,19 +7,23 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=HB%202273)
 * 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202273)
 
 ## Meetings
 ### Wed 02/04 04:00 PM - Capital Budget (CB): HB 2273 Embodied carbon/buildings
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Alexandra Johnson - Duwamish River Community Coalition
 
-#### 54 👎 - Con
+#### 731 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2273 Embodied carbon/buildings
 #### 17 👍 - Pro

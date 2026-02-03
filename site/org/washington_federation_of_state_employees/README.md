@@ -149,7 +149,7 @@
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
-### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. 👍1  
+### [HB 2333](/bill/2025-26/hb/2333/) - Political violence 👍1  
 
 ### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍2  
 

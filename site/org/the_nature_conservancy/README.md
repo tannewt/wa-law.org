@@ -70,7 +70,7 @@
 
 ### [HB 2183](/bill/2025-26/hb/2183/) - Heat response plans 👍1  
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
 * 👍💵 Justin Allegro
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  

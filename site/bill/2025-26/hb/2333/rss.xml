@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2333 - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence.</title>
+		<title>HB 2333 - Political violence</title>
 		<link>https://wa-law.org/bill/2025-26/hb/2333/</link>
 		<description>Updates about HB 2333</description>
 		<language>en-US</language>
@@ -221,11 +221,32 @@
 			<guid isPermaLink="false">testifier/David/Larson/2026-01-14 12:23:05</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>SGOV - Executive action taken by committee.</title>
 			<description>SGOV - Executive action taken by committee.</description>
 			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-28/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>SGOV - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-28/SGOV - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

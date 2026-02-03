@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2026 [The Urbanist](/org/the_urbanist/) - [Bill Curbing Mandates for Ground-Floor Retail Spaces Advances at Legislature » The Urbanist](https://www.theurbanist.org/2026/02/02/bill-curbing-mandates-for-ground-floor-retail-spaces-advances-at-legislature/#:~:text=Senate%20Bill%206026)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6026)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=turn%20vacant%20commercial%20buildings)
 * 01/20/2026 [PubliCola](/org/publicola/) - [Legislation Would Open Up Commercial Areas, and Ground-Floor Spaces, to Housing - PubliCola](https://publicola.com/2026/01/20/legislation-would-open-up-commercial-areas-and-ground-floor-spaces-to-housing/#:~:text=sponsoring%20a%20bill)
@@ -21,11 +22,12 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6026 Residential dev./zones
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Jennifer Gregerson - City of Everett, Government Affairs Director
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 9 👎 - Con
+#### 19 👎 - Con
 
 #### 0 ❓ - Other
 

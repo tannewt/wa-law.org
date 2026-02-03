@@ -72,7 +72,7 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
-### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
+### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎3 
 
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
 

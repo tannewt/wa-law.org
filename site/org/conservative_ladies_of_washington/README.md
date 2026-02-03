@@ -120,6 +120,9 @@
 
 ### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring  👎1 
 
+### [HB 2684](/bill/2025-26/hb/2684/) - Business enterprise cert.  👎1 
+* 👎 Jeannie Magdua
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
@@ -219,7 +222,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax  👎1 
 
-### [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion.  👎1 
+### [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion.  👎3 
+* 👎 Mary Long
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety  👎1 
 
@@ -230,7 +234,7 @@
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda  👎1 
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎2 
 
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 ❓1
 * ❓ Julie Barrett
@@ -238,6 +242,9 @@
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program  👎5 
 * 👎 Mary Long
 * 👎 Mary Long
+
+### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food 👍2  
+* 👍 Mary Long
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 

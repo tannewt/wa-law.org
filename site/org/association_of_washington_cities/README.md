@@ -315,7 +315,8 @@
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections   ❓1
 * ❓💵 Derrick Nunnally
 
-### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
@@ -641,7 +642,8 @@
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers   ❓1
 * ❓💵 Derrick Nunnally
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement   ❓1
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement   ❓2
+* ❓💵 Derrick Nunnally
 * ❓💵 Derrick Nunnally
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
@@ -684,6 +686,9 @@
 * 👍💵 Steven Ellis
 
 ### [SB 6123](/bill/2025-26/sb/6123/) - Local gov. employees/PRA 👍1  
+
+### [SB 6135](/bill/2025-26/sb/6135/) - Interest arbitration factors 👍1  
+* 👍💵 Candice Bock
 
 ### [SB 6180](/bill/2025-26/sb/6180/) - Occupational disease/heart  👎1 
 * 👎💵 Candice Bock

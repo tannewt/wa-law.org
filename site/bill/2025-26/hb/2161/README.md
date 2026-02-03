@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/30/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA Democrats pushing ahead with bill to expand AG's power | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e629e6f8-a94d-497f-9561-971443587777.html#:~:text=Senate%20House%20Bill%202161)

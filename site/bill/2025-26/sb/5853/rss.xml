@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5853/</link>
 		<description>Updates about SB 5853</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-30/SGTE - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

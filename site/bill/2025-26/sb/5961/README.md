@@ -12,11 +12,14 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5961 Early literacy programs
-Sign up to testify:
+#### 204 👍 - Pro
+Testifying:
+* Katie Watkins - Partners for Young Children Island County (under the fiscal sponsorship of Whidbey Community Foundat
+* Brooke Fisher-Clarke - Imagination Library of Washington, Executive Director
+* Tovi McClellan - Child Care Action Council
+* 💵Shannon Blood - Reach Out and Read Northwest
 
-#### 50 👍 - Pro
-
-#### 0 👎 - Con
+#### 146 👎 - Con
 
 #### 1 ❓ - Other
 

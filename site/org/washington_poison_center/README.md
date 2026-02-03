@@ -29,13 +29,16 @@
 ### [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 * 👍 MD, Scott Phillips
 
-## [SB 6287](/bill/2025-26/sb/6287/) - Kratom products 👍1  
+### [SB 6287](/bill/2025-26/sb/6287/) - Kratom products 👍1  
 * 👍 Dr. Jimmy Leonard
+
+## [SB 6303](/bill/2025-26/sb/6303/) - Cannabis product packaging   ❓1
+* ❓ Dr. Jimmy Leonard
 
 ## 2023-24
 
-### [SB 6287](/bill/2023-24/sb/6287/) - Kratom products 👍1  
-* 👍 Dr. Jimmy Leonard
+### [SB 6303](/bill/2023-24/sb/6303/) - Cannabis product packaging   ❓1
+* ❓ Dr. Jimmy Leonard
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Dr. Scott Phillips

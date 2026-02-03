@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall bill improving support for sexual and domestic violence survivors advances in Washington Legislature - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/02/orwall-bill-improving-support-for-sexual-and-domestic-violence-survivors-advances-in-washington-legislature/#:~:text=companion%20bill)
+
 ## Meetings

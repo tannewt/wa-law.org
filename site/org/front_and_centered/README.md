@@ -54,6 +54,9 @@
 
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
 
+### [HB 2573](/bill/2025-26/hb/2573/) - Grocery stores & pharmacies 👍1  
+* 👍 Nancy Canales
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  

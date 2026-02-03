@@ -14,11 +14,14 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 1974 Land banking authorities
 Sign up to testify:
 
-#### 17 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
+* Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
+* Krosbie Carter - 1DROP
+* Matt Hoffman - Starter Home Production Plan Team/BHI Land Strategy Team/Maul Foster & Alongi, Inc.
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 18 👎 - Con
+#### 1006 👎 - Con
 
 #### 0 ❓ - Other
 

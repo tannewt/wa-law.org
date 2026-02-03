@@ -35,9 +35,9 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 

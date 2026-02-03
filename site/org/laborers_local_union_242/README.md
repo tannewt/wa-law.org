@@ -28,11 +28,13 @@
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
-## [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
+
+## [SB 6282](/bill/2025-26/sb/6282/) - Apprenticeships/wellness 👍1  
 
 ## 2023-24
 
-### [SB 5971](/bill/2023-24/sb/5971/) - Green fertilizer incentives 👍1  
+### [SB 6282](/bill/2023-24/sb/6282/) - Apprenticeships/wellness 👍1  
 
 ### [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  
 

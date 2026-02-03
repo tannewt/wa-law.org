@@ -428,6 +428,9 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products  👎1 
 
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses  👎1 
+* 👎💵 Emily Wittman
+
 ### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg.  👎1 
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎2 
@@ -516,7 +519,8 @@
 
 ### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍1  
 
-### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant   ❓1
+### [HB 2367](/bill/2025-26/hb/2367/) - Coal-fired electric plant   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes  👎1 
@@ -567,6 +571,9 @@
 ### [HB 2585](/bill/2025-26/hb/2585/) - State false claims act  👎1 
 
 ### [HB 2605](/bill/2025-26/hb/2605/) - Fibrous silicate materials 👍1  
+
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
+* 👎💵 Emily Wittman
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -946,6 +953,8 @@
 * 👎💵 Peter Godlewski
 
 ### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
+
+### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments  👎1 
 
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 
 * 👎 Max Martin

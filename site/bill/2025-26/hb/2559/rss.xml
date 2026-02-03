@@ -386,5 +386,26 @@
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-29/FIN - Executive action taken by committee.</guid>
 		</item>
+		<item>
+			<title>FIN - Majority; do pass.</title>
+			<description>FIN - Majority; do pass.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/FIN - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Minority; without recommendation.</guid>
+		</item>
 	</channel>
 </rss>

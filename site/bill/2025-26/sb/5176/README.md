@@ -11,11 +11,11 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5176 Prompt pay/capital projects
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 28 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5176 Prompt pay/capital projects
 #### 47 👍 - Pro

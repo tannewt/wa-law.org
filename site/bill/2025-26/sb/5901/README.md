@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SSB%205901)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205901)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205901)
 
@@ -15,7 +16,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5901 On-base school construction
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 

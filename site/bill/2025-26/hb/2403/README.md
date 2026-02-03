@@ -11,14 +11,12 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2403 Sex offenders/registration
-Sign up to testify:
-
-#### 48 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Whitney Hunt - Sex Offender Policy Board
 * Katie Hurley - King County Dept of Public Defense
 
-#### 5 👎 - Con
+#### 237 👎 - Con
 
 #### 0 ❓ - Other
 

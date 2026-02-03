@@ -18,11 +18,15 @@
 
 ### [HB 2599](/bill/2025-26/hb/2599/) - Therapy and psychotherapy 👍1  
 
-## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment   ❓1
+* ❓💵 Abby Moore
 
 ## 2023-24
 
-### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍1  
+### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment   ❓1
+* ❓💵 Abby Moore
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

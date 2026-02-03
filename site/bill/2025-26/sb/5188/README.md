@@ -13,9 +13,9 @@
 ### Wed 02/04 04:00 PM - Capital Budget (CB): SB 5188 Broadband repair loans
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

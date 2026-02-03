@@ -137,7 +137,7 @@
 
 ### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍2  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍5  
 * 👍💵 Kristin Ang
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  

@@ -163,6 +163,10 @@
 ### [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍1  
 * 👍💵 Heather Trim
 
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers 👍1  
+
+### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
+
 ## [SB 6303](/bill/2025-26/sb/6303/) - Cannabis product packaging 👍1  
 * 👍💵 Heather Trim
 

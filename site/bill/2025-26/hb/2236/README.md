@@ -11,9 +11,9 @@
 ### Wed 02/04 04:00 PM - Capital Budget (CB): SHB 2236 Housing finance commission
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
-#### 1 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

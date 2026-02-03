@@ -41,7 +41,7 @@
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍2  
 * 👍 Jared Mason-Gere
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍2  
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
@@ -336,13 +336,20 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding 👍1  
+* 👍💵 Julie Salvi
+
 ### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm. 👍1  
 
 ### [HB 2124](/bill/2025-26/hb/2124/) - Concerning the threshold for payment of a lump sum retirement allowance in lieu of a monthly benefit. 👍1  
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
-### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍2  
+
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
 ### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
 
@@ -394,13 +401,13 @@
 
 ### [HB 2337](/bill/2025-26/hb/2337/) - Concerning training requirements for individual providers caring for a family member.  👎1 
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
-### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
+### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍2  
 
@@ -433,6 +440,8 @@
 ### [HB 2534](/bill/2025-26/hb/2534/) - Military families/education   ❓1
 * ❓ Jared Mason-Gere
 
+### [HB 2538](/bill/2025-26/hb/2538/) - Part-time faculty pay 👍2 👎1 
+
 ### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
 
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
@@ -455,6 +464,8 @@
 ### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
 
 ### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring 👍1  
+
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
 
 ### [HB 2685](/bill/2025-26/hb/2685/) - Tribal data 👍1  
 
@@ -617,7 +628,7 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍3  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍3  
 
@@ -829,9 +840,11 @@
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍2  
 * 👍 Jared Mason-Gere
 
+### [SB 5901](/bill/2025-26/sb/5901/) - On-base school construction 👍1  
+
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
-### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
+### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎2 
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 * 👍 Jared Mason-Gere
@@ -856,10 +869,12 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1  
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍4  
 * 👍💵 Nasue Nishida
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
+
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
 
 ### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
 
@@ -880,6 +895,8 @@
 * 👎💵 Julie Salvi
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
+
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
 
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system   ❓1
 * ❓💵 Simone Boe

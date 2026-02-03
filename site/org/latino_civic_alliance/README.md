@@ -77,6 +77,8 @@
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
+### [SB 6068](/bill/2025-26/sb/6068/) - Construction worker wages 👍1  
+
 ## [SB 6078](/bill/2025-26/sb/6078/) - Child care provider supports 👍1  
 
 ## 2023-24

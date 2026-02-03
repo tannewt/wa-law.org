@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2333](/bill/2025-26/hb/2333/)
 
-# HB 2333 - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence.
+# HB 2333 - Political violence
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2333&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202333)

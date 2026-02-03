@@ -29,6 +29,8 @@
 
 ### [HB 2470](/bill/2025-26/hb/2470/) - On-base school construction 👍1  
 
+### [HB 2607](/bill/2025-26/hb/2607/) - Child care rate regions 👍1  
+
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  

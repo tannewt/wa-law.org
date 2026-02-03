@@ -10,7 +10,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6324 LEOFF 2/standby pay
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jacob White - LEOFF 2 Board
 

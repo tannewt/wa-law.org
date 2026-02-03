@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6049/</link>
 		<description>Updates about SB 6049</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 08:39:54 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 10:47:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ruby/Pederson/2026-01-28 08:39:54</guid>
+		</item>
+		<item>
+			<title>WA bill to protect students would also exempt some gov employee info from disclosure | Washington | thecentersquare.com</title>
+			<description>News article "WA bill to protect students would also exempt some gov employee info from disclosure | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 02 Feb 2026 10:47:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_8cccbac8-b656-408e-b611-ad419d8df91d.html#:~:text=Senate%20Bill%206049</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,17 +7,33 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6290 Liquor and cannabis board
+### Tue 02/03 10:30 AM - Labor & Commerce (LC): SB 6290 Liquor and cannabis board
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 1 👍 - Pro
 Testifying:
-* John Worthington
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 1 👎 - Con
-Testifying:
-* Shawn Denae WAGENSELLER - Washington Bud Company
+#### 0 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+
+### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6290 Liquor and cannabis board
+#### 13 👍 - Pro
+Testifying:
+* John Worthington
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Sean Dewitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+
+#### 11 👎 - Con
+Testifying:
+* Shawn Denae WAGENSELLER - Washington Bud Company
+* Paula FIllmore-Sardinas - WBBA
+* Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
+
+#### 3 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)

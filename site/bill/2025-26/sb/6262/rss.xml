@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6262/</link>
 		<description>Updates about SB 6262</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 09:52:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 09:16:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Pack/2026-01-30 09:52:44</guid>
+		</item>
+		<item>
+			<title>👍John Hines - Councilmember, City of Tacoma</title>
+			<description>John Hines signed up to testify Pro. They are signed up to represent Councilmember, City of Tacoma.</description>
+			<pubDate>Sun, 01 Feb 2026 08:46:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Hines/2026-02-01 08:46:29</guid>
+		</item>
+		<item>
+			<title>👍Tim Hattenburg - Deputy Mayor, City of Spokane Valley</title>
+			<description>Tim Hattenburg signed up to testify Pro. They are signed up to represent Deputy Mayor, City of Spokane Valley.</description>
+			<pubDate>Mon, 02 Feb 2026 08:45:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tim/Hattenburg/2026-02-02 08:45:25</guid>
+		</item>
+		<item>
+			<title>👎Stephen Alldridge - Washington Citizens Against Unfair Taxes</title>
+			<description>Stephen Alldridge signed up to testify Con.</description>
+			<pubDate>Mon, 02 Feb 2026 08:55:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Stephen/Alldridge/2026-02-02 08:55:45</guid>
+		</item>
+		<item>
+			<title>👍Rob Putaansuu - City of Port Orchard, Mayor</title>
+			<description>Rob Putaansuu signed up to testify Pro. They are signed up to represent City of Port Orchard, Mayor.</description>
+			<pubDate>Mon, 02 Feb 2026 09:16:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rob/Putaansuu/2026-02-02 09:16:12</guid>
 		</item>
 	</channel>
 </rss>

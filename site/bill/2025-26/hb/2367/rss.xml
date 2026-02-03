@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2367/</link>
 		<description>Updates about HB 2367</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 04:24:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,30 @@
 			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-27/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>❓💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 02 Feb 2026 04:04:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2026-02-02 04:04:49</guid>
+		</item>
+		<item>
+			<title>❓💵Sophia Steele - Western States Petroleum Association</title>
+			<description>Sophia Steele signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/western_states_petroleum_association/"&gt;Western States Petroleum Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 02 Feb 2026 04:04:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sophia/Steele/2026-02-02 04:04:49</guid>
+		</item>
+		<item>
+			<title>👍💵Leah Missik - Climate Solutions</title>
+			<description>Leah Missik signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/climate_solutions/"&gt;Climate Solutions&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 02 Feb 2026 04:24:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leah/Missik/2026-02-02 04:24:33</guid>
 		</item>
 	</channel>
 </rss>

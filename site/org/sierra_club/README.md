@@ -24,6 +24,8 @@
 ### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects.  👎1 
 * 👎 Kathleen M Saul
 
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
+
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 * 👍 Mariska Kecska
 
@@ -40,6 +42,8 @@
 
 ### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref.  👎1 
 * 👎 Kathleen M Saul
+
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎1 
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 
@@ -59,6 +63,8 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎 Kathleen M. Saul
+
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 * 👎 Tony Usibelli

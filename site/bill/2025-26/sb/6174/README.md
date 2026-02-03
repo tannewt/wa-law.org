@@ -13,8 +13,8 @@
 ### Wed 02/04 08:00 AM - Environment, Energy & Technology (ENET): SB 6174 Textile producers
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 317 👍 - Pro
 
-#### 0 👎 - Con
+#### 536 👎 - Con
 
 #### 0 ❓ - Other

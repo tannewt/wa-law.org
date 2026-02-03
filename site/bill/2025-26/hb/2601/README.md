@@ -8,12 +8,10 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Transportation (TR): HB 2601 Motorcycle weight fees
-Sign up to testify:
-
-#### 5 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * LARRY WALKER - ABATE of WA  (Motorcyclists)
 
-#### 16 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other

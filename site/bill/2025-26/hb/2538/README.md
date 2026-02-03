@@ -10,8 +10,8 @@
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2538 Part-time faculty pay
 Sign up to testify:
 
-#### 104 👍 - Pro
+#### 304 👍 - Pro
 
-#### 3 👎 - Con
+#### 538 👎 - Con
 
 #### 0 ❓ - Other

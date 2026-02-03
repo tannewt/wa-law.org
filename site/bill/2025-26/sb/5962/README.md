@@ -7,16 +7,16 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill updating state law related to spring blade knives heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/02/02/nobles-bill-updating-state-law-related-to-spring-blade-knives-heard-in-committee/#:~:text=Senate%20Bill%205962)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205962)
 
 ## Meetings
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 5962 Spring blade knives
-Sign up to testify:
-
-#### 26 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Michael McKinley
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Todd Rathner - Knife Rights
 
 #### 2 👎 - Con
 

@@ -23,11 +23,15 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ John Traugott
 
-## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍3  
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍3  
+
+## [SB 6275](/bill/2025-26/sb/6275/) - Community reinvestment prg. 👍2  
+* 👍 John Traugott
 
 ## 2023-24
 
-### [SB 5677](/bill/2023-24/sb/5677/) - Associate development orgs 👍3  
+### [SB 6275](/bill/2023-24/sb/6275/) - Community reinvestment prg. 👍2  
+* 👍 John Traugott
 
 ### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 

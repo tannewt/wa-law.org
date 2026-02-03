@@ -11,6 +11,17 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202215)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2215 Fuels/climate commitment act
+Sign up to testify:
+
+#### 12 👍 - Pro
+Testifying:
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+
+#### 97 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 04:00 PM - Environment & Energy (ENVI): HB 2215 Fuels/climate commitment act
 #### 32 👍 - Pro
 Testifying:

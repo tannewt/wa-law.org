@@ -183,6 +183,9 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes 👍1  
+* 👍💵 Andrea Smiley
+
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
 * 👎 Mike Ennis
 
@@ -281,7 +284,8 @@
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍2  
+* 👍💵 Jan Himebaugh
 * 👍💵 Jan Himebaugh
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  

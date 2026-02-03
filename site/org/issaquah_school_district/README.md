@@ -30,6 +30,8 @@
 
 ### [HB 2432](/bill/2025-26/hb/2432/) - Students/surplus technology 👍1  
 
+### [HB 2538](/bill/2025-26/hb/2538/) - Part-time faculty pay 👍1  
+
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍3  
 * 👍 Martin Turney
 * 👍 Martin Turney
@@ -69,7 +71,11 @@
 
 ### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎2 
 
+### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
+
 ### [SB 5951](/bill/2025-26/sb/5951/) - Albuterol access in schools 👍1  
+
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1  
 
 ### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍1  
 * 👍 Jason Golec

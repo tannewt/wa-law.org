@@ -10,7 +10,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6082 Student financial aid fraud
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
 #### 0 👎 - Con
 

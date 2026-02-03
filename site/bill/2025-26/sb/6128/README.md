@@ -8,15 +8,20 @@
 
 ## Meetings
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6128 Independent medical exams
-Sign up to testify:
-
-#### 185 👍 - Pro
+#### 421 👍 - Pro
 Testifying:
 * Brett Fink
 * 💵Carolyn Logue - Washington IME Coalition
 * Andy Shelton - Brown & Brown
 * Lanny Snodgrass
+* 💵Rose Gundersen - WA Retail Association
+* Lauren Gubbe - AGC
+* Sarah Cohen
 
-#### 0 👎 - Con
+#### 50 👎 - Con
+Testifying:
+* Jennifer Duran - Washington State Association for Justice
+* AJ Johnson
+* 💵Brenda Wiest - Vice -President Teamsters Local 117
 
 #### 0 ❓ - Other

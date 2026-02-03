@@ -43,8 +43,9 @@
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍 Jaelynn Scott
 
-### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍3  
 * 👍 Jaelynn Scott
+* 👍💵 Oliver Miska
 
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services   ❓1
 

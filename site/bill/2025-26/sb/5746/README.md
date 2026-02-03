@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/19 04:00 PM - Transportation (TRAN): ESB 5746 EV charger property crime

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Labor & Workplace Standards (LAWS): HB 2478 Wage enforcement discretion

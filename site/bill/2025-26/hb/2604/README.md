@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Transportation (TR): HB 2604 Vehicle transfers to insurer
-Sign up to testify:
-
-#### 3 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Ben Buchholz - CoPart
 * Mark Binder - Copart
 * Robert Foehl - CoPart
+* Robert Foehl - [Copart, Inc.](/org/copart,_inc./)
 
 #### 2 👎 - Con
 

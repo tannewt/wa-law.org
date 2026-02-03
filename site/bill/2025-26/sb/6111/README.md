@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%206111)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [Salomon bill protecting children online to be heard in committee - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/28/salomon-bill-protecting-children-online-to-be-heard-in-committee/#:~:text=Senate%20Bill%206111)
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206111)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%206111)

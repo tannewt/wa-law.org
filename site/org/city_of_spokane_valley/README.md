@@ -131,6 +131,8 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
+### [HB 2403](/bill/2025-26/hb/2403/) - Sex offenders/registration  👎1 
+
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
@@ -138,6 +140,8 @@
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child 👍1  
 
 ### [HB 2614](/bill/2025-26/hb/2614/) - Home cultivation of cannabis  👎1 
+
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
@@ -168,7 +172,7 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎2 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎3 
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
@@ -256,6 +260,8 @@
 ### [SB 6158](/bill/2025-26/sb/6158/) - Factory built structures 👍1  
 
 ### [SB 6196](/bill/2025-26/sb/6196/) - Kratom taxation   ❓1
+
+### [SB 6203](/bill/2025-26/sb/6203/) - Out-of-state convictions 👍1  
 
 ## [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
 

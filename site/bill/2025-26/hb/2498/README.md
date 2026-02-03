@@ -10,12 +10,17 @@
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2498 Nursing education programs
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 
-#### 3 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Ajay Mendoza - Washington State Board of Nursing
 * Alison Bradywood - Washington State Board of Nursing
 * Mindy Schaffner
+* Renee Rassilyer-Bomers - Providence Swedish
+* Alecia Nye - Council for Nurse Educators of Washington State (CNEWS)
+* Shelley Price - Council for Nursing Education in Washington State (CNEWS)
+* Tiffany Zyniewicz - Council for Nursing Education in Washington State (CNEWS)
+* Helen Kuebel - N/A
 
 #### 0 ❓ - Other

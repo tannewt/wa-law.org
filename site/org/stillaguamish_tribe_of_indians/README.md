@@ -14,6 +14,8 @@
 ### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍1  
 * 👍💵 Peggen Frank
 
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎1 
+
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
 ### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  

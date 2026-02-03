@@ -24,7 +24,7 @@
 
 ### [HB 2110](/bill/2025-26/hb/2110/) - Specialty care transports 👍4  
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍2  
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency 👍1  
 
@@ -57,11 +57,11 @@
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
-## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍4  
+## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍5  
 
 ## 2023-24
 
-### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program 👍4  
+### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program 👍5  
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 

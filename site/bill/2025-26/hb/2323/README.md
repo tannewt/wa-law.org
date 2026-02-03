@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/29/2026 [The Spokesman-Review](/org/the_spokesman-review/) - [Bill establishing program helping neurodivergent people interact with police advances in Washington House committee](https://www.spokesman.com/stories/2026/jan/29/bill-establishing-program-helping-neurodivergent-p/#:~:text=The%20bill)

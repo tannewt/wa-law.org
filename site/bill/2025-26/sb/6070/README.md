@@ -14,12 +14,18 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6070 Recovery of missing persons
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Arzu Forough - Washington Autism Alliance
 * Ava Nelson
 * Sarah Childs
+* Thao Hoang
+* Thao Hoang
+* Yasmeen Waheed - The Silent Task Force
+* Ava Nelson
+* Julie Chae
+* Zohaib Lakhani
 
 #### 0 👎 - Con
 

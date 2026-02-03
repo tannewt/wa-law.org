@@ -57,11 +57,15 @@
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
-## [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+
+## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage   ❓1
+* ❓💵 Michael Shaw
 
 ## 2023-24
 
-### [SB 5965](/bill/2023-24/sb/5965/) - Retail bags 👍1  
+### [SB 6311](/bill/2023-24/sb/6311/) - Pedestrian passage   ❓1
+* ❓💵 Michael Shaw
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 * 👍 Bradley Finegood

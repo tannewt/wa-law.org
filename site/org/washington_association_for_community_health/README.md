@@ -39,7 +39,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍2  
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍3  
 * 👍💵 Alyssa Patrick
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
@@ -51,6 +51,10 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
+
+### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
+
+### [HB 2685](/bill/2025-26/hb/2685/) - Tribal data 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
@@ -93,7 +97,7 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍2  
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.  👎1 
 

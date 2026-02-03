@@ -21,6 +21,8 @@
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
 
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
+
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
 ### [SB 5804](/bill/2025-26/sb/5804/) - Fish habitat restoration  👎1 

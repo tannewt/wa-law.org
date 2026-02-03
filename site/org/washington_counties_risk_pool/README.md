@@ -1,11 +1,13 @@
 # Washington Counties Risk Pool
 ## 2025-26
 
-### [HB 2174](/bill/2025-26/hb/2174/) - Crash prevention zones   ❓1
+### [HB 2174](/bill/2025-26/hb/2174/) - Crash prevention zones 👍1  ❓1
 * ❓💵 Brad Tower
+* 👍💵 Brad Tower
 
-### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones   ❓1
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  ❓1
 * ❓💵 Brad Tower
+* 👍💵 Brad Tower
 
 ## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 * 👍💵 Brad Tower

@@ -53,17 +53,25 @@
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 
 ### [SB 6096](/bill/2025-26/sb/6096/) - Delayed utility conn. fees  👎1 
 
 ### [SB 6131](/bill/2025-26/sb/6131/) - Roadway fatalities 👍1  
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+* 👍 Regan Bolli
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
+* 👍 Regan Bolli
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

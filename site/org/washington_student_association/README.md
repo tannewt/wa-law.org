@@ -30,7 +30,7 @@
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍3  
 * 👍💵 Sienna Jarrard
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍3  
 
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍1  
 * 👍💵 Collin Bannister
@@ -67,9 +67,11 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍4  
 
+### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
+
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍2  
 
-### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍3  
+### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍4  
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍3  
 * 👍💵 Sienna Jarrard

@@ -14,11 +14,15 @@
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5826 Postsecondary/med. abortion
 Sign up to testify:
 
-#### 70 👍 - Pro
+#### 171 👍 - Pro
 
-#### 36 👎 - Con
+#### 1509 👎 - Con
 Testifying:
 * Theresa Schrempp
+* Matt LePage - First Baptist Church of Lacey
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Tina Gregory
+* 💵Jean Hill - Washington State Catholic Conference
 
 #### 1 ❓ - Other
 Testifying:

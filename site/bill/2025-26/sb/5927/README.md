@@ -19,7 +19,9 @@ Testifying:
 * Elizabeth LePley - Washington State Association for Justice
 * 💵Ray Dumas - Operative Plasterers and Cement Masons
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
 
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 5927 Workers' comp. adjustments
 #### 0 👍 - Pro

@@ -8,13 +8,14 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 6256 Unoccupied housing/tax
-Sign up to testify:
-
-#### 30 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Rachel Downes - [Housing Hope](/org/housing_hope/)
 * Brian Lloyd - Beacon Development Group
+* Andre Ervin - [African Community Housing & Development](/org/african_community_housing_&_development/)
+* Colin Morgan-Cross - [Mercy Housing Northwest](/org/mercy_housing_northwest/)
+* 💵Jason Gauthier - South Sound Housing Affordability Partners
 
-#### 0 👎 - Con
+#### 72 👎 - Con
 
 #### 0 ❓ - Other

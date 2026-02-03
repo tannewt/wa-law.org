@@ -45,6 +45,8 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
+### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍1  
+
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims   ❓1

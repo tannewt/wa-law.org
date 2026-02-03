@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2530 Aquatics/sports PFD deadline

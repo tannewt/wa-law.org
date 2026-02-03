@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2532/</link>
 		<description>Updates about HB 2532</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 18:28:23 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,13 @@
 			<pubDate>Mon, 26 Jan 2026 18:28:23 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/washington-bill-outlaw-whippets#:~:text=House%20Bill%202532</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/CS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

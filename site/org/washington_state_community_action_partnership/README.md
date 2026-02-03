@@ -112,6 +112,8 @@
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental 👍1  
 * 👍 Jeff DeLuca
 
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍2  
 * 👍 Jeff DeLuca
 * 👍💵 Linda Garcia
@@ -122,13 +124,14 @@
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 * 👍💵 Linda Garcia
 
-## [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
+### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
 * 👍💵 Linda Garcia
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## 2023-24
 
-### [SB 6231](/bill/2023-24/sb/6231/) - Data center equipment/taxes 👍1  
-* 👍💵 Linda Garcia
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 

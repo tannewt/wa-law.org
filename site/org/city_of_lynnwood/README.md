@@ -49,10 +49,16 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍2  
 
-## [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
+
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## 2023-24
 
-### [SB 5912](/bill/2023-24/sb/5912/) - Indigent defense task force 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  

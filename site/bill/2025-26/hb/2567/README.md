@@ -14,8 +14,21 @@
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2567 College scholarships/private
 Sign up to testify:
 
-#### 340 👍 - Pro
+#### 871 👍 - Pro
+Testifying:
+* Julie Wolter - Dean, School of Health Sciences, Gonzaga University
+* Paul Hogan - President, Cristo Rey Jesuit Seattle High School
+* Josiah Tiblow - Saint Martin's University
+* Mateo Car - Whitman College
+* Erika Hernandez - Whitworth University
+* Jack Kashork - [Gonzaga University](/org/gonzaga_university/)
+* Mercedes Garcia - Heritage University
+* Vernon Glass - Whitworth University
+* Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Matt Altman - Central Washington University Faculty Legislative Rep
+* Sam Ligon - Washington State Council of Faculty; EWU Faculty Legislative Rep.

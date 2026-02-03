@@ -6,6 +6,8 @@
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
 * 👍 Sara Abbott
 
+### [HB 2587](/bill/2025-26/hb/2587/) - Nonprofit grant advances 👍1  
+
 ## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 * 👍 Sara Abbott
 

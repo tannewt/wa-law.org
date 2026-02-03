@@ -22,25 +22,31 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5974 Local law enforcement
 Sign up to testify:
 
-#### 242 👍 - Pro
+#### 791 👍 - Pro
 Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Michael McIntyre - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
 * Karen Peacey - League of Women Voters of WA
 * Steve Albrecht
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 503 👎 - Con
+#### 3226 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Laurie Layne
 * Rick Kuss
 * Anna Burt
 * Eric Lundberg
+* Christian Bianes-Delrosario
+* Sarah Akey
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Ryan Spurling - As the Elected Mason County Sheriff
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Lunden Espinosa Kennedy
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 5974 Local law enforcement
 #### 1871 👍 - Pro

@@ -8,11 +8,9 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Transportation (TR): HB 2305 Travel vans
-Sign up to testify:
+#### 130 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): HB 2681 Cannabis license fees
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Sheri Sawyer - Office of Financial Management
+
+#### 1 👎 - Con
+Testifying:
+* 💵Ezra Eickmeyer - Producers NW
+
+#### 1 ❓ - Other
+Testifying:
+* Micah Sherman

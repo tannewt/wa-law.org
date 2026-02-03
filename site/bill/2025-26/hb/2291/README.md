@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2026 [Washington State Standard](/org/washington_state_standard/) - [Kratom taxes and regulations weighed in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/31/kratom-taxes-and-regulations-weighed-in-wa/#:~:text=House%20Bill%202291)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202291)
 
 ## Meetings

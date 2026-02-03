@@ -18,6 +18,8 @@
 
 ### [HB 2619](/bill/2025-26/hb/2619/) - Agriculture regulations 👍1  
 
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Tom Salzer
 

@@ -5,16 +5,18 @@
 * 👎 Alan Fisco
 * 👎 Ryan Blethen
 
-## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
+## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍4  
 * 👍 Alan Fisco
 * 👍 Frank Blethen
+* 👍 Alan Fisco
 * 👍 Alan Fisco
 
 ## 2023-24
 
-### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍3  
+### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍4  
 * 👍 Alan Fisco
 * 👍 Frank Blethen
+* 👍 Alan Fisco
 * 👍 Alan Fisco
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information  👎1 

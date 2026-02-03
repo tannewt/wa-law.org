@@ -11,8 +11,9 @@
 
 ### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍2  
 
-### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  
+### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍3  
 * 👍💵 Jodie Alberts
+* 👍 Nikki Stuck
 * 👍 Nikki Stuck
 
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax  👎1 

@@ -11,6 +11,17 @@
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201903)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1903 Low-income energy assistance
+Sign up to testify:
+
+#### 84 👍 - Pro
+Testifying:
+* 💵Alexandra Johnson - Duwamish River Community Coalition
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1903 Low-income energy assistance
 #### 494 👍 - Pro
 Testifying:

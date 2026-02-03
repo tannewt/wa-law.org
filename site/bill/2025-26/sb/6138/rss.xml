@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6138/</link>
 		<description>Updates about SB 6138</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 04:28:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 17:37:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -94,6 +94,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sara/Edge/2026-01-22 04:28:44</guid>
+		</item>
+		<item>
+			<title>WA bill aims to regulate sedation work at the dentist | FOX 13 Seattle</title>
+			<description>News article "WA bill aims to regulate sedation work at the dentist | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Mon, 02 Feb 2026 17:37:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/wa-statewide-deep-sedation-dental-offices#:~:text=Senate%20Bill%206138</guid>
 		</item>
 	</channel>
 </rss>

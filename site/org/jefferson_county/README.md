@@ -29,11 +29,13 @@
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 * 👍 Commissioner Heidi Eisenhour
 
-## [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
+### [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## 2023-24
 
-### [SB 6242](/bill/2023-24/sb/6242/) - County shared stewardship 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

@@ -93,13 +93,16 @@
 ### [HB 2140](/bill/2025-26/hb/2140/) - Current use land/sale to gov   ❓1
 * ❓💵 Bryce Yadon
 
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
+* 👎💵 Bryce Yadon
+
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Bryce Yadon
 
 ### [HB 2228](/bill/2025-26/hb/2228/) - Scissor stairs 👍1  
 * 👍💵 Bryce Yadon
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Concerning climate commitment act accounts. 👍1  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 * 👍💵 Bryce Yadon

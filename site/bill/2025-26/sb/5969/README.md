@@ -8,16 +8,17 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SSB%205969)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205969)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205969)
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5969 IEP transition plans
-Sign up to testify:
+#### 291 👍 - Pro
+Testifying:
+* Tanya English
 
-#### 109 👍 - Pro
-
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

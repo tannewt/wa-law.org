@@ -1,7 +1,7 @@
 # Tenants Revolt
 ## 2025-26
 
-### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍1  
 

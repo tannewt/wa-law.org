@@ -215,7 +215,7 @@
 
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 
 ### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 * 👍💵 Andrea Schmitt

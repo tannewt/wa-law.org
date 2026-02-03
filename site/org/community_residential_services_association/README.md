@@ -21,7 +21,7 @@
 ### [HB 2200](/bill/2025-26/hb/2200/) - Increasing access to data related to the safety and stability of residential settings for individuals with developmental disabilities.   ❓1
 * ❓ Scott Livengood
 
-### [HB 2230](/bill/2025-26/hb/2230/) - Streamlining monitoring and oversight activities related to community residential service business providers. 👍2  
+### [HB 2230](/bill/2025-26/hb/2230/) - DD res. service providers 👍2  
 * 👍 Scott Livengood
 * 👍 Jennifer Lengyel
 

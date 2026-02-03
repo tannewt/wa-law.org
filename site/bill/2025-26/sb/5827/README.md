@@ -9,11 +9,9 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5827 Veterans/discharge def.
-Sign up to testify:
+#### 53 👍 - Pro
 
-#### 3 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

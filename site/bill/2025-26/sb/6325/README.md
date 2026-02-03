@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to strengthen higher education funding, student services heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/29/nobles-bill-to-strengthen-higher-education-funding-student-services-heard-in-committee/#:~:text=Senate%20Bill 6325)

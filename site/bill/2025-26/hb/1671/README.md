@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/01/2026 [KIRO7](/org/kiro7/) - [KIRO 7 Investigates: Grocery loyalty programs sell shopper data for millions – KIRO 7 News Seattle](https://www.kiro7.com/news/investigates/kiro-7-investigates-grocery-loyalty-programs-sell-shopper-data-millions/XFSUHIDGUZBRHN4UZGILP4OQKU/#:~:text=House%20Bill%201671)
 * 01/30/2026 [KIRO7](/org/kiro7/) - [KIRO 7 Investigates: Grocery loyalty programs sell shopper data for millions – KIRO 7 News Seattle](https://www.kiro7.com/news/local/kiro-7-investigates-grocery-loyalty-programs-sell-shopper-data-millions/XFSUHIDGUZBRHN4UZGILP4OQKU/#:~:text=House%20Bill%201671)
 * 01/30/2026 [KIRO7](/org/kiro7/) - [KIRO 7 Investigates: Grocery loyalty programs sell shopper data for millions – KIRO 7 News Seattle](https://www.kiro7.com/news/local/tonight-530-your-data-is-real-price-store-loyalty-programs/EW4T6ACT6ZE2RF6TIOVJ5NBT3A/#:~:text=House%20Bill%201671)
 * 02/14/2025 [House Democrats](/org/house_democrats/) - [Kloba’s People’s Privacy Act Clears Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/14/klobas-peoples-privacy-act-clears-committee/#:~:text=To%20learn%20more%20about%20the%20People’s%20Privacy%20Act,%20click%20here.)

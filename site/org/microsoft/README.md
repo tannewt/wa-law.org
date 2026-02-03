@@ -80,7 +80,11 @@
 
 ### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources  👎1 
 
+### [SB 5826](/bill/2025-26/sb/5826/) - Concerning access at public postsecondary educational institutions to medication abortion.  👎1 
+
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
+### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
 
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  
 * 👍 Lauren McDonald

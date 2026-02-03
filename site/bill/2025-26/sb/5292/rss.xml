@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5292/</link>
 		<description>Updates about SB 5292</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 09:48:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -544,6 +544,30 @@
 			<pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-26/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Joe Kendo - Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA)</title>
+			<description>Joe Kendo signed up to testify Pro.</description>
+			<pubDate>Mon, 02 Feb 2026 07:54:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Kendo/2026-02-02 07:54:17</guid>
+		</item>
+		<item>
+			<title>❓Elizabeth New - Washington Policy Center</title>
+			<description>Elizabeth New signed up to testify Other. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Mon, 02 Feb 2026 09:18:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Elizabeth/New/2026-02-02 09:18:53</guid>
+		</item>
+		<item>
+			<title>👍💵Jan Himebaugh - Building Industry Association of Washington</title>
+			<description>Jan Himebaugh signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/building_industry_association_of_washington/"&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 02 Feb 2026 09:48:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jan/Himebaugh/2026-02-02 09:48:06</guid>
 		</item>
 	</channel>
 </rss>

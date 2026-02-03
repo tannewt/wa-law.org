@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Third Substitute](S3/)
 
 ## Meetings
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 1960 Renewable energy

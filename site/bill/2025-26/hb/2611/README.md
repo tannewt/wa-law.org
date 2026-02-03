@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2026 [The Washington Observer](/org/the_washington_observer/) - [A shorter workweek and un-banning the switchblade](https://washingtonobserver.substack.com/p/a-shorter-workweek-and-un-banning#:~:text=HB%202611)
 * 01/28/2026 [FOX13](/org/fox13/) - [WA considers 32-hour work week | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmaker-32-hour-week#:~:text=House%20Bill%202611)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202611)
 

@@ -10,13 +10,34 @@
 ### Tue 02/03 10:30 AM - Local Government (LG): HB 2141 Building codes
 Sign up to testify:
 
-#### 43 👍 - Pro
+#### 384 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - Washington State Association of County Planning Directors
+* Ayla Williams - Washington State Young Republicans
+* Ron Perkerewicz - Inspection & Permit Services
+* Gregor Doerr - Washington State Young Republicans
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Krystelle Purkey - Commercial Real Estate Development Association (formerly NAIOPWA)
+* Timothy Dalton - Clallam County Housing Director
+* Mike Mike Nykreim
+* Jason Krum - City of Auburn
+* Kristi Tripple - Rowley Properties, Inc.
+* Madeleine Pelson
+* Chris Ochoa - CBIA
+* 💵Ken Short - Association of Washington Business (AWB)
 
-#### 7 👎 - Con
+#### 446 👎 - Con
 Testifying:
 * Darren Schwend - ASHRAE
 * 💵Bryan Imai - International Code Council
+* Brittany Porter - American Institute of Architects Washington Council (AIAWA)
+* Kate Tudor - Natural Resources Defense Council
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Brittany Porter - AIA Washington Council
+* Deepa Sivarajan - [Climate Solutions](/org/climate_solutions/)
+* Kerry Meade - Building Potential
+* Tim Woodard - [Washington Association of Building Officials](/org/washington_association_of_building_officials/)
+* David Kokot - Washington State Association of Fire Marshals
 
 #### 0 ❓ - Other

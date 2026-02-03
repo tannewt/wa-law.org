@@ -17,13 +17,16 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): 2SSB 5292 Family & medical leave rates
-Sign up to testify:
+#### 96 👍 - Pro
+Testifying:
+* Joe Kendo
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 54 👍 - Pro
+#### 883 👎 - Con
 
-#### 173 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth New - Washington Policy Center
 
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SSB 5292 Family & medical leave rates
 #### 63 👍 - Pro

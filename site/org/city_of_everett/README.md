@@ -152,13 +152,15 @@
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
 * 👍 Jennifer Gregerson
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 * 👍 DAVID DEMARCO
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 * 👎 Jennifer Gregerson
+
+### [SB 6066](/bill/2025-26/sb/6066/) - Crash prevention zones 👍1  
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing   ❓2
 * ❓ Jennifer Gregerson

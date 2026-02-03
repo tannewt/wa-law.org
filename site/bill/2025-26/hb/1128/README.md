@@ -14,6 +14,18 @@
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201128)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): SHB 1128 Child care workforce board
+Sign up to testify:
+
+#### 469 👍 - Pro
+
+#### 23 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
+* Angelia Maxie
+
+#### 6 ❓ - Other
+
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1128 Child care workforce board
 #### 114 👍 - Pro
 Testifying:

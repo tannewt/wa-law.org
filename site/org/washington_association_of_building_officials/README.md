@@ -4,6 +4,9 @@
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 * 👎 Tim Woodard
 
+### [HB 2141](/bill/2025-26/hb/2141/) - Building codes  👎1 
+* 👎 Tim Woodard
+
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 

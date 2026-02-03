@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 08:00 AM - Capital Budget (CB): SHB 2281 State-tribal relationship
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2281 State-tribal relationship
 #### 111 👍 - Pro
 Testifying:

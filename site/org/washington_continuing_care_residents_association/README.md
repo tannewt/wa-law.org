@@ -3,7 +3,7 @@
 
 ### [HB 2299](/bill/2025-26/hb/2299/) - Independent living ombuds 👍1  
 
-### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍2  
+### [HB 2384](/bill/2025-26/hb/2384/) - Continuing care retirement 👍3  
 * 👍 Laura Saunders
 
 ### [SB 5606](/bill/2025-26/sb/5606/) - Long-term care ombud funding 👍1  

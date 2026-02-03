@@ -84,11 +84,15 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Anna Nepomuceno
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
+
+## [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
+* 👎💵 Anna Nepomuceno
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍1  
+### [SB 6186](/bill/2023-24/sb/6186/) - SNAP benefits/unhealthy food  👎1 
+* 👎💵 Anna Nepomuceno
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

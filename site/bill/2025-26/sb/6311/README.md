@@ -8,13 +8,16 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6311 Pedestrian passage
-Sign up to testify:
+#### 41 👍 - Pro
+Testifying:
+* Prem Subedi
+* Katy Ricchiuto - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
-#### 0 👍 - Pro
+#### 63 👎 - Con
 
-#### 0 👎 - Con
-
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Michael Shaw - [King County](/org/king_county/)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

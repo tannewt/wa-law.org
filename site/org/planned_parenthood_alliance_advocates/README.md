@@ -125,6 +125,8 @@
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax 👍1  
+
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
@@ -215,7 +217,7 @@
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 
 ### [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
 
@@ -229,7 +231,7 @@
 
 ### [SB 6049](/bill/2025-26/sb/6049/) - PRA/students & employees 👍1  
 
-### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
+### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍2  
 
 ### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
@@ -238,6 +240,8 @@
 * 👍💵 Nicole Kern
 
 ### [SB 6183](/bill/2025-26/sb/6183/) - HIV antiviral drug coverage 👍1  
+
+### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
 ## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 

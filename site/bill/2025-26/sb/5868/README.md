@@ -8,11 +8,15 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 5868 Superior court judges
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Christopher Stanley - Administrative Office of the Courts & The Board for Judicial Administration
+* Commissioner Peter Browning - Skagit County Board of County Commissioners
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
+* Judge Laura Riquelme - Superior Court Judges’ Association
+* Kevin Naught - Yakima County Superior Court
+* LaDon Linde - Yakima County Commissioner
+* Jessica Humphreys - Yakima County Superior Court
 
 #### 0 👎 - Con
 

@@ -9,11 +9,12 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6018 Housing finance commission
-Sign up to testify:
+#### 13 👍 - Pro
+Testifying:
+* lisa vatske - Washington State Housing Finance Commission
+* steve walker - Washington State Housing Finance Commission
 
-#### 3 👍 - Pro
-
-#### 179 👎 - Con
+#### 828 👎 - Con
 
 #### 0 ❓ - Other
 

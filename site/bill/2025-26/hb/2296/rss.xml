@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2296/</link>
 		<description>Updates about HB 2296</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 12:15:55 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Nicolas/Garcia/2026-01-12 12:15:55</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

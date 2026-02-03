@@ -13,12 +13,16 @@
 ### Tue 02/03 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2684 Business enterprise cert.
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 161 👍 - Pro
 Testifying:
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 * Eddie Shahwan - EAS Engineering, LLC
 * Mhd Arar - Arar Studio
 
-#### 14 👎 - Con
+#### 1052 👎 - Con
+Testifying:
+* Eric Pratt - America
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* randy berry
 
 #### 0 ❓ - Other

@@ -133,11 +133,13 @@
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
-## [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
+### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
+
+## [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
 ## 2023-24
 
-### [SB 6178](/bill/2023-24/sb/6178/) - Prop. insurance assignments 👍1  
+### [SB 6186](/bill/2023-24/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

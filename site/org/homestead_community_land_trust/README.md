@@ -31,11 +31,13 @@
 
 ### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
 
-## [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎1 
+### [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎1 
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## 2023-24
 
-### [SB 6167](/bill/2023-24/sb/6167/) - Down payment assistance  👎1 
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 

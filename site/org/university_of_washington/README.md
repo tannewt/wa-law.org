@@ -65,6 +65,8 @@
 ### [HB 2098](/bill/2025-26/hb/2098/) - Adjusting higher education funding. 👍2 👎1 
 * 👎💵 Morgan Hickel
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍4  
+
 ### [HB 2148](/bill/2025-26/hb/2148/) - Pay it forward program 👍5  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  

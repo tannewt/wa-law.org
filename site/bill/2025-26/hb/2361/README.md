@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/27 01:30 PM - Consumer Protection & Business (CPB): HB 2361 Small loans maximum amount

@@ -13,10 +13,12 @@
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2555 Traditional health/medicaid
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * 💵Vicki Lowe - American Indian Health Commission
 
-#### 0 👎 - Con
+#### 755 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Aren Sparck - Health Care Authority (HCA) - Office of Tribal Affairs

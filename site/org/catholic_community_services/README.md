@@ -34,13 +34,17 @@
 ### [HB 1897](/bill/2025-26/hb/1897/) - Community safety/liability 👍2  
 * 👍💵 Donna Christensen
 
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
 ### [HB 2045](/bill/2025-26/hb/2045/) - Business and occupation tax 👍1  
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax 👍1  
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2133](/bill/2025-26/hb/2133/) - Making the property tax exemption for multipurpose senior citizen centers permanent. 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
+### [HB 2133](/bill/2025-26/hb/2133/) - Senior citizen centers/tax 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
 * 👍 Dan Wise

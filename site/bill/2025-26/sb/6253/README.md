@@ -8,10 +8,17 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6253 PTBA governing bodies
-Sign up to testify:
+#### 36 👍 - Pro
+Testifying:
+* Kierstin Price - ATU 1765
+* Mark Neuville - ATU 1765
+* Greg Woodfill - ATU 587
+* Lela Perkins - ATU 1576
 
-#### 1 👍 - Pro
+#### 132 👎 - Con
+Testifying:
+* 💵Michael Shaw - Washington State Transit Association
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Charles Prestrud - Washington Policy Center

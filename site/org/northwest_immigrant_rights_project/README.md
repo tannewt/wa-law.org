@@ -61,6 +61,8 @@
 
 ### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities 👍1  
 
+### [HB 2587](/bill/2025-26/hb/2587/) - Nonprofit grant advances 👍1  
+
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 * 👍💵 Malou Chavez
 

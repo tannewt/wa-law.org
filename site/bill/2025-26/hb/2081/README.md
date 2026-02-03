@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/02/2026 [Senate Republicans](/org/senate_republicans/) - [ALERT: Listening sessions for the two initiatives before the Legislature - Senate Republican Caucus](https://src.wastateleg.org/blog/alert-listening-sessions-two-initiatives-legislature/#:~:text=Initiative%202081,%20the%20initial%20Parents’%20Bill%20of%20Rights,)
 * 12/31/2025 [Gorge News Center](/org/gorge_news_center/) - [These new laws and taxes take effect in Washington state on Jan. 1](https://gorgenewscenter.com/2025/12/31/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)
 * 12/30/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [These new laws and taxes take effect in Washington state on Jan. 1 | Cascadia Daily News](https://www.cascadiadaily.com/2025/dec/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)
 * 12/30/2025 [Washington State Standard](/org/washington_state_standard/) - [These new laws and taxes take effect in Washington state on Jan. 1 • Washington State Standard](https://washingtonstatestandard.com/2025/12/30/these-new-laws-and-taxes-take-effect-in-washington-state-on-jan-1/#:~:text=additional%20business%20and%20occupation%20tax)
@@ -50,6 +51,7 @@
 * 04/15/2025 [Washington State Standard](/org/washington_state_standard/) - [Democrats in Washington Legislature reveal sweeping new tax plan • Washington State Standard](https://washingtonstatestandard.com/2025/04/15/democrats-in-washington-legislature-reveal-sweeping-new-tax-plan/#:~:text=increase%20in%20a%20surcharge)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=House%20Bill%202081)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats will tax you | Washington State House Republicans](https://houserepublicans.wa.gov/how-democrats-will-tax-you/#:~:text=House%20Bill%202081%20|%20Business%20tax%20increases)
+* [Senate Republicans](/org/senate_republicans/) - [The People’s Initiatives - Senate Republican Caucus](https://src.wastateleg.org/the-peoples-initiatives/#:~:text=Parents’%20Bill%20of%20Rights)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [New Revenue Approach Release as Sine Die Comes April 27 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04212025#:~:text=HB%202081)
 
 ## Meetings

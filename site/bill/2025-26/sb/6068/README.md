@@ -8,10 +8,17 @@
 
 ## Meetings
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6068 Construction worker wages
-Sign up to testify:
+#### 554 👍 - Pro
+Testifying:
+* Brandon Klassen - 345 Construction and Flooring Co.
+* Caesar Escatel - Carpenters 206 Local
+* Filiberto Aldana - Carpenters 425 Local
+* Boris Gresely - [Western States Regional Council of Carpenters](/org/western_states_regional_council_of_carpenters/)
 
-#### 491 👍 - Pro
+#### 1021 👎 - Con
+Testifying:
+* 💵Carolyn Logue - ABC Inland Pacific Chapter and WA Air Conditioning Contractors Association
+* Mike Ennis - Building Industry Association of Washington (BIAW)
+* Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 260 👎 - Con
-
-#### 17 ❓ - Other
+#### 21 ❓ - Other

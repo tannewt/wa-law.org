@@ -28,7 +28,7 @@
 
 ### [HB 2196](/bill/2025-26/hb/2196/) - PANDAS, pediatric treatment 👍1  
 
-### [HB 2230](/bill/2025-26/hb/2230/) - Streamlining monitoring and oversight activities related to community residential service business providers. 👍1  
+### [HB 2230](/bill/2025-26/hb/2230/) - DD res. service providers 👍1  
 
 ### [HB 2252](/bill/2025-26/hb/2252/) - State historical records 👍2  
 * 👍💵 Stacy Dym

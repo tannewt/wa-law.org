@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5906/</link>
 		<description>Updates about SB 5906</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 23:43:02 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 03:58:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -289,11 +289,39 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%205906</guid>
 		</item>
 		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt</title>
 			<description>News article "Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt" from Senate Democrats.</description>
 			<pubDate>Fri, 30 Jan 2026 23:43:02 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hunt/2026/01/30/legislative-action-to-keep-our-communities-safe-and-supported/#:~:text=SB%205906</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA</title>
+			<description>News article "February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 02 Feb 2026 03:58:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%205906</guid>
 		</item>
 	</channel>
 </rss>

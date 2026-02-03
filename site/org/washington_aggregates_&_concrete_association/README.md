@@ -45,7 +45,8 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
 * ❓💵 Cory Shaw
 
-### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎2 
+* 👎💵 Cory Shaw
 * 👎💵 Cory Shaw
 
 ### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship  👎1 

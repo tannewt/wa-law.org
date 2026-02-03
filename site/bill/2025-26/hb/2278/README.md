@@ -7,6 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 08:00 AM - Finance (FIN): HB 2278 Tourism promotion areas
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Becky Bogard - WA State Destination Marketing Organizations
+* Dylan Deane-Boyle - Bellingham Whatcom County Tourism
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2278 Tourism promotion areas
 #### 49 👍 - Pro
 Testifying:

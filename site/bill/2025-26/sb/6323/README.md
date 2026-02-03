@@ -10,7 +10,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6323 Survivor insurance/LEOFF
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jacob White - LEOFF 2 Board
 

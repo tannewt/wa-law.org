@@ -73,13 +73,15 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 
-### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence.   ❓2
+### [HB 2333](/bill/2025-26/hb/2333/) - Political violence   ❓2
 * ❓ Dallas Burnett
 * ❓ Stuart Holmes
 
 ### [HB 2435](/bill/2025-26/hb/2435/) - Leg. Indian affairs office 👍1  
 
 ### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
+
+### [HB 2514](/bill/2025-26/hb/2514/) - War on terror memorial 👍1  
 
 ### [HB 2572](/bill/2025-26/hb/2572/) - Voting services   ❓1
 * ❓ Shawn Merchant

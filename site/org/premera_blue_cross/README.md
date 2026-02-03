@@ -30,6 +30,9 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses  👎1 
+* 👎💵 Gary Strannigan
+
 ### [HB 2106](/bill/2025-26/hb/2106/) - Requiring carriers to provide substantive notice to health care providers and health care facilities about significant contract modifications.  👎1 
 * 👎💵 Christine Brewer
 
@@ -43,6 +46,9 @@
 
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification  👎1 
 * 👎💵 Christine Brewer
+
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
+* 👎💵 Gary Strannigan
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 

@@ -22,6 +22,8 @@
 
 ### [HB 2007](/bill/2025-26/hb/2007/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  
 
+### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding 👍1  
+
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
@@ -33,6 +35,9 @@
 
 ### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports  👎1 
 * 👎💵 Catherine Holm
+
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
+* 👍 Lauren Mendez
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
@@ -78,6 +83,8 @@
 ### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍1  
+
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1  
 
 ### [SB 5984](/bill/2025-26/sb/5984/) - AI companion chatbots 👍1  
 

@@ -38,12 +38,13 @@
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 
-## [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants 👍2  
+### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants 👍2  
 * 👍 Rebecca Deming
+
+## [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ## 2023-24
 
-### [SB 6240](/bill/2023-24/sb/6240/) - Aviation impacts grants 👍2  
-* 👍 Rebecca Deming
+### [SB 6262](/bill/2023-24/sb/6262/) - Vehicle fees/maximum weight 👍1  
 
 ## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1

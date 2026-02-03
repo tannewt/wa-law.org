@@ -14,11 +14,16 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2367 Coal-fired electric plant
 Sign up to testify:
 
-#### 33 👍 - Pro
+#### 831 👍 - Pro
+Testifying:
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 13 👎 - Con
+#### 246 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Sophia Steele - [Western States Petroleum Association](/org/western_states_petroleum_association/)
 
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2367 Coal-fired electric plant
 #### 116 👍 - Pro

@@ -8,12 +8,12 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Appropriations (APP): HB 2587 Nonprofit grant advances
-Sign up to testify:
-
-#### 22 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Sornsawan Wilson - Tri-Cities Diversity & Inclusion Council
+* 💵Oskar Zambrano - Nonprofit Association of WA
+* 💵Neal Mizushima - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
 
-#### 0 👎 - Con
+#### 214 👎 - Con
 
 #### 0 ❓ - Other

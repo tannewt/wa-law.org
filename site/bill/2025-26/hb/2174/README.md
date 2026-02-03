@@ -15,9 +15,13 @@
 ### Thu 02/05 01:00 PM - Transportation (TR): SHB 2174 Crash prevention zones
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Stephen Alldridge
 
 #### 0 ❓ - Other
 

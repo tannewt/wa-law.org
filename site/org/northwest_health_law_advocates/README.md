@@ -57,6 +57,9 @@
 
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍1  
 
+### [HB 2073](/bill/2025-26/hb/2073/) - Health carrier surpluses 👍1  
+* 👍💵 Emily Brice
+
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 * 👍💵 Emily Brice
 
@@ -86,8 +89,12 @@
 ### [HB 2548](/bill/2025-26/hb/2548/) - Health care market standards 👍1  
 * 👍💵 Emily Brice
 
+### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
+
 ### [HB 2564](/bill/2025-26/hb/2564/) - Health plan certification 👍1  
 * 👍💵 Emily Brice
+
+### [HB 2658](/bill/2025-26/hb/2658/) - Mental health coverage 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 * 👍💵 Emily Brice

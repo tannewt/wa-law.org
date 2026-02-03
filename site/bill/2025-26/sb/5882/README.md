@@ -21,7 +21,9 @@ Testifying:
 * Kris Tefft - Washington Self-Insurers Association
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
 
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 5882 Correctional workers/stress
 #### 1 👍 - Pro

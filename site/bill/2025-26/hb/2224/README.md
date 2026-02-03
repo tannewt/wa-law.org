@@ -8,6 +8,18 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 08:00 AM - Finance (FIN): SHB 2224 Fire protection districts
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Don Schwab - City of Everett, Council President
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2224 Fire protection districts
 #### 15 👍 - Pro
 Testifying:

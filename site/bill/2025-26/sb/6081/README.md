@@ -14,7 +14,7 @@
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6081 Government record privacy
 Sign up to testify:
 
-#### 108 👍 - Pro
+#### 1264 👍 - Pro
 Testifying:
 * Dana Savage - Association of Washington Assistant Attorneys General
 * Tanya Leslie
@@ -23,10 +23,17 @@ Testifying:
 * Tyrone Heartwood
 * Tasha Cruz
 * Jevan Hutson
+* Marsha Botzer
+* Jay Conrnad
+* Cali Mullins
+* Danni Askini - Gender Justice League
+* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
 
-#### 15 👎 - Con
+#### 1026 👎 - Con
+Testifying:
+* Sharon Damoff
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6081 Government record privacy
 #### 437 👍 - Pro

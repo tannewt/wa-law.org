@@ -8,12 +8,14 @@
 
 ## Meetings
 ### Mon 02/02 10:30 AM - Labor & Commerce (LC): SB 6135 Interest arbitration factors
-Sign up to testify:
+#### 5 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 👍 - Pro
-
-#### 4 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Daron Smith - Teamsters Local 231
+* Carl Keller - Teamsters Local 760
 
 #### 0 ❓ - Other

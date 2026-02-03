@@ -18,11 +18,14 @@
 
 ### [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍3  
 
-## [SB 6068](/bill/2025-26/sb/6068/) - Construction worker wages 👍2  
+### [SB 6068](/bill/2025-26/sb/6068/) - Construction worker wages 👍4  
+* 👍 Boris Gresely
+
+## [SB 6282](/bill/2025-26/sb/6282/) - Apprenticeships/wellness 👍1  
 
 ## 2023-24
 
-### [SB 6068](/bill/2023-24/sb/6068/) - Construction worker wages 👍2  
+### [SB 6282](/bill/2023-24/sb/6282/) - Apprenticeships/wellness 👍1  
 
 ### [HB 1981](/bill/2023-24/hb/1981/) - Incentivizing clean nuclear energy manufacturing through preferential business and occupation tax rates. 👍1  
 

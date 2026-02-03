@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Mon 02/02 01:30 PM - Human Services (HS): SB 6007 DCYF assessment practices
-Sign up to testify:
-
-#### 88 👍 - Pro
+#### 377 👍 - Pro
 
 #### 0 👎 - Con
 

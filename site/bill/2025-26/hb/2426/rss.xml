@@ -54,5 +54,19 @@
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-29/ENVI - Executive action taken by committee.</guid>
 		</item>
+		<item>
+			<title>ENVI - Majority; do pass.</title>
+			<description>ENVI - Majority; do pass.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/ENVI - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-01-29/Minority; without recommendation.</guid>
+		</item>
 	</channel>
 </rss>

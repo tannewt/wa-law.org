@@ -67,7 +67,7 @@
 
 ### [HB 2227](/bill/2025-26/hb/2227/) - Providing a real estate excise tax exemption for the sale of qualified affordable housing.   ❓1
 
-### [HB 2230](/bill/2025-26/hb/2230/) - Streamlining monitoring and oversight activities related to community residential service business providers. 👍1  
+### [HB 2230](/bill/2025-26/hb/2230/) - DD res. service providers 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
@@ -99,6 +99,8 @@
 ### [HB 2505](/bill/2025-26/hb/2505/) - Adult family home licensure 👍1  
 
 ### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍1  
+
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
@@ -179,7 +181,7 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
-### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍1  
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍2  
 
 ### [SB 5696](/bill/2025-26/sb/5696/) - Mental health treatment/tax 👍1  
 
@@ -203,7 +205,7 @@
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
-### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans  👎2 
+### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍1 👎2 
 * 👎💵 Ramona Hattendorf
 
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
@@ -231,11 +233,13 @@
 
 ### [SB 6255](/bill/2025-26/sb/6255/) - Poverty reduction task force   ❓1
 
-## [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
+### [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
+
+## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎1 
 
 ## 2023-24
 
-### [SB 6268](/bill/2023-24/sb/6268/) - Special ed. complaint record 👍1  
+### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment  👎1 
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

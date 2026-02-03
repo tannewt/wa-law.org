@@ -32,12 +32,12 @@
 
 ### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute. 👍1  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 * 👍💵 Cindy Black
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
 
-### [HB 2333](/bill/2025-26/hb/2333/) - Protecting elected officials and candidates, executive state officers, election officials, and criminal justice participants against threats and incidents of political violence. 👍1  
+### [HB 2333](/bill/2025-26/hb/2333/) - Political violence 👍1  
 
 ### [HB 2499](/bill/2025-26/hb/2499/) - Conservation districts 👍1  
 
@@ -56,7 +56,7 @@
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍2  
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍4  
 
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1  
 

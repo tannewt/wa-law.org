@@ -10,7 +10,9 @@
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2172 Road jurisdiction transfer
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Reema Griffith - Wash. State Transportation Commission
 
 #### 0 👎 - Con
 

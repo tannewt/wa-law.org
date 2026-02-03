@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2026 [Washington State Standard](/org/washington_state_standard/) - [Kratom taxes and regulations weighed in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/01/31/kratom-taxes-and-regulations-weighed-in-wa/#:~:text=Senate%20Bill%206287)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%206287)
 
 ## Meetings

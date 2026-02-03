@@ -56,7 +56,7 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
 ### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
 

@@ -31,7 +31,7 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Commissioner Carolina Mejia
 
-### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
+### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
 ### [SB 6154](/bill/2025-26/sb/6154/) - Culvert replacement permits 👍1  
 * 👍 Karen Weiss

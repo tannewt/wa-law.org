@@ -130,7 +130,8 @@
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 * 👎💵 Andrea Reay
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓1
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers   ❓2
+* ❓💵 Andrea Reay
 * ❓💵 Andrea Reay
 
 ### [HB 2120](/bill/2025-26/hb/2120/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources.   ❓1
@@ -197,6 +198,8 @@
 ### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek  👎1 
 * 👎💵 Andrea Reay
 
+### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
@@ -226,7 +229,7 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎2 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1 👎2 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
@@ -336,11 +339,17 @@
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 
 * 👎💵 Andrea Reay
 
-## [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
+### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
+
+## [SB 6290](/bill/2025-26/sb/6290/) - Liquor and cannabis board 👍2  
+* 👍 Sean DeWitz
+* 👍💵 Sean Dewitz
 
 ## 2023-24
 
-### [SB 6178](/bill/2023-24/sb/6178/) - Prop. insurance assignments 👍1  
+### [SB 6290](/bill/2023-24/sb/6290/) - Liquor and cannabis board 👍2  
+* 👍 Sean DeWitz
+* 👍💵 Sean Dewitz
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

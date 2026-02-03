@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/21 01:30 PM - Health Care & Wellness (HCW): HB 2425 Nursing delegation

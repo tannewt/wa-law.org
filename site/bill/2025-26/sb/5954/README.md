@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 5954 Vet. survivor tuition waiver
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 64 👍 - Pro
+Testifying:
+* Allen Acosta - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

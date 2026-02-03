@@ -32,6 +32,8 @@
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍2  
 * 👍💵 Sienna Jarrard
 
+### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
+
 ### [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍3  
