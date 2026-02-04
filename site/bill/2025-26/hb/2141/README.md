@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Tue 02/03 10:30 AM - Local Government (LG): HB 2141 Building codes
-Sign up to testify:
-
-#### 384 👍 - Pro
+#### 620 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - Washington State Association of County Planning Directors
 * Ayla Williams - Washington State Young Republicans
@@ -26,8 +24,9 @@ Testifying:
 * Madeleine Pelson
 * Chris Ochoa - CBIA
 * 💵Ken Short - Association of Washington Business (AWB)
+* Denise Lones
 
-#### 446 👎 - Con
+#### 512 👎 - Con
 Testifying:
 * Darren Schwend - ASHRAE
 * 💵Bryan Imai - International Code Council
@@ -39,5 +38,16 @@ Testifying:
 * Kerry Meade - Building Potential
 * Tim Woodard - [Washington Association of Building Officials](/org/washington_association_of_building_officials/)
 * David Kokot - Washington State Association of Fire Marshals
+* Christopher Bresee - National Electrical Manufacturers Association
+* Michael Stone - NEMA - National Electrical Manufacturers Assoc.
+* Bonny Jo Peterson - Industrial Hemp Association of WA
+* Ben Rabe - New Buildings Institute
+* Amie Lewis - New Buildings Institute
+* Andrew Taylor - KPFF Consulting Engineers and the American Concrete Institute
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Angela Haupt - State Building Code Council
+* Nihal Sarao
+* Hudson Kragh
+* Oscar Munn

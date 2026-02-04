@@ -14,7 +14,7 @@
 #### 247 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Lily Storbeck - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Lily Storbeck - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Jackie Brunson - Washington State Association of County Treasurers
 * Mike Hougardy - Kittitas County Assessor
 * 💵Travis Dutton - Association of Washington Counties

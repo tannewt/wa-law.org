@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 5379 Parks & rec./interest arb.

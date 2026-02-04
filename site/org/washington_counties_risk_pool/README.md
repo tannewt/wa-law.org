@@ -9,12 +9,14 @@
 * ❓💵 Brad Tower
 * 👍💵 Brad Tower
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  
+* 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍2  
+* 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎1 

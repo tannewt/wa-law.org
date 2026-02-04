@@ -92,6 +92,10 @@
 ### [HB 2454](/bill/2025-26/hb/2454/) - Infrastructure materials   ❓1
 * ❓ Ana Shafer
 
+### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making  👎2 
+* 👎 Maggie Franquemont
+* 👎 Michael Norris
+
 ### [HB 2624](/bill/2025-26/hb/2624/) - Unsolicited real estate tx. 👍1  
 * 👍 Robin Hammill
 

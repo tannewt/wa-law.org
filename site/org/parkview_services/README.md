@@ -1,7 +1,7 @@
 # Parkview Services
 ## 2025-26
 
-### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission 👍1  
+### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission 👍2  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Marc Cote

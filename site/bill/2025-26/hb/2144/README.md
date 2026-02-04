@@ -15,11 +15,13 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2144 Employee monitoring notices
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 17 👍 - Pro
 
-#### 92 👎 - Con
+#### 375 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2144 Employee monitoring notices
 #### 130 👍 - Pro

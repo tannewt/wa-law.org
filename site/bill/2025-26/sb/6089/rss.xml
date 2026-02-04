@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6089/</link>
 		<description>Updates about SB 6089</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 17:37:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,27 @@
 			<pubDate>Fri, 23 Jan 2026 17:37:07 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2026/01/23/happy-week-two-of-the-2026-legislative-session/#:~:text=Senate%20Bill%206089</guid>
+		</item>
+		<item>
+			<title>EDU - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>EDU - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/EDU - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

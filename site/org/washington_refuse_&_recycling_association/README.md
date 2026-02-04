@@ -8,11 +8,15 @@
 * 👍💵 Nick Streuli
 * 👍💵 Nick Streuli
 
-## [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍2  
+### [HB 2410](/bill/2025-26/hb/2410/) - Commercial truck council 👍2  
+
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers 👍1  
+
+## [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
 
 ## 2023-24
 
-### [HB 2410](/bill/2023-24/hb/2410/) - Commercial truck council 👍2  
+### [SB 6271](/bill/2023-24/sb/6271/) - Mattress producer resp. 👍1  
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎1 
 

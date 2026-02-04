@@ -15,13 +15,14 @@
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2145 340B drug pricing program
 Sign up to testify:
 
-#### 65 👍 - Pro
+#### 251 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 
-#### 2 👎 - Con
+#### 48 👎 - Con
 Testifying:
 * Corbin Santo
+* 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
 
 #### 1 ❓ - Other
 

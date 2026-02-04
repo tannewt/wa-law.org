@@ -10,6 +10,17 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201408)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): HB 1408 Community authority funding
+Sign up to testify:
+
+#### 20 👍 - Pro
+Testifying:
+* Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1408 Community authority funding
 #### 78 👍 - Pro
 Testifying:

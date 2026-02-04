@@ -11,6 +11,15 @@
 * 02/02/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall bill improving support for sexual and domestic violence survivors advances in Washington Legislature - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/02/orwall-bill-improving-support-for-sexual-and-domestic-violence-survivors-advances-in-washington-legislature/#:~:text=Senate%20Bill%206017)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6017 Crime victims & witnesses
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 6017 Crime victims & witnesses
 #### 123 👍 - Pro
 Testifying:

@@ -12,6 +12,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Jeff Gunn - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Allison Moser - WA Hosts Collaborative Alliance
+* Richard Moser - WA Hosts Collaborative Alliance
+* Sean Lynn - WA Hosts Collaborative Alliance

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6282/</link>
 		<description>Updates about SB 6282</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 18:53:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,27 @@
 			<pubDate>Mon, 02 Feb 2026 18:53:53 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/02/02/nobles-bill-to-strengthen-behavioral-health-training-in-construction-apprenticeships-heard-in-committee/#:~:text=Senate%20Bill%206282</guid>
+		</item>
+		<item>
+			<title>LC - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LC - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/LC - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

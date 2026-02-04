@@ -238,13 +238,13 @@
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎2 
 
 ### [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
 
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 

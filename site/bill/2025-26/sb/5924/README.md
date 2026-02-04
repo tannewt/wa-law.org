@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Happy week two of the 2026 legislative session! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/01/23/happy-week-two-of-the-2026-legislative-session/#:~:text=Senate Bill%205924)

@@ -31,11 +31,11 @@
 
 ### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
 
-## [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+## [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  
 
 ## 2023-24
 
-### [SB 5918](/bill/2023-24/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+### [SB 5918](/bill/2023-24/sb/5918/) - School operating costs 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
 

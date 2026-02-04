@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill strengthening schools’ cardiac emergency response plans heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/28/nobles-bill-strengthening-schools-cardiac-emergency-response-plans-heard-in-committee/#:~:text=Senate%20Bill%206118)

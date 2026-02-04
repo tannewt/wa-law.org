@@ -12,7 +12,8 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎2 
+* 👎💵 Curtis Knapp
 * 👎💵 Curtis Knapp
 
 ### [HB 2542](/bill/2025-26/hb/2542/) - Animal testing alternatives   ❓1
@@ -31,12 +32,14 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
-## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+## [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎2 
+* 👎💵 Curtis Knapp
 * 👎💵 Curtis Knapp
 
 ## 2023-24
 
-### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program  👎1 
+### [SB 5981](/bill/2023-24/sb/5981/) - 340B drug pricing program  👎2 
+* 👎💵 Curtis Knapp
 * 👎💵 Curtis Knapp
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board  👎1 

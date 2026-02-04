@@ -27,6 +27,8 @@
 
 ### [HB 2350](/bill/2025-26/hb/2350/) - DD RHC federal compliance 👍2  
 
+### [HB 2658](/bill/2025-26/hb/2658/) - Mental health coverage 👍1  
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
@@ -47,8 +49,9 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
-### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍4  
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍6  
 * 👍💵 Aaron Dickson
+* 👍 DARCY HUFFMAN
 
 ### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍2  
 

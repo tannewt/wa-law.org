@@ -11,6 +11,15 @@
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206117)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6117 Collective bargaining
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 6117 Collective bargaining
 #### 135 👍 - Pro
 Testifying:

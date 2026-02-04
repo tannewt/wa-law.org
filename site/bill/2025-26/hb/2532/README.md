@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/26/2026 [FOX13](/org/fox13/) - [WA bill could outlaw selling 'whippets' | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-bill-outlaw-whippets#:~:text=House%20Bill%202532)

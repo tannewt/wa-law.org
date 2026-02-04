@@ -10,10 +10,11 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2610 Nonprofit housing providers
 Sign up to testify:
 
-#### 22 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
+* 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
 
-#### 24 👎 - Con
+#### 191 👎 - Con
 
 #### 0 ❓ - Other

@@ -194,6 +194,8 @@
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
+### [HB 2610](/bill/2025-26/hb/2610/) - Nonprofit housing providers 👍1  
+
 ### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  

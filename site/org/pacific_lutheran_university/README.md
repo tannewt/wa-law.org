@@ -9,7 +9,8 @@
 ### [HB 2363](/bill/2025-26/hb/2363/) - Music therapy exemptions 👍3  
 * 👍 Megumi Azekawa
 
-### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍3  
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍13  
+* 👍 Allan Belton
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍3  
 * 👍 Allan Belton

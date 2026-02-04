@@ -55,7 +55,7 @@ Testifying:
 * 💵Reid Saaris - [Children's Alliance](/org/children's_alliance/)
 * Taj Jensen
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
-* Sarah Rafton
+* 💵Sarah Rafton
 * Aaron Ping
 * 💵Chetan Soni - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
 * Katie Rudek - Kooth

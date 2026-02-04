@@ -11,11 +11,9 @@
 
 ## Meetings
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2626 Health insurance premium tax
-Sign up to testify:
+#### 135 👍 - Pro
 
-#### 132 👍 - Pro
-
-#### 289 👎 - Con
+#### 341 👎 - Con
 Testifying:
 * Monty Robinson - [Delta Dental of Washington](/org/delta_dental_of_washington/)
 * Mike Ennis - Building Industry Association of Washington (BIAW)

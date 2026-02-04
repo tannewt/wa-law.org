@@ -17,9 +17,12 @@ Testifying:
 * Steve Horvath - HOA United
 * Shannon Chatman
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mikaela Carnes - WSCAI
+* Theresa Torgesen - Community Associations Institute
 
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1500 CIC resale certificates
 #### 3 👍 - Pro

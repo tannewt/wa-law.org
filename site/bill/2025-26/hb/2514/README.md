@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 02/03 01:30 PM - State Government & Tribal Relations (SGOV): HB 2514 War on terror memorial
-Sign up to testify:
-
-#### 352 👍 - Pro
+#### 379 👍 - Pro
 Testifying:
 * Allen Acosta - Veterans Legislative Coalition
 * Joshua Wheeldon
@@ -24,7 +22,8 @@ Testifying:
 * Jane Hughes - Gold Star Families of Washington
 * Kristen Skinner
 * Jennifer Prewitt
+* Susan Woods - Veterans Legislative Coalition
 
-#### 16 👎 - Con
+#### 17 👎 - Con
 
 #### 0 ❓ - Other

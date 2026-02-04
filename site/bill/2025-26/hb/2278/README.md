@@ -10,10 +10,11 @@
 ### Thu 02/05 08:00 AM - Finance (FIN): HB 2278 Tourism promotion areas
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Becky Bogard - WA State Destination Marketing Organizations
 * Dylan Deane-Boyle - Bellingham Whatcom County Tourism
+* Rose Noble - Visit Spokane
 
 #### 0 👎 - Con
 

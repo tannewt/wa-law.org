@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2664/</link>
 		<description>Updates about HB 2664</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 29 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,13 @@
 			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-29/HOUS - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

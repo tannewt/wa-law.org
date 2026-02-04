@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/19/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña y Thomas presentan proyecto de ley de derechos para personas trabajadoras del hogar para fortalecer protecciones y equidad laboral - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/19/saldana-y-thomas-presentan-proyecto-de-ley-de-derechos-para-personas-trabajadoras-del-hogar-para-fortalecer-protecciones-y-equidad-laboral/#:~:text=SB%206053%20en%20el%20Senado)

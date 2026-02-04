@@ -195,8 +195,13 @@
 ### [HB 2536](/bill/2025-26/hb/2536/) - Wineries/restaurant license 👍1  
 * 👍 Sean DeWitz
 
+### [HB 2583](/bill/2025-26/hb/2583/) - Local lodging excise taxes   ❓1
+* ❓ Jeff Gunn
+
 ### [HB 2611](/bill/2025-26/hb/2611/) - 32 hour workweek  👎1 
 * 👎💵 Andrea Reay
+
+### [HB 2615](/bill/2025-26/hb/2615/) - Tax voluntary disclosure 👍1  
 
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
 
@@ -339,17 +344,23 @@
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 
 * 👎💵 Andrea Reay
 
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers  👎1 
+* 👎 Kerry Dolan
+
 ### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
 
-## [SB 6290](/bill/2025-26/sb/6290/) - Liquor and cannabis board 👍2  
+### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp.  👎1 
+* 👎 Kerry Dolan
+
+### [SB 6290](/bill/2025-26/sb/6290/) - Liquor and cannabis board 👍2  
 * 👍 Sean DeWitz
 * 👍💵 Sean Dewitz
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 
 ## 2023-24
 
-### [SB 6290](/bill/2023-24/sb/6290/) - Liquor and cannabis board 👍2  
-* 👍 Sean DeWitz
-* 👍💵 Sean Dewitz
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

@@ -56,7 +56,9 @@
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review 👍1  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 
 ### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
 

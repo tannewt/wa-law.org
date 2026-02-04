@@ -11,11 +11,10 @@
 
 ## Meetings
 ### Tue 02/03 01:30 PM - State Government & Elections (SGE): 2ESHB 1541 Veterans affairs adv. comm.
-Sign up to testify:
-
-#### 29 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * David Puente - Director, Washington State Department of Veterans Affairs
+* 💵Tarra Simmons - House Representative
 
 #### 1 👎 - Con
 

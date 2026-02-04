@@ -13,11 +13,15 @@
 ### Wed 02/04 04:00 PM - Capital Budget (CB): SB 5188 Broadband repair loans
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 42 👍 - Pro
+Testifying:
+* Ernie Rasmussen - Bigfoot Telecommunications of the Colville Tribes
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5188 Broadband repair loans
 #### 7 👍 - Pro

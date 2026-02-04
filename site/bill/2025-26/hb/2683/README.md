@@ -8,10 +8,12 @@
 
 ## Meetings
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2683 Health carriers & providers
-Sign up to testify:
+#### 252 👍 - Pro
+Testifying:
+* 💵London Breedlove - Washington State Psychological Association
 
-#### 96 👍 - Pro
-
-#### 28 👎 - Con
+#### 68 👎 - Con
+Testifying:
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
 #### 0 ❓ - Other

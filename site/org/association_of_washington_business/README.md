@@ -450,6 +450,8 @@
 
 ### [HB 2113](/bill/2025-26/hb/2113/) - Radiologic technologists 👍1  
 
+### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding  👎1 
+
 ### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm.  👎1 
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
@@ -981,6 +983,9 @@
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 
 * 👎 Max Martin
 
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers  👎1 
+* 👎💵 Peter Godlewski
+
 ### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
 
 ### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎2 
@@ -997,11 +1002,13 @@
 
 ### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
 
-## [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 
 ## 2023-24
 
-### [SB 6289](/bill/2023-24/sb/6289/) - Economic dev. strategic plan 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎1 
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

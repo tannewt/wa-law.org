@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5899/</link>
 		<description>Updates about SB 5899</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 08:23:43 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,6 +109,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Marko/Liias/2026-01-23 08:23:43</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/HLTC - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

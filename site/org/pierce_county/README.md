@@ -48,6 +48,10 @@
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 * 👍 Bryan Yambe
 
+### [HB 2273](/bill/2025-26/hb/2273/) - Embodied carbon/buildings  👎1 
+
+### [HB 2376](/bill/2025-26/hb/2376/) - Property tax  👎1 
+
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 * 👍 Anita Gallagher
 
@@ -84,6 +88,8 @@
 * 👍 Robin Vazquez
 
 ### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍1  
+
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers  👎1 
 
 ### [SB 6181](/bill/2025-26/sb/6181/) - City incorporation 👍1  
 * 👍 alon bassok

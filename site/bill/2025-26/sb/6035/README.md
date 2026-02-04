@@ -12,6 +12,15 @@
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%206035)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6035 Voting services
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6035 Voting services
 #### 32 👍 - Pro
 Testifying:

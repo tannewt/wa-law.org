@@ -68,6 +68,9 @@
 ### [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  
 * 👍💵 Kirk Hovenkotter
 
+### [SB 6252](/bill/2025-26/sb/6252/) - Free transit/CTC students 👍1  
+* 👍 Holden Ringer
+
 ## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
 * 👍 Katy Ricchiuto
 

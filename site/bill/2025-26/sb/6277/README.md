@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 02/03 08:00 AM - Early Learning & K-12 Education (EDU): SB 6277 Military families/education
-Sign up to testify:
-
-#### 188 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * Kellen Wilk
 * Connor Fagan
@@ -22,7 +20,7 @@ Testifying:
 * Natalie Wimberley - Peninsula School District
 * Charles Wharton - Veterans Legislative Coalition
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

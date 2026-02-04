@@ -63,9 +63,13 @@
 ### [HB 2068](/bill/2025-26/hb/2068/) - Tobacco & nicotine products 👍2  
 * 👍💵 Casey Brown
 
+### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.  👎1 
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
+
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
 
 ### [HB 2636](/bill/2025-26/hb/2636/) - Public education reviews 👍1  
 
@@ -150,7 +154,7 @@
 ### [SB 5859](/bill/2025-26/sb/5859/) - Expanding opportunities for competency-based assessments in graduation pathway options.   ❓1
 * ❓💵 Roz Thompson
 
-### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍2  
+### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍2  
 
 ### [SB 5952](/bill/2025-26/sb/5952/) - High school PE waivers  👎1 
 * 👎💵 Roz Thompson

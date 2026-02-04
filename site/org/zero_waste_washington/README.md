@@ -87,8 +87,9 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍2  
 * 👍💵 Heather Trim
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓2
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍1  ❓2
 * ❓💵 Heather Trim
+* 👍💵 Heather Trim
 
 ### [HB 2279](/bill/2025-26/hb/2279/) - Agriculture/PFAS chemicals 👍1  
 * 👍💵 Heather Trim
@@ -163,9 +164,11 @@
 ### [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍1  
 * 👍💵 Heather Trim
 
-### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers 👍1  
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers 👍2  
+* 👍💵 Heather Trim
 
-### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
+### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍2  
+* 👍💵 Heather Trim
 
 ## [SB 6303](/bill/2025-26/sb/6303/) - Cannabis product packaging 👍1  
 * 👍💵 Heather Trim

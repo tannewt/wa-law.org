@@ -124,7 +124,8 @@
 
 ### [SB 5813](/bill/2025-26/sb/5813/) - Tax rates/cap. gains, estate 👍1  
 
-### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍1  
+### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍2  
+* 👍 Susie Zhang
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 * 👍💵 Charles Smith

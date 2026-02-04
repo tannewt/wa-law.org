@@ -14,6 +14,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202481)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): HB 2481 Retail pricing
+Sign up to testify:
+
+#### 12 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2481 Retail pricing
 #### 388 👍 - Pro
 Testifying:

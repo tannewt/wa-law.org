@@ -8,12 +8,15 @@
 
 ## Meetings
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6252 Free transit/CTC students
-Sign up to testify:
-
-#### 250 👍 - Pro
+#### 289 👍 - Pro
 Testifying:
 * Amir Mehr
+* Arron Randhawa
+* Ellen Menshew
+* Holden Ringer - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
-#### 165 👎 - Con
+#### 299 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Justin Leighton - Washington State Transit Association

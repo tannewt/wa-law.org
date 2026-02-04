@@ -125,7 +125,7 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels
 
-### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
+### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍2  
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 
@@ -134,7 +134,7 @@
 
 ### [HB 2322](/bill/2025-26/hb/2322/) - Alternative jet fuel 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
 
 ### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 

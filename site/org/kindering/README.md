@@ -3,6 +3,8 @@
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎5 
+
 ## [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍6  
 * 👍 Kristina Mendieta
 * 👍 Mustapha Kebbeh

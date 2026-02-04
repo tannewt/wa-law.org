@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6067 Workers' compensation
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 6067 Workers' compensation
 #### 154 👍 - Pro
 Testifying:

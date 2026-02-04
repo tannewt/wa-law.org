@@ -12,11 +12,13 @@ Sign up to testify:
 
 #### 11 👍 - Pro
 
-#### 0 👎 - Con
+#### 47 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Steve Horvath - HOA United
+* Mikaela Carnes - WSCAI
+* Theresa Torgesen
 
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1501 CIC unit owner inquiries
 #### 3 👍 - Pro

@@ -7,3 +7,23 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/04 08:00 AM - Human Services (HS): SB 6339 Less restrictive alt./owners
+Sign up to testify:
+
+#### 752 👍 - Pro
+Testifying:
+* Eric Lundberg - Living Word Lutheran Church
+* Tina Gregory
+* Tina Gregory
+* Lisa Beaton - Deputy City Manager, City of Kennewick
+
+#### 11 👎 - Con
+Testifying:
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* Sonja Hardenbrook - WDA and WACDL
+* Kelly Canary - Managing Attorney, Washington State Office of Public Defense
+
+#### 3 ❓ - Other
+Testifying:
+* Daniel Davis - DSHS Behavioral Health and Habilitation Administration
+* Tony Bowie - DSHS Behavioral Health and Habilitation Administration

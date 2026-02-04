@@ -11,6 +11,15 @@
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%205965)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5965 Retail bags
+Sign up to testify:
+
+#### 7 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5965 Retail bags
 #### 552 👍 - Pro
 Testifying:

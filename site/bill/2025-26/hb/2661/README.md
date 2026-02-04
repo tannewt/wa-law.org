@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 02/03 01:30 PM - State Government & Tribal Relations (SGOV): HB 2661 Public records task force
-Sign up to testify:
-
-#### 57 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Deborah Callahan - CEO, Washington Schools Risk Management Pool
 * Tyna Ek - General Counsel, Washington Schools Risk Management Pool
@@ -21,8 +19,9 @@ Testifying:
 * Fred Rundle - Mercer Island School District
 * Korinne Henry - North Kitsap School District
 * Tammy Kimberley - West Valley School District #363 (Spokane)
+* Dana Grandey - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 
-#### 135 👎 - Con
+#### 158 👎 - Con
 Testifying:
 * Arthur West
 * Lunell Haught - Loo nel   Haut
@@ -31,7 +30,9 @@ Testifying:
 * George Erb - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * Tom Thiersch
 * Ellen Hiatt - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Robert McClure - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * John Worthington
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters

@@ -57,7 +57,8 @@
 ### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute. 👍1  
 * 👍 Steve Hobbs
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections  👎1 
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections  👎2 
+* 👎 Steve Hobbs
 * 👎 Steve Hobbs
 
 ### [HB 2252](/bill/2025-26/hb/2252/) - State historical records 👍1  

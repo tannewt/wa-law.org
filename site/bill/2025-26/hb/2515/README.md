@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: If you’re reading this online, you’re using a data center | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_54e241ed-bb68-44a2-b008-6ea3ba8e20e4.html#:~:text=House%20Bill%202515)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [The top issue I’ve heard from you - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=HB%202515)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Bill protecting ratepayers, ensuring electrical grid reliability, guiding responsible data center development heard in committee - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2026/01/23/bill-protecting-ratepayers-ensuring-electrical-grid-reliability-guiding-responsible-data-center-development-heard-in-committee/#:~:text=House%20Bill%202515)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202515)

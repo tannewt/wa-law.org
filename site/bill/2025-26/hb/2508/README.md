@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2508 Office of independent inves.

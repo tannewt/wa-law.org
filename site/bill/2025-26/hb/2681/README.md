@@ -14,7 +14,7 @@ Sign up to testify:
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
 

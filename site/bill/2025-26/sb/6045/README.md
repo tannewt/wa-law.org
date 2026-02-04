@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/30/2026 [The Urbanist](/org/the_urbanist/) - [Washington State Reacts to Feared ICE Invasion, Constitutional Crisis » The Urbanist](https://www.theurbanist.org/2026/01/30/washington-state-reacts-to-feared-ice-invasion-constitutional-crisis/#:~:text=Senate%20Bill%206045)
@@ -16,6 +17,15 @@
 * 01/12/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña introduces landmark bill to expand labor rights for agricultural workers  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/12/saldana-introduces-landmark-bill-to-expand-labor-rights-for-agricultural-workers/#:~:text=Senate%20Bill%206045)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6045 Agricultural employees/PERC
+Sign up to testify:
+
+#### 8 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
 #### 495 👍 - Pro
 Testifying:

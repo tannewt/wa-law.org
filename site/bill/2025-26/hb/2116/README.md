@@ -15,13 +15,14 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2116 School enrichment funding
 Sign up to testify:
 
-#### 178 👍 - Pro
+#### 202 👍 - Pro
 Testifying:
 * William Yoon - Youth Civic Bridge
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 95 👎 - Con
+#### 584 👎 - Con
 Testifying:
 * John Axtell
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

@@ -60,7 +60,7 @@
 
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  ❓1
 * 👍 Joshua Rubenstein
-* 👍 Lily Storbeck
+* 👍💵 Lily Storbeck
 * ❓💵 Justin Allegro
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
@@ -80,7 +80,7 @@
 ### [HB 2373](/bill/2025-26/hb/2373/) - Electric utility bill assist 👍1  
 
 ### [HB 2388](/bill/2025-26/hb/2388/) - Distributed energy/ag. lands 👍1  
-* 👍 Lily Storbeck
+* 👍💵 Lily Storbeck
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 

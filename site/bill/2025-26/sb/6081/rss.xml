@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6081/</link>
 		<description>Updates about SB 6081</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 06:37:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 11:42:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -241,6 +241,14 @@
 			<guid isPermaLink="false">testifier/Marsha/Botzer/2026-01-31 01:07:46</guid>
 		</item>
 		<item>
+			<title>👍Jay Conrad - QLaw Association</title>
+			<description>Jay Conrad signed up to testify Pro.</description>
+			<pubDate>Sat, 31 Jan 2026 08:28:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jay/Conrad/2026-01-31 08:28:47</guid>
+		</item>
+		<item>
 			<title>👍Jay Conrnad - QLaw Association</title>
 			<description>Jay Conrnad signed up to testify Pro.</description>
 			<pubDate>Sat, 31 Jan 2026 08:28:47 GMT</pubDate>
@@ -249,7 +257,7 @@
 			<guid isPermaLink="false">testifier/Jay/Conrnad/2026-01-31 08:28:47</guid>
 		</item>
 		<item>
-			<title>👎Sharon Damoff - Lavender Rights Project</title>
+			<title>👎Sharon Damoff - Spectrum Center</title>
 			<description>Sharon Damoff signed up to testify Con.</description>
 			<pubDate>Sun, 01 Feb 2026 07:59:38 GMT</pubDate>
 			<category>testifier</category>
@@ -279,6 +287,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Oliver/Miska/2026-02-02 06:37:08</guid>
+		</item>
+		<item>
+			<title>❓Ellis Starrett - Department of Licensing</title>
+			<description>Ellis Starrett signed up to testify Other. They are signed up to represent Department of Licensing.</description>
+			<pubDate>Tue, 03 Feb 2026 01:58:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Ellis/Starrett/2026-02-03 01:58:18</guid>
+		</item>
+		<item>
+			<title>👍Silas Eroaldi - Spectrum Center</title>
+			<description>Silas Eroaldi signed up to testify Pro. They are signed up to represent Spectrum Center.</description>
+			<pubDate>Tue, 03 Feb 2026 11:42:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Silas/Eroaldi/2026-02-03 11:42:21</guid>
 		</item>
 	</channel>
 </rss>

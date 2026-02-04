@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5911 DCYF/financial stability
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Human Services (HS): SB 5911 DCYF/financial stability
 #### 104 👍 - Pro
 Testifying:

@@ -91,7 +91,7 @@
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 * 👍 Mark Bowers
 
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  

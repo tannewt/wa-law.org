@@ -223,6 +223,10 @@
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
+### [HB 2573](/bill/2025-26/hb/2573/) - Grocery stores & pharmacies  👎1 
+
+### [HB 2615](/bill/2025-26/hb/2615/) - Tax voluntary disclosure 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
@@ -340,10 +344,15 @@
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess  👎1 
 * 👎💵 Amber Carter
 
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎1 
 
 ### [SB 6230](/bill/2025-26/sb/6230/) - Cash transactions/pennies 👍1  
 * 👍💵 Amber Carter
+
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 
 ## [SB 6312](/bill/2025-26/sb/6312/) - Retail pricing  👎1 
 * 👎💵 Crystal Leatherman

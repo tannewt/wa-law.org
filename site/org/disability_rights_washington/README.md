@@ -159,13 +159,16 @@
 
 ### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
-## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎1 
+### [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎1 
 * 👎💵 Kimberly Mosolf
+
+## [SB 6339](/bill/2025-26/sb/6339/) - Less restrictive alt./owners  👎2 
+* 👎💵 Rachael Seevers
 
 ## 2023-24
 
-### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment  👎1 
-* 👎💵 Kimberly Mosolf
+### [SB 6339](/bill/2023-24/sb/6339/) - Less restrictive alt./owners  👎2 
+* 👎💵 Rachael Seevers
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

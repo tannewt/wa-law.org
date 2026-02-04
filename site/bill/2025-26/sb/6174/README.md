@@ -13,8 +13,20 @@
 ### Wed 02/04 08:00 AM - Environment, Energy & Technology (ENET): SB 6174 Textile producers
 Sign up to testify:
 
-#### 317 👍 - Pro
+#### 365 👍 - Pro
+Testifying:
+* Dara Brooling - Private Citizen
+* McKenna Morrigan - Seattle Public Utilities
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
+* Linda McCoy - Interfaith Climate Action
 
-#### 536 👎 - Con
+#### 830 👎 - Con
+Testifying:
+* Andrew Pappas - [American Apparel & Footwear Association](/org/american_apparel_&_footwear_association/)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Andrew Pappas - [American Apparel & Footwear Association](/org/american_apparel_&_footwear_association/)
+* Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other

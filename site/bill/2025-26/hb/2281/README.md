@@ -11,9 +11,9 @@
 ### Fri 02/06 08:00 AM - Capital Budget (CB): SHB 2281 State-tribal relationship
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 51 👎 - Con
 
 #### 0 ❓ - Other
 

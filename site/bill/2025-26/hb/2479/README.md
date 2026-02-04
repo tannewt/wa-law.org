@@ -8,6 +8,18 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2479 Unpaid wage recovery
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Elizabeth Ford - Seattle Univ. School of Law
+* 💵Patrick Connor - NFIB
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 10:30 AM - Labor & Workplace Standards (LAWS): HB 2479 Unpaid wage recovery
 #### 44 👍 - Pro
 Testifying:

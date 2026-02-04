@@ -17,14 +17,15 @@
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 1128 Child care workforce board
 Sign up to testify:
 
-#### 469 👍 - Pro
+#### 589 👍 - Pro
 
-#### 23 👎 - Con
+#### 106 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * Angelia Maxie
+* Heather Boysen
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1128 Child care workforce board
 #### 114 👍 - Pro

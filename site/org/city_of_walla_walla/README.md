@@ -41,6 +41,8 @@
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
 
+### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+
 ## [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍2  
 * 👍 Elizabeth Chamberlain
 * 👍 Rick Eskill

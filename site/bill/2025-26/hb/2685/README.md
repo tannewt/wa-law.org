@@ -11,14 +11,14 @@
 
 ## Meetings
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2685 Tribal data
-Sign up to testify:
-
-#### 48 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Alison Boyd-Ball - Confederated Tribes of the Colville Reservation
 * 💵Vicki Lowe - American Indian Health Commission
 
-#### 713 👎 - Con
+#### 802 👎 - Con
+Testifying:
+* Robert McClure - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 
 #### 1 ❓ - Other
 Testifying:

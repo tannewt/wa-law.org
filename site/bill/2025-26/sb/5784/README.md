@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [Health care movement & floor votes - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205784)
+
 ## Meetings
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 5784 Agency demographic data
 #### 4 👍 - Pro

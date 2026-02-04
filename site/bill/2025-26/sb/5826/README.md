@@ -12,11 +12,14 @@
 
 ## Meetings
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5826 Postsecondary/med. abortion
-Sign up to testify:
+#### 241 👍 - Pro
+Testifying:
+* Charlie Brenner - Advocates for Youth
+* Hailey Gray - Advocates for Youth
+* Sullivan Taylor - Advocates for Youth
+* Tamara Marzouk - Advocates for Youth
 
-#### 171 👍 - Pro
-
-#### 1509 👎 - Con
+#### 1857 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Matt LePage - First Baptist Church of Lacey

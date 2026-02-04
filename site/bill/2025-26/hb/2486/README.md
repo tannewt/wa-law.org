@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 02/03 10:30 AM - Local Government (LG): HB 2486 State energy code costs
-Sign up to testify:
-
 #### 10 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

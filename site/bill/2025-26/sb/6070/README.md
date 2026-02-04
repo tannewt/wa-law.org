@@ -14,7 +14,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6070 Recovery of missing persons
 Sign up to testify:
 
-#### 39 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Arzu Forough - Washington Autism Alliance

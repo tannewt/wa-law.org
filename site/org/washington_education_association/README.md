@@ -835,7 +835,9 @@
 
 ### [SB 5860](/bill/2025-26/sb/5860/) - School board compensation 👍1  
 
-### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education. 👍1  
+### [SB 5861](/bill/2025-26/sb/5861/) - Education/community rep. 👍1  
+
+### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍2  
 * 👍 Jared Mason-Gere
@@ -849,7 +851,7 @@
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 * 👍 Jared Mason-Gere
 
-### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  
 
 ### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
 

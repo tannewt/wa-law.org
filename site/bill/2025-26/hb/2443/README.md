@@ -10,8 +10,8 @@
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2443 Armed forces reserve grant
 Sign up to testify:
 
-#### 17 👍 - Pro
+#### 128 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

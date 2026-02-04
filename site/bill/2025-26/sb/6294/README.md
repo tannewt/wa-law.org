@@ -13,17 +13,23 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6294 Local government fund use
 Sign up to testify:
 
-#### 200 👍 - Pro
+#### 272 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
 * Jennifer Gregerson - City of Everett, Government Affairs Director
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Regan Bolli - [City of Covington](/org/city_of_covington/)
+* 💵Jaime Bodden - WSALPHO
+* Vivek Prakriya - Redmond City Councilmember
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Mark Watson - PROTEC17
 
-#### 299 👎 - Con
+#### 804 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
+* Jeff Gombosky - CTIA - The Wireless Association
 
 #### 1 ❓ - Other

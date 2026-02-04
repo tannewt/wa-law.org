@@ -5,13 +5,15 @@
 
 ### [HB 2038](/bill/2025-26/hb/2038/) - Youth behavioral health acc. 👍1  
 
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎2 
+
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
-### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍6  
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍7  
 * 👍💵 Vicki Christophersen
 
 ## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 

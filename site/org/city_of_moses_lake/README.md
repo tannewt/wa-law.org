@@ -8,6 +8,8 @@
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 * 👍💵 Colleen Meiners
 
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
+
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture 👍1  
 
 ### [HB 2296](/bill/2025-26/hb/2296/) - Distributed energy resources 👍1  

@@ -10,9 +10,11 @@
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2172 Road jurisdiction transfer
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Reema Griffith - Wash. State Transportation Commission
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con
 

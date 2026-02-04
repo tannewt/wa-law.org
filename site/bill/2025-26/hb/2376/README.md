@@ -10,12 +10,14 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2376 Property tax
 Sign up to testify:
 
-#### 9 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Steven Drew - Thurston County Assessor and legislative co chair for WA Assessers Association
+* jennifer Wallace - WA Association of County Officials
 
-#### 540 👎 - Con
+#### 802 👎 - Con
 Testifying:
 * Laurie Layne
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 2 ❓ - Other

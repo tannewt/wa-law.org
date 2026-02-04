@@ -20,7 +20,7 @@
 
 ### [HB 1715](/bill/2025-26/hb/1715/) - Energy standard/comply cost 👍1  
 
-### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍1  
+### [HB 2365](/bill/2025-26/hb/2365/) - Digital opportunities 👍2  
 
 ### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
 
@@ -47,7 +47,7 @@
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed.   ❓1
 * ❓💵 Carolyn Logue
 
-### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍2  
+### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍2  
 
 ## [SB 5961](/bill/2025-26/sb/5961/) - Early literacy programs 👍1  
 

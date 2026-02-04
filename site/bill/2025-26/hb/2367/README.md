@@ -12,13 +12,11 @@
 
 ## Meetings
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2367 Coal-fired electric plant
-Sign up to testify:
-
-#### 831 👍 - Pro
+#### 866 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 246 👎 - Con
+#### 309 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

@@ -8,14 +8,15 @@
 
 ## Meetings
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2658 Mental health coverage
-Sign up to testify:
-
-#### 231 👍 - Pro
+#### 506 👍 - Pro
 Testifying:
 * Tina Gregory
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵London Breedlove - London Breedlove
+* DARCY HUFFMAN - National Association of Social Workers, WA Chapter
+* Cara Cheevers - Inseparable
 
-#### 30 👎 - Con
+#### 292 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - The Citizens Commission on Human Rights
 * 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)

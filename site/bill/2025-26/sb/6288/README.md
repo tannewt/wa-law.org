@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6288 Motor vehicle dealers
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

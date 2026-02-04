@@ -14,6 +14,6 @@ Sign up to testify:
 Testifying:
 * Jacob White - LEOFF 2 Board
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -11,13 +11,12 @@
 
 ## Meetings
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2555 Traditional health/medicaid
-Sign up to testify:
-
-#### 113 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * 💵Vicki Lowe - American Indian Health Commission
+* Esther Lucero - Seattle Indian Health Board
 
-#### 755 👎 - Con
+#### 848 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

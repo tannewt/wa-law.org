@@ -13,7 +13,7 @@
 ### Wed 02/04 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2668 Bob Oke game farm relocation
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Michael Thomas - [City of Centralia](/org/city_of_centralia/)
 * Meja Handlen - Lewis County Public health & Social Services
@@ -21,7 +21,11 @@ Testifying:
 * Madoleen Goddard
 * Sean Swope
 * Chris Stone - Water Operations Manager, City of Centralia
+* Norm Chapman - Mayor, City of Centralia
+* Jeff Landrum - Environmental Health Specialist
+* Joe Wiley - Lewis County Public Health and Social Services
+* Madoleen Goddard - Chehalis Tribal Member
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

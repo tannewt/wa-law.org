@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5847 Workers' comp. medical care
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 5847 Workers' comp. medical care
 #### 196 👍 - Pro
 Testifying:

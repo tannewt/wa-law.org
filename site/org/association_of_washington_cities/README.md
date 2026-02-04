@@ -298,14 +298,21 @@
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations  👎1 
 * 👎💵 Derrick Nunnally
 
-### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices   ❓1
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers   ❓1
 * ❓💵 Derrick Nunnally
 
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
+* 👍💵 Steven Ellis
+
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings   ❓1
 * ❓💵 Derrick Nunnally
+
+### [HB 2174](/bill/2025-26/hb/2174/) - Crash prevention zones 👍1  
+* 👍💵 Steven Ellis
 
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Carl Schroeder
@@ -465,6 +472,9 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder
+
+### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans   ❓1
+* ❓💵 Steven Ellis
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓💵 Carl Schroeder

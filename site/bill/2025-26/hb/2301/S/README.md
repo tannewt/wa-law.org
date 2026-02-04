@@ -1,0 +1,595 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2301](/bill/2025-26/hb/2301/) > [Substitute Bill](/bill/2025-26/hb/2301/S/)
+
+# HB 2301 - Paint producer resp.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2301-S.pdf)
+
+## Section 1
+The legislature finds that:
+
+1. Leftover paint products are a waste management issue and present environmental risks and health and safety risks, especially to workers in the solid waste industry. During waste collection and processing, wet paint can create spills and splashes and oil paint containers may rupture, releasing fumes hazardous to workers and the remaining liquids may contribute to leachate problems in landfills. Some local governments are able to devote resources to provide collection sites or events for latex paint in order to provide their residents with at least some disposal options and to keep latex paint out of the solid waste stream. But residents and small businesses need additional and more convenient options for disposal of  paint products. Drying latex for disposal is difficult for many residents and is wasteful of latex paint that can otherwise be reused or recycled. Local government special and moderate-risk waste collection programs are heavily impacted by the cost of managing unwanted paint products and these costs decrease the available funds to address other hazardous and hard-to-handle materials.
+
+2. Nationally, an estimated average of 10 percent of architectural paint purchased becomes leftover paint. Current programs only collect a fraction of the potential leftover paint for proper reuse, recycling, or disposal. There is not a comprehensive statewide, end-of-life management plan for  paint products, resulting in significant missed opportunities to reduce, reuse, and recycle paint.
+
+3. [Empty]
+
+    a. It is in the best interest of Washington for paint manufacturers to assume responsibility for the development and implementation of a cost-effective paint product stewardship program that:
+
+        i. Develops and implements strategies to reduce the generation of leftover paint products;
+
+        ii. Promotes the reuse of leftover paint products;
+
+        iii. Collects, transports, and processes leftover paint products for end-of-life management, including reuse, recycling, energy recovery, and disposal; and
+
+        iv. Provides for transparency under chapter 42.56 RCW, the public records act.
+
+    b. A paint product stewardship program will follow the paint waste management hierarchy for managing and reducing leftover paint products in the order as follows:
+
+        i. Reduce consumer generation of leftover paint products;
+
+        ii. Reuse;
+
+        iii. Recycle; and
+
+        iv. Provide for energy recovery and disposal.
+
+    c. The establishment of a comprehensive leftover paint product management program that requires paint product manufacturers to assume responsibility for the collection, recycling, reuse, transportation, and disposal of leftover paint products, and that allows paint retailers to voluntarily participate in the collection of leftover paint products, will provide more opportunities for consumers to properly manage their leftover paint products, provide fiscal relief for local government in managing leftover paint products, keep paint products out of the waste stream, and conserve natural resources.
+
+4.  Washington's existing waste collection, recycling, and disposal system leads the nation in innovation and environmentally sound practices. This system has achieved some of the highest overall recycling rates in the nation at 51 percent in 2012. The legislature further finds that leftover paint products may be a toxic and hard-to-handle waste product that is appropriate for a product stewardship program to increase the safe, convenient, and effective reuse, recycling, and disposal of leftover paint. Product stewardship programs for toxic and hard-to-handle materials, including a paint product stewardship program, should integrate with and complement the existing waste collection, recycling, and disposal system.
+
+5. This chapter creates a paint product stewardship program to be enforced by the department.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the content clearly requires otherwise.
+
+1. "Aerosol coating product" means a pressurized coating product containing pigments or resins dispensed by means of a propellant and packaged and sold in a disposable aerosol container for handheld application, or for use in specialized equipment for ground traffic or marking applications.
+
+2. [Empty]
+
+    a. "Architectural paint"  means interior and exterior architectural coatings, sold in a container of five gallons or less.
+
+    b. "Architectural paint"  does not mean industrial coatings, original equipment coatings, or specialty coatings.
+
+3.
+
+    a. "Coating-related product" means a product used as a paint thinner, paint colorant, paint additive, paint remover, sealant, surface preparation, or surface adhesive, sold for home improvement in a container of five gallons or less for commercial and homeowner use.
+
+    b. "Coating-related product" does not mean industrial products or original equipment products.
+
+4. "Consumer" includes any household, nonprofit, small business, or other entity whose leftover paint product is eligible under applicable laws and regulations.
+
+5. "Covered entity" means any: (a) Household; or (b)  small quantity generator of leftover  paint products; or (c) generator of dangerous waste as defined in RCW 70A.300.010 that brings leftover  latex paint to a paint program collection site operating under an approved Washington state paint stewardship plan.
+
+6. "Curbside service" means a waste collection, recycling, and disposal service providing pickup of leftover  paint products from residential sources, such as single-family households and multifamily housing, or other covered entities in quantities generated from households or  small quantity generators, provided by a solid waste collection company regulated under chapter 81.77 RCW or under a contract for solid waste services with any city or town.
+
+7. "Department" means the department of ecology.
+
+8. "Distributor" means a person that has a contractual relationship with one or more manufacturers to market and sell  paint products to retailers in Washington.
+
+9. "End-of-life" or "end-of-life management" means activities including, but not limited to, collection, transportation, reuse, recycling, energy recovery, and disposal for leftover  paint products.
+
+10. "Energy recovery" means the recovery of energy in a useable form from mass burning or refuse-derived fuel incineration, pyrolysis, or any other means of using the heat of combustion of solid waste that involves high temperature (above 1,200 degrees Fahrenheit) processing.
+
+11. "Environmentally sound management practices" means practices that comply with all applicable laws and rules to protect workers, public health, and the environment, provide for adequate recordkeeping, tracking and documenting the fate of materials within the state and beyond, and include environmental liability coverage for the stewardship organization.
+
+12. "Final disposition" means the point beyond which no further processing takes place and the paint product has been transformed for direct use as a feedstock in producing new products or is disposed of, including for energy recovery, in permitted facilities.
+
+13. "Household hazardous waste" means waste that exhibits any of the properties of dangerous waste that is exempt from regulation under chapter 70A.300 RCW solely because the waste is generated by households. Household hazardous waste may also include other solid waste identified in the local hazardous waste management plan prepared pursuant to chapter 70A.300 RCW.
+
+14. "Leftover paint" or "leftover  paint products" means  paint products not used and no longer wanted by a consumer.
+
+15. "Moderate risk waste" means solid waste that is limited to  small quantity generator waste and household hazardous waste as defined in this chapter.
+
+16. "Moderate risk waste collection infrastructure" means all allowable permitted and conditionally permit exempt facilities, activities, and locations under WAC 173-350-360, as it existed as of January 1, 2026.
+
+17. [Empty]
+
+    a. "Nonindustrial coating" means arts and crafts paint, automotive refinish paint, driveway sealer, faux finish or glaze, furniture oil, furniture paint, lime wash, lime paint, marine paint, antifouling paint, road and traffic marking paint, two-component paint, fire retardant paint, dry fog paint, chalkboard paint, and conductive paint, sold in a container of five gallons or less for commercial and homeowner use.
+
+    b. "Nonindustrial coating" does not mean industrial coatings or original equipment coatings.
+
+18. [Empty]
+
+    a. "Paint product" or "paint" means the following products and their associated packaging, except as provided in (b) of this subsection:
+
+        i. Aerosol coating products;
+
+        ii. Architectural paint;
+
+        iii. Coating-related products; and
+
+        iv. Nonindustrial coatings.
+
+    b. "Paint product" does not include a health and beauty product.
+
+19. "Paint product stewardship assessment" or "assessment" means the amount determined by a stewardship organization that must be added to the purchase price of paint products sold in this state to cover a stewardship organization's costs of administration, education and outreach, collecting, transporting, and processing of the leftover paint products managed through a statewide paint product stewardship program.
+
+20. "Paint retailer" means any person that offers  paint products for sale at retail in Washington.
+
+21. "Person" includes any individual, business, manufacturer, transporter, collector, processor, retailer, charity, nonprofit organization, or government agency.
+
+22. "Producer" means a manufacturer of  paint products that are sold, offered for sale, or distributed in Washington under the producer's own name or other brand name.
+
+23. "Recycling" means transforming or remanufacturing waste materials into usable or marketable materials for use other than landfill disposal, energy recovery, or incineration. Recycling does not include collection, compacting, repacking, and sorting for the purpose of transport.
+
+24. "Reuse" means any operation by which a paint product changes ownership and is used for the same purpose for which it was originally purchased.
+
+25. "Sell" or "sale" means any transfer of title for consideration, including remote sales conducted through sales outlets, catalogues, or the internet or any other similar electronic means.
+
+26. "Small quantity generator" means a dangerous waste generator whose dangerous wastes are not subject to full regulation under chapter 70A.300 RCW, hazardous waste management, solely because the waste is generated or accumulated in quantities below the threshold for regulation and meets the conditions prescribed in WAC 173-303-171(1), as it existed on July 28, 2019.
+
+27. "Small quantity generator waste" means dangerous waste generated by a small quantity generator.
+
+28. "Stewardship organization" means a nonprofit organization created by a producer or group of producers to implement a paint stewardship program required under this chapter.
+
+29. "Urban area" means an area delineated by the United States census bureau, based on a minimum threshold of 2,000 housing units or 5,000 people, as of January 1, 2026.
+
+## Section 3
+1. All producers of  paint products selling in or into the state of Washington shall participate in an approved Washington state paint stewardship plan for covered entities through membership in and appropriate funding of a stewardship organization.
+
+2. Producers not participating in a stewardship plan may not sell  paint products in or into Washington state.
+
+3. Paint retailers are prohibited from selling  paint products manufactured or distributed by a producer not in compliance with this chapter.
+
+## Section 4
+1. A stewardship organization representing producers shall submit a plan for the implementation of a paint product stewardship program to the department for approval by May 30, 2020, or within one year of July 28, 2019, whichever comes later. Each paint product stewardship organization must update its plan to address all paint products by July 1, 2029. The plan must include the following components:
+
+    a. A description of how the program proposed under the plan will collect, transport, recycle, and process leftover paint and associated packaging from covered entities for end-of-life management, including reuse, recycling, energy recovery, and disposal, using environmentally sound management practices;
+
+    b. Stewardship organization contact information and a list of participating brands and producers under the program;
+
+    c. A demonstration of sufficient funding for the  paint product stewardship program as described in the plan. The plan must include a funding mechanism whereby each  paint product producer remits to the stewardship organization payment of a paint product stewardship assessment for each container of  paint product the producer sells in this state, unless the distributor or paint retailer has negotiated a voluntary agreement with the producer and stewardship organization to remit the  assessment directly to the stewardship organization on behalf of the producer for the producer's  paint products sold by the distributor or paint retailer in the state. The plan must include a proposed budget and a description of the process used to determine the  paint product stewardship assessment. The  paint product stewardship assessment must be added to the cost of all  paint products sold to Washington paint retailers and distributors, unless the distributor or paint retailer has negotiated an agreement voluntarily with the producer and stewardship organization to remit the assessment directly to the stewardship organization on behalf of the producer for the producer's  paint products sold by the distributor or paint retailer in the state. Each Washington paint retailer or distributor must add the assessment to the purchase price of all  paint products sold in this state. Manufacturers may not require retailers to opt to participate in a voluntary remittance agreement;
+
+    d. The establishment in the plan of a uniform  paint product stewardship assessment for all  paint products sold in this state, in order to ensure that the funding mechanism is equitable and sustainable. For purposes of establishing the assessment, the plan must categorize the product types and sizes of  containers sold at retail and determine a uniform assessment amount that applies to each product type and container size to cover the paint product categories specified in RCW 70A.515.020(18)(a) (i) through (iv). The  paint product stewardship assessment must be sufficient to recover the costs of the  paint product stewardship program. With the exception of the annual administration costs paid to the department under RCW 70A.515.060(4), the department may not control or have spending authority related to the funds received by the stewardship organization from the assessment. Funds received by the stewardship organization are not state funds and are not eligible to be transferred for other state purposes in an appropriations act. The plan must require that any surplus funds generated from the funding mechanism that exceed a reserve greater than the most recent year's operating expenditures be put back into the program to either increase and improve program services or reduce the cost of the program and the  paint product stewardship assessment, or both;
+
+    e. A review by an independent financial auditor of the proposed  paint product stewardship assessment to ensure that any added cost to paint sold in the state as a result of the paint product stewardship program does not exceed the costs of the program. In a report to the department, the independent auditor must verify that the amount added to each unit of paint will cover the costs of the paint product stewardship program;
+
+    f. Assignment to the department of responsibility for the approval of the  paint product stewardship assessment based on the information provided in the plan and the auditor's report;
+
+    g. A description of the educational outreach strategy to reduce the generation of leftover paint products, to promote the reuse and recycling of leftover paint products, for the overall collection of leftover paint products, and for the proper end-of-life management of leftover paint products. The strategies may be revised by a stewardship organization based on the information collected annually;
+
+    h. A description of the reasonably convenient and available statewide collection system, including:
+
+        i. A description of how the program will provide for reasonably convenient and available statewide collection of leftover paint products from covered entities in urban and rural areas of the state, including island communities;
+
+        ii. A description of how the program will incorporate existing public and private waste collection services and facilities for activities, which may include, but is not limited to:
+
+(A) The reuse or processing of leftover  paint products at the permanent collection site; and
+
+(B) The collection, transportation, and recycling or proper disposal of leftover  paint products; and
+
+        iii. A description of how the program will use the moderate risk waste collection infrastructure when selecting collection points and services for leftover paint products;
+
+        i. A description of how leftover paint products will be managed using environmentally sound management practices, including reasonably following the paint waste management hierarchy of: Source reduction; reuse; recycling; energy recovery; and disposal;
+
+    j. A description of education and outreach efforts to promote the paint product stewardship program. The education and outreach efforts must include strategies for reaching all sectors of the population and describe how the paint product stewardship program will evaluate the effectiveness of its education and outreach;
+
+    k. A description of collection site procedural manuals for  paint products, including training procedures and electronic copies of materials that will be provided to collection sites; and
+
+    l. A list of transporters that will be used to manage leftover paint products collected by the stewardship organization and a list of potential processors to be used for final disposition.
+
+2. [Empty]
+
+    a. To ensure adequate collection coverage, the plan must use geographic information modeling and the information required under subsection (1)(h) of this section to determine the number and distribution of collection sites based on the following criteria: At least 90 percent of Washington residents must have a permanent collection site for architectural paint within a 15-mile radius; and unless otherwise approved by the department, one additional permanent collection site for architectural paint must be established for every 40,000 residents of an urban area and for every urban area of at least 40,000 residents distributed to provide convenient and reasonably equitable access for residents within each. For the purposes of compliance with this subsection (2)(a), a stewardship organization and the department may rely upon new or updated designations of urban locations by the United States census bureau that are determined by the department to be similar to the definition of urban areas in RCW 70A.515.020.
+
+    b. For the portion of the population that does not have a permanent collection location for paint products within a 15-mile radius, the plan must provide residents a reasonable opportunity for paint product collection. The stewardship organization, in consultation with the department and the local community, will determine a reasonable frequency and location of these collection opportunities, to be held in underserved areas. Special consideration is to be made for providing opportunities to island and geographically isolated populations.
+
+3. [Empty]
+
+    a. Nothing in subsection (2) of this section prohibits a program plan from identifying an available curbside service for a specific area or population that provides convenient and reasonably equitable access for Washington residents that is at least equivalent to the level of convenience and access that would be provided by a collection site.
+
+    b. A fee may not be charged at the time the unwanted paint products are delivered or collected for management. However, this subsection (3)(b) does not prohibit collectors providing curbside services from charging customers a fee, as provided by city contract or by the Washington utilities and transportation commission under the authority of chapter 81.77 RCW, for the additional collection cost of providing this service.
+
+4. The program plan must utilize the existing public and private waste collection services and facilities where cost-effective and mutually agreeable.
+
+5. The program must utilize existing paint retail stores as collection sites where cost-effective and mutually agreeable.
+
+6. The plan must provide the collection site name and location of each site statewide in Washington accepting  paint products under the program, and the categories of paint products specified in RCW 70A.515.020(18)(a) (i) through (iv) accepted at such locations.
+
+7. A stewardship organization shall promote a paint product stewardship program and provide consumers, covered entities, and paint retailers with educational and informational materials describing collection opportunities for leftover paint products statewide, the  paint product stewardship assessment used to finance the program, and promotion of waste prevention, reuse, and recycling. These materials may include, but are not limited to, the following:
+
+    a. Signage that is prominently displayed and easily visible to the consumer;
+
+    b. Written materials and templates of materials for reproduction by paint product retailers to be provided to the consumer at the time of purchase or delivery, or both;
+
+    c. Advertising or other promotional materials, or both, that include references to the  paint product stewardship program; and
+
+    d. An explanation that the  paint product stewardship assessment has been added to the purchase price of  paint products to fund the paint product stewardship program in the state. The  paint product stewardship assessment may not be described as a department recycling fee at the point of retail.
+
+8. A stewardship organization must submit a new plan or plan amendment to the department for approval when there is a change to the amount of the assessment, if required by the department, or every five years, if the department deems it necessary.
+
+## Section 5
+1. Each stewardship organization shall submit a paint product stewardship program plan in accordance with RCW 70A.515.040.
+
+2. Each stewardship organization shall develop and distribute a collection site procedural manual to collection sites to help ensure proper management of paint products at collection locations.
+
+3. A stewardship organization shall implement the paint product stewardship program plan by November 30, 2020, or within six months after approval of a paint product stewardship program plan under RCW 70A.515.040, whichever is later. A stewardship organization shall implement the updated paint product stewardship program plan addressing all paint products by July 1, 2030, or within six months after approval of the updated paint product stewardship program plan under RCW 70A.515.040, whichever is later.
+
+4. A stewardship organization shall submit an annual report by October 15, 2020, or a later date agreed to by the department, structured to be used as a basis for annual plan review by the department. The report must be based on the requirements outlined in RCW 70A.515.080.
+
+5. A stewardship organization shall work with producers, distributors, paint retailers, and local governments to provide consumers with educational and informational materials describing collection opportunities for leftover paint statewide and promotion of waste prevention, reuse, and recycling of leftover paint products.
+
+6. A stewardship organization shall pay an annual administrative fee, described in RCW 70A.515.060, in an amount sufficient to cover only the department's cost of administering and enforcing a paint product stewardship program established under this chapter.
+
+## Section 6
+1. The department shall review the plan or updated plan within 120 days of receipt, and make a determination as to whether or not to approve the plan. The department shall provide a letter of approval for the plan if it provides for the establishment of a paint product stewardship program that meets the requirements of RCW 70A.515.040 and 70A.515.050. If a plan is rejected, the department shall provide the reasons for rejecting the plan to the stewardship organization. The stewardship organization must submit a new plan within 60 days after receipt of the letter of disapproval.
+
+2. When a plan, updated plan, or an amendment to an approved plan is submitted under this section, the department shall make the proposed plan, updated plan, or amendment available for public review and comment for at least 30 days.
+
+3. The department shall provide oversight of a stewardship organization in the determination and implementation of the  paint product stewardship assessment specified in RCW 70A.515.040(1).
+
+4. The department shall identify the costs it incurs under this chapter. The department shall set the fee at an amount that, when paid by every stewardship organization or producer that submits a plan, is adequate to reimburse the department's full costs of administering and enforcing this chapter. The total amount of annual fees collected under this subsection must not exceed the amount necessary to reimburse costs incurred by the department to enforce and administer this chapter.
+
+5. A stewardship organization or producer subject to this chapter must pay the department's administrative fee under this subsection on or before June 30, 2020, and annually thereafter. The annual administrative fee may not exceed five percent of the aggregate assessment added to the cost of all  paint products sold by producers in the state for the preceding calendar year.
+
+6. The department shall enforce this chapter.
+
+    a. The department may administratively impose a civil penalty on any person who violates this chapter in an amount of up to $1,000 per violation per day.
+
+    b. The department may administratively impose a civil penalty of up to $10,000 per violation per day on any person who intentionally, knowingly, or negligently violates this chapter.
+
+    c. Any person who incurs a penalty under this section may appeal the penalty to the pollution control hearings board established by chapter 43.21B RCW.
+
+7. Upon the date the first plan is approved, the department shall post on its website a list of producers and their brands for which the department has approved a plan pursuant to RCW 70A.515.040. The department shall update the list of producers and brands participating under an approved program plan on a quarterly basis based on information provided to the department from a stewardship organization.
+
+8. Upon a demonstration to the satisfaction of the department that a previously unlisted producer is in compliance with this chapter, within 14 days the department must add the name of the producer to its website.
+
+9. The department shall review each annual report required pursuant to RCW 70A.515.080 within 90 days of its submission to ensure compliance with RCW 70A.515.080(1).
+
+10. The department may adopt rules as necessary for the purpose of implementing, administering, and enforcing this chapter.
+
+## Section 7
+1. A producer or paint retailer may not sell or offer for sale to any person in the state  paint products unless the producer or brand of  paint products is participating in an approved stewardship plan under this chapter. A retailer complies with the requirements of this section if, on the date the  paint product was ordered from the producer or its agent, the producer of the paint product was listed on the department's website as a producer participating in an approved paint product stewardship program plan. A retailer may continue to sell any aerosol coating products, coating-related products, and nonindustrial coatings until July 1, 2030, or six months after approval of an updated stewardship program plan, whichever comes later.
+
+2. A distributor or a paint retailer that distributes or sells  paint products shall monitor the department's website to determine if the sale of a producer's  paint products is in compliance with this chapter.
+
+3. At the time of sale to a consumer, a producer, a stewardship organization, or a paint retailer selling or offering  paint products for sale in Washington shall provide the consumer with information regarding available end-of-life management options for leftover  paint products collected through a paint product stewardship program.
+
+4. Neither a paint retailer, nor any other retailer, is required to serve as a leftover paint product collection facility.
+
+5. No fee may be charged at the time of delivery of leftover paint products to a collection site.
+
+## Section 8
+1. By May 1, 2026, and annually thereafter, a stewardship organization shall submit to the department a report describing the paint product stewardship program that the stewardship organization implemented during the previous fiscal year. The report must include all of the following:
+
+    a. A description of the methods the stewardship organization used to reduce, reuse, collect, transport, recycle, and process leftover paint products statewide in Washington;
+
+    b. The volume of  paint products collected by the stewardship organization in the preceding calendar year in Washington, including any increase in total volume of paint collected each year, and the cost of the paint product stewardship program per gallon of paint collected;
+
+    c. The volume of  paint products collected by method of disposition, including reuse, recycling, energy recovery, and disposal;
+
+    d. An estimate of the total weight of all paint product containers recycled by the program;
+
+    e. A list of all processors through final disposition that are used to manage leftover paint products collected by the stewardship organization in the preceding year;
+
+    f. A list of all the producers participating in the plan;
+
+    g. The total volume of  paint products sold in Washington during the preceding year based on the  paint product stewardship assessment collected by the stewardship organization;
+
+    h. An independent financial audit of the paint product stewardship program implemented by the stewardship organization, including a breakdown of the program's expenses, such as collection, recycling, education, and overhead;
+
+        i. The total cost of implementing the paint product stewardship program broken out by administrative, collection, transportation and disposition, and communications costs;
+
+    j. An evaluation of the effectiveness of the paint product stewardship program from year to year, and anticipated steps, if needed, to improve performance throughout the state; and
+
+    k. A summary of outreach and education activities undertaken and samples of the educational materials that the stewardship organization provided to consumers of paint products.
+
+2. Beginning with the annual report due the year after the initial inclusion of paint products other than architectural paint into the program under this chapter, the annual report must also include reporting on paint products other than architectural paint collected by the stewardship organization in the preceding fiscal year in Washington, as described in subsection (1)(b) through (g) of this section.
+
+3. The department must make all reports submitted under this section available to the general public through the internet. A producer or stewardship organization may request that information or records submitted to the department under this chapter be made available only for the confidential use of the department, the director of the department, or the appropriate division of the department. The director of the department must consider the request and if this action is not detrimental to the public interest and is otherwise in accordance with the policies and purposes of chapter 43.21A RCW, the director must grant the request for the information to remain confidential as authorized in RCW 43.21A.160. The department may use and disclose such information in summary or aggregated form as long as the disclosure does not directly or indirectly identify financial, production, or sales data of an individual producer or stewardship organization. The department is not required to notify individual producers prior to making available to the general public the reports submitted under this section or aggregated or summarized information from reports submitted under this section.
+
+## Section 9
+Producers or stewardship organizations acting on behalf of producers that prepare, submit, and implement a paint product stewardship program plan pursuant to RCW 70A.515.040 and thereby are subject to regulation by the department are granted immunity from state laws relating to antitrust, restraint of trade, unfair trade practices, and other regulation of trade and commerce, for the limited purpose of planning, reporting, and operating a paint product stewardship program and proposing and establishing the  paint product stewardship assessment required in RCW 70A.515.040(1) (c) and (d).
+
+## Section 10
+The paint product stewardship account is created in the state treasury. All receipts received by the department from stewardship organizations must be deposited in the account. Only the director of the department or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures. Moneys in the account may be used solely by the department for administering, implementing, and enforcing the requirements of this chapter. Funds in the account may not be diverted for any purpose or activity other than those specified in this section.
+
+## Section 11
+This chapter is void if a federal law, or a combination of federal laws, takes effect that establishes a national program for the collection and recycling of  paint products that substantially meets the intent of this chapter, including the creation of a funding mechanism for collection, transportation, recycling, and proper disposal of all  paint products in the United States.
+
+## Section 12
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Advisory council" means the council established in RCW 70A.208.050.
+
+2. "Alternative recycling process" means a recycling process that occurs other than through purely physical means.
+
+3. [Empty]
+
+    a. "Beverage" means a drinkable liquid intended for human oral consumption.
+
+    b. "Beverage" does not include: (i) A drug regulated under the federal food, drug, and cosmetic act, 21 U.S.C. Sec. 301 et seq.; (ii) 100 percent fluid milk; (iii) infant formula; or (iv) a meal replacement liquid.
+
+4. "Beverage container" means any container in which a producer originally prepackaged and sealed a beverage.
+
+5. "Brand" means a name, symbol, word, logo, or mark that identifies an item and attributes the item and its components, including packaging, to the brand owner of the item.
+
+6. "Collection rate" means the amount of a covered material by covered materials type collected by service providers and transported for recycling or composting divided by the total amount of the type of a covered material by covered materials type introduced by the relevant unit of measurement established in the plan.
+
+7. "Compostable" means a product that is capable of composting in a composting system and is in compliance with the requirements for a product labeled as compostable under chapter 70A.455 RCW.
+
+8. "Composting" means the controlled microbial degradation of source separated compostable materials to yield a humus-like product.
+
+9. "Composting rate" means the amount of compostable covered material that is managed through composting, divided by the total amount of compostable covered material introduced by the relevant unit of measurement.
+
+10. "Composting system" means a system meeting the requirements of chapter 70A.205 RCW applicable to facilities that treat solid waste for composting.
+
+11. "Contamination" means:
+
+    a. The presence of materials that are not on the list of materials collected in that material stream; or
+
+    b. The presence of materials that are not specified or accepted as a component of the feedstock or commodity.
+
+12. "Covered entity" means a person or location that receives covered services for covered materials in accordance with the requirements of this chapter, including:
+
+    a. A single-family residence;
+
+    b. A multifamily residence; and
+
+    c. A public place where a government entity managed recycling collection receptacles as of August 1, 2025, and any additional public place identified in an approved plan.
+
+13. [Empty]
+
+    a. "Covered material" means packaging and paper products introduced into the state.
+
+    b. "Covered material" does not include exempt materials.
+
+14. "Covered materials type" means a singular and specific type of material, such as paper, plastic, metal, or glass, that is a covered material and that:
+
+    a. May be categorized based on distinguishing chemical or physical properties, including properties that allow a covered materials type to be aggregated into a discrete commodity category for purposes of reuse, recycling, or composting; and
+
+    b. Is based on similar uses in the form of a product or packaging.
+
+15. [Empty]
+
+    a. "Covered services" means collecting, transferring, transporting, sorting, processing, recovering, preparing, or otherwise managing for purposes of waste reduction, refill, reuse, recycling, composting, or disposal of contamination or residuals.
+
+    b. Except with regard to contamination, "covered services" do not include:
+
+        i. Resource recovery through mixed municipal solid waste composting or incineration; or
+
+        ii. Land disposal.
+
+16. "De minimis producer" means a producer that:
+
+    a. In their most recent fiscal year introduced less than one ton of covered materials;
+
+    b. Has a global gross revenue, not including on-premises alcohol sales, for the prior fiscal year of:
+
+        i. Until January 1, 2031, less than $5,000,000; or
+
+        ii. Beginning January 1, 2031, less than $5,000,000, as adjusted for inflation. The department must use the consumer price index for urban wage earners to calculate the annual rate of inflation adjustment effective January 1st of each year, beginning January 1, 2031; or
+
+    c. Is an agricultural employer, as defined in RCW 19.30.010, regardless of where the agricultural employer is located, with less than $5,000,000, as adjusted for inflation as described in (b) of this subsection, in gross revenue in Washington from consumer sales of agricultural commodities sold under the brand name of the agricultural employer.
+
+17. "Department" means the department of ecology.
+
+18. "Drop-off collection site" means a physical location where covered materials are accepted from the public and that is open a minimum of 12 hours weekly throughout the year.
+
+19. "Exempt materials" means materials, or any portion of materials, that are:
+
+    a. Packaging for infant formula, as defined in 21 U.S.C. Sec. 321(z);
+
+    b. Packaging for medical food, as defined in 21 U.S.C. Sec. 360ee(b)(3);
+
+    c. Packaging for a fortified oral nutritional supplement used by persons who require supplemental or sole source nutrition to meet nutritional needs due to special dietary needs directly related to cancer, chronic kidney disease, diabetes, malnutrition, or failure to thrive, as those terms are defined by the , tenth revision;
+
+    d. Packaging for a product regulated as a drug, medical device, or dietary supplement by the United States food and drug administration, including associated components and consumable medical equipment, under the federal food, drug, and cosmetic act (21 U.S.C. Sec. 321 et seq.), or a product regulated as a biologic or vaccine by the United States food and drug administration under the public health service act (42 U.S.C. Sec. 201 et seq.);
+
+    e. Packaging for a medical equipment or product used in medical settings that is regulated by the United States food and drug administration, including associated components and consumable medical equipment;
+
+    f. Packaging for drugs, biological products, parasiticides, medical devices, or in vitro diagnostics that are used to treat, or that are administered to, animals and are regulated by the United States food and drug administration under the federal food, drug, and cosmetic act (21 U.S.C. Sec. 301 et seq.) and by the United States department of agriculture under the federal virus-serum-toxin act (21 U.S.C. Sec. 151 et seq.);
+
+    g. Noncompostable film plastic packaging used in direct contact with raw meat;
+
+    h. Packaging for products regulated by the United States environmental protection agency under the federal insecticide, fungicide, and rodenticide act (7 U.S.C. Sec. 136 et seq.);
+
+        i. Packaging used to contain liquefied petroleum gas and are designed to be refilled;
+
+    j. Packaging used to contain hazardous or flammable products classified by the 2012 federal occupational safety and health administration hazard communication standard, 29 C.F.R. Sec. 1910.1200 (2024), that prevent the packaging from being reduced or made reusable, recyclable, or compostable, as determined by the department;
+
+    k. Packaging that is associated with paint products as defined in chapter 70A.515 RCW;
+
+    l. Excluded materials, as determined by the department under RCW 70A.208.260;
+
+    m. Used to protect or store a durable product for a period of at least five years;
+
+    n. Packaging used for bulk construction materials;
+
+    o. Covered materials that:
+
+        i. A producer distributes to another producer;
+
+        ii. Are subsequently used to contain a product and the product is distributed to a commercial or business entity for the production of another product; and
+
+        iii. Are not introduced to a person other than the commercial or business entity that first received the product used for the production of another product; and
+
+    p. Covered materials for which the producer demonstrates to the department that the covered material meets all of the following criteria:
+
+        i. The material is not collected through a residential recycling collection service;
+
+        ii. The material is recycled at a responsible market;
+
+        iii. The material is intended to be used and collected within a commercial setting;
+
+        iv.(A) The producer annually demonstrates to the department that the material has had a state recycling rate of 65 percent for three consecutive years, until December 31, 2029. Beginning January 1, 2030, the producer must demonstrate to the department every two years that the material has had a state recycling rate of at least 70 percent annually; or
+
+(B) The producer annually demonstrates to the department that the material is directly managed by the producer and has had a reuse or recycling rate of 65 percent for three consecutive years, until December 31, 2029. Beginning January 1, 2030, the producer must demonstrate to the department every two years that the material controlled by the producer has had a reuse or recycling rate of at least 70 percent annually; and
+
+    v. If only a portion of the material sold in or into the state by a producer meets the criteria of (p)(i) of this subsection, only the portion of the material that meets that criteria is an exempt material and any portion that does not meet the criteria is a covered material for purposes of this chapter.
+
+20. "Government entity" means any:
+
+    a. County, city, town, or other local government, including any municipal corporation, quasi-municipal corporation, or special purpose district, or any office, department, division, bureau, board, commission, or agency thereof, or other local public agency;
+
+    b. State office, department, division, bureau, board, commission, or other state agency;
+
+    c. Federally recognized Indian tribe whose traditional lands and territories include parts of Washington; or
+
+    d. Federal office, department, division, bureau, board, commission, or other federal agency.
+
+21. "Individual plan" means a plan submitted by a producer that registers with the department as a producer responsibility organization to address the covered materials of the producer.
+
+22. "Introduce" means to sell, offer for sale, distribute, or ship a product within or into this state.
+
+23. "Material recovery facility" means any facility that receives, compacts, repackages, or sorts source separated solid waste for the purpose of recycling.
+
+24. "Overburdened communities" means the overburdened communities identified and prioritized by the department under RCW 70A.02.050(1)(a).
+
+25. [Empty]
+
+    a. "Packaging" means a material, substance, or object that is used to protect, contain, transport, serve, or facilitate delivery of a product and is sold or supplied with the product to the consumer for personal, noncommercial use.
+
+    b. "Packaging" does not include exempt materials.
+
+26. "Paper product" means paper sold or supplied to a consumer for personal, noncommercial use, including flyers, brochures, booklets, catalogs, magazines, printed paper, and all other paper materials except for: (a) Bound books; (b) conservation-grade and archival-grade paper; (c) newspapers, including supplements or enclosures; (d) magazines that have a circulation of fewer than 95,000 and that includes content derived from primary sources related to news and current events; (e) copy paper; (f) paper for use in building construction; and (g) paper that could reasonably be anticipated to become unsafe or unsanitary to handle.
+
+27. [Empty]
+
+    a. "Plastic source reduction" means the reduction in the amount of covered plastic material introduced by a producer relative to a baseline year of 2023, or relative to an alternative baseline year of no earlier than 2013 where a producer submits data documenting the plastic source reduction to a producer responsibility organization. Methods of source reduction include, but are not limited to, shifting covered material to reusable or refillable packaging or a reusable product, eliminating unnecessary packaging, or reducing the packaging to product ratio. "Plastic source reduction" must include elimination, which means the removal of plastic covered materials.
+
+    b. "Plastic source reduction" does not include either of the following:
+
+        i. Replacing a recyclable or compostable covered material with a nonrecyclable or noncompostable covered material or a covered material that is less likely to be recycled or composted; or
+
+        ii. Switching from virgin covered material to postconsumer recycled content, except as allowed under an alternative compliance formula in RCW 70A.208.150(6).
+
+28. "Postconsumer recycled content" has the same meaning as defined in RCW 70A.245.010.
+
+29. [Empty]
+
+    a. "Producer" means the following person responsible for compliance with requirements under this chapter for a covered material introduced into the state:
+
+        i. For items sold in or with packaging at a physical retail location in this state:
+
+(A) If the item is sold in or with packaging under the brand of the item manufacturer or is sold in packaging that lacks identification of a brand, the producer is the person that manufactures the item;
+
+(B) If there is no person to which (a)(i)(A) of this subsection applies, the producer is the person that is licensed to manufacture and sell or offer for sale to consumers in this state an item with packaging under the brand or trademark of another manufacturer or person;
+
+(C) If there is no person to which (a)(i)(A) or (B) of this subsection applies, the producer is the brand owner of the item;
+
+(D) If there is no person described in (a)(i)(A), (B), or (C) of this subsection within the United States, the producer is the person who is the importer of record for the item into the United States for use in a commercial enterprise that sells, offers for sale, or distributes the item in this state; or
+
+(E) If there is no person described in (a)(i)(A) through (D) of this subsection, the producer is the person that first distributes the item in or into this state;
+
+        ii. For items sold or distributed in packaging in or into this state via e-commerce, remote sale, or distribution:
+
+(A) For packaging used to directly protect or contain the item, the producer of the packaging is the same as the producer identified under (a)(i) of this subsection; and
+
+(B) For packaging used to ship the item to a consumer, the producer of the packaging is the person that packages the item to be shipped to the consumer;
+
+        iii. For packaging that is a covered material and is not included in (a)(i) and (ii) of this subsection, the producer of the packaging is the person that first distributes the item in or into this state;
+
+        iv. For paper products that are magazines, catalogs, telephone directories, or similar publications, the producer is the publisher;
+
+    v. For paper products not described in (a)(iv) of this subsection:
+
+(A) If the paper product is sold under the manufacturer's own brand, the producer is the person that manufactures the paper product;
+
+(B) If there is no person to which (a)(v)(A) of this subsection applies, the producer is the person that is the owner or licensee of a brand or trademark under which the paper product is used in a commercial enterprise, sold, offered for sale, or distributed in or into this state, whether or not the trademark is registered in this state;
+
+(C) If there is no person to which (a)(v)(A) or (B) of this subsection applies, the producer is the brand owner of the paper product;
+
+(D) If there is no person described in (a)(v)(A), (B), or (C) of this subsection within the United States, the producer is the person that imports the paper product into the United States for use in a commercial enterprise that sells, offers for sale, or distributes the paper product in this state; or
+
+(E) If there is no person described in (a)(v)(A) through (D) of this subsection, the producer is the person that first distributes the paper product in or into this state;
+
+    vi. A person is the "producer" of a covered material sold, offered for sale, or distributed in or into this state, as defined in (a)(i) through (v) of this subsection, except:
+
+(A) Where another person has mutually signed an agreement with a producer as defined in (a)(i) through (v) of this subsection that contractually assigns responsibility to the person as the producer, and the person has joined a registered producer responsibility organization as the responsible producer for that covered material under this chapter. If another person is assigned responsibility as the producer under this subsection, the producer under (a)(i) through (v) of this subsection must provide written certification of that contractual agreement to the producer responsibility organization. The following persons are not eligible to be the assigned recipient of responsibility as a producer under this subsection: (I) A person who produces an agricultural commodity introduced under the brand or trademark of another manufacturer or person; or (II) a distributor of a beverage sold in a beverage container; and
+
+(B) If the producer described in (a)(i) through (v) of this subsection is a business operated wholly or in part as a franchise, the producer is the franchisor, if that franchisor has franchisees that have a commercial presence within the state.
+
+    b. "Producer" does not include:
+
+        i. Government entities;
+
+        ii. Registered 501(c)(3) charitable organizations and 501(c)(4) social welfare organizations; or
+
+        iii. De minimis producers.
+
+30. "Producer responsibility organization" means:
+
+    a. A nonprofit organization that qualifies for a tax exemption under 26 U.S.C. Sec. 501(c)(3) of the federal internal revenue code and is designated by a producer or group of producers to fulfill the requirements of this chapter;
+
+    b. A producer that registers with the department as a producer responsibility organization and implements an individual plan addressing the covered materials of the producer; or
+
+    c. An organization as defined by the department by rule.
+
+31. "Program" means the activities conducted to implement an approved plan.
+
+32. [Empty]
+
+    a. "Public place" means an indoor or outdoor location open to and generally used by the public and to which the public is permitted to have access including, but not limited to, streets, sidewalks, plazas, town squares, public parks, beaches, forests, or other public land open for recreation or other uses, and transportation facilities such as bus and train stations, airports, and ferry terminals.
+
+    b. "Public place" does not include a retail establishment or industrial, commercial, or privately owned property that is not required to be accessible to the public.
+
+33. "Recycling" means transforming or remanufacturing covered materials into usable or marketable materials for use other than landfill disposal or incineration and does not include reuse or composting.
+
+34. "Recycling rate" means the amount of covered materials, in aggregate or by individual covered materials type, delivered to responsible markets for recycling in a calendar year divided by the total amount of covered materials introduced by the relevant unit of measurement and excluding covered materials that are reusable or compostable.
+
+35. "Refill" means the continued use of a covered material by a consumer through a system that is:
+
+    a. Intentionally designed and marketed for repeated filling of a covered material to reduce demand for new production of the covered material;
+
+    b. Supported by adequate logistics and infrastructure to provide convenient access to consumers; and
+
+    c. Compliant with all applicable federal, state, and local statutes, rules, ordinances, and other laws governing health and safety.
+
+36. "Responsible market" means an entity that:
+
+    a. First produces and sells, transfers, or uses recycled organic product or recycled content feedstock that meets the quality standards necessary to be used in the creation of new or reconstituted products;
+
+    b. Complies with all applicable federal, state, and local statutes, rules, ordinances, and other laws governing environmental, health, safety, and financial responsibility;
+
+    c. If the market operates in the state, manages waste according to the state's solid waste management hierarchy established in RCW 70A.205.005; and
+
+    d. Meets the minimum operational standards adopted under a producer responsibility organization plan to protect the environment, public health, worker health and safety, and minimize adverse impacts to socially vulnerable populations.
+
+37. "Responsible producer" means a producer that is not a de minimis producer.
+
+38. "Retail establishment" includes any person, corporation, partnership, business, facility, vendor, organization, or individual that sells or provides merchandise, goods, or materials directly to a customer.
+
+39. "Return rate" means the amount of reusable covered material in aggregate or by individual covered materials type, collected for reuse by a producer or service provider in a calendar year, divided by the total amount of reusable covered materials introduced by the relevant unit of measurement.
+
+40. "Reusable" means capable of reuse.
+
+41. "Reuse" means the return of a covered material to the marketplace and the continued use of the covered material by a producer or service provider when the covered material is:
+
+    a. Intentionally designed and marketed to be used multiple times for its original intended purpose without a change in form;
+
+    b. Designed for durability and maintenance to extend its useful life and reduce demand for new production of the covered material;
+
+    c. Supported by adequate logistics and infrastructure at a retail location, by a service provider, or on behalf of or by a producer, that provides convenient access for consumers; and
+
+    d. Compliant with all applicable federal, state, and local statutes, rules, ordinances, and other laws governing health and safety.
+
+42. "Reuse rate" means the share of units of a reusable covered material introduced into the state in a calendar year that are demonstrated and deemed reusable in accordance with an approved plan.
+
+43. "Service provider" means an entity that provides covered services for covered materials. A government entity that provides, contracts for, or otherwise arranges for another party to provide covered services for covered materials within its jurisdiction may be a service provider regardless of whether it provided, contracted for, or otherwise arranged for similar services before the approval of the applicable plan.
+
+44. "Socially vulnerable population" means:
+
+    a. Any person residing in:
+
+        i. A census tract that contains a high overall social vulnerability index as measured using the United States centers for disease control and the agency for toxic substances and disease registry's social vulnerability index, as it existed as of January 1, 2025, for the most recent year such data are available; or
+
+        ii. As applicable, an alternative population specified in RCW 70A.208.270; or
+
+    b. Any person that has an income below the minimum necessary for a household based on family composition in a given geography to adequately meet their basic needs without public or private assistance, as measured by the University of Washington's center for women's welfare, for the most recent year such data are available.
+
+45. "Third-party certification" means certification by an accredited independent organization that a standard or process required by this chapter, or by a plan approved under this chapter, has been achieved.
+
+46. "Toxic substance" means chemicals that are regulated under chapter 70A.222, 70A.350, 70A.430, or 70A.560 RCW.
+
+47. "Vulnerable populations" has the same meaning as defined in RCW 70A.02.010.
+
+## Section 13
+1. This chapter does not apply to the receipts attributable to the assessment on  paint products imposed pursuant to chapter 70A.515 RCW.
+
+2. This section is not subject to the requirements of RCW 82.32.805 and 82.32.808, and is not subject to an expiration date.
+
+## Section 14
+The following financial, commercial, and proprietary information is exempt from disclosure under this chapter:
+
+## Section 15

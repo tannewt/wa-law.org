@@ -34,11 +34,13 @@
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
 
 ### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍2  
 
 ### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍2  
+
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
 
 ### [HB 2586](/bill/2025-26/hb/2586/) - Passport to careers program 👍2  
 
@@ -82,9 +84,9 @@
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍2  
 
-### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education. 👍1  
+### [SB 5861](/bill/2025-26/sb/5861/) - Education/community rep. 👍1  
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 

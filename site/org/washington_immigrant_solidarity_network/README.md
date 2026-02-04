@@ -150,7 +150,7 @@
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 

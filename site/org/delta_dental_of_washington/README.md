@@ -6,6 +6,8 @@
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
 * 👎 Monty Robinson
 
+### [HB 2683](/bill/2025-26/hb/2683/) - Health carriers & providers  👎1 
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎12 

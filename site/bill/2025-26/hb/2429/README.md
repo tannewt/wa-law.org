@@ -13,6 +13,15 @@
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202429)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2429 Youth behavioral health
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2429 Youth behavioral health
 #### 496 👍 - Pro
 Testifying:

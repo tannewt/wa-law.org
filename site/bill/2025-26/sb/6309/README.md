@@ -5,8 +5,18 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6309 High cap. transit permits
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6309 High cap. transit permits
 #### 13 👍 - Pro
 Testifying:

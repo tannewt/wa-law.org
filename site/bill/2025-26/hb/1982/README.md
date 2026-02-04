@@ -12,6 +12,15 @@
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201982)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1982 Treaty rights/convictions
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/12 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1982 Treaty rights/convictions
 #### 25 👍 - Pro
 Testifying:

@@ -11,6 +11,9 @@
 ### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures  👎1 
 * 👎 Terri Standish-Kuon
 
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
+* 👍💵 Katherine Mahoney
+
 ### [HB 2589](/bill/2025-26/hb/2589/) - Higher ed. encampments   ❓1
 * ❓ Ph.D., Terri Standish-Kuon
 

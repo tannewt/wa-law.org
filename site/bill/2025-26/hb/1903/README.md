@@ -14,11 +14,13 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1903 Low-income energy assistance
 Sign up to testify:
 
-#### 84 👍 - Pro
+#### 212 👍 - Pro
 Testifying:
 * 💵Alexandra Johnson - Duwamish River Community Coalition
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Logan Bahr - Tacoma Power/Tacoma Public Utilities
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

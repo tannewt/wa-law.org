@@ -30,10 +30,14 @@
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings  👎1 
 * 👎 Colette Weeks
 
-### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force  👎3 
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force  👎4 
 * 👎 Michael Fancher
 * 👎 George Erb
 * 👎 Ellen Hiatt
+* 👎 Robert McClure
+
+### [HB 2685](/bill/2025-26/hb/2685/) - Tribal data  👎1 
+* 👎 Robert McClure
 
 ### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍3  
 * 👍💵 Donna Christensen

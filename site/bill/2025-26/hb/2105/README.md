@@ -25,12 +25,14 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2105 Immigrant workers
 Sign up to testify:
 
-#### 243 👍 - Pro
+#### 348 👍 - Pro
 Testifying:
 * 💵Alexandra Johnson - Duwamish River Community Coalition
 * 💵Jean Hill - Washington State Catholic Conference
+* Lisa Ellis
+* Mahmood Alkhazraji - ASCWU Liaison
 
-#### 122 👎 - Con
+#### 633 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * Gregor Doerr - Washington State Young Republicans

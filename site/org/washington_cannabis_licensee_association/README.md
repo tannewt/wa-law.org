@@ -39,7 +39,8 @@
 ### [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply 👍1  
 * 👍💵 Trent Matson
 
-### [SB 6290](/bill/2025-26/sb/6290/) - Liquor and cannabis board   ❓1
+### [SB 6290](/bill/2025-26/sb/6290/) - Liquor and cannabis board   ❓2
+* ❓ Bethany Rondeaux
 * ❓ Bethany Rondeaux
 
 ### [SB 6303](/bill/2025-26/sb/6303/) - Cannabis product packaging 👍1  

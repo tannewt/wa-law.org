@@ -22,12 +22,16 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6026 Residential dev./zones
 Sign up to testify:
 
-#### 33 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Jennifer Gregerson - City of Everett, Government Affairs Director
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 19 👎 - Con
+#### 28 👎 - Con
+Testifying:
+* Eric Perry - [City of Renton](/org/city_of_renton/)
+* Charles Grimm - Mayor, City of Pasco
+* Jeff Rimack - Jeff Rimack, City of Lakewood
 
 #### 0 ❓ - Other
 

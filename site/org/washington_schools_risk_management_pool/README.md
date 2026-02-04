@@ -3,6 +3,9 @@
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
+### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
+* 👍 Dana Grandey
+
 ## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims   ❓1
 * ❓ Tyna Ek
 

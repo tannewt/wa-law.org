@@ -14,11 +14,11 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2215 Fuels/climate commitment act
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 97 👎 - Con
+#### 588 👎 - Con
 
 #### 0 ❓ - Other
 

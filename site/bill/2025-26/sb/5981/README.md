@@ -11,16 +11,20 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5981 340B drug pricing program
 Sign up to testify:
 
-#### 68 👍 - Pro
+#### 268 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 
-#### 106 👎 - Con
+#### 135 👎 - Con
 Testifying:
 * Corbin Santo - Johnson & Johnson Innovative Medicine
+* 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Clayton Ruley - Community Liver Alliance
+* Robert Popovian
 
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5981 340B drug pricing program
 #### 267 👍 - Pro

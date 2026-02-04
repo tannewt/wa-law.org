@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5650 Cannabis local excise tax
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 7 👎 - Con
+
+#### 0 ❓ - Other

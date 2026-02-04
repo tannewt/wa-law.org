@@ -246,6 +246,10 @@
 
 ### [SB 6161](/bill/2025-26/sb/6161/) - Dementia information 👍1  
 
+### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers 👍1  
+
+### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp. 👍1  
+
 ### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 * 👍 Lydia Zepeda
 

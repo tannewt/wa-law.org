@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2567/</link>
 		<description>Updates about HB 2567</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 12:30:12 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 09:18:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -94,6 +94,14 @@
 			<guid isPermaLink="false">testifier/Vernon/Glass/2026-02-02 08:32:49</guid>
 		</item>
 		<item>
+			<title>👍John Dickinson - Whitworth University</title>
+			<description>John Dickinson signed up to testify Pro.</description>
+			<pubDate>Mon, 02 Feb 2026 08:54:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Dickinson/2026-02-02 08:54:24</guid>
+		</item>
+		<item>
 			<title>👍Lauren Mendez - Washington School Counselor Association</title>
 			<description>Lauren Mendez signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_school_counselor_association/"&gt;Washington School Counselor Association&lt;/a&gt;.</description>
 			<pubDate>Mon, 02 Feb 2026 12:21:36 GMT</pubDate>
@@ -116,6 +124,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Sam/Ligon/2026-02-02 12:30:12</guid>
+		</item>
+		<item>
+			<title>👍Allan Belton - Pacific Lutheran University</title>
+			<description>Allan Belton signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/pacific_lutheran_university/"&gt;Pacific Lutheran University&lt;/a&gt;.</description>
+			<pubDate>Tue, 03 Feb 2026 08:55:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Allan/Belton/2026-02-03 08:55:19</guid>
+		</item>
+		<item>
+			<title>👍💵Katherine Mahoney - Independent Colleges of Washington</title>
+			<description>Katherine Mahoney signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/independent_colleges_of_washington/"&gt;Independent Colleges of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 03 Feb 2026 08:55:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katherine/Mahoney/2026-02-03 08:55:19</guid>
+		</item>
+		<item>
+			<title>👍Mason Taylor-Wells - Independent Colleges of Washington</title>
+			<description>Mason Taylor-Wells signed up to testify Pro.</description>
+			<pubDate>Tue, 03 Feb 2026 09:18:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mason/Taylor-Wells/2026-02-03 09:18:53</guid>
 		</item>
 	</channel>
 </rss>

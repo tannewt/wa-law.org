@@ -19,14 +19,22 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5400 Local news journalism
 Sign up to testify:
 
-#### 430 👍 - Pro
+#### 541 👍 - Pro
 Testifying:
 * David Fischrr - KNKX Radio
 * Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Matt Pearce - Rebuild Local News
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
+* Carrie Radcliff
+* Alan Fisco - Seattle Times
+* Dee Anne Finken - League of Women Voters
+* Teresa Wippel - My Neighborhood News Group
+* Karen Keiser - Former Senator
+* Matt Pearce - Rebuild Local News
+* Neal Boling - KHQ-TV, KNDO-TV, and KNDU-TV
+* Neal Boling - KHQ-TV, KNDO-TV, KNDU-TV
 
-#### 95 👎 - Con
+#### 570 👎 - Con
 
 #### 0 ❓ - Other
 

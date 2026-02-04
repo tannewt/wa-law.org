@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2418 Permit review
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2418 Permit review
 #### 49 👍 - Pro
 Testifying:

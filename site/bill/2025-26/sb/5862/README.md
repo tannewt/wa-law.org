@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5862 TRS & PERS plan 1 COLA
+Sign up to testify:
+
+#### 251 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other

@@ -8,11 +8,9 @@
 
 ## Meetings
 ### Tue 02/03 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2598 Anadromous fish recovery
-Sign up to testify:
-
 #### 10 👍 - Pro
 
-#### 817 👎 - Con
+#### 886 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

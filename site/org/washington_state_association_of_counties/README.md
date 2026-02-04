@@ -254,8 +254,12 @@
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services.  👎1 
 * 👎💵 Paul Jewell
 
-### [HB 2174](/bill/2025-26/hb/2174/) - Crash prevention zones   ❓1
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
+* 👍💵 Axel Swanson
+
+### [HB 2174](/bill/2025-26/hb/2174/) - Crash prevention zones 👍1  ❓1
 * ❓💵 Axel Swanson
+* 👍💵 Axel Swanson
 
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 
@@ -312,7 +316,8 @@
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 * 👍💵 Axel Swanson
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ### [HB 2456](/bill/2025-26/hb/2456/) - Juvenile firearm interv.   ❓1
@@ -496,6 +501,9 @@
 * ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 
+### [SB 5650](/bill/2025-26/sb/5650/) - Cannabis local excise tax 👍1  
+* 👍💵 Paul Jewell
+
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
 ### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍2  
@@ -598,14 +606,18 @@
 ### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
 * 👍💵 Paul Jewell
 
-### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  
 * 👍💵 Derek Young
+* 👍💵 Paul Jewell
 
 ### [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
 * 👍💵 Paul Jewell
 
 ### [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface   ❓1
 * ❓💵 Curtis Steinhauer
+
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+* 👍💵 Paul Jewell
 
 ### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage   ❓1
 * ❓💵 Axel Swanson

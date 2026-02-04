@@ -6,6 +6,8 @@
 
 ### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands 👍1  
 
+### [HB 2376](/bill/2025-26/hb/2376/) - Property tax 👍1  
+
 ### [SB 5021](/bill/2025-26/sb/5021/) - Retention of court exhibits 👍1  
 
 ## [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  

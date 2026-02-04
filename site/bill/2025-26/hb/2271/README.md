@@ -11,6 +11,17 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202271)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2271 Plastics/recycled content
+Sign up to testify:
+
+#### 7 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2271 Plastics/recycled content
 #### 32 👍 - Pro
 Testifying:

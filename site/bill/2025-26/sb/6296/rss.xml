@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6296/</link>
 		<description>Updates about SB 6296</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 10:36:13 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -64,7 +64,7 @@
 			<guid isPermaLink="false">testifier/Russell/Brown/2026-01-31 03:45:46</guid>
 		</item>
 		<item>
-			<title>👍Andrea Pace - WA State Auto Dealers Association</title>
+			<title>👍Andrea Pace - CTIA - The Wireless Association</title>
 			<description>Andrea Pace signed up to testify Pro.</description>
 			<pubDate>Sun, 01 Feb 2026 01:35:11 GMT</pubDate>
 			<category>testifier</category>
@@ -72,7 +72,7 @@
 			<guid isPermaLink="false">testifier/Andrea/Pace/2026-02-01 01:35:11</guid>
 		</item>
 		<item>
-			<title>👍Jon Berner - WA State Auto Dealers Association</title>
+			<title>👍Jon Berner - CTIA - The Wireless Association</title>
 			<description>Jon Berner signed up to testify Pro.</description>
 			<pubDate>Sun, 01 Feb 2026 07:00:46 GMT</pubDate>
 			<category>testifier</category>
@@ -96,7 +96,7 @@
 			<guid isPermaLink="false">testifier/Abby/Moore/2026-02-01 08:34:36</guid>
 		</item>
 		<item>
-			<title>👍Doug Reuter - WA State Auto Dealers Association</title>
+			<title>👍Doug Reuter - CTIA - The Wireless Association</title>
 			<description>Doug Reuter signed up to testify Pro.</description>
 			<pubDate>Sun, 01 Feb 2026 10:51:19 GMT</pubDate>
 			<category>testifier</category>
@@ -166,6 +166,27 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kelly/Canary/2026-02-02 10:36:13</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

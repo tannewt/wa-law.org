@@ -11,9 +11,12 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5681 DDA employment services age
 Sign up to testify:
 
-#### 89 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
+* DARCY HUFFMAN - [Community Employment Alliance](/org/community_employment_alliance/)
+* Autumn Cutter - [Bellevue School District](/org/bellevue_school_district/)
+* Tania May - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

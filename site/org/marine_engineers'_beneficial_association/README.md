@@ -660,7 +660,7 @@
 
 ### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
 
-### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  
 
 ### [SB 5927](/bill/2025-26/sb/5927/) - Workers' comp. adjustments  👎1 
 

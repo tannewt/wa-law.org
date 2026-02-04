@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2439/</link>
 		<description>Updates about HB 2439</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 02:55:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -266,6 +266,21 @@
 			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-30/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎Tom Eshleman - Doyles Sheehan</title>
+			<description>Tom Eshleman signed up to testify Con. They are signed up to represent Doyles Sheehan.</description>
+			<pubDate>Tue, 03 Feb 2026 02:55:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tom/Eshleman/2026-02-03 02:55:24</guid>
 		</item>
 	</channel>
 </rss>

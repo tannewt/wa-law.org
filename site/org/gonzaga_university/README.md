@@ -1,12 +1,12 @@
 # Gonzaga University
 ## 2025-26
 
-### [HB 2498](/bill/2025-26/hb/2498/) - Nursing education programs 👍2  
+### [HB 2498](/bill/2025-26/hb/2498/) - Nursing education programs 👍3  
 
 ### [HB 2500](/bill/2025-26/hb/2500/) - Transfers to charities 👍1  
 * 👍 Chris Stiles
 
-### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍81  
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍90  
 * 👍 Jack Kashork
 
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 

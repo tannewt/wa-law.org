@@ -15,14 +15,15 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2210 Local government elections
 Sign up to testify:
 
-#### 267 👍 - Pro
+#### 337 👍 - Pro
 Testifying:
 * James Wang
 
-#### 109 👎 - Con
+#### 662 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Laurie Layne
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 1 ❓ - Other
 

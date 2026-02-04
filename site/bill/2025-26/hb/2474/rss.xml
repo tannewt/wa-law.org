@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2474/</link>
 		<description>Updates about HB 2474</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 12:06:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Terri/Standish-Kuon/2026-01-28 12:06:21</guid>
+		</item>
+		<item>
+			<title>PEW - Executive action taken by committee.</title>
+			<description>PEW - Executive action taken by committee.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/PEW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

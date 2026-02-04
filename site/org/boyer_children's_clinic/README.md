@@ -4,6 +4,8 @@
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 * 👍 Mike Stewart
 
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎3 
+
 ## [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍8  
 * 👍 Julie Shin
 

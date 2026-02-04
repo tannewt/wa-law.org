@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/26 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6234 Sewage grinder pumps

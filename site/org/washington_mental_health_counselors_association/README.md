@@ -17,6 +17,8 @@
 ### [HB 2599](/bill/2025-26/hb/2599/) - Therapy and psychotherapy 👍3  
 * 👍 Shannon Thompson LMHC
 
+### [HB 2683](/bill/2025-26/hb/2683/) - Health carriers & providers 👍1  
+
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
 ## [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍2  

@@ -120,6 +120,8 @@
 
 ### [HB 2641](/bill/2025-26/hb/2641/) - Law enforcement hiring  👎1 
 
+### [HB 2658](/bill/2025-26/hb/2658/) - Mental health coverage  👎1 
+
 ### [HB 2684](/bill/2025-26/hb/2684/) - Business enterprise cert.  👎1 
 * 👎 Jeannie Magdua
 

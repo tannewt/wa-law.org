@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6211 Real estate excise taxes/GMA
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6211 Real estate excise taxes/GMA
 #### 180 👍 - Pro
 Testifying:

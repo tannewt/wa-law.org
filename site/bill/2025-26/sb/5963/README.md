@@ -14,13 +14,12 @@
 
 ## Meetings
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5963 Passport to careers program
-Sign up to testify:
-
-#### 36 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
+* 💵Sienna Jarrard - WA Student Association
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

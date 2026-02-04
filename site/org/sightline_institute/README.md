@@ -24,6 +24,9 @@
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
+### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍2  
+* 👍💵 Dan Bertolet
+
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍3  

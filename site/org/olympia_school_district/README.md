@@ -53,10 +53,10 @@
 
 ### [SB 5859](/bill/2025-26/sb/5859/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  
 
-### [SB 5861](/bill/2025-26/sb/5861/) - Encouraging community representation in education.   ❓1
+### [SB 5861](/bill/2025-26/sb/5861/) - Education/community rep.   ❓1
 * ❓ Kate Davis
 
-### [SB 5918](/bill/2025-26/sb/5918/) - Providing funding for school materials, supplies, and operating costs. 👍1  
+### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  
 * 👍 Patrick Murphy
 
 ### [SB 5943](/bill/2025-26/sb/5943/) - Use of school impact fees 👍1  

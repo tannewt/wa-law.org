@@ -24,6 +24,9 @@
 ### [HB 2658](/bill/2025-26/hb/2658/) - Mental health coverage  👎1 
 * 👎💵 Marissa Ingalls
 
+### [HB 2683](/bill/2025-26/hb/2683/) - Health carriers & providers  👎1 
+* 👎💵 Marissa Ingalls
+
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments  👎1 
 * 👎💵 Marissa Ingalls
 

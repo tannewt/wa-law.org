@@ -17,17 +17,21 @@
 ### Wed 02/04 10:30 AM - Housing (HSG): EHB 1345 Detached ADU limits
 Sign up to testify:
 
-#### 203 👍 - Pro
+#### 315 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Councilmember Justin Paulsen - San Juan County Council
 * SAM SPIEGELMAN - Citizen Action Defense Fund
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 2 👎 - Con
+#### 48 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Christina Mojica - Reason Foundation
 
 ### Mon 01/27 01:30 PM - Housing (HOUS): HB 1345 Detached ADU limits
 #### 16 👍 - Pro

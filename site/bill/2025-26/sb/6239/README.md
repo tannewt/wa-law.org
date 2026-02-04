@@ -13,6 +13,18 @@
 * 01/28/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers attempt to rein in runaway lawsuit costs • Washington State Standard](https://washingtonstatestandard.com/2026/01/27/wa-lawmakers-attempt-to-rein-in-runaway-lawsuit-costs/#:~:text=Senate%20Bill%206239)
 
 ## Meetings
+### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6239 State tort claims
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 6239 State tort claims
 #### 29 👍 - Pro
 Testifying:

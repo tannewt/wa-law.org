@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5823](/bill/2025-26/sb/5823/)
 
-# SB 5823 - Concerning patient advocates.
+# SB 5823 - Patient advocates
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5823&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [Five bills sponsored by Cortes move through the legislative process - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/26/five-bills-sponsored-by-cortes-move-through-the-legislative-process/#:~:text=Senate%20Bill%205823)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2660/</link>
 		<description>Updates about HB 2660</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 12:01:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -197,6 +197,13 @@
 			<pubDate>Mon, 02 Feb 2026 12:01:32 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=House%20Bill%202660</guid>
+		</item>
+		<item>
+			<title>ELHS - Executive action taken by committee.</title>
+			<description>ELHS - Executive action taken by committee.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/ELHS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

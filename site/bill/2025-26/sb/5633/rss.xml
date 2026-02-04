@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5633/</link>
 		<description>Updates about SB 5633</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,6 +217,13 @@
 			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-02/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

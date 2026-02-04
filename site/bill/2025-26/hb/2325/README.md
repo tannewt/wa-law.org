@@ -11,9 +11,9 @@
 ### Thu 02/05 08:00 AM - Finance (FIN): SHB 2325 Tourism assessment
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

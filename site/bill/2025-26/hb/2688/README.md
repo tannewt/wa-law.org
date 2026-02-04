@@ -10,10 +10,10 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2688 Infants and toddlers program
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 11 👎 - Con
+#### 288 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

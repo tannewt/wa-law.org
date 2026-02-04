@@ -10,11 +10,13 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2584 Farm machinery sales tax
 Sign up to testify:
 
-#### 120 👍 - Pro
+#### 294 👍 - Pro
 Testifying:
 * Pam Lewison
+* Jesse Johnson - Farmer John Coalition
+* Stacey Rasmussen
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

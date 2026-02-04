@@ -10,9 +10,7 @@
 
 ## Meetings
 ### Tue 02/03 04:00 PM - Transportation (TRAN): ESHB 1980 Employer transp. services
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Kevin Wallace - Wallace Properties, Inc.
 * Matt Jack - Bellevue Downtown Association
@@ -20,7 +18,7 @@ Testifying:
 * Mo Malakoutian - City of Bellevue Mayor
 * Jeremy Burdett - TransWest
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

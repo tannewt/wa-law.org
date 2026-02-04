@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5947/</link>
 		<description>Updates about SB 5947</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 08:44:11 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 21:31:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -154,6 +154,34 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alfred/Albear/2026-01-28 08:44:11</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/HLTC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Health care movement &amp; floor votes - Sen. Bob Hasegawa</title>
+			<description>News article "Health care movement &amp; floor votes - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Tue, 03 Feb 2026 21:31:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205947</guid>
 		</item>
 	</channel>
 </rss>

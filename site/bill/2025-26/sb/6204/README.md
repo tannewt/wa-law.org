@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/28/2026 [KUOW](/org/kuow/) - [KUOW - The latest attempt to legalize homegrown marijuana in Washington](https://www.kuow.org/stories/the-latest-attempt-to-legalize-homegrown-marijuana-in-washington#:~:text=Senate%20Bill%206204)

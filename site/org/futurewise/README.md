@@ -42,7 +42,8 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
-### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits   ❓1
+### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits   ❓2
+* ❓💵 Bryce Yadon
 * ❓💵 Bryce Yadon
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  

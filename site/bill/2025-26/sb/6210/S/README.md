@@ -1,0 +1,246 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6210](/bill/2025-26/sb/6210/) > [Substitute Bill](/bill/2025-26/sb/6210/S/)
+
+# SB 6210 - Health plan certification
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6210-S.pdf)
+
+## Section 1
+1. The legislature finds that:
+
+    a. Access to health care is fundamental to the health and safety of Washington state residents;
+
+    b. Health insurance coverage is necessary for most people to access health care;
+
+    c. Uncertainty in the health insurance marketplace is significantly impacted by the volatility in the federal legislative and regulatory environment;
+
+    d. Rising health care costs are impacting access and affordability for Washington state residents;
+
+    e. An unstable and volatile individual insurance market would be catastrophic and lead to:
+
+        i. Deteriorating health outcomes;
+
+        ii. Declining work force productivity;
+
+        iii. Lower quality of life; and
+
+        iv. Increased burdens on safety net providers from the rising demand for uncompensated care;
+
+    f. Each year, the Washington health benefit exchange board uses 19 basic criteria that were established in the affordable care act to review and certify health plans that will be offered to Washington state residents in the exchange market;
+
+    g. These 19 basic criteria do not address access and affordability issues in the exchange market; and
+
+    h. The affordable care act authorizes state exchanges to ensure that certified health plans are in the interest of the residents of the state by adopting additional health plan certification criteria to that effect. Access to and affordability of certified health plans are in the interest of residents of the state.
+
+2. [Empty]
+
+    a. Therefore, the legislature intends to authorize the Washington health benefit exchange to add criteria in the health plan certification process to address access and affordability issues impacting residents who purchase health insurance coverage on the exchange market and help reduce volatility in the exchange market.
+
+    b. However, the legislature recognizes that the office of the insurance commissioner has the primary responsibility to review and approve a health carrier's:
+
+        i. Proposed rate increases to ensure that any rate increases are reasonable, actuarially sound, nondiscriminatory, and comply with federal and state law; and
+
+        ii. Provider networks to ensure adequate access to services.
+
+## Section 2
+1. The Washington health benefit exchange is established and constitutes a self-sustaining public-private partnership separate and distinct from the state, exercising functions delineated in chapter 317, Laws of 2011. By January 1, 2014, the exchange shall operate consistent with applicable federal law subject to statutory authorization. The exchange shall have a governing board consisting of persons with expertise in the Washington health care system and private and public health care coverage. The membership of the board shall be appointed as follows:
+
+    a. Each of the two largest caucuses in both the house of representatives and the senate shall submit to the governor a list of five nominees who are not legislators or employees of the state or its political subdivisions, with no caucus submitting the same nominee.
+
+        i. The nominations from the largest caucus in the house of representatives must include at least one employee benefit specialist;
+
+        ii. The nominations from the second largest caucus in the house of representatives must include at least one health economist or actuary;
+
+        iii. The nominations from the largest caucus in the senate must include at least one representative of health consumer advocates;
+
+        iv. The nominations from the second largest caucus in the senate must include at least one representative of small business;
+
+    v. The remaining nominees must have demonstrated and acknowledged expertise in at least one of the following areas: Individual health care coverage, small employer health care coverage, health benefit plan administration, health care finance and economics, actuarial science, or administering a public or private health care delivery system.
+
+    b. The governor shall appoint two members from each list submitted by the caucuses under (a) of this subsection. The appointments made under this subsection (1)(b) must include at least one employee benefits specialist, one health economist or actuary, one representative of small business, and one representative of health consumer advocates. The remaining four members must have a demonstrated and acknowledged expertise in at least one of the following areas: Individual health care coverage, small employer health care coverage, health benefit plan administration, health care finance and economics, actuarial science, or administering a public or private health care delivery system.
+
+    c. The governor shall appoint a ninth member to serve as chair. The chair may not be an employee of the state or its political subdivisions. The chair shall serve as a nonvoting member except in the case of a tie and any decision related to market factor certification criteria as established in section 4 of this act.
+
+    d. The following members shall serve as nonvoting, ex officio members of the board:
+
+        i. The insurance commissioner or his or her designee;
+
+        ii. The administrator of the health care authority, or his or her designee; and
+
+        iii. The governor's senior policy advisor on health, who shall only attend meetings related to market factor certification criteria as established in section 4 of this act.
+
+2. Initial members of the board shall serve staggered terms not to exceed four years. Members appointed thereafter shall serve two-year terms.
+
+3. A member of the board whose term has expired or who otherwise leaves the board shall be replaced by gubernatorial appointment. Upon the expiration of a member's term, the member shall continue to serve until a successor has been appointed and has assumed office. When the person leaving was nominated by one of the caucuses of the house of representatives or the senate, his or her replacement shall be appointed from a list of five nominees submitted by that caucus within thirty days after the person leaves. If the member to be replaced is the chair, the governor shall appoint a new chair within thirty days after the vacancy occurs. A person appointed to replace a member who leaves the board prior to the expiration of his or her term shall serve only the duration of the unexpired term. Members of the board may be reappointed to multiple terms.
+
+4. No board member may be appointed if his or her participation in the decisions of the board could benefit his or her own financial interests or the financial interests of an entity he or she represents. A board member who develops such a conflict of interest shall resign or be removed from the board.
+
+5. Members of the board must be reimbursed for their travel expenses while on official business in accordance with RCW 43.03.050 and 43.03.060. The board shall prescribe rules for the conduct of its business. Meetings of the board are at the call of the chair.
+
+6. The exchange and the board are subject only to the provisions of chapter 42.30 RCW, the open public meetings act, and chapter 42.56 RCW, the public records act, and not to any other law or regulation generally applicable to state agencies. Consistent with the open public meetings act, the board may hold executive sessions to consider proprietary or confidential nonpublished information.
+
+7. [Empty]
+
+    a. The board shall establish an advisory committee to allow for the views of the health care industry and other stakeholders to be heard in the operation of the health benefit exchange.
+
+    b. The board may establish technical advisory committees or seek the advice of technical experts when necessary to execute the powers and duties included in chapter 317, Laws of 2011.
+
+8. Members of the board are not civilly or criminally liable and may not have any penalty or cause of action of any nature arise against them for any action taken or not taken, including any discretionary decision or failure to make a discretionary decision, when the action or inaction is done in good faith and in the performance of the powers and duties under chapter 317, Laws of 2011. Nothing in this section prohibits legal actions against the board to enforce the board's statutory or contractual duties or obligations.
+
+9. In recognition of the government-to-government relationship between the state of Washington and the federally recognized tribes in the state of Washington, the board shall consult with the American Indian health commission.
+
+## Section 3
+1. The board shall certify a plan as a qualified health plan to be offered through the exchange if the plan is determined by the:
+
+    a. Insurance commissioner to meet the requirements of Title 48 RCW and rules adopted by the commissioner pursuant to chapter 34.05 RCW to implement the requirements of Title 48 RCW;
+
+    b. Board to meet the requirements of applicable federal law for certification as a qualified health plan;
+
+    c. Board to meet the market factor criteria that address access and affordability as established in section 4 of this act; and
+
+    d. Board to include tribal clinics and urban Indian clinics as essential community providers in the plan's provider network consistent with federal law. If consistent with federal law, integrated delivery systems shall be exempt from the requirement to include essential community providers in the provider network.
+
+2. Consistent with applicable federal law, the board shall allow stand-alone dental plans to offer coverage in the exchange beginning January 1, 2014. Dental benefits offered in the exchange must be offered and priced separately to assure transparency for consumers.
+
+3. The board may permit direct primary care medical home plans, consistent with applicable federal law, to be offered in the exchange.
+
+4. Upon request by the board, a state agency shall provide information to the board for its use in determining if the requirements under subsection (1)(b) or (d) of this section have been met. Unless the agency and the board agree to a later date, the agency shall provide the information within sixty days of the request. The exchange shall reimburse the agency for the cost of compiling and providing the requested information within one hundred eighty days of its receipt.
+
+5. A decision by the board denying a request to certify or recertify a plan as a qualified health plan may be appealed according to procedures adopted by the board.
+
+## Section 4
+1. Each year, after the board has reviewed and certified health plans to be offered on the exchange market in the following plan year, the exchange shall review market conditions and identify access and affordability issues in the exchange market that impact the next plan year for which the exchange has not yet certified plans.
+
+2. Each year, the exchange may adopt market factor certification criteria for the next plan year to address market conditions that impact access to and affordability of qualified health plans for individuals or employers who are eligible to purchase coverage on the exchange market in Washington state. When developing the criteria, the exchange may consider whether health plans available in each county are:
+
+    a. Meaningfully different with respect to a combination of or all of these measures, as determined by the exchange:
+
+        i. Cost-sharing;
+
+        ii. Covered benefits;
+
+        iii. Premiums;
+
+        iv. Prescription drug formularies;
+
+    v. Provider networks; or
+
+    vi. Quality;
+
+    b. Offered by more than one carrier;
+
+    c. Maximizing federal premium tax credits;
+
+    d. Efficiently utilizing state premium assistance and other state investments; and
+
+    e. Offered at each metal level required by the exchange.
+
+3. Market factor certification criteria adopted under this subsection shall be:
+
+    a. Objectively defined, measurable, and consistently applied;
+
+    b. Applied uniformly to all carriers that offer or seek to offer qualified health plans on the exchange in the state;
+
+    c. Consistent with, and not duplicative of, requirements or standards established by the commissioner related to rate review, network adequacy, solvency, or actuarial soundness; and
+
+    d. Designed to complement and not conflict with applicable federal or state laws or regulations governing qualified health plans.
+
+4. Market factor certification criteria shall be developed in consultation with the commissioner and the authority, and the exchange shall consider comments from:
+
+    a. Carriers that offer or seek to offer qualified health plans on the exchange in the state;
+
+    b. Licensed health insurance producers;
+
+    c. Federally recognized tribes in the state through the American Indian health commission; and
+
+    d. Other health care stakeholders through their associations or organizations.
+
+5. [Empty]
+
+    a. For plan year 2028 and later, market factor certification criteria shall be developed in accordance with the following timeline:
+
+        i. By December 15th of the calendar year two years before the plan year in which the market factor certification criteria are to apply, the exchange shall identify preliminary criteria and provide those criteria to the commissioner and the governor;
+
+        ii. By January 15th of the calendar year before the plan year in which the market factor certification criteria are to apply, the commissioner and the governor may submit to the exchange a written objection to any of the preliminary criteria;
+
+        iii. By January 31st of the calendar year before the plan year in which the market factor certification criteria are to apply, the exchange shall provide a written response to any objection, including whether and how the objection was addressed and what criteria were amended or removed based on the objection;
+
+        iv. By January 31st of the calendar year before the plan year in which the market factor certification criteria are to apply, the exchange shall publish the notice of the proposed market factor certification criteria on the exchange website and distribute the notice electronically to any person requesting the notice. The notice shall include:
+
+(A) An explanation of the proposed market factor certification criteria;
+
+(B) The time, date, and place for a public hearing; and
+
+(C) The procedures and timelines for submitting written comments and supporting information;
+
+    v. No later than five business days before the publication of the final market factor certification criteria, the exchange shall hold at least one public hearing;
+
+    vi. By March 1st of the calendar year before the plan year in which the market factor certification criteria are to apply, the exchange shall provide written notice of the final market factor certification criteria to carriers that offer health plans subject to certification under RCW 43.71.065, and shall publish the notice of the final market factor certification criteria on the exchange website and distribute the notice electronically to any person requesting the notice;
+
+    vii. After March 1st of the calendar year before the plan year in which the market factor certification criteria are to apply, the exchange may only modify the market factor certification criteria as necessary to respond to any applicable changes to state or federal laws or regulations. Any modification initiated under this subsection that impacts a carrier's preliminary health plan filings is only in effect if agreed to by the commissioner.
+
+    b. For plan year 2027, market factor certification criteria shall be developed in accordance with procedures established by the exchange.
+
+6. [Empty]
+
+    a. The exchange may require a carrier that intends to offer qualified health plans on the exchange to submit information, including the carrier's proposed service areas and proposed plan offerings on the exchange, and how the carrier intends to meet the market factor certification criteria.
+
+    b. No earlier than March 1st and no later than May 1st each year, the carrier shall provide the information to the exchange. The specific date must be determined by the exchange before March 1st.
+
+7. [Empty]
+
+    a. A carrier may request a waiver of the market factor certification criteria.
+
+    b. Requests for a waiver must be submitted to the exchange at a date specified by the exchange but will be no earlier than March 1st and no later than 14 days prior to the deadline established by the commissioner each year for preliminary health plans filings.
+
+    c. In evaluating a request for a waiver, the exchange may:
+
+        i. Review information that demonstrates the carrier attempted to meet the market factor certification criteria, such as information that the carrier made a good faith effort to contract with providers to establish an adequate network, the cost of the potential provider network, the direction and magnitude of premium impact, legal prohibitions, or other barriers that impact the carrier's ability to offer coverage in certain service areas, and any impact on other service areas;
+
+        ii. Request that the carrier submit information about service areas that would be in place with the market factor certification criteria and if the waiver were granted;
+
+        iii. Consider the totality of the proposed qualified health plans and the impact of granting or not granting the waiver of the market factor certification criteria on the interests of Washington state residents.
+
+    d. The exchange shall conclude any waiver determinations regarding market factor certification criteria from any carrier that has requested a waiver prior to the carrier submitting preliminary health plan filings for the upcoming plan year to the commissioner.
+
+8. Any information and data submitted by a carrier to the exchange under this section is confidential and not subject to public disclosure under chapter 42.56 RCW. If any rate information is received by the exchange from a carrier, that information is confidential and may not be disclosed or communicated to the public or to any other carrier before the commissioner makes the corresponding rate filing information available for public inspection under RCW 48.02.120(5)(a).
+
+9. Market factor certification criteria may not impose network participation requirements or reimbursement limits on hospitals or providers except as otherwise required by federal or state laws.
+
+10. Nothing in this section prohibits a carrier from offering a health plan that does not meet the requirements in RCW 43.71.065 in the individual market or small group market outside the exchange.
+
+11. [Empty]
+
+    a. By July 1st of each year, beginning in 2030, the exchange, in consultation with the commissioner and authority, shall submit to the legislature a report that includes:
+
+        i. The following information about the exchange and the individual and small group market outside the exchange:
+
+(A) Total enrollment;
+
+(B) Subsidized and unsubsidized enrollment;
+
+(C) Health plan premiums; and
+
+(D) Number of people no longer eligible for medicaid coverage and enrolling in a health plan;
+
+        ii. Percentage of enrollees by county, who are enrolled in a qualified health plan on the exchange and who receive federal premium tax credits, state premium assistance, or both;
+
+        iii. The number of market factor certification criteria waivers:
+
+(A) Requested by a carrier and reasons for the request; and
+
+(B) Granted by the exchange;
+
+        iv. Other relevant information, as determined by the exchange, commissioner, or authority.
+
+    b. The initial report in 2030 shall include information for plan years 2028 and 2029.
+
+12. Nothing in this section or in the market factor certification criteria shall create requirements that cause a health plan premium to be actuarially unsound.
+
+## Section 5
+Any information or data submitted by a health carrier to the health benefit exchange for the purposes of the market factor certification criteria under section 3 of this act is confidential and exempt from disclosure under this chapter.
+
+## Section 6
+Beginning April 1, 2026, for any county with one or fewer carriers offering health plans during the plan year, the exchange and the commissioner shall jointly work with the carriers participating in the exchange and hospitals operating in the county to discuss a pathway to have at least two carriers offer health plans in that county during the upcoming plan year, including hospitals contracting with at least two carriers to provide in-network services.
+
+## Section 7
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

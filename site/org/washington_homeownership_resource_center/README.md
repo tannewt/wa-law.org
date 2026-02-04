@@ -38,7 +38,7 @@
 
 ### [HB 2151](/bill/2025-26/hb/2151/) - Factory built structures 👍2  
 
-### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission 👍1  
+### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission 👍2  
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 

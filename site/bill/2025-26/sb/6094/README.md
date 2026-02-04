@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Working to secure sustainable funding for Maddie’s Place - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/30/working-to-secure-sustainable-funding-for-maddies-place/#:~:text=Senate%20Bill%206094)

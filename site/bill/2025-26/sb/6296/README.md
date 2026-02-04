@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6296 Involuntary treatment

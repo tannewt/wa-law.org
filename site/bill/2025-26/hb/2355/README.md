@@ -15,6 +15,15 @@
 * 01/16/2026 [The Washington Observer](/org/the_washington_observer/) - [Domestic worker protections makes a return](https://washingtonobserver.substack.com/p/domestic-worker-protections-makes#:~:text=HB%202355)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2355 Domestic workers
+Sign up to testify:
+
+#### 22 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2355 Domestic workers
 #### 479 👍 - Pro
 Testifying:

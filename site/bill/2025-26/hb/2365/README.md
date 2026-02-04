@@ -16,9 +16,11 @@
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2365 Digital opportunities
 Sign up to testify:
 
-#### 14 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Ernie Rasmussen - Bigfoot Telecommunications of the Colville Tribes
 
-#### 0 👎 - Con
+#### 41 👎 - Con
 
 #### 0 ❓ - Other
 

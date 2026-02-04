@@ -11,7 +11,7 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2384 Continuing care retirement
 Sign up to testify:
 
-#### 98 👍 - Pro
+#### 150 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6302 Public works/finishing trade
