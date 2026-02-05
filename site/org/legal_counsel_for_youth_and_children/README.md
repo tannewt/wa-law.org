@@ -55,7 +55,7 @@
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍4  
 
-### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍1  
+### [HB 1591](/bill/2025-26/hb/1591/) - Defendant survivors 👍1  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -87,6 +87,9 @@
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Kat Lohman
+
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+* 👍💵 Roxana Gomez
 
 ### [HB 2412](/bill/2025-26/hb/2412/) - Superior court judge/Yakima 👍1  
 
@@ -212,19 +215,21 @@
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
-### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎2 
 * 👎 Rhea Yo
+* 👎💵 Roxana Gomez
 
 ### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓1
 * ❓ Annie Chung
 
-## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍1  
+### [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍1  
 * 👍 Annie Chung
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare time extension 👍1  
-* 👍 Annie Chung
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

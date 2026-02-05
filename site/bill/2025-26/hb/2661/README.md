@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2026 [The Center Square](/org/the_center_square/) - [WA bill would create a task force to 'gut' Public Records Act, critic says | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f48ec422-c656-42e2-9e32-a968d48e6324.html#:~:text=House%20Bill%202661)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=HB%202661)
 
 ## Meetings

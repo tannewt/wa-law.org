@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2325/</link>
 		<description>Updates about HB 2325</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 10:40:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,6 +106,46 @@
 			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-30/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍Annie McGrath - State of Washington Tourism</title>
+			<description>Annie McGrath signed up to testify Pro. They are signed up to represent State of Washington Tourism.</description>
+			<pubDate>Wed, 04 Feb 2026 10:28:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Annie/McGrath/2026-02-04 10:28:27</guid>
+		</item>
+		<item>
+			<title>👍Anthony Anton - Washington Hospitality Association</title>
+			<description>Anthony Anton signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_hospitality_association/"&gt;Washington Hospitality Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 04 Feb 2026 10:28:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anthony/Anton/2026-02-04 10:28:27</guid>
+		</item>
+		<item>
+			<title>👍Mike Moe - State of Washington Tourism</title>
+			<description>Mike Moe signed up to testify Pro. They are signed up to represent State of Washington Tourism.</description>
+			<pubDate>Wed, 04 Feb 2026 10:28:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Moe/2026-02-04 10:28:27</guid>
+		</item>
+		<item>
+			<title>👍💵Daniel Olson - Washington Brewers Guild</title>
+			<description>Daniel Olson signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_brewers_guild/"&gt;Washington Brewers Guild&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 04 Feb 2026 10:40:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Olson/2026-02-04 10:40:35</guid>
+		</item>
+		<item>
+			<title>👍Josh McDonald - Washington Wine Institute</title>
+			<description>Josh McDonald signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_wine_institute/"&gt;Washington Wine Institute&lt;/a&gt;.</description>
+			<pubDate>Wed, 04 Feb 2026 10:40:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Josh/McDonald/2026-02-04 10:40:35</guid>
 		</item>
 	</channel>
 </rss>

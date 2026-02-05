@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/04/2026 [The Burner](/org/the_burner/) - [Almost Every WA Senate Democrat Supports The Millionaires Tax — The Four Holdouts Are Not Surprising](https://www.theburnerseattle.com/post/almost-every-senate-democrat-supports-the-millionaires-tax-the-four-holdouts-are-not-surprising#:~:text=SB%205797)
 * 02/02/2026 [The Center Square](/org/the_center_square/) - [Nearly 2,200 Seattle-area jobs included in latest round of Amazon corporate layoffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dae5582-8f54-43fa-b6ec-0fab01798478.html#:~:text=wealth)
 * 01/29/2026 [The Center Square](/org/the_center_square/) - [Tech sector gloom prompts worries of an economic slowdown in Seattle | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_197077b9-c22c-4adc-9704-072866c0ca1e.html#:~:text=wealth)
 * 11/19/2025 [KUOW](/org/kuow/) - [KUOW - Downbeat outlook persists in WA’s final budget forecast of the year](https://www.kuow.org/stories/downbeat-outlook-persists-in-wa-s-final-budget-forecast-of-the-year#:~:text=untested%20“wealth%20tax”)

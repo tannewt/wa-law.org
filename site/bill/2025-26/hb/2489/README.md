@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/03/2026 [The Center Square](/org/the_center_square/) - [WA Democrats advance bills that could gut local camping bans with unfunded mandates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_05bacfdb-8875-4524-96b1-ace1d2068df0.html#:~:text=House%20Bill%202489)

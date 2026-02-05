@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/02 01:30 PM - Human Services (HS): SB 6007 DCYF assessment practices

@@ -5,11 +5,23 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=affordability and durability of%20appliances)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6124 Appliance afford. index
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): SB 6124 Appliance afford. index
 #### 40 👍 - Pro
 Testifying:

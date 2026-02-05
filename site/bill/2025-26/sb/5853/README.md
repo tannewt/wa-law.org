@@ -11,9 +11,13 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5853 Public official notification
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Esther Click - WA APCO-NENA
+* Karl Hatton - WA APCO-NENA
+* Katy Myers - WA APCO-NENA
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

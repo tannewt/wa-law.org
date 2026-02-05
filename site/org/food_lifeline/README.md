@@ -88,13 +88,16 @@
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 * 👍💵 Aaron Czyzewski
 
-## [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Aaron Czyzewski
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+* 👍💵 Aaron Czyzewski
 
 ## 2023-24
 
-### [SB 5998](/bill/2023-24/sb/5998/) - Operating budget, supp.   ❓1
-* ❓💵 Aaron Czyzewski
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+* 👍💵 Aaron Czyzewski
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 * 👍💵 Aaron Czyzewski

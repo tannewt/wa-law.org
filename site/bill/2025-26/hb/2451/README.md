@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 08:00 AM - Finance (FIN): SHB 2451 Local tax increment fin.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2451 Local tax increment fin.
 #### 81 👍 - Pro
 Testifying:

@@ -78,11 +78,13 @@
 
 ### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍1  
 
-## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
+### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎2 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

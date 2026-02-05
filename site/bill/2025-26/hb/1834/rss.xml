@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1834/</link>
 		<description>Updates about HB 1834</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -516,6 +516,34 @@
 			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-02/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 3rd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 3rd substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/APP - Majority; 3rd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-02/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

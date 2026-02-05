@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/04/2026 [Washington State Standard](/org/washington_state_standard/) - [With rally and ‘listening sessions’, WA initiative supporters deliver their message • Washington State Standard](https://washingtonstatestandard.com/2026/02/04/with-rally-and-listening-sessions-wa-initiative-supporters-deliver-their-message/#:~:text=House%20Bill%201296)
 * 01/22/2026 [Washington State Standard](/org/washington_state_standard/) - [State senator is latest Republican to join central WA congressional race • Washington State Standard](https://washingtonstatestandard.com/2026/01/22/state-senator-is-latest-republican-to-join-central-wa-congressional-race/#:~:text=a%20law%20passed%20last%20year)
 * 01/13/2026 [The Center Square](/org/the_center_square/) - [Watchdog org demands WA Legislature hold hearings on two initiatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_20cb568b-970a-49b3-98cb-cd1674bc4aad.html#:~:text=House%20Bill%201296)
 * 12/23/2025 [Senate Democrats](/org/senate_democrats/) - [Getting ready for the 2026 session - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/12/23/getting-ready-for-the-2026-session/#:~:text=HB%201296)

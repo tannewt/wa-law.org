@@ -18,7 +18,7 @@
 
 ### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
 
-### [HB 2200](/bill/2025-26/hb/2200/) - Increasing access to data related to the safety and stability of residential settings for individuals with developmental disabilities.   ❓1
+### [HB 2200](/bill/2025-26/hb/2200/) - DD residential settings data   ❓1
 * ❓ Scott Livengood
 
 ### [HB 2230](/bill/2025-26/hb/2230/) - DD res. service providers 👍2  

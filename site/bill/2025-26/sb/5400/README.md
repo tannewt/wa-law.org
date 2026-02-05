@@ -19,7 +19,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5400 Local news journalism
 Sign up to testify:
 
-#### 541 👍 - Pro
+#### 693 👍 - Pro
 Testifying:
 * David Fischrr - KNKX Radio
 * Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
@@ -34,7 +34,9 @@ Testifying:
 * Neal Boling - KHQ-TV, KNDO-TV, and KNDU-TV
 * Neal Boling - KHQ-TV, KNDO-TV, KNDU-TV
 
-#### 570 👎 - Con
+#### 899 👎 - Con
+Testifying:
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 
 #### 0 ❓ - Other
 

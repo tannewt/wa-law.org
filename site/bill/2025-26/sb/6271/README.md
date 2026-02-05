@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 02/04 08:00 AM - Environment, Energy & Technology (ENET): SB 6271 Mattress producer resp.
-Sign up to testify:
-
-#### 458 👍 - Pro
+#### 464 👍 - Pro
 Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
 * Amy Ockerlander - King County Solid Waste Division
@@ -18,9 +16,10 @@ Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 
-#### 135 👎 - Con
+#### 175 👎 - Con
 Testifying:
 * Alison Keane - International Sleep Products Association
 * Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Rose Gundersen - WA Retail Association
 
 #### 0 ❓ - Other

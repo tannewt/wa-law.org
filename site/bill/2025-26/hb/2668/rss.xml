@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2668/</link>
 		<description>Updates about HB 2668</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 06:11:12 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Madoleen/Goddard/2026-02-03 06:11:12</guid>
+		</item>
+		<item>
+			<title>AGNR - Executive action taken by committee.</title>
+			<description>AGNR - Executive action taken by committee.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/AGNR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>AGNR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>AGNR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/AGNR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Capital Budget.</title>
+			<description>Referred to Capital Budget.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Capital Budget.</guid>
 		</item>
 	</channel>
 </rss>

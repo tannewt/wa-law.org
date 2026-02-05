@@ -10,8 +10,14 @@
 ### Thu 02/05 01:30 PM - Transportation (TRAN): SB 6345 Transportation contracting
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 161 👍 - Pro
+Testifying:
+* Jerry VanderWood - AGC
+* 💵Billy Wallace - Washington and Northern Idaho District Council of Laborers
+* Stacy Martin - Washington and Northern Idaho District Council of Laborers
 
-#### 1 👎 - Con
+#### 66 👎 - Con
+Testifying:
+* 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

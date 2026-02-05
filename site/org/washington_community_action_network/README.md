@@ -24,11 +24,13 @@
 
 ### [HB 2283](/bill/2025-26/hb/2283/) - Medical loss ratio 👍2  
 
-## [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
+
+## [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
 
 ## 2023-24
 
-### [SB 5083](/bill/2023-24/sb/5083/) - Health carrier reimbursement 👍1  
+### [SB 5387](/bill/2023-24/sb/5387/) - Corp practice of health care 👍1  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Joelle Craft

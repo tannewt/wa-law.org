@@ -18,6 +18,8 @@
 * 👍 Steve DuPont
 * 👍 Steve DuPont
 
+### [HB 1316](/bill/2025-26/hb/1316/) - Expanding the scope of programs for postsecondary students experiencing homelessness and former foster youth. 👍1  
+
 ### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
 
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
@@ -70,7 +72,7 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍3  
 
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎3 
 

@@ -21,6 +21,8 @@
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
 
+### [HB 1316](/bill/2025-26/hb/1316/) - Expanding the scope of programs for postsecondary students experiencing homelessness and former foster youth. 👍1  
+
 ### [HB 1337](/bill/2025-26/hb/1337/) - Higher education presidents 👍1  
 * 👍 Joe Dacca
 
@@ -144,7 +146,7 @@
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍6  
 
 ### [SB 5985](/bill/2025-26/sb/5985/) - Endometriosis 👍1  
 * 👍 Aparna Ramanathan
@@ -167,11 +169,13 @@
 
 ### [SB 6259](/bill/2025-26/sb/6259/) - Higher ed./damage by student  👎2 
 
-## [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
+### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6325](/bill/2023-24/sb/6325/) - Higher education procedures 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

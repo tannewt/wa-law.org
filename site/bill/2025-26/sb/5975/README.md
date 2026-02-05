@@ -5,8 +5,20 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5975 Safe cookware
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 5975 Safe cookware
 #### 61 👍 - Pro
 Testifying:

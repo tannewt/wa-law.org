@@ -31,6 +31,9 @@
 ### [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration   ❓1
 * ❓ Shawn Merchant
 
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
+* 👍 Shawn Merchant
+
 ## [SB 6086](/bill/2025-26/sb/6086/) - Judicial security   ❓1
 * ❓ Heather Hirotaka
 

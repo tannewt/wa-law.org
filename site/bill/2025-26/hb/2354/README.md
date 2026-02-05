@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2354 Common interest communities

@@ -66,7 +66,8 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
+* 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
 ### [HB 2228](/bill/2025-26/hb/2228/) - Scissor stairs 👍1  
@@ -76,6 +77,8 @@
 * 👍💵 Dan Bertolet
 
 ### [HB 2381](/bill/2025-26/hb/2381/) - Low-rise res. buildings 👍1  
+
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review 👍1  
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones 👍1  
 * 👍💵 Dan Bertolet
@@ -137,10 +140,11 @@
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
 * 👍💵 Dan Bertolet
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍1  
 * 👍💵 Dan Bertolet
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [SB 6028](/bill/2025-26/sb/6028/) - Homeownership dev. loans 👍1  

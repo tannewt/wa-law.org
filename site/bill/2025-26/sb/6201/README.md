@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/28 10:30 AM - Housing (HSG): SB 6201 Social housing agencies/tax

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5882 Correctional workers/stress
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 10:30 AM - Labor & Commerce (LC): SB 5882 Correctional workers/stress
 #### 27 👍 - Pro
 Testifying:

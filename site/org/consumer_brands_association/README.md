@@ -8,7 +8,8 @@
 * 👎💵 Erin Raden
 * 👎 Holly Chisas
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎2 
+* 👎💵 Erin Raden
 * 👎💵 Erin Raden
 
 ## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 

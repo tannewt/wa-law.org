@@ -16,10 +16,10 @@
 * 👍 Carl Florea
 * 👍 Carl Florea
 
-## [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
+## [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍1  
 
 ## 2023-24
 
-### [SB 6015](/bill/2023-24/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
+### [SB 6015](/bill/2023-24/sb/6015/) - Residential building plans 👍1  
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  

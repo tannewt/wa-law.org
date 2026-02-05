@@ -10,15 +10,17 @@
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 1367 Right shoulder/motorcycles
 Sign up to testify:
 
-#### 102 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * LARRY WALKER - ABATE of WA  (Motorcyclists)
 * Kaya Ahladis
 * Nathan Sharp
+* Janelle Bailey
 
-#### 4 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Captain Deion Glover - Washington State Patrol
 
 #### 1 ❓ - Other
 

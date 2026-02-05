@@ -454,7 +454,8 @@
 
 ### [HB 2122](/bill/2025-26/hb/2122/) - Hospital influenza imm.  👎1 
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎2 
+* 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 
 ### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
@@ -486,7 +487,8 @@
 
 ### [HB 2257](/bill/2025-26/hb/2257/) - Tax administration   ❓1
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
@@ -564,6 +566,9 @@
 ### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
 * 👎💵 Peter Godlewski
 
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  
+* 👍💵 Emily Wittman
+
 ### [HB 2575](/bill/2025-26/hb/2575/) - Environmental reporting 👍1  
 
 ### [HB 2577](/bill/2025-26/hb/2577/) - Hospital inspections 👍1  
@@ -573,6 +578,8 @@
 ### [HB 2585](/bill/2025-26/hb/2585/) - State false claims act  👎1 
 
 ### [HB 2605](/bill/2025-26/hb/2605/) - Fibrous silicate materials 👍1  
+
+### [HB 2615](/bill/2025-26/hb/2615/) - Tax voluntary disclosure 👍1  
 
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
 * 👎💵 Emily Wittman
@@ -938,7 +945,8 @@
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
 * 👍 Max Martin
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎2 
+* 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities  👎1 

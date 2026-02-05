@@ -18,6 +18,15 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201634)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): 2SHB 1634 Behavioral health/schools
+Sign up to testify:
+
+#### 5 👍 - Pro
+
+#### 11 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 04:00 PM - Education (ED): HB 1634 Behavioral health/schools
 #### 71 👍 - Pro
 Testifying:

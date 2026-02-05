@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/01/30/legislative-action-to-keep-our-communities-safe-and-supported/#:~:text=SB%206286)

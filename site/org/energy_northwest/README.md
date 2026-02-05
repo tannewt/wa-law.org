@@ -69,11 +69,15 @@
 
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 
-## [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍1  
+### [SB 6076](/bill/2025-26/sb/6076/) - Utility procurement 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
+* 👎 Daniel Himebaugh
 
 ## 2023-24
 
-### [SB 6076](/bill/2023-24/sb/6076/) - Utility procurement 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎1 
+* 👎 Daniel Himebaugh
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

@@ -61,7 +61,7 @@
 ### [HB 2112](/bill/2025-26/hb/2112/) - Adult content/age minimum  👎1 
 * 👎 Cassie Clayton
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 * 👍 Cassie Clayton
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
@@ -143,13 +143,16 @@
 
 ### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
 
-## [SB 6101](/bill/2025-26/sb/6101/) - Coroner appointment 👍1  
+### [SB 6101](/bill/2025-26/sb/6101/) - Coroner appointment 👍1  
 * 👍 Cassie Clayton
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍 Andrew Villeneuve
 
 ## 2023-24
 
-### [SB 6101](/bill/2023-24/sb/6101/) - Coroner appointment 👍1  
-* 👍 Cassie Clayton
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+* 👍 Andrew Villeneuve
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

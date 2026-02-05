@@ -16,7 +16,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5901 On-base school construction
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Kimberly Headrick - Medical Lake School District

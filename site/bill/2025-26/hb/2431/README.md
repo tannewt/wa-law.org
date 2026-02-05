@@ -10,7 +10,9 @@
 ### Thu 02/05 08:00 AM - Finance (FIN): HB 2431 Nonprofit halls/fundraising
 Sign up to testify:
 
-#### 15 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* Steve Singhose - Crescent Grange #1123
 
 #### 0 👎 - Con
 

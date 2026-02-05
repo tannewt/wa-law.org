@@ -46,6 +46,10 @@
 ### [HB 2415](/bill/2025-26/hb/2415/) - DSHS unexpected fatalities 👍2  
 * 👍💵 Stacy Dym
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  
 * 👍💵 Stacy Dym
 
@@ -69,7 +73,7 @@
 ### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍2  
 * 👍💵 Stacy Dym
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 
 ### [SB 6024](/bill/2025-26/sb/6024/) - DD res. service providers 👍1  
 

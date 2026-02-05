@@ -14,11 +14,15 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2215 Fuels/climate commitment act
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 588 👎 - Con
+#### 986 👎 - Con
+Testifying:
+* 💵Darren Engle - [Pacific Propane Gas Association](/org/pacific_propane_gas_association/)
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* Marcus Mosley - Co-Energy
 
 #### 0 ❓ - Other
 

@@ -12,12 +12,28 @@
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to update WA College Grant, College Bound Scholarship awards for private nonprofit institutions heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/15/nobles-bill-to-update-wa-college-grant-college-bound-scholarship-awards-for-private-nonprofit-institutions-heard-in-committee/#:~:text=Senate%20Bill%205828)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5828 College scholarships/private
+Sign up to testify:
+
+#### 27 👍 - Pro
+
+#### 6 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5828 College scholarships/private
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 623 👍 - Pro
+Testifying:
+* JULIE WOLTER - DEAN SCHOOL OF HEALTH SCIENCES , GONZAGA UNIVERSITY
+* Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Josiah Tiblow - Washington College Grant, College Bound Scholarship recipient
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
+* Curtis Guaglianone - Mt. Adams School District
+* Hector Marmolejo-Avila - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

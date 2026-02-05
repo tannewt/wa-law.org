@@ -43,6 +43,8 @@
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍2  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
@@ -74,11 +76,13 @@
 
 ### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
 
-## [SB 6320](/bill/2025-26/sb/6320/) - Alternative learning 👍2  
+### [SB 6320](/bill/2025-26/sb/6320/) - Alternative learning 👍2  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍4  
 
 ## 2023-24
 
-### [SB 6320](/bill/2023-24/sb/6320/) - Alternative learning 👍2  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍4  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith

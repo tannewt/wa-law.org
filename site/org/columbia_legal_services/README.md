@@ -44,7 +44,7 @@
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍3  
 * 👍💵 Hannah Woerner
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍2  
+### [HB 1239](/bill/2025-26/hb/1239/) - Reentry readiness/DOC 👍2  
 
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 * 👍💵 Sarah Nagy
@@ -108,7 +108,7 @@
 
 ### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
 
-### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍2  
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍3  
 * 👍💵 Sarah Nagy
 
 ### [HB 2403](/bill/2025-26/hb/2403/) - Sex offenders/registration 👍1  
@@ -229,7 +229,7 @@
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍1  
 * 👍💵 Hannah Woerner
 
-### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎2 
 * 👎💵 Antonio Ginatta
 
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 

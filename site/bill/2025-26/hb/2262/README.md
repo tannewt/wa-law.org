@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/29 08:00 AM - Education (ED): HB 2262 Signature education

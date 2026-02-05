@@ -58,10 +58,10 @@ Testifying:
 
 #### 336 👎 - Con
 Testifying:
-* Richard Moser - Washington Hosts Collaborative Alliance
-* Allison Moser - Washington Hosts Collaborative Alliance
+* Richard Moser - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
+* Allison Moser - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * Ann Jolie
-* Carolyn Allen - Washington Hosts Collaborative Alliance
+* Carolyn Allen - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * Thomas McCarthy
 * Hernan Savastano
 * 💵Rose Feliciano - TechNet
@@ -121,7 +121,7 @@ Testifying:
 Testifying:
 * Owen Johnson - Propertyfinderz, Co
 * Richard Moser - Washington hosts collaborative alliance
-* Allison Moser - Washington Hosts Collaborative Alliance
+* Allison Moser - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * ROBBIE WRIGHT - Bloomer Estates Vacation Rentals
 * 💵Jake Mayson - Greater Spokane Inc.
 * Sean Lynn - Founder and CEO of Love Leavenworth Vacation Rentals
@@ -148,7 +148,7 @@ Testifying:
 * Lynne Green
 * Steve Carr
 * Kirsten Evangelista
-* Carolyn Allen - Washington Hosts Collaborative Alliance
+* Carolyn Allen - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * Sue Ellen White
 * Karim Elmaaroufi
 * Donald Ryan - Private citizen

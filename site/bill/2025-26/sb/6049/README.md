@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/02/2026 [The Center Square](/org/the_center_square/) - [WA bill to protect students would also exempt some gov employee info from disclosure | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8cccbac8-b656-408e-b611-ad419d8df91d.html#:~:text=Senate%20Bill%206049)

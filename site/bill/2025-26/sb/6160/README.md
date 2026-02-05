@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%206160)

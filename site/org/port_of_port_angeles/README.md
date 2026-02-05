@@ -14,7 +14,7 @@
 
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 

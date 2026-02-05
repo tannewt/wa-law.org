@@ -5,8 +5,20 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6062 Criminal offenses under 18
+Sign up to testify:
+
+#### 15 👍 - Pro
+
+#### 6 👎 - Con
+Testifying:
+* Jennifer Gregerson - City of Everett, Government Affairs Director
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 01:30 PM - Human Services (HS): SB 6062 Criminal offenses under 18
 #### 481 👍 - Pro
 Testifying:

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/03/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: If you’re reading this online, you’re using a data center | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_54e241ed-bb68-44a2-b008-6ea3ba8e20e4.html#:~:text=House%20Bill%202515)

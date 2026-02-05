@@ -51,7 +51,7 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
-### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍1  
+### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍2  
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
 
@@ -140,7 +140,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
@@ -150,9 +150,11 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
-### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍1  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
+
+### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍2  
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
@@ -174,6 +176,8 @@
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
@@ -181,6 +185,8 @@
 ### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍1  
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
+
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
 
@@ -249,6 +255,8 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
@@ -302,9 +310,11 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍2  
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
+
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
@@ -329,6 +339,8 @@
 ### [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
 
 ### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
 

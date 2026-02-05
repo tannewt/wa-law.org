@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5973/</link>
 		<description>Updates about SB 5973</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 04:56:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -483,6 +483,13 @@
 			<pubDate>Wed, 28 Jan 2026 04:56:23 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%205973</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -15,15 +15,21 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2210 Local government elections
 Sign up to testify:
 
-#### 337 👍 - Pro
+#### 621 👍 - Pro
 Testifying:
 * James Wang
+* 💵Nilu Jenks - FairVote Washington
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* 💵Denisse Guerrero - Washington for Equitable Representation
+* Ryan Kirby - Ranked Choice Voting Resource Center
 
-#### 662 👎 - Con
+#### 1187 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Laurie Layne
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Cemal Richards
+* Sharon Hanek
 
 #### 1 ❓ - Other
 

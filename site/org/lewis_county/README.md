@@ -22,12 +22,14 @@
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
 
-## [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎1 
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
 * 👎 Mindy Brooks
 
 ## 2023-24
 
-### [SB 6026](/bill/2023-24/sb/6026/) - Residential dev./zones  👎1 
+### [SB 6026](/bill/2023-24/sb/6026/) - Residential dev./zones  👎2 
 * 👎 Mindy Brooks
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  

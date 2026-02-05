@@ -10,6 +10,15 @@
 * [Second Engrossed Substitute](S.E2/)
 
 ## Meetings
+### Tue 02/10 08:30 AM - Health Care & Wellness (HCW): 2ESSB 5594 Biosimilar medicines
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/26 01:30 PM - Health Care & Wellness (HCW): ESSB 5594 Biosimilar medicines
 #### 7 👍 - Pro
 Testifying:

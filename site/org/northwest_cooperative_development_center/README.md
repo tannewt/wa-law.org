@@ -50,7 +50,8 @@
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 
-### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍2  
+### [HB 2590](/bill/2025-26/hb/2590/) - Limited equity cooperatives 👍4  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1

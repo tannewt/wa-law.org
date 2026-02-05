@@ -57,7 +57,7 @@
 
 ### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍3  
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
@@ -85,7 +85,7 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
-### [HB 2240](/bill/2025-26/hb/2240/) - Concerning the delivery, execution, acceptance, and provisions of individual storage space rental agreements and modifying the use of individual storage spaces after notice of termination or nonrenewal of rental agreements.  👎1 
+### [HB 2240](/bill/2025-26/hb/2240/) - Storage space rentals  👎1 
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
@@ -100,6 +100,8 @@
 * 👍💵 Marcy Bowers
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
 
@@ -196,13 +198,14 @@
 ### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍2  
 * 👍 Molly Gallagher
 
-## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
+### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
 * 👎 Molly Gallagher
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎2 
-* 👎 Molly Gallagher
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

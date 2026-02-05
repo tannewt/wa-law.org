@@ -5,8 +5,18 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6284 AI consumer protections
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 6284 AI consumer protections
 #### 16 👍 - Pro
 Testifying:

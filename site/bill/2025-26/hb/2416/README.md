@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/13/2026 [The Center Square](/org/the_center_square/) - [Spokane proposes 'glide path' to stop $8M in climate fees from hitting taxpayers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_acce3f6d-2290-4574-b98b-c83fc4790cea.html#:~:text=House%20Bill%202416)

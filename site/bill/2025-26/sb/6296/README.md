@@ -8,6 +8,17 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6296 Involuntary treatment
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 5 👎 - Con
+Testifying:
+* Laura Van Tosh
+
+#### 0 ❓ - Other
+
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6296 Involuntary treatment
 #### 12 👍 - Pro
 Testifying:

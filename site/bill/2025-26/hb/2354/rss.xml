@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2354/</link>
 		<description>Updates about HB 2354</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 06:33:40 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dylan/Doty/2026-01-27 06:33:40</guid>
+		</item>
+		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CRJ - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CRJ - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/CRJ - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

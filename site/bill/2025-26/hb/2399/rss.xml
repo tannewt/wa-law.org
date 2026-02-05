@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2399/</link>
 		<description>Updates about HB 2399</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Jan 2026 12:19:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,41 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rory/Paine-Donovan/2026-01-22 12:19:38</guid>
+		</item>
+		<item>
+			<title>CPB - Executive action taken by committee.</title>
+			<description>CPB - Executive action taken by committee.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CPB - Majority; do pass.</title>
+			<description>CPB - Majority; do pass.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/CPB - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

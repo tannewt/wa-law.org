@@ -21,13 +21,16 @@
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
-## [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
+### [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
 * 👍 Rachel Downes
+
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6256](/bill/2023-24/sb/6256/) - Unoccupied housing/tax 👍1  
-* 👍 Rachel Downes
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees  👎1 
 

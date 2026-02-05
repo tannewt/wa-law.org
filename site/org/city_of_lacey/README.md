@@ -6,13 +6,16 @@
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
 * 👎 Shannon Vincent
 
-## [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 * 👎 sarah schelling
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
+* 👎 Shannon Vincent
 
 ## 2023-24
 
-### [SB 5729](/bill/2023-24/sb/5729/) - Housing permitting  👎1 
-* 👎 sarah schelling
+### [SB 6026](/bill/2023-24/sb/6026/) - Residential dev./zones  👎1 
+* 👎 Shannon Vincent
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
 

@@ -10,6 +10,17 @@
 * [Third Substitute](S3/)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): 3SHB 1960 Renewable energy
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 1960 Renewable energy
 #### 247 👍 - Pro
 Testifying:

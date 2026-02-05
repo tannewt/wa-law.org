@@ -47,7 +47,7 @@
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍1  
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍3  
+### [HB 1239](/bill/2025-26/hb/1239/) - Reentry readiness/DOC 👍3  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍3  
 
@@ -63,7 +63,7 @@
 
 ### [HB 1396](/bill/2025-26/hb/1396/) - Office of corrections ombuds 👍1  
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍2  
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍3  
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  
 
@@ -106,7 +106,7 @@
 * 👍 Alison McCaffree
 * 👍 Alison McCaffree
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content   ❓1
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍1  ❓1
 
 ### [HB 2279](/bill/2025-26/hb/2279/) - Agriculture/PFAS chemicals 👍1  
 
@@ -116,7 +116,7 @@
 
 ### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍2  
 
-### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  
+### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍2  
 
 ### [HB 2369](/bill/2025-26/hb/2369/) - Local foods/public schools 👍1  
 
@@ -151,6 +151,8 @@
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 * 👍 Lydia Zepeda
+
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍2  
 
@@ -221,7 +223,7 @@
 ### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
 * 👍 Alison McCaffree
 
-### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍2  
 * 👍 Ann Murphy
 
 ### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
@@ -255,11 +257,15 @@
 
 ### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 
-## [SB 6313](/bill/2025-26/sb/6313/) - Capitol centennial account 👍1  
+### [SB 6313](/bill/2025-26/sb/6313/) - Capitol centennial account 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+* 👍 Karen Crowley
 
 ## 2023-24
 
-### [SB 6313](/bill/2023-24/sb/6313/) - Capitol centennial account 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+* 👍 Karen Crowley
 
 ### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption  👎1 ❓1
 * ❓ Sherri Dysart

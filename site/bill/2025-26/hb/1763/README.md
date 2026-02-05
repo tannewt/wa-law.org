@@ -32,17 +32,17 @@ Testifying:
 
 #### 690 👎 - Con
 Testifying:
-* Richard Moser - Washington Hosts Collaborative Alliance
+* Richard Moser - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
 * Pam Corwin - - None -
 * Cassy Gilbertson
-* Richard Moser - Washington Hosts Collaborative Alliance
-* Allison Moser - Washington Hosts Collaborative Alliance
+* Richard Moser - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
+* Allison Moser - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * Victor Garcia
 * Michelle Larkin
 * Eben Ifech
 * Heather Lindquist
-* Carolyn Allen - Washington Hosts Collaborative Alliance
+* Carolyn Allen - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * Sue Ellen White - 5223 Watauga Beach Drive East
 * Sue Ellen White
 * Stephanie Bender

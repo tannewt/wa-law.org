@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2112/</link>
 		<description>Updates about HB 2112</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 01:19:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 16:45:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -451,6 +451,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ken/Nichols/2026-01-16 01:19:53</guid>
+		</item>
+		<item>
+			<title>KUOW - Should WA restrict access to porn sites based on age?</title>
+			<description>News article "KUOW - Should WA restrict access to porn sites based on age?" from KUOW.</description>
+			<pubDate>Tue, 03 Feb 2026 16:45:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/should-wa-restrict-access-to-porn-sites-based-on-age#:~:text=HB%202112%20-%202025-26,%20establishing%20an%20age%20minimum%20to%20access%20certain%20adult%20content%20online</guid>
 		</item>
 	</channel>
 </rss>

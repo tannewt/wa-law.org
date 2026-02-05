@@ -9,7 +9,7 @@
 ### [HB 2363](/bill/2025-26/hb/2363/) - Music therapy exemptions 👍3  
 * 👍 Megumi Azekawa
 
-### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍13  
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍15  
 * 👍 Allan Belton
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍3  
@@ -17,7 +17,7 @@
 * 👍 Chelsea Cordoba
 * 👍 Marquesse Miguelle Christinia
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍207  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍349  
 * 👍 Allan Belton
 * 👍 Hector Marmolejo-Avila
 * 👍 Juleana Salazar Sandoval
@@ -26,11 +26,15 @@
 * 👍 Lusero Ramirez
 * 👍 Shariah Bell
 * 👍 Treva Esmailka
+* 👍 Allan Belton
+* 👍 Hector Marmolejo-Avila
 
-## [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
+## [SB 6082](/bill/2025-26/sb/6082/) - Student financial aid fraud 👍1  
 
 ## 2023-24
 
-### [SB 5906](/bill/2023-24/sb/5906/) - Data and personal safety 👍1  
+### [SB 6082](/bill/2023-24/sb/6082/) - Student financial aid fraud 👍1  
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  

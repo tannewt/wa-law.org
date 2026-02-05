@@ -101,11 +101,13 @@
 
 ### [SB 6228](/bill/2025-26/sb/6228/) - Prescription drugs/taxes  👎1 
 
-## [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6292](/bill/2023-24/sb/6292/) - Health care financing 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

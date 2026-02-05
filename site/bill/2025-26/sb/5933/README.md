@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5933 Overdose mapping information
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5933 Overdose mapping information
 #### 229 👍 - Pro
 Testifying:

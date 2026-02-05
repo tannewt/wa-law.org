@@ -5,6 +5,8 @@
 * ❓ Jessica Monger
 * ❓ Jessica Monger
 
+### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍2  
+
 ## [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
 
 ## 2023-24

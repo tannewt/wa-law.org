@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The dangers of AG Nick Brown's agency request bills | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_15741b7a-9a99-433d-99dd-912daead2d40.html#:~:text=HB-2161)
 * 01/30/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA Democrats pushing ahead with bill to expand AG's power | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e629e6f8-a94d-497f-9561-971443587777.html#:~:text=Senate%20House%20Bill%202161)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202161)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202161)

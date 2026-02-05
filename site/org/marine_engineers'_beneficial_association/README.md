@@ -336,7 +336,7 @@
 
 ### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
 
-### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
+### [HB 2218](/bill/2025-26/hb/2218/) - Workers' comp. medical care 👍1  
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 

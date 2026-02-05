@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2239](/bill/2025-26/hb/2239/)
 
-# HB 2239 - Providing Washingtonians and their loved ones with location choices for interment of remains.
+# HB 2239 - Family burial grounds
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2239&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202239)

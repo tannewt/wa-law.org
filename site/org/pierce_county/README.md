@@ -43,7 +43,7 @@
 
 ### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 * 👍 Bryan Yambe
@@ -52,7 +52,7 @@
 
 ### [HB 2376](/bill/2025-26/hb/2376/) - Property tax  👎1 
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 * 👍 Anita Gallagher
 
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  

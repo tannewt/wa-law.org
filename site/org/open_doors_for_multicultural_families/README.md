@@ -13,12 +13,16 @@
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
 * 👍 Florence Bien-Aime
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [HB 2587](/bill/2025-26/hb/2587/) - Nonprofit grant advances 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Ginger Kwan
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school 👍1  
+
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍1  
 
 ## [SB 6256](/bill/2025-26/sb/6256/) - Unoccupied housing/tax 👍1  
 

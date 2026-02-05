@@ -10,9 +10,13 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6211 Real estate excise taxes/GMA
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 👎 - Con
+#### 139 👎 - Con
+Testifying:
+* Mary Hull-Drury - Washington Realtors
 
 #### 0 ❓ - Other
 

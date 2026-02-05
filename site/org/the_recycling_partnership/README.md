@@ -12,8 +12,9 @@
 * 👍 Dylan de Thomas
 * 👍 Dylan de Thomas
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍1  
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍3  
 * 👍 Dylan de Thomas
+* 👍 John Hite
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎1 
 * 👎 Dylan de Thomas

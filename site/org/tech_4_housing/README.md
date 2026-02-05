@@ -16,11 +16,13 @@
 
 ### [SB 5801](/bill/2025-26/sb/5801/) - Transportation resources  👎1 
 
-## [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍3  
+### [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍3  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6201](/bill/2023-24/sb/6201/) - Social housing agencies/tax 👍3  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

@@ -31,6 +31,9 @@
 ### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin.  👎1 
 * 👎 Patrick Quinton
 
+### [HB 2583](/bill/2025-26/hb/2583/) - Local lodging excise taxes 👍1  
+* 👍 BRIAN ENSLOW
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍 Ty Stober
 * 👍 Ty Stober

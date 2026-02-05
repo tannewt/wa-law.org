@@ -22,18 +22,31 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6026 Residential dev./zones
 Sign up to testify:
 
-#### 74 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Jennifer Gregerson - City of Everett, Government Affairs Director
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Matt Roewe - RoeweWORKS
+* Angela Rozmyn - Natural and Built Environments
+* Lisa Brown - Mayor - City of Spokane
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 28 👎 - Con
+#### 110 👎 - Con
 Testifying:
 * Eric Perry - [City of Renton](/org/city_of_renton/)
 * Charles Grimm - Mayor, City of Pasco
 * Jeff Rimack - Jeff Rimack, City of Lakewood
+* Kristen Holdsworth - City of Kent/Long Range Planning Manager
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Shannon Vincent - [City of Lacey](/org/city_of_lacey/)
+* Amanda Dodd - City of Bothell, Councilmember
+* Jay Arnold - Council Member City of Kirkland
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Diana Hart - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6026 Residential dev./zones
 #### 511 👍 - Pro

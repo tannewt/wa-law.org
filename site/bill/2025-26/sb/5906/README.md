@@ -29,11 +29,13 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5906 Data and personal safety
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 538 👍 - Pro
+Testifying:
+* Karina Cruz - Communities for Our Colleges
 
-#### 1 👎 - Con
+#### 83 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5906 Data and personal safety
 #### 3743 👍 - Pro

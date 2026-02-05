@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2567 College scholarships/private
-Sign up to testify:
-
-#### 1401 👍 - Pro
+#### 1589 👍 - Pro
 Testifying:
 * Julie Wolter - Dean, School of Health Sciences, Gonzaga University
 * Paul Hogan - President, Cristo Rey Jesuit Seattle High School
@@ -29,10 +27,16 @@ Testifying:
 * Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * 💵Katherine Mahoney - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Mason Taylor-Wells
+* Zahan Tursa
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Vineet Gopalam
+* Vineet Gopalam
 
-#### 6 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Naomi Howard
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Matt Altman - Central Washington University Faculty Legislative Rep
 * Sam Ligon - Washington State Council of Faculty; EWU Faculty Legislative Rep.

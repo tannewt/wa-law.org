@@ -39,7 +39,7 @@
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+### [HB 1239](/bill/2025-26/hb/1239/) - Reentry readiness/DOC 👍1  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
@@ -78,14 +78,15 @@
 
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
 
-### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎1 
+### [HB 2220](/bill/2025-26/hb/2220/) - CJTC oversight  👎1 
 * 👎💵 Kimberly Mosolf
 
 ### [HB 2246](/bill/2025-26/hb/2246/) - Updating policies for elementary and secondary school students with firearm violations.  👎1 
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
 * 👍 Jenn Hendersen
 * 👍 Jenn Hendersen
+* 👍💵 Jenn Henderson
 
 ### [HB 2314](/bill/2025-26/hb/2314/) - Concerning dental care services at residential habilitation centers.   ❓1
 

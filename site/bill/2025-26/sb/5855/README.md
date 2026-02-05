@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/04/2026 [Senate Democrats](/org/senate_democrats/) - [Standing up for Washington’s immigrants - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/04/standing-up-for-washingtons-immigrants/#:~:text=passed%20a%20bill)
 * 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [Health care movement & floor votes - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205855)
 * 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [One-Third of the Way Through - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/02/02/one-third-of-the-way-through/#:~:text=Senate%20Bill%205855)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [The top issue I’ve heard from you - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=SB%205855)

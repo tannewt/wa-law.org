@@ -43,7 +43,7 @@
 
 ### [HB 1228](/bill/2025-26/hb/1228/) - Toxicology testing 👍1  
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍2  
+### [HB 1239](/bill/2025-26/hb/1239/) - Reentry readiness/DOC 👍2  
 * 👍 Kati Durkin
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
@@ -132,7 +132,7 @@
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 
-### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
+### [HB 2220](/bill/2025-26/hb/2220/) - CJTC oversight 👍1  
 
 ### [HB 2237](/bill/2025-26/hb/2237/) - Concerning deputy state fire marshals. 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5947/</link>
 		<description>Updates about SB 5947</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 21:31:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -182,6 +182,13 @@
 			<pubDate>Tue, 03 Feb 2026 21:31:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205947</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

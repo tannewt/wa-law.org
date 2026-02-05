@@ -49,7 +49,7 @@
 
 ### [HB 2185](/bill/2025-26/hb/2185/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
-### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍2  
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
 
@@ -97,17 +97,19 @@
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎3 
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
-## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+
+## [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍1  
 
 ## 2023-24
 
-### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18 👍1  
+### [SB 6070](/bill/2023-24/sb/6070/) - Recovery of missing persons 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

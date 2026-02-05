@@ -11,11 +11,17 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5176 Prompt pay/capital projects
 Sign up to testify:
 
-#### 32 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* Paula Fillmore-Sardinas - WBBA/Tabor 100
+* Irene Reyes - Association of Women and Minority Businesses
+* Jimmy Matta - The Northwest Minority Builders Alliance (NWMBA)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kimberly Sockle - Department of Enterprise Services
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5176 Prompt pay/capital projects
 #### 47 👍 - Pro

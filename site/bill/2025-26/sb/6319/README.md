@@ -5,11 +5,26 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Record deaths in WA child welfare system have Legislature’s attention • Washington State Standard](https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=Senate%20Bill%206319)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6319 Child welfare time extension
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 32 👎 - Con
+Testifying:
+* Sarah Akey
+* Tracie Jefferson
+* Amy Parks
+* Anna Eshelman
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 08:00 AM - Human Services (HS): SB 6319 Child welfare time extension
 #### 4 👍 - Pro
 Testifying:

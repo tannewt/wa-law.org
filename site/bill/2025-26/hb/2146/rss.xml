@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2146/</link>
 		<description>Updates about HB 2146</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Jan 2026 01:17:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Robin/Sand/2026-01-23 01:17:27</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/CS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

@@ -15,7 +15,7 @@
 ### [HB 1496](/bill/2025-26/hb/1496/) - Health care information 👍1  
 * 👍 Riddhi Mukhopadhyay
 
-### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍2  
+### [HB 1591](/bill/2025-26/hb/1591/) - Defendant survivors 👍2  
 * 👍💵 Elizabeth Hendren
 * 👍💵 Elizabeth Hendren
 
@@ -80,11 +80,18 @@
 * 👍 Alexander Bejarán  Estévez
 * 👍💵 Elizabeth Hendren
 
-## [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
+### [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
+
+### [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍1  
+* 👍💵 Elizabeth Hendren
+
+## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
+* 👎💵 Elizabeth Hendren
 
 ## 2023-24
 
-### [SB 6017](/bill/2023-24/sb/6017/) - Crime victims & witnesses 👍1  
+### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims  👎1 
+* 👎💵 Elizabeth Hendren
 
 ### [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  
 

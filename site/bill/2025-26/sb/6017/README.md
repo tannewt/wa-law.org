@@ -14,9 +14,15 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6017 Crime victims & witnesses
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* Abigail Echo-Hawk - Seattle Indian Health Board
+* Temryss Lane
+* Absa Samba - Washington Coalition to End Female Genital Mulation/Cutting
+* Kate Garvey - King County Sexual Assault Resource Center
+* PAULA REED - Children's Advocacy Centers of WA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -10,9 +10,14 @@
 ### Thu 02/05 08:00 AM - Finance (FIN): HB 2583 Local lodging excise taxes
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Briahna Murray - [City of Seatac](/org/city_of_seatac/)
+* BRIAN ENSLOW - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 4 👎 - Con
+#### 58 👎 - Con
+Testifying:
+* Kathy McDonald - Executive Director Friends of Center for the Arts
 
 #### 4 ❓ - Other
 Testifying:

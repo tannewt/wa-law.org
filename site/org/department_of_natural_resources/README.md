@@ -75,7 +75,7 @@
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 * 👍 Duane Emmons
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
 
@@ -155,7 +155,7 @@
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models   ❓1
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing   ❓1
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  ❓1
 
 ### [SB 5992](/bill/2025-26/sb/5992/) - Youth development fund 👍1  
 * 👍 Evan Pierce

@@ -15,9 +15,7 @@
 
 ## Meetings
 ### Wed 02/04 10:30 AM - Housing (HSG): EHB 1345 Detached ADU limits
-Sign up to testify:
-
-#### 315 👍 - Pro
+#### 356 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -25,8 +23,10 @@ Testifying:
 * Councilmember Justin Paulsen - San Juan County Council
 * SAM SPIEGELMAN - Citizen Action Defense Fund
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Bill Clarke - WA REALTORS + Kittitas County
+* 💵Brian Enslow - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 48 👎 - Con
+#### 66 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

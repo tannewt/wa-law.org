@@ -16,7 +16,7 @@
 * 👍 Irvin Enriquez
 * 👍 Irvin Enriquez
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+### [HB 1239](/bill/2025-26/hb/1239/) - Reentry readiness/DOC 👍1  
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 
@@ -26,7 +26,7 @@
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
-### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍1  
+### [HB 1591](/bill/2025-26/hb/1591/) - Defendant survivors 👍1  
 
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
 
@@ -75,15 +75,17 @@
 
 ### [SB 6019](/bill/2025-26/sb/6019/) - Home care rates 👍1  
 
-### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 
 ### [SB 6068](/bill/2025-26/sb/6068/) - Construction worker wages 👍1  
 
-## [SB 6078](/bill/2025-26/sb/6078/) - Child care provider supports 👍1  
+### [SB 6078](/bill/2025-26/sb/6078/) - Child care provider supports 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6078](/bill/2023-24/sb/6078/) - Child care provider supports 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

@@ -292,13 +292,14 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍💵 Candice Bock
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.   ❓1
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users    ❓1
 * ❓💵 Derrick Nunnally
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations  👎1 
 * 👎💵 Derrick Nunnally
 
-### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices   ❓2
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices   ❓3
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
@@ -596,6 +597,9 @@
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓2
 * ❓💵 Carl Schroeder
 
+### [SB 5650](/bill/2025-26/sb/5650/) - Cannabis local excise tax 👍1  
+* 👍💵 Candice Bock
+
 ### [SB 5690](/bill/2025-26/sb/5690/) - Utility relocation 👍1  
 
 ### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
@@ -668,10 +672,11 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓💵 Steven Ellis
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎3 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
@@ -730,13 +735,16 @@
 ### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage   ❓1
 * ❓💵 Steven Ellis
 
-## [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
+### [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
 * ❓💵 Steven Ellis
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
+* ❓💵 Candice Bock
 
 ## 2023-24
 
-### [SB 6335](/bill/2023-24/sb/6335/) - Transportation commission   ❓1
-* ❓💵 Steven Ellis
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
+* ❓💵 Candice Bock
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

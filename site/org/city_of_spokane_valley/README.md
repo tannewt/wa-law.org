@@ -101,7 +101,7 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  ❓1
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.  👎1 
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users   👎1 
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 
@@ -111,7 +111,7 @@
 
 ### [HB 2165](/bill/2025-26/hb/2165/) - Peace officer false ident. 👍1  
 
-### [HB 2168](/bill/2025-26/hb/2168/) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. 👍1  
+### [HB 2168](/bill/2025-26/hb/2168/) - Overdose mapping information 👍1  
 
 ### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  
 
@@ -119,9 +119,12 @@
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
-### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission. 👍1  
+### [HB 2220](/bill/2025-26/hb/2220/) - CJTC oversight 👍1  
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+* 👎 Gloria Mantz
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 
@@ -130,6 +133,8 @@
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving 👍1  
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
+
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
 
 ### [HB 2403](/bill/2025-26/hb/2403/) - Sex offenders/registration  👎1 
 
@@ -242,7 +247,7 @@
 
 ### [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
 
@@ -263,11 +268,15 @@
 
 ### [SB 6203](/bill/2025-26/sb/6203/) - Out-of-state convictions 👍1  
 
-## [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
+### [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
+
+### [SB 6345](/bill/2025-26/sb/6345/) - Transportation contracting 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6204](/bill/2023-24/sb/6204/) - Home cultivation of cannabis  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

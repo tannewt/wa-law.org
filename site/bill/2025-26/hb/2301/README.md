@@ -8,6 +8,17 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2301 Paint producer resp.
+Sign up to testify:
+
+#### 77 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2301 Paint producer resp.
 #### 271 👍 - Pro
 Testifying:

@@ -34,7 +34,7 @@
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎2 
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 

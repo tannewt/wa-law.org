@@ -11,12 +11,12 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2479 Unpaid wage recovery
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Elizabeth Ford - Seattle Univ. School of Law
 * 💵Patrick Connor - NFIB
 
-#### 0 👎 - Con
+#### 44 👎 - Con
 
 #### 0 ❓ - Other
 

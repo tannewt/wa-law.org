@@ -91,8 +91,9 @@
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍1  
+### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍2  
 * 👍💵 Paul Jewell
+* 👍💵 Brian Enslow
 
 ### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍1  
 * 👍💵 Brad Banks
@@ -216,10 +217,11 @@
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍4  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍5  
 * 👍💵 Travis Dutton
 * 👍💵 Paul Jewell
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
@@ -305,8 +307,9 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
-### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎2 
 * 👎💵 Travis Dutton
+* 👎💵 Derek Young
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
@@ -568,10 +571,13 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 * 👍💵 Axel Swanson
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 * ❓💵 Curtis Steinhauer
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  
+
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+* ❓💵 Curtis Steinhauer
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 * 👍💵 Curtis Steinhauer
@@ -597,7 +603,8 @@
 
 ### [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply   ❓1
 
-### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍1  
+### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ### [SB 6214](/bill/2025-26/sb/6214/) - Land banking authorities 👍1  
@@ -622,13 +629,16 @@
 ### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage   ❓1
 * ❓💵 Axel Swanson
 
-## [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
+### [SB 6335](/bill/2025-26/sb/6335/) - Transportation commission   ❓1
 * ❓💵 Axel Swanson
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
+* ❓💵 Paul Jewell
 
 ## 2023-24
 
-### [SB 6335](/bill/2023-24/sb/6335/) - Transportation commission   ❓1
-* ❓💵 Axel Swanson
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
+* ❓💵 Paul Jewell
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

@@ -11,9 +11,15 @@
 ### Thu 02/05 08:00 AM - Finance (FIN): SHB 2325 Tourism assessment
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 87 👍 - Pro
+Testifying:
+* Annie McGrath - State of Washington Tourism
+* Anthony Anton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Moe - State of Washington Tourism
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-#### 3 👎 - Con
+#### 46 👎 - Con
 
 #### 0 ❓ - Other
 

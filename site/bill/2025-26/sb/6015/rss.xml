@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 6015 - Concerning permit-ready residential building plans.</title>
+		<title>SB 6015 - Residential building plans</title>
 		<link>https://wa-law.org/bill/2025-26/sb/6015/</link>
 		<description>Updates about SB 6015</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 29 Jan 2026 21:42:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -122,6 +122,27 @@
 			<pubDate>Thu, 29 Jan 2026 21:42:29 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6015</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HSG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HSG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/HSG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

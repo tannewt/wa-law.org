@@ -58,7 +58,7 @@
 
 ### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
 
-### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍1  
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍2  
 
 ### [HB 2455](/bill/2025-26/hb/2455/) - Foster care housing pilot 👍1  
 
@@ -127,10 +127,10 @@
 ### [SB 5849](/bill/2025-26/sb/5849/) - Financial education 👍2  
 * 👍 Susie Zhang
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍3  
 * 👍💵 Charles Smith
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍9  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍10  
 * 👍💵 Charles Smith
 * 👍 Courtney Hageman
 * 👍 Jonas Rios
@@ -150,11 +150,13 @@
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
-## [SB 6227](/bill/2025-26/sb/6227/) - Parenting student data 👍1  
+### [SB 6227](/bill/2025-26/sb/6227/) - Parenting student data 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6227](/bill/2023-24/sb/6227/) - Parenting student data 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

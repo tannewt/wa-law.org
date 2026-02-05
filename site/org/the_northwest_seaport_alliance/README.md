@@ -49,7 +49,7 @@
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎 Sean Eagan
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
 
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓ Sean Eagan

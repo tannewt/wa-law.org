@@ -42,11 +42,11 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍3  
 
 ### [HB 2133](/bill/2025-26/hb/2133/) - Senior citizen centers/tax 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍5  
 * 👍 Dan Wise
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  

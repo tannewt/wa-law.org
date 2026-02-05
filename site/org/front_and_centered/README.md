@@ -27,8 +27,10 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍3  
 * 👍💵 Guillermo Rogel
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍3  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍7  
 * 👍 Cameron Steinback
+* 👍💵 Guillermo Rogel
+* 👍 Aqsa Mengal
 * 👍💵 Guillermo Rogel
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍2  
@@ -97,11 +99,13 @@
 
 ### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍2  
 
-## [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants 👍1  
+### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6240](/bill/2023-24/sb/6240/) - Aviation impacts grants 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

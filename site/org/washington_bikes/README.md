@@ -15,7 +15,7 @@
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍2  
 * 👍 Vicky Clarke
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways. 👍2  
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users  👍2  
 * 👍 Vicky Clarke
 
 ### [HB 2192](/bill/2025-26/hb/2192/) - Roadway fatalities 👍1  

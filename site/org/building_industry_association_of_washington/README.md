@@ -188,7 +188,8 @@
 ### [HB 2141](/bill/2025-26/hb/2141/) - Building codes 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎1 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎2 
+* 👎 Mike Ennis
 * 👎 Mike Ennis
 
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers  👎1 
@@ -201,7 +202,7 @@
 ### [HB 2201](/bill/2025-26/hb/2201/) - Standardizing city and county planning and development regulations with an urban growth area.   ❓1
 * ❓💵 Andrea Smiley
 
-### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
+### [HB 2218](/bill/2025-26/hb/2218/) - Workers' comp. medical care  👎1 
 * 👎 Mike Ennis
 
 ### [HB 2228](/bill/2025-26/hb/2228/) - Scissor stairs 👍1  
@@ -233,7 +234,10 @@
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation  👎1 
 
-### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎1 
+### [HB 2418](/bill/2025-26/hb/2418/) - Permit review 👍1  
+* 👍💵 Andrea Smiley
+
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎2 
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎1 
 
@@ -450,7 +454,7 @@
 
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍1  
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍1  
 
 ### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas 👍1  
 * 👍💵 Andrea Smiley
@@ -474,7 +478,7 @@
 
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes  👎1 
 
-### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA  👎1 
+### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA  👎2 
 
 ### [SB 6217](/bill/2025-26/sb/6217/) - College grant/credential prg 👍1  
 
@@ -486,11 +490,13 @@
 ### [SB 6279](/bill/2025-26/sb/6279/) - Wildland urban interface  👎1 
 * 👎💵 Andrea Smiley
 
-## [SB 6291](/bill/2025-26/sb/6291/) - On-site wastewater systems 👍1  
+### [SB 6291](/bill/2025-26/sb/6291/) - On-site wastewater systems 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 
 ## 2023-24
 
-### [SB 6291](/bill/2023-24/sb/6291/) - On-site wastewater systems 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

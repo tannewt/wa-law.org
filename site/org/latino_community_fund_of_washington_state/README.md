@@ -49,6 +49,8 @@
 
 ### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
 
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
@@ -58,7 +60,7 @@
 ### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍2  
 * 👍💵 Jake Garcia
 
-### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
 ### [HB 2475](/bill/2025-26/hb/2475/) - Language access 👍1  
 * 👍💵 Jake García
@@ -135,11 +137,13 @@
 
 ### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
 
-## [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
+### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6186](/bill/2023-24/sb/6186/) - SNAP benefits/unhealthy food  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

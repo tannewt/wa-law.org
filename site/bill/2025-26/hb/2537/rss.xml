@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2537/</link>
 		<description>Updates about HB 2537</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 11:14:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -157,6 +157,41 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Leah/Missik/2026-01-27 11:14:38</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/ENVI - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ENVI - Majority; do pass.</title>
+			<description>ENVI - Majority; do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/ENVI - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

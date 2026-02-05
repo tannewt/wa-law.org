@@ -10,7 +10,9 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6343 Atmospheric river/tax relief
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
 
 #### 1 👎 - Con
 

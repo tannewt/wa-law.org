@@ -10,9 +10,12 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6067 Workers' compensation
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 48 👍 - Pro
 
-#### 0 👎 - Con
+#### 58 👎 - Con
+Testifying:
+* Kris Tefft - Washington Self-Insurers Association
+* 💵Patrick Connor - NFIB
 
 #### 0 ❓ - Other
 

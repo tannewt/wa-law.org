@@ -25,7 +25,7 @@
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
 * 👍💵 Kirk Hovenkotter
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways. 👍1  
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users  👍1  
 * 👍 Holden Ringer
 
 ### [HB 2134](/bill/2025-26/hb/2134/) - Regional transp. plans 👍1  

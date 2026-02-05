@@ -5,8 +5,22 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6308 Child shelter care orders
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 28 👎 - Con
+Testifying:
+* Sarah Akey
+* Tracie Jefferson
+* Amy Parks
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 08:00 AM - Human Services (HS): SB 6308 Child shelter care orders
 #### 15 👍 - Pro
 Testifying:

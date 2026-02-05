@@ -140,7 +140,8 @@
 ### [HB 2128](/bill/2025-26/hb/2128/) - Concerning alcohol service at facilities with sports, amusement, or recreational activities engaged in by patrons. 👍1  
 * 👍 Sean DeWitz
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎2 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎3 
+* 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 
@@ -154,7 +155,7 @@
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
-### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
+### [HB 2218](/bill/2025-26/hb/2218/) - Workers' comp. medical care  👎1 
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
 * ❓ Kerry Dolan
@@ -172,7 +173,8 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
+* 👍 Anthony Anton
 * 👍 Anthony Anton
 
 ### [HB 2362](/bill/2025-26/hb/2362/) - Impaired driving  👎1 
@@ -324,7 +326,8 @@
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
 * 👍 Sean DeWitz
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎1 
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program  👎2 
+* 👎💵 Logan Dozier
 * 👎💵 Logan Dozier
 
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags 👍1  
@@ -356,11 +359,15 @@
 * 👍 Sean DeWitz
 * 👍💵 Sean Dewitz
 
-## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
+* ❓💵 Andrea Reay
 
 ## 2023-24
 
-### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
+* ❓💵 Andrea Reay
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

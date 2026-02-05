@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5379 Parks & rec./interest arb.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 5379 Parks & rec./interest arb.
 #### 46 👍 - Pro
 Testifying:

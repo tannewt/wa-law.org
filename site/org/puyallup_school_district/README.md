@@ -55,11 +55,13 @@
 
 ### [SB 5814](/bill/2025-26/sb/5814/) - Excise taxes 👍2  
 
-## [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
+### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 5815](/bill/2023-24/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍2  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

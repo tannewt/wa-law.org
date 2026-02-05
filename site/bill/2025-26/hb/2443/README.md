@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2443 Armed forces reserve grant
-Sign up to testify:
+#### 217 👍 - Pro
+Testifying:
+* Kurt Hardin
 
-#### 128 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

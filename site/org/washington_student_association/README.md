@@ -10,6 +10,8 @@
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍💵 Sean Behl
 
+### [HB 1316](/bill/2025-26/hb/1316/) - Expanding the scope of programs for postsecondary students experiencing homelessness and former foster youth. 👍2  
+
 ### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍4  
 * 👍💵 Sean Behl
 * 👍💵 Sean Behl
@@ -65,7 +67,7 @@
 
 ### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍4  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍7  
 
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
 

@@ -17,7 +17,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍3  
+### [HB 1239](/bill/2025-26/hb/1239/) - Reentry readiness/DOC 👍3  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍3  
 
@@ -33,7 +33,7 @@
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍3  
 * 👍 Cassia Hershenow
 
-### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍2  
+### [HB 1591](/bill/2025-26/hb/1591/) - Defendant survivors 👍2  
 
 ### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍6  
 * 👍💵 Prachi Dave
@@ -93,11 +93,13 @@
 
 ### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
-## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎1 
+### [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎1 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 

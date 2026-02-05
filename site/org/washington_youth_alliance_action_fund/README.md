@@ -61,8 +61,10 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
-## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-## [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍1  
+## [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  

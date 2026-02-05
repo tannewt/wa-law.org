@@ -205,7 +205,7 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 

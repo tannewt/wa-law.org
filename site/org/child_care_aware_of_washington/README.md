@@ -46,6 +46,8 @@
 
 ### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍1  
 
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
@@ -92,11 +94,13 @@
 
 ### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  
 
-## [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
+### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 5907](/bill/2023-24/sb/5907/) - ECEAP access/military 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

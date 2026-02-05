@@ -11,9 +11,13 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2418 Permit review
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 113 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Andrea Smiley
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

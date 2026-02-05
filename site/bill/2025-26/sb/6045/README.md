@@ -20,11 +20,17 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6045 Agricultural employees/PERC
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 360 👍 - Pro
+Testifying:
+* Edgar Franks - Familias Unidas por la Justicia
 
-#### 0 👎 - Con
+#### 465 👎 - Con
+Testifying:
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
+* Charlie Brown - [Washington Asparagus Commission](/org/washington_asparagus_commission/)
+* 💵Scott Dilley - Worker and Farmer Labor Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
 #### 495 👍 - Pro

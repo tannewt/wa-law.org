@@ -76,10 +76,10 @@
 
 ### [HB 2292](/bill/2025-26/hb/2292/) - Small business stock gains 👍1  
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
 * 👍 Sam Hatzenbeler
 
-### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
 ### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍1  
 * 👍 Sam Hatzenbeler
@@ -163,11 +163,15 @@
 
 ### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 
-## [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains 👍1  
+### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+* 👍💵 Rian Watt
 
 ## 2023-24
 
-### [SB 6229](/bill/2023-24/sb/6229/) - Small business stock gains 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+* 👍💵 Rian Watt
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

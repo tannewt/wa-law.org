@@ -14,7 +14,9 @@
 * 👍 Linnea Anderson
 * 👍 Linnea Anderson
 
-### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18   ❓1
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18   ❓3
+* ❓ Jack Murphy
+* ❓ Christine Simonsmeier
 * ❓ Jack Murphy
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses   ❓2

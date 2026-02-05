@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): HB 1316 Postsecondary homelessness
+Sign up to testify:
+
+#### 108 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

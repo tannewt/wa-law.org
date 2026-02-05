@@ -7,6 +7,8 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍2  
 * 👍 Belinda Louie
 * 👍 Faaluaina Pritchard

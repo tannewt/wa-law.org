@@ -5,8 +5,18 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5763 Law enf. aviation support
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 5763 Law enf. aviation support
 #### 157 👍 - Pro
 Testifying:

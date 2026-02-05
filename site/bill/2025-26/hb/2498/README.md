@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Wed 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2498 Nursing education programs
-Sign up to testify:
-
-#### 64 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Dr. Michelle Andreas - South Puget Sound Community College
 * Dr. Timothy Stokes - President, South Puget Sound Community College
 * Dr. Jenni Martin - President, Spokane Community College
 * Dr. Teresa Rich - President, Yakima Valley Community College
 
-#### 58 👎 - Con
+#### 71 👎 - Con
 Testifying:
 * Ajay Mendoza - Washington State Board of Nursing
 * Alison Bradywood - Washington State Board of Nursing

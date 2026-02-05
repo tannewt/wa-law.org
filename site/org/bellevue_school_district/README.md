@@ -26,11 +26,13 @@
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
-## [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
+### [SB 5790](/bill/2025-26/sb/5790/) - CTC employee COLAs  👎1 
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires   ❓1
 
 ## 2023-24
 
-### [SB 5790](/bill/2023-24/sb/5790/) - CTC employee COLAs  👎1 
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires   ❓1
 
 ### [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
 

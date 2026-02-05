@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2220](/bill/2025-26/hb/2220/)
 
-# HB 2220 - Concerning state oversight and accountability of the criminal justice training commission.
+# HB 2220 - CJTC oversight
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2220&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2220 CJTC oversight

@@ -11,9 +11,11 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2384 Continuing care retirement
 Sign up to testify:
 
-#### 150 👍 - Pro
+#### 185 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Alyssa Odegaard - LeadingAge Washington
 
 #### 1 ❓ - Other
 

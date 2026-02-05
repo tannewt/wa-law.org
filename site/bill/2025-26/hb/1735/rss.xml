@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1735/</link>
 		<description>Updates about HB 1735</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -104,6 +104,41 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201735</guid>
+		</item>
+		<item>
+			<title>AGNR - Executive action taken by committee.</title>
+			<description>AGNR - Executive action taken by committee.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/AGNR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>AGNR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>AGNR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/AGNR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

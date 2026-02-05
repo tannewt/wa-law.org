@@ -17,7 +17,7 @@
 
 ### [HB 2188](/bill/2025-26/hb/2188/) - Industrial insurance rates 👍1  
 
-### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation.  👎1 
+### [HB 2218](/bill/2025-26/hb/2218/) - Workers' comp. medical care  👎1 
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 

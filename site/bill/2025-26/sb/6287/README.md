@@ -13,6 +13,15 @@
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%206287)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6287 Kratom products
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 6287 Kratom products
 #### 5 👍 - Pro
 Testifying:

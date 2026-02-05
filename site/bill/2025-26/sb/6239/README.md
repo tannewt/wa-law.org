@@ -16,14 +16,25 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6239 State tort claims
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
+* 💵Arthur Longworth - TeamChild
 
-#### 1 👎 - Con
+#### 465 👎 - Con
+Testifying:
+* Elizabeth Hanley - Schroeter Goldmark & Bender
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* 💵Arthur Longworth - TeamChild
+* 💵Arthur Longworth - TeamChild
+* Debbie Silberman - Oslund Udo Little
+* Tattiana Elliot
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Kelli Carson - Washington State Association for Justice
 
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 6239 State tort claims
 #### 29 👍 - Pro

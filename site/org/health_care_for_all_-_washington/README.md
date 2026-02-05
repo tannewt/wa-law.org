@@ -56,6 +56,8 @@
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  

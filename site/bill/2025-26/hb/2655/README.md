@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/06 08:00 AM - Finance (FIN): HB 2655 Data center sales tax ex.
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

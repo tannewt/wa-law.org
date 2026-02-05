@@ -14,6 +14,38 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202389)
 
 ## Meetings
+### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2389 Criminal offenses under 18
+Sign up to testify:
+
+#### 107 👍 - Pro
+Testifying:
+* Katherine Hurley - King County Dept of Public Defense
+* 💵Karen Pillar - TeamChild
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* 💵Myle Tang - Stand for Children WA
+* Liz Trautman - Stand for Children WA
+* LaDessa Croucher - Resolution Wasington
+* TJ Puller
+
+#### 17 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Dana Ralph - Mayor, City of Kent
+* Eric Perry - [City of Renton](/org/city_of_renton/)
+* Eric Zimmerman - Mayor, City of Normandy Park
+* Natasha Willson - crime victim advocate
+* 💵Derek Young - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Tiffany Attrill
+* Shawn Ledford - Tulalip Police Department
+* Jennifer Gregerson - City of Everett, Government Affairs Director
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 3 ❓ - Other
+Testifying:
+* Judge Kristin Ferrera - Superior Court Judges' Association
+* Christine Simonsmeier - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+
 ### Wed 01/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2389 Criminal offenses under 18
 #### 473 👍 - Pro
 Testifying:

@@ -10,8 +10,15 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5862 TRS & PERS plan 1 COLA
 Sign up to testify:
 
-#### 251 👍 - Pro
+#### 1185 👍 - Pro
+Testifying:
+* LeeAnn Prielipp - WEA-Retired
+* James Shepherd
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* NEVA LUKE - WEA-Retired
+* Janice Bieber - WEA-Retired
+* Barb Church - Washington State School Retirees' Association
 
-#### 1 👎 - Con
+#### 18 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

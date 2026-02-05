@@ -10,7 +10,7 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2714 Food assistance caseload
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

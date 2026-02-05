@@ -10,10 +10,15 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2688 Infants and toddlers program
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 288 👎 - Con
+#### 774 👎 - Con
+Testifying:
+* Magan Cromar - King County Developmental Disabilities and Early Childhood Supports Division
+* Jessica Laughery - Joya Child & Family Development
+* Kristina Mendieta - [Kindering](/org/kindering/)
+* Stephanie Walsh
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other

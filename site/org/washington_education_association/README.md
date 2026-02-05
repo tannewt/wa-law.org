@@ -336,7 +336,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding 👍1  
 * 👍💵 Julie Salvi
@@ -366,7 +366,7 @@
 
 ### [HB 2190](/bill/2025-26/hb/2190/) - Language access providers 👍1  
 
-### [HB 2218](/bill/2025-26/hb/2218/) - Concerning access to medical care in workers' compensation. 👍1  
+### [HB 2218](/bill/2025-26/hb/2218/) - Workers' comp. medical care 👍1  
 
 ### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots 👍1  
 
@@ -837,14 +837,15 @@
 
 ### [SB 5861](/bill/2025-26/sb/5861/) - Education/community rep. 👍1  
 
-### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
+### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍2  
+* 👍 Jared Mason-Gere
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍2  
 * 👍 Jared Mason-Gere
 
 ### [SB 5901](/bill/2025-26/sb/5901/) - On-base school construction 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎2 
 
@@ -944,7 +945,7 @@
 
 ### [SB 6278](/bill/2025-26/sb/6278/) - Teacher & principal programs 👍1  
 
-### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍1  
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections 👍2  
 
 ### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 
@@ -953,6 +954,8 @@
 
 ### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍2  
 * 👍💵 Simone Boe
+
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍11 👎2 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

@@ -82,7 +82,7 @@
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
-### [HB 2006](/bill/2025-26/hb/2006/) - Extending the deadline for a rural county collecting the sales and use tax for economic development purposes to designate industrial land banks under the growth management act.  👎1 
+### [HB 2006](/bill/2025-26/hb/2006/) - Industrial land banks  👎1 
 * 👎💵 Bryce Yadon
 
 ### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism.  👎1 
@@ -249,8 +249,9 @@
 ### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas   ❓1
 * ❓💵 Bryce Yadon
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  ❓1
 * ❓💵 Bryce Yadon
+* 👍💵 Bryce Yadon
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 * 👍💵 Bryce Yadon

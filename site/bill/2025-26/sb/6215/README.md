@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/31/2026 [Senate Democrats](/org/senate_democrats/) - [Saving public money - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/01/30/saving-public-money/#:~:text=SB%206215,)

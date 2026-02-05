@@ -43,7 +43,11 @@
 ### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots 👍2  
 * 👍 Max Lau
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [HB 2438](/bill/2025-26/hb/2438/) - Early education scholarship 👍1  
+
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 

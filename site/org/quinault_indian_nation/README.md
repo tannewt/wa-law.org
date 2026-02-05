@@ -13,7 +13,7 @@
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 
-### [HB 1982](/bill/2025-26/hb/1982/) - Treaty rights/convictions 👍1  
+### [HB 1982](/bill/2025-26/hb/1982/) - Treaty rights/convictions 👍2  
 
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
 

@@ -11,15 +11,31 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5981 340B drug pricing program
 Sign up to testify:
 
-#### 268 👍 - Pro
+#### 330 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
+* Victor Velazquez
+* Blair Rossow - CHAS Health
+* Eric Moll - Mason Health
+* 💵Ian Goodhew - UW Medicine
+* Lonnie Johns Brown - Health Care For All Washington
 
-#### 135 👎 - Con
+#### 235 👎 - Con
 Testifying:
 * Corbin Santo - Johnson & Johnson Innovative Medicine
 * 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* Kris Tefft - Washington Liability Reform Coalition
+* 💵Brian Henderson - AbbVie
+* Shawn Gremminger - National Alliance of Healthcare Purchaser Coalitions
+* Jennifer Kent - The Kent Group
+* 💵Lee Newgent - Pharmaceutical Industry-Labor Management Association
+* 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Ennis - Building Industry Associaiton of Washington
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
+* Dharia McGrew - Pharmaceutical Research and Manufacturers of America
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 3 ❓ - Other
 Testifying:

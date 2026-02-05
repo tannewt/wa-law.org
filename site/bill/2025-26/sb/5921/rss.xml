@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5921/</link>
 		<description>Updates about SB 5921</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -225,6 +225,13 @@
 			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

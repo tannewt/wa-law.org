@@ -82,6 +82,8 @@
 
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
 ### [HB 2487](/bill/2025-26/hb/2487/) - Insurer taxes 👍1  
 
 ### [HB 2490](/bill/2025-26/hb/2490/) - Ex. medical placement 👍1  
@@ -188,11 +190,13 @@
 ### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
 * 👍💵 Emily Brice
 
-## [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍1  
+### [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6305](/bill/2023-24/sb/6305/) - Mental health coverage 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

@@ -10,7 +10,7 @@
 
 ### [HB 2087](/bill/2025-26/hb/2087/) - Addressing travel insurance. 👍1  
 
-### [HB 2095](/bill/2025-26/hb/2095/) - Protecting vulnerable users of public ways.  👎1 
+### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users   👎1 
 
 ### [HB 2394](/bill/2025-26/hb/2394/) - Insurance crimes 👍1  
 * 👍💵 Kenton Brine

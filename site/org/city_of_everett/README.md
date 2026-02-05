@@ -62,7 +62,7 @@
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 * 👍 Jennifer Gregerson
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍2  
 

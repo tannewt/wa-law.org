@@ -95,11 +95,13 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍💵 Aaron Yared
 
-## [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6184](/bill/2023-24/sb/6184/) - Office of homeless youth 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

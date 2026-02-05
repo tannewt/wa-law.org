@@ -11,9 +11,11 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2345 Paid leave contributions
 Sign up to testify:
 
-#### 18 👍 - Pro
+#### 67 👍 - Pro
+Testifying:
+* 💵Maggie Humphreys - MomsRising
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

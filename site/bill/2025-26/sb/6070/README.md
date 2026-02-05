@@ -14,7 +14,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6070 Recovery of missing persons
 Sign up to testify:
 
-#### 51 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Arzu Forough - Washington Autism Alliance
@@ -26,10 +26,14 @@ Testifying:
 * Ava Nelson
 * Julie Chae
 * Zohaib Lakhani
+* Dyneeca Vincent - Freedom Project
+* Ze'lla Adams - The Silent Task Force
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Nicole Khouw
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6070 Recovery of missing persons
 #### 277 👍 - Pro

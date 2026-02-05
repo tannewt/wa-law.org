@@ -19,13 +19,14 @@
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
-## [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
+### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎1 
 * 👎💵 Jake Garcia
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6250](/bill/2023-24/sb/6250/) - Small loans maximum amount  👎1 
-* 👎💵 Jake Garcia
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 * 👍💵 Giovanni Severino

@@ -10,7 +10,11 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6297 Behavioral health staffing
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* 💵Aya Samman - [Fourfront Contributor](/org/fourfront_contributor/)
+* Janet Carbary - [Compass Health](/org/compass_health/)
+* Tom Sebastian - [Compass Health](/org/compass_health/)
 
 #### 0 👎 - Con
 

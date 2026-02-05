@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 6206 First responders/child care

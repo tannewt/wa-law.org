@@ -14,6 +14,17 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201420)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): 2SHB 1420 Textile producers
+Sign up to testify:
+
+#### 80 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
 #### 377 👍 - Pro
 Testifying:

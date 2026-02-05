@@ -14,11 +14,18 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2439 Tobacco product policy
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* 💵Jaime Bodden - WSALPHO
+* Heidi Low - Campaign for Tobacco-Free Kids
+* Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
 
-#### 1 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * Tom Eshleman - Doyles Sheehan
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 0 ❓ - Other
 

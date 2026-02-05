@@ -16,13 +16,14 @@
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 * 👎 City Councilmember John Herbert
 
-## [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍1  
+### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍1  
 * 👍 Mayor Sean Kelly
+
+## [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones  👎1 
 
 ## 2023-24
 
-### [SB 5763](/bill/2023-24/sb/5763/) - Law enf. aviation support 👍1  
-* 👍 Mayor Sean Kelly
+### [SB 6026](/bill/2023-24/sb/6026/) - Residential dev./zones  👎1 
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
 * 👎 Councilmember Syd Dawson

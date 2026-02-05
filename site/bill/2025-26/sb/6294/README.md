@@ -13,7 +13,7 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6294 Local government fund use
 Sign up to testify:
 
-#### 272 👍 - Pro
+#### 315 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
@@ -24,12 +24,15 @@ Testifying:
 * Vivek Prakriya - Redmond City Councilmember
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Mark Watson - PROTEC17
+* Chantell Reed - Director, Tacoma Pierce County Health Dept
 
-#### 804 👎 - Con
+#### 1520 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * 💵Devin Gombosky - Washington Association of Sewer and Water Districts
 * Jeff Gombosky - CTIA - The Wireless Association
+* Mary Hull-Drury - Washington Realtors
+* Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

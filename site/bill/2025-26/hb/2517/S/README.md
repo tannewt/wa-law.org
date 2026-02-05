@@ -1,0 +1,137 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2517](/bill/2025-26/hb/2517/) > [Substitute Bill](/bill/2025-26/hb/2517/S/)
+
+# HB 2517 - High cap. transit permits
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2517-S.pdf)
+
+## Section 1
+1. A local government may enter into a development agreement with a person having ownership or control of real property within its jurisdiction. A city may enter into a development agreement for real property outside its boundaries as part of a proposed annexation or a service agreement. A development agreement must set forth the development standards and other provisions that shall apply to and govern and vest the development, use, and mitigation of the development of the real property for the duration specified in the agreement. A development agreement shall be consistent with applicable development regulations adopted by a local government planning under chapter 36.70A RCW, except that a development agreement with a regional transit authority created under chapter 81.112 RCW may set forth development standards that vary from otherwise applicable development regulations in order to accommodate development of the facilities of the regional transit authority.
+
+2. RCW 36.70B.170 through 36.70B.190 and section 501, chapter 347, Laws of 1995 do not affect the validity of a contract rezone, concomitant agreement, annexation agreement, or other agreement in existence on July 23, 1995, or adopted under separate authority, that includes some or all of the development standards provided in subsection (3) of this section.
+
+3. For the purposes of this section, "development standards" includes, but is not limited to:
+
+    a. Project elements such as permitted uses, residential densities, and nonresidential densities and intensities or building sizes;
+
+    b. The amount and payment of impact fees imposed or agreed to in accordance with any applicable provisions of state law, any reimbursement provisions, other financial contributions by the property owner, inspection fees, or dedications;
+
+    c. Mitigation measures, development conditions, and other requirements under chapter 43.21C RCW;
+
+    d. Design standards such as maximum heights, setbacks, drainage and water quality requirements, landscaping, and other development features;
+
+    e. Affordable housing;
+
+    f. Parks and open space preservation;
+
+    g. Phasing;
+
+    h. Review procedures and standards for implementing decisions;
+
+        i. A build-out or vesting period for applicable standards; and
+
+    j. Any other appropriate development requirement or procedure.
+
+4. The execution of a development agreement is a proper exercise of county and city police power and contract authority. A development agreement may obligate a party to fund or provide services, infrastructure, or other facilities. A development agreement shall reserve authority to impose new or different regulations to the extent required by a serious threat to public health and safety.
+
+## Section 2
+A regional transit authority may:
+
+1. Apply for land use and construction permits for its facilities before acquiring the real property on which the facilities will be constructed or operated, so long as the regional transit authority provides proof of notice to the subject property owner at the time of application;
+
+2. Apply for construction and technical permits for its facilities before the local government makes a land use decision regarding those facilities, so long as the regional transit authority provides proof of notice to the subject property owner at the time of application; and
+
+3. Construct facilities of a rail fixed guideway system as defined in RCW 81.104.015 that exceed the height limits and setback requirements of local development regulations so long as the regional transit authority complies with those development regulations to the extent practicable given the need to construct and operate the rail fixed guideway system.
+
+## Section 3
+A local government may not issue a land use, construction, or technical permit to a regional transit authority for development on property that is not owned by the regional transit authority unless the regional transit authority has written permission from the property owner.
+
+## Section 4
+The provisions of this chapter shall not apply to:
+
+1. Cemeteries and other burial plots while used for that purpose;
+
+2. Divisions of land into lots or tracts each of which is one-one hundred twenty-eighth of a section of land or larger, or five acres or larger if the land is not capable of description as a fraction of a section of land, unless the governing authority of the city, town, or county in which the land is situated shall have adopted a subdivision ordinance requiring plat approval of such divisions: PROVIDED, That for purposes of computing the size of any lot under this item which borders on a street or road, the lot size shall be expanded to include that area that would be bounded by the center line of the road or street and the side lot lines of the lot running perpendicular to such center line;
+
+3. Divisions made by testamentary provisions, or the laws of descent;
+
+4. Divisions of land into lots or tracts classified for industrial or commercial use when the city, town, or county has approved a binding site plan for the use of the land in accordance with local regulations. For the purposes of this section, commercially zoned property includes property that is zoned to permit or conditionally permit any multifamily residential uses;
+
+5. A division for the purpose of lease when no residential structure other than mobile homes, tiny houses or tiny houses with wheels as defined in RCW 35.21.686, or travel trailers are permitted to be placed upon the land when the city, town, or county has approved a binding site plan for the use of the land in accordance with local regulations;
+
+6. A division made for the purpose of alteration by adjusting boundary lines, between platted or unplatted lots or both, which does not create any additional lot, tract, parcel, site, or division nor create any lot, tract, parcel, site, or division that contains insufficient area and dimension to meet minimum requirements for width and area for a building site;
+
+7. Divisions of land into lots or tracts if: (a) Such division is the result of subjecting a portion of a parcel or tract of land to either chapter 64.32 or 64.34 RCW subsequent to the recording of a binding site plan for all such land; (b) the improvements constructed or to be constructed thereon are required by the provisions of the binding site plan to be included in one or more condominiums or owned by an association or other legal entity in which the owners of units therein or their owners' associations have a membership or other legal or beneficial interest; (c) a city, town, or county has approved the binding site plan for all such land; (d) such approved binding site plan is recorded in the county or counties in which such land is located; and (e) the binding site plan contains thereon the following statement: "All development and use of the land described herein shall be in accordance with this binding site plan, as it may be amended with the approval of the city, town, or county having jurisdiction over the development of such land, and in accordance with such other governmental permits, approvals, regulations, requirements, and restrictions that may be imposed upon such land and the development and use thereof. Upon completion, the improvements on the land shall be included in one or more condominiums or owned by an association or other legal entity in which the owners of units therein or their owners' associations have a membership or other legal or beneficial interest. This binding site plan shall be binding upon all now or hereafter having any interest in the land described herein." The binding site plan may, but need not, depict or describe the boundaries of the lots or tracts resulting from subjecting a portion of the land to either chapter 64.32 or 64.34 RCW. A site plan shall be deemed to have been approved if the site plan was approved by a city, town, or county: (i) In connection with the final approval of a subdivision plat or planned unit development with respect to all of such land; or (ii) in connection with the issuance of building permits or final certificates of occupancy with respect to all of such land; or (iii) if not approved pursuant to (i) and (ii) of this subsection (7)(e), then pursuant to such other procedures as such city, town, or county may have established for the approval of a binding site plan;
+
+8. A division for the purpose of leasing land for facilities providing personal wireless services while used for that purpose. "Personal wireless services" means any federally licensed personal wireless service. "Facilities" means unstaffed facilities that are used for the transmission or reception, or both, of wireless communication services including, but not necessarily limited to, antenna arrays, transmission cables, equipment shelters, and support structures;
+
+9. A division of land into lots or tracts of less than three acres that is recorded in accordance with chapter 58.09 RCW and is used or to be used for the purpose of establishing a site for construction and operation of consumer-owned or investor-owned electric utility facilities. For purposes of this subsection, "electric utility facilities" means unstaffed facilities, except for the presence of security personnel, that are used for or in connection with or to facilitate the transmission, distribution, sale, or furnishing of electricity including, but not limited to, electric power substations. This subsection does not exempt a division of land from the zoning and permitting laws and regulations of cities, towns, counties, and municipal corporations. Furthermore, this subsection only applies to electric utility facilities that will be placed into service to meet the electrical needs of a utility's existing and new customers. New customers are defined as electric service locations not already in existence as of the date that electric utility facilities subject to the provisions of this subsection are planned and constructed; and
+
+10. A division of land into lots or tracts of less than two acres that is recorded in accordance with chapter 58.09 RCW and is used or to be used for the purpose of establishing a site for construction and operation of a rural fire district station, provided the proposed lots or tracts contain sufficient area and dimensions to meet minimum building site width and area requirements, and appropriate provisions are made for potable water supplies and sanitary wastes.
+
+11. A division of land caused by the acquisition of a portion of an existing lot or tract by a regional transit authority as defined in chapter 81.112 RCW that is acquiring land to build facilities as defined in RCW 81.112.020.
+
+## Section 5
+The provisions of this chapter shall not apply to:
+
+1. Cemeteries and other burial plots while used for that purpose;
+
+2. Divisions of land into lots or tracts each of which is one-one hundred twenty-eighth of a section of land or larger, or five acres or larger if the land is not capable of description as a fraction of a section of land, unless the governing authority of the city, town, or county in which the land is situated shall have adopted a subdivision ordinance requiring plat approval of such divisions: PROVIDED, That for purposes of computing the size of any lot under this item which borders on a street or road, the lot size shall be expanded to include that area that would be bounded by the center line of the road or street and the side lot lines of the lot running perpendicular to such center line;
+
+3. Divisions made by testamentary provisions, or the laws of descent;
+
+4. Divisions of land into lots or tracts classified for industrial or commercial use when the city, town, or county has approved a binding site plan for the use of the land in accordance with local regulations. For the purposes of this section, commercially zoned property includes property that is zoned to permit or conditionally permit any multifamily residential uses;
+
+5. A division for the purpose of lease when no residential structure other than mobile homes, tiny houses or tiny houses with wheels as defined in RCW 35.21.686, or travel trailers are permitted to be placed upon the land when the city, town, or county has approved a binding site plan for the use of the land in accordance with local regulations;
+
+6. A division made for the purpose of alteration by adjusting boundary lines, between platted or unplatted lots or both, which does not create any additional lot, tract, parcel, site, or division nor create any lot, tract, parcel, site, or division that contains insufficient area and dimension to meet minimum requirements for width and area for a building site;
+
+7. Divisions of land into lots or tracts if: (a) Such division is the result of subjecting a portion of a parcel or tract of land to chapter 64.90 RCW subsequent to the recording of a binding site plan for all such land; (b) the improvements constructed or to be constructed thereon are required by the provisions of the binding site plan to be included in one or more condominiums, cooperatives, or owned by an association or other legal entity in which the owners of units therein or their owners associations have a membership or other legal or beneficial interest; (c) a city, town, or county has approved the binding site plan for all such land; (d) such approved binding site plan is recorded in the county or counties in which such land is located; and (e) the binding site plan contains thereon the following statement: "All development and use of the land described herein shall be in accordance with this binding site plan, as it may be amended with the approval of the city, town, or county having jurisdiction over the development of such land, and in accordance with such other governmental permits, approvals, regulations, requirements, and restrictions that may be imposed upon such land and the development and use thereof. Upon completion, the improvements on the land shall be included in one or more condominiums, cooperatives, or owned by an association or other legal entity in which the owners of units therein or their owners associations have a membership or other legal or beneficial interest. This binding site plan shall be binding upon all now or hereafter having any interest in the land described herein." The binding site plan may, but need not, depict or describe the boundaries of the lots or tracts resulting from subjecting a portion of the land to chapter 64.90 RCW. A site plan shall be deemed to have been approved if the site plan was approved by a city, town, or county: (i) In connection with the final approval of a subdivision plat or planned unit development with respect to all of such land; or (ii) in connection with the issuance of building permits or final certificates of occupancy with respect to all of such land; or (iii) if not approved pursuant to (i) and (ii) of this subsection (7)(e), then pursuant to such other procedures as such city, town, or county may have established for the approval of a binding site plan;
+
+8. A division for the purpose of leasing land for facilities providing personal wireless services while used for that purpose. "Personal wireless services" means any federally licensed personal wireless service. "Facilities" means unstaffed facilities that are used for the transmission or reception, or both, of wireless communication services including, but not necessarily limited to, antenna arrays, transmission cables, equipment shelters, and support structures;
+
+9. A division of land into lots or tracts of less than three acres that is recorded in accordance with chapter 58.09 RCW and is used or to be used for the purpose of establishing a site for construction and operation of consumer-owned or investor-owned electric utility facilities. For purposes of this subsection, "electric utility facilities" means unstaffed facilities, except for the presence of security personnel, that are used for or in connection with or to facilitate the transmission, distribution, sale, or furnishing of electricity including, but not limited to, electric power substations. This subsection does not exempt a division of land from the zoning and permitting laws and regulations of cities, towns, counties, and municipal corporations. Furthermore, this subsection only applies to electric utility facilities that will be placed into service to meet the electrical needs of a utility's existing and new customers. New customers are defined as electric service locations not already in existence as of the date that electric utility facilities subject to the provisions of this subsection are planned and constructed; and
+
+10. A division of land into lots or tracts of less than two acres that is recorded in accordance with chapter 58.09 RCW and is used or to be used for the purpose of establishing a site for construction and operation of a rural fire district station, provided the proposed lots or tracts contain sufficient area and dimensions to meet minimum building site width and area requirements, and appropriate provisions are made for potable water supplies and sanitary wastes.
+
+11. A division of land caused by the acquisition of a portion of an existing lot or tract by a regional transit authority as defined in chapter 81.112 RCW that is acquiring land to build facilities as defined in RCW 81.112.020.
+
+## Section 6
+1. [Empty]
+
+    a. Within 28 days after receiving a project permit application, a local government planning pursuant to RCW 36.70A.040 shall provide a written determination to the applicant.
+
+    b. The written determination must state either:
+
+        i. That the application is complete; or
+
+        ii. That the application is incomplete and that the procedural submission requirements of the local government have not been met. The determination shall outline what is necessary to make the application procedurally complete.
+
+    c. The number of days shall be calculated by counting every calendar day.
+
+    d. To the extent known by the local government, the local government shall identify other agencies of local, state, or federal governments that may have jurisdiction over some aspect of the application.
+
+2. A project permit application is complete for purposes of this section when it meets the procedural submission requirements of the local government, as outlined on the project permit application, provided that a local government shall accept applications from a regional transit authority created under chapter 81.112 RCW regardless of whether the regional transit authority owns or has possession and use of the property subject to the application, so long as the application is otherwise complete. Additional information or studies may be required or project modifications may be undertaken subsequent to the procedural review of the application by the local government. The determination of completeness shall not preclude the local government from requesting additional information or studies either at the time of the notice of completeness or subsequently if new information is required or substantial changes in the proposed action occur. However, if the procedural submission requirements, as outlined on the project permit application have been provided, the need for additional information or studies may not preclude a completeness determination.
+
+3. The determination of completeness may include or be combined with the following:
+
+    a. A preliminary determination of those development regulations that will be used for project mitigation;
+
+    b. A preliminary determination of consistency, as provided under RCW 36.70B.040;
+
+    c. Other information the local government chooses to include; or
+
+    d. The notice of application pursuant to the requirements in RCW 36.70B.110.
+
+4. [Empty]
+
+    a. An application shall be deemed procedurally complete on the 29th day after receiving a project permit application under this section if the local government does not provide a written determination to the applicant that the application is procedurally incomplete as provided in subsection (1)(b)(ii) of this section. When the local government does not provide a written determination, they may still seek additional information or studies as provided for in subsection (2) of this section.
+
+    b. Within 14 days after an applicant has submitted to a local government additional information identified by the local government as being necessary for a complete application, the local government shall notify the applicant whether the application is complete or what additional information is necessary.
+
+    c. The notice of application shall be provided within 14 days after the determination of completeness pursuant to RCW 36.70B.110.
+
+## Section 7
+Section 4 of this act expires January 1, 2028.
+
+## Section 8
+Section 5 of this act takes effect January 1, 2028.

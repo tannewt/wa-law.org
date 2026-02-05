@@ -54,11 +54,13 @@
 
 ### [HB 2102](/bill/2025-26/hb/2102/) - Legal financial obligations 👍4  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍2  
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍2  
+
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍1  
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 
@@ -66,7 +68,7 @@
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍4  
 
-### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍2  
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍3  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍4  
 
@@ -148,11 +150,13 @@
 
 ### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍2  
 
-## [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍4  
+### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍4  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍5  
 
 ## 2023-24
 
-### [SB 6171](/bill/2023-24/sb/6171/) - Large energy use facilities 👍4  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍5  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

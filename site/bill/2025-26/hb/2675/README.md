@@ -14,6 +14,6 @@ Sign up to testify:
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 0 👎 - Con
+#### 43 👎 - Con
 
 #### 0 ❓ - Other

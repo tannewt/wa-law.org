@@ -14,9 +14,16 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5965 Retail bags
 Sign up to testify:
 
-#### 7 👍 - Pro
+#### 273 👍 - Pro
+Testifying:
+* Maggie Yuse - Seattle Public Utilities
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 
-#### 3 👎 - Con
+#### 84 👎 - Con
+Testifying:
+* 💵Crystal Leatherman
+* 💵Amber Carter - American Recyclable Plastic Bag Alliance (ARPBA)
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 0 ❓ - Other
 

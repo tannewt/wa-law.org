@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2322/</link>
 		<description>Updates about HB 2322</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 08:47:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,27 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Marty/Loesch/2026-01-28 08:47:54</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/ENVI - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ENVI - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENVI - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/ENVI - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Finance.</title>
+			<description>Referred to Finance.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Finance.</guid>
 		</item>
 	</channel>
 </rss>

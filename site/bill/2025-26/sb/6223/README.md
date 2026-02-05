@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6223 Community weatherization
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - Environment, Energy & Technology (ENET): SB 6223 Community weatherization
 #### 450 👍 - Pro
 Testifying:

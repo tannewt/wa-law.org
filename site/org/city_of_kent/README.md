@@ -47,9 +47,12 @@
 
 ### [SB 5890](/bill/2025-26/sb/5890/) - Reckless driving, speed 👍1  
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans.   ❓1
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
 
 ### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+
+### [SB 6343](/bill/2025-26/sb/6343/) - Atmospheric river/tax relief 👍1  
+* 👍 Kyle Moore
 
 ## [SJM 8000](/bill/2025-26/sjm/8000/) - Martin Luther King, Jr. Way 👍1  
 

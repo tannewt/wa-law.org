@@ -10,7 +10,7 @@
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2718 Transportation projects
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 25 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The dangers of AG Nick Brown's agency request bills | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_15741b7a-9a99-433d-99dd-912daead2d40.html#:~:text=HB-2096)
 * 12/09/2025 [The Center Square](/org/the_center_square/) - [WA Dems propose issuing confidential IDs to AGO despite criticizing ICE | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d9b73ff2-0a40-4cb7-862c-0e4219b6fe36.html#:~:text=House%20Bill%202096)
 
 ## Meetings

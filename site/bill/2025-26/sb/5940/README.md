@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5940 Foster care housing pilot
+Sign up to testify:
+
+#### 16 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Human Services (HS): SB 5940 Foster care housing pilot
 #### 240 👍 - Pro
 Testifying:

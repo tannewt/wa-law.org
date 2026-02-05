@@ -22,7 +22,7 @@
 ### [HB 2221](/bill/2025-26/hb/2221/) - Restoring and sustaining healthy ungulate populations.   ❓1
 * ❓💵 Mark Streuli
 
-### [HB 2239](/bill/2025-26/hb/2239/) - Providing Washingtonians and their loved ones with location choices for interment of remains. 👍1  
+### [HB 2239](/bill/2025-26/hb/2239/) - Family burial grounds 👍1  
 * 👍💵 Mark Streuli
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC  👎1 

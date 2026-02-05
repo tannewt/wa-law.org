@@ -9,14 +9,13 @@
 
 ## Meetings
 ### Wed 02/04 04:00 PM - Capital Budget (CB): SHB 2236 Housing finance commission
-Sign up to testify:
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * lisa vatske - Washington State Housing Finance Commission
 * steve walker - Washington State Housing Finance Commission
+* Amir Mehr
 
-#### 50 👎 - Con
+#### 74 👎 - Con
 
 #### 0 ❓ - Other
 

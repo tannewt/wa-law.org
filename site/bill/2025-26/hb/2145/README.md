@@ -15,14 +15,25 @@
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2145 340B drug pricing program
 Sign up to testify:
 
-#### 251 👍 - Pro
+#### 292 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
+* Blair Rossow - CHAS Health
 
-#### 48 👎 - Con
+#### 261 👎 - Con
 Testifying:
 * Corbin Santo
 * 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* Kris Tefft - Washington Liability Reform Coaliton
+* 💵Brian Henderson - AbbVie
+* Dharia McGrew - Pharmaceutical Research and Manufacturers of America
+* 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
+* 💵Lee Newgent - Pharmaceutical Industry Labor Management Association
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other
 

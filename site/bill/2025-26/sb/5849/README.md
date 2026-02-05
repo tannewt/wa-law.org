@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 02/04 10:30 AM - Early Learning & K-12 Education (EDU): SB 5849 Financial education
-Sign up to testify:
-
-#### 157 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Jeff Gadman - Thurston County Treasurer, President WSACT, Vice President WACO
 * Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
@@ -46,8 +44,9 @@ Testifying:
 * Alessandra Chavez
 * Matthew Bainter
 * Christy Johnson - Artemis Connection, Inc.
+* Paula Fillmore-Sardinas - FMSGS/WBBA
 
-#### 53 👎 - Con
+#### 75 👎 - Con
 Testifying:
 * John Axtell
 * Jay Tyus - Wilbur and Creston Cooperative School Districts

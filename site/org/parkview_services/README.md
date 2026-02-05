@@ -3,6 +3,8 @@
 
 ### [HB 2236](/bill/2025-26/hb/2236/) - Housing finance commission 👍2  
 
+### [HB 2376](/bill/2025-26/hb/2376/) - Property tax 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Marc Cote
 

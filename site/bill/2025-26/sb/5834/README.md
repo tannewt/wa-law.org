@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5834 Retirement funds/expenses

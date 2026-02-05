@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=HB%202557)
@@ -12,6 +13,15 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202557)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): HB 2557 Sp. ed. evaluation reports
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 04:00 PM - Education (ED): HB 2557 Sp. ed. evaluation reports
 #### 494 👍 - Pro
 Testifying:

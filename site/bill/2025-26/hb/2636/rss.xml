@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2636/</link>
 		<description>Updates about HB 2636</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 03:58:43 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -59,6 +59,27 @@
 			<pubDate>Mon, 02 Feb 2026 03:58:43 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=HB%202636</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ED - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ED - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/ED - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

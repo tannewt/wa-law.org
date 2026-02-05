@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Bill to clarify the law on ICE detainees brought across state lines to Washington jails heard in Senate. - Sen. Annette Cleveland](https://senatedemocrats.wa.gov/cleveland/2026/01/30/bill-to-clarify-the-law-on-ice-detainees-brought-across-state-lines-to-washington-jails-heard-in-senate/#:~:text=Senate%20Bill%206080)

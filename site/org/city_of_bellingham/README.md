@@ -25,7 +25,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ### [HB 2227](/bill/2025-26/hb/2227/) - Providing a real estate excise tax exemption for the sale of qualified affordable housing. 👍1  
 

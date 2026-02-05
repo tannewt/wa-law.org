@@ -194,7 +194,7 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎2 
 
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
 * 👍💵 Crystal Leatherman
@@ -205,17 +205,19 @@
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores  👎1 
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 * ❓💵 Crystal Leatherman
 
-### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎1 
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎2 
+* 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎1 
 
-### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎1 
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎2 
+* 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
 
 ### [HB 2483](/bill/2025-26/hb/2483/) - Data broker registry  👎1 
@@ -224,6 +226,8 @@
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
 ### [HB 2573](/bill/2025-26/hb/2573/) - Grocery stores & pharmacies  👎1 
+
+### [HB 2584](/bill/2025-26/hb/2584/) - Farm machinery sales tax 👍1  
 
 ### [HB 2615](/bill/2025-26/hb/2615/) - Tax voluntary disclosure 👍1  
 

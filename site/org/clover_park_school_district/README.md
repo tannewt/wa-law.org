@@ -19,12 +19,12 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
-## [SB 5901](/bill/2025-26/sb/5901/) - On-base school construction 👍1  
+## [SB 5901](/bill/2025-26/sb/5901/) - On-base school construction 👍2  
 * 👍 Charlie Brown
 
 ## 2023-24
 
-### [SB 5901](/bill/2023-24/sb/5901/) - On-base school construction 👍1  
+### [SB 5901](/bill/2023-24/sb/5901/) - On-base school construction 👍2  
 * 👍 Charlie Brown
 
 ### [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍3  

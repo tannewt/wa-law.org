@@ -14,6 +14,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202421)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2421 Tires/6PPD and substitutes
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 62 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2421 Tires/6PPD and substitutes
 #### 653 👍 - Pro
 Testifying:

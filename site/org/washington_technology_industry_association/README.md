@@ -42,8 +42,9 @@
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎2 
 * 👎💵 Kelly Fukai
+* 👎💵 Amy Harris
 
 ### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market   ❓1
 

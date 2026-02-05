@@ -20,11 +20,21 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): 2SSB 5387 Corp practice of health care
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 213 👍 - Pro
+Testifying:
+* 💵Patrick Connor - NFIB
+* John Sobeck - Health Care for All-WA
+* Ming Lin - Coalition for patient centered care
+* Nico Janssen - Office of the Insurance Commissioner
 
-#### 0 👎 - Con
+#### 141 👎 - Con
+Testifying:
+* John Schuler
+* MD, John Schuler - [Compass Oncology](/org/compass_oncology/)
+* Dr. Steve Pollei - RAYUS Radiology
+* 💵Kevin Schilling - Washington State Dental Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5387 Corp practice of health care
 #### 254 👍 - Pro

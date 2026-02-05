@@ -248,6 +248,8 @@
 ### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food 👍2  
 * 👍 Mary Long
 
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
+
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 
 ## 2023-24

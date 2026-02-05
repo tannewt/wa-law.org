@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=House%20Bill%201604)

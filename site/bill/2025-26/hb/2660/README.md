@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Tax fairness vs. revenue sufficiency](https://washingtonobserver.substack.com/p/tax-fairness-vs-revenue-sufficiency#:~:text=HB%202660)
 * 02/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Record deaths in WA child welfare system have Legislature’s attention • Washington State Standard](https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=House%20Bill%202660)
 
 ## Meetings

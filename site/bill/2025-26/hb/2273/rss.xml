@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2273/</link>
 		<description>Updates about HB 2273</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 07:15:48 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 02:37:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -142,6 +142,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Christine/Cooley/2026-02-03 07:15:48</guid>
+		</item>
+		<item>
+			<title>👍Kjell Anderson - Puget Sound Clean Air Agency</title>
+			<description>Kjell Anderson signed up to testify Pro.</description>
+			<pubDate>Wed, 04 Feb 2026 02:37:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kjell/Anderson/2026-02-04 02:37:22</guid>
 		</item>
 	</channel>
 </rss>

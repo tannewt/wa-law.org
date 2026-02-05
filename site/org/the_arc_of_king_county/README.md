@@ -52,6 +52,8 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍2  
 * 👍💵 Ramona Hattendorf
 
@@ -98,7 +100,7 @@
 
 ### [HB 2505](/bill/2025-26/hb/2505/) - Adult family home licensure 👍1  
 
-### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍1  
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍2  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 

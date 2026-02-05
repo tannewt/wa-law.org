@@ -15,9 +15,11 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1982 Treaty rights/convictions
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
-#### 0 👎 - Con
+#### 50 👎 - Con
 
 #### 0 ❓ - Other
 

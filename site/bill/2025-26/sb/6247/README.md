@@ -5,8 +5,18 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6247 School financial management
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 08:00 AM - Early Learning & K-12 Education (EDU): SB 6247 School financial management
 #### 19 👍 - Pro
 Testifying:

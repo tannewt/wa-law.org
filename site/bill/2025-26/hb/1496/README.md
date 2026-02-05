@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): SHB 1496 Health care information
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:00 AM - Health Care & Wellness (HCW): HB 1496 Health care information
 #### 348 👍 - Pro
 Testifying:

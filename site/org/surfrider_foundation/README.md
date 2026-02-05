@@ -42,7 +42,8 @@
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Peter Steelquist
 
-### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍2  
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍3  
+* 👍💵 Peter Steelquist
 * 👍💵 Peter Steelquist
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 

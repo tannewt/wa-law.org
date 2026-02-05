@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 03/04/2025 [The Center Square](/org/the_center_square/) - [Report: Home construction costs in Washington state climbing due to red tape | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_efe4c1d2-f94c-11ef-a413-932e6970f6ad.html#:~:text=Senate%20Bill%205729)

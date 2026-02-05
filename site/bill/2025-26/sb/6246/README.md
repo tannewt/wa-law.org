@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6246 Emissions/trade-exposed
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 08:00 AM - Environment, Energy & Technology (ENET): SB 6246 Emissions/trade-exposed
 #### 146 👍 - Pro
 Testifying:

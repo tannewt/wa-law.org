@@ -6,7 +6,7 @@
 
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ## [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 * 👎 Patrick Gallagher

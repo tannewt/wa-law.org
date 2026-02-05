@@ -10,7 +10,7 @@
 ### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
 * 👎 Amanda Martin
 
-### [HB 2240](/bill/2025-26/hb/2240/) - Concerning the delivery, execution, acceptance, and provisions of individual storage space rental agreements and modifying the use of individual storage spaces after notice of termination or nonrenewal of rental agreements.  👎1 
+### [HB 2240](/bill/2025-26/hb/2240/) - Storage space rentals  👎1 
 
 ### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎1 
 

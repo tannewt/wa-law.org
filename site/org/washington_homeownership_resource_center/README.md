@@ -42,6 +42,8 @@
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 
+### [HB 2376](/bill/2025-26/hb/2376/) - Property tax 👍1  
+
 ### [HB 2512](/bill/2025-26/hb/2512/) - Real estate/exclusive market 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
@@ -72,7 +74,7 @@
 ### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍2  
 * 👍💵 Elizabeth Perez
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Concerning permit-ready residential building plans. 👍2  
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍2  
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  
 

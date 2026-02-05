@@ -5,11 +5,21 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2026 [Senate Democrats](/org/senate_democrats/) - [WATCH: Creating more affordable housing in Spokane - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/21/watch-creating-more-affordable-housing-in-spokane/#:~:text=SB%206079)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6079 Wildfire mitigation grants
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6079 Wildfire mitigation grants
 #### 157 👍 - Pro
 Testifying:

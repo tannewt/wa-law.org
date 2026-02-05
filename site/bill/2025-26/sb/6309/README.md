@@ -7,11 +7,16 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/04/2026 [The Urbanist](/org/the_urbanist/) - [Olympia Seeks to Boost Sound Transit with Long Overdue Permit Reforms » The Urbanist](https://www.theurbanist.org/2026/02/04/olympia-seeks-to-boost-sound-transit-with-long-overdue-permit-reforms/#:~:text=Senate%20Bill%206309)
+
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6309 High cap. transit permits
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Terri Mestas - Sound Transit
 
 #### 0 👎 - Con
 

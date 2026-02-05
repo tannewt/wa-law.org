@@ -174,11 +174,16 @@
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
-## [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
+* ❓ Diana Hart
+
+### [SB 6110](/bill/2025-26/sb/6110/) - Electric bicycle, motorcycle 👍1  
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## 2023-24
 
-### [SB 6110](/bill/2023-24/sb/6110/) - Electric bicycle, motorcycle 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

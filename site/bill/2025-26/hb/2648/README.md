@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Proposed block on WA police hiring ICE agents fizzles out in Legislature • Washington State Standard](https://washingtonstatestandard.com/briefs/proposed-block-on-wa-police-hiring-ice-agents-fizzles-out-in-legislature/#:~:text=House%20Bill%202648)

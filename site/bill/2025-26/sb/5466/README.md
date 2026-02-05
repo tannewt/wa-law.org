@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%205466)
@@ -14,6 +15,15 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205466)
 
 ## Meetings
+### Fri 02/06 01:30 PM - Ways & Means (WM): 2SSB 5466 Electric transmission system
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): ESSB 5466 Electric transmission system
 #### 272 👍 - Pro
 Testifying:

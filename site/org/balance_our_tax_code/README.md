@@ -22,13 +22,14 @@
 * 👍💵 Emma Scalzo
 * 👍💵 Emma Scalzo
 
-## [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
+### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍2  
 * 👍💵 Emma Scalzo
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 5797](/bill/2023-24/sb/5797/) - Intangible assets tax 👍2  
-* 👍💵 Emma Scalzo
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

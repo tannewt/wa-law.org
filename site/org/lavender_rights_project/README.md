@@ -23,6 +23,8 @@
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
+
 ### [HB 2293](/bill/2025-26/hb/2293/) - Prohibiting law enforcement training with certain foreign entities. 👍1  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
@@ -50,6 +52,8 @@
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services   ❓1
 
 ### [SB 6201](/bill/2025-26/sb/6201/) - Social housing agencies/tax 👍1  
+
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 
 ## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
 

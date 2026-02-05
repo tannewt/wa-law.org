@@ -11,9 +11,9 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5971 Green fertilizer incentives
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 23 👍 - Pro
 
-#### 0 👎 - Con
+#### 36 👎 - Con
 
 #### 0 ❓ - Other
 

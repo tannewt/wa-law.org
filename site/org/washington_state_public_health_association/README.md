@@ -98,15 +98,16 @@
 
 ### [HB 2320](/bill/2025-26/hb/2320/) - Firearm manufacturing 👍1  
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 
-### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  
 
-### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍3  
+* 👍 Megan Moore
 * 👍 Megan Moore
 
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
@@ -120,6 +121,8 @@
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax 👍1  
 
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders 👍1  
+
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
@@ -176,6 +179,8 @@
 * 👍 Megan Moore
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. 👍1  
+
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
 ### [SB 5921](/bill/2025-26/sb/5921/) - Psilocybin   ❓1
 

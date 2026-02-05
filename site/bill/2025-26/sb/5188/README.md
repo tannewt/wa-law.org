@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Wed 02/04 04:00 PM - Capital Budget (CB): SB 5188 Broadband repair loans
-Sign up to testify:
-
-#### 42 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Ernie Rasmussen - Bigfoot Telecommunications of the Colville Tribes
 

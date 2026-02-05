@@ -5,6 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+
+## 📰 Articles
+* 02/04/2026 [The Urbanist](/org/the_urbanist/) - [Olympia Seeks to Boost Sound Transit with Long Overdue Permit Reforms » The Urbanist](https://www.theurbanist.org/2026/02/04/olympia-seeks-to-boost-sound-transit-with-long-overdue-permit-reforms/#:~:text=House%20Bill%202517)
 
 ## Meetings
 ### Tue 01/27 10:30 AM - Local Government (LG): HB 2517 High cap. transit permits

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Bill protecting ratepayers, ensuring electrical grid reliability, guiding responsible data center development heard in committee - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2026/01/23/bill-protecting-ratepayers-ensuring-electrical-grid-reliability-guiding-responsible-data-center-development-heard-in-committee/#:~:text=Senate%20Bill%206171)

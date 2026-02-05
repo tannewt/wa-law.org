@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Wed 02/04 08:00 AM - Environment, Energy & Technology (ENET): SB 5519 Ocean vessels/environment
-Sign up to testify:
-
 #### 24 👍 - Pro
 
 #### 2 👎 - Con

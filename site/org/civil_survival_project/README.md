@@ -23,7 +23,7 @@
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍1  
 
-### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+### [HB 1239](/bill/2025-26/hb/1239/) - Reentry readiness/DOC 👍1  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍3  
 
@@ -37,7 +37,7 @@
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 

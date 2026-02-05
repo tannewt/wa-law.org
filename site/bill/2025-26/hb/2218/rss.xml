@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2218 - Concerning access to medical care in workers' compensation.</title>
+		<title>HB 2218 - Workers' comp. medical care</title>
 		<link>https://wa-law.org/bill/2025-26/hb/2218/</link>
 		<description>Updates about HB 2218</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,27 @@
 			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-03/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>LAWS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAWS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/LAWS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

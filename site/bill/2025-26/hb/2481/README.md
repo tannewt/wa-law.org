@@ -17,9 +17,15 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2481 Retail pricing
 Sign up to testify:
 
-#### 12 👍 - Pro
+#### 191 👍 - Pro
+Testifying:
+* 💵Dustin Lambro - UFCW 3000
 
-#### 0 👎 - Con
+#### 42 👎 - Con
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Marian Dacca - Northwest Grocery Retail Association
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
 #### 0 ❓ - Other
 

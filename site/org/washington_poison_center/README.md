@@ -10,7 +10,7 @@
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
 
-### [HB 2168](/bill/2025-26/hb/2168/) - Facilitating the rapid sharing of overdose mapping information for overdose prevention. 👍1  
+### [HB 2168](/bill/2025-26/hb/2168/) - Overdose mapping information 👍1  
 * 👍 MD, Scott Phillips
 
 ### [HB 2291](/bill/2025-26/hb/2291/) - Kratom   ❓1

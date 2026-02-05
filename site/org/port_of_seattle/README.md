@@ -74,7 +74,7 @@
 
 ### [HB 2198](/bill/2025-26/hb/2198/) - Improving regulatory efficiency by integrating executive order 25-03, concerning permitting and licensing processes, into chapter 43.42A RCW. 👍1  
 
-### [HB 2199](/bill/2025-26/hb/2199/) - Reducing impacts from derelict vessels. 👍1  
+### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
 ### [HB 2219](/bill/2025-26/hb/2219/) - Child care providers 👍1  
 

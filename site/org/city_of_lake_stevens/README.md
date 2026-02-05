@@ -19,6 +19,8 @@
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
+
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
@@ -30,6 +32,8 @@
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+
+### [SB 5650](/bill/2025-26/sb/5650/) - Cannabis local excise tax 👍1  
 
 ## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 

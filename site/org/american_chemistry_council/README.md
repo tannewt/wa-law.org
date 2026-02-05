@@ -4,12 +4,12 @@
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings   ❓1
 * ❓💵 Troy Nichols
 
-## [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎1 
+## [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎2 
 * 👎💵 Troy Nichols
 
 ## 2023-24
 
-### [HB 2271](/bill/2023-24/hb/2271/) - Plastics/recycled content  👎1 
+### [HB 2271](/bill/2023-24/hb/2271/) - Plastics/recycled content  👎2 
 * 👎💵 Troy Nichols
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎4 

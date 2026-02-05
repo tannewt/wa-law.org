@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2517/</link>
 		<description>Updates about HB 2517</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,34 @@
 			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-03/LG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>LG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/LG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-04/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Olympia Seeks to Boost Sound Transit with Long Overdue Permit Reforms » The Urbanist</title>
+			<description>News article "Olympia Seeks to Boost Sound Transit with Long Overdue Permit Reforms » The Urbanist" from The Urbanist.</description>
+			<pubDate>Wed, 04 Feb 2026 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026/02/04/olympia-seeks-to-boost-sound-transit-with-long-overdue-permit-reforms/#:~:text=House%20Bill%202517</guid>
 		</item>
 	</channel>
 </rss>

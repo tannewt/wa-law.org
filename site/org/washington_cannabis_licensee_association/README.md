@@ -26,6 +26,8 @@
 ### [HB 2639](/bill/2025-26/hb/2639/) - Complimentary cannabis 👍1  
 * 👍 Bethany Rondeaux
 
+### [HB 2681](/bill/2025-26/hb/2681/) - Cannabis license fees   ❓1
+
 ### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising 👍2  
 * 👍 Bethany Rondeaux
 * 👍💵 Trent Matson
@@ -35,6 +37,9 @@
 
 ### [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry  👎1 
 * 👎💵 Trent Matson
+
+### [SB 5650](/bill/2025-26/sb/5650/) - Cannabis local excise tax  👎1 
+* 👎 Bethany Rondeaux
 
 ### [SB 6195](/bill/2025-26/sb/6195/) - Cannabis oversupply 👍1  
 * 👍💵 Trent Matson

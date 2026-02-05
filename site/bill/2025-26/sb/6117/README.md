@@ -14,11 +14,11 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6117 Collective bargaining
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
 
-#### 0 👎 - Con
+#### 260 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 6117 Collective bargaining
 #### 135 👍 - Pro

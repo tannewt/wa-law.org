@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/24/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting local journalism and student success - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/24/3559/#:~:text=Senate%20Bill%205346)

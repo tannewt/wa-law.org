@@ -80,6 +80,9 @@
 
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 
+### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18  👎1 
+* 👎 Eric Perry
+
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 

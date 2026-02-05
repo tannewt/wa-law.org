@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/11 08:00 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 04:00 PM - Education (ED): SSB 5240 Anaphylaxis med. in schools
 #### 4 👍 - Pro
 

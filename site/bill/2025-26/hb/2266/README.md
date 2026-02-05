@@ -16,6 +16,22 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202266)
 
 ## Meetings
+### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2266 Supportive & emerg. housing
+Sign up to testify:
+
+#### 23 👍 - Pro
+Testifying:
+* 💵Jenn Henderson - [Disability Rights Washington](/org/disability_rights_washington/)
+* Sarah Dickmeyer - Plymouth Housing
+
+#### 14 👎 - Con
+Testifying:
+* Gloria Mantz - [City of Spokane Valley](/org/city_of_spokane_valley/)
+
+#### 1 ❓ - Other
+Testifying:
+* Carol Helland - Director, Planning & Community Development for City of Redmond
+
 ### Tue 01/20 04:00 PM - Housing (HOUS): HB 2266 Supportive & emerg. housing
 #### 1154 👍 - Pro
 Testifying:

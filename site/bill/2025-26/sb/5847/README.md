@@ -11,9 +11,17 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5847 Workers' comp. medical care
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 71 👍 - Pro
+Testifying:
+* AJ Johnson - Washington State Council of Firefighters
+* 💵Daniel Goodman - Washington State Association for Justice
+* David Lauman - Washington State Association for Justice
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Kris Tefft - Washington Self-Insurers Association
+* 💵Patrick Connor - NFIB
+* 💵James Crandall - AWB
 
 #### 0 ❓ - Other
 

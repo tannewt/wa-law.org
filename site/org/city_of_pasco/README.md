@@ -12,6 +12,9 @@
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
+### [HB 2174](/bill/2025-26/hb/2174/) - Crash prevention zones 👍1  
+* 👍💵 Briahna Murray
+
 ### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
 * 👍 Richa Sigdel
 

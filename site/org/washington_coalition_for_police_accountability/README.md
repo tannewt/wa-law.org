@@ -22,7 +22,7 @@
 ### [HB 2161](/bill/2025-26/hb/2161/) - AGO investigation powers 👍1  
 * 👍 Elaine Simons
 
-### [HB 2220](/bill/2025-26/hb/2220/) - Concerning state oversight and accountability of the criminal justice training commission.  👎2 
+### [HB 2220](/bill/2025-26/hb/2220/) - CJTC oversight  👎2 
 * 👎 Martina Morris
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎2 

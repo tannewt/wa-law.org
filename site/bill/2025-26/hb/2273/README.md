@@ -12,19 +12,18 @@
 
 ## Meetings
 ### Wed 02/04 04:00 PM - Capital Budget (CB): HB 2273 Embodied carbon/buildings
-Sign up to testify:
-
-#### 12 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Alexandra Johnson - Duwamish River Community Coalition
 * Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
+* Kjell Anderson
 
-#### 1043 👎 - Con
+#### 1163 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 3 ❓ - Other
+#### 10 ❓ - Other
 
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2273 Embodied carbon/buildings
 #### 17 👍 - Pro
