@@ -26,11 +26,11 @@
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
-## [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
+## [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍2  
 
 ## 2023-24
 
-### [SB 5387](/bill/2023-24/sb/5387/) - Corp practice of health care 👍1  
+### [SB 5387](/bill/2023-24/sb/5387/) - Corp practice of health care 👍2  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Joelle Craft

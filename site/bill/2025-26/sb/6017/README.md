@@ -8,19 +8,19 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB 6017)
 * 02/02/2026 [Senate Democrats](/org/senate_democrats/) - [Orwall bill improving support for sexual and domestic violence survivors advances in Washington Legislature - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/02/orwall-bill-improving-support-for-sexual-and-domestic-violence-survivors-advances-in-washington-legislature/#:~:text=Senate%20Bill%206017)
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6017 Crime victims & witnesses
-Sign up to testify:
-
-#### 31 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * Abigail Echo-Hawk - Seattle Indian Health Board
 * Temryss Lane
 * Absa Samba - Washington Coalition to End Female Genital Mulation/Cutting
 * Kate Garvey - King County Sexual Assault Resource Center
 * PAULA REED - Children's Advocacy Centers of WA
+* Celeste Lucero - Seattle Indian Health Board
 
 #### 1 👎 - Con
 

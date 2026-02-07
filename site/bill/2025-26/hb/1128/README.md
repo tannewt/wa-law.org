@@ -15,16 +15,24 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 1128 Child care workforce board
-Sign up to testify:
+#### 1055 👍 - Pro
+Testifying:
+* Gina Malagon - SEIU 925/Child care teacher
+* Sumaiya Iman - SEIU 925 / child care owner
+* Dora Poqui
+* 💵Erin Haick - SEIU 925
+* 💵Heather Kurtenbach - Washington State Building & Construction Trades
 
-#### 707 👍 - Pro
-
-#### 652 👎 - Con
+#### 1457 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * Angelia Maxie
 * Heather Boysen
 * Erin Hayden - Learning Care Group
+* Sapna Rampersaud - [Early Care and Education Consortium](/org/early_care_and_education_consortium/)
+* 💵David Foster
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
+* Jenna McKenzie - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
 #### 9 ❓ - Other
 

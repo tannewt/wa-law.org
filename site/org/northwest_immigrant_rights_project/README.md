@@ -34,7 +34,9 @@
 * 👍💵 Malou Chavez
 * 👍 Vanessa Guitierrez
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍3  
 * 👍💵 Malou Chavez
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍2  
@@ -53,7 +55,7 @@
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 * 👍 Tim Warden-Hertz
 
-### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎2 
 * 👎💵 Malou Chavez
@@ -94,6 +96,8 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍3  
 * 👍💵 Malou Chavez
 * 👍💵 Malou Chavez
@@ -101,13 +105,14 @@
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 * 👍 Tim Warden-Hertz
 
-## [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍2  
+### [SB 6109](/bill/2025-26/sb/6109/) - Private detention/investment 👍2  
 * 👍 Tim Warden Hertz
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6109](/bill/2023-24/sb/6109/) - Private detention/investment 👍2  
-* 👍 Tim Warden Hertz
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

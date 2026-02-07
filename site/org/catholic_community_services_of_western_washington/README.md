@@ -10,6 +10,8 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+
 ### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍2  
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍2  

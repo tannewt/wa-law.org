@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=interest%20charges)

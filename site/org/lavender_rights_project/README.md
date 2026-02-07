@@ -28,7 +28,7 @@
 ### [HB 2293](/bill/2025-26/hb/2293/) - Prohibiting law enforcement training with certain foreign entities. 👍1  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
-* 👍 Jaelynn Scott
+* 👍💵 Jaelynn Scott
 
 ### [HB 2526](/bill/2025-26/hb/2526/) - Prostitution  👎1 
 
@@ -43,10 +43,10 @@
 * ❓ Bryanna Jenkins
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
-* 👍 Jaelynn Scott
+* 👍💵 Jaelynn Scott
 
 ### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍3  
-* 👍 Jaelynn Scott
+* 👍💵 Jaelynn Scott
 * 👍💵 Oliver Miska
 
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services   ❓1
@@ -55,22 +55,24 @@
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 
-## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6304](/bill/2023-24/sb/6304/) - WSIB investing principles 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 * 👍 Amari Leach
 
 ### [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
-* 👍 Jaelynn Scott
-* 👍 Jaelynn Scott
+* 👍💵 Jaelynn Scott
+* 👍💵 Jaelynn Scott
 
 ### [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 
 ### [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
-* 👍 Jaelynn Scott
+* 👍💵 Jaelynn Scott
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  

@@ -35,6 +35,8 @@
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍3  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍3  
@@ -51,7 +53,11 @@
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
+
+### [HB 2172](/bill/2025-26/hb/2172/) - Road jurisdiction transfer 👍2  
+* 👍 Steve Victor
+* 👍 Jennifer Kammerzell
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 * 👍 Preston Peck
@@ -62,11 +68,17 @@
 
 ### [HB 2351](/bill/2025-26/hb/2351/) - Emergency response 👍1  ❓1
 
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
+
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
 ### [HB 2464](/bill/2025-26/hb/2464/) - Private detention/reports 👍1  
 
 ### [HB 2597](/bill/2025-26/hb/2597/) - Immigration enforcement 👍1  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
+
+### [HB 2722](/bill/2025-26/hb/2722/) - Vehicle fees/maximum weight 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Alex MacBain
@@ -126,7 +138,7 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍1  
 * 👍 Preston Peck

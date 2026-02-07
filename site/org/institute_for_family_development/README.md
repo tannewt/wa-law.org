@@ -7,11 +7,17 @@
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 * 👍💵 Mary Fischer
 
-## [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍1  
+### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍1  
+
+### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
+
+## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍2  
+* 👍💵 Mary Fischer
 
 ## 2023-24
 
-### [SB 5149](/bill/2023-24/sb/5149/) - Early childhood court prg. 👍1  
+### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare time extension 👍2  
+* 👍💵 Mary Fischer
 
 ### [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 

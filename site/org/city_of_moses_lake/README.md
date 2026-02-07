@@ -16,7 +16,7 @@
 
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. 👍1  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws  👎1 
 
@@ -24,8 +24,10 @@
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 
-## [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍1  
+### [SB 6132](/bill/2025-26/sb/6132/) - Inland port district debt 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-## [SB 6132](/bill/2023-24/sb/6132/) - Inland port district debt 👍1  
+## [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 

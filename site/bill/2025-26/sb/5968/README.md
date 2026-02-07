@@ -16,11 +16,9 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5968 Permitting and licensing
-Sign up to testify:
+#### 33 👍 - Pro
 
-#### 18 👍 - Pro
-
-#### 31 👎 - Con
+#### 49 👎 - Con
 
 #### 0 ❓ - Other
 

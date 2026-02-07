@@ -5,6 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+
+## 📰 Articles
+* 02/05/2026 [The Center Square](/org/the_center_square/) - [Senate advances bipartisan bill allowing cops to cite parked cars for expired tabs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fe2eaede-78e8-48ef-924e-c1978fa319d8.html#:~:text=Senate%20Bill%206176)
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Transportation (TRAN): SB 6176 Failure to renew vehicle

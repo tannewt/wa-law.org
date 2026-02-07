@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/28/2026 [The Center Square](/org/the_center_square/) - [WA bill would limit immunity for ICE agents in noncriminal enforcement activities | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0ca2959a-9cc0-4605-a91d-a6b110e16d1e.html#:~:text=House%20Bill%202597)

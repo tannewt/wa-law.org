@@ -7,17 +7,24 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206308)
+
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6308 Child shelter care orders
-Sign up to testify:
+#### 10 👍 - Pro
+Testifying:
+* Shannon Selland - [Family Impact Network](/org/family_impact_network/)
+* Kim Justice - Partners for Our Children
 
-#### 0 👍 - Pro
-
-#### 28 👎 - Con
+#### 130 👎 - Con
 Testifying:
 * Sarah Akey
 * Tracie Jefferson
 * Amy Parks
+* Kate Benward - King County Department of Public Defense
+* Kristina Johnson - Keeping Kids SAFE
+* Angela Kraemer
 
 #### 0 ❓ - Other
 

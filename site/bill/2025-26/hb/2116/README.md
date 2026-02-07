@@ -13,20 +13,20 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2116 School enrichment funding
-Sign up to testify:
-
-#### 228 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * William Yoon - Youth Civic Bridge
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 971 👎 - Con
+#### 1079 👎 - Con
 Testifying:
 * John Axtell
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Curtis Guaglianone - Mt. Adams School District
+* Jason Perrins - Chewelah SD
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Barbara Gilchrist
+* Jay Tyus - Wilbur and Creston Cooperative School Districts

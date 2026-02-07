@@ -13,13 +13,23 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2333 Political violence
-Sign up to testify:
+#### 7 👍 - Pro
 
-#### 2 👍 - Pro
+#### 120 👎 - Con
+Testifying:
+* Marianne Nichols - Washington Association of County Auditors - Pend Oreille County Auditor
+* Halima Omar - SAW (Seattle Against War)
+* Halima Omar - SAW (Seattle Against War)
+* Laura Wroblewski
+* Todd Hollenbeck
+* Miles Miranda
+* Juliana Karp
 
-#### 6 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Dallas Burnett - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Kim Bradford - Public Disclosure Commission
 
 ### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2333 Political violence
 #### 37 👍 - Pro

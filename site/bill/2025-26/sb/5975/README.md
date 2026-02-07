@@ -9,13 +9,17 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5975 Safe cookware
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* Charlie Brown - AHAM and Cookware Sustainability Alliance
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 0 👎 - Con
+#### 148 👎 - Con
+Testifying:
+* 💵Nick Federici - Toxic Free Future
+* Monica Ayers - King County Hazardous Waste Management Program
 
 #### 0 ❓ - Other
 

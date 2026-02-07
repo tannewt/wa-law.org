@@ -11,6 +11,8 @@
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
@@ -34,6 +36,8 @@
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ### [SB 5650](/bill/2025-26/sb/5650/) - Cannabis local excise tax 👍1  
+
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 
 ## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎1 
 

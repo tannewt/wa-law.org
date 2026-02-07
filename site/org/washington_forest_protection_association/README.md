@@ -49,6 +49,9 @@
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
+* 👎💵 Matt Doumit
+
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 
 ### [SB 5893](/bill/2025-26/sb/5893/) - Forest health appropriation 👍1  

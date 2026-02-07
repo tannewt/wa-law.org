@@ -5,6 +5,8 @@
 
 ### [SB 5676](/bill/2025-26/sb/5676/) - Electronic admission tickets  👎1 
 
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+
 ### [SB 6113](/bill/2025-26/sb/6113/) - Tax administration   ❓1
 
 ## [SB 6175](/bill/2025-26/sb/6175/) - Ticket sales 👍1  

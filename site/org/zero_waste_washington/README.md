@@ -34,7 +34,7 @@
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍6  
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍8  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
@@ -88,7 +88,7 @@
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍2  
 * 👍💵 Heather Trim
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍2  ❓2
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍4  ❓2
 * ❓💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -97,7 +97,7 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎1 
 
-### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍2  ❓1
+### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍4  ❓1
 * ❓💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -107,7 +107,7 @@
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities  👎1 
 * 👎💵 Heather Trim
 
-### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍2  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍7  
 * 👍💵 Heather Trim
@@ -152,10 +152,10 @@
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎3 
 
-### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍4  
+### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍7  
 * 👍💵 Heather Trim
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎2 
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎5 
 * 👎💵 Heather Trim
 
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
@@ -163,7 +163,7 @@
 ### [SB 6119](/bill/2025-26/sb/6119/) - Tires/6PPD and substitutes 👍2  
 * 👍💵 Heather Trim
 
-### [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍2  
+### [SB 6124](/bill/2025-26/sb/6124/) - Appliance afford. index 👍4  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 

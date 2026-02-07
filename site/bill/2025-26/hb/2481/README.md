@@ -15,17 +15,18 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2481 Retail pricing
-Sign up to testify:
-
-#### 191 👍 - Pro
+#### 236 👍 - Pro
 Testifying:
 * 💵Dustin Lambro - UFCW 3000
+* Maya Morales - WA People's Privacy
+* Jonathan Pincus
 
-#### 42 👎 - Con
+#### 74 👎 - Con
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Marian Dacca - Northwest Grocery Retail Association
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Jessica Vittorio - VusionGroup Inc.
 
 #### 0 ❓ - Other
 

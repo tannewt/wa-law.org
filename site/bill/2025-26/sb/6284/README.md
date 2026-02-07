@@ -9,13 +9,18 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6284 AI consumer protections
-Sign up to testify:
+#### 64 👍 - Pro
+Testifying:
+* 💵Gabriel Neuman - GSBA, Washington's LGBTQ+ Chamber of Commerce
+* James Wang
+* Frédéric Dubut
 
-#### 1 👍 - Pro
+#### 67 👎 - Con
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵Rose Feliciano - TechNet
 
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 6284 AI consumer protections
 #### 16 👍 - Pro

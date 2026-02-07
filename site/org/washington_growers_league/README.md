@@ -23,15 +23,17 @@
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers   ❓1
 * ❓💵 Michael Gempler
 
-## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎2 
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎2 
 * 👎💵 Michael Gempler
 * 👎💵 Michael Gempler
+
+## [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining   ❓1
+* ❓💵 Michael Gempler
 
 ## 2023-24
 
-### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC  👎2 
-* 👎💵 Michael Gempler
-* 👎💵 Michael Gempler
+### [SB 6117](/bill/2023-24/sb/6117/) - Collective bargaining   ❓1
+* ❓💵 Michael Gempler
 
 ### [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data  👎1 
 * 👎 Nora Palattao Burnes

@@ -56,7 +56,7 @@
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria   ❓1
 
-### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 * 👍 Bianca Siegl
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
@@ -90,6 +90,8 @@
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓1
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
 

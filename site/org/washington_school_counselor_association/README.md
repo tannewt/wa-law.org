@@ -15,14 +15,15 @@
 ### [HB 1393](/bill/2025-26/hb/1393/) - Commencement/cultural exp. 👍1  
 * 👍 Lauren Mendez
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍4  
+* 👍 Mabel Thackeray
 * 👍 Mabel Thackeray
 
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  
 
 ### [HB 2007](/bill/2025-26/hb/2007/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  
 
-### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding 👍1  
+### [HB 2116](/bill/2025-26/hb/2116/) - School enrichment funding 👍2  
 
 ### [HB 2132](/bill/2025-26/hb/2132/) - Financial aid applic./PRA 👍1  
 
@@ -30,6 +31,8 @@
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Jenny Morgan
+
+### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
 ### [HB 2458](/bill/2025-26/hb/2458/) - College grant/credential prg 👍1  
 
@@ -75,7 +78,7 @@
 * 👎 Jorge Torres
 * 👎 Michelle Sotelo
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍2  
 * 👍 Lauren Mendez
 
 ### [SB 5859](/bill/2025-26/sb/5859/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  

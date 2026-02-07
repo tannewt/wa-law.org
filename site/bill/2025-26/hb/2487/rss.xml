@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2487/</link>
 		<description>Updates about HB 2487</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 11:48:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 20:58:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jim/Freeburg/2026-01-30 11:48:48</guid>
+		</item>
+		<item>
+			<title>The Week Ahead (February 9 – 15, 2026) | Washington State House Republicans</title>
+			<description>News article "The Week Ahead (February 9 – 15, 2026) | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 06 Feb 2026 20:58:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-february-9-15-2026/#:~:text=HB%202487</guid>
 		</item>
 	</channel>
 </rss>

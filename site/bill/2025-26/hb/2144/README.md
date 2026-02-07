@@ -13,19 +13,21 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2144 Employee monitoring notices
-Sign up to testify:
+#### 34 👍 - Pro
 
-#### 1 👍 - Pro
-
-#### 7 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* 💵Sheri Call - Washington Trucking Associations
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵James Crandall - AWB
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
 #### 1 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2144 Employee monitoring notices
-Sign up to testify:
-
 #### 17 👍 - Pro
 
 #### 375 👎 - Con

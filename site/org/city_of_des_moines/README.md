@@ -7,9 +7,13 @@
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍3  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 

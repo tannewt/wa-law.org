@@ -241,12 +241,14 @@
 ### [SB 6111](/bill/2025-26/sb/6111/) - Minors/digital services  👎1 ❓1
 * ❓ Julie Barrett
 
-### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program  👎5 
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program  👎6 
 * 👎 Mary Long
 * 👎 Mary Long
 
 ### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food 👍2  
 * 👍 Mary Long
+
+### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 
 ### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 

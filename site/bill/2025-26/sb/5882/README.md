@@ -8,11 +8,14 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5882 Correctional workers/stress
-Sign up to testify:
+#### 29 👍 - Pro
+Testifying:
+* Michael Rainey - AFSCME Council 2
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 70 👎 - Con
+Testifying:
+* 💵Rose Gundersen - WA Retail Association
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other
 

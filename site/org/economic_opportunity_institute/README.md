@@ -66,7 +66,7 @@
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 * 👍💵 Annie Kucklick
 
-### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
+### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍3  
 
 ### [HB 2242](/bill/2025-26/hb/2242/) - Preventive health services 👍1  
 
@@ -108,7 +108,8 @@
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍2  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍3  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Rainier school  👎1 
@@ -165,12 +166,14 @@
 
 ### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Rian Watt
 * 👍💵 Rian Watt
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Rian Watt
 * 👍💵 Rian Watt
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1

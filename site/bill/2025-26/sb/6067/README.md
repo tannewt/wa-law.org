@@ -8,16 +8,18 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6067 Workers' compensation
-Sign up to testify:
+#### 76 👍 - Pro
+Testifying:
+* 💵Ray Dumas - Operative Plasterers and Cement Masons
+* Joe Kendo - Washington State Labor Council, AFL-CIO
 
-#### 48 👍 - Pro
-
-#### 58 👎 - Con
+#### 114 👎 - Con
 Testifying:
 * Kris Tefft - Washington Self-Insurers Association
 * 💵Patrick Connor - NFIB
+* 💵Carolyn Logue - ABC Inland Pacific Chapter
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 6067 Workers' compensation
 #### 154 👍 - Pro

@@ -14,13 +14,14 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): HB 2557 Sp. ed. evaluation reports
-Sign up to testify:
+#### 86 👍 - Pro
+Testifying:
+* Beth Cogan - WA State PTA
+* Jana Parker - Seattle Special Education PTSA
 
-#### 1 👍 - Pro
+#### 7 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/27 04:00 PM - Education (ED): HB 2557 Sp. ed. evaluation reports
 #### 494 👍 - Pro

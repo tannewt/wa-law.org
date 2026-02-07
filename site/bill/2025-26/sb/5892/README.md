@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%205892)
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Protecting your voter data & town hall recap - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/02/06/protecting-your-voter-data-town-hall-recap/#:~:text=Senate%20Bill%205892)
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=SB%205892)
+* 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [Senate approves legislation to protect sensitive voter data - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/02/05/senate-approves-legislation-to-protect-sensitive-voter-data/#:~:text=Senate%20Bill%205892)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB 5892)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: 2026 legislative session is underway - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2026/01/23/lizs-loveletter-2026-legislative-session-is-underway/#:~:text=SB 5892)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=SB%205892)

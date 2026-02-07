@@ -9,11 +9,11 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5763 Law enf. aviation support
-Sign up to testify:
+#### 60 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 78 👎 - Con
 
 #### 0 ❓ - Other
 

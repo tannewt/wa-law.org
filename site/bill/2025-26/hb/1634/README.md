@@ -19,11 +19,14 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): 2SHB 1634 Behavioral health/schools
-Sign up to testify:
+#### 278 👍 - Pro
+Testifying:
+* 💵Sarah Rafton - Behavioral Health Catalyst
+* Dusty Sparks - NAMI Southwest Washington
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* Mabel Thackeray - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 
-#### 5 👍 - Pro
-
-#### 11 👎 - Con
+#### 242 👎 - Con
 
 #### 0 ❓ - Other
 

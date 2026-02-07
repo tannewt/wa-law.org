@@ -8,20 +8,29 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206319)
 * 02/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Record deaths in WA child welfare system have Legislature’s attention • Washington State Standard](https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=Senate%20Bill%206319)
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6319 Child welfare time extension
-Sign up to testify:
+#### 22 👍 - Pro
+Testifying:
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Shannon Selland - [Family Impact Network](/org/family_impact_network/)
+* Kim Justice - Partners for Our Children
+* 💵Carrie Glover - WithinReach
+* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 
-#### 0 👍 - Pro
-
-#### 32 👎 - Con
+#### 145 👎 - Con
 Testifying:
 * Sarah Akey
 * Tracie Jefferson
 * Amy Parks
 * Anna Eshelman
+* Adrienne McKinley
+* Kristina Johnson - Keeping Kids SAFE
+* Angela Kraemer
+* Mary Ann Townsend
 
 #### 0 ❓ - Other
 

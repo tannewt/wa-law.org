@@ -5,11 +5,24 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202438)
 
 ## Meetings
+### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2438 Early education scholarship
+Sign up to testify:
+
+#### 6 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Rebecca Cramer
+
+#### 34 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2438 Early education scholarship
 #### 27 👍 - Pro
 Testifying:

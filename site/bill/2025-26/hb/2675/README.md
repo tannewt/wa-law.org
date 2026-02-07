@@ -8,12 +8,10 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2675 Accounts
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 43 👎 - Con
+#### 76 👎 - Con
 
 #### 0 ❓ - Other

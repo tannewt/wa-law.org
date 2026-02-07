@@ -5,7 +5,7 @@
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
-### [HB 1982](/bill/2025-26/hb/1982/) - Treaty rights/convictions 👍1  
+### [HB 1982](/bill/2025-26/hb/1982/) - Treaty rights/convictions 👍2  
 * 👍 Chairman, Kris Peters
 
 ### [HB 2205](/bill/2025-26/hb/2205/) - Regulated sports wagering 👍2  
@@ -15,6 +15,9 @@
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
 ### [SB 5264](/bill/2025-26/sb/5264/) - Tax compacts/capital invest. 👍1  
+
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
+* 👎 Daniel Kuntz
 
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
 

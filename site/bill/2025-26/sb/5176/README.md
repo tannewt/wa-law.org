@@ -9,15 +9,19 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5176 Prompt pay/capital projects
-Sign up to testify:
-
-#### 52 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * Paula Fillmore-Sardinas - WBBA/Tabor 100
 * Irene Reyes - Association of Women and Minority Businesses
 * Jimmy Matta - The Northwest Minority Builders Alliance (NWMBA)
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Chukundi Salisbury - TABOR 100
+* Darci Henderson - Alltrus
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

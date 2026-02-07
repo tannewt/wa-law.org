@@ -7,6 +7,8 @@
 
 ### [HB 1081](/bill/2025-26/hb/1081/) - Solicited real estate 👍1  
 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
 ### [HB 1211](/bill/2025-26/hb/1211/) - Clergy, duty to report abuse 👍1  
@@ -40,6 +42,8 @@
 
 ### [HB 1919](/bill/2025-26/hb/1919/) - Working conn. child care 👍1  
 
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
+
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
@@ -53,6 +57,8 @@
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
+
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
 
 ### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎1 
 

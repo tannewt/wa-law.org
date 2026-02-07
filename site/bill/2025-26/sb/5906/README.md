@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=The%20SAFE%20Act)
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=SB%205906)
+* 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [Supporting our communities and working families - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/05/supporting-our-communities-and-working-families/#:~:text=Senate%20Bill%205906)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%205906)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/01/30/legislative-action-to-keep-our-communities-safe-and-supported/#:~:text=SB%205906)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%205906)
@@ -27,15 +30,14 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5906 Data and personal safety
-Sign up to testify:
-
-#### 538 👍 - Pro
+#### 1233 👍 - Pro
 Testifying:
 * Karina Cruz - Communities for Our Colleges
+* 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 
-#### 83 👎 - Con
+#### 390 👎 - Con
 
-#### 3 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5906 Data and personal safety
 #### 3743 👍 - Pro

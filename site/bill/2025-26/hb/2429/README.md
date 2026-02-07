@@ -14,14 +14,12 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2429 Youth behavioral health
-Sign up to testify:
-
-#### 178 👍 - Pro
+#### 229 👍 - Pro
 Testifying:
 * 💵Ashley Jackson - Seattle Children's
 * 💵Sarah Rafton - Behavioral Health Catalyst
 
-#### 160 👎 - Con
+#### 435 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - The Citizens Commission on Human Rights
 

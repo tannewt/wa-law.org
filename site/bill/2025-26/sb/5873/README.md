@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%205873)
+
 ## Meetings
 ### Tue 01/13 01:30 PM - Human Services (HS): SB 5873 DOC/escorted leave
 #### 17 👍 - Pro

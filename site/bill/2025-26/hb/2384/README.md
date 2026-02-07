@@ -9,11 +9,12 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2384 Continuing care retirement
-Sign up to testify:
+#### 195 👍 - Pro
+Testifying:
+* Kim Hickman - WACCRA
+* Laura Saunders - WACCRA
 
-#### 185 👍 - Pro
-
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Alyssa Odegaard - LeadingAge Washington
 

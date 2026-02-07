@@ -16,8 +16,6 @@
 
 ## Meetings
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2362 Impaired driving
-Sign up to testify:
-
 #### 57 👍 - Pro
 Testifying:
 * Linda Thompson - In Memory of Trevor Pierce, 9/16/1982 - 8/16/1986

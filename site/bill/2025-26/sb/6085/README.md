@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206085)
+
 ## Meetings
 ### Wed 01/21 08:00 AM - Human Services (HS): SB 6085 Institutional welfare acct
 #### 13 👍 - Pro

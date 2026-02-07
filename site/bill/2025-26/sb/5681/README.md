@@ -9,9 +9,7 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5681 DDA employment services age
-Sign up to testify:
-
-#### 126 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 * DARCY HUFFMAN - [Community Employment Alliance](/org/community_employment_alliance/)
@@ -20,7 +18,7 @@ Testifying:
 * 💵Shawn Latham - Self Advocates In Leadership
 * Naomi Snow
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -46,6 +46,8 @@
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
 ### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding 👍1  

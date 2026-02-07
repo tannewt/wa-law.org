@@ -22,7 +22,7 @@
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍2  
 * 👍 Tricia Bennon
 
-### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 
 ### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍2  
 
@@ -59,6 +59,8 @@
 
 ### [HB 2588](/bill/2025-26/hb/2588/) - County ferry districts 👍1  
 
+### [HB 2720](/bill/2025-26/hb/2720/) - Behavioral health services 👍1  
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
@@ -69,6 +71,8 @@
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
 
 ### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍4  
 * 👍 Tricia Bennon
@@ -94,9 +98,9 @@
 ### [SB 6181](/bill/2025-26/sb/6181/) - City incorporation 👍1  
 * 👍 alon bassok
 
-### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍2  
 
-### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  
 * 👍 Ryan Mello
 
 ## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  

@@ -22,7 +22,7 @@
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 

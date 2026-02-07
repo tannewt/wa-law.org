@@ -13,14 +13,15 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2145 340B drug pricing program
-Sign up to testify:
-
-#### 292 👍 - Pro
+#### 397 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 * Blair Rossow - CHAS Health
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Andy Nelson - Jefferson Healthcare
+* Sumona Das Gupta - UW Medicine
 
-#### 261 👎 - Con
+#### 587 👎 - Con
 Testifying:
 * Corbin Santo
 * 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
@@ -34,6 +35,7 @@ Testifying:
 * 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
 * 💵Lee Newgent - Pharmaceutical Industry Labor Management Association
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Kalvin Pugh - Community Access National Network
 
 #### 1 ❓ - Other
 

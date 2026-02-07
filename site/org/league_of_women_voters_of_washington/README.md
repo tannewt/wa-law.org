@@ -194,7 +194,7 @@
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  ❓1
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍4  
 * 👍 Dee Anne Finken
 * 👍 Dee Anne Finken
 * 👍 Dee Anne Finken
@@ -232,11 +232,11 @@
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
 * 👍 Alison McCaffree
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎2 
 
 ### [SB 6030](/bill/2025-26/sb/6030/) - Plastic carryout bags  👎1 
 
-### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  ❓1
 
 ### [SB 6104](/bill/2025-26/sb/6104/) - Agriculture impacts   ❓1
 

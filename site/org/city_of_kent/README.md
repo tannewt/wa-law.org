@@ -19,10 +19,15 @@
 ### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings   ❓1
 * ❓ Michele Walker
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+* 👍 Kyle Moore
+
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding   ❓1
 * ❓💵 Briahna Murray
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones   ❓1
 * ❓ Kristen Holdsworth

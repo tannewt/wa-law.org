@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202593)

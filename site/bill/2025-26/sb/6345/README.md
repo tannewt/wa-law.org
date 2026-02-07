@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Transportation (TRAN): SB 6345 Transportation contracting
-Sign up to testify:
-
 #### 161 👍 - Pro
 Testifying:
 * Jerry VanderWood - AGC

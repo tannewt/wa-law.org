@@ -32,6 +32,8 @@
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects  👎1 
 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎1 
+
 ### [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
@@ -50,11 +52,13 @@
 
 ### [SB 5815](/bill/2025-26/sb/5815/) - Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies.  👎1 
 
-## [SB 6205](/bill/2025-26/sb/6205/) - Grant distribution 👍1  
+### [SB 6205](/bill/2025-26/sb/6205/) - Grant distribution 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6205](/bill/2023-24/sb/6205/) - Grant distribution 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1067](/bill/2023-24/hb/1067/) - High-hazard facility wages  👎2 
 * 👎 Ryan Likkel

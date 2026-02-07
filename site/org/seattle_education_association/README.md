@@ -32,11 +32,11 @@
 
 ### [SB 6260](/bill/2025-26/sb/6260/) - Public education funding  👎2 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍6  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍11  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍6  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍11  
 
 ### [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
 

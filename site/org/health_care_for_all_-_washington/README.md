@@ -92,15 +92,17 @@
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 
-### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
 
 ### [SB 6231](/bill/2025-26/sb/6231/) - Data center equipment/taxes 👍1  
 
-## [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6292](/bill/2023-24/sb/6292/) - Health care financing 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 * 👍 Ronnie Shure

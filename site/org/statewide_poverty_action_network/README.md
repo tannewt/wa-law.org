@@ -89,7 +89,7 @@
 
 ### [HB 2250](/bill/2025-26/hb/2250/) - Charity care residency  👎1 
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
 ### [HB 2338](/bill/2025-26/hb/2338/) - Community weatherization 👍2  
 
@@ -182,7 +182,7 @@
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
@@ -198,14 +198,18 @@
 ### [SB 6212](/bill/2025-26/sb/6212/) - Children benefit pilot prg. 👍2  
 * 👍 Molly Gallagher
 
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
 * 👎 Molly Gallagher
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+* 👍 Molly Gallagher
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+* 👍 Molly Gallagher
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

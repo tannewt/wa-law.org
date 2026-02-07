@@ -19,6 +19,9 @@
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.  👎1 
 
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts   ❓1
+* ❓ Elaine Oneil
+
 ### [HB 2620](/bill/2025-26/hb/2620/) - Forest practices rule-making 👍2  
 * 👍 Elaine Oneil
 

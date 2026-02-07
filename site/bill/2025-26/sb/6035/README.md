@@ -13,18 +13,20 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6035 Voting services
-Sign up to testify:
-
-#### 13 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Linda Farmer - WSACA Legislative Co Chair
 * Julie Wise - King County Director of Elections
 * Shawn Merchant - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 * 💵Michael Moran - 1. Confederated Tribes of the Chehalis  Reservation 2. Confederated Tribes of the Colville Res.
 
-#### 89 👎 - Con
+#### 286 👎 - Con
+Testifying:
+* 💵Nick Federici - [Verified Voting](/org/verified_voting/)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Susan Greenhalgh - Free Speech For People
 
 ### Tue 01/20 01:30 PM - State Government & Elections (SGE): SB 6035 Voting services
 #### 32 👍 - Pro

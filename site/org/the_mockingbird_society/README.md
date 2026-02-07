@@ -53,6 +53,8 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
@@ -130,12 +132,15 @@
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍3  
 * 👍💵 Charles Smith
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍10  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍15  
 * 👍💵 Charles Smith
 * 👍 Courtney Hageman
 * 👍 Jonas Rios
 * 👍 Lydia O'Taylor
 * 👍 Nathan Witherow
+* 👍 Corrina Chatterton
+* 👍 Courtney Hageman
+* 👍💵 Charles Smith
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
@@ -146,17 +151,17 @@
 
 ### [SB 6036](/bill/2025-26/sb/6036/) - Adult family home licensure 👍1  
 
-### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍2  
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍1  
 
 ### [SB 6227](/bill/2025-26/sb/6227/) - Parenting student data 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

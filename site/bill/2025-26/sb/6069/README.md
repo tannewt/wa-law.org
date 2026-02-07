@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB 6069)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6069)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 3: Holding ICE accountable, reproductive rights and housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/23/this-week-in-the-senate-week-3-holding-ice-accountable-reproductive-rights-and-housing/#:~:text=Senate%20Bill%206069)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [Happy week two of the 2026 legislative session! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/01/23/happy-week-two-of-the-2026-legislative-session/#:~:text=Senate%20Bill%206069)

@@ -44,8 +44,9 @@
 
 ### [SB 5102](/bill/2025-26/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍2  
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
 * 👍 ROBERT McCLURE
+* 👍 Peggy Watt
 
 ### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍1  
 

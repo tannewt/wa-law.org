@@ -16,16 +16,14 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2355 Domestic workers
-Sign up to testify:
-
-#### 415 👍 - Pro
+#### 592 👍 - Pro
 Testifying:
 * Cherly Danira Norales Castillo - ALA Garifuna Women
 * 💵Jake Garcia - Latino Community Fund of Washington
 
-#### 148 👎 - Con
+#### 211 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2355 Domestic workers
 #### 479 👍 - Pro

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB 5985)
+
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 5985 Endometriosis
 #### 36 👍 - Pro

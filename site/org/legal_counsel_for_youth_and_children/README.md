@@ -57,7 +57,7 @@
 
 ### [HB 1591](/bill/2025-26/hb/1591/) - Defendant survivors 👍1  
 
-### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
@@ -84,6 +84,8 @@
 ### [HB 2246](/bill/2025-26/hb/2246/) - Updating policies for elementary and secondary school students with firearm violations.  👎1 
 
 ### [HB 2253](/bill/2025-26/hb/2253/) - DCYF licensing division 👍1  
+
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Kat Lohman
@@ -189,11 +191,11 @@
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
 
-### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
+### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5942](/bill/2025-26/sb/5942/) - DCYF accountability board   ❓1
 
@@ -211,6 +213,9 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓ Kat Lohman
 
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
+* 👍💵 Roxana Gomez
+
 ### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
@@ -222,14 +227,15 @@
 ### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓1
 * ❓ Annie Chung
 
-### [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍1  
+### [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍2  
 * 👍 Annie Chung
+* 👍💵 Roxana Gomez
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

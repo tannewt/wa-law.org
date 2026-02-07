@@ -25,7 +25,7 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
 * ❓ Karl Almgren

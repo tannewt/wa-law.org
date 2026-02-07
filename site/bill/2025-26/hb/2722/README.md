@@ -8,12 +8,18 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Transportation (TR): HB 2722 Vehicle fees/maximum weight
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Tim Hattenburg - Deputy Mayor, City of Spokane Valley
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Rob Putaansuu - City of Port Orchard, Mayor
+* Jon Snyder - [City of Spokane](/org/city_of_spokane/)
 
-#### 0 👎 - Con
+#### 78 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Sheri Call - Washington Trucking Associations

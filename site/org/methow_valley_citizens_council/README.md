@@ -72,9 +72,9 @@
 
 ### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍2  
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍2  
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍4  
 
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 

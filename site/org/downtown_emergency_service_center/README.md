@@ -13,7 +13,7 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
@@ -30,11 +30,13 @@
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 * 👍 Lauren Fay
 
-## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6069](/bill/2023-24/sb/6069/) - Supportive & emerg. housing 👍2  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 

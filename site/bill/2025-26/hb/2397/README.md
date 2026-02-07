@@ -9,14 +9,12 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2397 Fire services mobilization
-Sign up to testify:
-
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Leonard Johnson - McLane Black Lake FD / WA Fire Chiefs Association
 * 💵Nicholas Gullickson - Washington State Council of Firefighters
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

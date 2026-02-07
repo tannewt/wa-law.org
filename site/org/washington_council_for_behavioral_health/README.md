@@ -20,13 +20,17 @@
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 
-## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment   ❓1
+### [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment   ❓2
 * ❓💵 Abby Moore
+* ❓ Julia O'Connor
+
+## [SB 6297](/bill/2025-26/sb/6297/) - Behavioral health staffing 👍1  
+* 👍💵 Abby Moore
 
 ## 2023-24
 
-### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment   ❓1
-* ❓💵 Abby Moore
+### [SB 6297](/bill/2023-24/sb/6297/) - Behavioral health staffing 👍1  
+* 👍💵 Abby Moore
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

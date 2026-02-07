@@ -12,13 +12,16 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6124 Appliance afford. index
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* gisella Gonzales - team child
+* 💵Meghan Smith - Washington Public Interest Research Group (National Office)
 
-#### 1 👎 - Con
+#### 138 👎 - Con
+Testifying:
+* Charlie Brown - Consumer Technology Association
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
 
 #### 0 ❓ - Other
 

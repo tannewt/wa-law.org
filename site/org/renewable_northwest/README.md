@@ -9,7 +9,8 @@
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎1 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎2 
+* 👎 Casey MacLean
 * 👎 Casey MacLean
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  

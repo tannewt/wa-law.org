@@ -9,13 +9,19 @@
 
 ## Meetings
 ### Fri 02/06 08:00 AM - Capital Budget (CB): SHB 2281 State-tribal relationship
-Sign up to testify:
+#### 39 👍 - Pro
+Testifying:
+* Michael Ross - Snoqualmie Indian Tribe
+* Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
+* 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 
-#### 12 👍 - Pro
+#### 427 👎 - Con
+Testifying:
+* John Worthington
 
-#### 186 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Michael Transue - WA Aggregates and Concrete Association
 
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2281 State-tribal relationship
 #### 111 👍 - Pro

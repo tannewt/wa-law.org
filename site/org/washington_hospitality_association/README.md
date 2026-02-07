@@ -43,7 +43,7 @@
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎💵 Julia Gorton
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎2 
 * 👎 Kerry Dolan
 
 ### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
@@ -125,7 +125,7 @@
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
-### [HB 2087](/bill/2025-26/hb/2087/) - Addressing travel insurance. 👍1  
+### [HB 2087](/bill/2025-26/hb/2087/) - Travel insurance 👍1  
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 * 👎💵 Andrea Reay
@@ -206,6 +206,8 @@
 ### [HB 2615](/bill/2025-26/hb/2615/) - Tax voluntary disclosure 👍1  
 
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax  👎1 
+
+### [HB 2720](/bill/2025-26/hb/2720/) - Behavioral health services  👎1 
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
 * 👎💵 Julia Gorton
@@ -334,6 +336,8 @@
 
 ### [SB 6061](/bill/2025-26/sb/6061/) - Tourism assessment 👍1  
 * 👍 Anthony Anton
+
+### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation  👎1 
 
 ### [SB 6106](/bill/2025-26/sb/6106/) - Laid-off employees 👍1  
 

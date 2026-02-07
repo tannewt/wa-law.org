@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2475 Language access

@@ -9,17 +9,20 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2418 Permit review
-Sign up to testify:
-
-#### 113 👍 - Pro
+#### 156 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Jesse Simpson - Housing Development Consortium
 
-#### 6 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* 💵Devin Gombosky - Washington Associationf of Sewer and Water Districts
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
 
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2418 Permit review
 #### 49 👍 - Pro

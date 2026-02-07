@@ -156,6 +156,8 @@
 
 ### [HB 2520](/bill/2025-26/hb/2520/) - Emergency meetings 👍1  
 
+### [HB 2718](/bill/2025-26/hb/2718/) - Transportation projects 👍1  
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  ❓1
@@ -168,9 +170,10 @@
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍 Chris Herman
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍2  
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍3  
 * 👍 Chris Herman
 * 👍 Chris Herman
+* 👍💵 James Cockburn
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍3  
 * 👍 Chris Herman
@@ -251,10 +254,10 @@
 
 ### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel 👍1  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
 * 👍 Eric ffitch
 
-### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍1  
+### [SB 5971](/bill/2025-26/sb/5971/) - Green fertilizer incentives 👍2  
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities   ❓1
 * ❓💵 Carly Michiels

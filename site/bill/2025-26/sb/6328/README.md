@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6328 Cannabis excise tax
-Sign up to testify:
-
 #### 76 👍 - Pro
 Testifying:
 * Shea Hynes - Lux Pot Shop

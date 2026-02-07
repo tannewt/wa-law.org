@@ -139,11 +139,13 @@
 
 ### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍3  
+* 👍💵 Jake García
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍3  
+* 👍💵 Jake García
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

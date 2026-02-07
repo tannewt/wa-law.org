@@ -29,7 +29,7 @@
 ### [HB 2018](/bill/2025-26/hb/2018/) - Solid waste/local government 👍1  
 * 👍 Lindsay Chapman
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin.   ❓1
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  ❓1
 * ❓ Al French
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎2 

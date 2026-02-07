@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6309 High cap. transit permits
-Sign up to testify:
-
 #### 9 👍 - Pro
 Testifying:
 * Terri Mestas - Sound Transit

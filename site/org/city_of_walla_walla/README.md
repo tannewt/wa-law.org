@@ -43,15 +43,17 @@
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
 
-## [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍2  
+## [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍3  
 * 👍 Elizabeth Chamberlain
 * 👍 Rick Eskill
+* 👍 Elizabeth Chamberlain
 
 ## 2023-24
 
-### [SB 6211](/bill/2023-24/sb/6211/) - Real estate excise taxes/GMA 👍2  
+### [SB 6211](/bill/2023-24/sb/6211/) - Real estate excise taxes/GMA 👍3  
 * 👍 Elizabeth Chamberlain
 * 👍 Rick Eskill
+* 👍 Elizabeth Chamberlain
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓2
 * ❓ Elizabeth Chamberlain

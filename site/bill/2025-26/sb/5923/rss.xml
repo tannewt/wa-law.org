@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5923/</link>
 		<description>Updates about SB 5923</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jan 2026 03:26:10 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Daryl/Hicks/2026-01-16 03:26:10</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-05/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-06/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

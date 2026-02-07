@@ -13,6 +13,8 @@
 ### [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry 👍1  
 * 👍 Andy Brassington
 
+### [SB 5650](/bill/2025-26/sb/5650/) - Cannabis local excise tax  👎1 
+
 ## [SB 6328](/bill/2025-26/sb/6328/) - Cannabis excise tax  👎1 
 * 👎 Andy Brassington
 

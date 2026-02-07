@@ -12,13 +12,12 @@
 
 ## Meetings
 ### Fri 02/06 08:00 AM - Finance (FIN): SHB 2590 Limited equity cooperatives
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* Jessica McKeegan Jensen - Cap City Law PS
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

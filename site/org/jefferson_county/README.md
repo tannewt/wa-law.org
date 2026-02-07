@@ -26,6 +26,8 @@
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 * 👍 Commissioner Heidi Eisenhour
 
+### [HB 2722](/bill/2025-26/hb/2722/) - Vehicle fees/maximum weight 👍1  
+
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
@@ -33,11 +35,13 @@
 
 ### [SB 6242](/bill/2025-26/sb/6242/) - County shared stewardship 👍1  
 
-## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍2  
+* 👍 Commissioner Heidi Eisenhour
 
 ## 2023-24
 
-### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍2  
+* 👍 Commissioner Heidi Eisenhour
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

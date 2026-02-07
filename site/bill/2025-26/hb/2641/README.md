@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2026 [KUOW](/org/kuow/) - [KUOW - Proposed block on WA police hiring ICE agents fizzles out in Legislature](https://www.kuow.org/stories/proposed-block-on-wa-police-hiring-ice-agents-fizzles-out-in-legislature#:~:text=House%20Bill%202641)
 * 02/04/2026 [Washington State Standard](/org/washington_state_standard/) - [Proposed block on WA police hiring ICE agents fizzles out in Legislature • Washington State Standard](https://washingtonstatestandard.com/briefs/proposed-block-on-wa-police-hiring-ice-agents-fizzles-out-in-legislature/#:~:text=House%20Bill%202641)
 * 01/29/2026 [FOX13](/org/fox13/) - [WA bill blocks ex-ICE agents from law enforcement jobs | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-bill-ice-agents-law-enforcement#:~:text=House%20Bill%202641)
 * 01/29/2026 [The Center Square](/org/the_center_square/) - [WATCH: Washington lawmakers clash over bills directed at limiting ICE officers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_203c927e-29f0-4c14-a13c-e05f5e6ae078.html#:~:text=House%20Bill%202641)

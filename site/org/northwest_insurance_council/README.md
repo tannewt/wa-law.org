@@ -8,7 +8,7 @@
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 * 👍💵 Kenton Brine
 
-### [HB 2087](/bill/2025-26/hb/2087/) - Addressing travel insurance. 👍1  
+### [HB 2087](/bill/2025-26/hb/2087/) - Travel insurance 👍1  
 
 ### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users   👎1 
 
@@ -45,6 +45,8 @@
 
 ### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
 * 👍💵 Kenton Brine
+
+### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants  👎1 
 
 ### [SB 6159](/bill/2025-26/sb/6159/) - Public hospitals  👎1 
 * 👎💵 Kenton Brine

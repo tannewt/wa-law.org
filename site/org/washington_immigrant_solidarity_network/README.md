@@ -72,7 +72,7 @@
 
 ### [HB 2176](/bill/2025-26/hb/2176/) - Drug therapy agreements/PRA 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy 👍1  
 
@@ -146,7 +146,7 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
 ### [SB 5925](/bill/2025-26/sb/5925/) - AGO investigation powers 👍1  
 
@@ -154,7 +154,7 @@
 
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
-### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
@@ -164,11 +164,13 @@
 
 ### [SB 6286](/bill/2025-26/sb/6286/) - Detention facility fines/DOH 👍1  
 
-## [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+### [SB 6304](/bill/2025-26/sb/6304/) - WSIB investing principles 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6304](/bill/2023-24/sb/6304/) - WSIB investing principles 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

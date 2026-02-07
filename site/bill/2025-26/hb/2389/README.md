@@ -15,9 +15,7 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2389 Criminal offenses under 18
-Sign up to testify:
-
-#### 107 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * Katherine Hurley - King County Dept of Public Defense
 * 💵Karen Pillar - TeamChild
@@ -26,8 +24,10 @@ Testifying:
 * Liz Trautman - Stand for Children WA
 * LaDessa Croucher - Resolution Wasington
 * TJ Puller
+* Andre Penalver - Minority & Justice Commission
+* Liz Mustin
 
-#### 17 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Dana Ralph - Mayor, City of Kent
@@ -39,12 +39,15 @@ Testifying:
 * Shawn Ledford - Tulalip Police Department
 * Jennifer Gregerson - City of Everett, Government Affairs Director
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jen H.
+* Mary Williams
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Judge Kristin Ferrera - Superior Court Judges' Association
 * Christine Simonsmeier - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Raquel Mendoza
 
 ### Wed 01/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2389 Criminal offenses under 18
 #### 473 👍 - Pro

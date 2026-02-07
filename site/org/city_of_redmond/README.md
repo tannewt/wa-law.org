@@ -91,7 +91,8 @@
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 
-### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍2  
+* 👍 Kimberly Dietz
 * 👍 Kimberly Dietz
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1

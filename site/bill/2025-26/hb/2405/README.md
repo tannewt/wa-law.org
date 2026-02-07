@@ -9,9 +9,7 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2405 PTSD treatment and research
-Sign up to testify:
-
-#### 4 👍 - Pro
+#### 87 👍 - Pro
 
 #### 0 👎 - Con
 

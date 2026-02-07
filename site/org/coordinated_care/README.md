@@ -122,7 +122,7 @@
 
 ### [SB 5907](/bill/2025-26/sb/5907/) - ECEAP access/military 👍1  
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎2 
 * 👎💵 Bill Stauffacher

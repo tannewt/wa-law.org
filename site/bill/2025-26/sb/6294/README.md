@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6294 Local government fund use
-Sign up to testify:
-
-#### 315 👍 - Pro
+#### 507 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
@@ -25,8 +23,12 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Mark Watson - PROTEC17
 * Chantell Reed - Director, Tacoma Pierce County Health Dept
+* Commissioner Carolina Mejia - [Thurston County](/org/thurston_county/)
+* Commissioner Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
+* Councilmember Megan Dunn - Snohomish County
+* Jackie Brunson - WA Association of County Treasurers
 
-#### 1520 👎 - Con
+#### 4663 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
@@ -35,4 +37,4 @@ Testifying:
 * Mary Hull-Drury - Washington Realtors
 * Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
 
-#### 2 ❓ - Other
+#### 8 ❓ - Other

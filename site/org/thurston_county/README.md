@@ -36,13 +36,16 @@
 ### [SB 6154](/bill/2025-26/sb/6154/) - Culvert replacement permits 👍1  
 * 👍 Karen Weiss
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍1  
 * 👍 Commissioner Tye Menser
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
+* 👍 Commissioner Carolina Mejia
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍1  
-* 👍 Commissioner Tye Menser
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
+* 👍 Commissioner Carolina Mejia
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

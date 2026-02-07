@@ -43,13 +43,14 @@
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 * 👍💵 Paul Berendt
 
-## [SB 6189](/bill/2025-26/sb/6189/) - Aquatics/sports PFD deadline 👍1  
+### [SB 6189](/bill/2025-26/sb/6189/) - Aquatics/sports PFD deadline 👍1  
 * 👍 Sylvana Niehuser
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6189](/bill/2023-24/sb/6189/) - Aquatics/sports PFD deadline 👍1  
-* 👍 Sylvana Niehuser
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍3  
 

@@ -7,6 +7,8 @@
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍4  
 
+### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
 ### [SB 5872](/bill/2025-26/sb/5872/) - PreK promise account 👍1  

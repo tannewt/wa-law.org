@@ -80,7 +80,7 @@
 
 ### [HB 2307](/bill/2025-26/hb/2307/) - Modifying the time component of various definitions for purposes of commute trip reduction. 👍1  
 
-### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍1  
+### [HB 2325](/bill/2025-26/hb/2325/) - Tourism assessment 👍2  
 * 👍 Nick Leonti
 
 ### [HB 2347](/bill/2025-26/hb/2347/) - Luxury aircraft tax   ❓1
@@ -92,7 +92,10 @@
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
+* 👍 John Flanagan
 * 👍 John Flanagan
 
 ### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref. 👍1  

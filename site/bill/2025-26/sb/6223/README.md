@@ -8,11 +8,13 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6223 Community weatherization
-Sign up to testify:
+#### 79 👍 - Pro
+Testifying:
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 
-#### 0 👍 - Pro
-
-#### 1 👎 - Con
+#### 129 👎 - Con
 
 #### 0 ❓ - Other
 

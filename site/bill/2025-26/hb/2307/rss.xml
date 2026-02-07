@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2307/</link>
 		<description>Updates about HB 2307</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 01:04:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -77,6 +77,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Laura/Svancarek/2026-01-21 01:04:36</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-05/TR - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,6 +11,24 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202523)
 
 ## Meetings
+### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2523 Community reinvestment prg.
+Sign up to testify:
+
+#### 73 👍 - Pro
+Testifying:
+* Saul Martinez - Cafe con Arte
+* Andrew Thompson - River City Aerials and Film LLC
+* John Traugott - [Washington Workforce Association](/org/washington_workforce_association/)
+* Mayra Garcia - SkillSource North Central Regional Workforce Board
+* Paula Fillmore-Sardinas - WA Build Back Black Alliance (WBBA)
+* Tasha Mae - Advocacy Queen
+
+#### 146 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Magali Barajas - Work Force South Central
+
 ### Tue 01/27 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2523 Community reinvestment prg.
 #### 250 👍 - Pro
 Testifying:

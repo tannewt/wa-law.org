@@ -35,7 +35,7 @@
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍2  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍3  
 * 👍 Ben Avery
 
 ### [HB 2516](/bill/2025-26/hb/2516/) - Rodenticides 👍2  

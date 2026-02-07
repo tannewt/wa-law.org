@@ -8,19 +8,20 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB 6015)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6015)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206015)
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session is about to begin! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/09/2026-legislative-session-is-about-to-begin/#:~:text=Senate%20Bill%206015)
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6015 Residential building plans
-Sign up to testify:
+#### 14 👍 - Pro
 
-#### 0 👍 - Pro
+#### 71 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6015 Residential building plans
 #### 69 👍 - Pro

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/03/2026 [FOX13](/org/fox13/) - [WA ghost gun bill sparks backlash from 3D printing community | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-ghost-gun-3d-printing#:~:text=executive%20session)

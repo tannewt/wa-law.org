@@ -14,13 +14,29 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6287 Kratom products
-Sign up to testify:
+#### 23 👍 - Pro
+Testifying:
+* Cassidy Buechle-Curtis - Deputy Mayor, Cle Elum
+* Eric Onisko - Mason County substitute coalition/Mason County board of health chair
+* Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
+* Taylor Mead
 
-#### 2 👍 - Pro
+#### 77 👎 - Con
+Testifying:
+* Misty Brown
+* Jennifer Gillis - self
+* Melody Woolf
+* 💵Molly Pfaffenroth - Washington Food Industry Association
+* Walker Gallman - Global Kratom Coalition
+* Mac Haddow - [American Kratom Association](/org/american_kratom_association/)
+* Lora Romney - International Plant & Herbal Alliance
+* John Shinholser
+* John Cleveland
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Spencer Coffin
+* Dr. Jimmy Leonard - [Washington Poison Center](/org/washington_poison_center/)
 
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 6287 Kratom products
 #### 5 👍 - Pro

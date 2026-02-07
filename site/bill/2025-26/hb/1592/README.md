@@ -11,6 +11,22 @@
 * 01/14/2026 [The Washington Observer](/org/the_washington_observer/) - [A different sort of speech entirely](https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=House%20bill)
 
 ## Meetings
+### Sat 02/07 09:00 AM - Appropriations (APP): SHB 1592 Public defense services
+Sign up to testify:
+
+#### 24 👍 - Pro
+Testifying:
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* Sarah Hudson - Washington Defender Association & Washington Association of Criminal Defense Lawyers
+* Regan Boli - [City of Covington](/org/city_of_covington/)
+* 💵Curtis Steinhauer - Washington Association of Counties
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
+
+#### 95 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/05 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1592 Public defense services
 #### 2 👍 - Pro
 

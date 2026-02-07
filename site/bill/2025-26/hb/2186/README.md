@@ -11,6 +11,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202186)
 
 ## Meetings
+### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2186 Federal funds
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2186 Federal funds
 #### 137 👍 - Pro
 Testifying:

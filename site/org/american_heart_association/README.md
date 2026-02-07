@@ -21,6 +21,9 @@
 ### [HB 2382](/bill/2025-26/hb/2382/) - Tobacco product excise taxes 👍1  
 * 👍💵 Alex Hamasaki
 
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
+* 👍💵 Alex Hamasaki
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Alex Hamasaki
 

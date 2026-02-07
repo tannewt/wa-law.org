@@ -17,20 +17,24 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2266 Supportive & emerg. housing
-Sign up to testify:
-
-#### 23 👍 - Pro
+#### 665 👍 - Pro
 Testifying:
 * 💵Jenn Henderson - [Disability Rights Washington](/org/disability_rights_washington/)
 * Sarah Dickmeyer - Plymouth Housing
+* 💵James Lovell
+* Joe McDermott - State Relations Director | King County
 
-#### 14 👎 - Con
+#### 757 👎 - Con
 Testifying:
 * Gloria Mantz - [City of Spokane Valley](/org/city_of_spokane_valley/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Carol Helland - Director, Planning & Community Development for City of Redmond
+* Carol Helland - Planning & Community Development Director, City of Redmond
+* Blake Lyon - City of Bellingham, WA
+* Jennifer Gregerson - City of Everett Government Affairs Director
 
 ### Tue 01/20 04:00 PM - Housing (HOUS): HB 2266 Supportive & emerg. housing
 #### 1154 👍 - Pro

@@ -53,6 +53,8 @@
 
 ### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
@@ -123,6 +125,8 @@
 ### [HB 2660](/bill/2025-26/hb/2660/) - Child shelter care orders 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
+### [HB 2720](/bill/2025-26/hb/2720/) - Behavioral health services 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
@@ -201,7 +205,7 @@
 
 ### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
-### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
 
 ### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
@@ -224,11 +228,13 @@
 ### [SB 6303](/bill/2025-26/sb/6303/) - Cannabis product packaging  👎1 
 * 👎 Megan Moore
 
-## [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
+### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍2  
+
+## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍1  
 
 ## 2023-24
 
-### [SB 6308](/bill/2023-24/sb/6308/) - Child shelter care orders 👍1  
+### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare time extension 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

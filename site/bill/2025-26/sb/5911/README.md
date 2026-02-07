@@ -9,15 +9,13 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5911 DCYF/financial stability
-Sign up to testify:
-
-#### 38 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Kim Justice - Partners for Our Children
 * Zanyah Coleman - Youth-Action Coalition
 * gisella Gonzales - team child
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

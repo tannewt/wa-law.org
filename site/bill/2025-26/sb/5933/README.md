@@ -9,11 +9,9 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5933 Overdose mapping information
-Sign up to testify:
+#### 79 👍 - Pro
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other
 

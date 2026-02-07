@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2711 Transportation resources
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 3 👎 - Con

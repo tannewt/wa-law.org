@@ -15,11 +15,11 @@
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍8  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍14  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍8  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍14  
 
 ### [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍2  
 

@@ -8,10 +8,15 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): HB 2720 Behavioral health services
-Sign up to testify:
+#### 69 👍 - Pro
+Testifying:
+* Cara Cheevers - Inseparable
+* Joe Avalos - Executive Director, Thurston-Mason Behavioral Health Administrative Service Organization
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
+* Dr. Richard Stride - Cascade Community Health
 
-#### 0 👍 - Pro
+#### 129 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵David Foster - Assoc of WA Healthcare Plans

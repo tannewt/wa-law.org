@@ -1,0 +1,29 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2597](/bill/2025-26/hb/2597/) > [Substitute Bill](/bill/2025-26/hb/2597/S/)
+
+# HB 2597 - Immigration enforcement
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2597-S.pdf)
+
+## Section 1
+1. Every person who, under color of any law, statute, ordinance, regulation, custom, or usage, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution of the United States during civil immigration enforcement, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory decree was violated or declaratory relief was unavailable.
+
+2. In any action or proceeding under this section, the court, in its discretion, may allow a prevailing plaintiff a reasonable attorneys' fee as part of the costs, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorneys' fees, unless such action was clearly in excess of such officer's jurisdiction. In awarding attorneys' fees in any action or proceeding under this section, the court, in its discretion, may include expert fees as part of the attorneys' fees.
+
+3. A defendant in an action under this section may assert a defense of absolute or qualified immunity to the same extent as a person sued under 42 U.S.C. Sec. 1983 under like circumstances. Nothing in this section waives or abrogates any defense of sovereign immunity otherwise available to a party.
+
+4. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Civil immigration enforcement" means any action to investigate, question, detain, transfer, arrest, or remove any person for the purpose of enforcing civil immigration law.
+
+    b. "Color of any law, statute, ordinance, regulation, custom, or usage" includes color of any statute, ordinance, regulation, custom, or usage, of the United States and of any state or territory or the District of Columbia.
+
+5. A civil action described in this section must be commenced within two years after the cause of action accrues.
+
+## Section 2
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 3
+If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+
+## Section 4
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

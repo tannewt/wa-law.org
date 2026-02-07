@@ -12,13 +12,17 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6079 Wildfire mitigation grants
-Sign up to testify:
+#### 81 👍 - Pro
+Testifying:
+* Lauren Burnes - Office of the Insurance Commissioner
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Terri Cooper
 
-#### 0 👍 - Pro
+#### 66 👎 - Con
+Testifying:
+* Mike Bucy - Stevens County Fire Protection District 1
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6079 Wildfire mitigation grants
 #### 157 👍 - Pro

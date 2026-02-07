@@ -36,7 +36,7 @@
 * 👎 Michelle Hennings
 * 👎 Michelle Hennings
 
-### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎2 
 
 ## [SB 6117](/bill/2025-26/sb/6117/) - Collective bargaining  👎1 
 

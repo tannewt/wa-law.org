@@ -13,16 +13,14 @@
 
 ## Meetings
 ### Thu 02/05 01:00 PM - Transportation (TR): SHB 2174 Crash prevention zones
-Sign up to testify:
-
-#### 258 👍 - Pro
+#### 326 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Briahna Murray - [City of Pasco](/org/city_of_pasco/)
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Stephen Alldridge
 

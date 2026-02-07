@@ -1,12 +1,14 @@
 # American Coatings Association
 ## 2025-26
 
-## [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  
+## [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍2  
+* 👍💵 Mike Burgess
 * 👍💵 Mike Burgess
 
 ## 2023-24
 
-### [HB 2301](/bill/2023-24/hb/2301/) - Paint producer resp. 👍1  
+### [HB 2301](/bill/2023-24/hb/2301/) - Paint producer resp. 👍2  
+* 👍💵 Mike Burgess
 * 👍💵 Mike Burgess
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓1

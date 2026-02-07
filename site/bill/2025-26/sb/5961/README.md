@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%205961)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Washington United Way's Advocate for Affordable Child Care, Housing, and Early Literacy in 2026 Legislative Session - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01202026#:~:text=SB%205961)
 
 ## Meetings

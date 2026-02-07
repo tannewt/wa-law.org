@@ -35,7 +35,7 @@
 
 ### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
 
-### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
@@ -87,7 +87,7 @@
 
 ### [HB 2420](/bill/2025-26/hb/2420/) - Small works roster limits 👍1  
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 * 👍 Jennifer Gregerson
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones 👍1  
@@ -98,6 +98,8 @@
 ### [HB 2552](/bill/2025-26/hb/2552/) - Transportation contracting 👍1  
 
 ### [HB 2559](/bill/2025-26/hb/2559/) - Affordable housing funding 👍1  
+
+### [HB 2722](/bill/2025-26/hb/2722/) - Vehicle fees/maximum weight 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 

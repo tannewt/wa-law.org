@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%205904)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [The top issue I’ve heard from you - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=SB%205904)
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session is about to begin! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/09/2026-legislative-session-is-about-to-begin/#:~:text=Senate%20Bill%205904)
 

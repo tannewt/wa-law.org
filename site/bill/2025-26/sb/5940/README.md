@@ -6,13 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%205940)
+
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5940 Foster care housing pilot
-Sign up to testify:
+#### 295 👍 - Pro
+Testifying:
+* Corrina Chatterton - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Courtney Hageman - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Dr. Emiko Tajima - University of Washington Partners for Our Children
+* Gisella Gonzales - Team children
 
-#### 16 👍 - Pro
-
-#### 0 👎 - Con
+#### 65 👎 - Con
 
 #### 0 ❓ - Other
 

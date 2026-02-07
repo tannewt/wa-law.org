@@ -26,6 +26,8 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎1 
+
 ### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍2  
 * 👍 Richard Shaff
 * 👍 Richard Shaff
@@ -62,7 +64,7 @@
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 * 👍 Greg Cullen
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
 
 ### [SB 6004](/bill/2025-26/sb/6004/) - Electric/public contracts 👍1  
 * 👍 Daniel Himebaugh

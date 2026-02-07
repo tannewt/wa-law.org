@@ -9,16 +9,15 @@
 
 ## Meetings
 ### Thu 02/05 08:00 AM - Finance (FIN): SHB 2224 Fire protection districts
-Sign up to testify:
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Don Schwab - City of Everett, Council President
 
-#### 47 👎 - Con
+#### 80 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* 💵Matthew Ellsworth - [Association of Washington Public Hospital Districts](/org/association_of_washington_public_hospital_districts/)
 
 #### 1 ❓ - Other
 Testifying:

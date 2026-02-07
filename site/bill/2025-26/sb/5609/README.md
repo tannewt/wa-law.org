@@ -13,13 +13,19 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5609 Cultural resources/land use
-Sign up to testify:
+#### 26 👍 - Pro
+Testifying:
+* Sandy Shettler - Tree Action Seattle
+* 💵Matthew Randazzo - Snoqualmie Indian Tribe
+* Kimberly Dietz - [City of Redmond](/org/city_of_redmond/)
 
-#### 1 👍 - Pro
+#### 266 👎 - Con
+Testifying:
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 2 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/27 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
 #### 27 👍 - Pro

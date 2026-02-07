@@ -7,17 +7,39 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206062)
+
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6062 Criminal offenses under 18
-Sign up to testify:
+#### 220 👍 - Pro
+Testifying:
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Katherine Hurley - King County Dept of Public Defense
+* 💵Myle Tang - Stand for Children WA
+* Ahmont Williams - GHS Capitol Classroom
+* Brody Brownell - GHS Capitol Classroom
+* Jaeshawn Singh-Fletcher - GHS Capitol Classroom
+* gisella Gonzales
+* TJ Puller
+* LaDessa Croucher - Resolution Wasington
 
-#### 15 👍 - Pro
-
-#### 6 👎 - Con
+#### 866 👎 - Con
 Testifying:
 * Jennifer Gregerson - City of Everett, Government Affairs Director
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Natasha Willson - crime victim advocate
+* Eric Zimmerman - Mayor, City of Normandy Park
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Dana Ralph - Mayor City of Kent
+* 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Nicole Gomez - AFSCME Council 28/Washington Federation of State Employees (WFSE)
+* Christine Simonsmeier - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Judge Cindy Larsen - Superior Court Judges' Association
+* Judge Kristin Ferrera - Superior Court Judges' Association
 
 ### Mon 01/26 01:30 PM - Human Services (HS): SB 6062 Criminal offenses under 18
 #### 481 👍 - Pro

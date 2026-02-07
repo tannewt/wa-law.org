@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [My prime sponsored bills advancing - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/06/my-prime-sponsored-bills-advancing/#:~:text=Senate%20Bill 6011)
+
 ## Meetings
 ### Thu 01/15 10:30 AM - Law & Justice (LAW): SB 6011 Court of appeals bailiffs
 #### 1 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2495/</link>
 		<description>Updates about HB 2495</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Jan 2026 09:35:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alison/Redenz/2026-01-26 09:35:44</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-05/TR - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

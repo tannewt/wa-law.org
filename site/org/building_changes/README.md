@@ -88,7 +88,7 @@
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍1  
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍2  
 
@@ -96,6 +96,8 @@
 * 👍💵 Aaron Yared
 
 ### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 
 ## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 

@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%205855)
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB%205855)
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=Senate%20Bill%205855)
+* 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [Supporting our communities and working families - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/05/supporting-our-communities-and-working-families/#:~:text=Senate%20Bill%205855)
 * 02/04/2026 [Senate Democrats](/org/senate_democrats/) - [Standing up for Washington’s immigrants - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/04/standing-up-for-washingtons-immigrants/#:~:text=passed%20a%20bill)
 * 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [Health care movement & floor votes - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205855)
 * 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [One-Third of the Way Through - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/02/02/one-third-of-the-way-through/#:~:text=Senate%20Bill%205855)

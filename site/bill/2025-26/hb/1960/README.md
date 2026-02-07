@@ -11,15 +11,22 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): 3SHB 1960 Renewable energy
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Commissioner Cory Wright - Kittitas County
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Assessor Mike Hougardy - WSACA - Washington State Association of County Assessor
 
-#### 0 👎 - Con
+#### 146 👎 - Con
+Testifying:
+* 💵Jay Balasbas - PacifiCorp
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Treasurer Greg Gallagher - WSACT - WA State Association of County Treasurers
 
 ### Fri 01/23 01:30 PM - Finance (FIN): HB 1960 Renewable energy
 #### 247 👍 - Pro

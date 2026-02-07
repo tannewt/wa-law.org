@@ -32,6 +32,8 @@
 
 ### [HB 1829](/bill/2025-26/hb/1829/) - Tribal warrants 👍2  
 
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍3  
@@ -42,11 +44,15 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use 👍1  
+
+## [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 
 ## 2023-24
 
-### [SB 5570](/bill/2023-24/sb/5570/) - Tribes/K-12 instruction 👍1  
+### [SB 5933](/bill/2023-24/sb/5933/) - Overdose mapping information 👍1  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 * 👍💵 Vicki Lowe

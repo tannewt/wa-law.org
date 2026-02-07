@@ -80,7 +80,7 @@
 ### [SB 6222](/bill/2025-26/sb/6222/) - Students/surplus technology 👍1  
 * 👍 Jason Golec
 
-### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓ Harlan Gallinger

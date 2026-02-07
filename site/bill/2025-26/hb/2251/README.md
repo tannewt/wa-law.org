@@ -12,13 +12,20 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Transportation (TR): SHB 2251 Climate commit. act accounts
-Sign up to testify:
+#### 31 👍 - Pro
+Testifying:
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Breck Lebegue MD MPH - WA Physicians for Social Responsibility
+* Paula Fillmore-Sardinas - FMSGS/WBBA
 
-#### 5 👍 - Pro
+#### 646 👎 - Con
+Testifying:
+* Chairman Ron Allen - Jamestown S'Klallam Tribe
 
-#### 9 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Mary Paterson
 
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2251 Climate commit. act accounts
 #### 13 👍 - Pro

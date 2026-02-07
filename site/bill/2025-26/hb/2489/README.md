@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [State bill would prohibit local bans on encampments in Washington • Washington State Standard](https://washingtonstatestandard.com/2026/02/05/state-bill-would-prohibit-local-bans-on-encampments-in-washington/#:~:text=House%20Bill%202489)
 * 02/03/2026 [The Center Square](/org/the_center_square/) - [WA Democrats advance bills that could gut local camping bans with unfunded mandates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_05bacfdb-8875-4524-96b1-ace1d2068df0.html#:~:text=House%20Bill%202489)
 * 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202489)
 * 01/28/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: True compassion requires the ability to intervene before harm becomes entrenched | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_0893401d-ae56-4324-a36d-4d54d763112c.html#:~:text=House%20Bill%202489)

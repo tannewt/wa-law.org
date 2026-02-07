@@ -41,6 +41,9 @@
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 2727](/bill/2025-26/hb/2727/) - Educational transit access 👍1  
+* 👍💵 Kirk Hovenkotter
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍2  
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Kirk Hovenkotter

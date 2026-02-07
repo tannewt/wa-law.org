@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1906/</link>
 		<description>Updates about HB 1906</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 05:02:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 		<item>
-			<title>👍Susan Gilman - Washington State Veterinary Medical Assoc.</title>
+			<title>👍Susan Gilman - Northwest Natural</title>
 			<description>Susan Gilman signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 02:41:58 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Susan/Gilman/2025-02-11 02:41:58</guid>
 		</item>
 		<item>
-			<title>👍Terri DiMartino - Washington State Veterinary Medical Assoc.</title>
+			<title>👍Terri DiMartino - Northwest Natural</title>
 			<description>Terri DiMartino signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 07:45:50 GMT</pubDate>
 			<category>testifier</category>
@@ -122,6 +122,22 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👎Charlie Brown - Northwest Natural</title>
+			<description>Charlie Brown signed up to testify Con. They are signed up to represent Northwest Natural.</description>
+			<pubDate>Fri, 06 Feb 2026 01:33:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2026-02-06 01:33:17</guid>
+		</item>
+		<item>
+			<title>👍💵Bill Clarke - WA PUD Association; Pierce County Water Cooperative</title>
+			<description>Bill Clarke signed up to testify Pro. They are signed up to represent WA PUD Association; Pierce County Water Cooperative. They are a registered lobbyist.</description>
+			<pubDate>Fri, 06 Feb 2026 05:02:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Clarke/2026-02-06 05:02:48</guid>
 		</item>
 	</channel>
 </rss>

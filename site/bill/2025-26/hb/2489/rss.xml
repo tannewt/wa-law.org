@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2489/</link>
 		<description>Updates about HB 2489</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Feb 2026 22:16:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -495,6 +495,13 @@
 			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-04/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>State bill would prohibit local bans on encampments in Washington • Washington State Standard</title>
+			<description>News article "State bill would prohibit local bans on encampments in Washington • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 05 Feb 2026 22:16:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/02/05/state-bill-would-prohibit-local-bans-on-encampments-in-washington/#:~:text=House%20Bill%202489</guid>
 		</item>
 	</channel>
 </rss>

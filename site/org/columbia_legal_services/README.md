@@ -217,10 +217,10 @@
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
 
-### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍2  
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍3  
 * 👍💵 Andrea Schmitt
 
-### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍3  
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍4  
 * 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
 

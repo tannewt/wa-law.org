@@ -6,6 +6,8 @@
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍4  
 * 👍💵 Kristin Ang
 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
@@ -139,7 +141,7 @@
 
 ### [SB 5950](/bill/2025-26/sb/5950/) - Celebrating Rosh Hashanah, Yom Kippur, Guru Nanak, Guru Gobind Singh, and Vaisakhi. 👍2  
 
-### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍7  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍8  
 * 👍💵 Kristin Ang
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  
@@ -152,11 +154,11 @@
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍4  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍5  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍8  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍5  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍8  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

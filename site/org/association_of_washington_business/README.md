@@ -187,7 +187,8 @@
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax  👎1 
 * 👎 Max Martin
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎2 
@@ -376,6 +377,9 @@
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
 * 👍💵 Morgan Irwin
 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎1 
+* 👎💵 Peter Godlewski
+
 ### [HB 1965](/bill/2025-26/hb/1965/) - Bullion tax preference  👎1 
 
 ### [HB 1970](/bill/2025-26/hb/1970/) - Highway alt. contracting 👍1  
@@ -469,7 +473,8 @@
 ### [HB 2212](/bill/2025-26/hb/2212/) - Reducing microplastic pollution from washing machines.  👎1 
 * 👎💵 Peter Godlewski
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act   ❓1
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ### [HB 2225](/bill/2025-26/hb/2225/) - AI companion chatbots  👎1 
@@ -538,17 +543,18 @@
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities   ❓1
 * ❓💵 Peter Godlewski
 
-### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎1 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [HB 2425](/bill/2025-26/hb/2425/) - Nursing delegation 👍1  
 
-### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎1 
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎2 
 * 👎 Max Martin
 
-### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎1 
+### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use  👎2 
 
-### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎1 
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing  👎2 
 
 ### [HB 2483](/bill/2025-26/hb/2483/) - Data broker registry  👎1 
 * 👎 Max Martin
@@ -712,11 +718,11 @@
 
 ### [SB 5385](/bill/2025-26/sb/5385/) - Timberland definition/REET 👍1  
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care  👎2 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care  👎3 
 
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
 
-### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎2 
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎3 
 * 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 
@@ -751,11 +757,12 @@
 ### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
 * 👍💵 Peter Godlewski
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 ❓3
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎2 ❓3
 * 👎💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
 
@@ -823,7 +830,8 @@
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 
-### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎1 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
@@ -920,7 +928,7 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍2  
 * 👍💵 Emily Wittman
 
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍2  
@@ -935,10 +943,10 @@
 
 ### [SB 5966](/bill/2025-26/sb/5966/) - Medically tailored meals 👍1  
 
-### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍1  
+### [SB 5968](/bill/2025-26/sb/5968/) - Permitting and licensing 👍2  
 * 👍💵 Emily Wittman
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍2  
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍3  
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
@@ -1008,15 +1016,18 @@
 ### [SB 6240](/bill/2025-26/sb/6240/) - Aviation impacts grants  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎1 
+* 👎💵 Peter Godlewski
+
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓3
 
 ### [SB 6289](/bill/2025-26/sb/6289/) - Economic dev. strategic plan 👍1  
 
-## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎2 
 
 ## 2023-24
 
-### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎1 
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use  👎2 
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

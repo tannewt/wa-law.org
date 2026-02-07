@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206227)
+
 ## Meetings
 ### Mon 01/26 10:30 AM - Higher Education & Workforce Development (HEWD): SB 6227 Parenting student data
 #### 84 👍 - Pro

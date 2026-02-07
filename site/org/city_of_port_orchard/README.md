@@ -13,6 +13,8 @@
 
 ### [HB 2199](/bill/2025-26/hb/2199/) - Derelict vessels 👍1  
 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 * ❓ Nick Bond
 

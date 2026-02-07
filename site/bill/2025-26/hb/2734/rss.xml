@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2734 - Sugar-sweetened beverages</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2734/</link>
+		<description>Updates about HB 2734</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 06 Feb 2026 16:36:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-06/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>WA Dems propose 3-cent sugar tax per fluid ounce of certain sweetened beverages | Washington | thecentersquare.com</title>
+			<description>News article "WA Dems propose 3-cent sugar tax per fluid ounce of certain sweetened beverages | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 06 Feb 2026 16:36:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_055c83cc-157a-46ca-897e-856d412cd3c7.html#:~:text=House%20Bill%202734</guid>
+		</item>
+	</channel>
+</rss>

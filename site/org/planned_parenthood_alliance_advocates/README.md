@@ -64,6 +64,8 @@
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
 ### [HB 1718](/bill/2025-26/hb/1718/) - Health care prof. well-being 👍1  
@@ -126,6 +128,8 @@
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
 
 ### [HB 2626](/bill/2025-26/hb/2626/) - Health insurance premium tax 👍1  
+
+### [HB 2720](/bill/2025-26/hb/2720/) - Behavioral health services 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
@@ -235,7 +239,8 @@
 
 ### [SB 6129](/bill/2025-26/sb/6129/) - Cigarettes, nicotine/tax 👍1  
 
-### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍4  
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
@@ -243,11 +248,17 @@
 
 ### [SB 6186](/bill/2025-26/sb/6186/) - SNAP benefits/unhealthy food  👎1 
 
-## [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+
+### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+* 👍💵 Courtney Normand
 
 ## 2023-24
 
-### [SB 6210](/bill/2023-24/sb/6210/) - Health plan certification 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+* 👍💵 Courtney Normand
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

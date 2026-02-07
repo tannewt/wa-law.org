@@ -6,12 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead (February 9 – 15, 2026) | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-february-9-15-2026/#:~:text=HB%202713)
+
 ## Meetings
 ### Mon 02/09 08:00 AM - Finance (FIN): HB 2713 Detention facilities B&O tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 33 👎 - Con
 
 #### 0 ❓ - Other

@@ -51,7 +51,7 @@
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities   ❓1
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  ❓1
 * ❓ Cameron Steinback
 
 ### [HB 2550](/bill/2025-26/hb/2550/) - Free transit/CTC students 👍1  

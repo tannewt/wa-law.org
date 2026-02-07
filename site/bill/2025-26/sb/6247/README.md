@@ -9,13 +9,11 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6247 School financial management
-Sign up to testify:
+#### 13 👍 - Pro
 
-#### 2 👍 - Pro
+#### 673 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/27 08:00 AM - Early Learning & K-12 Education (EDU): SB 6247 School financial management
 #### 19 👍 - Pro

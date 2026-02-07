@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2732 - School absence/civic activ.</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2732/</link>
+		<description>Updates about HB 2732</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 06 Feb 2026 10:42:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-06/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>WA Dems file proposal requiring schools to provide excused absences for protesting | Washington | thecentersquare.com</title>
+			<description>News article "WA Dems file proposal requiring schools to provide excused absences for protesting | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 06 Feb 2026 10:42:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_7870c34c-f43a-4c71-8afb-e0bdaa8fb6f6.html#:~:text=House%20Bill%202732</guid>
+		</item>
+	</channel>
+</rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2165/</link>
 		<description>Updates about HB 2165</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 29 Jan 2026 00:05:37 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 00:28:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,20 @@
 			<pubDate>Thu, 29 Jan 2026 00:05:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/01/28/wa-senate-passes-ban-on-police-face-coverings/#:~:text=House%20Bill%202165</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-06/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford</title>
+			<description>News article "Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford" from Senate Democrats.</description>
+			<pubDate>Fri, 06 Feb 2026 00:28:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=HB%202165</guid>
 		</item>
 	</channel>
 </rss>

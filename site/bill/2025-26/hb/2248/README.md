@@ -8,6 +8,17 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2248 Corporate filings
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Constance Parbon - Secretary of State Corporations and Charities Division
+
+#### 35 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2248 Corporate filings
 #### 80 👍 - Pro
 Testifying:

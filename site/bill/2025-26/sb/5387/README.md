@@ -18,23 +18,38 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): 2SSB 5387 Corp practice of health care
-Sign up to testify:
-
-#### 213 👍 - Pro
+#### 363 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 * John Sobeck - Health Care for All-WA
 * Ming Lin - Coalition for patient centered care
 * Nico Janssen - Office of the Insurance Commissioner
+* Andre Stackhouse - Whole Washington
+* Justin Gill - Washington State Nurses Association (WSNA)
+* Nancy Connolly
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Jim Freeburg
 
-#### 141 👎 - Con
+#### 227 👎 - Con
 Testifying:
 * John Schuler
 * MD, John Schuler - [Compass Oncology](/org/compass_oncology/)
 * Dr. Steve Pollei - RAYUS Radiology
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Shayna Lemke - Jefferson Healthcare
 * 💵Kevin Schilling - Washington State Dental Association
+* MD, Rodney Joe - Gastro Health Olympia
+* 💵Vicki Christophersen - Washington Independent Physician Practice Association
+* MD, Lori Marshall - Pacific NW Fertility
+* MD, Steven Kaptik - Washington Gastroenterology
+* 💵Brooke Davies
+* Dr. Erika Walker - [Sound Physicians](/org/sound_physicians/)
+* 💵Marissa Ingalls - Assoc of WA Healthcare Plans
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Sean Graham - Washington State Medical Association
 
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5387 Corp practice of health care
 #### 254 👍 - Pro

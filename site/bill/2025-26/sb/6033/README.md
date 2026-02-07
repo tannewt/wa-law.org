@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6033 Services tax penalty waiver
-Sign up to testify:
-
-#### 19 👍 - Pro
+#### 53 👍 - Pro
+Testifying:
+* 💵Patrick Connor - NFIB
 
 #### 1 👎 - Con
 

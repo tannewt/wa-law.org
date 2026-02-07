@@ -15,15 +15,21 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): 2SHB 1420 Textile producers
-Sign up to testify:
-
-#### 80 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Maggie Yuse - Seattle Public Utilities
 
-#### 1 👎 - Con
+#### 137 👎 - Con
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Samantha Louderback - American Apparel and Footware Association
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Teresa Milio Birge - American Circular Textiles
+* Libby Johnson McKee - Evergreen Goodwill
 
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
 #### 377 👍 - Pro

@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1903 Low-income energy assistance
-Sign up to testify:
-
-#### 834 👍 - Pro
+#### 1034 👍 - Pro
 Testifying:
 * 💵Alexandra Johnson - Duwamish River Community Coalition
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
@@ -26,9 +24,9 @@ Testifying:
 * 💵Charlee Thompson - NW Energy Coalition
 * Dan Fagerlie - Ferry PUD #1
 
-#### 72 👎 - Con
+#### 85 👎 - Con
 
-#### 6 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Sheri Nelson - WA Rural Electric Cooperative Assn

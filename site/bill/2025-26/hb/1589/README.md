@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Third Substitute](S3/)
 
 ## 📰 Articles
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [Healthcare bills aimed to lower costs and increase accessibility pass house with overwhelming bipartisan support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/healthcare-bills-aimed-to-lower-costs-and-increase-accessibility-pass-house-with-overwhelming-bipartisan-support/#:~:text=HB%201589)

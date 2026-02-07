@@ -38,13 +38,14 @@
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 
-## [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
+### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍1  
 * 👍 Jeff DeBray
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 5974](/bill/2023-24/sb/5974/) - Local law enforcement 👍1  
-* 👍 Jeff DeBray
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

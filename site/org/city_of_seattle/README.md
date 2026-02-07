@@ -10,6 +10,8 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
@@ -84,11 +86,11 @@
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
-### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍2  
 
-### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍3  
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍3  
 
@@ -142,7 +144,7 @@
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
-### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍2  
 
 ### [HB 2159](/bill/2025-26/hb/2159/) - PreK promise account 👍1  
 
@@ -161,6 +163,8 @@
 ### [HB 2265](/bill/2025-26/hb/2265/) - Extreme heat/tenants 👍1  
 
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
 
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
 
@@ -205,6 +209,10 @@
 ### [HB 2637](/bill/2025-26/hb/2637/) - PRA/personal information 👍1  
 
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
+
+### [HB 2720](/bill/2025-26/hb/2720/) - Behavioral health services 👍1  
+
+### [HB 2722](/bill/2025-26/hb/2722/) - Vehicle fees/maximum weight 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
@@ -306,9 +314,9 @@
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍1  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 
-### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍2  
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍2  
 
@@ -342,11 +350,13 @@
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
-## [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
+### [SB 6311](/bill/2025-26/sb/6311/) - Pedestrian passage 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6311](/bill/2023-24/sb/6311/) - Pedestrian passage 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

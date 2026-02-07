@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [The bills that didn’t survive the WA Legislature’s first major deadline | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=restrict%20children’s%20access%20to%20pornography)
+* 02/05/2026 [KUOW](/org/kuow/) - [KUOW - The bills that didn’t survive the Washington Legislature’s first major deadline](https://www.kuow.org/stories/the-bills-that-didn-t-survive-the-washington-legislature-s-first-major-deadline#:~:text=restrict%20children’s%20access%20to%20pornography)
+* 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [The bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2026/02/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=restrict%20children’s%20access%20to%20pornography)
 * 02/03/2026 [KUOW](/org/kuow/) - [KUOW - Should WA restrict access to porn sites based on age?](https://www.kuow.org/stories/should-wa-restrict-access-to-porn-sites-based-on-age#:~:text=HB%202112%20-%202025-26,%20establishing%20an%20age%20minimum%20to%20access%20certain%20adult%20content%20online)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=HB%202112)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202112)

@@ -11,13 +11,13 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Transportation (TRAN): SB 6230 Cash transactions/pennies
-Sign up to testify:
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Amber Carter - WA Retail Association
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

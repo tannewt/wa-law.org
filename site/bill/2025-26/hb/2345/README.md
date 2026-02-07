@@ -9,13 +9,13 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2345 Paid leave contributions
-Sign up to testify:
-
-#### 67 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵James Crandall - AWB
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

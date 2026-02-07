@@ -16,7 +16,7 @@
 ### [SB 5322](/bill/2025-26/sb/5322/) - Burrowing shrimp 👍2  
 * 👍💵 Diana Carlen
 
-### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎2 
 
 ### [SB 6104](/bill/2025-26/sb/6104/) - Agriculture impacts 👍1  
 

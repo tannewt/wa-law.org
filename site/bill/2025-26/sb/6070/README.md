@@ -8,13 +8,12 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [My prime sponsored bills advancing - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/06/my-prime-sponsored-bills-advancing/#:~:text=Senate%20Bill%206070)
 * 01/20/2026 [FOX13](/org/fox13/) - [What is a Purple Alert? Proposed WA legislation | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-law-purple-alert#:~:text=Senate%20Bill%206070)
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6070 Recovery of missing persons
-Sign up to testify:
-
-#### 99 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Arzu Forough - Washington Autism Alliance
@@ -30,8 +29,9 @@ Testifying:
 * Ze'lla Adams - The Silent Task Force
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Nicole Khouw
+* Abigail Echo-Hawk - Seattle Indian Health Board
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 2 ❓ - Other
 

@@ -80,13 +80,16 @@
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system 👍1  
 * 👍 Soleil Boyd
 
-## [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍2  
+### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍2  
 * 👍 Max Lau
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+* 👍 Anni-Michele Jean-Pierre
 
 ## 2023-24
 
-### [SB 6224](/bill/2023-24/sb/6224/) - Youth behavioral health 👍2  
-* 👍 Max Lau
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+* 👍 Anni-Michele Jean-Pierre
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

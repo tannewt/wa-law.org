@@ -23,7 +23,7 @@
 ### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍1  
 * 👍 Mike Ennis
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎3 
 
 ### [HB 1153](/bill/2025-26/hb/1153/) - Urban forest management   ❓1
 * ❓💵 Jan Himebaugh
@@ -188,6 +188,8 @@
 ### [HB 2141](/bill/2025-26/hb/2141/) - Building codes 👍1  
 * 👍💵 Andrea Smiley
 
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices  👎1 
+
 ### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program  👎2 
 * 👎 Mike Ennis
 * 👎 Mike Ennis
@@ -221,7 +223,7 @@
 ### [HB 2298](/bill/2025-26/hb/2298/) - Property title protection  👎2 
 * 👎💵 Andrea Smiley
 
-### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp.  👎1 
+### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp.  👎2 
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 * 👍💵 Brent Ludeman
@@ -229,8 +231,9 @@
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas. 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions   ❓1
+### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍1  ❓1
 * ❓💵 Jan Himebaugh
+* 👍💵 Jan Himebaugh
 
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation  👎1 
 
@@ -250,6 +253,9 @@
 
 ### [HB 2472](/bill/2025-26/hb/2472/) - Fire sprinkler work  👎1 
 * 👎💵 Bill Stauffacher
+
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
+* 👍💵 Jan Himebaugh
 
 ### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍1  
 
@@ -365,7 +371,8 @@
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  ❓1
 * ❓💵 Bill Stauffacher
 
-### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎2 
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use  👎3 
+* 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
 
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍2  
@@ -454,13 +461,14 @@
 
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍1  
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍2  
 
 ### [SB 6016](/bill/2025-26/sb/6016/) - Aquifer recharge areas 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍3  
 * 👍💵 Andrea Smiley
+* 👍💵 Bill Stauffacher
 * 👍💵 Bill Stauffacher
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts  👎1 

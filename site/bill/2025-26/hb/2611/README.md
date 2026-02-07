@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [The bills that didn’t survive the WA Legislature’s first major deadline | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%202611)
+* 02/05/2026 [KUOW](/org/kuow/) - [KUOW - The bills that didn’t survive the Washington Legislature’s first major deadline](https://www.kuow.org/stories/the-bills-that-didn-t-survive-the-washington-legislature-s-first-major-deadline#:~:text=House%20Bill%202611)
+* 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [The bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2026/02/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%202611)
 * 02/02/2026 [The Washington Observer](/org/the_washington_observer/) - [A shorter workweek and un-banning the switchblade](https://washingtonobserver.substack.com/p/a-shorter-workweek-and-un-banning#:~:text=HB%202611)
 * 01/28/2026 [FOX13](/org/fox13/) - [WA considers 32-hour work week | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmaker-32-hour-week#:~:text=House%20Bill%202611)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202611)

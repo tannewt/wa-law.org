@@ -12,13 +12,15 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6117 Collective bargaining
-Sign up to testify:
+#### 22 👍 - Pro
+Testifying:
+* Joe Kendo - Washington State Labor Council, AFL-CIO
 
-#### 10 👍 - Pro
+#### 529 👎 - Con
 
-#### 260 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 6117 Collective bargaining
 #### 135 👍 - Pro

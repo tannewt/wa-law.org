@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6265/</link>
 		<description>Updates about SB 6265</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Feb 2026 00:53:59 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,20 @@
 			<pubDate>Wed, 04 Feb 2026 00:53:59 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2026/02/03/nobles-bill-to-simplify-total-loss-vehicle-transfer-process-heard-in-committee/#:~:text=Senate%20Bill%206265</guid>
+		</item>
+		<item>
+			<title>TRAN - Majority; do pass.</title>
+			<description>TRAN - Majority; do pass.</description>
+			<pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-05/TRAN - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-06/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

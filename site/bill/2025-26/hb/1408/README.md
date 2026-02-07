@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 1408 Community authority funding
-Sign up to testify:
-
-#### 129 👍 - Pro
+#### 163 👍 - Pro
 Testifying:
 * Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
 * Rino Hamanishi - Historic South Downtown & SCIDpda
@@ -22,7 +20,7 @@ Testifying:
 * Christopher Yip
 * 💵Christopher Ellis - Bricklayers & Allied Craftworkers
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

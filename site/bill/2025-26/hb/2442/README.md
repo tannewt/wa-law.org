@@ -13,16 +13,14 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2442 Local government fund use
-Sign up to testify:
-
-#### 60 👍 - Pro
+#### 193 👍 - Pro
 Testifying:
 * 💵Jaime Bodden - WSALPHO
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Mark Watson - PROTEC17
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 147 👎 - Con
+#### 217 👎 - Con
 Testifying:
 * Mary Hull-Drury - Washington Realtors
 

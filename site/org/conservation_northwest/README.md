@@ -57,7 +57,11 @@
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
+
 ### [HB 2316](/bill/2025-26/hb/2316/) - Concerning land use development when vegetation associated with shrubsteppe is present in the urban growth areas.   ❓1
+
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
@@ -93,7 +97,7 @@
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍4  
 * 👍💵 Nadine Nadow
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  

@@ -237,11 +237,11 @@
 
 ### [SB 6268](/bill/2025-26/sb/6268/) - Special ed. complaint record 👍1  
 
-## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎1 
+## [SB 6296](/bill/2025-26/sb/6296/) - Involuntary treatment  👎2 
 
 ## 2023-24
 
-### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment  👎1 
+### [SB 6296](/bill/2023-24/sb/6296/) - Involuntary treatment  👎2 
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

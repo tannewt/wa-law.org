@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=HB%202532)
 * 01/26/2026 [FOX13](/org/fox13/) - [WA bill could outlaw selling 'whippets' | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-bill-outlaw-whippets#:~:text=House%20Bill%202532)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202532)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [Hansen, Timmons bills would ban nitrous oxide sale in Washington  - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/01/14/hansen-timmons-bill-would-ban-nitrous-oxide-sale-in-washington/#:~:text=House%20bill)

@@ -9,14 +9,14 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2479 Unpaid wage recovery
-Sign up to testify:
-
-#### 56 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Elizabeth Ford - Seattle Univ. School of Law
 * 💵Patrick Connor - NFIB
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
-#### 44 👎 - Con
+#### 75 👎 - Con
 
 #### 0 ❓ - Other
 

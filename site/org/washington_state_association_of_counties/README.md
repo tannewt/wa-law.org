@@ -217,10 +217,11 @@
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍5  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍6  
 * 👍💵 Travis Dutton
 * 👍💵 Paul Jewell
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
@@ -280,7 +281,7 @@
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍2  
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍3  
 * 👍💵 Travis Dutton
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  ❓1
@@ -322,6 +323,8 @@
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍2  
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
 
 ### [HB 2456](/bill/2025-26/hb/2456/) - Juvenile firearm interv.   ❓1
 * ❓💵 Travis Dutton
@@ -387,6 +390,9 @@
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  ❓1
 * ❓💵 Paul Jewell
 * 👍💵 Derek Young
+
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
+* 👍💵 Axel Swanson
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 
@@ -571,7 +577,8 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 * 👍💵 Axel Swanson
 
-### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓1
+### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans   ❓2
+* ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍2  

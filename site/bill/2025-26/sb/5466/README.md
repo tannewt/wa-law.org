@@ -16,13 +16,22 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): 2SSB 5466 Electric transmission system
-Sign up to testify:
+#### 134 👍 - Pro
+Testifying:
+* Casey MacLean
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Maya Gillett - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
 
-#### 0 👍 - Pro
+#### 147 👎 - Con
+Testifying:
+* Daniel Kuntz - [Squaxin Island Tribe](/org/squaxin_island_tribe/)
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 3 👎 - Con
-
-#### 0 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 
 ### Wed 01/21 08:00 AM - Environment, Energy & Technology (ENET): ESSB 5466 Electric transmission system
 #### 272 👍 - Pro

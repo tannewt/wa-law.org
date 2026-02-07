@@ -79,7 +79,8 @@
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎2 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎3 
+* 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
 
@@ -181,6 +182,9 @@
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 
 * 👎💵 Amber Carter
 
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [HB 2157](/bill/2025-26/hb/2157/) - High-risk AI  👎1 
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
@@ -194,7 +198,7 @@
 
 ### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
 
-### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎2 
+### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content  👎3 
 
 ### [HB 2274](/bill/2025-26/hb/2274/) - Commercial electronic mail 👍1  
 * 👍💵 Crystal Leatherman
@@ -224,6 +228,8 @@
 * 👎💵 Crystal Leatherman
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
+
+### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
 
 ### [HB 2573](/bill/2025-26/hb/2573/) - Grocery stores & pharmacies  👎1 
 
@@ -329,7 +335,8 @@
 
 ### [SB 5794](/bill/2025-26/sb/5794/) - Tax preferences  👎1 
 
-### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
+### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍2  
+* 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
 ### [SB 5976](/bill/2025-26/sb/5976/) - Commercial electronic mail 👍1  
@@ -355,6 +362,8 @@
 
 ### [SB 6230](/bill/2025-26/sb/6230/) - Cash transactions/pennies 👍1  
 * 👍💵 Amber Carter
+
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 

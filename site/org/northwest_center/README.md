@@ -13,7 +13,7 @@
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
-### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍7  
+### [SB 5681](/bill/2025-26/sb/5681/) - DDA employment services age 👍8  
 * 👍💵 Vicki Christophersen
 
 ## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 

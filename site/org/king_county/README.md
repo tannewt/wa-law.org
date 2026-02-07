@@ -55,6 +55,8 @@
 ### [SB 5745](/bill/2025-26/sb/5745/) - Invol. treatment counsel   ❓1
 * ❓💵 Michael White
 
+### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍1  
+
 ### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 

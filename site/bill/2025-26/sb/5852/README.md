@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=SB%205852)
+* 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [Supporting our communities and working families - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/05/supporting-our-communities-and-working-families/#:~:text=Senate%20Bill%205852)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/01/30/legislative-action-to-keep-our-communities-safe-and-supported/#:~:text=SB%205852)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes ban on ICE wearing masks in Washington - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/01/28/senate-passes-ban-on-ice-wearing-masks-in-washington/#:~:text=SB%205852)
 * 01/28/2026 [The Center Square](/org/the_center_square/) - [WA Senate passes bill banning law enforcement from wearing masks amid ICE activity | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_99476763-d74d-4e3e-9eea-bb4ea08a39d7.html#:~:text=notify)

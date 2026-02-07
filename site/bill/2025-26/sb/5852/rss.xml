@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5852/</link>
 		<description>Updates about SB 5852</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 00:28:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -339,6 +339,20 @@
 			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-02/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Supporting our communities and working families - Sen. June Robinson</title>
+			<description>News article "Supporting our communities and working families - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Thu, 05 Feb 2026 19:47:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2026/02/05/supporting-our-communities-and-working-families/#:~:text=Senate%20Bill%205852</guid>
+		</item>
+		<item>
+			<title>Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford</title>
+			<description>News article "Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford" from Senate Democrats.</description>
+			<pubDate>Fri, 06 Feb 2026 00:28:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=SB%205852</guid>
 		</item>
 	</channel>
 </rss>

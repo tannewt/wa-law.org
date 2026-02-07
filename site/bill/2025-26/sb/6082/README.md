@@ -8,13 +8,14 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6082 Student financial aid fraud
-Sign up to testify:
+#### 138 👍 - Pro
 
-#### 107 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dr. Sara Tweedy - Big Bend Community College
+* Arlen Harris - WA State Board for Community & Technical Colleges
 
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 6082 Student financial aid fraud
 #### 349 👍 - Pro

@@ -27,6 +27,8 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1596](/bill/2025-26/hb/1596/) - Speeding 👍1  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎3 
@@ -35,9 +37,11 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎2 
 
 ### [HB 2349](/bill/2025-26/hb/2349/) - Sexually violent predators 👍2  
+
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
 
 ### [HB 2480](/bill/2025-26/hb/2480/) - Residential dev./zones  👎1 
 

@@ -84,7 +84,8 @@
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍2  
 * 👍💵 Leah Missik
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍2  
+* 👍💵 Leah Missik
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 * 👎💵 Leah Missik
@@ -150,10 +151,11 @@
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍4  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍5  
 * 👍💵 Altinay Karasapan
 * 👍💵 Altinay Karasapan
 * 👍💵 Altinay Karasapan
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
@@ -197,12 +199,14 @@
 
 ### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍1  
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  

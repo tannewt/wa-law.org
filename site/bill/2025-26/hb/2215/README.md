@@ -12,19 +12,20 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2215 Fuels/climate commitment act
-Sign up to testify:
-
-#### 22 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 986 👎 - Con
+#### 1090 👎 - Con
 Testifying:
 * 💵Darren Engle - [Pacific Propane Gas Association](/org/pacific_propane_gas_association/)
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 * Marcus Mosley - Co-Energy
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sophia Steele Conley - WSPA
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Tue 01/13 04:00 PM - Environment & Energy (ENVI): HB 2215 Fuels/climate commitment act
 #### 32 👍 - Pro

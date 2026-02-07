@@ -16,6 +16,31 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202515)
 
 ## Meetings
+### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2515 Large energy use facilities
+Sign up to testify:
+
+#### 483 👍 - Pro
+Testifying:
+* Noah Purcell
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Zachariah Baker - NW Energy Coalition
+* Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
+* Emily Johnston
+
+#### 180 👎 - Con
+Testifying:
+* Dan Diorio - Data Center Coalition
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Michael Transue - Tacoma Pierce County Chamber and the Mechanical Contractors Association of Western WA
+* 💵Patrick Boss - [Port of Quincy](/org/port_of_quincy/)
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵Josie Cummings - Avista Corp.
+
+#### 4 ❓ - Other
+Testifying:
+* 💵Bill Clarke - Grant County Public Utility District
+
 ### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2515 Large energy use facilities
 #### 1208 👍 - Pro
 Testifying:

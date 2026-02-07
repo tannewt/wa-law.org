@@ -13,13 +13,21 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6182 Abortion savings program
-Sign up to testify:
+#### 575 👍 - Pro
+Testifying:
+* Kari Pacheco - Planned Parenthood Great Northwest, Hawaii, Alaska, Indiana, Kentucky
+* Mercedes Sanchez - [Cedar River Clinics](/org/cedar_river_clinics/)
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 3 👍 - Pro
+#### 977 👎 - Con
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
+* 💵Jean Hill - Washington State Catholic Conference
+* Jeannie Magdua - Conservative Ladies of America
 
-#### 15 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵David Foster
 
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 6182 Abortion savings program
 #### 32 👍 - Pro

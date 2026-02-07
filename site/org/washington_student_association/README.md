@@ -67,7 +67,8 @@
 
 ### [SB 5886](/bill/2025-26/sb/5886/) - Personality rights 👍1  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍7  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍8  
+* 👍💵 Sienna Jarrard
 
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎1 
 

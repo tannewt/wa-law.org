@@ -9,11 +9,13 @@
 
 ## Meetings
 ### Fri 02/06 08:00 AM - Finance (FIN): SHB 2451 Local tax increment fin.
-Sign up to testify:
+#### 73 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Dylan Doty - Washington Fire Chiefs Association
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other
 

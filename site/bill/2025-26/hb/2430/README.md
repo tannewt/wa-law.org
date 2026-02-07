@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2430 Crime victim penalty assess.

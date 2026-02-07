@@ -54,12 +54,13 @@
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
 * 👎 Brian Hatfield
 
-### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute. 👍1  
+### [HB 2206](/bill/2025-26/hb/2206/) - Uniformed & overseas voting 👍1  
 * 👍 Steve Hobbs
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections  👎2 
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections  👎3 
 * 👎 Steve Hobbs
 * 👎 Steve Hobbs
+* 👎 Brian Hatfield
 
 ### [HB 2252](/bill/2025-26/hb/2252/) - State historical records 👍1  
 
@@ -74,7 +75,9 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 
-### [HB 2333](/bill/2025-26/hb/2333/) - Political violence   ❓2
+### [HB 2333](/bill/2025-26/hb/2333/) - Political violence   ❓4
+* ❓ Dallas Burnett
+* ❓ Stuart Holmes
 * ❓ Dallas Burnett
 * ❓ Stuart Holmes
 
@@ -125,7 +128,7 @@
 
 ### [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 
-### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification   ❓2
+### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification 👍1  ❓2
 * ❓ Brian Hatfield
 * ❓ Shawn Merchant
 

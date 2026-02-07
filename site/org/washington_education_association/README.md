@@ -134,6 +134,8 @@
 
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
 
+### [HB 1316](/bill/2025-26/hb/1316/) - Expanding the scope of programs for postsecondary students experiencing homelessness and former foster youth. 👍1  
+
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
@@ -403,7 +405,7 @@
 
 ### [HB 2345](/bill/2025-26/hb/2345/) - Paid leave contributions 👍2  
 
-### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍1  
+### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
@@ -417,6 +419,8 @@
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
+### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy 👍1  
+
 ### [HB 2440](/bill/2025-26/hb/2440/) - Education ombuds records 👍1  
 
 ### [HB 2458](/bill/2025-26/hb/2458/) - College grant/credential prg 👍1  
@@ -429,7 +433,9 @@
 
 ### [HB 2474](/bill/2025-26/hb/2474/) - Postsecondary closures 👍1  
 
-### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍1  
+### [HB 2479](/bill/2025-26/hb/2479/) - Unpaid wage recovery 👍2  
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
 
 ### [HB 2492](/bill/2025-26/hb/2492/) - Apprenticeships/wellness 👍1  
 
@@ -837,7 +843,7 @@
 
 ### [SB 5861](/bill/2025-26/sb/5861/) - Education/community rep. 👍1  
 
-### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍2  
+### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍3  
 * 👍 Jared Mason-Gere
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍2  
@@ -899,6 +905,8 @@
 
 ### [SB 6053](/bill/2025-26/sb/6053/) - Domestic workers 👍1  
 
+### [SB 6067](/bill/2025-26/sb/6067/) - Workers' compensation 👍1  
+
 ### [SB 6081](/bill/2025-26/sb/6081/) - Government record privacy 👍1  
 
 ### [SB 6089](/bill/2025-26/sb/6089/) - Education data/P20W system   ❓1
@@ -955,7 +963,7 @@
 ### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍2  
 * 👍💵 Simone Boe
 
-### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍11 👎2 
+### [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍20 👎2 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

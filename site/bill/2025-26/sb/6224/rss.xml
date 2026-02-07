@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6224/</link>
 		<description>Updates about SB 6224</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 18:37:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -192,6 +192,13 @@
 			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-04/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Session update - Sen. Claire Wilson</title>
+			<description>News article "Session update - Sen. Claire Wilson" from Senate Democrats.</description>
+			<pubDate>Fri, 06 Feb 2026 18:37:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206224</guid>
 		</item>
 	</channel>
 </rss>

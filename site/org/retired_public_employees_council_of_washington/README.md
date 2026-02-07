@@ -51,13 +51,15 @@
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
-### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍55  
+### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍59  
 
-## [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍20  
+### [SB 6162](/bill/2025-26/sb/6162/) - Property tax 👍20  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1 👎3 
 
 ## 2023-24
 
-### [SB 6162](/bill/2023-24/sb/6162/) - Property tax 👍20  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1 👎3 
 
 ### [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 

@@ -15,7 +15,8 @@
 
 ### [HB 1976](/bill/2025-26/hb/1976/) - Release of pets & plants 👍1  
 
-### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍6  
+* 👍💵 Alexei Calambokidis
 * 👍💵 Alexei Calambokidis
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍2  

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [The Center Square](/org/the_center_square/) - [Media outlets push for WA bill funding state-sponsored journalism | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cd6e34d8-00f5-4cc7-9158-b1a0d30bfe8e.html#:~:text=Senate%20Bill%205400)
 * 03/17/2025 [MyNorthwest](/org/mynorthwest/) - [State senate bill may benefit smaller news organizations](https://mynorthwest.com/mynorthwest-politics/senate-bill-big-tech/4064006#:~:text=Senate%20Bill%205400)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting local news and pilots - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205400)
 * 01/29/2025 [The Center Square](/org/the_center_square/) - [News at what cost? WA bill pits journalists against higher education funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1cba676e-de8d-11ef-a8ea-f33addf8deba.html#:~:text=Senate%20Bill%205400)
@@ -17,9 +18,7 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5400 Local news journalism
-Sign up to testify:
-
-#### 693 👍 - Pro
+#### 760 👍 - Pro
 Testifying:
 * David Fischrr - KNKX Radio
 * Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
@@ -33,8 +32,10 @@ Testifying:
 * Matt Pearce - Rebuild Local News
 * Neal Boling - KHQ-TV, KNDO-TV, and KNDU-TV
 * Neal Boling - KHQ-TV, KNDO-TV, KNDU-TV
+* Peggy Watt - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Emily Harris - Uplift Local Community News
 
-#### 899 👎 - Con
+#### 1071 👎 - Con
 Testifying:
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 

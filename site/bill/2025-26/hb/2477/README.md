@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2477 Real estate appraisals

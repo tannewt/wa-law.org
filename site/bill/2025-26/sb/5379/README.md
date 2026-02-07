@@ -9,11 +9,12 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5379 Parks & rec./interest arb.
-Sign up to testify:
+#### 94 👍 - Pro
+Testifying:
+* Andrew Kallinen - WFSE Member
+* 💵Nicole Gomez - AFSCME Council 28/Washington Federation of State Employees (WFSE)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 69 👎 - Con
 
 #### 0 ❓ - Other
 

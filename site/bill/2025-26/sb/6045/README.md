@@ -18,19 +18,23 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6045 Agricultural employees/PERC
-Sign up to testify:
-
-#### 360 👍 - Pro
+#### 666 👍 - Pro
 Testifying:
 * Edgar Franks - Familias Unidas por la Justicia
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Lionor Galindo Cardenas - United Farm Workers
+* Mike Asai - Emerald City Collective
 
-#### 465 👎 - Con
+#### 931 👎 - Con
 Testifying:
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 * Charlie Brown - [Washington Asparagus Commission](/org/washington_asparagus_commission/)
 * 💵Scott Dilley - Worker and Farmer Labor Association
+* Bre Elsey - WA Farm Bureau
+* Kellie Sundquist
+* 💵Natalie Doelman - Washington State Dairy Federation
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
 #### 495 👍 - Pro

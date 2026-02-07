@@ -11,7 +11,7 @@
 #### 67 👍 - Pro
 Testifying:
 * 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
-* Jesse Pestana - The Nature Conservancy in Washington
+* 💵Jesse Pestana - The Nature Conservancy in Washington
 * 💵Heath Heikkila - American Forest Resource Council
 * George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
 

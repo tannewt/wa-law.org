@@ -69,7 +69,7 @@
 
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
-### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
+### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍3  
 * 👍 Bailey Medilo
 
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
@@ -78,11 +78,11 @@
 
 ### [SB 6320](/bill/2025-26/sb/6320/) - Alternative learning 👍2  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍4  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍5  
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍4  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍5  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith

@@ -26,7 +26,7 @@
 
 ### [HB 2173](/bill/2025-26/hb/2173/) - Law enf. face coverings 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍3  
 * 👍 Council Member Kitty Klitzke
 
 ### [HB 2278](/bill/2025-26/hb/2278/) - Tourism promotion areas 👍1  
@@ -35,6 +35,9 @@
 * 👍 Chris Averyt
 
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
+
+### [HB 2722](/bill/2025-26/hb/2722/) - Vehicle fees/maximum weight 👍1  
+* 👍 Jon Snyder
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
@@ -75,13 +78,14 @@
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 
-## [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
+### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  
 * 👍 Jon Snyder
+
+## [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use 👍1  
 
 ## 2023-24
 
-### [SB 6262](/bill/2023-24/sb/6262/) - Vehicle fees/maximum weight 👍1  
-* 👍 Jon Snyder
+### [SB 6294](/bill/2023-24/sb/6294/) - Local government fund use 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

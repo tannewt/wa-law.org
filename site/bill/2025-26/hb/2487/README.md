@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead (February 9 – 15, 2026) | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-february-9-15-2026/#:~:text=HB%202487)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202487)
 
 ## Meetings

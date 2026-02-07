@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [The bills that didn’t survive the WA Legislature’s first major deadline | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%202578)
+* 02/05/2026 [KUOW](/org/kuow/) - [KUOW - The bills that didn’t survive the Washington Legislature’s first major deadline](https://www.kuow.org/stories/the-bills-that-didn-t-survive-the-washington-legislature-s-first-major-deadline#:~:text=House%20Bill%202578)
+* 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [The bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2026/02/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%202578)
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Lekanoff’s agenda to strengthen government-to-government partnership and protect future generations – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/lekanoffs-to-strengthen-government-to-government-partnership-and-protect-future-generations/#:~:text=HB%202578)
 
 ## Meetings

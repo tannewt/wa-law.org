@@ -6,14 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB%206343)
+
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6343 Atmospheric river/tax relief
-Sign up to testify:
-
-#### 17 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Kyle Moore - [City of Kent](/org/city_of_kent/)
+* James Schrimpsher - The Algona Police Department
+* Troy Linnell - The City of Algona
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

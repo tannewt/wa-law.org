@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington tribes could get more say in management of state logging lands • Washington State Standard](https://washingtonstatestandard.com/2026/02/06/washington-tribes-could-get-more-say-in-management-of-state-logging-land/#:~:text=Senate%20Bill%205838)
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205838)
 
 ## Meetings

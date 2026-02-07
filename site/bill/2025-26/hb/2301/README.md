@@ -9,13 +9,12 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2301 Paint producer resp.
-Sign up to testify:
-
-#### 77 👍 - Pro
+#### 204 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Mike Burgess - [American Coatings Association](/org/american_coatings_association/)
 
-#### 1 👎 - Con
+#### 127 👎 - Con
 
 #### 0 ❓ - Other
 

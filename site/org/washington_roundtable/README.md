@@ -57,7 +57,8 @@
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp. 👍1  
 * 👍💵 Neil Strege
 
-### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍1  
+### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones 👍2  
+* 👍💵 Neil Strege
 * 👍💵 Neil Strege
 
 ## [SB 6148](/bill/2025-26/sb/6148/) - RTA bond issues maximum term 👍1  

@@ -32,7 +32,9 @@
 
 ### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 
-### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
+### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍2  
+
+### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 
 ### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 

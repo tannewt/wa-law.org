@@ -26,6 +26,8 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 2196](/bill/2025-26/hb/2196/) - PANDAS, pediatric treatment 👍1  
 
 ### [HB 2230](/bill/2025-26/hb/2230/) - DD res. service providers 👍1  
@@ -47,6 +49,8 @@
 * 👍💵 Stacy Dym
 
 ### [HB 2429](/bill/2025-26/hb/2429/) - Youth behavioral health 👍1  
+
+### [HB 2557](/bill/2025-26/hb/2557/) - Sp. ed. evaluation reports 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
 

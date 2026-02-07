@@ -7,13 +7,13 @@
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
-## [SB 6297](/bill/2025-26/sb/6297/) - Behavioral health staffing 👍4  
+## [SB 6297](/bill/2025-26/sb/6297/) - Behavioral health staffing 👍5  
 * 👍 Janet Carbary
 * 👍 Tom Sebastian
 
 ## 2023-24
 
-### [SB 6297](/bill/2023-24/sb/6297/) - Behavioral health staffing 👍4  
+### [SB 6297](/bill/2023-24/sb/6297/) - Behavioral health staffing 👍5  
 * 👍 Janet Carbary
 * 👍 Tom Sebastian
 

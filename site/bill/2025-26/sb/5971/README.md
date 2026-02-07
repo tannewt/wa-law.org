@@ -9,11 +9,11 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5971 Green fertilizer incentives
-Sign up to testify:
+#### 58 👍 - Pro
+Testifying:
+* 💵Austin Hicks - [Atlas Agro](/org/atlas_agro/)
 
-#### 23 👍 - Pro
-
-#### 36 👎 - Con
+#### 55 👎 - Con
 
 #### 0 ❓ - Other
 

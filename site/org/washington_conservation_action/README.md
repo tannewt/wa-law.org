@@ -66,15 +66,15 @@
 ### [HB 2170](/bill/2025-26/hb/2170/) - Expanding revenue generation and economic opportunities from natural climate solutions and ecosystem services. 👍1  
 * 👍 Rachel Baker
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍1  
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍2  
 
-### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍2  
+### [HB 2215](/bill/2025-26/hb/2215/) - Fuels/climate commitment act 👍3  
 * 👍 Julian Santos
 
 ### [HB 2245](/bill/2025-26/hb/2245/) - Consumer-owned utilities 👍1  
 * 👍 Julian Santos
 
-### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍1  
+### [HB 2251](/bill/2025-26/hb/2251/) - Climate commit. act accounts 👍2  
 * 👍💵 Darcy Nonemacher
 
 ### [HB 2259](/bill/2025-26/hb/2259/) - Initiatives and referenda 👍1  
@@ -84,6 +84,8 @@
 
 ### [HB 2267](/bill/2025-26/hb/2267/) - Urban forest management 👍1  
 * 👍💵 Holly Hines
+
+### [HB 2281](/bill/2025-26/hb/2281/) - State-tribal relationship 👍1  
 
 ### [HB 2285](/bill/2025-26/hb/2285/) - Carbon capture  👎1 
 
@@ -189,6 +191,8 @@
 ### [SB 6010](/bill/2025-26/sb/6010/) - EFSEC tribal consultation 👍1  
 * 👍 Andrea Matheny
 
+### [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍1  
+
 ### [SB 6097](/bill/2025-26/sb/6097/) - Conservation futures/tribes 👍1  
 
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities 👍1  
@@ -197,16 +201,17 @@
 ### [SB 6172](/bill/2025-26/sb/6172/) - Coal-fired electric plant 👍1  
 * 👍 Caitlin Krenn
 
-### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+### [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍2  
 * 👍 Caitlin Krenn
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍1  
+### [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed 👍2  
 * 👍 Caitlin Krenn
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed 👍1  
-* 👍 Caitlin Krenn
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

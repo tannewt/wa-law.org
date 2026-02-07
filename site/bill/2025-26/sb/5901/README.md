@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5901 On-base school construction
-Sign up to testify:
-
 #### 7 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction

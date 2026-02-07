@@ -30,7 +30,7 @@
 
 ### [HB 1782](/bill/2025-26/hb/1782/) - Campaign reporting timeline  👎1 
 
-### [HB 2206](/bill/2025-26/hb/2206/) - Adopting national standards for uniformed and overseas civilian voting, including conforming amendments to existing statute. 👍1  
+### [HB 2206](/bill/2025-26/hb/2206/) - Uniformed & overseas voting 👍1  
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 * 👍💵 Cindy Black

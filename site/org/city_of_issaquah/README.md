@@ -30,7 +30,7 @@
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎2 
 
 ### [HB 2271](/bill/2025-26/hb/2271/) - Plastics/recycled content 👍1  
 
@@ -66,7 +66,7 @@
 
 ### [SB 5879](/bill/2025-26/sb/5879/) - Modifying joint legislative audit and review committee work plans to ensure efficient use of staff resources. 👍1  
 
-### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress  👎1 
+### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress  👎2 
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 
@@ -79,6 +79,8 @@
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍1  
 
 ### [SB 6037](/bill/2025-26/sb/6037/) - Fire protection districts 👍1  
+
+### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18  👎1 
 
 ## [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing  👎2 
 

@@ -72,13 +72,14 @@
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission   ❓1
 * ❓💵 Megan Managan
 
-## [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
 * ❓💵 Megan Managan
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires  👎1 
 
 ## 2023-24
 
-### [SB 6284](/bill/2023-24/sb/6284/) - AI consumer protections   ❓1
-* ❓💵 Megan Managan
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires  👎1 
 
 ### [HB 1420](/bill/2023-24/hb/1420/) - Lien priority/mortgages 👍2  
 * 👍💵 Trent House

@@ -12,16 +12,14 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2271 Plastics/recycled content
-Sign up to testify:
-
-#### 102 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Allison Kustic - The Association of Plastic Recyclers
 * Maggie Yuse - Seattle Public Utilities
 * John Hite - [The Recycling Partnership](/org/the_recycling_partnership/)
 
-#### 152 👎 - Con
+#### 221 👎 - Con
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Lindsey Hueer - [The Toy Association](/org/the_toy_association/)

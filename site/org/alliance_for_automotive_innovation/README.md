@@ -16,6 +16,8 @@
 ### [HB 2077](/bill/2025-26/hb/2077/) - Zero-emission vehicle prg.   ❓1
 * ❓💵 Brandon Houskeeper
 
+### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes  👎1 
+
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
 * 👎💵 Brandon Houskeeper
 

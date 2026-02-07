@@ -9,6 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%206002)
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=SB%206002,)
+* 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [Supporting our communities and working families - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/05/supporting-our-communities-and-working-families/#:~:text=Senate%20Bill%206002)
+* 02/05/2026 [KUOW](/org/kuow/) - [KUOW - Washington Senate OKs guardrails for license plate readers](https://www.kuow.org/stories/washington-senate-oks-guardrails-for-license-plate-readers#:~:text=Senate%20Bill%206002)
 * 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [WA Senate OKs guardrails for license plate readers • Washington State Standard](https://washingtonstatestandard.com/2026/02/04/wa-senate-oks-guardrails-for-license-plate-readers/#:~:text=Senate%20Bill%206002)
 * 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [License plate surveillance bill passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/04/license-plate-surveillance-bill-passes-senate/#:~:text=SB%206002)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Legislative Action to Keep Our Communities Safe and Supported  - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/01/30/legislative-action-to-keep-our-communities-safe-and-supported/#:~:text=SB%206002)
@@ -47,7 +51,7 @@ Testifying:
 * Jevan Hutson
 * 💵Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
 * Guillermo Zazueta - OneAmerica
-* Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
+* 💵Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Tee Sannon - ACLU of Washington
 * 💵Alizeh Bhojani - [Legal Voice](/org/legal_voice/)
 * Gabbi Nazari - ProChoice WA

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [State bill would prohibit local bans on encampments in Washington • Washington State Standard](https://washingtonstatestandard.com/2026/02/05/state-bill-would-prohibit-local-bans-on-encampments-in-washington/#:~:text=last%20year)
 * 01/15/2026 [PubliCola](/org/publicola/) - [Bills Would Crack Down on City Efforts to Banish Homeless People, Shelter, and Housing - PubliCola](https://publicola.com/2026/01/15/bills-would-crack-down-on-city-efforts-to-banish-homeless-people-shelter-and-housing/#:~:text=proposed%20a%20fix)
 * 10/05/2025 [Gorge News Center](/org/gorge_news_center/) - [WA Legislature’s housing leaders outline vision for 2026](https://gorgenewscenter.com/2025/10/05/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=House%20Bill%201195)
 * 10/03/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature’s housing leaders outline vision for 2026 • Washington State Standard](https://washingtonstatestandard.com/2025/10/03/wa-legislatures-housing-leaders-outline-vision-for-2026/#:~:text=House%20Bill%201195)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2724/</link>
 		<description>Updates about HB 2724</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 17:01:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,27 @@
 			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-04/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Op-Ed: Seven questions for lawmakers proposing an income tax for Washington state | Opinion | thecentersquare.com</title>
+			<description>News article "Op-Ed: Seven questions for lawmakers proposing an income tax for Washington state | Opinion | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 05 Feb 2026 12:33:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/opinion/article_facae5b3-9b8f-4f49-957f-0a005821af6c.html#:~:text=House%20Bill%202724</guid>
+		</item>
+		<item>
+			<title>Survey: More WA businesses considering leaving the state due to high taxes | Washington | thecentersquare.com</title>
+			<description>News article "Survey: More WA businesses considering leaving the state due to high taxes | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 05 Feb 2026 18:10:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_a3f6c770-5602-4469-9135-c6fe4db92dfa.html#:~:text=House%20Bill%202724</guid>
+		</item>
+		<item>
+			<title>Lawmakers hear public testimony on 'millionaire tax' proposal</title>
+			<description>News article "Lawmakers hear public testimony on 'millionaire tax' proposal" from MyNorthwest.</description>
+			<pubDate>Fri, 06 Feb 2026 17:01:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/millionaire-tax-wa/4199703#:~:text=HB%202724.</guid>
 		</item>
 	</channel>
 </rss>

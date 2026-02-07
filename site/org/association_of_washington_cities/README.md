@@ -179,8 +179,9 @@
 ### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 * 👍💵 Candice Bock
+* 👍💵 Derrick Nunnally
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎5 
 * 👎💵 Candice Bock
@@ -320,7 +321,8 @@
 
 ### [HB 2209](/bill/2025-26/hb/2209/) - Concerning sentencing enhancements for theft offenses, robbery, possessing stolen property, and trafficking stolen property. 👍1  
 
-### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections   ❓1
+### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections   ❓2
+* ❓💵 Derrick Nunnally
 * ❓💵 Derrick Nunnally
 
 ### [HB 2224](/bill/2025-26/hb/2224/) - Fire protection districts 👍2  
@@ -332,7 +334,8 @@
 
 ### [HB 2258](/bill/2025-26/hb/2258/) - Authorizing cities and counties the ability to levy a household excise tax for the operation, maintenance, and capital needs of animal control and shelter systems.  👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎1 
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing  👎2 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ### [HB 2270](/bill/2025-26/hb/2270/) - Lodging tax revenue use 👍1  
@@ -370,7 +373,7 @@
 ### [HB 2374](/bill/2025-26/hb/2374/) - Electric motorcycle, bicycle 👍1  
 * 👍💵 Steven Ellis
 
-### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍1  
+### [HB 2405](/bill/2025-26/hb/2405/) - PTSD treatment and research 👍2  
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
@@ -386,7 +389,8 @@
 ### [HB 2442](/bill/2025-26/hb/2442/) - Local government fund use 👍1  
 * 👍💵 Candice Bock
 
-### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍1  
+### [HB 2451](/bill/2025-26/hb/2451/) - Local tax increment fin. 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ### [HB 2465](/bill/2025-26/hb/2465/) - Water recreation facilities  👎1 
@@ -410,6 +414,9 @@
 
 ### [HB 2661](/bill/2025-26/hb/2661/) - Public records task force 👍1  
 * 👍💵 Candice Bock
+
+### [HB 2722](/bill/2025-26/hb/2722/) - Vehicle fees/maximum weight 👍1  
+* 👍💵 Steven Ellis
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -642,7 +649,8 @@
 
 ### [SB 5880](/bill/2025-26/sb/5880/) - Toxicology testing 👍1  
 
-### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress  👎1 
+### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍1  
@@ -711,8 +719,9 @@
 ### [SB 6204](/bill/2025-26/sb/6204/) - Home cultivation of cannabis  👎1 
 * 👎💵 Derrick Nunnally
 
-### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍1  
+### [SB 6211](/bill/2025-26/sb/6211/) - Real estate excise taxes/GMA 👍2  
 * 👍💵 Steven Ellis
+* 👍💵 Candice Bock
 
 ### [SB 6234](/bill/2025-26/sb/6234/) - Sewage grinder pumps   ❓1
 * ❓💵 Steven Ellis

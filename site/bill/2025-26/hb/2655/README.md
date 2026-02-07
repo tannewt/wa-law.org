@@ -8,10 +8,15 @@
 
 ## Meetings
 ### Fri 02/06 08:00 AM - Finance (FIN): HB 2655 Data center sales tax ex.
-Sign up to testify:
+#### 67 👍 - Pro
+Testifying:
+* Al French - Spokane County Board of Commissioners
+* Chris Green - Pacific NW Hydrogen Association
+* 💵Matthew Hepner - IBEW/CEWW
 
-#### 1 👍 - Pro
-
-#### 1 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* John Roskelley
 
 #### 0 ❓ - Other

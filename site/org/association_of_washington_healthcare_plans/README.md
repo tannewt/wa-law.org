@@ -53,6 +53,8 @@
 ### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program   ❓3
 * ❓💵 Marissa Ingalls
 
+### [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
+
 ### [SB 6292](/bill/2025-26/sb/6292/) - Health care financing 👍1  
 * 👍💵 Marissa Ingalls
 

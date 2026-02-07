@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6252/</link>
 		<description>Updates about SB 6252</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 10:41:46 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Feb 2026 18:37:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Holden/Ringer/2026-02-03 10:41:46</guid>
+		</item>
+		<item>
+			<title>Session update - Sen. Claire Wilson</title>
+			<description>News article "Session update - Sen. Claire Wilson" from Senate Democrats.</description>
+			<pubDate>Fri, 06 Feb 2026 18:37:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206252</guid>
 		</item>
 	</channel>
 </rss>

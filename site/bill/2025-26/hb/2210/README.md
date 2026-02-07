@@ -13,9 +13,7 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2210 Local government elections
-Sign up to testify:
-
-#### 621 👍 - Pro
+#### 712 👍 - Pro
 Testifying:
 * James Wang
 * 💵Nilu Jenks - FairVote Washington
@@ -23,15 +21,18 @@ Testifying:
 * 💵Denisse Guerrero - Washington for Equitable Representation
 * Ryan Kirby - Ranked Choice Voting Resource Center
 
-#### 1187 👎 - Con
+#### 1396 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Laurie Layne
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Cemal Richards
 * Sharon Hanek
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2210 Local government elections
 #### 5369 👍 - Pro

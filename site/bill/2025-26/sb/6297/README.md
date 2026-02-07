@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6297 Behavioral health staffing
-Sign up to testify:
-
-#### 28 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * 💵Aya Samman - [Fourfront Contributor](/org/fourfront_contributor/)
 * Janet Carbary - [Compass Health](/org/compass_health/)
 * Tom Sebastian - [Compass Health](/org/compass_health/)
+* 💵Abby Moore - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
+* Shelby Nusbaum - Comprehensive Healthcare, Yakima
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -13,17 +13,24 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5828 College scholarships/private
-Sign up to testify:
+#### 1208 👍 - Pro
+Testifying:
+* Julie Wolter - Gonzaga University, School of Health Sciences
+* Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Karen Cannon
+* Hector Marmolejo-Avila - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Oscar Perez - Latinx unidos
+* Lauren DeLaGarza
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 
-#### 27 👍 - Pro
+#### 27 👎 - Con
 
-#### 6 👎 - Con
-
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Dana Raigrodski - UW Faculty Legislative Representative
+* Matthew Altman - Council of Faculty, CWU Faculty Legislative Representative
 
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5828 College scholarships/private
-Sign up to testify:
-
 #### 623 👍 - Pro
 Testifying:
 * JULIE WOLTER - DEAN SCHOOL OF HEALTH SCIENCES , GONZAGA UNIVERSITY

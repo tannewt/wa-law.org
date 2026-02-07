@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/27 04:00 PM - Transportation (TRAN): SB 6170 Highway construction

@@ -217,7 +217,7 @@
 
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
 
-### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍1  
+### [SB 5763](/bill/2025-26/sb/5763/) - Law enf. aviation support 👍2  
 
 ### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 

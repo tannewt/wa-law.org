@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=HB%202165)
 * 01/29/2026 [Washington State Standard](/org/washington_state_standard/) - [WA Senate passes ban on police face coverings • Washington State Standard](https://washingtonstatestandard.com/2026/01/28/wa-senate-passes-ban-on-police-face-coverings/#:~:text=House%20Bill%202165)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202165)
 * 01/15/2026 [Axios](/org/axios/) - [Washington state lawmakers push limits on masked ICE arrests, other tactics - Axios Seattle](https://www.axios.com/local/seattle/2026/01/15/washington-ice-mask-ban-school-access-worker-notice-bills-immigration#:~:text=Ferguson-backed%20bill)

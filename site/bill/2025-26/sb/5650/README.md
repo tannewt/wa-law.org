@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5650 Cannabis local excise tax
-Sign up to testify:
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Pam Haley - Councilmember, City of Spokane Valley
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 235 👎 - Con
+#### 400 👎 - Con
 Testifying:
 * Paula Fillmore-Sardinas - WBBA
 * Cindy Howard
@@ -31,10 +29,17 @@ Testifying:
 * Sara Eltinge - The Herbery
 * Jana House
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* Ian Rakes
 * 💵Ezra Eickmeyer - Producers NW
 * Shea Hynes - Lux Pot Shop
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Trevor Islands
+* Rolando Rodriguez - Green Roads Cannabis (Social Equity License)
+* Jeff Hubbard - Constellation Cannabis
+* Logan Bowers - Hashtag Cannabis
+* Anna Shreeve - The Bakeree
+* Mike Asai - Emerald City Collective
+* Jesten Meyer - Social Equity Retailer Alliance
 
 #### 1 ❓ - Other
 Testifying:

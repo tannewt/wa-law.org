@@ -15,13 +15,21 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2421 Tires/6PPD and substitutes
-Sign up to testify:
+#### 296 👍 - Pro
+Testifying:
+* 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
+* Maggie Yuse - Seattle Public Utilities
+* 💵Nick Federici - Toxic Free Future
 
-#### 2 👍 - Pro
+#### 318 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* John Worthington
+* Tracey Norberg - United States Tire Manufacturers Association
 
-#### 62 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly Wright - Cascade Party of Washington
 
 ### Mon 01/19 01:30 PM - Environment & Energy (ENVI): HB 2421 Tires/6PPD and substitutes
 #### 653 👍 - Pro

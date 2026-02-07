@@ -56,7 +56,8 @@
 
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓3
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓4
+* ❓💵 John Rothlin
 * ❓💵 John Rothlin
 * ❓💵 John Rothlin
 * ❓💵 John Rothlin

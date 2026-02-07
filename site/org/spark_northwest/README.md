@@ -21,12 +21,14 @@
 ### [SB 6200](/bill/2025-26/sb/6200/) - Tenant cooling devices 👍1  
 * 👍💵 John Seng
 
-## [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍1  
+## [SB 6223](/bill/2025-26/sb/6223/) - Community weatherization 👍2  
+* 👍💵 John Seng
 * 👍💵 John Seng
 
 ## 2023-24
 
-### [SB 6223](/bill/2023-24/sb/6223/) - Community weatherization 👍1  
+### [SB 6223](/bill/2023-24/sb/6223/) - Community weatherization 👍2  
+* 👍💵 John Seng
 * 👍💵 John Seng
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  

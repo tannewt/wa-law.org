@@ -26,7 +26,7 @@ Testifying:
 * Jevan Hutson
 * 💵Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
 * Guillermo Zazueta - OneAmerica
-* Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
+* 💵Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Tee Sannon - ACLU of Washington
 * 💵Alizeh Bhojani - [Legal Voice](/org/legal_voice/)
 * Gabbi Nazari - ProChoice WA

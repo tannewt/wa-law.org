@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2026 [The Washington Observer](/org/the_washington_observer/) - [A campaign against sideboards on pay transparency](https://washingtonobserver.substack.com/p/a-campaign-against-sideboards-on#:~:text=House%20Bill%202377)
+
 ## Meetings

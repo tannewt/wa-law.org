@@ -8,6 +8,8 @@
 
 ### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍2  
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
@@ -61,7 +63,9 @@
 
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb. 👍1  
 
-### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍3  
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍4  
+
+### [HB 2145](/bill/2025-26/hb/2145/) - 340B drug pricing program 👍1  
 
 ### [HB 2160](/bill/2025-26/hb/2160/) - SEBB membership/second year 👍1  
 
@@ -100,6 +104,8 @@
 ### [HB 2372](/bill/2025-26/hb/2372/) - Workers' compensation 👍1  
 
 ### [HB 2409](/bill/2025-26/hb/2409/) - Agricultural employees/PERC 👍1  
+
+### [HB 2481](/bill/2025-26/hb/2481/) - Retail pricing 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
@@ -194,11 +200,13 @@
 
 ### [SB 6135](/bill/2025-26/sb/6135/) - Interest arbitration factors  👎2 
 
-## [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
+### [SB 6325](/bill/2025-26/sb/6325/) - Higher education procedures 👍1  
+
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
 
 ## 2023-24
 
-### [SB 6325](/bill/2023-24/sb/6325/) - Higher education procedures 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 

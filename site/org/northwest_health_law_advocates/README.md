@@ -123,7 +123,8 @@
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
 * ❓💵 Emily Brice
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍2  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍3  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
@@ -192,11 +193,13 @@
 
 ### [SB 6305](/bill/2025-26/sb/6305/) - Mental health coverage 👍1  
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Vanessa Saavedra
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+* 👍💵 Vanessa Saavedra
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

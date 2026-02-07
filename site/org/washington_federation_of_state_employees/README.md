@@ -15,7 +15,7 @@
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍1  
 * 👍💵 Nicole Gomez
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍2  
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
 
@@ -122,7 +122,7 @@
 
 ### [HB 2137](/bill/2025-26/hb/2137/) - Correctional officers/arb. 👍1  
 
-### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍1  
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices 👍2  
 
 ### [HB 2155](/bill/2025-26/hb/2155/) - Use of nursing titles 👍1  
 
@@ -271,6 +271,8 @@
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
 
+### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
+
 ### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress 👍1  
 
 ### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
@@ -289,6 +291,8 @@
 
 ### [SB 6005](/bill/2025-26/sb/6005/) - Transportation budget, supp.   ❓1
 * ❓ Kati Durkin
+
+### [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC 👍1  
 
 ### [SB 6073](/bill/2025-26/sb/6073/) - Wildland firefighters/LEOFF 👍1  
 

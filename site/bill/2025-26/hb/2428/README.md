@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/23 08:00 AM - Consumer Protection & Business (CPB): HB 2428 Life insurance policy lapses

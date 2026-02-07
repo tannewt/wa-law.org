@@ -38,7 +38,7 @@
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account. 👍1  
 
-### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
+### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍2  
 
 ### [HB 2361](/bill/2025-26/hb/2361/) - Small loans maximum amount  👎2 
 
@@ -68,6 +68,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
+
 ### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
@@ -80,11 +82,13 @@
 
 ### [SB 6250](/bill/2025-26/sb/6250/) - Small loans maximum amount  👎2 
 
-## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍1  
+## [SB 6346](/bill/2025-26/sb/6346/) - Tax on millionaires 👍2  
+* 👍 Phoenica Zhang
 
 ## 2023-24
 
-### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍1  
+### [SB 6346](/bill/2023-24/sb/6346/) - Tax on millionaires 👍2  
+* 👍 Phoenica Zhang
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

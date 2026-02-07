@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%206081)
@@ -45,7 +46,7 @@ Testifying:
 * Tanya Leslie
 * Tyrone Heartwood
 * Danica Noble
-* Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
+* 💵Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Marsha Botzer
 * Jevan Hutson
 * Tasha Cruz

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206252)
+
 ## Meetings
 ### Tue 02/03 04:00 PM - Transportation (TRAN): SB 6252 Free transit/CTC students
 #### 289 👍 - Pro

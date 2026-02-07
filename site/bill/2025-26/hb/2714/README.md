@@ -8,10 +8,10 @@
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2714 Food assistance caseload
-Sign up to testify:
+#### 6 👍 - Pro
+Testifying:
+* 💵Michael Moran - 1. Chehalis Tribes 2. Colville Tribes 3. 2nd Harvest
 
-#### 3 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

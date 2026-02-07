@@ -32,15 +32,17 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
 * 👍 Linnea Anderson
 
-## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18   ❓2
+## [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18   ❓3
 * ❓ Jack Murphy
 * ❓ George Moya
+* ❓ Christine Simonsmeier
 
 ## 2023-24
 
-### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18   ❓2
+### [SB 6062](/bill/2023-24/sb/6062/) - Criminal offenses under 18   ❓3
 * ❓ Jack Murphy
 * ❓ George Moya
+* ❓ Christine Simonsmeier
 
 ### [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
 

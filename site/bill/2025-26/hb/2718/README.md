@@ -8,10 +8,12 @@
 
 ## Meetings
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2718 Transportation projects
-Sign up to testify:
+#### 57 👍 - Pro
 
-#### 25 👍 - Pro
+#### 10 👎 - Con
+Testifying:
+* 💵Jerry Vanderwood
+* 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* Mike Ennis - [Washington Asphalt Pavement Association](/org/washington_asphalt_pavement_association/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

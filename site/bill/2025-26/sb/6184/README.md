@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%206184)
+
 ## Meetings
 ### Tue 01/27 01:30 PM - Human Services (HS): SB 6184 Office of homeless youth
 #### 17 👍 - Pro

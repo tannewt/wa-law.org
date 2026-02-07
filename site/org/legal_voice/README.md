@@ -41,7 +41,7 @@
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍2  
 * 👍💵 Alizeh Bhojani
 
-### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍1  
+### [SB 6182](/bill/2025-26/sb/6182/) - Abortion savings program 👍2  
 
 ## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 

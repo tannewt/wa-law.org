@@ -65,12 +65,14 @@
 ### [SB 6171](/bill/2025-26/sb/6171/) - Large energy use facilities  👎1 
 * 👎💵 Brandon Houskeeper
 
-## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎1 
+## [SB 6246](/bill/2025-26/sb/6246/) - Emissions/trade-exposed  👎2 
+* 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
 
 ## 2023-24
 
-### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed  👎1 
+### [SB 6246](/bill/2023-24/sb/6246/) - Emissions/trade-exposed  👎2 
+* 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  

@@ -31,12 +31,16 @@
 
 ### [HB 2046](/bill/2025-26/hb/2046/) - Intangible assets tax  👎1 
 
+### [HB 2144](/bill/2025-26/hb/2144/) - Employee monitoring notices  👎1 
+* 👎💵 Amy Harris
+
 ### [HB 2446](/bill/2025-26/hb/2446/) - Quantum technology industry 👍1  
 * 👍💵 Amy Harris
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎2 
+* 👎💵 Amy Harris
 
 ### [HB 2579](/bill/2025-26/hb/2579/) - Public media grants  👎1 
 
@@ -68,12 +72,14 @@
 ### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains  👎1 
 * 👎💵 Amy Harris
 
-## [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓1
+## [SB 6284](/bill/2025-26/sb/6284/) - AI consumer protections   ❓2
+* ❓💵 Amy Harris
 * ❓💵 Amy Harris
 
 ## 2023-24
 
-### [SB 6284](/bill/2023-24/sb/6284/) - AI consumer protections   ❓1
+### [SB 6284](/bill/2023-24/sb/6284/) - AI consumer protections   ❓2
+* ❓💵 Amy Harris
 * ❓💵 Amy Harris
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  

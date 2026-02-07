@@ -8,10 +8,12 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): HB 1316 Postsecondary homelessness
-Sign up to testify:
+#### 274 👍 - Pro
+Testifying:
+* Brandon Elliott - Associated Students of the University of Washington
+* Hiro Hirano-Holcomb - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Sienna Jarrard - WA Student Association
 
-#### 108 👍 - Pro
-
-#### 1 👎 - Con
+#### 75 👎 - Con
 
 #### 0 ❓ - Other

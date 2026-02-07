@@ -16,7 +16,7 @@
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Holly Hines - [Washington Conservation Action](/org/washington_conservation_action/)
-* Jesse Pestana - The Nature Conservancy in Washington
+* 💵Jesse Pestana - The Nature Conservancy in Washington
 
 #### 157 👎 - Con
 Testifying:

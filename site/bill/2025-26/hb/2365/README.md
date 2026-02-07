@@ -14,13 +14,15 @@
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2365 Digital opportunities
-Sign up to testify:
-
-#### 21 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Ernie Rasmussen - Bigfoot Telecommunications of the Colville Tribes
+* David Keyes David Keyes
+* John Schapman - NCW Thriving Together
+* Katherine VanHenley - Digital Equity Learning Network of Seattle-King County
+* Aaron Tulloch - FMSGS/WBBA
 
-#### 173 👎 - Con
+#### 413 👎 - Con
 
 #### 0 ❓ - Other
 

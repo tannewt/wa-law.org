@@ -18,11 +18,11 @@
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
 * 👎💵 Diana Carlen
 
-## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎1 
+## [SB 6045](/bill/2025-26/sb/6045/) - Agricultural employees/PERC  👎2 
 
 ## 2023-24
 
-### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC  👎1 
+### [SB 6045](/bill/2023-24/sb/6045/) - Agricultural employees/PERC  👎2 
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

@@ -9,15 +9,29 @@
 
 ## Meetings
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6296 Involuntary treatment
-Sign up to testify:
+#### 13 👍 - Pro
+Testifying:
+* Jacob Grillo - Conquer Clinics
+* Robert McCullough
+* Teri Hardy
+* Hannah Salyer
+* Andrea Pace
 
-#### 0 👍 - Pro
-
-#### 5 👎 - Con
+#### 98 👎 - Con
 Testifying:
 * Laura Van Tosh
+* Devyn C
+* Ralph Casillas
+* Steven Pearce - Citizens Commission on Human Rights
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* Laura Cissna
+* 💵Remy Kerr - Washington State Hospital Association
+* Teagan Levine
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6296 Involuntary treatment
 #### 12 👍 - Pro
