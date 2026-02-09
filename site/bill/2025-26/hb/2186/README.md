@@ -12,9 +12,7 @@
 
 ## Meetings
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2186 Federal funds
-Sign up to testify:
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 
 #### 1 👎 - Con
 

@@ -272,7 +272,7 @@ Testifying:
 * Brian Morrish - Morrish Design Group
 * Corey Rogers - Ward Rugh, Inc.
 * Kathy Scanlan - Northwest Abrasives, LLC
-* Josh Jorgensen - Mission Ridge Ski & Board Resort
+* Josh Jorgensen - [Mission Ridge Ski & Board Resort](/org/mission_ridge_ski_&_board_resort/)
 * Mary Morgan
 * 💵Michele Willms - Associated Geneal Contractors of Washington (AGC)
 * SUE WALKER - Toscanos Cafe and Wine Bar

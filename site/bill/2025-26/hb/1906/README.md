@@ -9,17 +9,15 @@
 
 ## Meetings
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 1906 Water system rates
-Sign up to testify:
-
 #### 2 👍 - Pro
 Testifying:
 * 💵Bill Clarke - WA PUD Association; Pierce County Water Cooperative
 
-#### 63 👎 - Con
+#### 202 👎 - Con
 Testifying:
 * Charlie Brown - Northwest Natural
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1906 Water system rates
 #### 43 👍 - Pro

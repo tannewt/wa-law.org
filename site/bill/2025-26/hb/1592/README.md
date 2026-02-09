@@ -12,18 +12,17 @@
 
 ## Meetings
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 1592 Public defense services
-Sign up to testify:
-
-#### 24 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Sarah Hudson - Washington Defender Association & Washington Association of Criminal Defense Lawyers
 * Regan Boli - [City of Covington](/org/city_of_covington/)
+* Albert Tripp - [City of Airway Heights](/org/city_of_airway_heights/)
 * 💵Curtis Steinhauer - Washington Association of Counties
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Kyle Moore - [City of Kent](/org/city_of_kent/)
 
-#### 95 👎 - Con
+#### 247 👎 - Con
 
 #### 0 ❓ - Other
 

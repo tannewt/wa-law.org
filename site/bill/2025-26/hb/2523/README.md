@@ -12,18 +12,18 @@
 
 ## Meetings
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2523 Community reinvestment prg.
-Sign up to testify:
-
-#### 73 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Saul Martinez - Cafe con Arte
 * Andrew Thompson - River City Aerials and Film LLC
 * John Traugott - [Washington Workforce Association](/org/washington_workforce_association/)
 * Mayra Garcia - SkillSource North Central Regional Workforce Board
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 * Paula Fillmore-Sardinas - WA Build Back Black Alliance (WBBA)
 * Tasha Mae - Advocacy Queen
+* Edwin Lindo - Estelita’s Library
 
-#### 146 👎 - Con
+#### 302 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

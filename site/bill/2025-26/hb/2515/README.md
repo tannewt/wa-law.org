@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/03/2026 [Axios](/org/axios/) - [Washington state debates making data centers pay full power costs - Axios Seattle](https://www.axios.com/local/seattle/2026/02/03/washington-data-centers-legislature-electric-grid-cost-shift-ratepayers#:~:text=House%20Bill%202515)
 * 02/03/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: If you’re reading this online, you’re using a data center | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_54e241ed-bb68-44a2-b008-6ea3ba8e20e4.html#:~:text=House%20Bill%202515)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [The top issue I’ve heard from you - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=HB%202515)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Bill protecting ratepayers, ensuring electrical grid reliability, guiding responsible data center development heard in committee - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2026/01/23/bill-protecting-ratepayers-ensuring-electrical-grid-reliability-guiding-responsible-data-center-development-heard-in-committee/#:~:text=House%20Bill%202515)
@@ -17,18 +18,17 @@
 
 ## Meetings
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2515 Large energy use facilities
-Sign up to testify:
-
-#### 483 👍 - Pro
+#### 618 👍 - Pro
 Testifying:
 * Noah Purcell
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵Zachariah Baker - NW Energy Coalition
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 * 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
+* Neal Anderson
 * Emily Johnston
 
-#### 180 👎 - Con
+#### 335 👎 - Con
 Testifying:
 * Dan Diorio - Data Center Coalition
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
@@ -36,8 +36,11 @@ Testifying:
 * 💵Patrick Boss - [Port of Quincy](/org/port_of_quincy/)
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * 💵Josie Cummings - Avista Corp.
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Matthew Hepner - IBEW/CEWW
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Bill Clarke - Grant County Public Utility District
 

@@ -164,6 +164,8 @@
 
 ### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍1  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1596](/bill/2025-26/hb/1596/) - Speeding 👍1  
 
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
@@ -429,6 +431,8 @@
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
+### [HB 2730](/bill/2025-26/hb/2730/) - Aerospace tax preferences 👍1  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 

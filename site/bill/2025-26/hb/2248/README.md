@@ -9,13 +9,11 @@
 
 ## Meetings
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2248 Corporate filings
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Constance Parbon - Secretary of State Corporations and Charities Division
 
-#### 35 👎 - Con
+#### 54 👎 - Con
 
 #### 0 ❓ - Other
 

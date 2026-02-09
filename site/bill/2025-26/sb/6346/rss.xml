@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6346/</link>
 		<description>Updates about SB 6346</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 22:07:58 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 08 Feb 2026 19:29:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -174,6 +174,13 @@
 			<pubDate>Tue, 03 Feb 2026 15:54:34 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kuow.org/stories/wa-democrats-millionaires-tax-is-here-but-ferguson-doesn-t-support-it-yet#:~:text=income%20tax%20on%20“high%20earners.”</guid>
+		</item>
+		<item>
+			<title>Lawmakers, governor clash over Washington state millionaire tax plan - Axios Seattle</title>
+			<description>News article "Lawmakers, governor clash over Washington state millionaire tax plan - Axios Seattle" from Axios.</description>
+			<pubDate>Tue, 03 Feb 2026 21:43:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2026/02/03/washington-state-millionaire-tax-governor-ferguson-spending-tax-relief#:~:text=Senate%20version</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Ways &amp; Means.</title>
@@ -1769,6 +1776,13 @@
 			<pubDate>Fri, 06 Feb 2026 22:07:58 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206346</guid>
+		</item>
+		<item>
+			<title>State income tax bills drop in the Legislature | Washington State House Republicans</title>
+			<description>News article "State income tax bills drop in the Legislature | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sun, 08 Feb 2026 19:29:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/state-income-tax-bills-drop-in-the-legislature/#:~:text=Senate%20Bill%206346</guid>
 		</item>
 	</channel>
 </rss>

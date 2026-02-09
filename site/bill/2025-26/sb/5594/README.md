@@ -13,7 +13,7 @@
 ### Tue 02/10 08:30 AM - Health Care & Wellness (HCW): 2ESSB 5594 Biosimilar medicines
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 1 👎 - Con
 

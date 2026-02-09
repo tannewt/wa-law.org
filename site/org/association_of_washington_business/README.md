@@ -569,7 +569,8 @@
 
 ### [HB 2503](/bill/2025-26/hb/2503/) - AI training data  👎1 
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎1 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [HB 2567](/bill/2025-26/hb/2567/) - College scholarships/private 👍1  

@@ -6,6 +6,8 @@
 
 ### [HB 2111](/bill/2025-26/hb/2111/) - Allowing the Interstate 5 bridge replacement project toll facility bond retirement account to receive its proportionate share of earnings. 👍1  
 
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ## [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  

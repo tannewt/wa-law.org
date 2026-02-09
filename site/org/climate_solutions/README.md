@@ -107,7 +107,7 @@
 
 ### [HB 2496](/bill/2025-26/hb/2496/) - EFSEC tribal consultation 👍1  
 
-### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍3  
 * 👍💵 Leah Missik
 
 ### [HB 2537](/bill/2025-26/hb/2537/) - Emissions/trade-exposed 👍1  

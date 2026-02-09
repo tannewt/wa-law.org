@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/08/2026 [House Republicans](/org/house_republicans/) - [State income tax bills drop in the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-income-tax-bills-drop-in-the-legislature/#:~:text=Senate%20Bill%206346)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206346)
 * 02/06/2026 [KING5](/org/king5/) - [Public shares testimony at 'Millionaires Tax' hearing | king5.com](https://www.king5.com/article/news/local/public-shares-testimony-millionaires-tax-hearing-washington-state/281-331badb4-2625-4a65-9ed9-a18a64d62c58#:~:text=Senate%20Bill%206346)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Millionaires%20Tax)
@@ -19,6 +20,7 @@
 * 02/05/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA Superintendent wants income tax revenue to fund education priorities | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b6175222-2f10-4f52-94dc-f01d2a974d17.html#:~:text=Senate%20Bill%206346)
 * 02/05/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Seven questions for lawmakers proposing an income tax for Washington state | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_facae5b3-9b8f-4f49-957f-0a005821af6c.html#:~:text=Senate%20Bill%206346)
 * 02/04/2026 [Senate Republicans](/org/senate_republicans/) - [Oppose the income tax: Sign in "CON" for Friday's hearing on Senate Bill 6346 - Senate Republican Caucus](https://src.wastateleg.org/blog/oppose-income-tax-sign-con-fridays-hearing-senate-bill-6346/#:~:text=(Senate%20Bill%206346))
+* 02/03/2026 [Axios](/org/axios/) - [Lawmakers, governor clash over Washington state millionaire tax plan - Axios Seattle](https://www.axios.com/local/seattle/2026/02/03/washington-state-millionaire-tax-governor-ferguson-spending-tax-relief#:~:text=Senate%20version)
 * 02/03/2026 [KUOW](/org/kuow/) - [KUOW - WA Democrats’ ‘millionaires tax’ is here, but Ferguson doesn’t support it yet](https://www.kuow.org/stories/wa-democrats-millionaires-tax-is-here-but-ferguson-doesn-t-support-it-yet#:~:text=income%20tax%20on%20“high%20earners.”)
 
 ## Meetings

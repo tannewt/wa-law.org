@@ -7,7 +7,7 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
-### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍1  
+### [HB 2186](/bill/2025-26/hb/2186/) - Federal funds 👍2  
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 

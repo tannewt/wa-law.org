@@ -12,14 +12,12 @@
 
 ## Meetings
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2438 Early education scholarship
-Sign up to testify:
-
 #### 6 👍 - Pro
 Testifying:
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Rebecca Cramer
 
-#### 34 👎 - Con
+#### 52 👎 - Con
 
 #### 0 ❓ - Other
 

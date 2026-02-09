@@ -10,13 +10,13 @@
 ### Mon 02/09 08:00 AM - Finance (FIN): HB 2730 Aerospace tax preferences
 Sign up to testify:
 
-#### 30 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751
 * 💵Brandon Anderson - Society of Professional Engineering Employees in Aerospace (SPEEA)
 * Daniel Peters
 * Mimi Waltke
 
-#### 0 👎 - Con
+#### 45 👎 - Con
 
 #### 0 ❓ - Other

@@ -61,7 +61,7 @@
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍3  
 
-### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍2  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
 

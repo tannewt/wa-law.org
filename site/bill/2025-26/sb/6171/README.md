@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/03/2026 [Axios](/org/axios/) - [Washington state debates making data centers pay full power costs - Axios Seattle](https://www.axios.com/local/seattle/2026/02/03/washington-data-centers-legislature-electric-grid-cost-shift-ratepayers#:~:text=similar%20bill)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Bill protecting ratepayers, ensuring electrical grid reliability, guiding responsible data center development heard in committee - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2026/01/23/bill-protecting-ratepayers-ensuring-electrical-grid-reliability-guiding-responsible-data-center-development-heard-in-committee/#:~:text=Senate%20Bill%206171)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 session is underway - affordability is a top issue - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2026/01/23/the-2026-session-is-underway-affordability-is-the-top-issue/#:~:text=help%20out%20utility%20ratepayers)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206171)

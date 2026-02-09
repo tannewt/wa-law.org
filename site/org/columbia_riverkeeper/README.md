@@ -18,6 +18,8 @@
 
 ### [HB 2421](/bill/2025-26/hb/2421/) - Tires/6PPD and substitutes 👍1  
 
+### [HB 2515](/bill/2025-26/hb/2515/) - Large energy use facilities 👍1  
+
 ### [HB 2608](/bill/2025-26/hb/2608/) - Nuclear facilities/tax pref.  👎1 
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  

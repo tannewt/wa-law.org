@@ -13,6 +13,8 @@
 
 ### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎2 
 
 ### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
@@ -157,6 +159,8 @@
 ### [HB 2648](/bill/2025-26/hb/2648/) - Immigration enf. interaction 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎1 
+
+### [HB 2730](/bill/2025-26/hb/2730/) - Aerospace tax preferences 👍1  
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
 
