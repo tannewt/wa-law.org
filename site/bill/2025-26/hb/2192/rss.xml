@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2192/</link>
 		<description>Updates about HB 2192</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 05 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,6 +76,20 @@
 			<pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-05/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-05/TR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

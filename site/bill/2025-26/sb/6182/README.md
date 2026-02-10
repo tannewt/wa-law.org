@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall recap - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/23/town-hall-recap/#:~:text=SB%206182)

@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 02/04/2026 [The Washington Observer](/org/the_washington_observer/) - [Tax fairness vs. revenue sufficiency](https://washingtonobserver.substack.com/p/tax-fairness-vs-revenue-sufficiency#:~:text=HB%202660)
 * 02/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Record deaths in WA child welfare system have Legislature’s attention • Washington State Standard](https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=House%20Bill%202660)
+* 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202660)
 
 ## Meetings
 ### Tue 01/27 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2660 Child shelter care orders

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2334/</link>
 		<description>Updates about HB 2334</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Feb 2026 12:00:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,11 +85,53 @@
 			<guid isPermaLink="false">testifier/Brandon/Houskeeper/2026-01-21 07:21:37</guid>
 		</item>
 		<item>
+			<title>The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202334</guid>
+		</item>
+		<item>
 			<title>FIN - Executive action taken by committee.</title>
 			<description>FIN - Executive action taken by committee.</description>
 			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-06/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>FIN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-06/FIN - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-06/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>No more pennies? WA lawmakers considering rounding all cash transactions - MyNorthwest.com</title>
+			<description>News article "No more pennies? WA lawmakers considering rounding all cash transactions - MyNorthwest.com" from MyNorthwest.</description>
+			<pubDate>Mon, 09 Feb 2026 09:53:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/pennies-wa-lawmakers/4200664#:~:text=House%20Bill%202334</guid>
+		</item>
+		<item>
+			<title>As pennies disappear, Washington must address how retailers make change • Washington State Standard</title>
+			<description>News article "As pennies disappear, Washington must address how retailers make change • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 09 Feb 2026 12:00:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/02/09/as-pennies-disappear-washington-must-address-how-retailers-make-change/#:~:text=the%20House%20bill</guid>
 		</item>
 	</channel>
 </rss>

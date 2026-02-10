@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/27/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington Sheriffs Targeted Again: Is HB 2387 Really Better Than SB 5974? - Conservative Ladies of Washington](https://conservativeladiesofwa.com/washington-sheriffs-hb-2387-vs-sb-5974/#:~:text=SB%205974)

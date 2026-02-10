@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2224/</link>
 		<description>Updates about HB 2224</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Feb 2026 09:59:24 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,34 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Matthew/Ellsworth/2026-02-04 09:59:24</guid>
+		</item>
+		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; do pass 1st substitute bill proposed by Local Government.</title>
+			<description>FIN - Majority; do pass 1st substitute bill proposed by Local Government.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/FIN - Majority; do pass 1st substitute bill proposed by Local Government.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202597)
 * 01/28/2026 [The Center Square](/org/the_center_square/) - [WA bill would limit immunity for ICE agents in noncriminal enforcement activities | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0ca2959a-9cc0-4605-a91d-a6b110e16d1e.html#:~:text=House%20Bill%202597)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%202597)
 

@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Mon 02/09 08:00 AM - Finance (FIN): HB 2730 Aerospace tax preferences
-Sign up to testify:
-
 #### 48 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751
@@ -17,6 +15,6 @@ Testifying:
 * Daniel Peters
 * Mimi Waltke
 
-#### 45 👎 - Con
+#### 61 👎 - Con
 
 #### 0 ❓ - Other

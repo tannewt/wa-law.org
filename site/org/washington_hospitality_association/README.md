@@ -115,6 +115,9 @@
 
 ### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
 
+### [HB 1977](/bill/2025-26/hb/1977/) - Commercial servers of liquor   ❓1
+* ❓💵 Logan Dozier
+
 ### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
 * 👎 Sean DeWitz
 

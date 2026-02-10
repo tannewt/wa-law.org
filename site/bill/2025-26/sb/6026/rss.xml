@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6026/</link>
 		<description>Updates about SB 6026</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 22:07:58 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -519,6 +519,27 @@
 			<pubDate>Fri, 06 Feb 2026 22:07:58 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206026</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/WM - Majority; 2nd substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

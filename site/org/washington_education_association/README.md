@@ -843,7 +843,7 @@
 
 ### [SB 5861](/bill/2025-26/sb/5861/) - Education/community rep. 👍1  
 
-### [SB 5862](/bill/2025-26/sb/5862/) - Providing a cost-of-living adjustment for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍3  
+### [SB 5862](/bill/2025-26/sb/5862/) - TRS & PERS plan 1 COLA 👍3  
 * 👍 Jared Mason-Gere
 
 ### [SB 5883](/bill/2025-26/sb/5883/) - SEBB membership/second year 👍2  

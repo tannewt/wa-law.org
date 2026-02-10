@@ -10,8 +10,10 @@
 ### Tue 02/10 08:00 AM - Consumer Protection & Business (CPB): HB 1977 Commercial servers of liquor
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)

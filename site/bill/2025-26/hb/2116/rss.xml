@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2116/</link>
 		<description>Updates about HB 2116</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 05 Feb 2026 08:40:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Feb 2026 06:04:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -114,6 +114,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jay/Tyus/2026-02-05 08:40:53</guid>
+		</item>
+		<item>
+			<title>House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA</title>
+			<description>News article "House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 09 Feb 2026 06:04:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202116</guid>
 		</item>
 	</channel>
 </rss>

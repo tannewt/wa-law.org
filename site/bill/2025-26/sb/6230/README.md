@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/09/2026 [Washington State Standard](/org/washington_state_standard/) - [As pennies disappear, Washington must address how retailers make change • Washington State Standard](https://washingtonstatestandard.com/2026/02/09/as-pennies-disappear-washington-must-address-how-retailers-make-change/#:~:text=Senate%20Bill%206230)
 * 02/04/2026 [FOX13](/org/fox13/) - [WA proposal makes workaround penny shortage | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-lawmakers-businesses-pennies#:~:text=bill%20has%20advanced%20out%20of%20committee)
 
 ## Meetings

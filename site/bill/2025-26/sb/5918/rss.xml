@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5918/</link>
 		<description>Updates about SB 5918</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Feb 2026 06:04:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -278,6 +278,13 @@
 			<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-04/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA</title>
+			<description>News article "House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 09 Feb 2026 06:04:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%205918</guid>
 		</item>
 	</channel>
 </rss>

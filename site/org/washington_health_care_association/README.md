@@ -33,6 +33,8 @@
 
 ### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
 
+### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy 👍1  
+
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓1
 * ❓ Lauri St. Ours
 

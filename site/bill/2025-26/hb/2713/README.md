@@ -11,10 +11,8 @@
 
 ## Meetings
 ### Mon 02/09 08:00 AM - Finance (FIN): HB 2713 Detention facilities B&O tax
-Sign up to testify:
+#### 7 👍 - Pro
 
-#### 2 👍 - Pro
-
-#### 340 👎 - Con
+#### 367 👎 - Con
 
 #### 0 ❓ - Other

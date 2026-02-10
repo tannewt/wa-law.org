@@ -5,8 +5,12 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2026 [Washington State Standard](/org/washington_state_standard/) - [WA income tax on higher earners clears first legislative hurdle • Washington State Standard](https://washingtonstatestandard.com/2026/02/09/wa-income-tax-on-higher-earners-clears-first-legislative-hurdle/#:~:text=Senate%20Bill%206346)
+* 02/09/2026 [The Center Square](/org/the_center_square/) - [WA income tax bill advancing in Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b912a1da-07c7-4818-8c48-49393d236629.html#:~:text=Senate%20Bill%206346)
+* 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%206346)
 * 02/08/2026 [House Republicans](/org/house_republicans/) - [State income tax bills drop in the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-income-tax-bills-drop-in-the-legislature/#:~:text=Senate%20Bill%206346)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206346)
 * 02/06/2026 [KING5](/org/king5/) - [Public shares testimony at 'Millionaires Tax' hearing | king5.com](https://www.king5.com/article/news/local/public-shares-testimony-millionaires-tax-hearing-washington-state/281-331badb4-2625-4a65-9ed9-a18a64d62c58#:~:text=Senate%20Bill%206346)
