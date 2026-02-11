@@ -18,7 +18,7 @@
 * 👍 Steve DuPont
 * 👍 Steve DuPont
 
-### [HB 1316](/bill/2025-26/hb/1316/) - Expanding the scope of programs for postsecondary students experiencing homelessness and former foster youth. 👍3  
+### [HB 1316](/bill/2025-26/hb/1316/) - Postsecondary homelessness 👍3  
 
 ### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
 

@@ -291,7 +291,7 @@
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 * ❓💵 Axel Swanson
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 * 👍💵 Paul Jewell
 
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍1  

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2026 [KUOW](/org/kuow/) - [KUOW - As pennies disappear, Washington must address how retailers make change](https://www.kuow.org/stories/as-pennies-disappear-washington-must-address-how-retailers-make-change#:~:text=the%20House%20bill.)
 * 02/09/2026 [Washington State Standard](/org/washington_state_standard/) - [As pennies disappear, Washington must address how retailers make change • Washington State Standard](https://washingtonstatestandard.com/2026/02/09/as-pennies-disappear-washington-must-address-how-retailers-make-change/#:~:text=the%20House%20bill)
 * 02/09/2026 [MyNorthwest](/org/mynorthwest/) - [No more pennies? WA lawmakers considering rounding all cash transactions - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/pennies-wa-lawmakers/4200664#:~:text=House%20Bill%202334)
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202334)

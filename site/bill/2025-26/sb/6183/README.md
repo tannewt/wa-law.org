@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously passes Liias bills focused on housing fairness, health care accessibility - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/10/senate-unanimously-passes-liias-bills-focused-on-housing-fairness-health-care-accessibility/#:~:text=The%20second%20bill)
+
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6183 HIV antiviral drug coverage
 #### 53 👍 - Pro

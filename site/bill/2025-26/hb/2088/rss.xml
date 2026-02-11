@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2088/</link>
 		<description>Updates about HB 2088</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,27 @@
 			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-06/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-10/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 93; nays, 1; absent, 0; excused, 4.</title>
+			<description>Third reading, passed; yeas, 93; nays, 1; absent, 0; excused, 4.</description>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-10/Third reading, passed; yeas, 93; nays, 1; absent, 0; excused, 4.</guid>
 		</item>
 	</channel>
 </rss>

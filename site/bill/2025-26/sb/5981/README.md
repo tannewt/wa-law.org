@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/09/2026 [The Washington Observer](/org/the_washington_observer/) - [Big Pharma v The Hospitals, cont'd.](https://washingtonobserver.substack.com/p/big-pharma-v-the-hospitals-contd#:~:text=bills)

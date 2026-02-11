@@ -52,7 +52,7 @@
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs  👎1 
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍2  
+### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍2  
 
 ## [SB 6052](/bill/2025-26/sb/6052/) - Digital school transcripts 👍1  
 

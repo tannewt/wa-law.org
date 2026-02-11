@@ -1,0 +1,227 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6027](/bill/2025-26/sb/6027/) > [Second Substitute](/bill/2025-26/sb/6027/S2/)
+
+# SB 6027 - Affordable housing funding
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6027-S2.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. [Empty]
+
+        i. A county legislative authority may submit an authorizing proposition to the county voters at a special or general election and, if the proposition is approved by a majority of persons voting, impose a sales and use tax in accordance with the terms of this chapter. The title of each ballot measure must clearly state the purposes for which the proposed sales and use tax will be used. The rate of tax under this section may not exceed 0.1 percent of the selling price in the case of a sales tax, or value of the article used, in the case of a use tax.
+
+        ii. As an alternative to the authority provided in (a)(i) of this subsection, a county legislative authority may impose, without a proposition approved by a majority of persons voting, a sales and use tax in accordance with the terms of this chapter. The rate of tax under this section may not exceed 0.1 percent of the selling price in the case of a sales tax, or value of the article used, in the case of a use tax.
+
+    b. [Empty]
+
+        i. If a county does not impose the full tax rate authorized under (a) of this subsection by September 30, 2020, any city legislative authority located in that county may:
+
+(A) Submit an authorizing proposition to the city voters at a special or general election and, if the proposition is approved by a majority of persons voting, impose the whole or remainder of the sales and use tax rate in accordance with the terms of this chapter. The title of each ballot measure must clearly state the purposes for which the proposed sales and use tax will be used; or
+
+(B) Impose, without a proposition approved by a majority of persons voting, the whole or remainder of the sales and use tax rate in accordance with the terms of this chapter.
+
+        ii. The rate of tax under this section may not exceed 0.1 percent of the selling price in the case of a sales tax, or value of the article used, in the case of a use tax.
+
+        iii. A county with a population of greater than 1,500,000 may impose the tax authorized under (a)(ii) of this subsection only if the county plans to spend at least 30 percent of the moneys collected under this section that are attributable to taxable activities or events within any city with a population greater than 60,000 located in that county within that city's boundaries.
+
+    c. If a county imposes a tax authorized under (a) of this subsection after a city located in that county has imposed the tax authorized under (b) of this subsection, the county must provide a credit against its tax for the full amount of tax imposed by a city.
+
+    d. The taxes authorized in this subsection are in addition to any other taxes authorized by law and must be collected from persons who are taxable by the state under chapters 82.08 and 82.12 RCW upon the occurrence of any taxable event within the county for a county's tax and within a city for a city's tax
+
+2. [Empty]
+
+    a. Notwithstanding subsection (4) of this section, a minimum of 60 percent of the moneys collected under this section must be used for the following purposes:
+
+        i. Constructing or acquiring affordable housing, which may include emergency, transitional, and supportive housing and new units of affordable housing within an existing structure, and facilities providing housing-related services, or acquiring land for these purposes; or
+
+        ii. Constructing or acquiring behavioral health-related facilities, or acquiring land for these purposes; or
+
+        iii. Funding the operations and maintenance costs of new and existing units of affordable housing and facilities where housing-related programs are provided, or newly constructed evaluation and treatment centers; or
+
+        iv. Rehabilitating existing affordable housing, which may include emergency, transitional, and supportive housing.
+
+    b. The affordable housing and facilities providing housing-related programs in (a)(i) of this subsection may only be provided to persons within any of the following population groups whose income is at or below 60 percent of the median income of the county imposing the tax:
+
+        i. Persons with behavioral health disabilities;
+
+        ii. Veterans;
+
+        iii. Senior citizens;
+
+        iv. Persons who are homeless or at-risk of being homeless, including families with children;
+
+    v. Unaccompanied homeless youth or young adults;
+
+    vi. Persons with disabilities; or
+
+    vii. Domestic violence survivors.
+
+    c. The remainder of the moneys collected under this section must be used for :
+
+        i. The operation, delivery, or evaluation of behavioral health treatment programs and services, affordable and supportive housing operation and maintenance, or housing-related services; or
+
+        ii. For a county located west of the crest of the Cascade mountains with a population greater than 850,000 but less than 900,000, rental assistance.
+
+3. [Empty]
+
+    a. A county that imposes the tax under this section must consult with a city before the county may construct or acquire any of the facilities authorized under subsection (2)(a) of this section within the city limits.
+
+    b. Among other priorities, a county that acquires a facility under subsection (2)(a) of this section must provide an opportunity for 15 percent of the units provided at that facility to be provided to individuals who are living in or near the city in which the facility is located, or have ties to that community. The provisions of this subsection (3)(b) do not apply if the county is unable to identify sufficient individuals within the city in need of services that meet the criteria provided in subsection (2)(b) of this section. This prioritization must not jeopardize United States department of housing and urban development funding for the continuum of care program.
+
+4. A county that has not imposed the tax authorized under RCW 82.14.460 prior to October 9, 2015, but imposes the tax authorized under this section after a city in that county has imposed the tax authorized under RCW 82.14.460 prior to October 9, 2015, must enter into an interlocal agreement with that city to determine how the services and provisions described in subsection (2) of this section will be allocated and funded in the city.
+
+5. To carry out the purposes of subsection (2)(a) and (b) of this section, the legislative authority of the county or city imposing the tax has the authority to issue general obligation or revenue bonds within the limitations now or hereafter prescribed by the laws of this state, and may use, and is authorized to pledge, up to 50 percent of the moneys collected under this section for repayment of such bonds, in order to finance the provision or construction of affordable housing, facilities where housing-related programs are provided, or evaluation and treatment centers described in subsection (2)(a)(iii) of this section.
+
+6. [Empty]
+
+    a. Moneys collected under this section may be used to offset reductions in state or federal funds for the purposes described in subsection (2) of this section.
+
+    b. No more than 10 percent of the moneys collected under this section may be used to supplant existing local funds.
+
+7. A county or city may enter into an interlocal agreement with one or more counties, cities, or public housing authorities in accordance with chapter 39.34 RCW. The agreement may include, but is not limited to, pooling the tax receipts received under this section, pledging those taxes to bonds issued by one or more parties to the agreement, and allocating the proceeds of the taxes levied or the bonds issued in accordance with such interlocal agreement and this section.
+
+## Section 2
+1. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Nonparticipating city" is a city that does not impose a sales and use tax in accordance with the terms of this section.
+
+    b. "Nonparticipating county" is a county that does not impose a sales and use tax in accordance with the terms of this section.
+
+    c. "Participating city" is a city that imposes a sales and use tax in accordance with the terms of this section.
+
+    d. "Participating county" is a county that imposes a sales and use tax in accordance with the terms of this section.
+
+    e. "Qualifying local tax" means the following tax sources, if the tax source is instated no later than 12 months after July 28, 2019:
+
+        i. The affordable housing levy authorized under RCW 84.52.105;
+
+        ii. The sales and use tax for housing and related services authorized under RCW 82.14.530, provided the city has imposed the tax at a minimum or of at least half of the authorized rate;
+
+        iii. The sales tax for chemical dependency and mental health treatment services or therapeutic courts authorized under RCW 82.14.460 imposed by a city; and
+
+        iv. The levy authorized under RCW 84.55.050, if used solely for affordable housing.
+
+2. [Empty]
+
+    a. A county or city legislative authority may authorize, fix, and impose a sales and use tax in accordance with the terms of this section.
+
+    b. The tax under this section is assessed on the selling price in the case of a sales tax, or value of the article used, in the case of a use tax.
+
+    c. The rate of the tax under this section for an individual participating city and an individual participating county may not exceed:
+
+        i. Beginning on July 28, 2019, until 12 months after July 28, 2019:
+
+(A) 0.0073 percent for a:
+
+(I) Participating city, unless the participating city levies a qualifying local tax; and
+
+(II) Participating county, within the limits of nonparticipating cities within the county and within participating cities that do not currently levy a qualifying tax;
+
+(B) 0.0146 percent for a:
+
+(I) Participating city that currently levies a qualifying local tax;
+
+(II) Participating city if the county in which it is located declares they will not levy the sales and use tax authorized under this section or does not adopt a resolution in accordance with this section; and
+
+(III) Participating county within the unincorporated areas of the county and any city that declares they will not levy the sales and use tax authorized under this section or does not adopt a resolution in accordance with this section;
+
+        ii. Beginning 12 months after July 28, 2019:
+
+(A) 0.0073 percent for a:
+
+(I) Participating city that is located within a participating county if the participating city is not levying a qualifying local tax; and
+
+(II) Participating county, within the limits of a participating city if the participating city is not levying a qualifying local tax;
+
+(B) 0.0146 percent within the limits of a:
+
+(I) Participating city that is levying a qualifying local tax; and
+
+(II) Participating county within the unincorporated area of the county and within the limits of any nonparticipating city that is located within the county.
+
+    d. A county may not levy the tax authorized under this section within the limits of a participating city that levies a qualifying local tax.
+
+    e. [Empty]
+
+        i. In order for a county or city legislative authority to impose the tax under this section, the authority must adopt:
+
+(A) A resolution of intent to adopt legislation to authorize the maximum capacity of the tax in this section within six months of July 28, 2019; and
+
+(B) Legislation to authorize the maximum capacity of the tax in this section within one year of July 28, 2019.
+
+        ii. Adoption of the resolution of intent and legislation requires simple majority approval of the enacting legislative authority.
+
+        iii. If a county or city has not adopted a resolution of intent in accordance with the terms of this section, the county or city may not authorize, fix, and impose the tax.
+
+3. The tax imposed under this section must be deducted from the amount of tax otherwise required to be collected or paid to the department of revenue under chapter 82.08 or 82.12 RCW. The department must perform the collection of such taxes on behalf of the county or city at no cost to the county or city.
+
+4. By December 31, 2019, or within 30 days of a county or city authorizing the tax under this section, whichever is later, the department must calculate the maximum amount of tax distributions for each county and city authorizing the tax under this section as follows:
+
+    a. The maximum amount for a participating county equals the taxable retail sales within the county in state fiscal year 2019 multiplied by the tax rate imposed under this section. If a county imposes a tax authorized under this section after a city located in that county has imposed the tax, the taxable retail sales within the city in state fiscal year 2019 must be subtracted from the taxable retail sales within the county for the calculation of the maximum amount; and
+
+    b. The maximum amount for a city equals the taxable retail sales within the city in state fiscal year 2019 multiplied by the tax rate imposed under subsection (1) of this section.
+
+5. The tax must cease to be distributed to a county or city for the remainder of any fiscal year in which the amount of tax exceeds the maximum amount in subsection (4) of this section. The department must remit any annual tax revenues above the maximum to the state treasurer for deposit in the general fund. Distributions to a county or city meeting the maximum amount must resume at the beginning of the next fiscal year.
+
+6. [Empty]
+
+    a. The moneys collected or bonds issued under this section may only be used for the following purposes:
+
+        i. Acquiring, rehabilitating, or constructing affordable housing, which may include new units of affordable housing within an existing structure or facilities providing supportive housing services under RCW 71.24.385;
+
+        ii. Funding the operations and maintenance costs of new and existing units of affordable or supportive housing; or
+
+        iii. For providing rental assistance to tenants.
+
+    b. Administrative costs of the county or city associated with administering this section may not exceed 10 percent of the annual tax distributed to the jurisdiction under this section.
+
+7. The housing and services provided pursuant to subsection (6) of this section may only be provided to persons whose income is at or below 60 percent of the median income of the county or city imposing the tax, or at or below 80 percent of the median income of the county or city imposing the tax if it is supporting the development of affordable housing intended for owner occupancy, as defined in RCW 84.14.010.
+
+8. In determining the use of funds under subsection (6) of this section, a county or city must consider the income of the individuals and families to be served, the leveraging of the resources made available under this section, and the housing needs within the jurisdiction of the taxing authority.
+
+9. To carry out the purposes of this section including, but not limited to, financing loans or grants to nonprofit organizations or public housing authorities, the legislative authority of the county or city imposing the tax has the authority to issue general obligation or revenue bonds within the limitations now or hereafter prescribed by the laws of this state, and may use, and is authorized to pledge, the moneys collected under this section for repayment of such bonds.
+
+10. A county or city may enter into an interlocal agreement with one or more counties, cities, or public housing authorities in accordance with chapter 39.34 RCW. The agreement may include, but is not limited to, pooling the tax receipts received under this section, pledging those taxes to bonds issued by one or more parties to the agreement, and allocating the proceeds of the taxes levied or the bonds issued in accordance with such interlocal agreement and this section.
+
+11. Counties and cities imposing the tax under this section must report annually to the department of commerce on the collection and use of the revenue. The department of commerce must adopt rules prescribing content of such reports. By December 1, 2019, and annually thereafter, and in compliance with RCW 43.01.036, the department of commerce must submit a report annually to the appropriate legislative committees with regard to such uses.
+
+12. The tax imposed by a county or city under this section expires 20 years after the date on which the tax is first imposed.
+
+## Section 3
+(1) A surcharge of $183 per instrument shall be charged by the county auditor for each document recorded, which will be in addition to any other charge authorized by law. The following are exempt from this surcharge:
+
+## Section 4
+1. The real and personal property used by a nonprofit organization in providing emergency or transitional housing for low-income homeless persons as defined in RCW 35.21.685 or 36.32.415 or victims of domestic violence who are homeless for personal safety reasons is exempt from taxation if:
+
+    a. The charge, if any, for the housing does not exceed the actual cost of operating and maintaining the housing; and
+
+    b. [Empty]
+
+        i. The property is owned by the nonprofit organization; or
+
+        ii. The property is rented or leased by the nonprofit organization and the benefit of the exemption inures to the nonprofit organization.
+
+2. The real and personal property used by a nonprofit organization in maintaining an approved recovery residence registered under RCW 41.05.760 is exempt from taxation if:
+
+    a. The charge for the housing does not exceed the actual cost of operating and maintaining the housing; and
+
+    b. [Empty]
+
+        i. The property is owned by the nonprofit organization; or
+
+        ii. The property is rented or leased by the nonprofit organization and the benefit of the exemption inures to the nonprofit organization.
+
+3. As used in this section:
+
+    a. "Homeless" means persons, including families, who, on one particular day or night, do not have decent and safe shelter nor sufficient funds to purchase or rent a place to stay.
+
+    b. "Emergency housing" has the same meaning as in RCW 36.70A.030.
+
+    c. "Transitional housing" means a project that provides housing and supportive services to homeless persons or families for up to two years and that has as its purpose facilitating the movement of homeless persons and families into independent living.
+
+    d. "Recovery residence" has the same meaning as under RCW 41.05.760.
+
+4. The exemption in subsection (2) of this section applies to taxes levied for collection in calendar years 2024 through 2033.
+
+5. This exemption is subject to the administrative provisions contained in RCW 84.36.800 through 84.36.865.

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Third Substitute](S3/)
 
 ## 📰 Articles
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What I’m working on this session - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/23/what-im-working-on-this-session/#:~:text=Senate%20Bill%205387)

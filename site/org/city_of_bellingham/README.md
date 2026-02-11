@@ -34,7 +34,7 @@
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing   ❓1
 * ❓ Michael Lilliquist
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 
 ### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
 

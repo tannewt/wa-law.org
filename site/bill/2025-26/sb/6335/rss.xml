@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6335/</link>
 		<description>Updates about SB 6335</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 12:25:29 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,34 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Nicole/Grant/2026-02-02 12:25:29</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>TRAN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TRAN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-09/TRAN - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-10/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

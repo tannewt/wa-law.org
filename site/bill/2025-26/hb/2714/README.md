@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2714 Food assistance caseload

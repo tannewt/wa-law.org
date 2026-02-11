@@ -11,9 +11,7 @@
 
 ## Meetings
 ### Tue 02/10 08:30 AM - Health Care & Wellness (HCW): 2ESSB 5594 Biosimilar medicines
-Sign up to testify:
-
-#### 14 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Chris Bandoli - AHIP
 * 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)

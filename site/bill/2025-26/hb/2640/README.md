@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/30 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2640 Unauthorized UCC filings

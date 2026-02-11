@@ -520,7 +520,7 @@
 ### [HB 2296](/bill/2025-26/hb/2296/) - Distributed energy resources  👎1 
 * 👎💵 Peter Godlewski
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 
 ### [HB 2311](/bill/2025-26/hb/2311/) - Workforce board admin. 👍1  
 
@@ -929,7 +929,7 @@
 
 ### [SB 5821](/bill/2025-26/sb/5821/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍2  
+### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍2  
 * 👍💵 Emily Wittman
 
 ### [SB 5941](/bill/2025-26/sb/5941/) - Schools/renewable energy 👍2  

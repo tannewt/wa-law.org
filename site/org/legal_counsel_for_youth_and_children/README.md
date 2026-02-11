@@ -227,7 +227,7 @@
 ### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders   ❓1
 * ❓ Annie Chung
 
-### [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍2  
+### [SB 6319](/bill/2025-26/sb/6319/) - Child welfare cases/under 4 👍2  
 * 👍 Annie Chung
 * 👍💵 Roxana Gomez
 

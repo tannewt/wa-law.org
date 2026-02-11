@@ -54,12 +54,12 @@
 * 👍 Shannon Selland
 * 👍 Shannon Selland
 
-## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍3  
+## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare cases/under 4 👍3  
 * 👍 Shannon Selland
 
 ## 2023-24
 
-### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare time extension 👍3  
+### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare cases/under 4 👍3  
 * 👍 Shannon Selland
 
 ### [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  

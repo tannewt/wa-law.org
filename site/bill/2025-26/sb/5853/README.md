@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/11/2026 [Washington State Standard](/org/washington_state_standard/) - [More dead bills stack up in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/10/more-dead-bills-stack-up-in-wa-legislature/#:~:text=Senate%20Bill%205853)
+
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5853 Public official notification
 #### 44 👍 - Pro

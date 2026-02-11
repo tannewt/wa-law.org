@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 04/04/2025 [House Democrats](/org/house_democrats/) - [House Transportation Budget includes $1.9B in ferry funding and Kitsap infrastructure wins – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/04/house-transportation-budget-includes-1-9b-in-ferry-funding-and-kitsap-infrastructure-wins/#:~:text=Mosquito%20Fleet%20Act%20(HB%201923))

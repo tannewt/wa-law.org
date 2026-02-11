@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/03/2026 [Axios](/org/axios/) - [Washington state debates making data centers pay full power costs - Axios Seattle](https://www.axios.com/local/seattle/2026/02/03/washington-data-centers-legislature-electric-grid-cost-shift-ratepayers#:~:text=House%20Bill%202515)

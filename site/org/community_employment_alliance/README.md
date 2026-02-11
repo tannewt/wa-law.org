@@ -16,7 +16,7 @@
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
-### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  ❓1
+### [HB 2092](/bill/2025-26/hb/2092/) - Passenger rail adv. comm. 👍1  ❓1
 * 👍💵 Trevor Sandison
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓4

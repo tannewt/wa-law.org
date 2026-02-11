@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/06 10:30 AM - Appropriations (APP): HB 2720 Behavioral health services

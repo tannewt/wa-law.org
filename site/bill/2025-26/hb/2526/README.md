@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/10/2026 [PubliCola](/org/publicola/) - [Bill Targeting Sex Buyers Would No Longer Result in Immediate Felony Charges - PubliCola](https://publicola.com/2026/02/09/bill-targeting-sex-buyers-would-no-longer-result-in-immediate-felony-charges/#:~:text=State%20legislation)
+
 ## Meetings
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2526 Prostitution
 #### 154 👍 - Pro

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [What’s happening at the Capitol - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/10/3156/#:~:text=Senate%20Bill%206037)
+
 ## Meetings
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SSB 6037 Fire protection districts
 #### 15 👍 - Pro

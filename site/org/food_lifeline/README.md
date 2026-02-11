@@ -42,7 +42,7 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Aaron Czyzewski
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores   ❓1
 * ❓💵 Aaron Czyzewski

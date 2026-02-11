@@ -8,7 +8,7 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍 Gary Wirt
 
-### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍2  ❓1
+### [HB 2092](/bill/2025-26/hb/2092/) - Passenger rail adv. comm. 👍2  ❓1
 * ❓💵 Luis Moscoso
 * 👍 Charles Hamilton
 * 👍 Gary Wirt

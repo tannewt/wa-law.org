@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/29 04:00 PM - Transportation (TRAN): SB 6131 Roadway fatalities

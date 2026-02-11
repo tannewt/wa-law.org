@@ -47,7 +47,7 @@
 
 ### [HB 2049](/bill/2025-26/hb/2049/) - K-12 education funding 👍1  
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
@@ -57,7 +57,7 @@
 
 ### [HB 2294](/bill/2025-26/hb/2294/) - Prohibiting negative use restrictions on real property that have the effect of limiting consumer access to food and medicine. 👍1  
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍2  
+### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍2  
 * 👍💵 Jake Garcia
 
 ### [HB 2355](/bill/2025-26/hb/2355/) - Domestic workers 👍2  

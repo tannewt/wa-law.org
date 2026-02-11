@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SB%205973:)
 * 02/09/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: ‘Initiative Killer’ on the loose: Bill squelches a cherished right | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_d12ae93c-b265-417d-b15e-70ee1b169ff0.html#:~:text=Senate%20Bill%205973)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Defending our values and our communities - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%205973)
 * 01/26/2026 [KUOW](/org/kuow/) - [KUOW - Democrats’ plan to revamp WA's initiative process stirs backlash](https://www.kuow.org/stories/democrats-plan-to-revamp-wa-s-initiative-process-stirs-backlash#:~:text=Senate%20Bill%205973)

@@ -21,7 +21,7 @@
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
 
-### [HB 1316](/bill/2025-26/hb/1316/) - Expanding the scope of programs for postsecondary students experiencing homelessness and former foster youth. 👍2  
+### [HB 1316](/bill/2025-26/hb/1316/) - Postsecondary homelessness 👍2  
 
 ### [HB 1337](/bill/2025-26/hb/1337/) - Higher education presidents 👍1  
 * 👍 Joe Dacca

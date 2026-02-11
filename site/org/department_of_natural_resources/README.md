@@ -63,7 +63,7 @@
 * ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
 * 👍 Pat Sullivan
 
 ### [HB 2104](/bill/2025-26/hb/2104/) - Aviation assurance funding 👍1  

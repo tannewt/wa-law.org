@@ -58,7 +58,7 @@
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍1  
+### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 
 ### [HB 2389](/bill/2025-26/hb/2389/) - Criminal offenses under 18 👍2  
 

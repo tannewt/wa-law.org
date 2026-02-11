@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/13/2026 [Sightline Institute](/org/sightline_institute/) - [Today: Statewide ranked choice voting bill hearing | Sightline Institute](https://www.sightline.org/release/today-statewide-ranked-choice-voting-bill-hearing/#:~:text=HB%202210)

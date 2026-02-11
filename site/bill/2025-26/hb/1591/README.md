@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Tue 01/20 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1591 Defendant survivors

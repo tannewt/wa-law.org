@@ -52,7 +52,7 @@
 
 ### [HB 2050](/bill/2025-26/hb/2050/) - K-12 savings & efficiencies  👎1 
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍3  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍3  
 * 👍💵 Seamus Petrie
 
 ### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍2  

@@ -114,7 +114,7 @@
 
 ### [HB 2284](/bill/2025-26/hb/2284/) - Litter reduction  👎3 
 
-### [HB 2297](/bill/2025-26/hb/2297/) - Incentivizing grocery stores located in underserved communities. 👍2  
+### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍2  
 
 ### [HB 2301](/bill/2025-26/hb/2301/) - Paint producer resp. 👍2  
 

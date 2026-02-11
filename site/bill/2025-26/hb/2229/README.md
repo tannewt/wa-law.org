@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2229 Professional engineers

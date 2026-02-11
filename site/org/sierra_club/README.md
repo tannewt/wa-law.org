@@ -19,7 +19,7 @@
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy.  👎1 
 * 👎 Kathleen M. Saul
 
-### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  
+### [HB 2092](/bill/2025-26/hb/2092/) - Passenger rail adv. comm. 👍1  
 
 ### [HB 2103](/bill/2025-26/hb/2103/) - Authorizing certain public entities to contract for the capability of renewable or nonemitting electric generation projects.  👎1 
 * 👎 Kathleen M Saul

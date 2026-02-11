@@ -78,7 +78,7 @@
 * 👎 Jorge Torres
 * 👎 Michelle Sotelo
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍2  
+### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍2  
 * 👍 Lauren Mendez
 
 ### [SB 5859](/bill/2025-26/sb/5859/) - Expanding opportunities for competency-based assessments in graduation pathway options. 👍1  

@@ -45,7 +45,7 @@
 * 👎💵 Neil Strege
 * 👎💵 Neil Strege
 
-### [SB 5828](/bill/2025-26/sb/5828/) - Concerning the Washington college grant and college bound scholarship program for students attending private four-year not-for-profit institutions of higher education in Washington. 👍1  
+### [SB 5828](/bill/2025-26/sb/5828/) - College scholarships/private 👍1  
 * 👍💵 Neil Strege
 
 ### [SB 5931](/bill/2025-26/sb/5931/) - Workforce board admin. 👍1  

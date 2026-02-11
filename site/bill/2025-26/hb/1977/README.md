@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Tue 02/10 08:00 AM - Consumer Protection & Business (CPB): HB 1977 Commercial servers of liquor
-Sign up to testify:
-
 #### 2 👍 - Pro
 
 #### 0 👎 - Con

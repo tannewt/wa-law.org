@@ -134,7 +134,7 @@
 
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
 
-### [HB 1316](/bill/2025-26/hb/1316/) - Expanding the scope of programs for postsecondary students experiencing homelessness and former foster youth. 👍1  
+### [HB 1316](/bill/2025-26/hb/1316/) - Postsecondary homelessness 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
@@ -330,7 +330,7 @@
 
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍1  
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
 
 ### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
 

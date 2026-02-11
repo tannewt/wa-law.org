@@ -24,7 +24,7 @@
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax  👎1 
 * 👎💵 Brad Tower
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest.  👎2 
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest  👎2 
 * 👎💵 Brad Tower
 
 ### [HB 2100](/bill/2025-26/hb/2100/) - Enacting an excise tax on large operating companies on the amount of payroll expenses above the minimum wage threshold of the additional medicare tax to fund services to benefit Washingtonians and establishing the Well Washington fund account.  👎1 

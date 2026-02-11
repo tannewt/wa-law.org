@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/13/2026 [MyNorthwest](/org/mynorthwest/) - [WA bill aims to speed up DUI cases by allowing more labs to perform toxicology tests - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/wa-bill-toxicology-dui/4186993#:~:text=Senate%20Bill%205880)

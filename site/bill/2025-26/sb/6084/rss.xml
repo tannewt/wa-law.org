@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6084/</link>
 		<description>Updates about SB 6084</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:01:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -64,6 +64,27 @@
 			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-06/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 47; nays, 1; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 47; nays, 1; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-10/Third reading, passed; yeas, 47; nays, 1; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>WA Senate OKs bill to better define ‘election’ • Washington State Standard</title>
+			<description>News article "WA Senate OKs bill to better define ‘election’ • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 11 Feb 2026 00:01:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/wa-senate-oks-bill-to-better-define-election/#:~:text=Senate%20Bill%206084</guid>
 		</item>
 	</channel>
 </rss>

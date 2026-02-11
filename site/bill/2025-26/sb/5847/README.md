@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5847 Workers' comp. medical care

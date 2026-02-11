@@ -11,12 +11,12 @@
 
 ### [SB 6308](/bill/2025-26/sb/6308/) - Child shelter care orders 👍1  
 
-## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare time extension 👍2  
+## [SB 6319](/bill/2025-26/sb/6319/) - Child welfare cases/under 4 👍2  
 * 👍💵 Mary Fischer
 
 ## 2023-24
 
-### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare time extension 👍2  
+### [SB 6319](/bill/2023-24/sb/6319/) - Child welfare cases/under 4 👍2  
 * 👍💵 Mary Fischer
 
 ### [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  

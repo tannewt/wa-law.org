@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2026 [House Democrats](/org/house_democrats/) - [Berg Calls for Compassionate Leadership with Boys and Men’s Commission Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/22/berg-calls-for-compassionate-leadership-with-boys-and-mens-commission-bill/#:~:text=House%20Bill%202401)

@@ -292,13 +292,13 @@
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 
-### [HB 2089](/bill/2025-26/hb/2089/) - Supporting wildfire mitigation by modifying RCW 82.04.29005, concerning taxes on loan interest. 👍1  
+### [HB 2089](/bill/2025-26/hb/2089/) - Taxes on loan interest 👍1  
 
 ### [HB 2090](/bill/2025-26/hb/2090/) - Integrating advanced nuclear energy into the state energy strategy. 👍1  
 
 ### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
 
-### [HB 2092](/bill/2025-26/hb/2092/) - Establishing a passenger rail advisory committee. 👍1  
+### [HB 2092](/bill/2025-26/hb/2092/) - Passenger rail adv. comm. 👍1  
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍2  
 
