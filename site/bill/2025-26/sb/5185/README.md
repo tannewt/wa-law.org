@@ -14,11 +14,11 @@
 ### Tue 01/27 10:30 AM - Health & Long Term Care (HLTC): SB 5185 International med. pathways
 #### 9 👍 - Pro
 Testifying:
+* Oksana Nesterenko
+* CALEB CHU
 * 💵Alex Wehinger - WA State Medical Association (WSMA)
 * Micah Matthews - Washington Medical Commission (WMC)
 * Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
-* Oksana Nesterenko
-* CALEB CHU
 
 #### 118 👎 - Con
 
@@ -39,14 +39,14 @@ Testifying:
 * Dr. Fikir Kibret - Cura Healthcare
 * Dr. Lisa Stolarczyk - Cura Healthcare
 * Chris Lafrenz - Cura Healthcare
+* Dr Carla Amadei - Pacific Medical Specialty Group
+* Dr Oksana Nesterenko - Pacific Medical Specialty Group
+* Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 * Dr. Caleb Chu - Pacific Medical Specialty Group
 * Dr. Neriza Mercado - Pacific Medical Specialty Group
 * Levoy Cooks - Prest Media
 * 💵Michael Zimmer - World Education Services
 * Abdirizak Mukhtar - Somali Bridge
-* Dr Carla Amadei - Pacific Medical Specialty Group
-* Dr Oksana Nesterenko - Pacific Medical Specialty Group
-* Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 
 #### 17 👎 - Con
 Testifying:

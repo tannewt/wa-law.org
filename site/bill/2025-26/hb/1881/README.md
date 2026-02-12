@@ -15,6 +15,10 @@
 ### Tue 02/11 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1881 Health care marketplace
 #### 841 👍 - Pro
 Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
+* 💵Matthew Lang - National Organization for Women - WA
+* Brynn Freal - [Washington Community Action Network](/org/washington_community_action_network/)
+* John Godfrey - [Washington Community Action Network](/org/washington_community_action_network/)
 * Cynthia Benion - SEIU Healthcare 1199NW
 * Heather Rosewarne - Washington State Nurses Association
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
@@ -23,10 +27,6 @@ Testifying:
 * Jordan Middleton - SEIU Healthcare 1199NW
 * 💵Dustin Lambro - UFCW 3000
 * 💵John Traynor - [Washington State Labor Council](/org/washington_state_labor_council/)
-* Jane Beyer - Office of the Insurance Commissioner
-* 💵Matthew Lang - National Organization for Women - WA
-* Brynn Freal - [Washington Community Action Network](/org/washington_community_action_network/)
-* John Godfrey - [Washington Community Action Network](/org/washington_community_action_network/)
 * Nico Janssen - Office of the Insurance Commissioner
 * Cynthia Benion - SEIU Healthcare 1199NW
 

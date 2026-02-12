@@ -20,10 +20,10 @@ Testifying:
 
 #### 9 👎 - Con
 Testifying:
-* Chris Bandoli - AHIP
-* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 * 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* Chris Bandoli - AHIP
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
 #### 3 ❓ - Other
 Testifying:

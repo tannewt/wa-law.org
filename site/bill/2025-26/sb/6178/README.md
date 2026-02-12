@@ -16,8 +16,8 @@ Testifying:
 * Joel Hanson - Washington State Association for Justice
 * David Forte - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
-* Marian Smith - [National Insurance Crime Bureau](/org/national_insurance_crime_bureau/)
 * Janet McDaniel - PEMCO Insurance
+* Marian Smith - [National Insurance Crime Bureau](/org/national_insurance_crime_bureau/)
 
 #### 0 👎 - Con
 

@@ -37,9 +37,9 @@ Testifying:
 
 #### 173 👎 - Con
 Testifying:
-* Eric Perry - [City of Renton](/org/city_of_renton/)
 * Charles Grimm - Mayor, City of Pasco
 * Jeff Rimack - Jeff Rimack, City of Lakewood
+* Eric Perry - [City of Renton](/org/city_of_renton/)
 * Kristen Holdsworth - City of Kent/Long Range Planning Manager
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Shannon Vincent - [City of Lacey](/org/city_of_lacey/)
@@ -48,8 +48,8 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Diana Hart - [City of Bellevue](/org/city_of_bellevue/)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Diana Hart - [City of Bellevue](/org/city_of_bellevue/)
 
 ### Fri 01/16 10:30 AM - Housing (HSG): SB 6026 Residential dev./zones
 #### 511 👍 - Pro
@@ -57,11 +57,14 @@ Testifying:
 * Patience Malaba - HDC
 * Carter Nelson
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
-* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Sarah Clark - Seattle Metro Chamber
 * Denny Heck - Lt. Governor
 * Mary Hull-Drury - Washington Realtors
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* 💵Ken Short - AWB
+* Meredith Holzemer - Mill Creek Residential
+* Seth Boun - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Carl Shorett - Avalon Bay
 * 💵Bill Clarke - Amazon
 * Lauren McDonald - [Microsoft](/org/microsoft/)
@@ -70,23 +73,20 @@ Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Jennifer Ackerman - Southport Financial Services
 * 💵Jordan Mitchell - Airbnb
-* 💵Ken Short - AWB
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Meredith Holzemer - Mill Creek Residential
-* Seth Boun - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 #### 601 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Scott Bonjukian
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 8 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - Washington State Association of County Regional Planning Directors
 * Christine Mackay - West Seattle Junction
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Kristen Holdsworth - City of Kent/ Government Affairs Manager
+* Kristen Holdsworth - [City of Kent](/org/city_of_kent/)
 * Phill Marsh - City of Redmond, Economic Development Manager
 * Ivan Barragan - Community & Economic Development Planner, City of Pasco

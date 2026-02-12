@@ -12,10 +12,10 @@
 ### Thu 03/20 08:00 AM - Health & Long Term Care (HLTC): SHB 1784 Certified medical assistants
 #### 4 👍 - Pro
 Testifying:
-* Mackenzie Brewer - Olympia Orthopaedic Associates
 * Ben Shah - Olympia Orthopaedic Associates
-* Gregory Byrd - 7238 Huckleberry Rd NW
 * Darrin Trask - Olympia Orthopaedic Associates
+* Mackenzie Brewer - Olympia Orthopaedic Associates
+* Gregory Byrd - 7238 Huckleberry Rd NW
 
 #### 0 👎 - Con
 
@@ -26,10 +26,10 @@ Testifying:
 ### Tue 02/11 01:30 PM - Health Care & Wellness (HCW): HB 1784 Certified medical assistants
 #### 5 👍 - Pro
 Testifying:
-* MD, Darrin Trask
 * Benjamin Shah - Olympia Orthopaedic Associates
 * Gregory Byrd - Olympia Orthopaedic Associates
 * Mackenzie Brewer - Olympia Orthopaedic Associates
+* MD, Darrin Trask
 * Jennifer Lewis - Olympia Orthopaedic Associates
 
 #### 1 👎 - Con

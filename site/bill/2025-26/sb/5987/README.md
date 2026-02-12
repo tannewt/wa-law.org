@@ -16,14 +16,14 @@ Testifying:
 * Jeff Pack - Me
 * Jayme Peloli - Mayor, Town of Wilkeson
 * Avery Cesarano
+* Nichol Phillips - Pacific Northwest 4-Wheel Drive Association
 * RON FOWLER - Tacoma, WA 98406
 * Denice Carnahan
-* Nichol Phillips - Pacific Northwest 4-Wheel Drive Association
 * Breanna Fokes - Foothills Rails to Trails Coalition
 
 #### 1 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:
-* Larry Leveen - ForeverGreen Trails
 * 💵Allison Krutsinger - Washington State Department of Transportation
+* Larry Leveen - ForeverGreen Trails

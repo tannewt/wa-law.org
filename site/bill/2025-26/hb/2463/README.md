@@ -18,6 +18,8 @@ Testifying:
 * 💵Michael Moran - 2nd Harvest Inland Northwest
 * Rod Wieber - Feeding Washington
 * Ahndrea Blue - Eloise’s Cooking Pot Food Bank/MADF
+* David Bobanick - Harvest Against Hunger
+* Trish Twomey - [Washington Food Coalition](/org/washington_food_coalition/)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Donnie Wilcox - Wilcox Family Farms
 * 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
@@ -25,8 +27,6 @@ Testifying:
 * Kamal Sidhu - Sidhu Farms
 * Jonalee Squeochs - Yakama Nation Farms
 * Andrew Stout - Westwind Organics
-* David Bobanick - Harvest Against Hunger
-* Trish Twomey - [Washington Food Coalition](/org/washington_food_coalition/)
 * 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potatoe and Onion Assoc.
 * Cathleen MacCaul - AARP Washington
 * Claire Aijian - Emergency Food Network

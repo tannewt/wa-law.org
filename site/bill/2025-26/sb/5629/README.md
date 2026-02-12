@@ -15,11 +15,10 @@
 ### Tue 02/11 10:30 AM - Health & Long Term Care (HLTC): SB 5629 Prosthetic limb coverage
 #### 71 👍 - Pro
 Testifying:
-* Hannah Cvancara
 * Glenn Barfie3ld
-* Glenn Andrews
-* Sierra Landholm
+* Hannah Cvancara
 * Ashley Carvalho - So Every Body Can Move
+* Sierra Landholm
 * Cody McDonald - citizen
 * Megan Gleason - Citizen
 * Shane Solomon - Citizen

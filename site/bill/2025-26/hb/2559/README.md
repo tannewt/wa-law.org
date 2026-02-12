@@ -18,17 +18,18 @@
 #### 109 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
+* Kurt Peterson
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Caitlin SULLIVAN
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Kurt Peterson
-* Barbara Rossing
 * Zeke Reister - 508 Ash St.
+* Barbara Rossing
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 1059 👎 - Con
 Testifying:
+* Leslie Hubbard
 * Mitzi Cameron
 * Kendehl Rojanasthien
 * James McQuillan
@@ -44,17 +45,16 @@ Testifying:
 * Robin Garrett-State
 * Guillermo Maldonado Ibarguen
 * ALEXIS PONTIKIS
-* Leslie Hubbard
-* Shelley Bacon
-* Erin Deinzer
 * Gerald Good
 * Russell Williams
 * Johan Lysne
 * Mac Brown
 * Jonathan Young
 * Cheryl Hansen
-* 💵Rose Feliciano - TechNet
+* Shelley Bacon
+* Erin Deinzer
 * Theresa Reade
+* 💵Rose Feliciano - TechNet
 * Joe Tran
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Brian Woolard - 8203 Riverview Rd

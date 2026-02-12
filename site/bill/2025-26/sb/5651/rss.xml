@@ -30,30 +30,6 @@
 			<guid isPermaLink="false">2025-02-04/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 		<item>
-			<title>👎Gwen Turner - WA Collectors Association</title>
-			<description>Gwen Turner signed up to testify Con. They are signed up to represent WA Collectors Association.</description>
-			<pubDate>Sun, 09 Feb 2025 01:15:00 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Gwen/Turner/2025-02-09 01:15:00</guid>
-		</item>
-		<item>
-			<title>👎Mindy Chumbley - WA Collectors Association</title>
-			<description>Mindy Chumbley signed up to testify Con. They are signed up to represent WA Collectors Association.</description>
-			<pubDate>Sun, 09 Feb 2025 01:15:00 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mindy/Chumbley/2025-02-09 01:15:00</guid>
-		</item>
-		<item>
-			<title>👎Franci Wayland - Receivables Management Association International (RMAI)</title>
-			<description>Franci Wayland signed up to testify Con. They are signed up to represent Receivables Management Association International (RMAI).</description>
-			<pubDate>Sun, 09 Feb 2025 06:48:37 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Franci/Wayland/2025-02-09 06:48:37</guid>
-		</item>
-		<item>
 			<title>👍Amanda Martin - NW Consumer Law Center</title>
 			<description>Amanda Martin signed up to testify Pro. They are signed up to represent NW Consumer Law Center.</description>
 			<pubDate>Sun, 09 Feb 2025 10:38:45 GMT</pubDate>
@@ -92,6 +68,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Julia/Kellison/2025-02-09 10:42:14</guid>
+		</item>
+		<item>
+			<title>👎Gwen Turner - WA Collectors Association</title>
+			<description>Gwen Turner signed up to testify Con. They are signed up to represent WA Collectors Association.</description>
+			<pubDate>Sun, 09 Feb 2025 13:15:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gwen/Turner/2025-02-09 13:15:00</guid>
+		</item>
+		<item>
+			<title>👎Mindy Chumbley - WA Collectors Association</title>
+			<description>Mindy Chumbley signed up to testify Con. They are signed up to represent WA Collectors Association.</description>
+			<pubDate>Sun, 09 Feb 2025 13:15:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mindy/Chumbley/2025-02-09 13:15:00</guid>
+		</item>
+		<item>
+			<title>👎Franci Wayland - Receivables Management Association International (RMAI)</title>
+			<description>Franci Wayland signed up to testify Con. They are signed up to represent Receivables Management Association International (RMAI).</description>
+			<pubDate>Sun, 09 Feb 2025 18:48:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Franci/Wayland/2025-02-09 18:48:37</guid>
 		</item>
 		<item>
 			<title>👍Adam Eitmann - Washington State Office of the Attorney General</title>
@@ -214,14 +214,6 @@
 			<guid isPermaLink="false">2025-03-14/First reading, referred to Civil Rights &amp; Judiciary.</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Attorney General's Office</title>
-			<description>TaraLyn Fray signed up to testify Con.</description>
-			<pubDate>Wed, 19 Mar 2025 02:30:54 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-19 02:30:54</guid>
-		</item>
-		<item>
 			<title>👎Mindy Chumbley - Washington Collectors Association</title>
 			<description>Mindy Chumbley signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_collectors_association/"&gt;Washington Collectors Association&lt;/a&gt;.</description>
 			<pubDate>Wed, 19 Mar 2025 08:38:29 GMT</pubDate>
@@ -230,79 +222,55 @@
 			<guid isPermaLink="false">testifier/Mindy/Chumbley/2025-03-19 08:38:29</guid>
 		</item>
 		<item>
+			<title>👎TaraLyn Fray - Washington Collectors Association</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 19 Mar 2025 14:30:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-19 14:30:54</guid>
+		</item>
+		<item>
 			<title>👍💵Adam Zarrin - The Leukemia &amp; Lymphoma Society</title>
 			<description>Adam Zarrin signed up to testify Pro. They are signed up to represent The Leukemia &amp; Lymphoma Society. They are a registered lobbyist.</description>
-			<pubDate>Wed, 19 Mar 2025 11:45:50 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 23:45:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Adam/Zarrin/2025-03-19 11:45:50</guid>
+			<guid isPermaLink="false">testifier/Adam/Zarrin/2025-03-19 23:45:50</guid>
 		</item>
 		<item>
 			<title>👍Amanda Martin - NW Consumer Law Center</title>
 			<description>Amanda Martin signed up to testify Pro. They are signed up to represent NW Consumer Law Center.</description>
-			<pubDate>Wed, 19 Mar 2025 11:45:50 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 23:45:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Amanda/Martin/2025-03-19 11:45:50</guid>
+			<guid isPermaLink="false">testifier/Amanda/Martin/2025-03-19 23:45:50</guid>
 		</item>
 		<item>
 			<title>👍Molly Gallagher - Statewide Poverty Action Network</title>
 			<description>Molly Gallagher signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/statewide_poverty_action_network/"&gt;Statewide Poverty Action Network&lt;/a&gt;.</description>
-			<pubDate>Wed, 19 Mar 2025 11:45:50 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 23:45:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Molly/Gallagher/2025-03-19 11:45:50</guid>
+			<guid isPermaLink="false">testifier/Molly/Gallagher/2025-03-19 23:45:50</guid>
 		</item>
 		<item>
 			<title>👍Sam Leonard - Washington State Association for Justice</title>
 			<description>Sam Leonard signed up to testify Pro. They are signed up to represent Washington State Association for Justice.</description>
-			<pubDate>Wed, 19 Mar 2025 11:45:50 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 23:45:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Sam/Leonard/2025-03-19 11:45:50</guid>
+			<guid isPermaLink="false">testifier/Sam/Leonard/2025-03-19 23:45:50</guid>
 		</item>
 		<item>
 			<title>❓Julia Kellison - Northwest Justice Project</title>
 			<description>Julia Kellison signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_justice_project/"&gt;Northwest Justice Project&lt;/a&gt;.</description>
-			<pubDate>Wed, 19 Mar 2025 11:54:12 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 23:54:12 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Julia/Kellison/2025-03-19 11:54:12</guid>
+			<guid isPermaLink="false">testifier/Julia/Kellison/2025-03-19 23:54:12</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - Washington Collectors Association</title>
-			<description>Sandra Mochizuki signed up to testify Con.</description>
-			<pubDate>Thu, 20 Mar 2025 03:01:06 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-20 03:01:06</guid>
-		</item>
-		<item>
-			<title>❓Annie Slade - Northwest Justice Project</title>
-			<description>Annie Slade signed up to testify Other.</description>
-			<pubDate>Thu, 20 Mar 2025 03:39:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Annie/Slade/2025-03-20 03:39:20</guid>
-		</item>
-		<item>
-			<title>👍Adam Eitmann - Attorney General's Office</title>
-			<description>Adam Eitmann signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
-			<pubDate>Thu, 20 Mar 2025 05:20:33 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Adam/Eitmann/2025-03-20 05:20:33</guid>
-		</item>
-		<item>
-			<title>👎Sandra Brock - Washington Collectors Association</title>
-			<description>Sandra Brock signed up to testify Con.</description>
-			<pubDate>Thu, 20 Mar 2025 08:41:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-20 08:41:18</guid>
-		</item>
-		<item>
-			<title>👍Russell Brandt - Attorney General's Office</title>
+			<title>👍Russell Brandt - Washington State Association for Justice</title>
 			<description>Russell Brandt signed up to testify Pro.</description>
 			<pubDate>Thu, 20 Mar 2025 09:06:08 GMT</pubDate>
 			<category>testifier</category>
@@ -310,12 +278,44 @@
 			<guid isPermaLink="false">testifier/Russell/Brandt/2025-03-20 09:06:08</guid>
 		</item>
 		<item>
-			<title>👍Natasha Fecteau Minger - Attorney General's Office</title>
+			<title>👍Natasha Fecteau Minger - Washington State Association for Justice</title>
 			<description>Natasha Fecteau Minger signed up to testify Pro.</description>
 			<pubDate>Thu, 20 Mar 2025 12:36:49 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Natasha/Fecteau Minger/2025-03-20 12:36:49</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Washington Collectors Association</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Thu, 20 Mar 2025 15:01:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-20 15:01:06</guid>
+		</item>
+		<item>
+			<title>❓Annie Slade - Northwest Justice Project</title>
+			<description>Annie Slade signed up to testify Other.</description>
+			<pubDate>Thu, 20 Mar 2025 15:39:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Annie/Slade/2025-03-20 15:39:20</guid>
+		</item>
+		<item>
+			<title>👍Adam Eitmann - Attorney General's Office</title>
+			<description>Adam Eitmann signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Thu, 20 Mar 2025 17:20:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Adam/Eitmann/2025-03-20 17:20:33</guid>
+		</item>
+		<item>
+			<title>👎Sandra Brock - Washington Collectors Association</title>
+			<description>Sandra Brock signed up to testify Con.</description>
+			<pubDate>Thu, 20 Mar 2025 20:41:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-20 20:41:18</guid>
 		</item>
 		<item>
 			<title>👍Nick Fielden - Attorney General's Office</title>

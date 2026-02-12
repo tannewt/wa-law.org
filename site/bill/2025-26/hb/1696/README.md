@@ -31,8 +31,8 @@
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 2SHB 1696 Covenant homeownership prg.
 #### 259 👍 - Pro
 Testifying:
-* Kyle Lucas - Urban Indians Northwest
 * LaKeisha Davis - Habitat for Humanity Spokane
+* Kyle Lucas - Urban Indians Northwest
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Steve Walker - Washington State Housing Finance Commission
 * Dana Le Roy - Habitat for Humanity Spokane
@@ -88,9 +88,9 @@ Testifying:
 #### 173 👍 - Pro
 Testifying:
 * LaKeisha Davis - Habitat for Humanity Spokane
+* Darryl Smith - HomeSight
 * Lisa DeBrock - WA State Housing Finance Commission
 * Patience M Malaba - HDC
-* Darryl Smith - HomeSight
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * Adria Buchanan - Fair Housing Center of Washington

@@ -11,10 +11,10 @@
 ### Mon 01/26 04:00 PM - Transportation (TRAN): SB 5234 Snowmobile registration fees
 #### 7 👍 - Pro
 Testifying:
-* Justinian Davis
-* Dean Meakin - Washington State Snowmobile Association
 * Brian Considine - State Parks, Policy & Gov't Affairs Director
 * Rob Sendak - WA State Parks, Winter Recreation & Boating Program Manager
+* Justinian Davis
+* Dean Meakin - Washington State Snowmobile Association
 
 #### 106 👎 - Con
 Testifying:
@@ -44,10 +44,10 @@ Testifying:
 #### 12 👍 - Pro
 Testifying:
 * Fred Wemer
-* Cory Wright - Kittitas County Commissioner
-* Dean Meakin - Washington State Snowmobile Association
 * Brian Considine - State Parks, Policy & Gov't Affairs Director
 * Justin Davis
+* Cory Wright - Kittitas County Commissioner
+* Dean Meakin - Washington State Snowmobile Association
 
 #### 512 👎 - Con
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6277/</link>
 		<description>Updates about SB 6277</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 12:38:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Feb 2026 20:14:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -32,43 +32,11 @@
 			<guid isPermaLink="false">testifier/Connor/Fagan/2026-01-30 10:51:36</guid>
 		</item>
 		<item>
-			<title>👍Kathryn Salveson - Washington State Association of School Psychologists</title>
-			<description>Kathryn Salveson signed up to testify Pro. They are signed up to represent Washington State Association of School Psychologists.</description>
-			<pubDate>Mon, 02 Feb 2026 01:35:23 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Kathryn/Salveson/2026-02-02 01:35:23</guid>
-		</item>
-		<item>
-			<title>👍Tammie Perreault - Department of Defense/War Department</title>
-			<description>Tammie Perreault signed up to testify Pro. They are signed up to represent Department of Defense/War Department.</description>
-			<pubDate>Mon, 02 Feb 2026 03:25:04 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Tammie/Perreault/2026-02-02 03:25:04</guid>
-		</item>
-		<item>
 			<title>February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA</title>
 			<description>News article "February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA" from Washington St Pta.</description>
 			<pubDate>Mon, 02 Feb 2026 03:58:43 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%206277</guid>
-		</item>
-		<item>
-			<title>👍Natalie Wimberley - Peninsula School District</title>
-			<description>Natalie Wimberley signed up to testify Pro. They are signed up to represent Peninsula School District.</description>
-			<pubDate>Mon, 02 Feb 2026 07:27:05 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Natalie/Wimberley/2026-02-02 07:27:05</guid>
-		</item>
-		<item>
-			<title>👍Charles Wharton - Veterans Legislative Coalition</title>
-			<description>Charles Wharton signed up to testify Pro. They are signed up to represent Veterans Legislative Coalition.</description>
-			<pubDate>Mon, 02 Feb 2026 08:14:52 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Charles/Wharton/2026-02-02 08:14:52</guid>
 		</item>
 		<item>
 			<title>❓Tawni Barlow - Medical Lake School District</title>
@@ -85,6 +53,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2026-02-02 12:38:08</guid>
+		</item>
+		<item>
+			<title>👍Kathryn Salveson - Washington State Association of School Psychologists</title>
+			<description>Kathryn Salveson signed up to testify Pro. They are signed up to represent Washington State Association of School Psychologists.</description>
+			<pubDate>Mon, 02 Feb 2026 13:35:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathryn/Salveson/2026-02-02 13:35:23</guid>
+		</item>
+		<item>
+			<title>👍Tammie Perreault - Department of Defense/War Department</title>
+			<description>Tammie Perreault signed up to testify Pro. They are signed up to represent Department of Defense/War Department.</description>
+			<pubDate>Mon, 02 Feb 2026 15:25:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammie/Perreault/2026-02-02 15:25:04</guid>
+		</item>
+		<item>
+			<title>👍Natalie Wimberley - Peninsula School District</title>
+			<description>Natalie Wimberley signed up to testify Pro. They are signed up to represent Peninsula School District.</description>
+			<pubDate>Mon, 02 Feb 2026 19:27:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Natalie/Wimberley/2026-02-02 19:27:05</guid>
+		</item>
+		<item>
+			<title>👍Charles Wharton - Veterans Legislative Coalition</title>
+			<description>Charles Wharton signed up to testify Pro. They are signed up to represent Veterans Legislative Coalition.</description>
+			<pubDate>Mon, 02 Feb 2026 20:14:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charles/Wharton/2026-02-02 20:14:52</guid>
 		</item>
 	</channel>
 </rss>

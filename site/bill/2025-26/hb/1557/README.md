@@ -33,15 +33,15 @@ Testifying:
 ### Wed 02/05 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1557 Guaranteed admissions prg.
 #### 25 👍 - Pro
 Testifying:
-* Jacob Vigdor - University of Washington Faculty/COF
 * Ruben Flores - Council Of Presidents
+* Jacob Vigdor - University of Washington Faculty/COF
 * Bill Lyne - United Faculty of Washington State
-* Student, Maya Amos - West Valley High School
-* Superintendent, Dr. Peter Finch - West Valley School District #208
 * Patricia Loera - The Office of the Governor
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Dan Glowitz
 * Patricia Loera - Office of Governor Bob Ferguson/Senior Policy Advisor for Higher Education & Workforce Develoopment
+* Student, Maya Amos - West Valley High School
+* Superintendent, Dr. Peter Finch - West Valley School District #208
 
 #### 442 👎 - Con
 Testifying:

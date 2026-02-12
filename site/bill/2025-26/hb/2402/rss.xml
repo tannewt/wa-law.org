@@ -30,60 +30,12 @@
 			<guid isPermaLink="false">2026-01-15/Referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>👍Pete Allen - Fresenius Kabi USA</title>
-			<description>Pete Allen signed up to testify Pro. They are signed up to represent Fresenius Kabi USA.</description>
-			<pubDate>Thu, 22 Jan 2026 01:12:27 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Pete/Allen/2026-01-22 01:12:27</guid>
-		</item>
-		<item>
-			<title>👍Alicia Kerry Mica - B. Braun Medical</title>
-			<description>Alicia Kerry Mica signed up to testify Pro. They are signed up to represent B. Braun Medical.</description>
-			<pubDate>Thu, 22 Jan 2026 01:16:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Alicia Kerry/Mica/2026-01-22 01:16:20</guid>
-		</item>
-		<item>
-			<title>👍💵Heather Trim - Zero Waste Washington</title>
-			<description>Heather Trim signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/zero_waste_washington/"&gt;Zero Waste Washington&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Thu, 22 Jan 2026 02:38:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Heather/Trim/2026-01-22 02:38:28</guid>
-		</item>
-		<item>
-			<title>👍Laura Gillan - Breast Cancer Prevention Partners</title>
-			<description>Laura Gillan signed up to testify Pro. They are signed up to represent Breast Cancer Prevention Partners.</description>
-			<pubDate>Thu, 22 Jan 2026 05:42:00 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Laura/Gillan/2026-01-22 05:42:00</guid>
-		</item>
-		<item>
 			<title>❓Julia Torregrosa - AdvaMed</title>
 			<description>Julia Torregrosa signed up to testify Other. They are signed up to represent AdvaMed.</description>
 			<pubDate>Thu, 22 Jan 2026 06:14:44 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Julia/Torregrosa/2026-01-22 06:14:44</guid>
-		</item>
-		<item>
-			<title>👎Lisa Hoffman - Breast Cancer Prevention Partners</title>
-			<description>Lisa Hoffman signed up to testify Con.</description>
-			<pubDate>Thu, 22 Jan 2026 09:04:36 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Lisa/Hoffman/2026-01-22 09:04:36</guid>
-		</item>
-		<item>
-			<title>👎Lisa Hoffman - Breast Cancer Prevention Partners</title>
-			<description>Lisa Hoffman signed up to testify Con.</description>
-			<pubDate>Thu, 22 Jan 2026 09:05:07 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Lisa/Hoffman/2026-01-22 09:05:07</guid>
 		</item>
 		<item>
 			<title>❓Katie Kolan - Washington State Hospital Association (WSHA)</title>
@@ -100,6 +52,54 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Kimberly/Goetz/2026-01-22 12:50:01</guid>
+		</item>
+		<item>
+			<title>👍Pete Allen - Fresenius Kabi USA</title>
+			<description>Pete Allen signed up to testify Pro. They are signed up to represent Fresenius Kabi USA.</description>
+			<pubDate>Thu, 22 Jan 2026 13:12:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Pete/Allen/2026-01-22 13:12:27</guid>
+		</item>
+		<item>
+			<title>👍Alicia Kerry Mica - B. Braun Medical</title>
+			<description>Alicia Kerry Mica signed up to testify Pro. They are signed up to represent B. Braun Medical.</description>
+			<pubDate>Thu, 22 Jan 2026 13:16:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alicia Kerry/Mica/2026-01-22 13:16:20</guid>
+		</item>
+		<item>
+			<title>👍💵Heather Trim - Zero Waste Washington</title>
+			<description>Heather Trim signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/zero_waste_washington/"&gt;Zero Waste Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Jan 2026 14:38:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Trim/2026-01-22 14:38:28</guid>
+		</item>
+		<item>
+			<title>👍Laura Gillan - Breast Cancer Prevention Partners</title>
+			<description>Laura Gillan signed up to testify Pro. They are signed up to represent Breast Cancer Prevention Partners.</description>
+			<pubDate>Thu, 22 Jan 2026 17:42:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Laura/Gillan/2026-01-22 17:42:00</guid>
+		</item>
+		<item>
+			<title>👎Lisa Hoffman - Breast Cancer Prevention Partners</title>
+			<description>Lisa Hoffman signed up to testify Con.</description>
+			<pubDate>Thu, 22 Jan 2026 21:04:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lisa/Hoffman/2026-01-22 21:04:36</guid>
+		</item>
+		<item>
+			<title>👎Lisa Hoffman - Breast Cancer Prevention Partners</title>
+			<description>Lisa Hoffman signed up to testify Con.</description>
+			<pubDate>Thu, 22 Jan 2026 21:05:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lisa/Hoffman/2026-01-22 21:05:07</guid>
 		</item>
 		<item>
 			<title>HCW - Executive action taken by committee.</title>

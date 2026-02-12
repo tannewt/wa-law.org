@@ -27,8 +27,8 @@ Testifying:
 #### 10 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
-* Zeke Reister - resident of Leavenworth
 * Kurt Peterson - Upper Valley Aquatics Boosters (formerly Friends of Pool)
+* Zeke Reister - resident of Leavenworth
 
 #### 690 👎 - Con
 Testifying:
@@ -42,20 +42,20 @@ Testifying:
 * Michelle Larkin
 * Eben Ifech
 * Heather Lindquist
-* Carolyn Allen - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
-* Sue Ellen White - 5223 Watauga Beach Drive East
-* Sue Ellen White
-* Stephanie Bender
 * Lance Eggers
-* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
-* Ann Jolie
-* michelle boyle - self
 * Dani Robinett
 * 💵Vicki Christophersen - Technet
 * Dan Lang - AirBnB hosts
 * Fritz Feiten
-* Ken Ploeger - Seattle Airbnb Hosts Group
 * 💵Jake Mayson - Greater Spokane Incorporated
+* Carolyn Allen - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
+* Sue Ellen White - 5223 Watauga Beach Drive East
+* Sue Ellen White
+* Stephanie Bender
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Ann Jolie
+* michelle boyle - self
+* Ken Ploeger - Seattle Airbnb Hosts Group
 * Melissa Storey
 * Warren Newton
 

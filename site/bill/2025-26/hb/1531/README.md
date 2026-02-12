@@ -41,10 +41,10 @@ Testifying:
 * Beth Ebel - WA Chapter, American Academy of Pediatrics
 * Carrie Horwitch - MD, MPH
 * Tyler Breier - Parent, Public Health Nurse
+* Rex Johnson - Washington Advocates for Patient Safety
 * Ashlin Mountjoy
 * 💵Jaime Bodden - WSALPHO
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
-* Rex Johnson - Washington Advocates for Patient Safety
 * Maria Huang - WA Chapter of the American Academy of Pediatrics
 
 #### 4689 👎 - Con
@@ -54,22 +54,43 @@ Testifying:
 * Joshua Lenton
 * Krista Petrova
 * Mollie Vigil
-* Brian Friesen
 * Helena Hamilton
+* Bob Runnells
+* Larry Fetter - Park Partners LLC
+* Brian Friesen
 * Anthony Mixer - Washington State Young Republicans
 * Corey Sherwood - Washington State Young Republicans
 * Dakota Manley - Washington State Young Republicans
 * Enrique Rico - Washington State Young Republicans
-* Bob Runnells
-* Larry Fetter - Park Partners LLC
-* mike johnson - no, individual
 * Hailey Irvine
 * Sandra Mochizuki
-* thomas Grauer
+* mike johnson - no, individual
 * Angela Dye
-* Natalie Chavez
 * Tanya Goodman
+* thomas Grauer
+* Natalie Chavez
 * Makiah Hunnicutt
+* Theresa Caron
+* Coya Erickson
+* Kory Slaatthaug
+* Chuck Gades
+* Michael Williams
+* Judy ann Williams
+* Nanette Gemmer
+* Colleen Wise
+* Maurya Broadsword
+* Deborah Bowen
+* Barbara Connelly - FR
+* Patricia Keene - NO
+* Michelle Andres - legal citizen/legal voter/tax payer
+* Brian Keene - NO
+* Michelle Cuykendall
+* Susan Ward
+* Michelle Haneberg
+* Karen Roberts
+* Shari Stremler
+* Linda Jennings
+* Regina Kegley
 * Beth Ensley
 * Kathleen Fitzpatrick
 * TaraLyn Fray
@@ -85,42 +106,21 @@ Testifying:
 * sandy rozumny - None
 * Christine Thurman
 * Coya Erickson
-* Coya Erickson
-* Kory Slaatthaug
 * Kory Slaatthaug
 * Denise Baker
-* Chuck Gades
 * Delbert Burke
 * Candace Moore
-* Michael Williams
-* Judy ann Williams
-* Nanette Gemmer
-* Colleen Wise
-* Maurya Broadsword
-* Deborah Bowen
-* Barbara Connelly - FR
-* Patricia Keene - NO
-* Michelle Andres - legal citizen/legal voter/tax payer
-* Brian Keene - NO
 * Kristie Minkoff
-* Michelle Cuykendall
-* Susan Ward
-* Michelle Haneberg
-* Karen Roberts
-* Theresa Caron
-* Shari Stremler
-* Linda Jennings
-* Regina Kegley
 * Sandra Mochizuki
-* Carol Griswold-Bacigalupi - your BOSS, NEIGHBOR please LISTEN
-* Linda Germick
 * LAURA GAHAN - retired
 * tod kimpe
 * Richard Weiss
-* Sandra Brock
-* Marla Alexander
 * Linda Hisey
 * SCOTT BOE
+* Carol Griswold-Bacigalupi - your BOSS, NEIGHBOR please LISTEN
+* Linda Germick
+* Sandra Brock
+* Marla Alexander
 * Janice Anderson
 * Dwight Tizzard
 
@@ -141,60 +141,61 @@ Testifying:
 
 #### 10105 👎 - Con
 Testifying:
-* Nicholas Parks
-* Dana Eagle - I am testifying on the behalf of humanity.
 * John Morgan
 * Becky Musson
 * Lesleyann Pedro
-* Leah Houser
+* Nicholas Parks
+* Dana Eagle - I am testifying on the behalf of humanity.
 * Djaudee Cipres
-* Amanda Bakker
-* Dan Ritchie
-* Bob Runnells - Informed Choice Washington
-* Trudy Stensland
-* Nathan Smith
+* Leah Houser
 * Joseph Bills
 * Steve Forsberg
 * Tasha Raub
-* Michael Olejniczak
 * Laurie Layne
 * Patricia B Cox Cox
 * Erin Rice
 * Angela Mae Anecito
 * Lisa Templeton - Informed Choice Washington
-* Molly Winters
 * Jimmy Ranson
 * Arry Yu
 * Naomi Benton - 13363 202nd Ave SE
 * Stephanie Barile
+* Amanda Bakker
+* Dan Ritchie
+* Bob Runnells - Informed Choice Washington
+* Trudy Stensland
+* Nathan Smith
+* Michael Olejniczak
+* Molly Winters
+* Teresa Valentine
+* Zana Carver
+* Teresa Laher
+* Tonya Hickman
+* Cori Henry
+* Margaret Smith
+* Amber Sturchio
 * Gabrielle Taormina - N/a
 * Michael Jolly
 * Seth Mattox
 * Mary H Bethune
 * Mary Gibson
-* Teresa Valentine
 * Melanie Pichler
-* Zana Carver
-* Teresa Laher
 * Heidi Johnson-Sandall
-* Tonya Hickman
 * Marissa Miller
-* Cori Henry
-* Margaret Smith
-* Amber Sturchio
 * Joyce Choe
-* Jennifer Wright
 * Deja Parrent
-* Emily Jensen
 * Alexa Street
-* David Hall
 * Janell Hulst
-* Steve Leombruno
 * Scott Halfacre
 * Brandie Bills
 * Kali Sanford
-* Natalie Chavez
+* Jennifer Wright
+* Emily Jensen
+* David Hall
+* Steve Leombruno
 * Carol Keister
+* Terry Hodges
+* Natalie Chavez
 * Marnie Ng
 * Courtney Gipson
 * Geneva Frazier
@@ -202,7 +203,6 @@ Testifying:
 * Jodi Dotson
 * Kat Espinda
 * Edward McCorkle
-* Terry Hodges
 * Janell Hulst
 * Donna Helmich
 * Dolores Patrick

@@ -42,8 +42,10 @@ Testifying:
 Testifying:
 * Roger Thomason
 * LoraJo Thorp
-* David Forte - Office of the Insurance Commissioner
 * Pat LePley - Washington State Association for Justice
+* David Forte - Office of the Insurance Commissioner
+* Bradley Vagt
+* Dalton Majestic
 * Jeremiah Gitchel
 * Diane Borth
 * Justin Morgan - JBM Law PLLC
@@ -51,8 +53,6 @@ Testifying:
 * Justin Lewis - Accurate Auto Body
 * Justin Morgan - JBM Law PLLC
 * Micah Strom - Modern collision rebuild & service
-* Bradley Vagt
-* Dalton Majestic
 * Donnie Martin - INDUSTRIAL FINISHES
 
 #### 9 👎 - Con

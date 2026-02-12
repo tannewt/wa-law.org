@@ -10,8 +10,8 @@
 ### Thu 03/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1006 Service contracts
 #### 9 👍 - Pro
 Testifying:
-* Tyler Langford - Office of the Insurance Commissioner
 * Travis Moore - Service Contract Industry Council
+* Tyler Langford - Office of the Insurance Commissioner
 
 #### 1 👎 - Con
 Testifying:

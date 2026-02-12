@@ -15,7 +15,6 @@
 ### Mon 01/27 04:00 PM - Appropriations (APP): HB 1116 Election day
 #### 565 👍 - Pro
 Testifying:
-* Joe Kunzler
 * Jonathan Pan - Lake Washington High School
 
 #### 5 👎 - Con

@@ -16,13 +16,13 @@
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5528 Transp. electrification
 #### 194 👍 - Pro
 Testifying:
-* Peter Hasegawa - IBEW Local 46
-* 💵Matthew Hepner - IBEW/ceww
 * Anthony Geren - Licensed Journey-level Electrician
 * Bernie Kotlier - International Co-Chair, EVITP
 * 💵Christine Reid - IBEW Local 77
 * 💵Nicole Grant - IBEW Local 46
 * Vernon Counsellor II - Ozz Electric WA Inc.
+* Peter Hasegawa - IBEW Local 46
+* 💵Matthew Hepner - IBEW/ceww
 
 #### 609 👎 - Con
 Testifying:
@@ -35,12 +35,12 @@ Testifying:
 ### Mon 02/03 10:30 AM - Labor & Commerce (LC): SB 5528 Transp. electrification
 #### 112 👍 - Pro
 Testifying:
+* Vernon Counsellor - Ozz Electric
 * Anthony Geren
 * 💵Christine Reid - IBEW Local 77
 * Mark Davis
 * NICOLE M GRANT - IBEW Local 46
 * Ryan Bradt - Puget Sound Electrical Joint Apprenticeship Training Council
-* Vernon Counsellor - Ozz Electric
 * Vernon Counsellor - Ozz Electric
 
 #### 26 👎 - Con

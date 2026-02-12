@@ -32,9 +32,9 @@
 #### 131 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * Cathy Murahashi - The Arc of Washington
 * Jen Chong Jewell
-* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * 💵Stacy Dym - The Arc of WA
 * Kathy McDonald
 * Preston Dwoskin
@@ -42,8 +42,8 @@ Testifying:
 #### 558 👎 - Con
 Testifying:
 * TaraLyn Fray
-* Sandra Mochizuki
 * RICHARD STABLER
+* Sandra Mochizuki
 
 #### 1 ❓ - Other
 Testifying:
@@ -53,10 +53,10 @@ Testifying:
 #### 223 👍 - Pro
 Testifying:
 * JAMES Derouin jr
-* Annalisa Lembo
 * 💵Arzu Forough - Washington Autism Alliance
 * Cathy Murahashi - The Arc of Washington
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Annalisa Lembo
 * Emma Kohl
 * Kathy McDonald - none
 
@@ -73,8 +73,8 @@ Testifying:
 #### 108 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
-* Jen Chong Jewell
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Jen Chong Jewell
 
 #### 5 👎 - Con
 
@@ -83,16 +83,16 @@ Testifying:
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5253 Special education services
 #### 183 👍 - Pro
 Testifying:
+* Richard Pope - Parent of Special Education Student "Aging Out" This Week
 * Tania May - Office of Superintendent of Public Instruction
 * 💵Alex Hur - Communities in Schools of Washington
-* Richard Pope - Parent of Special Education Student "Aging Out" This Week
 * Chitra Iyer - Washington State Association of School Psychologists
 * Tara Wilson
 * Amy Cannava - Washington State Association of School Psychologists
 * DeeAnna Maughan
+* Kathy McDonald - none
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 * PATRICK HUSTING
-* Kathy McDonald - none
 * Leonard Salas - Open doors for Multicultural Families
 
 #### 377 👎 - Con

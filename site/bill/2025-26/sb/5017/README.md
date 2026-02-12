@@ -28,8 +28,8 @@ Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Sandra Mochizuki
 * Lorilee Gates
-* Jaimee Saling
 * Annetta Hermes
+* Jaimee Saling
 * Lauren Colas
 
 #### 3 ❓ - Other
@@ -40,10 +40,10 @@ Testifying:
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5017 Uniformed & overseas voting
 #### 21 👍 - Pro
 Testifying:
-* Mary Hall - Thurston County Auditor
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
-* Linda Farmer - WSACA Legislative Co Chair
+* Mary Hall - Thurston County Auditor
 * Lindsay Beaver - Uniform Law Commission
+* Linda Farmer - WSACA Legislative Co Chair
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 270 👎 - Con

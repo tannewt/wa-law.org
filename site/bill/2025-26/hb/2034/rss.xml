@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2034/</link>
 		<description>Updates about HB 2034</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -32,22 +32,6 @@
 			<guid isPermaLink="false">testifier/Michael/Duchemin/2025-03-09 12:43:58</guid>
 		</item>
 		<item>
-			<title>❓David Maehren - Association of Washington Cities</title>
-			<description>David Maehren signed up to testify Other.</description>
-			<pubDate>Wed, 12 Mar 2025 01:59:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/David/Maehren/2025-03-12 01:59:57</guid>
-		</item>
-		<item>
-			<title>❓Fran Grant - Retired Public Employees Council of Wa</title>
-			<description>Fran Grant signed up to testify Other. They are signed up to represent Retired Public Employees Council of Wa.</description>
-			<pubDate>Wed, 12 Mar 2025 06:38:07 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Fran/Grant/2025-03-12 06:38:07</guid>
-		</item>
-		<item>
 			<title>❓Lisa Won - OSA - available for questions</title>
 			<description>Lisa Won signed up to testify Other. They are signed up to represent OSA - available for questions.</description>
 			<pubDate>Wed, 12 Mar 2025 07:51:25 GMT</pubDate>
@@ -70,6 +54,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Peter/Diedrick/2025-03-12 12:53:14</guid>
+		</item>
+		<item>
+			<title>❓David Maehren - Retired Public Employees Council of WA</title>
+			<description>David Maehren signed up to testify Other.</description>
+			<pubDate>Wed, 12 Mar 2025 13:59:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/David/Maehren/2025-03-12 13:59:57</guid>
+		</item>
+		<item>
+			<title>❓Fran Grant - Retired Public Employees Council of Wa</title>
+			<description>Fran Grant signed up to testify Other. They are signed up to represent Retired Public Employees Council of Wa.</description>
+			<pubDate>Wed, 12 Mar 2025 18:38:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Fran/Grant/2025-03-12 18:38:07</guid>
 		</item>
 		<item>
 			<title>👎💵Joyce Willms - LEOFF1 Coalition</title>
@@ -201,6 +201,13 @@
 			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

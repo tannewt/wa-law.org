@@ -28,6 +28,7 @@
 ### Fri 04/18 08:00 AM - Finance (FIN): HB 2077 Zero-emission vehicle prg.
 #### 53 👍 - Pro
 Testifying:
+* Molly Gallagher - Washington Statewide Poverty Action Network
 * Erica Hall - MomsRising
 * Gwen Goodfellow - SEIU 775
 * Joanna Barnes - [Washington Education Association](/org/washington_education_association/)
@@ -36,7 +37,6 @@ Testifying:
 * 💵Maggie Humphreys - MomsRising
 * Tyler Frank - Washington Education Association/Clark College AHE
 * 💵Matthew Hepner - IBEW/ceww
-* Molly Gallagher - Washington Statewide Poverty Action Network
 
 #### 390 👎 - Con
 Testifying:
@@ -45,13 +45,13 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * Todd Myers - Washington Policy Center
 * Jeff Pack - Washington Citizens Against Unfair Taxes
-* Jeff Gombosky - [Tesla](/org/tesla/)
 * Dakota Manley - Washington state young republicans
+* Jeff Gombosky - [Tesla](/org/tesla/)
 * Anthony Mixer - Washington State Young Republicans
 * Tim Eyman - Initiative Activist
 
 #### 5 ❓ - Other
 Testifying:
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
-* Kate White Tudor - Natural Resources Defense Council
 * 💵Troy Nichols - Rivian
+* Kate White Tudor - Natural Resources Defense Council

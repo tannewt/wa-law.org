@@ -16,15 +16,15 @@
 Testifying:
 * 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
 * John Axtell
+* Jessica Perez - State Board for Community and Technical Colleges
+* Ashley Ramirez - UW Tacoma Students Legislative Liaison
+* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
+* 💵Michelle Carrillo - ASCWU Legislative Liaison
 * Bill Lyne - United Faculty of Washington State
 * Fernando Cortes
 * Jhaydn Steplight
 * Emily Zhuravel - Saint Martins University
 * Josiah Tiblow - Saint Martins University
-* Jessica Perez - State Board for Community and Technical Colleges
-* Ashley Ramirez - UW Tacoma Students Legislative Liaison
-* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
-* 💵Michelle Carrillo - ASCWU Legislative Liaison
 * Alyssa Duncan - Saint Martin’s University
 * Ashley Ramirez - UW Tacoma Student Legislative Liason
 * Daniel Ngoy - Associated Student Government of Bellevue Collge

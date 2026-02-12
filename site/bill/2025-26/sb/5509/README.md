@@ -34,8 +34,8 @@ Testifying:
 * Scott Bonjukian
 * 💵Alex Galeana - Children's Campaign Fund Action
 * Alexis Cortes
-* Alexis Cortes
 * 💵Alex Galeana - Children's Campaign Fund Action
+* Alexis Cortes
 
 #### 0 👎 - Con
 

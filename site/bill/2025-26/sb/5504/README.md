@@ -11,9 +11,9 @@
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5504 Complex care serv./children
 #### 109 👍 - Pro
 Testifying:
+* 💵Catherine Morrison - Maxim Healthcare Services
 * 💵Hanna Jones - MGA Home Care & Team Select Home Care
 * Jamie Thompson - Unpaid Parent Caregiver
-* 💵Catherine Morrison - Maxim Healthcare Services
 
 #### 1 👎 - Con
 
@@ -27,12 +27,12 @@ Testifying:
 * Jamie Thompson - Un-paid Parent Caregiver
 * 💵Hanna Jones - MGA Home Care & Team Select Home Care
 * Leslie Elder
-* Lindsey Topping-Schuetz
-* Jacqueline Flores - MGA Homecare
 * ken venisnik
 * Amanda Striegl
 * Brandi Coon
 * Leslie Hubbard - MGA Homecare
+* Lindsey Topping-Schuetz
+* Jacqueline Flores - MGA Homecare
 * Ken Venisnik - MGA Homecare
 
 #### 1 👎 - Con

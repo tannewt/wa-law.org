@@ -18,8 +18,8 @@
 ### Mon 03/17 01:30 PM - Education (ED): SSB 5193 Remote testing
 #### 193 👍 - Pro
 Testifying:
-* 💵Carolyn Logue - Stride/K12
 * Felicia Kern - Parent of online school student
+* 💵Carolyn Logue - Stride/K12
 * Sana Chaudhary
 
 #### 465 👎 - Con
@@ -33,9 +33,9 @@ Testifying:
 #### 514 👍 - Pro
 Testifying:
 * Felicia Kern - Digital Public Schools Alliance
+* 💵Carolyn Logue - Stride/K12
 * Caitlin Modine - Insight School of Washington
 * Matthew Kesler - River HomeLink
-* 💵Carolyn Logue - Stride/K12
 * 💵Jamie Anderson - parent
 
 #### 28 👎 - Con

@@ -14,16 +14,16 @@
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5601 Alternative jet fuels
 #### 141 👍 - Pro
 Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
 * Andy Billig
 * John Plaza
-* 💵Isaac Kastama - Clean & Prosperous Washington
-* Joshua Marcy - Snohomish County
-* 💵Donny Donovan - IAM 751
-* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * 💵Cassie Bordelon - [Climate Jobs Washington](/org/climate_jobs_washington/)
 * 💵Heather Kurtenbach - WA Building & Construction Trades Council
 * 💵Neil Hartman - WA State Association of UA Plumbers, Pipefitters and HVAC/R Service Technicians
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Joshua Marcy - Snohomish County
+* 💵Donny Donovan - IAM 751
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * Yanni Psareas - The Coalition for Renewable Natural Gas
 * 💵Dave Warren - [Twelve](/org/twelve/)
 
@@ -41,12 +41,12 @@ Testifying:
 #### 50 👍 - Pro
 Testifying:
 * John Plaza - SkyNRG Americas
-* 💵Isaac Kastama - Clean & Prosperous Washington
 * Mike Fong - Snohomish County
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
 * Sean Newsum - Airlines for America
 * Derek Phelps - [Twelve](/org/twelve/)
-* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
 * John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Ender Reed - Neste US, Inc.

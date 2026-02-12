@@ -80,19 +80,19 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Thara Johnson - [City of Bellevue](/org/city_of_bellevue/)
 * Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
+* Thara Johnson - [City of Bellevue](/org/city_of_bellevue/)
 
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5148 GMA housing element
 #### 423 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * Michone Preston - Habitat for Humanity of Washington State
-* MARY HULL-DRURY - Washington Realtors
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* MARY HULL-DRURY - Washington Realtors
 
 #### 392 👎 - Con
 Testifying:

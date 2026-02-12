@@ -13,15 +13,15 @@
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * David Simmons - Teamsters Local 760
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 341 👎 - Con
 Testifying:
 * Amy McColm
 * Martina Morris - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
-* Kurtis Robinson - WA Coalition for Police Accountability
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
+* Kurtis Robinson - WA Coalition for Police Accountability
 * Annalesa Thomas - WA Coalition for Police Accountability
 * Eliana Machefsky - National Police Accountability Project (NPAP)
 * Debbie Novak - WA Coalition for Police Accountability

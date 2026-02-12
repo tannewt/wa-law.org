@@ -15,18 +15,24 @@
 
 ## Meetings
 ### Tue 04/01 08:00 AM - Capital Budget (CB): PSHB 1216 - Concerning the capital budget. (Remote Testimony Available).
-#### 86 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * 💵Karina Patel - The Tubman Center for Health and Freedom
 * 💵Mitch Denning - Alliance of Educational Associations
 * Joe Vessey - community health center of snohomish county
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 * SuYoung Yun - APIC WA
 * Dave Gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
-* Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 * Seth Muir - Sail Sand Point
-* BILL LEDREW - FRIENDS OF LOPEZ ISLAND POOL (FLIP)
 * Kate Weiman - West Sound Technical School
+* BILL LEDREW - FRIENDS OF LOPEZ ISLAND POOL (FLIP)
 * Steven Ginsburg - Port Angeles Waterfront Center
+* Brooke Taylor - Port Angeles Waterfront Center
+* Jill Sheley - Jamie's Place
+* Jill Sheley - Jamie's Place
+* Kim Reynolds - Port Angeles Waterfront Center
+* Peter Cameron - Multicultural Child and Family Hope Center
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Brad Banks - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
@@ -48,15 +54,10 @@ Testifying:
 * Brian Freeman - Inchelium School District #70
 * Karen Allen - The Institute for Washington's Future
 * Michone Preston - Habitat for Humanity of Washington State
-* Brooke Taylor - Port Angeles Waterfront Center
 * Hunter George - Washington Recreation and Park Association
 * Khurshida Begum - ASHHO Cultural Community Center
 * Tara Tamaribuchi - Seattle Betsuin Buddhist Temple
-* Jill Sheley - Jamie's Place
-* Jill Sheley - Jamie's Place
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
-* Kim Reynolds - Port Angeles Waterfront Center
-* Peter Cameron - Multicultural Child and Family Hope Center
 
 #### 103 👎 - Con
 Testifying:
@@ -73,8 +74,9 @@ Testifying:
 * Dennis Olsen - Stella-Jones
 * 💵Heath Heikkila - American Forest Resource Council
 
-#### 63 ❓ - Other
+#### 62 ❓ - Other
 Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Erica Hallock - Start Early Washington
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Caroline Villanova - Mountains to Sound Greenway Trust
@@ -82,10 +84,11 @@ Testifying:
 * 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
 * Kathryn Gardow - Chair, Public Works Board
 * Tyson Johnston - Council, Quinault Indian Nation
-* 💵Michele Thomas - Washington Low Income Housing Alliance
-* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Rachel Downes - [Housing Hope](/org/housing_hope/)
 * Sherry Williams - HealthPoint (VP of Community Relations)
+* Wade Smith - Superintendent, Walla Walla Public Schools
+* Shani Watkins - West Sound Tech
+* Shannon Thompson - West Sound Tech
 * Emanuel Escalante - West Sound Tech
 * Hunter Hoerer - West Sound Tech
 * Shani Watkins - West Sound Tech
@@ -93,11 +96,13 @@ Testifying:
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * Daniel Hoult - Outdoor Discovery Project
 * Chris Chappell - Washington Wild
-* Wade Smith - Superintendent, Walla Walla Public Schools
-* Shani Watkins - West Sound Tech
-* Shannon Thompson - West Sound Tech
 * Charlie Brown - WA Skills Center Directors
 * Mark Finney
+* Ginger Ewing - Terrain Spokane
+* Mike Gonzalez
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* Rachael Myers - Washington Low Income Housing Alliance
 * Drayton Jackson - The communities of Concern Commission
 * 💵Kenny Pittman - Communities of Concern Commission
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
@@ -107,11 +112,9 @@ Testifying:
 * Jim Mulick - Edmonds Community College
 * Henry Cagey - Mother Nation
 * Jennifer Kidder - NatureBridge; WA Outdoor School Coalition
-* Ginger Ewing - Terrain Spokane
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
 * Traci Furutani - City of Lake Forest Park, Councilmember
 * Carston Curd - City of Bothell Councilmember
-* Mike Gonzalez
 * Sean Hopps - Communities of Concern Commission (board member)
 * Gary Stoyka - Whatcom County
 * Megan Larkin - [Climate Solutions](/org/climate_solutions/)
@@ -122,49 +125,46 @@ Testifying:
 * 💵Ian Goodhew - Airlift Northwest-UW Medicine
 * Chris Herman - Washington Public Ports Asociation
 * Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
-* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Scott Richards - WA Public Utility Districts Association
 * 💵Connor Haggerty - Washington State University
 * Andy Hamilton - [City of Kelso](/org/city_of_kelso/)
 * James Losee - [Wild Salmon Center](/org/wild_salmon_center/)
 * Scott Korthuis - City of Lynden, Mayor
-* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Kyla Shkerich Blair - [Columbia Basin Development League](/org/columbia_basin_development_league/)
-* Rachael Myers - Washington Low Income Housing Alliance
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * w. Jay Gordon - Washington state dairy federation
 * Don Vanderholm - Lind-Ritzville Cooperative School
 * Pat Haley - [City of Quincy](/org/city_of_quincy/)
 * 💵Michael Transue - LeMay - America's Car Museum
 * Joe McDermott - State Relations Director | King County
 * Lily Wilson-Codega - Weld WA
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
 #### 45 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
-* 💵Erica Hallock - Start Early WA
-* Julie German-Murrey - Rosalie Murrey Memorial Foundation
-* Mary McDonald - Community Child Care Center
-* Jim Chambers - WELD Seattle
-* ANNA LOIS FULLER - Friends of Lopez Island Pool (FLIP)
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Darrell Jennings - State Board for Community and Technical Colleges
 * Dr. Amit Singh - Edmonds College
 * Jacob Jackson - Renton Technical College
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Lua Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
+* 💵Erica Hallock - Start Early WA
+* Julie German-Murrey - Rosalie Murrey Memorial Foundation
+* Mary McDonald - Community Child Care Center
+* Jim Chambers - WELD Seattle
+* ANNA LOIS FULLER - Friends of Lopez Island Pool (FLIP)
 * Mary Connolly - South Sound Housing Affordability Partners
+* Lua Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
 * Hend Alhinnawi - Muslim Association of Puget Sound (MAPS)
-* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Wes Jessup - Executive Director - Eastern Washington State Historical Society (EWSHS)
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Patience M Malaba - HDC
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
-* 💵Connor Haggerty - Washington State University
 * Ryan Nickels - West Sound Technical Skills Center
 * Jason Berry - [Junior Achievement of Washington](/org/junior_achievement_of_washington/)
+* 💵Connor Haggerty - Washington State University
 * 💵Michele Thomas - WA Low Income Housing Alliance
 * Scott Richards - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * 💵Mitch Denning - Alliance of Educational Associations
@@ -183,32 +183,32 @@ Testifying:
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* Bill Adamson - South Sound Military & Communities Partnership
 * Caroline Villanova - Mountains to Sound Greenway Trust
 * Jordan Rash - Backcountry Hunters and Anglers
 * 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
+* Bill Adamson - South Sound Military & Communities Partnership
 * Jim CastroLang - [Thrive International](/org/thrive_international/)
 * Erin McCardle - [City of Chelan](/org/city_of_chelan/)
 * Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)
 * Kris Robbins - Lind-Ritzville Cooperative Schools
 * Jon Erickson - [Columbia Basin Development League](/org/columbia_basin_development_league/)
+* Jen Burbidge
 * Patrick Arney - [Weld Seattle](/org/weld_seattle/)
 * Dan Ford - [City of Toppenish](/org/city_of_toppenish/)
-* Jen Burbidge
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * DAVID DEMARCO - EVERETT FIRE DEPARTMENT
 * Jesse Simpson - Housing Development Consortium
 * 💵Nora Selander - Western Washington University
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Shaylee Stokes - The Energy Project
+* 💵Axel Swanson - Washington State Association of County Engineers
+* John Wolfe - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Kristin Ang - The Port of Tacoma
 * Daniel Hoult - Outdoor Discovery Project
 * Joe Kane - Nisqually Community Forest
 * Monica Montgomery - Great Peninsula Conservancy
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * David Buri - Eastern Washington University
-* 💵Axel Swanson - Washington State Association of County Engineers
-* John Wolfe - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
-* 💵Kristin Ang - The Port of Tacoma
 * Elvia Perez - Firelands
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Shaylee Stokes - The Energy Project

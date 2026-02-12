@@ -16,14 +16,14 @@
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Sandra Shanahan - KCPAO RDVFEU
-* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Kimberly Wyatt - King County Prosecuting Attorney's Office
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 550 👎 - Con
 Testifying:
+* Ronald Mochizuki
+* Ronald Mochizuki
 * TaraLyn Fray
-* Ronald Mochizuki
-* Ronald Mochizuki
 * Teresa Sanders
 * Anthony Holan
 

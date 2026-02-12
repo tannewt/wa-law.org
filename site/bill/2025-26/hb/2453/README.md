@@ -12,11 +12,11 @@
 Testifying:
 * Aubrie Duke
 * Laura Powers - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
+* Mark Bradshaw - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
+* Courtney Hesla - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
 * Alan Kearns - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
 * Jenny Arnold - Washington State Pharmacy Association
 * 💵Aya Samman - [Fourfront Contributor](/org/fourfront_contributor/)
-* Mark Bradshaw - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
-* Courtney Hesla - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
 
 #### 4 👎 - Con
 Testifying:

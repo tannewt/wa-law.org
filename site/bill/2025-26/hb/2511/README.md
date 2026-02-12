@@ -20,8 +20,8 @@ Testifying:
 * Christian Rivera Salas
 * Adrienne McKinley
 * Esveidi Nunez
-* Amy Parks
 * Anna Burt
+* Amy Parks
 * Angela Kraemer
 * Christina Faucett
 * Jamie Williams - Fostering Change WA
@@ -32,12 +32,12 @@ Testifying:
 
 #### 37 👎 - Con
 Testifying:
-* Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Kathy Elkins
-* Darrell Cochran - Washington State Association for Justice
-* Pier Petersen - Parents' Representation Project Contract Attorney
+* Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Kim Justice - Partners for Our Children
 * Marci Comeau - Managing Attorney, Washington State Office of Public Defense
+* Darrell Cochran - Washington State Association for Justice
+* Pier Petersen - Parents' Representation Project Contract Attorney
 * Kate Benward - King County Department of Public Defense
 
 #### 8 ❓ - Other

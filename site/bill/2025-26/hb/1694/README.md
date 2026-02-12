@@ -11,9 +11,9 @@
 #### 22 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Ariana Sherlock - Councilmember, City of Newcastle
 * Scott Pingel - City Manager, Newcastle
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Colleen Meiners - [City of Moses Lake](/org/city_of_moses_lake/)
 
 #### 552 👎 - Con

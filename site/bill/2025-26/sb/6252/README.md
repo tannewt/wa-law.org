@@ -14,9 +14,9 @@
 #### 289 👍 - Pro
 Testifying:
 * Amir Mehr
+* Holden Ringer - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Arron Randhawa
 * Ellen Menshew
-* Holden Ringer - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
 #### 299 👎 - Con
 

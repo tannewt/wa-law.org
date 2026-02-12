@@ -16,8 +16,8 @@
 #### 46 👍 - Pro
 Testifying:
 * Teodorin Morca
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Brett Gailey - [City of Lake Stevens](/org/city_of_lake_stevens/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
 
 #### 12 👎 - Con

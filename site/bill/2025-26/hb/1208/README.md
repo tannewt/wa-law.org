@@ -11,8 +11,8 @@
 #### 29 👍 - Pro
 Testifying:
 * Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
-* Sean Eagan - The Port of Tacoma
 * Matt Curtis - WDFW
+* Sean Eagan - The Port of Tacoma
 
 #### 11 👎 - Con
 Testifying:
@@ -23,9 +23,9 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
-* Ron Wesen - [Skagit County](/org/skagit_county/)
-* Samantha Weinstein - Department of Ecology
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
-* Don Gourlie - Puget Sound Partnership
 * Peter Browning - [Skagit County](/org/skagit_county/)
 * Will Honea - [Skagit County](/org/skagit_county/)
+* Ron Wesen - [Skagit County](/org/skagit_county/)
+* Samantha Weinstein - Department of Ecology
+* Don Gourlie - Puget Sound Partnership

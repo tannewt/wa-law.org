@@ -11,8 +11,8 @@
 #### 30 👍 - Pro
 Testifying:
 * 💵Steve Brooks - Washington Fire Chiefs
-* Andrew Schaffran - Washington State Fire Fighters' Association
 * 💵Nicholas Gullickson - Washington State Council of Firefighters
+* Andrew Schaffran - Washington State Fire Fighters' Association
 
 #### 0 👎 - Con
 
@@ -24,8 +24,8 @@ Testifying:
 * Dave Kokot - WA State Association of Fire Marshals
 * Leonard Johnson - 125 Delphi Road NW
 * 💵Steve Brooks - Washington Fire Chiefs
-* ryan spiller - WA Fire Commissioners
 * Fire Chief Harold Scoggins - City of Seattle Fire Department
+* ryan spiller - WA Fire Commissioners
 * John Linboe - WFCA
 * 💵Nicholas Gullickson - Washington State Council of Firefighters
 

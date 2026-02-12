@@ -22,6 +22,9 @@
 #### 954 👍 - Pro
 Testifying:
 * Rebecca Thomas - Glass Packaging Institute
+* Anusha Bharadvaj
+* Isabelle Hepler
+* Paige Christensen
 * Scott DeFife - Glass Packaging Institute
 * Francisco Castillo - Diageo North America
 * Sid Shirodkar - Seattle Aquarium / Zero Waste Washington
@@ -36,9 +39,6 @@ Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * Francisco Castillo - [Diageo](/org/diageo/)
 * Cliff Traisman - Environmental Priorities Coalition
-* Anusha Bharadvaj
-* Isabelle Hepler
-* Paige Christensen
 * Linus Darvas
 
 #### 1505 👎 - Con
@@ -47,20 +47,20 @@ Testifying:
 * 💵Jay Balasbas - Sunshine Disposal, Basin Disposal, Consolidated Disposal Services, Inc.
 * 💵Lyset Cadena - Waste Management
 * 💵Nick Streuli - Washington Refuse and Recycling Association
-* Walter McFadden
 * 💵Jennifer Ziegler - Sanitary Service Company
-* Anthony Mixer - Citizen Volunteer Lobbyist
+* Walter McFadden
 * Stephanie Draszt
-* Alissa Campbell - Recology King County
+* Anthony Mixer - Citizen Volunteer Lobbyist
 * Timi Weathers
 * Rick Vahl - Waste Connections
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Brandon Houskeeper - NW Grocery Retail Association
+* Alissa Campbell - Recology King County
 
 #### 4 ❓ - Other
 Testifying:
-* Reggie Camp
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Reggie Camp
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1607 Recycling & waste reduction
@@ -90,10 +90,12 @@ Testifying:
 #### 714 👍 - Pro
 Testifying:
 * Hannah Martinez - Indorama Ventures
-* James Toner - [International Bottled Water Association](/org/international_bottled_water_association/)
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Josh McDonald - Washington Wine Association
 * Maggie Yuse - Seattle Public Utilities
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Peter Steelquiest - Surfrider
+* James Toner - [International Bottled Water Association](/org/international_bottled_water_association/)
 * Liz Donohue - Primo Brands
 * 💵Megan Lane - Coalition for High Performance Recycling
 * Scott DeFife - Glass Packaging Institute
@@ -103,8 +105,6 @@ Testifying:
 * Kate Bailey - Association for Plastic Recyclers
 * Sydney Harris - [Upstream](/org/upstream/)
 * Taylor Cass Talbott - GroundScore
-* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Peter Steelquiest - Surfrider
 * Nora Palattao Burnes - WA Beer and Wine Distributors Association
 * Curt Wells - The Aluminum Association - representing the US aluminum industry
 * Chris Brown - Pierce County Sustainable Resources
@@ -115,9 +115,9 @@ Testifying:
 
 #### 180 👎 - Con
 Testifying:
+* 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * Brian Coddington - Sunshine Disposal & Recycling
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
@@ -128,8 +128,8 @@ Testifying:
 
 #### 5 ❓ - Other
 Testifying:
-* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 * 💵Brandon Houskeeper - NW Grocery Retail Assoc.

@@ -56,7 +56,6 @@
 ### [HB 2266](/bill/2025-26/hb/2266/) - Supportive & emerg. housing 👍1  
 
 ### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
-* ❓💵 Charles Smith
 
 ### [HB 2297](/bill/2025-26/hb/2297/) - Grocery store incentives 👍1  
 

@@ -28,8 +28,8 @@ Testifying:
 #### 794 👎 - Con
 Testifying:
 * TaraLyn Fray
-* Anthony Mixer - Washington State Young Republicans
 * Sandra Mochizuki
+* Anthony Mixer - Washington State Young Republicans
 * Judy Hall
 
 #### 1 ❓ - Other
@@ -48,9 +48,9 @@ Testifying:
 Testifying:
 * Sandra Mochizuki
 * TaraLyn Fray
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 * Sharon Damoff
 * Teresa Sanders
-* Jeff Pack - Washington Citizens Against Unfair Taxes
 * Anthony Holan
 
 #### 1 ❓ - Other
@@ -60,12 +60,12 @@ Testifying:
 ### Fri 03/14 08:00 AM - State Government & Tribal Relations (SGOV): SB 5077 Agency voter registration
 #### 632 👍 - Pro
 Testifying:
-* 💵Denisse Guerrero - Washington Community Alliance
 * 💵Anthony Blankenship - Free The Vote WA
 * Raymond Williams - Just Us Solutions
 * Lai King - Pacific Islander Health Board
-* 💵Alex Alston - WA Voting Justice Coalition
+* 💵Denisse Guerrero - Washington Community Alliance
 * Jess Unger - Institute for Responsive Government
+* 💵Alex Alston - WA Voting Justice Coalition
 
 #### 1954 👎 - Con
 Testifying:
@@ -89,8 +89,8 @@ Testifying:
 * Raymond Williams - Just Us Solutions
 * Hailey Wu - Asian Counseling and Referral Services
 * Abigail Leong
-* 💵Giovanni Severino
 * Lai King
+* 💵Giovanni Severino
 * 💵Alex Tischenko - Institute for Responsive Government
 * 💵Alex Alston - WA Voting Justice Coalition
 

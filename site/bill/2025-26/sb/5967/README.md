@@ -22,10 +22,15 @@ Testifying:
 * Patty Kuderer - Washington State Insurance Commissioner
 * Beth Ebel - Immediate past President, WCAAP
 * Cora Breuner - WCAAP
-* Cathy MacCaul - AARP Washington
 * Cora Breuner - Seattle Childrens
-* Dr. Katina Rue - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
 * Robin Wulff
+* Cathy MacCaul - AARP Washington
+* Dr. Katina Rue - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
+* Cora Breuner - Washington Chapter of the American Academy of Pediatrics
+* Beth Ebel - Washington Chapter of the American Academy of Pediatrics
+* Nina Gummadi - Washington Chapter of the American Academy of Pediatrics
+* Madeline Wozniak - Washington Chapter of the American Academy of Pediatrics
 * Jon Almquist - Washington Chapter of the American Academy of Pediatrics
 * Dr. Beth Harvey - WA Chapter American Academy of Pediatrics
 * Dr. Helen Chu - UW Medicine
@@ -34,11 +39,6 @@ Testifying:
 * Dr. Matt Logalbo - Seattle Roots
 * Dr. Sandra Valenciano - Public Health Seattle-King County
 * 💵Jaime Bodden - WSALPHO
-* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
-* Cora Breuner - Washington Chapter of the American Academy of Pediatrics
-* Beth Ebel - Washington Chapter of the American Academy of Pediatrics
-* Nina Gummadi - Washington Chapter of the American Academy of Pediatrics
-* Madeline Wozniak - Washington Chapter of the American Academy of Pediatrics
 
 #### 1792 👎 - Con
 Testifying:

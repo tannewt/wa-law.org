@@ -21,8 +21,8 @@
 ### Fri 03/14 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5501 Employee driving requirement
 #### 527 👍 - Pro
 Testifying:
-* 💵Bryce Yadon - Disability Rights WA
 * John Lemus - AtWork!
+* 💵Bryce Yadon - Disability Rights WA
 
 #### 627 👎 - Con
 Testifying:
@@ -32,8 +32,8 @@ Testifying:
 Testifying:
 * Emilie Robertson - Arch of wa
 * Mike Ennis - Building Industry Association of Washington (BIAW), Washington Trucking Associations (WTA)
-* 💵Amber Carter - WA Retail Association
 * 💵Patrick Connor - NFIB
+* 💵Amber Carter - WA Retail Association
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)
 
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5501 Employee driving requirement
@@ -48,8 +48,8 @@ Testifying:
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Gundersen - WA Retail Association
-* Janel Black - Unlimited Service
 * christy hutchinson - West Richland Auto repair
+* Janel Black - Unlimited Service
 
 #### 2 ❓ - Other
 Testifying:

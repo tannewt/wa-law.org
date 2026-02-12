@@ -15,8 +15,8 @@ Testifying:
 * DARCY HUFFMAN - [Community Employment Alliance](/org/community_employment_alliance/)
 * Autumn Cutter - [Bellevue School District](/org/bellevue_school_district/)
 * Tania May - Office of Superintendent of Public Instruction
-* 💵Shawn Latham - Self Advocates In Leadership
 * Naomi Snow
+* 💵Shawn Latham - Self Advocates In Leadership
 
 #### 1 👎 - Con
 
@@ -28,9 +28,9 @@ Testifying:
 * DARCY HUFFMAN - community employment alliance
 * John Lemus
 * Rebekah Fuss - Selah School District - Selah Transition Education Program
-* 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 * 💵Vicki Christophersen - [Northwest Center](/org/northwest_center/)
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
+* 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 * Tania May - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con

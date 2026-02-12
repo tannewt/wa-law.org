@@ -10,12 +10,12 @@
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5497 Housing & shelters
 #### 476 👍 - Pro
 Testifying:
-* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
+* Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* Elizabeth Archambault
 * Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Elizabeth Archambault
 * Charles Schaefer
 
 #### 66 👎 - Con

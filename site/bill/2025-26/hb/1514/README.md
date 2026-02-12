@@ -33,8 +33,8 @@ Testifying:
 
 #### 557 👎 - Con
 Testifying:
-* Liza Simmonds
 * TaraLyn Fray
+* Liza Simmonds
 
 #### 0 ❓ - Other
 
@@ -52,10 +52,10 @@ Testifying:
 #### 77 👍 - Pro
 Testifying:
 * 💵Laura Feinstein - [Sightline Institute](/org/sightline_institute/)
-* Clarence Clipper - Corix
 * Michael Hogan - [Port of Bellingham](/org/port_of_bellingham/)
 * Brian Gouran - Port of Bellingham`
 * Bonnie Frye Hemphill - UMC, Inc.
+* Clarence Clipper - Corix
 
 #### 44 👎 - Con
 

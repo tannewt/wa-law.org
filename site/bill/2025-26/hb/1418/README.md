@@ -24,9 +24,9 @@ Testifying:
 * Erik Lowe - Spokane Reimagined
 * CONSTANCE OHANA - PFLAG Bellingham/Whatcom County
 * Clark Gilman - Former chair, Intercity Transit Authority
+* Saunatina Sanchez
 * 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
 * Judy Jones
-* Saunatina Sanchez
 
 #### 613 👎 - Con
 Testifying:

@@ -16,8 +16,8 @@
 ### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2200 DD residential settings data
 #### 101 👍 - Pro
 Testifying:
-* Mike Yestramski - AFSCME Council 28/Washington Federation of State Employees (WFSE)
 * 💵Chloe Merino
+* Mike Yestramski - AFSCME Council 28/Washington Federation of State Employees (WFSE)
 * Karina Tharge
 
 #### 0 👎 - Con

@@ -25,8 +25,8 @@ Testifying:
 
 #### 269 👎 - Con
 Testifying:
-* Loni Simone
 * Asenith M Herbert Hill
+* Loni Simone
 * LaRae Richards
 
 #### 0 ❓ - Other

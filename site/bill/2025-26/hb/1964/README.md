@@ -17,8 +17,8 @@ Testifying:
 #### 1188 👎 - Con
 Testifying:
 * Richard Varn - Coalition for Sensible Public Records Access
-* Katherine George
 * Colette Weeks - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Katherine George
 * Anthony Holan
 * Anthony Stockman
 

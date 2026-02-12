@@ -29,15 +29,15 @@ Testifying:
 
 #### 18 ❓ - Other
 Testifying:
-* Trina Hall - Ferndale School District
 * Wade Smith - Walla Walla Public Schools
+* Trina Hall - Ferndale School District
 * James Everett - Meridian School District
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* Valisa Smith - Start Early Washington
+* 💵Chris Korsmo - Washington State Charter Schools Association
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Jim Kowalkowski - Rural Education Center
 * Larry Bassett - Parent
-* Valisa Smith - Start Early Washington
-* 💵Chris Korsmo - Washington State Charter Schools Association
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Sara Hausken - Quincy School District
 * Jenna Borkoski - Learning Care Group

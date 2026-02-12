@@ -13,8 +13,8 @@
 ### Wed 01/22 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1298 Student athlete insurance
 #### 12 👍 - Pro
 Testifying:
-* Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Erin O'Connell - Deputy Athletic Director & COO, UW Athletics
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Michael Dillon - Sr. Assoc. Athletic Director – Health & Performance - University of Washington
 * Chris Mulick - Washington State University
 * Jonell Peterson - Washington State University

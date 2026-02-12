@@ -17,9 +17,9 @@ Testifying:
 * Thomas White - Climate Rail Alliance / Rail Can't Wait Coalition
 * Charles Hamilton - [All Aboard Washington](/org/all_aboard_washington/)
 * Gary Wirt - [All Aboard Washington](/org/all_aboard_washington/)
+* Tim Gould
 * 💵Shawn Latham - Self Advocates In Leadership
 * 💵Trevor Sandison - [Community Employment Alliance](/org/community_employment_alliance/)
-* Tim Gould
 
 #### 48 👎 - Con
 

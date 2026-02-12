@@ -23,9 +23,9 @@ Testifying:
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
 * Caitlin Sullivan
 * Emilie Robertson - Arch of wa
-* 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
 
 #### 722 👎 - Con
 Testifying:
@@ -34,8 +34,8 @@ Testifying:
 * Chris Mefford
 * TaraLyn Fray
 * Sean Lynn - Love Leavenworth Vacation Rentals
-* Halle McElrea
 * Sandra Mochizuki
+* Halle McElrea
 
 #### 0 ❓ - Other
 
@@ -43,18 +43,18 @@ Testifying:
 #### 105 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
+* Councilmember Lindsey Schromen-Wawrin
 * Judy Lightfoot
 * Caitlin Sullivan
 * Laurel Cripe
 * Caitlin Sullivan
-* Councilmember Lindsey Schromen-Wawrin
 * Barbara Rossing - Faith Lutheran Church
-* Zeke Reister - resident of Leavenworth
 * Kurt Peterson
-* E John Agnew
 * 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
 * Sarah Dickmeyer - Plymouth Housing
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Zeke Reister - resident of Leavenworth
+* E John Agnew
 
 #### 336 👎 - Con
 Testifying:
@@ -71,6 +71,12 @@ Testifying:
 * Steve Carr
 * Zaida Edmundson
 * Dushyant Khatri
+* Cyndy Matthews - Gorge Sunland PM
+* Heather Cunningham
+* Leslie Hubbard
+* Sean Lynn - Love Leavenworth Vacation Rentals
+* Owen Johnson - Northwestpads.com
+* Yuri Mamchur
 * Maria Neman
 * James McQuillan
 * Brett Faulds
@@ -87,35 +93,29 @@ Testifying:
 * michelle boyle
 * Allison Decker
 * John Leaver
-* Cyndy Matthews - Gorge Sunland PM
-* Heather Cunningham
 * Rachael Ramirez
-* Leslie Hubbard
 * Colin Campbell
 * Donna Davis
-* Sean Lynn - Love Leavenworth Vacation Rentals
-* Owen Johnson - Northwestpads.com
-* Yuri Mamchur
 * Anneka Vossler
 * Warren Newton
 
 #### 3 ❓ - Other
 Testifying:
-* Yohannes Gedlu
 * Jeff Gundersen - CFO/COO, Seabrook Holding Company
 * 💵Troy Nichols - Seabrook Land Company LLC
+* Yohannes Gedlu
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5576 Affordable housing funding
 #### 43 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
 * Caitlin Sullivan
-* Consuelo Echeverria
 * Kurt Peterson
+* Consuelo Echeverria
+* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Barbara Rossing
 * Zeke Reister - resident of Leavenworth
-* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 286 👎 - Con
 Testifying:
@@ -123,11 +123,21 @@ Testifying:
 * Richard Moser - Washington hosts collaborative alliance
 * Allison Moser - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * ROBBIE WRIGHT - Bloomer Estates Vacation Rentals
+* Kimberly Wongwai
 * 💵Jake Mayson - Greater Spokane Inc.
 * Sean Lynn - Founder and CEO of Love Leavenworth Vacation Rentals
 * Thomas McCarthy
-* Katy Cornell
-* Kimberly Wongwai
+* Lisa Evans
+* Craig Sternagel - NA
+* Michelle Larkin
+* Lynne Green
+* Steve Carr
+* Kirsten Evangelista
+* Carolyn Allen - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
+* Donald Ryan - Private citizen
+* James McQuillan
+* Janet Spesock
+* Scott Lawhon
 * Cassy Gilbertson
 * Fritz Feiten
 * Ren Santa
@@ -142,19 +152,8 @@ Testifying:
 * Colin Campbell
 * Sid Bahadur
 * Lien Nguyen
-* Lisa Evans
-* Craig Sternagel - NA
-* Michelle Larkin
-* Lynne Green
-* Steve Carr
-* Kirsten Evangelista
-* Carolyn Allen - [Washington Hosts Collaborative Alliance](/org/washington_hosts_collaborative_alliance/)
 * Sue Ellen White
 * Karim Elmaaroufi
-* Donald Ryan - Private citizen
-* James McQuillan
-* Janet Spesock
-* Scott Lawhon
 * Anthony Holan
 * LISA VIZZINI
 * David Baumgardner

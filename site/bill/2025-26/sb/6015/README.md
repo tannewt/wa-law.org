@@ -27,10 +27,10 @@ Testifying:
 #### 69 👍 - Pro
 Testifying:
 * Michone Preston - Habitat for Humanity of Washington State
-* Deb Flagan - [Hayden Homes](/org/hayden_homes/)
-* Joshua Schaaf - Craft Contracting and Consulting
 * Caitlin Sullivan
 * MATT HUTCHINS - CAST architecture
+* Deb Flagan - [Hayden Homes](/org/hayden_homes/)
+* Joshua Schaaf - Craft Contracting and Consulting
 * Geoff Anderson - AIA Washington Council
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 

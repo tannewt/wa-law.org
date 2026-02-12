@@ -20,9 +20,9 @@
 ### Wed 02/12 04:00 PM - Appropriations (APP): SHB 1195 Housing & shelters
 #### 1600 👍 - Pro
 Testifying:
-* Sarah Dickmeyer - Plymouth Housing
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Joe McDermott - State Relations Director | King County
+* Sarah Dickmeyer - Plymouth Housing
 * 💵Donna Christensen - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 687 👎 - Con
@@ -41,14 +41,14 @@ Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
+* Charles Schaefer
 * Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * Chloe Gale - REACH
 * Joe McDermott - State Relations Director | King County
-* Charles Schaefer
 
 #### 67 👎 - Con
 
 #### 8 ❓ - Other
 Testifying:
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

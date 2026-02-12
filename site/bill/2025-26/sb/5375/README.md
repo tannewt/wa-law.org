@@ -53,24 +53,26 @@
 ### Fri 03/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): SB 5375 Clergy, duty to report abuse
 #### 381 👍 - Pro
 Testifying:
+* Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
 * Colleen Kinerk - Heal Our Church / Clergy Accountability Coalition
 * Mary Dispenza - Survivors of those Abused by Priests (SNAP) / Clergy Accountability Coalition
 * Sharon Huling - Clergy Accountability Coalition
 * Alex Ashley
-* Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
-* Reverend Juli Prentice
 * Tim Law - Catholic Accountability Project and Clergy Accountability Coalition
-* Annelise Orozco - Lake Washington High School
-* Carson Suyetsugu - Lake Washington High School
-* Lily Cheung - Lake Washington High School
+* Reverend Juli Prentice
 * Kiersten Larson - Clergy Accountability Coalition/JW
 * Sara Young - Clergy Accountability Coalition/JW
 * Angela Taylor
+* Annelise Orozco - Lake Washington High School
+* Carson Suyetsugu - Lake Washington High School
+* Lily Cheung - Lake Washington High School
 * Bea Stull
 * Steve Snider
 * McKenzie Raynor
 * Rev. James Connell
 * Marino Hardin
+* Marino Hardin
+* Kristiana de Leon - Association of Secular Elected Officials
 * Ryu Hoshino - Lake Washington High School
 * Michelle Sung - Lake Washington High School
 * Gavin Callahan - Lake Washington High School
@@ -79,14 +81,12 @@ Testifying:
 * Ryu Hoshino - Lake Washington High School
 * Andrew Fox
 * Maivi Vuong
-* Marino Hardin
-* Kristiana de Leon - Association of Secular Elected Officials
 * Simone L'Amour - XJW CSA SURVIVORS
 
 #### 256 👎 - Con
 Testifying:
-* John Axtell
 * 💵Jean Hill - Washington State Catholic Conference
+* John Axtell
 * Theresa Schrempp
 * Theresa Schrempp
 * Mary Locke
@@ -100,13 +100,13 @@ Testifying:
 ### Tue 01/28 01:30 PM - Human Services (HS): SB 5375 Clergy, duty to report abuse
 #### 184 👍 - Pro
 Testifying:
-* Ryan Dudley - FFRF Action Fund
-* Sara Young - Representative as a former Jehovah’s Witness
 * Rev. James Connell
 * Kiersten Larson - Clergy Accountability Coalition
 * Mary Dispenza - Clergy Accountability Coalition
 * Sharon Valdés Huling - Clergy Accountability Coalition
 * Chris Dormaier
+* Ryan Dudley - FFRF Action Fund
+* Sara Young - Representative as a former Jehovah’s Witness
 * Mitch Melin
 * Kiersten Larson - Clergy Accountability Coalition
 * Kristiana de Leon - Association of Secular Elected Officials

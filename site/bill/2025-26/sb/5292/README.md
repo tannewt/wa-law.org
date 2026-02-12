@@ -32,8 +32,8 @@ Testifying:
 #### 63 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
-* 💵James Crandall - AWB
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵James Crandall - AWB
 
 #### 841 👎 - Con
 Testifying:
@@ -70,14 +70,14 @@ Testifying:
 
 #### 569 👎 - Con
 Testifying:
-* TaraLyn Fray
 * Sandra Mochizuki
 * Ronald Mochizuki
+* TaraLyn Fray
 
 #### 3 ❓ - Other
 Testifying:
-* Josh Dye
 * Elizabeth New - Washington Policy Center
+* Josh Dye
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5292 Family & medical leave rates
 #### 9 👍 - Pro

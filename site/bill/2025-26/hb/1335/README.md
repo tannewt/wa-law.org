@@ -10,10 +10,10 @@
 ### Tue 01/28 10:30 AM - Labor & Workplace Standards (LAWS): HB 1335 Military spouse employment
 #### 22 👍 - Pro
 Testifying:
+* Matthew Shillingburg - Veterans Legislative Coalition VFW Representative
 * Tammie Perreault - Department of Defense
 * Valerie Vasconez
 * Sheena Hathorn
-* Matthew Shillingburg - Veterans Legislative Coalition VFW Representative
 * Deirdre Farrell
 
 #### 0 👎 - Con

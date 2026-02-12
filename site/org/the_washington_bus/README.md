@@ -4,7 +4,6 @@
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
-* 👍 Bailey Medilo
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
 

@@ -39,14 +39,14 @@ Testifying:
 * Brian Allender
 * Samantha Mossuto - " I Did The Time"
 * Terri Mosher - " I Did The time"
-* Delika Steele - Office of the Insurance Commissioner
 * 💵London Breedlove - Washington State Psychological Association
 * 💵Anna Nepomuceno - NAMI WA
-* Jürgen Unützer - UW Medicine
+* Delika Steele - Office of the Insurance Commissioner
 * 💵Jake Swanton - Inseparable
 * Mark Griffin
 * Jennifer Cohen
 * 💵Chetan Soni - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Jürgen Unützer - UW Medicine
 * CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * Ben Packard - Washington State Society for Clinical Social Work
 
@@ -57,9 +57,9 @@ Testifying:
 
 #### 9 ❓ - Other
 Testifying:
+* Donna Baker-Miller - MCG Health
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Sasha Waring - Molina Healthcare
-* Donna Baker-Miller - MCG Health
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1432 Mental health services
 #### 529 👍 - Pro
@@ -87,10 +87,10 @@ Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Rachael Snell
 * Judith Gordon
-* ELEANOR HAMBURGER - Sirianni Youtz Spoonemore Hamburger
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of WA
 * Dr. London Breedlove - WA State Psychological Association
 * 💵Jake Swanton - Inseparable
+* ELEANOR HAMBURGER - Sirianni Youtz Spoonemore Hamburger
 * Jurgen Unutzer - UW Medicine
 * jean Brautigam Mills
 * Julia Larsen

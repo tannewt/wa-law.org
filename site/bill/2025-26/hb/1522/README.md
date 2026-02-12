@@ -48,10 +48,9 @@ Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
-#### 1 👎 - Con
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
 Testifying:
 * Alessandra De la Torre - NW Energy Coalition
-
-#### 1 ❓ - Other
-Testifying:
 * 💵Scott Hazlegrove - Weyerhaeuser

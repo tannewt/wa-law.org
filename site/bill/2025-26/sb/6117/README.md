@@ -37,11 +37,11 @@ Testifying:
 Testifying:
 * Randy Munn
 * Paul Katovich - HighLine Grain Growers, Inc.
+* 💵Patrick Connor - NFIB
 * Bre Elsey - WA Farm Bureau
 * Kevin Knight - Farmer
 * 💵James Crandall - AWB
 * Mark Hambelton
-* 💵Patrick Connor - NFIB
 * Lauren Gonzalez
 * Jason Matson
 * Kellie Sundquist - Orchard & Vineyard Supply Co.

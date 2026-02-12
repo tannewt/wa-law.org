@@ -10,8 +10,8 @@
 ### Tue 02/03 01:30 PM - Health Care & Wellness (HCW): HB 2658 Mental health coverage
 #### 506 👍 - Pro
 Testifying:
-* Tina Gregory
 * Jane Beyer - Office of the Insurance Commissioner
+* Tina Gregory
 * 💵London Breedlove - London Breedlove
 * DARCY HUFFMAN - National Association of Social Workers, WA Chapter
 * Cara Cheevers - Inseparable

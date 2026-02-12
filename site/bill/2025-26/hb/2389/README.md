@@ -78,11 +78,11 @@ Testifying:
 Testifying:
 * Tiffany Attrill
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Tina Rothert - I’m a violent crime victim survivor
+* Ashlynn Danielson
 * Shawn Ledford - Tulalip Police Department
 * Natasha Willson
 * Mary Williams - The Royal Program / The Black and Brown Girls' Summit
-* Tina Rothert - I’m a violent crime victim survivor
-* Ashlynn Danielson
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
@@ -90,10 +90,10 @@ Testifying:
 
 #### 9 ❓ - Other
 Testifying:
+* Judge Cindy Larsen - Superior Court Judges' Association
 * Christine Simonsmeier - WAJCA
 * Judge Kristin Ferrera - Superior Court Judges’ Association
 * Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
-* Judge Cindy Larsen - Superior Court Judges' Association
 * Barbara Serrano - Dept. of Children, Youth, and Families
 * Harold Wright - Dept. of Children, Youth, and Families
 * Brian Kilgore - Tulalip Tribes

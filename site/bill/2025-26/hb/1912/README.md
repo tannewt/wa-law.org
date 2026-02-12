@@ -44,10 +44,10 @@ Testifying:
 #### 499 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
-* Ryan Poe - [Washington Association of Wheat Growers](/org/washington_association_of_wheat_growers/)
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 * 💵Mark Streuli - WA Potato and Onion Assoc, WA Cattlemen's Assoc
 * Jay Gordon - Washington State Dairy Federation
+* Ryan Poe - [Washington Association of Wheat Growers](/org/washington_association_of_wheat_growers/)
 * Travis Coulter - Co-Energy
 * 💵David Ducharme - Washington State Tree Fruit Association
 * Joel Creswell - Washington State Department of Ecology
@@ -103,8 +103,8 @@ Testifying:
 * 💵Mark Streuli - WA Potato and Onion Assoc -WA Assoc of Wheat Growers - WA Cattlemen Assoc
 * Ben Buchholz - NW Agricultural Cooperative Council
 * 💵David Ducharme - Washington State Tree Fruit Association
-* 💵Kate Brouns - Governor Ferguson's Policy Office
 * Jay Gordon - Washington State Dairy Federation
+* 💵Kate Brouns - Governor Ferguson's Policy Office
 * william taylor
 
 #### 24 👎 - Con
@@ -116,9 +116,9 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
+* 💵Breanne Elsey - WA Farm Bureau
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵David Mendoza - [The Nature Conservancy](/org/the_nature_conservancy/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Joel Creswell - Washington State Department of Ecology
-* 💵Breanne Elsey - WA Farm Bureau

@@ -19,8 +19,8 @@ Testifying:
 #### 180 👎 - Con
 Testifying:
 * Christopher Hesse - None
-* Frank Willmann
 * Laurie Lindgren
+* Frank Willmann
 * Erika Carleton
 * Tad Sommerville
 * Anthony Holan

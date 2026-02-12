@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1104/</link>
 		<description>Updates about HB 1104</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -32,18 +32,18 @@
 		<item>
 			<title>👍Ken Fuller - Board of Registration for Professional Engineers and Land Surveyors</title>
 			<description>Ken Fuller signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/board_of_registration_for_professional_engineers_and_land_surveyors/"&gt;Board of Registration for Professional Engineers and Land Surveyors&lt;/a&gt;.</description>
-			<pubDate>Sat, 18 Jan 2025 03:43:43 GMT</pubDate>
+			<pubDate>Sat, 18 Jan 2025 15:43:43 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Ken/Fuller/2025-01-18 03:43:43</guid>
+			<guid isPermaLink="false">testifier/Ken/Fuller/2025-01-18 15:43:43</guid>
 		</item>
 		<item>
 			<title>👍Kevin Van De Wege - Board of Professional Engineers and Land Surveyors</title>
 			<description>Kevin Van De Wege signed up to testify Pro. They are signed up to represent Board of Professional Engineers and Land Surveyors.</description>
-			<pubDate>Tue, 21 Jan 2025 04:26:02 GMT</pubDate>
+			<pubDate>Tue, 21 Jan 2025 16:26:02 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Kevin/Van De Wege/2025-01-21 04:26:02</guid>
+			<guid isPermaLink="false">testifier/Kevin/Van De Wege/2025-01-21 16:26:02</guid>
 		</item>
 		<item>
 			<title>CPB - Executive action taken by committee.</title>
@@ -93,6 +93,13 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

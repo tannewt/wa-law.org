@@ -10,9 +10,9 @@
 ### Wed 01/29 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1492 Students with dependents
 #### 225 👍 - Pro
 Testifying:
+* Randy Phillips
 * Edith Dale - University of Washington Seattle, Graduate Student
 * Jessica Goff - University of Washington, Tacoma
-* Randy Phillips
 * Melissa Beard - Council of Presidents
 * 💵Mykhail Lembke - University of Washington Graduate and Professional Student Senate
 

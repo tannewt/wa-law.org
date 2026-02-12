@@ -18,36 +18,36 @@
 
 ## Meetings
 ### Tue 02/11 08:00 AM - Finance (FIN): HB 1356 K-12 funding
-#### 78 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - Bellevue, Highline, Northshore Public School Districts
 * 💵Clifford Traisman - Seattle, Bellevue, Highline, Northshore and Seattle Public School Districts
 * Roman Honeycutt
-* Dr. Curtis Guaglianone - Mt. Adams School District
 * Kate Davis - [Olympia School District](/org/olympia_school_district/)
 
 #### 1454 👎 - Con
 Testifying:
 * John Axtell
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Mike DEACY
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Initiative Activist
-* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 69 ❓ - Other
+#### 70 ❓ - Other
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
-* 💵Oliver Miska
 * Barbara Posthumus - Lake Washington School District
+* 💵Oliver Miska
 * Derek Sarley - Washington State School Directors' Association
 * Nora Palattao Burnes - ESD 105 Schools Coalition
+* Dr. Curtis Guaglianone - Mt. Adams School District
 * Marcus Harden - WA State Charter School Commission
 * Andrea Klein - Summit Alas
 * 💵Barbara Gilchrist - Washington State Charter Schools Association
 * Amy Kiyota - IMPACT Public Schools
 * Karen Lobos - Rainier Prep
 * Sam Schweda - Spokane International Academy
-* Tom Fleming
+* Tom Fleming - CFO, ESD 105 Schools Coalition
 * Charlie Brown - South Sound Superintendents
 * David Knight
 

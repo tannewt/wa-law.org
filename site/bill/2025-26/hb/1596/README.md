@@ -33,13 +33,13 @@
 Testifying:
 * DAVID SALE
 * Lori Markowitz
-* Tom Yabe - Steilacoom Department of Public Safety
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Peter Bengtson - Parents of Ellen Bengtson
 * Ken Denton - LifeSafer
+* Tom Yabe - Steilacoom Department of Public Safety
 * 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
-* THEODORE SMITH
 * Sadie Haag
+* THEODORE SMITH
 * Mark Ottele - Granite Construction Company
 
 #### 20 👎 - Con
@@ -52,12 +52,12 @@ Testifying:
 #### 71 👍 - Pro
 Testifying:
 * Theodore Smith
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * David Sale - Families for Safe Streets
 * Lori Markowitz - Families for Safe Streets
 * Amber Weilert - Families for Safe Streets
 * May Wang - Families for Safe Streets
 * Peter Bengston - Families for Safe Streets
-* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Ken Denton - Life Scofer
 
 #### 60 👎 - Con

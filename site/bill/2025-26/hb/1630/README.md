@@ -27,13 +27,15 @@ Testifying:
 * Kylie Klein
 * Sue Lani Madsen - Washington Rural Environmental Network
 * Ava Budde - 3/8's Cattle Co
-* john worthington
 * Amanda McKinney - Yakima County Commissioner
 * Cindy Corpe
+* john worthington
+* 💵Jack Field - [Washington Cattle Feeders Association](/org/washington_cattle_feeders_association/)
 * Donna Alber
 * Patricia Cooper
 * William Cooper
-* 💵Jack Field - [Washington Cattle Feeders Association](/org/washington_cattle_feeders_association/)
+* Jay Gordon - Washington State Dairy Federation
+* Jeremy Wheatley
 * James Miller - No, but as an experienced rural person in Okanogan County
 * Bruce Cirone - Voter
 * Ben Buchholz - NW Ag Cooperative Council, NW Dairy Association
@@ -41,14 +43,12 @@ Testifying:
 * Rachael Swanson - Creative Edge Marketing
 * 💵Caleb Gwerder - Washington Farm Bureau
 * Leann Krainick - Washington Farm Bureau
-* Jay Gordon - Washington State Dairy Federation
-* Jeremy Wheatley
 * Donovan Allen
 * Tad Sommerville
 
 #### 5 ❓ - Other
 Testifying:
-* Joel Creswell - Dept of Ecology
 * Ben Weinheimer - Texas Cattle Feeders Association
 * PhD, Brent Auvermann - Texas A&M AgriLife Research
 * PhD, Galen Erickson - University of Nebraska - Lincoln Animal Science
+* Joel Creswell - Dept of Ecology

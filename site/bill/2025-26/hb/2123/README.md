@@ -22,9 +22,9 @@ Testifying:
 
 #### 727 👎 - Con
 Testifying:
+* Erica Engelhart
 * Rebecca Faust - n/a
 * Laurie Layne
-* Erica Engelhart
 * Sharon Hanek
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jeff Pack - Washington Citizens Against Unfair Taxes

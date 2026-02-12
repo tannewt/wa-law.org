@@ -13,6 +13,17 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205280)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Noel Le
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 01:30 PM - Consumer Protection & Business (CPB): SB 5280 Virtual currency kiosks
 #### 9 👍 - Pro
 Testifying:
@@ -33,9 +44,9 @@ Testifying:
 #### 25 👍 - Pro
 Testifying:
 * Timothy Schwering - Spokane Police Department
-* Drew Bouton - Washington State Department of Financial Institutions
 * Cathleen MacCaul - AARP Washington State
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+* Drew Bouton - Washington State Department of Financial Institutions
 
 #### 2 👎 - Con
 Testifying:

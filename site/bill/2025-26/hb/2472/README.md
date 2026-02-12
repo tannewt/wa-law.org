@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Labor & Commerce (LC): SHB 2472 Fire sprinkler work
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2472 Fire sprinkler work
 #### 51 👍 - Pro
 Testifying:

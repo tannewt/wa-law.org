@@ -14,11 +14,11 @@
 ### Mon 01/19 01:30 PM - Education (ED): HB 2360 Albuterol access in schools
 #### 113 👍 - Pro
 Testifying:
-* Deborah Liptzin - Seattle Children's
 * Leslie Maxwell
 * 💵Erica Hallock - School Nurse Organization of Washington
 * Lynnette Ondeck - School Nurse Organization of Washington
 * Wendy Jones - School Nurse Organization of Washington
+* Deborah Liptzin - Seattle Children's
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Robin Ortenberg
 

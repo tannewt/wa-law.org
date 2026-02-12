@@ -59,7 +59,6 @@ Testifying:
 
 #### 103 👎 - Con
 Testifying:
-* 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Rose Gundersen - WA Retail Association
 * Lauren Gubbe - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)

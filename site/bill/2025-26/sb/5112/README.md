@@ -12,30 +12,30 @@
 #### 1391 👍 - Pro
 Testifying:
 * Erick Clodfelter - 2211 South Star Lake rd
-* Erick Clodfelter - 2211 South Star Lake Road
 * Steven Brown
+* Erick Clodfelter - 2211 South Star Lake Road
 * Sarah Mullin
-* Karen Atwood - Washington State Association of the Deaf
 * Brandon Henscheid
+* Karen Atwood - Washington State Association of the Deaf
 * Amanda Wills
 * Liliana Baciuc
 * Steven M Brown
+* Sarah Mullin
+* Robin Templeton
 * Jocelynn McLaughlin - NAMI Walla Walla
 * 💵Michael Transue - NAMI Washington
 * Zachary Shileika - NAMI Tri-Cities
 * Gerald Purkey - Gerald Purkey
-* Sarah Mullin
-* Robin Templeton
-* Eryn Murphy
 * Dr Steve Curtis
 * Dr. David Shearer
 * Dr. Phillip Hughes
 * Dr. Jaime Wilson
 * Dr. Keith Petersen
+* Eryn Murphy
+* Shantaa Watkins
 * Braden Greer
 * Jim Freeburg - Patient Coalition of Washington
 * 💵Michael Transue - National Alliance on Mental Illness (NAMI)
-* Shantaa Watkins
 * Micahel Transue - on behalf of Zachary Shileika
 
 #### 702 👎 - Con
@@ -43,8 +43,8 @@ Testifying:
 * Victoria Harris MD
 * Neeru Bakshi
 * Chelsea Unruh
-* Atika Singh
 * Natalie Fuller
+* Atika Singh
 * Lida Turner
 * Kevin McLean
 * Breck Lebegue
@@ -53,6 +53,11 @@ Testifying:
 * Rie Sharky - N/A
 * Kayla Tuggle - Psychiatry Residency Spokane
 * MD, Victoria Karschney
+* Dr. Marsha Haley - Physicians for Patient Protection
+* 💵Amy Brackenbury - Washington State Medical Association
+* Dr. Robin Berger - Washington State Psychiatric Association (WSPA)
+* Katie Kolan - Washington State Psychiatric Association (WSPA)
+* Rebecca Allen
 * MD, Lasé Ajayi - American Medical Association
 * MD, Ravi Ramasamy - Washington State Council of Child and Adolescent Psychiatry
 * MD, Theresa Miskimen Rivera - American Psychiatric Association
@@ -60,11 +65,6 @@ Testifying:
 * MD, Cora Breuner - Washington Chapter American Academy of Pediatrics
 * Elisabeth Cope - CHAS HEALTH
 * TaraLyn Fray
-* Dr. Marsha Haley - Physicians for Patient Protection
-* 💵Amy Brackenbury - Washington State Medical Association
-* Dr. Robin Berger - Washington State Psychiatric Association (WSPA)
-* Katie Kolan - Washington State Psychiatric Association (WSPA)
-* Rebecca Allen
 * Steven Pearce - Citizens Commission on Human Rights
 * Kelania Jimenez - WSPA
 * Dean McKay - Fordham University

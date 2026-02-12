@@ -14,19 +14,20 @@
 
 ## Meetings
 ### Thu 01/23 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5275 Passport to careers program
-#### 129 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
-* cierra Draper-West - UW Seattle
 * Maria Belen Sepulveda - n/a
 * 💵Mykhail Lembke - University of Washington Graduate & Professional Student Senate
 * 💵Isela Bonilla - Legislative Liaison ASWSU Vancouver
 * Trevor Spane - Passport to Change
+* Yokiko Hayashi-Saguil - [College Success Foundation](/org/college_success_foundation/)
 * Jacob Vigdor - UW Faculty/Council of Faculty
 * Olive Salas
 * Yaneira Martinez
 * miranda grogger
-* Yokiko Hayashi-Saguil - [College Success Foundation](/org/college_success_foundation/)
 
 #### 372 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* cierra Draper-West - University of Washington Champions Program

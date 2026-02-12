@@ -28,11 +28,11 @@ Testifying:
 Testifying:
 * Jennifer Burkhardt - Summit Pacific Medical Center
 * 💵Leslie Emerick - WA State Podiatric Medicine Asso, WA Acupuncture & E. Medicine Assn, American Massage Therapy Assn,
-* Elizabeth McElhiney - AHIOS
-* Julianne Ferguson - HCAOA-WA
-* Ariana Will - American Massage Therapy Association, Washington Chapter
 * Elizabeth Elizabeth - AHIOS
 * 💵Zosia Stanley - Washington State Hospital Association
 * 💵Lisa Thatcher - Washington State Hospital Association
+* Elizabeth McElhiney - AHIOS
+* Julianne Ferguson - HCAOA-WA
+* Ariana Will - American Massage Therapy Association, Washington Chapter
 
 #### 1 ❓ - Other

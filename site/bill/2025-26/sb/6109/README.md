@@ -13,10 +13,10 @@ Testifying:
 * Paula Lukaszek - State employee
 * 💵Jean Hill - Washington State Catholic Conference
 * 💵Kristin Ang - Faith Action Network (FAN)
-* Anders Ibsen - Mayor, City of Tacoma
 * Rufina Reyes - La Resistencia
 * 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * Tim Warden Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Anders Ibsen - Mayor, City of Tacoma
 
 #### 143 👎 - Con
 

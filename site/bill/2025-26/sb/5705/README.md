@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Transportation (TR): ESB 5705 Traffic infraction penalties
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/19 04:00 PM - Transportation (TR): SB 5705 Traffic infraction penalties
 #### 22 👍 - Pro
 Testifying:

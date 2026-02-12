@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2417/</link>
 		<description>Updates about HB 2417</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -34,10 +34,10 @@
 		<item>
 			<title>👍Maria Doucettperry - Veterans Legislative Coalition (VLC)</title>
 			<description>Maria Doucettperry signed up to testify Pro. They are signed up to represent Veterans Legislative Coalition (VLC).</description>
-			<pubDate>Thu, 22 Jan 2026 10:19:19 GMT</pubDate>
+			<pubDate>Thu, 22 Jan 2026 22:19:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Maria/Doucettperry/2026-01-22 10:19:19</guid>
+			<guid isPermaLink="false">testifier/Maria/Doucettperry/2026-01-22 22:19:19</guid>
 		</item>
 		<item>
 			<title>TEDV - Executive action taken by committee.</title>
@@ -66,6 +66,20 @@
 			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-06/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</guid>
 		</item>
 	</channel>
 </rss>

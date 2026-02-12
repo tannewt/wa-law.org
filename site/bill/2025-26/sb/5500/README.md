@@ -15,11 +15,19 @@
 * 01/30/2025 [Washington State Standard](/org/washington_state_standard/) - [WA child care advocates push for higher pay and more support for providers • Washington State Standard](https://washingtonstatestandard.com/2025/01/30/wa-child-care-advocates-push-for-higher-pay-and-more-support-for-providers/#:~:text=Senate%20Bill%205500)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): ESSB 5500 Child care rate model
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 08:00 AM - Early Learning & K-12 Education (EDU): SB 5500 Child care reimburse. rates
 #### 801 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 * Anne-Marie Schwerin - YWCA of Walla Walla
 * Jessica Murillo-Rosales - Parent & MomsRising Member
 * 💵Maggie Humphreys - MomsRising
@@ -27,6 +35,7 @@ Testifying:
 * Diana Llanes - Childcare Provider
 * 💵Erin Haick - SEIU 925
 * Tiffany Turner - Adrift Hospitality
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 
 #### 570 👎 - Con
 Testifying:

@@ -19,8 +19,8 @@
 #### 287 👍 - Pro
 Testifying:
 * Gerald Grubbs - Grapeview & Index School Districts
-* Jose Romo Ramirez
 * Kimber Erickson - Kellen CARES Foundation
+* Jose Romo Ramirez
 * Richard Pelman - Washington State Urology Society
 * Alex Craighead - Journeymen Institute
 * Paula Fillmore-Sardinas - WBBA - WA Build Back Black Alliane
@@ -28,12 +28,12 @@ Testifying:
 * Jen Shevitz - Let Me Run
 * 💵Heather Kurtenbach - Washington State Building and Construction Trades
 * Richard Reeves - American Institute for Boys and Men
-* Jeffrey Evans - Washington State Urology Society
-* Simon Thornton
 * 💵Billy Hetherington - [Laborers Local Union 242](/org/laborers_local_union_242/)
-* Evan Wagoner-Lynch
 * Blair Daly - Washington Initiative for Boys and Men
 * Joe Cook - Washington Initiative for Boys and Men
+* Jeffrey Evans - Washington State Urology Society
+* Simon Thornton
+* Evan Wagoner-Lynch
 
 #### 764 👎 - Con
 

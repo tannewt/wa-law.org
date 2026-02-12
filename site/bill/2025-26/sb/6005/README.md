@@ -16,12 +16,12 @@
 Testifying:
 * Lara Lant - City of Bainbridge Island, City Manager
 * Mike Ennis - Washington Asphalt Pavement Association (WAPA) and ICON Materials, a CRH Company
-* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Ken Short - AWB
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Jerry VanderWood - Associated General Contractors (AGC)
-* Jake Lewing - [City of Wenatchee](/org/city_of_wenatchee/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jake Lewing - [City of Wenatchee](/org/city_of_wenatchee/)
 
 #### 17 👎 - Con
 Testifying:
@@ -32,7 +32,7 @@ Testifying:
 Testifying:
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Dania Otto - Sakura 39ers Youth Association
-* Tim Gould
 * Mary Paterson
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Tim Gould

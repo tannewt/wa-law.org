@@ -12,11 +12,11 @@
 Testifying:
 * Jeri Moomaw - [Innovations Human Trafficking Collaborative](/org/innovations_human_trafficking_collaborative/)
 * Maurice Washington
+* Jeri Moomaw - Washington Against Sexual Exploitation (WASE Forward)
+* Rebekah Fonden - Washington Against Sexual Exploitation (WASE Forward)
 * Coreen Schnepf - Chief Criminal Deputy with the Pierce County Prosecutor's Office
 * Cathy Moore - Seattle City Councilmember
 * Jacob Wallack - n/a
-* Jeri Moomaw - Washington Against Sexual Exploitation (WASE Forward)
-* Rebekah Fonden - Washington Against Sexual Exploitation (WASE Forward)
 * Braelah McGinnis - King County Prosecuting Attorney’s Office
 
 #### 122 👎 - Con
@@ -25,12 +25,12 @@ Testifying:
 * emi koyama - Coalition for Rights & Safety for People in the Sex Trade
 * Shira Cole
 * Tanya Crocker
-* Tobi Hill-Meyer
-* Gabriel Jones
-* Sarah Dickmeyer
 * Melodie Garcia
 * Arianna Riley
 * Savannah Sly
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Tobi Hill-Meyer
+* Gabriel Jones
+* Sarah Dickmeyer
 
 #### 0 ❓ - Other

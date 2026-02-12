@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): ESB 6058 Wage enforcement discretion
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 6058 Wage enforcement discretion
 #### 99 👍 - Pro
 Testifying:

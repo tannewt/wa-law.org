@@ -160,7 +160,6 @@
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍4  
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍3  
-* 👍 Alex Narvaez
 * 👍💵 Roxana Gomez
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍3  
@@ -170,8 +169,8 @@
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 * 👍💵 Roxana Gomez
 
-### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
-* 👍💵 Roxana Gomez
+### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child   ❓1
+* ❓💵 Roxana Gomez
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 

@@ -19,9 +19,9 @@ Testifying:
 
 #### 14 👎 - Con
 Testifying:
+* Megan Moore - WA State Public Health Association
 * Mike Graham-Squire - Washington Asociation for Substance Misuse and Violence Prevention (WASAVP)
 * 💵Kylie Peterson - WASAVP
-* Megan Moore - WA State Public Health Association
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 

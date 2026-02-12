@@ -28,8 +28,8 @@
 #### 104 👍 - Pro
 Testifying:
 * Charles Wharton - AMVETS Legislative Director
-* Susan Woods - Veteran's Legislative Coalition
 * Allen Acosta - Veterans Legislative Coalition
+* Susan Woods - Veteran's Legislative Coalition
 
 #### 2 👎 - Con
 

@@ -13,8 +13,8 @@
 ### Wed 03/19 08:00 AM - Agriculture and Natural Resources (AGNR): SSB 5076 Nonspot shrimp pot license
 #### 2 👍 - Pro
 Testifying:
-* Joe Verdoes
 * Aaron Dufault - WDFW
+* Joe Verdoes
 
 #### 3 👎 - Con
 Testifying:

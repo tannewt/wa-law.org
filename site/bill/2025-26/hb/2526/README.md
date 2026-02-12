@@ -21,26 +21,30 @@ Testifying:
 * La Tanya Horace Dubois - The Silent Task Force
 * La Tanya Horace Dubois - The Silent Task Force
 * Robin Miller - WASE
+* PAULA REED - Children's Advocacy Centers of WA
 * Rebekah Fonden - WASE Forward
 * Alison Barnes
 * Roxanne White - Missing,Murdered Indigenous Woman, People & Families
 * Maurice Washington - Seattle Police Department
 * Braelah McGinnis - King County Prosecuting Attorney's Office
-* PAULA REED - Children's Advocacy Centers of WA
 * Sarah Childs
-* Ashleigh Desvigne
-* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Jay Benke - Sex Trade Survivor Caucus
 * Tina Verrilli
 * Abigail Echo-Hawk - Seattle Indian Health Board
 * Faith Sackey - The Silent Task Force
 * Audrey Baedke - SAFE in Washington
+* Ashleigh Desvigne
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 322 👎 - Con
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Jade Fuller
 * Emi Koyama - Coalition for Rights & Safety
+* Poppy Yozh
+* 💵Oliver Miska - Lavender Rights Projet
+* Brandiwyn Bendt
+* Amber Bergstrom - Green Light Project
 * Jordan Hogan - Strippers Are Workers
 * Devynn Dewey - Don’t Strip Our Rights
 * Cliff Clive
@@ -57,12 +61,8 @@ Testifying:
 * Sarah Read by ali
 * Tamika Spellman - Grammy's Place
 * Casimir Kotarski
-* Poppy Yozh
-* 💵Oliver Miska - Lavender Rights Projet
-* Brandiwyn Bendt
-* Amber Bergstrom - Green Light Project
-* Sage Sinclaire
 * Lola R.
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Sage Sinclaire
 
 #### 0 ❓ - Other

@@ -31,9 +31,9 @@ Testifying:
 * 💵Diane Bedwell
 * Margaret Dreyfus
 * Marrene Franich
+* Robert Boling
 * Eric Gonzalez Alfaro - Washington for Equitable Representation
 * Janet Caldwell - [Washington Education Association](/org/washington_education_association/)
-* Robert Boling
 
 #### 4748 👎 - Con
 Testifying:
@@ -45,25 +45,25 @@ Testifying:
 * Teagan Levine
 * Sharon Hanek
 * Elizabeth Zimmermann
-* Bruce Guthrie
-* James Lane
-* James Szatkowski
 * Mark Elliott
-* Jason Mertens
-* Kan Qiu - Let People Vote
 * Sam Reed - Washington Secretary of State, Retired
 * Steve Hobbs - Washington Secretary of State
 * John Hudziak
+* Bruce Guthrie
+* James Lane
+* James Szatkowski
+* Jason Mertens
+* Kan Qiu - Let People Vote
+* Sandra Mochizuki
+* Ashlee Zinda
+* 💵George Allen
 * Robert Boling
 * Ming Xu
 * David Pierce
 * DAVID ALWOOD - H2Oasis, Inc.
 * Dakota Manley - Washington State Young Republicans
 * Joe Kunzler - Citizens for Votes on Taxes
-* Sandra Mochizuki
 * Jacqueline Stonas
-* Ashlee Zinda
-* 💵George Allen
 * Anthony Holan
 * MICHAEL STASZAK - NA
 * Ron Martinsen
@@ -78,15 +78,15 @@ Testifying:
 ### Tue 02/04 01:30 PM - State Government & Elections (SGE): SB 5382 Ballot measure petitions
 #### 1231 👍 - Pro
 Testifying:
-* Margaret Dreyfus
 * Mariana Morante - SEIU 775
+* Margaret Dreyfus
 * Ralph Carpenter
 * Arthur West
-* La Donna Kirtpatrick
 * Hanna Floss
 * 💵Diane Bedwell
 * Marrene Franich
 * Marley Arborico
+* La Donna Kirtpatrick
 * Jeff DeBray - testifying on behalf of Spokane resident Ralph Carpenter
 
 #### 1859 👎 - Con
@@ -101,6 +101,7 @@ Testifying:
 * Tara Erben
 * Christa (Teagan) Levine
 * Collin Hathaway
+* Sharon Damoff
 * Anthony Holan
 * Atina Holan
 * Carrie Card
@@ -113,7 +114,6 @@ Testifying:
 * Jie Xie - ACE
 * Rachel DeBoer
 * Sharon Hanek
-* Sharon Damoff
 * Lan Xing
 * Zack Zinter
 

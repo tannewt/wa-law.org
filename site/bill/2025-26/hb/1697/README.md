@@ -11,8 +11,8 @@
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1697 Newborn screening additions
 #### 15 👍 - Pro
 Testifying:
-* Max Brown - NW Rare Disease Coalition
 * 💵Katherine Mahoney - Ultragenyx
+* Max Brown - NW Rare Disease Coalition
 
 #### 1 👎 - Con
 Testifying:

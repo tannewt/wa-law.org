@@ -13,28 +13,28 @@
 ### Tue 02/04 01:30 PM - Consumer Protection & Business (CPB): HB 1348 Cannabis/employee ownership
 #### 21 👍 - Pro
 Testifying:
-* Brian Smith - PTM Management Corp
-* Daniel Torczyner - S Rothschild & Co, Inc.
-* Hank de Zwart - Flobin Inc
-* Lance Kaufman - Hub Truck, Inc
 * Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Jesse Huminski - Fairwinds Manufacturing
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Scott Atkison - Zips Cannabis
 * Jamie Hoffman - Craft Elixirs
 * Darren Gleeman - MBO Ventures
+* Brian Smith - PTM Management Corp
+* Daniel Torczyner - S Rothschild & Co, Inc.
+* Hank de Zwart - Flobin Inc
+* Lance Kaufman - Hub Truck, Inc
 * Zak Richardson - Zips Cannabis
 * 💵Brooke Davies - Washington CannaBusiness Association
 
 #### 77 👎 - Con
 Testifying:
 * Brandon Park
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 * Shawn DeNae Wagenseller - Washington Bud Company
 * Eric Gaston - The Evergreen Market
 * 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
 * Rolando Rodriguez - Green Roads Cannabis
-* Mike Asai - Black Excellence In Cannabis
-* Peter Manning - Black Excellence In Cannabis
 
 #### 2 ❓ - Other
 Testifying:

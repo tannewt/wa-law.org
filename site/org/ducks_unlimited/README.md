@@ -6,8 +6,8 @@
 * 👎 Kirk Struble
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎2 
-* 👎💵 Matt Little
 * 👎 Edward May
+* 👎💵 Matt Little
 
 ## [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission 👍2  
 * 👍 Edward May

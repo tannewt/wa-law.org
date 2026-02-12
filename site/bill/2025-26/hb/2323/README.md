@@ -17,8 +17,8 @@
 #### 20 👍 - Pro
 Testifying:
 * Nora Borek - I live in Arizona and we have the Blue Envelope Program.  My son has Autism
-* Nicholas Borek
 * John Lemus - AtWork! - Advocacy Manager
+* Nicholas Borek
 * Ryan Fox
 
 #### 3 👎 - Con

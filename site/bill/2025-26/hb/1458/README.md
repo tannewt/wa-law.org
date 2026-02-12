@@ -48,9 +48,9 @@ Testifying:
 
 #### 517 👎 - Con
 Testifying:
-* Donna Alber
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Donna Alber
 * Tad Sommerville
 
 #### 3 ❓ - Other

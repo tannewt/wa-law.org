@@ -13,8 +13,8 @@ Testifying:
 * 💵Bill Clarke - Grant County PUD
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Mary Wiencke - [Public Generating Pool](/org/public_generating_pool/)
-* Stefanie Johnson - Seattle City Light
 * 💵Steve Taylor - Cowlitz PUD
+* Stefanie Johnson - Seattle City Light
 
 #### 0 👎 - Con
 

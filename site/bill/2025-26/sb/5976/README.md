@@ -10,6 +10,8 @@
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5976 Commercial electronic mail
 #### 129 👍 - Pro
 Testifying:
+* Poonam Patel - S&P Hotel
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Curt Wike - CSWW, Inc., dba North 40 Outfitters
 * Jennifer Luna - Paper Luxe & The Curious Bear Toy & Book Shop, Owner
@@ -17,8 +19,6 @@ Testifying:
 * David Carter
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Meegan Brooks - Benesch Friedlander Coplan & Aronoff LLP
-* Poonam Patel - S&P Hotel
-* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 55 👎 - Con
 Testifying:

@@ -18,13 +18,13 @@
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1178 Sentencing enhancements
 #### 176 👍 - Pro
 Testifying:
-* Jim Chambers
 * Percy Levy - [Washington Defender Association](/org/washington_defender_association/)
+* Jim Chambers
+* Adam Heyman - WDA and WACDL
+* Robert Goodwin - In individual capacity
 * Heather Evans - [University of Washington](/org/university_of_washington/)
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Melody Simle
-* Adam Heyman - WDA and WACDL
-* Robert Goodwin - In individual capacity
 * Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Karl Jones
 * Jenice Crews

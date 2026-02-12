@@ -37,6 +37,6 @@ Testifying:
 Testifying:
 * Bradley Lane - State Traffic Safety Resource Prosecutor
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Bruce Adsero - Personal
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
+* Bruce Adsero - Washington Association of Criminal Defense Attorneys/WA Defender Association
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

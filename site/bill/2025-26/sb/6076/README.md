@@ -11,8 +11,8 @@
 ### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 6076 Utility procurement
 #### 63 👍 - Pro
 Testifying:
-* 💵Nicolas Garcia - WPUDA
 * Matt Harris - Grant PUD
+* 💵Nicolas Garcia - WPUDA
 * 💵Jason Hudson - IBEW Local 77
 
 #### 3 👎 - Con

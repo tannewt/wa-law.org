@@ -12,11 +12,20 @@
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session is about to begin! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/09/2026-legislative-session-is-about-to-begin/#:~:text=Senate%20Bill%205904)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SB 5904 Use of nursing titles
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5904 Use of nursing titles
 #### 939 👍 - Pro
 Testifying:
-* Delores Prescott - SEIU Healthcare 1199NW
 * Justin Gill - Washington State Nurses Association (WSNA)
+* Delores Prescott - SEIU Healthcare 1199NW
 * 💵Jessica Hauffe - Washington State Nurses Association (WSNA)
 
 #### 4 👎 - Con

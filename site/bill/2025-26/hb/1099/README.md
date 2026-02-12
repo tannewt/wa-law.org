@@ -13,19 +13,19 @@
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1099 Tenant assistance program
 #### 390 👍 - Pro
 Testifying:
-* Constance Nelson
 * 💵Chester Baldwin - Rental Housing Assn Coalition (RHAC)
-* Anne Knapp
+* Constance Nelson
 * GORDON HAGGERTY - 2310 Yale Apts., LLC
 * Tracey Judah - Dove Property Management
-* Keane Ng
-* Benine McDonnell
+* Anne Knapp
 * GORDON HAGGERTY
 * Bruce Becker - Bruce Becker
 * Corey Hjalseth - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
 * Kevin Falk - 13687 NE Village Square Dr., Unit 409
 * Kevin Falk - 13687 NE Village Square Dr., Unit 409
 * bushara akbar
+* Keane Ng
+* Benine McDonnell
 
 #### 749 👎 - Con
 Testifying:
@@ -34,10 +34,10 @@ Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Donna Alber
 * Caroline Hardy - Leisure Manor Tenants Association
-* Andrea Winslow
 * Anthony Holan
 * Atina Holan
 * Susan Bradrick - Christian Homeschool Network of WA & Christian Heritage Home Educators of WA
+* Andrea Winslow
 
 #### 2 ❓ - Other
 Testifying:

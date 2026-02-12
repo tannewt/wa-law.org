@@ -17,7 +17,6 @@
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5963 Passport to careers program
 #### 45 👍 - Pro
 Testifying:
-* 💵Joel Anderson - Washington Student Achievement Council
 * 💵Sienna Jarrard - WA Student Association
 
 #### 2 👎 - Con
@@ -29,9 +28,9 @@ Testifying:
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * 💵Christopher Rosenquist - Associated Students of Western Washington University
+* Yokiko Hayashi-saguil - [College Success Foundation](/org/college_success_foundation/)
 * Hiro Hirano-Holcomb - Associated Students of UW Bothell
 * 💵Sienna Jarrard - Washington Students Association
-* Yokiko Hayashi-saguil - [College Success Foundation](/org/college_success_foundation/)
 
 #### 2 👎 - Con
 

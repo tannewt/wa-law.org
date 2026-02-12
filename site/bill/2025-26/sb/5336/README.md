@@ -11,10 +11,10 @@
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5336 Isolated employees
 #### 16 👍 - Pro
 Testifying:
-* 💵Ellicott Dandy - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
-* Matt Haney - SEIU6 Property Services NW
 * Milixa Portillo - SEIU6
 * Sofia Pineda - SEIU6
+* 💵Ellicott Dandy - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Matt Haney - SEIU6 Property Services NW
 
 #### 4 👎 - Con
 

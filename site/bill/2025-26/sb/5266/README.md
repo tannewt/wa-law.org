@@ -21,11 +21,11 @@
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SSB 5266 Early release petitions
 #### 116 👍 - Pro
 Testifying:
-* Alexis Hale - Justice for Girls
-* Lola Luna - Justice for Girls
 * Judge David Keenan - Washington State Minority and Justice Commission
 * Chris Ativalu-Ford - TVW's Capitol Classroom
 * Moses Mutel - TVW's Capitol Classroom
+* Alexis Hale - Justice for Girls
+* Lola Luna - Justice for Girls
 * Grete Schultz - TeamChild
 * Blake Hoffman - TVW's Capitol Classroom
 
@@ -38,13 +38,13 @@ Testifying:
 ### Mon 01/20 01:30 PM - Human Services (HS): SB 5266 Early release petitions
 #### 137 👍 - Pro
 Testifying:
-* Randy Roberson III - TVW's Capitol Classroom
-* Katie Hurley - King County Department of Public Defense
 * Elisa Cozad - TeamChild
 * Blake Hoffman - TVW's Capitol Classroom
 * Caya Lenay - TVW's Capitol Classroom
 * Kahlev Elkhanon - TVW's Capitol Classroom
 * Moses Mutel - TVW's Capitol Classroom
+* Randy Roberson III - TVW's Capitol Classroom
+* Katie Hurley - King County Department of Public Defense
 * Caya Lenay - TVW's Capitol Classroom
 * Alexis Hale - Justice for Girls Coalition
 * Lola Luna - Justice for Girls Coalition

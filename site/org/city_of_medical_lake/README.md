@@ -27,7 +27,6 @@
 ### [SB 5919](/bill/2025-26/sb/5919/) - Fire best practices 👍1  
 
 ### [SB 5928](/bill/2025-26/sb/5928/) - Wildfire risk models 👍2  
-* 👍 Mayor Terri Cooper
 
 ## [SB 6079](/bill/2025-26/sb/6079/) - Wildfire mitigation grants 👍2  
 * 👍 Mayor Terri Cooper

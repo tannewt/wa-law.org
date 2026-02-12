@@ -9,9 +9,9 @@
 
 ### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects  👎1 ❓3
 * 👎 Commissioner Peter Browning
-* ❓ Ron Wesen
 * ❓ Peter Browning
 * ❓ Will Honea
+* ❓ Ron Wesen
 
 ### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits  👎1 
 

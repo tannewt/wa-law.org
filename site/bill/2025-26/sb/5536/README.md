@@ -11,10 +11,10 @@
 #### 62 👍 - Pro
 Testifying:
 * Dana Tingey - High Ground Divorces
-* Melissa Strawn
-* Tamara Emerson
 * Kimberly Espe
 * Gina Bloom
+* Melissa Strawn
+* Tamara Emerson
 
 #### 0 👎 - Con
 

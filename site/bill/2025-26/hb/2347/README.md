@@ -29,22 +29,23 @@ Testifying:
 * Maddie DuBray - DuBray Consulting
 * Mike Ennis - Washington Airport Managment Association (WAMA)
 * Krzysztof Zelazowski - Lumen Wings LLC
+* DOUGLAS DINGMAN
 * Louis Kitz
 * Steve Sullivan
 * John Edwards
+* Steven Jones
+* Shawn Pratt
+* Joseph Smith
 * Darold Schultz - Schultz's Aviation LLC
 * Donald Tucker
 * Robin Woodland
-* Steven Jones
-* Shawn Pratt
 * Justin Miller - PNBAA - Pacific Northwest Business Aviation Association
 * Carson Nelson
 * Rhys Jones
-* Joseph Smith
-* Brett Smith - Propeller Airports
 * Christopher Hopkins - Director - Yakima Air Terminal - McAllister Field
 * William Hanlon
 * Jeff Powell
+* Brett Smith - Propeller Airports
 
 #### 403 👎 - Con
 Testifying:

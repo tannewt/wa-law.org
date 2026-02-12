@@ -39,6 +39,7 @@ Testifying:
 
 #### 114 👎 - Con
 Testifying:
+* Suzanne Beitel - Seattle Children's
 * Elizabeth New - Washington Policy Center
 * Alex Town - Samaritan Healthcare
 * MD, Andrew Jones - [Confluence Health](/org/confluence_health/)
@@ -48,7 +49,6 @@ Testifying:
 * 💵Chelene Whiteaker - Washington State Hospital Association
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Candy Hulse
-* Suzanne Beitel - Seattle Children's
 
 #### 1 ❓ - Other
 Testifying:
@@ -57,17 +57,17 @@ Testifying:
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5083 Health carrier reimbursement
 #### 591 👍 - Pro
 Testifying:
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Evan Klein - Washington State Health Care Authority
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Pam MacEwan - Purchasers Business Group on Health
 * Jane Beyer - Washington State Office of the Insurance Commissioner
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
-* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 #### 133 👎 - Con
 Testifying:
-* 💵Lisa Thatcher - Washington State Hospital Association
 * Ashley Thurow - Providence Health and Services
+* 💵Lisa Thatcher - Washington State Hospital Association
 * Brian Gibbons - [Astria Health](/org/astria_health/)
 * Chris Bredeson - EvergreenHealth
 * Elise Cutter - Island Health

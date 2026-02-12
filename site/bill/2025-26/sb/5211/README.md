@@ -30,19 +30,14 @@ Testifying:
 Testifying:
 * hengshan liu - no
 * Jessica Morrow
-* Jessica Morrow
-* laura blankenship
+* Teena Curry - My Mother, Pat Curry
 * Alexander Toole
 * Amanda Harpell-Franz
+* Jessica Morrow
+* laura blankenship
 * Angela Jovel - Open Doors
 * Jessica Morrow - Impacted parent
 * Kimie Nova - Impacted parent
-* Teena Curry - My Mother, Pat Curry
-* Lindsey Topping-Schuetz - Impacted parent and Rare Disease Coalition
-* MD, Stephanie Raghubeer - Mary Bridge Children’s Palliative Care
-* Amanda Harpell-Franz - Impacted parent
-* Jennifer Heinlein - Impacted parent
-* Staci Marie - Impacted parent
 * Carolyn Ringo - Sacred Heart Children’s Hospital
 * Demas Nesterenko - SEIU 775
 * 💵Mike Pugsley - Ashley House NW
@@ -52,6 +47,11 @@ Testifying:
 * Courtney Criss - Arc of Snohomish and Impacted Parent
 * Katie Scheid - Impacted parent and PEPWa
 * Savannah O’Malley - Impacted parent
+* Lindsey Topping-Schuetz - Impacted parent and Rare Disease Coalition
+* MD, Stephanie Raghubeer - Mary Bridge Children’s Palliative Care
+* Amanda Harpell-Franz - Impacted parent
+* Jennifer Heinlein - Impacted parent
+* Staci Marie - Impacted parent
 * Amber Nilles
 * Amanda Gribbin
 * Liv Taylor

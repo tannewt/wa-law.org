@@ -17,17 +17,17 @@
 #### 436 👍 - Pro
 Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
-* JC Harris - Sea-Tac Noise.Info
 * 💵Jean Hill - Washington State Catholic Conference
+* JC Harris - Sea-Tac Noise.Info
 
 #### 750 👎 - Con
 Testifying:
 * john worthington
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
-* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * TaraLyn Fray
 * Anthony Holan
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 3 ❓ - Other
 Testifying:
@@ -52,15 +52,15 @@ Testifying:
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * John worthington
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * Drew Zaborowski
 * Ian Morrison
 * 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 
 #### 10 ❓ - Other
 Testifying:

@@ -17,13 +17,13 @@
 ### Tue 01/13 08:00 AM - Early Learning & K-12 Education (EDU): SB 5858 Pupil transp. safety net
 #### 108 👍 - Pro
 Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Dave Larson - Washington State School Directors' Association (WSSDA)
 * Michelle Scott - Battle Ground School District - Battle Ground, WA
 * 💵Clifford Traisman - Bellevue, Highline, Northshore and Seattle Public School Districts; and Zum Services
 * Megan Larkin - Adv Director, Washington State PTA
-* Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound Superintendents and Federal Way Public Schools
-* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
-* Dave Larson - Washington State School Directors' Association (WSSDA)
 
 #### 0 👎 - Con
 

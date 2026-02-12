@@ -11,11 +11,11 @@
 ### Thu 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5299 Radiologic technologists
 #### 11 👍 - Pro
 Testifying:
+* Sarah Russell - Inland Imaging
+* Douglas Seiler - Washington State Radiological Society
 * Jim Hedrick - Washington State Radilogical Society
 * Shannon Tripp - Inland Imaging
 * Sarah Russell - Inland Imaging
-* Sarah Russell - Inland Imaging
-* Douglas Seiler - Washington State Radiological Society
 
 #### 0 👎 - Con
 

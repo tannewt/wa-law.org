@@ -30,6 +30,7 @@
 Testifying:
 * 💵Jane Wall - County Road Administration Board
 * Reema Griffith - Wash. State Transportation Commission
+* Gary Wirt - [All Aboard Washington](/org/all_aboard_washington/)
 * Mary Lou Pauly - Mayor, City of Issaquah
 * 💵Axel Swanson - Washington State Association of County Engineers
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -37,7 +38,7 @@ Testifying:
 * Ben Bakkenta - [Puget Sound Regional Council](/org/puget_sound_regional_council/)
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
-* Gary Wirt - [All Aboard Washington](/org/all_aboard_washington/)
+* Ashley Probart - Transportation Improvement Board
 * 💵Jerry Vanderwood - Associated General Contractors (AGC)
 * Mike Ennis - CRH and Washington Asphalt Pavement Association (WAPA)
 * 💵Sheri Call - Washington Trucking Associations (WTA)
@@ -45,14 +46,13 @@ Testifying:
 * Carolina Mejia
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Breck Lebegue
-* Ashley Probart - Transportation Improvement Board
-* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 * 💵Jeremy Une
 * 💵Jeremy Une
 * 💵Justin Leighton - Washington State Transit Association
 * Danny Vandine
 * 💵Michael Transue - Tacoma Pierce County Chamber
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
 #### 19927 👎 - Con
 Testifying:
@@ -60,13 +60,22 @@ Testifying:
 * Jeff Pack - Me
 * Tim Eyman - Initiative Activist
 * SAM SPIEGELMAN - Citizen Action Defense Fund
+* John Peeples
 * Heidi Johnson-Sandall
 * Leah Houser
 * Tia Hoctor
 * TaraLyn Fray
-* John Peeples
 * Eric Pratt - America
 * Mariya Frost - Kemper Development
+* Kenton Gartrell
+* Jerome Jin - None
+* Gabriel Jacobs
+* Jeff McGee
+* Rebecca Faust - n/a
+* Charles Pluckhahn
+* Diego Garza
+* Tad Sommerville
+* brian backman - BILL KORUMS PUYALLUP NISSAN
 * Gus Tombros - N/A
 * Julien Bouetard
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
@@ -74,27 +83,14 @@ Testifying:
 * Tad Sommerville
 * Douglas Patton
 * Barbara Kuehne
-* Kenton Gartrell
 * Joshua Campbell
 * Noah Meehan - Washington State Young Republicans
-* Jerome Jin - None
-* Gabriel Jacobs
-* Jeff McGee
 * Michelle Schilter
-* Rebecca Faust - n/a
-* Charles Pluckhahn
 * Amy Britsas
-* Diego Garza
-* Tad Sommerville
-* brian backman - BILL KORUMS PUYALLUP NISSAN
-* Jennifer Ritchie
-* Dustin Veysey
-* James Mott
-* James Mott
-* Joshua Kessie
-* Jonathan Bell
-* Scott Keffeler Scott Keffeler
-* Hailey Lundy - 3201 stephens rd
+* Josh McCloskey
+* Almaz Bereket - 2810-407 S McClellan st
+* Jeremy Mcfarling
+* John Meyer
 * Melinda Spear
 * Teagan Levine
 * Tayler Hatch
@@ -139,21 +135,25 @@ Testifying:
 * Laura DuBois
 * Janelle Shores
 * John Latimer
-* Josh McCloskey
-* Almaz Bereket - 2810-407 S McClellan st
 * Kurt Wilson
-* Jeremy Mcfarling
-* John Meyer
 * Chris Gunter
 * Danik Balan
 * Christopher Hinson
+* Jennifer Ritchie
+* Dustin Veysey
+* James Mott
+* James Mott
+* Joshua Kessie
+* Jonathan Bell
+* Scott Keffeler Scott Keffeler
+* Hailey Lundy - 3201 stephens rd
 
 #### 57 ❓ - Other
 Testifying:
-* Brock Milliern - Recreation and Conservation Office
 * Joe Kunzler - Citizens for Votes on Taxation
+* Brock Milliern - Recreation and Conservation Office
+* 💵Scott Hazlegrove - WA State Auto Dealers Assn
 * Michael Wolfe - [Drive Forward](/org/drive_forward/)
 * 💵Morgan Irwin - AWB
-* 💵Scott Hazlegrove - WA State Auto Dealers Assn
-* Tim Gould
 * Harley Hein
+* Tim Gould

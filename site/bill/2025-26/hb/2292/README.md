@@ -23,8 +23,8 @@ Testifying:
 * Dave Parker
 * Emily Choi-Greene - Clearly AI
 * Nicole Doyle
+* Matt Shobe
 * 💵Amy Harris
 * Joe Wallin
-* Matt Shobe
 
 #### 2 ❓ - Other

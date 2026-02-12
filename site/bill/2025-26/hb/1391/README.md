@@ -30,11 +30,11 @@ Testifying:
 Testifying:
 * Dr. Esther Matthews
 * Joshua Wheeldon - TeamChild youth Advisary Baord
-* Hayden Quillen
-* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * 💵Radu Smintina - School's Out Washington
 * Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Hayden Quillen
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
 #### 29 👎 - Con
 
@@ -43,9 +43,9 @@ Testifying:
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1391 Court alternatives/youth
 #### 41 👍 - Pro
 Testifying:
-* Gisella Gonzales - TeamChild: Youth Advisory Board
 * Kelli Robinson - Our Sisters house
 * Kelli Robinson - Our Sisters House
+* Gisella Gonzales - TeamChild: Youth Advisory Board
 * George Moya - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * Liz Trautman - Stand for Children Washington
 
@@ -59,9 +59,9 @@ Testifying:
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
 * Liz Trautman - Stand for Children Washington
+* Morning Large
 * Sunshine Timmons - Sunshine Timmons
 * Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
-* Morning Large
 
 #### 2 👎 - Con
 

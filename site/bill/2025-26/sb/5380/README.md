@@ -28,11 +28,11 @@ Testifying:
 #### 244 👎 - Con
 Testifying:
 * john worthington
+* Pe Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Drew Zaborowski - NAIOP Washington State
 * Jessica Roe - NAIOP Washington State
 * 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Pe Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Eric Pratt - America
 * 💵Joshua Estes - Association of Western Pulp and Paper Workers Union (AWPPW)

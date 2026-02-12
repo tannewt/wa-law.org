@@ -8,9 +8,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1055 Transparency ombuds study
-#### 13 👍 - Pro
-Testifying:
-* Joe Kunzler
+#### 12 👍 - Pro
 
 #### 295 👎 - Con
 Testifying:
@@ -19,10 +17,11 @@ Testifying:
 * Hannah Marcley - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * D Edson Clark
 * Jim Simon - individual
-* Ellen Hiatt - Washington Newspaper Publishers Association
 * Asenith M Herbert Hill
 * Arthur West
+* Ellen Hiatt - Washington Newspaper Publishers Association
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
+* Joe Kunzler
 * 💵Rowland Thompson - Myself

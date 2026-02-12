@@ -17,8 +17,8 @@
 ### Wed 01/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1544 Child abuse risk assessment
 #### 132 👍 - Pro
 Testifying:
-* 💵Julie Watts - Department of Children, Youth and Families
 * Kim Justice - Partners for Our Children
+* 💵Julie Watts - Department of Children, Youth and Families
 
 #### 1 👎 - Con
 

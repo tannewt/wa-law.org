@@ -14,11 +14,11 @@
 #### 28 👍 - Pro
 Testifying:
 * Adam Fyall - Benton County
-* Gail Sklar - WNPS
 * Discovery Lab of Ellensburg - Discovery Lab of Ellensburg
-* Ron Bockelman
+* Gail Sklar - WNPS
 * Pan Kantiyavong - City of Seattle Parks and Recreation Department - Volunteer Park Conservatory
 * Theresa Oyoung - President, Cascade Cactus and Succulent Society (CCSS)
+* Ron Bockelman
 * Kai Reising
 * Denise Mahnke - Washington Native Plant Society
 
@@ -30,15 +30,15 @@ Testifying:
 #### 15 👍 - Pro
 Testifying:
 * Adam Fyall - Benton County
+* Amy McGuffin - Kittitas County Chamber of Commerce
 * Ceyla Petrina
 * Evelyn Williams - Discovery Lab
 * Nellie Parker
 * Vienna Borquez - Discovery Lab of Ellensburg
-* Amy McGuffin - Kittitas County Chamber of Commerce
 * Ron Bockelman
-* John Williams - Discovery Lab
 * Ava Maddox
 * Luke Romano-Moon
+* John Williams - Discovery Lab
 
 #### 4 👎 - Con
 

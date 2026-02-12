@@ -17,23 +17,23 @@
 
 ## Meetings
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6239 State tort claims
-#### 10 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
-* 💵Arthur Longworth - TeamChild
 * Charlie Brown - [School Alliance](/org/school_alliance/)
 
-#### 612 👎 - Con
+#### 613 👎 - Con
 Testifying:
-* Elizabeth Hanley - Schroeter Goldmark & Bender
-* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
-* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * 💵Arthur Longworth - TeamChild
 * 💵Arthur Longworth - TeamChild
-* 💵Emily Stochel
 * Debbie Silberman - Oslund Udo Little
 * Tattiana Elliot
+* Elizabeth Hanley - Schroeter Goldmark & Bender
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* 💵Arthur Longworth - TeamChild
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* 💵Emily Stochel
 * Sumeer Singla
 
 #### 3 ❓ - Other
@@ -48,13 +48,13 @@ Testifying:
 * Ryan Mello - [Pierce County](/org/pierce_county/)
 * Kelly Konkright - Spokane Valley City Attorney
 * Charlie Brown - South Sound Superintendents
-* Kate Tudor - Washington Association of Area Agencies on Aging
-* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
-* Rich Moore - [Schools Insurance Association of Washington](/org/schools_insurance_association_of_washington/)
 * Commissioner Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * Commissioner LaDon Linde - Yakima County
 * Commissioner Tye Menser - [Thurston County](/org/thurston_county/)
 * 💵Derek Young - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Kate Tudor - Washington Association of Area Agencies on Aging
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
+* Rich Moore - [Schools Insurance Association of Washington](/org/schools_insurance_association_of_washington/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 738 👎 - Con
@@ -67,13 +67,13 @@ Testifying:
 * Darrell Cochran - Washington State Association for Justice
 * Marta O'Brien - Washington State Association for Justice
 * 💵Rowland Thompson - Allied Daily Newspapers of WA. WA State Assn of Broadcasters, WA Newspaper Publishers Assn
-* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
-* 💵Gabriel Galanda - Galanda Broadman
-* Ryan DREVESKRACHT - Galanda Broadman, PLLC
 * Sumeer Singla
 * Diego Rondon-Ichikawa - WA Employment Lawyers Association (WELA)
 * 💵Rebekah Gardea - QLaw Foundation of Washington
 * Renee Williams - National Crime Victim Bar Association
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Gabriel Galanda - Galanda Broadman
+* Ryan DREVESKRACHT - Galanda Broadman, PLLC
 
 #### 7 ❓ - Other
 Testifying:

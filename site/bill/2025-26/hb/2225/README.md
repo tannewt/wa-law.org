@@ -29,14 +29,14 @@ Testifying:
 * Aaron Ping
 * Jackson Munko
 * Beau Perschbacher - Governor's Office
-* Yale Moon
 * 💵Jean Hill - Washington State Catholic Conference
 * Laura Marquez-Garrett - Social Media Victims Law Center
+* Yale Moon
+* Noel Gomez - Washington against sexual exploitation (WASE Forward)
+* Katy Ruckle - WaTech
 * Max Lau - [Children's Alliance](/org/children's_alliance/)
 * Aadya Syal
-* Noel Gomez - Washington against sexual exploitation (WASE Forward)
 * LORI SCHOTT - Parents Rise!
-* Katy Ruckle - WaTech
 
 #### 243 👎 - Con
 Testifying:

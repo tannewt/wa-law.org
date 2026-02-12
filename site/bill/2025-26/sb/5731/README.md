@@ -20,11 +20,11 @@ Testifying:
 #### 1571 👎 - Con
 Testifying:
 * Terri Anderson - Tenants Union of Washington State
-* 💵Michele Thomas - Washington Low Income Housing Alliance
 * Terri Anderson - Tenants Union of Washington State
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* TaraLyn Fray
 * Deborah Wilson - LMTA
 * Caroline Hardy - AMHO and Leisure Manor Tenants Association Secretary
-* TaraLyn Fray
 * Daniel Low - Washington Physicians for Social Responsibility
 * Kerri Burnside - Bellingham Tenants Union
 * Talauna Reed - Tenants Union of Washington State

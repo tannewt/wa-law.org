@@ -30,8 +30,8 @@ Testifying:
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5703 Municipal solid waste
 #### 128 👍 - Pro
 Testifying:
-* Joshua Victor
 * Lisa Brown - Spokane City Council
+* Joshua Victor
 * Kara Odegard - Measure Meant
 * Mayor Lisa Brown - [City of Spokane](/org/city_of_spokane/)
 * James Tieken - AFSCME Local 270 Spokane City Employees
@@ -50,5 +50,5 @@ Testifying:
 Testifying:
 * Joel Creswell - Washington State Department of Ecology
 * Tamara Jones - Washington State Department of Ecology
-* Marcus Riccelli - Washington State Senate
 * 💵Suellen Mele - 350 WA Civic Action Team
+* Marcus Riccelli - Washington State Senate

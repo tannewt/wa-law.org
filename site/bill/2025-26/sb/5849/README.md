@@ -13,16 +13,25 @@
 ### Wed 02/04 10:30 AM - Early Learning & K-12 Education (EDU): SB 5849 Financial education
 #### 192 👍 - Pro
 Testifying:
-* Jeff Gadman - Thurston County Treasurer, President WSACT, Vice President WACO
-* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Conrad Krol - Westbank Financials
 * Elizabeth Cameron
-* Natalie Vega O’Neil - [Junior Achievement of Washington](/org/junior_achievement_of_washington/)
+* Jeff Gadman - Thurston County Treasurer, President WSACT, Vice President WACO
+* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Ben Olson
 * Fedor Stepanyuk
 * Rajan Parhar
-* Sherry Krainick - [Washington Bankers Association](/org/washington_bankers_association/)
+* Natalie Vega O’Neil - [Junior Achievement of Washington](/org/junior_achievement_of_washington/)
 * Keshav Gopinath
+* Sherry Krainick - [Washington Bankers Association](/org/washington_bankers_association/)
+* Diego Garcia - Washington Youth Alliance
+* Katie Fure - Washington youth alliance
+* Leyla Manjares - Washington Youth Alliance
+* Lizbeth Frutos - Washington youth alliance
+* Madi Branch - Washington youth alliance
+* Preston Tucker - Washington Youth Alliance
+* Alessandra Chavez
+* Matthew Bainter
+* Christy Johnson - Artemis Connection, Inc.
 * Patrick Brennan - Lending Tree
 * Susie Zhang - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Sorbilig Ochir - Highschool Student
@@ -32,18 +41,9 @@ Testifying:
 * Lizbeth Frutos - Washington youth alliance
 * Madi Branch - Washington youth alliance
 * Preston Tucker - Washington Youth Alliance
-* Diego Garcia - Washington Youth Alliance
-* Katie Fure - Washington youth alliance
-* Leyla Manjares - Washington Youth Alliance
-* Lizbeth Frutos - Washington youth alliance
-* Madi Branch - Washington youth alliance
-* Preston Tucker - Washington Youth Alliance
 * Alan Spicciati - Auburn School District
 * Luke Johnson
 * Noah Wissner
-* Alessandra Chavez
-* Matthew Bainter
-* Christy Johnson - Artemis Connection, Inc.
 * Paula Fillmore-Sardinas - FMSGS/WBBA
 
 #### 75 👎 - Con

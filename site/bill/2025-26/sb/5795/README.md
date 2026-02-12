@@ -21,15 +21,16 @@
 
 ## Meetings
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5795 Sales and use tax rate
-#### 1307 👍 - Pro
+#### 1308 👍 - Pro
 Testifying:
 * Alexis Bardecker
 * Sharon Hanek
 * Rebecca Faust
+* Rebecca Faust
 * Judith Smith
 * libi benyoar
 
-#### 696 👎 - Con
+#### 695 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Tim Eyman - Initiative Activist
@@ -37,7 +38,6 @@ Testifying:
 * James Bardecker
 * Mike Martinez
 * Indy Dehal
-* Rebecca Faust
 * Nicki Ferguison - Promethean Consulting
 
 #### 1 ❓ - Other

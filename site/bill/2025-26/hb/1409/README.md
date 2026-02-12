@@ -46,7 +46,7 @@ Testifying:
 #### 340 👍 - Pro
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
-* 💵Leah Missik
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 
@@ -88,15 +88,15 @@ Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Justin Leighton - Washington State Transit Association
-* Robin Vercruse - [Low Carbon Fuels Coalition](/org/low_carbon_fuels_coalition/)
 * Aimee Higby - Tacoma Public Utilities/Tacoma Power
 * Michael Breish - Seattle City Light/City of Seattle
-* 💵Kent Hartwig - I am an official representative of Gevo
-* Jonathan Harding - American Biogas Council
+* Robin Vercruse - [Low Carbon Fuels Coalition](/org/low_carbon_fuels_coalition/)
 * Cory-Ann Wind - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 * Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 * Sam Wade - Coalition for Renewable Natural Gas
 * Dean Taylor - Dean Taylor Consulting
+* 💵Kent Hartwig - I am an official representative of Gevo
+* Jonathan Harding - American Biogas Council
 
 #### 827 👎 - Con
 Testifying:
@@ -104,8 +104,8 @@ Testifying:
 * Jodie Muller - WSPA
 * Ben Buchholz - NW Agricultural Cooperative Council, WA Friends of Farms and Forests, Far West Agribusiness Assoc.
 * Jeff Pack - Me
-* Arthur West
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Arthur West
 
 #### 8 ❓ - Other
 Testifying:

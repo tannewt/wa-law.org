@@ -17,9 +17,9 @@ Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Candice Baughman - Underground Ministries
 * Catherine Antee - LFC  Stafford Creek
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 * Jerry Thomas
 * Larry Jefferson - Director, Washington State Office of Public Defense
-* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
 #### 34 👎 - Con
 

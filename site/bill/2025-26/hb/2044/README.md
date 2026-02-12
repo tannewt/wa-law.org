@@ -18,11 +18,11 @@ Testifying:
 #### 208 👎 - Con
 Testifying:
 * William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* Melody Edmiston
+* Meagan Cordova
 * Kelly Mangiaracina
 * Tara Rittenhouse - Becca Program Supervisor
 * Ebonee Hines
-* Melody Edmiston
-* Meagan Cordova
 * Treesa Tudesque
 
 #### 6 ❓ - Other
@@ -38,13 +38,13 @@ Testifying:
 
 #### 152 👎 - Con
 Testifying:
+* William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
 * Melody Edmiston - Citizen
 * Melody Edmiston - Citizen
 * Terrell Dorsey - terrelldorsey@utbteens.com
 * Melody Edmiston
 * Jennifer Tibbitts
-* William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
-* William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
 * Karen Chapman
 
 #### 11 ❓ - Other

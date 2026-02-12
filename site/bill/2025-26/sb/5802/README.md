@@ -30,12 +30,12 @@
 
 #### 144 👎 - Con
 Testifying:
-* Gordon Lueckenotte
-* Marissa Hill
-* Courtney McGuire
 * Andrew Villeneuve - Northwest Progressive Institute / Executive Director
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Alejandro Galvan
+* Gordon Lueckenotte
+* Marissa Hill
+* Courtney McGuire
 
 #### 0 ❓ - Other
 

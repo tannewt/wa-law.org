@@ -70,8 +70,8 @@
 ### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
 
 ### [SB 5884](/bill/2025-26/sb/5884/) - Underutilized property/tax 👍2  
-* 👍 Council Member Kitty Kliztke
 * 👍 Spencer Gardner
+* 👍 Council Member Kitty Kliztke
 
 ### [SB 5933](/bill/2025-26/sb/5933/) - Overdose mapping information 👍1  
 * 👍💵 Paul Dillon

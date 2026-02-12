@@ -16,18 +16,17 @@ Testifying:
 * Island County Commissione Jill Johnson - [Island County](/org/island_county/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1032 👎 - Con
-Testifying:
-* Tim Eyman - Initiative Activist
-* Kenneth Spaeth
-* Tim Eyman - Initiative Activist
-* TaraLyn Fray
-* Jeff Gombosky - CTIA - The Wireless Association
-* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* Dever Haffner-Ratliffe - Cowlitz Public Utility District
-* 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative
-* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
-
-#### 1 ❓ - Other
+#### 1033 👎 - Con
 Testifying:
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Tim Eyman - Initiative Activist
+* Kenneth Spaeth
+* TaraLyn Fray
+* Jeff Gombosky - CTIA - The Wireless Association
+* Tim Eyman - Initiative Activist
+* 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Dever Haffner-Ratliffe - Cowlitz Public Utility District
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+
+#### 0 ❓ - Other

@@ -33,8 +33,8 @@ Testifying:
 
 #### 1940 👎 - Con
 Testifying:
-* Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs
+* Khushdip Brar - Concerned Citizen
 * STEVEN PEARCE - Citizens Commission on Human Rights
 
 #### 3 ❓ - Other

@@ -15,11 +15,11 @@
 #### 163 👍 - Pro
 Testifying:
 * Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
+* 💵Christopher Ellis - Bricklayers & Allied Craftworkers
 * Rino Hamanishi - Historic South Downtown & SCIDpda
 * Amy Chen Lozano - [Historic South Downtown](/org/historic_south_downtown/)
 * Robert Rodriguez - Yellow Butterfly Coffee
 * Christopher Yip
-* 💵Christopher Ellis - Bricklayers & Allied Craftworkers
 
 #### 3 👎 - Con
 

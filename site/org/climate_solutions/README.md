@@ -30,7 +30,8 @@
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases   ❓1
 * ❓💵 Leah Missik
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍4  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍5  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik

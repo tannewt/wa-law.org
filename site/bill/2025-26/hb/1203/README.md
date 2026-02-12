@@ -29,9 +29,6 @@ Testifying:
 * Julian Jansen - Student Representative for Eatonville School District
 * McKenah Perdue - Student Representative for Eatonville School District
 * Robert Poulter - Student Representative for Eatonville School District
-* Jonathan Bricker - Fred Hutch Cancer Center
-* Pam Johnson - Hazardous Waste Management Program
-* Jay Miller - Tacoma Pierce County Health Department
 * 💵Roz Thompson - Association of Washington School Principals (ASWP)
 * Krystal Forslin - Student
 * Nancy Carroll - Assistant Principal, West Seattle High School
@@ -49,33 +46,36 @@ Testifying:
 * 💵Kelsey Beck - Kaiser
 * 💵Lyset Cadena - Andy Hill Cancer Research Endowment Fund
 * Malcolm Clay - Tacoma NAACP
+* Jonathan Bricker - Fred Hutch Cancer Center
+* Pam Johnson - Hazardous Waste Management Program
+* Jay Miller - Tacoma Pierce County Health Department
 * Mikayla Tanis - Educator
 
 #### 448 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
-* Neill Franklin - Law Enforcement Action Partnership
-* Christopher Hudgins - National Hookah Community Association
 * Thomas Eshleman - Doyles Sheehan
 * Doug Ball - Jackson's Food Stores, Inc.
 * Jeff Small - Small and Sons Oil
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* William robinson - URBAN COALITION AGAINST SUBSTANCE ABUSE
+* Neill Franklin - Law Enforcement Action Partnership
+* Christopher Hudgins - National Hookah Community Association
 * Elliot Boyce - None
 * Corey Pegues - COREY PEGUES ENTERPRISE
-* Robert Lambeth
 * Joe Hunt - United Pacific
 * Lamont Robinson
 * Yvonne Pack
 * Gregory Smith
+* William robinson - URBAN COALITION AGAINST SUBSTANCE ABUSE
+* Robert Lambeth
 * 💵Aaron Holmes - Vapor Technology Association
 * Jonny Ghim - KAGRO Washington
 * 💵Sara Stewart - Washington Smoke-Free Association
 * Jiles Ship - (NOBLE) National Prganization of Black aw Enforcement Executitves
 * Chong Sullivan - KAGRO
-* 💵Crystal Leatherman - WA Retail Association
 * Kerry Schultz - Creekside Market
 * Alex Wardi - OMG Food Mart
+* 💵Crystal Leatherman - WA Retail Association
 
 #### 10 ❓ - Other
 Testifying:

@@ -22,9 +22,9 @@ Testifying:
 * John Hines - Council Member, City of Tacoma
 * 💵Stephanie Hillman - [Humane World for Animals](/org/humane_world_for_animals/)
 * Leslie Dalzell - THE HUMANE SOCIETY FOR TACOMA & PIERCE COUNTY
-* Leslie Dalzell - THE HUMANE SOCIETY FOR TACOMA & PIERCE COUNTY
-* Leslie Dalzell - THE HUMANE SOCIETY FOR TACOMA & PIERCE COUNTY
 * Cynthia Parsons
+* Leslie Dalzell - THE HUMANE SOCIETY FOR TACOMA & PIERCE COUNTY
+* Leslie Dalzell - THE HUMANE SOCIETY FOR TACOMA & PIERCE COUNTY
 * Craig Tebeau
 
 #### 135 👎 - Con

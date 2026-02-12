@@ -11,25 +11,25 @@
 #### 22 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
-* Calista Brady
 * Ashiana Ranjan
-* Boden Reeve
-* Carter Pawelke
-* Henry Yeh
+* Calista Brady
 * Bill Turner - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
 * 💵Heath Heikkila - American Forest Resource Council
 * Maria Boyko
 * Andrew Lu - Lake Washington High School
+* Boden Reeve
+* Carter Pawelke
+* Henry Yeh
 * Jett Running
 * Jonah Synn
 
 #### 933 👎 - Con
 Testifying:
 * Sandra Mochizuki
+* TaraLyn Fray
 * Mariska Kecskes - [Sierra Club](/org/sierra_club/)
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * Rachel Baker - [Washington Conservation Action](/org/washington_conservation_action/)
-* TaraLyn Fray
 
 #### 2 ❓ - Other
 Testifying:

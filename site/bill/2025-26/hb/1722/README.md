@@ -18,10 +18,10 @@ Testifying:
 * Ethan Wodehouse - Tri-Tech Skills Center
 * Nathen Allington - Tri-Tech Skills Center
 * Paul Randall - Tri-Tech Skills Center
+* Charlie Brown - Washington Skills Centers Directors
 * Jinho (Jacob) Lee
 * Krishna Pratheek Madamala
 * Walter Lumpkin
-* Charlie Brown - Washington Skills Centers Directors
 * Katelyn Kean - Northwest Maritime
 
 #### 2 👎 - Con

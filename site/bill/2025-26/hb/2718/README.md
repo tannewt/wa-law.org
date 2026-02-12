@@ -13,8 +13,8 @@
 
 #### 10 👎 - Con
 Testifying:
-* 💵Jerry Vanderwood
 * 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
 * Mike Ennis - [Washington Asphalt Pavement Association](/org/washington_asphalt_pavement_association/)
+* 💵Jerry Vanderwood
 
 #### 1 ❓ - Other

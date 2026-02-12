@@ -18,13 +18,13 @@
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5362 Crime victim services
 #### 691 👍 - Pro
 Testifying:
-* Carlyn Sampson - Rebuilding Hope Sexual Assault Center
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Carlyn Sampson - Rebuilding Hope Sexual Assault Center
+* Colleen McIngalls - King County Prosecuting Attorney's Office
+* Suzi Fode - Kids Hope Children's Advocacy Center
 * Roz Arch - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Annalise Martucci - Office of Civil Legal Aid
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Colleen McIngalls - King County Prosecuting Attorney's Office
-* Suzi Fode - Kids Hope Children's Advocacy Center
 * Elisa Adolphsen - Kids Hope CAC
 
 #### 1 👎 - Con
@@ -42,6 +42,8 @@ Testifying:
 * Colleen McIngalls - King County Prosecuting Attorney's Office
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Katie Whittier - YWCA Clark County
+* Leesa Manion - King County Prosecuting Attorney's Office
 * 💵Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
 * Paula Reed - CAC-WA
 * Annalise Martucci - Office of Civil Legal Aid
@@ -50,8 +52,6 @@ Testifying:
 * Carlyn Sampson - Rebuilding HOPE
 * Jade Carela - Tulalip Tribes Family Advocacy
 * Lindsay Finney - Mary Bridge Pediatric Care Continuum Children's Advocacy Center of Pierce County
-* Katie Whittier - YWCA Clark County
-* Leesa Manion - King County Prosecuting Attorney's Office
 * Suzi Fode - New Hope & Kids Hope
 * Jane Smith
 

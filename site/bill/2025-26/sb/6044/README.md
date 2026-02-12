@@ -13,11 +13,11 @@
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6044 Diwali and Bandi Chhor Divas
 #### 31 👍 - Pro
 Testifying:
-* Srinivas Khedam - Hindu American Community of Seattle
 * Satwinder Kaur
 * ARUN SHARMA - UTSAV
 * Pradeep Tiwari
 * Avani Desai
+* Srinivas Khedam - Hindu American Community of Seattle
 
 #### 7 👎 - Con
 

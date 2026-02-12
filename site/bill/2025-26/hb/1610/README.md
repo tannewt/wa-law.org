@@ -18,8 +18,8 @@ Testifying:
 
 #### 580 👎 - Con
 Testifying:
-* ROBERT McCLURE
 * TaraLyn Fray
+* ROBERT McCLURE
 
 #### 3 ❓ - Other
 Testifying:

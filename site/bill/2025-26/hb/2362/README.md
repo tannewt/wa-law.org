@@ -35,22 +35,22 @@ Testifying:
 ### Thu 01/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2362 Impaired driving
 #### 270 👍 - Pro
 Testifying:
+* Thomas Chapman - National Transportation Safety Board
+* Ashley Bonus - In Memory of Stacy Gammons-Ankerfelt 1983-2012 killed by an impaired driver
+* Terri Gammons - In memory of Stacy Gammons- Ankerfelt 11/10/83-08/20/2012 killed by an impaired driver
 * Mark McKechnie - Washington Traffic Safety Commission
 * Kayson Bonus - In memory of Stacy Gammons- Ankerfelt 1983-2012 Killed by an impaired driver
 * Captain Deion Glover - Washington State Patrol
 * Linda Thompson - In Memory of Trevor Pierce, 9/16/1982 - 8/16/1986
 * Mellani McAleenan - AAA Washington
 * Robin Sparks
-* Thomas Chapman - National Transportation Safety Board
-* Ashley Bonus - In Memory of Stacy Gammons-Ankerfelt 1983-2012 killed by an impaired driver
-* Terri Gammons - In memory of Stacy Gammons- Ankerfelt 11/10/83-08/20/2012 killed by an impaired driver
 * James Fell
 * Amy Freedheim - King County Prosecuting Attorney's Office
+* Tao Sheng Kwan-Gett - Washington Department of Health
+* Candace Reid - Mothers Against Drunk Driving
 * Marsha Masters
 * Nathan Olson - Governor's Office
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Tao Sheng Kwan-Gett - Washington Department of Health
-* Candace Reid - Mothers Against Drunk Driving
 
 #### 501 👎 - Con
 Testifying:

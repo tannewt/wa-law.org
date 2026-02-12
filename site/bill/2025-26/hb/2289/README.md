@@ -14,8 +14,9 @@
 
 ## Meetings
 ### Wed 01/14 04:00 PM - Appropriations (APP): HB 2289 Operating budget, supp.
-#### 100 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
+* Mike Peroni - [Northwest Agriculture Business Center](/org/northwest_agriculture_business_center/)
 * Marty Reid
 * David Knight - UW
 * Eric Carlson
@@ -24,7 +25,6 @@ Testifying:
 * Doug Hostetter - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Marty Reid - Tumwater School District
 * 💵Myle Tang - Stand for Children WA
-* Mike Peroni - [Northwest Agriculture Business Center](/org/northwest_agriculture_business_center/)
 * Daniel Whelan - Sustainable Northwest
 * Joe McDermott - State Relations Director | King County
 * Sarah Dickmeyer - Plymouth Housing
@@ -35,11 +35,10 @@ Testifying:
 * Max Mendez Kauffman - Office of Civil Legal Aid
 * Ryan Blackwell - W4A (Washington Area Agencies on Aging)
 * Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
-* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Melissa Derry
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
 * Tom McGarry
+* Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
 * 💵Michael Moran - WA Music Therapy Task Force
 
 #### 1093 👎 - Con
@@ -50,12 +49,6 @@ Testifying:
 * 💵Erin Haick - SEIU 925
 * Len Mc Comb - WASHINGTON STATE HOSPITAL ASOCIATION
 * Logan Noel-Endres - Washington State School Directors' Association (WSSDA)
-* Christine Cooley - Executive Director, Puget Sound Clean Air Agency
-* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
-* Randy Heath - Washington State Alliance of YMCAs
-* Derek VanSpoor - Retired Public Employees Council of WA
-* Aren Permadi
-* Tim Eyman - Initiative Activist
 * Rhonda Hauff
 * Samiksha Mokashi - Avamere Rehabilitation of Issaquah
 * Jordan Monson - Cascadia Healthcare
@@ -65,17 +58,22 @@ Testifying:
 * Russell Sells - Olympia Transitional Care and Rehabilitation- Ensign Services
 * Chris Beckers - Parkside Retirement- Noble Healthcare
 * Monique Mason - Heartwood Extended Care- Evergreen Healthcare
+* Christine Cooley - Executive Director, Puget Sound Clean Air Agency
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Randy Heath - Washington State Alliance of YMCAs
+* Derek VanSpoor - Retired Public Employees Council of WA
+* Aren Permadi
+* Tim Eyman - Initiative Activist
 * Mindy Bradley - The Oaks at Lakewood
-* Cynthia Tamayo - WA State School Directors' Association
 * JOHN WORTHINGTON
 * Mindy Bradley - The Oaks at Lakewood
+* Cynthia Tamayo - WA State School Directors' Association
 
-#### 138 ❓ - Other
+#### 139 ❓ - Other
 Testifying:
-* 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Kim Justice - Partners for Our Children
+* 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
-* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Malea Sary
@@ -83,6 +81,7 @@ Testifying:
 * John Lemus
 * Kat Lohman - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Nello Picinich - Coastal Conservation Association
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
@@ -93,21 +92,21 @@ Testifying:
 * Corryn Zylstra - Great Peninsula Conservancy
 * Alison Mondi - Arcora Foundation
 * 💵Shawn Latham - Self Advocates In Leadership
-* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Wesley Jessup - Eastern Washington Historical Society (Northwest Museum of Arts & Culture)
 * Preston Dwoskin
-* Brahmi Pugh - Coalition for Organic and Regenerative Agriculture
-* Beatrice Caffe - UAW 4591
-* Natalie Wellen - UAW 4121
-* Willow Heidt - UAW 4929
 * Chris Guardiano - Work Opportunities
 * Jason Peterson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Tammy Bowen - Work Opportunities
 * 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
 * Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
-* Patricia Castaneda - [Manzanita House](/org/manzanita_house/)
+* Brahmi Pugh - Coalition for Organic and Regenerative Agriculture
+* Beatrice Caffe - UAW 4591
+* Natalie Wellen - UAW 4121
+* Willow Heidt - UAW 4929
 * Cathy Murahashi - The Arc of Washington
+* Patricia Castaneda - [Manzanita House](/org/manzanita_house/)
 
 ### Mon 01/12 04:00 PM - Appropriations (APP): HB 2289 Operating budget, supp.
 #### 41 👍 - Pro
@@ -120,18 +119,18 @@ Testifying:
 * 💵Dawn Rains - [Treehouse](/org/treehouse/)
 * 💵Nicole Kern
 * Sophia Byrd McSherry - Deputy Director, Washington State Office of Public Defense
+* Philippe Knab - Washington State Office of Civil Legal Aid
 * 💵Myle Tang - Stand for Children WA
 * Krystyna Wolniakowski - Columbia River Gorge Commission
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Judy Ellis
 * Max Mendez Kauffman - Office of Civil Legal Aid
-* Philippe Knab - Washington State Office of Civil Legal Aid
+* Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
+* Melissa Derry - Central Washington Legal Aid
 * Melissa Derry - Central Washington Legal Aid
 * Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
 * Tom McGarry - [Northwest Justice Project](/org/northwest_justice_project/)
 * 💵Anne Burkland - Human Rights Commission
-* Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
-* Melissa Derry - Central Washington Legal Aid
 * Rebeca Potasnik - Thurston Housing Land Trust
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * 💵Amber Carter - [Washington Workforce Association](/org/washington_workforce_association/)
@@ -151,20 +150,19 @@ Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Tori Emerson - President, Washington State PTA
 * Jolynn Kenney - MENTOR Washington
+* Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
+* 💵Marissa Rathbone - WA Assoc of School Administrators (WASA) and WA Assoc of School Business Officials (WASBO)
 * Tarin Todd - RBAW
 * Lisa Yohalem - HealthPoint
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵Alyssa Odegaard - LeadingAge Washington
-* Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
-* 💵Marissa Rathbone - WA Assoc of School Administrators (WASA) and WA Assoc of School Business Officials (WASBO)
+* ROBIN Everett - SIERRA CLUB
 * 💵Braden Sigua - [Pacific Science Center](/org/pacific_science_center/)
 * Chris Mulick - Washington State University
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
-* ROBIN Everett - SIERRA CLUB
 * 💵Erin Haick - SEIU 925
 * Len Mc Comb - WASHINGTON STATE HOSPITAL ASOCIATION
 * Tim Eyman - Initiative Activist
-* Anthony Mixer - Citizen Volunteer Lobbyist
 * James Hurst
 * Danielle St. Germain - Cascadia Healthcare
 * Mindy Bradley - Ensign Services
@@ -174,6 +172,7 @@ Testifying:
 * Aren Permadi
 * Randy Heath - Washington State Alliance of YMCAs
 * Julian Loaiza
+* Anthony Mixer - Citizen Volunteer Lobbyist
 
 #### 71 ❓ - Other
 Testifying:
@@ -187,6 +186,16 @@ Testifying:
 * Rick Chisa - Public School Employees of WA/SEIU 1948
 * 💵Roshelle Cleland - WA State Coalition Against Domestic and Sexual Violence
 * PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Dr. Kevin Brockbank - Spokane Colleges
+* Nate Humphrey - WA State Board for Community and Technical Colleges
+* Annalise Martucci - Office of Civil Legal Aid
+* Hali Willis - Seattle/King County Coalition on Homelessness
+* Demas Nesterenko - SEIU775
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
 * 💵Nora Selander - Western Washington University
 * 💵Radu Smintina - School's Out Washington
@@ -195,18 +204,9 @@ Testifying:
 * Suzi Fode - New Hope and Kids Hope Children's Advocacy Center
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Megan Dunn - Snohomish County, District 2
-* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Dr. Kevin Brockbank - Spokane Colleges
-* Nate Humphrey - WA State Board for Community and Technical Colleges
-* Annalise Martucci - Office of Civil Legal Aid
-* Hali Willis - Seattle/King County Coalition on Homelessness
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
-* Demas Nesterenko - SEIU775
-* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
-* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
-* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* Nik Bergman - Quincy School District
 * Chris Guardiano - Work Opportunities
 * Jason Peterson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Tammy Bowen - Work Opportunities
@@ -216,8 +216,10 @@ Testifying:
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Derek VanSpoor - Retired Public Employees Council of WA
 * Wesley Jessup - Eastern Washington State Historical Society
-* Nik Bergman - Quincy School District
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Rashi Gupta - UW Medicine
+* 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
+* 💵Jaime Bodden - WSALPHO
 * Cathleen MacCaul - AARP Washington State
 * 💵Peter Diedrick - WA State School Retirees' Association
 * Charlie Brown - South Sound Superintendents
@@ -226,16 +228,13 @@ Testifying:
 * Natalie Wellen - UAW 4121
 * Willow Heidt - UAW 4929
 * Nancy Canales - [Front and Centered](/org/front_and_centered/)
-* Rashi Gupta - UW Medicine
 * Patricia Castaneda - 222 W Mission Ave
-* 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
-* 💵Jaime Bodden - WSALPHO
+* Preston Dwoskin
+* Jani Hitchen - Pierce County Council Chair
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* SHAWN LATHAM - Self Advocates In Leadership
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Taylor Crisp
 * Alison Mondi - Arcora Foundation
 * Jane wheeler
 * Josh Diekmann - Pierce County- Planning and Public Works Dept.
-* Jani Hitchen - Pierce County Council Chair
-* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
-* SHAWN LATHAM - Self Advocates In Leadership
-* Preston Dwoskin
-* 💵Michael Moran - Confederated Tribes of the Colville Reservation

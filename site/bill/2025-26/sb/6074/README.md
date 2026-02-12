@@ -23,6 +23,6 @@ Testifying:
 Testifying:
 * Cindy Arends - [Washington Defender Association](/org/washington_defender_association/)
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Larry Jefferson - Director, Washington State Office of Public Defense
 * Kecia Rongen - Indeterminate Sentence Review Board
 * Mac Pevey - Department of Corrections
+* Larry Jefferson - Director, Washington State Office of Public Defense

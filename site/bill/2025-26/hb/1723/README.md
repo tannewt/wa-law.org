@@ -23,11 +23,11 @@ Testifying:
 #### 845 👎 - Con
 Testifying:
 * Charlie Brown - Schools Coalition
-* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Angelica Duncan - Hi Grade Asphalt & Seal Coat Inc
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * TaraLyn Fray
 * Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
-* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 * Brian Gregory
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 
 #### 0 ❓ - Other

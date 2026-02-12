@@ -13,9 +13,9 @@
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1365 Mobile home rental assist.
 #### 109 👍 - Pro
 Testifying:
-* Melinda OHara
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Kevin Van De Wege - Detente
+* Melinda OHara
 
 #### 709 👎 - Con
 Testifying:
@@ -25,24 +25,22 @@ Testifying:
 * Mary Johnson
 * William Booth
 * Caroline Hardy - Leisure Manor Tenants Association
-* Robin Piper-Zorich - AMHO
-* Robin Piper-Zorich - AMHO
 * Eldean Montgomery - 2
+* Sheila Mulligan
+* Theresa Skrentny - AMHO
 * Kyle Fleck
 * Lonnie Stoddard
-* Sheila Mulligan
 * Christina Kitchen
-* Theresa Skrentny - AMHO
 * MARTI TATE
 * Judith Ames
 * FRED Sheppard
 * Sharon Pevey - AMHO
 * Glen Parker
 * Cindy Vick - xxx-xx-xxxx
-* Sharon Pevey - AMHO
 * Anthony Holan
 * Diane Eaton - N/A
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Sharon Pevey - AMHO
 
 #### 1 ❓ - Other
 Testifying:

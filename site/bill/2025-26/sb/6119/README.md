@@ -29,7 +29,7 @@ Testifying:
 
 #### 5 ❓ - Other
 Testifying:
-* 💵Rose Gundersen - WA Retail Association
 * Jenifer McIntyre
+* 💵Rose Gundersen - WA Retail Association
 * Kimberly Goetz - Department of Ecology
 * Don Gourlie - Puget Sound Partnership

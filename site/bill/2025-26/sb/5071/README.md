@@ -12,8 +12,8 @@
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5071 Controlled sub. endangerment
 #### 35 👍 - Pro
 Testifying:
-* Dakota Manley - Washington State Young Republicans
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
+* Dakota Manley - Washington State Young Republicans
 * Bryce Nelson - Pierce County Prosecutor’s Office
 * Loni Simone
 * Anthony Stockman

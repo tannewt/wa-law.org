@@ -14,8 +14,8 @@
 #### 138 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
-* Maria Tobin - South Sound Military & Communities Partnership
 * Allen Acosta - Veterans Legislative Coalition
+* Maria Tobin - South Sound Military & Communities Partnership
 
 #### 1 👎 - Con
 

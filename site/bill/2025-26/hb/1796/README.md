@@ -44,8 +44,8 @@ Testifying:
 ### Thu 02/13 01:30 PM - Capital Budget (CB): HB 1796 School construction debt
 #### 22 👍 - Pro
 Testifying:
-* Leah Choi - Board Director, Lake Washington School District
 * Jon Holmen - Superintendent, Lake Washington School District
+* Leah Choi - Board Director, Lake Washington School District
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
 * John Parker - [Central Valley School District](/org/central_valley_school_district/)

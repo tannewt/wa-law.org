@@ -16,16 +16,16 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
 * Gaelon Spradley - Valley View Health Center
-* Oran Root - Kitsap County Commissioner
-* Meja Handlen - Lewis County Public health & Social Services
-* Tatiana Leone
-* Monica Spence
 * Lindsey Pollock - Lewis County Board of County Commissioners
 * Michael Maxwell - North Olympic Healthcare Network
 * Brynn Felix - Peninsula Community Health Services
 * Dr. Michael Maxwell - North Olympic Healthcare Network
 * Gaelon Spradley - Valley View Health Center
 * Penelope Sapp - Kitsap County Chief of Corrections
+* Oran Root - Kitsap County Commissioner
+* Meja Handlen - Lewis County Public health & Social Services
+* Tatiana Leone
+* Monica Spence
 
 #### 517 👎 - Con
 

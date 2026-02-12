@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201717)
@@ -18,10 +19,10 @@ Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Alyssa Torrez - South Sound Housing Affordability Partners
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
+* Emani Donaldson - Tacoma Pierce County Habitat for Humanity
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Beau Baker - Southport Financial Services
-* Emani Donaldson - Tacoma Pierce County Habitat for Humanity
 
 #### 99 👎 - Con
 
@@ -32,10 +33,10 @@ Testifying:
 ### Fri 02/21 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
 #### 107 👍 - Pro
 Testifying:
+* Nicholas Carr - Office of the Governor
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Meloney Rosen - Yakima Valley Partners Habitat for Humanity
-* Nicholas Carr - Office of the Governor
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
 * Kathleen Hosfeld - www.homesteadclt.org
 * Zac Baker - Southport Financial Services

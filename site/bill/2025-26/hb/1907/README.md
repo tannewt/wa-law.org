@@ -24,6 +24,7 @@ Testifying:
 Testifying:
 * Patrick Gilroy - Washington Self Storage Association
 * stuart drebick - ADROIT cONTRACTORS INC
+* DONALD ARSENAULT - As an Individual and Past 20 Years as Legislative Chair WA Self Storage Assoc.
 * Lance Baker - President, Washington Self Storage Association
 * Patrick Gilroy - Legislative Chair, Washington Self Storage Association
 * Kristi Tripple
@@ -31,20 +32,19 @@ Testifying:
 * John Eisenbarth
 * Joe Doherty - Chief Legal Counsel, Self Storage Association
 * george shipley
-* DONALD ARSENAULT - As an Individual and Past 20 Years as Legislative Chair WA Self Storage Assoc.
-* Robert Wasmund - Secure Storage
 * TsunFa Lin
 * Michael Kruse
 * Elizabeth Stugelmayer
+* Robert Wasmund - Secure Storage
 * TaraLyn Fray
+* Todd Barker - Osullivan Storage llc
+* Todd Barker - O’Sullivan Storage LLC
 * Susan Hunter
 * Anthony D'Ambrosio - Official Representative of DuPont Heated Self Storage
 * Jacqueline Stonas
 * Joe Sievers - Everett Downtown Storage
 * Dave Reed - Coast Property Management
 * William Hart
-* Todd Barker - Osullivan Storage llc
-* Todd Barker - O’Sullivan Storage LLC
 * Rod Kauffman - The Building Owners and Managers Association of Washington State
 * Kevin Wallace - WA Business Properties Assn (WBPA)
 

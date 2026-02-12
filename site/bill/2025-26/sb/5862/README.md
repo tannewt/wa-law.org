@@ -12,11 +12,11 @@
 #### 1432 👍 - Pro
 Testifying:
 * LeeAnn Prielipp - WEA-Retired
-* James Shepherd
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * NEVA LUKE - WEA-Retired
 * Janice Bieber - WEA-Retired
 * Barb Church - Washington State School Retirees' Association
+* James Shepherd
 
 #### 58 👎 - Con
 

@@ -37,23 +37,22 @@ Testifying:
 Testifying:
 * John Axtell
 * Nick Olson
+* Mae Hollinshead
 * Emily Souders - La Conner School District
-* Casey Henry - Internship Coordinator, Gibson Ek High School, Issaquah School District
 * Tonja Reischl - Principal, Gibson Ek High School, Issaquah School District
 * Will Kheriaty
-* Mae Hollinshead
 * Matthew Brewer
+* Lars Hill
 * Troy Goracke - WA State Board for Community and Technical Colleges
 * Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Connor Arthur
-* Lars Hill
 * Julia Bamba - [Issaquah School District](/org/issaquah_school_district/)
 
 #### 2126 👎 - Con
 Testifying:
 * TaraLyn Fray
-* Sandra Mochizuki
 * Gabriel Jacobs
+* Sandra Mochizuki
 * Sarah Garriott
 * Linda Wojciechowski
 * Linda Wojciechowski
@@ -87,8 +86,8 @@ Testifying:
 
 #### 788 👎 - Con
 Testifying:
-* Sarah Garriott
 * Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Sarah Garriott
 * Rhonda Looney - None
 * Maxine Herbert Hill - SR162 Community Group
 * Jennifer Heine-Withee

@@ -39,8 +39,8 @@ Testifying:
 ### Mon 02/03 01:30 PM - Housing (HOUS): HB 1500 CIC resale certificates
 #### 11 👍 - Pro
 Testifying:
-* Joel Gilman
 * Steve Horvath - HOA United
+* Joel Gilman
 * 💵Bill Clarke - WA REALTORS
 
 #### 4 👎 - Con

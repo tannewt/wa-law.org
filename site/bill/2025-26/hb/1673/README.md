@@ -33,11 +33,11 @@ Testifying:
 
 #### 9 ❓ - Other
 Testifying:
-* Glenn Blackmon - Washington State Department of Commerce
 * 💵Jay Balasbas - PacifiCorp
+* Glenn Blackmon - Washington State Department of Commerce
 * 💵Dave Warren - Klickitat PUD and Okanogan PUD
 * 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
-* 💵Dave Warren - Klickitat PUD and Okanogan PUD
 * 💵Maggie Douglas
+* 💵Dave Warren - Okanogan PUD
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * 💵Nicolas Garcia - WPUDA

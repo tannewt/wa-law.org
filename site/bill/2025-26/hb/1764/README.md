@@ -30,12 +30,12 @@ Testifying:
 
 #### 1749 👎 - Con
 Testifying:
+* 💵Rose Gundersen - WA Retail Association
 * 💵Rose Gundersen - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Ginni Carlson
-* 💵Rose Gundersen - WA Retail Association
-* THOMAS FALK
 * Cathy Buckley - Bellingham Athletic Club
+* THOMAS FALK
 * Robert Burgess - Beverage Specialists Inc
 * KARL MOEGLING
 * Avis Anson - Brewster Marketplace
@@ -44,13 +44,13 @@ Testifying:
 * Brad Haggen - Naples Best Restaurants
 * Clayton Krueger - Farrelli's Wood Fire Pizza
 * Debbie Brese - The Cloverleaf
-* Melissa Gonzalez
-* Cody Bishop
-* Janet Kenefsky - Greater Vancouver Chamber of Commerce
 * Cindy Trondsen - MC Interiors LLC
 * 💵Jon Walker - Lyft, Inc.
 * MICHAEL MORRIS
 * Charlotte Trevino
+* Melissa Gonzalez
+* Cody Bishop
+* Janet Kenefsky - Greater Vancouver Chamber of Commerce
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 * Lilly Hayward - Seattle Metropolitan Chamber of Commerce
 * Michael Azzano - Azzano Farms, Inc.

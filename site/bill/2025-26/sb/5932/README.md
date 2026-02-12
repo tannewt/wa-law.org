@@ -22,6 +22,6 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Dallas Scholes - Par Pacific Holdings
 * Joel Creswell - Washington Department of Ecology
+* Dallas Scholes - Par Pacific Holdings
 * Marty Loesch - SkyNRG

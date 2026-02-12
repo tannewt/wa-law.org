@@ -11,10 +11,10 @@
 #### 236 👍 - Pro
 Testifying:
 * 💵Holly Chisa - Recycled Materials Associatino
+* Jorge Padilla - NCTA – The Internet & Television Association
 * 💵Rhonda Weaver - Comcast
 * Rob Thoms - Lumen Technologies
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Jorge Padilla - NCTA – The Internet & Television Association
 
 #### 0 👎 - Con
 

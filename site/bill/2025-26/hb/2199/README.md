@@ -14,11 +14,11 @@ Testifying:
 * James Weaver - Port of Poulsbo
 * Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * Tarin Todd - [Recreational Boating Association of Washington](/org/recreational_boating_association_of_washington/)
-* Oran Root - Kitsap County Commissioner
-* John Morrissey - City of Port Orchard Councilmember
 * 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Intisar Benge - Kitsap County
 * Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
+* Oran Root - Kitsap County Commissioner
+* John Morrissey - City of Port Orchard Councilmember
 
 #### 0 👎 - Con
 

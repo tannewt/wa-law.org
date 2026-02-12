@@ -21,33 +21,33 @@ Testifying:
 
 #### 1100 👎 - Con
 Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
 
 ### Tue 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 1449 Home cultivation of cannabis
-#### 180 👍 - Pro
+#### 181 👍 - Pro
 Testifying:
+* Erik Johansen
 * Don Skakie - Homegrow Washington
 * Micah Sherman
-* Erik Johansen
-* Anthony Martinelli - The Marijuana Herald
 * Cody Funderburk - Washington Cannabis Workers Club
+* Anthony Martinelli - The Marijuana Herald
+* M. Bailey Hirschburg - National Org. for the Reform of Marijuana Laws (NORML)
 * John Kingsbury - [Cannabis Alliance](/org/cannabis_alliance/)
 * Tyler Markwart
 * Vivian McPeak - Seattle Event/ Hempfest
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Tamara Weinmann - Bellevue Cannabis
-* M. Bailey Hirschburg - National Org. for the Reform of Marijuana Laws (NORML)
 * Lisa Olson
 
-#### 512 👎 - Con
+#### 511 👎 - Con
 Testifying:
-* Steven Freng - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Steven Freng - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 

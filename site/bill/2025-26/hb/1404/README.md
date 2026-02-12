@@ -22,17 +22,16 @@
 ### Mon 02/03 04:00 PM - Appropriations (APP): HB 1404 Free school meals
 #### 804 👍 - Pro
 Testifying:
-* Harper Haroldson-Margel
-* Jenny Choi - Office of Governor Bob Ferguson
 * Karen Brown - WA School Nutrition Association
 * Leeda Beha - WA School Nutrition Association
 * 💵Mitch Denning - Alliance of Educational Associations
+* Harper Haroldson-Margel
+* Jenny Choi - Office of Governor Bob Ferguson
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Angel Swanson - Feeding Feasible Feasts
 * Cecilia Chavez - Toppenish Community Chest
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * Hannah LaMont
-* Nicole Harreld
 * 💵Paula Sardinas - WBBA
 * Sebrena Burr - Seattle Council PTSA
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
@@ -40,6 +39,7 @@ Testifying:
 * Preston Dwoskin
 * Mayah Stewart
 * Sylvia Falwer
+* Nicole Harreld
 
 #### 408 👎 - Con
 Testifying:

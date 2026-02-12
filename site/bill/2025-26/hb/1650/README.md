@@ -15,11 +15,11 @@
 Testifying:
 * Carl Hicks - Tacoma Narrows Airport Advisory Commission
 * Ashley Stolhand - Peninsula School District, Aviation Academy
-* Dave Morell - Pierce County Councilmember
 * Kelsey Parke - Peninsula School District 401
 * Kelsey Parke - Peninsula School District 401
 * Ashley Stolhand - Peninsula School District - Aviation Academy - Gig Harbor, WA
 * Robyn Denson - Pierce County Council
+* Dave Morell - Pierce County Councilmember
 * 💵Colleen Meiners - [City of Moses Lake](/org/city_of_moses_lake/)
 
 #### 0 👎 - Con
@@ -29,8 +29,8 @@ Testifying:
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1650 Airport projects/local REET
 #### 10 👍 - Pro
 Testifying:
-* Carl Hicks - Tacoma Narrows Airport Advisory Commision (Commision Chair)
 * Robyn Denson - Pierce County Council
+* Carl Hicks - Tacoma Narrows Airport Advisory Commision (Commision Chair)
 * Kelsey Parke - Peninsula School District 401
 * Alexander Denny - Testifying on behalf for first responders use of the airport.
 * Dave Morell - Pierce County Councilmember

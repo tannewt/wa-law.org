@@ -16,13 +16,13 @@
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2523 Community reinvestment prg.
 #### 87 👍 - Pro
 Testifying:
+* Paula Fillmore-Sardinas - WA Build Back Black Alliance (WBBA)
+* Tasha Mae - Advocacy Queen
 * Saul Martinez - Cafe con Arte
 * Andrew Thompson - River City Aerials and Film LLC
 * John Traugott - [Washington Workforce Association](/org/washington_workforce_association/)
 * Mayra Garcia - SkillSource North Central Regional Workforce Board
 * Caitlein Ryan - THE CANNABIS ALLIANCE
-* Paula Fillmore-Sardinas - WA Build Back Black Alliance (WBBA)
-* Tasha Mae - Advocacy Queen
 * Edwin Lindo - Estelita’s Library
 
 #### 302 👎 - Con
@@ -40,14 +40,14 @@ Testifying:
 * Lisa Romine - SkillsSource Regional Workforce Board
 * Sarah Hudson - Washington Defender Association and Washington Association of Criminal Defense Lawyers
 * SEKANI PERKINS - BLACK PIONEERS IN CANNABIS (BPIC)
-* Carol Willis - United Way of Pierce County
-* Zeke Smith - Waters Meet Action Fund
 * John Traugott - [Washington Workforce Association](/org/washington_workforce_association/)
 * Linda Lowry - Year Up United
 * Paula Fillmore-Sardinas - FMSGS/WA Build Back Black Alliance
-* Queen Katsuta - Barbe-Queen Kitchen, LLC
 * Quinton Baker - Statewide Reentry Council
 * Chocolate Marie Jones - Organization: 777ish Cookie Desserts
+* Carol Willis - United Way of Pierce County
+* Zeke Smith - Waters Meet Action Fund
+* Queen Katsuta - Barbe-Queen Kitchen, LLC
 * Chocolate Marie Jones - 777ish Cookie Desserts
 * Queen Katsuta - Barbe-Queen Kitchen, LLC
 * Kristopher Larsen

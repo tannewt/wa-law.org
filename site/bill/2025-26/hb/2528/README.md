@@ -10,10 +10,10 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2528 Real estate excise taxes/GMA
 #### 83 👍 - Pro
 Testifying:
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)
 * Rick Eskill - [City of Walla Walla](/org/city_of_walla_walla/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 293 👎 - Con
 Testifying:

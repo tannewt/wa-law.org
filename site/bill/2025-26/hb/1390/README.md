@@ -23,13 +23,13 @@ Testifying:
 ### Mon 03/24 01:30 PM - Human Services (HS): SHB 1390 Community protection program
 #### 34 👍 - Pro
 Testifying:
+* Kris Pederson - DSHS Developmental Disabilities Administration
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * Kyle Matheson - Self advocate
-* Kris Pederson - DSHS Developmental Disabilities Administration
+* 💵Shawn Latham - Serlf Advocates In Leadership
 * Eric Matthes - Self-Advocate
 * Collier Hauter - Self-advocate in the community protection program
 * Michael Raymond
-* 💵Shawn Latham - Serlf Advocates In Leadership
 * Courtney Thom
 * Destinie Buzzard - DSHS Developmental Disabilities Administration
 
@@ -50,8 +50,8 @@ Testifying:
 * Courtney Thom
 * Courtney Thom
 * 💵Shawn Latham - Serlf Advocates In Leadership
-* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * Krishan Hansen - Kahn and Hansen & Associates
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * Victoria Walton Chirieleison
 * Andrew Morrison - Sex Offender Policy Board
 * Brad Meryhew - Sex Offender Policy Board

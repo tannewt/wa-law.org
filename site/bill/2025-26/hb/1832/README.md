@@ -18,8 +18,8 @@
 Testifying:
 * Vicki Murray - Washington Policy Center
 * James Harrigan
-* Sharon Hanek
 * Ronda Litzenberger
+* Sharon Hanek
 
 #### 2100 👎 - Con
 Testifying:

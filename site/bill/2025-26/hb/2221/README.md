@@ -15,6 +15,7 @@
 Testifying:
 * Gary Douvia - northeast washington wildlife group
 * don peaker
+* Sheriff Paul Budrow - Okanogan County Sheriff Office
 * 💵Michael Moran - Self (consulting)
 * Kathleen McKay - K-Diamond-K Guest Ranch
 * Sheila Shockey
@@ -23,7 +24,6 @@ Testifying:
 * Raymond Maycumber - Ferry County Sheriff's Office
 * Chloe Heneghen - 532577699
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
-* Sheriff Paul Budrow - Okanogan County Sheriff Office
 * Commissioner Zack Trudell - Ferry county
 
 #### 392 👎 - Con

@@ -18,9 +18,9 @@
 ### Tue 02/04 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1671 Personal data privacy
 #### 31 👍 - Pro
 Testifying:
-* Caitriona Fitzgerald - Electronic Privacy Information Center (EPIC)
 * Matt Schwartz - [Consumer Reports](/org/consumer_reports/)
 * Ben Winters - Consumer Federation of America
+* Caitriona Fitzgerald - Electronic Privacy Information Center (EPIC)
 * Jai Jaisimha - Transparency Coalition.ai
 * Ellen Hengesbach - U.S. Public Interest Research Group (PIRG)
 * Felix Goodman - Lake Washington High School, Capitol Classroom
@@ -33,16 +33,16 @@ Testifying:
 #### 193 👎 - Con
 Testifying:
 * 💵Andrew Kingman - [State Privacy & Security Coalition](/org/state_privacy_&_security_coalition/)
-* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
-* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
-* 💵Katie Beeson - Washington Food Industry Association
-* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Kelly Fukai - WTIA
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Feliciano - TECHNET
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 2 ❓ - Other
 Testifying:
-* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 * Richard Varn - Coalition for Sensible Public Records Access
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters

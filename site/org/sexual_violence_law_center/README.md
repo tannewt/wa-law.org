@@ -10,7 +10,8 @@
 * 👍💵 Elizabeth Hendren
 * 👍💵 Elizabeth Hendren
 
-### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
+* 👍💵 Elizabeth Hendren
 
 ### [HB 1496](/bill/2025-26/hb/1496/) - Health care information 👍1  
 * 👍 Riddhi Mukhopadhyay
@@ -83,7 +84,6 @@
 ### [SB 6017](/bill/2025-26/sb/6017/) - Crime victims & witnesses 👍1  
 
 ### [SB 6070](/bill/2025-26/sb/6070/) - Recovery of missing persons 👍1  
-* 👍💵 Elizabeth Hendren
 
 ## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 * 👎💵 Elizabeth Hendren

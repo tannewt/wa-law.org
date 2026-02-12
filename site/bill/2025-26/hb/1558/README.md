@@ -10,8 +10,8 @@
 ### Thu 02/20 01:30 PM - Finance (FIN): HB 1558 Broadcasters
 #### 16 👍 - Pro
 Testifying:
-* Keith Shipman - Washington State Association of Broadcasters
 * 💵Rowland Thompson - Washington State Association of Broadcasters
+* Keith Shipman - Washington State Association of Broadcasters
 
 #### 1 👎 - Con
 Testifying:

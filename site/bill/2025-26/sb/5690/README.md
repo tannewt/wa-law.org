@@ -13,8 +13,8 @@
 #### 49 👍 - Pro
 Testifying:
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
-* 💵Bill Clarke - WA PUD Association
 * Ian Cope - Grays Harbor PUD
+* 💵Bill Clarke - WA PUD Association
 
 #### 0 👎 - Con
 

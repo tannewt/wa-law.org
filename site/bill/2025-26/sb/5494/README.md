@@ -18,8 +18,8 @@
 ### Wed 04/02 04:00 PM - Appropriations (APP): SSB 5494 Lead-based paint
 #### 13 👍 - Pro
 Testifying:
-* Jamie Switras - Now Environmental Services
 * Steven Hoff - LeadClasses.com
+* Jamie Switras - Now Environmental Services
 * Mike Lawrence - Now Environmental
 * Mike Lawrence - Now Environmental
 * Katie Meehan - Department of Commerce
@@ -64,9 +64,9 @@ Testifying:
 ### Tue 02/11 01:30 PM - Environment, Energy & Technology (ENET): SB 5494 Lead-based paint
 #### 13 👍 - Pro
 Testifying:
+* Jamie Switras - Now Environmental
 * Steven Hoff - Crosswall Training / LeadClasses.com
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Jamie Switras - Now Environmental
 * Jennifer Caraway - Department of Commerce
 * Katie Meehan - Department of Commerce
 

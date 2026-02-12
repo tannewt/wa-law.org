@@ -13,12 +13,12 @@
 Testifying:
 * Matthew Ozuna - State of Washington Tourism
 * Cliff Myers - Visit Vancouver Washington
+* Judy Feldman - Organic Farm School
 * Rose Noble - State of Washington Tourism and Visit Spokane
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Annie McGrath - State of Washington Tourism
 * David Blandford - State of Washington Tourism
-* Judy Feldman - Organic Farm School
 * Anthony Anton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Nathan Caferro - Snohomish County Sports Commission
 

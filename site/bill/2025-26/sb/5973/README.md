@@ -23,22 +23,22 @@
 #### 1190 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen
+* Hanna Floss
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
-* Hanna Floss
-* DJ Brimmer
-* 💵Simone Boe
-* Zak Nelson
-* 💵Adam Glickman
-* Cliff Traisman
+* DJ Brimmer - [Washington Education Association](/org/washington_education_association/)
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Zak Nelson - SEIU 925
+* 💵Adam Glickman - SEIU 775
+* Cliff Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * Brie Gynclid
 * Hanna Floss
 * Heather Wallace
 * Steven McCray
 * Debbie Borek
-* Lauren Dandridge
+* Lauren Dandridge - [Washington Education Association](/org/washington_education_association/)
 * Thomas Marsland
-* 💵Damiana Merryweather
+* 💵Damiana Merryweather - FUSE Washington
 
 #### 10551 👎 - Con
 Testifying:
@@ -47,6 +47,12 @@ Testifying:
 * Anna Burt
 * Eric Lundberg
 * Christian Bianes-Delrosario
+* Eric Pratt - America
+* Xiaohua Chen
+* hai sun
+* yanrong liu
+* jerry sun
+* qingyang sun
 * Hongye Sun
 * Nancy Mowat
 * Jane Ci
@@ -64,12 +70,6 @@ Testifying:
 * Rachel Liu - 17637 NE 138th St
 * Terry Golden
 * Kan Qiu - American Coalition for Equality
-* Eric Pratt - America
-* Xiaohua Chen
-* hai sun
-* yanrong liu
-* jerry sun
-* qingyang sun
 * Teresa Lundquist
 * Anne-Marie Ruud
 * Linda Yang

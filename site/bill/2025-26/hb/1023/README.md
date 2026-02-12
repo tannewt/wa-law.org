@@ -45,9 +45,9 @@ Testifying:
 ### Wed 01/15 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1023 Cosmetology compact
 #### 10 👍 - Pro
 Testifying:
-* Tammie Perreault - Department of Defense
 * Leslie Roste - Future of the Professional Beauty Industry Coalition
 * Matthew Shillingburg
+* Tammie Perreault - Department of Defense
 
 #### 0 👎 - Con
 

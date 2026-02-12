@@ -30,10 +30,10 @@ Testifying:
 Testifying:
 * Christian Bianes-Delrosario
 * Tiffany Attrill - crime victim advocate
-* 💵Russell Brown - WA Association of Prosecuting Attorneys
-* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Natasha Willson - crime victim advocate
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Natasha Willson - crime victim advocate
 
 #### 0 ❓ - Other
 
@@ -41,11 +41,11 @@ Testifying:
 #### 261 👍 - Pro
 Testifying:
 * Karen Peacey - League of Women Voters of WA
-* David Trieweiler - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* David Trieweiler - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * Anthony Powers
-* Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Anthony Powers - American Equity & Justice Group
 * Katherine Hurley - King County Department of Public Defense
 * Larry Jefferson - Washington State Office of Public Defense
@@ -56,10 +56,10 @@ Testifying:
 Testifying:
 * Tiffany Attrill
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Melanie Roberts - Granddaughter of Homicide Victim Ruth Dalton
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Natasha Willson
+* Melanie Roberts - Granddaughter of Homicide Victim Ruth Dalton
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
 Testifying:

@@ -19,24 +19,35 @@
 #### 182 👍 - Pro
 Testifying:
 * 💵Collin Bannister - The Washington Student Association and ASWSU
-* Wenting Zou - Lake Washington High School
-* NICHOLAS DUMOUCHEL - C4C
-* Naomi Snow - Associated Students of the University of Washington
-* Bill Lyne - United Faculty of Washington State/WEA
 * 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
 * 💵Michelle Carrillo - Associated Students of Central Washington University
 * 💵Mykhail Lembke - UW Graduate & Professional Student Senate
 * 💵Nathan Tippmann - Geoduck Student Union
 * 💵Sienna Jarrard - Associated Students of UW Bothell
+* Wenting Zou - Lake Washington High School
+* NICHOLAS DUMOUCHEL - C4C
+* Naomi Snow - Associated Students of the University of Washington
+* Bill Lyne - United Faculty of Washington State/WEA
 * Sergio Acuna
 
 #### 1059 👎 - Con
 Testifying:
-* Frank Trieu - Evergreen Beauty College
 * 💵Devin Gombosky - [Northwest Career College Federation](/org/northwest_career_college_federation/)
+* Frank Trieu - Evergreen Beauty College
+* Christopher Comair - DigiPen Institute of Technology
+* Colten Mabbitt
+* Erik Mohrmann - DigiPen Institute of Technology
+* Caycee Clark - Divers Institute of Technology
+* Chris Blanchett - Director, Seattle Film Institute
+* David Shulman - President, Seattle Film Institute
+* Ted Hasse - Director of Financial Aid, Seattle Film Institute
+* Brenda Cortes
+* Collin Harry
+* William Corro Rzajeva - DigiPen Institute of Technology
+* Irene Leung - DigiPen Institute of Technology
+* Javiera Morales Cortés
 * Bethany Ary - Seattle Film Institute
 * Angela Kugler - DigiPen Institute of Technology
-* Christopher Comair - DigiPen Institute of Technology
 * Ben Rush
 * Kevin Sampson
 * Kevin Sampson
@@ -53,22 +64,11 @@ Testifying:
 * Averleigh West - Cosmetology Student
 * Shelby Sanders - Beauty School Student
 * Kirk Nordenstrom - Seattle Film Institute
-* Colten Mabbitt
 * Michale McComis - ACCSC
-* Erik Mohrmann - DigiPen Institute of Technology
 * Chiana Rowland - Student at Evergreen Beauty College
 * Mikko Freeman - Northwest College of Art & Design
-* Caycee Clark - Divers Institute of Technology
-* Chris Blanchett - Director, Seattle Film Institute
-* David Shulman - President, Seattle Film Institute
-* Ted Hasse - Director of Financial Aid, Seattle Film Institute
-* Brenda Cortes
-* Collin Harry
-* William Corro Rzajeva - DigiPen Institute of Technology
-* Irene Leung - DigiPen Institute of Technology
-* Javiera Morales Cortés
-* Julia Zettmann
 * Kurt Ikemeier - Northwest College of Art and Design
+* Julia Zettmann
 
 #### 6 ❓ - Other
 Testifying:
@@ -85,9 +85,13 @@ Testifying:
 * Edyn Totten - CWU Student
 * Bill Lyne - United Faculty of Washington State
 * Harleen Dhillon
-* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * Jaleh Kupai - University of Washington Tacoma
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Collin Bannister - The Washington Student Association
+* Towa Nakano-Harris - Student at the University of Washington
+* Bethany Colley - Western Washington University Student
+* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
 * Tucker Senter - Associated Students of Washington State University
 * 💵Christopher Rosenquist - Associated Students of Western Washington University
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -95,18 +99,15 @@ Testifying:
 * Dafne Piñon - Communities for Our Colleges
 * Sanika Kabbur - Communities for Our Colleges
 * Sergio Acuna - Communities for Our Colleges
-* 💵Collin Bannister - The Washington Student Association
 * Donna maher - AFT WA
 * Suzanne Southerland - [Washington Education Association](/org/washington_education_association/)
-* Towa Nakano-Harris - Student at the University of Washington
-* Bethany Colley - Western Washington University Student
-* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
 * Prem Subedi
+* Diego Gonzalez
 * Ashley Ramirez - Legislative Liaison, Associated Students of the University of Washington - Tacoma
 * 💵Ben Brown - Director of Legislative Affairs, Associated Students of the University of Washington - Tacoma
 * Holly Wetzel - President, Associated Students of the University of Washington - Tacoma
 * Sandra Mochizuki
-* Diego Gonzalez
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Anthony Mixer - Washington State Young Republicans
 * Anita Chen
 * Zhuowei Li
@@ -117,14 +118,9 @@ Testifying:
 * Fatima Martinez - Communities for Our College
 * Leslie Betancourt - Communities for Our College
 * Shari Chi
-* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Anita Tan
 * alice Liu
 * Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
-* Jingjing Huang
-* Zhen Wang
-* 💵Nathan Tippmann - Evergreen Geoduck Student Union
-* Kalea Wong - Western Academic Workers United (UAW 4929)
 * Nicholas Dumouchel - Communities for Our Colleges
 * Samuel Ligon - Eastern Washington University Faculty Legislative Rep.
 * TaraLyn Fray
@@ -135,9 +131,13 @@ Testifying:
 * Hondo Acosta-Vega - student
 * 💵Michelle Carrillo - ASCWU Liaison
 * Nicholas Villa - Student
+* Jingjing Huang
+* Zhen Wang
+* 💵Nathan Tippmann - Evergreen Geoduck Student Union
+* Kalea Wong - Western Academic Workers United (UAW 4929)
 
 #### 18 ❓ - Other
 Testifying:
+* Sandy Kaiser - The Evergreen State College
 * Chris Mulick - Washington State University
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
-* Sandy Kaiser - The Evergreen State College

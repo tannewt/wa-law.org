@@ -14,8 +14,8 @@
 ### Mon 02/17 01:30 PM - Housing (HOUS): HB 1927 Rent payment reporting
 #### 57 👍 - Pro
 Testifying:
-* Alec Madson - Self Inc
 * Megan Pirie
+* Alec Madson - Self Inc
 * Alice Aliré
 * 💵Kira Munson - WSLC
 * Les Bowen - WFSE Member

@@ -19,15 +19,15 @@
 #### 74 👍 - Pro
 Testifying:
 * BRANDON PARK
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Shea Hynes - Lux Pot Shop
+* Jerina Pillert - Hashtag Cannabis
 * 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
 * Anna Shreeve - The Bakeree
 * Amy Ross - OZ Gardenz
 * Nate Loving - Loving Farms
 * Micah Sherman
-* 💵Vicki Christophersen - Washington CannaBusiness Association
-* Caitlein Ryan - THE CANNABIS ALLIANCE
-* Shea Hynes - Lux Pot Shop
-* Jerina Pillert - Hashtag Cannabis
 * Tamara Weinmann
 * 💵Ezra Eickmeyer - Producers NW
 
@@ -40,17 +40,17 @@ Testifying:
 Testifying:
 * Micah Sherman - Raven
 * Tamara Weinmann - 13300 SE 30th st unit 101
-* Rebeca Potasnik
 * Benjamin Ogren - The People of this great state
 * Douglas Henderson - Painted Rooster
+* Rebeca Potasnik
 * Anthony Golden - 500
+* Joshua Sheets
 * Scott Mckinley - The Cantanna Festival
 * Joshua Sheets
-* Joshua Sheets
+* Ann'ette Pedigo - Cedar Creek Cannabis
 * Nichole Graf
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Rian Takahashi
-* Ann'ette Pedigo - Cedar Creek Cannabis
 * Anders Taylor
 * RYAN SEVIGNY
 * Brendon Weinmann - 30th Street Productions

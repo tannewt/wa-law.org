@@ -28,11 +28,11 @@ Testifying:
 Testifying:
 * 💵Juan Cotto - BloodworksNW
 * 💵Dan Fazio - BloodworksNW
+* Diane Calmus - America's Blood Centers
 * Addison Thornton
 * Ellen Hong
 * Sumi Rasiah
 * Liana Khachatouriansoradehi
-* Diane Calmus - America's Blood Centers
 
 #### 4 👎 - Con
 

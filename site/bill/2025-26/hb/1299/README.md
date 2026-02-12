@@ -19,26 +19,26 @@
 ### Tue 02/04 10:30 AM - Local Government (LG): HB 1299 Minimum parking requirements
 #### 608 👍 - Pro
 Testifying:
-* Daniel Herriges - Parking Reform Network
-* 💵Ron Davis - Sightline, on behalf of the coalition we have gathered
-* Sonja Max
 * Scott Bonjukian
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
 * Kevin Maas
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Nicholas Carr - Office of the Governor
-* 💵Alex Hur - Master Builders Association of King and Snhomish Counties
+* Daniel Herriges - Parking Reform Network
+* 💵Ron Davis - Sightline, on behalf of the coalition we have gathered
+* Sonja Max
 * alexander brassel
-* 💵Bryce Yadon - Futurewise , Transportation Choices Coalition, Habitat for Humanity Seattle King/Kittitas Countiest
-* Riley Benge - Washington REALTORS
+* 💵Alex Hur - Master Builders Association of King and Snhomish Counties
 * Alex Harrington - NAIOP Washington State
-* Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
 * Cary Westerbeck
-* L Harrison Jerome
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Sara Morimoto
 * McKai Morgan - A1DesignBuild
 * Jenne Alderks - Councilmember, City of Bothell
+* 💵Bryce Yadon - Futurewise , Transportation Choices Coalition, Habitat for Humanity Seattle King/Kittitas Countiest
+* Riley Benge - Washington REALTORS
+* Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
+* L Harrison Jerome
 * Wes Stewart - Sierra Club Washington
 
 #### 603 👎 - Con

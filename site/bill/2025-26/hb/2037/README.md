@@ -25,17 +25,17 @@ Testifying:
 * Brandon Park
 * Bill Wagenseller - Washington Bud Company
 * Shawn DeNae Wagenseller - Washington Bud Company
+* Shea Hynes - Lux Pot Shop
+* Logan Bowers
 * Jana House - Evergreen Market
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Anthony Holan
 * Carlondo Mitchell - 5th House Farms
-* Shea Hynes - Lux Pot Shop
-* Logan Bowers
 * Brad Bekendam
 
 #### 5 ❓ - Other
 Testifying:
-* Caitlein Ryan - THE CANNABIS ALLIANCE
-* Marc Webster - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)
 * 💵Ezra Eickmeyer - Producers nw
 * Kate Armstrong - Department of Revenue
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Marc Webster - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)

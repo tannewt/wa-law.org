@@ -16,8 +16,8 @@
 #### 27 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
-* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * Nico Janssen - Office of the Insurance Commissioner
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 552 👎 - Con
@@ -27,8 +27,8 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Katie Kolan - Washington State Hospital Association (WSHA)
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Tue 01/28 01:30 PM - Health Care & Wellness (HCW): HB 1382 All payers claim database
 #### 13 👍 - Pro

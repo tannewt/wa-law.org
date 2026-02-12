@@ -10,9 +10,9 @@
 ### Thu 02/20 01:30 PM - Finance (FIN): HB 1986 Vehicles for rental/tax
 #### 4 👍 - Pro
 Testifying:
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Pablo Benavente - Turo
 * James Bangasser
-* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 
 #### 7 👎 - Con
 Testifying:

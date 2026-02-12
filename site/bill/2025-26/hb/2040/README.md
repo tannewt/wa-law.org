@@ -15,9 +15,9 @@
 
 #### 184 👎 - Con
 Testifying:
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * C'zar Carter
 * Patricia Bowen - [Solid Ground](/org/solid_ground/)
-* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 ❓ - Other
 
@@ -26,9 +26,9 @@ Testifying:
 
 #### 324 👎 - Con
 Testifying:
+* Brittany Lowe - Solid Ground, Benefits Legal Assistance Program
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Nana Yaa Lang'at
 * C'zar Carter
-* Brittany Lowe - Solid Ground, Benefits Legal Assistance Program
 
 #### 1 ❓ - Other

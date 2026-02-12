@@ -55,10 +55,10 @@
 		<item>
 			<title>👍Tara Urs - King County Department of Public Defense</title>
 			<description>Tara Urs signed up to testify Pro. They are signed up to represent King County Department of Public Defense.</description>
-			<pubDate>Mon, 27 Jan 2025 04:01:57 GMT</pubDate>
+			<pubDate>Mon, 27 Jan 2025 16:01:57 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Tara/Urs/2025-01-27 04:01:57</guid>
+			<guid isPermaLink="false">testifier/Tara/Urs/2025-01-27 16:01:57</guid>
 		</item>
 		<item>
 			<title>👍Gina Wassemiller - FIRST Clinic</title>
@@ -113,20 +113,20 @@
 			<guid isPermaLink="false">2025-02-04/Referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👍Jason Bragg - Partners for Our Children</title>
-			<description>Jason Bragg signed up to testify Pro.</description>
-			<pubDate>Sun, 16 Feb 2025 05:33:39 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Jason/Bragg/2025-02-16 05:33:39</guid>
-		</item>
-		<item>
 			<title>👍Kim Justice - Partners for Our Children</title>
 			<description>Kim Justice signed up to testify Pro. They are signed up to represent Partners for Our Children.</description>
 			<pubDate>Sun, 16 Feb 2025 08:57:31 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kim/Justice/2025-02-16 08:57:31</guid>
+		</item>
+		<item>
+			<title>👍Jason Bragg - Partners for Our Children</title>
+			<description>Jason Bragg signed up to testify Pro.</description>
+			<pubDate>Sun, 16 Feb 2025 17:33:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Bragg/2025-02-16 17:33:39</guid>
 		</item>
 		<item>
 			<title>👍Jennifer Justice - Partners for Our Children</title>
@@ -251,26 +251,18 @@
 		<item>
 			<title>👍Kim Justice - Partners for Our Children</title>
 			<description>Kim Justice signed up to testify Pro. They are signed up to represent Partners for Our Children.</description>
-			<pubDate>Mon, 31 Mar 2025 01:54:59 GMT</pubDate>
+			<pubDate>Mon, 31 Mar 2025 13:54:59 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Kim/Justice/2025-03-31 01:54:59</guid>
+			<guid isPermaLink="false">testifier/Kim/Justice/2025-03-31 13:54:59</guid>
 		</item>
 		<item>
 			<title>👍Terreca DeFehr - Partners for Our Children</title>
 			<description>Terreca DeFehr signed up to testify Pro.</description>
-			<pubDate>Mon, 31 Mar 2025 02:01:35 GMT</pubDate>
+			<pubDate>Mon, 31 Mar 2025 14:01:35 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Terreca/DeFehr/2025-03-31 02:01:35</guid>
-		</item>
-		<item>
-			<title>👎Sandra Mochizuki - Partners for Our Children</title>
-			<description>Sandra Mochizuki signed up to testify Con.</description>
-			<pubDate>Thu, 03 Apr 2025 01:01:55 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-04-03 01:01:55</guid>
+			<guid isPermaLink="false">testifier/Terreca/DeFehr/2025-03-31 14:01:35</guid>
 		</item>
 		<item>
 			<title>👎Kendall Harrison - Partners for Our Children</title>
@@ -303,6 +295,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-04-03 11:57:00</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Partners for Our Children</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Thu, 03 Apr 2025 13:01:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-04-03 13:01:55</guid>
 		</item>
 		<item>
 			<title>Minority; do not pass.</title>

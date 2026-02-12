@@ -20,9 +20,9 @@ Testifying:
 * Anna Tiberi
 * Sakshi Verma
 * Vojin Predovic
-* Gabrielle Roberts
 * Cody Runner
 * Heimir Magnusson
+* Gabrielle Roberts
 * Sam Locke
 * Carrie Suchy - WA State Association of School Psychologists
 * David Fainstein - WA State Association of School Psychologists

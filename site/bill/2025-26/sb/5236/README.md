@@ -19,8 +19,8 @@ Testifying:
 * Elizabeth Hansen - Washington Physicians for Social Responsibility
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists; Washington State Medical Association
 * Annemarie Dooley
-* Kate White Tudor - Natural Resources Defense Council
 * Ivy Lin
+* Kate White Tudor - Natural Resources Defense Council
 
 #### 417 👎 - Con
 Testifying:

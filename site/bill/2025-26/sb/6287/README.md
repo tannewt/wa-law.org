@@ -24,20 +24,20 @@ Testifying:
 
 #### 77 👎 - Con
 Testifying:
+* Walker Gallman - Global Kratom Coalition
+* Mac Haddow - [American Kratom Association](/org/american_kratom_association/)
 * Misty Brown
 * Jennifer Gillis - self
 * Melody Woolf
 * 💵Molly Pfaffenroth - Washington Food Industry Association
-* Walker Gallman - Global Kratom Coalition
-* Mac Haddow - [American Kratom Association](/org/american_kratom_association/)
 * Lora Romney - International Plant & Herbal Alliance
 * John Shinholser
 * John Cleveland
 
 #### 3 ❓ - Other
 Testifying:
-* Spencer Coffin
 * Dr. Jimmy Leonard - [Washington Poison Center](/org/washington_poison_center/)
+* Spencer Coffin
 
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 6287 Kratom products
 #### 5 👍 - Pro
@@ -47,8 +47,8 @@ Testifying:
 
 #### 59 👎 - Con
 Testifying:
-* 💵Tony Sermonti - [American Kratom Association](/org/american_kratom_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Tony Sermonti - [American Kratom Association](/org/american_kratom_association/)
 
 #### 2 ❓ - Other
 Testifying:

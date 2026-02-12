@@ -24,16 +24,16 @@ Testifying:
 * Holly Koon - Mount Baker Education Association
 * Zanovia Clark - Highline Education Association
 * Kyle Kielty - [Vancouver Education Association](/org/vancouver_education_association/)
-* Nicole Sorensen
 * Jon Holmen - Lake Washington School District
 * Aurora Flores
+* Nicole Sorensen
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 * Jennifer Standard - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Jorge Torres - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Michelle Sotelo - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Michael Hill
 * Andrea Danahey-Feil
-* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
-* Denis Villeneuve
 * Thomas Booze
+* Denis Villeneuve
 
 #### 11 ❓ - Other

@@ -34,8 +34,8 @@ Testifying:
 Testifying:
 * Tanya English
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
-* Lisa Guthrie - Lake Washington School District Board of Directors
 * Jen Chong Jewell - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Lisa Guthrie - Lake Washington School District Board of Directors
 
 #### 3 ❓ - Other
 Testifying:

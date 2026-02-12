@@ -24,11 +24,11 @@ Testifying:
 #### 215 👎 - Con
 Testifying:
 * 💵Kurt Spiegel - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* GERALD MCGARVEY
+* Alejandro Galvan
 * Gordon Lueckenotte
 * Jamie Paradiso - 911352172
 * Courtney McGuire - Multicare
-* GERALD MCGARVEY
-* Alejandro Galvan
 
 #### 5 ❓ - Other
 Testifying:

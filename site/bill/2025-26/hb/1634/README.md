@@ -23,9 +23,9 @@
 ### Fri 02/06 10:30 AM - Appropriations (APP): 2SHB 1634 Behavioral health/schools
 #### 278 👍 - Pro
 Testifying:
-* 💵Sarah Rafton - Behavioral Health Catalyst
 * Dusty Sparks - NAMI Southwest Washington
 * Misha Cherniske - Office of Superintendent of Public Instruction
+* 💵Sarah Rafton - Behavioral Health Catalyst
 * Mabel Thackeray - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 
 #### 242 👎 - Con
@@ -37,21 +37,21 @@ Testifying:
 Testifying:
 * Taanvi Arekapudi - Uplift Teens Today Nonprofit
 * AYANNA COLMAN - WASHINGTON STATE PTA
-* Eric Bruns
-* Samuel Burkey
 * MIsha Cherniske - Office of Superintendent of Public Instruction
 * Mabel Thackeray - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Eric Bruns
+* Samuel Burkey
 * Paree Raval
-* Erin Wick
 * Kirsten Williams
 * Marn Frank - N/A
+* Erin Wick
 * Nicole Khouw - Parent and Bellevue PTSA
 
 #### 1259 👎 - Con
 Testifying:
+* Julian Loaiza
 * Kathleen Wedemeyer - The Citizens Commission on Human Rights
 * John Axtell
-* Julian Loaiza
 
 #### 3 ❓ - Other
 Testifying:
@@ -61,12 +61,12 @@ Testifying:
 ### Mon 02/10 01:30 PM - Education (ED): HB 1634 Behavioral health/schools
 #### 218 👍 - Pro
 Testifying:
-* 💵Melissa Gombosky - AESD Network
 * John Axtell
+* 💵Melissa Gombosky - AESD Network
+* Dr. Gwen Loosmore - Washington State PTA
 * Tawni Barlow - Medical Lake School District
 * Devyna Aguon - Renton School District
 * Mahi Malladi - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
-* Dr. Gwen Loosmore - Washington State PTA
 * Erica Limon-Trefielo - Communities in Schools Washington
 * Eric Bruns
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)

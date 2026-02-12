@@ -15,8 +15,8 @@
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5066 Law enf. misconduct
 #### 621 👍 - Pro
 Testifying:
-* Maureen Johnston - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 * 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Maureen Johnston - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 * 💵Michael Transue - Washington Fraternal Order of Police
 
 #### 1574 👎 - Con
@@ -36,13 +36,13 @@ Testifying:
 * Juan Peralez - Unidos of Snohomish County
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Robin Emmans - Washington Association of Criminal Defense Lawyers/ Washington Defender Association
-* Eliana Machefsky - National Police Accountability Project
 * Chalia Stallings-Ala'ilima - Attorney General's Office
-* Chalia Stallings-Ala'ilima - Attorney General's Office
-* Heather Kelly - League of Women Voters
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 * Kelly McConney Moore - NYU Policing Project
 * Shelly Washington - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Eliana Machefsky - National Police Accountability Project
+* Chalia Stallings-Ala'ilima - Attorney General's Office
+* Heather Kelly - League of Women Voters
 * 💵Michael Transue - Washington Fraternal Order of Police
 
 #### 452 👎 - Con

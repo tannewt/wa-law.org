@@ -14,7 +14,6 @@ Testifying:
 * Bill Lyne - United Faculty of Washington State
 * 💵Emily Myers - UAW Region 6
 * Jase Kaeberlein
-* 💵Christopher Rosenquist - Associated Students of Western Washington University
 * 💵Nathan Tippmann - Geoduck Student Union - Evergreen State College
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 

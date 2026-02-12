@@ -22,9 +22,9 @@ Testifying:
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Initiative Activist
+* Laurie Layne
 * Donna Alber
 * Patricia Cooper
-* Laurie Layne
 
 #### 44 ❓ - Other
 Testifying:

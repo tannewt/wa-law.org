@@ -51,15 +51,15 @@ Testifying:
 * Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
 * 💵James Lovell - SeaTac City Council member
 * Jenn Hendersen - [Disability Rights Washington](/org/disability_rights_washington/)
-* Erin Chapman-Smith - ROOTS young adult shelter
 * Alexia Diorio - Washington State Attorney General's Office
 * Joe McDermott - State Relations Director | King County
 * Mary Anito - Roots Young Adult Shelter
+* Erin Chapman-Smith - ROOTS young adult shelter
 
 #### 448 👎 - Con
 Testifying:
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ben Wick - Councilmember, City of Spokane Valley
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Gabe Jacobs
 
 #### 7 ❓ - Other

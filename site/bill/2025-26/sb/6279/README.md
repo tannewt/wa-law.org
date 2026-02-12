@@ -23,8 +23,8 @@ Testifying:
 #### 6 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Charlotte Persons
-* Lynn Fitz-Hugh - Restoring Earth Connection
 * Charlotte Persons - None
 * Randy Collins - Mason County Fire Marshal & WA St Assoc of FIre Marshals
+* Charlotte Persons - None
+* Lynn Fitz-Hugh - Restoring Earth Connection
 * 💵Luke Esser - Washington Community Wildfire Solutions

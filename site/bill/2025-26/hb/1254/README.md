@@ -25,8 +25,8 @@ Testifying:
 * Lynn Fitz-Hugh - Restoring Earth Connection
 * Charlotte Persons
 * Marianne Tompkins
-* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Michael Feerer - Whatcom Million Trees Project
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * ron perkerewicz - BIAW
 * 💵Morgan Irwin
 

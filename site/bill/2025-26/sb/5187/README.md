@@ -32,12 +32,12 @@ Testifying:
 * Flip Herndon - Capital Region Educational Service District 113, Superintendent
 * Ismael Vivanco - Northwest Educational Service District 189, Superintendent
 * Rob Roettger - Northeast WA Educational Service District 101, Superintendent
+* Lindsey Yocum - Board Director, Lake Washington School District
+* Andi Tress - Everett Public Schools
 * Angela Steck - Washington State PTA
 * Jennifer Ross
 * James Mellon
-* Lindsey Yocum - Board Director, Lake Washington School District
 * Mary Templeton - Lake Stevens School District
-* Andi Tress - Everett Public Schools
 * Meghan Jernigan - Shoreline School Board
 * Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
 * Krestin Bahr - Peninsula School District
@@ -59,16 +59,15 @@ Testifying:
 * Moritz Maszhold
 * Eric Marcu - Lake Washington High School
 * Gajanan Dhongade - Lake Washington High School
+* Angela Steck - President, Washington State PTA
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Danni Pfeiffer - Superintendent, Federal Way School District
 * Dr. Ivan Duran - Superintendent, Highline School District
 * Dr. Kelly Aramaki - Superintendent, Bellevue School District
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
-* Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
 * Melissa Stone - Secretary, Washington State PTA
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
-* 💵Ashley Sutton - HopSkipDrive
 * Lindsey Yocum - Lake Washington School District
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Kowalkowski - Rural Education Center

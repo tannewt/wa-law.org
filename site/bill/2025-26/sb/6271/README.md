@@ -11,15 +11,15 @@
 #### 464 👍 - Pro
 Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 * Amy Ockerlander - King County Solid Waste Division
 * Mike Zachman - The Recycle Warehouse
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 
 #### 175 👎 - Con
 Testifying:
 * Alison Keane - International Sleep Products Association
-* Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Rose Gundersen - WA Retail Association
 
 #### 0 ❓ - Other

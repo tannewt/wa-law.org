@@ -45,13 +45,13 @@ Testifying:
 * Snohomish County Executiv Dave Somers - Snohomish County
 * Hunter George - Washington Recreation and Park Association
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Cathleen Koch - City of Connell City Administrator
-* James Trefry - AFSCME Council 2
-* Molly Gilbert - Chapter President, King Co. Department of Public Defense
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * Bryan Raines - Rural Resources
 * Mike Cohen - Bellingham Food Bank
+* Cathleen Koch - City of Connell City Administrator
+* James Trefry - AFSCME Council 2
+* Molly Gilbert - Chapter President, King Co. Department of Public Defense
 * King County Sheriff Patti Cole-Tindall - King County Sheriff
 * Thurston County Prosecuto Jon Tunheim - Thurston County Prosecutor
 * Nate Bloch
@@ -61,8 +61,8 @@ Testifying:
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Laurie Layne
 * lyle neal
-* Michelle Wolcott
 * Ryan Johnson
 * Jesse Bivens
 * Laurel Mayer
@@ -75,7 +75,6 @@ Testifying:
 * Earl Troutman
 * Jordan Garrioch
 * Randy Berry
-* Laurie Layne
 * Jeana Weng
 * Andy Weng
 * Michael Timbreza
@@ -100,6 +99,47 @@ Testifying:
 * Carrianne Litowitz - 602 S 242nd
 * 💵Nicholas Johnson
 * Jake Bond
+* Barbara Horiuchi
+* Gregory Forrest
+* Kathleen Backous
+* Laurel Mayer
+* Dawn Moler
+* Brianna Leitz
+* James Munn
+* Doug Bright
+* michael Stebor
+* James Perdue
+* Dan Lisherness
+* Mike Martinez
+* Melody Jones
+* Mark Emmett
+* Courtney Wardius
+* Matthew Van Hoy
+* Garrett Kerschner
+* Colin Fisher
+* Mark Swanson
+* Kasey Rupert-O’Neill
+* Shawn Frederick
+* Christina Swanson
+* Erin Moore
+* Stephanie Johnson
+* Sarah Baskins
+* Kevin Whittenberger
+* Mel Byrd
+* Joe Torrid
+* Michael Gruener
+* Kari Cornfield - Mortgage lender
+* Marcia Collins
+* Mark Murphy
+* John Hamilton
+* Aryana Meza
+* Eric Fisher
+* Gregor Doerr - Washington State Young Republicans
+* Duncan Vance
+* Victoria Bloom
+* Tony Ferrante - Ferrantes Cafe
+* James Sipe
+* Brad Arleth
 * Kathleen Backous
 * Cody Bender
 * Michelle Pinkowski
@@ -109,7 +149,6 @@ Testifying:
 * Daryl Johnson - Daryl.allan.johnson@gmail.com
 * Barbara Kuehne
 * Noah Frisch
-* Gregory Forrest
 * Julie Webb
 * Carol Barmor
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
@@ -119,8 +158,6 @@ Testifying:
 * Steven Duenkel
 * Ray Stewart
 * Carmen Stewart - 1731 SW 359th St
-* Kathleen Backous
-* Laurel Mayer
 * Brandon Bayne
 * John Madison
 * Nate Cruise
@@ -129,30 +166,18 @@ Testifying:
 * Chris Hamilton
 * Gary Lemenager
 * Dawn Moler
-* Dawn Moler
-* Brianna Leitz
 * Mark Long
-* James Munn
 * Allison Nester
-* Doug Bright
 * Doug Bright
 * Adam Paull
 * Matthew Van Hoy
 * David Burnett
 * Kevin Smith
-* michael Stebor
-* James Perdue
 * Corrie Casey
-* Dan Lisherness
 * Casey Turner
 * Amy Milam
-* Mike Martinez
-* Melody Jones
-* Mark Emmett
 * Monique Chastain
 * Sean Reading
-* Courtney Wardius
-* Matthew Van Hoy
 * Mike Hasbrouck
 * Zachary Strycharz
 * Hollie Rogge
@@ -161,89 +186,44 @@ Testifying:
 * Kurt Strickland
 * Andrea Maiuri
 * Michelle M Chappell
-* Garrett Kerschner
 * Betsie Elliott
-* Colin Fisher
-* Mark Swanson
-* Kasey Rupert-O’Neill
-* Shawn Frederick
 * Hillary Sewell
-* Christina Swanson
-* Erin Moore
 * Rena Lehn
 * Jacob Lehn
-* Stephanie Johnson
-* Sarah Baskins
 * Robert McLellan
-* Kevin Whittenberger
-* Mel Byrd
-* Joe Torrid
 * Benita Saatvedt
-* Michael Gruener
 * Bob Reeves
 * TaraLyn Fray
 * Jennifer Tyger
-* Kari Cornfield - Mortgage lender
-* Marcia Collins
-* Mark Murphy
-* John Hamilton
 * Aryana Meza
-* Aryana Meza
-* Eric Fisher
 * Tony Martinez
-* Gregor Doerr - Washington State Young Republicans
-* Duncan Vance
 * James Mach
-* Victoria Bloom
 * Patrick Sparre
 * Thomas Turner
 * Jimmy Ranson
-* Tony Ferrante - Ferrantes Cafe
-* Barbara Horiuchi
-* James Sipe
-* Brad Arleth
-* Carrie Adelstein
-* Paul Jacobs
+* TinaMarie King
+* Chor Ng
+* Blanca Pocasangre
 * Ramie Kallinen
-* Dwayne Erickson
-* Richard Martin
 * Julie Dowell
 * David Dowell - xxx-xx-xxxx
-* Laura Carl - 519 W Barnes rd
 * Tammy Wagoner
-* Dean Olin
-* david delaney
 * Jason Sherman
 * Christopher Sylvia
-* Craig Rahr
-* Saif Vazquez
-* Spencer Hawn
 * Jon Bolinger
-* Joshua Twilley
-* Sergey Kioroglo
-* Kriss Bailey
-* Justin Bailey
-* Moira Bugler
-* Yelena Dovgal
-* Rebecca Geiger
-* Jeremy Ruse
 * Monty Henderson
 * Maryanne Coffman
 * Cyrus Asasy
 * Helen Covey
-* Stephanie Lisherness
 * Christina Swanson
 * Lawrence Kuchler
 * Deloris Kuchler
-* Afton Herron
 * Michele Marshall
 * Kevin Rogers
 * Eric Molina
 * Heidi Deese
 * Ann Finn
-* Rania H
 * David Sherman
-* Zachary Sofich
 * Zack Velasco
 * Daniel Martin
 * Tigran Zakaryan
@@ -259,7 +239,6 @@ Testifying:
 * Dan Lisherness
 * Terri Jeffrey
 * Indy Dehal
-* Joseph Payne - Joseph Payne
 * Lindsay Gates
 * Lori Beach
 * Ashton Beach
@@ -272,45 +251,55 @@ Testifying:
 * Tarah Kimbrough
 * Patrick Campbell
 * Laura Mollet
-* Sharon Sloan
 * Cindy Tucker
 * Christopher Smith
-* Brandon Donnelson
 * Jessica Oliver
-* Rick Reber
-* Sarah Sweborg
 * Robert Lewis
 * Jon Georg
-* Ron Martinsen
 * Rolf Bentsen
 * Pascal Warren - 103 w 4th Ave
 * Eduardo Zepeda
-* Rebecca Faust
 * Hanna Biahanskaya
 * Darin Palmer
-* TinaMarie King
 * Marina Hayrapetyan
 * Joseph Paul
-* Chor Ng
 * Stephanie Stanley
-* Blanca Pocasangre
-* Liza Simmonds
-* Bree Wolfe
-* Greg Pinkerton
+* Carrie Adelstein
+* Paul Jacobs
+* Dwayne Erickson
+* Richard Martin
+* Laura Carl - 519 W Barnes rd
+* Dean Olin
+* david delaney
+* Craig Rahr
+* Saif Vazquez
+* Spencer Hawn
+* Joshua Twilley
+* Sergey Kioroglo
+* Kriss Bailey
+* Justin Bailey
+* Moira Bugler
+* Yelena Dovgal
+* Rebecca Geiger
+* Jeremy Ruse
+* Stephanie Lisherness
+* Afton Herron
+* Rania H
+* Zachary Sofich
+* Joseph Payne - Joseph Payne
+* Sharon Sloan
+* Brandon Donnelson
+* Rick Reber
+* Sarah Sweborg
+* Ron Martinsen
+* Rebecca Faust
 * John Hennessey
 * Jeffrey Growden
 * Rebecca Taylor
-* Yanka Boyadzhieva
-* Jeff Myers
-* Michael Simonitch
 * Pei Chen
 * Matthew Van Hoy
-* Marla Abrams
-* David Church
-* Hailey Irvine
 * Randall Brolander
 * Nicole Borys
-* Beryl Carter
 * Beryl Carter
 * Adam Turner
 * Sean Scholes
@@ -320,23 +309,20 @@ Testifying:
 * Judith Smith
 * Stacy Shepherd
 * John Roskelley
-* Kay Vann
 * Vinod Reddy Gopi Reddy
+* Liza Simmonds
+* Bree Wolfe
+* Greg Pinkerton
+* Yanka Boyadzhieva
+* Jeff Myers
+* Michael Simonitch
+* Marla Abrams
+* David Church
+* Hailey Irvine
+* Beryl Carter
+* Kay Vann
 * Dave Tucker
 * Joe and Laurie Arndt
-* Chun Lu
-* Ashia Mills
-* Henry Wang
-* Avery Chiu
-* Qing Wood
-* Jessica Padilla
-* Yan Li
-* David Fannin
-* Anton Poon
-* Hongxia Crowell
-* Michelle Li
-* Jingting Wang
-* Michael Patterson - Washington Association of Mortgage Professionals
 * Twila Zard
 * Laura Hood - Laura Hood
 * Anthony Holan
@@ -364,8 +350,21 @@ Testifying:
 * Xueyin Jiang
 * Migi Knabe
 * Lan Xing
+* Chun Lu
+* Ashia Mills
+* Henry Wang
+* Avery Chiu
+* Qing Wood
+* Jessica Padilla
+* Yan Li
+* David Fannin
+* Anton Poon
+* Hongxia Crowell
+* Michelle Li
+* Jingting Wang
+* Michael Patterson - Washington Association of Mortgage Professionals
 
 #### 161 ❓ - Other
 Testifying:
-* Joel Jensen
 * Trayton Shelton
+* Joel Jensen

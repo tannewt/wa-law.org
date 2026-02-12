@@ -13,15 +13,12 @@
 ### Tue 02/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1463 Cash assistance time limits
 #### 398 👍 - Pro
 Testifying:
-* Jessica Silver
 * Irene Muller - Essentials First
 * Diane Evans
 * Jessica Silver
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Jessica Silver
 
 #### 18 👎 - Con
 
 #### 3 ❓ - Other
-Testifying:
-* Brice Montgomery - Director - Community Services Division - DSHS - ESA
-* Lisa Nicoli - Sr Research Project Mgr - Management Analytics and Performance Statistics Unit - DSHS - ESA

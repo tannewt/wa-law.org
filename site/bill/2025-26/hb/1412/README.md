@@ -21,10 +21,10 @@ Testifying:
 * Laila Saliba - Washington for Peace and Justice
 * 💵Aya Samman
 * Zaid Haque - WA Dems Muslim Caucus
-* Roxana Norouzi - OneAmerica
 * Leyla Salmassi
 * Desirée Toliver
 * Angelique Rodriguez - CAIR-Washington
+* Roxana Norouzi - OneAmerica
 * Sameera Ibrahim
 * Randa Tawil
 * 💵Nilu Jenks

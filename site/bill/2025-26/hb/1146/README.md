@@ -15,8 +15,8 @@
 #### 537 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
-* Amani Sawari
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Amani Sawari
 * Jacob Schmitt - Just Us Solutions
 * Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Christopher Poulos - Center for Justice and Human Dignity
@@ -32,12 +32,12 @@ Testifying:
 #### 901 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
-* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Barbara Gulley
-* Loni Simone
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Steve Chilson
 * Asenith M Herbert Hill
 * Valerie Norman
+* Loni Simone
 
 #### 5 ❓ - Other
 Testifying:

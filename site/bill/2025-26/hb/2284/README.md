@@ -16,8 +16,8 @@
 #### 203 👍 - Pro
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
-* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Amber Carter - American Recyclable Plastic Bag Alliance (ARPBA)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Caleb Gwerder - Washington Farm Bureau
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 

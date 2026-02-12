@@ -14,11 +14,11 @@ Testifying:
 
 #### 9 👎 - Con
 Testifying:
-* 💵Holly Chisa - Recycled Materials Assn
 * 💵James King - [Automotive Recyclers of Washington](/org/automotive_recyclers_of_washington/)
+* 💵Holly Chisa - Recycled Materials Assn
+* 💵Daniel Zotos - Redwood Materials
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * Jeff Gombosky - [Tesla](/org/tesla/)
-* 💵Daniel Zotos - Redwood Materials
 
 #### 3 ❓ - Other
 Testifying:

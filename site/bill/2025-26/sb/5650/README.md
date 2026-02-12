@@ -11,11 +11,16 @@
 #### 10 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Pam Haley - Councilmember, City of Spokane Valley
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Pam Haley - Councilmember, City of Spokane Valley
 
 #### 400 👎 - Con
 Testifying:
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Ezra Eickmeyer - Producers NW
+* Shea Hynes - Lux Pot Shop
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Trevor Islands
 * Paula Fillmore-Sardinas - WBBA
 * Cindy Howard
 * Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
@@ -28,12 +33,7 @@ Testifying:
 * Eric Gaston - Stonr
 * Sara Eltinge - The Herbery
 * Jana House
-* 💵Vicki Christophersen - Washington CannaBusiness Association
 * Ian Rakes
-* 💵Ezra Eickmeyer - Producers NW
-* Shea Hynes - Lux Pot Shop
-* Caitlein Ryan - THE CANNABIS ALLIANCE
-* Trevor Islands
 * Rolando Rodriguez - Green Roads Cannabis (Social Equity License)
 * Jeff Hubbard - Constellation Cannabis
 * Logan Bowers - Hashtag Cannabis
@@ -42,5 +42,3 @@ Testifying:
 * Jesten Meyer - Social Equity Retailer Alliance
 
 #### 1 ❓ - Other
-Testifying:
-* Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)

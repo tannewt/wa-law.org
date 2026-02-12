@@ -15,9 +15,9 @@
 Testifying:
 * Laurie Dawson - 12062 Seabeck Hwy NW
 * Karen Lofgren
-* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Charles Anderson - Department of Corrections
 * Melissa Andrewjeski - Department of Corrections
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 1 👎 - Con
 Testifying:

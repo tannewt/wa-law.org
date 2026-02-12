@@ -14,9 +14,9 @@
 ### Thu 01/23 01:30 PM - Finance (FIN): HB 1094 Social services/property tax
 #### 23 👍 - Pro
 Testifying:
-* Debbie Lacy - Eastside For All
 * Troy Christensen - PorchLight
 * Kim Sarnecki - Together Center
+* Debbie Lacy - Eastside For All
 * Melissa Stuart - Together Center
 * Sarah Perry - King County Council
 

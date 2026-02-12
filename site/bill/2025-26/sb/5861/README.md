@@ -20,5 +20,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Kate Davis - [Olympia School District](/org/olympia_school_district/)
 * Dr. Karen Bolton - Washington State School Directors' Association (WSSDA)
+* Kate Davis - [Olympia School District](/org/olympia_school_district/)

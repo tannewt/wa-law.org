@@ -23,13 +23,13 @@ Testifying:
 Testifying:
 * Andrew Loomis - Avamere
 * Ken Gardner - SEIU 775 Benefits Group
+* JoLynn Munro - Avamere Rehab
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Sterling Harders - SEIU 775 the long-term caregiver's union
 * Alicia Harris - Nursing Home worker
 * Fern Barton
 * Jamila Bowen - Nursing Home worker
 * Chaim Wolmark - Caldera Care
-* JoLynn Munro - Avamere Rehab
-* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
-* 💵Sterling Harders - SEIU 775 the long-term caregiver's union
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 
 #### 6 👎 - Con

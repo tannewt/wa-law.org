@@ -19,9 +19,12 @@
 #### 144 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
-* Josh Binda - Chair of the NAACP Political Action Committee
 * Megan Moore - Washington State Public Heatlh Association
+* Josh Binda - Chair of the NAACP Political Action Committee
 * 💵Lyset Cadena - Andy Hill CARE Fund
+* Suhani Singh
+* Carrie Nyssen - American Lung Association
+* Heidi Low - Campaign for Tobacco-Free Kids
 * Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
 * MD, Sarah Hansen - WA-Chapter, American College of Emergency Physicians
 * Noelle Clardy
@@ -29,22 +32,19 @@ Testifying:
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Cora Breuner - Wcaap
 * Suhani Singh
-* Carrie Nyssen - American Lung Association
-* Heidi Low - Campaign for Tobacco-Free Kids
-* Suhani Singh
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 
 #### 164 👎 - Con
 Testifying:
 * Shaun D’Sylva
+* Brian Erkkila - PMI
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 * Ryan Neufeld - Private Resident
 * Art Way
 * 💵Crystal Leatherman - WA Retail Association
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
-* Brian Erkkila - PMI
-* 💵Molly Pfaffenroth - Washington Food Industry Association
-* Yujin Ghim - Washington Korean American Grocers Association
 * Tom Eshleman - Doyles Sheehan
+* Yujin Ghim - Washington Korean American Grocers Association
 
 #### 2 ❓ - Other
 Testifying:

@@ -15,13 +15,13 @@
 
 #### 278 👎 - Con
 Testifying:
-* Tara gusler
 * Rhonda S Stone
+* Tara gusler
 * Dolores Tadlock
+* Vicki Stearns
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Lorenzo D’ambrosi
 * Yuri Banzato
-* Vicki Stearns
 * Jennifer Denham
 * Garrett Denham
 

@@ -32,9 +32,9 @@ Testifying:
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1990 Utility disaster costs
 #### 101 👍 - Pro
 Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
-* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 👎 - Con
 

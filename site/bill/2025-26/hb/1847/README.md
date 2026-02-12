@@ -23,8 +23,8 @@ Testifying:
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1847 Distributed alt. energy dev.
 #### 63 👍 - Pro
 Testifying:
-* 💵Charlee Thompson - NW Energy Coalition
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
+* 💵Charlee Thompson - NW Energy Coalition
 * Bradley Dosch
 * Councilmember Justin Paulsen - [San Juan County](/org/san_juan_county/)
 

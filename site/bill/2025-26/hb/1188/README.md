@@ -16,14 +16,14 @@
 #### 86 👍 - Pro
 Testifying:
 * Kevin Akesson
-* Kevin Akesson
 * Tresa Bannister
 * Paul Krupin - Tri-Cities CARES
 * Sue Lani Madsen - Washington Rural Environmental Network
+* Kevin Akesson
+* Karen Brutzman
 * Loni Simone
 * Michele Kiesz - VOICES for Rural Action
 * Andrew Juris
-* Karen Brutzman
 * 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 27 👎 - Con

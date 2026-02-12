@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 09/25/2025 [Washington State Standard](/org/washington_state_standard/) - [AI reviews rolling out for Medicare in WA for some procedures • Washington State Standard](https://washingtonstatestandard.com/2025/09/25/ai-reviews-rolling-out-for-medicare-in-wa-for-some-procedures/#:~:text=considered%20legislation)
@@ -32,9 +33,9 @@ Testifying:
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5395 Prior authorization/health
 #### 200 👍 - Pro
 Testifying:
+* Dr. Addison Stone - [Proliance Surgeons](/org/proliance_surgeons/)
 * 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Dr. Douglas Backous
-* Dr. Addison Stone - [Proliance Surgeons](/org/proliance_surgeons/)
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Adam Dittemore - EvergreenHealth
 * Rena Cardenas - MultiCare Health System
@@ -46,7 +47,7 @@ Testifying:
 * Dr. Romilla Batra - [Premera Blue Cross](/org/premera_blue_cross/)
 * Dr. Chris Berlin - Kaiser Permanente
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
-* 💵Marissa Ingalls
+* 💵Marissa Ingalls - Coordinated Caare
 * Peggi Lewis Fu - Association of Washington Health Care Plans
 
 #### 0 ❓ - Other

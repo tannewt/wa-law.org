@@ -56,9 +56,9 @@
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Jani Hitchen - Pierce County Council Chair
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Joe McDermott - State Relations Director | King County
 * 💵Matthew Hepner - East Wenatchee City Council
 * 💵Michael Transue - Washington Fraternal Order of Police
@@ -70,28 +70,28 @@ Testifying:
 
 #### 5 ❓ - Other
 Testifying:
+* Dana Ralph - City of Kent, Mayor
 * 💵Briahna Murray - [City of Kent](/org/city_of_kent/)
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
-* Dana Ralph - City of Kent, Mayor
 
 ### Tue 03/25 08:00 AM - Law & Justice (LAW): ESHB 2015 Public safety funding
 #### 53 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Mac Nicholson - [King County](/org/king_county/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Nathan Olson - Office of the Governor
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Mary Lou Pauly - Mayor, City of Issaquah
+* Dan Eder - [City of Seattle](/org/city_of_seattle/)
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
 * Jeff DeVere - WACOPS-Washington Council of Police & Sheriffs
 * Mary Robnett - Pierce County Prosecutor
 * Ryan Mello - Pierce County Executive
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
-* Dan Eder - [City of Seattle](/org/city_of_seattle/)
 * Patti Cole-Tindall - Sheriff | King County
-* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 * James Schrimpsher - Washington Fraternal Order of Police
 
@@ -99,8 +99,8 @@ Testifying:
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jacob Foreman
-* Anthony Holan
 * TaraLyn Fray
+* Anthony Holan
 
 #### 5 ❓ - Other
 Testifying:
@@ -112,18 +112,18 @@ Testifying:
 #### 21 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Mac Nicholson - [King County](/org/king_county/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Mac Nicholson - [King County](/org/king_county/)
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Nathan Olson - Office of the Governor
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 
 #### 868 👎 - Con
 Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Initiative Activist
 * TaraLyn Fray
-* Jeff Pack - Washington Citizens Against Unfair Taxes
 * Delmer Eldred
 * Sandra Mochizuki
 

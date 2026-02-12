@@ -24,8 +24,10 @@ Testifying:
 * Aamena Ellithy
 * Shehzad Qureshi
 * Ruslan Baltabayev
-* Laila Saliba - Washington for Peace and Justice
 * 💵Aya Samman
+* Sarah Karim
+* Samia El-Moslimany
+* Laila Saliba - Washington for Peace and Justice
 * 💵Aya Samman
 * Amna Qazi - 1806 , 15th ave south west
 * Aysha Siddiqui
@@ -34,8 +36,8 @@ Testifying:
 * Michelle Ryder
 * Anik Vahora
 * Saima Samad
-* Sarah Karim
-* Samia El-Moslimany
+* Fathia Hassan
+* Nashad Safa
 * Mubashir Koul
 * Shaheen Hameed
 * Maryam sajid
@@ -46,8 +48,6 @@ Testifying:
 * Sabrene Odeh - CAIR
 * Desirée Toliver
 * Amina Khan
-* Fathia Hassan
-* Nashad Safa
 
 #### 718 👎 - Con
 

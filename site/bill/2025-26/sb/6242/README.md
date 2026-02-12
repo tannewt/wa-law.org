@@ -10,8 +10,8 @@
 ### Mon 01/26 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6242 County shared stewardship
 #### 61 👍 - Pro
 Testifying:
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * John Worthington
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 2 👎 - Con
 

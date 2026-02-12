@@ -11,8 +11,8 @@
 ### Wed 03/19 04:00 PM - Appropriations (APP): SSB 5738 Retired employees/work
 #### 55 👍 - Pro
 Testifying:
-* Jim Kowalkowski - Rural Education Center
 * Dr Ann Varkados
+* Jim Kowalkowski - Rural Education Center
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 * Lynn Scharff - Great Northern School District
 
@@ -23,12 +23,12 @@ Testifying:
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SB 5738 Retired employees/work
 #### 111 👍 - Pro
 Testifying:
-* Lynn Scharff - Great Northern School District
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 * Jim Kowalkowski - Rural Education Center
-* Tye Churchwell - Wishram School Superintendent
+* Lynn Scharff - Great Northern School District
 * Steve Jantz - Keller School District
 * Dr. Ann Varkados - Lyle and Centerville school districts
+* Tye Churchwell - Wishram School Superintendent
 * Tommy Gallegos - Tommy Gallegos
 
 #### 1 👎 - Con

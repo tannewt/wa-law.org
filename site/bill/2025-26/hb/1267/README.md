@@ -22,5 +22,5 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Hilary Kozel - [Spokane Public Schools](/org/spokane_public_schools/)
 * Natalya Yudkovsky - Washington State PTA
+* Hilary Kozel - [Spokane Public Schools](/org/spokane_public_schools/)

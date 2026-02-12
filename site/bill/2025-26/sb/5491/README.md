@@ -11,8 +11,8 @@
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5491 Prescribed fire claims
 #### 184 👍 - Pro
 Testifying:
-* Lucas King - WA Prescribed Fire Council
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Lucas King - WA Prescribed Fire Council
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 3 👎 - Con

@@ -20,9 +20,9 @@ Testifying:
 ### Tue 01/28 01:30 PM - Human Services (HS): SB 5342 Legislators/state facilities
 #### 344 👍 - Pro
 Testifying:
+* Jacob Schmitt - Just Us Solutions
+* Jacob Schmitt - Just Us Solutions
 * Raymond Williams - Just Us Solutions
-* Jacob Schmitt - Just Us Solutions
-* Jacob Schmitt - Just Us Solutions
 * Jacob Schmitt - Just Us Solutions, LLC
 
 #### 1 👎 - Con

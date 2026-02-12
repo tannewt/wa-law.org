@@ -5,14 +5,15 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2172 Road jurisdiction transfer
 #### 12 👍 - Pro
 Testifying:
 * Reema Griffith - Wash. State Transportation Commission
-* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * John Hines - Council Member, City of Tacoma
 * Steve Victor - [City of Tacoma](/org/city_of_tacoma/)
 * Jennifer Kammerzell - [City of Tacoma](/org/city_of_tacoma/)

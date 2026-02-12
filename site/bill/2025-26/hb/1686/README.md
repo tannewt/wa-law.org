@@ -41,15 +41,14 @@ Testifying:
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1686 Health care entity registry
 #### 113 👍 - Pro
 Testifying:
-* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Jane Beyer - Office of the Insurance Commissioner
 * Pam MacEwan - Providers Business Group on Health
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 3 👎 - Con
 Testifying:
-* 💵Courtney Williams - Director of Government Affairs and Advocacy for The Adult Family Home Council
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Courtney Williams - Director of Government Affairs and Advocacy for The Adult Family Home Council
 
 #### 2 ❓ - Other
 Testifying:
@@ -59,8 +58,8 @@ Testifying:
 ### Wed 02/12 01:30 PM - Health Care & Wellness (HCW): HB 1686 Health care entity registry
 #### 142 👍 - Pro
 Testifying:
-* Jane Beyer - Office of the Insurance Commissioner
 * Nico Janssen - Office of the Insurance Commissioner
+* Jane Beyer - Office of the Insurance Commissioner
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Pam MacEwan - Washington Health Benefit Exchange
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)

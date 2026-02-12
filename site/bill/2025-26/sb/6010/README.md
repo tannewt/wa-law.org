@@ -15,8 +15,8 @@ Testifying:
 * Council Charlene Tillequots - Confederated Tribes and Bands of the Yakama Nation
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 * Council Terry Heemsah - Confederated Tribes and Bands of the Yakama Nation
-* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
 * Andrea Matheny - [Washington Conservation Action](/org/washington_conservation_action/)
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
 
 #### 51 👎 - Con
 Testifying:

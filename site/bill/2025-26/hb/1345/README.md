@@ -30,8 +30,8 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Christina Mojica - Reason Foundation
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 ### Mon 01/27 01:30 PM - Housing (HOUS): HB 1345 Detached ADU limits
 #### 16 👍 - Pro

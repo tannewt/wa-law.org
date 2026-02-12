@@ -61,10 +61,9 @@ Testifying:
 * Lindsey Kirsch - Washington State Nurses Association
 * Maurya Robinson - Washington State Nurses Association
 
-#### 1 👎 - Con
+#### 0 👎 - Con
+
+#### 3 ❓ - Other
 Testifying:
 * Kelay Trentham - MultiCare Health System
-
-#### 2 ❓ - Other
-Testifying:
 * 💵Remy Kerr - Washington state hospital association

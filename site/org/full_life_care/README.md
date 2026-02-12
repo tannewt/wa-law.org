@@ -2,9 +2,9 @@
 ## 2025-26
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓3
+* ❓ Stacy Christ
 * ❓ Hannah Brendemuhl
 * ❓ Cricket Farr
-* ❓ Stacy Christ
 
 ### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
 
@@ -15,9 +15,9 @@
 ### [HB 2084](/bill/2025-26/hb/2084/) - Tax preferences 👍3  
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓3
+* ❓ Stacy Christ
 * ❓ Hannah Brendemuhl
 * ❓ Cricket Farr
-* ❓ Stacy Christ
 
 ### [SB 5797](/bill/2025-26/sb/5797/) - Intangible assets tax 👍1  
 

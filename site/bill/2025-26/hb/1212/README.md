@@ -32,9 +32,9 @@ Testifying:
 ### Tue 01/21 10:30 AM - Local Government (LG): HB 1212 Child care center siting
 #### 84 👍 - Pro
 Testifying:
+* Stephanie Smith - Learning to Grow
 * Scott Bonjukian
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Stephanie Smith - Learning to Grow
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Rachel Mazur
 

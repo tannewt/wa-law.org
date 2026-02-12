@@ -45,9 +45,9 @@ Testifying:
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5496 Home buying by entities
 #### 150 👍 - Pro
 Testifying:
+* Kevin Hunter
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Denise Rodriguez - WA Homeownership Resource Center
-* Kevin Hunter
 * 💵Nick Federici - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 
 #### 100 👎 - Con

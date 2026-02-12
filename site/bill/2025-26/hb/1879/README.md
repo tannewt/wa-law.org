@@ -28,7 +28,7 @@ Testifying:
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1879 Hospital worker breaks
 #### 51 👍 - Pro
 Testifying:
-* 💵Ashlen Strong
+* 💵Ashlen Strong - Washington State Hospital Association
 * 💵Lindsey Grad - SEIU Healthcare 1199NW
 
 #### 1 👎 - Con

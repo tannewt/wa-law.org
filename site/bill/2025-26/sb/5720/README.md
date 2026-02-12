@@ -8,11 +8,20 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5720 Uniform debt default act
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5720 Uniform debt default act
 #### 57 👍 - Pro
 Testifying:
-* David Reid
 * Mindy Chumbley - NW Collectors Assoc
+* David Reid
 * Sam Leonard - NW Consumer Law Center
 * Raymond Pepe - Uniform Law Commission
 
@@ -32,5 +41,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* kevin underwood - [Washington Collectors Association](/org/washington_collectors_association/)
 * Julia Kellison - NW Justice Project
+* kevin underwood - [Washington Collectors Association](/org/washington_collectors_association/)

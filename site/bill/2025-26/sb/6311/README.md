@@ -20,5 +20,5 @@ Testifying:
 Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Michael Shaw - [King County](/org/king_county/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Michael Shaw - [King County](/org/king_county/)

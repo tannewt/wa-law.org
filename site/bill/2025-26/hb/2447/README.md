@@ -15,10 +15,10 @@
 #### 229 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Sixgill Shark Coalition
+* Dani Escontrela - Seattle Aquarium
 * Eleanor Miller - Self
 * Skippy Shaw - Self
 * 💵Matt Miller - Self
-* Dani Escontrela - Seattle Aquarium
 * 💵Anthony Hemstad - [City of Des Moines](/org/city_of_des_moines/)
 * Mira Leatherman - Student & Shark Enthusiast
 * AUDREY Holloway - Communities for a Healthy Bay

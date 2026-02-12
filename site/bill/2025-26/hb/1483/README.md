@@ -37,11 +37,11 @@
 #### 916 👍 - Pro
 Testifying:
 * Steven Rhine - Rhine Labs
-* Eduard Sinelnikov
 * Antoni Plocica
+* Eduard Sinelnikov
 * Steven Bock - Computer Programmer / Digital Rights Advocate
-* 💵Khalid Pagan - Lenovo US
 * Steven Rhine - Rhine Labs
+* 💵Khalid Pagan - Lenovo US
 * 💵Charlie Fisher - Public Interest Research Group
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Sean Sullivan - Google
@@ -57,6 +57,7 @@ Testifying:
 #### 525 👍 - Pro
 Testifying:
 * Steven Rhine
+* Steven Bock
 * Aiden Prather
 * 💵Charlie Fisher - Public Interest Research Group (PIRG)
 * Moji Igun - [Zero Waste Washington](/org/zero_waste_washington/)
@@ -66,15 +67,14 @@ Testifying:
 * Morgan Costello-Hostettler - InterConnection
 * 💵Patrick Connor - National Federation of Independent Business (NFIB)
 * Steven Nickel - Google
-* Steven Bock
 
 #### 7 👎 - Con
 Testifying:
 * Juan Londono - Taxpayers Protection Alliance
-* Jeff Gombosky - CTIA - The Wireless Association
-* Amy Bos - NetChoice
 * Turner Loesel - James Madison Institute
 * Dustin Brighton - Repair Done Right Coalition
+* Jeff Gombosky - CTIA - The Wireless Association
+* Amy Bos - NetChoice
 
 #### 2 ❓ - Other
 Testifying:

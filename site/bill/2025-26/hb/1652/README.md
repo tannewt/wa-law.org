@@ -37,20 +37,20 @@ Testifying:
 #### 525 👍 - Pro
 Testifying:
 * Annemarie Dooley - Washington Physicians for Social Responsibility
-* Jay Julius - Lummi Fisherman
-* Deborah Giles - WildOrca
 * Brendan Flynn - FulmarFish
 * Marcie Keever - Friends of the Earth
 * Mona Howe - Climate Action Families
+* Jay Julius - Lummi Fisherman
+* Deborah Giles - WildOrca
 
 #### 19 👎 - Con
 Testifying:
 * Jacqueline Moore - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
-* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* Sean Eagan - Northwest Seaport Alliance
 * Tad Sommerville
 * DONALD BROWN - Cruise Lines International Association (CLIA)
 * 💵Amber Carter - Columbia River Steamship Operators Assn.
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Sean Eagan - Northwest Seaport Alliance
 
 #### 4 ❓ - Other
 Testifying:

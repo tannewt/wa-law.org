@@ -22,8 +22,8 @@ Testifying:
 * Donald Pugnetti Jr
 * Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Victoria Woodards - Mayor, City of Tacoma
-* Ali Lee
 * Jon Grant - [Low Income Housing Institute](/org/low_income_housing_institute/)
+* Ali Lee
 
 #### 731 👎 - Con
 Testifying:
@@ -38,8 +38,8 @@ Testifying:
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1774 Lease of unused highway land
 #### 35 👍 - Pro
 Testifying:
-* Betsy Wilkerson - Spokane City Council President
 * Jerry Pugnetti
+* Betsy Wilkerson - Spokane City Council President
 * Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Hunter George - Parks Tacoma
 * Jon Grant - [Low Income Housing Institute](/org/low_income_housing_institute/)

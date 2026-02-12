@@ -15,8 +15,8 @@
 #### 9 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative
 * Heath Henderson - [Clark Regional Wastewater District](/org/clark_regional_wastewater_district/)
+* 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative
 
 #### 1 👎 - Con
 

@@ -17,10 +17,10 @@
 #### 179 👍 - Pro
 Testifying:
 * 💵Radu Smintina - School's Out Washington
-* Johnnie McRae
-* Gabriel Linares
 * Andrea Gomes Morrison - Girls on the Run Puget Sound
 * Dev Erikson
+* Johnnie McRae
+* Gabriel Linares
 * Jiaqing Kang - Lake Washington High School
 * Mabel Wong - Lake Washington High School
 * Noa Mittelman - Lake Washington High School
@@ -28,11 +28,11 @@ Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Amelie Madison
 * Elise Roe
-* Angelo Celleti
 * Meghan Francis - Confederated Tribes of the Colville Reservation
+* Angelo Celleti
+* Shawn Roberts - Arts Corps
 * Cadence Garwood
 * Evan Pierce - [Department of Natural Resources](/org/department_of_natural_resources/)
-* Shawn Roberts - Arts Corps
 * Misha Cherniske - Office of Superintendent of Public Instruction
 
 #### 68 👎 - Con

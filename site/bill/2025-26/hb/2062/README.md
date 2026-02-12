@@ -19,7 +19,7 @@ Testifying:
 
 #### 662 👎 - Con
 Testifying:
-* David Simpson
 * TaraLyn Fray
+* David Simpson
 
 #### 0 ❓ - Other

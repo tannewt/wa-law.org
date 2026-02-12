@@ -26,8 +26,8 @@ Testifying:
 * Avyay Nalumachu
 * Erik Ghulyan
 * Erik Straka
-* 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* 💵Brandon Houskeeper - NW Grocery Retail Association
 
 #### 1 ❓ - Other
 Testifying:

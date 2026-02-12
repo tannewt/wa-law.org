@@ -25,6 +25,11 @@ Testifying:
 #### 82 👎 - Con
 Testifying:
 * Brandon Park - 4235 Springdale Hunters Rd
+* Haider Tareen
+* Sara Eltinge - The Herbery
+* Jferrich Oba - Black Excellence In Cannabis
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 * Shea Hynes - 4612 17th Ave NW
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Bethany Rondeaux - Falcanna
@@ -34,11 +39,6 @@ Testifying:
 * Jason Hutto
 * Rolando Rodriguez - Green Roads Cannabis
 * Phil Seda
-* Haider Tareen
-* Sara Eltinge - The Herbery
-* Jferrich Oba - Black Excellence In Cannabis
-* Mike Asai - Black Excellence In Cannabis
-* Peter Manning - Black Excellence In Cannabis
 * Justin Rondeaux - BC Labs
 
 #### 3 ❓ - Other

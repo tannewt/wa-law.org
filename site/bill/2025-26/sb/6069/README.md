@@ -25,12 +25,12 @@ Testifying:
 * 💵Eric Pettigrew - The Moore Group
 * Jameel Brown - 2027146332
 * Tanikka Watford - The Moore Wright Group
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Dan Wise - [Catholic Community Services](/org/catholic_community_services/)
 * 💵Jenn Henderson - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Nick Fielden - Washington State Attorney General's Office
 * Joe McDermott - State Relations Director | King County
-* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 361 👎 - Con
 Testifying:

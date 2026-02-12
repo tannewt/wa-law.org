@@ -10,11 +10,11 @@
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5995 Zero emission cargo handling
 #### 910 👍 - Pro
 Testifying:
-* Joe Wall - Port of Seattle Tax Payer, Longshore worker Local 19
 * Dan McKisson - President, ILWU WA Area District Council
 * Kesa Sten - President, ILWU Local 52
 * Meghan Mason - ILWU Local 23
 * Nicholas Matson - ILWU 51
+* Joe Wall - Port of Seattle Tax Payer, Longshore worker Local 19
 * Jess Koski - Blue Green Alliance
 * Waylon Roberts - Sailors Union of the Pacific
 * Captain Dan Twohig - International Association of Masters, Mates and Pilots

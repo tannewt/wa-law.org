@@ -15,9 +15,9 @@ Testifying:
 * Raymond Williams
 * Jacob Schmitt - Just Us Solutions
 * Izzy Eads
-* Izzy Eads
 * Cindy Arends Elsberry - [Washington Defender Association](/org/washington_defender_association/)
 * Percy Levy
+* Izzy Eads
 
 #### 4 👎 - Con
 Testifying:

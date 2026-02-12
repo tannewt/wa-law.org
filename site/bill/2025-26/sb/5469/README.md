@@ -45,20 +45,20 @@ Testifying:
 #### 1008 👎 - Con
 Testifying:
 * Justine Lopez - Pillar Properties
+* TaraLyn Fray
 * 💵Chester Baldwin - Manufactured Housing Communities of WA (MHCW)
 * Beau Harer - [Detente Management](/org/detente_management/)
 * Mackinley Robinson
-* TaraLyn Fray
 * Julie Dowell
 * Julie Dowell
 * Julie Dowell - Protection-1 EMS
-* Mischa Guenther Heide - Rain Commercial Real Estate Advisors
-* Dan Piantanida - GP Realty Finance
 * Andrew Mendenhall - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
 * Chelsy Parrish
 * Sandra Mochizuki
 * Christina Mays
+* Mischa Guenther Heide - Rain Commercial Real Estate Advisors
+* Dan Piantanida - GP Realty Finance
 * Catherine Tharp
 * Eric Steven - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
 * Mike Semko - Realpage
@@ -76,8 +76,8 @@ Testifying:
 * Karen Ceurvorst
 * Lee Hepner - American Economic Liberties Project
 * Steve Sundstrom
-* Lisa Kent
 * Gloria Hazen - Private Citizen
+* Lisa Kent
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Mary Hull-Drury - Washington Realtors
 

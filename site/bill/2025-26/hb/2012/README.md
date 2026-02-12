@@ -14,21 +14,21 @@
 ### Mon 03/24 04:00 PM - Appropriations (APP): HB 2012 Transition to kindergarten
 #### 33 👍 - Pro
 
-#### 1073 👎 - Con
+#### 1072 👎 - Con
 Testifying:
-* Colleen Frerks - Quincy School District
-* Mark Jacobson - St. John School District
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Mark Jacobson - St. John School District
 * Sandra Mochizuki
-* Sandra Brock
 * Charlie Brown - South Sound Superintendents
+* Sandra Brock
 * Anthony Holan
 * TaraLyn Fray
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
-* Jim Kowalkowski - Rural Education Center
 * 💵Erica Hallock - Start Early Washington
+* Colleen Frerks - Quincy School District
+* Jim Kowalkowski - Rural Education Center
 * Wade Smith - Superintendent, Walla Walla Public Schools
 * Kimberly Headrick - Medical Lake School District
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP

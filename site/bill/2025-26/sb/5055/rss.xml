@@ -30,30 +30,6 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>❓Hilary Jensen - Jensen Farms</title>
-			<description>Hilary Jensen signed up to testify Other. They are signed up to represent Jensen Farms.</description>
-			<pubDate>Wed, 15 Jan 2025 02:49:46 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Hilary/Jensen/2025-01-15 02:49:46</guid>
-		</item>
-		<item>
-			<title>👎Scott Luckie - Luckie Farms</title>
-			<description>Scott Luckie signed up to testify Con. They are signed up to represent Luckie Farms.</description>
-			<pubDate>Wed, 15 Jan 2025 04:46:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Scott/Luckie/2025-01-15 04:46:20</guid>
-		</item>
-		<item>
-			<title>👎💵Bryce Yadon - Futurewise</title>
-			<description>Bryce Yadon signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/futurewise/"&gt;Futurewise&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Wed, 15 Jan 2025 05:32:21 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bryce/Yadon/2025-01-15 05:32:21</guid>
-		</item>
-		<item>
 			<title>👍Robby Rutledge - Washington Assn. of Building Officials</title>
 			<description>Robby Rutledge signed up to testify Pro.</description>
 			<pubDate>Wed, 15 Jan 2025 12:53:54 GMT</pubDate>
@@ -68,6 +44,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Linda/Hjelle/2025-01-15 12:59:27</guid>
+		</item>
+		<item>
+			<title>❓Hilary Jensen - Jensen Farms</title>
+			<description>Hilary Jensen signed up to testify Other. They are signed up to represent Jensen Farms.</description>
+			<pubDate>Wed, 15 Jan 2025 14:49:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Hilary/Jensen/2025-01-15 14:49:46</guid>
+		</item>
+		<item>
+			<title>👎Scott Luckie - Luckie Farms</title>
+			<description>Scott Luckie signed up to testify Con. They are signed up to represent Luckie Farms.</description>
+			<pubDate>Wed, 15 Jan 2025 16:46:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Scott/Luckie/2025-01-15 16:46:20</guid>
+		</item>
+		<item>
+			<title>👎💵Bryce Yadon - Futurewise</title>
+			<description>Bryce Yadon signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/futurewise/"&gt;Futurewise&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 15 Jan 2025 17:32:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bryce/Yadon/2025-01-15 17:32:21</guid>
 		</item>
 		<item>
 			<title>👍Cory Wright - Kittitas County</title>
@@ -137,26 +137,18 @@
 		<item>
 			<title>👎Mikala Staples Hughes - Western Washington Agricultural Association</title>
 			<description>Mikala Staples Hughes signed up to testify Con. They are signed up to represent Western Washington Agricultural Association.</description>
-			<pubDate>Wed, 19 Mar 2025 05:29:13 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 17:29:13 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mikala/Staples Hughes/2025-03-19 05:29:13</guid>
+			<guid isPermaLink="false">testifier/Mikala/Staples Hughes/2025-03-19 17:29:13</guid>
 		</item>
 		<item>
 			<title>👎Ellen Bynum - Friends of Skagit County</title>
 			<description>Ellen Bynum signed up to testify Con. They are signed up to represent Friends of Skagit County.</description>
-			<pubDate>Wed, 19 Mar 2025 11:13:56 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 23:13:56 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Ellen/Bynum/2025-03-19 11:13:56</guid>
-		</item>
-		<item>
-			<title>👎Liza Simmonds - Friends of Skagit County</title>
-			<description>Liza Simmonds signed up to testify Con.</description>
-			<pubDate>Mon, 24 Mar 2025 07:07:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Liza/Simmonds/2025-03-24 07:07:28</guid>
+			<guid isPermaLink="false">testifier/Ellen/Bynum/2025-03-19 23:13:56</guid>
 		</item>
 		<item>
 			<title>👎TaraLyn Fray - Friends of Skagit County</title>
@@ -167,20 +159,28 @@
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-24 09:15:23</guid>
 		</item>
 		<item>
+			<title>👎Liza Simmonds - Friends of Skagit County</title>
+			<description>Liza Simmonds signed up to testify Con.</description>
+			<pubDate>Mon, 24 Mar 2025 19:07:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Liza/Simmonds/2025-03-24 19:07:28</guid>
+		</item>
+		<item>
 			<title>❓Dustin Curb - Washington State Building Code Council</title>
 			<description>Dustin Curb signed up to testify Other. They are signed up to represent Washington State Building Code Council.</description>
-			<pubDate>Tue, 25 Mar 2025 01:33:11 GMT</pubDate>
+			<pubDate>Tue, 25 Mar 2025 13:33:11 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Dustin/Curb/2025-03-25 01:33:11</guid>
+			<guid isPermaLink="false">testifier/Dustin/Curb/2025-03-25 13:33:11</guid>
 		</item>
 		<item>
 			<title>❓Tim Woodard - Washington Assn. of Building Officials</title>
 			<description>Tim Woodard signed up to testify Other. They are signed up to represent Washington Assn. of Building Officials.</description>
-			<pubDate>Tue, 25 Mar 2025 06:29:01 GMT</pubDate>
+			<pubDate>Tue, 25 Mar 2025 18:29:01 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Tim/Woodard/2025-03-25 06:29:01</guid>
+			<guid isPermaLink="false">testifier/Tim/Woodard/2025-03-25 18:29:01</guid>
 		</item>
 		<item>
 			<title>By resolution, returned to Senate Rules Committee for third reading.</title>

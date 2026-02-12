@@ -17,10 +17,10 @@ Testifying:
 
 #### 10 ❓ - Other
 Testifying:
-* Lois Bollenback - SRTC - Spokane Regional Transportation Council
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lois Bollenback - SRTC - Spokane Regional Transportation Council
 * Jim Restucci - Wash. State Transportation Commission
-* Charles Prestrud - Washington Policy Center
-* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Nicole Grant - Wash. State Transportation Commission
+* Charles Prestrud - Washington Policy Center
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)

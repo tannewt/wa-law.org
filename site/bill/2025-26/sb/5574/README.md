@@ -19,14 +19,14 @@
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
 #### 846 👍 - Pro
 Testifying:
-* Scarlett Luo - Make Us Visible
-* Vivian Song
 * Angelie Chong - Director of Make Us Visible Washington
 * Devon Chong
 * Erin Jones
-* Ping Ping
+* Scarlett Luo - Make Us Visible
+* Vivian Song
 * Angela Bahng
 * Maricres Castro
+* Ping Ping
 * Filma Fontanilla - WEA/Soundview Uniserv Council
 * Olivia Kang - Make Us Visible WA / College Student Advocate
 * Mindy Dong - MUV WA/Student
@@ -46,17 +46,20 @@ Testifying:
 #### 999 👍 - Pro
 Testifying:
 * Angelie Chong - Make Us Visible Washington
+* Devin Cabanilla - Filipino American National Historical Society
+* FAALUAINA PRITCHARD - ASIA PACIFIC CULTURAL CENTER
 * Adrianna Suluai - UTOPIA Washington
 * Amasai Jeke - UTOPIA Washington
 * Scarlett Luo - Make Us Visible Washington
 * Zedeeka Fulay
-* FAALUAINA PRITCHARD - ASIA PACIFIC CULTURAL CENTER
-* Devin Cabanilla - Filipino American National Historical Society
 * Judy Kusakabe - Make Us Visible
+* Jinmo Nam
+* The Anh Nguyen - Nguyens Foundation
+* Jesse Robbins
+* Vivian Song
 * Maricres Castro - Filipino American Scholarship Fund
 * Devon Chong
 * Mary Hilton
-* Jinmo Nam
 * Sarah Karim
 * Sirichanh Sisavatdy - Lao Senior Outreach
 * Vita-Grace Cabanilla - The Filipino American National Historical Society (FANHS)
@@ -65,30 +68,27 @@ Testifying:
 * Noelle Cho
 * Julie Mayer
 * Jason Moon
-* The Anh Nguyen - Nguyens Foundation
 * Sompasong Keohavong
-* Jesse Robbins
-* Vivian Song
+* 💵Alex Hur - Communities in Schools Washington
+* Rachtha Danh - International District
+* Christina Billingsley
+* douglas chin - OCA Asian Pacific American Advocates - Greater Seattle
+* Brian Vangalder
+* Grace Go
 * Lily Nop
 * Kimberly Chinomso
 * Jinmo Nam
 * Jaden Hong
-* 💵Alex Hur - Communities in Schools Washington
-* Rachtha Danh - International District
 * Mary Ann Vargas - [Northwest Kidney Centers](/org/northwest_kidney_centers/)
-* Christina Billingsley
-* douglas chin - OCA Asian Pacific American Advocates - Greater Seattle
 * Joseph Hwang
-* Brian Vangalder
 * Kristina Chu
 * Veteran The Anh Nguyen - Nguyen’s Foundation LLC
-* Grace Go
 * Rey Pascua - CAPAA
 
 #### 862 👎 - Con
 
 #### 14 ❓ - Other
 Testifying:
-* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * 💵Casey Brown - Strategies 360
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * 💵Casey Brown - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

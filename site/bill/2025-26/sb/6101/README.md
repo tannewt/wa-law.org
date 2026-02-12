@@ -17,7 +17,7 @@ Testifying:
 #### 713 👎 - Con
 Testifying:
 * 💵Timothy Grisham - [Washington Association of County Officials](/org/washington_association_of_county_officials/)
-* Warren McLeod - Lewis County Coroner's Office
 * WILLIAM LEACH - Benton County Coroner's Office
+* Warren McLeod - Lewis County Coroner's Office
 
 #### 0 ❓ - Other

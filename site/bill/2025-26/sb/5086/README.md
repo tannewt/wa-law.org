@@ -18,8 +18,8 @@ Testifying:
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
-* 💵Emmett Mills - Washington State School Retirees' Association
 * Rick Chisa - Public School Employees of Washington (PSE)
+* 💵Emmett Mills - Washington State School Retirees' Association
 
 #### 4 ❓ - Other
 Testifying:

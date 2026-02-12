@@ -12,11 +12,11 @@
 Testifying:
 * Christopher Stanley - Administrative Office of the Courts & The Board for Judicial Administration
 * Commissioner Peter Browning - Skagit County Board of County Commissioners
-* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
-* Judge Laura Riquelme - Superior Court Judges’ Association
 * Kevin Naught - Yakima County Superior Court
 * LaDon Linde - Yakima County Commissioner
 * Jessica Humphreys - Yakima County Superior Court
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
+* Judge Laura Riquelme - Superior Court Judges’ Association
 
 #### 0 👎 - Con
 

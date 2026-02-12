@@ -19,8 +19,8 @@
 #### 14 👍 - Pro
 Testifying:
 * Shannon Selland - [Family Impact Network](/org/family_impact_network/)
-* Dr. Jim Walsh
 * Kim Justice
+* Dr. Jim Walsh
 * 💵Julie Watts - Department of Children, Youth and Families
 * Susan Stoner - WA Parent-Child Assistance Program
 
@@ -30,8 +30,8 @@ Testifying:
 * kristina johnson - Keeping Kids Safe
 * Amy Parks
 * Angela Kraemer
-* Christina Faucett
 * Amelia Watson - Supervising Attorney, Washington State Office of Public Defense
+* Christina Faucett
 * Tracie Jefferson
 * Kate Benward - King County Department of Public Defense
 * Amanda Dragoo
@@ -39,10 +39,10 @@ Testifying:
 #### 8 ❓ - Other
 Testifying:
 * Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
-* Pier Petersen - Parents' Representation Project Contract Attorney
-* Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
 * Dr. Daniele Lyman-Torres - [Akin](/org/akin/)
 * Elizabeth Bokan - Office of the Family and Children's Ombuds
+* Pier Petersen - Parents' Representation Project Contract Attorney
+* Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
 * Amy Conklin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Jeanette Obelcz - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

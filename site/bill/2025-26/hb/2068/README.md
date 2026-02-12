@@ -16,15 +16,16 @@
 ### Mon 04/07 10:00 AM - Finance (FIN): HB 2068 Tobacco & nicotine products
 #### 245 👍 - Pro
 Testifying:
+* Emma Bochan
+* Maria Boyko
+* Michael Gapper
 * GREGORY SMITH
+* Ashley Hebert - The Center for Black Health & Equity
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Connor Scharpenberg
 * Maya Bagnulo
 * Noah Hanculak
-* Ashley Hebert - The Center for Black Health & Equity
-* Emma Bochan
-* Maria Boyko
-* Michael Gapper
+* Crystal Dr. Chen - Washington Chapter of the American Academy of Pediatrics
 * Sherry Phay
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * April Keim - PAVe
@@ -34,7 +35,6 @@ Testifying:
 * Annie Tegan - [Campaign for Tobacco Free Kids](/org/campaign_for_tobacco_free_kids/)
 * 💵Casey Brown - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Jamie Bodden - WA State Association of Local Public Health Officials
-* Crystal Dr. Chen - Washington Chapter of the American Academy of Pediatrics
 * Crystal Dr. Shen - Washington Chapter of the American Academy of Pediatrics
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Caleb Rotchstein - Tacoma Mayor's Youth Commission
@@ -50,21 +50,21 @@ Testifying:
 * 💵Sara Stewart - Washington Smoke Free Association
 * Shaun D'Sylva - Fatboy Vapors, LLC
 * Travis McDonald
+* Yvonne Pack
+* Lamont Robinson
+* William Robinson
 * 💵Holly Chisa - [Cigar Association of America](/org/cigar_association_of_america/)
 * Doug Ball - Jackson's Food Stores
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Alicia Boone
-* Yvonne Pack
-* Lamont Robinson
-* William Robinson
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Amy Phan
 * Ben Buchholz - Vapor Technology Association
 * Yujin Ghim - Korean American Grocers Association of Washington
+* Sharon Braxton
 * Art Way
 * Thomas Eshleman - Doyles Sheehan
 * Sandra Mochizuki
-* Sharon Braxton
 
 #### 4 ❓ - Other
 Testifying:

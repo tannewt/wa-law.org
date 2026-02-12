@@ -15,27 +15,28 @@
 ### Wed 02/05 01:30 PM - Health Care & Wellness (HCW): HB 1433 Psychedelic substances
 #### 64 👍 - Pro
 Testifying:
+* Sunil Aggarwal
 * David Platt
 * Allison King
-* Sunil Aggarwal
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Mark Gaskill - Adventure Psychotherapy
 * Heath Hollensbe
+* Wendy Lynn
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Leonora Russell - ADAPT-WA
-* Wendy Lynn
 * Aaron Loehr - Coalition For Better Community Health
 * 💵Paula Sardinas - Build Back Black Alliance
 * Carl Franz - Veteran
 * Zach Skiles - Heroic Hearts
 
-#### 39 👎 - Con
+#### 38 👎 - Con
 Testifying:
-* Cole Schrim LMHC - Tacoma Psychedelic Society
 * Andy Fischer-Price
 * Angela Ross
-* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Cole Schrim LMHC - Tacoma Psychedelic Society
+* Suzanne Moreillon
+* Jerred Locke
 * 💵Amy Brackenbury - Washington State Medical Association & Washington State Public Health Association
 * Annie McGrath - Washington State Psychiatric Association (WSPA)
 * Rebecca Allen MD MPH - Seattle Neuropsychiatric Treatment Center
@@ -43,24 +44,23 @@ Testifying:
 * Rachel Cervenak - Responsible Entheogen Access & Community Healing (REACH) Coalition
 * Mason Marks
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
-* Suzanne Moreillon
-* Jerred Locke
 * Tatiana Luz-Quintana - Psychedelic Medicine Alliance WA
 * Sheffield Edgerton
 
-#### 16 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH Washington. Responsible Entheogen Access and Community Healing Coalition
 * Lauren Feringa
 * Erin Reading - Port Townsend Psychedelic Society
 * Angela Ward
-* jerry spieckerman - PTPS
 * Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
-* Micah Sherman
-* Jessica Nielson - Minnesota Psychedelic Medicine Task Force
-* Jon Dennis - REACH Washington
-* 💵Megan Veith - Washington State Department of Health
+* jerry spieckerman - PTPS
 * Heidi Venture
 * Jessa Lewis
 * Kelsey Taylor
+* Micah Sherman
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Jessica Nielson - Minnesota Psychedelic Medicine Task Force
+* Jon Dennis - REACH Washington
+* 💵Megan Veith - Washington State Department of Health
 * Jakob Smitherman - Tacoma psychedelic society

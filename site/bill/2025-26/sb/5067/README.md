@@ -21,6 +21,17 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. John Lovick](https://senatedemocrats.wa.gov/lovick/#:~:text=Senate%20Bill%205067)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5067 Impaired driving
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/30 04:00 PM - Transportation (TRAN): SSB 5067 Impaired driving
 #### 91 👍 - Pro
 Testifying:
@@ -31,17 +42,17 @@ Testifying:
 * Dakota Manley - Washington State Young Republicans
 * Cammryn Gadd
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Shellie Coury
 * Omar Masood - Advocates for Highway & Auto Safety
 * Eleanor Nguyen - Not official representative, but coming from Lake Washington High School AP Government class
-* Dale Panattoni
-* Mark McKechnie - Washington Traffic Safety Commission
+* Shellie Coury
 * Tom Chapman - National Transportation Safety Board
 * James Fell
-* Leah Walton - National Transportation Safety Board
+* Dale Panattoni
+* Mark McKechnie - Washington Traffic Safety Commission
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Ashley Bonus - 94-2707273
 * 💵Mallorie Davies - District Council Of Washington and N. Idaho Laborers
+* Leah Walton - National Transportation Safety Board
 
 #### 177 👎 - Con
 Testifying:
@@ -63,6 +74,7 @@ Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 * Deion Glover - Washington State Patrol
 * Amy Freedheim - King County Prosecuting Attorneys Office
+* Tom Chapman - National Transportation Safety Board
 * Alaina Dahlquist - [National Safety Council](/org/national_safety_council/)
 * Omar Masood - Advocates for Highway & Auto Safety
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
@@ -70,10 +82,9 @@ Testifying:
 * Ashley Bonus
 * 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
 * Tao Sheng Kwan-Gett - Washington Department of Health
-* Tom Chapman - National Transportation Safety Board
+* Zachary Cyr
 * Karen Bartlett
 * Dakota Manley - Washington State Young Republicans
-* Zachary Cyr
 
 #### 247 👎 - Con
 Testifying:

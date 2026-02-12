@@ -18,9 +18,9 @@ Testifying:
 * Debrah Stark
 * Heather Guidone - Center for Endometriosis Care
 * Amara Drazkowski
+* Heidi Berthoud
 * Aparna Ramanathan - [University of Washington](/org/university_of_washington/)
 * Angela Ruggiero
-* Heidi Berthoud
 
 #### 56 👎 - Con
 

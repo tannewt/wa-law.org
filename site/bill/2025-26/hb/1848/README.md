@@ -16,10 +16,10 @@
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 1848 Traumatic brain injuries
 #### 9 👍 - Pro
 Testifying:
-* Laura Dahmer White
 * Desiree Douglass - HeadStrong
 * Barb George - Grays Harbor Brain Injury Support Group
 * Serry Bauer
+* Laura Dahmer White
 
 #### 2 👎 - Con
 
@@ -43,12 +43,12 @@ Testifying:
 * Serry Bauer
 * Laura Dahmer-White
 * Desiree Douglass - HeadStrong
+* Janet Novinger - Imaginal Network
 * Pranav Anumolu
 * Pamela Howes - 6117 N Astor St
 * Kristen Christiansen
-* Janet Novinger - Imaginal Network
-* Jennifer McCarthy - Facilitator of the Moses Lake Brain Injury Support Group since November, 2009.
 * Barb George
+* Jennifer McCarthy - Facilitator of the Moses Lake Brain Injury Support Group since November, 2009.
 * JP Anderson - Community Health organization Improving Care and Equity (CHOICE)
 * Scott Yoos - T.B.I. Support Group
 

@@ -10,10 +10,10 @@
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1864 Ambulances/transport options
 #### 14 👍 - Pro
 Testifying:
-* Joe McDermott - State Relations Director | King County
-* 💵Michael Transue - [Connections Health Solutions](/org/connections_health_solutions/)
 * Michael Hilley - Whatcom Co. EMS
 * 💵Nicholas Gullickson - Washington State Council of Firefighters
+* Joe McDermott - State Relations Director | King County
+* 💵Michael Transue - [Connections Health Solutions](/org/connections_health_solutions/)
 
 #### 1 👎 - Con
 

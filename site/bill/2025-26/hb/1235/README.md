@@ -11,8 +11,8 @@
 #### 744 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 
 #### 11 👎 - Con

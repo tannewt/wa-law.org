@@ -20,8 +20,8 @@ Testifying:
 ### Tue 03/18 01:30 PM - Health Care & Wellness (HCW): SB 5361 ASAM 4 treatment criteria
 #### 4 👍 - Pro
 Testifying:
-* Dwight De Leon
 * Joe Barrett - Key Recovery And Life Skills Center
+* Dwight De Leon
 * Sheri Sawyer - Office of Financial Management
 
 #### 0 👎 - Con

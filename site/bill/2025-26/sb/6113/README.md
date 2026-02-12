@@ -19,9 +19,9 @@ Testifying:
 
 #### 65 👎 - Con
 Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 * Alan Fisco - President/CEO Seattle Times
 * Keith Shipman - Washington State Association of Broadcasters
-* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 
 #### 205 ❓ - Other
 Testifying:
@@ -30,9 +30,9 @@ Testifying:
 * 💵Clifford Traisman - Bellevue, Highline, Northshore, Seattle Public School Districts
 * 💵Marissa Rathbone - WASA and WASBO
 * Manny Cawaling - Inspire Washington
-* Julie Daman - Wheelhouse
-* Scott Loos - Washington Recreation and Park Association
-* Kenny Montilla - Turo
 * Suzie Hanson - WA Federation of Independent Schools
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Logan Noel-Endres - Washington State School Directors' Association (WSSDA)
+* Julie Daman - Wheelhouse
+* Scott Loos - Washington Recreation and Park Association
+* Kenny Montilla - Turo

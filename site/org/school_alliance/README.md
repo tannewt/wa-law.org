@@ -12,8 +12,8 @@
 * 👍💵 Grace Yuan
 * 👍💵 Grace Yuan
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials   ❓1
-* ❓ Mary Templeton
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
+* 👍 Mary Templeton
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 * 👍 Mary Templeton

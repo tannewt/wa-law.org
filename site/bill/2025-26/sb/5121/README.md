@@ -31,16 +31,16 @@ Testifying:
 #### 875 👎 - Con
 Testifying:
 * Theresa Schrempp
-* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Theresaa Schrempp
 * Theresaa Schrempp
 * Theresaa Schrempp
 * Theresa Schrempp
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Michael A Moore - A & M striping
 
 #### 5 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
-* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Quiana Daniels - Washington State Board of Nursing
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

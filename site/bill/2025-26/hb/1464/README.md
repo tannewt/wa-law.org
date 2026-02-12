@@ -14,11 +14,11 @@
 #### 9 👍 - Pro
 Testifying:
 * Daniel Fishman - Redwood Trust
-* Carl Smith
 * Lee Kaplan - [Unlock Technologies](/org/unlock_technologies/)
 * Joshua Gaffney - Hometap Equity Partners LLC
 * Matthew Windsor - Point Digital Finance
 * Deepak Kumar - Splitero
+* Carl Smith
 * Rolando Villanueva
 * 💵Isaac Kastama - Unlock, Hometap, and Point Digital Finance
 

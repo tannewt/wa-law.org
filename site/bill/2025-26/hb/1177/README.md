@@ -24,19 +24,19 @@ Testifying:
 
 #### 508 👎 - Con
 Testifying:
-* Sandra Mochizuki
 * Kendall Harrison
 * David Dowell
 * Julie Dowell
 * TaraLyn Fray
+* Sandra Mochizuki
 
 #### 1 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1177 Child welfare housing assist
 #### 71 👍 - Pro
 Testifying:
-* Jason Bragg
 * Kim Justice - Partners for Our Children
+* Jason Bragg
 * Jennifer Justice
 
 #### 0 👎 - Con

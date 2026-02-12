@@ -24,8 +24,8 @@ Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific
 * Kris Tefft - Washington Self-Insurers Association
 * Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* 💵James Crandall - AWB
 * 💵Rose Gundersen - WA Retail Association
+* 💵James Crandall - AWB
 
 #### 3 ❓ - Other
 Testifying:

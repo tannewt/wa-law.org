@@ -21,8 +21,8 @@
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
-* Cathleen MacCaul - AARP Washington State
 * Michael DeLong - Consumer Federation of America
+* Cathleen MacCaul - AARP Washington State
 * 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
 
 #### 665 👎 - Con
@@ -38,10 +38,10 @@ Testifying:
 ### Thu 01/30 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5331 Insurance code violations
 #### 38 👍 - Pro
 Testifying:
-* 💵Bill Stauffacher - Independent Insurers and Brokers of Washington
 * Bryon Welch - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* 💵Bill Stauffacher - Independent Insurers and Brokers of Washington
 
 #### 0 👎 - Con
 

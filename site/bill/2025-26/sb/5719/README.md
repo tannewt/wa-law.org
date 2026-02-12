@@ -19,14 +19,14 @@
 ### Wed 03/19 08:00 AM - Local Government (LG): ESSB 5719 Local gov. hearing examiners
 #### 84 👍 - Pro
 Testifying:
+* 💵Blake Baldwin - [Hayden Homes](/org/hayden_homes/)
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 * Mike Nykreim - Newport West LLC
-* 💵Blake Baldwin - [Hayden Homes](/org/hayden_homes/)
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * kurt wilson
 * Jenn Kovitz - [Hayden Homes](/org/hayden_homes/)
-* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * Preston Frederickson
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 
 #### 56 👎 - Con
 Testifying:

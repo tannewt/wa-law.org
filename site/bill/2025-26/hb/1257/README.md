@@ -17,11 +17,11 @@
 #### 121 👍 - Pro
 Testifying:
 * Kathy McDonald
+* Richard Pope - Parent of Special Education Student who "Aged Out" Last Week
 * 💵Alex Hur - Communities in Schools of Washington
 * John Axtell
 * Emilie Robertson - Arch of wa myself
 * Emilie Robertson - Arch of wa
-* Richard Pope - Parent of Special Education Student who "Aged Out" Last Week
 * Tania May - Office of Superintendent of Public Instruction (OSPI)
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 * Sebrena Burr - Seattle Council PTSA

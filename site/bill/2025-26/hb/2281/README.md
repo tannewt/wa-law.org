@@ -12,9 +12,9 @@
 ### Fri 02/06 08:00 AM - Capital Budget (CB): SHB 2281 State-tribal relationship
 #### 39 👍 - Pro
 Testifying:
-* Michael Ross - Snoqualmie Indian Tribe
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
+* Michael Ross - Snoqualmie Indian Tribe
 
 #### 427 👎 - Con
 Testifying:
@@ -28,9 +28,9 @@ Testifying:
 #### 111 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Robert de los Angeles - [Snoqualmie Tribe](/org/snoqualmie_tribe/)
 * Robert de los Angeles - Snoqualmie Indian Tribe
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
-* Robert de los Angeles - [Snoqualmie Tribe](/org/snoqualmie_tribe/)
 * Jack Fiander - Sauk-Suiattle Indian Tribe
 
 #### 82 👎 - Con

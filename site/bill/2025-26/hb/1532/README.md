@@ -12,12 +12,12 @@
 #### 22 👍 - Pro
 Testifying:
 * 💵Nick Streuli - [Port of Seattle](/org/port_of_seattle/)
-* Charlie Brown - Fred Meyer
-* Zenovia Harris - Kent Chamber of Commerce
 * Bill Boyce - Councilmember, City of Kent
 * Dana Ralph - Mayor, City of Kent
 * Satwinder Kaur - Council President, City of Kent
 * Tahmina Martelly
+* Charlie Brown - Fred Meyer
+* Zenovia Harris - Kent Chamber of Commerce
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 * 💵Michael Transue - [City of Fife](/org/city_of_fife/)
 * Dione Dittmar

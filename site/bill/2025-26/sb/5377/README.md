@@ -32,6 +32,12 @@ Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Angela Tsang
 * Jonathan Schaefer
+* Marie Moore
+* Cuong (Michael) Le
+* Dwight Bickel
+* Cameron Hino
+* 💵Mark Brown
+* Eric Jones
 * Hareesh Gottipati
 * Rory Cooley
 * Harsh Shrivastava
@@ -80,28 +86,14 @@ Testifying:
 * Layne Bouche
 * Michael Murray
 * Lani F
-* Marie Moore
-* Cuong (Michael) Le
 * surya singh
 * Bradford Snow
 * Siu-Tung Tony Yuen
-* Dwight Bickel
 * Sarah Alattal
-* Cameron Hino
-* 💵Mark Brown
-* Eric Jones
-* Charles Michel
 * Wentao Yang
-* Nathan Wilcox
 * Shalini Joshi
-* Eric Zimmerman - Mayor, City of Normandy Park
-* Sergey Stefoglo
 * Yang Chen
 * Sriram Bhaiya
-* Morgan Dacy
-* benjamin wacker
-* Fredrick Saupe
-* suri reddy
 * Alberto Arias Maestro
 * Chu Xu
 * Prayank Mathur
@@ -110,24 +102,32 @@ Testifying:
 * Pavan Bolisetty
 * Marc Shemesh - N/A
 * HOSSIEN GHAIBI - Alpine Electronics INC
-* William Lindhardt
 * Gerald Umayam
 * Sai Naveen Muppa
 * Nancy Blackketter
-* Mikhail Fedorov
+* Charles Michel
+* Nathan Wilcox
+* Eric Zimmerman - Mayor, City of Normandy Park
+* Sergey Stefoglo
+* Morgan Dacy
+* benjamin wacker
+* Fredrick Saupe
+* suri reddy
+* William Lindhardt
 * Elise Foley
 * Bryce Matthews
-* BERT ATWATER
+* Mikhail Fedorov
 * BERT ATWATER
 * Nancy Blackketter
 * Kailie Armstrong
-* Jonah Lewis
+* BERT ATWATER
 * Ava Ames - [Tesla](/org/tesla/)
-* Hannah Steinweg - Rivian
-* Mike Cruz - [Lucid Motors](/org/lucid_motors/)
 * Adele Poenisch - no
 * Michael Le
 * Kelly Cao
+* Jonah Lewis
+* Hannah Steinweg - Rivian
+* Mike Cruz - [Lucid Motors](/org/lucid_motors/)
 * Skye Golann - Electrification Coalition
 * Gregg DuPont
 * Ava Ames - [Tesla](/org/tesla/)

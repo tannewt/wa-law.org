@@ -15,8 +15,8 @@
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SSB 6037 Fire protection districts
 #### 15 👍 - Pro
 Testifying:
-* Jennifer Gregerson - City of Everett, Government Affairs Director
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jennifer Gregerson - City of Everett, Government Affairs Director
 * Don Schwab - City of Everett, Council President
 * Chief Harold Scoggins - City of Seattle Fire Department
 
@@ -35,8 +35,8 @@ Testifying:
 * Rob Karlinsey - Moses Lake City Manager
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Fire Chief Harold Scoggins - Washington Metro Fire Chiefs
-* Joe Walsh - City of Washougal
 * DAVID DEMARCO - [City of Everett](/org/city_of_everett/)
+* Joe Walsh - City of Washougal
 * John Williams - City Administrator for City of Lynden
 
 #### 1 👎 - Con

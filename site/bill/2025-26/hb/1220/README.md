@@ -13,13 +13,13 @@
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1220 Behavioral health/assaults
 #### 20 👍 - Pro
 Testifying:
+* Maialisa Vanyo - Washington Association of Criminal Defense Lawyers and Washington Defender Association
+* 💵Kimberly Mosolf
+* 💵Anna Nepomuceno - NAMI Washington
 * Kate Benward
 * Kathy McDonald - Parent
 * Amy Ohta
 * 💵Todd Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
-* Maialisa Vanyo - Washington Association of Criminal Defense Lawyers and Washington Defender Association
-* 💵Kimberly Mosolf
-* 💵Anna Nepomuceno - NAMI Washington
 * Katie Hurley - King County Department of Public Defense
 * 💵Lindsey Grad - SEIU Healthcare 1199NW
 

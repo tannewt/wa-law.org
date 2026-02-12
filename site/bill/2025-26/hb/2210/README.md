@@ -27,8 +27,8 @@ Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Laurie Layne
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
-* Cemal Richards
 * Sharon Hanek
+* Cemal Richards
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 2 ❓ - Other
@@ -42,13 +42,13 @@ Testifying:
 * Shaena Garberich - Fair Vote Washington
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
-* Ruth Greenwood
 * 💵Nilu Jenks - FairVote Washington
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Treveon Parrish - Washington Bus
 * Cassie Clayton - Northwest Progressive Institute (NPI)
 * Cleveland Harris - People First Bellingham
 * 💵Denisse Guerrero - Washington for Equitable Representation
+* Ruth Greenwood
 
 #### 3674 👎 - Con
 Testifying:
@@ -59,14 +59,14 @@ Testifying:
 * robert Lindenhovius - WE THE PEOPLE   retired Veteran
 * Tim Eyman - Initiative Activist
 * Eric Pratt - America
+* Laurie Layne
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Steve Duenkel
-* Laurie Layne
 
 #### 14 ❓ - Other
 Testifying:
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * John Axtell
-* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Linda Farmer - Washington State Association of County Auditors, Pierce County Auditor
 * Lori Larsen - Washington State Association of County Auditors, Stevens County Auditor

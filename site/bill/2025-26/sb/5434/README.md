@@ -26,22 +26,22 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - State Government & Elections (SGE): SB 5434 Gubernatorial emergencies
-#### 3388 👍 - Pro
+#### 3387 👍 - Pro
 Testifying:
-* Laurie Layne
 * Mark Nelson - Retired Cowlitz County Sheriff-Not testifying for any organization.
+* Lynda wilson - DeWils Industries
+* TaraLyn Fray
 * 💵Patrick Connor - NFIB
 * Jerry VanderWood - AGC of Washington
-* Lynda wilson - DeWils Industries
 * Lynda Wilson - none
-* TaraLyn Fray
-* Nathan Bays - The Governor's Office
 * 💵Mark Harmsworth - Washington Policy Center
+* Nathan Bays - The Governor's Office
 * 💵Dave Mastin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 85 👎 - Con
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Joe Kunzler
+* Laurie Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes

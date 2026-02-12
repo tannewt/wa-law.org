@@ -18,8 +18,8 @@
 
 #### 21 👎 - Con
 Testifying:
-* 💵Sheri Call - Washington Trucking Associations
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵Sheri Call - Washington Trucking Associations
 * 💵James Crandall - AWB
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)

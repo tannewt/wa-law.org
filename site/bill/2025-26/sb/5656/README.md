@@ -18,8 +18,8 @@
 #### 7 👍 - Pro
 Testifying:
 * Tarin Todd
-* Tom Gorman - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Roman Daniels-Brown - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
+* Tom Gorman - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 3 👎 - Con
 

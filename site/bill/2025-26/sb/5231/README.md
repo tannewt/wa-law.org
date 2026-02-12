@@ -26,9 +26,9 @@ Testifying:
 ### Mon 01/27 01:30 PM - Human Services (HS): SB 5231 Confinement fees & expenses
 #### 499 👍 - Pro
 Testifying:
+* Tamara Light - Information For Change Washington
 * Jonathan Ejonga
 * Jerry Thomas
-* Tamara Light - Information For Change Washington
 * Jacob Schmitt - Just Us Solutions, LLC
 * Candice Baughman - Underground Ministries
 * Catherine Antee - LFC  Stafford Creek

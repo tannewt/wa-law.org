@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Appropriations (APP): SB 6103 Rural hospital payments
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 6103 Rural hospital payments
 #### 58 👍 - Pro
 Testifying:

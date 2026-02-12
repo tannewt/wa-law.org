@@ -17,20 +17,20 @@
 ### Mon 03/24 01:30 PM - Education (ED): SB 5637 Media literacy & civic ed.
 #### 300 👍 - Pro
 Testifying:
-* Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Shelby Reynolds - Action for Media Education
+* Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Sabina Kolovyansky - Washington Legislative Youth Advisory Council
+* Eleanor Lenihan
 * Jen Ligot
 * Nancy Lenihan - Washington State Council for Social Studies
 * Ryan Hauck
 * Susie Gerard
-* Sabina Kolovyansky - Washington Legislative Youth Advisory Council
-* Eleanor Lenihan
 * Kireeti Kompella - Escape Velocity Robotics
-* Anoushka Oka
-* Sana Hoque
 * Abby Sirois - Lake Washington High School
 * Adi Hurvitz - Lake Washington High School
 * Kate Fluegel - Lake Washington High School
+* Anoushka Oka
+* Sana Hoque
 * Danica Noble
 
 #### 1268 👎 - Con
@@ -52,9 +52,9 @@ Testifying:
 * Adi Hurvitz
 * Kate Fluegel
 * Noah Hanculak
+* Sylvia Falwer - Washington State Youth Advisory Council
 * Colton Hong - Legislative Youth Advisory Council
 * Sabina Kolovyansky - Washington Legislative Youth Advisory Council
-* Sylvia Falwer - Washington State Youth Advisory Council
 
 #### 35 👎 - Con
 

@@ -12,8 +12,8 @@
 Testifying:
 * 💵Caron Cargill - Washington Voting Justice Coalition
 * Alice Clapman - I am testifying on behalf of the Brennan Center for Justice
-* 💵Alex Alston - Washington Voting Justice Coalition
 * Alex Need to fill i n
+* 💵Alex Alston - Washington Voting Justice Coalition
 
 #### 728 👎 - Con
 Testifying:

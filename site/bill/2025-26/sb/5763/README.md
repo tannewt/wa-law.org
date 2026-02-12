@@ -24,9 +24,9 @@ Testifying:
 * David Ellis - Spokane County Sheriff's Office
 * Rob Martin - Snohomish County Sheriff's Office
 * Patricia Cole-Tindall - King County Sheriff's Office
+* Mike Morrison - Chelan County Sheriff's Office
 * Mayor Sean Kelly - [City of Maple Valley](/org/city_of_maple_valley/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Mike Morrison - Chelan County Sheriff's Office
 * Einar Espeland - snohomish county sheriffs office
 
 #### 57 👎 - Con

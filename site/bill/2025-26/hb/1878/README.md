@@ -22,8 +22,8 @@
 #### 11 👍 - Pro
 Testifying:
 * Melissa Pace
-* Linda Thompson
 * 💵Mellani Mcaleenan - AAA Washington
+* Linda Thompson
 
 #### 728 👎 - Con
 Testifying:

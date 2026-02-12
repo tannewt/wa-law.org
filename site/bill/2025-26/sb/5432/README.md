@@ -11,8 +11,8 @@
 ### Mon 02/10 04:00 PM - Transportation (TRAN): SB 5432 License plate production
 #### 34 👍 - Pro
 Testifying:
-* Brian Cullinane - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
 * Thad Duvall - Douglas County Auditor, Co-Chair of WSACA Licensing Committee
+* Brian Cullinane - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
 
 #### 0 👎 - Con
 

@@ -11,8 +11,8 @@
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 2476 Theater licenses/alcohol
 #### 45 👍 - Pro
 Testifying:
-* Matt Dunne - Cinemark
 * Stephen Mercy - Yakima Theatres
+* Matt Dunne - Cinemark
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 3 👎 - Con

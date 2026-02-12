@@ -29,29 +29,29 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 5852 Immigrant workers
-#### 925 👍 - Pro
+#### 922 👍 - Pro
 Testifying:
 * Loi Lumala - Latinos en Spokane
-* Council Member Sarah Dixit - [City of Spokane](/org/city_of_spokane/)
 * Jennyfer Mesa - Latinos En Spokane
+* Council Member Sarah Dixit - [City of Spokane](/org/city_of_spokane/)
 * 💵Jean Hill - Washington State Catholic Conference
-* Beth Milito - NFIB Small Business Legal Center
-* Lois Cook - America's Phone Guys
-* 💵Patrick Connor - NFIB
 * Jeremiah Miller - [Working Washington](/org/working_washington/)
 * Adam Etimann - Washington State Office of the Attorney General
 * Guillermo Cruz - Memo's Quality Construction and Remodeling LLC
 * Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
-* Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
+* Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 * 💵Jake Garcia - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 411 👎 - Con
+#### 414 👎 - Con
 Testifying:
 * Christian Bianes-Delrosario
+* Lois Cook - America's Phone Guys Managing Member
 * 💵Carolyn Logue - Washington Food Industry Association and Assoc. Builders & Contractors Inland Pacific Chapter
 * Eric Lundberg
+* Beth Milito - NFIB Small Business Legal Center
 * Lois Cook - America's Phone Guys Managing Member
+* 💵Patrick Connor - NFIB
 * 💵James Crandall - AWB
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Rose Gundersen - WA Retail Association

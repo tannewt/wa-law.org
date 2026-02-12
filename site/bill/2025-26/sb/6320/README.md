@@ -18,6 +18,14 @@ Testifying:
 
 #### 709 👎 - Con
 Testifying:
+* Michael Porter - Omak School District
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Mandi Rehn - Valley School District
+* Scott Haeberle - Omak School District
+* Jeff Gombosky - [Graduation Alliance](/org/graduation_alliance/)
+* Diana Reaume - Quillayute Valley School District
+* Danielle Tupek
+* Felicia Kern
 * Jim Kowalkowski - Rural Education Center
 * Matt Mallery - Mary M Knight SD
 * Thomas Snead - Myself - parent of children who have benefited from remote education and learning
@@ -32,18 +40,10 @@ Testifying:
 * Christopher Miller - Citizen of Omak
 * Rebecca Rybacki
 * Angela Smith
-* Michael Porter - Omak School District
 * Charlotte Woods
-* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Ilyannie Gonzalez - Washington Virtual Academies
-* Mandi Rehn - Valley School District
-* Scott Haeberle - Omak School District
 * Nikolas Petrosyan
 * Anna Bezirganyan
-* Jeff Gombosky - [Graduation Alliance](/org/graduation_alliance/)
-* Diana Reaume - Quillayute Valley School District
-* Danielle Tupek
-* Felicia Kern
 * Sahar Alhassan - NA
 * Malek Hamaydeh
 * Mauricio Valdez Rios - Yes,  student

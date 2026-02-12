@@ -37,9 +37,9 @@ Testifying:
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5021 Retention of court exhibits
 #### 45 👍 - Pro
 Testifying:
-* Catherine Cornwall - King County Clerk
 * 💵Timothy Grisham - [Washington Association of County Officials](/org/washington_association_of_county_officials/)
 * Tim Fitzgerald - Washington State Association of County Clerks
+* Catherine Cornwall - King County Clerk
 
 #### 1 👎 - Con
 

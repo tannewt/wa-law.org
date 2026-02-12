@@ -17,19 +17,17 @@
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
-* Victor Velazquez
 * Blair Rossow - CHAS Health
 * Eric Moll - Mason Health
 * 💵Ian Goodhew - UW Medicine
 * Lonnie Johns Brown - Health Care For All Washington
+* Victor Velazquez
 * Abigail Echo-Hawk
 
 #### 328 👎 - Con
 Testifying:
 * Corbin Santo - Johnson & Johnson Innovative Medicine
 * 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
-* Primo Castro - Biotechnology Innovation Organization (BIO)
-* Kris Tefft - Washington Liability Reform Coalition
 * 💵Brian Henderson - AbbVie
 * Shawn Gremminger - National Alliance of Healthcare Purchaser Coalitions
 * Jennifer Kent - The Kent Group
@@ -39,6 +37,8 @@ Testifying:
 * 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
 * Dharia McGrew - Pharmaceutical Research and Manufacturers of America
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* Kris Tefft - Washington Liability Reform Coalition
 * Kalvin Pugh - Community Access National Network
 
 #### 3 ❓ - Other
@@ -68,9 +68,10 @@ Testifying:
 * Corbin Santo - Johnson & Johnson Innovative Medicine
 * Mary Fischietto - GSK
 * 💵Anne Murray - Bristol Myers Squibb
-* 💵Brandy Flores - Pfizer
 * Mike Ennis - Building Industry Association of Washington (BIAW)
 * Shari Beagelman - BlackDoctor
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* 💵Brian Henderson - AbbVie
 * Jennifer Kent - The Kent Group
 * 💵Lee Newgent - Pharmaceutical Industry-Labor Management Association
 * 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -79,8 +80,6 @@ Testifying:
 * 💵Eric Lohnes - Pharmaceutical Research and Manufacturers of America
 * 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
-* Primo Castro - Biotechnology Innovation Organization (BIO)
-* 💵Brian Henderson - AbbVie
 
 #### 2 ❓ - Other
 Testifying:

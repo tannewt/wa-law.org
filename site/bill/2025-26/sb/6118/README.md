@@ -18,8 +18,8 @@ Testifying:
 * Andrea Won
 * Isabelle Hepler
 * Adam Lang - DP Foundation
-* Asher Crossley
 * Melinda Truax
+* Asher Crossley
 * Paul Fillmore-Sardinas - WA Build Back Black Alliance
 
 #### 592 👎 - Con

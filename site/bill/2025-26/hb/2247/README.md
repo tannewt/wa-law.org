@@ -12,9 +12,9 @@
 #### 1303 👍 - Pro
 Testifying:
 * SARAH HOCK - The Washington Federation of Animal Care and Control Agencies
+* Karri Meleo
 * Dr. Jen Stonequist - Kitsap Humane Society
 * Mark Cushing - [Animal Policy Group](/org/animal_policy_group/)
-* Karri Meleo
 * Brittany Todd-Benesi - ASPCA
 * DVM, Cherice Roth
 * DVM, Lauren Overman

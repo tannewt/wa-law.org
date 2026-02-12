@@ -41,8 +41,8 @@ Testifying:
 
 #### 8 ❓ - Other
 Testifying:
+* Sean Murphy - Department of Corrections
 * Trinity Tvedt - PO BOX 514
 * Rudy Madrigal
-* Sean Murphy - Department of Corrections
-* 💵Brenda Wiest - Teamsters 117
 * Kehaulani Walker
+* 💵Brenda Wiest - Teamsters 117

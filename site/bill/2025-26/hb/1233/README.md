@@ -42,12 +42,11 @@ Testifying:
 ### Thu 01/23 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1233 Work programs/incarceration
 #### 79 👍 - Pro
 Testifying:
-* Heather Marks
 * Raymond Williams - Just Us Solutions
 * Carlos Bernardez
+* Tuan Quach
 * 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * Jermaine Williams - The Black Rose Collective
-* Tuan Quach
 
 #### 6 👎 - Con
 

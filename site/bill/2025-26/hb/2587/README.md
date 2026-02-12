@@ -11,8 +11,8 @@
 #### 64 👍 - Pro
 Testifying:
 * Sornsawan Wilson - Tri-Cities Diversity & Inclusion Council
-* 💵Oskar Zambrano - Nonprofit Association of WA
 * 💵Neal Mizushima - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
+* 💵Oskar Zambrano - Nonprofit Association of WA
 
 #### 214 👎 - Con
 

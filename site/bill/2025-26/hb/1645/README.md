@@ -10,11 +10,11 @@
 ### Wed 02/12 01:30 PM - Consumer Protection & Business (CPB): HB 1645 Automobile insurance
 #### 59 👍 - Pro
 Testifying:
+* Pat LePley - Washington State Association for Justice
+* LoraJo Hatch-Thorp
 * Jeff Butler - Collision Consulting of Washington
 * Justin Lewis - Washington Independent Collision Repair Association
 * Vladislav Yerin
-* Pat LePley - Washington State Association for Justice
-* LoraJo Hatch-Thorp
 * hiyder lateef
 * David Forte - Office of the Insurance Commissioner
 * Bradley Vagt

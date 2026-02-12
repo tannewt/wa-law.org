@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: We support survivors in this Washington - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/11/media-advisory-we-support-survivors-in-this-washington/#:~:text=Senate%20Bill%206070)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [My prime sponsored bills advancing - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/06/my-prime-sponsored-bills-advancing/#:~:text=Senate%20Bill%206070)
 * 01/20/2026 [FOX13](/org/fox13/) - [What is a Purple Alert? Proposed WA legislation | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-law-purple-alert#:~:text=Senate%20Bill%206070)
 
@@ -28,7 +29,6 @@ Testifying:
 * Zohaib Lakhani
 * Dyneeca Vincent - Freedom Project
 * Ze'lla Adams - The Silent Task Force
-* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Nicole Khouw
 * Abigail Echo-Hawk - Seattle Indian Health Board
 
@@ -39,6 +39,7 @@ Testifying:
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6070 Recovery of missing persons
 #### 277 👍 - Pro
 Testifying:
+* 💵Arzu Forough - Washington Autism Alliance
 * Yasmeen Waheed - The Silent Task Force
 * Geethika Burugupally
 * Jonah Kim
@@ -49,19 +50,18 @@ Testifying:
 * Emi Elman
 * James Vallas
 * Leanna Dsouza
-* 💵Arzu Forough - Washington Autism Alliance
-* Irene Pfister
-* Gary Ernsdorff - King County Prosecutor's Office
 * Ze'lla Adams - The Silent Task Force
 * Dyneeca Vincent - Freedom Project
 * La Tanya Horace Dubois - The Silent Task Force
 * Abigail Echo-Hawk - Seattle Indian Health Board/Urban Indian Health Institute
+* Irene Pfister
+* Gary Ernsdorff - King County Prosecutor's Office
 * Rachel Ehle
 * Natalie Grisham
 * Thao Hoang
+* Margaret-Lee Thompson - retired Coordinator of King Co. PArent Coalition for DD
 * Patti Gosch - n/a
 * Sarah Childs
-* Margaret-Lee Thompson - retired Coordinator of King Co. PArent Coalition for DD
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 👎 - Con

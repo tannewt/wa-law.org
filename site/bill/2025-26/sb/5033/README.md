@@ -70,12 +70,12 @@ Testifying:
 Testifying:
 * Darlene Schanfald - Protect the Peninsula's Future & Olympic Environmental Council
 * Darlene Schanfald - Olympic Environmental Council
+* Atul Deshmane
 * John Peterson - Clark Regional Wastewater District, Discovery Clean Water Alliance
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Joren Clowers - Sno-King Water District Coalition
 * Kyle Dorsey - The Coalition for Clean Water
 * Phyllis Farrell
-* Atul Deshmane
 
 ### Wed 01/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5033 Biosolids/PFAS chemicals
 #### 3 👍 - Pro

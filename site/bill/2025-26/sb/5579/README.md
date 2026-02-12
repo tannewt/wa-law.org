@@ -25,8 +25,8 @@ Testifying:
 ### Tue 02/04 10:30 AM - Health & Long Term Care (HLTC): SB 5579 Health/contract terminations
 #### 5 👍 - Pro
 Testifying:
-* Denise Corcoran - Regence BlueShield
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* Denise Corcoran - Regence BlueShield
 
 #### 26 👎 - Con
 Testifying:

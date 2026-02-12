@@ -30,8 +30,8 @@
 ### [HB 2275](/bill/2025-26/hb/2275/) - Wildfire prevention   ❓1
 * ❓💵 Matt Doumit
 
-### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp. 👍1  
-* 👍💵 Matt Doumit
+### [HB 2289](/bill/2025-26/hb/2289/) - Operating budget, supp.   ❓1
+* ❓💵 Matt Doumit
 
 ### [HB 2327](/bill/2025-26/hb/2327/) - County forest board lands 👍1  
 * 👍💵 Matt Doumit
@@ -62,8 +62,8 @@
 ### [SB 5994](/bill/2025-26/sb/5994/) - Timber tax distributions 👍1  
 * 👍💵 Matt Doumit
 
-### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp. 👍1  
-* 👍💵 Matt Doumit
+### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
+* ❓💵 Matt Doumit
 
 ## [SB 6216](/bill/2025-26/sb/6216/) - Timber sale process 👍1  
 * 👍💵 Matt Doumit

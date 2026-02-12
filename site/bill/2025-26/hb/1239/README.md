@@ -26,8 +26,8 @@ Testifying:
 #### 88 👎 - Con
 Testifying:
 * Tiffany Attrill
-* Tracy Roberts - Crime assault survivor
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Tracy Roberts - Crime assault survivor
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
@@ -45,13 +45,13 @@ Testifying:
 * Hilary Young - Washington Statewide Reentry Council
 * Kimonti Carter - Participatory Justice
 * Larry Jefferson - Washington Statewide Reentry Council
-* David Trieweiler
+* David Trieweiler - Washington Association of Criminal Defense Lawyers and the Washington Defender Association
 * Callie Wilson - Quaker Voice on Washington Public Policy
-* Larry Jefferson - Director, Washington State Office of Public Defense
 * Lorena Llamas - Department of Corrections - WCCW
 * Tyra Edwards - as an organization and a survivor, Collective Justice
 * Na'Quel Walker - Collective Justice
 * Tyra Edwards - Collecitve Justice
+* Larry Jefferson - Director, Washington State Office of Public Defense
 * Bryan Rodriguez - Capitol Classroom
 * Caya Lenay - Capitol Classroom
 * Ronald Ackerson - Capitol Classroom

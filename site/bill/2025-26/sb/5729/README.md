@@ -43,11 +43,11 @@ Testifying:
 
 #### 19 👎 - Con
 Testifying:
-* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Tammie Sueirro - American Institute of Architects Washington Council (AIAWA)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * Micah Chappell - Washington Assn of Building Officials
 
 #### 2 ❓ - Other

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5837 Guardianship, etc.
@@ -14,9 +15,9 @@ Testifying:
 * Miryam Gordon
 * 💵Catherine West - KCBA
 * Sandy Garcia - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Mary Pleger - Catholic Charities
 * Janta Steele
 * 💵Melanie Smith - WA State Long Term Care Ombuds Progam
-* Mary Pleger - Catholic Charities
 
 #### 70 👎 - Con
 

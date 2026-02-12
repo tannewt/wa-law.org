@@ -19,17 +19,17 @@
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1448 Local elections
 #### 1119 👍 - Pro
 Testifying:
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * 💵Nilu Jenks - FairVote Washington
 * Ned Witting - Councilmember, City of Puyallup
 * Jon Culver
-* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 
 #### 2067 👎 - Con
 Testifying:
 * Arne Christensen
-* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Cemal Richards
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 
 #### 4 ❓ - Other
 
@@ -37,12 +37,12 @@ Testifying:
 #### 1920 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
+* Carin Christy - Carin Christy, MA, LMHC
 * 💵Nilu Jenks - FairVote Washington
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Abigail Leong - Washington Voting Justice Coalition
 * 💵Colin Cole - More Equitable Democracy
 * Tai Yang-Abreu - [The Washington Bus](/org/the_washington_bus/)
-* Carin Christy - Carin Christy, MA, LMHC
 * Jessica Forsythe
 * Vivian Olson
 * Treveon Parish - [The Washington Bus](/org/the_washington_bus/)
@@ -51,18 +51,18 @@ Testifying:
 
 #### 1960 👎 - Con
 Testifying:
-* Mary Mead
 * Erica Engelhart
-* Elona Kearney
 * Cemal Richards
+* Mary Mead
+* Elona Kearney
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Brandie Bills
 * Sharon Hanek
-* Dale Whitaker
-* Seneca Scott
 * Rico Hernandez
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Dale Whitaker
+* Seneca Scott
 * Rebecca Faust - n/a
 * LaWanda Hatch
 * Phil Izon

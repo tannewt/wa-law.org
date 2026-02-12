@@ -24,6 +24,6 @@ Testifying:
 #### 8 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Salina Lyons - [City of Covington](/org/city_of_covington/)

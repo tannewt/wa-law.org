@@ -16,11 +16,11 @@
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5828 College scholarships/private
 #### 1208 👍 - Pro
 Testifying:
-* Julie Wolter - Gonzaga University, School of Health Sciences
 * Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Karen Cannon
 * Hector Marmolejo-Avila - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Oscar Perez - Latinx unidos
+* Julie Wolter - Gonzaga University, School of Health Sciences
 * Lauren DeLaGarza
 * Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 
@@ -50,6 +50,7 @@ Testifying:
 Testifying:
 * Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Katia Passerini - President, Gonzaga University
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * Hector Marmolejo-Avila - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Juleana Salazar Sandoval - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Nex Sherbahn - [Pacific Lutheran University](/org/pacific_lutheran_university/)
@@ -59,18 +60,17 @@ Testifying:
 * Treva Esmailka - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Rjay Barsh - Gonzaga
 * Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
-* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
-* Amanda Fields
 * Josiah Tiblow - Saint Martin's University
 * Mateo Car - Whitman College
 * Erika Hernandez - Whitworth University
 * Jose Mata - Heritage University
 * Maelyn Carlsisle - [Gonzaga University](/org/gonzaga_university/)
-* Carolyn Michalske
 * Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Steve Smith - Board member, Independent Colleges of Washington
-* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Amanda Fields
+* Carolyn Michalske
 * Ben Small - LaunchNW
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
 #### 25 👎 - Con
 Testifying:

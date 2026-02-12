@@ -20,11 +20,11 @@
 #### 48 👍 - Pro
 Testifying:
 * Robert Hodge - Boilermakers local 104
-* Jeff Coughlin
 * Chris Schneider - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 * Nick Twietmeyer - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 * Eric Winge - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 * Felix Tapley - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Jeff Coughlin
 * Alex Zecha - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 * Greg Poor - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 * Phil Wolf - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
@@ -52,13 +52,13 @@ Testifying:
 ### Tue 01/21 10:30 AM - Labor & Workplace Standards (LAWS): HB 1264 Ferry system salaries
 #### 238 👍 - Pro
 Testifying:
-* 💵John Traynor - washington state labor council, afl-cio
 * Chris Schneider
 * Eric Winge - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 * Greg Poor
 * Nick Twietmeyer
 * Felix Tapley
 * Dan Twohig - Masters, Mates & Pilots
+* 💵John Traynor - washington state labor council, afl-cio
 
 #### 1 👎 - Con
 

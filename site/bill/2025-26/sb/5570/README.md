@@ -26,8 +26,8 @@ Testifying:
 #### 685 👎 - Con
 Testifying:
 * TaraLyn Fray
-* Sandra Mochizuki
 * Donald Kelts - 47th PCOs
+* Sandra Mochizuki
 
 #### 2 ❓ - Other
 
@@ -35,9 +35,9 @@ Testifying:
 #### 95 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
-* Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
 * Kirsten Jensen - Instructional Coach Bellingham School District, Elementary Level
 * Kristen Jensen - Instructional Coach Bellingham School District, Elementary Level
+* Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
 * Karen Condon - Confederated Tribes of the Colville Reservation
 * Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
 * Victoria Caputo - Lummi tribal member, teacher at Ferndale High School, Ferndale School District
@@ -68,17 +68,17 @@ Testifying:
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
 * Lisa Ganuelas - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
-* Monica Tonasket - [Spokane Tribe of Indians](/org/spokane_tribe_of_indians/)
 * Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
+* Monica Tonasket - [Spokane Tribe of Indians](/org/spokane_tribe_of_indians/)
+* Dolores Calderon
+* Shana Brown
+* Ed.D., Kristi Dominguez - Superintendent, Ferndale School District
+* Chairman Leonard Forsman - The Suquamish Tribe
 * Elese Washines - Washington State Native American Education Advisory Committee – Tribal East Representative
 * Councilwoman Charlene Tillequots - Yakama Nation Tribal Council
 * Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
 * Karen Condon - Confederated Tribes of the Colville Reservation
 * Cyrus James - Children of the Setting Sun Productions
-* Shana Brown
-* Ed.D., Kristi Dominguez - Superintendent, Ferndale School District
-* Chairman Leonard Forsman - The Suquamish Tribe
-* Dolores Calderon
 * Natalia Jefferson - K12 Student
 * Chanelle Bill-Kinley - K12 Student
 * Santana Rabang - Children of the Setting Sun Productions

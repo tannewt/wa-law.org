@@ -12,8 +12,8 @@
 Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Kashi Arora - Seattle Children's
-* Sheryl Landstrom - A Common Voice | C.O.P.E. Project 1580 LPSS
 * Sheryl Landstrom - A Common Voice
+* Sheryl Landstrom - A Common Voice | C.O.P.E. Project 1580 LPSS
 * Richelle Madigan
 * Kimberly Runge - A Common Voice | 1580 Program Manager
 * Taku Mineshita - Washington State The Office of The Governor

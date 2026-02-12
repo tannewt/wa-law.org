@@ -11,11 +11,11 @@
 ### Wed 01/21 01:30 PM - Health Care & Wellness (HCW): HB 2283 Medical loss ratio
 #### 170 👍 - Pro
 Testifying:
-* Jim Freeburg - Patient Coalition of Washington
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * 💵Patrick Connor - NFIB
 * 💵Sean Graham - Washington State Medical Association
 * Lois Cook - America's Phone Guys
+* Jim Freeburg - Patient Coalition of Washington
 * Steven Field
 * Andre Stackhouse - Whole Washington
 

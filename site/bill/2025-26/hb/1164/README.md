@@ -14,9 +14,9 @@
 ### Tue 01/28 10:30 AM - Local Government (LG): HB 1164 Urban growth area boundaries
 #### 118 👍 - Pro
 Testifying:
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Mary Hull-Drury - Washington Realtors
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
-* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 46 👎 - Con
 Testifying:

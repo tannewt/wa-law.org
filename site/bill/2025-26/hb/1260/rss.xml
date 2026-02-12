@@ -23,14 +23,6 @@
 			<guid isPermaLink="false">2025-01-14/First reading, referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>❓Vicky Dalton - Washington State Assoc of County Auditors</title>
-			<description>Vicky Dalton signed up to testify Other. They are signed up to represent Washington State Assoc of County Auditors.</description>
-			<pubDate>Wed, 22 Jan 2025 06:57:34 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Vicky/Dalton/2025-01-22 06:57:34</guid>
-		</item>
-		<item>
 			<title>👍Ben Wick - Councilmember, City of Spokane Valley</title>
 			<description>Ben Wick signed up to testify Pro. They are signed up to represent Councilmember, City of Spokane Valley.</description>
 			<pubDate>Wed, 22 Jan 2025 09:23:18 GMT</pubDate>
@@ -47,12 +39,20 @@
 			<guid isPermaLink="false">testifier/Kelly/Konkright/2025-01-22 09:23:18</guid>
 		</item>
 		<item>
+			<title>❓Vicky Dalton - Washington State Assoc of County Auditors</title>
+			<description>Vicky Dalton signed up to testify Other. They are signed up to represent Washington State Assoc of County Auditors.</description>
+			<pubDate>Wed, 22 Jan 2025 18:57:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Vicky/Dalton/2025-01-22 18:57:34</guid>
+		</item>
+		<item>
 			<title>👍💵Nick Federici - City of Spokane</title>
 			<description>Nick Federici signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_spokane/"&gt;City of Spokane&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Wed, 22 Jan 2025 11:09:20 GMT</pubDate>
+			<pubDate>Wed, 22 Jan 2025 23:09:20 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Nick/Federici/2025-01-22 11:09:20</guid>
+			<guid isPermaLink="false">testifier/Nick/Federici/2025-01-22 23:09:20</guid>
 		</item>
 		<item>
 			<title>APP - Executive action taken by committee.</title>
@@ -113,10 +113,10 @@
 		<item>
 			<title>👍Kelly Konkright - City Attorney, City of Spokane Valley</title>
 			<description>Kelly Konkright signed up to testify Pro. They are signed up to represent City Attorney, City of Spokane Valley.</description>
-			<pubDate>Mon, 10 Mar 2025 04:56:49 GMT</pubDate>
+			<pubDate>Mon, 10 Mar 2025 16:56:49 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Kelly/Konkright/2025-03-10 04:56:49</guid>
+			<guid isPermaLink="false">testifier/Kelly/Konkright/2025-03-10 16:56:49</guid>
 		</item>
 		<item>
 			<title>👍Nicholas Federici - City of Spokane</title>

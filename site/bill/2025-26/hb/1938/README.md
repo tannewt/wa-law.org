@@ -25,46 +25,46 @@ Testifying:
 * Jacob Lawty
 * Antoinette Hippe
 * Margot Stroop - Runaway Press
+* Nolan Bush
 * Adib Altallal
 * Deniz Iyigun
-* Nolan Bush
-* Natalie Gregov
 * Evelyn Smith
+* Natalie Gregov
 
 #### 3137 👎 - Con
 Testifying:
-* Eldon Leuning
-* Hailey Irvine
 * Laura Williams
 * Zack Fonseca
 * Patrick Campbell
 * Michael Van Citters
 * Linda Wojciechowski
-* Timothy Sieverkropp
-* TAMMY Rose Berry
+* Eldon Leuning
+* Hailey Irvine
 * Russell Franklin
 * Michael Gawthorp
-* Leia Schneider
 * C P
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Timothy Sieverkropp
+* TAMMY Rose Berry
+* Leia Schneider
 * Tasi Fepuleai
-* Julia Mirate
 * Greg Wilson - Wilson Ranch
 * Michael Cantrell
 * Amy Weber-Cantrell
+* Quinton Jackson
+* Julia Mirate
 * Lisa Mischenko
 * Christina Janis
-* Quinton Jackson
 * Shaun DSylva
 * Kristine Hanson
 * Ethan Farrington
 * Andrea Makowski
-* Karen Whooley
 * Bryan Painter
-* Casey Turner
-* Casey Turner
 * Gary Mansford
 * Janet Johnson
+* Karen Whooley
+* Casey Turner
+* Casey Turner
 * Eric Pratt - America
 * Ryan Jewell
 * Anthony Holan

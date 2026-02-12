@@ -10,9 +10,9 @@
 ### Thu 02/13 08:00 AM - Housing (HOUS): HB 1840 Middle housing
 #### 17 👍 - Pro
 Testifying:
+* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Satpal Sidhu - Whatcom County Executive
 * Carolina Mejia-Barahona - Commissioner, Thurston County
-* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 26 👎 - Con
 

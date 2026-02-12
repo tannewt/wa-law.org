@@ -14,8 +14,8 @@
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): SHB 1066 Regulated substance use data
 #### 9 👍 - Pro
 Testifying:
-* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
 #### 0 👎 - Con
 

@@ -15,6 +15,17 @@
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205552)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Local Government (LG): ESSB 5552 Kit homes/building codes
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/26 08:00 AM - Local Government (LG): SSB 5552 Kit homes/building codes
 #### 64 👍 - Pro
 

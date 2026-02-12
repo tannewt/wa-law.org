@@ -11,22 +11,22 @@
 #### 2683 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Larisss Mccray
 * Naomi McCleary
+* Larisss Mccray
 * Elizabeth Ward Robertson - [Seattle Education Association](/org/seattle_education_association/)
 * 💵Janie White - [Washington Education Association](/org/washington_education_association/)
 * 💵Larry Delaney
 * Shara Yackel
-* Leslie Maxwell
 * Bay Knight
+* Leslie Maxwell
+* Sean Palmore
+* Rick Chisa - Public School Employees of WA/SEIU 1948
 * Jason Schutt
 * Christine Brosius
 * Christine Twiss - SEIU 925
 * Devi Narakulla - food service, Foster High School
 * Gabriel Iverson
 * Carol Crowell
-* Sean Palmore
-* Rick Chisa - Public School Employees of WA/SEIU 1948
 
 #### 479 👎 - Con
 Testifying:
@@ -35,5 +35,5 @@ Testifying:
 
 #### 31 ❓ - Other
 Testifying:
-* Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials
 * Alexa Allman - Deer Park School District
+* Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials

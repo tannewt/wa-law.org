@@ -34,8 +34,8 @@ Testifying:
 Testifying:
 * Jesse Bank
 * Michael Lilliquist - City Councilmember for the City of Bellingham
-* Council Member Kitty Kliztke - [City of Spokane](/org/city_of_spokane/)
 * Spencer Gardner - [City of Spokane](/org/city_of_spokane/)
+* Council Member Kitty Kliztke - [City of Spokane](/org/city_of_spokane/)
 * Patrick Quinton - [City of Vancouver](/org/city_of_vancouver/)
 * Kyle Moore - City of Kent/ Government Affairs Manager
 

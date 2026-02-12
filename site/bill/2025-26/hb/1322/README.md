@@ -31,12 +31,12 @@ Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Rashida Robbins
-* Grace Kimm - TeamChild
-* Mamie Lackie - TeamChild
-* Hailey Conner - TeamChild
 * Dr. Eric Trupin
 * Dr. Eric Trupin
 * Julissa Sanchez - CHOOSE 180
+* Grace Kimm - TeamChild
+* Mamie Lackie - TeamChild
+* Hailey Conner - TeamChild
 
 #### 19 👎 - Con
 Testifying:

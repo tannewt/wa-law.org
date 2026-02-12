@@ -12,10 +12,10 @@
 
 #### 864 👎 - Con
 Testifying:
-* Helen Lehner - Parkside Airpark HOA
-* Thomas Young
 * Steve Reid
 * Kathryn Mcaleer
+* Helen Lehner - Parkside Airpark HOA
+* Thomas Young
 * Brad Schuster - Aircraft Owners and Pilots Association - AOPA
 
 #### 7 ❓ - Other

@@ -35,11 +35,11 @@ Testifying:
 #### 388 👍 - Pro
 Testifying:
 * Maya Morales - WA People's Privacy
+* Karen Grove - WA State Fire Marshals Association
 * Daisy Hannalore
 * Devin Tegelberg
 * John Marshall - UFCW 3000
 * Anne Steyh
-* Karen Grove - WA State Fire Marshals Association
 * Jonathan Pincus - The Nexus of Privacy
 * 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 

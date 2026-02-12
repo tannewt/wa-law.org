@@ -15,8 +15,8 @@
 ### Fri 03/14 08:00 AM - Consumer Protection & Business (CPB): SB 5108 Service contracts
 #### 8 👍 - Pro
 Testifying:
-* Tyler Langford - Office of the Insurance Commissioner
 * Travis Moore - Service Contract Industry Council
+* Tyler Langford - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

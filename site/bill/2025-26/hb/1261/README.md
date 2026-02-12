@@ -38,12 +38,12 @@ Testifying:
 Testifying:
 * 💵Brad Tower - [Washington Christmas Tree Growers](/org/washington_christmas_tree_growers/)
 * Tara Luckie
-* Bob Ricci
 * Keith Stocker - Stocker Farms, Inc
 * Councilmember, Megan Dunn - Snohomish County
 * County Executive, Dave Somers - Snohomish County
 * Linda Neunzig - Snohomish County
 * Ben Krause - Swans Trail Farms, Inc.
+* Bob Ricci
 
 #### 397 👎 - Con
 Testifying:

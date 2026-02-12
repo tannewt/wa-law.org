@@ -11,9 +11,9 @@
 ### Wed 04/23 01:30 PM - Ways & Means (WM): SHB 1043 Commute trip reduction
 #### 60 👍 - Pro
 Testifying:
-* Olivia Kahn - City of Vancouver, WA
 * Veronica Jarvis - TDM Technical Committee
 * Matthew Trecha - [City of Seattle](/org/city_of_seattle/)
+* Olivia Kahn - City of Vancouver, WA
 * Michael Leach - Move Redmond
 
 #### 5 👎 - Con

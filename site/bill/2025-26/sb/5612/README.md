@@ -13,8 +13,8 @@
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5612 Multiunit housing/SEPA
 #### 164 👍 - Pro
 Testifying:
-* Sheila Christy
 * Alex Harrington - NAIOP Washington State
+* Sheila Christy
 
 #### 6 👎 - Con
 

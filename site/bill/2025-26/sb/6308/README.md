@@ -35,9 +35,9 @@ Testifying:
 * Reymond Lozano
 * Shannon Selland - [Family Impact Network](/org/family_impact_network/)
 * Dr. Jim Walsh
+* Susan Stoner - WA Parent-Child Assistance Program
 * Kim Justice - Partners for Our Children
 * 💵Julie Watts - Department of Children, Youth and Families
-* Susan Stoner - WA Parent-Child Assistance Program
 
 #### 87 👎 - Con
 Testifying:

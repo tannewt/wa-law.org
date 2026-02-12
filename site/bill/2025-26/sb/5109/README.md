@@ -13,6 +13,15 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205109)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): SB 5109 Mortgage lending fraud acc.
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/17 04:00 PM - Appropriations (APP): SB 5109 Mortgage lending fraud acc.
 #### 13 👍 - Pro
 Testifying:

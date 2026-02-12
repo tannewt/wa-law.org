@@ -38,23 +38,23 @@ Testifying:
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): ESHB 1141 Ag. cannabis workers
 #### 129 👍 - Pro
 Testifying:
-* Mike Asai - Black Exvcellence in Cannabis
-* Peter Manning - Black Excellence in Cannabis
 * Diba Kamayo
 * Faye Guenther - UFCW 3000
 * 💵John Traynor - Washington State Labor Council AFL-CIO
+* Mike Asai - Black Exvcellence in Cannabis
+* Peter Manning - Black Excellence in Cannabis
 * Stephanie Taylor
 
 #### 604 👎 - Con
 Testifying:
-* Brandon Park - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
-* Anthony Holan
 * Jordan Zager - Dewey Botanicals/Dewey Cannabis Co.
 * Scott Haggberg - Grow Op Farms
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * TaraLyn Fray
 * 💵Ezra Eickmeyer - Producers NW
 * 💵Scott Dilley - WAFLA - Worker and Farmer Labor Association
+* Brandon Park - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Anthony Holan
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 
 #### 5 ❓ - Other

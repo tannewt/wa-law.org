@@ -71,8 +71,8 @@ Testifying:
 ### Fri 02/14 10:30 AM - Housing (HSG): SB 5686 Foreclosure mediation prg.
 #### 111 👍 - Pro
 Testifying:
-* Raelene Schifano - HOA United
 * Steve Horvath - HOA United
+* Raelene Schifano - HOA United
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Marc Cote - [Parkview Services](/org/parkview_services/)

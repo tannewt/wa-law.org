@@ -15,32 +15,30 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1903 Low-income energy assistance
 #### 1034 👍 - Pro
 Testifying:
-* 💵Alexandra Johnson - Duwamish River Community Coalition
-* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * 💵Logan Bahr - Tacoma Power/Tacoma Public Utilities
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* Dan Fagerlie - Ferry PUD #1
 * Pamela A Hickey
 * Aqsa Mengal - [Front and Centered](/org/front_and_centered/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
-* Debolina Banerjee - [Puget Sound Sage](/org/puget_sound_sage/)
 * 💵Charlee Thompson - NW Energy Coalition
-* Dan Fagerlie - Ferry PUD #1
 
 #### 85 👎 - Con
 
 #### 10 ❓ - Other
 Testifying:
-* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
-* 💵Sheri Nelson - WA Rural Electric Cooperative Assn
 * 💵Nicolas Garcia - WPUDA
 * Rosario Viera - Franklin PUD
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Sheri Nelson - WA Rural Electric Cooperative Assn
 
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1903 Low-income energy assistance
 #### 494 👍 - Pro
 Testifying:
 * Daniel Fagerlie - Ferry PUD
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
 * Adán Espino Jr - Franklin Public Utility District
 * Victor Fuentes - Franklin Public Utility District
-* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
 * Denise Wells - Metropolitan Development Council
 * 💵Nicolas Garcia - WPUDA
 * Jessica McCarthy - Okanogan PUD

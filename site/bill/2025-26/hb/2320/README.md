@@ -24,7 +24,6 @@ Testifying:
 * Brooke Gardner
 * Anika Mallett
 * Anika Mallett
-* Jane Clinton
 * Bryan Crutchfield
 * Jenine Lewis
 * Matt Gillingham - Lake Washington School District
@@ -34,6 +33,7 @@ Testifying:
 * Colin Bell - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
 * Halle Norenberg - Students Demand Action
 * Jane Weiss
+* Jane Clinton
 
 #### 658 👎 - Con
 Testifying:

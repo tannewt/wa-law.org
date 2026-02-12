@@ -40,8 +40,8 @@ Testifying:
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 1509 Family reconciliation
 #### 14 👍 - Pro
 Testifying:
-* Jim Theofelis - NorthStar Advocates
 * Kim Justice - Partners for Our Children
+* Jim Theofelis - NorthStar Advocates
 * Rachel Mathison - [Cocoon House](/org/cocoon_house/)
 
 #### 1143 👎 - Con
@@ -55,11 +55,11 @@ Testifying:
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * 💵Casey Trupin - Raikes Foundation
-* Angela Cruze - Lived Expert
 * Kim Justice - Partners for Our Children
+* Angela Cruze - Lived Expert
 * 💵Karen Pillar - TeamChild
-* Sabrina Johnson - [Cocoon House](/org/cocoon_house/)
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
+* Sabrina Johnson - [Cocoon House](/org/cocoon_house/)
 
 #### 9 👎 - Con
 Testifying:

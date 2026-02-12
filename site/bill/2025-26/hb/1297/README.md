@@ -24,5 +24,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
 * 💵Rose Feliciano - TechNet
+* 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)

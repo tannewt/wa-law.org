@@ -14,9 +14,9 @@
 #### 507 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
 * Jennifer Gregerson - City of Everett, Government Affairs Director
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Regan Bolli - [City of Covington](/org/city_of_covington/)
 * 💵Jaime Bodden - WSALPHO
 * Vivek Prakriya - Redmond City Councilmember

@@ -17,21 +17,28 @@
 Testifying:
 * Catherine Young - Tacoma Special education PTA
 * jessica morrow
+* Teena Curry - On behalf of my Mother, Pat Curry
+* Amanda Harpell-Franz
 * Jessica Morrow
 * laura blankenship
-* Amanda Harpell-Franz
 * Kelsey Stanczyk
-* Teena Curry - On behalf of my Mother, Pat Curry
-* Amber Nilles
 * Julia Frank
+* Amber Nilles
 * Demas Nesterenko - SEIU 775
 * Katie Scheid - Impacted Parent and PEPWa
 * Kimie Nova - Impacted parent & PEPWa
 * Deb Ritter
-* Ayan Elmi - Washington Multicultural Services Link
-* Dominique Nkamicaniye - Seattle
 * Sai Samineni
 * Lori Helmy
+* Ayan Elmi - Washington Multicultural Services Link
+* Dominique Nkamicaniye - Seattle
+* Melissa Kerson
+* Michele Hagerstrom - Mary Bridge Children's Hospital
+* Bevan Martin
+* Whitney Stohr
+* Sonora Standafer
+* Anna Miller
+* Courtney Criss - The Arc of Snohomish County
 * Jennifer Heinlein Jennifer Heinlein
 * Leah Wright
 * Amber Nilles
@@ -42,17 +49,8 @@ Testifying:
 * Amanda Harpell-Franz
 * Audrianna Kinnard
 * Brianna Johnson
-* Melissa Kerson
-* Michele Hagerstrom - Mary Bridge Children's Hospital
 * Celeste Nearing
-* Bevan Martin
-* Whitney Stohr
-* Sonora Standafer
 * Erin krempasky
-* Anna Miller
-* Courtney Criss - The Arc of Snohomish County
-* Leonardo Salas Ramos - Open Doors
-* Sonia Ramos Marentos - Open Doors
 * Lindsey Topping-schuetz
 * Brittany Huerta
 * Melissa Wren - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child
@@ -63,6 +61,8 @@ Testifying:
 * Leonardo Salas
 * Jessica Morrow
 * Andrea Graham
+* Leonardo Salas Ramos - Open Doors
+* Sonia Ramos Marentos - Open Doors
 
 #### 1 👎 - Con
 

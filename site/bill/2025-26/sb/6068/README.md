@@ -17,8 +17,8 @@ Testifying:
 
 #### 1021 👎 - Con
 Testifying:
+* Jerry VanderWood - Associated General Contractors (AGC)
 * 💵Carolyn Logue - ABC Inland Pacific Chapter and WA Air Conditioning Contractors Association
 * Mike Ennis - Building Industry Association of Washington (BIAW)
-* Jerry VanderWood - Associated General Contractors (AGC)
 
 #### 21 ❓ - Other

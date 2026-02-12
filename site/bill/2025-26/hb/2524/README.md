@@ -21,10 +21,10 @@ Testifying:
 
 #### 18 👎 - Con
 Testifying:
+* Steve Amitay - National Association of Security Companies
 * 💵Michael Transue - Pierce County Security
 * 💵Morgan Irwin - Association of WA Business
 * 💵Rose Gundersen - WA Retail Association
-* Steve Amitay - National Association of Security Companies
 * 💵Chester Baldwin - WA Business Properties Assn
 * 💵Chester Baldwin - WA Business Properties Assn
 

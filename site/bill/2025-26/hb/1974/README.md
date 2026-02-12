@@ -16,10 +16,10 @@
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 1974 Land banking authorities
 #### 31 👍 - Pro
 Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
 * Krosbie Carter - 1DROP
 * Matt Hoffman - Starter Home Production Plan Team/BHI Land Strategy Team/Maul Foster & Alongi, Inc.
-* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 1105 👎 - Con
 
@@ -28,13 +28,13 @@ Testifying:
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 1974 Land banking authorities
 #### 56 👍 - Pro
 Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Amanda DeShazo - Tacoma-Pierce Affordable Housing Consortium
 * Matt Hoffman - Maul Foster & Alongi, Inc.
 * Patience Malaba - HDC Seattle-King County
 * Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
 * Chris Collier - Housing Authority of Snohomish County
 * Reggie Brown - 1DROP
-* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Erin Chapman-Smith - Roots Young Adult Shelter
 * Reggie Brown - 1DROP
 * 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -48,8 +48,8 @@ Testifying:
 Testifying:
 * Kitty Klitzke - Spokane City Council Member
 * 💵Paul Dillon - Spokane City Council President Pro-Tem
-* 💵Joe Adamack - Washington's Credit Unions
 * Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
+* 💵Joe Adamack - Washington's Credit Unions
 
 #### 57 👎 - Con
 

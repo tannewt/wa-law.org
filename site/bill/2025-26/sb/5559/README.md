@@ -33,9 +33,9 @@ Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Riley Benge - Washington REALTORS
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* Scott Bonjukian
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Scott Bonjukian
 * 💵Briahna Murray - Cities of Kent, Redmond, and Tacoma
 * Chris Collier - APA Washington
 

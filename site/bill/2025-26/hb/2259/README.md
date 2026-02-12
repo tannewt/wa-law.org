@@ -19,10 +19,12 @@
 #### 979 👍 - Pro
 Testifying:
 * Joe Kunzler - Private Citizen
-* Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
-* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Hanna Floss
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Kathleen Heiman
+* Laurel Fish
 * Debbie Borek
 * 💵Adam Glickman - SEIU 775
 * Brie Gyncild
@@ -30,26 +32,25 @@ Testifying:
 * Louise Pathe
 * Vicki Bates
 * Heather Wallace
-* Kathleen Heiman
 * Lauren Dandridge
 * Thomas Marsland
 * Naida Spencer
 * Steven McCray
-* Laurel Fish
 * Cliff Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * DJ Brimer
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
 #### 3621 👎 - Con
 Testifying:
-* Anthony Mixer - Citizen Volunteer Lobbyist
 * Tim Eyman - Initiative Activist
-* Eric Lundberg
+* Anthony Mixer - Citizen Volunteer Lobbyist
 * Laurie Layne
+* Eric Lundberg
 * Sharon Hanek
 * Hongye Sun
 * Jane Ci
 * Eric Pratt - America
+* Brian Heywood
 * Teagan Levine
 * Tim Eyman - Initiative Activist
 * Kan Qiu - American Coalition for Equality
@@ -59,7 +60,6 @@ Testifying:
 * Linda Yang
 * Robyn Balcom
 * Tim Eyman - Initiative Activist
-* Brian Heywood
 * Xiting Phillips
 * William Weber
 * Pauly Giuglianotti - Partnership for a Truly Independent Prosecutor

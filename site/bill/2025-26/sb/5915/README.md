@@ -7,6 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 5915 Health technology assessment
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Lisa Woodard
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5915 Health technology assessment
 #### 150 👍 - Pro
 Testifying:

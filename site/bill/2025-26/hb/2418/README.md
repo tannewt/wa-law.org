@@ -28,10 +28,10 @@ Testifying:
 ### Fri 01/16 10:30 AM - Local Government (LG): HB 2418 Permit review
 #### 49 👍 - Pro
 Testifying:
+* Josh Friedmann
 * Jesse Simpson - Housing Development Consortium
 * Patience Malaba - Yes, CEO
 * Angela Rozmyn - Natural and Built Environments
-* Josh Friedmann
 * Riley Benge - The Commercial Real Estate Development Association (CREDA)
 
 #### 9 👎 - Con
@@ -43,6 +43,6 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - Building industry association of Washington
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

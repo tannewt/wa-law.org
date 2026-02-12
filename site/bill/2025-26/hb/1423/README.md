@@ -19,9 +19,9 @@ Testifying:
 Testifying:
 * Sandra Mochizuki
 * Julie Dowell
-* Tee Sannon - ACLU of Washington
 * Anthony Holan
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Tee Sannon - ACLU of Washington
 
 #### 3 ❓ - Other
 

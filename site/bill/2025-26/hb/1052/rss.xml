@@ -23,14 +23,6 @@
 			<guid isPermaLink="false">2024-12-12/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👎Laurie Layne - ADL Pacific Northwest</title>
-			<description>Laurie Layne signed up to testify Con.</description>
-			<pubDate>Thu, 09 Jan 2025 04:57:31 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Laurie/Layne/2025-01-09 04:57:31</guid>
-		</item>
-		<item>
 			<title>👍Yessenia Manzo - King County Prosecuting Attorney's Office</title>
 			<description>Yessenia Manzo signed up to testify Pro. They are signed up to represent King County Prosecuting Attorney's Office.</description>
 			<pubDate>Thu, 09 Jan 2025 11:53:01 GMT</pubDate>
@@ -39,12 +31,20 @@
 			<guid isPermaLink="false">testifier/Yessenia/Manzo/2025-01-09 11:53:01</guid>
 		</item>
 		<item>
+			<title>👎Laurie Layne - ADL Pacific Northwest</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Thu, 09 Jan 2025 16:57:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-01-09 16:57:31</guid>
+		</item>
+		<item>
 			<title>👍Ariel Novick - ADL Pacific Northwest</title>
 			<description>Ariel Novick signed up to testify Pro. They are signed up to represent ADL Pacific Northwest.</description>
-			<pubDate>Sun, 12 Jan 2025 05:40:42 GMT</pubDate>
+			<pubDate>Sun, 12 Jan 2025 17:40:42 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Ariel/Novick/2025-01-12 05:40:42</guid>
+			<guid isPermaLink="false">testifier/Ariel/Novick/2025-01-12 17:40:42</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Community Safety (Not Officially read and referred until adoption of Introduction report).</title>
@@ -162,26 +162,26 @@
 		<item>
 			<title>👍Yessenia Manzo - King County Prosecuting Attorney's Office</title>
 			<description>Yessenia Manzo signed up to testify Pro. They are signed up to represent King County Prosecuting Attorney's Office.</description>
-			<pubDate>Wed, 05 Mar 2025 04:26:06 GMT</pubDate>
+			<pubDate>Wed, 05 Mar 2025 16:26:06 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Yessenia/Manzo/2025-03-05 04:26:06</guid>
+			<guid isPermaLink="false">testifier/Yessenia/Manzo/2025-03-05 16:26:06</guid>
 		</item>
 		<item>
 			<title>👎Laurie Layne - Anti-Defamation League</title>
 			<description>Laurie Layne signed up to testify Con.</description>
-			<pubDate>Wed, 05 Mar 2025 04:44:18 GMT</pubDate>
+			<pubDate>Wed, 05 Mar 2025 16:44:18 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Laurie/Layne/2025-03-05 04:44:18</guid>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-03-05 16:44:18</guid>
 		</item>
 		<item>
 			<title>👍Ariel Novick - Anti-Defamation League</title>
 			<description>Ariel Novick signed up to testify Pro. They are signed up to represent Anti-Defamation League.</description>
-			<pubDate>Thu, 06 Mar 2025 02:03:47 GMT</pubDate>
+			<pubDate>Thu, 06 Mar 2025 14:03:47 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Ariel/Novick/2025-03-06 02:03:47</guid>
+			<guid isPermaLink="false">testifier/Ariel/Novick/2025-03-06 14:03:47</guid>
 		</item>
 		<item>
 			<title>👎Gregor Doerr - Washington State Young Republicans</title>
@@ -192,14 +192,6 @@
 			<guid isPermaLink="false">testifier/Gregor/Doerr/2025-03-07 09:46:29</guid>
 		</item>
 		<item>
-			<title>👎Randy Welch - Washington State Young Republicans</title>
-			<description>Randy Welch signed up to testify Con.</description>
-			<pubDate>Mon, 10 Mar 2025 02:42:06 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Randy/Welch/2025-03-10 02:42:06</guid>
-		</item>
-		<item>
 			<title>👎TaraLyn Fray - Washington State Young Republicans</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 10 Mar 2025 11:44:50 GMT</pubDate>
@@ -208,20 +200,28 @@
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-10 11:44:50</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - Washington State Young Republicans</title>
-			<description>Sandra Mochizuki signed up to testify Con.</description>
-			<pubDate>Tue, 11 Mar 2025 04:06:48 GMT</pubDate>
+			<title>👎Randy Welch - Washington State Young Republicans</title>
+			<description>Randy Welch signed up to testify Con.</description>
+			<pubDate>Mon, 10 Mar 2025 14:42:06 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 04:06:48</guid>
+			<guid isPermaLink="false">testifier/Randy/Welch/2025-03-10 14:42:06</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Washington State Young Republicans</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 16:06:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 16:06:48</guid>
 		</item>
 		<item>
 			<title>👎Sharon Damoff - Washington State Young Republicans</title>
 			<description>Sharon Damoff signed up to testify Con.</description>
-			<pubDate>Wed, 12 Mar 2025 03:27:38 GMT</pubDate>
+			<pubDate>Wed, 12 Mar 2025 15:27:38 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sharon/Damoff/2025-03-12 03:27:38</guid>
+			<guid isPermaLink="false">testifier/Sharon/Damoff/2025-03-12 15:27:38</guid>
 		</item>
 		<item>
 			<title>LAW - Majority; do pass with amendment(s).</title>

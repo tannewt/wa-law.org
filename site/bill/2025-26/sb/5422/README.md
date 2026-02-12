@@ -27,9 +27,9 @@ Testifying:
 ### Mon 02/17 10:30 AM - Labor & Commerce (LC): SB 5422 Collective bargaining/AI use
 #### 270 👍 - Pro
 Testifying:
+* Raquel Guzman Retano - Up and Beyond Child Care
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
 * Cecilia Reyes
-* Raquel Guzman Retano - Up and Beyond Child Care
 * Riz Monghit - SEIU 925
 * Kati Durkin - WFSE
 * Cherika Carter - washington state labor council, afl-cio

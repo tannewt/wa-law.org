@@ -27,11 +27,11 @@ Testifying:
 
 #### 151 👎 - Con
 Testifying:
+* Tuan Quach - Equity in Education Center
 * Candice Baughman
 * Louis Ihrig
 * Michael Shoemaker
 * Rory Andes
-* Tuan Quach - Equity in Education Center
 * Kurtis Robinson - I Did The Time/ Revive Center For Returning Citizens
 * Thomas Digiorgio
 

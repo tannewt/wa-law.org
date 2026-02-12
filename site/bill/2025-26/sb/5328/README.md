@@ -29,11 +29,11 @@
 #### 12 👍 - Pro
 Testifying:
 * Phil Goldfeder - American Fintech Council
+* Alice Jacobsohn - PayrollOrg
+* Tahra Jirari - [Chamber of Progress](/org/chamber_of_progress/)
 * 💵Molly Jones - Vice President, Head of Public Policy at Payactiv
 * Nancy Coleman-Chavez - Public Policy Manager, Western States, DailyPay, Inc.
 * Nicole Miller - Deputy General Counsel at EarnIn
-* Alice Jacobsohn - PayrollOrg
-* Tahra Jirari - [Chamber of Progress](/org/chamber_of_progress/)
 * Garth McAdam - ZayZoon
 * Phil Goldfeder - American Fintech Council
 * Sarah Mamula - Financial Technology Association
@@ -46,5 +46,5 @@ Testifying:
 * Amanda Martin - NW Consumer Law Center
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Sam Leonard - WA State Association for Justice
-* Cathleen MacCaul - AARP Washington State
 * Jane Doyle - Woodstock Institute
+* Cathleen MacCaul - AARP Washington State

@@ -22,10 +22,10 @@ Testifying:
 * Charlie Brown - Schools Alliance
 * Kristan Maurer - Clark County Fire District 6, Fire Chief
 * TaraLyn Fray
-* Kyle Cox - [Public Libraries of Washington](/org/public_libraries_of_washington/)
 * David Ellingson - Washington Fire Commissioners Association, Kitsap County Fire Commissioners Associaton
 * 💵Matthew Ellsworth - [Association of Washington Public Hospital Districts](/org/association_of_washington_public_hospital_districts/)
 * Michael McConnell - Snohomish Regional Fire & Rescue
+* Kyle Cox - [Public Libraries of Washington](/org/public_libraries_of_washington/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 1 ❓ - Other

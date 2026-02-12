@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2203/</link>
 		<description>Updates about HB 2203</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,14 +30,6 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Community Safety.</guid>
 		</item>
 		<item>
-			<title>👍Dustin Morrow - Central Pierce Fire &amp; Rescue</title>
-			<description>Dustin Morrow signed up to testify Pro. They are signed up to represent Central Pierce Fire &amp; Rescue.</description>
-			<pubDate>Mon, 12 Jan 2026 04:07:51 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Dustin/Morrow/2026-01-12 04:07:51</guid>
-		</item>
-		<item>
 			<title>👎Keri-Anne Jetzer - WA State Sentencing Guidelines Commission</title>
 			<description>Keri-Anne Jetzer signed up to testify Con. They are signed up to represent WA State Sentencing Guidelines Commission.</description>
 			<pubDate>Mon, 12 Jan 2026 10:58:25 GMT</pubDate>
@@ -46,20 +38,28 @@
 			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2026-01-12 10:58:25</guid>
 		</item>
 		<item>
-			<title>👍Preston Dwoskin - Central Pierce Fire &amp; Rescue</title>
-			<description>Preston Dwoskin signed up to testify Pro.</description>
-			<pubDate>Tue, 13 Jan 2026 01:20:43 GMT</pubDate>
+			<title>👍Dustin Morrow - Central Pierce Fire &amp; Rescue</title>
+			<description>Dustin Morrow signed up to testify Pro. They are signed up to represent Central Pierce Fire &amp; Rescue.</description>
+			<pubDate>Mon, 12 Jan 2026 16:07:51 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Preston/Dwoskin/2026-01-13 01:20:43</guid>
+			<guid isPermaLink="false">testifier/Dustin/Morrow/2026-01-12 16:07:51</guid>
+		</item>
+		<item>
+			<title>👍Preston Dwoskin - Central Pierce Fire &amp; Rescue</title>
+			<description>Preston Dwoskin signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Jan 2026 13:20:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Preston/Dwoskin/2026-01-13 13:20:43</guid>
 		</item>
 		<item>
 			<title>👍Devon Gabreluk - Orting Police Department</title>
 			<description>Devon Gabreluk signed up to testify Pro. They are signed up to represent Orting Police Department.</description>
-			<pubDate>Tue, 13 Jan 2026 02:46:37 GMT</pubDate>
+			<pubDate>Tue, 13 Jan 2026 14:46:37 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Devon/Gabreluk/2026-01-13 02:46:37</guid>
+			<guid isPermaLink="false">testifier/Devon/Gabreluk/2026-01-13 14:46:37</guid>
 		</item>
 		<item>
 			<title>CS - Executive action taken by committee.</title>
@@ -81,6 +81,13 @@
 			<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-27/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2026 [KUOW](/org/kuow/) - [KUOW - State lawmaker wants closer look at public records burden for Washington school districts](https://www.kuow.org/stories/state-lawmaker-wants-closer-look-at-public-records-burden-for-washington-school-districts#:~:text=HB%202661)
 * 02/06/2026 [The Center Square](/org/the_center_square/) - [WA public records bill scraps task force, focuses only on school records | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9055221a-1566-4721-a1f8-100b7148cc6a.html#:~:text=House%20Bill%202661)
 * 02/04/2026 [The Center Square](/org/the_center_square/) - [WA bill would create a task force to 'gut' Public Records Act, critic says | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f48ec422-c656-42e2-9e32-a968d48e6324.html#:~:text=House%20Bill%202661)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=HB%202661)
@@ -16,9 +17,9 @@
 ### Tue 02/03 01:30 PM - State Government & Tribal Relations (SGOV): HB 2661 Public records task force
 #### 96 👍 - Pro
 Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Deborah Callahan - CEO, Washington Schools Risk Management Pool
 * Tyna Ek - General Counsel, Washington Schools Risk Management Pool
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Fred Rundle - Mercer Island School District
 * Korinne Henry - North Kitsap School District
 * Tammy Kimberley - West Valley School District #363 (Spokane)

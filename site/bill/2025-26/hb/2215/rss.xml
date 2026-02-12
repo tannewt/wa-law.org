@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2215/</link>
 		<description>Updates about HB 2215</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -25,18 +25,18 @@
 		<item>
 			<title>❓Sophia Steele Conley - western states petroleum association</title>
 			<description>Sophia Steele Conley signed up to testify Other. They are signed up to represent western states petroleum association.</description>
-			<pubDate>Sun, 11 Jan 2026 03:38:13 GMT</pubDate>
+			<pubDate>Sun, 11 Jan 2026 15:38:13 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Sophia/Steele Conley/2026-01-11 03:38:13</guid>
+			<guid isPermaLink="false">testifier/Sophia/Steele Conley/2026-01-11 15:38:13</guid>
 		</item>
 		<item>
 			<title>👎Jeff Pack - Washington Citizens Against Unfair Taxes</title>
 			<description>Jeff Pack signed up to testify Con. They are signed up to represent Washington Citizens Against Unfair Taxes.</description>
-			<pubDate>Sun, 11 Jan 2026 09:57:01 GMT</pubDate>
+			<pubDate>Sun, 11 Jan 2026 21:57:01 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jeff/Pack/2026-01-11 09:57:01</guid>
+			<guid isPermaLink="false">testifier/Jeff/Pack/2026-01-11 21:57:01</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Environment &amp; Energy.</title>
@@ -44,22 +44,6 @@
 			<pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Environment &amp; Energy.</guid>
-		</item>
-		<item>
-			<title>👍Julian Santos - Washington Conservation Action</title>
-			<description>Julian Santos signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_conservation_action/"&gt;Washington Conservation Action&lt;/a&gt;.</description>
-			<pubDate>Mon, 12 Jan 2026 01:30:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Julian/Santos/2026-01-12 01:30:57</guid>
-		</item>
-		<item>
-			<title>👎Jim Hedrick - Pacific Propane Gas Association (PPGA)</title>
-			<description>Jim Hedrick signed up to testify Con. They are signed up to represent Pacific Propane Gas Association (PPGA).</description>
-			<pubDate>Mon, 12 Jan 2026 05:25:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jim/Hedrick/2026-01-12 05:25:57</guid>
 		</item>
 		<item>
 			<title>❓💵Diana Carlen - Washington Oil Marketers Association</title>
@@ -78,12 +62,20 @@
 			<guid isPermaLink="false">testifier/Leah/Missik/2026-01-12 10:40:10</guid>
 		</item>
 		<item>
-			<title>👎Brian Whitley - Whitley Fuel</title>
-			<description>Brian Whitley signed up to testify Con. They are signed up to represent Whitley Fuel.</description>
-			<pubDate>Tue, 13 Jan 2026 02:13:58 GMT</pubDate>
+			<title>👍Julian Santos - Washington Conservation Action</title>
+			<description>Julian Santos signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_conservation_action/"&gt;Washington Conservation Action&lt;/a&gt;.</description>
+			<pubDate>Mon, 12 Jan 2026 13:30:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Julian/Santos/2026-01-12 13:30:57</guid>
+		</item>
+		<item>
+			<title>👎Jim Hedrick - Pacific Propane Gas Association (PPGA)</title>
+			<description>Jim Hedrick signed up to testify Con. They are signed up to represent Pacific Propane Gas Association (PPGA).</description>
+			<pubDate>Mon, 12 Jan 2026 17:25:57 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Brian/Whitley/2026-01-13 02:13:58</guid>
+			<guid isPermaLink="false">testifier/Jim/Hedrick/2026-01-12 17:25:57</guid>
 		</item>
 		<item>
 			<title>❓💵Peter Godlewski - Association of Washington Business</title>
@@ -116,6 +108,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Marcus/Mosley/2026-01-13 12:01:40</guid>
+		</item>
+		<item>
+			<title>👎Brian Whitley - Whitley Fuel</title>
+			<description>Brian Whitley signed up to testify Con. They are signed up to represent Whitley Fuel.</description>
+			<pubDate>Tue, 13 Jan 2026 14:13:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Whitley/2026-01-13 14:13:58</guid>
 		</item>
 		<item>
 			<title>ENVI - Executive action taken by committee.</title>
@@ -155,34 +155,34 @@
 		<item>
 			<title>👍💵Leah Missik - Climate Solutions</title>
 			<description>Leah Missik signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/climate_solutions/"&gt;Climate Solutions&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Mon, 02 Feb 2026 04:50:45 GMT</pubDate>
+			<pubDate>Mon, 02 Feb 2026 16:50:45 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Leah/Missik/2026-02-02 04:50:45</guid>
+			<guid isPermaLink="false">testifier/Leah/Missik/2026-02-02 16:50:45</guid>
 		</item>
 		<item>
 			<title>👎💵Darren Engle - Pacific Propane Gas Association</title>
 			<description>Darren Engle signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/pacific_propane_gas_association/"&gt;Pacific Propane Gas Association&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Wed, 04 Feb 2026 03:46:31 GMT</pubDate>
+			<pubDate>Wed, 04 Feb 2026 15:46:31 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Darren/Engle/2026-02-04 03:46:31</guid>
+			<guid isPermaLink="false">testifier/Darren/Engle/2026-02-04 15:46:31</guid>
 		</item>
 		<item>
 			<title>👎💵Diana Carlen - Washington Oil Marketers Association</title>
 			<description>Diana Carlen signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_oil_marketers_association/"&gt;Washington Oil Marketers Association&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Wed, 04 Feb 2026 08:19:55 GMT</pubDate>
+			<pubDate>Wed, 04 Feb 2026 20:19:55 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Diana/Carlen/2026-02-04 08:19:55</guid>
+			<guid isPermaLink="false">testifier/Diana/Carlen/2026-02-04 20:19:55</guid>
 		</item>
 		<item>
 			<title>👎Marcus Mosley - Co-Energy</title>
 			<description>Marcus Mosley signed up to testify Con. They are signed up to represent Co-Energy.</description>
-			<pubDate>Wed, 04 Feb 2026 08:19:55 GMT</pubDate>
+			<pubDate>Wed, 04 Feb 2026 20:19:55 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Marcus/Mosley/2026-02-04 08:19:55</guid>
+			<guid isPermaLink="false">testifier/Marcus/Mosley/2026-02-04 20:19:55</guid>
 		</item>
 		<item>
 			<title>❓Sophia Steele Conley - WSPA</title>
@@ -234,6 +234,13 @@
 			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -24,29 +24,29 @@ Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * Israel Lopez
 * Lael White - Climate Rail Alliance
-* Andrew Villeneuve - Northwest Progressive Institute / Executive Director
 * Andrew Jungkuntz
-* Brian King - Retired
+* Andrew Villeneuve - Northwest Progressive Institute / Executive Director
 * Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Arvia Morris - Environment and Climate Caucus of the Washington State Democrats
 * Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
-* Meghan Anderson - Kittitas Climate Action
 * Arvia Morris - Environment and Cliamate Caucus of the Washington State Democrats
+* Brian King - Retired
+* Meghan Anderson - Kittitas Climate Action
 * Patrick Christian
 * Zack Barry
 * Sterling Cassel
 * Arvia Morris - Environment and Climate Caucus of the Washington State Democrats
 * Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Thomas White - Climate Rail Alliance
-* 💵Mike Elliott - Rail Labor (retired)
-* Larry Ganders - President, Olympia-Lacey Amtrak Depot Committee
-* Tim Gould
 * 💵Steven Mazulo - SMART-TD
 * Bill Moyer - Solutionary Rail
 * Mary Paterson - Solutionary Rail
 * Meghan Anderson - Solutionary Rail
 * Sasha Elenko - Solutionary Rail
 * Ursula Euler
+* 💵Mike Elliott - Rail Labor (retired)
+* Larry Ganders - President, Olympia-Lacey Amtrak Depot Committee
+* Tim Gould
 
 #### 685 👎 - Con
 Testifying:
@@ -59,10 +59,11 @@ Testifying:
 #### 1032 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
+* Rick Shrum
 * Alan Borning - Climate Rail Alliance
 * Arvia Morris - Climate Rail Alliance
 * Thomas White - Climate Rail Alliance
-* Rick Shrum
+* Tawna Hubbard - Phone Banking
 * Bill Moyer - Solutionary Rail
 * Brent McFarlane - Solutionary Rail
 * Mary Paterson - Solutionary Rail
@@ -71,9 +72,8 @@ Testifying:
 * Breck Lebegue MD MPH - WA Physicians for Social Responsibility
 * Tim Gould - Sierra Club of Washington
 * Meghan Anderson - Kittitas Climate Action
-* Tawna Hubbard - Phone Banking
-* 💵Mike Elliott - No
 * Trevor Reed - Transportation Reform
+* 💵Mike Elliott - No
 
 #### 4 👎 - Con
 

@@ -49,15 +49,14 @@ Testifying:
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5752 Child care & early dev.
-#### 36 👍 - Pro
-Testifying:
-* Bob Rudolph
+#### 34 👍 - Pro
 
-#### 1519 👎 - Con
+#### 1521 👎 - Con
 Testifying:
+* Brian Knowles
 * TaraLyn Fray
 * Stephanie Smith
-* Brian Knowles
+* 💵Minna Long - Washington State Building & Construction Trades Council
 * Erika Larson - Holding Hope
 * Roxana Norouzi - OneAmerica
 * Alexis Cortes - Parent Advocate / BrightSpark Early Learning Services
@@ -65,7 +64,7 @@ Testifying:
 * 💵Emily Murphy - Child Care Aware of Washington; Child Care for WA Roundtable
 * Caitlin Lankford - Lilac City Early Learning Center
 * Tasha Fitzgerald
-* 💵Minna Long - Washington State Building & Construction Trades Council
+* Bob Rudolph
 * Kelcey Olson
 * Cierra Ozolin - Multicultural Child and Family Hope Center
 * 💵Paula Sardinas - WA Build Back Black Alliance/Linked Arms

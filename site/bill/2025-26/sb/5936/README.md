@@ -8,15 +8,16 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: We support survivors in this Washington - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/11/media-advisory-we-support-survivors-in-this-washington/#:~:text=Senate%20Bill%205936)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB 5936)
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Law & Justice (LAW): SB 5936 Human trafficking
 #### 27 👍 - Pro
 Testifying:
-* Robin Miller - WASE
 * Noel Gomez - Washington against sexual exploitation (WASE Forward)
 * PAULA REED - Children's Advocacy Centers of WA
+* Robin Miller - WASE
 
 #### 283 👎 - Con
 

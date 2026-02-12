@@ -15,10 +15,10 @@
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2168 Overdose mapping information
 #### 114 👍 - Pro
 Testifying:
-* Elizabeth Powell - Northwest High Intensity Drug Trafficking Area program
-* MD, Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
 * Alicia Stromme - Safe Yakima Valley
 * Peter Miterko - Skagit County Public Health
+* Elizabeth Powell - Northwest High Intensity Drug Trafficking Area program
+* MD, Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
 * Kyle Curtis - Yakima County Board of Commissioners
 
 #### 3 👎 - Con

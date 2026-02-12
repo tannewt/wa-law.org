@@ -41,8 +41,8 @@ Testifying:
 * Rick Stumph - InServ PNW LLC
 * Cary Clemenson - InServ PNW LLC
 * Karen Miller - bp America -- Cherry Point Refinery
-* Frank Capristo - Matrix Services
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* Frank Capristo - Matrix Services
 * 💵Greg Hanon - Western States Petroleum Assoc.
 * Ryan Likkel - [Western Refinery Services](/org/western_refinery_services/)
 * 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)

@@ -16,12 +16,12 @@
 #### 1241 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
-* Susan McCabe
 * Alan Borning - Climate Rail Alliance
+* Susan McCabe
+* Meghan Anderson - Kittitas Climate Action
 * Alan Borning - Climate Rail Alliance and Rail Can't Wait Campaign
 * Brandon Bowersox-Johnson - [350 Seattle](/org/350_seattle/)
 * Thomas White - Climate Rail Alliance and Rail Can't Wait Campaign
-* Meghan Anderson - Kittitas Climate Action
 * Mary Paterson
 * Bill Moyer - Solutionary Rail
 * Sasha Elenko - Solutionary Rail

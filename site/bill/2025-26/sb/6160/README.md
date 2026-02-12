@@ -15,7 +15,6 @@
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6160 Reports by state agencies
 #### 10 👍 - Pro
 Testifying:
-* Carrie` Sessions - Department of Ecology
 * Sheri Sawyer - Office of Financial Management
 * Sophia Byrd McSherry - Deputy Director, Washington State Office of Public Defense
 

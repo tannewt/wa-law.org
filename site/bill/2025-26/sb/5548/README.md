@@ -22,15 +22,15 @@ Testifying:
 #### 852 👎 - Con
 Testifying:
 * TaraLyn Fray
+* 💵Patrick Connor - NFIB
 * Rosemarie Dorn - concerned citizen
 * 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 * Rexine Bennett
-* 💵Patrick Connor - NFIB
 
 #### 2 ❓ - Other
 
 ### Fri 02/07 08:00 AM - Labor & Commerce (LC): SB 5548 Workers' compensation
-#### 268 👍 - Pro
+#### 269 👍 - Pro
 Testifying:
 * Colleen Durkin Peterson - Washington State Association for Justice
 * Rachel Hamar - Washington State Association for Justice
@@ -49,4 +49,4 @@ Testifying:
 * Lauren Gubbe - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
 * 💵Rose Gundersen - WA Retail Association
 
-#### 6 ❓ - Other
+#### 5 ❓ - Other

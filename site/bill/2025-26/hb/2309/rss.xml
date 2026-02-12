@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2309/</link>
 		<description>Updates about HB 2309</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 19:48:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -94,6 +94,14 @@
 			<pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-02/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Sheri Sawyer - Office of Financial Management</title>
+			<description>Sheri Sawyer signed up to testify Pro. They are signed up to represent Office of Financial Management.</description>
+			<pubDate>Wed, 11 Feb 2026 19:48:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sheri/Sawyer/2026-02-11 19:48:07</guid>
 		</item>
 	</channel>
 </rss>

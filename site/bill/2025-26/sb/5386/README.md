@@ -21,12 +21,12 @@ Testifying:
 * Georgia Terrell
 * Megan Nilsen
 * Oliver Farivar
-* Charlotte Fithian
-* Pearl Dimpsey
-* Yoori Youn
 * Sebrena Burr - Seattle Council PTSA
 * Grace Paulsell
 * Ibrahim Karabay
+* Charlotte Fithian
+* Pearl Dimpsey
+* Yoori Youn
 * Mark Adrian Dulfo
 
 #### 696 👎 - Con

@@ -12,8 +12,8 @@
 Testifying:
 * 💵Anthony Hemstad - Washington Housing Development, LLC
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Tom McBride - Kitsap County
 * Carolina Mejia-Barahona - Commissioner, Thurston County
+* Tom McBride - Kitsap County
 
 #### 11 👎 - Con
 Testifying:

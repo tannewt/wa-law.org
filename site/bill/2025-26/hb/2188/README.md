@@ -10,8 +10,8 @@
 ### Wed 01/28 08:00 AM - Labor & Workplace Standards (LAWS): HB 2188 Industrial insurance rates
 #### 352 👍 - Pro
 Testifying:
-* 💵Michael Ennis - Building Industry Association of Washington (BIAW)
 * 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Michael Ennis - Building Industry Association of Washington (BIAW)
 * 💵James Crandall - AWB
 
 #### 14 👎 - Con

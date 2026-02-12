@@ -18,10 +18,10 @@ Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Leonora Russelll - ADAPT-WA
 * Matt Thierfelder
-* Erik Bayona
-* Jenna McKenzie - Solange LLC
 * Leonora Russelll - ADAPT-WA
 * Adam Morse
+* Erik Bayona
+* Jenna McKenzie - Solange LLC
 * 💵Paula Sardinas - FMSGS/WBBA
 * Matt Thierfelder - Former Firefighter
 * 💵Paula Sardinas - Build Back Black Alliance
@@ -41,9 +41,9 @@ Testifying:
 * Rob Tallon
 * Wendy Lynn
 * Rachel Cervenak - Responsible Entheogen Access & Community Healing (REACH) Coalition
+* Steven Pearce - Citizens Commission on Human Rights
 * Patrick Seifert
 * Anthony Holan
-* Steven Pearce - Citizens Commission on Human Rights
 
 #### 6 ❓ - Other
 Testifying:
@@ -64,11 +64,11 @@ Testifying:
 * Mark Gaskill - Adventure Psychotherapy / Mark Gaskill
 * Heath Hollensbe
 * Matthew Thierfelder
+* Wendy Lynn
+* Wendy Lynn
 * Leonora Russell - ADAPT-WA
 * Darron Smith - NovelPath Behavioral Wellness
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
-* Wendy Lynn
-* Wendy Lynn
 * Carl Franz
 * Claudia Cuentas - Cora Center
 * Tom Eckert - InnerTrek
@@ -81,6 +81,7 @@ Testifying:
 Testifying:
 * Alba Sari
 * Angela Ross
+* Suzanne Moreillon
 * Donna Alber
 * Rachel Cervenak - Responsible Entheogen Access & Community Healing (REACH) Coalition
 * Herb Daniels
@@ -88,7 +89,7 @@ Testifying:
 * Jerome Spieckerman - PTPS
 * William Cooper
 * William Cooper
-* Suzanne Moreillon
+* Sarah Rasor
 * Andy Fischer-Price
 * MD MPH, Rebecca Allen - Seattle Neuropsychiatric Treatment Center
 * MD, Robin Berger - Washington State Psychiatric Association (WSPA)
@@ -97,7 +98,6 @@ Testifying:
 * MD, JD, Mason Marks
 * Christopher Metzger
 * Steven Pearce - Citizens Commission on Human Rights
-* Sarah Rasor
 * Tatiana Luz Quintana - Responsible Entheogenic Access and Community Healing (REACH) Coalition
 
 #### 23 ❓ - Other
@@ -106,19 +106,19 @@ Testifying:
 * Lauren Feringa - Hippie and a Veteran Foundation
 * Erin Reading - Port Townsend Psychedelic Society
 * Jakob Smitherman - Tacoma Psychedelic society
-* Cole Schrim LMHC - Tacoma Psychedelic Society
-* jerry spieckerman - PTPS
 * Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
 * Caitlein Ryan - CAITLEIN RYAN
-* Micah Sherman
-* Jessica Nielson - Minnesota Psychedelic Medicine Task Force
-* Jon Dennis - Responsible Entheogenic Access and Community Healing (REACH) Coalition
+* Cole Schrim LMHC - Tacoma Psychedelic Society
+* jerry spieckerman - PTPS
 * Heidi Venture - Vital Reset Psilocybin Service Center
 * Jessa Lewis
 * Kelsey Taylor
+* Micah Sherman
+* Jessica Nielson - Minnesota Psychedelic Medicine Task Force
+* Jon Dennis - Responsible Entheogenic Access and Community Healing (REACH) Coalition
+* Todd Youngs
 * Timothy Sedivy
 * BSN RN, HWNC-BC, Angela Ward
 * Larry Norris - Decriminalize Nature
-* Todd Youngs
 * 💵Megan Veith - Washington State Department of Health
 * Caitlein Ryan - THE CANNABIS ALLIANCE

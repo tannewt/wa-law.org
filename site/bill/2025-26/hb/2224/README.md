@@ -26,9 +26,9 @@ Testifying:
 ### Tue 01/20 10:30 AM - Local Government (LG): HB 2224 Fire protection districts
 #### 15 👍 - Pro
 Testifying:
+* 💵Briahna Murray - Lobbyist for the Cities of Lynden and Moses Lake
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Joe Walsh - City of Washougal
-* 💵Briahna Murray - Lobbyist for the Cities of Lynden and Moses Lake
 * Harold Scoggins - Washington Metro Fire Chiefs
 * DAVID DEMARCO - EVERETT FIRE DEPARTMENT
 * John Williams - City Administrator for City of Lynden

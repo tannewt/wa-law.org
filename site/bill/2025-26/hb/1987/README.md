@@ -16,9 +16,9 @@
 Testifying:
 * Michal Paul
 * Noa Romach
-* Bre Elsey - WA Farm Bureau
 * Eric Williams - [Second Harvest Inland Northwest](/org/second_harvest_inland_northwest/)
 * Robert Ojeda - CEO, Food Lifeline
+* Bre Elsey - WA Farm Bureau
 * Brian Estes - LINC Foods
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * w. Jay Gordon - Self /washington dairy federation

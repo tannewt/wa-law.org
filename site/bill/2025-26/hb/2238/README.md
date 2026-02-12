@@ -21,6 +21,8 @@ Testifying:
 * 💵Michael Moran - 2nd Harvest of Spokane
 * 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
 * Bryan Yambe - [Pierce County](/org/pierce_county/)
+* 💵Mark Streuli - WA Wheat Growers, WA Cattlemen, WA Potatoes, WA Water Resources
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Bryan Yambe - Council member District 5 for Pierce County Council
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Jeremy Vrablick - Cascadia Produce
@@ -28,8 +30,6 @@ Testifying:
 * Colleen Donovan - WA State Farmers Market Association
 * David Bobanick - Harvest Against Hunger
 * 💵Melanie Smith - Coalition of Accountable Communities of Health
-* 💵Mark Streuli - WA Wheat Growers, WA Cattlemen, WA Potatoes, WA Water Resources
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 167 👎 - Con
 Testifying:

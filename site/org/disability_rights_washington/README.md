@@ -22,8 +22,8 @@
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍4  
-* 👍💵 Chloe Merino
 * 👍💵 Rachael Seevers
+* 👍💵 Chloe Merino
 
 ### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings 👍1  
 
@@ -65,8 +65,8 @@
 * 👍💵 Anna Zivarts
 
 ### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍4  
-* 👍💵 Chloe Merino
 * 👍 Todd H Carlisle
+* 👍💵 Chloe Merino
 * 👍💵 Chloe Merino
 
 ### [HB 1496](/bill/2025-26/hb/1496/) - Health care information 👍1  
@@ -153,8 +153,8 @@
 ### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
 ### [SB 6069](/bill/2025-26/sb/6069/) - Supportive & emerg. housing 👍2  
-* 👍💵 Jenn Henderson
 * 👍💵 Kimberly Mosolf
+* 👍💵 Jenn Henderson
 
 ### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims  👎1 
 

@@ -23,14 +23,14 @@ Testifying:
 #### 827 👎 - Con
 Testifying:
 * Kerri Burnside - Bellingham Tenants Union
+* Terri Anderson - Tenants Union of Washington State
 * Robert Hurn
 * Barry Harris
 * Talauna Reed - Tenants Union of Washington State
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
-* Terri Anderson - Tenants Union of Washington State
 
 #### 3 ❓ - Other
 Testifying:
-* Jonathan Mallahan - Catholic Charities of Eastern Washington
 * Philippe Knab - The Washington State Office of Civil Legal AId
+* Jonathan Mallahan - Catholic Charities of Eastern Washington

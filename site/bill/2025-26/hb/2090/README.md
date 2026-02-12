@@ -16,13 +16,13 @@
 Testifying:
 * Paula King - Friends of Fission Northwest
 * James Conca
+* Steve Verhey
+* Leila El-Wakil MD
 * Adam J. Fyall - Benton County
 * Greg Cullen - [Energy Northwest](/org/energy_northwest/)
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Madison Schroder - Generation Atomic
-* Steve Verhey
-* Leila El-Wakil MD
 * Dr. Gary Nelson
 * Amanda McKinney - Yakima County Commissioner
 * Fereshteh Bunk - Mothers for Nuclear
@@ -33,16 +33,16 @@ Testifying:
 Testifying:
 * Roger Lippman
 * Cathryn Chudy - Oregon Conservancy Foundation (OCF)
+* Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
 * 💵Suellen Mele - 350 WA Civic Action Team
 * Jim Lazar
-* Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
 * Kevin Jones
-* Roxanne Thayer
 * Lindsey Watchman - Chairman, General Council, Confederated Tribes of the Umatilla Indian Reservation
 * Lisa Ganuelas - Board of Trustees, Confederated Tribes of the Umatilla Indian Reservation
-* Rob Briggs
+* Roxanne Thayer
 * 💵James Moschella - [Columbia Riverkeeper](/org/columbia_riverkeeper/)
 * Virginia Lohr
+* Rob Briggs
 
 #### 2 ❓ - Other
 Testifying:

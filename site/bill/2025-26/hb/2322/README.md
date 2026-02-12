@@ -19,8 +19,8 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Dallas Scholes - Par Pacific Holdings
 * Joel Creswell - Washington Department of Ecology
+* Dallas Scholes - Par Pacific Holdings
 * Marty Loesch - SkyNRG
 
 ### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2322 Alternative jet fuel

@@ -22,13 +22,13 @@
 ### Tue 01/21 01:30 PM - Human Services (HS): SB 5005 Jail system
 #### 183 👍 - Pro
 Testifying:
+* Jeanelle Reanier-Briggs
 * Celyna Ly
 * David Lara
 * 💵Ethan Frenchman - [Columbia Legal Services](/org/columbia_legal_services/)
-* Jeanelle Reanier-Briggs
-* Hailey Ockinga - Beyond These Walls
 * YVETTE ESPARZA - North End Medical Professional Group
 * Jordan Landry
+* Hailey Ockinga - Beyond These Walls
 
 #### 9 👎 - Con
 Testifying:

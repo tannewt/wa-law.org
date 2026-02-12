@@ -19,17 +19,15 @@ Testifying:
 * 💵Graham Taylor - [National Parks Conservation Association](/org/national_parks_conservation_association/)
 * Gordon Congdon
 * Marguerita Jensen
+* Paige Heron
+* Patti Nordby
 * Nancy Shimeall
 * Stephen Cotter
 * Clifford Wentworth
-* Paige Heron
 * Alexa Whipple
 * Marcia Ives - 24 Appaloosa Rd
-* Patti Nordby
 * DeeAnn Kirkpatrick
-* Kathleen Fisher
 * Scott Schuyler - Upper Skagit Tribe
-* Kevan Coffey
 * Mary Yglesia
 * STEVEN Dale KRAUSE
 * Tracey Wiese
@@ -38,8 +36,10 @@ Testifying:
 * Rhoda Walter
 * Clay Bobst
 * Jasmine Minbashian - [Methow Valley Citizens Council](/org/methow_valley_citizens_council/)
-* Caitlin Cordell
 * Chris Morgan
+* Kathleen Fisher
+* Kevan Coffey
+* Caitlin Cordell
 * Nancy Kuta
 * Gordon Congdon
 * Joe Scott - [Conservation Northwest](/org/conservation_northwest/)
@@ -48,10 +48,10 @@ Testifying:
 * Madelyn Hamilton - Methow Valley Citizen's Council
 * Scott Schuyler - Upper Skagit Tribe
 * Jack Oelfke
+* Dr. Subhadeep Bhattacharjee - WDFW
 * Gordon Congdon
 * Joe Scott - [Conservation Northwest](/org/conservation_northwest/)
 * Susan Kane-Ronning - [Sierra Club](/org/sierra_club/)
-* Dr. Subhadeep Bhattacharjee - WDFW
 
 #### 887 👎 - Con
 Testifying:

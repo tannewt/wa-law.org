@@ -11,8 +11,8 @@
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2539 Inmate funds
 #### 30 👍 - Pro
 Testifying:
-* Derond Potts
 * Tonelli Anderson
+* Derond Potts
 * 💵Emijah Smith - Colorful Communities LLC
 
 #### 3 👎 - Con

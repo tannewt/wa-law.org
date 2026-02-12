@@ -19,9 +19,9 @@
 #### 49 👍 - Pro
 Testifying:
 * Levon Williams - Washington State School Directors' Association
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Arlen Harris
 * Bill Lyne - United Faculty of Washington State
-* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * 💵Alex Hur - NW Education Access
 * Terrell Stalworth - Tacoma Community College Student
 
@@ -35,12 +35,12 @@ Testifying:
 #### 93 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
-* Melissa Beard - Council of Presidents
-* Isabella Flores - WA State Board for Community and Technical Colleges
-* Bill Lyne - United Faculty of Washington State
 * Quinn Fetty
 * Jamie Traugott - State Board for Community & Technical Colleges
 * Alyson Ritter - Olympic College
+* Melissa Beard - Council of Presidents
+* Isabella Flores - WA State Board for Community and Technical Colleges
+* Bill Lyne - UFWS/WEA
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Sam Herriot - WA State Board for Community and Technical Colleges
 * 💵Jayme Shoun - Washington STEM

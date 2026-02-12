@@ -18,8 +18,8 @@ Testifying:
 * Sara Robbins - Washington State Office of Civil Legal Aid
 * Philippe Knab - Washington State Office of Civil Legal Aid
 * Larry Jefferson - Director, Washington State Office of Public Defense
-* Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 * David Freeman - Whatcom County Supe
 
 #### 28 👎 - Con
@@ -33,8 +33,8 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Roshelle Cleland - Washington State Coalition Against Domestic & Sexual Violence (WSCADV)
 * Beth Leonard - Washington State Office of Civil Legal Aid
-* Derek VanSpoor - Retired Public Employees Council of WA
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Derek VanSpoor - Retired Public Employees Council of WA
 * 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
 * 💵Alexandra Johnson - Duwamish River Community Coalition
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
@@ -52,7 +52,6 @@ Testifying:
 #### 105 👎 - Con
 Testifying:
 * 💵Erica Hallock - Start Early Washington
-* 💵Erin Haick - SEIU 925
 * Tim Eyman - Initiative Activist
 * Wendy Bart - Washington Alliance of YMCAs/Olympic Peninsula YMCA
 
@@ -80,8 +79,8 @@ Testifying:
 #### 86 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
-* Cameron Gray
 * Aren Permadi
+* Cameron Gray
 * Chris Mulick - Washington State University
 
 #### 10 ❓ - Other
@@ -89,10 +88,10 @@ Testifying:
 * 💵Jacqui Cain - American Federation of Teachers (AFT-WA)
 * Hunter Deloney - Myself
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
-* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
 * Dr. Ivan Harrell - Tacoma Community College
 * Nate Humphrey - WA State Board for Community and Technical Colleges
 * 💵Nora Selander - Western Washington University
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
 * Chelsea Kopp - UAW 4591
 * Natalie Wellen - UAW 4121
 * Willow Heidt - UAW 4929
@@ -106,31 +105,29 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Judy Ellis
 * Max Kauffman - Office of Civil Legal Aid
-* Tom McGarry - [Northwest Justice Project](/org/northwest_justice_project/)
 * Deborah Wilson
 * Melissa Derry - Central Washington Legal Aid
-* Joe McDermott - State Relations Director | King County
-* Sarah Dickmeyer - Plymouth Housing
-* Jane Pak - Snohomish County Legal Services
+* Tom McGarry - [Northwest Justice Project](/org/northwest_justice_project/)
 * Ashe Tippins - Washington Low Income Housing Alliance
 * Lynn Kimball - Washington Association of Area Agencies on Aging
 * Tom McGarry
 * 💵Anna Nepomuceno - [Northwest Harvest](/org/northwest_harvest/)
+* Joe McDermott - State Relations Director | King County
+* Sarah Dickmeyer - Plymouth Housing
+* Jane Pak - Snohomish County Legal Services
 
 #### 39 👎 - Con
 Testifying:
 * Sheila Morley - [Family Impact Network](/org/family_impact_network/)
 * Jolynn Kenney - MENTOR Washington
+* 💵Carolanne Sanders - P.D.A.
+* Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
 * Bob Lindenhovius - WE THE PEOPLE   retired Veteran
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵Alyssa Odegaard - LeadingAge Washington
-* 💵Carolanne Sanders - P.D.A.
-* Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
 * Len Mc Comb - WASHINGTON STATE HOSPITAL ASOCIATION
 * Len McComb - Washington State Hospital Association
 * Tim Eyman - Initiative Activist
-* Manuel Navarro - Columbia Valley Community Health
-* Jodi Joyce - Unity Care NW
 * Paul Waddington - Ensign Services
 * Samiksha Mokashi - Avamere Rehabilitation of Issaquah
 * Holly Jangula - Caring Places Management
@@ -138,6 +135,8 @@ Testifying:
 * Joe Rudd - Alderwood Park Health and Rehabilitation of Cascadia
 * Erin Doss - Queen Anne Healthcare- Avamere
 * Tina Levasheff - Village at the Harbor Assisted Living
+* Manuel Navarro - Columbia Valley Community Health
+* Jodi Joyce - Unity Care NW
 * Chaim Wolmark - Caldera Care
 * Mauro Hernandez - Hearth and Truss
 
@@ -153,20 +152,20 @@ Testifying:
 * LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* John Lemus - AtWork! - Advocacy Manager
+* Kat Lohman - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Alex Motteler - Trillium
 * David Wilder - Chinook Enterprises
 * Jason Peterson - [Community Employment Alliance](/org/community_employment_alliance/)
-* John Lemus - AtWork! - Advocacy Manager
-* Kat Lohman - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Jaime Bodden - WSALPHO
 * Cathleen MacCaul - AARP Washington State
 * Linda Lauch - American Indian Community Center (AICC)
 * Patricia Castaneda - [Manzanita House](/org/manzanita_house/)
-* 💵Jaime Bodden - WSALPHO
-* 💵Shawn Latham - Self Advocates In Leadership
-* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Lee Che LEONG - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Alison Price - Rural Resources Victim Services
+* 💵Shawn Latham - Self Advocates In Leadership
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: K-12 public schools. (Remote Testimony Available).
 #### 6 👍 - Pro
@@ -197,11 +196,11 @@ Testifying:
 * Rick Chisa - Public School Employees of Washington (PSE)
 * 💵Melissa Gombosky - Association of Educational Service Districts - AESD
 * 💵Radu Smintina
+* Colleen Frerks - Quincy School District
+* Courtney McCoy - Royal High School
 * Matthew Yarkosky
 * Megan Dunn - Snohomish County, District 2
-* Colleen Frerks - Quincy School District
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
-* Courtney McCoy - Royal High School
 * 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Charlie Brown - South Sound Superintendents
 
@@ -216,16 +215,15 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Rashi Gupta
+* Rashi Gupta - UW Medicine
 
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: Natural resources. (Remote Testimony Available).
-#### 7 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Mike Peroni - [Northwest Agriculture Business Center](/org/northwest_agriculture_business_center/)
-* Krystyna Wolniakowski - Columbia River Gorge Commission
+* Krystyna Wolniakowski - Executive Director, Columbia River Gorge Commission
 * Dave Upthegrove - Office of the Commissioner of Public Lands, Department of Natural Resources
 * Daniel Whelan - Sustainable Northwest
-* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 24 👎 - Con
@@ -239,9 +237,10 @@ Testifying:
 * Christine Cooley - Executive Director, Puget Sound Clean Air Agency
 * Tony Usibelli - [Sierra Club](/org/sierra_club/)
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Carrie Nyssen - American Lung Association
-* Nello Picinich - Coastal Conservation Association
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Nello Picinich - Coastal Conservation Association
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Councilmember Kari McVeigh - [San Juan County](/org/san_juan_county/)

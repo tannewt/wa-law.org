@@ -21,9 +21,9 @@ Testifying:
 ### Fri 01/17 10:30 AM - Local Government (LG): HB 1054 County ferry contracts
 #### 51 👍 - Pro
 Testifying:
+* Robin sutton
 * Jani Hitchen - Pierce County Council
 * 💵Michael Shaw - [Pierce County](/org/pierce_county/)
-* Robin sutton
 * Yuki Hayashi
 * Jeremy Kamel - Anderson Island Citizens Advisory Board
 

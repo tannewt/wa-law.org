@@ -25,9 +25,9 @@ Testifying:
 
 #### 2793 👎 - Con
 Testifying:
-* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Jean Hill - Washington State Catholic Conference
 * Theresa Schrempp
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Anthony Holan
 * Mary Connerotn
 * Sharon Damoff

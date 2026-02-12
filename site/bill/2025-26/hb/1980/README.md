@@ -15,8 +15,8 @@ Testifying:
 * Kevin Wallace - Wallace Properties, Inc.
 * Matt Jack - Bellevue Downtown Association
 * Nikki Stuck - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
-* Mo Malakoutian - City of Bellevue Mayor
 * Jeremy Burdett - TransWest
+* Mo Malakoutian - City of Bellevue Mayor
 
 #### 2 👎 - Con
 
@@ -27,8 +27,8 @@ Testifying:
 Testifying:
 * Nikki Stuck - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Jared Nieuwenhuis - Councilmember, City of Bellevue
-* 💵Rose Feliciano - TechNet
 * Kelli Refer - Move Redmond
+* 💵Rose Feliciano - TechNet
 
 #### 1 👎 - Con
 Testifying:

@@ -49,17 +49,16 @@ Testifying:
 Testifying:
 * Cody Rohrbach - Spokane County Fire District 3
 * Matthew Vinci - Fire Chief, Spokane County Fire District 9
-* Ben James - IAFF local 876
-* Jason Fritz - Washington Chapter of APCO and NENA
 * Frank Soto Jr - Spokane Valley Fire Department
-* Nancy Bowcutt
 * John Guarisco - SVFD
 * Patrick Burch - Spokane Valley Fire Department
 * John Guarisco - Remax
 * Gregory Anderson - Spokane County Fire District 9
 * Gregory Anderson - Spokane County Fire District 9
-* Breann Kostelecky
+* Ben James - IAFF local 876
+* Jason Fritz - Washington Chapter of APCO and NENA
 * Raegan Hays - Spokane Regional Emergency Communications
+* Breann Kostelecky
 * Scott Tschirgi
 
 #### 0 ❓ - Other

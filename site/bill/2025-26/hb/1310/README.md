@@ -20,19 +20,14 @@
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Katie Young - Tacoma special education PTA
+* Angela Steck - President, Washington State PTA
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Julianna Dauble - Renton Education Association
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
-* Angela Steck - President, Washington State PTA
 * Justin McKaughan
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Veronica  (Roni) Cook - Special Education Teacher-Mukilteo
-* Casey McCallister
-* Levon Williams - Washington State School Directors' Association
-* Kate Davis - [Olympia School District](/org/olympia_school_district/)
-* Ayan Elmi - Washington Multicultural Services Link
 * Trevor Greene - Yakima School District
-* Dominique Nkamicaniye - Seattle
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
 * 💵Clifford Traisman - Highline and Northshore Public School Districts (Bellevue and Seattle as well)
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
@@ -40,6 +35,11 @@ Testifying:
 * Rob Bryant - CFO, Federal Way School District
 * Supt. Israel Vela - Superintendent, Kent School District
 * Jen Chong Jewell - Parent of a student receiving special education services
+* Casey McCallister
+* Levon Williams - Washington State School Directors' Association
+* Kate Davis - [Olympia School District](/org/olympia_school_district/)
+* Ayan Elmi - Washington Multicultural Services Link
+* Dominique Nkamicaniye - Seattle
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 * Charlie Brown - Tacoma, Clover Park and other South Sound Schools
 

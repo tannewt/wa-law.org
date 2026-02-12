@@ -18,38 +18,38 @@
 #### 1030 👍 - Pro
 Testifying:
 * 💵Christopher Rosenquist - Associated Students of Western Washington University
-* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Mckenna Beck - NRDC (Natural Resources Defense Council)
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Zach Baker - NW Energy Coalition
 * Ben Avery - [Sierra Club](/org/sierra_club/)
 * 💵Logan Bahr - Tacoma Power/Tacoma Public Utilities
 * Neal Anderson
-* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
-* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Stewart Henderson
 
 #### 167 👎 - Con
 Testifying:
 * Dan Diorio - Data Center Coalition
 * Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Patrick Haley - [City of Quincy](/org/city_of_quincy/)
 * 💵Nicolas Garcia - WPUDA
 * 💵Patrick Boss - [Port of Quincy](/org/port_of_quincy/)
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * 💵Michael Transue - Tacoma Pierce County Chamber
-* Patrick Haley - [City of Quincy](/org/city_of_quincy/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 19 ❓ - Other
 Testifying:
 * Emily Johnston
 * 💵Josie Cummings - Avista Corp.
+* Andy Wendell - Grant PUD
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Austin Scharff - Washington State Department of Commerce
 * Joel Creswell - Washington Department of Ecology
 * 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* Andy Wendell - Grant PUD
 * 💵Matt Miller
 * Ryan Collins - Snohomish PUD

@@ -10,7 +10,6 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6324 LEOFF 2/standby pay
 #### 17 👍 - Pro
 Testifying:
-* Jacob White - LEOFF 2 Board
 * Steve Nelsen - LEOFF 2 Board
 
 #### 2 👎 - Con

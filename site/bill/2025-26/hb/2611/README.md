@@ -18,16 +18,16 @@
 ### Tue 01/27 10:30 AM - Labor & Workplace Standards (LAWS): HB 2611 32 hour workweek
 #### 73 👍 - Pro
 Testifying:
+* Ashley Fueston - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Nestor Pelaez Guillen
 * Michael Berryhill
-* Ashley Fueston - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
 #### 1441 👎 - Con
 Testifying:
 * 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Carolyn Logue - Washington Food Industry Association and ABC Inland Pacific Chapter
 * 💵Scott Dilley - WAFLA
 * Shannon Oakley
-* 💵Carolyn Logue - Washington Food Industry Association and ABC Inland Pacific Chapter
 * 💵Morgan Irwin - AWB
 * Bre Elsey - WA Farm Bureau
 * Miriam Battson - Gig Harbor Chamber Of Commerce

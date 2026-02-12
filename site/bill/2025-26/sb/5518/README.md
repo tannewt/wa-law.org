@@ -13,9 +13,9 @@
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SB 5518 Sales tax sourcing impact
 #### 23 👍 - Pro
 Testifying:
-* Tahmina Martelly
 * Dana Ralph - City of Kent, Mayor
 * Satwinder Kaur - City of Kent, City Councilmember
+* Tahmina Martelly
 * Charlie Brown - Fred Meyer
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 

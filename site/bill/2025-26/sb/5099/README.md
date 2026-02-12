@@ -37,8 +37,8 @@ Testifying:
 * 💵Aoibheann Cline - NRA
 * kyle ivarra
 * Mark Crider - Walla Walla Sheriff's Office
-* Hiedi Mitchell - Sporting Systems
 * Sheriff Mark Crider - Walla Walla County Sheriff
+* Hiedi Mitchell - Sporting Systems
 * Sheriff Mark Crider (kry-der) - Walla Walla County Sheriff
 * 💵Troy Nichols - NSSF - National Shooting Sports Foundation
 * Dan Mitchell - WA Civil Rights Association

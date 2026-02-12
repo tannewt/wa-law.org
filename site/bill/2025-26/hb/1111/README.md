@@ -14,17 +14,17 @@
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1111 Early release petitions
 #### 167 👍 - Pro
 Testifying:
-* Katie Hurley - King County Department of Public Defense
 * Elisa Cozad - TeamChild
 * Caya Lenay - TVW's Capitol Classroom
 * Chris Ativalu-Ford - TVW's Capitol Classroom
 * Ron Ackerson Jr - TVW's Capitol Classroom
 * TJ Puller - TVW's Capitol Classroom
+* Katie Hurley - King County Department of Public Defense
+* Judge David Keenan - Washington State Minority and Justice Commission
+* Moses Mutel - TVW's Capitol Classroom
 * Alexis Hale - Justice for Girls Coalition
 * Lola Luna - Justice for Girls Coalition
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
-* Judge David Keenan - Washington State Minority and Justice Commission
-* Moses Mutel - TVW's Capitol Classroom
 * Rashida Robbins - TeamChild
 * Jacob Schmitt - Just Us Solutions
 * Marriam Oliver

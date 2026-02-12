@@ -29,8 +29,8 @@ Testifying:
 #### 5 👎 - Con
 Testifying:
 * Les Holm
+* Les Holm
 * Jeff Pack - Me
 * Jakob Perry - Washington Off-Highway Vehicle Alliance
-* Les Holm
 
 #### 0 ❓ - Other

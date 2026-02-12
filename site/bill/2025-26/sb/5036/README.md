@@ -30,8 +30,8 @@ Testifying:
 ### Thu 03/20 08:00 AM - Environment & Energy (ENVI): SB 5036 Statewide emissions data
 #### 71 👍 - Pro
 Testifying:
-* Keira Domer
 * Todd Myers - Washington Policy Center
+* Keira Domer
 * Tad Sommerville
 * Dakota Manley - Washington state young republicans
 

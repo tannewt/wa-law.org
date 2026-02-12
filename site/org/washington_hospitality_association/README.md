@@ -44,7 +44,7 @@
 * 👎💵 Julia Gorton
 
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎2 
-* 👎 Kerry Dolan
+* 👎💵 Kerry Dolan
 
 ### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
 * 👍 Sean DeWitz
@@ -161,7 +161,7 @@
 ### [HB 2218](/bill/2025-26/hb/2218/) - Workers' comp. medical care  👎1 
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments.   ❓1
-* ❓ Kerry Dolan
+* ❓💵 Kerry Dolan
 
 ### [HB 2243](/bill/2025-26/hb/2243/) - Including physical and occupational therapists as attending providers for workers' compensation.  👎1 
 
@@ -324,7 +324,7 @@
 ### [SB 5949](/bill/2025-26/sb/5949/) - Concerning taxes imposed on insurers operating within the state.  👎1 
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags   ❓1
-* ❓ Kerry Dolan
+* ❓💵 Kerry Dolan
 
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware 👍1  
 
@@ -355,16 +355,16 @@
 * 👎💵 Andrea Reay
 
 ### [SB 6174](/bill/2025-26/sb/6174/) - Textile producers  👎1 
-* 👎 Kerry Dolan
+* 👎💵 Kerry Dolan
 
 ### [SB 6178](/bill/2025-26/sb/6178/) - Prop. insurance assignments 👍1  
 
 ### [SB 6271](/bill/2025-26/sb/6271/) - Mattress producer resp.  👎1 
-* 👎 Kerry Dolan
+* 👎💵 Kerry Dolan
 
 ### [SB 6290](/bill/2025-26/sb/6290/) - Liquor and cannabis board 👍2  
-* 👍 Sean DeWitz
 * 👍💵 Sean Dewitz
+* 👍 Sean DeWitz
 
 ### [SB 6294](/bill/2025-26/sb/6294/) - Local government fund use  👎1 
 

@@ -15,10 +15,10 @@
 #### 84 👍 - Pro
 Testifying:
 * Angelita Cervantes - Community for Our Colleges
-* Brandon Elliott - Associated Students of the University of Washington
-* Clara Elhajj - Communities for Our Colleges
 * Reyna Gomez - Communities for Our Colleges
 * Arianna Rosales - Communities for Our College
+* Brandon Elliott - Associated Students of the University of Washington
+* Clara Elhajj - Communities for Our Colleges
 * Ali Maleki - graduate and professional student association of WSU pullman
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 * Randy Phillips - Washington Parenting Student

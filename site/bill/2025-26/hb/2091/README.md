@@ -10,6 +10,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202091)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 2091 Bargaining/employee info.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2091 Bargaining/employee info.
 #### 85 👍 - Pro
 Testifying:

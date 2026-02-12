@@ -31,14 +31,15 @@ Testifying:
 #### 146 👍 - Pro
 Testifying:
 * Heidi Hunt - County Auditors Association/Adams County Auditor
-* 💵Michael Shaw - Washington Association of County Officials (WACO)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Michael Shaw - Washington Association of County Officials (WACO)
 * 💵Conner Edwards - Professional Campaign Treasurer/CG Edwards PLLC
 * Heidi Hunt - Auditors Association/Adams County Auditor
 
-#### 275 👎 - Con
+#### 274 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
-* Laurie Layne
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Laurie Layne

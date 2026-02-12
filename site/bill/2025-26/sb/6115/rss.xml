@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6115/</link>
 		<description>Updates about SB 6115</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Jan 2026 12:05:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Jan 2026 00:05:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,44 +23,12 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill 6115</guid>
 		</item>
 		<item>
-			<title>👍Sarah Goodman - Association of Washington Business</title>
-			<description>Sarah Goodman signed up to testify Pro.</description>
-			<pubDate>Mon, 26 Jan 2026 01:28:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Sarah/Goodman/2026-01-26 01:28:13</guid>
-		</item>
-		<item>
-			<title>👍Hunter Goodman - Cancer Pathways</title>
-			<description>Hunter Goodman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cancer_pathways/"&gt;Cancer Pathways&lt;/a&gt;.</description>
-			<pubDate>Mon, 26 Jan 2026 04:06:39 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Hunter/Goodman/2026-01-26 04:06:39</guid>
-		</item>
-		<item>
-			<title>👍DARCY HUFFMAN - Cancer Pathways</title>
-			<description>DARCY HUFFMAN signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cancer_pathways/"&gt;Cancer Pathways&lt;/a&gt;.</description>
-			<pubDate>Mon, 26 Jan 2026 06:58:40 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/DARCY/HUFFMAN/2026-01-26 06:58:40</guid>
-		</item>
-		<item>
 			<title>👍Jana Mastrogiovanni - Cancer Pathways</title>
 			<description>Jana Mastrogiovanni signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cancer_pathways/"&gt;Cancer Pathways&lt;/a&gt;.</description>
 			<pubDate>Mon, 26 Jan 2026 08:11:48 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jana/Mastrogiovanni/2026-01-26 08:11:48</guid>
-		</item>
-		<item>
-			<title>👍Anna Gottlieb - I am the Founder and Executive Director of Cancer Pathways</title>
-			<description>Anna Gottlieb signed up to testify Pro. They are signed up to represent I am the Founder and Executive Director of Cancer Pathways.</description>
-			<pubDate>Mon, 26 Jan 2026 10:11:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Anna/Gottlieb/2026-01-26 10:11:13</guid>
 		</item>
 		<item>
 			<title>👍💵Michael Martin - Cancer Pathways</title>
@@ -71,12 +39,44 @@
 			<guid isPermaLink="false">testifier/Michael/Martin/2026-01-26 10:48:16</guid>
 		</item>
 		<item>
-			<title>👍Sedona Stewart - Cancer Pathways</title>
-			<description>Sedona Stewart signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cancer_pathways/"&gt;Cancer Pathways&lt;/a&gt;.</description>
-			<pubDate>Tue, 27 Jan 2026 12:05:07 GMT</pubDate>
+			<title>👍Sarah Goodman - Cancer Pathways</title>
+			<description>Sarah Goodman signed up to testify Pro.</description>
+			<pubDate>Mon, 26 Jan 2026 13:28:13 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Sedona/Stewart/2026-01-27 12:05:07</guid>
+			<guid isPermaLink="false">testifier/Sarah/Goodman/2026-01-26 13:28:13</guid>
+		</item>
+		<item>
+			<title>👍Hunter Goodman - Cancer Pathways</title>
+			<description>Hunter Goodman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cancer_pathways/"&gt;Cancer Pathways&lt;/a&gt;.</description>
+			<pubDate>Mon, 26 Jan 2026 16:06:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hunter/Goodman/2026-01-26 16:06:39</guid>
+		</item>
+		<item>
+			<title>👍DARCY HUFFMAN - Cancer Pathways</title>
+			<description>DARCY HUFFMAN signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cancer_pathways/"&gt;Cancer Pathways&lt;/a&gt;.</description>
+			<pubDate>Mon, 26 Jan 2026 18:58:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/DARCY/HUFFMAN/2026-01-26 18:58:40</guid>
+		</item>
+		<item>
+			<title>👍Anna Gottlieb - I am the Founder and Executive Director of Cancer Pathways</title>
+			<description>Anna Gottlieb signed up to testify Pro. They are signed up to represent I am the Founder and Executive Director of Cancer Pathways.</description>
+			<pubDate>Mon, 26 Jan 2026 22:11:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anna/Gottlieb/2026-01-26 22:11:13</guid>
+		</item>
+		<item>
+			<title>👍Sedona Stewart - Cancer Pathways</title>
+			<description>Sedona Stewart signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/cancer_pathways/"&gt;Cancer Pathways&lt;/a&gt;.</description>
+			<pubDate>Tue, 27 Jan 2026 00:05:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sedona/Stewart/2026-01-27 00:05:07</guid>
 		</item>
 	</channel>
 </rss>

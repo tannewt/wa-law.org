@@ -27,9 +27,9 @@ Testifying:
 Testifying:
 * Kim Justice - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
+* Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * 💵Daniel Lugo - YouthCare
 * 💵Samuel Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
-* Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Domonique Jackson-Russell
 
 #### 0 👎 - Con

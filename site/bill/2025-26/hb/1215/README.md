@@ -22,10 +22,10 @@ Testifying:
 
 #### 820 👎 - Con
 Testifying:
-* Sandra Brock
 * Sandra Mochizuki
-* TaraLyn Fray
+* Sandra Brock
 * Theresa Schrempp
+* TaraLyn Fray
 
 #### 2 ❓ - Other
 

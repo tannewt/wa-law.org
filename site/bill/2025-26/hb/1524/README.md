@@ -39,17 +39,17 @@ Testifying:
 
 #### 698 👎 - Con
 Testifying:
-* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * TaraLyn Fray
 * Anthony Holan
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other
 
 ### Wed 01/29 08:00 AM - Labor & Workplace Standards (LAWS): HB 1524 Isolated employees
 #### 17 👍 - Pro
 Testifying:
-* 💵Ellicott Dandy - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 * Ngoc Bich Nguyen - SEIU6
+* 💵Ellicott Dandy - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 * Matt Haney - SEIU6 Property Services NW
 * 💵Rose Gundersen - WA Retail Association
 

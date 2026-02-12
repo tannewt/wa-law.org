@@ -15,8 +15,8 @@
 Testifying:
 * Forrest Chesvick - Good Buzz Brewing Co.
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
-* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Jesse Lloyd - Veterans Journey Forward
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Brian Ballton
 * Joshua Hail
 

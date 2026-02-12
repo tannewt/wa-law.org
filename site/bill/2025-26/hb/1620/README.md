@@ -22,6 +22,7 @@
 ### Tue 03/18 08:00 AM - Law & Justice (LAW): ESHB 1620 Parenting plan limitations
 #### 576 👍 - Pro
 Testifying:
+* Dana Tingey
 * Brandon Williams - Brandon Williams PLLC, Family Law Attorney
 * Tamara Emerson - Concerned Citizen
 * Shira Cole - PAYES
@@ -34,7 +35,6 @@ Testifying:
 * Lindsey Laspisa - I am a mother
 * Evangline Stratton
 * Heidi Padilla - ??Justice4Nicolaas&Ashley??
-* Dana Tingey
 * Tina Swithin - One Mom's Battle
 * Kimberly Kerr
 * Amy Annette
@@ -43,36 +43,38 @@ Testifying:
 * Natalie Sullivan
 * Yash Joshi
 * Yash Joshi - A student
-* Cierra Ozolin
-* Karen Dawson
-* Chanel Wahidi
 * Pat Edmundson
 * Pat Edmundson
 * Jennifer Bloom
+* Cierra Ozolin
+* Karen Dawson
+* Chanel Wahidi
 * Angela Garcia-Leija
 * Jessica Ormond
 * Isabelle Latour - DV survivor mother
 * Liz Jeppesen
+* Danielle Pollack - National Family Violence Law Center at GW
+* Emma Cole
+* Viktoria Devai
 * Jane Briant - Justice4Nicolaas&Ashley
 * Maria Garcia
 * Hellen Alee
-* Danielle Pollack - National Family Violence Law Center at GW
-* Emma Cole
 * Jeanette Turner
 * Carolyn Carroll - Justice for Nicolaas and Ashley Padilla
-* Viktoria Devai
-* Julie Nee
 * Karah Dickson - Domestic Abuse Victim
+* Julie Nee
 
 #### 645 👎 - Con
 Testifying:
-* TaraLyn Fray
-* Jim Clark - National Parents Organization
 * Mary Welch - [Northwest Justice Project](/org/northwest_justice_project/)
 * Rael LaPenta - Mothers Against Child Abuse- MACA
-* Eric Coltrain - Coalition for Effective Family Courts
 * Sandra Mochizuki
+* TaraLyn Fray
+* Jim Clark - National Parents Organization
+* Eric Coltrain - Coalition for Effective Family Courts
+* Kyle Spencer
 * Debra Long - New Hope
+* Debbie Gonzalez - New Hope
 * Dana Raigrodski - Washington State Supreme Court Gender and Justice Commission
 * Karin White - WA State Coalition Against Domestic Violence
 * Monica Cary - Superior Court Judges' Association
@@ -84,35 +86,33 @@ Testifying:
 * Mary Welch - NW Justice Project
 * Sally Winn - YWCA Spokane
 * Dawn Sydney
-* Debbie Gonzalez - New Hope
 * Debbie Gonzalez Long - New Hope
 * Bogdan Lendel
 * Ilie Lupan
-* Kyle Spencer
 
 #### 8 ❓ - Other
 Testifying:
 * Kassidy Gee - Court Napping, Tanawah Downing, Court Fraud, Parents against CPS, CPS Corruption
 * Sean Kuhlmeyer
 * Erin Pease - VITAL Justice Project
-* Yash Joshi
 * LMFT, LCSW-R, Linda Gottlieb - Turning Points for Families
+* Yash Joshi
 
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1620 Parenting plan limitations
 #### 112 👍 - Pro
 Testifying:
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
-* Chandra Ifie - Survivor Parent
-* Madison Zack-Wu - Strippers Are Workers
 * Commissioner Barbara McInvaille - Superior Court Judges' Association
 * Judge Alicia Burton - Superior Court Judges' Association
 * Mary Welch - [Northwest Justice Project](/org/northwest_justice_project/)
 * Gaston Shelton
+* Chandra Ifie - Survivor Parent
+* Madison Zack-Wu - Strippers Are Workers
+* Grace Amos - DV Survivor
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * Karin White - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Amarinthia Torres - Coalition Ending Gender-Based Violence
 * Kristina Peterson
-* Grace Amos - DV Survivor
 
 #### 137 👎 - Con
 Testifying:
@@ -123,14 +123,14 @@ Testifying:
 * Tina Swithin - One Mom’s Battle
 * Kimberly Kerr
 * Christine Cocchiola
+* Melanie Kraintz
 * Shira Cole - One of the many survivors in the HB 2237/1620 workgroup all of which who were ignored - PAYES
 * Emily Farris
-* Melanie Kraintz
 * Heidi Padilla - For Ashley, & Nicolaas- my 17 yr old son who was killed escaping Domestic Violence in August 2024
+* LaRae Lobdell - LaRae Lobdell
 * Shannon Draughon - Carnation Legal, LLC
 * Chelsi Eastwood
 * Tanya Goodman
-* LaRae Lobdell - LaRae Lobdell
 * Chelsi Eastwood
 * Rebecca Dunn
 * Melissa Strawn
@@ -138,5 +138,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Em Stone - Department of Commerce
 * Patrick Rawnsley - WSBA Family Law Executive Committee
+* Em Stone - Department of Commerce

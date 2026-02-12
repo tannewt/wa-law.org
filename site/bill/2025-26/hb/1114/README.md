@@ -39,8 +39,8 @@ Testifying:
 ### Wed 01/15 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1114 Respiratory care compact
 #### 21 👍 - Pro
 Testifying:
-* 💵Emily Wittman - AWB
 * Elizabeth New - Washington Policy Center
+* 💵Emily Wittman - AWB
 * Miriam O'Day - American Association for Respiratory Care
 * Tammie Perreault - Department of Defense
 * John Moyer - MultiCare Health System

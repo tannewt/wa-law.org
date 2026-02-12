@@ -22,8 +22,8 @@
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5337 Memory care services
 #### 6 👍 - Pro
 Testifying:
-* Teresa Matthews
 * 💵Melanie Smith - Alzheimers Association
+* Teresa Matthews
 
 #### 0 👎 - Con
 
@@ -62,9 +62,9 @@ Testifying:
 #### 19 👍 - Pro
 Testifying:
 * Teresa Matthews
+* 💵Brad Forbes - Alzheimer's Association
 * 💵Joanna Grist - AARP
 * 💵Melanie Smith - WA State Long Term Care Ombuds Program
-* 💵Brad Forbes - Alzheimer's Association
 
 #### 0 👎 - Con
 

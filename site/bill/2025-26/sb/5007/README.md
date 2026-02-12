@@ -28,16 +28,16 @@ Testifying:
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5007 Chronically absent students
 #### 273 👍 - Pro
 Testifying:
+* Pete Peterson - Kiona-Benton City SD
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Shane Backland - Association of Educational Service Districts -  AESD
-* Pete Peterson - Kiona-Benton City SD
+* Dixie Grunenfelder - Office of Superintendent of Public Instruction
+* Mason Bryant
 * 💵Paula Sardinas - WBBA
 * Keith-Ann Campbell - [Big Brothers Big Sisters](/org/big_brothers_big_sisters/)
 * Will Durden - State Board for Community and Technical Colleges
 * Esperanza Ocegueda - Seneca Family of Agencies
 * Isabella Flores - State Board for Community and Technical Colleges (SBCTC)
-* Dixie Grunenfelder - Office of Superintendent of Public Instruction
-* Mason Bryant
 
 #### 1726 👎 - Con
 Testifying:

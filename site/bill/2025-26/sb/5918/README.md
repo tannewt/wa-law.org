@@ -21,25 +21,25 @@ Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Tori Emerson - President, Washington State PTA
 * Malorie Larson - Shoreline PTA
-* Jason Perrins - Chewelah SD
-* Lindsey Yocum - Lake Washington School District Board of Directors
-* Jay Tyus - Wilbur and Creston Cooperative School Districts
 * Ashley Murphy - WA Assoc of School Administrators (WASA) & WA Assoc. of School Business Officials
 * Brad Wilson - Lake Chelan School District
 * Jayna Muneta
 * Dr. Melissa Beard - Washington State School Directors' Association (WSSDA)
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Jason Perrins - Chewelah SD
+* Lindsey Yocum - Lake Washington School District Board of Directors
+* Jay Tyus - Wilbur and Creston Cooperative School Districts
 * 💵Mitch Denning - Alliance of Educational Associations
 * Travis Bown - WA Association of Maintenance and Operation Administrators
 * 💵Clifford Traisman - Seattle, Bellevue, Highline, and Northshore Public School Districts
 * Michelle Harris - Parent Advocate
-* Kim Doepker - Walla Walla Public Schools
-* 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
 * Courtney Stepp - Renton Education Association / WEA
-* Chitra Iyer - Washington State Association of School Psychologists (WSASP)
 * Eric Pickens - Washington Education Association & Sequim School Board
 * Steve Fisk - Odessa School District - Odessa, WA
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Kim Doepker - Walla Walla Public Schools
+* 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
+* Chitra Iyer - Washington State Association of School Psychologists (WSASP)
 * Charlie Brown - South Sound Superintendents and State Skills Centers
 * Rick Chisa - Public School Employees of Washington (PSE)
 

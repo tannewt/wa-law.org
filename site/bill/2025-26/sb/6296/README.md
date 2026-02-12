@@ -22,7 +22,6 @@ Testifying:
 
 #### 98 👎 - Con
 Testifying:
-* Laura Van Tosh
 * Devyn C
 * Ralph Casillas
 * Steven Pearce - Citizens Commission on Human Rights
@@ -39,10 +38,10 @@ Testifying:
 ### Mon 02/02 10:30 AM - Law & Justice (LAW): SB 6296 Involuntary treatment
 #### 12 👍 - Pro
 Testifying:
-* Andrea Pace
-* Jon Berner
 * Doug Reuter
 * Robert McCullough - Conquer Clinics
+* Andrea Pace
+* Jon Berner
 * Teri Hardy
 
 #### 28 👎 - Con
@@ -56,11 +55,11 @@ Testifying:
 
 #### 8 ❓ - Other
 Testifying:
-* Dr. Matthew Goldman - Chief Medical Officer, King County Behavioral Health and Recovery Division
 * Teesha Kirschbaum - Director, Division of Behavioral Health and Recovery at HCA
+* Dr. Matthew Goldman - Chief Medical Officer, King County Behavioral Health and Recovery Division
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Shawn O'Neill - Legislative Relations Manager, Washington State HCA
-* 💵Abby Moore - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
 * 💵Remy Kerr - Washington State Hospital Association
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
+* Shawn O'Neill - Legislative Relations Manager, Washington State HCA
+* 💵Abby Moore - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

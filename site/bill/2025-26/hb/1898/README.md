@@ -13,8 +13,8 @@ Testifying:
 * Brian Maiden
 * Justin McClenny
 * Todd Reiswig
-* 💵Caleb Gwerder - Washington Farm Bureau
 * Marty Hall - Columbia County Commissioner
+* 💵Caleb Gwerder - Washington Farm Bureau
 
 #### 1 👎 - Con
 

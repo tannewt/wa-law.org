@@ -16,8 +16,8 @@
 #### 9 👍 - Pro
 Testifying:
 * John Axtell
-* Brittany Ota-Malloy - [City of Seattle](/org/city_of_seattle/)
 * Jennifer Dellinger - SBCTC
+* Brittany Ota-Malloy - [City of Seattle](/org/city_of_seattle/)
 
 #### 432 👎 - Con
 Testifying:

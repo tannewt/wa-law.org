@@ -15,8 +15,8 @@
 Testifying:
 * Mikala Staples Hughes - Western Washington Agricultural Association
 * Ellen Bynum - Friends of Skagit County
-* Liza Simmonds
 * TaraLyn Fray
+* Liza Simmonds
 
 #### 2 ❓ - Other
 Testifying:
@@ -37,5 +37,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Hilary Jensen - Jensen Farms
 * Linda Hjelle - WA Association of County Assessors
+* Hilary Jensen - Jensen Farms

@@ -18,5 +18,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Sandy Kaiser - The Evergreen State College
 * Sam Ligon - Washington State Council of Faculty; Eastern Washington University Faculty Legislative Rep.
+* Sandy Kaiser - The Evergreen State College

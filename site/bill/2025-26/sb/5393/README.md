@@ -22,15 +22,6 @@
 ### Tue 04/22 09:00 AM - Appropriations (APP): SB 5393 Yakima & Rainier schools
 #### 196 👍 - Pro
 Testifying:
-* Alex Motteler - Trillium
-* David Wilder - Chinook Enterprises
-* Blake Duarte
-* craig sicilia
-* Krista Milhofer - People First of Washington
-* Robert Wardell
-* Tanika Aden - Advisor for People First of Washington
-* Kari Cunningham-Rosvik - Select...
-* Rusty Allphin - People First
 * John Lemus - AtWork-Advocacy Manager
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Scott Livengood - Alpha Supported Living Services
@@ -40,28 +31,37 @@ Testifying:
 * Krista Milhofer - People First of Washington
 * Eric Matthes
 * Taylor Crisp - Self Advocate Panel
+* Alex Motteler - Trillium
+* David Wilder - Chinook Enterprises
+* Blake Duarte
+* craig sicilia
+* Krista Milhofer - People First of Washington
+* Robert Wardell
+* Tanika Aden - Advisor for People First of Washington
+* Kari Cunningham-Rosvik - Select...
+* Rusty Allphin - People First
 
 #### 320 👎 - Con
 Testifying:
-* Roseann Bentley
-* John Hall
-* Colton Myers - co-guardian of RHC resident
-* William Bishop
-* Marcia Alspaugh
+* Steven Yates - Citizen
 * Terri Anderson - ACTION DD
-* Rex Harper
 * Becky Carter
 * Mark von Walter
 * Brittany Barber - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
-* DAVID ALWOOD - H2Oasis, Inc.
 * Sher Kirkpatrick
 * Micah Balasbas
 * Jeff Carter - Action DD
 * Joey Dormady
 * Mike Yestramski
 * Tazia Duncan
-* Steven Yates - Citizen
 * Willis McNabb - WFSE
+* Roseann Bentley
+* John Hall
+* Colton Myers - co-guardian of RHC resident
+* William Bishop
+* Marcia Alspaugh
+* Rex Harper
+* DAVID ALWOOD - H2Oasis, Inc.
 
 #### 2 ❓ - Other
 
@@ -71,21 +71,21 @@ Testifying:
 * 💵Shawn Latham - Serlf Advocates In Leadership
 * Kyle Matheson - Self Advocate
 * Julie Clark - Washington State Developmental Disabilities Council
-* Robert Wardell - self advocate
-* Robert Wardell - self advocate
 * Monica Meyer
+* Robert Wardell - self advocate
+* Robert Wardell - self advocate
 * Krista Milhofer - People First of Washington
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Christopher Strader - Region 3 Representative on the People First of Washington State Board
 * Kieran Chojnowski - State Board President of People First of Washington and person with a disability
 * Tanika Aden - State Board Advisor for People First of Washington
-* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
-* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
-* Elizabeth Johnston
 * 💵Corinna Fale - People first of Washington
 * Tracy Turner - Sail
 * Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
-* ARZU FOROUGH - Washington Autism Alliance
+* Elizabeth Johnston
 * Jennifer Maxwell
+* ARZU FOROUGH - Washington Autism Alliance
 * Michael Raymond - Former resident of Rainier School
 
 #### 499 👎 - Con

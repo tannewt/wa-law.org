@@ -17,11 +17,11 @@
 #### 540 👍 - Pro
 Testifying:
 * Nathaniel Hamm - LYAC
+* Julie Wise - King County Director of Elections
+* Linda Farmer - WSACA Legislative Co Chair
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Colton Hong - Legislative Youth Advisory Council
 * Emma Luce - Legislative Youth Advisory Council
-* Julie Wise - King County Director of Elections
-* Linda Farmer - WSACA Legislative Co Chair
 
 #### 297 👎 - Con
 

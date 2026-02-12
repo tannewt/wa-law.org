@@ -18,6 +18,8 @@
 
 ### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists  👎1 
 
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
+
 ## [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care   ❓1
 
 ## 2023-24

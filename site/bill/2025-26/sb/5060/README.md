@@ -25,11 +25,11 @@
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SSB 5060 Law enforcement personnel
 #### 105 👍 - Pro
 Testifying:
+* Rod Higgins - Councilmember, City of Spokane Valley
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Rod Higgins - Councilmember, City of Spokane Valley
-* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Mayor Christine Frizzell - Mayor, City of Lynnwood
 * Nathan Olson - Office of the Governor
@@ -44,12 +44,12 @@ Testifying:
 ### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5060 Law enf. hiring grants
 #### 104 👍 - Pro
 Testifying:
-* Rod Higgins - Councilmember, City of Spokane Valley
 * Salim Nice
+* Rod Higgins - Councilmember, City of Spokane Valley
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
-* Alex MacBain - [City of Tacoma](/org/city_of_tacoma/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Alex MacBain - [City of Tacoma](/org/city_of_tacoma/)
 * Nathan Olson - Office of the Governor
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

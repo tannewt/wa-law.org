@@ -27,22 +27,22 @@ Testifying:
 * Sadie Haag
 * Teah Bosworth
 * Jai Jaisimha - Transparency Coalition.ai
-* Adam Eitmann - Washington State Office of the Attorney General
 * Taku Mineshita - Office of Governor Bob Ferguson
+* Adam Eitmann - Washington State Office of the Attorney General
 * 💵Reid Saaris - [Children's Alliance](/org/children's_alliance/)
 * Adam Cappio - Transparency Coalition
 
 #### 1771 👎 - Con
 Testifying:
 * TaraLyn Fray
-* Rosemarie Dorn - concerned citizen
+* Jayson Reimer
 * Amy Bos - NetChoice
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
+* Rosemarie Dorn - concerned citizen
 * 💵Rose Feliciano - TechNet
 * 💵Morgan Irwin - AWB
 * Rexine Bennett
-* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Evan Randall
-* Jayson Reimer
 * Jennifer Hanley - Meta
 * Amanda McKinney - Yakima County Commissioner
 
@@ -56,13 +56,13 @@ Testifying:
 * Nichol braboy
 * Matthew Huang
 * Jiadong Gu
+* Jai Jaisimha - Transparency Coalition.ai
 * Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 * 💵Reid Saaris
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 * Laura Marquez-Garrett - The Social Media Victims Law Center
 * Taj Jensen
 * Taku Mineshita - Office of Governor Bob Ferguson
-* Jai Jaisimha - Transparency Coalition.ai
 
 #### 6 👎 - Con
 Testifying:

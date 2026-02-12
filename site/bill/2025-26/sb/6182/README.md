@@ -22,8 +22,8 @@ Testifying:
 
 #### 977 👎 - Con
 Testifying:
-* Anthony Mixer - Citizen Volunteer Lobbyist
 * 💵Jean Hill - Washington State Catholic Conference
+* Anthony Mixer - Citizen Volunteer Lobbyist
 * Jeannie Magdua - Conservative Ladies of America
 
 #### 3 ❓ - Other
@@ -70,11 +70,11 @@ Testifying:
 #### 1279 👎 - Con
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
-* Raquel Mendoza
 * Theresa Schrempp
+* Raquel Mendoza
+* Eric Lundberg
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jessica Casca
-* Eric Lundberg
 * Sharon Damoff
 * Jennifer Child
 

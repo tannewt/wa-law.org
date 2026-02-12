@@ -23,30 +23,6 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Agriculture &amp; Natural Resources.</guid>
 		</item>
 		<item>
-			<title>👎PHD, Susan Kane-Ronning - Washington Sierra Club</title>
-			<description>PHD, Susan Kane-Ronning signed up to testify Con. They are signed up to represent Washington Sierra Club.</description>
-			<pubDate>Thu, 15 Jan 2026 02:16:24 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/PHD, Susan/Kane-Ronning/2026-01-15 02:16:24</guid>
-		</item>
-		<item>
-			<title>👍Zach Bogatz - Office Of Homeless Youth Advisory Committee</title>
-			<description>Zach Bogatz signed up to testify Pro.</description>
-			<pubDate>Thu, 15 Jan 2026 04:08:29 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Zach/Bogatz/2026-01-15 04:08:29</guid>
-		</item>
-		<item>
-			<title>👍Jeremy Brock - Office Of Homeless Youth Advisory Committee</title>
-			<description>Jeremy Brock signed up to testify Pro.</description>
-			<pubDate>Thu, 15 Jan 2026 09:32:01 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Jeremy/Brock/2026-01-15 09:32:01</guid>
-		</item>
-		<item>
 			<title>👍don peaker - DPeak Appraisal</title>
 			<description>don peaker signed up to testify Pro. They are signed up to represent DPeak Appraisal.</description>
 			<pubDate>Thu, 15 Jan 2026 10:06:47 GMT</pubDate>
@@ -63,20 +39,28 @@
 			<guid isPermaLink="false">testifier/Francisco/Santiago-Ávila/2026-01-15 10:44:47</guid>
 		</item>
 		<item>
-			<title>👎Timothy Coleman - Washington Wildlife First</title>
-			<description>Timothy Coleman signed up to testify Con.</description>
-			<pubDate>Fri, 16 Jan 2026 03:40:26 GMT</pubDate>
+			<title>👎PHD, Susan Kane-Ronning - Washington Sierra Club</title>
+			<description>PHD, Susan Kane-Ronning signed up to testify Con. They are signed up to represent Washington Sierra Club.</description>
+			<pubDate>Thu, 15 Jan 2026 14:16:24 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Timothy/Coleman/2026-01-16 03:40:26</guid>
+			<guid isPermaLink="false">testifier/PHD, Susan/Kane-Ronning/2026-01-15 14:16:24</guid>
 		</item>
 		<item>
-			<title>👎Liz Carr - Kettle Range Conservation Group</title>
-			<description>Liz Carr signed up to testify Con. They are signed up to represent Kettle Range Conservation Group.</description>
-			<pubDate>Fri, 16 Jan 2026 06:01:57 GMT</pubDate>
+			<title>👍Zach Bogatz - DPeak Appraisal</title>
+			<description>Zach Bogatz signed up to testify Pro.</description>
+			<pubDate>Thu, 15 Jan 2026 16:08:29 GMT</pubDate>
 			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Liz/Carr/2026-01-16 06:01:57</guid>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Zach/Bogatz/2026-01-15 16:08:29</guid>
+		</item>
+		<item>
+			<title>👍Jeremy Brock - DPeak Appraisal</title>
+			<description>Jeremy Brock signed up to testify Pro.</description>
+			<pubDate>Thu, 15 Jan 2026 21:32:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeremy/Brock/2026-01-15 21:32:01</guid>
 		</item>
 		<item>
 			<title>👎Ronald Reed - Independent Citizen</title>
@@ -87,12 +71,20 @@
 			<guid isPermaLink="false">testifier/Ronald/Reed/2026-01-16 11:50:18</guid>
 		</item>
 		<item>
-			<title>❓Mick Cope - WDFW</title>
-			<description>Mick Cope signed up to testify Other. They are signed up to represent WDFW.</description>
-			<pubDate>Sat, 17 Jan 2026 01:59:40 GMT</pubDate>
+			<title>👎Timothy Coleman - Independent Citizen</title>
+			<description>Timothy Coleman signed up to testify Con.</description>
+			<pubDate>Fri, 16 Jan 2026 15:40:26 GMT</pubDate>
 			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Mick/Cope/2026-01-17 01:59:40</guid>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Timothy/Coleman/2026-01-16 15:40:26</guid>
+		</item>
+		<item>
+			<title>👎Liz Carr - Kettle Range Conservation Group</title>
+			<description>Liz Carr signed up to testify Con. They are signed up to represent Kettle Range Conservation Group.</description>
+			<pubDate>Fri, 16 Jan 2026 18:01:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Liz/Carr/2026-01-16 18:01:57</guid>
 		</item>
 		<item>
 			<title>❓Pam Lewison - Ag Research Director for Washington Policy Center</title>
@@ -103,6 +95,14 @@
 			<guid isPermaLink="false">testifier/Pam/Lewison/2026-01-17 08:57:33</guid>
 		</item>
 		<item>
+			<title>❓Mick Cope - WDFW</title>
+			<description>Mick Cope signed up to testify Other. They are signed up to represent WDFW.</description>
+			<pubDate>Sat, 17 Jan 2026 13:59:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mick/Cope/2026-01-17 13:59:40</guid>
+		</item>
+		<item>
 			<title>👎💵Stephanie Hillman - Humane World for Animals</title>
 			<description>Stephanie Hillman signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/humane_world_for_animals/"&gt;Humane World for Animals&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 19 Jan 2026 07:32:44 GMT</pubDate>
@@ -111,7 +111,7 @@
 			<guid isPermaLink="false">testifier/Stephanie/Hillman/2026-01-19 07:32:44</guid>
 		</item>
 		<item>
-			<title>❓Edward Boyer - Ag Research Director for Washington Policy Center</title>
+			<title>❓Edward Boyer - WDFW</title>
 			<description>Edward Boyer signed up to testify Other.</description>
 			<pubDate>Mon, 19 Jan 2026 07:51:38 GMT</pubDate>
 			<category>testifier</category>

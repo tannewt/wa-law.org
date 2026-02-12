@@ -19,22 +19,22 @@ Testifying:
 * Joe Kunzler
 * Jode Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Sarah Clark - Seattle Metropolitan Chamber of Commerce
-* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Sarah Clark - Seattle Metro Chamber
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Geoff Anderson - AIAWA (American Institute of Architects WA Council)
 * Barb Wilson - [Microsoft](/org/microsoft/)
 * 💵Bill Clarke - Washington REALTORS
 * 💵Morgan Irwin - Association of WA Business
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Angela Rozmyn - Natural and Built Environments
 * Alex Harrington - NAIOP Washington State
-* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
-* Geoff Anderson - AIAWA (American Institute of Architects WA Council)
 * 💵John Traynor - washington state labor council, afl-cio
 * Lars Erickson - Seattle Metro Chamber
 
-#### 644 👎 - Con
+#### 643 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Sarah Cho - [City of Lynnwood](/org/city_of_lynnwood/)

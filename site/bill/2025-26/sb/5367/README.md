@@ -12,12 +12,12 @@
 #### 20 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Bervin Smith - Police Community Engagement Senior Manager, City of Tacoma Police Department
 * Dana Ralph - Mayor, City of Kent
 * Rafael Padilla - Police Chief, City of Kent
 * Andy Grove - Assistant Police Chief, City of Kent
 * Janelle Hawes - UW Tacoma
 * Medard Ngueita - World Relief
+* Bervin Smith - Police Community Engagement Senior Manager, City of Tacoma Police Department
 
 #### 19 👎 - Con
 

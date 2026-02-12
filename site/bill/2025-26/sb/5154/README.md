@@ -10,11 +10,11 @@
 ### Thu 01/23 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5154 County auditor duties
 #### 25 👍 - Pro
 Testifying:
+* Barry Halverson
+* Jon Pettit - citizen
 * Heidi Hunt - Adams County Auditor/WSACA
 * Skip Moore - Chelan County Auditor
 * Steve Duenkel - Mason County Auditor
-* Barry Halverson
-* Jon Pettit - citizen
 
 #### 5 👎 - Con
 Testifying:

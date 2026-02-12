@@ -35,18 +35,18 @@ Testifying:
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): SB 5463 Industrial insurance/duties
 #### 172 👍 - Pro
 Testifying:
-* Christina Bayaniyan - [Sheet Metal Workers Local 66](/org/sheet_metal_workers_local_66/)
-* Chris Shepard
 * April Frazier - SEIU Healthcare 1199NW
 * Brian Wright - Washington State Association for Justice
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * Rondi Thorp - Washington State Association for Justice
+* Christina Bayaniyan - [Sheet Metal Workers Local 66](/org/sheet_metal_workers_local_66/)
+* Chris Shepard
 
 #### 169 👎 - Con
 Testifying:
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Christine Brewer - [Washington Self Insurers Association](/org/washington_self_insurers_association/)
 * Teresa Sanders
-* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Anthony Holan
 
 #### 0 ❓ - Other

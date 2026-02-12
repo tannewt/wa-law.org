@@ -40,13 +40,13 @@ Testifying:
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* TaraLyn Fray
 * 💵Christine Brewer - AGC
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Morgan Irwin - AWB
-* TaraLyn Fray
-* 💵Amber Carter - WA Retail Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Sandra Mochizuki
+* 💵Amber Carter - WA Retail Association
 
 #### 3 ❓ - Other
 Testifying:
@@ -65,10 +65,10 @@ Testifying:
 
 #### 1132 👎 - Con
 Testifying:
-* 💵Patrick Connor - NFIB
-* 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 * Andra Mobley - A & J Market
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Patrick Connor - NFIB
+* 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 * 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
 * Sandra Mochizuki
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -115,9 +115,9 @@ Testifying:
 * Fortune Pestarino - Retired
 * Robin Pestarino - Retired
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Tammie Hetrick - Washington Food Industry Association
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* 💵Tammie Hetrick - Washington Food Industry Association
 
 #### 1 ❓ - Other

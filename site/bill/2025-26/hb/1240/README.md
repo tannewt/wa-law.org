@@ -18,12 +18,12 @@ Testifying:
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * Zachary Jaffe
 * Karina O'Malley
+* Graham Pruss - Executive Director; National Vehicle Residency Collective
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Allison Hill
-* Graham Pruss - Executive Director; National Vehicle Residency Collective
-* Derek Boiko-Weyrauch
 * Will Aronin - [Institute for Justice](/org/institute_for_justice/)
 * Jessica Puckett
+* Derek Boiko-Weyrauch
 * 💵Daniel Lugo
 * Karen Phillips - [Northwest Justice Project](/org/northwest_justice_project/)
 

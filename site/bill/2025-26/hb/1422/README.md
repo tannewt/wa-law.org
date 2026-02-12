@@ -45,8 +45,8 @@ Testifying:
 #### 17 👎 - Con
 Testifying:
 * Michael VanWinkle - Executive Director, MED-Project Washington
-* Michael VanWinkle - MED-Project WA LLC
 * Ann Bailey - Inmar Rx Solutions, Inc.
+* Michael VanWinkle - MED-Project WA LLC
 
 #### 1 ❓ - Other
 Testifying:

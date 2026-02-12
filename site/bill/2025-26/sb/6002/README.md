@@ -37,15 +37,31 @@
 * 01/06/2026 [Senate Democrats](/org/senate_democrats/) - [Bill introduced to regulate ‘Flock’ automatic license plate reader cameras - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/06/bill-introduced-to-regulate-flock-automatic-license-plate-reader-cameras/#:~:text=SB%206002)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 6002 Driver privacy
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 1 ❓ - Other
+
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6002 Driver privacy
-#### 2148 👍 - Pro
+#### 2149 👍 - Pro
 Testifying:
 * Loi Lumala - Latinos en Spokane
 * 💵Anita Yandle - Policing Project at NYU School of Law
+* 💵Scott Nelson - Office of the Washington State Auditor
 * Heather Kelly - Washington Defender Association / Washington Association of Criminal Defense Lawyers
 * Jonathan Pincus - The Nexus of Privacy
-* 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Nickeia Hunter - Wa coalition for Police Accountability
+* Patrick Stickney - WA Office of Equity
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
+* Jim Leighty - Wa Coalition for Police Accountability
+* 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Nickeia Hunter - Wa coalition for Police Accountability
 * Sonia Joseph - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Jevan Hutson
@@ -61,11 +77,7 @@ Testifying:
 * 💵Rebekah Gardea - QLaw Foundation of Washington
 * Anusha Nasrulai
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
-* Patrick Stickney - WA Office of Equity
-* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
-* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
-* Jim Leighty - Wa Coalition for Police Accountability
 
 #### 315 👎 - Con
 Testifying:
@@ -75,19 +87,18 @@ Testifying:
 * Dmitry Kravchinsky
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 20 ❓ - Other
+#### 19 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Melissa Beard - Council of Presidents
-* 💵Scott Nelson - Office of the Washington State Auditor
 * Angela Birney - Mayor, City of Redmond
+* Andy Caldwell - Centralia Police Department
 * Robert Goetz - Everett Police Department
 * Kam Simmons - Flock Safety
-* Andy Caldwell - Centralia Police Department
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Darrell Lowe - City of Redmond Police Chief
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters
 * 💵Rowland Thompson - Verra Mobility
-* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Dana Ralph - Mayor/City of Kent
 * Maya Morales - WA People's Privacy

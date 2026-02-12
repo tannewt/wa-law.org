@@ -33,16 +33,16 @@ Testifying:
 * David Nelson - Communities for Our College
 * Susan Wilson - AFT Washington
 * Michael Panitz
+* Sanika Kabbur
 * 💵John Burbank
 * 💵Nathan Tippmann - Geoduck Student Union
 * 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * 💵Collin Bannister - The Washington Student Association
 * Terrell Stalworth - Associated Students of Tacoma Community College
-* Sanika Kabbur
 
 #### 109 👎 - Con
 Testifying:
-* 💵Rose Feliciano - TechNet
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Rose Feliciano - TechNet
 
 #### 0 ❓ - Other

@@ -22,8 +22,8 @@
 ### Thu 01/30 04:00 PM - Appropriations (APP): HB 1357 Special education funding
 #### 123 👍 - Pro
 Testifying:
-* Monique Dugaw - ESD 112 Region
 * 💵Jeff Snell - Vancouver Public Schools - Vancouver, WA
+* Monique Dugaw - ESD 112 Region
 * Trevor Greene - Yakima School District
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * Mike Stewart - [Boyer Children's Clinic](/org/boyer_children's_clinic/)

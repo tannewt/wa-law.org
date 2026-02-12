@@ -16,8 +16,8 @@
 ### Sat 04/05 09:00 AM - Appropriations (APP): HB 2020 Payment card processing/tax
 #### 7 👍 - Pro
 Testifying:
-* DENNY ELIASON - FISERV
 * Kimberly Ford - Fiserv
+* DENNY ELIASON - FISERV
 
 #### 172 👎 - Con
 

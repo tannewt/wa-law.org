@@ -25,12 +25,13 @@ Testifying:
 
 #### 394 👎 - Con
 Testifying:
-* Elpidia Saavedra - Mayor of the City of Toppenish
-* Rob Putaansuu - City of Port Orchard, Mayor
 * Jeff Niten - City Manager; City of Mountlake Terrace
-* 💵Marie Sullivan - [Public Works Board](/org/public_works_board/)
 * Chris Collins - [City of Longview](/org/city_of_longview/)
 * Erin Leonhart - City of Bothell Public Works Director
+* Elpidia Saavedra - Mayor of the City of Toppenish
+* Rob Putaansuu - City of Port Orchard, Mayor
+* 💵Marie Sullivan - [Public Works Board](/org/public_works_board/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Kyoko Matsumoto Wright - City of Mountlake Terrace Mayor
 * Chris Collins - [City of Longview](/org/city_of_longview/)
 * 💵Bill Clarke - WA PUD Association
@@ -38,7 +39,6 @@ Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 2 ❓ - Other
 Testifying:

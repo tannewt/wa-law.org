@@ -11,6 +11,9 @@
 ### Mon 01/26 10:30 AM - Labor & Commerce (LC): SB 6195 Cannabis oversupply
 #### 54 👍 - Pro
 Testifying:
+* BRANDON PARK - DLH Ranch
+* Bethany Rondeaux - Olympus Horticulture LLC
+* Jeffrey McCoy - 1937 Farms - Operator
 * Eric Gaston
 * Shea Hynes - Lux Pot Shop
 * Jerina Pillert - WCLA
@@ -23,9 +26,6 @@ Testifying:
 * Shawn DeNae Wagenseller - Washington Bud Company
 * WILLIAM WAGENSELLER - Washington Bud Company
 * Joe Pearce - Sound Cannabis
-* BRANDON PARK - DLH Ranch
-* Bethany Rondeaux - Olympus Horticulture LLC
-* Jeffrey McCoy - 1937 Farms - Operator
 * Lo Luebke
 * Aaron Wilson
 * 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
@@ -39,5 +39,5 @@ Testifying:
 Testifying:
 * John Worthington
 * 💵Vicki Christophersen - Washington CannaBusiness Association
-* Caitlein Ryan - THE CANNABIS ALLIANCE
 * Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
+* Caitlein Ryan - THE CANNABIS ALLIANCE

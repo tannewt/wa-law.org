@@ -11,6 +11,7 @@
 #### 19 👍 - Pro
 Testifying:
 * Everett Maroon - Blue Mountain Heart to Heart
+* Sarah Ann Harris Hamilton - The More We love
 * Joseph Lachman - PDA
 * Fe LopezGaetke - Purpose Dignity Action (formerly Public Defender Association)
 * Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
@@ -22,7 +23,6 @@ Testifying:
 * 💵Lisa Daugaard - Purpose Dignity Action (PDA)
 * SarahAnn Hamilton - The More We Love
 * 💵Mauricio Ayon - Pacific County Voices Uniting
-* Sarah Ann Harris Hamilton - The More We love
 * 💵Donna Christensen - [Catholic Community Services](/org/catholic_community_services/)
 
 #### 2 👎 - Con

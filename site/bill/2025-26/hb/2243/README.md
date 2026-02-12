@@ -17,8 +17,8 @@ Testifying:
 * Susanne Michaud - APTA Washington
 * Leah Manarelli - APTA Washington
 * Josh Cobbley - Convivio Health
-* Payton Walling - Summit Rehabilitation Associates
 * Daniel Beeman - PhysioWorks
+* Payton Walling - Summit Rehabilitation Associates
 
 #### 80 👎 - Con
 Testifying:

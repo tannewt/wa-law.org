@@ -58,7 +58,7 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Rolando Rodriguez - Green Roads Cannabis
 * Caitlein Ryan - CAITLEIN RYAN
+* Rolando Rodriguez - Green Roads Cannabis
 * Micah Sherman
 * Jessica Pichardo - Canna Luz

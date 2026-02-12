@@ -14,11 +14,11 @@
 ### Mon 02/03 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5474 Organic, etc. agriculture
 #### 1123 👍 - Pro
 Testifying:
-* Sandra Shipley
 * Charles Benbrook - Benbrook Consulting Services
+* Sandra Shipley
 * Kristen Pirillo
-* Ruby Valla
 * Maynard Mallonee - Mallonee Family Farm Llc
+* Ruby Valla
 * Charles Benbrook - Self; Benbrook Consulting Services
 * Mike Dill - Coalition for Organic and Regenerative Agriculture (CORA)
 * Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)

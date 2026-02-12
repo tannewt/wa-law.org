@@ -35,13 +35,13 @@ Testifying:
 
 #### 16 👎 - Con
 Testifying:
+* Cameron Killberg - [Swimply](/org/swimply/)
+* 💵Nick Streuli - [WA Realtors](/org/washington_association_of_realtors/)
 * Jordan Pitre - Executive Director, Evergreen Chapter CMAA
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Chester Baldwin - Manufactured Housing Communities of WA (MHCW)
 * 💵Vicki Christophersen - TechNet
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
-* Cameron Killberg - [Swimply](/org/swimply/)
-* 💵Nick Streuli - [WA Realtors](/org/washington_association_of_realtors/)
 
 #### 3 ❓ - Other
 Testifying:

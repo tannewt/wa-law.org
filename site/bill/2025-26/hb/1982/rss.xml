@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1982/</link>
 		<description>Updates about HB 1982</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -41,18 +41,18 @@
 		<item>
 			<title>❓Dr. Joseph Robertson - Washington State Office of Public Defense</title>
 			<description>Dr. Joseph Robertson signed up to testify Other. They are signed up to represent Washington State Office of Public Defense.</description>
-			<pubDate>Sun, 11 Jan 2026 03:37:58 GMT</pubDate>
+			<pubDate>Sun, 11 Jan 2026 15:37:58 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Dr. Joseph/Robertson/2026-01-11 03:37:58</guid>
+			<guid isPermaLink="false">testifier/Dr. Joseph/Robertson/2026-01-11 15:37:58</guid>
 		</item>
 		<item>
 			<title>👍Chairman, Kris Peters - Squaxin Island Tribe</title>
 			<description>Chairman, Kris Peters signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/squaxin_island_tribe/"&gt;Squaxin Island Tribe&lt;/a&gt;.</description>
-			<pubDate>Sun, 11 Jan 2026 05:10:34 GMT</pubDate>
+			<pubDate>Sun, 11 Jan 2026 17:10:34 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Chairman, Kris/Peters/2026-01-11 05:10:34</guid>
+			<guid isPermaLink="false">testifier/Chairman, Kris/Peters/2026-01-11 17:10:34</guid>
 		</item>
 		<item>
 			<title>By resolution, reintroduced and retained in present status.</title>
@@ -140,6 +140,13 @@
 			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

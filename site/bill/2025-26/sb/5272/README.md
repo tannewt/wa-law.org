@@ -12,6 +12,15 @@
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205272)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5272 School safety/penalties
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5272 School safety/penalties
 #### 61 👍 - Pro
 Testifying:

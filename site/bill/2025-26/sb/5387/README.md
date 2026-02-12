@@ -21,10 +21,10 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): 2SSB 5387 Corp practice of health care
 #### 363 👍 - Pro
 Testifying:
-* 💵Patrick Connor - NFIB
-* John Sobeck - Health Care for All-WA
 * Ming Lin - Coalition for patient centered care
 * Nico Janssen - Office of the Insurance Commissioner
+* 💵Patrick Connor - NFIB
+* John Sobeck - Health Care for All-WA
 * Andre Stackhouse - Whole Washington
 * Justin Gill - Washington State Nurses Association (WSNA)
 * Nancy Connolly
@@ -35,18 +35,18 @@ Testifying:
 #### 227 👎 - Con
 Testifying:
 * John Schuler
+* 💵Kevin Schilling - Washington State Dental Association
 * MD, John Schuler - [Compass Oncology](/org/compass_oncology/)
 * Dr. Steve Pollei - RAYUS Radiology
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Shayna Lemke - Jefferson Healthcare
-* 💵Kevin Schilling - Washington State Dental Association
 * MD, Rodney Joe - Gastro Health Olympia
 * 💵Vicki Christophersen - Washington Independent Physician Practice Association
 * MD, Lori Marshall - Pacific NW Fertility
 * MD, Steven Kaptik - Washington Gastroenterology
-* 💵Brooke Davies
 * Dr. Erika Walker - [Sound Physicians](/org/sound_physicians/)
 * 💵Marissa Ingalls - Assoc of WA Healthcare Plans
+* 💵Brooke Davies
 
 #### 2 ❓ - Other
 Testifying:
@@ -80,9 +80,9 @@ Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * MD, Kay Funk
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
-* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Sulan Mlynarek - SEIU Healthcare 1199NW
 * Debra Glasser
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 5 👎 - Con
 Testifying:
@@ -90,11 +90,11 @@ Testifying:
 
 #### 16 ❓ - Other
 Testifying:
+* Dr. Jarrod Durkee - Medical Scanning Consultants, PA (MSCPA)
 * Eingun James Song - Frontier Dermatologu
 * MD, Steven Kaptik - Washington Gastroenterology
 * Rodney Joe - Practice GastroHealth - Olympia
 * MD, Julia Lamb - Pacific NW Fertility and IVF Specialists/ IVY Fertility
-* Dr. Jarrod Durkee - Medical Scanning Consultants, PA (MSCPA)
 * Chris Knapp - MultiCare
 * Dr. Arooj Simmonds - Providence
 * Dr. Shayna Lemke - Jefferson Healthcare

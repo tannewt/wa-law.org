@@ -11,25 +11,26 @@
 #### 620 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - Washington State Association of County Planning Directors
-* Ayla Williams - Washington State Young Republicans
 * Ron Perkerewicz - Inspection & Permit Services
 * Gregor Doerr - Washington State Young Republicans
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Ayla Williams - Washington State Young Republicans
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* 💵Krystelle Purkey - Commercial Real Estate Development Association (formerly NAIOPWA)
-* Timothy Dalton - Clallam County Housing Director
-* Mike Mike Nykreim
 * Jason Krum - City of Auburn
 * Kristi Tripple - Rowley Properties, Inc.
 * Madeleine Pelson
 * Chris Ochoa - CBIA
 * 💵Ken Short - Association of Washington Business (AWB)
+* 💵Krystelle Purkey - Commercial Real Estate Development Association (formerly NAIOPWA)
+* Timothy Dalton - Clallam County Housing Director
+* Mike Mike Nykreim
 * Denise Lones
 
 #### 512 👎 - Con
 Testifying:
 * Darren Schwend - ASHRAE
 * 💵Bryan Imai - International Code Council
+* David Kokot - Washington State Association of Fire Marshals
 * Brittany Porter - American Institute of Architects Washington Council (AIAWA)
 * Kate Tudor - Natural Resources Defense Council
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
@@ -37,7 +38,6 @@ Testifying:
 * Deepa Sivarajan - [Climate Solutions](/org/climate_solutions/)
 * Kerry Meade - Building Potential
 * Tim Woodard - [Washington Association of Building Officials](/org/washington_association_of_building_officials/)
-* David Kokot - Washington State Association of Fire Marshals
 * Christopher Bresee - National Electrical Manufacturers Association
 * Michael Stone - NEMA - National Electrical Manufacturers Assoc.
 * Bonny Jo Peterson - Industrial Hemp Association of WA

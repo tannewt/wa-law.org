@@ -10,9 +10,9 @@
 ### Fri 01/17 08:00 AM - Consumer Protection & Business (CPB): HB 1067 Cannabis/dept of agriculture
 #### 34 👍 - Pro
 Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
-* Caitlein Ryan - THE CANNABIS ALLIANCE
 * Micah Sherman
 
 #### 4 👎 - Con

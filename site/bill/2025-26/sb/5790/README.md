@@ -29,10 +29,10 @@ Testifying:
 * Suzanne Southerland - Clark College Association of Higher Edu., Washington Education Association
 * Sandra Mochizuki
 * Tina Cabrera
-* Betsy Norton
 * Rachel Dorn - AFT Yakima
 * Jennifer Hoene - AFT-WA
 * TaraLyn Fray
 * Jackie Franklin - Comm. College of Spokane AHE/Washington Education Association
+* Betsy Norton
 
 #### 0 ❓ - Other

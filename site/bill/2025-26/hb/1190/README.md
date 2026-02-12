@@ -20,9 +20,9 @@ Testifying:
 ### Wed 01/22 01:30 PM - Health Care & Wellness (HCW): HB 1190 UW health sciences library
 #### 110 👍 - Pro
 Testifying:
-* Chloe Stanage
 * Patricia Devine - HEALWA
 * CMHS, NCC, Shannon Thompson LMHC - Washington Mental Health Counselor Association
+* Chloe Stanage
 * Mark Davis
 
 #### 1 👎 - Con

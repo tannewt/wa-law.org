@@ -15,13 +15,16 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2332 Driver privacy
-#### 1869 👍 - Pro
+#### 1870 👍 - Pro
 Testifying:
 * 💵Anita Yandle - Policing Project at NYU School of Law
+* 💵Scott Nelson - Office of the Washington State Auditor
 * Niles Wilson - Center for Policing Equity
-* Kristiana de Leon
 * William Cotter
+* Kristiana de Leon
 * Jonathan Pincus - The Nexus of Privacy
+* Patrick Stickney - WA Office of Equity
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Jevan Hutson
 * 💵Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
@@ -34,8 +37,6 @@ Testifying:
 * Kelly Vomacka - Washington Defender Association, Washington Association of Criminal Defense Lawyers
 * Anusha Nasrulai
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
-* Patrick Stickney - WA Office of Equity
-* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 #### 313 👎 - Con
 Testifying:
@@ -44,20 +45,19 @@ Testifying:
 * 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 18 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Melissa Beard - Council of Presidents
-* 💵Scott Nelson - Office of the Washington State Auditor
 * Angela Birney - Mayor, City of Redmond
-* Kam Simmons - Flock Safety
 * Andy Caldwell - Centralia Police Department
+* Kam Simmons - Flock Safety
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Robert Goetz - Everett Police Department
 * Darrell Lowe - City of Redmond Police Chielf
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters
 * 💵Rowland Thompson - Verra Mobility
-* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Dana Ralph - Mayor/City of Kent
 * 💵Michael Shaw - King County Metro
 * Maya Morales - WA People's Privacy

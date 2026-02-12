@@ -22,19 +22,19 @@
 Testifying:
 * Erin Gagnon - DTG Recycle
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Kelsey Hulse - EPR Leadership Forum
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Kelsey Hulse - EPR Leadership Forum
 
 #### 686 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
+* Brian Coddington - Sunshine Disposal & Recycling
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Holly Chisas - [Consumer Brands Association](/org/consumer_brands_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Rick Vahl - Waste Connections
 * 💵Samantha Louderback - The Washington Hospitality Association
 * 💵Jennifer Ziegler - Sanitary Service Company
-* Brian Coddington - Sunshine Disposal & Recycling
-* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 4 ❓ - Other
@@ -50,6 +50,9 @@ Testifying:
 * Reed Hampton
 * Alex Truelove - Biodegradable Products Institute
 * Brian Pontious - Ingevity
+* Allison Kustic - Association of Plastic Recyclers (APR)
+* 💵Andrew Hackman - AMERIPEN
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Anne McEnerny-Ogle - [City of Vancouver](/org/city_of_vancouver/)
 * 💵Carl Schroeder - Association of WA Cities
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
@@ -59,9 +62,6 @@ Testifying:
 * 💵Peter Steelquist - Surfrider Foundation Washington
 * Scott DeFife - Glass Packaging Institute
 * caitlin kogler
-* Allison Kustic - Association of Plastic Recyclers (APR)
-* 💵Andrew Hackman - AMERIPEN
-* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Erin Gagnon - DTG Recycling
 * Michael Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
 * Michael Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
@@ -72,14 +72,14 @@ Testifying:
 
 #### 60 👎 - Con
 Testifying:
-* Rick Vahl - Waste Connections
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
-* Michael Connors - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
-* 💵Scott Hazlegrove - WA Beer & Wine Distributors' Association
-* 💵Lyset Cadena - WM (Waste Management)
+* Rick Vahl - Waste Connections
 * 💵Jay Balasbas - Basin Disposal
 * Brian Coddington - Sunshine Disposal and Recycling
 * Ted Carlson - Sanitary Service Company
+* Michael Connors - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors' Association
+* 💵Lyset Cadena - WM (Waste Management)
 * 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
@@ -89,5 +89,5 @@ Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Brandon Houskeeper - NW Grocery Retail Assoc.
-* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
 * John Richard - Flexible Packaging Association
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)

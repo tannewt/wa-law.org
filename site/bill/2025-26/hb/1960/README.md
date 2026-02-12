@@ -20,9 +20,9 @@ Testifying:
 
 #### 146 👎 - Con
 Testifying:
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
 * 💵Jay Balasbas - PacifiCorp
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
 
 #### 2 ❓ - Other
 Testifying:
@@ -33,8 +33,8 @@ Testifying:
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Lily Storbeck - [The Nature Conservancy](/org/the_nature_conservancy/)
-* Jackie Brunson - Washington State Association of County Treasurers
 * Mike Hougardy - Kittitas County Assessor
+* Jackie Brunson - Washington State Association of County Treasurers
 * 💵Travis Dutton - Association of Washington Counties
 
 #### 167 👎 - Con
@@ -48,8 +48,8 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Steve Ewing - Dept. of Revenue
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 ### Thu 02/27 09:00 AM - Appropriations (APP): HB 1960 Renewable energy
 #### 10 👍 - Pro
@@ -69,10 +69,10 @@ Testifying:
 #### 14 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Joshua Rubenstein - [The Nature Conservancy](/org/the_nature_conservancy/)
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Joshua Rubenstein - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 #### 102 👎 - Con
 Testifying:

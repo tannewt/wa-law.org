@@ -43,8 +43,10 @@ Testifying:
 Testifying:
 * Robert Chaddock
 * Arezoo Holdaway
-* David Chi
 * Andrew Kim
+* Arne Gundersen
+* 💵Rose Gundersen
+* Ellen McBride Lowe - N/A
 * 💵Chester Baldwin - WSDA
 * Kjersten Otterholt - WSDA
 * Mamiko Kuriya - WSDA
@@ -54,9 +56,6 @@ Testifying:
 * Brittany Dean - WSDA
 * John Gibbons - WSDA
 * 💵Kevin Schilling - WSDA
-* Arne Gundersen
-* 💵Rose Gundersen
-* Ellen McBride Lowe - N/A
 
 #### 258 👎 - Con
 Testifying:

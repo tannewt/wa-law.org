@@ -16,12 +16,12 @@
 Testifying:
 * 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
 * Commissioner Amber Waldref - [Spokane County](/org/spokane_county/)
+* 💵Paul Dillon - Spokane City Councilmember
 * David Aga
 * Erin Belt
 * Samantha Knix
 * Katherine Derrick
 * India Lopez
-* 💵Paul Dillon - Spokane City Councilmember
 
 #### 751 👎 - Con
 

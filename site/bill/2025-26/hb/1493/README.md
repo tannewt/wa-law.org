@@ -12,11 +12,11 @@
 Testifying:
 * Becky Bisbee
 * Malik flint - Atworkwa
+* John Lemus
+* Cathy Murahashi - The Arc of Washington
 * Sydney Krebsbach
 * Blake Duarte
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
-* John Lemus
-* Cathy Murahashi - The Arc of Washington
 * Nancy Slotnick - Parent
 
 #### 6 👎 - Con

@@ -11,6 +11,17 @@
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201002)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 1002 PTSD/coroners & examiners
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Timothy Grisham - WASHINGTON ASSOCIATION OF COUNTY OFFICIALS
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1002 PTSD/coroners & examiners
 #### 85 👍 - Pro
 Testifying:

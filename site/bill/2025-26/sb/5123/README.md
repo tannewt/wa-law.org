@@ -49,9 +49,9 @@ Testifying:
 * Julie Dowell
 * David Dowell
 * Kendall Harrison
-* Ruphina Nord - Washington State Young Republicans
 * TaraLyn Fray
 * Sandra Mochizuki
+* Ruphina Nord - Washington State Young Republicans
 * Khushdip Brar
 
 #### 1 ❓ - Other
@@ -101,13 +101,7 @@ Testifying:
 * Lisa Sweet
 * Ann-Scott Ettinger
 * John Birnel
-* Mary Raine
-* Nancy Holcomb
-* Catie Light
-* Mary Lou Johnson
-* Barbara Anderson - 4655 ne 89th street
 * Martha Cetina
-* Margaret Nelson-Low
 * Ethan Bergman - Grace Episcopal Church
 * Marsha Stipe
 * Joan Nelson
@@ -119,14 +113,21 @@ Testifying:
 * Jean Harris
 * Jameson Varpness
 * Mickey Beary - retired
+* Mary Raine
+* Nancy Holcomb
+* Catie Light
+* Mary Lou Johnson
+* Barbara Anderson - 4655 ne 89th street
+* Margaret Nelson-Low
+* Amy Compestine
+* Alexis Gamber
+* Deborah Maranville
 * Amy Cannava - Washington State Association of School Psychologists
 * Martha Nichols - FAN
 * Kathleen Morefield
 * Dan Novogrodsky
 * Darla Austerman
-* Alexis Gamber
-* Deborah Maranville
-* Amy Compestine
+* 💵Kristin Ang - Faith Action Network (FAN)
 * June Thomasson
 * Eugene Oliver
 * Kevin Glackin-Coley
@@ -135,7 +136,6 @@ Testifying:
 * Michaelyn Olson
 * Bryan-Virgil Raiz
 * Judy LeBlanc
-* 💵Kristin Ang - Faith Action Network (FAN)
 * April Hall
 
 #### 2058 👎 - Con
@@ -144,11 +144,11 @@ Testifying:
 * Jennifer Heine-Withee - FPIW Action
 * JAMES Derouin jr - self
 * Dawn Land - Reject 5599
+* Sandra Mochizuki
 * Matthew Jackmond - A long time WA Resident and a very concerned taxpayer!
 * Sharon Damoff
 * Sandra Brock
 * Jan Smith
-* Sandra Mochizuki
 * TaraLyn Fray
 * Anthony Mixer - Washington State Young Republicans
 * Amanda Bush
@@ -175,20 +175,20 @@ Testifying:
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Felicia Walker
 * Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
+* Amy Cannava - Washington State Association of School Psychologists
 * Emily Carmichael
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
 * Megan Roseman
-* Amy Cannava - Washington State Association of School Psychologists
 * Alexis Janson
 
 #### 1281 👎 - Con
 Testifying:
-* Khushdip Brar - School board director
 * Jennifer Heine-Withee
-* Agata Bergstrom
+* Khushdip Brar - School board director
 * Tonya Hickman - Lynden School Board
+* Agata Bergstrom
 * Trish Huddleston - School Board Director
-* Sarah Garriott
 * Dawn Land - Reject 5599
+* Sarah Garriott
 
 #### 1 ❓ - Other

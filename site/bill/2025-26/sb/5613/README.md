@@ -27,8 +27,6 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Curtis Steinhauer - Washington Association of Counties
 
 ### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5613 Residential development
@@ -52,10 +50,10 @@ Testifying:
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5613 Residential development
 #### 194 👍 - Pro
 Testifying:
-* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
-* Dylan Sluder - Master Builders Association of King and Snohomish Counties
 * Ezra Hammer
 * Jamie Howsley - jordan ramis
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Dylan Sluder - Master Builders Association of King and Snohomish Counties
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)

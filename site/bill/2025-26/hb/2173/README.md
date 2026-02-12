@@ -21,15 +21,15 @@
 ### Tue 01/13 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2173 Law enf. face coverings
 #### 2824 👍 - Pro
 Testifying:
+* Steve Albrecht
+* Nathan Olson - Governor's Office
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Lydia Zepeda
 * Caitlin Konya - City of SeaTac, Councilmember
 * 💵Kristin Ang - Faith Action Network (FAN)
-* Steve Albrecht
-* Nathan Olson - Governor's Office
+* Kristin Wall
 * Preston Dwoskin
 * Mercedes Gonzalez
-* Kristin Wall
 
 #### 291 👎 - Con
 Testifying:

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5286 State hospitals/police costs
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SB 5286 State hospitals/police costs
 #### 5 👍 - Pro
 Testifying:
@@ -22,8 +31,8 @@ Testifying:
 ### Tue 01/28 08:00 AM - Law & Justice (LAW): SB 5286 State hospitals/police costs
 #### 5 👍 - Pro
 Testifying:
-* Terri Cooper - Mayor of City of Medical Lake
 * Captain Chris Westby - [City of Lakewood](/org/city_of_lakewood/)
+* Terri Cooper - Mayor of City of Medical Lake
 * Inspector Justin Lundgren - Spokane County Sheriff's Office
 
 #### 0 👎 - Con

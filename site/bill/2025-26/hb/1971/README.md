@@ -28,24 +28,24 @@
 Testifying:
 * Alexis Janson
 * Carrie Lancaster
-* Mac Stein
 * Lisa Matthews
 * Randi Miller
-* Susan Tuzzolino
+* Mac Stein
 * Jenna Comstock - QLaw Association
 * MARY SCHWARTZ
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Susan Tuzzolino
 * Dr. Cora Bruener - WA Chapter of the American Academy of Pediatrics
 
 #### 2151 👎 - Con
 Testifying:
 * Gabriel Jacobs
-* Sandra Mochizuki
 * Kendall Harrison
 * David Dowell
 * Julie Dowell
-* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * TaraLyn Fray
+* Sandra Mochizuki
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other
 
@@ -53,12 +53,18 @@ Testifying:
 #### 1357 👍 - Pro
 Testifying:
 * Tela Hogle
-* Fernanda Grether Zdanowsky
 * Jenna Comstock - QLAW Association
 * Erik Janson - Planned Parenthood Great Northwest
+* Fernanda Grether Zdanowsky
 * Amasai Jeke - UTOPIA Washington
 * Aspen Coyle
 * Zoë Schirmer
+* Syzygy Blankenship - Self
+* Jaycee Stephens
+* Halle Aaby
+* Noah Peterson
+* Blake Burgess
+* Caroline Gibney - 1849 91st ave sw
 * Calvin Bedner
 * Amanda Sprynczynatyk
 * Isabelle Edwards
@@ -71,12 +77,6 @@ Testifying:
 * Jordan Bachman-Whitman
 * Winter Gacusana
 * Courtney Miner
-* Syzygy Blankenship - Self
-* Jaycee Stephens
-* Halle Aaby
-* Noah Peterson
-* Blake Burgess
-* Caroline Gibney - 1849 91st ave sw
 * Georgia Schnepf
 * Cora Bruener - WA Chapter of the American Academy of Pediatrics
 * Nathan Paul

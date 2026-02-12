@@ -37,11 +37,11 @@ Testifying:
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1085 School safety/penalties
 #### 103 👍 - Pro
 Testifying:
-* Cindy McMullen - Washington State School Directors' Association
 * ROBERT WEST
-* Peyton Coffin - Northwest Baseball Umpires Association -- 150 members
+* Cindy McMullen - Washington State School Directors' Association
 * Jeff Mattson
 * Cameron Dunlap
+* Peyton Coffin - Northwest Baseball Umpires Association -- 150 members
 * suzanne ornstein
 * Pamela Birgenheier
 * Hugh Birgenheier - Western Washington Wrestling Officials Assoy

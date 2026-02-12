@@ -20,17 +20,17 @@ Testifying:
 #### 661 👎 - Con
 Testifying:
 * Dusty Hoerler - Craftsman Plumbing
-* TaraLyn Fray
-* Josh Brower - Ballard Cycle Track Coalition
 * 💵Jay Jennings - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
 * dave gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
+* TaraLyn Fray
+* Josh Brower - Ballard Cycle Track Coalition
+* Eugene Wasserman - North Seattle Industrial Association
+* 💵Jay Jennings - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
 * Ronald Sullivan - Salmon Bay Sand & Gravel Co, Inc
 * Sandra Mochizuki
 * Robert Loe - I am a member of the Pacific Fishermen Shipyard board of directors
 * Scott Anderson - CSR Marine
 * Sandra Brock
-* Eugene Wasserman - North Seattle Industrial Association
-* 💵Jay Jennings - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
 * 💵Tony Sermonti - Operating Engineers Local 302
 
 #### 1 ❓ - Other

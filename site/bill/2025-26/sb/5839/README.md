@@ -11,8 +11,8 @@
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5839 County ferry districts
 #### 8 👍 - Pro
 Testifying:
-* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Elizabeth Kosa
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Councilmember Kalee Galloway - Whatcom County
 
 #### 5 👎 - Con

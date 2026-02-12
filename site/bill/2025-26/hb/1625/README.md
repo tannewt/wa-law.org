@@ -15,9 +15,9 @@ Testifying:
 * Maria Boyko
 * Michael Gapper
 * Savyo Farias
+* Summer Scheyer - Skamania County Sheriff's Office
 * Kent Krumpschmidt - Skamania County Sheriff's Office Search and Rescue
 * Sarah Perry
-* Summer Scheyer - Skamania County Sheriff's Office
 
 #### 0 👎 - Con
 

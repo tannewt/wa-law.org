@@ -31,10 +31,10 @@ Testifying:
 * Angelia Maxie
 * Heather Boysen
 * Erin Hayden - Learning Care Group
-* Sapna Rampersaud - [Early Care and Education Consortium](/org/early_care_and_education_consortium/)
-* 💵David Foster
 * 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 * Jenna McKenzie - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
+* Sapna Rampersaud - [Early Care and Education Consortium](/org/early_care_and_education_consortium/)
+* 💵David Foster
 
 #### 9 ❓ - Other
 
@@ -54,8 +54,8 @@ Testifying:
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
-* Loni Simone
 * Asenith M Herbert Hill
+* Loni Simone
 
 #### 2 ❓ - Other
 Testifying:

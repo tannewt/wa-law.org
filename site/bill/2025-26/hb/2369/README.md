@@ -21,12 +21,12 @@ Testifying:
 * Ridley Crump
 * Preston Tucker - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
-* jeremy vrablik - Cascadia Produce
-* Leanne Eko - Office of Superintendent of Public Instruction
 * 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potatoe and Onion Assoc.
 * Kendra Dean - Northeast Washington Educational Service District 101
 * Rebecca 'Rey' Cooley - Washington Farm to School Network
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* jeremy vrablik - Cascadia Produce
+* Leanne Eko - Office of Superintendent of Public Instruction
 
 #### 64 👎 - Con
 

@@ -15,20 +15,20 @@
 Testifying:
 * Ryan Spurling - Mason County Sheriff
 * Fred Thomas - Wa coalition for police accountability
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Clay Myers - Kittitas County Sheriff's Office
-* Mark Crider - Sheriff Walla Walla County, President Washington State Sheriff's Association
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Bob Aroyan
+* Mark Crider - Sheriff Walla Walla County, President Washington State Sheriff's Association
 
 #### 2496 👎 - Con
 Testifying:
+* Karen Peacey - League of Women Voters of WA
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Amy McColm
 * Michael McIntyre - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Fred Thomas - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
-* Karen Peacey - League of Women Voters of WA
 * Liz Moore - Peace and Justice Action League of Spokane
 * 💵Jazmyn Clark - ACLU of Washington
 * Tim Eyman - Initiative Activist

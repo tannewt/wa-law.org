@@ -18,6 +18,7 @@ Testifying:
 
 #### 712 👎 - Con
 Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 * Barbara Posthumus - Lake Washington School District
 * Megan Larkin - Washington State PTA
 * Carli Schiffner - Grays Harbor College
@@ -27,7 +28,6 @@ Testifying:
 * Joyce Loveday - Clover Park Technical College
 * Justin Guillory - Whatcom Community College
 * Teresa Rich - Yakima Valley College
-* Tyler Muench - Office of Superintendent of Public Instruction
 * Owen Sharp
 * Ruffaro Guzha - Washington's State Board for Community and Technical Colleges
 * Bria Bodenman
@@ -37,11 +37,11 @@ Testifying:
 * Pedro Lopez
 * Kevin Kildun - Clover Park Technical College
 * Robert Maxwell - Superintendent Pullman Public Schools
-* 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
-* Jim Kowalkowski - Rural Education Center
 * Lori Christmas - Grays Harbor College
 * Ronin Wachter
 * Chris Arizabal-Jackson
+* 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Jim Kowalkowski - Rural Education Center
 * Evan Banal
 * Tiffany Lam
 

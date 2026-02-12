@@ -18,12 +18,12 @@
 
 #### 225 👎 - Con
 Testifying:
-* Evan Price
 * Jack Moriarty - Lafayette Square Institute
-* Rachel Merfalen - Good Future
 * Brian Boland
 * Steven Storkan - Employee Ownership Expansion Network
 * Patricia Kwan - Washington Center for Employee Ownership
+* Evan Price
+* Rachel Merfalen - Good Future
 * 💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce
 * Steve Brum - [Recology](/org/recology/)
 * Tyler Rivera - Project Equity
@@ -38,16 +38,16 @@ Testifying:
 
 #### 173 👎 - Con
 Testifying:
-* Nikita Agarwal
 * Jack Moriarty - Lafayette Square Institute
 * Steve Storkan - Employee Ownership Expansion Network
+* Nikita Agarwal
 * John McNamara - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * West Foster
+* Shevanthi Daniel - Democracy at Work Institute (DAWI)
+* Patricia Kwan
 * Paulette LaDouceur - Capital Homecare Cooperative
 * Beth Davidow - Timberline Veterinary Emergency and Specialty
 * JOYCE OSWALD - WWU Small Business Development Center
-* Shevanthi Daniel - Democracy at Work Institute (DAWI)
-* Patricia Kwan
 * 💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce
 * Evan Price - Former Buisness owner who transitioned to Cooperative Structure
 

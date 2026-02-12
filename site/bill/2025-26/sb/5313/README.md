@@ -38,10 +38,10 @@ Testifying:
 
 #### 100 👎 - Con
 Testifying:
+* Rich Stein - Valet Living
 * Dave Haldi - Credit Gnomes Inc.
 * Brian Lucas
-* Rich Stein - Valet Living
-* Alexander Akins - InSite Property Solutions
 * Carter Nelson - Washington Multi-Family Housing Association
+* Alexander Akins - InSite Property Solutions
 
 #### 1 ❓ - Other

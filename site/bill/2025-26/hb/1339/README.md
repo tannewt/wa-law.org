@@ -17,8 +17,8 @@
 #### 469 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
-* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * 💵Ron Davis
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Lisa Rivera
 
 #### 1592 👎 - Con
@@ -51,11 +51,11 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * 💵Conner Edwards - Professional Campaign Treasurer / CG Edwards PLLC
 * Anthony Mixer - Conservative Advocate
-* Laurie Layne
 * john worthington
-* Tad Sommerville
 * Sam Reed - Retired Secretary of State
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Laurie Layne
+* Tad Sommerville
 * L!nda Bassett
 * Joe Kunzler
 

@@ -16,9 +16,9 @@ Testifying:
 * Ann Leichleiter - Boys & Girls Clubs of the Columbia Basin
 * Andrew Lyons
 * Gary Berndt
+* Matthew Lundh - Mayor, City of Cle Elum
 * Claire Nicholls - Upper Kittitas County Community Recreation Center Alliance 501c3
 * 💵Josh Weiss - [City of Ellensburg](/org/city_of_ellensburg/)
-* Matthew Lundh - Mayor, City of Cle Elum
 
 #### 4 👎 - Con
 
@@ -56,8 +56,8 @@ Testifying:
 * Matthew Lundh
 * Paul Kantwill
 * Andrew Lyons
-* 💵Josh Weiss - [City of Ellensburg](/org/city_of_ellensburg/)
 * Ann Leichleiter - Boys & Girls Clubs of the Columbia Basin
+* 💵Josh Weiss - [City of Ellensburg](/org/city_of_ellensburg/)
 
 #### 0 👎 - Con
 

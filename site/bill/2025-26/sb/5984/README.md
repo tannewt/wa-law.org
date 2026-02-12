@@ -20,24 +20,24 @@
 ### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 5984 AI companion chatbots
 #### 232 👍 - Pro
 Testifying:
+* Damica Noble - Washington State PTA
+* Aaron Ping
 * Jackson Munko
 * Laura Marquez-Garrett - The Social Media Victims Law Center
 * Beau Perschbacher - Governor's Office
 * Katie Davis
 * Kristin Bride - Executive Director, The Carson Bride Effect
-* Damica Noble - Washington State PTA
 * Danica Noble - Washington State PTA
-* Aaron Ping
 * Lori Schott - Parents Rise
 * Jai Jaisimha - Transparency Coalition.ai
+* Katy Ruckle - WaTech
 * Nick Fielden - Washington State Attorney General's Office
 * Kelly Stonelake
-* Katy Ruckle - WaTech
 
 #### 481 👎 - Con
 Testifying:
-* Jeannie Magdua - Conservative Ladies of America
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Jeannie Magdua - Conservative Ladies of America
 * John Coleman - Foundation for Individual Rights and Expression
 * Kevin Frazier - The Abundance Institute
 

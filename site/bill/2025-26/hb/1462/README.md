@@ -29,8 +29,8 @@ Testifying:
 #### 848 👎 - Con
 Testifying:
 * TaraLyn Fray
-* 💵Mark Streuli - Washington Potato and Onion Association
 * Sandra Mochizuki
+* 💵Mark Streuli - Washington Potato and Onion Association
 
 #### 3 ❓ - Other
 Testifying:
@@ -49,11 +49,11 @@ Testifying:
 
 #### 692 👎 - Con
 Testifying:
-* TaraLyn Fray
 * Sandra Mochizuki
 * Ronald Mochizuki
-* Teresa Sanders
+* TaraLyn Fray
 * Blaine Meek - Washington Potato and Onion Association
+* Teresa Sanders
 * Anthony Holan
 
 #### 3 ❓ - Other
@@ -93,9 +93,9 @@ Testifying:
 
 #### 8 ❓ - Other
 Testifying:
-* Mike Connors - Washington Potato and Onion Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Carolyn Logue - Washington Air Conditioning Contractors Association
+* Mike Connors - Washington Potato and Onion Association
 * Joel Creswell - Washington State Department of Ecology
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington

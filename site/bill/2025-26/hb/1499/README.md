@@ -13,15 +13,15 @@
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Aaron Delaney
-* Carissa Abbott
-* Jacob Kuykendall - Tulalip Office of Civil Legal Aid
-* Zachary Jaffe
-* 💵Myle Tang - Stand for Children Washington
 * Gus Patel-Tupper
 * Cassia Hershenow - [Civil Survival](/org/civil_survival/)
 * lisa giap
 * 💵Emily Vyhnanek - Washington State Budget and Policy Center
 * Maureen McKee
+* Carissa Abbott
+* Jacob Kuykendall - Tulalip Office of Civil Legal Aid
+* Zachary Jaffe
+* 💵Myle Tang - Stand for Children Washington
 
 #### 15 👎 - Con
 

@@ -15,10 +15,10 @@ Testifying:
 * Ariana Will - American Massage Therapy Association-WA Chapter
 * 💵Leslie Emerick - AMTA-WA, WAEMA, HCAW, WSPMA
 * Romi Epstein - WA Acupunture and Eastern Medicine Association (WAEMA)
-* 💵Sean Graham - Washington State Medical Assocation (WSMA)
-* Kendra Holloway - Washington Speech-Language-Hearing Association
 * Soma Smith - WSPMA
 * Robert Hovancsek - Robert Hovancsek, DPM
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* Kendra Holloway - Washington Speech-Language-Hearing Association
 
 #### 7 👎 - Con
 Testifying:

@@ -31,11 +31,11 @@ Testifying:
 #### 752 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Sandra Mochizuki
 * 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Jennifer Ziegler - Sanitary Service Company
-* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* Sandra Mochizuki
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Brian Coddington - Sunshine Disposal
 
@@ -74,16 +74,16 @@ Testifying:
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Jeff O'Neal - White Salmon Harvest Market
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* 💵Lyset Cadena - WM (Waste Management)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Lyset Cadena - WM (Waste Management)
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Rick Vahl - Waste Connections
 
 #### 6 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * Patrick Stickney - WA Office of Equity
-* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)

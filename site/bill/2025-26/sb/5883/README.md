@@ -12,10 +12,10 @@
 Testifying:
 * Cedar Compher
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
-* Robin Gossett
 * Peter Henry
 * Brandon Schweke
 * 💵Erin Haick - SEIU 925
+* Robin Gossett
 
 #### 11 👎 - Con
 Testifying:

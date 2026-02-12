@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5865 Garnishment forms
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5865 Garnishment forms
 #### 10 👍 - Pro
 Testifying:

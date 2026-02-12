@@ -14,8 +14,8 @@
 ### Tue 01/20 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2102 Legal financial obligations
 #### 258 👍 - Pro
 Testifying:
-* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Jacob Kuykendall
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * 💵Marcy Bowers - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Gus Patel-Tupper
 * 💵Kristin Ang - Faith Action Network (FAN)

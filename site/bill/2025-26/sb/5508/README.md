@@ -14,9 +14,9 @@
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5508 Child welfare housing assist
 #### 264 👍 - Pro
 Testifying:
-* Jason Bragg
 * Kim Justice - Partners for Our Children
 * Jennifer Justice
+* Jason Bragg
 
 #### 651 👎 - Con
 Testifying:
@@ -28,10 +28,10 @@ Testifying:
 #### 77 👍 - Pro
 Testifying:
 * Michael Mirra - Assoc. of Wash. Housing Authorities; Admin. Office of the Courts Comm. on Housing & Child Welfare
-* Jennifer Justice
 * Kim Justice - Partners for Our Children
 * 💵Shrounda Selivanoff - Washington State Office of Public Defense
 * Jason Bragg
+* Jennifer Justice
 
 #### 0 👎 - Con
 

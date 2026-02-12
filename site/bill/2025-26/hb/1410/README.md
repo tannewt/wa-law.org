@@ -14,6 +14,7 @@
 #### 20 👍 - Pro
 Testifying:
 * Brandon Park
+* 💵Brooke Davies - Washington CannaBusiness Association
 * Shea Hynes - Lux Pot Shop
 * Shawn DeNae Wagenseller - Washington Bud Company
 * Bethany Rondeaux - Falcanna
@@ -21,7 +22,6 @@ Testifying:
 * 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
 * Jason Hutto
 * Rolando Rodriguez - Green Roads Cannabis
-* 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
 
 #### 12 👎 - Con

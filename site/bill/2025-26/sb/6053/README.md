@@ -14,22 +14,21 @@
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6053 Domestic workers
-#### 514 👍 - Pro
+#### 515 👍 - Pro
 Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Jean Hill - Washington State Catholic Conference
+* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * Ana Bello
 * Angela Manson
 * Cynthia Garcia
 * Laura Coffee
 * Reina Castillo
-* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * Hibist Tigabu
 * Odessa Paule
 * Cindy Tan
 
-#### 162 👎 - Con
-Testifying:
-* Jeff Pack - Washington Citizens Against Unfair Taxes
+#### 161 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

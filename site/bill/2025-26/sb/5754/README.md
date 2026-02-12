@@ -16,24 +16,24 @@
 #### 274 👍 - Pro
 Testifying:
 * Marco Rosaire Rossi - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
-* Toyoko Tsukuda
 * Micah Sherman
 * Benjamin Steele - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
+* Toyoko Tsukuda
+* Patty Kuderer - Office of the Insurance Commissioner
 * Armen Papyan
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
-* Patty Kuderer - Office of the Insurance Commissioner
 * Paula Fillmore-Sardinas - FMSGS/WBBA
 * 💵John Traynor - washington state labor council, afl-cio
+* Satpal Sidhu - Whatcom County
 * Wayne Lau
 * BSN, RN, Kathryn Lewandowsky
-* Satpal Sidhu - Whatcom County
-* Glenn Gregory - Obsidian Investment Advisers
+* Andre Stackhouse
 * Chris Reykdal - Superintendent of Public Instuction
 * Beverly Allen
 * Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
 * Brian Sullivan
 * Lauri Deaton-Grein
-* Andre Stackhouse
+* Glenn Gregory - Obsidian Investment Advisers
 
 #### 825 👎 - Con
 Testifying:
@@ -46,9 +46,9 @@ Testifying:
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5754 Washington state public bank
 #### 135 👍 - Pro
 Testifying:
+* 💵Marco Rossi
 * Kathryn Lewandowsky
 * 💵Marco Rossi - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
-* 💵Marco Rossi
 * KIM-KHANH VAN
 
 #### 852 👎 - Con

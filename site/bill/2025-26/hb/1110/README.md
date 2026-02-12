@@ -13,15 +13,15 @@
 
 ## Meetings
 ### Tue 01/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1110 DUI conviction vacation
-#### 18 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
-* Oscar Aguirre - King County Bar Association Records Project
 * Alex Uskoski - Washington Association of Criminal Defense Lawyers and Washington Defender Association
-* Tamara Light - Information For Change
-* Tamara Light - Information For Change
+* Oscar Aguirre - King County Bar Association Records Project
 * Laura Del Villar - [Civil Survival](/org/civil_survival/)
+* Tamara Light - Information For Change
+* Tamara Light - Information For Change
 
-#### 13 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)

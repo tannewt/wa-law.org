@@ -13,8 +13,8 @@
 #### 49 👎 - Con
 Testifying:
 * Ash Noble - State Board of Health
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Jaime Bodden - WSALPHO
-* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other

@@ -20,8 +20,8 @@ Testifying:
 
 #### 626 👎 - Con
 Testifying:
-* Randy Welch
 * TaraLyn Fray
+* Randy Welch
 * Sandra Mochizuki
 
 #### 1 ❓ - Other
@@ -30,10 +30,10 @@ Testifying:
 #### 28 👍 - Pro
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
-* Derona Uzzle
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Dr. Heather Schilling - WEA/Green Hill School Staff
 * Steven Klein - WEA/Lewis County Juvenile Det. Center staff
+* Derona Uzzle
 
 #### 425 👎 - Con
 Testifying:

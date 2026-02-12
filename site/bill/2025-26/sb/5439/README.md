@@ -17,7 +17,6 @@ Testifying:
 * William Engels
 * Kathryn Kasimor
 * Jeff McAuliffe
-* Jill Reifschneider
 * Donna Albert - Divest Washington
 * 💵Andrew Eckels - [350 Seattle](/org/350_seattle/)
 * Barb Carey - Divest Washington

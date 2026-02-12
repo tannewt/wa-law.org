@@ -10,6 +10,15 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205420)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SB 5420 Veteran benefits access
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 04/04 01:30 PM - Appropriations (APP): SB 5420 Veteran benefits access
 #### 42 👍 - Pro
 

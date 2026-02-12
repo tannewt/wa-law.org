@@ -10,13 +10,10 @@
 ### Tue 01/27 04:00 PM - Housing (HOUS): HB 2664 Unlawful detainer notices
 #### 986 👍 - Pro
 Testifying:
-* Emileigh Kinnear - Landmark Real Estate Management
 * 💵Krystelle Purkey - Washington Multi-Family Housing Association
 * Cory Brewer - WPM NW Inc.
 * Joe Plotts - [Bellwether Housing](/org/bellwether_housing/)
-* Daniel Bannon - RHAWA
-* Sara Turco - Owner of Edge Property Management
-* Autumn Lemarr - Schneider Homes
+* Emileigh Kinnear - Landmark Real Estate Management
 * 💵Chester Baldwin - Rental Housing Assn of WA
 * Ralph Kline
 * 💵Jim Henderson - National Association of Residential Property Managers (NARPM)
@@ -24,6 +21,9 @@ Testifying:
 * John Ester
 * Bruce Becker - Bruce Becker
 * 💵Ken Short - AWB
+* Daniel Bannon - RHAWA
+* Sara Turco - Owner of Edge Property Management
+* Autumn Lemarr - Schneider Homes
 
 #### 17 👎 - Con
 

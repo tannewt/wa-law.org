@@ -19,7 +19,6 @@
 ### Mon 01/27 04:00 PM - Appropriations (APP): HB 1123 Health carrier reimbursement
 #### 400 👍 - Pro
 Testifying:
-* 💵Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 * Evan Klein - Health Care Authority
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Jim Freeburg - Patient Coalition of Washington

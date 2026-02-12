@@ -10,8 +10,8 @@
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5717 Driver course/work zones
 #### 135 👍 - Pro
 Testifying:
-* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Billy Wallace - WA & Northern Idaho District Council of Laborers
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Mark Ottele - Granite Construction Company
 * 💵Billy Wallace - Washington and Northern Idaho District Council of Laborers
 * 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers

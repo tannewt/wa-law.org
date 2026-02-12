@@ -22,9 +22,9 @@ Testifying:
 * Sidney Shepherd
 * Devan Harbani
 * Connor Hui
+* David Jackson - Sherman Elementary PTSA
 * Devan Harbani
 * Takahiro Yoshida
-* David Jackson - Sherman Elementary PTSA
 
 #### 7 👎 - Con
 Testifying:
@@ -35,15 +35,15 @@ Testifying:
 Testifying:
 * Danica Noble - Coalition for a Media-Safe Childhood
 * MD MPH, Dr. Dimitri Christakis - Professor, Seattle Children's Hospital; Editor in Chief, JAMA Pediatrics
+* MIsha Cherniske - Office of Superintendent of Public Instruction
 * Dustin Lennon-Jones - University of Washington Technology Law & Public Policy Clinic
 * Eric Chung - University of Washington Technology Law & Public Policy Clinic
 * 💵Paula Sardinas - WBBA/FMS Global Strategies
 * Rao Talasila - Parent & AI Technologist
 * Zachary Stowell - School Principal
-* David Grosskopf
-* Manuela Slye
-* Thea Kaste
-* MIsha Cherniske - Office of Superintendent of Public Instruction
+* David Grosskopf - High school teacher
+* Manuela Slye - Parent and education advocate
+* Thea Kaste - High school student
 * Dr. Russ Payne
 * Mark Lovre - Teacher
 * Mo Canady - National Association of School Resource Officers

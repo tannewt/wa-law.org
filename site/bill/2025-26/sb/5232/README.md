@@ -19,8 +19,8 @@
 ### Thu 04/03 01:30 PM - Appropriations (APP): ESSB 5232 Essential needs program uses
 #### 79 👍 - Pro
 Testifying:
-* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * 💵Jean Hill - Washington State Catholic Conference
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Em Stone - Department of Commerce
 
 #### 831 👎 - Con
@@ -34,8 +34,8 @@ Testifying:
 ### Fri 03/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): ESSB 5232 Essential needs program uses
 #### 21 👍 - Pro
 Testifying:
-* Tedd Kelleher - Department of Commerce
 * 💵Jean Hill - Washington State Catholic Conference
+* Tedd Kelleher - Department of Commerce
 
 #### 44 👎 - Con
 Testifying:

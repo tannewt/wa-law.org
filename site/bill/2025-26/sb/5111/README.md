@@ -10,13 +10,10 @@
 ### Tue 01/28 04:00 PM - Ways & Means (WM): SB 5111 Recording fees/escrow tax
 #### 117 👍 - Pro
 Testifying:
-* Dwight Bickel
 * 💵Carrie Tellefson - [Washington Land Title Association](/org/washington_land_title_association/)
 * JP Kissling - Fidelity Title Company
 * Maureen Pfaff - Olympic Peninsula Title Company
-* Marianne Nichols - Pend Oreille County Auditor
-* Michele Silagy
-* Michelle Taylor
+* Dwight Bickel
 * Sean Holland
 * Paul Hofmann - As the Owner of the AEGIS Land Title Group
 * Luke Currier - CEO of Land Title and Escrow
@@ -24,9 +21,12 @@ Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Angela Balconi
 * Sherri Fought - Kittitas Title and Escrow
-* Dee McComb - Escrow Association of Washington, Inc
+* Marianne Nichols - Pend Oreille County Auditor
+* Michele Silagy
+* Michelle Taylor
 * Chris Gorton - Pioneer Title Company
 * Sean Holland
+* Dee McComb - Escrow Association of Washington, Inc
 
 #### 3 👎 - Con
 

@@ -85,13 +85,13 @@ Testifying:
 * Shawn Teixeira
 * 💵Aoibheann Cline - NRA
 * TaraLyn Fray
-* Elizabeth Bienas
 * Julie Dowell
 * Julie Dowell
 * David Dowell
+* Sandra Mochizuki
+* Elizabeth Bienas
 * Ruphina Nord - Washington State Young Republicans
 * brian keelean - washington state rifle and pistol organization, tacoma rifle and revolver club, paul bunyan sportman
-* Sandra Mochizuki
 
 #### 2 ❓ - Other
 Testifying:
@@ -100,6 +100,7 @@ Testifying:
 ### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5098 Weapons in certain areas
 #### 1366 👍 - Pro
 Testifying:
+* Sarah Rumbaugh - Council Member, City of Tacoma
 * Betty Taylor
 * Julia Berus
 * 💵Margaret Heldring - Grandmothers for Gun Responsibility
@@ -114,35 +115,43 @@ Testifying:
 * April Schentrup
 * Jane Weiss
 * Odessa Paul
-* Sarah Rumbaugh - Council Member, City of Tacoma
 
 #### 3792 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Teodorin Morca
+* Thomas Kosloske
 * Jane Milhans
 * Christian Ruvalcaba - Toad Tavern
 * Michele Ward
 * Brian Pelan
 * Jason Reed
 * Travis Backstrom
-* Thomas Kosloske
 * Ryan Brightman
 * Haydn Rice
 * Jeff Anderson
-* Miles Creed - 11910
 * Mackinzy Brandhorst
 * 💵George Allen
 * 💵Aoibheann Cline - NRA
 * Dawn Bailey
+* Miles Creed - 11910
+* Lorance Hiebert
+* Sandra Mochizuki
+* Ronald Mochizuki
 * brian keelean - Washington State Rifle and Pistol Association
 * Linda Wow
 * TaraLyn Fray
 * Shawn Teixeira
-* Lorance Hiebert
 * Andrew Balerud
-* Sandra Mochizuki
-* Ronald Mochizuki
+* Robert Smith
+* Wayne Schakel
+* Saundra Smith
+* Anderson Kim
+* Lisa Olson
+* Alberto Castillo
+* Bailey Miller
+* Kristin Pappas-Buri
+* Mason Beauchamp
 * Elizabeth Bienas
 * Matthew Turner
 * Russell Bachman
@@ -152,26 +161,17 @@ Testifying:
 * Chris Carney
 * Teresa Sanders
 * Michael McKinley
-* Robert Smith
-* Wayne Schakel
-* Saundra Smith
 * Dan Cochran
 * Andrew Bunn
-* Anderson Kim
 * Dakota Manley - Washington State Young Republicans
-* Lisa Olson
-* Alberto Castillo
 * Paul Barker
 * Adrian Wyatt
 * 💵George Allen
 * 💵George Allen
 * Nicholas Wopat
 * Eric Courtemanche
-* Bailey Miller
 * Justin Gatewood
 * Shay Jones
-* Kristin Pappas-Buri
-* Mason Beauchamp
 * Steve King - 14908 240th st E
 * Alicia Jonas
 * Anthony Holan
@@ -203,14 +203,8 @@ Testifying:
 
 #### 4528 👎 - Con
 Testifying:
-* Daniel Donley - Donley
-* Shelby Hyde
-* TAMMY Rose Berry
-* Mildred Pierce
 * Amanda McKinney - Yakima County Commissioner
-* Michael Smith - Smith Castle Properties LLC
 * Jane Milhans
-* Nathan Fryer
 * Teagan Levine
 * christopher young
 * Charles Heinlen
@@ -223,15 +217,21 @@ Testifying:
 * Allen Ernst
 * Julia Mirate
 * Russell Franklin
+* Daniel Donley - Donley
+* Shelby Hyde
+* TAMMY Rose Berry
+* Mildred Pierce
+* Michael Smith - Smith Castle Properties LLC
+* Nathan Fryer
 * Brandie Bills
+* Michael McKinley
 * Noelle Christ
 * 💵Aoibheann Cline - NRA
-* Michael McKinley
 * RHONDA JABUSCH
-* brian keelean - Washington State Rifle and Pistol Association
 * TaraLyn Fray
 * Sandra Mochizuki
 * Melinda Kopa
+* brian keelean - Washington State Rifle and Pistol Association
 * Anthony Holan
 
 #### 3 ❓ - Other
@@ -239,6 +239,8 @@ Testifying:
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5098 Weapons in certain areas
 #### 572 👍 - Pro
 Testifying:
+* Amy Bailey
+* Sarah Rumbaugh - Council Member, City of Tacoma
 * Jane Weiss
 * Karyn Brownson - Seattle & King County Public Health
 * Liz Hjelmesth
@@ -256,37 +258,28 @@ Testifying:
 * Paula Barnes
 * AP Diaz - [City of Seattle](/org/city_of_seattle/)
 * Michael Noack
-* Amy Bailey
-* Sarah Rumbaugh - Council Member, City of Tacoma
 
 #### 1618 👎 - Con
 Testifying:
 * Jeff Pack - Me
-* Michael Strauss
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Jane Milhans
+* Michael Strauss
+* Phil Tamburlin
 * Jerry Koch - 110 Cottage Lane
 * Amanda McKinney - Yakima County
 * Nathaniel Port
 * Cory Barnes
 * Jacob Lynde
-* Phil Tamburlin
+* Barbara Gulley
+* Barbara Gulley
+* Jo Bogner
 * Rebecca Faust - N/A
 * Mark Pink
-* Barbara Gulley
-* Barbara Gulley
 * Christa (Teagan) Levine
-* Jo Bogner
 * Michael McKinley
-* Bea Christophersen
-* Matthew Sullivan
-* Anderson Kim
-* ERIK NELSON
 * Lennard Nes Alcid - Young Gun Owners of Washington
 * Micheal Picon II
-* Kyle McMahon
-* Dennis N Simmelink - USofA Constitution 2nd Amendment
-* Paul Sass
 * 💵Aoibheann Cline - NRA
 * Brian Keelean - WA State Rifle & Pistol Association
 * Jane Milhans
@@ -297,6 +290,13 @@ Testifying:
 * Linda Wojciechowski
 * Lynsie Holt
 * Paul Sass - Tacoma Rifle and Revolver Club
+* Bea Christophersen
+* Matthew Sullivan
+* Anderson Kim
+* ERIK NELSON
+* Kyle McMahon
+* Dennis N Simmelink - USofA Constitution 2nd Amendment
+* Paul Sass
 * Amparo Lopez
 
 #### 3 ❓ - Other

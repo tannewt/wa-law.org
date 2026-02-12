@@ -12,9 +12,8 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5539 Paid family & medical leave
-#### 95 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ashley Cox
 * Claudia Franson - MomsRising & Storyteller
 * 💵Gabriela Quintana - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
@@ -24,15 +23,15 @@ Testifying:
 * 💵Maggie Humphreys - MomsRising
 * Margarita Mota - MomsRising & Storyteller
 
-#### 312 👎 - Con
+#### 314 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
-* 💵Tammie Hetrick - Washington Food Industry Associatio
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Rose Gundersen - WA Retail Association
 * Theresa Madden
 * Theresa Madden
 * Miriam Battson - Gig Harbor Chamber Of Commerce
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Tammie Hetrick - Washington Food Industry Associatio
 
-#### 1 ❓ - Other
-Testifying:
-* 💵Rose Gundersen - WA Retail Association
+#### 0 ❓ - Other

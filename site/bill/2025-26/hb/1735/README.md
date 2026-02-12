@@ -19,8 +19,8 @@
 #### 347 👍 - Pro
 Testifying:
 * Amanda Fox - Animal Rights Initiative
-* Jennifer Mathison - Rooster Haus Rescue
 * Wendy Linton
+* Jennifer Mathison - Rooster Haus Rescue
 * Colburn Clark
 * 💵Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
 

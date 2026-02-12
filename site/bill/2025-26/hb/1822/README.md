@@ -15,10 +15,10 @@
 #### 36 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
-* 💵Billy Wallace - LIUWA (Laborers)
 * 💵Mallorie Davies - Washington & N. Idaho District Council of Laborers
 * Mark Ottele - Granite Construction
 * Tom Robins - Solid Foundation Consulting
+* 💵Billy Wallace - LIUWA (Laborers)
 
 #### 0 👎 - Con
 

@@ -13,8 +13,8 @@ Testifying:
 * 💵Tom Tucker
 * Lauren Burnes - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
-* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 * 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 
 #### 7 👎 - Con
 Testifying:

@@ -30,6 +30,7 @@ Testifying:
 * Khanh Pham - Washington State Board of Community and Technical Colleges
 * Keagan Nakazawa
 * Fernanda Cornelio
+* Diego Gonzalez
 * Evelyn Aguiar
 * Jaimee Mosey - Olympic College
 * Eon Hu - Olympic College
@@ -38,7 +39,6 @@ Testifying:
 * 💵Sean Behl - Associated Students of the University of Washington and the Washington Student Association
 * Alec Acosta-Vega - CWU-Student
 * Mahmood Alkhazraji - cwu student LD13
-* Diego Gonzalez
 
 #### 419 👎 - Con
 

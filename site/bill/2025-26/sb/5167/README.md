@@ -32,26 +32,29 @@
 
 ## Meetings
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: All other. (Remote Testimony Available).
-#### 20 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Derek Young - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Kim Ford - [Community Passageways](/org/community_passageways/)
-* 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
-* 💵Mark Streuli - NW Ironworkers Dist Counc. Internat. Union of Painters and allied trades
-* Davida Ingram - SAARC
-* Ashley Williams
-* 💵Paula Sardinas - WBBA/FMS Global Strategies
 * Kate Schneider - WA State Music Therapy Task Force
 * Tanesha Ross - WA State Music Therapy Task Force
 * JESSE WINEBERRY - WASHINGTON EQUITY NOW ALLIANCE (WENA)
 * David Koenig - Retired Public Employees Council of WA
 * Zaheed Lynch - [Community Passageways](/org/community_passageways/)
 * Tara Kinzy - American Renewal 1870
+* 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
+* 💵Mark Streuli - NW Ironworkers Dist Counc. Internat. Union of Painters and allied trades
+* Davida Ingram - SAARC
+* Ashley Williams
+* 💵Paula Sardinas - WBBA/FMS Global Strategies
 
 #### 78 👎 - Con
 Testifying:
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 * Tim Eyman - Initiative Activist
+* 💵Lisa Daugaard - [Purpose Dignity Action](/org/purpose_dignity_action/)
+* Wesley Jessup - Eastern Washington Historical Society
 * Everett Maroon - Blue Mountain Heart to Heart
 * Eric Richey - Whatcom County Prosecuting Attorney's Office
 * stephanie Akin - Reflections Counseling Services Group R.E.A.L. Program (RNP)
@@ -61,11 +64,7 @@ Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * Kristen Keltz - Skagit Tourism Bureau
 * Deborah ONeal - American Renewal 1870
-* 💵Lisa Daugaard - [Purpose Dignity Action](/org/purpose_dignity_action/)
-* Wesley Jessup - Eastern Washington Historical Society
 * Blaze Vincent - Freedom Project
-* Neil Calmjoy
-* Miriam Battson - Gig Harbor Chamber of Commerce
 * Madison mangine - [Community Passageways](/org/community_passageways/)
 * chanise keo - [Community Passageways](/org/community_passageways/)
 * dominque Davis - [Community Passageways](/org/community_passageways/)
@@ -76,22 +75,28 @@ Testifying:
 * 💵Kelly Campbell - Visitor & Convention Bureau of Thruston County, dba Experience Olympia & Beyond
 * 💵Malika Lamont - LEAD-WA Technical Support Team
 * 💵Suzanne Hanson - City of Clarkston Prosecutors Office
+* Neil Calmjoy
+* Miriam Battson - Gig Harbor Chamber of Commerce
 
-#### 47 ❓ - Other
+#### 46 ❓ - Other
 Testifying:
 * Sophia Byrd McSherry - Washington State Office of Public Defense
 * Sara Robbins - Washington State Office of Civil Legal Aid
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Dawn Marie Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
-* 💵Scott Nelson - Office of the Washington State Auditor
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * 💵Emily Vyhnanek - Washington State Budget and Policy Center
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Malou Chávez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
 * Soumyo Lahiri-Gupta - OneAmerica
+* 💵Scott Nelson - Office of the Washington State Auditor
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Victoria Woodards - Mayor, City of Tacoma
+* Tyler Running Deer - eCityGov Alliance Executive Director
+* Anders Taylor - Walden
+* Gene Hainey
 * Kelsey Taylor - Gorilla Gardens
 * 💵Giovanni Severino
 * Andy Caldwell - Centralia Police Department
@@ -101,19 +106,8 @@ Testifying:
 * Doug Moore - Washington Horse Racing Commission
 * Tasha Mae - Advocacy Queen
 * Bill Pickett - [Equal Justice Coalition](/org/equal_justice_coalition/)
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Tammy Dunn - Snohomish County Sports Commission
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
-* Victoria Woodards - Mayor, City of Tacoma
-* Tyler Running Deer - eCityGov Alliance Executive Director
-* Anders Taylor - Walden
-* Gene Hainey
-* Terry Gifford - Willowbrook Manor English Teahouse & Farm Stay
-* Christina Pivarnik - Visit Bainbridge Island
-* Katie Kolan - Washington State Hospital Association
-* David Heppard - The Black Rose Collective
-* 💵Evan Woods - We Train WA Grocery Apprenticeship
-* Cliff Myers - Vancouver USA Regional Tourism Office (Visit Vancouver WA)
 * Kyle Spurgeon - HDT Management
 * Kevin Lewis - Visit Tri-Cities
 * Kim Bradford - Public Disclosure Commission
@@ -125,6 +119,12 @@ Testifying:
 * Ashley Sinner - Visit Wenatchee/Wenatchee Valley Chamber of Commerce
 * 💵Michael Moran - Washington State Auditor
 * Sheley Secrest - NAACP State Area Conference President of AK, OR, WA
+* Terry Gifford - Willowbrook Manor English Teahouse & Farm Stay
+* Christina Pivarnik - Visit Bainbridge Island
+* Katie Kolan - Washington State Hospital Association
+* David Heppard - The Black Rose Collective
+* 💵Evan Woods - We Train WA Grocery Apprenticeship
+* Cliff Myers - Vancouver USA Regional Tourism Office (Visit Vancouver WA)
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Early learning. (Remote Testimony Available).
 #### 0 👍 - Pro
@@ -153,10 +153,10 @@ Testifying:
 #### 259 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
-* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
-* Michael Rainey - AFSCME Council 2
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Mike Yestramski - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* Michael Rainey - AFSCME Council 2
 
 #### 2 ❓ - Other
 Testifying:
@@ -165,21 +165,20 @@ Testifying:
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Higher education. (Remote Testimony Available).
 #### 0 👍 - Pro
 
-#### 53 👎 - Con
+#### 55 👎 - Con
 Testifying:
+* Bill Lyne - United Faculty of WA/Washington Education Association
 * Tim Eyman - Initiative Activist
-* Ashley Ramirez - Associated Students of the University Washington Tacoma
-* 💵Nathan Tippmann - Evergreen Geoduck Student Union
 * 💵Nora Selander - Western Washington University
 * Kelleigh McMillan
+* Ashley Ramirez - Associated Students of the University Washington Tacoma
+* 💵Nathan Tippmann - Evergreen Geoduck Student Union
 
-#### 20 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
-* 💵Karen Strickland - American Federation of Teachers - WA
 * Tonya Drake - [Western Governors University](/org/western_governors_university/)
-* 💵Sue Nightingale - Association of Higher Education/Washington Education Association
-* Bill Lyne - United Faculty of WA/Washington Education Association
+* 💵Karen Strickland - American Federation of Teachers - WA
 * Dr. Chemene Crawford - President at Everett Community College
 * Dr. Chris Bailey - WA State Board for Community & Technical Colleges
 * David Buri - Eastern Washington University
@@ -187,12 +186,12 @@ Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Chris Mulick - Washington State University
-* Chris Roberts - AFT 1789
-* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
-* Terrell Stalworth - Asscoiated Students of Tacoma Community College
 * Helena Ribeiro - AFT 1789
 * NINA CARTER - EVERGREEN STATE COLLEGE ADVOCATES
 * Miles Parker - GPSS, UW Seattle
+* Chris Roberts - AFT 1789
+* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
+* Terrell Stalworth - Asscoiated Students of Tacoma Community College
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Human services. (Remote Testimony Available).
 #### 32 👍 - Pro
@@ -200,10 +199,10 @@ Testifying:
 * 💵Brad Forbes - Alzheimer's Association
 * Joe McDermott - State Relations Director | King County
 * 💵Jaime Bodden - WSALPHO
+* Jack Edgerton - KidVantage
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Nicole Kiddoo - Washington Association of Area Agencies on Aging
-* Jack Edgerton - KidVantage
 * Mohamed Khalif - The International Medical Graduates Academy
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
@@ -222,11 +221,13 @@ Testifying:
 
 #### 95 ❓ - Other
 Testifying:
+* Adrienne Mason - Washington Family Support Network
+* Sandra Gorman-Brown - Washington Association for Children and Families
+* Suzi Fode - New Hope
 * Kim Justice - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Kimberly Nyland
-* Adrienne Mason - Washington Family Support Network
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
@@ -234,14 +235,21 @@ Testifying:
 * 💵Sean Graham - Washington State Medical Association
 * Sherrie Tinocco - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
-* Sandra Gorman-Brown - Washington Association for Children and Families
 * Alison Eisinger - Seattle / King County Coalition on Homelessness
 * Whitney Carlson - Washington Association for Children and Families
 * 💵Jill May - Washington Association for Children and Families
 * Annalise Martucci - Office of Civil Legal Aid
 * Kate Krug - King County Sexual Assault Resource Center/Sexual Assault Working Group
-* Suzi Fode - New Hope
 * 💵Melanie Smith - WA State LTC Ombuds Program
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Katie Hurley - King County Department of Public Defense
+* Nicholas Oakley - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* 💵Karina Patel - The Tubman Center for Health and Freedom
+* 💵Karen Pillar - TeamChild
+* LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
+* Jolynn Kenney - MENTOR Washington
+* 💵Lynda Hall - [Treehouse](/org/treehouse/)
+* Marc Cote - [Parkview Services](/org/parkview_services/)
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Jeff Abdullah - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Diane Figley - [Catholic Community Services](/org/catholic_community_services/)
@@ -256,26 +264,10 @@ Testifying:
 * Nikki Storms - Chehalis West Assisted Living
 * Jessika Booth - Ensign Services/Pennant WA
 * Matthew Wilson - Oasis Youth Center
-* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * 💵Courtney Williams - The Adult Family Home Council
-* Katie Hurley - King County Department of Public Defense
-* Nicholas Oakley - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
-* 💵Karina Patel - The Tubman Center for Health and Freedom
-* 💵Karen Pillar - TeamChild
-* LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
-* Jolynn Kenney - MENTOR Washington
-* 💵Lynda Hall - [Treehouse](/org/treehouse/)
-* Marc Cote - [Parkview Services](/org/parkview_services/)
-* Hannah Brendemuhl - [Full Life Care](/org/full_life_care/)
-* Cricket Farr - [Full Life Care](/org/full_life_care/)
-* 💵Michele Thomas - Washington Low Income Housing Alliance
-* 💵Shaun Cross - Maddies Place
-* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
-* Jim CastroLang
 * 💵Alyssa Odegaard - LeadingAge Washington
 * Demas Nesterenko - SEIU 775
 * Lauri St. Ours - [Washington Health Care Association](/org/washington_health_care_association/)
-* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Connie French
 * Judy Epperheimer
 * Kristen Jones - Catholic Charities
@@ -285,8 +277,17 @@ Testifying:
 * Lou Antiquiera - Pacific Care and Rehabilitation
 * Stacy Christ - [Full Life Care](/org/full_life_care/)
 * April Hamilton
+* Hannah Brendemuhl - [Full Life Care](/org/full_life_care/)
+* Cricket Farr - [Full Life Care](/org/full_life_care/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Shaun Cross - Maddies Place
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Jim CastroLang
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Ashe Tippins - Washington Low Income Housing Alliance
 * 💵Anne Burkland - Communities for Functional Zero
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Reuben Cottingham - Washington Family Support Network
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * Felicia Kopperdahl
 * Trisha Matthieu - Catholic Community Services - King County
@@ -301,20 +302,18 @@ Testifying:
 * 💵Blake Baldwin - Thriving Together NCW
 * 💵Daniel Lugo
 * Max Lau - [Children's Alliance](/org/children's_alliance/)
-* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
-* Reuben Cottingham - Washington Family Support Network
-* Joe Kendo - Washington State Labor Council, AFL-CIO
-* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
-* Sheala Toth
-* Aundrea Jackson - Crisis Connections
-* Deb Miller - Action Health Partners
-* Marta Kidane - Low Income Housing Institute (LIHI
 * Ryan Davis - Financial Empowerment Network
 * Elizabeth Jennings - Community Action of Skagit County
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Talauna Reed - Tenants Union of Washington State
 * Cami Hubbard - YMCA social impact Center - Lifeline Pilot Program
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Sheala Toth
+* Aundrea Jackson - Crisis Connections
+* Deb Miller - Action Health Partners
+* Marta Kidane - Low Income Housing Institute (LIHI
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: K-12 public schools. (Remote Testimony Available).
 #### 19 👍 - Pro
@@ -323,11 +322,11 @@ Testifying:
 * Charlem Bala
 * Courtney McCoy - Royal High School
 * Danica Noble - Washington State PTA
-* Kari Madden
 * Jon Holmen - Lake Washington School District
+* Kari Madden
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Molly Griffiths - [Pacific Education Institute](/org/pacific_education_institute/)
 * Charlie Brown - South Sound Superintendents, Federal Way Schools, School Alliance
-* 💵Marissa Rathbone - Washington State School Directors' Association
 * Megan Karch - IslandWood
 * Shannon Marshall
 
@@ -337,32 +336,32 @@ Testifying:
 * Tim Merlino - ESD 112, Superintendent
 * Rob Roettger - NEWESD 101
 * Jessica Vavrus - Association of Educational Service Districts (AESD), Executive Director
+* 💵Oliver Miska
 * Bill Hole - U.S. Licensing
 * Hailey Tsang - Lake Stevens High School
 * Kathy Schmit - Customer Success Manager, CCI Learning – former CTE Teacher WA
 * Patty Eckelman - Teacher, Auburn Mountainview High School
 * Ismael Vivanco - NWESD 189
-* 💵Oliver Miska
 
 #### 20 ❓ - Other
 Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction (OSPI)
 * Liz Trautman - Stand for Children Washington
 * Dr Doug Judge - Center for High School Success
 * Henterson Carlisle - Center for High School Success
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
-* Tyler Muench - Office of Superintendent of Public Instruction (OSPI)
+* Sezi Fleming - Washington MESA
 * Heather Christianson - Public School Employees of WA/SEIU 1948
 * Rick Chisa - Public School Employees of WA/SEIU 1948
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Adam Aguilera - Evergreen Education Association
 * 💵Samuel Martin - School's Out Washington
-* Sezi Fleming - Washington MESA
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
-* 💵Radu Smintina - School's Out Washington
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Tracy Godat - Financial Education Public Private Partnership
+* 💵Radu Smintina - School's Out Washington
 * 💵Jennifer Ziegler - Alliance of Boys & Girls Clubs of Washington
 * 💵Paula Sardinas - FMS Global Strategies/WBBA
+* Tracy Godat - Financial Education Public Private Partnership
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Mental health. (Remote Testimony Available).
 #### 2 👍 - Pro
@@ -376,8 +375,8 @@ Testifying:
 
 #### 5 ❓ - Other
 Testifying:
-* Anni-Michele Jean-Pierre - [Children's Alliance](/org/children's_alliance/)
 * Lelach Rave - WCAAP
+* Anni-Michele Jean-Pierre - [Children's Alliance](/org/children's_alliance/)
 * Stacey Lopez - [Sound](/org/sound/)
 
 ### Tue 03/25 04:00 PM - Ways & Means (WM): PSSB 5167: Natural resources. (Remote Testimony Available).

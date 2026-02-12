@@ -31,9 +31,9 @@ Testifying:
 * Kendall Harrison
 * Julie Dowell - Protection-1 EMS
 * David Dowell
-* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * TaraLyn Fray
 * Sandra Mochizuki
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 1 ❓ - Other
 

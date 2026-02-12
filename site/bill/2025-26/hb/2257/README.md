@@ -21,14 +21,14 @@ Testifying:
 #### 87 👎 - Con
 Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA State Assn of Broadcasters, WA Newspaper Publishers Assn
-* Paul Archipley - Owner, Beacon Publishing
-* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
-* 💵Connor Haggerty - Washington State University
 * Carrie Radcliff
 * Lloyd Mullen - The Port Townsend & Jefferson County Leader
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Keith Shipman - Washington State Association of Broadcasters
 * Ryan Blethen - [The Seattle Times](/org/the_seattle_times/)
+* Paul Archipley - Owner, Beacon Publishing
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* 💵Connor Haggerty - Washington State University
 
 #### 59 ❓ - Other
 Testifying:

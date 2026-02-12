@@ -11,8 +11,8 @@
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 2207 Warehousing of alcohol
 #### 48 👍 - Pro
 Testifying:
-* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * James Carroll
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 
 #### 38 👎 - Con
 Testifying:

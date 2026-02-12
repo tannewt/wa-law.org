@@ -46,7 +46,7 @@ Testifying:
 #### 6 ❓ - Other
 Testifying:
 * Joel Creswell - Washington Department of Ecology
-* 💵Isaac Kastama - Clean and Prosperous Washington
-* Edgar Scott - [Kaiser Aluminum](/org/kaiser_aluminum/)
 * Toyin Olowu - Nucor Steel
 * 💵Steve Taylor - Cowlitz Cnty Public Utility District No. 1
+* 💵Isaac Kastama - Clean and Prosperous Washington
+* Edgar Scott - [Kaiser Aluminum](/org/kaiser_aluminum/)

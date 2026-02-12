@@ -18,8 +18,8 @@ Testifying:
 #### 10 👎 - Con
 Testifying:
 * Laurie Layne
-* Aimee Martin
 * Devon Gibbs
+* Aimee Martin
 * Jessica Fleming - WACDL/WDA
 * Sonja Hardenbrook - Hardenbrook Law
 

@@ -22,18 +22,18 @@ Testifying:
 * Meghan Lucas
 * Eric Pratt - America
 * Wes Martin
-* Martin Lueken - EdChoice
 * Cameron Sholty - Heartland Impact
-* Samantha Fillmore - Heartland Impact
-* Marc Stegmaier
 * Tiffany Hoben
 * 💵Jean Hill - Washington State Catholic Conference
+* Martin Lueken - EdChoice
+* Samantha Fillmore - Heartland Impact
+* Marc Stegmaier
+* Patricia Cooper
+* Tad Sommerville
 * Wilda Heard - Drwildasays
 * Kim Dean
 * Keri D. Ingraham - American Center for Transforming Education
-* Patricia Cooper
 * Barbara Kuehne
-* Tad Sommerville
 
 #### 1734 👎 - Con
 Testifying:
@@ -45,13 +45,13 @@ Testifying:
 * Donna Alber - Donna Alber
 * Jessica Justice
 * Ann Shay
+* Nicole Newsum-Chrisman - Edmonds School District
 * Tobi Vail
 * Paige Ronsen
 * Ann Chenhall - Thurston County School Retirees Association, Interfaith Works, Unity of Olympia, Stately Speakers To
 * Ann Chenhall - Thurston County School Retirees Association, Interfaith Works, Unity of Olympia, Stately Speakers To
 * Jaclyn Barron-Robles
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Nicole Newsum-Chrisman - Edmonds School District
 * Tasha Raub
 
 #### 9 ❓ - Other

@@ -16,9 +16,9 @@
 #### 16 👍 - Pro
 Testifying:
 * Michael DeLong - Consumer Federation of America
+* Charles Bell - [Consumer Reports](/org/consumer_reports/)
 * David Forte - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
-* Charles Bell - [Consumer Reports](/org/consumer_reports/)
 
 #### 1 👎 - Con
 

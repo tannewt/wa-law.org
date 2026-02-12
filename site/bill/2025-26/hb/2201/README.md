@@ -11,8 +11,8 @@
 #### 37 👍 - Pro
 Testifying:
 * Karl Almgren - City of Lynnwood - Community Planning Manager
-* Haylie Matson - Community & Economic Development Director, City of Pasco
 * Micheal Cerbone - [City of Ferndale](/org/city_of_ferndale/)
+* Haylie Matson - Community & Economic Development Director, City of Pasco
 * BRIAN ENSLOW - [City of Vancouver](/org/city_of_vancouver/)
 
 #### 572 👎 - Con

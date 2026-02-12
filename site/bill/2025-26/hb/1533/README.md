@@ -30,8 +30,8 @@ Testifying:
 #### 5 👎 - Con
 Testifying:
 * Hans Frederickson - Frederickson Electric
-* Nathan Turner - Washington State Electrical Contractors Association
 * Paul Briganti - ABC of Western Washington
+* Nathan Turner - Washington State Electrical Contractors Association
 
 #### 1 ❓ - Other
 Testifying:

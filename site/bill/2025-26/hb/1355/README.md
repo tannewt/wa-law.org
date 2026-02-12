@@ -15,8 +15,8 @@
 Testifying:
 * Chair, Teri Gobin - Tulalip Tribes of WA
 * Bill Chairman Iyall - Cowlitz Indian Tribe, Chairman
-* Steve Ewing - Dept. of Revenue
 * Chairman Ron Allen - Jamestown S'Klallam Tribe
+* Steve Ewing - Dept. of Revenue
 * Devon Gustafson
 * Rosalee Revey-Jacobs - Testifying on behalf of Lummi Nation
 

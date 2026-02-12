@@ -18,9 +18,9 @@
 Testifying:
 * 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 * MIKE BUCY - Stevens County Fire Protection District 1
+* Eli Loftis - Okanogan Conservation District
 * ELAINE ONEIL - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 * Tony Craven - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
-* Eli Loftis - Okanogan Conservation District
 
 #### 0 👎 - Con
 
@@ -29,10 +29,10 @@ Testifying:
 ### Wed 02/12 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1539 Wildfire protection
 #### 121 👍 - Pro
 Testifying:
-* Mike Bucy - Stevens Fire District 1
-* KENTON BRINE - NW Insurance Council
 * Ingrid Sorensen - Lake Washington High School
 * Michael Newman - Insurance Institute for Business & Home Safety
+* Mike Bucy - Stevens Fire District 1
+* KENTON BRINE - NW Insurance Council
 
 #### 11 👎 - Con
 Testifying:
@@ -40,6 +40,6 @@ Testifying:
 
 #### 22 ❓ - Other
 Testifying:
-* Sue Lani Madsen - Washington Rural Environmental Network
 * ELAINE ONEIL - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 * Tony Craven - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Sue Lani Madsen - Washington Rural Environmental Network

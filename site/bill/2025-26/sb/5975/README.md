@@ -30,17 +30,17 @@ Testifying:
 * Jacob Casssady - Association of Home Appliance Manufacturers
 * Steve Burns - Cookware Sustainability Alliance
 * 💵Molly Pfaffenroth - Washington Food Industry Association
-* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 558 👎 - Con
 Testifying:
 * Katie Fellows - Hazardous Waste Management Program
-* Carissa Burk
-* 💵Nick Federici - Toxic Free Future
 * Tom Neltner - Unleaded Kids
 * Tamara Rubin - Lead Safe Mama, LLC
+* Carissa Burk
+* 💵Nick Federici - Toxic Free Future
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 5 ❓ - Other

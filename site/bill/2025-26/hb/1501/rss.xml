@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1501/</link>
 		<description>Updates about HB 1501</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 03:14:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 15:14:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,14 +23,6 @@
 			<guid isPermaLink="false">2025-01-22/First reading, referred to Housing.</guid>
 		</item>
 		<item>
-			<title>👍Joel Gilman - Washington Community Associations Institute</title>
-			<description>Joel Gilman signed up to testify Pro.</description>
-			<pubDate>Thu, 30 Jan 2025 04:47:42 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Joel/Gilman/2025-01-30 04:47:42</guid>
-		</item>
-		<item>
 			<title>👍Steve Horvath - HOA United</title>
 			<description>Steve Horvath signed up to testify Pro. They are signed up to represent HOA United.</description>
 			<pubDate>Thu, 30 Jan 2025 10:39:58 GMT</pubDate>
@@ -39,20 +31,12 @@
 			<guid isPermaLink="false">testifier/Steve/Horvath/2025-01-30 10:39:58</guid>
 		</item>
 		<item>
-			<title>👍Steve Horvath - HOA United</title>
-			<description>Steve Horvath signed up to testify Pro. They are signed up to represent HOA United.</description>
-			<pubDate>Mon, 03 Feb 2025 05:21:44 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Steve/Horvath/2025-02-03 05:21:44</guid>
-		</item>
-		<item>
 			<title>👍Joel Gilman - HOA United</title>
 			<description>Joel Gilman signed up to testify Pro.</description>
-			<pubDate>Mon, 03 Feb 2025 06:17:03 GMT</pubDate>
+			<pubDate>Thu, 30 Jan 2025 16:47:42 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Joel/Gilman/2025-02-03 06:17:03</guid>
+			<guid isPermaLink="false">testifier/Joel/Gilman/2025-01-30 16:47:42</guid>
 		</item>
 		<item>
 			<title>👎Hilary Bublitz - WSCAI</title>
@@ -69,6 +53,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Theresa/Torgesen/2025-02-03 11:46:50</guid>
+		</item>
+		<item>
+			<title>👍Steve Horvath - HOA United</title>
+			<description>Steve Horvath signed up to testify Pro. They are signed up to represent HOA United.</description>
+			<pubDate>Mon, 03 Feb 2025 17:21:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Horvath/2025-02-03 17:21:44</guid>
+		</item>
+		<item>
+			<title>👍Joel Gilman - HOA United</title>
+			<description>Joel Gilman signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 18:17:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joel/Gilman/2025-02-03 18:17:03</guid>
 		</item>
 		<item>
 			<title>👎Theresa Torgesen - HOA United</title>
@@ -166,26 +166,26 @@
 		<item>
 			<title>❓Steve Horvath - HOA United</title>
 			<description>Steve Horvath signed up to testify Other. They are signed up to represent HOA United.</description>
-			<pubDate>Thu, 29 Jan 2026 12:44:09 GMT</pubDate>
+			<pubDate>Thu, 29 Jan 2026 00:44:09 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Steve/Horvath/2026-01-29 12:44:09</guid>
+			<guid isPermaLink="false">testifier/Steve/Horvath/2026-01-29 00:44:09</guid>
 		</item>
 		<item>
 			<title>❓Mikaela Carnes - WSCAI</title>
 			<description>Mikaela Carnes signed up to testify Other. They are signed up to represent WSCAI.</description>
-			<pubDate>Tue, 03 Feb 2026 01:01:52 GMT</pubDate>
+			<pubDate>Tue, 03 Feb 2026 13:01:52 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Mikaela/Carnes/2026-02-03 01:01:52</guid>
+			<guid isPermaLink="false">testifier/Mikaela/Carnes/2026-02-03 13:01:52</guid>
 		</item>
 		<item>
 			<title>❓Theresa Torgesen - WSCAI</title>
 			<description>Theresa Torgesen signed up to testify Other.</description>
-			<pubDate>Tue, 03 Feb 2026 03:14:25 GMT</pubDate>
+			<pubDate>Tue, 03 Feb 2026 15:14:25 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Theresa/Torgesen/2026-02-03 03:14:25</guid>
+			<guid isPermaLink="false">testifier/Theresa/Torgesen/2026-02-03 15:14:25</guid>
 		</item>
 	</channel>
 </rss>

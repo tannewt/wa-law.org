@@ -29,8 +29,8 @@ Testifying:
 ### Mon 02/10 01:30 PM - Education (ED): HB 1709 Adrenal insufficiency care
 #### 216 👍 - Pro
 Testifying:
-* Mark Harper
 * Kathryn Mueller
+* Mark Harper
 * Laura Carmichael - [Issaquah School District](/org/issaquah_school_district/)
 
 #### 0 👎 - Con

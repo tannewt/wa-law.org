@@ -14,10 +14,10 @@
 #### 84 👍 - Pro
 Testifying:
 * Kim McLeod
+* Rose` Yu
 * Linda Hyatt
 * Kelley Nesbitt
 * Ryan Nesbitt
-* Rose` Yu
 * Frances Peltier - Families for Better Lives
 * Emani Donaldson - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Khalid Sirad
@@ -25,9 +25,9 @@ Testifying:
 #### 144 👎 - Con
 Testifying:
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Cathy Murahashi - The Arc of Washington
 * 💵Stacy Dym
 * Stephanie Roadman
-* Cathy Murahashi - The Arc of Washington
 * Tammy Bowen
 * Blake Duarte
 * Lacey Davis

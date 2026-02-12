@@ -10,10 +10,10 @@
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2624 Unsolicited real estate tx.
 #### 15 👍 - Pro
 Testifying:
+* Robin Hammill - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Bill Clarke - [The Trust for Public Land](/org/the_trust_for_public_land/)
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * Michael Kirshenbaum - Skagit Land Trust
-* Robin Hammill - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 0 👎 - Con
 

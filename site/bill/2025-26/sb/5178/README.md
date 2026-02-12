@@ -10,9 +10,9 @@
 ### Thu 01/30 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5178 Sodium nitrite
 #### 49 👍 - Pro
 Testifying:
-* Kaitlin Cherf - Washington State Association for Justice
 * Becky Roe - Washington State Association for Justice
 * Michelle Vasquez-Stickley
+* Kaitlin Cherf - Washington State Association for Justice
 
 #### 3 👎 - Con
 

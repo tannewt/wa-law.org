@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%201750)
@@ -23,9 +24,9 @@ Testifying:
 
 #### 1990 👎 - Con
 Testifying:
-* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Michael Shaw - [Washington State Association of County Auditors](/org/washington_state_association_of_county_auditors/)
 * Kathleen Schweiger
 * Kathleen Schweiger
 
@@ -43,7 +44,7 @@ Testifying:
 #### 1468 👎 - Con
 Testifying:
 * Donna Alber
-* LORILEE GATES
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* LORILEE GATES
 
 #### 0 ❓ - Other

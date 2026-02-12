@@ -30,8 +30,8 @@ Testifying:
 * Julie Gunter
 * Evelyn Moos
 * Lauren Bergstedt
-* Beth Cogan - Washington State PTA
 * John Axtell
+* Beth Cogan - Washington State PTA
 * Lisa Guthrie - Lake Washington School District
 * Tania May - Office of Superintendent of Public Instruction
 * Danna Summers - SICC ESIT DSYF Council Member
@@ -40,10 +40,10 @@ Testifying:
 Testifying:
 * Amy Cannava - Washington State Association of School Psychologists
 * Emily Bruckner
+* 💵Catherine Holm - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Lawrence Tiritilli
 * Denise Radecke
-* 💵Catherine Holm - [Washington School Counselor Association](/org/washington_school_counselor_association/)
-* Emily Shultz - WEA ESA Committee
 * Sahian Cruz
+* Emily Shultz - WEA ESA Committee
 
 #### 0 ❓ - Other

@@ -10,9 +10,9 @@
 ### Fri 01/31 10:30 AM - Housing (HSG): SB 5329 Smoke detector installation
 #### 7 👍 - Pro
 Testifying:
+* Gerry Gibson - Gibby Home Fire Prevention
 * Gerry Gibson - Gibby Home Fire Prevenyion
 * Bonnie Gibson - Gibby Home Gire Prevention
-* Gerry Gibson - Gibby Home Fire Prevention
 
 #### 456 👎 - Con
 Testifying:

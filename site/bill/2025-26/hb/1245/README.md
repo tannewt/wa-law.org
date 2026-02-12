@@ -11,9 +11,9 @@
 #### 36 👍 - Pro
 Testifying:
 * Dave Parker - The Entrepreneurs’ Organization (EO)
+* John worthington
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* John worthington
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * Loni Simone
 

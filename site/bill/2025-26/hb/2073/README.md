@@ -15,8 +15,8 @@
 #### 471 👍 - Pro
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
-* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * 💵Patrick Connor - NFIB
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Jim Freeburg - Patient Coalition of Washington
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 

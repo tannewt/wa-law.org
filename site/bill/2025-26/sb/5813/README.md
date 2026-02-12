@@ -47,6 +47,7 @@
 ### Mon 04/21 09:00 AM - Finance (FIN): ESSB 5813 Tax rates/cap. gains, estate
 #### 41 👍 - Pro
 Testifying:
+* 💵Kristin Ang - Faith Action Network (FAN)
 * Amy Roark
 * Bronti Lemke
 * Suzanne Southerland
@@ -58,7 +59,6 @@ Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Molly Gallagher - Washington Statewide Poverty Action Network
-* 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
@@ -71,14 +71,8 @@ Testifying:
 * 💵Patrick Connor - NFIB
 
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5813 Tax rates/cap. gains, estate
-#### 669 👍 - Pro
+#### 668 👍 - Pro
 Testifying:
-* 💵Oliver Miska
-* 💵Treasure Mackley - Invest in Washington Now
-* 💵Matthew Lang - National Organization for Women Washington
-* Gayle Janzen
-* Jamie Paradiso
-* Anni-Michele Jean-Pierre - Children’s Alliance
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Lizzy Sebring - Washington State PTA
 * Molly Gallagher - Washington Statewide Poverty Action Network
@@ -95,19 +89,24 @@ Testifying:
 * 💵Kristin Ang
 * Amy Roark
 * Jacob Vigdor - University of Washington Faculty/Council of Faculty
+* 💵Treasure Mackley - Invest in Washington Now
+* 💵Matthew Lang - National Organization for Women Washington
+* Gayle Janzen
+* Jamie Paradiso
+* Anni-Michele Jean-Pierre - Children’s Alliance
 
 #### 5692 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Laurie Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * John Morgan
-* Laurie Layne
 * Dakota Manley - Washington State Young Republicans
+* Alejandro Galvan
 * Anneke Palmerton-Oiness
 * Sue Closser
 * Steven Boyd - n/a
-* Alejandro Galvan
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Patrick Connor - NFIB

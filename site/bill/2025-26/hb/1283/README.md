@@ -13,10 +13,10 @@
 ### Mon 01/27 04:00 PM - Transportation (TR): HB 1283 Certificates of title
 #### 9 👍 - Pro
 Testifying:
-* 💵Tony Sermonti - WA State Independent Auto Dealers Assoc.
 * Cherie Adams - Vehicle Subagents of Tomorrow Association
 * Chet Baldwin - Vehicle Subagents of Tomorrow Association
 * Jena Beauchene - Vehicle Subagents of Tomorrow Association
+* 💵Tony Sermonti - WA State Independent Auto Dealers Assoc.
 
 #### 2 👎 - Con
 

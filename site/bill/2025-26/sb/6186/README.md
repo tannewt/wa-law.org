@@ -18,8 +18,8 @@ Testifying:
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Diane Evans
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
-* 💵Molly Pfaffenroth - Washington Food Industry Association
 * Elsa Young - United Way of King County
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 * Miranda Hunter
 * Elizabeth Kimball - Public Health - Seattle and King County
 * Janell Braxton - Poverty Action

@@ -16,8 +16,8 @@
 #### 755 👍 - Pro
 Testifying:
 * Venu Nemani - [City of Seattle](/org/city_of_seattle/)
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Nick Bond - [City of Port Orchard](/org/city_of_port_orchard/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mark Ostrow
 
 #### 768 👎 - Con
@@ -30,8 +30,8 @@ Testifying:
 #### 189 👍 - Pro
 Testifying:
 * Venu Nemani - [City of Seattle](/org/city_of_seattle/)
-* Mark Ostrow
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Mark Ostrow
 
 #### 129 👎 - Con
 Testifying:

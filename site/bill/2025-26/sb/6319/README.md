@@ -16,11 +16,11 @@
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6319 Child welfare time extension
 #### 22 👍 - Pro
 Testifying:
+* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Shannon Selland - [Family Impact Network](/org/family_impact_network/)
 * Kim Justice - Partners for Our Children
 * 💵Carrie Glover - WithinReach
-* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 
 #### 145 👎 - Con
 Testifying:
@@ -29,17 +29,17 @@ Testifying:
 * Amy Parks
 * Anna Eshelman
 * Adrienne McKinley
+* Mary Ann Townsend
 * Kristina Johnson - Keeping Kids SAFE
 * Angela Kraemer
-* Mary Ann Townsend
 
 #### 0 ❓ - Other
 
 ### Wed 01/28 08:00 AM - Human Services (HS): SB 6319 Child welfare time extension
 #### 4 👍 - Pro
 Testifying:
-* Kim Justice - Partners for Our Children
 * Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Kim Justice - Partners for Our Children
 
 #### 4 👎 - Con
 Testifying:

@@ -17,19 +17,19 @@
 Testifying:
 * Camille Walton
 * Erica Sahota
+* Erica Tomas
 * Maranatha Hay
 * Michael Truong
-* Erica Tomas
 * Cari Morales - Resolve
 * Tessa Shouldice
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
-* Dana Savage - AWAAG
 * Dr. Lori Marshall
 * Dr. Tyler Ketterl
 * Emily Stenson
 * Amy Landram
 * Nicole Post
 * Anahita Arya - Pacific NW Fertility
+* Dana Savage - AWAAG
 * Kaitlin Lee
 
 #### 503 👎 - Con

@@ -67,8 +67,8 @@ Testifying:
 
 #### 5 👎 - Con
 Testifying:
-* Kris Strutner - Caton Landfil & Recycling, LLC.
 * Carolyn Moulton - Lautenbach Recycling
+* Kris Strutner - Caton Landfil & Recycling, LLC.
 
 #### 2 ❓ - Other
 Testifying:

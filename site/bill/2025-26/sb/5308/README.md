@@ -10,11 +10,11 @@
 ### Thu 01/23 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5308 Guaranteed admissions prg.
 #### 34 👍 - Pro
 Testifying:
-* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Jacob Vigdor - University of Washington Faculty
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Daniel Glowitz
 * Dana Anderson - Washington School Information Processing Cooperative
 * Bill Lyne Lyne - United Faculty of Washington State and Council of Faculty
-* Daniel Glowitz
 * Melissa Beard - Council of Presidents
 
 #### 385 👎 - Con

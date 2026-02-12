@@ -35,11 +35,11 @@ Testifying:
 Testifying:
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * 💵Jaime Bodden - WSALPHO
+* Heidi Low
 * 💵Lyset Cadena - CARE Fund
 * Carrie Nyssen - American Lung Association
 * Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
 * Craig Meidl
-* Heidi Low
 * Joe McDermott - State Relations Director | King County
 * Aaron Tulloch - FMSGS/WBBA
 * Beth Ebel - WCAAP
@@ -49,6 +49,7 @@ Testifying:
 #### 215 👎 - Con
 Testifying:
 * Shaun DSylva - WA State Smoke Free Association
+* 💵Ann Simons - JUUL
 * Douglas Ball - Jacksons Food Stores
 * 💵Carolyn Logue - Washington Food Industry Association
 * Justin Rawlinson - Erupted Vapor
@@ -57,7 +58,6 @@ Testifying:
 * 💵Holly Chisa - [Cigar Association of America](/org/cigar_association_of_america/)
 * Jason Green
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
-* 💵Ann Simons - JUUL
 * 💵Aaron Holmes - Vapor Technology Association
 * 💵Crystal Leatherman - WA RETAIL ASSN
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)

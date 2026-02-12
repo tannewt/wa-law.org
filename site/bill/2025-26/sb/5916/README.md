@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 5916 Nonopioid drugs for pain
 #### 8 👍 - Pro
 Testifying:
-* Chanelle Cordova
 * Billy OBryan - Young People in Recovery
-* Giusiana Prosser
 * Coreen Johnson
 * Sarah Tompkins - NW Rare Disease Coalition (501.c.4)
+* Chanelle Cordova
+* Giusiana Prosser
 
 #### 2 👎 - Con
 Testifying:

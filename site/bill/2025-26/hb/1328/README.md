@@ -14,9 +14,9 @@
 #### 127 👍 - Pro
 Testifying:
 * 💵Brynn Brady - Audubon WA
-* Ben Blank - WDFW
 * Dan Siemann - Dept. of Commerce
 * Dave Pringle - Dept. of Commerce
+* Ben Blank - WDFW
 * 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 

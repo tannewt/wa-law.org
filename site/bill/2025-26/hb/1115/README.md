@@ -10,22 +10,21 @@
 ### Tue 01/28 08:00 AM - Finance (FIN): HB 1115 Recording fees/escrow tax
 #### 79 👍 - Pro
 Testifying:
-* MARY HULL-DRURY - Washington Realtors
-* Dwight Bickel
 * 💵Carrie Tellefson - [Washington Land Title Association](/org/washington_land_title_association/)
 * JP Kissling - Fidelity Title Company
 * Maureen Pfaff - Olympic Peninsula Title Company
+* Dwight Bickel
+* Paul Hofmann - As the Owner of the AEGIS Land Title Group
+* Luke Currier - CEO of Land Title and Escrow
+* Anthony Carollo - Vista Title & Escrow
+* Angela Balconi
+* Sherri Fought - Kittitas Title and Escrow
 * Marianne Nichols - Pend Oreille County Auditor
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Michele Silagy
 * Michelle Taylor - WLTA
 * Kelsi Jochim
 * Sean Holland
-* Paul Hofmann - As the Owner of the AEGIS Land Title Group
-* Luke Currier - CEO of Land Title and Escrow
-* Anthony Carollo - Vista Title & Escrow
-* Angela Balconi
-* Sherri Fought - Kittitas Title and Escrow
 
 #### 0 👎 - Con
 

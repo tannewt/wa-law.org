@@ -29,9 +29,9 @@ Testifying:
 
 #### 601 👎 - Con
 Testifying:
-* TaraLyn Fray
 * Sandra Mochizuki
 * Ronald Mochizuki
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

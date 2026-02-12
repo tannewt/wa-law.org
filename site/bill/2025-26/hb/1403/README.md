@@ -37,8 +37,8 @@ Testifying:
 * Dave Hamilton - Councilmember, City of Bellevue
 * 💵Bill Clarke - WA REALTORS
 * Brady Nordstrom
-* Nicholas Carr - Office of the Governor
 * Sandesh Sadalge - Councilmember, City of Tacoma
+* Nicholas Carr - Office of the Governor
 * Bill Cornell - Preg O'Donnell Gillette
 
 #### 7 👎 - Con
@@ -51,17 +51,17 @@ Testifying:
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1403 Condominium construction
 #### 221 👍 - Pro
 Testifying:
-* Todd Sullivan - Sullivan Homes
 * Dave Hamilton - Councilmember, City of Bellevue
-* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Rico Quirindongo - [City of Seattle](/org/city_of_seattle/)
+* Todd Sullivan - Sullivan Homes
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Brady Nordstrom - Housing Development Consortium
+* Brian Holtzclaw - Master Builders Association of King & Snohomish Counties
 * 💵Bill Clarke - WA REALTORS
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Angela Birney - [City of Redmond](/org/city_of_redmond/)
 * John Butler
-* Brady Nordstrom - Housing Development Consortium
-* Brian Holtzclaw - Master Builders Association of King & Snohomish Counties
 * Uche Okezie - HomeSight
 
 #### 4 👎 - Con

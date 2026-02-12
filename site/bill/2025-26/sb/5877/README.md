@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SB 5877 Anesth. assistant surcharges
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 08:00 AM - Health & Long Term Care (HLTC): SB 5877 Anesth. assistant surcharges
 #### 12 👍 - Pro
 Testifying:

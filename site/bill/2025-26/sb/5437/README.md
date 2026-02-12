@@ -9,9 +9,8 @@
 
 ## Meetings
 ### Mon 01/19 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
-#### 13 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
-* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 * Jesse Wing - Washington Employment Lawyers Association (WELA)
 * Sung Shin
 * Taifa Harris
@@ -23,13 +22,15 @@ Testifying:
 * 💵James Crandall - AWB
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
 #### 59 👍 - Pro
 Testifying:
-* Davis Powell - SAG-AFTRA, Seattle Local
 * Steven Bock - Computer Programmer/Digital Rights Advocate
+* Davis Powell - SAG-AFTRA, Seattle Local
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 * Sung Shin
@@ -38,7 +39,7 @@ Testifying:
 
 #### 99 👎 - Con
 Testifying:
-* 💵Mike Burgess - WA State Fairs Association
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Mike Burgess - WA State Fairs Association
 
 #### 1 ❓ - Other

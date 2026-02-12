@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2606/</link>
 		<description>Updates about HB 2606</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -18,10 +18,10 @@
 		<item>
 			<title>👍Katy Ruckle - WaTech</title>
 			<description>Katy Ruckle signed up to testify Pro. They are signed up to represent WaTech.</description>
-			<pubDate>Mon, 26 Jan 2026 09:00:44 GMT</pubDate>
+			<pubDate>Mon, 26 Jan 2026 21:00:44 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Katy/Ruckle/2026-01-26 09:00:44</guid>
+			<guid isPermaLink="false">testifier/Katy/Ruckle/2026-01-26 21:00:44</guid>
 		</item>
 		<item>
 			<title>TEDV - Executive action taken by committee.</title>
@@ -50,6 +50,20 @@
 			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-06/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 89; nays, 6; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 89; nays, 6; absent, 0; excused, 3.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Third reading, passed; yeas, 89; nays, 6; absent, 0; excused, 3.</guid>
 		</item>
 	</channel>
 </rss>

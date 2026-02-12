@@ -16,9 +16,9 @@
 ### Fri 03/21 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5503 Public employee bargaining
 #### 14 👍 - Pro
 Testifying:
-* Melissa Staples - SEIU Healthcare 1199NW
 * 💵Dane Austreng - SEIU Healthcare 1199NW
 * SEIU Austreng - SEIU Healthcare 1199NW
+* Melissa Staples - SEIU Healthcare 1199NW
 * 💵Samantha Grad - Teamsters 117
 
 #### 77 👎 - Con

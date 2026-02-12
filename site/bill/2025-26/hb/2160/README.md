@@ -13,10 +13,10 @@ Testifying:
 * Peter Henry
 * Deborah Nissen
 * Mike Mielke
+* Mike Acord
 * Adam Betts - Technical Support Specialist / SEIU 925
 * Lawrence Brown - Bus driver / SEIU 925
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
-* Mike Acord
 * 💵Erin Haick - SEIU 925
 
 #### 6 👎 - Con

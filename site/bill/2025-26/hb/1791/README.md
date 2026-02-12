@@ -18,9 +18,9 @@
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Nigel Herbig - Mayor, City of Kenmore
 * Scott Pingel - City Manager, City of Newcastle
-* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 
 #### 661 👎 - Con
 Testifying:

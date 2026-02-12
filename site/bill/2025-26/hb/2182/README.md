@@ -25,8 +25,8 @@ Testifying:
 #### 1390 👎 - Con
 Testifying:
 * Eric Lundberg
-* Matthew LePage - First Baptist Church of Lacey
 * Theresa Schrempp - No
+* Matthew LePage - First Baptist Church of Lacey
 * Nicole Peterson
 * Mary Long - Conservative Ladies of America
 * Sharon Damoff

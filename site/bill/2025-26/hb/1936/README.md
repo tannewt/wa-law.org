@@ -10,8 +10,8 @@
 ### Sat 04/05 12:00 PM - Ways & Means (WM): HB 1936 Schools/postretirement
 #### 10 👍 - Pro
 Testifying:
-* 💵Devin Gombosky - ESD 105 Schools Coalition
 * Jim Kowalkowski - Rural Education Center
+* 💵Devin Gombosky - ESD 105 Schools Coalition
 * Jim Kowalkowski - Rural Education Center
 * 💵Marie Sullivan - Eastern Washington Schools Quality Coalition
 

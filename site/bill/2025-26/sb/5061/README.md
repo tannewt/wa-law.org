@@ -16,20 +16,20 @@
 ### Tue 03/25 10:30 AM - Labor & Workplace Standards (LAWS): E2SSB 5061 Public works wages
 #### 576 👍 - Pro
 Testifying:
-* Elizabeth Velasquez - NECA
-* Tim O'Donnell - ibew 76
-* Christina Cauthron
 * Jensen Webster
 * Matthew Remillard
 * 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
 * Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Elizabeth Velasquez - NECA
+* Tim O'Donnell - ibew 76
+* Christina Cauthron
 
 #### 723 👎 - Con
 Testifying:
 * 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
-* Anthony Holan
 * TaraLyn Fray
+* Anthony Holan
 * 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 
 #### 10 ❓ - Other
@@ -51,10 +51,10 @@ Testifying:
 
 #### 254 👎 - Con
 Testifying:
+* Melinda Kopa
 * Lowel Krueger - Association of WA Housing Authorities
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Jerry VanderWood - AGC of Washington
-* Melinda Kopa
 
 #### 9 ❓ - Other
 Testifying:

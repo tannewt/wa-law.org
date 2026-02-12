@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2551/</link>
 		<description>Updates about HB 2551</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -18,10 +18,10 @@
 		<item>
 			<title>❓Tyler Muench - Office of Superintendent of Public Instruction</title>
 			<description>Tyler Muench signed up to testify Other. They are signed up to represent Office of Superintendent of Public Instruction.</description>
-			<pubDate>Fri, 23 Jan 2026 02:40:46 GMT</pubDate>
+			<pubDate>Fri, 23 Jan 2026 14:40:46 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Tyler/Muench/2026-01-23 02:40:46</guid>
+			<guid isPermaLink="false">testifier/Tyler/Muench/2026-01-23 14:40:46</guid>
 		</item>
 		<item>
 			<title>👍Charlie Brown - Tacoma Public Schools</title>
@@ -93,6 +93,13 @@
 			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

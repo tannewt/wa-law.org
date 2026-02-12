@@ -22,11 +22,11 @@ Testifying:
 #### 494 👍 - Pro
 Testifying:
 * Don Bastian
-* Cathleen MacCaul - AARP Washington State
 * 💵Melanie Smith - WA State Long Term Care Ombuds Program
 * Dana Gargus - Kitsap County Regional LTC Ombuds
 * Kirsten York - Multi-Service Center
 * Mike Reardon - Area Agency on Aging & Disabilities of Southwest Washington
+* Cathleen MacCaul - AARP Washington State
 * Alyssa Arley - A2z Elite Services
 
 #### 3 👎 - Con

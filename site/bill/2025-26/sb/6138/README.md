@@ -22,8 +22,8 @@ Testifying:
 Testifying:
 * Peter Gauger - Washington State Society of Oral & Maxillofacial Surgeons
 * O. Ross Beirne
-* Jenna McKenzie - WA State Society of Oral and Maxillofacial Surgeons
 * Seung Yu
+* Jenna McKenzie - WA State Society of Oral and Maxillofacial Surgeons
 * Abhishake Banda
 * Sophie Hinz
 

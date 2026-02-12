@@ -16,8 +16,8 @@
 ### Mon 03/24 04:00 PM - Ways & Means (WM): HB 1858 Deed of trust assignment/fee
 #### 220 👍 - Pro
 Testifying:
-* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * CADENCE MILLER
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Sarah Dickmeyer - Plymouth Housing
 

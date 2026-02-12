@@ -75,8 +75,8 @@
 ### [HB 1840](/bill/2025-26/hb/1840/) - Middle housing   ❓1
 * ❓💵 Bryce Yadon
 
-### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
-* 👍💵 Bryce Yadon
+### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision  👎1 
+* 👎💵 Bryce Yadon
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
 

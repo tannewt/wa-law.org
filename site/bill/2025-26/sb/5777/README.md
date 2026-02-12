@@ -10,8 +10,8 @@
 ### Tue 03/18 04:00 PM - Ways & Means (WM): SB 5777 Payment card processing/tax
 #### 14 👍 - Pro
 Testifying:
-* Kimberly Ford - Fiserv
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Kimberly Ford - Fiserv
 * DENNY ELIASON
 
 #### 65 👎 - Con

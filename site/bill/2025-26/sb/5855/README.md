@@ -61,31 +61,44 @@
 * 12/08/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez introduces bill to ban face-concealing masks by law enforcement in response to masked ICE raids - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/12/08/valdez-introduces-bill-to-ban-face-concealing-masks-by-law-enforcement-in-response-to-masked-ice-raids/#:~:text=Senate%20Bill%205855)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5855 Law enf. face coverings
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 47 👎 - Con
+Testifying:
+* Anthony Mixer - Citizen Volunteer Lobbyist
+
+#### 2 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5855 Law enf. face coverings
 #### 14718 👍 - Pro
 Testifying:
 * Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Diane Paul
-* Paula Fillmore-Sardinas - FMSGS/WBBA
 * Tracy Styles
+* Paula Fillmore-Sardinas - FMSGS/WBBA
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Steve Albrecht
+* Carolina Mejia
+* Nathan Olson - Governor's Office
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Lydia Zepeda - League of Women Voters
 * Kristin Wall
 * Rachael Snell
-* Steve Albrecht
-* Carolina Mejia
-* Nathan Olson - Governor's Office
 * Dalton Coe
 
 #### 2167 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * WA-08 Candidate Andres Valleza
+* Teagan Levine
 * Sharon Damoff
 * Pete Serrano - United States Department of Justice
 * Christian Bianes-Delrosario
-* Teagan Levine
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 44 ❓ - Other

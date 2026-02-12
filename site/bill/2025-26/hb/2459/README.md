@@ -13,12 +13,12 @@
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2459 Schools outside UGAs
 #### 17 👍 - Pro
 Testifying:
+* 💵Grifan Cayce - Tahoma School District Capital Facilities Committee
 * Brian Buck - Lake Washington School District
 * Bill Hernandez - CFO, Tahoma School District
 * Ginger Callison - Superintendent, Tahoma School District
 * Jennifer McMaster - School Board President, Tahoma School District
 * Nina Rose - School Board Member, Tahoma School District
-* 💵Grifan Cayce - Tahoma School District Capital Facilities Committee
 * Charlie Brown - Puget Sound Schools Coalition
 
 #### 3 👎 - Con

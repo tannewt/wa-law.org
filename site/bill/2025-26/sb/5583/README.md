@@ -19,9 +19,6 @@
 ## Meetings
 ### Thu 04/03 01:30 PM - Appropriations (APP): SSB 5583 Fishing and hunting licenses
 #### 8 👍 - Pro
-Testifying:
-* Melena Thompson - WDFW
-* Morgan Stinson - WDFW
 
 #### 892 👎 - Con
 Testifying:

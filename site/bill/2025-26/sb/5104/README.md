@@ -60,9 +60,9 @@ Testifying:
 * Angelo Tadrous - Seattle University Workers' Rights Clinic
 * Yasmene Hammoud - Seattle University Workers' Rights Clinic
 * Elizabeth Ford - Seattle University Workers' Rights Clinic
+* Ingrid Naumann
 * Naya Nour-Eddin
 * Jeremiah Miller - [Fair Work Center](/org/fair_work_center/)
-* Ingrid Naumann
 * Maricres Castro
 * 💵Jean Hill - Washington State Catholic Conference
 * 💵Kelli Carson - Washington State Association for Justice

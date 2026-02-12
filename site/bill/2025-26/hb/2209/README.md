@@ -14,6 +14,7 @@
 #### 279 👍 - Pro
 Testifying:
 * Ken Roske - City of Pasco, Police Chief
+* Mark McAvoy - [City of Liberty Lake](/org/city_of_liberty_lake/)
 * Eric Marlowe - Washington Organized Crime Association
 * 💵Katie Beeson - Washington Food Industry Association
 * Brian Jordan - Renton Police Department, Detective
@@ -21,7 +22,6 @@ Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Kyle Moore - City of Kent/ Government Affairs Manager
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Mark McAvoy - [City of Liberty Lake](/org/city_of_liberty_lake/)
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * Matthew Thomas - Pierce County Prosecutor's Office
 

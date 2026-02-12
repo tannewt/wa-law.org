@@ -38,11 +38,11 @@ Testifying:
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5568 State health plan
 #### 12 👍 - Pro
 Testifying:
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Jim Freeburg - Patient Coalition of Washington
-* 💵Zosia Stanley - Washington State Hospital Association
-* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 1 👎 - Con

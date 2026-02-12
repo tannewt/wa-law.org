@@ -14,8 +14,8 @@ Testifying:
 
 #### 70 👎 - Con
 Testifying:
-* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 0 ❓ - Other

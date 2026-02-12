@@ -54,6 +54,8 @@ Testifying:
 
 #### 162 👎 - Con
 Testifying:
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Holly Chisa - [Consumer Brands Association](/org/consumer_brands_association/)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -61,8 +63,6 @@ Testifying:
 * 💵Lyset Cadena - WM
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * 💵Jennifer Ziegler - Sanitary Service Company
-* Wendy Weiker - [Republic Services](/org/republic_services/)
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Rick Vahl - Waste Connections
 
 #### 1 ❓ - Other
@@ -90,16 +90,16 @@ Testifying:
 #### 861 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Brian Coddington - Sunshine Disposal & Recycling
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Wendy Weiker - [Republic Services](/org/republic_services/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Sandra Mochizuki
 * David Jacober - Retired
 * Sandra Brock
-* Sandra Mochizuki
 * Ted Carlson - Sanitary Service Company
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * TaraLyn Fray
@@ -129,12 +129,12 @@ Testifying:
 #### 707 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Sandra Mochizuki
 * 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.
 * 💵Jennifer Ziegler - Sanitary Service Company
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Holly Chisa - [Consumer Brands Association](/org/consumer_brands_association/)
-* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* Sandra Mochizuki
 * Anthony Holan
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Brian Coddington
@@ -143,8 +143,8 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 01/28 01:30 PM - Environment, Energy & Technology (ENET): SB 5284 Solid waste management
@@ -153,18 +153,18 @@ Testifying:
 * Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
 * 💵Brooke Davies - [Washington Beverage Association](/org/washington_beverage_association/)
 * Lynne Robinson - Mayor, City of Bellevue
-* 💵Jean Hill - Washington State Catholic Conference
-* Marlene Feist - [City of Spokane](/org/city_of_spokane/)
-* Allison Kustic - Association of Plastic Recyclers (APR)
 * Brenda Fincher - Councilmember, City of Kent
 * Dr. Mark Vossler - Washington Physicians for Social Responsibility
 * 💵Peter Steelquist - Surfrider Foundation Washington
-* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Edwin Borbon - AMERIPEN
+* Sydney Harris - [Upstream](/org/upstream/)
+* 💵Jean Hill - Washington State Catholic Conference
+* Marlene Feist - [City of Spokane](/org/city_of_spokane/)
+* Allison Kustic - Association of Plastic Recyclers (APR)
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * 💵Kelsey Hulse - EPR Leadership Forum
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * 💵Megan Lane - Coalition of High Performance Recycling
-* Sydney Harris - [Upstream](/org/upstream/)
 * McKenna Morrigan - Seattle Public Utilities
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * Rebecca Thomas - Glass Packaging Institute
@@ -173,26 +173,26 @@ Testifying:
 * Dr. Mark Vossler - Washington Physicians for Social Responsibility
 * 💵Peter Steelquist - Surfrider Foundation Washington
 
-#### 68 👎 - Con
+#### 67 👎 - Con
 Testifying:
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Wendy Weiker - [Republic Services](/org/republic_services/)
 * Brian Coddington - Sunshine Disposal & Recycling
 * 💵Lyset Cadena - WM (Waste Management)
 * Ted Carlson - Sanitary Service Company
 * Wendy Weiker - [Republic Services](/org/republic_services/)
-* Wendy Weiker - [Republic Services](/org/republic_services/)
-* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Erin Raden - Consumer Brands Assn
 * 💵Diana Carlen - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
 * Rick Vahl - Waste Connections
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* 💵Brandon Houskeeper - NW Grocery Retail Assoc.
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Brandon Houskeeper - NW Grocery Retail Assoc.
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)

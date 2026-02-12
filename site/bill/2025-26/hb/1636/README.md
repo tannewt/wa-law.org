@@ -28,7 +28,7 @@ Testifying:
 
 #### 102 👎 - Con
 Testifying:
-* 💵Brooke Davies - Association of Washington Spirits and Wine Distributors
 * Jessica Davenport
+* 💵Brooke Davies - Association of Washington Spirits and Wine Distributors
 
 #### 0 ❓ - Other

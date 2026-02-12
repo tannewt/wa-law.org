@@ -16,7 +16,7 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Consumer Protection & Business (CPB): HB 2112 Adult content/age minimum
-#### 170 👍 - Pro
+#### 169 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Iain Corby - The Age Verification Providers Association
@@ -26,53 +26,53 @@ Testifying:
 * Taylor Muthoka
 * Rachel Robison
 * MaryAnn Michaelis - HART (Healing Addiction, Relationships, Trauma) Recovery Institute
-* Jeffrey Michaelis - Addo Recovery
 * Meghan Kaul
-* Helen Taylor - Exodus Cry
+* Jeffrey Michaelis - Addo Recovery
 * Kyle Perry
+* Helen Taylor - Exodus Cry
 
-#### 2128 👎 - Con
+#### 2129 👎 - Con
 Testifying:
-* Steven Bock - Computer Scientist
 * Jonathan Pincus
+* Steven Bock - Computer Scientist
 * Robert Zinchak - StopKocsa.com
 * Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Peter Richmond
 * Korrina Eshom
+* Harper Nalley
+* Jamie Lane
 * Tobias Gurl
 * Steven Rhine
 * Devlin Kirby
 * Zachary Larsen
-* Harper Nalley
 * Josef Saltz
-* Jamie Lane
 * Briar (legal name Brittan Bertolin
-* John Ley
 * Michael Hoffman
+* John Ley
 * Brian Brisendine
 * Tanya Tyshkun
 * Evelynn Straw
-* Aria Blair
-* Nathan Finley
 * Eric Pratt - America
 * William Bei
 * Paul Lyons - 1404 Whitworth Avenue South
 * Noel Hoyt
 * Xia Bouzek
 * Ashli McVey
+* Aria Blair
+* Nathan Finley
+* Jessie Hill
+* Quinn Van Order
 * Danni Askini - Gender Justice League
 * 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
 * Ashley Funai
 * Tee Sannon - ACLU of Washington
 * Rose Itano Parsons
-* Jessie Hill
 * Serena Padilla
 * Natasha Stalker
-* Quinn Van Order
 * Ken Nichols
 
 #### 7 ❓ - Other
 Testifying:
-* Michael Stabile - Free Speech Coalition
 * Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Michael Stabile - Free Speech Coalition
 * 💵Rose Feliciano - TechNet

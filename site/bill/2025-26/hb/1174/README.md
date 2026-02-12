@@ -54,8 +54,8 @@ Testifying:
 * James Wells - Administrative Office of the Courts (AOC)
 * Luisa Gracia
 * Michael Díaz - Interpreter and Language Access Commission (ILAC)
-* Alexis Rufi - Fair Work Center/ Working Washington
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Alexis Rufi - Fair Work Center/ Working Washington
 
 #### 4 👎 - Con
 

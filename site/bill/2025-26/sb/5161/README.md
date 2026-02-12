@@ -31,17 +31,14 @@ Testifying:
 * Joe McDermott - State Relations Director | King County
 * Councilmember Megan Dunn - Snohomish County
 * Megan Dunn - Snohomish County Councilmember
+* 💵Jane Wall - County Road Administration Board
+* 💵Nicole Grant - IBEW 46
+* 💵Axel Swanson - Washington State Association of County Engineers
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Andrew Thompson - Chair SCCIT (Snohomish County Committee for Improved Transportation)
 * Nick Bird - City of Aberdeen, City Engineer
 * 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Lee Lambert - [Washington Bikes](/org/washington_bikes/)
-* 💵Jane Wall - County Road Administration Board
-* 💵Nicole Grant - IBEW 46
-* 💵Axel Swanson - Washington State Association of County Engineers
-* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* 💵Mark Watson - PROTEC17
-* Dan Twohig - International Association of Masters, Mates & Pilots
 * John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * Mike Fong - Snohomish County
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
@@ -49,17 +46,24 @@ Testifying:
 * 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
 * 💵Justin Leighton - WSTA
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Mark Watson - PROTEC17
+* Dan Twohig - International Association of Masters, Mates & Pilots
 
 #### 185 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
-* adam browning
 * Margaret Boelter - Zeem Solutions
 * Hannah Steinweg - Rivian
 * Noreen Schmidt
+* adam browning
 
 #### 28 ❓ - Other
 Testifying:
+* Amy Drayer - Islanders for Ferry Action
+* Wendy Aman - Islanders for Ferry Action
+* 💵Misha Lujan - [King County](/org/king_county/)
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Scott Bonjukian - Lid I-5
 * Angela Birney - [City of Redmond](/org/city_of_redmond/)
 * 💵Shelly Helder - South Sound Military and Communities Partnership
@@ -72,19 +76,15 @@ Testifying:
 * Jon Scholes - [Downtown Seattle Association](/org/downtown_seattle_association/)
 * Rick Wallace - Islanders for Ferry Action (IFA)
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
-* Amy Drayer - Islanders for Ferry Action
-* Wendy Aman - Islanders for Ferry Action
-* 💵Misha Lujan - [King County](/org/king_county/)
-* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
-* Jonathan Bingle - Councilmember, City of Spokane
-* Tim Gould
-* Thomas White
 * 💵Cindi Laws - Wheelchair Accessible Taxi Association of WA
 * Tom Thiersch
 * 💵Michael Transue - Tacoma Pierce County Chamber
 * 💵Michael Transue - [City of Fife](/org/city_of_fife/)
 * Walt Elliott - Self
 * 💵James Moschella - [Pacific Environment](/org/pacific_environment/)
+* Jonathan Bingle - Councilmember, City of Spokane
+* Tim Gould
+* Thomas White
 
 ### Tue 01/14 04:00 PM - Transportation (TRAN): SB 5161 Transportation budget
 #### 7 👍 - Pro
@@ -102,17 +102,17 @@ Testifying:
 
 #### 15 ❓ - Other
 Testifying:
+* 💵Debora Munguia - Mason County
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Nancy Backus - Mayor, City of Auburn
-* 💵Debora Munguia - Mason County
 * Chad Bieren - City of Kent Public Works Director
 * Carston Curd - City of Bothell Councilmember
-* Lael White
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
-* Tom White
+* Lael White
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
 * Will Aho - Eastside Fire and Rescue
 * Breck Lebegue - WA Physicians for Social Responsibility
+* Tom White
 * 💵Mara Machulsky - [Hoh Tribe](/org/hoh_tribe/)
 * 💵Peggen Frank - [Hoh Tribe](/org/hoh_tribe/)
 * Joe Kunzler

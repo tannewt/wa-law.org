@@ -10,12 +10,12 @@
 ### Tue 02/11 08:00 AM - Early Learning & K-12 Education (EDU): SB 5551 School library info and tech
 #### 463 👍 - Pro
 Testifying:
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Athena Luccio
 * Eryn Duffee
-* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Laura Sheppard
-* Gavin Downing
 * Kellie Hunt
+* Gavin Downing
 
 #### 64 👎 - Con
 

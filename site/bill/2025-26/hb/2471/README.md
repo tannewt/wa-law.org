@@ -28,10 +28,10 @@ Testifying:
 * Randy Munn
 * Paul Katovich - HighLine Grain Growers, Inc.
 * 💵Patrick Connor - NFIB
-* Mark Hambelton
 * Lauren Gonzalez
 * Kellie Sundquist - Orchard & Vineyard Supply Co.
 * Timothy McDonald - Bluewater Legacy Estates
+* Mark Hambelton
 * Shawn Gay - J&S Orchards
 * Shawn Gay - J&S Orchards
 * Kevin Knight - Farmer

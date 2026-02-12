@@ -10,10 +10,10 @@
 ### Wed 02/19 08:00 AM - Environment, Energy & Technology (ENET): SB 5630 Farm fuel users
 #### 824 👍 - Pro
 Testifying:
-* TaraLyn Fray
-* Sheila Christy
 * 💵Mark Streuli - Washington Potato and Onion Assoc, Washington Assoc of Wheat Growers, Washington Cattlemen's Assoc
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* TaraLyn Fray
+* Sheila Christy
 
 #### 12 👎 - Con
 

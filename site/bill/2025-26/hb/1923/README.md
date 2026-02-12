@@ -21,24 +21,24 @@
 ### Mon 03/17 04:00 PM - Transportation (TRAN): ESHB 1923 Passenger-only ferries
 #### 428 👍 - Pro
 Testifying:
-* Jake Beattie - Northwest Maritime
-* Vicky de Monterey Richoux - VashonBePrepared
 * Peter Philips - Des Moines and Vashon Island
 * Councilmember Justin Paulsen - San Juan County Council
 * Justin Paulsen - San Juan County Council (Council member)
+* Jake Beattie - Northwest Maritime
+* Vicky de Monterey Richoux - VashonBePrepared
 * Jane Fuller - San Juan County Council
 * Jeff Coughlin
 * Ashley Mathews - Mayor City of Bainbridge Island
 * Walt Elliott - Kingston North Kitsap Rotary
-* Curt Gordon - Port of South Whidbey
-* Jim Hedrick - Port of Evertt
-* 💵Jasmine Vasavada - [Port of Olympia](/org/port_of_olympia/)
 * Bruce Agnew - Pacific NW Economic Region Accelerator
 * Dylan Doty - [Kitsap Transit](/org/kitsap_transit/)
 * Kari McVeigh - [San Juan County](/org/san_juan_county/)
 * Tom McBride - Kitsap County
 * Lindsay Browning - Bainbridge Island Chamber of Commerce
 * Eric ffitch - Washington Public Ports Associations
+* Curt Gordon - Port of South Whidbey
+* Jim Hedrick - Port of Evertt
+* 💵Jasmine Vasavada - [Port of Olympia](/org/port_of_olympia/)
 
 #### 3 👎 - Con
 
@@ -49,16 +49,18 @@ Testifying:
 Testifying:
 * Jeff Coughlin
 * Thomas Bridge
+* Amy Drayer - Islanders for Ferry Action
+* Dianne Iverson
+* dean enell - Whidbey Climate Action
+* Peter Philips - US
 * Councilmember Justin Paulsen
 * Glen Bachman - [Port of Everett](/org/port_of_everett/)
 * John Carson - Bainbridge Island Downtown Association
 * Kevin Jones
 * Paul Crow
 * Janet St Clair
-* Amy Drayer - Islanders for Ferry Action
-* Dianne Iverson
-* dean enell - Whidbey Climate Action
-* Peter Philips - US
+* Vicky de Monterey Richou - VashonBePrepared
+* Evan Saint Clair
 * Alexis Mercedes Rinck - [City of Seattle](/org/city_of_seattle/)
 * 💵Jasmine Vasavada - Port of Olympia Commission President
 * Ashley-Nichole Holland - Pier 48 Community Coalition
@@ -67,11 +69,6 @@ Testifying:
 * Leslie Schneider - Bainbridge Island City Council member
 * 💵Anthony Hemstad - City of Des Moines, Legislative Advocate + Port of Olympia Econ Devel Committee Chair (volunteer)
 * Ashley Mathews - [City of Bainbridge Island](/org/city_of_bainbridge_island/)
-* Vicky de Monterey Richou - VashonBePrepared
-* Evan Saint Clair
-* John Kydd
-* Bobbie Moore
-* Walt Elliott
 * Peter Philips
 * Tom McBride - Kitsap County
 * Rick Hughes - Ray’s Pharmacy - Orcas Island, WA
@@ -80,6 +77,9 @@ Testifying:
 * 💵Jeremy Une
 * Curt Gordon - Port of South Whidbey, Commissioner
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* John Kydd
+* Bobbie Moore
+* Walt Elliott
 
 #### 6 👎 - Con
 Testifying:

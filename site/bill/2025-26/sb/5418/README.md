@@ -11,8 +11,8 @@
 ### Mon 03/24 01:30 PM - Education (ED): SSB 5418 Charter school contracts
 #### 120 👍 - Pro
 Testifying:
-* Marcus Harden - WA State Charter School Commission
 * James Bowers - Why Not You Academy
+* Marcus Harden - WA State Charter School Commission
 * 💵Vicki Christophersen - Washington State Charter School Association
 
 #### 5 👎 - Con

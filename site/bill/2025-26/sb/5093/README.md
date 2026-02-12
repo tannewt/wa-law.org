@@ -32,9 +32,9 @@ Testifying:
 Testifying:
 * Carissa Carlson
 * Sandra Mochizuki
+* Theresa Schrempp
 * Jaimee Saling
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
-* Theresa Schrempp
 
 #### 0 ❓ - Other
 

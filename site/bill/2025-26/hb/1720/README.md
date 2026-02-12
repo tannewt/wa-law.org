@@ -16,8 +16,6 @@
 ### Thu 03/13 08:00 AM - Health & Long Term Care (HLTC): SHB 1720 Community care/Rx assistance
 #### 75 👍 - Pro
 Testifying:
-* Ashiana Ranjan
-* Calista Brady
 * Alison Bradywood - Washington State Board of Nursing
 * Vicki McNealley - [Washington Health Care Association](/org/washington_health_care_association/)
 

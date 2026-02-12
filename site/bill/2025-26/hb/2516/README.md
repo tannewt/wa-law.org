@@ -21,10 +21,10 @@ Testifying:
 * Don Thompson - Washington State Pest Management Association
 * Steve Wittig - Washington State Pest Management Association
 * Billy Olesen - WSPMA and Pest Stop Services, Inc.
-* Ben Buchholz - WA Friends of Farms and Forests, NW Ag Coop Council, Far West Agri Assoc, Cattle Feeders, NW Grain
 * 💵Christopher Finarelli - The Household & Commercial Products Association
 * Lucas Rambo - Washington State Pest Management Association
 * Randal Moffat - Pointe Pest Control
+* Ben Buchholz - WA Friends of Farms and Forests, NW Ag Coop Council, Far West Agri Assoc, Cattle Feeders, NW Grain
 
 #### 6 ❓ - Other
 Testifying:

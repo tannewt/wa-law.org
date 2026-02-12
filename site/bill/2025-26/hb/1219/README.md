@@ -25,8 +25,8 @@ Testifying:
 
 #### 610 👎 - Con
 Testifying:
-* Anthony Holan
 * TaraLyn Fray
+* Anthony Holan
 
 #### 0 ❓ - Other
 

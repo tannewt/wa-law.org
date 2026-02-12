@@ -12,11 +12,11 @@
 Testifying:
 * Jennifer Perkins - T1International, Washington chapter
 * Kevin Wren - Washington #insulin4all
+* Matthew Prokop - [American Diabetes Association](/org/american_diabetes_association/)
 * Skyler McCormick
 * Everest Perkins
 * 💵Matthew Hepner - East Wenatchee city council
 * Haven Hepner
-* Matthew Prokop - [American Diabetes Association](/org/american_diabetes_association/)
 
 #### 6 👎 - Con
 Testifying:

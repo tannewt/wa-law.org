@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Health Care & Wellness (HCW): HB 1603 Medicare supp. coverage
-#### 83 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Howard Lazzarini
 * 💵Laurie Weidner - ED of Retired Public Employee Council of WA
@@ -19,8 +19,8 @@ Testifying:
 Testifying:
 * Chris Bandoli - [Americas Health Insurance Plans](/org/americas_health_insurance_plans/)
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
-* Hailey Allen - NAIFA Washington (National Association of Insurance and Financial Advisors)
 * Nico Janssen - Office of the Insurance Commissioner
+* Hailey Allen - NAIFA Washington (National Association of Insurance and Financial Advisors)

@@ -26,10 +26,10 @@ Testifying:
 ### Tue 01/28 10:30 AM - Labor & Workplace Standards (LAWS): HB 1402 Job posting/driver's license
 #### 342 👍 - Pro
 Testifying:
-* Judy Jones
 * 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
 * Hayley Edick
 * Kyrstal Monteros
+* Judy Jones
 * Marci Carpenter - National Federation of the Blind of Washington
 
 #### 10 👎 - Con

@@ -42,17 +42,17 @@ Testifying:
 #### 297 👍 - Pro
 Testifying:
 * Julie Blazek - HKP Architects
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Connor Stein
 * michael eliason - larch lab
 * Angela Rozmyn - Natural and Built Environments
-* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
 #### 911 👎 - Con
 Testifying:
-* Sandra Brock
 * Sandra Mochizuki
+* Sandra Brock
 * TaraLyn Fray
 
 #### 3 ❓ - Other
@@ -63,8 +63,8 @@ Testifying:
 #### 35 👍 - Pro
 Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
-* Rob Harrison - Policy Lead, Passive House Cascadia
 * Julie Blazek - HKP Architects
+* Rob Harrison - Policy Lead, Passive House Cascadia
 
 #### 682 👎 - Con
 Testifying:
@@ -86,9 +86,9 @@ Testifying:
 #### 279 👍 - Pro
 Testifying:
 * Rob Harrison - Passive House Seattle
-* Julie Blazek - AIAWA (American Institute of Architects WA Council)
 * Becaley Elsie
 * MATT HUTCHINS - cast architecture
+* Julie Blazek - AIAWA (American Institute of Architects WA Council)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Stephen Smith - Center for Building in North America
 * Courtnay Anderson

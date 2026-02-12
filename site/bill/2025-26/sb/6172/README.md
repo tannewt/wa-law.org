@@ -18,6 +18,6 @@ Testifying:
 #### 4 ❓ - Other
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* Sophia Steele Conley - WSPA
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Sophia Steele Conley - WSPA
 * 💵Nicolas Garcia - WPUDA

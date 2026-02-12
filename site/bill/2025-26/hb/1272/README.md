@@ -13,8 +13,8 @@
 ### Fri 04/04 01:30 PM - Ways & Means (WM): SHB 1272 Children in crisis program
 #### 130 👍 - Pro
 Testifying:
-* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 * Kashi Arora - Seattle Children's
+* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 * Taku Mineshita - Washington State Office of Governor Bob Ferguson
 
 #### 4 👎 - Con
@@ -24,9 +24,9 @@ Testifying:
 ### Mon 02/17 04:00 PM - Appropriations (APP): HB 1272 Children in crisis program
 #### 29 👍 - Pro
 Testifying:
-* Kashi Arora - Seattle Children's
 * Sheryl Landstrom - Family Voice and A Common Voice, 1580 Rapid Care Team Lead Parent Support Specialist
 * Kimberly Runge - A Common Voice | 1580 Program Manager
+* Kashi Arora - Seattle Children's
 * Lori Kowalski
 * Taku Mineshita - Office of Governor Bob Ferguson
 

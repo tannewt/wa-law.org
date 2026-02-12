@@ -51,36 +51,20 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Early Learning &amp; K-12 Education.</guid>
 		</item>
 		<item>
-			<title>👎Gabriel Jacobs - Queer Power Alliance</title>
+			<title>👎Gabriel Jacobs - Legal Counsel for Youth and Children</title>
 			<description>Gabriel Jacobs signed up to testify Con.</description>
-			<pubDate>Wed, 15 Jan 2025 04:41:48 GMT</pubDate>
+			<pubDate>Wed, 15 Jan 2025 16:41:48 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2025-01-15 04:41:48</guid>
+			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2025-01-15 16:41:48</guid>
 		</item>
 		<item>
-			<title>👎Jennifer Heine-Withee - Queer Power Alliance</title>
+			<title>👎Jennifer Heine-Withee - Legal Counsel for Youth and Children</title>
 			<description>Jennifer Heine-Withee signed up to testify Con.</description>
-			<pubDate>Wed, 15 Jan 2025 11:14:47 GMT</pubDate>
+			<pubDate>Wed, 15 Jan 2025 23:14:47 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jennifer/Heine-Withee/2025-01-15 11:14:47</guid>
-		</item>
-		<item>
-			<title>👍LINDEN JORDAN - PFLAG Skagit</title>
-			<description>LINDEN JORDAN signed up to testify Pro. They are signed up to represent PFLAG Skagit.</description>
-			<pubDate>Thu, 16 Jan 2025 01:45:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/LINDEN/JORDAN/2025-01-16 01:45:20</guid>
-		</item>
-		<item>
-			<title>👎Khushdip Brar - School Board Director</title>
-			<description>Khushdip Brar signed up to testify Con. They are signed up to represent School Board Director.</description>
-			<pubDate>Thu, 16 Jan 2025 07:07:34 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Khushdip/Brar/2025-01-16 07:07:34</guid>
+			<guid isPermaLink="false">testifier/Jennifer/Heine-Withee/2025-01-15 23:14:47</guid>
 		</item>
 		<item>
 			<title>👎Tim Eyman - Initiative Activist</title>
@@ -89,6 +73,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tim/Eyman/2025-01-16 08:54:12</guid>
+		</item>
+		<item>
+			<title>👍LINDEN JORDAN - PFLAG Skagit</title>
+			<description>LINDEN JORDAN signed up to testify Pro. They are signed up to represent PFLAG Skagit.</description>
+			<pubDate>Thu, 16 Jan 2025 13:45:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LINDEN/JORDAN/2025-01-16 13:45:20</guid>
+		</item>
+		<item>
+			<title>👎Khushdip Brar - School Board Director</title>
+			<description>Khushdip Brar signed up to testify Con. They are signed up to represent School Board Director.</description>
+			<pubDate>Thu, 16 Jan 2025 19:07:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Khushdip/Brar/2025-01-16 19:07:34</guid>
 		</item>
 		<item>
 			<title>👎Latasha Mae - 14314 Ne 7th pl</title>
@@ -105,22 +105,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Theresa/Schrempp/2025-01-17 04:07:34</guid>
-		</item>
-		<item>
-			<title>👎Christian Nelson - 14314 Ne 7th pl</title>
-			<description>Christian Nelson signed up to testify Con.</description>
-			<pubDate>Fri, 17 Jan 2025 06:41:46 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Christian/Nelson/2025-01-17 06:41:46</guid>
-		</item>
-		<item>
-			<title>👎Austin Boswell - 14314 Ne 7th pl</title>
-			<description>Austin Boswell signed up to testify Con.</description>
-			<pubDate>Fri, 17 Jan 2025 07:54:47 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Austin/Boswell/2025-01-17 07:54:47</guid>
 		</item>
 		<item>
 			<title>👍Danni Askini - Gender Justice League</title>
@@ -147,12 +131,20 @@
 			<guid isPermaLink="false">testifier/Tonya/Hickman/2025-01-17 11:38:04</guid>
 		</item>
 		<item>
-			<title>👎Autumn Meadows - Lynden School Board</title>
-			<description>Autumn Meadows signed up to testify Con.</description>
-			<pubDate>Sat, 18 Jan 2025 08:10:19 GMT</pubDate>
+			<title>👎Christian Nelson - Lynden School Board</title>
+			<description>Christian Nelson signed up to testify Con.</description>
+			<pubDate>Fri, 17 Jan 2025 18:41:46 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Autumn/Meadows/2025-01-18 08:10:19</guid>
+			<guid isPermaLink="false">testifier/Christian/Nelson/2025-01-17 18:41:46</guid>
+		</item>
+		<item>
+			<title>👎Austin Boswell - Lynden School Board</title>
+			<description>Austin Boswell signed up to testify Con.</description>
+			<pubDate>Fri, 17 Jan 2025 19:54:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Austin/Boswell/2025-01-17 19:54:47</guid>
 		</item>
 		<item>
 			<title>👎Eyman Tim - initiative Activist</title>
@@ -171,20 +163,20 @@
 			<guid isPermaLink="false">testifier/Devin/Owens/2025-01-18 10:31:09</guid>
 		</item>
 		<item>
-			<title>👍Felicia Walker - Gender Justice League</title>
-			<description>Felicia Walker signed up to testify Pro.</description>
-			<pubDate>Sun, 19 Jan 2025 08:33:56 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Felicia/Walker/2025-01-19 08:33:56</guid>
-		</item>
-		<item>
-			<title>👎Dawn Land - Reject 5599 PAC</title>
-			<description>Dawn Land signed up to testify Con. They are signed up to represent Reject 5599 PAC.</description>
-			<pubDate>Sun, 19 Jan 2025 11:56:12 GMT</pubDate>
+			<title>👎Autumn Meadows - initiative Activist</title>
+			<description>Autumn Meadows signed up to testify Con.</description>
+			<pubDate>Sat, 18 Jan 2025 20:10:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Dawn/Land/2025-01-19 11:56:12</guid>
+			<guid isPermaLink="false">testifier/Autumn/Meadows/2025-01-18 20:10:19</guid>
+		</item>
+		<item>
+			<title>👍Felicia Walker - Gender Justice League</title>
+			<description>Felicia Walker signed up to testify Pro.</description>
+			<pubDate>Sun, 19 Jan 2025 20:33:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Felicia/Walker/2025-01-19 20:33:56</guid>
 		</item>
 		<item>
 			<title>This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats</title>
@@ -194,44 +186,12 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205181</guid>
 		</item>
 		<item>
-			<title>👍💵Nicole Kern - Planned Parenthood Alliance Advocates</title>
-			<description>Nicole Kern signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/planned_parenthood_alliance_advocates/"&gt;Planned Parenthood Alliance Advocates&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Mon, 20 Jan 2025 03:25:08 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Nicole/Kern/2025-01-20 03:25:08</guid>
-		</item>
-		<item>
-			<title>👍💵Nasue Nishida - Washington Education Association</title>
-			<description>Nasue Nishida signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_education_association/"&gt;Washington Education Association&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Mon, 20 Jan 2025 04:47:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Nasue/Nishida/2025-01-20 04:47:28</guid>
-		</item>
-		<item>
-			<title>👍💵Elizabeth Hendren - Sexual Violence Law Center</title>
-			<description>Elizabeth Hendren signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sexual_violence_law_center/"&gt;Sexual Violence Law Center&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Mon, 20 Jan 2025 05:23:46 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Elizabeth/Hendren/2025-01-20 05:23:46</guid>
-		</item>
-		<item>
-			<title>👍Jocelyn Richey - Sexual Violence Law Center</title>
-			<description>Jocelyn Richey signed up to testify Pro.</description>
-			<pubDate>Mon, 20 Jan 2025 05:54:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Jocelyn/Richey/2025-01-20 05:54:28</guid>
-		</item>
-		<item>
-			<title>👎Theresa Schrempp - Reject 5599 PAC</title>
-			<description>Theresa Schrempp signed up to testify Con.</description>
-			<pubDate>Mon, 20 Jan 2025 06:03:01 GMT</pubDate>
+			<title>👎Dawn Land - Reject 5599 PAC</title>
+			<description>Dawn Land signed up to testify Con. They are signed up to represent Reject 5599 PAC.</description>
+			<pubDate>Sun, 19 Jan 2025 23:56:12 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Theresa/Schrempp/2025-01-20 06:03:01</guid>
+			<guid isPermaLink="false">testifier/Dawn/Land/2025-01-19 23:56:12</guid>
 		</item>
 		<item>
 			<title>👎Sarah Garriott - Reject 5599 PAC</title>
@@ -242,84 +202,12 @@
 			<guid isPermaLink="false">testifier/Sarah/Garriott/2025-01-20 07:03:03</guid>
 		</item>
 		<item>
-			<title>👍Katelyn Abston - Sexual Violence Law Center</title>
-			<description>Katelyn Abston signed up to testify Pro.</description>
-			<pubDate>Mon, 20 Jan 2025 07:20:47 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Katelyn/Abston/2025-01-20 07:20:47</guid>
-		</item>
-		<item>
-			<title>👎Alan Nolan - Mead School District</title>
-			<description>Alan Nolan signed up to testify Con. They are signed up to represent Mead School District.</description>
-			<pubDate>Mon, 20 Jan 2025 08:15:03 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Alan/Nolan/2025-01-20 08:15:03</guid>
-		</item>
-		<item>
-			<title>👎Dakota Manley - Washington State Young Republicans</title>
-			<description>Dakota Manley signed up to testify Con. They are signed up to represent Washington State Young Republicans.</description>
-			<pubDate>Mon, 20 Jan 2025 08:21:51 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Dakota/Manley/2025-01-20 08:21:51</guid>
-		</item>
-		<item>
 			<title>👍Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)</title>
 			<description>Jenny Plaja signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction (OSPI).</description>
 			<pubDate>Mon, 20 Jan 2025 08:24:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jenny/Plaja/2025-01-20 08:24:19</guid>
-		</item>
-		<item>
-			<title>👍💵Rebekah Gardea - QLaw Foundation of Washington</title>
-			<description>Rebekah Gardea signed up to testify Pro. They are signed up to represent QLaw Foundation of Washington. They are a registered lobbyist.</description>
-			<pubDate>Mon, 20 Jan 2025 08:42:08 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Rebekah/Gardea/2025-01-20 08:42:08</guid>
-		</item>
-		<item>
-			<title>👎Bob Runnells - Informed Choice Washington</title>
-			<description>Bob Runnells signed up to testify Con. They are signed up to represent Informed Choice Washington.</description>
-			<pubDate>Mon, 20 Jan 2025 08:42:56 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bob/Runnells/2025-01-20 08:42:56</guid>
-		</item>
-		<item>
-			<title>👍Emily Carmichael - QLaw Foundation of Washington</title>
-			<description>Emily Carmichael signed up to testify Pro.</description>
-			<pubDate>Mon, 20 Jan 2025 08:54:19 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Emily/Carmichael/2025-01-20 08:54:19</guid>
-		</item>
-		<item>
-			<title>👍NCSP, Carrie Suchy - Washington State Association of School Psychologists</title>
-			<description>NCSP, Carrie Suchy signed up to testify Pro. They are signed up to represent Washington State Association of School Psychologists.</description>
-			<pubDate>Mon, 20 Jan 2025 09:05:38 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/NCSP, Carrie/Suchy/2025-01-20 09:05:38</guid>
-		</item>
-		<item>
-			<title>👍💵Roxana Gomez - Legal Counsel for Youth and Children</title>
-			<description>Roxana Gomez signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/legal_counsel_for_youth_and_children/"&gt;Legal Counsel for Youth and Children&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Mon, 20 Jan 2025 09:06:03 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Roxana/Gomez/2025-01-20 09:06:03</guid>
-		</item>
-		<item>
-			<title>👍Sarah Hurlburt - Legal Counsel for Youth and Children</title>
-			<description>Sarah Hurlburt signed up to testify Pro.</description>
-			<pubDate>Mon, 20 Jan 2025 09:20:47 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Sarah/Hurlburt/2025-01-20 09:20:47</guid>
 		</item>
 		<item>
 			<title>❓Natalya Yudkovsky - Washington State PTA</title>
@@ -344,14 +232,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jean/Hill/2025-01-20 10:18:54</guid>
-		</item>
-		<item>
-			<title>👍Megan Roseman - Northwest Progressive Institute</title>
-			<description>Megan Roseman signed up to testify Pro.</description>
-			<pubDate>Mon, 20 Jan 2025 11:27:03 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Megan/Roseman/2025-01-20 11:27:03</guid>
 		</item>
 		<item>
 			<title>👎Eric Lundberg - Washington State Catholic Conference</title>
@@ -394,7 +274,135 @@
 			<guid isPermaLink="false">testifier/Taylor/Farley/2025-01-20 12:35:54</guid>
 		</item>
 		<item>
-			<title>👎Latasha Mae - Eatonville School Board</title>
+			<title>👍💵Nicole Kern - Planned Parenthood Alliance Advocates</title>
+			<description>Nicole Kern signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/planned_parenthood_alliance_advocates/"&gt;Planned Parenthood Alliance Advocates&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 15:25:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicole/Kern/2025-01-20 15:25:08</guid>
+		</item>
+		<item>
+			<title>👍💵Nasue Nishida - Washington Education Association</title>
+			<description>Nasue Nishida signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_education_association/"&gt;Washington Education Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 16:47:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nasue/Nishida/2025-01-20 16:47:28</guid>
+		</item>
+		<item>
+			<title>👍💵Elizabeth Hendren - Sexual Violence Law Center</title>
+			<description>Elizabeth Hendren signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sexual_violence_law_center/"&gt;Sexual Violence Law Center&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 17:23:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Hendren/2025-01-20 17:23:46</guid>
+		</item>
+		<item>
+			<title>👍Jocelyn Richey - Sexual Violence Law Center</title>
+			<description>Jocelyn Richey signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 17:54:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jocelyn/Richey/2025-01-20 17:54:28</guid>
+		</item>
+		<item>
+			<title>👎Theresa Schrempp - Eatonville School Board</title>
+			<description>Theresa Schrempp signed up to testify Con.</description>
+			<pubDate>Mon, 20 Jan 2025 18:03:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Theresa/Schrempp/2025-01-20 18:03:01</guid>
+		</item>
+		<item>
+			<title>👍Katelyn Abston - Sexual Violence Law Center</title>
+			<description>Katelyn Abston signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 19:20:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katelyn/Abston/2025-01-20 19:20:47</guid>
+		</item>
+		<item>
+			<title>👎Alan Nolan - Mead School District</title>
+			<description>Alan Nolan signed up to testify Con. They are signed up to represent Mead School District.</description>
+			<pubDate>Mon, 20 Jan 2025 20:15:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alan/Nolan/2025-01-20 20:15:03</guid>
+		</item>
+		<item>
+			<title>👎Dakota Manley - Washington State Young Republicans</title>
+			<description>Dakota Manley signed up to testify Con. They are signed up to represent Washington State Young Republicans.</description>
+			<pubDate>Mon, 20 Jan 2025 20:21:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dakota/Manley/2025-01-20 20:21:51</guid>
+		</item>
+		<item>
+			<title>👍💵Rebekah Gardea - QLaw Foundation of Washington</title>
+			<description>Rebekah Gardea signed up to testify Pro. They are signed up to represent QLaw Foundation of Washington. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 20:42:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rebekah/Gardea/2025-01-20 20:42:08</guid>
+		</item>
+		<item>
+			<title>👎Bob Runnells - Informed Choice Washington</title>
+			<description>Bob Runnells signed up to testify Con. They are signed up to represent Informed Choice Washington.</description>
+			<pubDate>Mon, 20 Jan 2025 20:42:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bob/Runnells/2025-01-20 20:42:56</guid>
+		</item>
+		<item>
+			<title>👍Emily Carmichael - QLaw Foundation of Washington</title>
+			<description>Emily Carmichael signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 20:54:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Carmichael/2025-01-20 20:54:19</guid>
+		</item>
+		<item>
+			<title>👍NCSP, Carrie Suchy - Washington State Association of School Psychologists</title>
+			<description>NCSP, Carrie Suchy signed up to testify Pro. They are signed up to represent Washington State Association of School Psychologists.</description>
+			<pubDate>Mon, 20 Jan 2025 21:05:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/NCSP, Carrie/Suchy/2025-01-20 21:05:38</guid>
+		</item>
+		<item>
+			<title>👍💵Roxana Gomez - Legal Counsel for Youth and Children</title>
+			<description>Roxana Gomez signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/legal_counsel_for_youth_and_children/"&gt;Legal Counsel for Youth and Children&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 21:06:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Roxana/Gomez/2025-01-20 21:06:03</guid>
+		</item>
+		<item>
+			<title>👍Sarah Hurlburt - Legal Counsel for Youth and Children</title>
+			<description>Sarah Hurlburt signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 21:20:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Hurlburt/2025-01-20 21:20:47</guid>
+		</item>
+		<item>
+			<title>👍Megan Roseman - Legal Counsel for Youth and Children</title>
+			<description>Megan Roseman signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 23:27:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Megan/Roseman/2025-01-20 23:27:03</guid>
+		</item>
+		<item>
+			<title>👎Darryl Jones - Informed Choice Washington</title>
+			<description>Darryl Jones signed up to testify Con.</description>
+			<pubDate>Tue, 21 Jan 2025 00:32:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Darryl/Jones/2025-01-21 00:32:46</guid>
+		</item>
+		<item>
+			<title>👎Latasha Mae - Informed Choice Washington</title>
 			<description>Latasha Mae signed up to testify Con.</description>
 			<pubDate>Tue, 21 Jan 2025 06:24:30 GMT</pubDate>
 			<category>testifier</category>
@@ -408,14 +416,6 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Eric/Pratt/2025-01-21 06:30:22</guid>
-		</item>
-		<item>
-			<title>👎Darryl Jones - Eatonville School Board</title>
-			<description>Darryl Jones signed up to testify Con.</description>
-			<pubDate>Tue, 21 Jan 2025 12:32:46 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Darryl/Jones/2025-01-21 12:32:46</guid>
 		</item>
 		<item>
 			<title>WSPTA Testifies: Preventing and Reducing Gun Violence and Suicide - WSPTA</title>
@@ -721,66 +721,66 @@
 		<item>
 			<title>👎Laurie Layne - PFLAG Skagit</title>
 			<description>Laurie Layne signed up to testify Con.</description>
-			<pubDate>Wed, 19 Mar 2025 04:39:40 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 16:39:40 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Laurie/Layne/2025-03-19 04:39:40</guid>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-03-19 16:39:40</guid>
 		</item>
 		<item>
 			<title>👎Tim Eyman - Initiative Activist</title>
 			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
-			<pubDate>Wed, 19 Mar 2025 06:35:31 GMT</pubDate>
+			<pubDate>Wed, 19 Mar 2025 18:35:31 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tim/Eyman/2025-03-19 06:35:31</guid>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2025-03-19 18:35:31</guid>
 		</item>
 		<item>
-			<title>👍Jessica Cole - WA State LGBTQ Commission</title>
+			<title>👍Jessica Cole - Lavender Rights Project</title>
 			<description>Jessica Cole signed up to testify Pro.</description>
-			<pubDate>Thu, 20 Mar 2025 03:25:06 GMT</pubDate>
+			<pubDate>Thu, 20 Mar 2025 15:25:06 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Jessica/Cole/2025-03-20 03:25:06</guid>
+			<guid isPermaLink="false">testifier/Jessica/Cole/2025-03-20 15:25:06</guid>
 		</item>
 		<item>
 			<title>👎Dawn Land - Reject 5599 PAC</title>
 			<description>Dawn Land signed up to testify Con. They are signed up to represent Reject 5599 PAC.</description>
-			<pubDate>Thu, 20 Mar 2025 03:30:51 GMT</pubDate>
+			<pubDate>Thu, 20 Mar 2025 15:30:51 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Dawn/Land/2025-03-20 03:30:51</guid>
+			<guid isPermaLink="false">testifier/Dawn/Land/2025-03-20 15:30:51</guid>
 		</item>
 		<item>
 			<title>👎Tonya Hickman - Lynden School Board</title>
 			<description>Tonya Hickman signed up to testify Con. They are signed up to represent Lynden School Board.</description>
-			<pubDate>Thu, 20 Mar 2025 05:46:01 GMT</pubDate>
+			<pubDate>Thu, 20 Mar 2025 17:46:01 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tonya/Hickman/2025-03-20 05:46:01</guid>
+			<guid isPermaLink="false">testifier/Tonya/Hickman/2025-03-20 17:46:01</guid>
 		</item>
 		<item>
-			<title>👍Tiffany Kelly - WA State LGBTQ Commission</title>
+			<title>👍Tiffany Kelly - Lavender Rights Project</title>
 			<description>Tiffany Kelly signed up to testify Pro.</description>
-			<pubDate>Thu, 20 Mar 2025 07:12:22 GMT</pubDate>
+			<pubDate>Thu, 20 Mar 2025 19:12:22 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Tiffany/Kelly/2025-03-20 07:12:22</guid>
+			<guid isPermaLink="false">testifier/Tiffany/Kelly/2025-03-20 19:12:22</guid>
 		</item>
 		<item>
 			<title>👍💵Nicole Kern - Planned Parenthood Alliance Advocates</title>
 			<description>Nicole Kern signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/planned_parenthood_alliance_advocates/"&gt;Planned Parenthood Alliance Advocates&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Thu, 20 Mar 2025 07:24:11 GMT</pubDate>
+			<pubDate>Thu, 20 Mar 2025 19:24:11 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Nicole/Kern/2025-03-20 07:24:11</guid>
+			<guid isPermaLink="false">testifier/Nicole/Kern/2025-03-20 19:24:11</guid>
 		</item>
 		<item>
 			<title>👎Sharon Hanek - Lynden School Board</title>
 			<description>Sharon Hanek signed up to testify Con.</description>
-			<pubDate>Thu, 20 Mar 2025 08:55:58 GMT</pubDate>
+			<pubDate>Thu, 20 Mar 2025 20:55:58 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sharon/Hanek/2025-03-20 08:55:58</guid>
+			<guid isPermaLink="false">testifier/Sharon/Hanek/2025-03-20 20:55:58</guid>
 		</item>
 		<item>
 			<title>👎Khushdip Brar - Lynden School Board</title>
@@ -793,42 +793,34 @@
 		<item>
 			<title>👎kathleen Koch - Lynden School Board</title>
 			<description>kathleen Koch signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 05:18:40 GMT</pubDate>
+			<pubDate>Fri, 21 Mar 2025 17:18:40 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/kathleen/Koch/2025-03-21 05:18:40</guid>
+			<guid isPermaLink="false">testifier/kathleen/Koch/2025-03-21 17:18:40</guid>
 		</item>
 		<item>
 			<title>👎Penny Cox - Lynden School Board</title>
 			<description>Penny Cox signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 05:43:01 GMT</pubDate>
+			<pubDate>Fri, 21 Mar 2025 17:43:01 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Penny/Cox/2025-03-21 05:43:01</guid>
+			<guid isPermaLink="false">testifier/Penny/Cox/2025-03-21 17:43:01</guid>
 		</item>
 		<item>
 			<title>👎Bob Runnells - Informed Choice Washington</title>
 			<description>Bob Runnells signed up to testify Con. They are signed up to represent Informed Choice Washington.</description>
-			<pubDate>Fri, 21 Mar 2025 06:09:50 GMT</pubDate>
+			<pubDate>Fri, 21 Mar 2025 18:09:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bob/Runnells/2025-03-21 06:09:50</guid>
+			<guid isPermaLink="false">testifier/Bob/Runnells/2025-03-21 18:09:50</guid>
 		</item>
 		<item>
 			<title>👎Bobbi Moody - Informed Choice Washington</title>
 			<description>Bobbi Moody signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 08:56:06 GMT</pubDate>
+			<pubDate>Fri, 21 Mar 2025 20:56:06 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bobbi/Moody/2025-03-21 08:56:06</guid>
-		</item>
-		<item>
-			<title>👎Kelly Randall - Informed Choice Washington</title>
-			<description>Kelly Randall signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 10:08:23 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Kelly/Randall/2025-03-21 10:08:23</guid>
+			<guid isPermaLink="false">testifier/Bobbi/Moody/2025-03-21 20:56:06</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans</title>
@@ -838,39 +830,15 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205181</guid>
 		</item>
 		<item>
-			<title>👎Michelle Dunn - Non</title>
-			<description>Michelle Dunn signed up to testify Con. They are signed up to represent Non.</description>
-			<pubDate>Sat, 22 Mar 2025 01:15:08 GMT</pubDate>
+			<title>👎Kelly Randall - Informed Choice Washington</title>
+			<description>Kelly Randall signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 22:08:23 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Michelle/Dunn/2025-03-22 01:15:08</guid>
+			<guid isPermaLink="false">testifier/Kelly/Randall/2025-03-21 22:08:23</guid>
 		</item>
 		<item>
-			<title>👍Albert Johnson - Planned Parenthood Alliance Advocates</title>
-			<description>Albert Johnson signed up to testify Pro.</description>
-			<pubDate>Sat, 22 Mar 2025 01:41:49 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Albert/Johnson/2025-03-22 01:41:49</guid>
-		</item>
-		<item>
-			<title>👍NCSP, Carrie Suchy - Washington State Association of School Psychologists</title>
-			<description>NCSP, Carrie Suchy signed up to testify Pro. They are signed up to represent Washington State Association of School Psychologists.</description>
-			<pubDate>Sat, 22 Mar 2025 03:54:17 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/NCSP, Carrie/Suchy/2025-03-22 03:54:17</guid>
-		</item>
-		<item>
-			<title>👎Scott Carlyle - Non</title>
-			<description>Scott Carlyle signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 05:17:32 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Scott/Carlyle/2025-03-22 05:17:32</guid>
-		</item>
-		<item>
-			<title>👎Antoinette Nepper - Non</title>
+			<title>👎Antoinette Nepper - Informed Choice Washington</title>
 			<description>Antoinette Nepper signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 05:47:14 GMT</pubDate>
 			<category>testifier</category>
@@ -878,7 +846,7 @@
 			<guid isPermaLink="false">testifier/Antoinette/Nepper/2025-03-22 05:47:14</guid>
 		</item>
 		<item>
-			<title>👎mike johnson - Non</title>
+			<title>👎mike johnson - Informed Choice Washington</title>
 			<description>mike johnson signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 06:13:09 GMT</pubDate>
 			<category>testifier</category>
@@ -886,7 +854,7 @@
 			<guid isPermaLink="false">testifier/mike/johnson/2025-03-22 06:13:09</guid>
 		</item>
 		<item>
-			<title>👎Michael Cantrell - Non</title>
+			<title>👎Michael Cantrell - Informed Choice Washington</title>
 			<description>Michael Cantrell signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 06:30:09 GMT</pubDate>
 			<category>testifier</category>
@@ -894,7 +862,7 @@
 			<guid isPermaLink="false">testifier/Michael/Cantrell/2025-03-22 06:30:09</guid>
 		</item>
 		<item>
-			<title>👎Mary Mead - Non</title>
+			<title>👎Mary Mead - Informed Choice Washington</title>
 			<description>Mary Mead signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 07:13:20 GMT</pubDate>
 			<category>testifier</category>
@@ -902,7 +870,7 @@
 			<guid isPermaLink="false">testifier/Mary/Mead/2025-03-22 07:13:20</guid>
 		</item>
 		<item>
-			<title>👎Melanie Middleton - Non</title>
+			<title>👎Melanie Middleton - Informed Choice Washington</title>
 			<description>Melanie Middleton signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 07:17:52 GMT</pubDate>
 			<category>testifier</category>
@@ -934,62 +902,6 @@
 			<guid isPermaLink="false">testifier/Steven/Hayes/2025-03-22 08:39:37</guid>
 		</item>
 		<item>
-			<title>👎Terrica Sallee - FPIW Action</title>
-			<description>Terrica Sallee signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 08:57:47 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Terrica/Sallee/2025-03-22 08:57:47</guid>
-		</item>
-		<item>
-			<title>👎Patrick Harper - FPIW Action</title>
-			<description>Patrick Harper signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 09:47:10 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Patrick/Harper/2025-03-22 09:47:10</guid>
-		</item>
-		<item>
-			<title>👎Andy hilton - FPIW Action</title>
-			<description>Andy hilton signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 09:51:32 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Andy/hilton/2025-03-22 09:51:32</guid>
-		</item>
-		<item>
-			<title>👎Matthew Van Hoy - FPIW Action</title>
-			<description>Matthew Van Hoy signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 09:52:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Matthew/Van Hoy/2025-03-22 09:52:28</guid>
-		</item>
-		<item>
-			<title>👎Gary Swift - FPIW Action</title>
-			<description>Gary Swift signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 09:56:33 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Gary/Swift/2025-03-22 09:56:33</guid>
-		</item>
-		<item>
-			<title>👎Patti Thomas - FPIW Action</title>
-			<description>Patti Thomas signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 10:17:34 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Patti/Thomas/2025-03-22 10:17:34</guid>
-		</item>
-		<item>
-			<title>👎Dannielle Richins - FPIW Action</title>
-			<description>Dannielle Richins signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 10:23:06 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Dannielle/Richins/2025-03-22 10:23:06</guid>
-		</item>
-		<item>
 			<title>👎Linda Wow - FPIW Action</title>
 			<description>Linda Wow signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 10:50:53 GMT</pubDate>
@@ -1006,22 +918,6 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-22 11:09:52</guid>
 		</item>
 		<item>
-			<title>👎Mark Emmett - FPIW Action</title>
-			<description>Mark Emmett signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 11:11:47 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mark/Emmett/2025-03-22 11:11:47</guid>
-		</item>
-		<item>
-			<title>👎Will Swoveland - FPIW Action</title>
-			<description>Will Swoveland signed up to testify Con.</description>
-			<pubDate>Sat, 22 Mar 2025 11:24:43 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Will/Swoveland/2025-03-22 11:24:43</guid>
-		</item>
-		<item>
 			<title>👎Eric Lundberg - FPIW Action</title>
 			<description>Eric Lundberg signed up to testify Con.</description>
 			<pubDate>Sat, 22 Mar 2025 11:45:47 GMT</pubDate>
@@ -1030,44 +926,116 @@
 			<guid isPermaLink="false">testifier/Eric/Lundberg/2025-03-22 11:45:47</guid>
 		</item>
 		<item>
-			<title>👎L Bassett - FPIW Action</title>
-			<description>L Bassett signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 02:26:33 GMT</pubDate>
+			<title>👎Michelle Dunn - Non</title>
+			<description>Michelle Dunn signed up to testify Con. They are signed up to represent Non.</description>
+			<pubDate>Sat, 22 Mar 2025 13:15:08 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/L/Bassett/2025-03-23 02:26:33</guid>
+			<guid isPermaLink="false">testifier/Michelle/Dunn/2025-03-22 13:15:08</guid>
 		</item>
 		<item>
-			<title>👎Linda Yang - FPIW Action</title>
-			<description>Linda Yang signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 04:01:05 GMT</pubDate>
+			<title>👍Albert Johnson - Planned Parenthood Alliance Advocates</title>
+			<description>Albert Johnson signed up to testify Pro.</description>
+			<pubDate>Sat, 22 Mar 2025 13:41:49 GMT</pubDate>
 			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Linda/Yang/2025-03-23 04:01:05</guid>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Albert/Johnson/2025-03-22 13:41:49</guid>
 		</item>
 		<item>
-			<title>👎Yu XiA - FPIW Action</title>
-			<description>Yu XiA signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 04:11:41 GMT</pubDate>
+			<title>👍NCSP, Carrie Suchy - Washington State Association of School Psychologists</title>
+			<description>NCSP, Carrie Suchy signed up to testify Pro. They are signed up to represent Washington State Association of School Psychologists.</description>
+			<pubDate>Sat, 22 Mar 2025 15:54:17 GMT</pubDate>
 			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Yu/XiA/2025-03-23 04:11:41</guid>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/NCSP, Carrie/Suchy/2025-03-22 15:54:17</guid>
 		</item>
 		<item>
-			<title>👎Gang Hua - FPIW Action</title>
-			<description>Gang Hua signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 05:39:30 GMT</pubDate>
+			<title>👎Scott Carlyle - Non</title>
+			<description>Scott Carlyle signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 17:17:32 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Gang/Hua/2025-03-23 05:39:30</guid>
+			<guid isPermaLink="false">testifier/Scott/Carlyle/2025-03-22 17:17:32</guid>
 		</item>
 		<item>
-			<title>👎Hailey Irvine - FPIW Action</title>
-			<description>Hailey Irvine signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 05:53:45 GMT</pubDate>
+			<title>👎Terrica Sallee - Non</title>
+			<description>Terrica Sallee signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 20:57:47 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Hailey/Irvine/2025-03-23 05:53:45</guid>
+			<guid isPermaLink="false">testifier/Terrica/Sallee/2025-03-22 20:57:47</guid>
+		</item>
+		<item>
+			<title>👎Patrick Harper - Non</title>
+			<description>Patrick Harper signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 21:47:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patrick/Harper/2025-03-22 21:47:10</guid>
+		</item>
+		<item>
+			<title>👎Andy hilton - Non</title>
+			<description>Andy hilton signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 21:51:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andy/hilton/2025-03-22 21:51:32</guid>
+		</item>
+		<item>
+			<title>👎Matthew Van Hoy - Non</title>
+			<description>Matthew Van Hoy signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 21:52:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Matthew/Van Hoy/2025-03-22 21:52:28</guid>
+		</item>
+		<item>
+			<title>👎Gary Swift - Non</title>
+			<description>Gary Swift signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 21:56:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gary/Swift/2025-03-22 21:56:33</guid>
+		</item>
+		<item>
+			<title>👎Patti Thomas - Non</title>
+			<description>Patti Thomas signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 22:17:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patti/Thomas/2025-03-22 22:17:34</guid>
+		</item>
+		<item>
+			<title>👎Dannielle Richins - Non</title>
+			<description>Dannielle Richins signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 22:23:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dannielle/Richins/2025-03-22 22:23:06</guid>
+		</item>
+		<item>
+			<title>👎Mark Emmett - Non</title>
+			<description>Mark Emmett signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 23:11:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mark/Emmett/2025-03-22 23:11:47</guid>
+		</item>
+		<item>
+			<title>👎Will Swoveland - Non</title>
+			<description>Will Swoveland signed up to testify Con.</description>
+			<pubDate>Sat, 22 Mar 2025 23:24:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Will/Swoveland/2025-03-22 23:24:43</guid>
+		</item>
+		<item>
+			<title>👎Gregory Powers - Non</title>
+			<description>Gregory Powers signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 00:16:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gregory/Powers/2025-03-23 00:16:31</guid>
 		</item>
 		<item>
 			<title>👎Kathleen Backous - KathleenBackous@yahoo.com</title>
@@ -1078,348 +1046,12 @@
 			<guid isPermaLink="false">testifier/Kathleen/Backous/2025-03-23 06:10:33</guid>
 		</item>
 		<item>
-			<title>👎Mathew Leonard - KathleenBackous@yahoo.com</title>
-			<description>Mathew Leonard signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 06:21:25 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mathew/Leonard/2025-03-23 06:21:25</guid>
-		</item>
-		<item>
 			<title>👎Kathleen Backous - KathleenBackous@yahoo.com</title>
 			<description>Kathleen Backous signed up to testify Con.</description>
 			<pubDate>Sun, 23 Mar 2025 06:24:11 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kathleen/Backous/2025-03-23 06:24:11</guid>
-		</item>
-		<item>
-			<title>👎Janene Petersen - KathleenBackous@yahoo.com</title>
-			<description>Janene Petersen signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:12:52 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Janene/Petersen/2025-03-23 07:12:52</guid>
-		</item>
-		<item>
-			<title>👎Xiue Jiang - KathleenBackous@yahoo.com</title>
-			<description>Xiue Jiang signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:12:56 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Xiue/Jiang/2025-03-23 07:12:56</guid>
-		</item>
-		<item>
-			<title>👎Janene Petersen - KathleenBackous@yahoo.com</title>
-			<description>Janene Petersen signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:29:06 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Janene/Petersen/2025-03-23 07:29:06</guid>
-		</item>
-		<item>
-			<title>👎Michael Stephenson - KathleenBackous@yahoo.com</title>
-			<description>Michael Stephenson signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:34:26 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Michael/Stephenson/2025-03-23 07:34:26</guid>
-		</item>
-		<item>
-			<title>👎Brooks Beaupain - KathleenBackous@yahoo.com</title>
-			<description>Brooks Beaupain signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:34:33 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Brooks/Beaupain/2025-03-23 07:34:33</guid>
-		</item>
-		<item>
-			<title>👎Brooks Beaupain - KathleenBackous@yahoo.com</title>
-			<description>Brooks Beaupain signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:35:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Brooks/Beaupain/2025-03-23 07:35:20</guid>
-		</item>
-		<item>
-			<title>👎Michael Stephenson - KathleenBackous@yahoo.com</title>
-			<description>Michael Stephenson signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:36:12 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Michael/Stephenson/2025-03-23 07:36:12</guid>
-		</item>
-		<item>
-			<title>👎Jeff Solbrack - KathleenBackous@yahoo.com</title>
-			<description>Jeff Solbrack signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:41:15 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jeff/Solbrack/2025-03-23 07:41:15</guid>
-		</item>
-		<item>
-			<title>👎Cindy Solvie - KathleenBackous@yahoo.com</title>
-			<description>Cindy Solvie signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:42:34 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Cindy/Solvie/2025-03-23 07:42:34</guid>
-		</item>
-		<item>
-			<title>👎Joshua Mellor - KathleenBackous@yahoo.com</title>
-			<description>Joshua Mellor signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:42:48 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Joshua/Mellor/2025-03-23 07:42:48</guid>
-		</item>
-		<item>
-			<title>👎Phillip Povero - KathleenBackous@yahoo.com</title>
-			<description>Phillip Povero signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:49:32 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Phillip/Povero/2025-03-23 07:49:32</guid>
-		</item>
-		<item>
-			<title>👎Edie Baxter - KathleenBackous@yahoo.com</title>
-			<description>Edie Baxter signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:49:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Edie/Baxter/2025-03-23 07:49:57</guid>
-		</item>
-		<item>
-			<title>👎Tamera Nason - KathleenBackous@yahoo.com</title>
-			<description>Tamera Nason signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:49:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tamera/Nason/2025-03-23 07:49:57</guid>
-		</item>
-		<item>
-			<title>👎Chad Martin - KathleenBackous@yahoo.com</title>
-			<description>Chad Martin signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:51:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Chad/Martin/2025-03-23 07:51:13</guid>
-		</item>
-		<item>
-			<title>👎Ce Chen - KathleenBackous@yahoo.com</title>
-			<description>Ce Chen signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:56:45 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Ce/Chen/2025-03-23 07:56:45</guid>
-		</item>
-		<item>
-			<title>👎Daniel Jones - KathleenBackous@yahoo.com</title>
-			<description>Daniel Jones signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:57:08 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Daniel/Jones/2025-03-23 07:57:08</guid>
-		</item>
-		<item>
-			<title>👎Keith Knutsen - KathleenBackous@yahoo.com</title>
-			<description>Keith Knutsen signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:57:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Keith/Knutsen/2025-03-23 07:57:13</guid>
-		</item>
-		<item>
-			<title>👎Judith Warren - KathleenBackous@yahoo.com</title>
-			<description>Judith Warren signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 07:57:39 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Judith/Warren/2025-03-23 07:57:39</guid>
-		</item>
-		<item>
-			<title>👎Mark Newton - KathleenBackous@yahoo.com</title>
-			<description>Mark Newton signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:00:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mark/Newton/2025-03-23 08:00:20</guid>
-		</item>
-		<item>
-			<title>👎Steven Church - KathleenBackous@yahoo.com</title>
-			<description>Steven Church signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:00:33 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Steven/Church/2025-03-23 08:00:33</guid>
-		</item>
-		<item>
-			<title>👎Mark Davies - KathleenBackous@yahoo.com</title>
-			<description>Mark Davies signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:03:11 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mark/Davies/2025-03-23 08:03:11</guid>
-		</item>
-		<item>
-			<title>👎Barbara Schmidt - KathleenBackous@yahoo.com</title>
-			<description>Barbara Schmidt signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:03:45 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Barbara/Schmidt/2025-03-23 08:03:45</guid>
-		</item>
-		<item>
-			<title>👎Laurie Layne - KathleenBackous@yahoo.com</title>
-			<description>Laurie Layne signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:06:59 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Laurie/Layne/2025-03-23 08:06:59</guid>
-		</item>
-		<item>
-			<title>👎Micah Welch - KathleenBackous@yahoo.com</title>
-			<description>Micah Welch signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:07:23 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Micah/Welch/2025-03-23 08:07:23</guid>
-		</item>
-		<item>
-			<title>👎Jeffery Sandman - KathleenBackous@yahoo.com</title>
-			<description>Jeffery Sandman signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:08:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jeffery/Sandman/2025-03-23 08:08:13</guid>
-		</item>
-		<item>
-			<title>👎Tamara Richardson - KathleenBackous@yahoo.com</title>
-			<description>Tamara Richardson signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:09:12 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tamara/Richardson/2025-03-23 08:09:12</guid>
-		</item>
-		<item>
-			<title>👎Sandra Brock - KathleenBackous@yahoo.com</title>
-			<description>Sandra Brock signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:09:15 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-23 08:09:15</guid>
-		</item>
-		<item>
-			<title>👎Irene Dong - KathleenBackous@yahoo.com</title>
-			<description>Irene Dong signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:09:16 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Irene/Dong/2025-03-23 08:09:16</guid>
-		</item>
-		<item>
-			<title>👎Timothy Joostens - KathleenBackous@yahoo.com</title>
-			<description>Timothy Joostens signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:09:31 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Timothy/Joostens/2025-03-23 08:09:31</guid>
-		</item>
-		<item>
-			<title>👎C.arissa Rineho,d - KathleenBackous@yahoo.com</title>
-			<description>C.arissa Rineho,d signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:09:48 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/C.arissa/Rineho,d/2025-03-23 08:09:48</guid>
-		</item>
-		<item>
-			<title>👎Sylvia Miller - KathleenBackous@yahoo.com</title>
-			<description>Sylvia Miller signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:09:54 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sylvia/Miller/2025-03-23 08:09:54</guid>
-		</item>
-		<item>
-			<title>👎Loretta Van Corbach-Beck - KathleenBackous@yahoo.com</title>
-			<description>Loretta Van Corbach-Beck signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:10:31 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Loretta/Van Corbach-Beck/2025-03-23 08:10:31</guid>
-		</item>
-		<item>
-			<title>👎Joseph Mcminn - KathleenBackous@yahoo.com</title>
-			<description>Joseph Mcminn signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:11:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Joseph/Mcminn/2025-03-23 08:11:13</guid>
-		</item>
-		<item>
-			<title>👎Jenny Zhou - KathleenBackous@yahoo.com</title>
-			<description>Jenny Zhou signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:11:36 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jenny/Zhou/2025-03-23 08:11:36</guid>
-		</item>
-		<item>
-			<title>👎Connie Agnew - KathleenBackous@yahoo.com</title>
-			<description>Connie Agnew signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:11:41 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Connie/Agnew/2025-03-23 08:11:41</guid>
-		</item>
-		<item>
-			<title>👎Marie-Anne Harkness - KathleenBackous@yahoo.com</title>
-			<description>Marie-Anne Harkness signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:12:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Marie-Anne/Harkness/2025-03-23 08:12:13</guid>
-		</item>
-		<item>
-			<title>👎Candace Horch - KathleenBackous@yahoo.com</title>
-			<description>Candace Horch signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:12:44 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Candace/Horch/2025-03-23 08:12:44</guid>
-		</item>
-		<item>
-			<title>👎Michael Gray - KathleenBackous@yahoo.com</title>
-			<description>Michael Gray signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:14:07 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Michael/Gray/2025-03-23 08:14:07</guid>
-		</item>
-		<item>
-			<title>👎Shannon Hayes - KathleenBackous@yahoo.com</title>
-			<description>Shannon Hayes signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:15:29 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Shannon/Hayes/2025-03-23 08:15:29</guid>
-		</item>
-		<item>
-			<title>👎Henry Taylor - KathleenBackous@yahoo.com</title>
-			<description>Henry Taylor signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:17:06 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Henry/Taylor/2025-03-23 08:17:06</guid>
-		</item>
-		<item>
-			<title>👎Stephen Spencer - KathleenBackous@yahoo.com</title>
-			<description>Stephen Spencer signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:23:32 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Stephen/Spencer/2025-03-23 08:23:32</guid>
 		</item>
 		<item>
 			<title>👎Todd Lytle - KathleenBackous@yahoo.com</title>
@@ -1430,71 +1062,7 @@
 			<guid isPermaLink="false">testifier/Todd/Lytle/2025-03-23 08:24:46</guid>
 		</item>
 		<item>
-			<title>👎Ardith Lupton - KathleenBackous@yahoo.com</title>
-			<description>Ardith Lupton signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:28:38 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Ardith/Lupton/2025-03-23 08:28:38</guid>
-		</item>
-		<item>
-			<title>👎betty barbee - na</title>
-			<description>betty barbee signed up to testify Con. They are signed up to represent na.</description>
-			<pubDate>Sun, 23 Mar 2025 08:31:10 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/betty/barbee/2025-03-23 08:31:10</guid>
-		</item>
-		<item>
-			<title>👎Bradley Corner - na</title>
-			<description>Bradley Corner signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:31:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bradley/Corner/2025-03-23 08:31:57</guid>
-		</item>
-		<item>
-			<title>👎Lewis McMurran - na</title>
-			<description>Lewis McMurran signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:32:49 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Lewis/McMurran/2025-03-23 08:32:49</guid>
-		</item>
-		<item>
-			<title>👎Patricia Bowlin - na</title>
-			<description>Patricia Bowlin signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:33:00 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Patricia/Bowlin/2025-03-23 08:33:00</guid>
-		</item>
-		<item>
-			<title>👎Kari Sabye - na</title>
-			<description>Kari Sabye signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:33:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Kari/Sabye/2025-03-23 08:33:18</guid>
-		</item>
-		<item>
-			<title>👎Duane Lee - na</title>
-			<description>Duane Lee signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:34:35 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Duane/Lee/2025-03-23 08:34:35</guid>
-		</item>
-		<item>
-			<title>👎Jesus Enriquez Enriquez - na</title>
-			<description>Jesus Enriquez Enriquez signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:34:40 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jesus Enriquez/Enriquez/2025-03-23 08:34:40</guid>
-		</item>
-		<item>
-			<title>👎Seth Stewart - na</title>
+			<title>👎Seth Stewart - KathleenBackous@yahoo.com</title>
 			<description>Seth Stewart signed up to testify Con.</description>
 			<pubDate>Sun, 23 Mar 2025 08:35:19 GMT</pubDate>
 			<category>testifier</category>
@@ -1502,188 +1070,12 @@
 			<guid isPermaLink="false">testifier/Seth/Stewart/2025-03-23 08:35:19</guid>
 		</item>
 		<item>
-			<title>👎Anne Chapman - na</title>
-			<description>Anne Chapman signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:35:52 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Anne/Chapman/2025-03-23 08:35:52</guid>
-		</item>
-		<item>
-			<title>👎Jodi Ausbun - na</title>
-			<description>Jodi Ausbun signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:35:52 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jodi/Ausbun/2025-03-23 08:35:52</guid>
-		</item>
-		<item>
-			<title>👎Jasmine Deng - na</title>
-			<description>Jasmine Deng signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:38:50 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jasmine/Deng/2025-03-23 08:38:50</guid>
-		</item>
-		<item>
-			<title>👎Mingyan Li - na</title>
-			<description>Mingyan Li signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:41:40 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mingyan/Li/2025-03-23 08:41:40</guid>
-		</item>
-		<item>
-			<title>👎Janice Miller - na</title>
-			<description>Janice Miller signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:42:29 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Janice/Miller/2025-03-23 08:42:29</guid>
-		</item>
-		<item>
-			<title>👎INEZ PETERSEN - none</title>
-			<description>INEZ PETERSEN signed up to testify Con. They are signed up to represent none.</description>
-			<pubDate>Sun, 23 Mar 2025 08:43:05 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/INEZ/PETERSEN/2025-03-23 08:43:05</guid>
-		</item>
-		<item>
-			<title>👎Michael Hertel - none</title>
-			<description>Michael Hertel signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:48:05 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Michael/Hertel/2025-03-23 08:48:05</guid>
-		</item>
-		<item>
-			<title>👎Fred Kaiser - none</title>
-			<description>Fred Kaiser signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:50:09 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Fred/Kaiser/2025-03-23 08:50:09</guid>
-		</item>
-		<item>
-			<title>👎Tyson Barber - none</title>
-			<description>Tyson Barber signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:50:30 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tyson/Barber/2025-03-23 08:50:30</guid>
-		</item>
-		<item>
-			<title>👎Donald Ladely - none</title>
-			<description>Donald Ladely signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:56:12 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Donald/Ladely/2025-03-23 08:56:12</guid>
-		</item>
-		<item>
-			<title>👎Donald Ladely - none</title>
-			<description>Donald Ladely signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:56:33 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Donald/Ladely/2025-03-23 08:56:33</guid>
-		</item>
-		<item>
-			<title>👎Rodney Haywood - none</title>
-			<description>Rodney Haywood signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 08:56:54 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Rodney/Haywood/2025-03-23 08:56:54</guid>
-		</item>
-		<item>
-			<title>👎Marty Munson - none</title>
-			<description>Marty Munson signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:00:19 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Marty/Munson/2025-03-23 09:00:19</guid>
-		</item>
-		<item>
-			<title>👎Dam Pham - none</title>
-			<description>Dam Pham signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:01:36 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Dam/Pham/2025-03-23 09:01:36</guid>
-		</item>
-		<item>
-			<title>👎Rana Smith - none</title>
-			<description>Rana Smith signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:02:51 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Rana/Smith/2025-03-23 09:02:51</guid>
-		</item>
-		<item>
-			<title>👎Joel Easling - none</title>
-			<description>Joel Easling signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:06:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Joel/Easling/2025-03-23 09:06:13</guid>
-		</item>
-		<item>
-			<title>👎Kan Qiu - American Coalition for Equality</title>
-			<description>Kan Qiu signed up to testify Con. They are signed up to represent American Coalition for Equality.</description>
-			<pubDate>Sun, 23 Mar 2025 09:09:09 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Kan/Qiu/2025-03-23 09:09:09</guid>
-		</item>
-		<item>
-			<title>👎Elizabeth New - Washington policy center</title>
-			<description>Elizabeth New signed up to testify Con. They are signed up to represent Washington policy center.</description>
-			<pubDate>Sun, 23 Mar 2025 09:10:43 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Elizabeth/New/2025-03-23 09:10:43</guid>
-		</item>
-		<item>
-			<title>👎Dana Schrader - Washington policy center</title>
+			<title>👎Dana Schrader - KathleenBackous@yahoo.com</title>
 			<description>Dana Schrader signed up to testify Con.</description>
 			<pubDate>Sun, 23 Mar 2025 09:13:20 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Dana/Schrader/2025-03-23 09:13:20</guid>
-		</item>
-		<item>
-			<title>👎Anna Hardin - Washington policy center</title>
-			<description>Anna Hardin signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:14:59 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Anna/Hardin/2025-03-23 09:14:59</guid>
-		</item>
-		<item>
-			<title>👍💵Nasue Nishida - Washington Education Association</title>
-			<description>Nasue Nishida signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_education_association/"&gt;Washington Education Association&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Sun, 23 Mar 2025 09:20:33 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Nasue/Nishida/2025-03-23 09:20:33</guid>
-		</item>
-		<item>
-			<title>👎Michael Carroll - Washington policy center</title>
-			<description>Michael Carroll signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:22:01 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Michael/Carroll/2025-03-23 09:22:01</guid>
-		</item>
-		<item>
-			<title>👎John grey - John Grey</title>
-			<description>John grey signed up to testify Con. They are signed up to represent John Grey.</description>
-			<pubDate>Sun, 23 Mar 2025 09:34:33 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/John/grey/2025-03-23 09:34:33</guid>
 		</item>
 		<item>
 			<title>👎Anthony Mixer - Washington State Young Republicans</title>
@@ -1694,116 +1086,12 @@
 			<guid isPermaLink="false">testifier/Anthony/Mixer/2025-03-23 09:35:21</guid>
 		</item>
 		<item>
-			<title>👎Grace Yan - Washington State Young Republicans</title>
-			<description>Grace Yan signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:35:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Grace/Yan/2025-03-23 09:35:28</guid>
-		</item>
-		<item>
-			<title>👎James Fowler - Washington State Young Republicans</title>
-			<description>James Fowler signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:37:25 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/James/Fowler/2025-03-23 09:37:25</guid>
-		</item>
-		<item>
-			<title>👎Joyce Rong - Washington State Young Republicans</title>
-			<description>Joyce Rong signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:39:25 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Joyce/Rong/2025-03-23 09:39:25</guid>
-		</item>
-		<item>
-			<title>👎Dan Watt - Washington State Young Republicans</title>
-			<description>Dan Watt signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:42:22 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Dan/Watt/2025-03-23 09:42:22</guid>
-		</item>
-		<item>
-			<title>👎Elizabeth Eckels - Washington State Young Republicans</title>
-			<description>Elizabeth Eckels signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:44:29 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Elizabeth/Eckels/2025-03-23 09:44:29</guid>
-		</item>
-		<item>
-			<title>👎Elizabeth Eckels - Washington State Young Republicans</title>
-			<description>Elizabeth Eckels signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:46:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Elizabeth/Eckels/2025-03-23 09:46:18</guid>
-		</item>
-		<item>
 			<title>👎Amanda Kletke - Washington State Young Republicans</title>
 			<description>Amanda Kletke signed up to testify Con.</description>
 			<pubDate>Sun, 23 Mar 2025 09:47:11 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Amanda/Kletke/2025-03-23 09:47:11</guid>
-		</item>
-		<item>
-			<title>👎Evelyne Bishopp - Washington State Young Republicans</title>
-			<description>Evelyne Bishopp signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:48:52 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Evelyne/Bishopp/2025-03-23 09:48:52</guid>
-		</item>
-		<item>
-			<title>👎GINA NATUCCI - Washington State Young Republicans</title>
-			<description>GINA NATUCCI signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:52:47 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/GINA/NATUCCI/2025-03-23 09:52:47</guid>
-		</item>
-		<item>
-			<title>👎Kevin Hauenstein - Washington State Young Republicans</title>
-			<description>Kevin Hauenstein signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:55:59 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Kevin/Hauenstein/2025-03-23 09:55:59</guid>
-		</item>
-		<item>
-			<title>👎Russ Larson - Washington State Young Republicans</title>
-			<description>Russ Larson signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:56:49 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Russ/Larson/2025-03-23 09:56:49</guid>
-		</item>
-		<item>
-			<title>👎Heidi Forslund - Washington State Young Republicans</title>
-			<description>Heidi Forslund signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:59:36 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Heidi/Forslund/2025-03-23 09:59:36</guid>
-		</item>
-		<item>
-			<title>👎Bryan Hoog - Washington State Young Republicans</title>
-			<description>Bryan Hoog signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 09:59:56 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bryan/Hoog/2025-03-23 09:59:56</guid>
-		</item>
-		<item>
-			<title>👎Stephen Blai - Washington State Young Republicans</title>
-			<description>Stephen Blai signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:00:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Stephen/Blai/2025-03-23 10:00:28</guid>
 		</item>
 		<item>
 			<title>👎Kelly O’Brien - Washington State Young Republicans</title>
@@ -1814,14 +1102,6 @@
 			<guid isPermaLink="false">testifier/Kelly/O’Brien/2025-03-23 10:06:51</guid>
 		</item>
 		<item>
-			<title>👎Joshua Rochek - Washington State Young Republicans</title>
-			<description>Joshua Rochek signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:13:46 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Joshua/Rochek/2025-03-23 10:13:46</guid>
-		</item>
-		<item>
 			<title>👎John Axtell - Washington State Young Republicans</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Sun, 23 Mar 2025 10:19:06 GMT</pubDate>
@@ -1830,132 +1110,12 @@
 			<guid isPermaLink="false">testifier/John/Axtell/2025-03-23 10:19:06</guid>
 		</item>
 		<item>
-			<title>👎Gerald Chaney - Washington State Young Republicans</title>
-			<description>Gerald Chaney signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:20:58 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Gerald/Chaney/2025-03-23 10:20:58</guid>
-		</item>
-		<item>
-			<title>👎Janice Wheat - Washington State Young Republicans</title>
-			<description>Janice Wheat signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:21:25 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Janice/Wheat/2025-03-23 10:21:25</guid>
-		</item>
-		<item>
-			<title>👎Wendy Chaney - Washington State Young Republicans</title>
-			<description>Wendy Chaney signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:23:53 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Wendy/Chaney/2025-03-23 10:23:53</guid>
-		</item>
-		<item>
-			<title>👎Bo Pang - Washington State Young Republicans</title>
-			<description>Bo Pang signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:24:53 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bo/Pang/2025-03-23 10:24:53</guid>
-		</item>
-		<item>
-			<title>👎Lance Farris - Washington State Young Republicans</title>
-			<description>Lance Farris signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:26:03 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Lance/Farris/2025-03-23 10:26:03</guid>
-		</item>
-		<item>
 			<title>👍💵Elizabeth Hendren - Sexual Violence Law Center</title>
 			<description>Elizabeth Hendren signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sexual_violence_law_center/"&gt;Sexual Violence Law Center&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Sun, 23 Mar 2025 10:26:17 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Elizabeth/Hendren/2025-03-23 10:26:17</guid>
-		</item>
-		<item>
-			<title>👎Zack Zinter - Washington State Young Republicans</title>
-			<description>Zack Zinter signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:26:55 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Zack/Zinter/2025-03-23 10:26:55</guid>
-		</item>
-		<item>
-			<title>👎C Carter - Washington State Young Republicans</title>
-			<description>C Carter signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:36:01 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/C/Carter/2025-03-23 10:36:01</guid>
-		</item>
-		<item>
-			<title>👎Derek Aunko - Washington State Young Republicans</title>
-			<description>Derek Aunko signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:38:05 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Derek/Aunko/2025-03-23 10:38:05</guid>
-		</item>
-		<item>
-			<title>👎Paul Sadler - Washington State Young Republicans</title>
-			<description>Paul Sadler signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:38:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Paul/Sadler/2025-03-23 10:38:20</guid>
-		</item>
-		<item>
-			<title>👎Khushdip Brar - Washington State Young Republicans</title>
-			<description>Khushdip Brar signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 10:54:05 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Khushdip/Brar/2025-03-23 10:54:05</guid>
-		</item>
-		<item>
-			<title>👎Clinton Fretz - Washington State Young Republicans</title>
-			<description>Clinton Fretz signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 11:15:38 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Clinton/Fretz/2025-03-23 11:15:38</guid>
-		</item>
-		<item>
-			<title>👎Tawny Hiett - Washington State Young Republicans</title>
-			<description>Tawny Hiett signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 11:17:00 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tawny/Hiett/2025-03-23 11:17:00</guid>
-		</item>
-		<item>
-			<title>👎Ping Chen - Washington State Young Republicans</title>
-			<description>Ping Chen signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 11:25:32 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Ping/Chen/2025-03-23 11:25:32</guid>
-		</item>
-		<item>
-			<title>👎Jessica Trotter - Washington State Young Republicans</title>
-			<description>Jessica Trotter signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 11:48:36 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jessica/Trotter/2025-03-23 11:48:36</guid>
-		</item>
-		<item>
-			<title>👎Gregory Powers - Washington State Young Republicans</title>
-			<description>Gregory Powers signed up to testify Con.</description>
-			<pubDate>Sun, 23 Mar 2025 12:16:31 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Gregory/Powers/2025-03-23 12:16:31</guid>
 		</item>
 		<item>
 			<title>👎mike johnson - Washington State Young Republicans</title>
@@ -1974,7 +1134,855 @@
 			<guid isPermaLink="false">testifier/Ida/Bear Robb/2025-03-23 12:37:17</guid>
 		</item>
 		<item>
-			<title>👎Michael Lamagna - Washington State Young Republicans</title>
+			<title>👎L Bassett - Washington State Young Republicans</title>
+			<description>L Bassett signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 14:26:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/L/Bassett/2025-03-23 14:26:33</guid>
+		</item>
+		<item>
+			<title>👎Linda Yang - Washington State Young Republicans</title>
+			<description>Linda Yang signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 16:01:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Linda/Yang/2025-03-23 16:01:05</guid>
+		</item>
+		<item>
+			<title>👎Yu XiA - Washington State Young Republicans</title>
+			<description>Yu XiA signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 16:11:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Yu/XiA/2025-03-23 16:11:41</guid>
+		</item>
+		<item>
+			<title>👎Gang Hua - Washington State Young Republicans</title>
+			<description>Gang Hua signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 17:39:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gang/Hua/2025-03-23 17:39:30</guid>
+		</item>
+		<item>
+			<title>👎Hailey Irvine - Washington State Young Republicans</title>
+			<description>Hailey Irvine signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 17:53:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Hailey/Irvine/2025-03-23 17:53:45</guid>
+		</item>
+		<item>
+			<title>👎Mathew Leonard - Washington State Young Republicans</title>
+			<description>Mathew Leonard signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 18:21:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mathew/Leonard/2025-03-23 18:21:25</guid>
+		</item>
+		<item>
+			<title>👎Janene Petersen - Washington State Young Republicans</title>
+			<description>Janene Petersen signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:12:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Janene/Petersen/2025-03-23 19:12:52</guid>
+		</item>
+		<item>
+			<title>👎Xiue Jiang - Washington State Young Republicans</title>
+			<description>Xiue Jiang signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:12:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Xiue/Jiang/2025-03-23 19:12:56</guid>
+		</item>
+		<item>
+			<title>👎Janene Petersen - Washington State Young Republicans</title>
+			<description>Janene Petersen signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:29:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Janene/Petersen/2025-03-23 19:29:06</guid>
+		</item>
+		<item>
+			<title>👎Michael Stephenson - Washington State Young Republicans</title>
+			<description>Michael Stephenson signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:34:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Stephenson/2025-03-23 19:34:26</guid>
+		</item>
+		<item>
+			<title>👎Brooks Beaupain - Washington State Young Republicans</title>
+			<description>Brooks Beaupain signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:34:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brooks/Beaupain/2025-03-23 19:34:33</guid>
+		</item>
+		<item>
+			<title>👎Brooks Beaupain - Washington State Young Republicans</title>
+			<description>Brooks Beaupain signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:35:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brooks/Beaupain/2025-03-23 19:35:20</guid>
+		</item>
+		<item>
+			<title>👎Michael Stephenson - Washington State Young Republicans</title>
+			<description>Michael Stephenson signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:36:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Stephenson/2025-03-23 19:36:12</guid>
+		</item>
+		<item>
+			<title>👎Jeff Solbrack - Washington State Young Republicans</title>
+			<description>Jeff Solbrack signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:41:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Solbrack/2025-03-23 19:41:15</guid>
+		</item>
+		<item>
+			<title>👎Cindy Solvie - Washington State Young Republicans</title>
+			<description>Cindy Solvie signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:42:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cindy/Solvie/2025-03-23 19:42:34</guid>
+		</item>
+		<item>
+			<title>👎Joshua Mellor - Washington State Young Republicans</title>
+			<description>Joshua Mellor signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:42:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joshua/Mellor/2025-03-23 19:42:48</guid>
+		</item>
+		<item>
+			<title>👎Phillip Povero - Washington State Young Republicans</title>
+			<description>Phillip Povero signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:49:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Phillip/Povero/2025-03-23 19:49:32</guid>
+		</item>
+		<item>
+			<title>👎Edie Baxter - Washington State Young Republicans</title>
+			<description>Edie Baxter signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:49:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Edie/Baxter/2025-03-23 19:49:57</guid>
+		</item>
+		<item>
+			<title>👎Tamera Nason - Washington State Young Republicans</title>
+			<description>Tamera Nason signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:49:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tamera/Nason/2025-03-23 19:49:57</guid>
+		</item>
+		<item>
+			<title>👎Chad Martin - Washington State Young Republicans</title>
+			<description>Chad Martin signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:51:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Chad/Martin/2025-03-23 19:51:13</guid>
+		</item>
+		<item>
+			<title>👎Ce Chen - Washington State Young Republicans</title>
+			<description>Ce Chen signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:56:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ce/Chen/2025-03-23 19:56:45</guid>
+		</item>
+		<item>
+			<title>👎Daniel Jones - Washington State Young Republicans</title>
+			<description>Daniel Jones signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:57:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Daniel/Jones/2025-03-23 19:57:08</guid>
+		</item>
+		<item>
+			<title>👎Keith Knutsen - Washington State Young Republicans</title>
+			<description>Keith Knutsen signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:57:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Keith/Knutsen/2025-03-23 19:57:13</guid>
+		</item>
+		<item>
+			<title>👎Judith Warren - Washington State Young Republicans</title>
+			<description>Judith Warren signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 19:57:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Judith/Warren/2025-03-23 19:57:39</guid>
+		</item>
+		<item>
+			<title>👎Mark Newton - Washington State Young Republicans</title>
+			<description>Mark Newton signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:00:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mark/Newton/2025-03-23 20:00:20</guid>
+		</item>
+		<item>
+			<title>👎Steven Church - Washington State Young Republicans</title>
+			<description>Steven Church signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:00:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steven/Church/2025-03-23 20:00:33</guid>
+		</item>
+		<item>
+			<title>👎Mark Davies - Washington State Young Republicans</title>
+			<description>Mark Davies signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:03:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mark/Davies/2025-03-23 20:03:11</guid>
+		</item>
+		<item>
+			<title>👎Barbara Schmidt - Washington State Young Republicans</title>
+			<description>Barbara Schmidt signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:03:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Barbara/Schmidt/2025-03-23 20:03:45</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Washington State Young Republicans</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:06:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-03-23 20:06:59</guid>
+		</item>
+		<item>
+			<title>👎Micah Welch - Washington State Young Republicans</title>
+			<description>Micah Welch signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:07:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Micah/Welch/2025-03-23 20:07:23</guid>
+		</item>
+		<item>
+			<title>👎Jeffery Sandman - Washington State Young Republicans</title>
+			<description>Jeffery Sandman signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:08:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeffery/Sandman/2025-03-23 20:08:13</guid>
+		</item>
+		<item>
+			<title>👎Tamara Richardson - Washington State Young Republicans</title>
+			<description>Tamara Richardson signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:09:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tamara/Richardson/2025-03-23 20:09:12</guid>
+		</item>
+		<item>
+			<title>👎Sandra Brock - Washington State Young Republicans</title>
+			<description>Sandra Brock signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:09:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-23 20:09:15</guid>
+		</item>
+		<item>
+			<title>👎Irene Dong - Washington State Young Republicans</title>
+			<description>Irene Dong signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:09:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Irene/Dong/2025-03-23 20:09:16</guid>
+		</item>
+		<item>
+			<title>👎Timothy Joostens - Washington State Young Republicans</title>
+			<description>Timothy Joostens signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:09:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Timothy/Joostens/2025-03-23 20:09:31</guid>
+		</item>
+		<item>
+			<title>👎C.arissa Rineho,d - Washington State Young Republicans</title>
+			<description>C.arissa Rineho,d signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:09:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/C.arissa/Rineho,d/2025-03-23 20:09:48</guid>
+		</item>
+		<item>
+			<title>👎Sylvia Miller - Washington State Young Republicans</title>
+			<description>Sylvia Miller signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:09:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sylvia/Miller/2025-03-23 20:09:54</guid>
+		</item>
+		<item>
+			<title>👎Loretta Van Corbach-Beck - Washington State Young Republicans</title>
+			<description>Loretta Van Corbach-Beck signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:10:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Loretta/Van Corbach-Beck/2025-03-23 20:10:31</guid>
+		</item>
+		<item>
+			<title>👎Joseph Mcminn - Washington State Young Republicans</title>
+			<description>Joseph Mcminn signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:11:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joseph/Mcminn/2025-03-23 20:11:13</guid>
+		</item>
+		<item>
+			<title>👎Jenny Zhou - Washington State Young Republicans</title>
+			<description>Jenny Zhou signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:11:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jenny/Zhou/2025-03-23 20:11:36</guid>
+		</item>
+		<item>
+			<title>👎Connie Agnew - Washington State Young Republicans</title>
+			<description>Connie Agnew signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:11:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Connie/Agnew/2025-03-23 20:11:41</guid>
+		</item>
+		<item>
+			<title>👎Marie-Anne Harkness - Washington State Young Republicans</title>
+			<description>Marie-Anne Harkness signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:12:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Marie-Anne/Harkness/2025-03-23 20:12:13</guid>
+		</item>
+		<item>
+			<title>👎Candace Horch - Washington State Young Republicans</title>
+			<description>Candace Horch signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:12:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candace/Horch/2025-03-23 20:12:44</guid>
+		</item>
+		<item>
+			<title>👎Michael Gray - Washington State Young Republicans</title>
+			<description>Michael Gray signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:14:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Gray/2025-03-23 20:14:07</guid>
+		</item>
+		<item>
+			<title>👎Shannon Hayes - Washington State Young Republicans</title>
+			<description>Shannon Hayes signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:15:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shannon/Hayes/2025-03-23 20:15:29</guid>
+		</item>
+		<item>
+			<title>👎Henry Taylor - Washington State Young Republicans</title>
+			<description>Henry Taylor signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:17:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Henry/Taylor/2025-03-23 20:17:06</guid>
+		</item>
+		<item>
+			<title>👎Stephen Spencer - Washington State Young Republicans</title>
+			<description>Stephen Spencer signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:23:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Stephen/Spencer/2025-03-23 20:23:32</guid>
+		</item>
+		<item>
+			<title>👎Ardith Lupton - Washington State Young Republicans</title>
+			<description>Ardith Lupton signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:28:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ardith/Lupton/2025-03-23 20:28:38</guid>
+		</item>
+		<item>
+			<title>👎betty barbee - na</title>
+			<description>betty barbee signed up to testify Con. They are signed up to represent na.</description>
+			<pubDate>Sun, 23 Mar 2025 20:31:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/betty/barbee/2025-03-23 20:31:10</guid>
+		</item>
+		<item>
+			<title>👎Bradley Corner - na</title>
+			<description>Bradley Corner signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:31:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bradley/Corner/2025-03-23 20:31:57</guid>
+		</item>
+		<item>
+			<title>👎Lewis McMurran - na</title>
+			<description>Lewis McMurran signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:32:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lewis/McMurran/2025-03-23 20:32:49</guid>
+		</item>
+		<item>
+			<title>👎Patricia Bowlin - na</title>
+			<description>Patricia Bowlin signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:33:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patricia/Bowlin/2025-03-23 20:33:00</guid>
+		</item>
+		<item>
+			<title>👎Kari Sabye - na</title>
+			<description>Kari Sabye signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:33:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kari/Sabye/2025-03-23 20:33:18</guid>
+		</item>
+		<item>
+			<title>👎Duane Lee - na</title>
+			<description>Duane Lee signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:34:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Duane/Lee/2025-03-23 20:34:35</guid>
+		</item>
+		<item>
+			<title>👎Jesus Enriquez Enriquez - na</title>
+			<description>Jesus Enriquez Enriquez signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:34:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jesus Enriquez/Enriquez/2025-03-23 20:34:40</guid>
+		</item>
+		<item>
+			<title>👎Anne Chapman - na</title>
+			<description>Anne Chapman signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:35:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anne/Chapman/2025-03-23 20:35:52</guid>
+		</item>
+		<item>
+			<title>👎Jodi Ausbun - na</title>
+			<description>Jodi Ausbun signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:35:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jodi/Ausbun/2025-03-23 20:35:52</guid>
+		</item>
+		<item>
+			<title>👎Jasmine Deng - na</title>
+			<description>Jasmine Deng signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:38:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jasmine/Deng/2025-03-23 20:38:50</guid>
+		</item>
+		<item>
+			<title>👎Mingyan Li - na</title>
+			<description>Mingyan Li signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:41:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mingyan/Li/2025-03-23 20:41:40</guid>
+		</item>
+		<item>
+			<title>👎Janice Miller - na</title>
+			<description>Janice Miller signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:42:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Janice/Miller/2025-03-23 20:42:29</guid>
+		</item>
+		<item>
+			<title>👎INEZ PETERSEN - none</title>
+			<description>INEZ PETERSEN signed up to testify Con. They are signed up to represent none.</description>
+			<pubDate>Sun, 23 Mar 2025 20:43:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/INEZ/PETERSEN/2025-03-23 20:43:05</guid>
+		</item>
+		<item>
+			<title>👎Michael Hertel - none</title>
+			<description>Michael Hertel signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:48:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Hertel/2025-03-23 20:48:05</guid>
+		</item>
+		<item>
+			<title>👎Fred Kaiser - none</title>
+			<description>Fred Kaiser signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:50:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Fred/Kaiser/2025-03-23 20:50:09</guid>
+		</item>
+		<item>
+			<title>👎Tyson Barber - none</title>
+			<description>Tyson Barber signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:50:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tyson/Barber/2025-03-23 20:50:30</guid>
+		</item>
+		<item>
+			<title>👎Donald Ladely - none</title>
+			<description>Donald Ladely signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:56:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Donald/Ladely/2025-03-23 20:56:12</guid>
+		</item>
+		<item>
+			<title>👎Donald Ladely - none</title>
+			<description>Donald Ladely signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:56:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Donald/Ladely/2025-03-23 20:56:33</guid>
+		</item>
+		<item>
+			<title>👎Rodney Haywood - none</title>
+			<description>Rodney Haywood signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 20:56:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rodney/Haywood/2025-03-23 20:56:54</guid>
+		</item>
+		<item>
+			<title>👎Marty Munson - none</title>
+			<description>Marty Munson signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:00:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Marty/Munson/2025-03-23 21:00:19</guid>
+		</item>
+		<item>
+			<title>👎Dam Pham - none</title>
+			<description>Dam Pham signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:01:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dam/Pham/2025-03-23 21:01:36</guid>
+		</item>
+		<item>
+			<title>👎Rana Smith - none</title>
+			<description>Rana Smith signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:02:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rana/Smith/2025-03-23 21:02:51</guid>
+		</item>
+		<item>
+			<title>👎Joel Easling - none</title>
+			<description>Joel Easling signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:06:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joel/Easling/2025-03-23 21:06:13</guid>
+		</item>
+		<item>
+			<title>👎Kan Qiu - American Coalition for Equality</title>
+			<description>Kan Qiu signed up to testify Con. They are signed up to represent American Coalition for Equality.</description>
+			<pubDate>Sun, 23 Mar 2025 21:09:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kan/Qiu/2025-03-23 21:09:09</guid>
+		</item>
+		<item>
+			<title>👎Elizabeth New - Washington policy center</title>
+			<description>Elizabeth New signed up to testify Con. They are signed up to represent Washington policy center.</description>
+			<pubDate>Sun, 23 Mar 2025 21:10:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Elizabeth/New/2025-03-23 21:10:43</guid>
+		</item>
+		<item>
+			<title>👎Anna Hardin - Washington policy center</title>
+			<description>Anna Hardin signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:14:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anna/Hardin/2025-03-23 21:14:59</guid>
+		</item>
+		<item>
+			<title>👍💵Nasue Nishida - Washington Education Association</title>
+			<description>Nasue Nishida signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_education_association/"&gt;Washington Education Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 23 Mar 2025 21:20:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nasue/Nishida/2025-03-23 21:20:33</guid>
+		</item>
+		<item>
+			<title>👎Michael Carroll - Washington policy center</title>
+			<description>Michael Carroll signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:22:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Carroll/2025-03-23 21:22:01</guid>
+		</item>
+		<item>
+			<title>👎John grey - John Grey</title>
+			<description>John grey signed up to testify Con. They are signed up to represent John Grey.</description>
+			<pubDate>Sun, 23 Mar 2025 21:34:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/grey/2025-03-23 21:34:33</guid>
+		</item>
+		<item>
+			<title>👎Grace Yan - John Grey</title>
+			<description>Grace Yan signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:35:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Grace/Yan/2025-03-23 21:35:28</guid>
+		</item>
+		<item>
+			<title>👎James Fowler - John Grey</title>
+			<description>James Fowler signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:37:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Fowler/2025-03-23 21:37:25</guid>
+		</item>
+		<item>
+			<title>👎Joyce Rong - John Grey</title>
+			<description>Joyce Rong signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:39:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joyce/Rong/2025-03-23 21:39:25</guid>
+		</item>
+		<item>
+			<title>👎Dan Watt - John Grey</title>
+			<description>Dan Watt signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:42:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dan/Watt/2025-03-23 21:42:22</guid>
+		</item>
+		<item>
+			<title>👎Elizabeth Eckels - John Grey</title>
+			<description>Elizabeth Eckels signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:44:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Eckels/2025-03-23 21:44:29</guid>
+		</item>
+		<item>
+			<title>👎Elizabeth Eckels - John Grey</title>
+			<description>Elizabeth Eckels signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:46:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Eckels/2025-03-23 21:46:18</guid>
+		</item>
+		<item>
+			<title>👎Evelyne Bishopp - John Grey</title>
+			<description>Evelyne Bishopp signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:48:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Evelyne/Bishopp/2025-03-23 21:48:52</guid>
+		</item>
+		<item>
+			<title>👎GINA NATUCCI - John Grey</title>
+			<description>GINA NATUCCI signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:52:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/GINA/NATUCCI/2025-03-23 21:52:47</guid>
+		</item>
+		<item>
+			<title>👎Kevin Hauenstein - John Grey</title>
+			<description>Kevin Hauenstein signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:55:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kevin/Hauenstein/2025-03-23 21:55:59</guid>
+		</item>
+		<item>
+			<title>👎Russ Larson - John Grey</title>
+			<description>Russ Larson signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:56:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russ/Larson/2025-03-23 21:56:49</guid>
+		</item>
+		<item>
+			<title>👎Heidi Forslund - John Grey</title>
+			<description>Heidi Forslund signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:59:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Heidi/Forslund/2025-03-23 21:59:36</guid>
+		</item>
+		<item>
+			<title>👎Bryan Hoog - John Grey</title>
+			<description>Bryan Hoog signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 21:59:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bryan/Hoog/2025-03-23 21:59:56</guid>
+		</item>
+		<item>
+			<title>👎Stephen Blai - John Grey</title>
+			<description>Stephen Blai signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:00:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Stephen/Blai/2025-03-23 22:00:28</guid>
+		</item>
+		<item>
+			<title>👎Joshua Rochek - John Grey</title>
+			<description>Joshua Rochek signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:13:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joshua/Rochek/2025-03-23 22:13:46</guid>
+		</item>
+		<item>
+			<title>👎Gerald Chaney - John Grey</title>
+			<description>Gerald Chaney signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:20:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gerald/Chaney/2025-03-23 22:20:58</guid>
+		</item>
+		<item>
+			<title>👎Janice Wheat - John Grey</title>
+			<description>Janice Wheat signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:21:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Janice/Wheat/2025-03-23 22:21:25</guid>
+		</item>
+		<item>
+			<title>👎Wendy Chaney - John Grey</title>
+			<description>Wendy Chaney signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:23:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Wendy/Chaney/2025-03-23 22:23:53</guid>
+		</item>
+		<item>
+			<title>👎Bo Pang - John Grey</title>
+			<description>Bo Pang signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:24:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bo/Pang/2025-03-23 22:24:53</guid>
+		</item>
+		<item>
+			<title>👎Lance Farris - John Grey</title>
+			<description>Lance Farris signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:26:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lance/Farris/2025-03-23 22:26:03</guid>
+		</item>
+		<item>
+			<title>👎Zack Zinter - John Grey</title>
+			<description>Zack Zinter signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:26:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Zack/Zinter/2025-03-23 22:26:55</guid>
+		</item>
+		<item>
+			<title>👎C Carter - John Grey</title>
+			<description>C Carter signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:36:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/C/Carter/2025-03-23 22:36:01</guid>
+		</item>
+		<item>
+			<title>👎Derek Aunko - John Grey</title>
+			<description>Derek Aunko signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:38:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Derek/Aunko/2025-03-23 22:38:05</guid>
+		</item>
+		<item>
+			<title>👎Paul Sadler - John Grey</title>
+			<description>Paul Sadler signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:38:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paul/Sadler/2025-03-23 22:38:20</guid>
+		</item>
+		<item>
+			<title>👎Khushdip Brar - John Grey</title>
+			<description>Khushdip Brar signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 22:54:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Khushdip/Brar/2025-03-23 22:54:05</guid>
+		</item>
+		<item>
+			<title>👎Clinton Fretz - John Grey</title>
+			<description>Clinton Fretz signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 23:15:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Clinton/Fretz/2025-03-23 23:15:38</guid>
+		</item>
+		<item>
+			<title>👎Tawny Hiett - John Grey</title>
+			<description>Tawny Hiett signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 23:17:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tawny/Hiett/2025-03-23 23:17:00</guid>
+		</item>
+		<item>
+			<title>👎Ping Chen - John Grey</title>
+			<description>Ping Chen signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 23:25:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ping/Chen/2025-03-23 23:25:32</guid>
+		</item>
+		<item>
+			<title>👎Jessica Trotter - John Grey</title>
+			<description>Jessica Trotter signed up to testify Con.</description>
+			<pubDate>Sun, 23 Mar 2025 23:48:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jessica/Trotter/2025-03-23 23:48:36</guid>
+		</item>
+		<item>
+			<title>👎John Patterson - John Grey</title>
+			<description>John Patterson signed up to testify Con.</description>
+			<pubDate>Mon, 24 Mar 2025 00:21:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Patterson/2025-03-24 00:21:23</guid>
+		</item>
+		<item>
+			<title>👎Michael Lamagna - John Grey</title>
 			<description>Michael Lamagna signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 02:25:28 GMT</pubDate>
 			<category>testifier</category>
@@ -1982,7 +1990,7 @@
 			<guid isPermaLink="false">testifier/Michael/Lamagna/2025-03-24 02:25:28</guid>
 		</item>
 		<item>
-			<title>👎Mary Falk - Washington State Young Republicans</title>
+			<title>👎Mary Falk - John Grey</title>
 			<description>Mary Falk signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 02:36:01 GMT</pubDate>
 			<category>testifier</category>
@@ -1990,7 +1998,7 @@
 			<guid isPermaLink="false">testifier/Mary/Falk/2025-03-24 02:36:01</guid>
 		</item>
 		<item>
-			<title>👎Kathy Nelsen - Washington State Young Republicans</title>
+			<title>👎Kathy Nelsen - John Grey</title>
 			<description>Kathy Nelsen signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 03:57:52 GMT</pubDate>
 			<category>testifier</category>
@@ -1998,7 +2006,7 @@
 			<guid isPermaLink="false">testifier/Kathy/Nelsen/2025-03-24 03:57:52</guid>
 		</item>
 		<item>
-			<title>👎Steven Duenkel - Washington State Young Republicans</title>
+			<title>👎Steven Duenkel - John Grey</title>
 			<description>Steven Duenkel signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 04:07:59 GMT</pubDate>
 			<category>testifier</category>
@@ -2006,7 +2014,7 @@
 			<guid isPermaLink="false">testifier/Steven/Duenkel/2025-03-24 04:07:59</guid>
 		</item>
 		<item>
-			<title>👎Hayley Dennison - Washington State Young Republicans</title>
+			<title>👎Hayley Dennison - John Grey</title>
 			<description>Hayley Dennison signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 04:17:18 GMT</pubDate>
 			<category>testifier</category>
@@ -2014,7 +2022,7 @@
 			<guid isPermaLink="false">testifier/Hayley/Dennison/2025-03-24 04:17:18</guid>
 		</item>
 		<item>
-			<title>👎Peter O'Brien - Washington State Young Republicans</title>
+			<title>👎Peter O'Brien - John Grey</title>
 			<description>Peter O'Brien signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 04:25:23 GMT</pubDate>
 			<category>testifier</category>
@@ -2022,7 +2030,7 @@
 			<guid isPermaLink="false">testifier/Peter/O'Brien/2025-03-24 04:25:23</guid>
 		</item>
 		<item>
-			<title>👎Jeffrey Fullington - Washington State Young Republicans</title>
+			<title>👎Jeffrey Fullington - John Grey</title>
 			<description>Jeffrey Fullington signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 04:25:33 GMT</pubDate>
 			<category>testifier</category>
@@ -2030,7 +2038,7 @@
 			<guid isPermaLink="false">testifier/Jeffrey/Fullington/2025-03-24 04:25:33</guid>
 		</item>
 		<item>
-			<title>👎Patty Stephens - Washington State Young Republicans</title>
+			<title>👎Patty Stephens - John Grey</title>
 			<description>Patty Stephens signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 04:29:03 GMT</pubDate>
 			<category>testifier</category>
@@ -2934,7 +2942,7 @@
 			<guid isPermaLink="false">testifier/Susan/Nystrom/2025-03-24 08:50:22</guid>
 		</item>
 		<item>
-			<title>👍Sara Betnel - Sexual Violence Law Center</title>
+			<title>👍Sara Betnel - Washington Education Association</title>
 			<description>Sara Betnel signed up to testify Pro.</description>
 			<pubDate>Mon, 24 Mar 2025 08:50:37 GMT</pubDate>
 			<category>testifier</category>
@@ -3620,14 +3628,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Patty/Hale/2025-03-24 12:20:31</guid>
-		</item>
-		<item>
-			<title>👎John Patterson - yes ?</title>
-			<description>John Patterson signed up to testify Con.</description>
-			<pubDate>Mon, 24 Mar 2025 12:21:23 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/John/Patterson/2025-03-24 12:21:23</guid>
 		</item>
 		<item>
 			<title>👎Matthew Curry - yes ?</title>

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6210 Health plan certification
@@ -14,11 +15,11 @@ Testifying:
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Ingrid Ulrey - Washington Health Benefit Exchange
 * Karen Keiser - Washington Health Benefit Exchange
-* Jane Beyer - Office of the Insurance Commissioner
 * Ed Travalia
 * Jim Freeburg - Patient Coalition of Washington
 * Lori Taylor - Health Insurance Northwest
 * Sara Abbott - [Better Health Together](/org/better_health_together/)
+* Jane Beyer - Office of the Insurance Commissioner
 * Margurite Ro - AARP Washington
 
 #### 726 👎 - Con

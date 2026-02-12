@@ -12,8 +12,8 @@
 #### 187 👍 - Pro
 Testifying:
 * Mary Heather Ames - Deputy Public Works Director at the City of Pasco
-* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Mary Heather Ames - Deputy Public Works Director at the City of Pasco
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 13 👎 - Con
 Testifying:

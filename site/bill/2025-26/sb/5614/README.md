@@ -23,6 +23,6 @@ Testifying:
 #### 6 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Joe Kunzler
 * 💵Grace Yuan - Puget Sound School Coalition
-* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

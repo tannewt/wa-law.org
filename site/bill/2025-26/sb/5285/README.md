@@ -11,11 +11,11 @@
 #### 109 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Laurie Layne
 * 💵Kevin Schilling - South Sound Chamber Legislative Coalition
-* Laurie Layne
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Laurie Layne
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 297 👎 - Con
 

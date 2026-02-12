@@ -20,8 +20,8 @@ Testifying:
 * Matthew Lundh
 * Paul Kantwill
 * Andrew Lyons
-* 💵Josh Weiss - [City of Ellensburg](/org/city_of_ellensburg/)
 * Ann Leichleiter - Boys & Girls Clubs of the Columbia Basin
+* 💵Josh Weiss - [City of Ellensburg](/org/city_of_ellensburg/)
 * Cory Wright - Kittitas County
 
 #### 1 👎 - Con

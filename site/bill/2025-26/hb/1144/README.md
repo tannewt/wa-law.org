@@ -21,10 +21,10 @@ Testifying:
 ### Wed 01/15 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1144 Superior court judge/Skagit
 #### 8 👍 - Pro
 Testifying:
-* Commissioner Peter Browning - Skagit County Board of Commissioners (replacing Commissioner Lisa Janicki in panel for HB 1144)
 * Commissioner Lisa Janicki - Skagit County Board of Commissioners
 * Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Judge Laura Riquelme - Skagit County Superior Court
+* Commissioner Peter Browning - Skagit County Board of Commissioners (replacing Commissioner Lisa Janicki in panel for HB 1144)
 
 #### 0 👎 - Con
 

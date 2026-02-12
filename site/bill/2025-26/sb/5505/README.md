@@ -10,10 +10,10 @@
 ### Wed 02/05 08:00 AM - Environment, Energy & Technology (ENET): SB 5505 Universal communications
 #### 69 👍 - Pro
 Testifying:
+* Rick Vitzthum - Tenino Telephone Company & Kalama Telephone Company
 * Christopher Carleton - Whatcom County Fire District 5
 * Clint Volk - Union Fire Department
 * Michael Oblizalo - Hood Canal Communications
-* Rick Vitzthum - Tenino Telephone Company & Kalama Telephone Company
 
 #### 354 👎 - Con
 Testifying:

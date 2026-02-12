@@ -10,8 +10,8 @@
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2113 Radiologic technologists
 #### 232 👍 - Pro
 Testifying:
-* Troy Bender - Washington Academy of Physician Associates
 * Caylon Haggard - Docs Who Care
+* Troy Bender - Washington Academy of Physician Associates
 * Dee Bender
 * Troy Bender - WAPA
 * Katie Kolan - Washington State Hospital Association (WSHA)

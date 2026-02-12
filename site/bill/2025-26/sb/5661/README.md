@@ -18,26 +18,26 @@ Testifying:
 * Alex Harrington - NAIOP Washington State
 * Malia Moreno
 * Daniel Klemme - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
+* GORDON HAGGERTY
 * Bruce Becker
 * Sheri Druckman
 * Deborah Reiswig
 * CHUNG-YEE LIN
-* GORDON HAGGERTY
 
 #### 2119 👎 - Con
 Testifying:
-* Sarah Moore
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
-* Kerri Burnside - Bellingham Tenants Union
-* Josie Tracy - Washington Physicians for Social Responsibility
-* Tad Sommerville
-* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
+* Sarah Moore
 * Caroline Hardy - AMHO and Leisure Manor Tenants Association Secretary
 * Caroline Hardy - Secretary of AMHO and Leisure Manor Tenants Association
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Gloria Hazen - Private Citizen
 * Jeffrey Reynolds - ALL AMERICAN PROPERTY SERVICES, LLC
+* Kerri Burnside - Bellingham Tenants Union
+* Josie Tracy - Washington Physicians for Social Responsibility
+* Tad Sommerville
+* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
 * Guinevere Berg
 * Michael Gustavson
 * 💵Matthew Lang - National Organization for Women - WA

@@ -10,14 +10,14 @@
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2512 Real estate/exclusive market
 #### 47 👍 - Pro
 Testifying:
+* Annie Fitzsimmons - Washington Realtors
+* 💵Bill Clarke - Washington Realtors
+* James Fisher - Washington Realtors
 * Lucy Wood - Windermere
 * Nicole Bascomb-Green - Bascomb Real Estate Group
 * Tracy Choate - Realty One Group
 * 💵Anna Boone - [Zillow](/org/zillow/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* Annie Fitzsimmons - Washington Realtors
-* 💵Bill Clarke - Washington Realtors
-* James Fisher - Washington Realtors
 * Adria Buchanan - Fair Housing Center of Washington
 * 💵Ken Short - AWB
 
@@ -25,10 +25,10 @@ Testifying:
 Testifying:
 * Rich Whitehill - Washington Realtor
 * Carol Wyda
+* Robbie Tradal
 * Robert Bailey
 * Alyssa Curran
 * James Garner
-* Robbie Tradal
 * Ming Zhou
 * Michael Orbino
 * Sham Haile

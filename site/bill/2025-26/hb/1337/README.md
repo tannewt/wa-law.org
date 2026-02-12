@@ -17,9 +17,9 @@
 Testifying:
 * Jacob Vigdor - University of Washington Faculty/COF
 * Sam Ligon - Eastern Washington University Faculty/COF
-* Bidisha Biswas - Council of Faculty, Faculty Legislative Rep for WWU
 * Gautham Reddy
 * Amy Hagopian - UW Chapter, American Association of University Professors
+* Bidisha Biswas - Council of Faculty, Faculty Legislative Rep for WWU
 * 💵Collin Bannister - Associated Students of Washington State University
 * 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * Chris Mulick - Washington State University

@@ -14,16 +14,12 @@
 ### Tue 02/11 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1777 Apprenticeship approval
 #### 450 👍 - Pro
 Testifying:
-* Nathan Turner - Alpha and Omega Electric
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Nathan Turner - Alpha and Omega Electric
 * Timothy Rockwell - Rockwell Electric, Inc. Apprenticeship and Training
 * Kyle Johnson - 4J Electric Inc.
 * John Axtell
 * Teresa Ray Bumatay - Lummi TERO
-* Michael Ankney - Inland NW AGC Apprenticeship Program(s)
-* Tom Bajema - Andgar Corporation
-* Nick Massie - Rotschy Inc.  SWCA
-* Anthony Hernandez - BRANDSAFWAY, LLC
 * Keely Friesen
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * Joel Bouchey - Inland Northwest AGC
@@ -31,6 +27,10 @@ Testifying:
 * Hans Frederickson - Frederickson Electric
 * Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
 * Paul Briganti - ABC of Western Washington
+* Michael Ankney - Inland NW AGC Apprenticeship Program(s)
+* Tom Bajema - Andgar Corporation
+* Nick Massie - Rotschy Inc.  SWCA
+* Anthony Hernandez - BRANDSAFWAY, LLC
 * David Peachey
 * Michael Ankney - Inland NW AGC Apprenticeship Program(s)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
@@ -40,12 +40,12 @@ Testifying:
 #### 1889 👎 - Con
 Testifying:
 * Kaley Henneman
-* Peter Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
-* 💵Michael Transue - Mechanical Contractors Association of Western Washington
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Matthew Hepner - [Certified Electrical Workers of Washington](/org/certified_electrical_workers_of_washington/)
+* Peter Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
 * Dawa Sherpa
 * Renee Michener - Laborers' Health and Safety - LIUNA
 * Nadeem Ismail - N I Painting and Construction Co

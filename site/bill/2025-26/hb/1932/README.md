@@ -22,11 +22,11 @@ Testifying:
 * Bryan Mathis
 * Mary White
 * Charlotte “Lotta” Brathwaite - The Bakersmen Collective
-* Bethany Rondeaux - Falcanna
 * TaraLyn Fray
+* Bethany Rondeaux - Falcanna
+* Angel Ahmad - Light Up Enterprise LLC
 * David DesRoches
 * 💵Ezra Eickmeyer - Producers NW
-* Angel Ahmad - Light Up Enterprise LLC
 
 #### 614 👎 - Con
 Testifying:

@@ -13,11 +13,11 @@
 ### Mon 01/27 01:30 PM - Education (ED): HB 1079 Remote testing
 #### 387 👍 - Pro
 Testifying:
-* Matthew Kesler - Battle Ground PS
-* Wenting Zou - Lake Washington High School
 * Wenting Zou - Lake Washington High School
 * Wenting Zou - Lake Washington High School
 * Felicia Kern
+* Matthew Kesler - Battle Ground PS
+* Wenting Zou - Lake Washington High School
 * Kiera O'Brien - [Vancouver Education Association](/org/vancouver_education_association/)
 * James Perry - Digital Public Schools Alliance - Washington (DPSA)
 * Myron Hammond - K12 - Insight School of Washington

@@ -13,35 +13,35 @@
 ### Wed 01/28 08:00 AM - Local Government (LG): HB 2480 Residential dev./zones
 #### 129 👍 - Pro
 Testifying:
-* Carl Shorett
-* Sarah Clark - Seattle Metro Chamber
 * Patience Malaba - HDC
 * Cathy MacCaul - AARP Washington
 * Carter Nelson - CREDA Washington State (formally NAIOPWA)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Carl Shorett
+* Sarah Clark - Seattle Metro Chamber
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Dave Andersen - Department of Commerce
 * Denny Heck - Lt. Governor
 * Em Stone - Governor's Office
 * 💵Jordan Mitchell - Airbnb
-* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
-* 💵Ken Short - AWB
 * 💵Neil Strege - WA Roundtable
 * Nikki Stuck - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Lauren McDonald - [Microsoft](/org/microsoft/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Ken Short - AWB
 
 #### 134 👎 - Con
 Testifying:
 * Melissa Stuart - City of Redmond, Council President
 * Neal Black - Council Member,  City of Kirkland
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Rebecca Kennedy - City of Vancouver, WA
 * Charles Grimm - Mayor, City of Pasco
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Rebecca Deming - [City of Des Moines](/org/city_of_des_moines/)
+* Councilmember Dana Parnello - [City of Maple Valley](/org/city_of_maple_valley/)
 * Mo Malakoutian - City of Bellevue Mayor
 * Shannon Vincent - [City of Lacey](/org/city_of_lacey/)
-* Rebecca Deming - [City of Des Moines](/org/city_of_des_moines/)
 * Mason Thompson - City of Bothell, Mayor
-* Councilmember Dana Parnello - [City of Maple Valley](/org/city_of_maple_valley/)
 
 #### 7 ❓ - Other
 Testifying:

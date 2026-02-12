@@ -11,8 +11,8 @@
 ### Fri 02/07 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1724 POLST orders
 #### 51 👍 - Pro
 Testifying:
-* Hilary Walker
 * Sharmon Figenshaw - Washington POLST Task Force
+* Hilary Walker
 
 #### 0 👎 - Con
 

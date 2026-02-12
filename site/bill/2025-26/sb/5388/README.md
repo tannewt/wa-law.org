@@ -50,8 +50,8 @@ Testifying:
 Testifying:
 * Marc Stern
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
-* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * 💵Ethan Frenchman - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 1 ❓ - Other
 Testifying:

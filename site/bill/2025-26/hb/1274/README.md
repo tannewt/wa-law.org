@@ -23,11 +23,11 @@ Testifying:
 * Kathryn Loring - Washington State Minority and Justice Commission
 * Denise Blacketer
 * Larry Jefferson - Director, Washington State Office of Public Defense
-* Eric Flores - Freedom Project
-* Derrick Jones Jr - Freedom Project
 * Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
 * 💵Chelsea Moore - ACLU-WA
 * Cassandra Butler - Collective Justice
+* Eric Flores - Freedom Project
+* Derrick Jones Jr - Freedom Project
 
 #### 706 👎 - Con
 Testifying:
@@ -43,6 +43,7 @@ Testifying:
 #### 1586 👍 - Pro
 Testifying:
 * Emily Gause - WACDL/WDA
+* Dinah Coble
 * Avery Doutre
 * Bryin Thomas
 * Cassandra Butler - Collective Justice
@@ -51,7 +52,6 @@ Testifying:
 * Kathryn Loring - Washington State Minority and Justice Commission
 * Judge Breean Beggs - Washington State Minority & Justice Commission
 * Larry Jefferson - Director, Washington State Office of Public Defense
-* Dinah Coble
 * Bryan Rodriguez - Capitol Classroom
 * Caya Lenay - Capitol Classroom
 * Kimberly Romeroi

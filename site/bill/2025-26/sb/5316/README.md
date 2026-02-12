@@ -14,8 +14,8 @@
 #### 20 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
-* 💵Jennifer Wallace - WA Association of County Officials
 * Jackie Brunson - Washington State Association of County Treasurers
+* 💵Jennifer Wallace - WA Association of County Officials
 
 #### 6 👎 - Con
 

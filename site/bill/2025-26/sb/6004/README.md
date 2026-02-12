@@ -18,8 +18,8 @@ Testifying:
 
 #### 732 👎 - Con
 Testifying:
-* Cathryn Chudy - Oregon ConservancyFoundation
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
+* Cathryn Chudy - Oregon ConservancyFoundation
 * Roger Lippman
 * Jim Lazar - self
 * Curtis Eschels - Self

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=HB%202532)
@@ -23,8 +24,8 @@ Testifying:
 * Hewan Teshome
 * Loni Greninger - Vice Chairwoman, Jamestown S'Klallam Tribe
 * 💵Jaime Bodden - WSALPHO
-* Alice Palosaari - Attorney General's Office
 * Kari Holley - Whatcom County Health and Community Services
+* Alice Palosaari - Attorney General's Office
 
 #### 60 👎 - Con
 

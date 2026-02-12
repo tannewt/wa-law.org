@@ -16,9 +16,9 @@
 Testifying:
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
-* 💵Marian Dacca - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * 💵Charlee Thompson - NW Energy Coalition
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Marian Dacca - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 
 #### 893 👎 - Con
 Testifying:
@@ -26,9 +26,9 @@ Testifying:
 * Stephen Taylor - Cowlitz PUD
 * Dan Fagerlie - Ferry (County) Public Utility District #1
 * 💵Sheri Nelson - WRECA
+* SUE LANI MADSEN - Washington Rural Environmental Network
 * Jennifer Langdon
 * 💵Nicolas Garcia - WPUDA
-* SUE LANI MADSEN - Washington Rural Environmental Network
 * Ian Cope - Grays Harbor PUD
 
 #### 8 ❓ - Other

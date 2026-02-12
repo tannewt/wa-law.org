@@ -16,11 +16,11 @@
 #### 590 👍 - Pro
 Testifying:
 * Jeffrey Ellis
+* 💵Daniel Landsman - FAMM
+* Tom Sahlberg
 * 💵Arthur Longworth - TeamChild
 * Jenson Hankins
 * Sarah Leon - Community Justice Alliance
-* 💵Daniel Landsman - FAMM
-* Tom Sahlberg
 * Naomi Smith
 
 #### 39 👎 - Con
@@ -36,14 +36,12 @@ Testifying:
 * Jeffrey Ellis
 * Jacob Schmitt - Just Us Solutions
 * Jacob Schmitt - Just Us Solutions, LLC
+* 💵Arthur Longworth - TeamChild
+* Matthew Leon
 * 💵Daniel Landsman - FAMM
 * Dr. Catherine Insel - Northwestern University
 * Jeff Ellis
-* 💵Arthur Longworth - TeamChild
-* Matthew Leon
 * Crystal Waterbury
-* Taylor Rein
-* Kurt Myers
 * Sean Reilly
 * Tom Sahlberg
 * 💵Arthur Longworth - TeamChild

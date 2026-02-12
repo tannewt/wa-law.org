@@ -12,16 +12,16 @@
 #### 117 👍 - Pro
 Testifying:
 * Lisa Woodard
-* Theresa Iler
 * Lisa Thomas - 14920 e 21st ave
 * Morgan Fletcher
 * Marcia Patten
-* Susan Hundeby
 * Karen Nelson
-* Dellann Elliott Mydland - End Brain Cancer Initiative (EBCI), formerly the Chris Elliott Fund
+* Theresa Iler
+* Susan Hundeby
 * Brenda Rhodes
-* Julia Representative Reed
+* Dellann Elliott Mydland - End Brain Cancer Initiative (EBCI), formerly the Chris Elliott Fund
 * Alipi Bonm - Swedish medical center
+* Julia Representative Reed
 
 #### 0 👎 - Con
 

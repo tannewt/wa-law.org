@@ -27,9 +27,9 @@ Testifying:
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1821 Interested party/prev. wage
 #### 67 👍 - Pro
 Testifying:
+* Dawa Sherpa
 * Patrick Burns
 * Patricia McCarron - Carpenters/Contractors Cooperation Committee
-* Dawa Sherpa
 * Boris Gresely
 
 #### 6 👎 - Con

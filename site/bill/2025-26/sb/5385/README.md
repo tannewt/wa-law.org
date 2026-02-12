@@ -12,8 +12,8 @@
 #### 96 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
-* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Michael Siptroth - na
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 0 👎 - Con
 

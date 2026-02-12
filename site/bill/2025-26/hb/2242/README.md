@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/15/2026 [House Democrats](/org/house_democrats/) - [Health Care & Wellness Committee to hear Chair Bronoske’s priority bills Friday  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/15/healthcare-wellness-committee-to-hear-chair-bronoskes-priority-bills-friday/#:~:text=HB 2242)
@@ -19,9 +20,10 @@ Testifying:
 * Caitlin Safford - Washington State Office of the Governor
 * Dennis Worsham - Washington State Secretary of Health
 * Patty Kuderer - Washington State Insurance Commissioner
-* Megan Moore - Washington State Public Heatlh Association
 * Cora Breuner - Seattle Childrens
 * Michael Van Dyke - WCAAP
+* Megan Moore - Washington State Public Heatlh Association
+* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 * Dr. Frank Bell - WA Chapter American Academy of Pediatrics
 * Dr. Helen Chu - UW Medicine
 * Dr. Sandra Valenciano - Public Health Seattle-King County
@@ -29,7 +31,6 @@ Testifying:
 * 💵Jaime Bodden - WSALPHO
 * Roy Simms - Community Health of Central Washington
 * Dr. Katina Rue - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
-* 💵Marissa Ingalls - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 * Nina Gummadi - Washington Chapter of the American Academy of Pediatrics
 * Anne Mette Smeenk - Washington Chapter of the American Academy of Pediatrics
 * Jon Almquist - Washington Chapter of the American Academy of Pediatrics

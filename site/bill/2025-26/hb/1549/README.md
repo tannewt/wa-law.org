@@ -19,10 +19,10 @@
 ### Tue 03/25 01:30 PM - State Government & Elections (SGE): E2SHB 1549 Responsible bidder criteria
 #### 73 👍 - Pro
 Testifying:
+* Jensen Webster
 * Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - Cement Masons & Plasterers Local 528
-* Jensen Webster
 
 #### 1 👎 - Con
 
@@ -47,11 +47,11 @@ Testifying:
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1549 Responsible bidder criteria
 #### 72 👍 - Pro
 Testifying:
-* Joe Kendo - Washington State Labor Council, AFL-CIO
-* Jared Ross - South Sound Building & Construction Trades Council
 * Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Neil Hartman - Washington State Association of UA Plumbers, Pipefitters and HVAC/R Mechanics
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Jared Ross - South Sound Building & Construction Trades Council
 
 #### 17 👎 - Con
 Testifying:

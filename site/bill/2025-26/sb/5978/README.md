@@ -17,9 +17,10 @@
 #### 67 👍 - Pro
 Testifying:
 * Melissa Beard - Council of Presidents
+* Jeff Charbonneau - Zillah High School
 * Bill Lyne - United Faculty of Washington State
 * Omkar Page
-* Jeff Charbonneau - Zillah High School
+* 💵Christopher Rosenquist - Associated Students of Western Washington University
 * Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
 * Jonathan Lin
 * Kaushal Rao
@@ -27,7 +28,6 @@ Testifying:
 * Ishan Sharma
 * Jayden Hong
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
-* 💵Christopher Rosenquist - Associated Students of Western Washington University
 * Natalya Yudkovsky - Washington State PTA
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 

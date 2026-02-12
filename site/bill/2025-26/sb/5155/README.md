@@ -30,9 +30,9 @@ Testifying:
 Testifying:
 * Matt Curtis - WDFW
 * Morgan Morris - Lower Columbia Fish Enhancement Group
-* Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
-* Kevin Long - North Olympic Salmon Coalition
 * Jonathan Grudin
+* Kevin Long - North Olympic Salmon Coalition
+* Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Devin Smith - Swinomish Indian Tribal Community and Sauk-Suiattle Indian Tribe
 * Aaron Rosenblum - Cascade Fisheries
 * Sean Eagan - The Port of Tacoma
@@ -45,10 +45,10 @@ Testifying:
 
 #### 8 ❓ - Other
 Testifying:
-* Scott Schuyler - Natural Resoruces Policy Representative Upper Skagit Indain Tribe
 * Will Honea - [Skagit County](/org/skagit_county/)
 * Peter Browning - [Skagit County](/org/skagit_county/)
 * David Hawkins - Upper Skagit Indian Tribe
+* Scott Schuyler - Natural Resoruces Policy Representative Upper Skagit Indain Tribe
 * Dave Hallock - Skagit Upriver Neighbors
 * Lora Claus - Skagitonians to Preserve Farmland
 * Samantha Weinstein - Department of Ecology

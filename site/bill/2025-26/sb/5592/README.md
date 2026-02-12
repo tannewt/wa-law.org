@@ -40,7 +40,6 @@ Testifying:
 * Seth Stobaugh
 * William Lindhardt
 * brian reder - brotherton cadillac
-* Donna Alber
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * Nicolina Hernandez - Toyota Motor North America
 * Tom McBride - American Honda Motor Company
@@ -48,6 +47,7 @@ Testifying:
 * 💵Jeffrey Perry - General Motors
 * Matt Erwin - Mazda North American Operations
 * Ross Good - Stellantis
+* Donna Alber
 * Matt Erwin - Mazda North America Operations
 
 #### 4 ❓ - Other

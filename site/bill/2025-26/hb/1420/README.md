@@ -42,7 +42,7 @@ Testifying:
 
 #### 586 👎 - Con
 Testifying:
-* Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Darbi Gottlieb - AdvaMed
 * Chelsea Murtha - [American Apparel & Footwear Association](/org/american_apparel_&_footwear_association/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
@@ -52,12 +52,12 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
+* 💵Edwin Borbon - The Center for Baby and Adult Hygiene Products (BAHP)
 * Teresa Birge - American Circular Textiles
 * 💵Hanna Jones - Goodwill
 * Lindsay Herendeen - Washington State Board of Health
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* 💵Edwin Borbon - The Center for Baby and Adult Hygiene Products (BAHP)
 
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1420 Textile producers
 #### 9 👍 - Pro
@@ -69,8 +69,8 @@ Testifying:
 ### Thu 01/30 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
 #### 342 👍 - Pro
 Testifying:
-* Joanne Brasch - California Product Stewardship Council
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Joanne Brasch - California Product Stewardship Council
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Zakiya Cita - The Chayah Movement
 * Ruth True - Ravel

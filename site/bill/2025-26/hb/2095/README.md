@@ -14,10 +14,10 @@
 ### Wed 01/14 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2095 Public way vulnerable users 
 #### 386 👍 - Pro
 Testifying:
-* Holden Ringer - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Holden Ringer
 * Bob Anderton - Washington Bike Law
-* Rita Hulsman
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
+* Rita Hulsman
 * Stacie Bain - Law Office of Stacie Bain
 * Annemarie Dooley - Washington Physicians for Social Responsibility
 

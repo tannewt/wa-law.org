@@ -20,8 +20,8 @@ Testifying:
 #### 672 👎 - Con
 Testifying:
 * Sharon Hanek
-* LORILEE GATES
 * Sharon Hanek
+* LORILEE GATES
 
 #### 1 ❓ - Other
 Testifying:

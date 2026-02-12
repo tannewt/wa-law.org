@@ -15,10 +15,10 @@
 ### Thu 01/29 08:00 AM - Education (ED): HB 1295 Reading and writing literacy
 #### 473 👍 - Pro
 Testifying:
-* Balvina Cortez
 * Sara Buetow - Decoding Dyslexia Washington
 * Kristi Schwesinger - Washington State PTA
 * Lauren Schmidt
+* Balvina Cortez
 * mary west
 * Heather Schwindt - Decoding Dyslexia / Dyslexia Support Washington State
 * Ava Schwesinger - Student Advocate
@@ -26,17 +26,17 @@ Testifying:
 * Bridget Reeves
 * Stacie Davis
 * Julie Wolter - Dean, School of Health Sciences, Gonzaga University
-* Colleen Mazurek-McCowan
-* Misha Cherniske - Office of Superintendent of Public Instruction
 * Lindsay Lockhart
 * Ava Schwesinger - Student Advocate
 * Kristi Schwesinger - Washington State PTA
+* Colleen Mazurek-McCowan
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* Jill Davidson - Washington State Association of School Psychologists
 * Gena Vincent - [Puyallup School District](/org/puyallup_school_district/)
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Alicia Roberts Frank
-* Jill Davidson - Washington State Association of School Psychologists
-* Aileen Hammar
 * Cindy Dupuy
+* Aileen Hammar
 
 #### 9 👎 - Con
 Testifying:

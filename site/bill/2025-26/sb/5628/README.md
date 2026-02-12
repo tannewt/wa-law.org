@@ -26,13 +26,13 @@ Testifying:
 
 #### 10 ❓ - Other
 Testifying:
+* Kimberly Goetz - Department of Ecology
 * Charlie Brown - Assoc. of Home Appliance Manufacturers
 * 💵Jacob Cassady - Assoc. of Home Appliance Manufacturers
 * 💵Kevin Messner - Group SEB
 * dean Tryon - Wood Stone Corporation
 * 💵Katie Beeson - Washington Food Industry Association
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
-* Kimberly Goetz - Department of Ecology
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -67,5 +67,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Cosan Unuvar - Cookware Sustainability Alliance
 * Kimberly Goetz - Department of Ecology
+* Cosan Unuvar - Cookware Sustainability Alliance

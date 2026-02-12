@@ -12,12 +12,12 @@
 #### 7 👍 - Pro
 Testifying:
 * Joe Bushnell - Councilmember, City of Tacoma
-* Michael Hines - UFCW Local 367
 * Steven Bock
+* Michael Hines - UFCW Local 367
 
 #### 216 👎 - Con
 Testifying:
-* 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Brandon Houskeeper - NW Grocery Retail Association
 
 #### 0 ❓ - Other

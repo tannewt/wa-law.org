@@ -24,5 +24,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Cosan Unuvar - Cookware Sustainability Alliance
 * Kimberly Goetz - Department of Ecology
+* Cosan Unuvar - Cookware Sustainability Alliance

@@ -19,11 +19,11 @@ Testifying:
 Testifying:
 * Jared Attridge - Valley School District
 * Mandi Rehn - Valley School District
-* Scott Haeberle - Omak School District
-* Diana Reaume - Quillayute Valley School District
 * Matt Mallery - Mary M Knight SD
 * Michael Porter - Omak School District
 * Shane Black - Parent of Online Student
+* Scott Haeberle - Omak School District
+* Diana Reaume - Quillayute Valley School District
 * Jim Kowalkowski - Rural Education Center
 * Ronald Moag - Quilcene School District
 

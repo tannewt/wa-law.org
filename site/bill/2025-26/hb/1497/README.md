@@ -24,11 +24,11 @@ Testifying:
 
 #### 688 👎 - Con
 Testifying:
-* Sandra Mochizuki
 * Kendall Harrison
 * David Dowell
 * Julie Dowell
 * TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 
@@ -37,9 +37,9 @@ Testifying:
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Kate White Tudor - NRDC
-* Holly Yanai - Divert
 * 💵Nick Streuli - WRRA
 * Kate Kurtz - Seattle Public Utilities
+* Holly Yanai - Divert
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 613 👎 - Con
@@ -57,8 +57,8 @@ Testifying:
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Kate White Tudor - Natural Resources Defense Council
-* Erin Gagnon - DTG Recycle
 * Rick Vahl - Waste Connections
+* Erin Gagnon - DTG Recycle
 
 #### 24 👎 - Con
 
@@ -68,21 +68,21 @@ Testifying:
 #### 641 👍 - Pro
 Testifying:
 * Robbette Schmit - WintonMFG Compost Works
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Anthony Myint - Zero Foodprint
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Brian Bonlender - DTG Recycle
 * 💵Nick Streuli - [Washington Refuse & Recycling Association](/org/washington_refuse_&_recycling_association/)
-* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Kate White Tudor - Natural Resources Defense Council
 * 💵Chris Thomas - Divert Inc.
 * Scott Smithline - Mill Industries
-* Anthony Myint - Zero Foodprint
-* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * McKenna Morrigan - Seattle Public Utilities
 
 #### 116 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:
-* 💵Katie Beeson - Washington Food Industry Association
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association
 * Rick Vahl - Waste Connections
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

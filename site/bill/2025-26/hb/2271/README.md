@@ -16,18 +16,18 @@
 #### 153 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* John Hite - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Allison Kustic - The Association of Plastic Recyclers
 * Maggie Yuse - Seattle Public Utilities
-* John Hite - [The Recycling Partnership](/org/the_recycling_partnership/)
 
 #### 221 👎 - Con
 Testifying:
-* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Lindsey Hueer - [The Toy Association](/org/the_toy_association/)
-* 💵Edwin Borbon
 * 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * Ally Peck - Consumer Technology Association
 * 💵Christopher Finarelli - The Household & Commercial Products Association
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Lindsey Hueer - [The Toy Association](/org/the_toy_association/)
+* 💵Edwin Borbon
 
 #### 2 ❓ - Other
 Testifying:
@@ -36,23 +36,23 @@ Testifying:
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2271 Plastics/recycled content
 #### 32 👍 - Pro
 Testifying:
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Vicki Christophersen - WRRA
 * Allison Kustic - Association of Plastic Recyclers (APR)
-* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * McKenna Morrigan - Seattle Public Utilities
 
 #### 88 👎 - Con
 Testifying:
-* 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * Dan Felton - Flexible Packaging Association (FPA)
+* 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * 💵Bill Stauffacher - American Forest and Paper Association
 * Jamie Logan - American Cleaning Institute (ACI)
 * 💵Troy Nichols - [American Chemistry Council](/org/american_chemistry_council/)
-* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Christopher Finarelli - The Household & Commercial Products Association
 * 💵Edwin Borbon - AMERIPEN
 * 💵Darbi Gottlieb - AdvaMed
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 131 ❓ - Other
 Testifying:

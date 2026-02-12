@@ -28,8 +28,11 @@ Testifying:
 * SuYoung Yun - APIC WA
 * Seth Muir - Sail Sand Point
 * BILL LEDREW - FRIENDS OF LOPEZ ISLAND POOL (FLIP)
-* Georgia Johnson - Field Arts & Events Hall
 * Steven Ginsburg - Port Angeles Waterfront Center
+* Georgia Johnson - Field Arts & Events Hall
+* Brooke Taylor - Port Angeles Waterfront Center
+* Kim Reynolds - Port Angeles Waterfront Center
+* Mary McDonald - Community Child Care Center
 * 💵Kenny Pittman - Communities of Concern Commission
 * Khurshida Begum - ASHHO Cultural Community Center
 * Elena Arakaki - Friends of Little Saigon
@@ -39,17 +42,14 @@ Testifying:
 * Faaluaina Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
 * Angela Harris - [Port of Edmonds](/org/port_of_edmonds/)
 * Karen Allen - Hotel Lincoln Historic Restoration Project
-* Brooke Taylor - Port Angeles Waterfront Center
 * Tara Tamaribuchi - Seattle Betsuin Buddhist Temple
-* Kim Reynolds - Port Angeles Waterfront Center
-* Mary McDonald - Community Child Care Center
-* Nicholas Mattson - Port of Chinook & the ILWU WA Area District Council
-* Hamdi Abdulle - AAfrican Community & Housing Development/Communities of Concern Commission
 * 💵Michael Transue - LeMay - America's Car Museum, City of Fife
 * Josh Lozano - Benton Rural Electric Association / Director of Energy Policy
 * Dave DeMarco - [City of Everett](/org/city_of_everett/)
 * Jill Sheley - Jamie's Place
 * John Morrison - Clark County Fair
+* Nicholas Mattson - Port of Chinook & the ILWU WA Area District Council
+* Hamdi Abdulle - AAfrican Community & Housing Development/Communities of Concern Commission
 
 #### 104 👎 - Con
 Testifying:
@@ -61,22 +61,22 @@ Testifying:
 * 💵Erica Hallock - Start Early Washington
 * Kathryn Gardow - Chair, Public Works Board
 * Paige Miller - Seattle Chinese Garden
-* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Ginger Ewing - Terrain Spokane
-* Mikkell Roeland - [Starfire Sports](/org/starfire_sports/)
 * Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)
-* 💵Axel Swanson - Washington State Association of County Engineers
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Andy Hamilton - [City of Kelso](/org/city_of_kelso/)
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* Mikkell Roeland - [Starfire Sports](/org/starfire_sports/)
+* 💵Axel Swanson - Washington State Association of County Engineers
 * Renee Jensen - Snoqualmie Valley Health
 * Sean Hopps
 * 💵Amina Abdalla - [City of Kelso](/org/city_of_kelso/)
-* Andy Hamilton - [City of Kelso](/org/city_of_kelso/)
-* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Vanesa Gutierrez - Sno-Isle Libraries
 * Dave DeMarco - [City of Everett](/org/city_of_everett/)
 * 💵Amber Carter - Port of Vancouver USA
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Scott Richards - Washington Public Utilities Districts Association
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Higher education. (Remote Testimony Available).
 #### 4 👍 - Pro
@@ -96,10 +96,11 @@ Testifying:
 * Jim Mulick
 
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Housing, behavioral health, and human services. (Remote Testimony Available).
-#### 27 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Karina Patel - The Tubman Center for Health and Freedom
 * Joe Vessey - community health center of snohomish county
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Chairman Leonard Forsman - The Suquamish Tribe
 * Norine Hill - Mother Nation
 * 💵Brad Banks - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
@@ -121,16 +122,15 @@ Testifying:
 Testifying:
 * Steve O'Ban - [Trouves Health Care Corporation](/org/trouves_health_care_corporation/)
 
-#### 13 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Rachel Downes - [Housing Hope](/org/housing_hope/)
 * Vicki Hammond - HealthPoint (Chief Finance & Administrative Officer)
 * Jim CastroLang
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Jesse Simpson - Housing Development Consortium
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
-* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * 💵Ian Goodhew - Airlift Northwest-UW Medicine
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Patrick Arney - Weld
@@ -160,16 +160,16 @@ Testifying:
 ### Tue 04/01 04:00 PM - Ways & Means (WM): PSSB 5195: Natural resources. (Remote Testimony Available).
 #### 16 👍 - Pro
 Testifying:
+* Nick Bird - City of Aberdeen, City Engineer
 * Jessica Helsley - [Wild Salmon Center](/org/wild_salmon_center/)
 * Jill Silver - 10,000 Years Institute
 * 💵Diana Carlen - Washington Association of Wheat Growers & Washington Potato and Onion Association
-* Nick Bird - City of Aberdeen, City Engineer
 * Kyla Shkerich Blair - [Columbia Basin Development League](/org/columbia_basin_development_league/)
-* 💵Mark Streuli - Washington State Water Resources Association
-* 💵Serena Campas - Rewiring America
 * Jay Gordon
 * Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Brent Mason - Foss Waterway Seaport
+* 💵Mark Streuli - Washington State Water Resources Association
+* 💵Serena Campas - Rewiring America
 
 #### 102 👎 - Con
 Testifying:
@@ -183,29 +183,29 @@ Testifying:
 * 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
 * Tyson Johnston - Council, Quinault Indian Nation
 * Chris Chappell - Washington Wild
-* Daniel Hoult - Outdoor Discovery Project
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Daniel Hoult - Outdoor Discovery Project
 * Megan Larkin - [Climate Solutions](/org/climate_solutions/)
-* Donald R (DR) Michel - UCUT (Upper Columbia United Tribes)
-* 💵Michael Moran - Confederated Tribes of the Colville Reservation
-* Jim Tuck - Project Manager, Trout Unlimited
 * Bob Davis - [City of Quincy](/org/city_of_quincy/)
 * Sarah Hamman - Ecostudies Institute
 * Jennifer Burbidge - Washington Recreation & Park Association
 * Monica Montgomery - Great Peninsula Conservancy
 * Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Donald R (DR) Michel - UCUT (Upper Columbia United Tribes)
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Jim Tuck - Project Manager, Trout Unlimited
 
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: All other. (Remote Testimony Available).
 #### 11 👍 - Pro
 Testifying:
+* Bill LeDrew - Board President, Friends of Lopez Island Pool (FLIP)
 * Lisa Yohalem - HealthPoint
 * ANNA LOIS FULLER - Friends of Lopez Island Pool (FLIP)
-* Bill LeDrew - Board President, Friends of Lopez Island Pool (FLIP)
 * Belinda Louie - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
-* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * ANNA LOIS FULLER
-* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Wes Jessup - Executive Director or Eastern Washington Historical Society (EWSHS)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
 #### 8 👎 - Con
 Testifying:
@@ -213,15 +213,15 @@ Testifying:
 
 #### 9 ❓ - Other
 Testifying:
-* Bill Adamson - South Sound Military & Communities Partnership
 * 💵Gary Rowe - Vice Chair, Public Works Board
+* Bill Adamson - South Sound Military & Communities Partnership
 * Erin McCardle - [City of Chelan](/org/city_of_chelan/)
 * Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)
-* Jim Chambers (Behalf of Patrick Arney) - Weld
 * Patrick Arney - Weld
+* Jim Chambers (Behalf of Patrick Arney) - Weld
 * Dan Ford - [City of Toppenish](/org/city_of_toppenish/)
-* 💵Axel Swanson - Washington State Association of County Engineers
 * DAVID DEMARCO - EVERETT FIRE DEPARTMENT
+* 💵Axel Swanson - Washington State Association of County Engineers
 
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: Higher education. (Remote Testimony Available).
 #### 7 👍 - Pro
@@ -251,9 +251,9 @@ Testifying:
 * Peter Cameron - Multicultural Child and Family Hope Center
 * Jim Chambers - WELD Seattle
 * Mary Connolly - South Sound Housing Affordability Partners
-* 💵Eric Pettigrew - Homestead Community Landtrust
 * 💵Brad Banks - WA Home Care Coalition
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Eric Pettigrew - Homestead Community Landtrust
 
 #### 5 👎 - Con
 
@@ -306,11 +306,11 @@ Testifying:
 * 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
 * Jon Erickson - [Columbia Basin Development League](/org/columbia_basin_development_league/)
 * Jen Burbidge - Washington Recreation & Park Association
-* Lily Wilson-Codega - International Longshore and Warehouse Union WA Area District Council (ILWU WADC)
-* Elissa Ostergaard - Snoqualmie Watershed Forum
 * John Wolfe - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 * Daniel Hoult
 * Monica Montgomery - Great Peninsula Conservancy
 * Nicky Pasi - Mountains to Sound Greenway Trust
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * Commissioner Kristin Ang - The Port of Tacoma
+* Lily Wilson-Codega - International Longshore and Warehouse Union WA Area District Council (ILWU WADC)
+* Elissa Ostergaard - Snoqualmie Watershed Forum

@@ -16,15 +16,15 @@
 #### 2058 👍 - Pro
 Testifying:
 * Dana Savage - Association of Washington Assistant Attorneys General
+* Jevan Hutson
 * Tanya Leslie
 * Sept Gernez - Gender Justice League
 * Jenna Comstock - QLaw Association
 * Tyrone Heartwood
 * Tasha Cruz
-* Jevan Hutson
+* Jay Conrnad
 * Marsha Botzer
 * Jay Conrad
-* Jay Conrnad
 * Cali Mullins
 * Danni Askini - Gender Justice League
 * 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
@@ -46,13 +46,13 @@ Testifying:
 * Tanya Leslie
 * Tyrone Heartwood
 * Danica Noble
+* Ashly Elstrom
+* Jenna Comstock - QLaw Association
 * 💵Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Marsha Botzer
 * Jevan Hutson
 * Tasha Cruz
 * Sept Gernez - Gender Justice League
-* Ashly Elstrom
-* Jenna Comstock - QLaw Association
 
 #### 304 👎 - Con
 Testifying:

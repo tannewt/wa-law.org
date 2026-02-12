@@ -10,8 +10,8 @@
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 5927 Workers' comp. adjustments
 #### 243 👍 - Pro
 Testifying:
-* 💵James Crandall - AWB
 * Kris Tefft - Washington Self-Insurers Association
+* 💵James Crandall - AWB
 
 #### 152 👎 - Con
 Testifying:

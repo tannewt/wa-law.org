@@ -17,20 +17,20 @@
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5811 Zero-emission vehicle prg.
 #### 49 👍 - Pro
 Testifying:
-* Jamie Paradiso
 * Molly Gallagher - Washington Statewide Poverty Action Network
 * Eli Taylor Goss - WA State Budget and Policy Center
+* Jamie Paradiso
 
 #### 2039 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Laurie Layne
 * Todd Myers - Washington Policy Center
 * John Morgan
-* Laurie Layne
-* Gordon Lueckenotte
-* Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jeff Gombosky - [Tesla](/org/tesla/)
 * Alejandro Galvan
+* Gordon Lueckenotte
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 11 ❓ - Other
 Testifying:

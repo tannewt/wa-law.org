@@ -56,9 +56,9 @@ Testifying:
 
 #### 4 👎 - Con
 Testifying:
-* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * 💵Charlee Thompson - NW Energy Coalition
 * Heather Nicholson
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
 #### 1 ❓ - Other
 Testifying:

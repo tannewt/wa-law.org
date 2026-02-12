@@ -24,12 +24,12 @@ Testifying:
 #### 12 👍 - Pro
 Testifying:
 * Kari Reardon - WDA/WACDL
-* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Judge Jessica Giner - District & Municipal Court Judges' Association
 * Judge Michael Finkle - District & Municipal Court Judges' Association
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
-* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Brad Banks - Washington State Association of Counties (WSAC) & BHASOs
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Michael Transue - National Alliance on Mental Illness (NAMI)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

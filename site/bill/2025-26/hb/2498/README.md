@@ -20,12 +20,12 @@ Testifying:
 * Ajay Mendoza - Washington State Board of Nursing
 * Alison Bradywood - Washington State Board of Nursing
 * Mindy Schaffner
+* Helen Kuebel - N/A
 * Renee Rassilyer-Bomers - Providence Swedish
 * Alecia Nye - Council for Nurse Educators of Washington State (CNEWS)
 * Shelley Price - Council for Nursing Education in Washington State (CNEWS)
 * Tiffany Zyniewicz - Council for Nursing Education in Washington State (CNEWS)
-* Helen Kuebel - N/A
-* Kara LaValley - Clinical Placements Northwest
 * 💵David Keepnews - Washington State Nurses Association (WSNA)
+* Kara LaValley - Clinical Placements Northwest
 
 #### 0 ❓ - Other

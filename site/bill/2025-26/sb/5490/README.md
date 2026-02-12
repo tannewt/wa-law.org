@@ -15,15 +15,15 @@
 #### 443 👍 - Pro
 Testifying:
 * Lucy Nasenbeny
+* Neal Black - [City of Kirkland](/org/city_of_kirkland/)
 * Hailey Ockinga - Beyond These Walls
 * Renee Knight - ExLifer Gone Right
-* Neal Black - [City of Kirkland](/org/city_of_kirkland/)
 * Jenna Comstock - QLAW Association
 
 #### 770 👎 - Con
 Testifying:
-* Liza Simmonds
 * TaraLyn Fray
+* Liza Simmonds
 
 #### 2 ❓ - Other
 Testifying:

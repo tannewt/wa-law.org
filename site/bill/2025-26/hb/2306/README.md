@@ -18,8 +18,8 @@ Testifying:
 * Mike Ennis - Washington Asphalt Pavement Association (WAPA), and Icon Materials a CRH Company
 * 💵Ken Short - AWB
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
-* Jake Lewing - [City of Wenatchee](/org/city_of_wenatchee/)
 * 💵Jane Wall - County Road Administration Board
+* Jake Lewing - [City of Wenatchee](/org/city_of_wenatchee/)
 * Jerry VanderWood - AGC
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)

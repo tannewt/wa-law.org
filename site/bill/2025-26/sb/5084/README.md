@@ -26,8 +26,8 @@ Testifying:
 #### 18 👍 - Pro
 Testifying:
 * Kevin Wren - Washington #insulin4all
-* Jonathan Staloff - Washington Academy of Family Physicians (WAFP)
 * Nico Janssen - Office of the Insurance Commissioner
+* Jonathan Staloff - Washington Academy of Family Physicians (WAFP)
 
 #### 0 👎 - Con
 

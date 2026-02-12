@@ -12,7 +12,6 @@
 ### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers   ❓1
-* ❓💵 Amber Carter
 
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  ❓1
 * 👍💵 Mark Johnson

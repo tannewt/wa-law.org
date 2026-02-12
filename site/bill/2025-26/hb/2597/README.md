@@ -19,6 +19,9 @@ Testifying:
 * 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * Alex Dietz - Washington State Association for Justice
 * Jacob Schwartz
+* Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
+* Anders Ibsen - Mayor, City of Tacoma
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 * Lilliane Ballesteros - Progreso: Latino Progress
 * Sina Sam - Southeast Asia Resource Action Center
@@ -27,9 +30,6 @@ Testifying:
 * Sandesh Sadalge - Councilmember, City of Tacoma
 * Negheen Kamkar - Commission on Asian Pacific American Affairs
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
-* Lydia Zepeda - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
-* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
-* Anders Ibsen - Mayor, City of Tacoma
 
 #### 1350 👎 - Con
 Testifying:

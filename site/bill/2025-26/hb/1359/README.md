@@ -57,10 +57,10 @@ Testifying:
 #### 20 👍 - Pro
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Judge Michael Finkle - District & Municipal Court Judges' Association
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
 * Judge Jessica Giner - District & Municipal Court Judges' Association
+* 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Michael Transue - National Alliance on Mental Illness (NAMI)
 
 #### 41 👎 - Con

@@ -34,8 +34,8 @@ Testifying:
 ### Mon 02/03 01:30 PM - Housing (HOUS): HB 1501 CIC unit owner inquiries
 #### 12 👍 - Pro
 Testifying:
-* Joel Gilman
 * Steve Horvath - HOA United
+* Joel Gilman
 
 #### 2 👎 - Con
 Testifying:

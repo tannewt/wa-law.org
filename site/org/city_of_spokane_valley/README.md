@@ -160,7 +160,7 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎2 
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 ❓1
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎2 
 
@@ -207,7 +207,7 @@
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓2
 
-### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development  👎1 
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1
 
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload  👎2 
 
@@ -244,6 +244,8 @@
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement  👎2 
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
 
 ### [SB 6009](/bill/2025-26/sb/6009/) - Administrative appeals   ❓1
 

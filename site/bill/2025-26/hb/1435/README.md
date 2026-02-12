@@ -15,14 +15,14 @@
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1435 Law enf. hiring grants
 #### 160 👍 - Pro
 Testifying:
+* Rod Higgins - Councilmember, City of Spokane Valley
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
-* Rod Higgins - Councilmember, City of Spokane Valley
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * 💵Michael Transue - Washington Fraternal Order of Police
 * Nathan Olson - Office of the Governor
+* Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce
 
 #### 309 👎 - Con

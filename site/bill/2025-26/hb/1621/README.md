@@ -16,8 +16,8 @@
 ### Fri 03/14 10:30 AM - Housing (HSG): SHB 1621 Housing court commissioners
 #### 43 👍 - Pro
 Testifying:
-* Carter Nelson - WA Multi-Family Housing Association
 * Judge Sean O'Donnell - Superior Court Judges' Association
+* Carter Nelson - WA Multi-Family Housing Association
 
 #### 0 👎 - Con
 
@@ -28,10 +28,10 @@ Testifying:
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1621 Housing court commissioners
 #### 9 👍 - Pro
 Testifying:
+* Susan Adams - Pierce County Superior Court
 * Judge Ketu Shah - King County Superior Court
 * Judge Sean O'Donnell - Superior Court Judges' Association
 * Judge Shelley Szambelan - Spokane County Superior Court/ Superior Court Judges' Association
-* Susan Adams - Pierce County Superior Court
 * David Freeman - Whatcom County Superior Court
 
 #### 6 👎 - Con

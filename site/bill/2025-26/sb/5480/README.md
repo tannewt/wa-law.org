@@ -56,13 +56,12 @@
 #### 652 👍 - Pro
 Testifying:
 * Katerina LaMarche - Washington State Hospital Association (WSHA)
-* Lonnie Johns-Brown - Health Care For All Washington
 * Adam Zarrij - The Leukemia & Lymphoma Society
 * Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
-* Katrina LaMarche - Washington State Hospital Association (WSHA)
 * Jeremy Griffin
 * Teddi McGuire - Providence Health
+* Katrina LaMarche - Washington State Hospital Association (WSHA)
 
 #### 194 👎 - Con
 Testifying:
@@ -87,12 +86,12 @@ Testifying:
 Testifying:
 * 💵Kelsi Hamilton - Washington Collectors Assoc.
 * Kris Quigley - CDIA
+* Joshua Hurwitz - Emergency Medicine Associates
 * Andrew Roskam - [Receivables Management Association International](/org/receivables_management_association_international/)
 * 💵Diana Carlen - PRA Group, Inc.
-* Joshua Hurwitz - Emergency Medicine Associates
 
 #### 3 ❓ - Other
 Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Malorie Toman - Washington State Medical Association (WSMA)
-* Katie Kolan - Washington State Hospital Association (WSHA)

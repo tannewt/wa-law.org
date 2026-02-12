@@ -19,9 +19,9 @@
 #### 184 👍 - Pro
 Testifying:
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
+* Demas Nesterenko - SEIU775
 * Ana Ascanio - We Care for WA Cares Coalition
 * Christina Keys
-* Demas Nesterenko - SEIU775
 
 #### 1 👎 - Con
 
@@ -39,8 +39,8 @@ Testifying:
 
 #### 547 👎 - Con
 Testifying:
-* Liza Simmonds
 * TaraLyn Fray
+* Liza Simmonds
 
 #### 6 ❓ - Other
 Testifying:
@@ -62,6 +62,6 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Josh Dye - Employment Security Department
 * Elizabeth New - Washington Policy Center
+* Josh Dye - Employment Security Department
 * Ben Veghte - Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA)

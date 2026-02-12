@@ -16,8 +16,8 @@
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * kyle ivarra
-* Charles Scroggins
 * Zekiel Castillo
+* Charles Scroggins
 * Robert Floyd
 * 💵Aoibheann Cline - NRA
 * Teddy Chow

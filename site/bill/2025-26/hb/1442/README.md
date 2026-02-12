@@ -27,12 +27,12 @@ Testifying:
 * David Linn
 * John Roskelley
 * Ronald Reed - Retired
+* David Linn
 * Dan Paul - The Human Society of the United States
 * Dr. Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * John Rosapepe - Endangered Species Coalition
 * Rachel Bjork - Speak For Wolves
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
-* David Linn
 * Dan Paul - The Humane Society of the United States
 
 #### 2 ❓ - Other

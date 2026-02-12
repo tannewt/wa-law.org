@@ -13,8 +13,8 @@
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1598 Community solar
 #### 1020 👍 - Pro
 Testifying:
-* William Garry
 * James Feinstein - Arcadia Power
+* William Garry
 * Derek Chernow - [Coalition for Community Solar Access](/org/coalition_for_community_solar_access/)
 * James Feinstein - Arcadia Power
 * Evette Temple - Homes First

@@ -40,8 +40,8 @@ Testifying:
 
 #### 329 👎 - Con
 Testifying:
-* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * John Swartz - Kiddie Academy Salmon Creek
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Dana Christiansen
 * Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 * Loni Simone

@@ -16,9 +16,9 @@
 Testifying:
 * John McClellan - Alderwood Water & Wastewater District
 * Steve DuPont
-* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Michael Transue - Mechanical Contractors Ass'n of Western Washington
 
 #### 24 👎 - Con

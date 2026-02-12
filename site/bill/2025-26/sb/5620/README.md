@@ -22,10 +22,9 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Mon 02/10 01:30 PM - Human Services (HS): SB 5620 Foster care/rights of child
-#### 133 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * Charissa Keebaugh - Lived Expierence Consultant
-* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Sharn Kaur - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * LaDonna Kirkpatrick
@@ -33,4 +32,6 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)

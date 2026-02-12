@@ -30,14 +30,6 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Housing.</guid>
 		</item>
 		<item>
-			<title>❓Jeff Pack - Me</title>
-			<description>Jeff Pack signed up to testify Other. They are signed up to represent Me.</description>
-			<pubDate>Mon, 13 Jan 2025 05:24:52 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Jeff/Pack/2025-01-13 05:24:52</guid>
-		</item>
-		<item>
 			<title>👍Elisicher Smith - Western States Regional Council of Carpenters</title>
 			<description>Elisicher Smith signed up to testify Pro.</description>
 			<pubDate>Mon, 13 Jan 2025 06:05:38 GMT</pubDate>
@@ -46,28 +38,36 @@
 			<guid isPermaLink="false">testifier/Elisicher/Smith/2025-01-13 06:05:38</guid>
 		</item>
 		<item>
-			<title>❓Lauren Bisplinghoff - Me</title>
-			<description>Lauren Bisplinghoff signed up to testify Other.</description>
-			<pubDate>Mon, 13 Jan 2025 06:14:54 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Lauren/Bisplinghoff/2025-01-13 06:14:54</guid>
-		</item>
-		<item>
-			<title>👍💵Ryan Donohue - Habitat for Humanity Seattle-King &amp; Kittitas Counties</title>
-			<description>Ryan Donohue signed up to testify Pro. They are signed up to represent Habitat for Humanity Seattle-King &amp; Kittitas Counties. They are a registered lobbyist.</description>
-			<pubDate>Mon, 13 Jan 2025 07:38:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Ryan/Donohue/2025-01-13 07:38:57</guid>
-		</item>
-		<item>
 			<title>❓💵Erin Frasier - Washington State Building &amp; Construction Trades Council</title>
 			<description>Erin Frasier signed up to testify Other. They are signed up to represent Washington State Building &amp; Construction Trades Council. They are a registered lobbyist.</description>
 			<pubDate>Mon, 13 Jan 2025 11:49:38 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Erin/Frasier/2025-01-13 11:49:38</guid>
+		</item>
+		<item>
+			<title>❓Jeff Pack - Me</title>
+			<description>Jeff Pack signed up to testify Other. They are signed up to represent Me.</description>
+			<pubDate>Mon, 13 Jan 2025 17:24:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/Pack/2025-01-13 17:24:52</guid>
+		</item>
+		<item>
+			<title>❓Lauren Bisplinghoff - Me</title>
+			<description>Lauren Bisplinghoff signed up to testify Other.</description>
+			<pubDate>Mon, 13 Jan 2025 18:14:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lauren/Bisplinghoff/2025-01-13 18:14:54</guid>
+		</item>
+		<item>
+			<title>👍💵Ryan Donohue - Habitat for Humanity Seattle-King &amp; Kittitas Counties</title>
+			<description>Ryan Donohue signed up to testify Pro. They are signed up to represent Habitat for Humanity Seattle-King &amp; Kittitas Counties. They are a registered lobbyist.</description>
+			<pubDate>Mon, 13 Jan 2025 19:38:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Donohue/2025-01-13 19:38:57</guid>
 		</item>
 		<item>
 			<title>👍💵Bill Stauffacher - Building Industry Association of Washington</title>
@@ -197,18 +197,18 @@
 		<item>
 			<title>❓Steve Horvath - HOA United</title>
 			<description>Steve Horvath signed up to testify Other. They are signed up to represent HOA United.</description>
-			<pubDate>Thu, 13 Mar 2025 04:00:12 GMT</pubDate>
+			<pubDate>Thu, 13 Mar 2025 16:00:12 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
-			<guid isPermaLink="false">testifier/Steve/Horvath/2025-03-13 04:00:12</guid>
+			<guid isPermaLink="false">testifier/Steve/Horvath/2025-03-13 16:00:12</guid>
 		</item>
 		<item>
 			<title>👎Jeff Pack - Washington Citizens Against Unfair Taxes</title>
 			<description>Jeff Pack signed up to testify Con. They are signed up to represent Washington Citizens Against Unfair Taxes.</description>
-			<pubDate>Thu, 13 Mar 2025 04:33:28 GMT</pubDate>
+			<pubDate>Thu, 13 Mar 2025 16:33:28 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jeff/Pack/2025-03-13 04:33:28</guid>
+			<guid isPermaLink="false">testifier/Jeff/Pack/2025-03-13 16:33:28</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Housing (Not Officially read and referred until adoption of Introduction report).</title>
@@ -227,10 +227,10 @@
 		<item>
 			<title>👍💵Alex Hur - Master Builders Association of King and Snohomish Counties</title>
 			<description>Alex Hur signed up to testify Pro. They are signed up to represent Master Builders Association of King and Snohomish Counties. They are a registered lobbyist.</description>
-			<pubDate>Sun, 16 Mar 2025 04:08:22 GMT</pubDate>
+			<pubDate>Sun, 16 Mar 2025 16:08:22 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Alex/Hur/2025-03-16 04:08:22</guid>
+			<guid isPermaLink="false">testifier/Alex/Hur/2025-03-16 16:08:22</guid>
 		</item>
 		<item>
 			<title>HSG - Majority; do pass with amendment(s).</title>

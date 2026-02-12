@@ -13,10 +13,10 @@
 ### Wed 01/28 08:00 AM - Human Services (HS): SB 5979 Dependency/substance abuse
 #### 16 👍 - Pro
 Testifying:
+* Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Kim Justice - Partners for Our Children
 * Sarah Akey
 * Amy Parks
-* Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
 #### 0 👎 - Con
 

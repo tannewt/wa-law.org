@@ -13,21 +13,21 @@ Testifying:
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * 💵Madeleine Foutch - SEIU 775
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
-* Thomas Kennedy - Whole Washington
 * Andy Harding
-* Kevin Wren - T1International Washington #insulin4all
-* Andre Stackhouse - Healthcare consumer, voter, taxpayer
+* Thomas Kennedy - Whole Washington
 * Steven Field
 * Shazia Anwar
 * 💵Sean Graham - Washington State Medical Association
 * 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 * MSLS,BSN, RN, Kathryn Lewandowsky
 * Jim Freeburg - Patient Coalition of Washington
+* Kevin Wren - T1International Washington #insulin4all
+* Andre Stackhouse - Healthcare consumer, voter, taxpayer
 
 #### 72 👎 - Con
 Testifying:
-* 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Rose Feliciano - TechNet
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)

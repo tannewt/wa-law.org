@@ -35,23 +35,23 @@ Testifying:
 * Jarred-Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
 * Robert de los Angeles - Chairman, Snoqualmie Indian Tribe
 * Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
-* 💵Michael Moran - Confederated Tribes of the Chehalis Reservation
-* Shelia Bray - Vice-Chairwoman Confederated Tribes of the Chehalis Reservation
 * Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
 * Jarred-Michael Erickson - Chairman of the Colville Tribal Business Council
 * Bob de los Angeles - Chairman of the Snoqualmie Indian Tribe
 * Jarred-Michael Erickson - Chairman of the Colville Tribal Business Council
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* 💵Michael Moran - Confederated Tribes of the Chehalis Reservation
+* Shelia Bray - Vice-Chairwoman Confederated Tribes of the Chehalis Reservation
 * Kimberly Dietz - [City of Redmond](/org/city_of_redmond/)
 
 #### 275 👎 - Con
 Testifying:
 * Kurt Wilson
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
-* Cheryl Ebsworth - Master Builders of Pierce County
-* James Kirkebo - Apex Engineering LLC
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Cheryl Ebsworth - Master Builders of Pierce County
+* James Kirkebo - Apex Engineering LLC
 * Gina Carlson - Dunamis Interiors  Design Build
 * Kent Arola
 * Stuart Drebick - adroit contractors inc

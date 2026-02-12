@@ -46,12 +46,13 @@ Testifying:
 
 #### 2169 👎 - Con
 Testifying:
+* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 * Alan Burnett - [Pacific Northwest Business Aviation Association](/org/pacific_northwest_business_aviation_association/)
-* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
-* Jeff Pack - Washington Citizens Against Unfair Taxes
 * 💵Greg Hanon - Western States Petroleum Assoc.
+* Celine Soto - Visit Seattle & Hotel Groups
 * 💵Amber Carter - [Seattle Mariners](/org/seattle_mariners/)
 * Becky Bogard - [Seattle Sports Commission](/org/seattle_sports_commission/)
 * Tom Norwalk - Seattle Convention Center/PFD (Board of Director)
@@ -63,7 +64,6 @@ Testifying:
 * Stephen Ratzlaff - Washington Seaplane Pilots Association and Friends of Boeing Field
 * Jeff Gombosky - Enterprise Mobility
 * Dakota Manley - Washington State Young Republicans
-* Celine Soto - Visit Seattle & Hotel Groups
 * Yelena Odushkin
 * Tim Eyman - Initiative activist
 * Josh Brower - Ballard Coalition
@@ -73,11 +73,11 @@ Testifying:
 Testifying:
 * Charles Prestrud - Washington Policy Center
 * Sara Morimoto
+* Wes Mills
 * Mike Ennis - Washington Asphalt Pavement Association (WAPA)
 * L Harrison Jerome
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * LARRY WALKER - ABATE of WA  (Motorcyclists)
-* Wes Mills
 * 💵Billy Wallace - WA & Northern Idaho District Council of Laborers
 * Kenny Montilla - Turo
 * Daniel Heppner

@@ -16,21 +16,21 @@
 ### Wed 01/28 05:45 PM - Human Services (HS): SB 6224 Youth behavioral health
 #### 238 👍 - Pro
 Testifying:
-* Peggy Dolane
 * Marianne Gibson - Inseparable
-* Tim Jordan
-* Max Lau - [Children's Alliance](/org/children's_alliance/)
-* Marcy Miller - [Perigee Fund](/org/perigee_fund/)
+* Peggy Dolane
 * Michael Van Dyke - WCAAP
 * Angela Cruze Boldt - CYBHWG
 * Alysha Thompson - Seattle Children's
 * Karen Kelly
+* Tim Jordan
+* Max Lau - [Children's Alliance](/org/children's_alliance/)
+* Marcy Miller - [Perigee Fund](/org/perigee_fund/)
+* Taku Mineshita - Office of the Governor
+* Shawn O'Neill - Legislative Relations Manager, Washington State Health Care Authority
 * Jim Theofelis - NorthStar Advocates
 * Paul Patu - Urban Family
 * Taanvi Arekapudi - Uplift Teens Today 501c3 Nonprofit
 * Anne Mette Smeenk
-* Taku Mineshita - Office of the Governor
-* Shawn O'Neill - Legislative Relations Manager, Washington State Health Care Authority
 
 #### 131 👎 - Con
 Testifying:

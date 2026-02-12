@@ -20,8 +20,8 @@
 #### 27 👍 - Pro
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
-* 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Amber Carter - WA Retail Association
+* 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 
 #### 60 👎 - Con

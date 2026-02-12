@@ -10,8 +10,8 @@
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 6305 Mental health coverage
 #### 396 👍 - Pro
 Testifying:
-* Katherine Glaves - Washington Association of Marriage and Family Therapy
 * Jane Beyer - Office of the Insurance Commissioner
+* Katherine Glaves - Washington Association of Marriage and Family Therapy
 * 💵London Breedlove - Washington State Psychological Association
 * Chuck Benincasa
 * Jaime Wilson

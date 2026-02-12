@@ -24,12 +24,15 @@
 ### Thu 04/03 08:00 AM - Finance (FIN): HB 2045 Business and occupation tax
 #### 4399 👍 - Pro
 Testifying:
-* Nicholas Mendes
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
+* Nicholas Mendes
 * Alexis Mercedes Rinck
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Rachael Snell
 * Austin Price
+* 💵Erin Haick - SEIU 925
+* Guillermo Zazueta - OneAmerica
+* 💵Paul Benz - Quaker Voice
 * Demas Nesterenko - SEIU775
 * Lexi Koren - Invest in Washington Now
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
@@ -66,9 +69,6 @@ Testifying:
 * 💵Emily Vyhnanek
 * Cat Munsen
 * Anni-Michele Jean-Pierre - Children’s Alliance
-* 💵Erin Haick - SEIU 925
-* Guillermo Zazueta - OneAmerica
-* 💵Paul Benz - Quaker Voice
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
@@ -79,26 +79,26 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * 💵Amber Carter - WA Retail Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* Alanna Parkins
-* Mark Navlet
 * Tim Eyman - Initiative Activist
-* Jimmy Ranson
-* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * Kelli Holz - WaFd Bank
-* 💵Rachel Smith - Seattle Metropolitan Chamber of Commerce
-* 💵Leah Lindahl - Health Care Distribution Alliance
-* Kathryn Minter
+* Alanna Parkins
+* Mark Navlet
+* Jimmy Ranson
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Justin Armstrong
-* Jenny Arnold - Washington State Pharmacy Association
 * 💵Brandon Houskeeper - NW Grocery Retail Association
-* Shannon Tilley-Seymour
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Sean Graham - Washington State Medical Association
 * Angie Naylor - MultiCare
 * Len McComb - Washington State Hospital Association
 * MD, Ettore Palazzo - EvergreenHealth
 * Renee Rassilyer-Bomers - Providence Health and Services
+* 💵Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* 💵Leah Lindahl - Health Care Distribution Alliance
+* Kathryn Minter
+* Jenny Arnold - Washington State Pharmacy Association
+* Shannon Tilley-Seymour
 * Julie Dowell
 * David Dowell
 

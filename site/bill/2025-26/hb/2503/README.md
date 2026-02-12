@@ -18,8 +18,8 @@
 #### 12 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
-* MaryAnn Michaelis - HART (Healing Addiction, Relationships, Trauma) Recovery Institute
 * STEVE WIMMER - Transparency Coalition
+* MaryAnn Michaelis - HART (Healing Addiction, Relationships, Trauma) Recovery Institute
 * Jonathan Pincus - The Nexus of Privacy
 
 #### 60 👎 - Con

@@ -27,8 +27,8 @@ Testifying:
 ### Mon 02/17 01:30 PM - Environment & Energy (ENVI): HB 1947 Group B public water systems
 #### 34 👍 - Pro
 Testifying:
-* 💵Jaime Bodden - WSALPHO
 * Wes McCart
+* 💵Jaime Bodden - WSALPHO
 
 #### 4 👎 - Con
 

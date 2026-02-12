@@ -28,8 +28,8 @@ Testifying:
 ### Wed 01/15 08:00 AM - Human Services (HS): SB 5214 Mobile market programs
 #### 6 👍 - Pro
 Testifying:
-* Hannah Fischer - Twin Sisters Moblie Market
 * Caitlin Sieh - Twin Sisters Mobile Market (Director of Special Projects)
+* Hannah Fischer - Twin Sisters Moblie Market
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 
 #### 0 👎 - Con

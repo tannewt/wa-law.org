@@ -30,6 +30,6 @@ Testifying:
 Testifying:
 * Kenneth Bajema
 * Dee Bajema
-* Alison Halpern - Washington Department of Agriculture
 * Randy Johnson - Clallam County Commissioner
+* Alison Halpern - Washington Department of Agriculture
 * Mary Fee - WA State Noxious Weed Control Board

@@ -16,14 +16,6 @@
 			<guid isPermaLink="false">2025-03-24/First reading, referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎Nikita Agarwal - National Center for Employee Ownership</title>
-			<description>Nikita Agarwal signed up to testify Con.</description>
-			<pubDate>Fri, 28 Mar 2025 02:14:47 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Nikita/Agarwal/2025-03-28 02:14:47</guid>
-		</item>
-		<item>
 			<title>👎Jack Moriarty - Lafayette Square Institute</title>
 			<description>Jack Moriarty signed up to testify Con. They are signed up to represent Lafayette Square Institute.</description>
 			<pubDate>Fri, 28 Mar 2025 09:13:00 GMT</pubDate>
@@ -48,6 +40,14 @@
 			<guid isPermaLink="false">testifier/Matthew/Licina/2025-03-28 11:11:00</guid>
 		</item>
 		<item>
+			<title>👎Nikita Agarwal - Employee Ownership Expansion Network</title>
+			<description>Nikita Agarwal signed up to testify Con.</description>
+			<pubDate>Fri, 28 Mar 2025 14:14:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nikita/Agarwal/2025-03-28 14:14:47</guid>
+		</item>
+		<item>
 			<title>👎John McNamara - Northwest Cooperative Development Center</title>
 			<description>John McNamara signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_cooperative_development_center/"&gt;Northwest Cooperative Development Center&lt;/a&gt;.</description>
 			<pubDate>Mon, 31 Mar 2025 09:44:52 GMT</pubDate>
@@ -58,34 +58,10 @@
 		<item>
 			<title>👎West Foster - Northwest Cooperative Development Center</title>
 			<description>West Foster signed up to testify Con.</description>
-			<pubDate>Mon, 31 Mar 2025 11:09:27 GMT</pubDate>
+			<pubDate>Mon, 31 Mar 2025 23:09:27 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/West/Foster/2025-03-31 11:09:27</guid>
-		</item>
-		<item>
-			<title>👎Paulette LaDouceur - Capital Homecare Cooperative</title>
-			<description>Paulette LaDouceur signed up to testify Con. They are signed up to represent Capital Homecare Cooperative.</description>
-			<pubDate>Wed, 02 Apr 2025 01:15:05 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Paulette/LaDouceur/2025-04-02 01:15:05</guid>
-		</item>
-		<item>
-			<title>👎Beth Davidow - Timberline Veterinary Emergency and Specialty</title>
-			<description>Beth Davidow signed up to testify Con. They are signed up to represent Timberline Veterinary Emergency and Specialty.</description>
-			<pubDate>Wed, 02 Apr 2025 03:18:02 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Beth/Davidow/2025-04-02 03:18:02</guid>
-		</item>
-		<item>
-			<title>👎JOYCE OSWALD - WWU Small Business Development Center</title>
-			<description>JOYCE OSWALD signed up to testify Con. They are signed up to represent WWU Small Business Development Center.</description>
-			<pubDate>Wed, 02 Apr 2025 07:09:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/JOYCE/OSWALD/2025-04-02 07:09:28</guid>
+			<guid isPermaLink="false">testifier/West/Foster/2025-03-31 23:09:27</guid>
 		</item>
 		<item>
 			<title>👎Shevanthi Daniel - Democracy at Work Institute (DAWI)</title>
@@ -102,6 +78,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Patricia/Kwan/2025-04-02 10:55:02</guid>
+		</item>
+		<item>
+			<title>👎Paulette LaDouceur - Capital Homecare Cooperative</title>
+			<description>Paulette LaDouceur signed up to testify Con. They are signed up to represent Capital Homecare Cooperative.</description>
+			<pubDate>Wed, 02 Apr 2025 13:15:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paulette/LaDouceur/2025-04-02 13:15:05</guid>
+		</item>
+		<item>
+			<title>👎Beth Davidow - Timberline Veterinary Emergency and Specialty</title>
+			<description>Beth Davidow signed up to testify Con. They are signed up to represent Timberline Veterinary Emergency and Specialty.</description>
+			<pubDate>Wed, 02 Apr 2025 15:18:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Beth/Davidow/2025-04-02 15:18:02</guid>
+		</item>
+		<item>
+			<title>👎JOYCE OSWALD - WWU Small Business Development Center</title>
+			<description>JOYCE OSWALD signed up to testify Con. They are signed up to represent WWU Small Business Development Center.</description>
+			<pubDate>Wed, 02 Apr 2025 19:09:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/JOYCE/OSWALD/2025-04-02 19:09:28</guid>
 		</item>
 		<item>
 			<title>👎💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce</title>
@@ -190,22 +190,6 @@
 			<guid isPermaLink="false">2025-04-19/First reading, referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>❓Matthew Licina - National Center for Employee Ownership</title>
-			<description>Matthew Licina signed up to testify Other. They are signed up to represent National Center for Employee Ownership.</description>
-			<pubDate>Tue, 22 Apr 2025 01:59:20 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Matthew/Licina/2025-04-22 01:59:20</guid>
-		</item>
-		<item>
-			<title>👎Evan Price - Dept. of Revenue</title>
-			<description>Evan Price signed up to testify Con.</description>
-			<pubDate>Tue, 22 Apr 2025 02:48:02 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Evan/Price/2025-04-22 02:48:02</guid>
-		</item>
-		<item>
 			<title>👎Jack Moriarty - Lafayette Square Institute</title>
 			<description>Jack Moriarty signed up to testify Con. They are signed up to represent Lafayette Square Institute.</description>
 			<pubDate>Tue, 22 Apr 2025 07:36:45 GMT</pubDate>
@@ -214,15 +198,7 @@
 			<guid isPermaLink="false">testifier/Jack/Moriarty/2025-04-22 07:36:45</guid>
 		</item>
 		<item>
-			<title>👎Rachel Merfalen - Good Future</title>
-			<description>Rachel Merfalen signed up to testify Con. They are signed up to represent Good Future.</description>
-			<pubDate>Tue, 22 Apr 2025 07:58:02 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Rachel/Merfalen/2025-04-22 07:58:02</guid>
-		</item>
-		<item>
-			<title>👎Brian Boland - Good Future</title>
+			<title>👎Brian Boland - Lafayette Square Institute</title>
 			<description>Brian Boland signed up to testify Con.</description>
 			<pubDate>Tue, 22 Apr 2025 08:37:06 GMT</pubDate>
 			<category>testifier</category>
@@ -244,6 +220,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Patricia/Kwan/2025-04-22 10:04:00</guid>
+		</item>
+		<item>
+			<title>❓Matthew Licina - National Center for Employee Ownership</title>
+			<description>Matthew Licina signed up to testify Other. They are signed up to represent National Center for Employee Ownership.</description>
+			<pubDate>Tue, 22 Apr 2025 13:59:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Matthew/Licina/2025-04-22 13:59:20</guid>
+		</item>
+		<item>
+			<title>👎Evan Price - Washington Center for Employee Ownership</title>
+			<description>Evan Price signed up to testify Con.</description>
+			<pubDate>Tue, 22 Apr 2025 14:48:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Evan/Price/2025-04-22 14:48:02</guid>
+		</item>
+		<item>
+			<title>👎Rachel Merfalen - Good Future</title>
+			<description>Rachel Merfalen signed up to testify Con. They are signed up to represent Good Future.</description>
+			<pubDate>Tue, 22 Apr 2025 19:58:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rachel/Merfalen/2025-04-22 19:58:02</guid>
 		</item>
 		<item>
 			<title>👎💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce</title>

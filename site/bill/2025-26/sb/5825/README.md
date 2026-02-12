@@ -11,6 +11,15 @@
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%205825)
 
 ## Meetings
+### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5825 Leadership board/gifts
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5825 Leadership board/gifts
 #### 8 👍 - Pro
 Testifying:

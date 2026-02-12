@@ -11,8 +11,8 @@
 #### 25 👍 - Pro
 Testifying:
 * Melissa Pace
-* Martha Foster Lucas - WA State Coalition of African Community Leaders
 * Mellani McAleenan - AAA Washington
+* Martha Foster Lucas - WA State Coalition of African Community Leaders
 * 💵Sheri Call - Washington Trucking Assocations
 * 💵Billy Wallace - WA Northern Idaho District Council of Laborers
 * Rory Paine-Donovan - Office of the Insurance Commissioner
@@ -21,8 +21,8 @@ Testifying:
 Testifying:
 * David Sedelmeier
 * TaraLyn Fray
-* Iman Janoo
 * Brian Gregory
+* Iman Janoo
 * Eyoab Tesfaye
 * ZHENHONG MENG
 

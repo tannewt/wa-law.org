@@ -18,9 +18,9 @@ Testifying:
 
 #### 8 👎 - Con
 Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Dr. Randy Spaulding - State Board of Education
 * Misha Cherniske - Office of Superintendent of Public Instruction
-* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 #### 3 ❓ - Other
 Testifying:

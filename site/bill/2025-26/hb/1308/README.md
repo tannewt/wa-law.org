@@ -26,9 +26,9 @@ Testifying:
 
 #### 483 👎 - Con
 Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Amber Carter - WA Retail
 * 💵Patrick Connor - NFIB
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Anthony Holan
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
@@ -39,10 +39,10 @@ Testifying:
 #### 266 👍 - Pro
 Testifying:
 * Patrick McGah
-* 💵John Traynor - washington state labor council, afl-cio
-* 💵Matthew Hepner - IBEW/ceww
 * Jane Dale - Washington State Association for Justice
 * Jesse Wing - Washington Employment Lawyers Association (WELA)
+* 💵John Traynor - washington state labor council, afl-cio
+* 💵Matthew Hepner - IBEW/ceww
 
 #### 129 👎 - Con
 Testifying:
@@ -52,5 +52,5 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

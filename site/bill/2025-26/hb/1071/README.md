@@ -17,18 +17,18 @@
 #### 21 👍 - Pro
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
-* Rick Vahl - Waste Connections
-* 💵Jennifer Ziegler - Sanitary Service Company
 * Brian Coddington - Sunshine Disposal & Recycling
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Rick Vahl - Waste Connections
+* 💵Jennifer Ziegler - Sanitary Service Company
 
 #### 1183 👎 - Con
 Testifying:
-* 💵Edwin Borbon - AMERIPEN
-* Tad Sommerville
 * Allison Kustic - Association of Plastic Recyclers
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Edwin Borbon - AMERIPEN
+* Tad Sommerville
 
 #### 3 ❓ - Other
 Testifying:
@@ -42,30 +42,30 @@ Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Autumn Dietrich - Consolidated Disposal Service, Inc.
 * Brian Coddington - Sunshine Disposal and Recycling
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Lyset Cadena - WM (Waste Management)
+* 💵Jay Balasbas - Basin Disposal
 * 💵Natalie Hester - [Republic Services](/org/republic_services/)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Rick Vahl - Waste Connections
-* Wendy Weiker - [Republic Services](/org/republic_services/)
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* 💵Lyset Cadena - WM (Waste Management)
 * 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
-* 💵Jay Balasbas - Basin Disposal
 
 #### 58 👎 - Con
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * Scott DeFife - Glass Packaging Institute
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Maggie Yuse - Seattle Public Utilities
 * Allison Kustic - Association of Plastic Recyclers (APR)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Maggie Yuse - Seattle Public Utilities
 
 #### 8 ❓ - Other
 Testifying:
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Michael Connors - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
 * Dylan de Thomas - Coalition of High Performance Recycling (CHPR)
 * 💵Brandon Houskeeper
-* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

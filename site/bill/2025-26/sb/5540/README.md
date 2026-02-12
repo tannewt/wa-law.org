@@ -14,10 +14,9 @@
 ### Tue 02/11 10:30 AM - Labor & Commerce (LC): SB 5540 Students/unemployment ins.
 #### 27 👍 - Pro
 Testifying:
-* Eric Gonzalez Alfaro - [Unemployment Law Project](/org/unemployment_law_project/)
-* 💵Kira Munson - Washington State Labor Council, AFL-CIO
 * Felix Goodman - Lake Washington High School, Capitol Classroom
 * Kimiko Low - Lake Washington High School, Capitol Classroom
+* 💵Kira Munson - Washington State Labor Council, AFL-CIO
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 
 #### 508 👎 - Con

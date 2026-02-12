@@ -14,6 +14,17 @@
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205068)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5068 Public employ. eligibility
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/13 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SB 5068 Public employ. eligibility
 #### 11 👍 - Pro
 Testifying:
@@ -22,8 +33,8 @@ Testifying:
 
 #### 1826 👎 - Con
 Testifying:
-* Randy Welch
 * TaraLyn Fray
+* Randy Welch
 * Sandra Mochizuki
 
 #### 1 ❓ - Other

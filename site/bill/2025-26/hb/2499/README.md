@@ -12,14 +12,14 @@
 #### 18 👍 - Pro
 Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer, CG Edwards PLLC
-* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Julie Wise - King County Director of Elections
-* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
-* Rosa Mendez-Perez - King Conservation District
+* Cassie Clayton - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Csenka Favorini-Csorba - King Conservation District
-* Gerry Pollet - 46th District - WA State House of Representatives
+* Ann Murphy - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Rosa Mendez-Perez - King Conservation District
 * Brittney Bush Bollay - King Conservation District
+* Gerry Pollet - 46th District - WA State House of Representatives
 
 #### 154 👎 - Con
 Testifying:

@@ -13,18 +13,18 @@
 ### Wed 02/19 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1930 Fish and wildlife commission
 #### 1162 👍 - Pro
 Testifying:
-* Kelsey Ross
 * Dane Czarnecki - --select an item--
+* Kelsey Ross
 * Brennan Gray
 * Ryan Garrett
 * Edward May - [Ducks Unlimited](/org/ducks_unlimited/)
+* RICHARD BRATCHER
 * Bruce Vandervort - Washington State Trappers Association
 * Kirk Struble - [Ducks Unlimited](/org/ducks_unlimited/)
 * TaraLyn Fray
 * Sheila Christy
 * Mark Charlton
 * Andrew Meulman
-* RICHARD BRATCHER
 
 #### 133 👎 - Con
 Testifying:
@@ -43,7 +43,7 @@ Testifying:
 #### 7 ❓ - Other
 Testifying:
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
+* Jen Syrowitz - [Conservation Northwest](/org/conservation_northwest/)
 * Ann Prezyna - self
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
-* Jen Syrowitz - [Conservation Northwest](/org/conservation_northwest/)
 * Nello Picinich - CCA Washington

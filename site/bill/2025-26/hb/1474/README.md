@@ -15,11 +15,11 @@
 #### 340 👍 - Pro
 Testifying:
 * Fred Trujillo - Retired Public Employees
-* Sheri Sawyer - Office of Financial Management
 * Bonita Jacques - Retired Public Employees Council of WA
 * Connie Greenidge - Retired Public Employees Council of WA
 * Linda Nelsen - Retired Public Employees Council of WA
 * Clair Olivers - Retired Public Employees Council of WA
+* Sheri Sawyer - Office of Financial Management
 
 #### 7 👎 - Con
 

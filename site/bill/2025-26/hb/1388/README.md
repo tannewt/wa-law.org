@@ -12,8 +12,8 @@
 #### 5 👍 - Pro
 Testifying:
 * Caitlin Sieh - Twin Sisters Mobile Market (Director of Special Projects)
-* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Alison Jensen
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 
 #### 0 👎 - Con
 

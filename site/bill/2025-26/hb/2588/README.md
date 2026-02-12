@@ -12,9 +12,9 @@
 Testifying:
 * Councilmember Jani Hitchen - Pierce County Council
 * Elizabeth Kosa - Whatcom County Public Works
-* 💵Kaylee Galloway - Whatcom County Council
 * Pamela Gould - Resident
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Kaylee Galloway - Whatcom County Council
 
 #### 740 👎 - Con
 Testifying:

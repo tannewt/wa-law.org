@@ -30,8 +30,8 @@ Testifying:
 #### 802 👎 - Con
 Testifying:
 * TaraLyn Fray
-* Jill Williams
 * Sandra Mochizuki
+* Jill Williams
 
 #### 1 ❓ - Other
 
@@ -93,7 +93,7 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
+* Dave Pringle - Dept. of Commerce
 * Scott Richards - WA Public Utility Districts Association
 * Patrick Stickney - WA State Office of Equity
-* Dave Pringle - Dept. of Commerce
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

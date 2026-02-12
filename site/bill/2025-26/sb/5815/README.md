@@ -21,6 +21,12 @@
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5815 Modifying business and occupation tax surcharges, rates, and the advanced computing surcharge cap, clarifying the business and occupation tax deduction for certain investments, and creating a temporary business and occupation tax surcharge on large companies. (Hearing is on the Proposed Substitute.) (Remote Testimony Available).
 #### 386 👍 - Pro
 Testifying:
+* Demas Nesterenko - SEIU775
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* 💵Claire Lane
+* Jaune Sonnier
+* Krystal Johnson
+* Jacob Vigdor - University of Washington Faculty/ Council of Faculty
 * Chris Vasseur-Landriault
 * Lonnie Johns-Brown - [Full Life Care](/org/full_life_care/)
 * 💵Collin Bannister - The Washington Student Association and ASWSU
@@ -39,12 +45,6 @@ Testifying:
 * Lilliane Ballesteros - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * 💵Matthew Lang - National Organization for Women - WA
 * Girard Thompson - Seattle Education Association/WEA
-* Demas Nesterenko - SEIU775
-* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
-* 💵Claire Lane
-* Jaune Sonnier
-* Krystal Johnson
-* Jacob Vigdor - University of Washington Faculty/ Council of Faculty
 
 #### 2785 👎 - Con
 Testifying:
@@ -53,6 +53,18 @@ Testifying:
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Greg Hanon - Western States Petroleum Assoc.
 * Anthony Mixer - Washington State Young Republicans
+* Bryan Hannon - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
+* 💵Michele Willms - Associated General Contractors of Washington (AGC)
+* 💵Brandon Houskeeper - NWGRA
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* 💵Amber Carter - WA Retail Association
+* 💵Carolyn Logue - South Sound Chambers, ABC Inland, WA ACCA, NWHPBA, WA Denturists
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - WA Roundtable
+* Alejandro Galvan
 * 💵Chelene Whiteaker - Washington State Hospital Association
 * Matt Binder - Ostroms Drug & Gift
 * Trina Tan - MultiCare Health System
@@ -67,18 +79,6 @@ Testifying:
 * Kimberly Sanborn - 7FM
 * Xavier Johnson
 * Erin Jeffery
-* Bryan Hannon - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
-* 💵Michele Willms - Associated General Contractors of Washington (AGC)
-* 💵Brandon Houskeeper - NWGRA
-* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
-* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
-* 💵Amber Carter - WA Retail Association
-* 💵Carolyn Logue - South Sound Chambers, ABC Inland, WA ACCA, NWHPBA, WA Denturists
-* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Neil Strege - WA Roundtable
-* Alejandro Galvan
 
 #### 8 ❓ - Other
 Testifying:

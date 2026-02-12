@@ -91,19 +91,17 @@ Testifying:
 * Zain Fares Boulos
 * Michael McKinley
 * Derek Berry
-* Noah Meehan - Washington State Young Republicans
 * Zachary Andersen - zande123@gmail.com
 * 💵George Allen
 * Russell Franklin
-* Ben Lund
+* Noah Meehan - Washington State Young Republicans
 * Lisa Jenkins
+* Ben Lund
+* 💵Troy Nichols - National Shooting Sports Foundation
 * Wayne Schakel
 * Dale Whitaker
 * Ian Fiorino
-* 💵Troy Nichols - National Shooting Sports Foundation
 * Raymond Austill
-* JOHN MORGAN
-* Donald Kilgore
 * 💵George Allen
 * Anderson Kim
 * Mark Davis
@@ -111,18 +109,20 @@ Testifying:
 * 💵Aoibheann Cline - NRA
 * Jaramillo Kylle
 * TaraLyn Fray
+* JOHN MORGAN
+* Donald Kilgore
+* Julie Dowell
+* David Dowell
+* Amanda McKinney - Yakima County Commissioner
+* Sandra Mochizuki
 * Richard Lapointe
 * Elizabeth Bienas
 * Diego Garza
 * Bea Christophersen
-* Julie Dowell
-* David Dowell
 * Greg Mansoff
 * Dave Workman - Citizens Committee for the Right to Keep and Bear Arms
 * William Christensen
 * Jeff Wittmayer
-* Amanda McKinney - Yakima County Commissioner
-* Sandra Mochizuki
 * brian keelean - washington state rifle and pistol organization, tacoma rifle and revolver club, paul bunyan sportman
 * Robert Brown
 * Jeremy Ball - Sharp Shooting Indoor Range & Gun Shop
@@ -163,6 +163,8 @@ Testifying:
 #### 8255 👎 - Con
 Testifying:
 * Jane Milhans
+* 💵George Allen
+* Scott Theibert
 * Jonathan Mendoza
 * Ashley Soderman
 * Wayne Schakel
@@ -175,13 +177,11 @@ Testifying:
 * travis arnott
 * Alexander Lawrence
 * Jeremy Raymond
-* 💵George Allen
 * Richard White White
 * 💵George Allen
 * Jason Kazmark
 * Derek Chambers
 * Dylan Valorz
-* Scott Theibert
 * Scott Theibert
 * Paul Hanson
 * Timothy Sieverkropp
@@ -200,40 +200,41 @@ Testifying:
 * Daniel Holmes
 * Jonathan Tronson
 * Michelle Schreiber
-* Patricia Goben
-* Bea Christophersen
+* Bronc Hutsell
 * Brandon Sharp
 * Christopher Thompson
-* MARTIN LOUGH - NRA firearms instructor
-* Anderson Kim
-* Chris Gronlund
-* Julia Evans
-* Milton S
 * Jessica Straub
 * William Hinzman
 * Joseph DiMarco
-* Austin Schneider
 * 💵Aoibheann Cline - NRA
-* Kaitlyn Chantry
-* Anthony Miranti
 * Donald Miniken
-* Xiaojian Cong
-* Garret Butts
-* Ilya Zlatkovsky
 * Ilya Zlatkovsky
 * Dennis Cherry
-* Dominic Gillo
-* Christal Gillo
 * Justin Moran
 * Regina Mcgovern
 * Andrew Barrera
 * Ty Kirkham
 * Alexander Dominguez
 * Elizabeth Bienas
-* Michael McKinley
 * Samuel Kniveton
 * Billy Urquhart
-* Bronc Hutsell
+* Patricia Goben
+* Bea Christophersen
+* MARTIN LOUGH - NRA firearms instructor
+* Anderson Kim
+* Chris Gronlund
+* Julia Evans
+* Milton S
+* Austin Schneider
+* Kaitlyn Chantry
+* Anthony Miranti
+* Xiaojian Cong
+* Garret Butts
+* Ilya Zlatkovsky
+* Dominic Gillo
+* Christal Gillo
+* Michael McKinley
+* brian keelean - Washington State Rifle and Pistol Association,  Tacoma Rifle and Revolver Club,  Paul Bunyan Sports.
 * Roy Lafromboise - N/a
 * Robert Bates
 * Eric Pratt - America
@@ -241,19 +242,13 @@ Testifying:
 * Kristopher Page
 * Michael Schubert
 * Joseph Wittig
-* brian keelean - Washington State Rifle and Pistol Association,  Tacoma Rifle and Revolver Club,  Paul Bunyan Sports.
+* Kallee Orton
+* Dylan Ouellet
 * 💵Troy Nichols - National Shooting Sports Foundation
 * Charles McElrath
 * Anthony Mixer - Washington State Young Republicans
-* Kallee Orton
-* Dylan Ouellet
-* Jacob Mack
-* Jeff Greinke
 * Shawn Downs
-* Damon Samoska
-* Dylan VanOgle
 * Thomas Kosloske
-* Pedro Lopes
 * Pete Singh
 * Eric Stanton
 * Shannon Stanton
@@ -262,10 +257,23 @@ Testifying:
 * Michael moore - REPRESENT As a  CITIZENS NO ON HB 1163
 * Jeremy Shearer - Second amendment
 * Cesar Matute
-* Rob Dahl
-* Enrique Rico - An individual
 * Wayne J cope
 * Dorian Olson
+* Jacob Mack
+* Jeff Greinke
+* Damon Samoska
+* Dylan VanOgle
+* Pedro Lopes
+* Rob Dahl
+* Enrique Rico - An individual
+* Alex Dorr - Washington Gun Rights
+* Jose Garcia
+* Liza Simmonds
+* Chris Jarnutowski
+* TaraLyn Fray
+* Teodorin Morca
+* Melissa Cory
+* Tom Shofner
 * Jeremy Ball
 * Mario Brusasco
 * Thomas DellaRocco
@@ -275,7 +283,6 @@ Testifying:
 * Rachell Nordberg
 * Sandy Hoar
 * Nicholas snoey
-* Alex Dorr - Washington Gun Rights
 * Robert Logsdon
 * Isaac Stowers
 * Randall Chapman
@@ -285,14 +292,11 @@ Testifying:
 * Thomas Olson
 * Talon Sorensen
 * Linda Wow
-* Jose Garcia
 * Jacob Smith
 * Anthony Holan
 * Elizabeth VanSteertegem - Grandmother for self-defense
 * Robert Waters
-* Liza Simmonds
 * Spencer Lieser
-* Chris Jarnutowski
 * Thomas Godsil
 * Brett Carvo
 * 💵Aoibheann Cline - NRA
@@ -305,18 +309,14 @@ Testifying:
 * Amanda McKinney - Yakima County Commissioner
 * Elizabeth Bienas
 * Francis Plumb
-* TaraLyn Fray
 * Micheal Picon II
 * Chris denham
 * Darryl Davis
-* Teodorin Morca
 * Richard Gaeth
-* Melissa Cory
-* Tom Shofner
+* Robert Wilson
 * Fabian Rubenstein
 * Anthony Skeels
 * Tarisa Childers
-* Robert Wilson
 
 #### 8 ❓ - Other
 Testifying:
@@ -332,12 +332,19 @@ Testifying:
 
 #### 5681 👎 - Con
 Testifying:
-* Patrick Wade
 * 💵Aoibheann Cline - NRA
+* Patrick Wade
+* Patrick Byrne
+* Thomas Johnson
+* TAMMY Rose Berry
+* Kris Baker - 6363 nw Paddington ct
+* Bryce Teigen
+* 💵George Allen
+* Robert Bernier
+* Joe Heinlen
 * 💵Troy Nichols - National Shooting Sports Foundation
 * Mark Walker
 * Jason Koontz
-* Patrick Byrne
 * Joy Matsuura
 * luci lockhart - the raspberry berets
 * mayale rodriguez - the raspberry berets
@@ -345,15 +352,8 @@ Testifying:
 * Asadullha Ranavaya
 * Scott Cameron
 * Allen Clarke
-* Thomas Johnson
 * Lee Walter
-* TAMMY Rose Berry
-* Kris Baker - 6363 nw Paddington ct
-* Bryce Teigen
-* 💵George Allen
 * Brandon Edwards
-* Robert Bernier
-* Joe Heinlen
 * Jose Aceves
 * Anthony Holan
 * Jeremy Ball
@@ -385,8 +385,8 @@ Testifying:
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
-* Laurie Layne
 * kyle ivarra
+* Laurie Layne
 * Michael McKinley
 * George Nervik
 * Teodorin Morca

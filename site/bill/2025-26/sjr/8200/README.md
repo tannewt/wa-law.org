@@ -25,15 +25,15 @@
 #### 2039 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - ESD 105 Schools Coalition
-* Monique Dugaw - ESD 112
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Monique Dugaw - ESD 112
 * 💵Jan Himebaugh - Building Industry Association of WA (BIAW)
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* Jim Kowalkowski - Rural Education Center
 * Mary Templeton - Lake Stevens School District
 * James Fisher - Washington Realtors
 * Mary Hull-Drury - Washington Realtors
 * Angela Steck - Washington State PTA
-* Jim Kowalkowski - Rural Education Center
 * Lindsay Brown - Central Washington Home Builders Association
 * Rick Chisa - Public School Employees of Washington (PSE)
 * Joel White - Spokane Home Builders Association
@@ -45,10 +45,10 @@ Testifying:
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
-* John Axtell
 * TaraLyn Fray
 * Sandra Mochizuki
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* John Axtell
 * Anthony Holan
 * Tim Noonan
 * Alex Harrington - NAIOPWA
@@ -66,9 +66,9 @@ Testifying:
 
 #### 777 👎 - Con
 Testifying:
-* Loretta Byrnes
 * Tim Eyman - Initiative Activist
 * Jeff Heckathorn
+* Loretta Byrnes
 
 #### 3 ❓ - Other
 Testifying:

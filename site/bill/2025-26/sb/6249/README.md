@@ -10,8 +10,8 @@
 ### Wed 01/28 05:45 PM - Human Services (HS): SB 6249 Stalking/DOC supervision
 #### 223 👍 - Pro
 Testifying:
-* Desseret Doane - Community victims.
 * Christopher Bonnington
+* Desseret Doane - Community victims.
 * Shyann Ross
 * Sheila LaRose
 

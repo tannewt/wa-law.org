@@ -18,6 +18,19 @@ Testifying:
 * 💵Alyssa Odegaard - LeadingAge Washington
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * Demas Nesterenko - SEIU 775
+* Terry Myers - Grays Harbor Health and Rehabilitation
+* Teresa Andree - Park Rose Care Center
+* Tonya Fisher - Caldera Care
+* Tiffany Birrell - Highland Health and Rehabilitation
+* Shelley Sandoval - Regency Omak
+* Nadine de Klerk - Regency Pacific Management
+* Monique Mason - Emerald Bay Care
+* Lisa Moore - Post Acute Care Solutions
+* Bret Heiner - Ensign Services
+* Ashley Hogue - Three Rivers Care
+* Tyson Luu - Buena Vista Healthcare
+* Lyle Lewin - Shelton Health and Rehabilitation Center
+* Lisa Anderson - Stafholdt Health & Rehabilitation
 * Jordan Monson - Cascadia Care
 * Danielle St. Germain - Stafholdt Health & Rehabilitation
 * Carol Ann Andrews - Olympic View Care Center
@@ -30,20 +43,7 @@ Testifying:
 * Brittany Nwankwo - Regency Olympia
 * Rachel Erickson - Fir Lane Care
 * Loupel Antiquiera - Pacific Care Center
-* Terry Myers - Grays Harbor Health and Rehabilitation
-* Teresa Andree - Park Rose Care Center
-* Tonya Fisher - Caldera Care
-* Tiffany Birrell - Highland Health and Rehabilitation
-* Shelley Sandoval - Regency Omak
-* Nadine de Klerk - Regency Pacific Management
-* Monique Mason - Emerald Bay Care
 * Mindy Schaffner - Ensign Services/Pennant Healthcare WA
-* Lisa Moore - Post Acute Care Solutions
-* Bret Heiner - Ensign Services
-* Ashley Hogue - Three Rivers Care
-* Tyson Luu - Buena Vista Healthcare
-* Lyle Lewin - Shelton Health and Rehabilitation Center
-* Lisa Anderson - Stafholdt Health & Rehabilitation
 
 #### 8 ❓ - Other
 

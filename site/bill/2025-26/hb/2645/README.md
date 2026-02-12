@@ -18,15 +18,15 @@ Testifying:
 * Jayme Peloli - Mayor of Wilkeson
 * Laurie Layne
 * Jill Cartwright
+* Breanna Fokes - Foothills Rails to Trails Coalition
 * Larry Leveen - ForeverGreen Trails
 * Steve Albrecht
-* Breanna Fokes - Foothills Rails to Trails Coalition
-* Taylor Hobi - International Association of Fire Fighters Local 3520 East Pierce Professional Firefighters
-* Taylor Phillips
-* Daniel Hoult - Outdoor Discovery Project
 * 💵Heather Kurtenbach - Washington State Building and Construction Trades
 * Jill Cartwright
 * Jon Parkinson - East Pierce Fire & Rescue - Fire Chief
+* Taylor Hobi - International Association of Fire Fighters Local 3520 East Pierce Professional Firefighters
+* Taylor Phillips
+* Daniel Hoult - Outdoor Discovery Project
 
 #### 3 👎 - Con
 

@@ -19,8 +19,8 @@
 #### 45 👍 - Pro
 Testifying:
 * Isabella Craddock - Electric Era
-* Rhiannon Davis - Electrify America
 * Christopher Robertson - Seattle City Light
+* Rhiannon Davis - Electrify America
 
 #### 4 👎 - Con
 Testifying:

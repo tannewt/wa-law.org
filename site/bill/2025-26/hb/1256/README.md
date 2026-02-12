@@ -14,10 +14,10 @@
 #### 18 👍 - Pro
 Testifying:
 * Briuan Lombardozzi - [Alliance for American Manufacturing](/org/alliance_for_american_manufacturing/)
-* 💵Mark Streuli - District Council of Ironworkers of the Pacific Northwest
-* Dan Wilson - United Steelworkers, Local 338
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 * 💵Maya Gillett - WA BlueGreen Alliance
+* 💵Mark Streuli - District Council of Ironworkers of the Pacific Northwest
+* Dan Wilson - United Steelworkers, Local 338
 
 #### 4 👎 - Con
 Testifying:

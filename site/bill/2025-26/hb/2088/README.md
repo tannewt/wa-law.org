@@ -12,9 +12,9 @@
 #### 118 👍 - Pro
 Testifying:
 * Melissa Molloy - Washington State of Academy of Nutrition & Dietetics
+* Mary Ketchum
 * JACQUELINE LITTLE - Washington State Academy of Nutrition and Dietetics
 * Matthew Shillingburg - Veterans Legislative Coalition VFW Representative
-* Mary Ketchum
 * MS, RD, CD, Jacqueline "Jacqui" Little
 * Mary Ketchum
 * Dr Breck Lebegue

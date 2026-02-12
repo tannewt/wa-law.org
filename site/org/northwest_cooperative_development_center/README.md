@@ -71,7 +71,7 @@
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
 
-### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍2  
 
 ### [SB 6018](/bill/2025-26/sb/6018/) - Housing finance commission 👍1  
 

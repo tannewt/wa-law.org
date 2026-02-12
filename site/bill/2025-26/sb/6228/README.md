@@ -18,8 +18,8 @@ Testifying:
 #### 761 👎 - Con
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
-* Kari VanderHouwen - Pharm-A-Save Granite Falls
 * Rick Hughes - Ray's Pharmacy, Orcas Island
+* Kari VanderHouwen - Pharm-A-Save Granite Falls
 * 💵Carolyn Logue - Washington Food Industry Association
 * Chris Schaffner
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)

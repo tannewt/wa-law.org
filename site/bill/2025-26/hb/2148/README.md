@@ -14,8 +14,8 @@
 #### 134 👍 - Pro
 Testifying:
 * Annika Peterson - UW Graduate & Professional Student Senate
-* 💵Collin Bannister - [Washington Student Association](/org/washington_student_association/)
 * Ali Maleki
+* 💵Collin Bannister - [Washington Student Association](/org/washington_student_association/)
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
 * 💵John Burbank - Retired
 

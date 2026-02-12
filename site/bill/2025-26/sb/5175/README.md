@@ -30,9 +30,9 @@ Testifying:
 ### Thu 03/20 08:00 AM - Environment & Energy (ENVI): E2SSB 5175 Photovoltaic modules
 #### 74 👍 - Pro
 Testifying:
-* nora hawkins - Washington Department of Commerce
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* nora hawkins - Washington Department of Commerce
 
 #### 69 👎 - Con
 
@@ -41,8 +41,8 @@ Testifying:
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5175 Photovoltaic modules
 #### 28 👍 - Pro
 Testifying:
-* Kaitlin Borstelmann - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* Kaitlin Borstelmann - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
 #### 147 👎 - Con
 Testifying:
@@ -53,18 +53,18 @@ Testifying:
 ### Fri 01/17 10:30 AM - Environment, Energy & Technology (ENET): SB 5175 Photovoltaic modules
 #### 49 👍 - Pro
 Testifying:
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Nora Hawkins - Washington State Department of Commerce, Energy Office
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
-* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * 💵Matthew Hepner - IBEW/ceww
 
 #### 93 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:
+* Heather Alvis - Electra
 * Atul Deshmane - Private Citizen
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Heather Alvis - Electra
 
 ### Wed 01/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5175 Photovoltaic modules
 #### 4 👍 - Pro

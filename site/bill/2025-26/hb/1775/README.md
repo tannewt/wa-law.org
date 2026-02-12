@@ -14,30 +14,30 @@
 ### Tue 02/11 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1775 Fur products
 #### 333 👍 - Pro
 Testifying:
-* Colburn Clark
 * Robert McCormick - Animal Defenders International
+* Colburn Clark
 * Amanda Fox - Animal Rights Initiative
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * Kerrie Espuga - Animal Rights Initiative
 
 #### 459 👎 - Con
 Testifying:
-* Mike Brown - Head of Sustainability and Public Affairs, Natural Fibers Alliance
 * Josh Mills
-* Jondavid Grigg
 * Dr. Hugh Hildebrandt - Veterinarian
 * Challis Hobbs - Fur Commission USA
-* FRANK HERBERT
 * Josh Phillips - Spawn Fly Fish
+* Mike Brown - Head of Sustainability and Public Affairs, Natural Fibers Alliance
+* Jondavid Grigg
+* FRANK HERBERT
 * Alejandro Boulware
 * Mark Ross
+* Bruce Vandervort - Washington State Trappers Association
+* Kim Salvo - ANAMODA, Inc.
+* Karen Parker
 * Joe Ruef
 * Ryan Holt - Fur Farmer
 * 💵Marie Neumiller - [Congressional Sportsmen's Foundation](/org/congressional_sportsmen's_foundation/)
 * Jack Thompson - Jack russell home services inc
-* Bruce Vandervort - Washington State Trappers Association
-* Kim Salvo - ANAMODA, Inc.
-* Karen Parker
 * Elias Chambers
 
 #### 2 ❓ - Other

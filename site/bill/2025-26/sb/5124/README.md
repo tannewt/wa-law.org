@@ -12,8 +12,8 @@
 ### Tue 02/10 08:30 AM - Health Care & Wellness (HCW): ESSB 5124 SNF & rehab network adequacy
 #### 13 👍 - Pro
 Testifying:
-* Katie Kolan - Washington State Hospital Association (WSHA)
 * Deena Hannen - Multicare
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
 #### 1 👎 - Con
 

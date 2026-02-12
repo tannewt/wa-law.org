@@ -32,8 +32,8 @@ Testifying:
 ### Tue 01/21 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1201 Emergency shelters/pets
 #### 40 👍 - Pro
 Testifying:
-* Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals
+* Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * Amy McGuffin - Kittitas County Chamber of Commerce
 * Rachele Raj - Seattle Veterinary Outreach
 

@@ -11,16 +11,16 @@
 #### 85 👍 - Pro
 Testifying:
 * Gisella Gonzales - Team children
-* Kevin Schnepel
 * Kari Reardon - WACDL/WDA
 * Andre Penalver - Minority & Justice Commission
+* Kevin Schnepel
 * Jennifer Doleac - Arnold Ventures
 * Katherine Hurley - King County Dept of Public Defense
 * Ramona Brandes - Sentencing Guidelines Commission
+* Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Cindy Liou - OneAmerica
 * Gisella Gonzales - Team children youth, advocacy, coalition
 * Melinda Young
-* Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
 #### 278 👎 - Con
 Testifying:

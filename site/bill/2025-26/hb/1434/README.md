@@ -16,6 +16,25 @@
 ### Wed 01/29 01:30 PM - State Government & Tribal Relations (SGOV): HB 1434 Eid al-Fitr & Eid al-Adha
 #### 2253 👍 - Pro
 Testifying:
+* Sandra Youssef
+* Ahmad Tirhi
+* Anees Khan
+* Muhannad Alzeir
+* Sarah Karim
+* Sayed Sadat
+* Abdulla Abdulla
+* Sidrah Rizvi
+* Ajmal Yasin
+* Navreen Malik
+* Faiza Zeeshan
+* Afnan Dallasheh - Muslim Association of Puget Sound
+* Qudsia Khan
+* Reem Ghabboun
+* Hossein Naseri
+* Tooryalai Shirzai
+* Attiqullah Kazimi
+* Ahmad Ahmadzai
+* Zoha Khan
 * Momodou Conta
 * 💵Aya Samman
 * Aziz ahmed Mohammed
@@ -38,44 +57,42 @@ Testifying:
 * Tayyab Munir
 * Zaid Haque - WA Dems Muslim Caucus
 * Umme Mahbuba
-* Sandra Youssef
 * Anas Mahdi
-* Ahmad Tirhi
 * Hager Youssef
 * Muhammad Irshad
-* Anees Khan
-* Muhannad Alzeir
 * Shamso Yussuf
 * Shahnaz Begum
 * Saima Samad
 * Muhammad Nasim
-* Sarah Karim
 * Ziyad Ali
-* Sayed Sadat
 * Dhudi Dahir
-* Abdulla Abdulla
-* Sidrah Rizvi
 * Heba Qatrani - President of South Seattle College Muslim Student Association
 * Rachida Hill - Uplift Dawah
 * Waseem Munir - Dawah Coordinator, Bellevue College Muslim Student Association
-* Ajmal Yasin
 * Muhammad Atif Nazir
 * Basma Faraj
-* Navreen Malik
-* Faiza Zeeshan
-* Afnan Dallasheh - Muslim Association of Puget Sound
 * Hodo Hassan
-* Qudsia Khan
 * Majeda Ayeshalmoutey
 * Shamaila Riaz
-* Reem Ghabboun
 * Fatima Rida Syeda
 * Michelle Ryder
-* Hossein Naseri
-* Tooryalai Shirzai
-* Attiqullah Kazimi
-* Ahmad Ahmadzai
-* Zoha Khan
+* Adel Tirhi
+* Hayat Hussen
+* Suci Rahmadini
+* Sana Jawad
+* Ida Firri
+* Hina Adnan
+* Sinet Mohammed
+* Ramsha Batool
+* Rafia Kamal
+* Raya AlQaysi
+* Neferban Thayyil Abdurasheed
+* Adil Hafeez
+* Belal Elkhouly
+* Mubashir Koul
+* Desirée Toliver
+* Sobia Sheikh
+* Angelique Rodriguez - CAIR-Washington
 * Tasneem B Janif
 * Abdul Abbasi
 * Jason Farmer
@@ -84,41 +101,25 @@ Testifying:
 * Fatema Abeed
 * Abdul Q Khan
 * Esraa Aakool
-* Hayat Hussen
-* Suci Rahmadini
 * Faris Khilfeh
 * Hira Niaz
 * Samia El-Moslimany
 * Hussam Mikkawi - No
-* Sana Jawad
 * Sameera afzal
-* Ida Firri
-* Hina Adnan
-* Sinet Mohammed
 * Ahmad Nazem
 * Ola Alhilfi
 * Wisam Ali
-* Ramsha Batool
-* Rafia Kamal
 * Farah alvi
 * Samreen Rasheed
-* Raya AlQaysi
-* Neferban Thayyil Abdurasheed
 * Neha Khan
 * Hamza Manzoor
 * Asad Faizi
 * Rafat Dhar
 * Ahmad Geelle
 * Sarah Hussain
-* Adil Hafeez
-* Belal Elkhouly
 * Wisam Aldulaimi
 * Feriya Hassan - 6302 s 249th st
-* Mubashir Koul
-* Adel Tirhi
-* Desirée Toliver
-* Sobia Sheikh
-* Angelique Rodriguez - CAIR-Washington
+* Muhammad Waqas
 * Yasir Mukhtar - 3624, 198th PL SE
 * Naila Ali
 * Mohammad Mousa - 940 N. Heatherwood West
@@ -257,7 +258,6 @@ Testifying:
 * Ahmed Kamel
 * Aisha Iqbal
 * Bassel Baioumy
-* Muhammad Waqas
 
 #### 694 👎 - Con
 Testifying:
@@ -268,10 +268,10 @@ Testifying:
 
 #### 100 ❓ - Other
 Testifying:
+* Sadaf Aftab
 * Irum asghar
 * Nasib Karimi
 * Ahmed Salman
-* Sadaf Aftab
 * Maan Al Khalidi
 * Johra Naveed - No
 * Dania Alchaar

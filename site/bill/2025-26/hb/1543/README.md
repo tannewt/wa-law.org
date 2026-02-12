@@ -20,11 +20,11 @@
 Testifying:
 * Jason Morse - [Issaquah School District](/org/issaquah_school_district/)
 * Martin Turney - Puget Sound Schools Coalition
-* Rae-Lynn Barden - Downtown Spokane Partnership
-* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Mitch Denning - Alliance of Educational Associations
 * Travis Bown - WA Association of Maintenance and Operation Administrators
 * Emily Salzberg - WA State
+* Rae-Lynn Barden - Downtown Spokane Partnership
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 22 👎 - Con
 Testifying:
@@ -42,8 +42,8 @@ Testifying:
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1543 Clean buildings standard
 #### 18 👍 - Pro
 Testifying:
-* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Emily Salzberg - Washington State Department of Commerce
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 32 👎 - Con
 

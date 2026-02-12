@@ -18,10 +18,10 @@
 Testifying:
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * Amy Cannava - Washington State Association of School Psychologists
-* Marilee Hill-Anderson
-* Holly Muenchow - Washington State PTA
 * Michelle Sandoval - Foundation for Youth Resiliency & Engagement (FYRE)
 * Jonas Rios
+* Marilee Hill-Anderson
+* Holly Muenchow - Washington State PTA
 * Jeanea Proctor-Mills
 * Erica Limon-Trefielo - Communities In Schools Washington
 * Jeanea Proctor-Mills - Seattle Public Schools District

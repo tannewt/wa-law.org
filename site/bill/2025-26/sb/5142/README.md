@@ -25,12 +25,12 @@ Testifying:
 * Emily Weaver
 * Emily Weaver
 * Kenneth Weaver
-* Shaylynn Houston
 * John Houston - The Houston Family Land Justice Project
 * Jerry Evans - No organization but would in person testify as a panel or individually.
-* JAMES Derouin jr - self
 * Shaylynn Houston
+* JAMES Derouin jr - self
 * James Houston
+* Shaylynn Houston
 
 #### 11 👎 - Con
 Testifying:

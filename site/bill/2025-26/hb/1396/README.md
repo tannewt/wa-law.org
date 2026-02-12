@@ -13,8 +13,8 @@
 Testifying:
 * Jim Chambers
 * Jacob Schmitt - Just Us Solutions, LLC
-* Tom Ewell - Quaker Voice
 * Laquesha Turner-Beers - Prior Employer
+* Tom Ewell - Quaker Voice
 * 💵Paul Benz - Quaker Voice
 * 💵Paul Benz - Quaker Voice
 * Melody Simle

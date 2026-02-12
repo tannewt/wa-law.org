@@ -13,10 +13,10 @@ Testifying:
 * Corey Orvold
 * Eric Pratt - America
 * Kay Clemons - As a volunteer In many BIPOC organizations. Entertainment Resource Alliance
+* Angelina Bundy - 4007 SW 325th Street
 * Olena Zhenochin
 * Anu TEWARI
 * Sai Samineni
-* Angelina Bundy - 4007 SW 325th Street
 
 #### 591 👎 - Con
 

@@ -105,13 +105,13 @@ Testifying:
 * Pat Taylor
 * Ingrid Sorensen - No
 * LINDEN JORDAN - PFLAG Skagit
-* Amy Cannava - Washington State Association of School Psychologists
 * Lisa Matthews
 * Jon Hegwood
 * Randi Miller
-* Susan Tuzzolino
+* Amy Cannava - Washington State Association of School Psychologists
 * Eleanor Nguyen - Not official representative, but coming from Lake Washington High School AP Government class
 * Amasai Jeke - UTOPIA WA
+* Susan Tuzzolino
 * Marlene Meyer
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
@@ -125,8 +125,8 @@ Testifying:
 * Gabriel Jacobs
 * Noah Meehan - Washington State Young Republicans
 * Elizabeth New - Washington Policy Center
-* Taylor Sajuan
 * TaraLyn Fray
+* Taylor Sajuan
 * Julie Dowell
 * David Dowell
 * Sandra Mochizuki
@@ -141,9 +141,6 @@ Testifying:
 Testifying:
 * Emily Carmichael
 * Maggie Anderson
-* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
-* Samantha Fogg - Seattle Council PTSA Co-President
-* Jerrett Burk
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 * LINDEN JORDAN - PFLAG Skagit
@@ -154,51 +151,54 @@ Testifying:
 * Tim Voie - WEA Chinook Council
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
-* Madeline Brown
-* Tim Voie - WEA Chinook Council
-* Tyler Crone
+* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
+* Samantha Fogg - Seattle Council PTSA Co-President
+* Jerrett Burk
 * Emma Kohl
 * Amasai Jeke - UTOPIA Washington
 * Amelia Fruzzetti
-* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
-* Aidan Key - Gender Diversity
-* April Eslami
-* Siobhana McEwen - Southwest Washington Equity Coalition
+* Madeline Brown
+* Tim Voie - WEA Chinook Council
+* Tyler Crone
 * Amy Cannava - Washington State Association of School Psychologists
 * Kathryn Salveson - Washington State Association of School Psychologists
 * Albert Johnson
 * Katherine Fromherz
 * Margaret Albaugh
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Aidan Key - Gender Diversity
+* April Eslami
+* Siobhana McEwen - Southwest Washington Equity Coalition
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * Michelle Harris
 
 #### 5528 👎 - Con
 Testifying:
-* Matthew Jackmond - A long time WA Resident and a very concerned voter!
 * laurielayne1@gmail.com Layne
+* Matthew Jackmond - A long time WA Resident and a very concerned voter!
 * Laurie Layne
 * Sarah Garriott
 * Dawn Land - Reject 5599
-* mike johnson
 * Robert Runnells - Informed Choice Washington
 * Tim Eyman - Initiative Activist
 * Diane Kong
+* mike johnson
 * thomas Grauer
-* Khushdip Brar - School Board Member
-* Trish Huddleston - School Board Director
 * Amanda McKinney - Yakima County Commissioner
 * Eric Lundberg
+* Khushdip Brar - School Board Member
+* Trish Huddleston - School Board Director
 * JENNIFER KILLMAN
+* Elizabeth New - Washington Policy Center
+* Anna Burt
+* Gabriel Jacobs
+* Gabriel Jacobs
 * Jennifer Heine-Withee
 * Christine McShurley
 * Ronda Litzenberger - Eatonville School Board
 * Sandra Mochizuki
-* Elizabeth New - Washington Policy Center
 * Mandi George
 * TaraLyn Fray
-* Anna Burt
-* Gabriel Jacobs
-* Gabriel Jacobs
 * samantha zistatsis
 * Robert Bleu
 * Shengquan Liang
@@ -233,16 +233,18 @@ Testifying:
 Testifying:
 * Danni Askini - Gender Justice League
 * Samantha Fogg - Seattle Council PTSA Co-President
+* Amy Cannava - Washington State Association of School Psychologists
 * Ellen Duffer
 * Bryanna Jenkins - [Lavender Rights Project](/org/lavender_rights_project/)
 * Everett Maroon
 * Tracy Dr. Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Danni Askini - Gender Justice League
-* Amy Cannava - Washington State Association of School Psychologists
-* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
 * 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Lucy Lauser
+* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
 * Paul Bonamy
+* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
+* NCSP, Carrie Suchy - Washington State Association of School Psychologists
 * Emily Carmichael
 * Pamela Pursley
 * Stacy Harbour-Van Hoy
@@ -259,33 +261,31 @@ Testifying:
 * Brier Moreno
 * 💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce
 * Ashley Ford - Seattle LGBTQ Commission
-* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Fortune johnson
-* NCSP, Carrie Suchy - Washington State Association of School Psychologists
 
 #### 1479 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
-* Jeffrey Bastow
 * Jennifer Heine-Withee
+* Jeffrey Bastow
 * Latasha Mae - 14314 Ne 7th pl
 * Ronda Litzenberger - Eatonville School Board
+* Dawn Land - Reject 5599
 * Sarah Garriott
 * Heather Anderson
-* Dawn Land - Reject 5599
 * Trish Huddleston - School Board Director
 * Christa Levine
 * Eric Lundberg
 * Joseph Romero - [Puyallup School District](/org/puyallup_school_district/)
 * Danielle Black
+* Bob Runnells - Informed Choice Washington
+* Jaskaran Singh Sarao - AT&T
 * Arry Yu
 * George Nervik
 * Darryl Jones
 * KHUSHDIP BRAR - SCHOOL BOARD MEMBER
 * Frank Cooper
 * Tonya Hickman - Lynden School Board
-* Bob Runnells - Informed Choice Washington
-* Jaskaran Singh Sarao - AT&T
 
 #### 6 ❓ - Other
 Testifying:

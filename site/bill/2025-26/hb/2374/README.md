@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/21 04:00 PM - Transportation (TR): HB 2374 Electric motorcycle, bicycle
@@ -12,12 +13,8 @@
 Testifying:
 * Amy Falcone - Kirkland City Councilmember
 * Christopher Mendoza
-* Dave Rosenbaum - Mayor - City of Mercer Island
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Connor Mcfadden
-* Michael DeCramer - [Washington Trails Association](/org/washington_trails_association/)
-* Katherine Hollis - [Eastrail Partners](/org/eastrail_partners/)
-* Lee Lambert - [Washington Bikes](/org/washington_bikes/)
+* Dave Rosenbaum - Mayor - City of Mercer Island
 * Eunjae Jeon
 * Tate Kuhn
 * William Callahan
@@ -25,6 +22,10 @@ Testifying:
 * Emerson Repass
 * Malia Donohue
 * Jesse Cunningham - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* Connor Mcfadden
+* Michael DeCramer - [Washington Trails Association](/org/washington_trails_association/)
+* Katherine Hollis - [Eastrail Partners](/org/eastrail_partners/)
+* Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 * Jill Meis - Washington Recreation and Park Association
 
 #### 67 👎 - Con

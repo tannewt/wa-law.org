@@ -3,8 +3,6 @@
 
 ### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
 
-### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
-
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍2  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  

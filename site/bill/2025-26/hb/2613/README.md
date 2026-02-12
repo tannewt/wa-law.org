@@ -11,11 +11,11 @@
 #### 13 👍 - Pro
 Testifying:
 * Jenny Cravens - Self
-* Michael Stepanovic - FirstWave Advisory Solutions
-* Brad Jordan - Eli Lilly and Company
 * Shabbir Safdar - Partnership for Safe Medicines
 * Gabrielle Cosel - Novo Nordisk
 * 💵Michael Transue - Novo Nordisk
+* Michael Stepanovic - FirstWave Advisory Solutions
+* Brad Jordan - Eli Lilly and Company
 
 #### 387 👎 - Con
 Testifying:
@@ -28,8 +28,8 @@ Testifying:
 * Richard Molitor
 * Richard Molitor
 * Erika Anderson
+* Katie Kolan - Washington State Hospital Association (WSHA)
 * 💵Malorie Toman - Washington State Medical Association (WSMA)
 * Jennifer Brown - Evexia NW
-* Katie Kolan - Washington State Hospital Association (WSHA)
 
 #### 2 ❓ - Other

@@ -17,8 +17,8 @@ Testifying:
 
 #### 686 👎 - Con
 Testifying:
-* Rolando Rodriguez - Green Roads - Social Equity Retailer
 * TaraLyn Fray
+* Rolando Rodriguez - Green Roads - Social Equity Retailer
 * Sandra Mochizuki
 
 #### 0 ❓ - Other
@@ -38,8 +38,8 @@ Testifying:
 #### 72 👎 - Con
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
-* Rolando Rodriguez - Green Roads Cannabis
 * 💵Paula Sardinas - FMS Global Strategies,
+* Rolando Rodriguez - Green Roads Cannabis
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 
 #### 2 ❓ - Other

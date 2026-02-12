@@ -16,8 +16,8 @@
 ### Wed 01/14 08:00 AM - Human Services (HS): SB 5942 DCYF accountability board
 #### 19 👍 - Pro
 Testifying:
-* Kim Justice - Partners for Our Children
 * Lisa Brewer - DRAW - Domestic Relations Attorneys of Washington
+* Kim Justice - Partners for Our Children
 
 #### 26 👎 - Con
 

@@ -14,9 +14,9 @@
 ### Tue 01/13 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2319 DD RHC facilities renaming
 #### 34 👍 - Pro
 Testifying:
-* 💵Shawn Latham - Self Advocates In Leadership
 * Cathy Murahashi - The Arc of Washington
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Shawn Latham - Self Advocates In Leadership
 
 #### 1 👎 - Con
 

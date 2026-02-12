@@ -9,12 +9,11 @@
 
 ## Meetings
 ### Fri 01/30 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2640 Unauthorized UCC filings
-#### 1 👍 - Pro
-Testifying:
-* James Manuel - WA Department of Licensing
+#### 0 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kerstin Klee - German Consulate General in San Francisco
+* James Manuel - WA Department of Licensing

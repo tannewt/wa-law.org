@@ -18,15 +18,15 @@ Testifying:
 * David Fischer
 * Peter Morton
 * 💵Jean Hill - Washington State Catholic Conference
-* Genevieve Barlow - Executive Director of KPTZ Radio Port Townsend
 * Skyler Reep - KSPS PBS
+* Genevieve Barlow - Executive Director of KPTZ Radio Port Townsend
+* Buck Pavoni - Thurston Community Media
+* Kevin Sur - KEXP
 * Mary Jane Francis
 * Sabrina Roach
 * Peter Kuentzel
 * Pam Goshorn
-* Buck Pavoni - Thurston Community Media
 * Jeannette Sorice
-* Kevin Sur - KEXP
 * Akhil Kalla
 * Buck Pavoni - TCMedia
 * Darleen Adkins - TCMedia

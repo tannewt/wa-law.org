@@ -16,18 +16,18 @@
 ### Tue 03/25 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5408 Wage and salary disclosures
 #### 59 👍 - Pro
 Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Amber Carter - WA Retail
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Breanne Martell - Littler
 
 #### 52 👎 - Con
 Testifying:
 * 💵Vasu Reddy - National Women's Law Center
+* 💵Gabriela Quintana - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Lisa Utter - Washington state (NOW) National Organization for women
 * Kevin Heim
 * Sandra Distelhorst - American Association of University Women of Washington (AAUW-WA)
-* 💵Gabriela Quintana - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * DESTINEE MOLIGA
 * Hannah Hamley - Emery Reddy
 
@@ -39,10 +39,10 @@ Testifying:
 * 💵Amber Carter - WA Retail Association
 * Kevin Wallis - HND Holdings Co.
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Gabriel Neuman - GSBA, Washington's LGBTQ+ Chamber of Commerce
 * Kris Tefft - Washington Liability Reform Coalition
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 71 👎 - Con
 Testifying:

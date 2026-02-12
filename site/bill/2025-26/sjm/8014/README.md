@@ -13,14 +13,14 @@
 Testifying:
 * Hamid Ali
 * Elisabetta Valenti
-* Samah Park Imtiaz
-* Ozden Bennett
 * Aria Fani
 * Laila Saliba - Washington for Peace and Justice
 * Michael Sims
+* Samah Park Imtiaz
+* Ozden Bennett
+* Rae Levine
 * Syed Hasnain
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
-* Rae Levine
 * Juliette Majid
 * Tamara Alsaied
 * Mohsin Ali
@@ -28,11 +28,11 @@ Testifying:
 * Cindy Corrie - [Rachel Corrie Foundation for Peace and Justice](/org/rachel_corrie_foundation_for_peace_and_justice/)
 * Craig Corrie
 * Hon. Brian Baird Ph.D.
-* Racquel West
 * Brandon Elliott - Associated Students of University of Washington
 * Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
 * Hiro Hirano-Holcumb - Associated Students of University of Washington Bothell
 * Nathan Tipmann - Evergreen Geoduck Student Union
+* Racquel West
 * Ayla Kadah
 * Howard Gale
 * Isaac Olson

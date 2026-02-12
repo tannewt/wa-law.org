@@ -11,8 +11,8 @@
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6289 Economic dev. strategic plan
 #### 17 👍 - Pro
 Testifying:
-* 💵Amber Carter - Identity Clark County
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* 💵Amber Carter - Identity Clark County
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con

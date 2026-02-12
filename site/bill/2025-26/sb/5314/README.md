@@ -17,8 +17,8 @@ Testifying:
 
 #### 937 👎 - Con
 Testifying:
-* TaraLyn Fray
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* TaraLyn Fray
 * Laurie Layne
 * Sandra Mochizuki
 * Tim Eyman - Initiative Activist

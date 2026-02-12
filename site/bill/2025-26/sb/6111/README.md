@@ -25,17 +25,17 @@ Testifying:
 * Tess Moore - Greenlake Primary Care
 * Diana Hsu
 * xingchun zheng
-* Delight Roberts
 * Manuela Slye
+* Delight Roberts
 
 #### 759 👎 - Con
 Testifying:
 * William Bei
-* 💵Aodhan Downey - Computer and Communications Industry Association
 * Jonathan Pincus - The Nexus of Privacy
 * 💵Amy Harris - WA TECHNOLOGY INDUSTRY ASSN
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Feliciano - TECHNOLOGY NETWORK
+* 💵Aodhan Downey - Computer and Communications Industry Association
 
 #### 3 ❓ - Other
 Testifying:

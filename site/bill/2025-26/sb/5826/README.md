@@ -23,10 +23,10 @@ Testifying:
 #### 1857 👎 - Con
 Testifying:
 * Theresa Schrempp
+* 💵Jean Hill - Washington State Catholic Conference
 * Matt LePage - First Baptist Church of Lacey
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Tina Gregory
-* 💵Jean Hill - Washington State Catholic Conference
 
 #### 1 ❓ - Other
 Testifying:
@@ -47,8 +47,8 @@ Testifying:
 * Theresa Schrempp
 * Eric Lundberg
 * 💵Jean Hill - Washington State Catholic Conference
-* Sunny Taylor
 * Nicole Peterson
+* Sunny Taylor
 * Mary Long - Conservative Ladies of America
 
 #### 1 ❓ - Other

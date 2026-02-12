@@ -61,8 +61,6 @@ Testifying:
 * TaraLyn Fray
 * Julie Dowell
 * David Dowell
-* Ruphina Nord - Washington State Young Republicans
-* 💵Jennifer Ziegler - Aerospace Futures Alliance
 * 💵Christine Brewer - Associated General Contractors
 * 💵Cory Shaw - WA Aggregate & Concrete Association
 * 💵Julia Gorton - WA Hospitality Association
@@ -75,6 +73,8 @@ Testifying:
 * 💵Katherine Mahoney - South South Supertintendents
 * Sandra Mochizuki
 * Sandra Mochizuki
+* Ruphina Nord - Washington State Young Republicans
+* 💵Jennifer Ziegler - Aerospace Futures Alliance
 
 #### 58 ❓ - Other
 Testifying:
@@ -101,13 +101,11 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Elizabeth New - Washington Policy Center
 * 💵Amber Carter - WA Retail Association
-* TaraLyn Fray
 * 💵Katherine Mahoney - South Sound Superintendents
 * 💵Marissa Rathbone - Washington State School Directors' Association
 * Sandra Mochizuki
 * Ronald Mochizuki
-* Teresa Sanders
-* Joel Bouchey
+* TaraLyn Fray
 * Jon Holmen - Lake Washington School District
 * Lilly Hayward - Seattle Metro Chamber
 * Lilly Howard - Seattle Metro Chamber
@@ -120,6 +118,8 @@ Testifying:
 * 💵Carolyn Logue - Washington Food Industry Association
 * 💵Christine Brewer - Associated General Contractors
 * Jerry Chase - Aerospace Futures Alliance
+* Teresa Sanders
+* Joel Bouchey
 * 💵Bill Clarke - WA PUD Association
 * Anthony Holan
 
@@ -138,9 +138,9 @@ Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Patrick Connor - NFIB
 * TaraLyn Fray
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Jennifer Ziegler - Aerospace Futures Alliance
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Anthony Holan
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 * Charlie Brown - South Sound Superintendents
@@ -173,17 +173,6 @@ Testifying:
 * Mike Ennis - BIAW
 * 💵Patrick Connor - NFIB
 * 💵Amber Carter - WA Retail Association
-* Miker Mayer
-* kamran rahman
-* Doug Bobay
-* Mark Hansen
-* douglas simpson - ballard sheet metal works, inc.
-* Susanna Simpson
-* Robin Korthuis - Lynden Family Physical Therapy
-* Prescott Tuesley
-* Kimberly Carpenter
-* 💵Jennifer Ziegler - Aerospace Futures Alliance
-* Rodney Hill
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
@@ -269,7 +258,6 @@ Testifying:
 * Bill Symmes
 * TRACEY MOREN
 * Craig Griffith
-* Brian Morrish - Morrish Design Group
 * Corey Rogers - Ward Rugh, Inc.
 * Kathy Scanlan - Northwest Abrasives, LLC
 * Josh Jorgensen - [Mission Ridge Ski & Board Resort](/org/mission_ridge_ski_&_board_resort/)
@@ -285,6 +273,18 @@ Testifying:
 * Troy Lautenbach - 13084 Ball rd
 * Toby Sutton
 * Melissa Slaughter - Group Solutions Northwest LLC
+* Miker Mayer
+* kamran rahman
+* Doug Bobay
+* Mark Hansen
+* douglas simpson - ballard sheet metal works, inc.
+* Susanna Simpson
+* Robin Korthuis - Lynden Family Physical Therapy
+* Prescott Tuesley
+* Kimberly Carpenter
+* 💵Jennifer Ziegler - Aerospace Futures Alliance
+* Rodney Hill
+* Brian Morrish - Morrish Design Group
 * John Levenda
 * Harry Thetford - Sound Earthworks, Inc.
 * MIRIAM DAVIS

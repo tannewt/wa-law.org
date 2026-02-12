@@ -16,8 +16,8 @@
 #### 326 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Counties Risk Pool](/org/washington_counties_risk_pool/)
-* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Axel Swanson - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Briahna Murray - [City of Pasco](/org/city_of_pasco/)
 
 #### 9 👎 - Con
@@ -29,8 +29,8 @@ Testifying:
 ### Wed 01/21 08:00 AM - Local Government (LG): HB 2174 Accident risk zones
 #### 175 👍 - Pro
 Testifying:
-* Michael Robitaille
 * Maria Serra - Public Works Director for the City of Pasco
+* Michael Robitaille
 
 #### 8 👎 - Con
 

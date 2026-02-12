@@ -32,12 +32,12 @@ Testifying:
 
 #### 802 👎 - Con
 Testifying:
-* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * TaraLyn Fray
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Sandra Mochizuki
 * Jim Hedrick - Washington Distillers' Guild (Craft Distillers)
 * Charlie Brown - [Diageo](/org/diageo/)
-* Sandra Mochizuki
 
 #### 1 ❓ - Other
 Testifying:
@@ -50,9 +50,9 @@ Testifying:
 Testifying:
 * Jim Hedrick - Washington Distillers' Guild - Craft Distillers
 * Sandra Mochizuki
+* Charlie Brown - [Diageo](/org/diageo/)
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 * Sandra Brock
-* Charlie Brown - [Diageo](/org/diageo/)
 * Anthony Holan
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 

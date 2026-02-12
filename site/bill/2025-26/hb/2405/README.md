@@ -18,8 +18,8 @@
 ### Wed 01/21 08:00 AM - Labor & Workplace Standards (LAWS): HB 2405 PTSD treatment and research
 #### 135 👍 - Pro
 Testifying:
-* Tammy Fellin - Department of Labor & Industries
 * 💵Patrick Connor - NFIB
+* Tammy Fellin - Department of Labor & Industries
 
 #### 4 👎 - Con
 

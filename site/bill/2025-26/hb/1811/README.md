@@ -19,8 +19,8 @@
 #### 67 👍 - Pro
 Testifying:
 * Jennifer Stuber - BHCore UW
-* Aaron Hardy - Seattle Police Department - East Precinct
 * Mike Jackson - Clark-Cowlitz Fire Rescue
+* Aaron Hardy - Seattle Police Department - East Precinct
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
 
 #### 4 👎 - Con
@@ -31,8 +31,8 @@ Testifying:
 #### 39 👍 - Pro
 Testifying:
 * Amy Barden - Seattle CARE Dept
-* Jennifer Stuber - University of Washington- BHCore
 * Natasha Grossman - Bellevue Fire CARES
+* Jennifer Stuber - University of Washington- BHCore
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
 * Brook Buettner - Regional Crisis Response Agency
 
@@ -48,9 +48,9 @@ Testifying:
 * Amy Barden - Chief, Seattle CARE Department
 * Mayor Chris Roberts - [City of Shoreline](/org/city_of_shoreline/)
 * Mike Jackson - Clark-Cowlitz Fire Rescue
-* Charles Hubschman - Seattle Fire Dept & WA Metro Fire Chiefs
 * Michael Hilley - Whatcom Co. EMS
 * Nicole Picknell - South County Fire
+* Charles Hubschman - Seattle Fire Dept & WA Metro Fire Chiefs
 
 #### 0 👎 - Con
 

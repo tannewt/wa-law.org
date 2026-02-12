@@ -14,9 +14,9 @@
 ### Wed 01/21 10:30 AM - Housing (HSG): SB 6001 Scissor stairs
 #### 135 👍 - Pro
 Testifying:
-* Markus Johnson
 * Iain MacKenzie - TVA Architects
 * MATT HUTCHINS - CAST architecture
+* Markus Johnson
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 

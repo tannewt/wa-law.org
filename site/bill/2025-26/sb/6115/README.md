@@ -13,12 +13,12 @@
 ### Tue 01/27 10:30 AM - Health & Long Term Care (HLTC): SB 6115 Cancer education programs
 #### 33 👍 - Pro
 Testifying:
+* Jana Mastrogiovanni - [Cancer Pathways](/org/cancer_pathways/)
+* 💵Michael Martin - [Cancer Pathways](/org/cancer_pathways/)
 * Sarah Goodman
 * Hunter Goodman - [Cancer Pathways](/org/cancer_pathways/)
 * DARCY HUFFMAN - [Cancer Pathways](/org/cancer_pathways/)
-* Jana Mastrogiovanni - [Cancer Pathways](/org/cancer_pathways/)
 * Anna Gottlieb - I am the Founder and Executive Director of Cancer Pathways
-* 💵Michael Martin - [Cancer Pathways](/org/cancer_pathways/)
 * Sedona Stewart - [Cancer Pathways](/org/cancer_pathways/)
 
 #### 665 👎 - Con

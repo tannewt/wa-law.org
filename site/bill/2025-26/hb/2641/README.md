@@ -22,8 +22,8 @@
 Testifying:
 * Genevieve Fain - I am testifying on behalf of myself and my community
 * Jan Nelson
-* Elizabeth Brown
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
+* Elizabeth Brown
 
 #### 1082 👎 - Con
 Testifying:

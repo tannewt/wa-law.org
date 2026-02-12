@@ -74,7 +74,7 @@
 
 ## Meetings
 ### Wed 03/19 04:00 PM - Appropriations (APP): ESSB 5192 School district materials
-#### 3532 👍 - Pro
+#### 3533 👍 - Pro
 Testifying:
 * Holly Muenchow - Northshore Council PTSA
 * Malorie Larson - Shoreline PTA Council
@@ -82,55 +82,54 @@ Testifying:
 * Dr.  Brent Jones - Superintendent, Seattle Public Schools
 * Dr. Ivan Duran - Superintendent, Highline Public Schools
 * Dr. Kelly Aramaki - Superintendent, Bellevue School District
+* Mary Templeton - [School Alliance](/org/school_alliance/)
 * Melissa Beard - Washington State School Directors' Association, Tumwater School District
 * Nikki Otero Lockwood - Washington State School Directors' Association, Spokane Public Schools
 * Sandy Hayes - Washington State School Directors' Association, Northshore School Board
+* Angela Steck - Washington State PTA
 * Danica Noble - Broadview Thomson K-8, PTA
 * Lily Eakin - McDonald International Elementary PTA
 * Paultoro Tanaka - 8th Grade Student, Robert Eaglestaff Middle School, PTSA
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Doug Vanderleest - WA Association of Maintenance and Operation Administrators
 * 💵Mitch Denning - Alliance of Educational Associations
-* Angela Steck - Washington State PTA
+* Kaitlin Murdock - Pathfinder PTSA, 34LD
 * Shaun Carey - WA Association of School Admin President-Elect
 * Jason Perrins - Chewelah School District
 * Rafael Brewer
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
-* Kaitlin Murdock - Pathfinder PTSA, 34LD
-* Renee Schulz
 * Ryan Arnold - East Valley School District
 * Rob Bryant - CFO - Federal Way Public Schools
 * Jim Kowalkowski - Rural Education Center
 * Juston Pollestad - Pullman Public Schools
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Renee Schulz
 
 #### 1169 👎 - Con
 Testifying:
 * Hailey Irvine
 
-#### 8 ❓ - Other
-Testifying:
-* Mary Templeton - [School Alliance](/org/school_alliance/)
+#### 7 ❓ - Other
 
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5192 School district materials
 #### 2708 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, and Richland School Districts
 * Tim Merlino - ESD 112
-* Michelle Harris - Shoreline PTA Council 6.12
 * Flip Herndon - Capital Region Educational Service District 113, Superintendent
 * Ismael Vivanco - Northwest Educational Service District 189, superintendent
 * Rob Roettger - Northeast WA Educational Service District 101, Superintendent
 * Kyle Rydell - West valley School District
-* Holly Muenchow - WSPTA - Washington State PTA
+* Michelle Harris - Shoreline PTA Council 6.12
 * Lindsey Yocum - Board Director, Lake Washington School Districty
-* Mary Templeton - Lake Stevens School District
 * Andi Tress - Everett Public Schools
+* Holly Muenchow - WSPTA - Washington State PTA
+* Mary Templeton - Lake Stevens School District
 * Samantha Fogg - Seattle Council PTSA Co-President
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Doug Vanderleest - WA Association of Maintenance & Operation Administrators
-* Roman Honeycutt
 * Jim Kowalkowski - Rural Education Center
+* Roman Honeycutt
 * Michelle Harris - Shoreline PTA Council 6.12
 * Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
 * Krestin Bahr - Peninsula School District
@@ -148,6 +147,7 @@ Testifying:
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5192 School district materials
 #### 2611 👍 - Pro
 Testifying:
+* Angela Steck - President, Washington State PTA
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
 * Dr. Ivan Duran - Superintendent, Highline School District
@@ -156,15 +156,13 @@ Testifying:
 * Dr. Shelley Redinger - [Richland School District](/org/richland_school_district/)
 * Michelle Whitney - Pasco School District
 * Traci Pierce - Kennewick School District
-* Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
 * Melissa Stone - Secretary, Washington State PTA
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
-* Bradley Wilson - Lake Chelan School District Superintendent
-* Samantha Fogg - Seattle Council PTSA Co-President
 * Lindsey Yocum - Lake Washington School District
 * Shane Backlund - ESD 105 Schools Coalition
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Samantha Fogg - Seattle Council PTSA Co-President
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Jim Kowalkowski - Rural Education Center
 * Jeff Chamberlin - Superintendent, University Place School District

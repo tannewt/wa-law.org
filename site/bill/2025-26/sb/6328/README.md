@@ -60,6 +60,22 @@ Testifying:
 * Casey Worrel
 * Rachel Bean - Craft Cannabis
 * Brandi Wheeler
+* Zachary Suzuki - Social Equity Retailer
+* Shelby Henry - WBBA
+* Elizabeth Shaw - Wbba
+* Trevor Botkin - Wbba
+* Josephine Haralson - WBBA
+* Jaiden Flanders - WBBA
+* Richard Gartner - Wbba
+* Alexandria Ladich - pacific processing llc
+* Rebecca Fehr - WBBA
+* Natilee Harrison - Wbba
+* S. Christy Hauff - Wbba
+* Roger Jochim - SEAGRASS LLC
+* Gene Hainey - Walden
+* Joseph Barrett - WBBA
+* Samuel Johnson - WBBA
+* Roxanne Maidesil - Shawn Kemp’s Cannabis
 * Joshua Cecil - Social Equity Retailer
 * Joshua Cecil - Social Equity Retailer
 * Nicole Kadow
@@ -96,22 +112,10 @@ Testifying:
 * Mathew Beardsley - Wbba
 * Randee Wieber - WBBA
 * Dominic Martinico - WBBA
-* Zachary Suzuki - Social Equity Retailer
-* Shelby Henry - WBBA
-* Elizabeth Shaw - Wbba
-* Trevor Botkin - Wbba
-* Josephine Haralson - WBBA
-* Jaiden Flanders - WBBA
-* Richard Gartner - Wbba
-* Alexandria Ladich - pacific processing llc
-* Rebecca Fehr - WBBA
-* Natilee Harrison - Wbba
-* S. Christy Hauff - Wbba
-* Roger Jochim - SEAGRASS LLC
-* Gene Hainey - Walden
-* Joseph Barrett - WBBA
-* Samuel Johnson - WBBA
-* Roxanne Maidesil - Shawn Kemp’s Cannabis
+* Jerry Morales - WBBA
+* Paula Fillmore-Sardinas - WBBA
+* Aaron Tulloch - WBBA
+* Casie Sanders
 * Kaylee Becker
 * Gary Purdy
 * Beau Whitney - Whitney Economics
@@ -142,13 +146,6 @@ Testifying:
 * Dannyka Songeni
 * 💵Jennifer Allen
 * Sean Olson
-* Paula Fillmore-Sardinas - WBBA
-* Aaron Tulloch - WBBA
-* Casie Sanders
-* Jerry Morales - WBBA
-* Mario Gallegos - Clarity Farms
-* ryan fleming - A Greener Today - Bothell
-* Lucas Marr - Uncle Ike's
 * Philip Turner - Producers NW
 * Eli Franklin
 * Mckenzie Powell
@@ -170,6 +167,9 @@ Testifying:
 * ABIGAIL A CRNICH - WBBA
 * Eileen Neff - Uncle Ike's
 * Jian Malihi - Clarity Farms
+* Mario Gallegos - Clarity Farms
+* ryan fleming - A Greener Today - Bothell
+* Lucas Marr - Uncle Ike's
 
 #### 7 ❓ - Other
 Testifying:

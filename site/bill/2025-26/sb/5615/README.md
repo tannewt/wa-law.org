@@ -14,10 +14,10 @@
 #### 105 👍 - Pro
 Testifying:
 * 💵Scott Hazlegrove - Master builders association of king and snohomish counties
-* Alex Harrington - NAIOP Washington State
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Josh Friedmann
 * Riley Benge - Washington REALTORS
+* Alex Harrington - NAIOP Washington State
 
 #### 6 👎 - Con
 Testifying:

@@ -19,10 +19,10 @@ Testifying:
 
 #### 709 👎 - Con
 Testifying:
-* Paul Katovich - Highline Grain Growers, Inc. / CEO
-* 💵Aaron Hunt - Union Pacific Railroad
 * 💵Johan Hellman
 * TaraLyn Fray
+* Paul Katovich - Highline Grain Growers, Inc. / CEO
+* 💵Aaron Hunt - Union Pacific Railroad
 * 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

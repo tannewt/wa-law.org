@@ -29,16 +29,16 @@ Testifying:
 ### Tue 01/20 08:00 AM - Finance (FIN): HB 2442 Local government fund use
 #### 67 👍 - Pro
 Testifying:
-* Kerri Burnside - Bellingham Tenants Union
 * PAUL Schissler - Madrona Community Development spc
+* Kerri Burnside - Bellingham Tenants Union
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Anita Gallagher - [Pierce County](/org/pierce_county/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Commissioner Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * Commissioner LaDon Linde - Yakima County
 * 💵Josh Weiss - Snohomish County
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 868 👎 - Con
 Testifying:

@@ -10,11 +10,13 @@
 ### Wed 01/29 01:30 PM - Health Care & Wellness (HCW): HB 1535 Dental insurance practices
 #### 1232 👍 - Pro
 Testifying:
-* Lexi Benner
-* Arezoo Holdaway
-* David Chi
 * Brent Robinson - Robinson Dental
 * Garrett Gentling
+* Lexi Benner
+* Arezoo Holdaway
+* Cynthia Pauley - WSDA
+* 💵Kevin Schilling - WSDA
+* Kjersten Otterholt - WSDA
 * Betsey Thompson - WSDA
 * Mamiko Kuriya - WSDA
 * Brittany Dean
@@ -23,9 +25,6 @@ Testifying:
 * John Gibbons - WSDA
 * Puneet Aulakh - WSDA
 * Andrew Kim
-* Cynthia Pauley - WSDA
-* 💵Kevin Schilling - WSDA
-* Kjersten Otterholt - WSDA
 
 #### 241 👎 - Con
 Testifying:

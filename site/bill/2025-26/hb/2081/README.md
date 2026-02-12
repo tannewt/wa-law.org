@@ -69,6 +69,14 @@ Testifying:
 
 #### 399 👎 - Con
 Testifying:
+* Jessica Pizzica - GRIT Talent Solutions
+* chris speno - Orca Furniture Services LLC
+* 💵Chelene Whiteaker - Washington State Hospital Assn
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Neil Strege - WA Roundtable
+* Lawrence Garrett - 828 Consulting
+* Lars Erickson - Seattle Metropolitan Chamber of Commerce
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * Tim Eyman - Initiative l
 * Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * cliff tvedten
@@ -85,14 +93,6 @@ Testifying:
 * 💵Michele Willms - Associated General Contractors (AGC)
 * 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * 💵Sean Graham - Washington State Medical Association
-* Jessica Pizzica - GRIT Talent Solutions
-* chris speno - Orca Furniture Services LLC
-* 💵Chelene Whiteaker - Washington State Hospital Assn
-* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Neil Strege - WA Roundtable
-* Lawrence Garrett - 828 Consulting
-* Lars Erickson - Seattle Metropolitan Chamber of Commerce
-* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * Vern Olson
 * Christine Richter
 * Lilly Hayward - Seattle Metropolitan Chamber of Commerce
@@ -137,11 +137,11 @@ Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laurie Layne
 * Tim Eyman - Initiative Activist
-* 💵Amber Carter - WA Retail Association
-* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Greg Hanon - Western States Petroleum Assoc.
 * Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* 💵Amber Carter - WA Retail Association
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
@@ -162,7 +162,7 @@ Testifying:
 #### 7 ❓ - Other
 Testifying:
 * 💵Patrick Connor - NFIB
+* Bea Nahon - Washington Society of CPAs
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
 * oliver miska
 * Will Quinby
-* Bea Nahon - Washington Society of CPAs

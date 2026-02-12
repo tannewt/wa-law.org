@@ -18,8 +18,8 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2429 Youth behavioral health
 #### 229 👍 - Pro
 Testifying:
-* 💵Ashley Jackson - Seattle Children's
 * 💵Sarah Rafton - Behavioral Health Catalyst
+* 💵Ashley Jackson - Seattle Children's
 
 #### 435 👎 - Con
 Testifying:
@@ -36,17 +36,17 @@ Testifying:
 * Peggy Dolane
 * Wendy Titchenal
 * Wendy Titchenal
-* Marianne Gibson - Inseparable
-* Laura Knapp - Seattle Children's
 * Karen Kelly
 * Jolynn Kenney - MENTOR Washington
+* Marianne Gibson - Inseparable
+* Laura Knapp - Seattle Children's
 * Kitara Johnson - Gabriel‘s Challenge
 * Michael Sheehan - Independent therapist (private practice)
+* Michael Van Dyke - WCAAP
 * Teesha Kirschbaum - Health Care Authority (HCA)
 * Jim Theofelis - NorthStar Advocates
 * Ashley Mangum - Mary Bridge Children's Hospital
 * Jack Farrell - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
-* Michael Van Dyke - WCAAP
 
 #### 671 👎 - Con
 Testifying:

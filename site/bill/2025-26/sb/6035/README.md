@@ -16,10 +16,10 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6035 Voting services
 #### 24 👍 - Pro
 Testifying:
-* Linda Farmer - WSACA Legislative Co Chair
-* Julie Wise - King County Director of Elections
 * Shawn Merchant - [Office of the Secretary of State](/org/office_of_the_secretary_of_state/)
 * 💵Michael Moran - 1. Confederated Tribes of the Chehalis  Reservation 2. Confederated Tribes of the Colville Res.
+* Linda Farmer - WSACA Legislative Co Chair
+* Julie Wise - King County Director of Elections
 
 #### 286 👎 - Con
 Testifying:

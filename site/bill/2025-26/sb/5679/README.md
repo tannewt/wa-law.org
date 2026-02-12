@@ -14,9 +14,9 @@
 #### 15 👍 - Pro
 Testifying:
 * 💵Anthony Hemstad - Washington Housing Development, LLC
-* Heather Dudley-Nollette - Commissioner, Jefferson County
 * Heidi Dudley-Nollette - Commissioner, Jefferson County
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Heather Dudley-Nollette - Commissioner, Jefferson County
 * Tom McBride - Kitsap County
 * Ian Harkins - Kitsap Building Association
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

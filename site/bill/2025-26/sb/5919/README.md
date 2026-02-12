@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5919 Fire best practices
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5919 Fire best practices
 #### 53 👍 - Pro
 Testifying:

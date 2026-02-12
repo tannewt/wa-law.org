@@ -10,9 +10,9 @@
 ### Fri 02/21 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1955 Fishing & shellfishing/youth
 #### 12 👍 - Pro
 Testifying:
+* Jack Strathy
 * Anna Petregal
 * Christopher Chan
-* Jack Strathy
 * Jack Strathy
 * Larry Phillips - American Sportfishing Association
 

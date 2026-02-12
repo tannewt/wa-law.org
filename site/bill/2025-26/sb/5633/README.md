@@ -40,8 +40,8 @@ Testifying:
 * kurt wilson - Soundbuilt Homes
 * 💵Scott Hazlegrove - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* 💵Alex Hur - Master Builders Association of King & Snohomish Counties
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Alex Hur - Master Builders Association of King & Snohomish Counties
 
 #### 653 👎 - Con
 Testifying:

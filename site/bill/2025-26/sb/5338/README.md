@@ -18,8 +18,8 @@
 ### Tue 03/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5338 Veterans affairs adv. comm.
 #### 9 👍 - Pro
 Testifying:
-* David Puente - WA State Department of Veterans Affairs
 * Miguel De Jesus Padilla - VLC Member at Large
+* David Puente - WA State Department of Veterans Affairs
 * Miguel DJ Padilla - VLC Member at Large
 * Miguel DJ Padilla - VLC Member at Large
 

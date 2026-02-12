@@ -17,8 +17,8 @@ Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Anthony Mixer - Washington State Young Republicans
 * Mark McAvoy - [City of Liberty Lake](/org/city_of_liberty_lake/)
-* Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
 * Mary Lou Pauly - Mayor, City of Issaquah
+* Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
 * Les Baldik - Les's Local Honey
 
 #### 3 👎 - Con

@@ -38,6 +38,7 @@ Testifying:
 #### 272 👍 - Pro
 Testifying:
 * Hugo Huang
+* Angus Duncan - Natural Resources Defense Council
 * 💵Maya Gillett - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
 * 💵Spencer Gray - NIPPC (Northwest & Intermountain Power Producers Coalition)
@@ -45,7 +46,6 @@ Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
 * 💵Zachariah Baker - NW Energy Coalition
-* Angus Duncan - Natural Resources Defense Council
 
 #### 103 👎 - Con
 Testifying:
@@ -54,12 +54,12 @@ Testifying:
 
 #### 17 ❓ - Other
 Testifying:
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * George Lynch - Washington State Department of Commerce
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Cassie Bordelon - Climate Jobs WA
 * 💵Jason Hudson - IBEW 77
 * 💵Matthew Hepner - IBEW/CEWW
-* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5466 Electric transmission system
@@ -126,8 +126,8 @@ Testifying:
 #### 726 👎 - Con
 Testifying:
 * Nicolas B Garcia - Washington Public Utility Districts Association
-* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * Sandra Mochizuki
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
 #### 2 ❓ - Other
 
@@ -151,11 +151,11 @@ Testifying:
 
 #### 10 ❓ - Other
 Testifying:
+* Ryan Roy - Western Power Pool
 * George Lynch - Washington State Department of Commerce
 * 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
 * 💵Dawn Vyvyan - Yakama Nation
 * 💵Jay Balasbas - PacifiCorp
-* Ryan Roy - Western Power Pool
 * 💵Nicolas Garcia - WPUDA
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)

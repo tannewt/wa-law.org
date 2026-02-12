@@ -14,9 +14,9 @@
 ### Thu 04/03 01:30 PM - Transportation (TR): SSB 5773 Transportation procurement
 #### 12 👍 - Pro
 Testifying:
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * Catherine Hovell - HNTB Corporation
 * Jerry VanderWood - AGC of WA
-* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * 💵Morgan Irwin - AWB
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
 * Geoff Owen - AGC and Kiewit

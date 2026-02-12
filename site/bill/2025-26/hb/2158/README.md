@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/19 10:30 AM - Law & Justice (LAW): SHB 2158 Electronic notarial acts
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2158 Electronic notarial acts
 #### 95 👍 - Pro
 Testifying:

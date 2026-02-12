@@ -29,10 +29,10 @@ Testifying:
 ### Thu 02/06 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5542 HS completers/CTC tuition
 #### 22 👍 - Pro
 Testifying:
+* Troy Goracke - Washington State Board for Community and Technical Colleges
 * Cody Clark
 * 💵Rick Anderson
 * Sarah Stiffler - Spokane Community College
-* Troy Goracke - Washington State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 

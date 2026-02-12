@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=HB%202355)
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%202355:)
 * 01/19/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña y Thomas presentan proyecto de ley de derechos para personas trabajadoras del hogar para fortalecer protecciones y equidad laboral - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/19/saldana-y-thomas-presentan-proyecto-de-ley-de-derechos-para-personas-trabajadoras-del-hogar-para-fortalecer-protecciones-y-equidad-laboral/#:~:text=HB%202355%20en%20la%20Cámara%20de%20Representantes)
 * 01/19/2026 [Senate Democrats](/org/senate_democrats/) - [Saldaña, Thomas introduce Domestic Workers Bill of Rights to advance worker protections, equity  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/19/saldana-thomas-introduce-domestic-workers-bill-of-rights-to-advance-worker-protections-equity/#:~:text=House%20Bill%202355)

@@ -11,8 +11,8 @@
 #### 6 👍 - Pro
 Testifying:
 * Dave Morell - Pierce County Councilmember
-* Matthew Berry - Birch Bay Incorporation Association
 * alon bassok - [Pierce County](/org/pierce_county/)
+* Matthew Berry - Birch Bay Incorporation Association
 
 #### 14 👎 - Con
 Testifying:

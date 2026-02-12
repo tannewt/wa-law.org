@@ -28,12 +28,12 @@ Testifying:
 #### 38 👍 - Pro
 Testifying:
 * Lynette Brower - Washington State Skills Center Association
+* Dennis Halpin - Elliott Bay Marina
 * Captain Ryan Davis - legato maritime
 * Tim Knue - Washington Association for Career and Technical Education
 * Tony Adams - Suquamish Higher Education Board
 * Tory Gering - Core Plus Maritime
 * 💵Brad Tower - Arrow Marine Group
-* Dennis Halpin - Elliott Bay Marina
 
 #### 1 👎 - Con
 

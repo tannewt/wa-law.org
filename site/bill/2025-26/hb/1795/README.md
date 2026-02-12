@@ -23,9 +23,9 @@
 ### Mon 01/12 01:30 PM - Education (ED): HB 1795 Student restraint, isolation
 #### 193 👍 - Pro
 Testifying:
+* Paula Fillmore-Sardinas - FMSGS/WBBA
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Dana Fletcher
-* Paula Fillmore-Sardinas - FMSGS/WBBA
 * Katherine Davis
 * Jen Chong Jewell - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Alexis Cortes
@@ -47,15 +47,15 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* John Axtell
 * Katherine Davis
+* John Axtell
 
 ### Mon 02/10 01:30 PM - Education (ED): HB 1795 Student restraint, isolation
 #### 114 👍 - Pro
 Testifying:
 * Diego Gonzalez
-* Dominick Ventresco - Pullman School District 267
 * Molly Lyman
+* Dominick Ventresco - Pullman School District 267
 * Jen Chong Jewell - Special Education Advisory Council for OSPI
 * Samantha Fogg - Seattle Council PTSA Co-President
 * David Mendez - True Measure Collaborative (RREI project)
@@ -70,8 +70,8 @@ Testifying:
 
 #### 33 ❓ - Other
 Testifying:
-* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Bri Nelson - SEIU 925, paraprofessional
 * Christy Tautfest - SEIU 925, paraprofessional
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Rick Chisa - Public School Employees of Washington (PSE)

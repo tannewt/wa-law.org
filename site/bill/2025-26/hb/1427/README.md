@@ -67,5 +67,5 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Kim Zacher - Comprehensive Life Resources & WA Council for Behavioral Health
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

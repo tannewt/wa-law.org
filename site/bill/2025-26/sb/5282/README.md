@@ -33,8 +33,8 @@ Testifying:
 ### Mon 01/27 10:30 AM - Law & Justice (LAW): SB 5282 Missing children adv. board
 #### 321 👍 - Pro
 Testifying:
-* Franklin Wilson - Triple F's Investigation
 * Colin Wood - CAGE
+* Franklin Wilson - Triple F's Investigation
 * James Manley
 * Mick Woynarowski
 * Bryan Glant

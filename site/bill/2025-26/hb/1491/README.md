@@ -53,9 +53,9 @@
 ### Fri 04/04 01:30 PM - Ways & Means (WM): 3SHB 1491 Transit-oriented housing dev
 #### 1345 👍 - Pro
 Testifying:
-* Lindsey Walsh
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵John Traynor - Washington State Labor Council, AFL CIO
+* Lindsey Walsh
 * Sarah Lovell - King County Metro
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
@@ -84,8 +84,8 @@ Testifying:
 * Nicholas Carr - Office of the Governor
 * Geoff Anderson - AIAWA (American Institute of Architects WA Council)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* 💵Kira Munson - Washington State Labor Council, AFL-CIO
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Kira Munson - Washington State Labor Council, AFL-CIO
 
 #### 790 👎 - Con
 Testifying:
@@ -95,8 +95,8 @@ Testifying:
 
 #### 8 ❓ - Other
 Testifying:
-* Dave Andersen - Washington Department of Commerce
 * Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
+* Dave Andersen - Washington Department of Commerce
 * Toby Thaler
 * 💵Bill Clarke - Washington REALTORS
 * McKenzie Darr - NAIOPWA
@@ -121,10 +121,10 @@ Testifying:
 ### Tue 02/25 09:00 AM - Capital Budget (CB): SHB 1491 Transit-oriented housing dev
 #### 1195 👍 - Pro
 Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Dillon Davis
 * Luke Lettice
 * 💵Michele Thomas - WA Low Income Housing Alliance
-* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 834 👎 - Con
 Testifying:
@@ -142,11 +142,11 @@ Testifying:
 ### Tue 01/28 04:00 PM - Housing (HOUS): HB 1491 Transit-oriented housing dev
 #### 825 👍 - Pro
 Testifying:
-* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* 💵John Traynor - washington state labor council, afl-cio
 * Kristiana de Leon
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵John Traynor - washington state labor council, afl-cio
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Nicholas Carr - Office of the Governor
 
@@ -154,14 +154,14 @@ Testifying:
 Testifying:
 * Aidan Thornsberry
 * Claire Eberle
-* 💵Morgan Irwin - AWB
 * McKenzie Darr - NAIOP Washington State
 * Ryan Windish - [City of Sumner](/org/city_of_sumner/)
+* 💵Morgan Irwin - AWB
 
 #### 15 ❓ - Other
 Testifying:
-* 💵Joren Clowers - Sno-King Water District Coalition
 * 💵Michael Transue - [City of Fife](/org/city_of_fife/)
 * 💵Bill Clarke - WA REALTORS
 * Mayor Mary Lou Pauly - [City of Issaquah](/org/city_of_issaquah/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Joren Clowers - Sno-King Water District Coalition

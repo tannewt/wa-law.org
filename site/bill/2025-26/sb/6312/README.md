@@ -13,12 +13,12 @@
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6312 Retail pricing
 #### 97 👍 - Pro
 Testifying:
+* Maya Morales - WA People's Privacy
 * Jennifer Edwards
 * Ryan Stokes
 * 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 * 💵Dustin Lambro - UFCW 3000
 * Jonathan Pincus - The Nexus of Privacy
-* Maya Morales - WA People's Privacy
 
 #### 7 👎 - Con
 Testifying:

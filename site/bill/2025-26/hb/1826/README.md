@@ -11,9 +11,9 @@
 #### 394 👍 - Pro
 Testifying:
 * Marsha Cutting
-* Matt Thompson
 * Burke Stansbury
 * 💵Cecelia Black - [Disability Rights Washington](/org/disability_rights_washington/)
+* Matt Thompson
 
 #### 0 👎 - Con
 

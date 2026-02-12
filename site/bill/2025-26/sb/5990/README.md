@@ -9,15 +9,14 @@
 
 ## Meetings
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5990 Rural local health officers
-#### 16 👍 - Pro
-Testifying:
-* Angela Ross - WA Assoc of Naturopathic Physicians
+#### 15 👍 - Pro
 
 #### 51 👎 - Con
 Testifying:
 * 💵Jaime Bodden - WSALPHO
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Commissioner Melanie Bacon - [Island County](/org/island_county/)
 * Shawn Morris - [Island County](/org/island_county/)
+* Angela Ross - WA Assoc of Naturopathic Physicians

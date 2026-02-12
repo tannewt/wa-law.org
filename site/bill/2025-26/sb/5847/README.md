@@ -38,10 +38,10 @@ Testifying:
 #### 119 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
-* 💵James Crandall - AWB
 * Andrew Friedman
 * Kris Tefft
 * Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵James Crandall - AWB
 
 #### 3 ❓ - Other
 Testifying:

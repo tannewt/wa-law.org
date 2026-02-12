@@ -17,9 +17,9 @@
 #### 15 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Joe McDermott - State Relations Director | King County
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Joe McDermott - State Relations Director | King County
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Kylie Peterson - WA Assn for Substance Misuse & Violence Prevention
 

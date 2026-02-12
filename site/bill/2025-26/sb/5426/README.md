@@ -18,25 +18,24 @@ Testifying:
 * Kelli Robinson - Our Sister's House
 * Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 
-#### 33 👎 - Con
+#### 32 👎 - Con
+
+#### 1 ❓ - Other
 Testifying:
 * Eric Pratt - America
-
-#### 0 ❓ - Other
 
 ### Wed 01/29 08:00 AM - Human Services (HS): SB 5426 Court alternatives/youth
 #### 65 👍 - Pro
 Testifying:
 * Gisella Gonzalez - TeamChild Youth Advisory Board
+* Julissa Sanchez - CHOOSE 180
+* Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Liz Trautman - Stand for Children Washington
 * Katie Hurley - King County Department of Public Defense
-* Alex Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Morning Large
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
 * Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
-* Julissa Sanchez - CHOOSE 180
-* Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 38 👎 - Con
 

@@ -15,13 +15,13 @@
 
 #### 341 👎 - Con
 Testifying:
-* Monty Robinson - [Delta Dental of Washington](/org/delta_dental_of_washington/)
-* Mike Ennis - Building Industry Association of Washington (BIAW)
-* 💵Melissa Johnson - Willamette Dental Group of Washington
 * 💵David Foster - Assoc of WA Healthcare Plans
 * 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * Chris Bandoli - National Association of Insurance and Financial Advisors Washington
+* Monty Robinson - [Delta Dental of Washington](/org/delta_dental_of_washington/)
+* Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Melissa Johnson - Willamette Dental Group of Washington
 
 #### 2 ❓ - Other
 Testifying:

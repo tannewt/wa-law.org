@@ -14,8 +14,8 @@ Testifying:
 * Kayla Lindley
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Jim Wellman - parent advocate
-* Amy Foster
 * Linda Hyatt
+* Amy Foster
 * Judy Barrere - Tavon
 * Therese Vafaeezadeh - NA
 * Natasha Tall

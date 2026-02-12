@@ -10,8 +10,8 @@
 ### Fri 02/06 10:30 AM - Transportation (TR): HB 2727 Educational transit access
 #### 13 👍 - Pro
 Testifying:
-* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * 💵Justin Leighton - Washington State Transit Association
+* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Paula Fillmore-Sardinas - FMSGS/WBBA
 
 #### 75 👎 - Con

@@ -69,30 +69,30 @@
 #### 1108 👍 - Pro
 Testifying:
 * Skylar Bisom-Rapp - Inversion Design Build
+* Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
 * Council Member Zack Zappone - [City of Spokane](/org/city_of_spokane/)
 * Catie Gould
-* Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
 * Dana Christiansen - Kids unlimited
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Nicholas Carr - Office of the Governor
+* Jennifer Gregerson
 * 💵Ron Davis - Sightline, on Behalf of the Coalition in Support of Parking Reform
 * Joe Tovar
-* Jennifer Gregerson
+* Cary Westerbeck
+* Angela Rozmyn - Natural and Built Environments
 * Sonja Max
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Riley Benge - Washington REALTORS
-* Cary Westerbeck
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * Jace Cotton - Bellingham City Councilmember (testifying as an individual)
 * Sarah Dickmeyer - Plymouth Housing
-* Angela Rozmyn - Natural and Built Environments
+* Daniel Herriges - Parking Reform Network
+* Scott Bonjukian
+* Jenne Alderks - City of Bothell Councilmember
 * Jesse Simpson - Housing Development Consortium
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * cecelia black
-* Daniel Herriges - Parking Reform Network
-* Scott Bonjukian
 * McKai Morgan - A1DesignBuild
-* Jenne Alderks - City of Bothell Councilmember
 * Wes Stewart - Sierra Club Washington State chapter
 
 #### 664 👎 - Con
@@ -106,9 +106,9 @@ Testifying:
 * Rebecca Deming - Community Development Director, City of Des Moines
 * Richa Sigdel - City of Pasco, Deputy City Manager
 * Matt Herrera - Planning Director, City of Renton
+* Mariya Frost - Kemper Development Company
 * David Fritz
 * City Councilmember John Herbert - [City of Maple Valley](/org/city_of_maple_valley/)
-* Mariya Frost - Kemper Development Company
 
 #### 10 ❓ - Other
 Testifying:
@@ -119,38 +119,38 @@ Testifying:
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5184 Minimum parking requirements
 #### 891 👍 - Pro
 Testifying:
+* Joe Kunzler
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
 * L Harrison Jerome
 * Scott Bonjukian
 * Jesse Simpson - Housing Development Consortium
-* Joe Kunzler
 * Ali Taysi
 * MATT HUTCHINS
 * MATT HUTCHINS
 * MATT HUTCHINS
 * 💵Bryce Yadon - Futurewise and Transportation Choices Coalition
-* Paul Rometsch
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Paul Rometsch
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * Sandy Wolf
 * Blake Lyon - City of Bellingham, WA
+* Michone Preston - Habitat for Humanity of Washington State
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Ron Davis - Sightline
+* Riley Benge - Washington REALTORS
 * Eric Hamilton
 * Ty Stober - Council Member, City of Vancouver
 * Cary Westerbeck - westerbeck | archite
 * Sonja Max
 * Daniel Herriges - Parking Reform Network
-* Michone Preston - Habitat for Humanity of Washington State
-* 💵Michele Thomas - Washington Low Income Housing Alliance
-* 💵Ron Davis - Sightline
-* Riley Benge - Washington REALTORS
-* Wes Stewart - Sierra Club Washington
-* Susan Davenport - Thurston Housing Land Trust
-* Nicholas Carr - Office of the Governor
-* Jace Cotton
 * Carston Curd - Councilmember, City of Bothell
 * Kelli Refer - Move Redmond
 * Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
 * Zack Zappone - [City of Spokane](/org/city_of_spokane/)
+* Wes Stewart - Sierra Club Washington
+* Susan Davenport - Thurston Housing Land Trust
+* Nicholas Carr - Office of the Governor
+* Jace Cotton
 * 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 * Kevin Troutt
 * Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
@@ -158,8 +158,8 @@ Testifying:
 #### 409 👎 - Con
 Testifying:
 * Salim Nice - City Mercer Island
-* Michael A Moore - A & M striping
 * Mariya Frost - Kemper Development Company
+* Michael A Moore - A & M striping
 
 #### 6 ❓ - Other
 Testifying:

@@ -17,21 +17,21 @@
 #### 101 👍 - Pro
 Testifying:
 * Lori Hairston - Washington DECA
-* Mike Pellicciotti - State Treasurer
 * Mike Pelliciotti - State Treasurer
 * Tracy Godat
+* Mike Pellicciotti - State Treasurer
 * Conrad Krol - Westbank Financials
 * LORI HAIRSTON
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * Lori Hairston
 * Dakota Manley - Washington State Young Republicans
-* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Brenda Wiest - Teamsters Local 117
+* Charlotte Nemec - Canopy Credit Union
+* Yazmin Carretero - State Board of Education
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance
 * Dwija Adamala
 * Andrew Cun - Westbank financials
 * Conrad Krol - Westbank Financials
-* 💵Brenda Wiest - Teamsters Local 117
-* Charlotte Nemec - Canopy Credit Union
-* Yazmin Carretero - State Board of Education
 
 #### 1203 👎 - Con
 Testifying:

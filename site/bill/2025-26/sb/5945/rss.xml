@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5945/</link>
 		<description>Updates about SB 5945</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 12:08:04 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Jan 2026 16:52:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -18,10 +18,10 @@
 		<item>
 			<title>👎Tiffany Attrill - On behalf of Joshua Shepard</title>
 			<description>Tiffany Attrill signed up to testify Con.</description>
-			<pubDate>Wed, 07 Jan 2026 05:29:45 GMT</pubDate>
+			<pubDate>Wed, 07 Jan 2026 17:29:45 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tiffany/Attrill/2026-01-07 05:29:45</guid>
+			<guid isPermaLink="false">testifier/Tiffany/Attrill/2026-01-07 17:29:45</guid>
 		</item>
 		<item>
 			<title>👍Karen Peacey - League of Women Voters of WA</title>
@@ -32,14 +32,6 @@
 			<guid isPermaLink="false">testifier/Karen/Peacey/2026-01-08 08:48:28</guid>
 		</item>
 		<item>
-			<title>👍David Trieweiler - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
-			<description>David Trieweiler signed up to testify Pro. They are signed up to represent Washington Association of Criminal Defense Lawyers and Washington Defender Association.</description>
-			<pubDate>Fri, 09 Jan 2026 03:00:00 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/David/Trieweiler/2026-01-09 03:00:00</guid>
-		</item>
-		<item>
 			<title>👍Larry Jefferson - Director, Washington State Office of Public Defense</title>
 			<description>Larry Jefferson signed up to testify Pro. They are signed up to represent Director, Washington State Office of Public Defense.</description>
 			<pubDate>Fri, 09 Jan 2026 04:44:27 GMT</pubDate>
@@ -48,15 +40,23 @@
 			<guid isPermaLink="false">testifier/Larry/Jefferson/2026-01-09 04:44:27</guid>
 		</item>
 		<item>
-			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
-			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
-			<pubDate>Sat, 10 Jan 2026 05:02:06 GMT</pubDate>
+			<title>👍David Trieweiler - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
+			<description>David Trieweiler signed up to testify Pro. They are signed up to represent Washington Association of Criminal Defense Lawyers and Washington Defender Association.</description>
+			<pubDate>Fri, 09 Jan 2026 15:00:00 GMT</pubDate>
 			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Russell/Brown/2026-01-10 05:02:06</guid>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Trieweiler/2026-01-09 15:00:00</guid>
 		</item>
 		<item>
-			<title>👍Anthony Powers - Director, Washington State Office of Public Defense</title>
+			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Sat, 10 Jan 2026 17:02:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2026-01-10 17:02:06</guid>
+		</item>
+		<item>
+			<title>👍Anthony Powers - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
 			<description>Anthony Powers signed up to testify Pro.</description>
 			<pubDate>Sun, 11 Jan 2026 08:56:53 GMT</pubDate>
 			<category>testifier</category>
@@ -71,36 +71,12 @@
 			<guid isPermaLink="false">2026-01-12/First reading, referred to Human Services.</guid>
 		</item>
 		<item>
-			<title>👍Jacob Ivan Schmitt - Just Us Solutions, LLC</title>
-			<description>Jacob Ivan Schmitt signed up to testify Pro. They are signed up to represent Just Us Solutions, LLC.</description>
-			<pubDate>Mon, 12 Jan 2026 01:12:42 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Jacob Ivan/Schmitt/2026-01-12 01:12:42</guid>
-		</item>
-		<item>
-			<title>👎Melanie Roberts - Granddaughter of Homicide Victim Ruth Dalton</title>
-			<description>Melanie Roberts signed up to testify Con. They are signed up to represent Granddaughter of Homicide Victim Ruth Dalton.</description>
-			<pubDate>Mon, 12 Jan 2026 08:40:03 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Melanie/Roberts/2026-01-12 08:40:03</guid>
-		</item>
-		<item>
 			<title>👎💵Travis Dutton - Washington State Association of Counties</title>
 			<description>Travis Dutton signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 12 Jan 2026 10:00:04 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Travis/Dutton/2026-01-12 10:00:04</guid>
-		</item>
-		<item>
-			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
-			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
-			<pubDate>Mon, 12 Jan 2026 10:49:17 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/James/McMahan/2026-01-12 10:49:17</guid>
 		</item>
 		<item>
 			<title>👍Keri-Anne Jetzer - WA State Sentencing Guidelines Commission</title>
@@ -111,12 +87,36 @@
 			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2026-01-12 11:00:28</guid>
 		</item>
 		<item>
-			<title>👎Natasha Willson - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<title>👎Natasha Willson - Washington State Association of Counties</title>
 			<description>Natasha Willson signed up to testify Con.</description>
 			<pubDate>Mon, 12 Jan 2026 12:59:17 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Natasha/Willson/2026-01-12 12:59:17</guid>
+		</item>
+		<item>
+			<title>👍Jacob Ivan Schmitt - Just Us Solutions, LLC</title>
+			<description>Jacob Ivan Schmitt signed up to testify Pro. They are signed up to represent Just Us Solutions, LLC.</description>
+			<pubDate>Mon, 12 Jan 2026 13:12:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jacob Ivan/Schmitt/2026-01-12 13:12:42</guid>
+		</item>
+		<item>
+			<title>👎Melanie Roberts - Granddaughter of Homicide Victim Ruth Dalton</title>
+			<description>Melanie Roberts signed up to testify Con. They are signed up to represent Granddaughter of Homicide Victim Ruth Dalton.</description>
+			<pubDate>Mon, 12 Jan 2026 20:40:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Melanie/Roberts/2026-01-12 20:40:03</guid>
+		</item>
+		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Mon, 12 Jan 2026 22:49:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2026-01-12 22:49:17</guid>
 		</item>
 		<item>
 			<title>👍Anthony Powers - American Equity &amp; Justice Group</title>
@@ -220,34 +220,34 @@
 		<item>
 			<title>👍Brian Flaherty - Law Office of Brian Flaherty</title>
 			<description>Brian Flaherty signed up to testify Pro. They are signed up to represent Law Office of Brian Flaherty.</description>
-			<pubDate>Mon, 26 Jan 2026 03:20:33 GMT</pubDate>
+			<pubDate>Mon, 26 Jan 2026 15:20:33 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Brian/Flaherty/2026-01-26 03:20:33</guid>
+			<guid isPermaLink="false">testifier/Brian/Flaherty/2026-01-26 15:20:33</guid>
 		</item>
 		<item>
 			<title>👍Jacob Schmitt - Just Us Solutions, LLC</title>
 			<description>Jacob Schmitt signed up to testify Pro. They are signed up to represent Just Us Solutions, LLC.</description>
-			<pubDate>Mon, 26 Jan 2026 03:20:33 GMT</pubDate>
+			<pubDate>Mon, 26 Jan 2026 15:20:33 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Jacob/Schmitt/2026-01-26 03:20:33</guid>
+			<guid isPermaLink="false">testifier/Jacob/Schmitt/2026-01-26 15:20:33</guid>
 		</item>
 		<item>
 			<title>👍Rory Andes - Just Us Solutions, LLC</title>
 			<description>Rory Andes signed up to testify Pro. They are signed up to represent Just Us Solutions, LLC.</description>
-			<pubDate>Mon, 26 Jan 2026 03:20:33 GMT</pubDate>
+			<pubDate>Mon, 26 Jan 2026 15:20:33 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Rory/Andes/2026-01-26 03:20:33</guid>
+			<guid isPermaLink="false">testifier/Rory/Andes/2026-01-26 15:20:33</guid>
 		</item>
 		<item>
 			<title>👍Larry Jefferson - Director, Washington State Office of Public Defense</title>
 			<description>Larry Jefferson signed up to testify Pro. They are signed up to represent Director, Washington State Office of Public Defense.</description>
-			<pubDate>Mon, 26 Jan 2026 04:35:16 GMT</pubDate>
+			<pubDate>Mon, 26 Jan 2026 16:35:16 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Larry/Jefferson/2026-01-26 04:35:16</guid>
+			<guid isPermaLink="false">testifier/Larry/Jefferson/2026-01-26 16:35:16</guid>
 		</item>
 		<item>
 			<title>👍Karen Peacey - League of Women Voters</title>
@@ -292,18 +292,26 @@
 		<item>
 			<title>👎Tiffany Attrill - crime victim advocate</title>
 			<description>Tiffany Attrill signed up to testify Con. They are signed up to represent crime victim advocate.</description>
-			<pubDate>Tue, 27 Jan 2026 11:49:48 GMT</pubDate>
+			<pubDate>Tue, 27 Jan 2026 23:49:48 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tiffany/Attrill/2026-01-27 11:49:48</guid>
+			<guid isPermaLink="false">testifier/Tiffany/Attrill/2026-01-27 23:49:48</guid>
 		</item>
 		<item>
-			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
-			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
-			<pubDate>Wed, 28 Jan 2026 02:43:00 GMT</pubDate>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Wed, 28 Jan 2026 00:06:02 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Russell/Brown/2026-01-28 02:43:00</guid>
+			<guid isPermaLink="false">testifier/James/McMahan/2026-01-28 00:06:02</guid>
+		</item>
+		<item>
+			<title>👍James Paulk - Just Us Solutions, LLC</title>
+			<description>James Paulk signed up to testify Pro. They are signed up to represent Just Us Solutions, LLC.</description>
+			<pubDate>Wed, 28 Jan 2026 00:08:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Paulk/2026-01-28 00:08:04</guid>
 		</item>
 		<item>
 			<title>👎💵Travis Dutton - Washington State Association of Counties</title>
@@ -314,28 +322,20 @@
 			<guid isPermaLink="false">testifier/Travis/Dutton/2026-01-28 04:43:28</guid>
 		</item>
 		<item>
+			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Wed, 28 Jan 2026 14:43:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2026-01-28 14:43:00</guid>
+		</item>
+		<item>
 			<title>👎Natasha Willson - crime victim advocate</title>
 			<description>Natasha Willson signed up to testify Con. They are signed up to represent crime victim advocate.</description>
-			<pubDate>Wed, 28 Jan 2026 04:52:04 GMT</pubDate>
+			<pubDate>Wed, 28 Jan 2026 16:52:04 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Natasha/Willson/2026-01-28 04:52:04</guid>
-		</item>
-		<item>
-			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
-			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
-			<pubDate>Wed, 28 Jan 2026 12:06:02 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/James/McMahan/2026-01-28 12:06:02</guid>
-		</item>
-		<item>
-			<title>👍James Paulk - Just Us Solutions, LLC</title>
-			<description>James Paulk signed up to testify Pro. They are signed up to represent Just Us Solutions, LLC.</description>
-			<pubDate>Wed, 28 Jan 2026 12:08:04 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/James/Paulk/2026-01-28 12:08:04</guid>
+			<guid isPermaLink="false">testifier/Natasha/Willson/2026-01-28 16:52:04</guid>
 		</item>
 	</channel>
 </rss>

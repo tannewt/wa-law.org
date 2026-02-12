@@ -180,6 +180,9 @@
 
 ### [SB 5932](/bill/2025-26/sb/5932/) - Alternative jet fuel  👎1 
 
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  
+* 👍 Cliff Traisman
+
 ### [SB 5975](/bill/2025-26/sb/5975/) - Safe cookware  👎1 
 
 ### [SB 5982](/bill/2025-26/sb/5982/) - Consumer-owned utilities 👍1  

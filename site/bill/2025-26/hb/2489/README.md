@@ -28,6 +28,8 @@ Testifying:
 * Erin Chapman-Smith - Roots Young Adult Shelter
 * Raven Willis - Olympia Mutual Aid Partners
 * Krystal Marx
+* Jody Rauch
+* Sarah Moore
 * 💵Jean Hill - Washington State Catholic Conference
 * 💵Jazmyn Clark - ACLU of Washington
 * Meg Martin - LICSW Director of Integrative Services, Interfaith Works
@@ -36,9 +38,7 @@ Testifying:
 * Ti’eri Lino - MPA Director of Homeless Services for interfaith Works
 * Zaneta McQuarter - Lived Experience Coalition
 * Scott Crain - [Northwest Justice Project](/org/northwest_justice_project/)
-* Jody Rauch
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
-* Sarah Moore
 * Courtney Love - Lived Experience Coalition
 * Daevione Lynwood
 * Isaiah Shupe
@@ -54,6 +54,8 @@ Testifying:
 * Eric Zimmerman - Mayor, City of Normandy Park
 * Anna Burt
 * Captain Chris Westby - [City of Lakewood](/org/city_of_lakewood/)
+* Ben Wick - Councilmember, City of Spokane Valley
+* Lisa Beaton - City of Kennewick, Deputy City Manager
 * Darrell Lowe - Redmond Police Chief
 * Autumn Meadows
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -61,18 +63,16 @@ Testifying:
 * Jesse Shroyer
 * Xuefeng Bai
 * Timothy Sinclair
-* Ben Wick - Councilmember, City of Spokane Valley
 * Kan Qiu - Safe Eastside
 * Susan Lund
 * Gabe Jacobs
 * Yingzhang Chen
-* Lisa Beaton - City of Kennewick, Deputy City Manager
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Christina Schuck - Deputy City Attorney/City of Kent
 * Xin Wang
 * Anu TEWARI - Shalimargroceries.com
 * chris van hees
 * Kelli Roark - City Of Everett
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 11 ❓ - Other
 Testifying:

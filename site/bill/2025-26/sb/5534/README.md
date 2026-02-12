@@ -12,8 +12,8 @@
 #### 95 👍 - Pro
 Testifying:
 * Jeff Pack - Me
-* Mike Vellekamp - V Nives
 * Todd Rathner - Knife Rights
+* Mike Vellekamp - V Nives
 
 #### 1 👎 - Con
 

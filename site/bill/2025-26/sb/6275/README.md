@@ -10,13 +10,13 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SB 6275 Community reinvestment prg.
 #### 162 👍 - Pro
 Testifying:
+* Aaron Tulloch - FMSGS/WBBA
+* Dr. Angela Griffin - Byrd Barr Place
+* Paula Fillmore-Sardinas - FMSG/WBBA
 * John Traugott - [Washington Workforce Association](/org/washington_workforce_association/)
 * Magali Barajas - J Barajas Trucking LLC
 * Marisol Topper - Workforce Development Council of Seattle King County
 * Mayra Garcia - SkillSource North Central Regional Workforce Board
-* Aaron Tulloch - FMSGS/WBBA
-* Dr. Angela Griffin - Byrd Barr Place
-* Paula Fillmore-Sardinas - FMSG/WBBA
 
 #### 836 👎 - Con
 

@@ -543,8 +543,8 @@
 
 ### [SB 5518](/bill/2025-26/sb/5518/) - Sales tax sourcing impact 👍1  
 
-### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
-* 👍💵 Candice Bock
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
+* 👎💵 Candice Bock
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍💵 Candice Bock
@@ -587,8 +587,6 @@
 * ❓💵 Carl Schroeder
 
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓4
-* ❓💵 Carl Schroeder
-* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 

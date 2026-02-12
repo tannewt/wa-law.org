@@ -17,6 +17,7 @@
 ### Fri 04/18 08:00 AM - Finance (FIN): HB 2084 Tax preferences
 #### 34 👍 - Pro
 Testifying:
+* Molly Gallagher - Washington Statewide Poverty Action Network
 * Betsy Norton
 * Charles Mayer - WA Physicians for Social Responsibility
 * 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
@@ -29,10 +30,16 @@ Testifying:
 * Zach Young
 * Betsy Norton
 * Kenia Soriano Hernandez - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
-* Molly Gallagher - Washington Statewide Poverty Action Network
 
 #### 417 👎 - Con
 Testifying:
+* Patrick Gilroy - Washington Self Storage Association
+* Rick Hughes - Ray's Pharmacy, Orcas Island
+* Craig Rhyne - Washington Coin & Bullion Association; Washington Gold Exchange LLC
+* Jacob Graham
+* Tim Eyman - Initiative Activist
+* Joe Mashni
+* Derek Hanusch
 * Karen Feldman
 * Kim Holladay - Mini storage owner
 * Laurie Layne
@@ -49,7 +56,6 @@ Testifying:
 * Catherine Graf
 * Diana Benoit
 * Melissa Pendergrass
-* Patrick Gilroy - Washington Self Storage Association
 * Lance Baker - Washington State Self Storage Association
 * Anthony D'Ambrosio - Urban Self Storage
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
@@ -58,20 +64,14 @@ Testifying:
 * Kay Zambone
 * Debra Fordyce
 * Debra Fordyce
-* Rick Hughes - Ray's Pharmacy, Orcas Island
 * 💵Carolyn Logue - Washington Food Industry Association - Pharmacy
 * Bryan Geraghty - Washington Coin and Bullion Association
-* Craig Rhyne - Washington Coin & Bullion Association; Washington Gold Exchange LLC
-* Jacob Graham
-* Tim Eyman - Initiative Activist
-* Joe Mashni
-* Derek Hanusch
+* Robert Fraga
 * Julian Smith
 * Rana Smith
 * Victoria Tinker
 * Victoria Tinker
 * Stephen Threatt II
 * Stephen Threatt II
-* Robert Fraga
 
 #### 1 ❓ - Other

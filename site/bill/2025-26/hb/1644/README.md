@@ -41,9 +41,9 @@ Testifying:
 
 #### 259 👎 - Con
 Testifying:
+* Mike Ennis - Building Industry Association of Washington (BIAW)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
-* Mike Ennis - Building Industry Association of Washington (BIAW)
 * 💵Brandon Houskeeper - Southwest WA Contractors Association / Associated Builders & Contractors - Western WA
 * Anthony Holan
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)

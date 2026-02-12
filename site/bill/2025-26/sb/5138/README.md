@@ -18,8 +18,8 @@
 Testifying:
 * Eliana Horn - [Puget Sound Sage](/org/puget_sound_sage/)
 * Friendly Vang Johnson
-* Chelsea Lee - Eastside For All
 * Aaron Clark - Na'ah Illahee Fund
+* Chelsea Lee - Eastside For All
 * Howard Greenwich - [Puget Sound Sage](/org/puget_sound_sage/)
 
 #### 0 👎 - Con
@@ -29,8 +29,8 @@ Testifying:
 ### Mon 01/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5138 Public facilities districts
 #### 6 👍 - Pro
 Testifying:
-* Friendly Vang Johnson - PNW BIPOC Farmland Trust
 * Eliana Horn - [Puget Sound Sage](/org/puget_sound_sage/)
+* Friendly Vang Johnson - PNW BIPOC Farmland Trust
 * Aaron Garcia - White Center Community Development Association
 * Howard Greenwich - [Puget Sound Sage](/org/puget_sound_sage/)
 * Maria Guadalupe Ramirez - Duwamish valley affordable housing coalition

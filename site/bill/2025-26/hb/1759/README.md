@@ -17,16 +17,16 @@
 #### 131 👍 - Pro
 Testifying:
 * Norbert Caoili
+* Terri Fletcher - Kirkland Seahawkers
 * Mary Sodawasser
 * Sara St John - Kirkland Seahawkers Booster Club
 * Lori CROSS - East Plateau Sea Hawkers President and Founder
 * Laurie Staples - Kirkland Seahawkers
 * Raymond Hensley - Kirkland Sea Hawkers
-* Terri Fletcher - Kirkland Seahawkers
+* 💵Drew Johnston - Seattle Seahawks
 * Myrna Elise Jones - Sea Hawkers Booster Club
 * Wallace Watts - Captain SeaHawk & KamHawk
 * Tammie Miller - Kirkland Sea Hawkers
-* 💵Drew Johnston - Seattle Seahawks
 
 #### 9 👎 - Con
 

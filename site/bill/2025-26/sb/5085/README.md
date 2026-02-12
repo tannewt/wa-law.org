@@ -17,20 +17,20 @@
 ### Thu 03/13 04:00 PM - Appropriations (APP): SSB 5085 Closed retirement plans
 #### 1424 👍 - Pro
 Testifying:
+* Clair Olivers - Retired Public Employees Council of WA
+* Pat McLachlan - Washington State School Retirees' Association
 * Connie Greenidge - Retired Public Employees Council of WA
 * Linda Nelsen - Retired Public Employees Council of WA
-* Clair Olivers - Retired Public Employees Council of WA
 * Gretchen McDevitt
-* Pat McLachlan - Washington State School Retirees' Association
 * Carol Johns - Self
 * Carol Johns - Self
 * Carol Johns - Self
 
 #### 63 👎 - Con
 Testifying:
+* 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 * Edwin Goodwillie
 * Bradd Reynolds
-* 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 * Jim O'Hern
 * 💵Dennis Lawson - Washington State Council of Fire Fighters
 * Kathy Parks - Leoff1
@@ -50,8 +50,8 @@ Testifying:
 * 💵Peter Diedrick - Washington State School Retirees' Association
 * Clair Olivers - Retired Public Employees Council of WA
 * Paul Joseph Wolcott
-* Deborah Dumont
 * Judith Fosmo - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Deborah Dumont
 
 #### 491 👎 - Con
 Testifying:

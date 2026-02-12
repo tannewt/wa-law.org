@@ -45,14 +45,14 @@ Testifying:
 #### 701 👎 - Con
 Testifying:
 * 💵Molly Pfaffenroth - Washington Food Industry Association
+* Ivy Brittain - American Recyclable Plastic Bag Alliance (ARPBA)
+* Shea Logan - [Novolex](/org/novolex/)
 * 💵Crystal Leatherman
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Bill Stauffacher - American Forest and Paper Associaton
-* Ivy Brittain - American Recyclable Plastic Bag Alliance (ARPBA)
-* Shea Logan - [Novolex](/org/novolex/)
 
 #### 7 ❓ - Other
 Testifying:
-* Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

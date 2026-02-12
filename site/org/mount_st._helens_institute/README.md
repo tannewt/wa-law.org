@@ -11,13 +11,11 @@
 
 ## [SB 5444](/bill/2025-26/sb/5444/) - Special license plates 👍7  
 * 👍 Heather Monti
-* 👍 Alyssa Hoyt
 
 ## 2023-24
 
 ### [SB 5444](/bill/2023-24/sb/5444/) - Special license plates 👍7  
 * 👍 Heather Monti
-* 👍 Alyssa Hoyt
 
 ### [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍2  
 * 👍 Ray Yurkewycz

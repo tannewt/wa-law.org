@@ -14,6 +14,7 @@
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6062 Criminal offenses under 18
 #### 220 👍 - Pro
 Testifying:
+* LaDessa Croucher - Resolution Wasington
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Katherine Hurley - King County Dept of Public Defense
 * 💵Myle Tang - Stand for Children WA
@@ -22,7 +23,6 @@ Testifying:
 * Jaeshawn Singh-Fletcher - GHS Capitol Classroom
 * gisella Gonzales
 * TJ Puller
-* LaDessa Croucher - Resolution Wasington
 
 #### 866 👎 - Con
 Testifying:
@@ -46,12 +46,13 @@ Testifying:
 Testifying:
 * Gisella Gonzales - Team children
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
-* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Dave Martine - Dispute Resolution
 * Ahmont Williams - Capitol Classroom-Green Hill School
 * Benito Marquez - Capitol Classroom-Green Hill School
 * Carlos Renteria - Capitol Classroom-Green Hill School
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Maddie Fleming
+* Liz Mustin
 * Katie Hurley - King County Department of Public Defense
 * Voss Carpenter
 * Darrius Bruton
@@ -64,16 +65,15 @@ Testifying:
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * 💵Myle Tang - Stand for Children WA
 * 💵Roxana Gomez - LCYC
-* Liz Mustin
 
 #### 449 👎 - Con
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 * Tiffany Attrill - Crime victim advocate
 * Natasha Willson - Crime victim  advocate
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Shawn Ledford - Tulalip Police Department
-* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Krista Stogner - Surviving Family Member of Murder Victim
 * Danielle Mikinka Grass - Crime Victim Family Member
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -17,8 +17,8 @@ Testifying:
 
 #### 93 👎 - Con
 Testifying:
-* Tamara Dotson
 * Kevin Van De Wege - Washington Association of Nurse Anesthesiology
+* Tamara Dotson
 
 #### 3 ❓ - Other
 Testifying:

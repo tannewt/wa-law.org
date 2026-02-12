@@ -29,9 +29,9 @@
 ### Sat 04/05 09:00 AM - Appropriations (APP): E2SSB 5296 Juvenile offenses
 #### 15 👍 - Pro
 Testifying:
-* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 * Katie Hurley - King County Department of Public Defense
 * 💵Karen Pillar - TeamChild
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 
 #### 128 👎 - Con
 Testifying:
@@ -78,8 +78,8 @@ Testifying:
 Testifying:
 * Judge André Peñalver - Minority and Justice Commission
 * Rashida Robbins
-* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Katie Hurley - King County Department of Public Defense
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 701 👎 - Con
 Testifying:

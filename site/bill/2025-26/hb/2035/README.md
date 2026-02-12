@@ -21,9 +21,9 @@ Testifying:
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 * Jim Hedrick - Washington Ditillers' Guild
-* Sandra Brock
 * 💵Amber Carter - WA Retail Association
 * Sandra Mochizuki
+* Sandra Brock
 * TaraLyn Fray
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Nora Palattao Burnes - WA Beer and Wine Distributors Association

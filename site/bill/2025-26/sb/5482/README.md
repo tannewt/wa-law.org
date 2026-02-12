@@ -17,11 +17,11 @@ Testifying:
 * Patricia L Arnold - Friends of the White Salmon River
 * MLou Christ
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * Francisco Santiago-Ávila - Washington Wild First
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
 * Pat Arnold - Friends of the White Salmon River
 * Rachel Haymon
-* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * Dan Paul - [Humane World for Animals](/org/humane_world_for_animals/)
 
 #### 264 👎 - Con

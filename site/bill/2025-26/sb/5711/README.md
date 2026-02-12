@@ -26,9 +26,6 @@ Testifying:
 * Patrick Gilroy - Washington Self Storage Association
 * Patrick Reilly
 * Jacob Bond - GSC Investments
-* Kristi Tripple - Rowley Properties, Inc.
-* Randy Welch
-* Victoria Fox
 * Pat Sievers
 * TaraLyn Fray
 * Ryan Daley
@@ -36,17 +33,20 @@ Testifying:
 * Joe Doherty - Self Storage Association
 * Bill McKay
 * Gary Schneider
+* Kristi Tripple - Rowley Properties, Inc.
+* Randy Welch
+* Victoria Fox
+* Sandra Mochizuki
 * Elaine Armstrong - 4020 East evergreen blvd
 * Robert Terry
-* Sandra Mochizuki
 * Ryan Gibson
-* Joe Levin - Northwest Commercial Real Estate Investments
 * Thomas Wolter
 * Robert Wasmund - Secure Storage
-* Ryan Layton - Storage Solutions
 * Rod Kauffman - Building Owners & Managers Assn (BOMA)
 * Anthony D'Ambrosio - Urban Self Storage
 * Dee Hampton
+* Joe Levin - Northwest Commercial Real Estate Investments
+* Ryan Layton - Storage Solutions
 * Stephen Ramsey - Glacier West Self Storage
 * ROBERT REISWIG
 

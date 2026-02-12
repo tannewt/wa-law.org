@@ -15,8 +15,8 @@
 Testifying:
 * Jim Buck - Retired
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Heath Heikkila - American Forest Resource Council
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 #### 2 👎 - Con
 

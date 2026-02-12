@@ -18,14 +18,14 @@
 Testifying:
 * Katherine Staatz
 * Fred Felleman - [Port of Seattle](/org/port_of_seattle/)
-* Jodie Toft
-* Julianna Sullivan - Port Gamble S'Klallam Tribe
-* Miguela Marzolf - Seattle Aquarium
-* Tisa Annette
 * Tuesday Laxton
 * Andrew Abrahamson
 * Katherine Staatz
 * 💵Brenda Campbell - [Snoqualmie Tribe](/org/snoqualmie_tribe/)
+* Jodie Toft
+* Julianna Sullivan - Port Gamble S'Klallam Tribe
+* Miguela Marzolf - Seattle Aquarium
+* Tisa Annette
 * Andrew Abrahamson
 * Katherine Staatz
 * Naleana Gunder

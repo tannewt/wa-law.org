@@ -53,12 +53,12 @@ Testifying:
 * Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1651 Teacher residency & apprent.
-#### 97 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * John Axtell
 * 💵Lorrell Noahr - [Washington Education Association](/org/washington_education_association/)
 
-#### 8 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

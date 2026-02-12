@@ -27,8 +27,8 @@
 Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Riley Benge - Washington REALTORS
-* 💵Alex Hur - Master Builders King & Snohomish county
 * Alex Harrington - NAIOP Washington State
+* 💵Alex Hur - Master Builders King & Snohomish county
 
 #### 6 👎 - Con
 

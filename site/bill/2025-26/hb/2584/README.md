@@ -11,8 +11,8 @@
 #### 481 👍 - Pro
 Testifying:
 * Pam Lewison
-* Jesse Johnson - Farmer John Coalition
 * Stacey Rasmussen
+* Jesse Johnson - Farmer John Coalition
 
 #### 2 👎 - Con
 

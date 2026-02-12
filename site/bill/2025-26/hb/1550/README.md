@@ -17,9 +17,9 @@ Testifying:
 #### 15 👎 - Con
 Testifying:
 * 💵Holly Chisa - ReMA
+* P Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Catalina Jelkh Pareja - LKQ Corporation
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
-* P Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Alisa Reinhardt - General Motors
 
 #### 3 ❓ - Other
@@ -42,8 +42,8 @@ Testifying:
 
 #### 5 ❓ - Other
 Testifying:
-* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Daniel Zotos - Redwood Materials
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Gary Smith - [Independent Business Association](/org/independent_business_association/)
 
@@ -60,8 +60,8 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
+* 💵Daniel Zotos - Redwood Materials
+* 💵Gary Smith - [Independent Business Association](/org/independent_business_association/)
 * Jessica Dunn - [Union of Concerned Scientists](/org/union_of_concerned_scientists/)
 * Peter Lyon - WA State Department of Ecology
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
-* 💵Daniel Zotos - Redwood Materials
-* 💵Gary Smith - [Independent Business Association](/org/independent_business_association/)

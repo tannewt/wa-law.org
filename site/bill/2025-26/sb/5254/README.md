@@ -11,12 +11,12 @@
 ### Tue 02/04 10:30 AM - Health & Long Term Care (HLTC): SB 5254 Health care information
 #### 151 👍 - Pro
 Testifying:
+* Elizabeth Hanley
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Daniel Hinkle - National Expert invited by the Washington State Association for Justice
 * Holly Brauchli - Washington State Association for Justice
 * Marta O'Brien - Washington State Association for Justice
 * Scott Edwards - Washington State Association for Justice
-* Elizabeth Hanley
-* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 33 👎 - Con
 Testifying:

@@ -21,12 +21,12 @@ Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Barbara Posthumus - Lake Washington School District
 * 💵Mitch Denning - Alliance of Educational Associations
+* Brady Vallala - Fife Education Association
+* 💵Marissa Rathbone - Washington State School Directors' Association
 * Derona Uzzle - Washington Education Association/Issaquah Education Association
 * Tori Emerson - Washington State PTA
 * Meredith Lemelin - Cheney Education Association/Washington Education Association
 * Perla Hauge - Ridgefield Classified Paraprofessionals/WEA
-* Brady Vallala - Fife Education Association
-* 💵Marissa Rathbone - Washington State School Directors' Association
 * Kevin Collins - Orting School District
 * Brady Vallala - Fife Education Association
 * Kevin Alfano
@@ -42,9 +42,9 @@ Testifying:
 Testifying:
 * John Axtell
 * 💵Patrick Connor - NFIB
-* Britt Espinosa
 * Atina Holan
 * Anthony Holan
 * Anthony Stockman
+* Britt Espinosa
 
 #### 2 ❓ - Other

@@ -22,10 +22,10 @@ Testifying:
 * Sandy Shettler - Tree Action Seattle
 * JOHN WORTHINGTON
 * Natasha Hays - Friends of Trees
-* Martha Baskin
-* June BlueSpruce
 * Mariska Kecskes - Sierra Club Washington
 * Steve Zemke - Friends of Seattle's Urban Forest
+* Martha Baskin
+* June BlueSpruce
 
 #### 1 ❓ - Other
 Testifying:

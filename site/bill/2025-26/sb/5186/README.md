@@ -34,19 +34,19 @@
 #### 3044 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - ESD 105 Schools Coalition
-* Monique Dugaw - ESD 112
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Monique Dugaw - ESD 112
 * 💵Jan Himebaugh - BIAW (Building Industry Association of WA
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵Mitch Denning - Alliance of Educational Associations
+* Jim Kowalkowski - Rural Education Center
 * Mary Templeton - Lake Stevens School District
 * Jessie Gamble - Master Builders Association of Pierce County
 * Tori Emerson - Washington State PTA
 * James Fisher - Washington Realtors
 * Mary Hull-Drury - Washington Realtors
 * Lance Goodpaster - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
-* Jim Kowalkowski - Rural Education Center
 * Noelle Lovern - BIA of Clark County
 * Lindsay Brown - Central Washington Home Builders Association
 * 💵Michele Thomas - Washington Low Income Housing Alliance
@@ -60,9 +60,9 @@ Testifying:
 #### 1813 👎 - Con
 Testifying:
 * Lisa Pearson - We, The People of WA
-* John Axtell
 * TaraLyn Fray
 * Sandra Mochizuki
+* John Axtell
 * Anthony Holan
 * Tim Noonan
 
@@ -76,10 +76,10 @@ Testifying:
 * Jennifer Butler - Stand Up for Peninsula Schools
 * Krestin Bahr - Peninsula School District
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Miranda Skalisky - Wenatchee School District
-* Bailey Andersen Andersen - Student Representative for Eatonville School District
 * Melissa Stone - Washington State PTA
 * Kyle Rydell - West valley School District
+* Miranda Skalisky - Wenatchee School District
+* Bailey Andersen Andersen - Student Representative for Eatonville School District
 * Charlie Brown - Tacoma, Clover Park, Orting, Puyallup and other School Districts
 * Mikhail Cherniske - OSPI
 
@@ -91,8 +91,8 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Barbara Posthumus - Lake Washington School District
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Barbara Posthumus - Lake Washington School District
 * Ronda Litzenberger - Washington State School Directors' Association
 * 💵Grace Yuan - Puget Sound School Coalition
 * Stephen McDuffie

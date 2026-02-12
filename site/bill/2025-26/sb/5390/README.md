@@ -27,10 +27,10 @@ Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * 💵Mark Brown - Former State Parks Commissioner
 * John Floberg - Washington State Parks Foundation
+* Stet Palmer - Friends of Schafer and Lake Sylvia State Parks (FOSLS)
 * Mark Secord - Friends of Fort Flagler State Park
 * Brian Considine - State Parks, Legislative Director
 * Scott Merriman - State Parks Commissioner
-* Stet Palmer - Friends of Schafer and Lake Sylvia State Parks (FOSLS)
 
 #### 147 👎 - Con
 Testifying:
@@ -42,13 +42,13 @@ Testifying:
 * Graham Clumpner
 * Melena Thompson - Washington Department of Fish and Wildlife
 * Kelly Jiang - [Issaquah Alps Trails Club](/org/issaquah_alps_trails_club/)
-* Nicky Pasi - Mountains to Sound Greenway Trust
-* Kevin Vanderhorst
 * Ted Jackson - WA ATV Association
 * Philip wolff
+* Nicky Pasi - Mountains to Sound Greenway Trust
+* Kevin Vanderhorst
 * Kyle Farrar
-* Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Jakob Perry - Washington Off-Highway Vehicle Alliance
+* Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5390 Discover pass, day-use cost
 #### 49 👍 - Pro
@@ -72,10 +72,10 @@ Testifying:
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * 💵Mark Brown - Former State Parks Commissioner
+* Cynthia Wilkerson - WDFW
 * Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Michael DeCramer - [Washington Trails Association](/org/washington_trails_association/)
 * Jeff Chapman - [Back Country Horsemen of Washington](/org/back_country_horsemen_of_washington/)
-* Cynthia Wilkerson - WDFW
 * Brian Considine - State Parks, Policy & Gov’t Affairs Director
 * 💵Conor Marshall - [The Mountaineers](/org/the_mountaineers/)
 

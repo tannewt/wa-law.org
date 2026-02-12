@@ -16,23 +16,23 @@ Testifying:
 * Ron Gubitz - Music Artists Coalition
 * Jill Barnes - The Washington Center for the Performing Arts
 * Steven Ginsburg - Field Arts & Events Hall
-* Mason Reed - TIMs (Together In Music)
-* Adam Immerwahr - Village Theatre
 * Adam Immerwahr - Village Theatre
 * Kevin Erickson - Future of Music Coalition
-* Leigh Bezezekoff - Washington Nightlife and Music Association
-* Kari Johnson
-* Manny Cawaling - Inspire Washington
 * Charlie Robin - Capitol Theatre Committee
 * David Touhey - International Association of Venue Managers
 * Josh LaBelle - [Seattle Theatre Group](/org/seattle_theatre_group/)
+* Mason Reed - TIMs (Together In Music)
+* Adam Immerwahr - Village Theatre
+* Leigh Bezezekoff - Washington Nightlife and Music Association
+* Kari Johnson
+* Manny Cawaling - Inspire Washington
 
 #### 7 👎 - Con
 Testifying:
 * Brian Young - Sports Fans Coalition
-* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 * Ian Lee - Ticket Policy Forum
 * Sean Auyash - StubHub
+* 💵Robert Singleton - [Chamber of Progress](/org/chamber_of_progress/)
 
 #### 5 ❓ - Other
 Testifying:

@@ -11,14 +11,14 @@
 #### 97 👍 - Pro
 Testifying:
 * Myesha Mitchell - My Time For Massage
-* Julia LaBarge
 * 💵Leslie Emerick - American Massage Therapy Association WA Chapter (AMTA-WA)
 * Julie Onofrio - American Massage Therapy Association - WA
 * Christine Hoober - AMTA
-* Jennifer Santino
-* Maria Green
+* Julia LaBarge
 * AIMEELEE BUSCH - I am a 20 year Washington State Licensed Massage Practitioner
 * Kathryn Lewandowsky - Whole Washington
+* Jennifer Santino
+* Maria Green
 
 #### 1 👎 - Con
 

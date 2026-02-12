@@ -10,9 +10,9 @@
 ### Fri 02/14 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1860 Supply chain competitiveness
 #### 37 👍 - Pro
 Testifying:
-* Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
 * Sr., Timothy Greene - Makah Tribal Council
 * Cassie Hammond - Port of Benton
+* Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * Sean Eagan - Northwest Seaport Alliance

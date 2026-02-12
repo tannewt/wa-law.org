@@ -22,8 +22,8 @@ Testifying:
 ### Tue 02/11 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1647 Surface mine reclamation
 #### 2 👍 - Pro
 Testifying:
-* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 75 👎 - Con
 Testifying:

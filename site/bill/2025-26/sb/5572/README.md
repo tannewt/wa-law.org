@@ -18,10 +18,10 @@ Testifying:
 
 #### 778 👎 - Con
 Testifying:
-* Charlie Brown - Schools Coalition
 * Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
+* Charlie Brown - Schools Coalition
+* Theresa Plue
 * 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 * 💵Paula Sardinas - WBBA/FMSGS
-* Theresa Plue
 
 #### 0 ❓ - Other

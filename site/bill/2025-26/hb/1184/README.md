@@ -13,22 +13,22 @@
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1184 Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. (Remote Testimony Available). (If measure is referred to committee.)
 #### 230 👍 - Pro
 Testifying:
-* Christopher Christian
-* 💵Patrick Connor - NFIB
 * 💵Rose Gundersen - [Washington Retail Association](/org/washington_retail_association/)
 * Chud Wendle - Hutton Settlement
+* Christopher Christian
+* 💵Patrick Connor - NFIB
 * Brian Newberry - NAWA
+* Kim Pope - Boys & Girls Club of the Columbia Basin
 * 💵Neal Mizushima - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
 * Rose Gunderson
-* Kim Pope - Boys & Girls Club of the Columbia Basin
 * Miriam Battson - Gig Harbor Chamber of Commerce
 * 💵Lindsey Hueer - Association of Washington Business / Government Affairs Director
 * Steph Rees - Burlington Chamber of Commerce
 * Janet Kenefsky - Greater Vancouver Chamber of Commerce
-* Danny DeFranco
-* Loni Simone
 * Linnea Noreen - LC Valley Chamber of Commerce
 * John Blair - Dunham Cellars
+* Danny DeFranco
+* Loni Simone
 * 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 
 #### 62 👎 - Con

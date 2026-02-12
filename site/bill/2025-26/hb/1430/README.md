@@ -13,27 +13,27 @@
 #### 933 👍 - Pro
 Testifying:
 * Natalie Paul - Lavender Spectrum Health
-* Jennifer Drake
 * PAMELA WILLIAMS
-* Diyana Malakoti
 * Emily Johnson
 * TERRI SQUIRES
+* Jennifer Drake
+* Diyana Malakoti
 * 💵Michele Thomas
 * crystal kim
+* Steven Nelson
 * Devon Connor-Green - ARNPs United of Washington State / AAPPN
 * RN, ARNP, Justin Gill - DNP - Washington State Nurses Association (WSNA)
 * ARNP, Shannon Fitzgerald - ARNPs United of Washington State (AUWS)
 * April Matzenbacher - Mente Tranquilla LLC
-* Steven Nelson
 * Arlene Dorrough - Washington Medical Commissioner and Physician Assistant
 * WAPA President, Joshua Lumsden - Washington Academy of Physician Assistants (WAPA)
 * Dianna Doyle
 
 #### 335 👎 - Con
 Testifying:
+* Annie McGrath - Washington State Psychiatric Association (WSPA)
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
-* Annie McGrath - Washington State Psychiatric Association (WSPA)
 * April Hunziker
 * Kelania Jimenez
 
@@ -47,8 +47,9 @@ Testifying:
 * Gabriella Romero
 * Melissa Mossar
 * Paul Surette
-* Natalie Paul - Lavender Spectrum Health
 * Justin Gill - President, Washington State Nurses Association
+* Natalie Paul - Lavender Spectrum Health
+* Kathleen King
 * ARNP, DNP, PHMNP, Kathleen Johnson - Association of Advanced Practice Psychiatric Nurses (AAPPN)
 * Jennifer Malone - Tumwater Family Practice Clinic
 * MBA, PA-C, David Wood - Washington Academy of Physician Assistants (WAPA)
@@ -58,30 +59,29 @@ Testifying:
 * MSN, ARNP, FAANP, Maddy Wiley - ARNPs United of Washington State (AUWS)
 * Dan Richer
 * Karen Rogers
-* Kathleen King
 
 #### 837 👎 - Con
 Testifying:
-* 💵Patrick Connor - NFIB
 * Claire Brutocao
-* ALISSA Hemke - Washington State Psychiatric Association
 * Kevin McLean
 * Neeru Bakshi
+* 💵Patrick Connor - NFIB
+* ALISSA Hemke - Washington State Psychiatric Association
 * Phillip[ Shaffer - PHYSICIANS FOR PATIENT PROTECTION
 * Hannah Burns
 * Spencer Steadman
 * MD, Tobias Dang
-* Dr. Ramaswamy Viswanathan - President, American Psychiatric Association
 * Breck Lebegue
-* Rebecca Allen
-* Katherine Jong
-* 💵Jennifer Ziegler - Association of Washington Health Care Plans
-* Whitney Allar
+* Dr. Ramaswamy Viswanathan - President, American Psychiatric Association
 * Annie McGrath - Washington State Psychiatric Association (WSPA)
 * Dr. Robin Berger - Washington State Psychiatric Association (WSPA)
 * Nancy L. Belcher - King County Medical Society - Seattle, WA
 * TaraLyn Fray
 * Tanya Keeble
+* Rebecca Allen
+* Katherine Jong
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Whitney Allar
 * 💵Jennifer Muhm - Regence BlueShield
 
 #### 4 ❓ - Other
@@ -92,16 +92,15 @@ Testifying:
 ### Wed 01/29 01:30 PM - Health Care & Wellness (HCW): HB 1430 APRN & PA reimbursement
 #### 568 👍 - Pro
 Testifying:
+* Justin Gill - President, Washington State Nurses Association
 * Stacy Gray
 * Mallorie Mancuso
-* Justin Gill - President, Washington State Nurses Association
-* Dee Bender - Washington Association of Nurse Anesthesiology
-* Kelli Camp - Washington Association of Nurse Anesthesiology
 * Angela Sankaran
 * Lianabell Soto Silva
+* Dee Bender - Washington Association of Nurse Anesthesiology
+* Kelli Camp - Washington Association of Nurse Anesthesiology
 * Danielle Waldron
 * Tami Silva
-* Jamie Danell
 * Hannah Goettle
 * CRNA, LCDR, Ashley Fedan - ARNPs United of Washington State (AUWS)
 * DNP, APRN, RN, Justin Gill - Washington State Nurses Association (WSNA)
@@ -109,6 +108,7 @@ Testifying:
 * PhD, ARNP, FNP-BC, Louise Kaplan - ARNPs United of Washington State (AUWS)
 * DNP, EdD, PHMNP, MaryAnne Murray - Balance Beams Wellness, PLLC
 * MSN, ARNP, FAANP, Maddy Wiley - ARNPs United of Washington State (AUWS)
+* Jamie Danell
 
 #### 21 👎 - Con
 Testifying:

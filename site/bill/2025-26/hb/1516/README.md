@@ -16,9 +16,9 @@
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
-* Brady Nordstrom - Housing Development Consortium
 * 💵Bill Clarke - WA REALTORS
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Brady Nordstrom - Housing Development Consortium
 
 #### 598 👎 - Con
 Testifying:
@@ -45,11 +45,11 @@ Testifying:
 #### 51 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * Brady Nordstrom - Housing Development Consortium
 * 💵Bill Clarke - Washington REALTORS
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * William Cornell - Preg O'Donnell & Gillett
-* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 
 #### 0 👎 - Con
 

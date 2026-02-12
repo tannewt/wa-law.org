@@ -31,15 +31,14 @@ Testifying:
 ### Fri 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5691 Continuing care oversight
 #### 638 👍 - Pro
 Testifying:
-* Christian Smith
 * John Caner
 * Kim Hickman - WaCCRA Washington Continuing Care Residents Association
 * Laura Saunders - WaCCRA Washington Continuing Care Residents Association
 * Mary Baroni - WaCCRA Washington Continuing Care Residents Association
 * Monica Clement - WACCRA (Washington Continuing Care Residents Association)
 * Donna Kristaponis - WACCRA
-* Cathleen MacCaul - AARP Washington State
 * Agnes Chang
+* Cathleen MacCaul - AARP Washington State
 
 #### 5 👎 - Con
 

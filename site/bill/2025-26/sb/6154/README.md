@@ -10,11 +10,11 @@
 ### Thu 01/22 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6154 Culvert replacement permits
 #### 10 👍 - Pro
 Testifying:
-* 💵Axel Swanson - Washington State Association of County Engineers
 * Karen Weiss - [Thurston County](/org/thurston_county/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Tricia Juhnke - [City of Shoreline](/org/city_of_shoreline/)
 * Doug McCormick - Snohomish County PW
 * Carolina Mejia - Thurston County Board of Commissioners
-* Tricia Juhnke - [City of Shoreline](/org/city_of_shoreline/)
 
 #### 0 👎 - Con
 

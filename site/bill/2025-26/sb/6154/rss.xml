@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6154/</link>
 		<description>Updates about SB 6154</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 11:32:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 16:03:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,14 +37,6 @@
 			<guid isPermaLink="false">2026-01-19/Referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👍💵Axel Swanson - Washington State Association of County Engineers</title>
-			<description>Axel Swanson signed up to testify Pro. They are signed up to represent Washington State Association of County Engineers. They are a registered lobbyist.</description>
-			<pubDate>Tue, 20 Jan 2026 03:38:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Axel/Swanson/2026-01-20 03:38:57</guid>
-		</item>
-		<item>
 			<title>👍Karen Weiss - Thurston County</title>
 			<description>Karen Weiss signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/thurston_county/"&gt;Thurston County&lt;/a&gt;.</description>
 			<pubDate>Tue, 20 Jan 2026 08:23:15 GMT</pubDate>
@@ -53,7 +45,7 @@
 			<guid isPermaLink="false">testifier/Karen/Weiss/2026-01-20 08:23:15</guid>
 		</item>
 		<item>
-			<title>❓John Worthington - City of Shoreline</title>
+			<title>❓John Worthington - Thurston County Board of Commissioners</title>
 			<description>John Worthington signed up to testify Other.</description>
 			<pubDate>Tue, 20 Jan 2026 09:18:26 GMT</pubDate>
 			<category>testifier</category>
@@ -61,20 +53,12 @@
 			<guid isPermaLink="false">testifier/John/Worthington/2026-01-20 09:18:26</guid>
 		</item>
 		<item>
-			<title>👍Doug McCormick - Snohomish County PW</title>
-			<description>Doug McCormick signed up to testify Pro. They are signed up to represent Snohomish County PW.</description>
-			<pubDate>Wed, 21 Jan 2026 01:23:42 GMT</pubDate>
+			<title>👍💵Axel Swanson - Washington State Association of County Engineers</title>
+			<description>Axel Swanson signed up to testify Pro. They are signed up to represent Washington State Association of County Engineers. They are a registered lobbyist.</description>
+			<pubDate>Tue, 20 Jan 2026 15:38:57 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Doug/McCormick/2026-01-21 01:23:42</guid>
-		</item>
-		<item>
-			<title>👍Carolina Mejia - Thurston County Board of Commissioners</title>
-			<description>Carolina Mejia signed up to testify Pro. They are signed up to represent Thurston County Board of Commissioners.</description>
-			<pubDate>Wed, 21 Jan 2026 04:03:15 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Carolina/Mejia/2026-01-21 04:03:15</guid>
+			<guid isPermaLink="false">testifier/Axel/Swanson/2026-01-20 15:38:57</guid>
 		</item>
 		<item>
 			<title>👍Tricia Juhnke - City of Shoreline</title>
@@ -83,6 +67,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tricia/Juhnke/2026-01-21 11:32:14</guid>
+		</item>
+		<item>
+			<title>👍Doug McCormick - Snohomish County PW</title>
+			<description>Doug McCormick signed up to testify Pro. They are signed up to represent Snohomish County PW.</description>
+			<pubDate>Wed, 21 Jan 2026 13:23:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Doug/McCormick/2026-01-21 13:23:42</guid>
+		</item>
+		<item>
+			<title>👍Carolina Mejia - Thurston County Board of Commissioners</title>
+			<description>Carolina Mejia signed up to testify Pro. They are signed up to represent Thurston County Board of Commissioners.</description>
+			<pubDate>Wed, 21 Jan 2026 16:03:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carolina/Mejia/2026-01-21 16:03:15</guid>
 		</item>
 	</channel>
 </rss>

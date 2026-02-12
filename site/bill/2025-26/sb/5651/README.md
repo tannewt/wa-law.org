@@ -26,15 +26,15 @@ Testifying:
 * Amanda Martin - NW Consumer Law Center
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Sam Leonard - Washington State Association for Justice
-* Adam Eitmann - Attorney General's Office
 * Russell Brandt
 * Natasha Fecteau Minger
+* Adam Eitmann - Attorney General's Office
 * Nick Fielden - Attorney General's Office
 
 #### 610 👎 - Con
 Testifying:
-* TaraLyn Fray
 * Mindy Chumbley - [Washington Collectors Association](/org/washington_collectors_association/)
+* TaraLyn Fray
 * Sandra Mochizuki
 * Sandra Brock
 

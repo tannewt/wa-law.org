@@ -14,6 +14,8 @@ Testifying:
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * Matteo Trifunovic
 * Nicolas Laughlin
+* 💵Heath Heikkila - American Forest Resource Council
+* Dhruv Sarnot
 * Connor Farris - Lake Washington High School
 * Fraser Waldie - Lake Washington High School
 * Ian Tatt - Lake Washington High School
@@ -23,14 +25,12 @@ Testifying:
 * 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 * Jett Running
 * Jonah Synn
-* 💵Heath Heikkila - American Forest Resource Council
-* Dhruv Sarnot
 
 #### 953 👎 - Con
 Testifying:
 * Sandra Mochizuki
-* Lisa Desjardins
 * TaraLyn Fray
+* Lisa Desjardins
 
 #### 2 ❓ - Other
 Testifying:

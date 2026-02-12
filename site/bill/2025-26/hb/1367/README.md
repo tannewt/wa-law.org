@@ -39,16 +39,16 @@ Testifying:
 * Porcia Palo
 * Jorge Castaneda
 * Tycho Cabral
-* Alan Alder - ABATE
-* Michael Miller
 * Ricky O Saeteurn
-* Rozana Knutson
-* Loni Simone
 * Elvis Brandenburg
 * trevor cook
+* Cody Hiatt
+* Alan Alder - ABATE
+* Michael Miller
+* Rozana Knutson
+* Loni Simone
 * Gregory Jordan
 * Frank Brinkmann
-* Cody Hiatt
 
 #### 21 👎 - Con
 Testifying:

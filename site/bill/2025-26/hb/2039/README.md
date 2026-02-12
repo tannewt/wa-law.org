@@ -16,14 +16,14 @@
 #### 182 👎 - Con
 Testifying:
 * Amy Lynn Roark
-* Jessica Silver
-* Justin Silver
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Alina Swart
 * Irene Muller - Essentials First
 * Diana Azevedo-McCaffrey - Center on Budget and Policy Priorities
 * 💵James Clark - National Parents Organization, 2023 Child Support Schedule Workgroup member
 * Diane Evans
+* Jessica Silver
+* Justin Silver
 
 #### 0 ❓ - Other
 

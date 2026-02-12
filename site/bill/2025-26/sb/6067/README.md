@@ -10,8 +10,8 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 6067 Workers' compensation
 #### 76 👍 - Pro
 Testifying:
-* 💵Ray Dumas - Operative Plasterers and Cement Masons
 * Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Ray Dumas - Operative Plasterers and Cement Masons
 
 #### 114 👎 - Con
 Testifying:
@@ -24,10 +24,10 @@ Testifying:
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 6067 Workers' compensation
 #### 154 👍 - Pro
 Testifying:
-* Lee Thomas - Washington State Association for Justice
 * Danielle Green
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - Operative Plasterers and Cement Masons
+* Lee Thomas - Washington State Association for Justice
 
 #### 182 👎 - Con
 Testifying:

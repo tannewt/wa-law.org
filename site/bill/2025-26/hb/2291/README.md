@@ -14,16 +14,16 @@
 ### Fri 01/30 08:00 AM - Consumer Protection & Business (CPB): HB 2291 Kratom
 #### 40 👍 - Pro
 Testifying:
-* Micah Wakefield
 * Misty Brown
 * Jennifer Gillis
 * Eric Onisko - City Of Shelton council member, Mason County board of health Chair
 * Melody Woolf
-* Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
-* Lyn Salazar
+* Micah Wakefield
 * Scott Matlock
 * Kadince Matteson - Cle Elum Roslyn High School Prevention Club
 * Angelica Joyce
+* Scott Waller - Washington Association for Substance misuse And Violence Prevention (WASAVP)
+* Lyn Salazar
 
 #### 88 👎 - Con
 Testifying:

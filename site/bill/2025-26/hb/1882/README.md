@@ -10,8 +10,8 @@
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1882 State tax on lodging
 #### 5 👍 - Pro
 Testifying:
-* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Jonathan Young - City of SeaTac
 
 #### 330 👎 - Con
@@ -24,7 +24,6 @@ Testifying:
 * Kristen Keltz - Skagit Tourism Bureau
 * Rose Noble - Visit Spokane
 * William Corbin
-* Heather Ferguson
 * Lisa Hurt
 * Daniel New - Asian American Hotel Owners Association
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -32,6 +31,7 @@ Testifying:
 * Tiffany Turner - Adrift Hospitality
 * Anne McGrath - State of Washington Tourism
 * Michael Woody - Visit Seattle
+* Heather Ferguson
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other

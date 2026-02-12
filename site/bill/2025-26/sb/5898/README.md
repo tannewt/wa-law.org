@@ -19,7 +19,7 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
-* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
 * Carrie Sessions - Department of Ecology
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)

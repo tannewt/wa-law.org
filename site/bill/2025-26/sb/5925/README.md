@@ -25,6 +25,6 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
 * 💵Rose Gundersen - WA Retail Association
-* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)

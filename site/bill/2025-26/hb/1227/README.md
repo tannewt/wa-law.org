@@ -24,8 +24,6 @@ Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
-* Adam Browning - Forum Mobility
-* Lael White
 * Margaret Boelter - Zeem Solutions
 * 💵Cindi Laws - Wheelchair Accessible Taxi Association of WA
 * Hannah Steinweg - Rivian
@@ -33,6 +31,8 @@ Testifying:
 * Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
 * 💵Jayne Stevenson - [Pacific Environment](/org/pacific_environment/)
 * Breck Lebegue - WA Physicians for Social Responsibility
+* Adam Browning - Forum Mobility
+* Lael White
 
 #### 46 👎 - Con
 Testifying:
@@ -40,9 +40,9 @@ Testifying:
 * 💵Alex Hudson - Commute Seattle
 * 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Kelli Refer - Move Redmond
-* Rocco DeVito - Washington State Rideshare Organization (WSRO)
 * Laura Svancarek - Downtown: On the Go!
 * Olivia Kahn - City of Vancouver, WA
+* Rocco DeVito - Washington State Rideshare Organization (WSRO)
 
 #### 31 ❓ - Other
 Testifying:
@@ -60,9 +60,6 @@ Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * Darrin Raines - Greater Grays Harbor, Inc.
 * Amy Brockhaus - Mountains to Sound Greenway Trust
-* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
-* Daniel Jones - PROTEC17
-* Daniel Jones - PROTEC17
 * David Troutt - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
 * Tawni Dalziel - [City of Maple Valley](/org/city_of_maple_valley/)
 * Geoffrey Thomas - Mayor, City of Monroe
@@ -75,12 +72,15 @@ Testifying:
 * Kyle Markstrom - Chair, Port of Centralia
 * Sean Swope - Lewis County Commissioner
 * Ben Lane - Eastside Fire & Rescue, Fire Chief
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Daniel Jones - PROTEC17
+* Daniel Jones - PROTEC17
 * Marc Daily - Thurston Regional Planning Council and Chair of WA Reg. Transpo. Planning Organizations Committee
 
 ### Wed 01/15 04:00 PM - Transportation (TR): HB 1227 Transportation budget
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
-* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* 💵Debora Munguia - Mason County
 * 💵Justin Leighton - Washington State Transit Association
 * Jared Nieuwenhuis - City of Bellevue, Council
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
@@ -91,21 +91,20 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * JOHN WORTHINGTON
 
-#### 17 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Nancy Backus - Mayor, City of Auburn
-* 💵Debora Munguia - Mason County
 * Chad Bieren - City of Kent Public Works Director
 * Jenne Alderks - City of Bothell Councilmember
 * Lael White
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
-* Tom White
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
 * Will Aho - Eastside Fire and Rescue
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 * Breck Lebegue - WA Physicians for Social Responsibility
+* Tom White
 * 💵Mara Machulsky - [Hoh Tribe](/org/hoh_tribe/)
 * 💵Peggen Frank - [Hoh Tribe](/org/hoh_tribe/)
+* Mary Paterson
 * Bill Moyer - Solutionary Rail
 * Tim Gould
-* Mary Paterson

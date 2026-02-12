@@ -10,11 +10,11 @@
 ### Thu 02/13 01:30 PM - Capital Budget (CB): HB 1734 Outdoor learning grants
 #### 142 👍 - Pro
 Testifying:
+* Chase Buffington - Washington Outdoor School Coalition
 * Chase Buffington - Cispus Outdoor School
 * Manny Ramos - Chief Seattle Council, Scouting America
 * Patty Wood - Mount St Hellens InstItute
 * Roberta McFarland - Washington Schools Principal Association/ Outdoor Schools WA
-* Chase Buffington - Washington Outdoor School Coalition
 * Greg Barker - Washington School Principals' Education Foundation
 * Joshua Hsu
 

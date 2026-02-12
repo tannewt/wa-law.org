@@ -15,8 +15,8 @@
 Testifying:
 * Don Gourlie - Puget Sound Partnership
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
-* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 #### 1 👎 - Con
 

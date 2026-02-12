@@ -12,6 +12,15 @@
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%205938)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Housing (HOUS): SSB 5938 Foreclosure prevention fee
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5938 Foreclosure prevention fee
 #### 112 👍 - Pro
 Testifying:

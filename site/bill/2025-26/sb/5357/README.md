@@ -19,9 +19,9 @@
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 2 👎 - Con
+#### 1 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Luke Masselink - OSA - available for questions
 * 💵Emmett Mills - Washington State School Retirees' Association

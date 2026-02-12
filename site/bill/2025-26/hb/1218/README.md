@@ -27,13 +27,13 @@ Testifying:
 ### Thu 03/27 10:30 AM - Law & Justice (LAW): E2SHB 1218 Competency eval. & restor.
 #### 36 👍 - Pro
 Testifying:
-* David Frockt - Deputy Policy Director, Office of Governor Bob Ferguson
 * 💵Kimberly Mosolf - Trueblood Plaintiff Counsel
 * Kevin Bovenkamp - DSHS Behavioral Health Administration
 * Thomas Kinlen - DSHS Behavioral Health Administration
-* Joe McDermott - State Relations Director | King County
+* David Frockt - Deputy Policy Director, Office of Governor Bob Ferguson
 * Jani Hitchen
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
+* Joe McDermott - State Relations Director | King County
 * Cheryl Strange - DSHS - HQ
 
 #### 735 👎 - Con
@@ -57,8 +57,8 @@ Testifying:
 
 #### 724 👎 - Con
 Testifying:
-* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Rick Bartholomew
@@ -71,23 +71,23 @@ Testifying:
 #### 10 👍 - Pro
 Testifying:
 * Amber Leaders - Office of Governor Jay Inslee
-* 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
 * 💵Kimberly Mosolf - Counsel for Plaintiffs in AB v DSHS (Trueblood)
-* Thomas Kinlen - DSHS Behavioral Health Administration
+* 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
 * Kevin Bovenkamp - DSHS Behavioral Health Administration
+* Thomas Kinlen - DSHS Behavioral Health Administration
 
 #### 255 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Asenith M Herbert Hill
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
 * Loni Simone
 * 💵Michael White - King, Pierce, and Snohomish Counties
-* Asenith M Herbert Hill
 
 #### 4 ❓ - Other
 Testifying:
-* Kari Reardon - WACDL/WDA
 * Marc Stern
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Kari Reardon - WACDL/WDA
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

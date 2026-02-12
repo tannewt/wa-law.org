@@ -20,6 +20,7 @@ Testifying:
 * Brian Smiley
 * Nicole Wells
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Margie LaShaw
 * Wes McCart
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
@@ -27,7 +28,6 @@ Testifying:
 * Jay Holzmiller - Washington Farm Bureau
 * Ray Maycumber - Ferry County Sheriff's Office
 * Sandra Brock
-* Margie LaShaw
 * Asa Timm
 * Zack Trudell - Ferry County Board of County Commissioners
 
@@ -37,9 +37,9 @@ Testifying:
 * David Linn
 * John Roskelley
 * Ronald Reed - Retired
+* David Linn
 * Dr. Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * John Rosapepe - Endangered Species Coalition
 * Rachel Bjork - Speak For Wolves
-* David Linn
 
 #### 8 ❓ - Other

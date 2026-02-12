@@ -6,21 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/15 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5928 Wildfire risk models
 #### 175 👍 - Pro
 Testifying:
 * Mike Bucy - Stevens County Fire Protection District 1
-* Mayor Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
 * David Forte - Office of the Insurance Commissioner
 * 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
+* 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Patrick Tonasket - Confederated Tribes of the Colville Reservation
 * 💵Jordan Haedtler - Climate Cabinet Action
 * Mary Hull-Drury - Washington Realtors
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * 💵Andrew Eckels - 350 Washington
-* 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* Patrick Tonasket - Confederated Tribes of the Colville Reservation
 * Daniel Holst - www.wainsurance.org
 
 #### 13 👎 - Con

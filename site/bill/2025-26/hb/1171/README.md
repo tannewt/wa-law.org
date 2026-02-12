@@ -24,9 +24,9 @@ Testifying:
 ### Wed 02/05 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1171 Mandated reporting/higher ed
 #### 16 👍 - Pro
 Testifying:
-* Rhea Yo - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Paul Holland - Ronald A. Peterson Law Clinic
 * Maialisa Vanyo - WSBA Council on Public Defense
+* Rhea Yo - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * 💵Samuel Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
 

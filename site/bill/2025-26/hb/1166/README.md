@@ -15,9 +15,8 @@
 Testifying:
 * Laurel Durrett
 * Darrell Johnson
-* Laura Elizabeth Shatswell
 * Dinah Coble
-* Bryan Glant
+* Laura Elizabeth Shatswell
 * Dr. Cassandra Perryman
 * Elizabeth Shatswell
 * Gisella Gonzalez
@@ -25,6 +24,7 @@ Testifying:
 * Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Jeremiah Bourgeois
 * Joel Strom
+* Bryan Glant
 * Alexis Hale - Justice for Girls
 * Nicholas Hacheney - Department of Corrections
 

@@ -10,9 +10,9 @@
 ### Tue 01/28 10:30 AM - Local Government (LG): HB 1039 Gov. services/tribal lands
 #### 4 👍 - Pro
 Testifying:
+* Tom Strobehn - [City of La Center](/org/city_of_la_center/)
 * Bill Iyall - Chairman, Cowlitz Indian Tribe
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Tom Strobehn - [City of La Center](/org/city_of_la_center/)
 
 #### 485 👎 - Con
 

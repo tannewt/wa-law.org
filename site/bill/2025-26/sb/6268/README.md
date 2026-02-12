@@ -13,9 +13,9 @@
 Testifying:
 * 💵Arzu Forough - Washington Autism Alliance
 * Julie Gunter
+* Cathy Murahashi - The Arc of Washington
 * Jessica Walsh
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Cathy Murahashi - The Arc of Washington
 
 #### 2 👎 - Con
 

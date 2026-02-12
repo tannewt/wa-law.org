@@ -38,9 +38,6 @@
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5797 Intangible assets tax
 #### 5760 👍 - Pro
 Testifying:
-* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
-* Kathleen Kershner
-* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Alfred Higgins
 * 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * dhanne Crenshaw - Real change
@@ -49,11 +46,9 @@ Testifying:
 * jerome curry
 * priscilla Jacobsen - Real change
 * Jacob Vigdor - University of Washington Faculty/Council of Faculty
-* Soumyo Lahiri-Gupta - OneAmerica
-* 💵Radu Smintina - School's Out Washington
-* Cathy Habib
-* Corinne Miles
-* Sandra Sanchez
+* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
+* Kathleen Kershner
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Manousos Kaouidis
 * Manousos Kouidis
 * 💵Rian Watt
@@ -67,6 +62,11 @@ Testifying:
 * Blanca Gutierrez
 * Odessa Paule
 * Phyllis Hatfield
+* Soumyo Lahiri-Gupta - OneAmerica
+* 💵Radu Smintina - School's Out Washington
+* Cathy Habib
+* Corinne Miles
+* Sandra Sanchez
 * Emily Merriweather
 * Joe Colón
 * Natacia Louvier
@@ -75,8 +75,8 @@ Testifying:
 * 💵Matthew Lang - National Organization for Women - WA
 * 💵Myle Tang - Stand for Children WA
 * 💵Kristin Ang - Faith Action Network (FAN)
-* Lisa Smith - Washington State Microenterprise Association
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Lisa Smith - Washington State Microenterprise Association
 
 #### 8365 👎 - Con
 Testifying:
@@ -85,29 +85,29 @@ Testifying:
 * Laurie Layne
 * Alexis Bardecker
 * James Bardecker
-* Barbara Kuehne
 * Mike Martinez
+* Dakota Manley - Washington State Young Republicans
+* Gregor Doerr - Washington State Young Republicans
+* Barbara Kuehne
 * William Hole
 * Mark Townes
-* Dakota Manley - Washington State Young Republicans
 * TaraLyn Fray
-* Gregor Doerr - Washington State Young Republicans
 * Jimmy Ranson
 * Julie Dowell - Protection-1 EMS
 * David Dowell
-* Sharon Hanek
 * Indy Dehal
-* Cody Ruscheinsky - Washington State Young Republicans
 * Cindy Tucker
+* Sharon Hanek
+* Cody Ruscheinsky - Washington State Young Republicans
 * Rebecca Faust
 * Liza Simmknds
-* Liza Simmonds
 * Judith Smith
+* Liza Simmonds
 * Dave Tucker
-* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
-* Kylo B
 * Anthony Holan
 * Alicia Travis
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Kylo B
 
 #### 24 ❓ - Other
 Testifying:

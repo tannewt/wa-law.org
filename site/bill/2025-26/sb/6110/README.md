@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Mon 01/26 04:00 PM - Transportation (TRAN): SB 6110 Electric bicycle, motorcycle
@@ -21,9 +22,9 @@ Testifying:
 * Emerson Repass
 * Malia Donohue
 * Ted Weinberg - Mercer Island City Council
-* Eddie Espinosa - Evergreen MTB Alliance
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Hunter George - Washington Recreation and Park Association
+* Eddie Espinosa - Evergreen MTB Alliance
 
 #### 67 👎 - Con
 

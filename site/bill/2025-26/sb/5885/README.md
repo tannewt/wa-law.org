@@ -19,13 +19,13 @@ Testifying:
 * Victoria OBanion
 * Angela Birney - City of Redmond Mayor
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Brian Grow - Proclaim Liberty, affordable housing
+* Michael Blumson - LISC
+* Drew Peterson - Liminal Land Consultants
 * Sarah Rumbaugh - Council Member, City of Tacoma
 * Patricia Roundy - Mason United Methodist Church, Tacoma, WA
 * Shalom Agtarap
 * Keith Marshall
-* Brian Grow - Proclaim Liberty, affordable housing
-* Michael Blumson - LISC
-* Drew Peterson - Liminal Land Consultants
 * Kitty Klitzke - Spokane City Council
 
 #### 152 👎 - Con

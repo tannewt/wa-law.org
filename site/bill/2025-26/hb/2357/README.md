@@ -10,9 +10,9 @@
 ### Tue 01/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2357 Civil air patrol
 #### 79 👍 - Pro
 Testifying:
-* Charles Wharton - Veterans Legislative Coalition
 * Gent Welsh - Washington Military Department
 * Sid Wiggs - Washington Civil Air Patrol
+* Charles Wharton - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

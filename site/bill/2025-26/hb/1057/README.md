@@ -17,9 +17,9 @@
 Testifying:
 * Stephanie Button - Historic Downtown Kennewick Partnership
 * Darrin Raines - Greater Grays Harbor Inc.
-* 💵Jake Mayson - Greater Spokane Incorporated
 * 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Cassie Hammond - Port of Benton
+* 💵Jake Mayson - Greater Spokane Incorporated
 
 #### 2 👎 - Con
 
@@ -32,9 +32,9 @@ Testifying:
 * Cassie Hammond - Port of Benton
 * Gary Ballew - Greater Spokane Inc.
 * KARL DYE - TRIDEC
-* 💵Christopher Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Stephanie Button - Historic Downtown Kennewick Partnership
 * 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
+* 💵Christopher Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 315 👎 - Con
 

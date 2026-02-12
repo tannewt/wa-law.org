@@ -15,9 +15,9 @@
 ### Tue 01/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2446 Quantum technology industry
 #### 54 👍 - Pro
 Testifying:
-* Lauren McDonald - [Microsoft](/org/microsoft/)
 * Laura Ruderman - Technology Alliance
 * 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Lauren McDonald - [Microsoft](/org/microsoft/)
 
 #### 4 👎 - Con
 

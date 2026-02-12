@@ -16,18 +16,27 @@
 * 01/23/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to protect children who witness violent crimes heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/23/nobles-bill-to-protect-children-who-witness-violent-crimes-heard-in-committee/#:~:text=Senate%20Bill%205169)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5169 Testimony of children
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5169 Testimony of children
 #### 27 👍 - Pro
 Testifying:
-* Anita Petra - Benton County Prosecuting Attorney Office
 * Coreen Schnepf - Pierce County Prosecuting Attorney's Office
 * Lindsay Chenelia - Pierce County Prosecuting Attorney's Office
+* Anita Petra - Benton County Prosecuting Attorney Office
 
 #### 5 👎 - Con
 Testifying:
-* Kate Benward
 * John Marlow - [Washington Innocence Project](/org/washington_innocence_project/)
 * Kari Reardon - WACDL/WDA
+* Kate Benward
 
 #### 0 ❓ - Other
 

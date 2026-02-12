@@ -22,9 +22,9 @@ Testifying:
 #### 11 👍 - Pro
 Testifying:
 * Brody Coval - [Department of Natural Resources](/org/department_of_natural_resources/)
-* Ted Jackson - WA ATV
 * 💵Bill Clarke - Kittitas County Board of Commissioners
 * Cynthia Wilkerson - WDFW
+* Ted Jackson - WA ATV
 
 #### 0 👎 - Con
 

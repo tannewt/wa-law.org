@@ -13,12 +13,12 @@
 #### 47 👎 - Con
 Testifying:
 * Andy Illyn - Mukilteo Police Department
-* 💵Axel Swanson - Washington State Association of County Engineers
 * Rafael Padilla - City of Kent, Chief of Police
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Melinda Kopa
 * Carrie Wilhelme - [City of Tacoma](/org/city_of_tacoma/)
 * Nigel Herbig - Mayor, City of Kenmore
 * Chris Westby - Captain, City of Lakewood PD
-* Melinda Kopa
 
 #### 0 ❓ - Other

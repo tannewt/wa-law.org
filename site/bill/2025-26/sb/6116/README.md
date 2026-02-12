@@ -12,11 +12,11 @@
 Testifying:
 * 💵Jaime Bodden - WSALPHO
 * Megan Moore - Washington State Public Heatlh Association
-* 💵Ann Simons - Juul
-* Shaun DSylva - WASFA
 * 💵Lyset Cadena - CARE Fund
 * 💵Sara Stewart - Washington Smoke-Free Association
 * Joshua Young
+* 💵Ann Simons - Juul
+* Shaun DSylva - WASFA
 
 #### 20 👎 - Con
 Testifying:

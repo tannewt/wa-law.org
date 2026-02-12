@@ -10,13 +10,13 @@
 ### Thu 01/15 08:00 AM - Environment & Energy (ENVI): HB 2212 Washing machine microplastic
 #### 425 👍 - Pro
 Testifying:
-* Annapoorani Lingeshwaran
 * Jennifer Porter
+* Annapoorani Lingeshwaran
+* Shawn Larson - Seattle Aquarium
 * Anja Brandon - Ocean Conservancy
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Annapoorani Lingeshwaran
 * Jennifer Porter
-* Shawn Larson - Seattle Aquarium
 
 #### 73 👎 - Con
 Testifying:

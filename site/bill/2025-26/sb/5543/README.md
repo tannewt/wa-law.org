@@ -17,11 +17,11 @@ Testifying:
 
 #### 599 👎 - Con
 Testifying:
-* Sandra Mochizuki
 * Kendall Harrison
 * David Dowell - xxx-xx-xxxx
 * Julie Dowell
 * TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

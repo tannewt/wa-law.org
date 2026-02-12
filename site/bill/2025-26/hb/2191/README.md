@@ -15,21 +15,21 @@
 ### Wed 01/14 08:00 AM - Labor & Workplace Standards (LAWS): HB 2191 Construction worker wages
 #### 681 👍 - Pro
 Testifying:
+* Boris Gresely - [Western States Regional Council of Carpenters](/org/western_states_regional_council_of_carpenters/)
 * Jeremiah Miller - [Working Washington](/org/working_washington/)
-* Caesar Escatel
-* Filiberto Aldana
+* Caesar Escatel - Local 206 Carpenters
+* Filiberto Aldana - Local 425 Carpenters
 * Brandon Klassen - 345 Construction and Flooring Co.
 * Troy Bloedel - JTM Construction
-* Boris Gresely - [Western States Regional Council of Carpenters](/org/western_states_regional_council_of_carpenters/)
 
 #### 300 👎 - Con
 Testifying:
 * Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Joel Bouchey
-* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Jerry VanderWood - Associated General Contractors (AGC)
 * Patrick Hughes - Hughes Group LLC
 * 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
+* Joel Bouchey
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Jimmy Matta - Northwest Minority Builders Alliance (NWMBA)
 * 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 

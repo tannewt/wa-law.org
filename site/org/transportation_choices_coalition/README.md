@@ -2,7 +2,6 @@
 ## 2025-26
 
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍2 👎1 
-* 👍💵 Kirk Hovenkotter
 * 👍💵 Matthew Sutherland
 * 👎💵 Kirk Hovenkotter
 
@@ -24,9 +23,6 @@
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍1  
 * 👍💵 Kirk Hovenkotter
-
-### [HB 2095](/bill/2025-26/hb/2095/) - Public way vulnerable users  👍1  
-* 👍 Holden Ringer
 
 ### [HB 2134](/bill/2025-26/hb/2134/) - Regional transp. plans 👍1  
 * 👍 Katy Ricchiuto

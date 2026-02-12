@@ -36,8 +36,8 @@ Testifying:
 * 💵Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
 * Rae-Lynn Barden - Downtown Spokane Partnership
-* Chris Batten
 * Salim Nice - Mayor, City Mercer Island
+* Chris Batten
 * 💵Curtis Steinhauer - Washington Association of Counties
 * Kate Gregory
 * Christina Schuck - City of Kent, Deputy City Attorney
@@ -47,17 +47,17 @@ Testifying:
 * Gavin Cooley - 2800 E Main Ave
 * Caroline Manger - Concerned citizen opposed to this bill
 * Conrad Cipoletti
-* Ruth Clemens - [City of Aberdeen](/org/city_of_aberdeen/)
 * Angela / Grady
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Valita Speranzi
-* William Hulings
-* Justin Haller
+* Ruth Clemens - [City of Aberdeen](/org/city_of_aberdeen/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jonathan Bingle
 * Edwin "Larry" Andrews II - Andrews Mechanical, Inc.
 * Audry Agnew
 * Callista Behm
+* William Hulings
+* Justin Haller
 
 #### 4 ❓ - Other
 Testifying:
@@ -67,6 +67,7 @@ Testifying:
 #### 606 👍 - Pro
 Testifying:
 * Po Leapai - Washington Low Income Housing Alliance
+* Charles Schaefer - Burien Community Support Coalition
 * 💵James Lovell - choose title
 * Colleen Hinton
 * 💵Jazmyn Clark - ACLU of Washington
@@ -75,19 +76,18 @@ Testifying:
 * Po Leapai - Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Chloe Gale - REACH
-* Charles Schaefer - Burien Community Support Coalition
 
 #### 367 👎 - Con
 Testifying:
 * Eric Zimmerman - Mayor, City of Normandy Park
 * Nancy Backus - City of Auburn Mayor
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
-* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Armondo Pavone - Mayor, City of Renton
-* Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Dana Ralph - [City of Kent](/org/city_of_kent/)
 * Brenda Supasatit
 * Lisa Beaton - City of Kennewick Deputy City Manager
+* Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 
 #### 0 ❓ - Other

@@ -26,15 +26,15 @@ Testifying:
 * Emahlyn Herrera
 * Eric Lundberg
 * Leah Houser
+* Anna Burt
 * Amy Leonard - Washington Homeschool Organization
 * Christian Bianes-Delrosario
-* Anna Burt
 * Melissa Steiner
 * Holly Preble
 * Amanda Wilder
-* Emilie Fogle
 * Debra Donahue
 * Jen Garrison Stuber
+* Emilie Fogle
 * Maria Dispenza
 * John Axtell
 * Dawn Land

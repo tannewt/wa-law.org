@@ -11,9 +11,9 @@
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6031 Insurance crimes
 #### 22 👍 - Pro
 Testifying:
+* Brent Walker - Coalition Against Insurance Fraud
 * Dory Nicpon - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
-* Brent Walker - Coalition Against Insurance Fraud
 * Marian Smith - [National Insurance Crime Bureau](/org/national_insurance_crime_bureau/)
 * 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 

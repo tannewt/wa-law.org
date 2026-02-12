@@ -81,6 +81,8 @@
 #### 106 👍 - Pro
 Testifying:
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Ashley Fueston - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Joanna Barnes
@@ -95,13 +97,11 @@ Testifying:
 * Annie Tegen - Campaign for Tobacco-Free Kids
 * Crystal Shen - Washington Chapter of the American Academy of Pediatrics
 * Rowen Higley - Tacoma Mayor's Youth Commission
-* 💵Kristin Ang - Faith Action Network (FAN)
 * Ashley Hebert - Center for Black Health and Equity
 * Phil Gardiner
 * Greg Bolden - Center for Black Health and Equity
 * Ben Yiseral
 * 💵Trevor Sandison - American Cancer Society
-* Ashley Fueston - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
 
 #### 223 👎 - Con
@@ -109,13 +109,13 @@ Testifying:
 * 💵Amber Carter - WA Retail Association
 * 💵Tony Sermonti - Motion Picture Association
 * Tim eyman - Initiative activist
-* 💵Lisa Thatcher - Washington State Hospital Association
-* 💵Catherine Morrison - Allegis Group, Redwood Holdings, Maxim Healthcare, and Amergis
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * Lisa Brummel - Co Owner
-* Tony Bonacci - Cowlitz Black Bears
 * 💵Katie Beeson - Washington Food Industry Association
 * Michelle Bennett - WA State Fairs
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Catherine Morrison - Allegis Group, Redwood Holdings, Maxim Healthcare, and Amergis
+* Tony Bonacci - Cowlitz Black Bears
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Patrick Reynolds - Council On State Taxation
 * Deb Peters - Association of National Advertisers - Americans for Digital Opportunity -
@@ -125,14 +125,14 @@ Testifying:
 Testifying:
 * 💵Bill Stauffacher - DISH Network & DIRECTV
 * Ann Shively - Tri-City Dust Devils Baseball Club
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
+* Danny Tetzlaff - Everett AquaSox
 * Chris Mulick - Washington State University
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
 * 💵Alyssa Patrick - [Washington Association for Community Health](/org/washington_association_for_community_health/)
 * Chris Masse - Seattle Sounders FC, Seattle Reign FC
 * 💵Sean Graham - Washington State Medical Association
 * 💵Sara Stewart - Washington Smoke-Free Association
-* Danny Tetzlaff - Everett AquaSox
-* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5814 Excise taxes
@@ -143,12 +143,23 @@ Testifying:
 
 #### 6192 👎 - Con
 Testifying:
+* Shaun DSylva
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Dr. Pritika Kumar - Philip Morris International
 * John Morgan
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Tim eyman - Initiative activist
-* Shaun DSylva
+* Mark Holmes - Council On State Taxation (COST)
+* 💵Amber Carter - WA Retail Association
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Natalie McNair - TrueBlue
+* Natalie McNair - TrueBlue
+* 💵Carolyn Logue - ABC Inland, South Sound Chambers, WA ACCA, NWHPBA
+* 💵Katherine Mahoney - LeadingAge WA
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Alejandro Galvan
 * 💵Catherine Morrison - Allegis Group, Redwood Holdings, Maxim Healthcare, and Amergis
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * Natalie K McNair - TrueBlue, Inc.
@@ -164,20 +175,9 @@ Testifying:
 * Xavier Johnson
 * Enrique Rico Rico - Washington State Young Republicans
 * Erin Jeffery
-* Mark Holmes - Council On State Taxation (COST)
-* 💵Amber Carter - WA Retail Association
-* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* 💵Chelene Whiteaker - Washington State Hospital Association
-* 💵Lisa Thatcher - Washington State Hospital Association
-* Natalie McNair - TrueBlue
-* Natalie McNair - TrueBlue
-* 💵Carolyn Logue - ABC Inland, South Sound Chambers, WA ACCA, NWHPBA
-* 💵Katherine Mahoney - LeadingAge WA
-* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
-* Alejandro Galvan
 
 #### 14 ❓ - Other
 Testifying:
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
-* Lindsey Stroud - Tobacco Harm Reduction 101
 * 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
+* Lindsey Stroud - Tobacco Harm Reduction 101

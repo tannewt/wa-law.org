@@ -15,9 +15,9 @@ Testifying:
 * David Joswick - Co-Chair - University of Washington Lung Transplant Support Program
 * Karen Schiewetz
 * Joyce Baker - Committee Member - University of Washington Lung Transplant Support Program
+* Carlene Young - Commitee Member - University of Washington Lung Transplant Support Program
 * Jenna Pringle Huerta - Life Center NW
 * Laura Givins - Mother
-* Carlene Young - Commitee Member - University of Washington Lung Transplant Support Program
 * Kimberly Tryhorn - Member, University of Washington Lung Transplant Support Program
 * Gavin Joswick - Caregiver Member - University of Washington Lung Transplant Support Program
 

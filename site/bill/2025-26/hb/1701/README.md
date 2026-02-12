@@ -12,6 +12,15 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201701)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 1701 Liquor licensee premises
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 1701 Liquor licensee premises
 #### 3 👍 - Pro
 Testifying:

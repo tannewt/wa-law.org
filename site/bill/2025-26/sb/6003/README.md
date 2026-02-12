@@ -24,8 +24,8 @@ Testifying:
 * 💵Axel Swanson - Washington State Association of County Engineers
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Katrina Brown - Terrain Spokane
 * Vince McGowan - [Public Works Board](/org/public_works_board/)
+* Katrina Brown - Terrain Spokane
 * Elpidia Saavedra - [City of Toppenish](/org/city_of_toppenish/)
 
 ### Mon 01/12 04:00 PM - Ways & Means (WM): SB 6003: Higher education. (Remote Testimony Available).
@@ -51,14 +51,14 @@ Testifying:
 #### 22 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* Po Leapai - Washington Low Income Housing Alliance
 * Patience Malaba - Housing Development Consortium
+* Po Leapai - Washington Low Income Housing Alliance
+* William Booth - Creating Pathways
 * Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
-* William Booth - Creating Pathways
 * Rose Lathrop - Kulshan Community Land Trust
-* Courtney Hendrix - NW Colony Mobile Community
 * Baer-David Dobson - NW Colony Mobile Community
+* Courtney Hendrix - NW Colony Mobile Community
 * Michone Preston - Habitat for Humanity of Washington State
 * Kathryn Opina
 

@@ -24,9 +24,9 @@ Testifying:
 #### 298 👎 - Con
 Testifying:
 * Laura Feldman
-* 💵Suellen Mele - 350 Washington Civic Action Team
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
 * Cathryn Chudy
+* 💵Suellen Mele - 350 Washington Civic Action Team
 * 💵Kelly Campbell - [Columbia Riverkeeper](/org/columbia_riverkeeper/)
 
 #### 0 ❓ - Other

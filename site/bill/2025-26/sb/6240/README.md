@@ -15,8 +15,8 @@
 Testifying:
 * JC Harris - Sea-Tac Noise.Info
 * Brian Davis
-* Maria Batayola - Aviation Community Health Environment & Climate Advocates
 * Rebecca Deming - [City of Des Moines](/org/city_of_des_moines/)
+* Maria Batayola - Aviation Community Health Environment & Climate Advocates
 * Debi Wagner - Quiet Skies Coalition
 
 #### 71 👎 - Con
@@ -27,5 +27,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)

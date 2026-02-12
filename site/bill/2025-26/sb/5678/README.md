@@ -17,20 +17,20 @@ Testifying:
 * Carter Nelson - Washington Multifamily Housing Association
 * Alex Harrington - NAIOP Washington State
 * Daniel Klemme - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
+* GORDON HAGGERTY
 * Bruce Becker
 * Tad Sommerville
-* GORDON HAGGERTY
 
 #### 2276 👎 - Con
 Testifying:
-* Sarah Moore
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Sarah Moore
+* Gloria Hazen - Private Citizen
 * Kerri Burnside - Bellingham Tenants Union
 * Josie Tracy - Washington Physicians for Social Responsibility
 * 💵Melanie Smith - Seattle / King County Coalition on Homelessness
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
-* Gloria Hazen - Private Citizen
 * 💵Matthew Lang - National Organization for Women - WA
 
 #### 4 ❓ - Other

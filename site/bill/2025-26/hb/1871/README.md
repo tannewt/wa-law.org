@@ -10,29 +10,29 @@
 
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): SHB 1871 Residential energy storage
-#### 185 👍 - Pro
+#### 186 👍 - Pro
 Testifying:
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Gavin Tenold - Northwest Renewables
 
 #### 116 👎 - Con
 Testifying:
 * Anthony Holan
 
-#### 4 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Josie Cummings - Avista
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
-* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1871 Residential energy storage
 #### 534 👍 - Pro
 Testifying:
 * Linda Mather
-* Bruce MacKenzie
 * Gavin Tenold - Northwest Renewables
 * Eric Blatz - Western Solar
 * Jeremy Smithson - Puget Sound Solar
 * Jon Lange - Sunergy Systems
+* Bruce MacKenzie
 * Carol Arvin
 
 #### 551 👎 - Con

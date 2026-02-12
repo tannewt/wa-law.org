@@ -42,9 +42,7 @@ Testifying:
 #### 879 👍 - Pro
 Testifying:
 * 💵Lori Grassi - WA State Chiropractic Association
-* Paul Reed
 * Morgan Kinnear
-* Christopher Prouty
 * Anondi Varn
 * Jane Beyer - Office of the Insurance Commissioner
 * Lindsey Lehmuth
@@ -63,16 +61,16 @@ Testifying:
 ### Tue 02/04 01:30 PM - Health Care & Wellness (HCW): HB 1589 Health carriers & providers
 #### 1367 👍 - Pro
 Testifying:
-* Jane Beyer - Office of the Insurance Commissioner
 * Rachel Atkins
-* Meg Curtin Rey-Bear - Washington Mental Health Counselor Association
-* Sharon Shadwell - Washington Mental Health Counselor Association
+* Jane Beyer - Office of the Insurance Commissioner
 * Ben Boyle - APTA Washington
 * Kendra Holloway - WA Speech - Language - Hearing Association
 * 💵London Breedlove - WA State Psychological Association
 * 💵Lori Grassi - WA State Chiropractic Association
 * 💵Melissa Johnson - APTA-WA /WA Speech, Language, Hearing
 * Ben Packard - Washington State Society for Clinical Social Work
+* Meg Curtin Rey-Bear - Washington Mental Health Counselor Association
+* Sharon Shadwell - Washington Mental Health Counselor Association
 * Jim Freeburg - Patient Coalition of Washington
 
 #### 1 👎 - Con

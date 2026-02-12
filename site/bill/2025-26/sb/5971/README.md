@@ -22,12 +22,12 @@ Testifying:
 Testifying:
 * Erik Kamrath - Natural Resources Defense Council
 * charlotte furner - nobody
-* Dan Holmes - [Atlas Agro](/org/atlas_agro/)
 * KARL DYE - TRIDEC
+* Dan Holmes - [Atlas Agro](/org/atlas_agro/)
+* 💵Seth Worley - Government Affairs Director, UA Plumbers & Steamfitters Local 598
 * Cassie Losey - Port of Benton
 * 💵Mark Streuli - Washington Potato Commission
 * Phyllis Farrell - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
-* 💵Seth Worley - Government Affairs Director, UA Plumbers & Steamfitters Local 598
 * Reagan Grabner - CSS Farms
 
 #### 737 👎 - Con

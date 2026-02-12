@@ -10,8 +10,8 @@
 ### Tue 01/21 08:00 AM - Finance (FIN): HB 1126 Local tax rate changes
 #### 6 👍 - Pro
 Testifying:
-* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Steve Ewing - Dept. of Revenue
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 6 👎 - Con
 

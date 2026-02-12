@@ -29,13 +29,14 @@ Testifying:
 
 #### 2499 👎 - Con
 Testifying:
-* Anthony Mixer - Citizen Volunteer Lobbyist
 * Tim Eyman - Initiative Activist
+* Anthony Mixer - Citizen Volunteer Lobbyist
 * Laurie Layne
 * Eric Lundberg
 * Eric Lundberg
 * Sharon Hanek
 * Brian Heywood
+* Anna Burt
 * Teagan Levine
 * Tim Eyman - Initiative Activist
 * Sam Reed - Washington Secretary of State 2001 to 2013
@@ -43,7 +44,6 @@ Testifying:
 * Linda Yang
 * Kan Qiu - American Coalition for Equality
 * Tim Eyman - Initiative Activist
-* Anna Burt
 * Eric Pratt - America
 * Brian Palmer
 * Brian Heywood

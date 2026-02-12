@@ -34,29 +34,29 @@ Testifying:
 #### 111 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* LaDon Linde - Yakima County Commissioner
 * 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
+* LaDon Linde - Yakima County Commissioner
 
 #### 3 👎 - Con
 
 #### 13 ❓ - Other
 Testifying:
 * Dr. Esther Matthews
+* Grete Schultz
+* Amity Bjork - Washington Defender Association and Washington Association of Criminal Defense Lawyers
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Ronald Ackerson
 * Christen Ativalu-Ford
 * Bryan Hernandez-Rodriguez
 * Caya Lanay
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
-* Grete Schultz
 * Sara Zier - TeamChild
-* Amity Bjork - Washington Defender Association and Washington Association of Criminal Defense Lawyers
-* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Amity Bjork - Washington Defender Association and Washington Association of Criminal defense Lawyers
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5278 Juvenile correctional pop.
-#### 259 👍 - Pro
+#### 260 👍 - Pro
 
-#### 34 👎 - Con
+#### 33 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:
@@ -72,9 +72,9 @@ Testifying:
 #### 19 👎 - Con
 Testifying:
 * Nicole Robison
+* Grete Schultz - TeamChild
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
-* Grete Schultz - TeamChild
 * Elizabeth Mustin - WA State Office of Public Defense
 * Esther Matthews
 * William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)

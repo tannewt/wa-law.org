@@ -23,8 +23,8 @@ Testifying:
 #### 7 ❓ - Other
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
-* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
 * Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
 * 💵Josie Cummings - Avista
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)

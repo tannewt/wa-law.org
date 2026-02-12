@@ -12,8 +12,8 @@
 Testifying:
 * Rebeca Daniels
 * Phil Goss - United State Association of Reptile Keepers: USARK
-* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Rebeca Daniels
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 62 👎 - Con
 

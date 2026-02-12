@@ -32,32 +32,35 @@
 #### 5034 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
-* Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
 * david harms
 * Jani Hitchen - Jani Hitchen-Pierce County Council Chair
+* Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
 * Annette Hanson - Public WA State School retiree and modular home owner in 55+ park
+* Rachael Snell
+* Max Newland
+* Elizabeth Rung
 * Monique McClure
 * Donna Watson-Whitmore
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Jean Schwinberg
-* Rachael Snell
-* Max Newland
-* Elizabeth Rung
 * Terri Anderson - Tenants Union of Washington State
 * Talauna Reed - Tenants Union of WA State
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Kyrian MacMichael
-* Desirée Toliver
+* Erica Subramaniam
 * Caroline Hardy - Leisure Manor Tenants Association
-* Angela Griffin - Byrd Barr Place
 * Jorge Hernandez
 * Kathleen Poague - Alonda Villa Park (55 or older Park)
-* Erica Subramaniam
+* Desirée Toliver
+* Angela Griffin - Byrd Barr Place
+* Monica Zazueta Tabor - Vancouver Metro LULAC Council #47026
+* Deborah Wilson
+* Barbara Thompson - Country Estates
+* Dustin Baker - Country Estates
+* 💵Rebekah Gardea - QLaw Foundation of Washington
 * Robert Brandenburg
 * Josie Tracy - Washington Physicians for Social Responsibility
 * Chelsie Miller
-* Monica Zazueta Tabor - Vancouver Metro LULAC Council #47026
-* Deborah Wilson
 * 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
 * Susan Cozzens
 * Mindy Woods
@@ -89,11 +92,8 @@ Testifying:
 * Robin Zorich - Association of Manufactured Homeowners
 * 💵Jake Garcia - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * Riley Irish
-* Barbara Thompson - Country Estates
-* Dustin Baker - Country Estates
 * 💵Paul Benz - Quaker Voice
 * Alexandria Nickerson - TOA Tenant Org and Advocates
-* 💵Rebekah Gardea - QLaw Foundation of Washington
 * 💵Melanie Smith - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
 * Linus Lu
@@ -103,8 +103,12 @@ Testifying:
 
 #### 3606 👎 - Con
 Testifying:
-* Constance Nelson
 * Russ Millard
+* Constance Nelson
+* Lori Brothers
+* Kristy neubo - Hidden Creek Apartments
+* john stiggelbout
+* Troy Peterson
 * Bruce Becker
 * 💵Andrea Smiley - Building Industry Association of Washington (BIAW)
 * 💵Morgan Irwin - Association of Washington Business (AWB)
@@ -112,37 +116,41 @@ Testifying:
 * Dani Pro - The Rants Group
 * george shipley
 * Terri Simpson
-* Lori Brothers
-* Kristy neubo - Hidden Creek Apartments
-* john stiggelbout
-* Troy Peterson
-* Jeff Pack - Me
-* Tim Eyman - Initiative Activist
 * Linda Aikens
 * Michael Gustavson
 * Gordon Bock - n/a
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Jeff Pack - Me
+* Tim Eyman - Initiative Activist
 * DAVID NAGEL
 * Kenton Gartrell - YVLA
+* Sam Spiegelman
 * Beau Harer - Detente Management, Inc.
 * Dan Piantanida - GP Realty Finance
 * Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
 * Yoel Kelman - Three Pillar Communities
-* Sam Spiegelman
-* peter goldstein - Owner of several Washington State Mobile Home Parks
-* Devin Whittier
 * OSHO BERMAN
-* Casey Bishop
-* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
-* Mischa Guenther Heide - Rain Commercial Real Estate Advisors
-* Catherine Yutuc
-* Troy Swallow
 * Kevin Wallace - Wallace Properties, Inc.
 * Mike Simonitch - Shelter Management
 * Christina Mays - Detente Management, Inc.
 * Christa Connelly - West Prairie Village MHP
 * Bri O’Hare
 * peter goldstein - Multiple park owner
+* peter goldstein - Owner of several Washington State Mobile Home Parks
+* Devin Whittier
+* Casey Bishop
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Mischa Guenther Heide - Rain Commercial Real Estate Advisors
+* Catherine Yutuc
+* Troy Swallow
+* SAM SPIEGELMAN - Citizen Action Defense Fund
+* Tonya Hardwick
+* Sylvia Renteria
+* David Mandley - Principal of for profit housing provider
+* Denise Booth
+* Mike Morris
+* Mackinley Robinson - Berkadia
+* Katherine Carter
 * Bo Yang
 * A-P Hurd - SkipStone
 * Emily Thompson - GMD Development
@@ -173,25 +181,17 @@ Testifying:
 * Robert Liu
 * michael Wang
 * Kitty Chen
-* SAM SPIEGELMAN - Citizen Action Defense Fund
 * Yijun He
 * Brett Duncan
 * Loni Simone
 * Grant Johnson - Grant Johnson
 * Yusheng Huang
-* Tonya Hardwick
 * Rebecca Yang
 * Michael Ewing
-* Sylvia Renteria
-* David Mandley - Principal of for profit housing provider
-* Denise Booth
 * Jeff Krueger - Hidden Haven Associates, LLC
 * Lifang Huang
 * xiangyu cao
 * Cindy Sy
-* Mike Morris
-* Mackinley Robinson - Berkadia
-* Katherine Carter
 * Vick Guo
 * Chris Zhang
 * Erik Brand
@@ -229,6 +229,6 @@ Testifying:
 Testifying:
 * Tonya Hardwick
 * Michelle Bart
-* Linda Seltzer
 * Reza Bouzarjomehri
+* Linda Seltzer
 * Edward Corker

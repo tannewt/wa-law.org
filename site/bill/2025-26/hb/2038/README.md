@@ -27,10 +27,10 @@ Testifying:
 #### 889 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * 💵Amy Harris - WA TECHNOLOGY INDUSTRY ASSN
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Feliciano - TECHNOLOGY NETWORK
-* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Angelise Pratt
 * Eric Pratt - America
@@ -54,11 +54,11 @@ Testifying:
 * Kim Justice - Partners for Our Children
 * 💵Reid Saaris - [Children's Alliance](/org/children's_alliance/)
 * Taj Jensen
-* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Sarah Rafton
 * Aaron Ping
 * 💵Chetan Soni - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
 * Katie Rudek - Kooth
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Lelach Rave - WCAAP
 
 #### 747 👎 - Con
@@ -66,9 +66,9 @@ Testifying:
 * Drew Johnson
 * Amy Bos
 * Jeremiah London
+* 💵Rose Feliciano - TechNet
 * Kenneth Leisher
 * Doug Miller
-* 💵Rose Feliciano - TechNet
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Sandra Mochizuki
 

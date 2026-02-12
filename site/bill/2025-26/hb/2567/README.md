@@ -15,21 +15,21 @@
 #### 1589 👍 - Pro
 Testifying:
 * Julie Wolter - Dean, School of Health Sciences, Gonzaga University
-* Paul Hogan - President, Cristo Rey Jesuit Seattle High School
 * Josiah Tiblow - Saint Martin's University
 * Mateo Car - Whitman College
 * Erika Hernandez - Whitworth University
 * Jack Kashork - [Gonzaga University](/org/gonzaga_university/)
 * Mercedes Garcia - Heritage University
 * Vernon Glass - Whitworth University
-* John Dickinson
 * Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Paul Hogan - President, Cristo Rey Jesuit Seattle High School
+* John Dickinson
 * Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * 💵Katherine Mahoney - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Mason Taylor-Wells
 * Zahan Tursa
-* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * Vineet Gopalam
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * Vineet Gopalam
 
 #### 8 👎 - Con

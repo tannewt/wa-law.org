@@ -56,8 +56,8 @@
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 * ❓💵 Curtis Steinhauer
 
-### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
-* ❓💵 Paul Jewell
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+* 👍💵 Paul Jewell
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 * 👍 BRIAN ENSLOW
@@ -387,8 +387,8 @@
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
 * ❓💵 Paul Jewell
 
-### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍1  ❓1
-* ❓💵 Paul Jewell
+### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Derek Young
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  

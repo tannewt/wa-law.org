@@ -17,10 +17,10 @@ Testifying:
 * Nan Gibson - JP Morgan Chase
 * Jim Campbell - Rainier Club
 * Catherine Goetz
-* Beth Avery - National Employment Law Project
 * Sophia Thomas
-* 💵Paul Dillon - City of Spokane / Council President Pro Tem
+* Beth Avery - National Employment Law Project
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
+* 💵Paul Dillon - City of Spokane / Council President Pro Tem
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 
 #### 744 👎 - Con
@@ -37,14 +37,14 @@ Testifying:
 Testifying:
 * Hilary Young - Pioneer Human Services and the Statewide Reentry Council
 * Beth Avery - National Employment Law Project
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* James Campbell - The Rainier Club
 * 💵Prachi Dave - [Civil Survival](/org/civil_survival/)
 * Ryan Davis - Executive Director,  Seattle Jobs Initiative
 * Ph.D., Christopher Beasley
 * Sophia Thomas
 * Greg Lotakis
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
-* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
-* James Campbell - The Rainier Club
 
 #### 33 👎 - Con
 Testifying:

@@ -11,8 +11,8 @@
 #### 243 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
-* Emily Roko - Student - Highline College
 * Prem Subedi
+* Emily Roko - Student - Highline College
 
 #### 105 👎 - Con
 

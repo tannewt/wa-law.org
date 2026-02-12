@@ -14,11 +14,11 @@
 #### 42 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Elizabeth Walker - South Puget Sound Habitat for Humanity
-* Andrew Calkins - Bellingham & Whatcom County Housing Authorities
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Nicholas Carr - Office of the Governor
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Andrew Calkins - Bellingham & Whatcom County Housing Authorities
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 
 #### 3 👎 - Con

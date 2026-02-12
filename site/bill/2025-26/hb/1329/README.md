@@ -20,8 +20,8 @@ Testifying:
 
 #### 538 👎 - Con
 Testifying:
-* TaraLyn Fray
 * Ronald Mochizuki
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

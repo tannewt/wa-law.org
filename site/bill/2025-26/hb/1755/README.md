@@ -17,8 +17,8 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* 💵Katherine Mahoney
 * Teddi McGuire - Providence Health
+* 💵Katherine Mahoney
 
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1755 Coronary interventions/CN
 #### 2 👍 - Pro

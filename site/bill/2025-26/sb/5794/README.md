@@ -52,6 +52,7 @@
 ### Mon 04/21 09:00 AM - Finance (FIN): ESSB 5794 Tax preferences
 #### 47 👍 - Pro
 Testifying:
+* 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Clare Bellefeuille Rice
 * Corey Rigney
@@ -62,7 +63,6 @@ Testifying:
 * Lilly Deerwater
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Molly Gallagher - Washington Statewide Poverty Action Network
-* 💵Kristin Ang - Faith Action Network (FAN)
 
 #### 251 👎 - Con
 Testifying:
@@ -113,25 +113,20 @@ Testifying:
 * Carmensofia Avelar Larios
 * Christi Thomas
 * Gabby Donaldson
-* Steve Zemke - Tax Sanity
 * Christina Jimenez
 * Gayle Janzen
 * Julia Buck
+* Steve Zemke - Tax Sanity
 
 #### 2433 👎 - Con
 Testifying:
 * Richard de Sam Lazaro - [Expedia Group](/org/expedia_group/)
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Leanne Webber - Russell Investments
 * 💵Leah Lindahl - [Healthcare Distribution Alliance](/org/healthcare_distribution_alliance/)
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
-* Leanne Webber - Russell Investments
 * James Bardecker
-* Mike Ennis - WTA
-* 💵Carolyn Logue - Washington Food Industry Association
-* Martin O'Brien
-* Chris Wertenberger - National Association of Insurance & Financial Advisors - Washington
-* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Dan McKisson - ILWU
 * 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
@@ -147,22 +142,27 @@ Testifying:
 * Michelle Hennings - [Washington Association of Wheat Growers](/org/washington_association_of_wheat_growers/)
 * 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * Mendy Droke - [Battelle](/org/battelle/)
+* Mike Ennis - WTA
+* 💵Carolyn Logue - Washington Food Industry Association
+* Martin O'Brien
+* Chris Wertenberger - National Association of Insurance & Financial Advisors - Washington
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * TaraLyn Fray
 * Julie Dowell
 * David Dowell
 * Indy Dehal
 * Michelle Hennings - [Washington Association of Wheat Growers](/org/washington_association_of_wheat_growers/)
+* Judth Smith
 * Liza Simmonds
 * KARL DYE - TRIDEC
-* Judth Smith
 * Amberlyn McQuary - Stonebraker McQuary Insurance
-* Nicki Ferguison - Promethean Consulting
-* Jp Cortez - Sound Money Defense League
-* jASMINE vasavada - Washington State Public Utility District Association
 * Alicia Travis
 * Ryan Oftebro - Kelley-Ross Pharmacy and Washington State Pharmacy Association
 * Reid Ekberg
 * Christopher Schaffner - Washington State Pharmacy Association
+* Nicki Ferguison - Promethean Consulting
+* Jp Cortez - Sound Money Defense League
+* jASMINE vasavada - Washington State Public Utility District Association
 
 #### 21 ❓ - Other
 Testifying:

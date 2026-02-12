@@ -10,9 +10,9 @@
 ### Mon 02/24 08:00 AM - Finance (FIN): HB 1044 County REET admin. fees
 #### 17 👍 - Pro
 Testifying:
+* Steve Drew - WA Assoc of Assessors / Thurston County Assessor
 * Jeff Gadman - President, WA Association of County Treasurers
 * 💵Jennifer Wallace - WA Association of County Officials
-* Steve Drew - WA Assoc of Assessors / Thurston County Assessor
 
 #### 784 👎 - Con
 Testifying:
@@ -29,7 +29,6 @@ Testifying:
 * Steven Drew - WA Assoc of Assessors legislative co-chair
 * 💵Jennifer Wallace - WA Association of County Officials
 * Jeff Gadman - President, WA Association of County Treasurers
-* Amy Cziske - Kittitas County
 
 #### 8 👎 - Con
 Testifying:

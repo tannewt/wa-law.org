@@ -32,10 +32,10 @@
 		<item>
 			<title>👎Anthony Mixer - Citizen Volunteer Lobbyist</title>
 			<description>Anthony Mixer signed up to testify Con. They are signed up to represent Citizen Volunteer Lobbyist.</description>
-			<pubDate>Thu, 15 Jan 2026 06:29:04 GMT</pubDate>
+			<pubDate>Thu, 15 Jan 2026 18:29:04 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Anthony/Mixer/2026-01-15 06:29:04</guid>
+			<guid isPermaLink="false">testifier/Anthony/Mixer/2026-01-15 18:29:04</guid>
 		</item>
 		<item>
 			<title>👍Defne Yildirim - Health Care Authority (HCA) - Special Assistant, Legislative &amp; Policy Affairs</title>
@@ -48,50 +48,10 @@
 		<item>
 			<title>👎Eric Lundberg - Citizen Volunteer Lobbyist</title>
 			<description>Eric Lundberg signed up to testify Con.</description>
-			<pubDate>Mon, 19 Jan 2026 02:49:37 GMT</pubDate>
+			<pubDate>Mon, 19 Jan 2026 14:49:37 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Eric/Lundberg/2026-01-19 02:49:37</guid>
-		</item>
-		<item>
-			<title>👎Kirsten Nelsen - Love Life</title>
-			<description>Kirsten Nelsen signed up to testify Con. They are signed up to represent Love Life.</description>
-			<pubDate>Tue, 20 Jan 2026 01:23:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Kirsten/Nelsen/2026-01-20 01:23:28</guid>
-		</item>
-		<item>
-			<title>👍Gabbi Nazari - Pro-Choice Washington</title>
-			<description>Gabbi Nazari signed up to testify Pro. They are signed up to represent Pro-Choice Washington.</description>
-			<pubDate>Tue, 20 Jan 2026 02:28:38 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Gabbi/Nazari/2026-01-20 02:28:38</guid>
-		</item>
-		<item>
-			<title>👎Mary Long - Conservative Ladies of Washington</title>
-			<description>Mary Long signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/conservative_ladies_of_washington/"&gt;Conservative Ladies of Washington&lt;/a&gt;.</description>
-			<pubDate>Tue, 20 Jan 2026 05:27:48 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Mary/Long/2026-01-20 05:27:48</guid>
-		</item>
-		<item>
-			<title>👍Dr. Ying Zhang - Pro-Choice Washington</title>
-			<description>Dr. Ying Zhang signed up to testify Pro.</description>
-			<pubDate>Tue, 20 Jan 2026 07:52:50 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Dr. Ying/Zhang/2026-01-20 07:52:50</guid>
-		</item>
-		<item>
-			<title>👎Theresa Schrempp - Conservative Ladies of Washington</title>
-			<description>Theresa Schrempp signed up to testify Con.</description>
-			<pubDate>Tue, 20 Jan 2026 08:57:31 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Theresa/Schrempp/2026-01-20 08:57:31</guid>
+			<guid isPermaLink="false">testifier/Eric/Lundberg/2026-01-19 14:49:37</guid>
 		</item>
 		<item>
 			<title>👍Caitlin Safford - Office of the Governor</title>
@@ -116,6 +76,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Samantha/Grono/2026-01-20 11:55:43</guid>
+		</item>
+		<item>
+			<title>👎Kirsten Nelsen - Love Life</title>
+			<description>Kirsten Nelsen signed up to testify Con. They are signed up to represent Love Life.</description>
+			<pubDate>Tue, 20 Jan 2026 13:23:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kirsten/Nelsen/2026-01-20 13:23:28</guid>
+		</item>
+		<item>
+			<title>👍Gabbi Nazari - Pro-Choice Washington</title>
+			<description>Gabbi Nazari signed up to testify Pro. They are signed up to represent Pro-Choice Washington.</description>
+			<pubDate>Tue, 20 Jan 2026 14:28:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gabbi/Nazari/2026-01-20 14:28:38</guid>
+		</item>
+		<item>
+			<title>👎Mary Long - Conservative Ladies of Washington</title>
+			<description>Mary Long signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/conservative_ladies_of_washington/"&gt;Conservative Ladies of Washington&lt;/a&gt;.</description>
+			<pubDate>Tue, 20 Jan 2026 17:27:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mary/Long/2026-01-20 17:27:48</guid>
+		</item>
+		<item>
+			<title>👍Dr. Ying Zhang - Pro-Choice Washington</title>
+			<description>Dr. Ying Zhang signed up to testify Pro.</description>
+			<pubDate>Tue, 20 Jan 2026 19:52:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Ying/Zhang/2026-01-20 19:52:50</guid>
+		</item>
+		<item>
+			<title>👎Theresa Schrempp - Conservative Ladies of Washington</title>
+			<description>Theresa Schrempp signed up to testify Con.</description>
+			<pubDate>Tue, 20 Jan 2026 20:57:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Theresa/Schrempp/2026-01-20 20:57:31</guid>
 		</item>
 		<item>
 			<title>👎Jeff Pack - Washington Citizens Against Unfair Taxes</title>

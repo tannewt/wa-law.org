@@ -45,23 +45,23 @@ Testifying:
 #### 3743 👍 - Pro
 Testifying:
 * Sarahi Jimenez Mendez - Community for our college
+* Brandon Elliott - Associated Students of the University of Washington
 * Hannah Lindell-Smith
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
-* Brandon Elliott - Associated Students of the University of Washington
-* Ana Tello - Communities for Our College
 * Jennyfer Mesa - Latinos En Spokane
+* Ana Tello - Communities for Our College
+* Natalya Yudkovsky - Washington State PTA
 * Shelby Silva-Martinez
 * Sandra Varela - 2226
-* Natalya Yudkovsky - Washington State PTA
 * Corina Pfeil - College Student, Former Kenmore Councilmember
 * Hannah Salemy
+* Mateo Lujan
+* 💵Giovanni Severino - Progreso: Latino Progress
+* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Sharlyn Santiago - Malaya Tacoma
 * Claudia Krumpach - Malaya Tacoma
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
-* 💵Giovanni Severino - Progreso: Latino Progress
-* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
-* Mateo Lujan
 
 #### 2147 👎 - Con
 

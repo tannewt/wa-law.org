@@ -13,9 +13,9 @@
 ### Wed 02/04 04:00 PM - Finance (FIN): HB 2615 Tax voluntary disclosure
 #### 95 👍 - Pro
 Testifying:
-* Aaron Johnson
 * 💵Lisa Thatcher - Washington Society of CPA's
 * 💵Patrick Connor - NFIB
+* Aaron Johnson
 
 #### 1 👎 - Con
 

@@ -22,8 +22,8 @@ Testifying:
 #### 102 👎 - Con
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
-* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Chris Bandoli - National Association of Benefits and Insurance Professionals Washington
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 
 #### 3 ❓ - Other
 Testifying:

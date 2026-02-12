@@ -14,10 +14,10 @@
 #### 8 👍 - Pro
 Testifying:
 * BRANDON PARK
-* 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Jerina Pillert - Hashtag Cannabis (retailer)
+* 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
 * 💵Paula Sardinas - FMSGS/ Washington Build Back Black Alliance (WBBA)
 
 #### 12 👎 - Con
@@ -43,12 +43,12 @@ Testifying:
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5206 Cannabis advertising
 #### 16 👍 - Pro
 Testifying:
+* Ian Eisenberg - Uncle Ikes
+* Scott Atkison - Zips Cannabis
 * 💵Brooke Davies - Washington CannaBusiness Association
 * Sara Eltinge - The Herbery
 * Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
 * Eric Gaston - The Evergreen Market
-* Ian Eisenberg - Uncle Ikes
-* Scott Atkison - Zips Cannabis
 * Shea Hynes - Lux Pot Shop
 * Caitlein Ryan - The Cannabis Alliance
 

@@ -12,11 +12,22 @@
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205436)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 5436 Worship/access interference
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
 ### Wed 03/26 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5436 Worship/access interference
 #### 207 👍 - Pro
 Testifying:
-* Kelsi Adams - Temple Beth Shalom, Spokane
 * Puneet Kaur - The Sikh Coalition
+* Kelsi Adams - Temple Beth Shalom, Spokane
 * Puneet Kaur - The Sikh Coalition
 * 💵Kendall Kosai - ADL Pacific Northwest
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
@@ -25,11 +36,11 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
-* Greg Thiessen
 * Rev. Megan Ramer - Seattle Mennonite Church
+* Greg Thiessen
+* Amy Epp
 * Angelique Rodriguez - Council on American-Islamic Relations Washington
 * Katie Walkerk - Council on American-Islamic Relations Washington
-* Amy Epp
 
 ### Tue 02/04 08:00 AM - Law & Justice (LAW): SB 5436 Worship/access interference
 #### 272 👍 - Pro

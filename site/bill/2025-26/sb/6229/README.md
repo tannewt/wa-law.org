@@ -22,8 +22,8 @@ Testifying:
 * Aviel Ginzburg
 * Emily Choi-Greene - Clearly AI
 * Nicole Doyle
-* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Dave Parker - DKParker, LLC
+* 💵Amy Harris - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Matt Shobe
 
 #### 3 ❓ - Other

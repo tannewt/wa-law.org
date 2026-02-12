@@ -24,10 +24,10 @@
 #### 1481 👍 - Pro
 Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
-* Michael McIntyre - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
 * Karen Peacey - League of Women Voters of WA
 * Steve Albrecht
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Michael McIntyre - [Alliance for Gun Responsibility](/org/alliance_for_gun_responsibility/)
 * 💵Kristin Ang - Faith Action Network (FAN)
 
 #### 6128 👎 - Con
@@ -38,11 +38,11 @@ Testifying:
 * Anna Burt
 * Eric Lundberg
 * Christian Bianes-Delrosario
-* Sarah Akey
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Ryan Spurling - As the Elected Mason County Sheriff
-* Summer Scheyer - Skamania County Sheriff's Office
+* Sarah Akey
 * KEITH BEACH
+* Summer Scheyer - Skamania County Sheriff's Office
 
 #### 11 ❓ - Other
 Testifying:
@@ -67,29 +67,29 @@ Testifying:
 
 #### 12873 👎 - Con
 Testifying:
-* Bob Lindenhovius - WE THE PEOPLE   retired Veteran
 * Rick Kuss
 * Eric Lundberg
 * Anna Burt
-* John Nowels - Testifying as the Spokane County Sheriff
-* Aaron Lyons
+* Bob Lindenhovius - WE THE PEOPLE   retired Veteran
 * Mark Crider - Sheriff, Walla Walla County, President Washington State Sheriff's Association
 * MARCUS CARTER - Puget Sound Patriots
 * Laurie Layne
+* John Nowels - Testifying as the Spokane County Sheriff
+* Aaron Lyons
 * Tristan Chambers
 * Dawn Land
-* Amanda McKinney - Yakima County Commissioner
-* Summer Scheyer
 * Jeff Winter
 * Keith Swank - Pierce County Sheriff's Office
 * Dale Wagner - Adams County Sheriff's Office (Sheriff)
+* Amanda McKinney - Yakima County Commissioner
+* Summer Scheyer
 * Joe Kriete - Grant County Sheriff's Office
+* Brian Smith - Chief of Police, Port Angeles
 * brian keelean
 * Richard Myers
 * Christian Bianes-Delrosario
 * Derek Sanders - Thurston County Sheriff’s Office
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Brian Smith - Chief of Police, Port Angeles
 * Ryan Spurling
 * Jane Milhans
 

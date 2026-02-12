@@ -26,9 +26,9 @@ Testifying:
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * TaraLyn Fray
+* 💵Patrick Connor - NFIB
 * Rosemarie Dorn
 * Rexine Bennett
-* 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Washington Food Industry Association
 
 #### 6 ❓ - Other
@@ -36,21 +36,21 @@ Testifying:
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5626 Wage replacement
 #### 711 👍 - Pro
 Testifying:
+* 💵John Traynor - washington state labor council, afl-cio
 * Angela S
 * Leonidas Salazar
 * Soumyo Lahiri-Gupta - OneAmerica
 * Aurelia Guerrero
-* 💵John Traynor - washington state labor council, afl-cio
 * April Sims - Washington State Labor Council, AFL-CIO
 
 #### 806 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Carolyn Logue - Washington Food Industry Association
-* Dawn Breen
 * Susan Mischel
 * Myrna Molinar - CLallam
 * Jerry Koch - 110 Cottage Lane
+* 💵Carolyn Logue - Washington Food Industry Association
+* Dawn Breen
 * Atina Holan
 * Anthony Holan
 

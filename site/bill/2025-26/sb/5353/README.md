@@ -14,11 +14,11 @@ Testifying:
 * 💵Erin Dziedzic - [American Diabetes Association](/org/american_diabetes_association/)
 * Dawn Hebert - Willapa Harbor Hospital, and patient
 * MD, Bindu Nayak - WA State Medical Association
+* Kevin Wren - Washington #insulin4all
+* Sandra Christensen - President of the Washington Obesity Society
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
 * 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
-* Kevin Wren - Washington #insulin4all
-* Sandra Christensen - President of the Washington Obesity Society
 * 💵Michael Moran - As an individual
 
 #### 0 👎 - Con

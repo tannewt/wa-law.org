@@ -15,13 +15,13 @@
 ### Tue 02/11 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1056 Law enf. misconduct
 #### 825 👍 - Pro
 Testifying:
+* Robin Emmans - Washington Association of Criminal Defense Lawyers (WACDL) and Washington Defender Association (WDA)
 * Chalia Stallings-Ala'ilima - Attorney General's Office
 * Eliana Machefsky - National Police Accountability Project
 * Kelly McConney Moore - NYU Policing Project
 * Kurtis Robinson - WCPA and I Did The Time
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Shelly Washington - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
-* Robin Emmans - Washington Association of Criminal Defense Lawyers (WACDL) and Washington Defender Association (WDA)
 * 💵Michael Transue - Washington Fraternal Order of Police
 
 #### 1583 👎 - Con

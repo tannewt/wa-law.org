@@ -8,14 +8,15 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Local Government (LG): HB 1854 Rural areas/subdivision
-#### 199 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * John Gentle - Pend Oreille County Commissioner
-* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Wes McCart
 * Mark Burrows - Stevens County Commissioner
 
-#### 5 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 2 ❓ - Other
 Testifying:

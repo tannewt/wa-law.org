@@ -13,8 +13,8 @@
 ### Tue 02/04 08:00 AM - Finance (FIN): HB 1397 Local property tax levies
 #### 74 👍 - Pro
 Testifying:
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Randy Johnson - Clallam County Commissioner
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 4 👎 - Con
 

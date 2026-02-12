@@ -25,7 +25,7 @@ Testifying:
 #### 732 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* ROSE GUNDERSEN
 * 💵Brandon Houskeeper - NW Grocery Retail Association
+* ROSE GUNDERSEN
 
 #### 1 ❓ - Other

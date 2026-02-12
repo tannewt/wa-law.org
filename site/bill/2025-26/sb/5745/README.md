@@ -35,8 +35,8 @@ Testifying:
 Testifying:
 * Christina Parreira - WA Association of Designated Crisis Responders
 * Kelly Canary - Washington State Office of Public Defense
-* Rashi Gupta - UW Medicine
 * Nathan Olson - Office of the Governor
+* Rashi Gupta - UW Medicine
 
 #### 4 👎 - Con
 Testifying:
@@ -56,8 +56,8 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* 💵Brad Banks - Association of Counties & BHASOs
 * 💵Michael White - [King County](/org/king_county/)
+* 💵Brad Banks - Association of Counties & BHASOs
 
 ### Mon 02/17 10:30 AM - Law & Justice (LAW): SB 5745 Invol. treatment counsel
 #### 9 👍 - Pro

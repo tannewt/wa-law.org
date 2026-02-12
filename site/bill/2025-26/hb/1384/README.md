@@ -10,8 +10,8 @@
 ### Thu 02/20 01:30 PM - Finance (FIN): HB 1384 Winery tax exemption
 #### 146 👍 - Pro
 Testifying:
-* Sandi Moreno - Leony's Cellars and Family Wineries of Washington State
 * PAUL BEVERIDGE - Family Wineries of Washington State
+* Sandi Moreno - Leony's Cellars and Family Wineries of Washington State
 
 #### 10 👎 - Con
 

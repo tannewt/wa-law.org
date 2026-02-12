@@ -20,10 +20,10 @@
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1958 Interstate bridge toll bonds
 #### 29 👍 - Pro
 Testifying:
+* Mike Bomar - Port of Vancouver USA
 * Doug Vaughn - Principal Financial Officer, WSDOT
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
 * Anne McEnerny-Ogle - Mayor of Vancouver
-* Mike Bomar - Port of Vancouver USA
 * Ron Arp - Identity Clark County
 * 💵Randall Friesen - Columbia Pacific Building & Construction Trades Council
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

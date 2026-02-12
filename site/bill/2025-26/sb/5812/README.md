@@ -23,12 +23,6 @@
 ### Wed 04/16 05:30 PM - Ways & Means (WM): SB 5812 K-12 education funding
 #### 294 👍 - Pro
 Testifying:
-* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
-* Frances Guerrero - Yakima Education Association/WEA
-* Adam Aguilera - Evergreen Education Association/WEA
-* Regen Lorden - [Washington Education Association](/org/washington_education_association/)
-* Carolina Mejia - Thurston County Commissioner
-* Megan Dunn - Snohomish County Council
 * Snohomish County Council Megan Dunn
 * Thurston County Commissio Carolina Mejia
 * 💵Clifford Traisman - Seattle, Highline, Northshore and Bellevue Public School Districts
@@ -36,23 +30,26 @@ Testifying:
 * Amy Ockerlander - Mayor, City of Duvall & AWC President
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Fred Brink - Mayor Pro Tem, West Richland & AWC Vice President
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Frances Guerrero - Yakima Education Association/WEA
+* Adam Aguilera - Evergreen Education Association/WEA
+* Regen Lorden - [Washington Education Association](/org/washington_education_association/)
+* Carolina Mejia - Thurston County Commissioner
+* Megan Dunn - Snohomish County Council
+* Molly Gallagher - Washington Statewide Poverty Action Network
+* Eli Taylor Goss - WA State Budget and Policy Center
 * Dr. Trevor Greene - Yakima School District
 * Mark Ozias - Clallam County Board of Commissioners
 * Kathryn List
-* Molly Gallagher - Washington Statewide Poverty Action Network
-* Eli Taylor Goss - WA State Budget and Policy Center
 
 #### 7868 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Laurie Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * John Morgan
 * Anthony Mixer - Washington State Young Republicans
-* Laurie Layne
 * Dakota Manley - Washington State Young Republicans
-* Iris Poynter
-* Jamie Paradiso
-* Kathryn Richardson
 * Jia Wan
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)
 * Wenchong Hu
@@ -63,11 +60,14 @@ Testifying:
 * Fanda Lynch - N/A
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Alejandro Galvan
+* Iris Poynter
+* Jamie Paradiso
+* Kathryn Richardson
 
 #### 18 ❓ - Other
 Testifying:
 * 💵Melissa Gombosky - Gombosky Public Affairs
 * Michelle Price - Association of Educational Service Districts
+* 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
 * Charlie Brown - South Sound Superintendents
 * Lisa Guthrie - Lake Washington School District
-* 💵Lacey Stanage - [School Alliance](/org/school_alliance/)

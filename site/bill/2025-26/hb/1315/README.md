@@ -26,11 +26,11 @@ Testifying:
 
 #### 167 👎 - Con
 Testifying:
+* Emily Bourne
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
-* Emily Bourne
 
 #### 5 ❓ - Other
 Testifying:

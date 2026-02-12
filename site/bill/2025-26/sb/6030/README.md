@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Wed 01/14 08:00 AM - Environment, Energy & Technology (ENET): SB 6030 Plastic carryout bags
-#### 192 👍 - Pro
+#### 193 👍 - Pro
 
-#### 11 👎 - Con
+#### 10 👎 - Con
 
 #### 6 ❓ - Other
 Testifying:

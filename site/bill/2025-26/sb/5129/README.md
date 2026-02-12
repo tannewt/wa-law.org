@@ -21,8 +21,8 @@ Testifying:
 #### 10 👎 - Con
 Testifying:
 * Michele Horaney
-* Patrick Johansen - HOA Reform Leaders National Group (HRLNG)
 * Phil Landesberg
+* Patrick Johansen - HOA Reform Leaders National Group (HRLNG)
 * Eric Courtemanche
 
 #### 1 ❓ - Other
@@ -32,8 +32,8 @@ Testifying:
 ### Wed 01/15 01:30 PM - Housing (HSG): SB 5129 Common interest communities
 #### 19 👍 - Pro
 Testifying:
-* Steve Horvath - HOA United
 * Joe Kunzler
+* Steve Horvath - HOA United
 * Theresa Torgesen - Community Associations Institute
 * John Kresge
 * 💵Bill Clarke - WA REALTORS

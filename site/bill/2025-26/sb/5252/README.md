@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Finance (FIN): ESSB 5252 Assembly halls/property tax
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/21 01:30 PM - Finance (FIN): SSB 5252 Assembly halls/property tax
 #### 0 👍 - Pro
 

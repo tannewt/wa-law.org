@@ -15,7 +15,6 @@
 #### 455 👍 - Pro
 Testifying:
 * Dale Marti - IBEW Local 48
-* 💵Michele Willms - Associated General Contractors (AGC)
 * David Uribe
 * 💵Heather Kurtenbach - building and construction trades
 * 💵John Traynor - WSLC
@@ -23,6 +22,7 @@ Testifying:
 * 💵Christopher Ellis - Bricklayers and allied crafts
 * Clint Bryson - Wa State Association of Electrical Workers, Certified Electrical Workers of Wa, IBEW 76
 * 💵Marianna Hyke - Carpenters
+* 💵Michele Willms - Associated General Contractors (AGC)
 * 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
 
 #### 89 👎 - Con

@@ -10,9 +10,9 @@
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2595 Collateral attacks/criminal
 #### 312 👍 - Pro
 Testifying:
+* 💵Arthur Longworth - TeamChild
 * Jessica Levin
 * Larry Jefferson - Director, Washington State Office of Public Defense
-* 💵Arthur Longworth - TeamChild
 * Sarah Hudson - Washington Defender Association & Washington Association of Criminal Defense Lawyers
 * Karen Peacey - League of Women Voters of WA
 * Kimberly Ambrose

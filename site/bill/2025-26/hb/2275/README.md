@@ -18,19 +18,19 @@
 #### 38 👍 - Pro
 Testifying:
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* Tony Craven - WA Farm Forestry Assn. (Wildland Firefighter)
+* George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Allie Zachariades - Small Business Owner
 * Melissa Hunter - Gray Fire survivor
 * Brian Colón - Managing Partner, Singleton Schreiber
 * Gerald Singleton - Managing Partner, Singleton Schreiber
-* Tony Craven - WA Farm Forestry Assn. (Wildland Firefighter)
-* George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
 #### 784 👎 - Con
 Testifying:
+* 💵Nicolas Garcia - WPUDA
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * Jillian Caires - Avista Corp.
-* 💵Nicolas Garcia - WPUDA
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Kelli Scott - Chelan PUD
 * 💵Matt Steuerwalt - [Puget Sound Energy](/org/puget_sound_energy_inc/)
@@ -41,7 +41,7 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
+* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Jason Callahan - Green Diamond
 * John Worthington
 * Jason Lewis - Utilities & Transportation Commission
-* 💵Matt Doumit - [Washington Forest Protection Association](/org/washington_forest_protection_association/)

@@ -19,6 +19,6 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Kathryn Sheldon
 * Thad Duvall - Douglas County Auditor/ Licensing Co-Chair Washington Association of County Auditors
 * 💵Marian Dacca - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
+* Kathryn Sheldon

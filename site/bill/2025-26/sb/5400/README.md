@@ -20,10 +20,11 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5400 Local news journalism
 #### 760 👍 - Pro
 Testifying:
-* David Fischrr - KNKX Radio
 * Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* David Fischrr - KNKX Radio
 * Matt Pearce - Rebuild Local News
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
+* Neal Boling - KHQ-TV, KNDO-TV, KNDU-TV
 * Carrie Radcliff
 * Alan Fisco - Seattle Times
 * Dee Anne Finken - League of Women Voters
@@ -31,7 +32,6 @@ Testifying:
 * Karen Keiser - Former Senator
 * Matt Pearce - Rebuild Local News
 * Neal Boling - KHQ-TV, KNDO-TV, and KNDU-TV
-* Neal Boling - KHQ-TV, KNDO-TV, KNDU-TV
 * Peggy Watt - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * Emily Harris - Uplift Local Community News
 
@@ -45,19 +45,19 @@ Testifying:
 #### 199 👍 - Pro
 Testifying:
 * Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
-* Keith Shipman - Washington State Association of Broadcasters
-* Ellen Hiatt - Washington Newspaper Publishers Association
 * Sharon Maeda - (retired)
 * Karen Keiser - no
-* Mauri Ingram - Whatcom Community Foundation
+* Keith Shipman - Washington State Association of Broadcasters
+* Ellen Hiatt - Washington Newspaper Publishers Association
 * Emmett O'Connell - N/A
-* Mindie Reule - Community Foundation of South Puget Sound
 * ROBERT McCLURE - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Mauri Ingram - Whatcom Community Foundation
+* Mindie Reule - Community Foundation of South Puget Sound
 * Carolyn Boatsman
-* Florangela Davila - [South Seattle Emerald](/org/south_seattle_emerald/)
 * Sharon Miracle - Yakima Valley Community Foundation and Washington Press Forward Chapter
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Teresa Wippel - My Neighborhood News Network
+* Florangela Davila - [South Seattle Emerald](/org/south_seattle_emerald/)
 
 #### 189 👎 - Con
 Testifying:
@@ -80,28 +80,28 @@ Testifying:
 * Dee Anne Finken - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Ben Campbell - The Columbian
 * Keith Shipman - Washington State Association of Broadcasters
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Emmett O'Connell
 * Phyllis Gutierrez Kenney
-* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Pat Lantz - Gig Harbor Now
 * Stace Gordon - Gig Harbor Now
-* Erik Hanberg - KNKX Public Radio
-* Jaime Mendez
 * Roberta Rutherford
-* Teresa Wippel - My Neighborhood News Network
 * Ellen Hiatt - Washington Newspaper Publishers Association
 * Orson Bevins - Hispanavision Television
 * Melissa Luck - KXLY-TV
 * Heidi Persson - Pacific Northwest Media Group
-* Kathy Cummings - Gig Harbor Now
+* Erik Hanberg - KNKX Public Radio
+* Jaime Mendez
+* Teresa Wippel - My Neighborhood News Network
 * Keith Shipman - Washington State Association of Broadcasters
+* Kathy Cummings - Gig Harbor Now
 
 #### 81 👎 - Con
 Testifying:
-* Kelly Wright - citizen
 * Bill Lyne - United Faculty of Washington State
-* 💵Rose Feliciano - TechNet
+* Kelly Wright - citizen
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵Rose Feliciano - TechNet
 
 #### 5 ❓ - Other

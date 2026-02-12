@@ -83,7 +83,7 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Patrick Connor - NFIB
-* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Gundersen - WA Retail Association

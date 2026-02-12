@@ -23,16 +23,10 @@
 #### 2515 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
-* Jason Perrins - Chewelah School District
 * Kyle Rydell - West valley School District
 * Hilary Kozel - Spokane Public Schools (School Board Member)
 * Maile Esperas - Spokane Public Schools (student)
-* Fred Rundle - Mercer Island School District
-* 💵Kelsi Hamilton - Washington State School Directors' Association
-* 💵Clifford Traisman - Seattle Public Schools (and Bellevue, Highline, Northshore Public School Districts)
-* Dr. Ivan Duran - Superintendent, Highline School District
-* Jacqueline McGourty - School Board Director, Northshore School District
-* William Jackson - Director of Teaching and Learning, Bellevue School District
+* Jason Perrins - Chewelah School District
 * Doug Vanderleestr - WA Association of Maintenance and Operation Administrators
 * 💵Mitch Denning - Alliance of Educational Associations
 * Chris Woods - Superintendent, Yelm Community Schools
@@ -41,12 +35,13 @@ Testifying:
 * Michelle Harris
 * 💵Melissa Gombosky - Evergreen and Vancouver Public Schools
 * Tim Merlino - ESD 112 Superintendent
-* Angela Steck - Washington State PTA
+* Fred Rundle - Mercer Island School District
+* 💵Kelsi Hamilton - Washington State School Directors' Association
+* Dr. Ivan Duran - Superintendent, Highline School District
+* Jacqueline McGourty - School Board Director, Northshore School District
+* William Jackson - Director of Teaching and Learning, Bellevue School District
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
-* Jeff Chamberlin - [University Place School District](/org/university_place_school_district/)
-* Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
-* Krestin Bahr - Peninsula School District
-* Charlie Brown - South Sound Superintendents and Skills Center Directors
+* Angela Steck - Washington State PTA
 * Paul Randall - Washington State Skills Center Association/Tri-Tech Skills Center
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 * Sarah Milici

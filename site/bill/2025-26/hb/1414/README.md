@@ -17,11 +17,11 @@
 ### Wed 03/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1414 CTE careers work group
 #### 93 👍 - Pro
 Testifying:
+* Joel Bouchey
 * Angela Nemeth - Tri-Tech Skills Center
 * Ethan Wodehouse - Tri-Tech Skills Center
 * Nathen Allington - Tri-Tech Skills Center
 * Paul Randall - Tri-Tech Skills Center
-* Joel Bouchey
 * Lynette Brower - Washington State Skills Center Association
 * Katelyn Kean - Northwest Maritime
 * Dave Gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)

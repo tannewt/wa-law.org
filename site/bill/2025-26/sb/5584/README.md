@@ -25,15 +25,16 @@ Testifying:
 * Sonia Joseph - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Trishandra Pickup - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 32 👎 - Con
+#### 31 👎 - Con
 Testifying:
+* TERI ROGERS KEMP - The Black Community Lobby
 * Pauly Giuglianotti - Partnership for a Truly Independent Prosecutor
 * Ryan Lufkin - (WACOPS) Washington Council of Police & Sheriffs
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
-* TERI ROGERS KEMP - The Black Community Lobby
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers

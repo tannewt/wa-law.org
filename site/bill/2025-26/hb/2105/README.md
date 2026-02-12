@@ -27,17 +27,17 @@
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2105 Immigrant workers
 #### 922 👍 - Pro
 Testifying:
-* 💵Alexandra Johnson - Duwamish River Community Coalition
 * 💵Jean Hill - Washington State Catholic Conference
-* Lisa Ellis
+* 💵Alexandra Johnson - Duwamish River Community Coalition
 * Mahmood Alkhazraji - ASCWU Liaison
+* Lisa Ellis
 * Delaney Hewitt - Attorney General's Office of Washington
 
 #### 1168 👎 - Con
 Testifying:
-* 💵Patrick Connor - NFIB
 * Gregor Doerr - Washington State Young Republicans
-* 💵Carolyn Logue - Washington Food Industry Association and Assoc. Builders & Contractors Inland Pacific
+* 💵Patrick Connor - NFIB
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Molly Pfaffenroth - Washington Food Industry Association
 * 💵James Crandall - AWB
 * 💵Rose Gundersen - WA Retail Association
@@ -50,13 +50,8 @@ Testifying:
 #### 1858 👍 - Pro
 Testifying:
 * Weilson Geng
-* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Jean Hill - Washington State Catholic Conference
-* Ying Loyola
-* Heather Sisson
-* Stacey Powell
-* Valerie Middleton
-* Kathryn Pitroff
+* Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * Angela Turletti
 * Madeline Schaller
 * Eugene Kemper
@@ -70,35 +65,40 @@ Testifying:
 * Meg Dambrosio
 * Patricia Blau
 * Ericka Baird - Tacoma German Language School
+* Ying Loyola
+* Heather Sisson
+* Stacey Powell
+* Valerie Middleton
+* Kathryn Pitroff
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Jennyfer Mesa - Latinos En Spokane
 * Edgar Franks - Familias Unidas por la Justicia
 * Pedro Espinoza
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
 * Imraan Siddiqi - Council on American-Islamic Relations Washington (CAIR-WA)
+* 💵Kristin Ang
 * Guillermo Zazueta - OneAmerica
 * 💵Carissa Larsen - Washington State Labor Council, AFL-CIO
 * Adam Eitmann - Washington State Attorney General's Office
 * Guillermo Cruz
 * Mark Bowers - [Columbia Legal Services](/org/columbia_legal_services/)
 * Mercedes Gonzalez
-* 💵Kristin Ang
 * Jeremiah Miller - Working WA
 * Commissioner Carolina Mejia
 
 #### 952 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
+* Eric Lundberg - Living Word Lutheran Church
 * Anna Burt
 * Laurie Layne
-* Eric Lundberg - Living Word Lutheran Church
 * Beth Milito - NFIB Small Business Legal Center
 * Bob Lycke - KR Inc.
 * Harry Truitt - Lighthouse Diving Center Inc
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
-* 💵James Crandall - AWB
 * 💵Rose Gundersen - WA Retail Association
+* 💵James Crandall - AWB
 
 #### 4 ❓ - Other
 Testifying:

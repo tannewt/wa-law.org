@@ -17,23 +17,23 @@
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1168 Artificial intelligence info
 #### 15 👍 - Pro
 Testifying:
-* Anish Sharma
 * Jai Jaisimha - Transparency Coalition.ai
+* Anish Sharma
 * Aidan Mehlberg
 * Andrea Won
 * Brady Ocain
 * Jinho (Jacob) Lee
 * Krishna Pratheek Madamala
+* Noah Williams - Lake Washington High School
 * Iyas Abdel Rahman
 * Muhammad Mahmood
-* Noah Williams - Lake Washington High School
 * 💵Paula Sardinas - WBBA
 
 #### 18 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TECHNET
 * 💵Crystal Leatherman
-* 💵Kelly Fukai - WATECH
+* 💵Kelly Fukai - Washington Technology Industry Association (WTIA)
 * 💵Rose Feliciano - TECHNET
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
@@ -45,8 +45,8 @@ Testifying:
 #### 26 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
-* Mihai-Alexandru Radu
 * Zachary McKay - Lake Washington High School
+* Mihai-Alexandru Radu
 * Nathan Guan
 
 #### 9 👎 - Con

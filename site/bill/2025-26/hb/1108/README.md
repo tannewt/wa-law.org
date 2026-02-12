@@ -53,6 +53,6 @@ Testifying:
 
 #### 11 ❓ - Other
 Testifying:
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Jeff Pack - Me
 * Lauren Bisplinghoff
-* 💵Erin Frasier - Washington State Building & Construction Trades Council

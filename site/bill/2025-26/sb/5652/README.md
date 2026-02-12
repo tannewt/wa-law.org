@@ -22,18 +22,18 @@ Testifying:
 * Karen Veloria
 * Rebecca Deming - [City of Des Moines](/org/city_of_des_moines/)
 * Marie Rule
+* Steve Edmiston
+* 💵Alexandra Johnson - Duwamish River Community Coalition
 * Jeff Harbaugh
 * Joe Vinson - City of SeaTac, Councilmember
 * Joe Dusenbury - Des Moines Airport Advisory Committee
 * Maria Batayola - Aviation Community Health Environment & Climate Advocates
-* Steve Edmiston
-* 💵Alexandra Johnson - Duwamish River Community Coalition
 
 #### 100 👎 - Con
 Testifying:
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * 💵Ken Short - AWB
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 
 #### 1 ❓ - Other
 
@@ -42,13 +42,13 @@ Testifying:
 Testifying:
 * Brian Davis
 * Sarah Moore
-* Senayet Negusse - City of SeaTac
-* Steve Edmiston - Quiet Skies Puget Sound
 * Anne Kroeker - 350 Seattle Member
-* Brian Davis - Burien Airport Community
-* Maria Batayola - SeaTac Airport Community Coalition for Justice
 * JC Harris - Sea-Tac Noise.Info
 * Traci Buxton - Mayor, City of Des Moines WA
+* Senayet Negusse - City of SeaTac
+* Steve Edmiston - Quiet Skies Puget Sound
+* Brian Davis - Burien Airport Community
+* Maria Batayola - SeaTac Airport Community Coalition for Justice
 
 #### 723 👎 - Con
 Testifying:

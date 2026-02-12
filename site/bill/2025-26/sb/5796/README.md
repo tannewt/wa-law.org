@@ -27,18 +27,10 @@
 ### Mon 03/31 04:00 PM - Ways & Means (WM): SB 5796 Payroll expense tax
 #### 5335 👍 - Pro
 Testifying:
-* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Alfred Higgins
 * 💵Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Jacob Vigdor - University of Washington Faculty/Council of Faculty
-* Guillermo Zazueta - OneAmerica
-* 💵Radu Smintina - School's Out Washington
-* Amy Couto
-* Nicole Casanova
-* Paul Carlson
-* Candace Williams
-* Cristóbal Borges
-* Therese Law
+* Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * Corey Rigney
 * 💵Eli Goss - Washington State Budget & Policy Center
 * 💵Nicole Kern - Planned Parenthool Alliance Advocates
@@ -51,13 +43,21 @@ Testifying:
 * Elena Rumiantseva
 * Jeff Minger
 * Molly Gallagher
+* Guillermo Zazueta - OneAmerica
+* 💵Radu Smintina - School's Out Washington
+* Amy Couto
+* Nicole Casanova
+* Paul Carlson
+* Candace Williams
+* Cristóbal Borges
+* Therese Law
 * Kathleen Swaney
 * Candace Williams
 * 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Paula Sardinas - FMS Global Strategies / WBBA
+* Monique Valenzuela - [Ventures](/org/ventures/)
 * Lisa Smith - Washington State Microenterprise Association
 * Chris Langeler
-* Monique Valenzuela - [Ventures](/org/ventures/)
 
 #### 8180 👎 - Con
 Testifying:
@@ -66,10 +66,14 @@ Testifying:
 * Anthony Mixer - Washington State Young Republicans
 * Corey Sherwood - Washington State Young Republicans
 * James Bardecker
-* 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* 💵Michele Willms - Associated General Contractors (AGC)
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Cheryl Ritzman
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Sean Graham - Washington State Medical Association
+* Gregor Doerr - Washington State Young Republicans
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Michele Willms - Associated General Contractors (AGC)
 * Lars Erickson
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
@@ -80,22 +84,18 @@ Testifying:
 * John Nutter - [Olympic Medical Center](/org/olympic_medical_center/)
 * Tamara Cesena - Skagit Regional Health
 * JACK VERMEULEN
-* Cheryl Ritzman
 * William Hole
-* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
-* 💵Sean Graham - Washington State Medical Association
 * TaraLyn Fray
-* Gregor Doerr - Washington State Young Republicans
 * Jimmy Ranson
 * Julie Dowell
-* Sharon Hanek
 * Indy Dehal
 * Janice WEBLEY Webley
+* Sharon Hanek
 * Rebecca Faust
 * Liza Simmonds
+* John Day
 * Liza Simmonds
 * KARL DYE - TRIDEC
-* John Day
 * Anthony Holan
 * Alicia Travis
 * Felix Serna - 471552065131

@@ -31,11 +31,11 @@ Testifying:
 * Mike Jackson - Clark-Cowlitz Fire Rescue
 * Rachel Grant - Thurston County Commissioner
 * Wendy Sisk - Peninsula Behavioral Health & WA Council for Behavioral Health
+* Chief Cole Langdon - Lynnwood Police Department
 * Richard Uri - [San Juan County](/org/san_juan_county/)
 * Caitlin Safford - Office of the Governor, Sr. Policy Advisor
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * Commissioner Mark Ozias - WSAC / Clallam County Commissioner
-* Chief Cole Langdon - Lynnwood Police Department
 * Dennis Neal - Northwest Resources II Inc
 * Bradley Banks - WA State Association of Counties & Behavioral Health Administrative Services Organizations
 * Steve O'Ban - Former State Senator

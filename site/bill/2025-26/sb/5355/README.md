@@ -28,9 +28,9 @@
 #### 103 👍 - Pro
 Testifying:
 * Naira Gonzales Aranda
-* 💵Collin Bannister - The Washington Student Association
 * Jacob Vigdor - University of Washington Faculty
 * Meredith Massey
+* 💵Collin Bannister - The Washington Student Association
 * Rachael Medalia
 
 #### 488 👎 - Con
@@ -49,9 +49,9 @@ Testifying:
 * Naira Gonzales
 * Morgan Whitt
 * Kaitlyn O’Connor
+* Sahana Ballabh
 * Meredith Massey
 * Zoie Mastin
-* Sahana Ballabh
 * Alexander Bejaran - SVLC
 * Melissa Beard - Council of Presidents
 * 💵Collin Bannister - The Washington Student Association
@@ -67,14 +67,14 @@ Testifying:
 Testifying:
 * 💵Collin Bannister - The Washington Student Association
 * Alice Zborovskiy - University of Washington Seattle ASUW Sexual Assault and Relationship Violence Activists
+* Kiana Swearingen - University of Washington Office of the Title IX Coordinator
+* 💵Nora Selander - Western Washington University / Council of Presidents
 * Emma Pedro - WWU Generation Action
 * Zoie Mastin
 * Naira Gonzales Aranda
-* Kiana Swearingen - University of Washington Office of the Title IX Coordinator
-* 💵Nora Selander - Western Washington University / Council of Presidents
 * 💵Christopher Rosenquist - Associated Students of Western Washington University
-* Jory Hamilton - Student at Bellevue College
 * Meredith Massey
+* Jory Hamilton - Student at Bellevue College
 * Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Isabella Stratton
 * Husneha Ghafoori

@@ -15,13 +15,13 @@
 ### Mon 02/03 01:30 PM - Education (ED): HB 1051 IEP team meetings/recording
 #### 237 👍 - Pro
 Testifying:
-* Stephanie Spencer
-* Melissa Spiker - Seattle Special Education PTSA, Vice President
 * Jana Parker - Parent, education advocate and president of Seattle Special Education PTSA
-* John Axtell
+* Melissa Spiker - Seattle Special Education PTSA, Vice President
+* Stephanie Spencer
 * JD Sumsky
-* Shelly Burt
+* John Axtell
 * ARZU FOROUGH - Washington Autism Alliance
+* Shelly Burt
 * June Nho Ivers - Seattle Council PTSA
 * Holly Muenchow - Washington State PTA
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)

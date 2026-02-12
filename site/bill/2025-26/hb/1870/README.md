@@ -13,8 +13,8 @@
 ### Mon 02/24 08:00 AM - Finance (FIN): HB 1870 Public health clinics/tax
 #### 19 👍 - Pro
 Testifying:
-* Joe McDermott - State Relations Director | King County
 * 💵Karen Estevenin - PROTEC17
+* Joe McDermott - State Relations Director | King County
 * Drew Nazarian - PROTEC17
 * Justin Gill - Washington State Nurses Association
 * Rashi Gupta - UW Medicine

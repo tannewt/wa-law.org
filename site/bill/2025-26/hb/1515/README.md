@@ -18,8 +18,8 @@
 ### Sat 04/05 12:00 PM - Ways & Means (WM): 2SHB 1515 Alcohol service in public
 #### 16 👍 - Pro
 Testifying:
-* Alex Scott
 * Samir Junejo - [City of Seattle](/org/city_of_seattle/)
+* Alex Scott
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 4 👎 - Con
@@ -29,10 +29,10 @@ Testifying:
 ### Tue 03/25 10:30 AM - Labor & Commerce (LC): 2SHB 1515 Alcohol service in public
 #### 17 👍 - Pro
 Testifying:
-* Marc Jones - Seattle Center
 * Zack Zappone - City of Spokane Council Member
-* Gloria Connors - SeaFWC26 Local Organizing Committee
+* Marc Jones - Seattle Center
 * Michael Hogan - [Port of Bellingham](/org/port_of_bellingham/)
+* Gloria Connors - SeaFWC26 Local Organizing Committee
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 5 👎 - Con
@@ -53,9 +53,9 @@ Testifying:
 Testifying:
 * Marshall Foster - Seattle Center
 * Gloria Connors - Bumbershoot and FIFA Fan Festival
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
-* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Mike Stewart - Ballard Alliance
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 

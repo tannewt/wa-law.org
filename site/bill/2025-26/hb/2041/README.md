@@ -16,8 +16,8 @@
 
 #### 313 👎 - Con
 Testifying:
-* Camie Goldhammer - Hummingbird Indigenous Family Services
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
+* Camie Goldhammer - Hummingbird Indigenous Family Services
 
 #### 0 ❓ - Other
 
@@ -27,9 +27,9 @@ Testifying:
 #### 189 👎 - Con
 Testifying:
 * Camie Goldhammer - N/A
+* Lee Che LEONG - Northwest Health Law Advocates (NoHLA)
 * Cindy Gamble - American Indian Health Commission
 * Dr. Judy Kimmelman - American College of Obstetricians and Gynecologists (ACOG)
-* Lee Che LEONG - Northwest Health Law Advocates (NoHLA)
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 
 #### 1 ❓ - Other

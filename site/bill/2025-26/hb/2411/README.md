@@ -8,6 +8,17 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/16 08:30 AM - State Government & Elections (SGE): SHB 2411 Shared leave
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Sheri Sawyer - Office of Financial Management
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2411 Shared leave
 #### 44 👍 - Pro
 Testifying:

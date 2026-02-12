@@ -26,10 +26,10 @@ Testifying:
 ### Tue 03/18 04:00 PM - Environment & Energy (ENVI): ESSB 5627 Safe excavation
 #### 60 👍 - Pro
 Testifying:
-* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 * Kemp Garcia - Dig Law Advocates / National Utility Contractors Association
 * Jon Cornelius - Dig Law Advocates
 * Nick Massie - Rotschy Inc
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 * 💵Jason Hudson - IBEW Local 77
 
 #### 0 👎 - Con
@@ -43,22 +43,22 @@ Testifying:
 ### Fri 02/14 10:30 AM - Environment, Energy & Technology (ENET): SB 5627 Safe excavation
 #### 90 👍 - Pro
 Testifying:
-* Don Evans - WA 811
 * Nick Massie - Clark County Utility Coordining Council, and Dig Safe Safety Committee Member, and Rotschy Inc,
-* Brent A Edd - Evergreen Concrete Cutting
-* Stephanie Hattenburg - M&L Construction Inc
+* Don Evans - WA 811
 * Chris Bossard - [Cascade Natural Gas](/org/cascade_natural_gas/)
 * Kemp Garcia
 * jon Cornelius - Dig Law Advocates
+* Brent A Edd - Evergreen Concrete Cutting
+* Stephanie Hattenburg - M&L Construction Inc
 * Matthew Wagner - Evergreen Concrete Cutting
 * 💵Jason Hudson - IBEW LU 77
 
 #### 12 👎 - Con
 Testifying:
-* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
-* 💵Kelsey Hulse - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Bill Clarke - WPUDA
 * 💵Josie Cummings - Avista
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
+* 💵Kelsey Hulse - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 9 ❓ - Other
 Testifying:

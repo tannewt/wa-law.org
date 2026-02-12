@@ -33,20 +33,20 @@ Testifying:
 ### Thu 01/23 08:30 AM - Education (ED): HB 1285 Financial education
 #### 134 👍 - Pro
 Testifying:
-* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
-* Benjamin Blackerby - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
-* Luke Novak - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
 * Tracy Godat - Financial Education Public Private Partnership
 * Ashwin Joshi - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
 * Ronan Maher
 * Amanda Sanborn
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* Benjamin Blackerby - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
+* Luke Novak - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
+* Jennifer Heine-Withee
+* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * 💵Matt Zuvich - Office of the State Treasurer
 * Conrad Krol - Westbank Financials
-* Jennifer Heine-Withee
 * Chris Bandoli - National Association of Insurance and Financial Advisors Washington
 * Hailey Allen - National Association of Insurance and Financial Advisors Washington
-* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
 #### 461 👎 - Con
 Testifying:

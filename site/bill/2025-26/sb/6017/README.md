@@ -16,11 +16,11 @@
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6017 Crime victims & witnesses
 #### 78 👍 - Pro
 Testifying:
+* Kate Garvey - King County Sexual Assault Resource Center
+* PAULA REED - Children's Advocacy Centers of WA
 * Abigail Echo-Hawk - Seattle Indian Health Board
 * Temryss Lane
 * Absa Samba - Washington Coalition to End Female Genital Mulation/Cutting
-* Kate Garvey - King County Sexual Assault Resource Center
-* PAULA REED - Children's Advocacy Centers of WA
 * Celeste Lucero - Seattle Indian Health Board
 
 #### 1 👎 - Con
@@ -31,13 +31,13 @@ Testifying:
 #### 123 👍 - Pro
 Testifying:
 * Abigail Echo-Hawk - Seattle Indian Health Board
-* Temryss Lane
 * Emi Koyama - Coalition for Rights & Safety
 * Celeste Lucero - Seattle Indian Health Board
 * Jocelyn Cooney - King County Prosecuting Attorney's Office
-* PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Temryss Lane
 * Gabriella Newman
 * Kate Garvey - King County Sexual Assault Resource Center
+* PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
 * Erica Ciganek
 * Absa Samba - Washington Coalition to End Female Genital Mulation/Cutting
 * Muna Osman - Holistic Famy care clinic

@@ -36,13 +36,9 @@ Testifying:
 * Lizzie Carp
 * Paula Lukaszek - Union member
 * Manousos Jacobsen - Democratic Socialists of America
+* Seth Boun - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Natalie Wellen - UAW 4121
 * Andre Stackhouse - Whole Washington
-* Seth Boun - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
-* Jeff DeBray - [Fuse Washington](/org/fuse_washington/)
-* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
-* Professor James Pfeiffer - UW Wa Physicians for Social Responsibility
-* Gina Green-Fabara
 * 💵Annie Kucklick - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Kristina Sawyckyj - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
@@ -55,11 +51,15 @@ Testifying:
 * 💵Edgar Espino - Washington Bus
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
-* Annie Fitzgerald
 * Hannah Lindell-Smith - [The Washington Bus](/org/the_washington_bus/)
 * Lac Tran - [The Washington Bus](/org/the_washington_bus/)
 * Odessa Paule - [The Washington Bus](/org/the_washington_bus/)
 * Treveon Parish - [The Washington Bus](/org/the_washington_bus/)
+* Jeff DeBray - [Fuse Washington](/org/fuse_washington/)
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Professor James Pfeiffer - UW Wa Physicians for Social Responsibility
+* Gina Green-Fabara
+* Annie Fitzgerald
 * Heather Bush
 * Chris Reykdal - Office of Superintendent of Public Instruction
 * Kathleen Richmire
@@ -78,37 +78,37 @@ Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Anna Burt
 * Jeff Pack - Washington Citizens Against Unfair Taxes
-* Carl Zylak
-* Kimberly pfau
 * Christian Bianes-Delrosario
 * STACIE DHONE
+* Carl Zylak
+* Kimberly pfau
+* 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Leah Kobes-Jurgens - Pioneer Family Medicine
 * Camron Wilson
-* 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Carol Crane
+* Nicole Maybury
+* 💵Michele Willms - Associated General Contractors of Washington (AGC)
+* 💵Amy Harris
 * Icarus Hall - Walter E Nelson
 * 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
 * Jonathan Bond
 * Paul Damico
 * 💵Amber Carter - Identity Clark County
-* Carol Crane
-* Nicole Maybury
-* 💵Michele Willms - Associated General Contractors of Washington (AGC)
-* 💵Amy Harris
-* kristine a zachary - BURNS TOWING , INC
-* Elizabeth New - Washington Policy Center
 * John Schuler - [Compass Oncology](/org/compass_oncology/)
 * Melissa Sandven
 * Jason Hunt
 * Allen Swaney
-* Tim Eyman - Initiative Activist
-* Len Mc Comb - WASHINGTON STATE HOSPITAL ASSOCIATION
-* Teagan Levine
-* Lisa Olson
+* kristine a zachary - BURNS TOWING , INC
+* Elizabeth New - Washington Policy Center
 * Joe Fain - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Joe Nguyen - Seattle Chamber of Commerce
 * Kris Johnson - Association of WA Business
 * 💵Rachel Smith - [Washington Roundtable](/org/washington_roundtable/)
 * 💵Amy Harris
+* Tim Eyman - Initiative Activist
+* Len Mc Comb - WASHINGTON STATE HOSPITAL ASSOCIATION
+* Teagan Levine
+* Lisa Olson
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 * Eric Pratt - America

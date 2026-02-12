@@ -16,20 +16,20 @@
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5332 Mobile dwellings
 #### 20 👍 - Pro
 Testifying:
-* Tim McCormick
-* Zachariah Giffin - Operation Tiny Home
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Kol Peterson
+* Tim McCormick
+* Zachariah Giffin - Operation Tiny Home
 * Todd McKellips - WA tiny house association
 
 #### 679 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * TaraLyn Fray
+* Kerri Burnside - Bellingham Tenants Union
 * Rosemarie Dorn
 * Rosemarie Dorn - concerned citizen
 * Rexine Bennett
-* Kerri Burnside - Bellingham Tenants Union
 * Michael Mactutis - City of Kent, Public Works Department
 
 #### 1 ❓ - Other
@@ -42,13 +42,13 @@ Testifying:
 * Kol Peterson - Tiny Hookups LLC
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Zachariah Giffin - Operation Tiny Home -  Non Profit
+* Gwyn Howat - Mt Baker Ski Area
 * Allison Arroyo
 * Jean Gamman
 * Tim McCormick
 * Lisa Tenney - HomeMindBody.con
-* Gwyn Howat - Mt Baker Ski Area
-* Mckellips Todd - Wa tiny house association
 * Michelle Boyle - Self
+* Mckellips Todd - Wa tiny house association
 * Alaska Wagoner
 * Lauren Grey
 * Robin Sahnow

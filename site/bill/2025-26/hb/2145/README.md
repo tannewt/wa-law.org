@@ -19,17 +19,14 @@
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 * Blair Rossow - CHAS Health
-* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Andy Nelson - Jefferson Healthcare
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Sumona Das Gupta - UW Medicine
 
 #### 587 👎 - Con
 Testifying:
 * Corbin Santo
 * 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
-* Primo Castro - Biotechnology Innovation Organization (BIO)
-* Primo Castro - Biotechnology Innovation Organization (BIO)
-* Kris Tefft - Washington Liability Reform Coaliton
 * 💵Brian Henderson - AbbVie
 * Dharia McGrew - Pharmaceutical Research and Manufacturers of America
 * 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -37,6 +34,9 @@ Testifying:
 * 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
 * 💵Lee Newgent - Pharmaceutical Industry Labor Management Association
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* Primo Castro - Biotechnology Innovation Organization (BIO)
+* Kris Tefft - Washington Liability Reform Coaliton
 * Kalvin Pugh - Community Access National Network
 
 #### 1 ❓ - Other
@@ -58,8 +58,8 @@ Testifying:
 
 #### 235 👎 - Con
 Testifying:
-* Primo Castro
 * Shawn Gremminger - National Alliance of Healthcare Purchaser Coalitions
+* Primo Castro
 * 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Corbin Santo - Johnson & Johnson Innovative Medicine
 * 💵Logan Dozier - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -69,10 +69,10 @@ Testifying:
 * Jennifer Kent - The Kent Group
 * 💵Lee Newgent - Pharmaceutical Industry-Labor Management Association
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
-* Jennifer Kent - The Kent Group
-* 💵Matthew Helder - GSK
 * Dharia McGrew - Pharmaceutical Research and Manufacturers of America
 * Kalvin Pugh - Community Access National Network
+* Jennifer Kent - The Kent Group
+* 💵Matthew Helder - GSK
 * 💵Anne Murray - Bristol Myers Squibb
 * Gabriel Prawl Sr - A. Philip Randolph Institute
 

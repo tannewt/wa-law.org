@@ -10,10 +10,10 @@
 ### Tue 02/04 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1582 Child care centers/buildings
 #### 73 👍 - Pro
 Testifying:
-* Maria Tobin - South Sound Military & Communities Partnership
 * Lisa Reaugh - Peninsula School District
 * Ken Rice - Pierce County Fire Prevention Bureau
 * Robyn Denson - Pierce County Council
+* Maria Tobin - South Sound Military & Communities Partnership
 * Kimberly Shaw - Key Peninsula Preschool
 * Tricia Bennon - [Pierce County](/org/pierce_county/)
 * Samantha Henderson

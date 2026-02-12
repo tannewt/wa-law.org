@@ -76,13 +76,13 @@ Testifying:
 * Lesly Avila
 * Liliana Chumpitasi - La Resistencia
 * 💵Paul Benz - Washington Partners for Social Change
-* Kristina Walker - Councilmember, City of Tacoma
 * 💵Jean Hill - Washington State Catholic Conference
 * Irvin Enriquez - [Latino Civic Alliance](/org/latino_civic_alliance/)
 * isela bonilla - Student Lobbyist
 * Ashley Ramirez - Student, LD 27th
 * 💵Michelle Carrillo - Student LD 13th
 * isela Bonilla
+* Kristina Walker - Councilmember, City of Tacoma
 
 #### 551 👎 - Con
 Testifying:
@@ -95,8 +95,8 @@ Testifying:
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1232 Private detention facilities
 #### 336 👍 - Pro
 Testifying:
-* 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Jean Hill - Washington State Catholic Conference
+* 💵Kristin Ang - Faith Action Network (FAN)
 * Kristina Walker - Councilmember, City of Tacoma
 
 #### 621 👎 - Con

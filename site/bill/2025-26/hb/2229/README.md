@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Labor & Commerce (LC): ESHB 2229 Professional engineers
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2229 Professional engineers
 #### 3 👍 - Pro
 Testifying:

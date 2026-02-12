@@ -37,10 +37,10 @@ Testifying:
 
 #### 35 ❓ - Other
 Testifying:
-* 💵Lynnette Buffington - Seattle Metropolitan Chamber of Commerce
 * Michael Cade - Thurston Economic Development Council (ADO for Thurston County)
 * Roni Holder-Diefenbach - Economic Alliance (ADO for Okanogan County)
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* 💵Lynnette Buffington - Seattle Metropolitan Chamber of Commerce
 
 ### Thu 02/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5677 Associate development orgs
 #### 60 👍 - Pro

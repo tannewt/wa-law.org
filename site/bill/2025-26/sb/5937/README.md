@@ -12,6 +12,15 @@
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=SB%205937)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Housing (HOUS): ESSB 5937 Smart access systems/tenants
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 10:30 AM - Housing (HSG): SB 5937 Smart access systems/tenants
 #### 86 👍 - Pro
 Testifying:

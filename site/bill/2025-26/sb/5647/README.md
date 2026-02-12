@@ -11,8 +11,8 @@
 ### Thu 02/13 04:00 PM - Ways & Means (WM): SB 5647 Affordable housing/REET
 #### 35 👍 - Pro
 Testifying:
-* Kathleen M Hosfeld - Homestead Community Land Trust | NWCLTC
 * Kathleen M Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
+* Kathleen M Hosfeld - Homestead Community Land Trust | NWCLTC
 * Amanda Lynn
 * Rebeca Potasnik - Thurston Housing Land Trust
 * JESSIE BAINES - Pierce County Community Land Trust

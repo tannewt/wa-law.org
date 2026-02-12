@@ -13,9 +13,9 @@
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2619 Agriculture regulations
 #### 431 👍 - Pro
 Testifying:
-* 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potato and Onion Assoc.
 * Dave Hedrick - Ferry Conservation District
 * Jay Gordon - Washington State Dairy Federation
+* 💵Mark Streuli - WA Cattlemen, WA Wheat Growers, WA Potato and Onion Assoc.
 
 #### 6 👎 - Con
 

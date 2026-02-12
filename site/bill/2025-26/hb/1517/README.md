@@ -26,12 +26,12 @@ Testifying:
 
 #### 745 👎 - Con
 Testifying:
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Jeff Gombosky - CTIA - The Wireless Association
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Vicki Christophersen - TechNet
 * Andrew O’Connor - The Entertainment Software Association
-* Jeffrey Pack - Washington Citizens Against Unfair Taxes
-* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 4 ❓ - Other
 Testifying:

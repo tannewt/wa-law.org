@@ -5,24 +5,24 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1916/</link>
 		<description>Updates about HB 1916</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 22:54:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
 			<title>👎Erica Engelhart - Brennan Center</title>
 			<description>Erica Engelhart signed up to testify Con.</description>
-			<pubDate>Fri, 07 Feb 2025 10:42:06 GMT</pubDate>
+			<pubDate>Fri, 07 Feb 2025 22:42:06 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Erica/Engelhart/2025-02-07 10:42:06</guid>
+			<guid isPermaLink="false">testifier/Erica/Engelhart/2025-02-07 22:42:06</guid>
 		</item>
 		<item>
 			<title>👎Bryan Elliott - Kittitas County Auditor</title>
 			<description>Bryan Elliott signed up to testify Con. They are signed up to represent Kittitas County Auditor.</description>
-			<pubDate>Sun, 09 Feb 2025 09:04:02 GMT</pubDate>
+			<pubDate>Sun, 09 Feb 2025 21:04:02 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Bryan/Elliott/2025-02-09 09:04:02</guid>
+			<guid isPermaLink="false">testifier/Bryan/Elliott/2025-02-09 21:04:02</guid>
 		</item>
 		<item>
 			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
@@ -168,6 +168,20 @@
 			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-10/Third reading, passed; yeas, 58; nays, 38; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>WA bill adds new hurdles for challenges to illegally registered voters | Washington | thecentersquare.com</title>
+			<description>News article "WA bill adds new hurdles for challenges to illegally registered voters | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 11 Feb 2026 12:13:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_b3406aae-2ba6-4ee6-95cd-67c8c6b9edfb.html#:~:text=House%20Bill%201916</guid>
+		</item>
+		<item>
+			<title>Tighter rules on voter registration challenges clear WA House • Washington State Standard</title>
+			<description>News article "Tighter rules on voter registration challenges clear WA House • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 11 Feb 2026 22:54:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/02/11/tighter-rules-on-voter-registration-challenges-clear-wa-house/#:~:text=House%20Bill%201916</guid>
 		</item>
 	</channel>
 </rss>

@@ -25,10 +25,10 @@
 		<item>
 			<title>👍Bridget Bush - WSMA</title>
 			<description>Bridget Bush signed up to testify Pro. They are signed up to represent WSMA.</description>
-			<pubDate>Wed, 14 Jan 2026 05:26:10 GMT</pubDate>
+			<pubDate>Wed, 14 Jan 2026 17:26:10 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Bridget/Bush/2026-01-14 05:26:10</guid>
+			<guid isPermaLink="false">testifier/Bridget/Bush/2026-01-14 17:26:10</guid>
 		</item>
 		<item>
 			<title>👍Robert Hsiung - WSMA</title>
@@ -41,26 +41,18 @@
 		<item>
 			<title>👎Shannon Fitzgerald - ARNPs United</title>
 			<description>Shannon Fitzgerald signed up to testify Con. They are signed up to represent ARNPs United.</description>
-			<pubDate>Sun, 18 Jan 2026 08:09:56 GMT</pubDate>
+			<pubDate>Sun, 18 Jan 2026 20:09:56 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Shannon/Fitzgerald/2026-01-18 08:09:56</guid>
+			<guid isPermaLink="false">testifier/Shannon/Fitzgerald/2026-01-18 20:09:56</guid>
 		</item>
 		<item>
 			<title>👎Kristine Highlander - Association of Advanced Practice Psychiatric Nurses (AAPPN)</title>
 			<description>Kristine Highlander signed up to testify Con. They are signed up to represent Association of Advanced Practice Psychiatric Nurses (AAPPN).</description>
-			<pubDate>Sun, 18 Jan 2026 10:32:49 GMT</pubDate>
+			<pubDate>Sun, 18 Jan 2026 22:32:49 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Kristine/Highlander/2026-01-18 10:32:49</guid>
-		</item>
-		<item>
-			<title>👎Justin Gill - Washington State Nurses Association (WSNA)</title>
-			<description>Justin Gill signed up to testify Con. They are signed up to represent Washington State Nurses Association (WSNA).</description>
-			<pubDate>Mon, 19 Jan 2026 09:40:05 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Justin/Gill/2026-01-19 09:40:05</guid>
+			<guid isPermaLink="false">testifier/Kristine/Highlander/2026-01-18 22:32:49</guid>
 		</item>
 		<item>
 			<title>👍Rex Johnson - Washington Advocates for Patient Safety</title>
@@ -79,12 +71,20 @@
 			<guid isPermaLink="false">testifier/Amy/Brackenbury/2026-01-19 12:56:20</guid>
 		</item>
 		<item>
-			<title>👎Jonathan Medverd - Washington State Radiological Society</title>
-			<description>Jonathan Medverd signed up to testify Con. They are signed up to represent Washington State Radiological Society.</description>
-			<pubDate>Tue, 20 Jan 2026 08:32:26 GMT</pubDate>
+			<title>👎Justin Gill - Washington State Nurses Association (WSNA)</title>
+			<description>Justin Gill signed up to testify Con. They are signed up to represent Washington State Nurses Association (WSNA).</description>
+			<pubDate>Mon, 19 Jan 2026 21:40:05 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jonathan/Medverd/2026-01-20 08:32:26</guid>
+			<guid isPermaLink="false">testifier/Justin/Gill/2026-01-19 21:40:05</guid>
+		</item>
+		<item>
+			<title>👎Jonathan Medverd - Washington State Radiological Society</title>
+			<description>Jonathan Medverd signed up to testify Con. They are signed up to represent Washington State Radiological Society.</description>
+			<pubDate>Tue, 20 Jan 2026 20:32:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jonathan/Medverd/2026-01-20 20:32:26</guid>
 		</item>
 		<item>
 			<title>👍Stephanie Cramer - Washington academy of eye physicians and surgeons</title>

@@ -15,16 +15,16 @@ Testifying:
 
 #### 68 👎 - Con
 Testifying:
+* Brandon Park - DLH RANCH
+* Bill Wagenseller - Washington Bud Company
+* Shawn DeNae Wagenseller - Washington Bud Company
 * Sara Eltinge - The Herbery
 * Bethany Rondeaux - Falcanna
 * Jana House - Evergreen Market
 * 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Shea Hynes - Lux Pot Shop
-* Brandon Park - DLH RANCH
 * Justin Rondeaux - BC Labs
-* Bill Wagenseller - Washington Bud Company
-* Shawn DeNae Wagenseller - Washington Bud Company
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
 * zyon manning

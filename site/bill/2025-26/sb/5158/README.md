@@ -10,8 +10,8 @@
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5158 Student athlete insurance
 #### 9 👍 - Pro
 Testifying:
-* Chris Mulick - Washington State University
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
+* Chris Mulick - Washington State University
 
 #### 496 👎 - Con
 Testifying:

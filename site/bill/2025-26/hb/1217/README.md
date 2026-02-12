@@ -119,22 +119,22 @@
 #### 4793 👍 - Pro
 Testifying:
 * Talauna Reed - Tenants Union of WA State
-* Leigh Christianson - Oly Rollers Home Owners
 * Morag Logan
 * Morag Logan
 * Morag Logan
 * Jonathan Vesikuru - CJA
+* Leigh Christianson - Oly Rollers Home Owners
 * Kyle Lucas - Chair, Tenants United at Western Plaza Mobile Home Park & Urban Indians Northwest
 * anthony Ives - Kitsap Community Resources
 * Charity Grice
 * Dylan Bianchi
-* John Alder - Scar/
 * Terri Anderson - Tenants Union of Washington State
 * Jennyfer Mesa - Latinos En Spokane
+* Caroline Hardy - Secretary AMHO and Leisure Manor Tenants Association
+* John Alder - Scar/
 * 💵Bryce Yadon - Futurewise and Habitat for Humanity Seattle, King and Kittitas County
 * Roger Jones - Holiday Properties and Columbia East Investments
 * Talauna Reed - Tenants Union of Washington State
-* Caroline Hardy - Secretary AMHO and Leisure Manor Tenants Association
 * John Nolan
 * Kelley Rinehart
 * Sara Eubank
@@ -142,10 +142,10 @@ Testifying:
 * Brandon Garcia
 * 💵Sarah Cherin - UFCW 3000
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
-* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * Luis Manriquez
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Jessica Silver
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * Ashley Gaffney
 * Abigail Staten - N/a
 * Christine Johnston
@@ -154,16 +154,16 @@ Testifying:
 #### 3657 👎 - Con
 Testifying:
 * Greg Lovern
+* Robin Rask
+* Gordon Haggerty
 * Bruce Becker - Bruce Becker
 * Spencer Boudreau - DHI Properties
 * Jay Parker
-* Robin Rask
-* Gordon Haggerty
 * Gordon Haggerty
 * DAVID NAGEL
 * Noah Meehan
-* Noah Meehan - Washington State Young Republicans
 * CONSTANCE NELSON
+* Noah Meehan - Washington State Young Republicans
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Elaine Armstrong - CCRA Clark county rental association
 * carl haglund - big rooster investments llc
@@ -173,6 +173,9 @@ Testifying:
 * Jacob Bond - Collective Communities
 * LaDon Linde - Yakima County Commissioner
 * Paul Morton
+* Angela Rozmyn - Natural & Built Environments
+* Jared Nieuwenhuis
+* TaraLyn Fray
 * 💵Brett Waller - Washington Multi-Family Housing Association
 * Emily Thompson - GMD Development
 * Morgan Shook - Partnership for Affordable Housing
@@ -187,17 +190,14 @@ Testifying:
 * 💵Nick Streuli - REaltors
 * DENISE Helms - Loren Place Association
 * Steve Yoon - Mill Creek Residential Trust
-* Angela Rozmyn - Natural & Built Environments
-* Jared Nieuwenhuis
-* TaraLyn Fray
 * Julie Dowell
 * David Dowell
-* Carl Shorett
-* David Pitkin - YDPages Inc.
-* MariLyn Yim - 36th LD Dems PCO & PROTEC17 union member
 * carl haglund - columbia modern living, big rooster investments llc
 * Sandra Mochizuki
 * Mike Morris
+* Carl Shorett
+* David Pitkin - YDPages Inc.
+* MariLyn Yim - 36th LD Dems PCO & PROTEC17 union member
 * JIN YANG
 * OSHO BERMAN
 * Annie White
@@ -215,17 +215,20 @@ Testifying:
 #### 5253 👍 - Pro
 Testifying:
 * Makayla Pugmire
-* Kyle Matheson - Self advocate
 * 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 * 💵Paula Sardinas - Washington Build Back Black Alliance (WBBA)
+* Kyle Matheson - Self advocate
 * Charity Grice
-* Stacey Valenzuela - Manufactured Homeowner
 * Kerri Burnside - Bellingham Tenants Union
+* Stacey Valenzuela - Manufactured Homeowner
 * Virginia Berry
-* Caitlin Sullivan
-* Shirley Messick
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Carolyn Stetson
+* Caitlin Sullivan
+* Shirley Messick
+* Deborah Wilson
+* Caroline Hardy - Secretary AMHO and Leisure Manor Tenants Association
+* Kendra Rachal
 * Jose Ramirez - Familias Unidas por la Justicia
 * Octavia Santiago Martinez - Familias Unidas por la Justicia
 * Tomas Ramon Vasquez - Familias Unidas por la Justicia
@@ -239,19 +242,16 @@ Testifying:
 * Kerri Burnside - Bellingham Tenants Union
 * Madeline Foutch - SEIU 775
 * 💵Sarah Cherin - UFCW 3000
-* Deborah Wilson
-* Caroline Hardy - Secretary AMHO and Leisure Manor Tenants Association
-* Kendra Rachal
+* William Dean - Retired
+* Vanessa Kritzer - Redmond City Council President
+* Jennifer Johnson
+* Lauren Moffat
 * Ellen torres
 * Marcos Munoz
 * Claudia Barrera Vasquez
 * Linda Burt - Laurel Park Manufactured Home Community
 * Leigh Christianson - Oly Rollers Mobile Home Resident Association
 * Deb Swope
-* William Dean - Retired
-* Vanessa Kritzer - Redmond City Council President
-* Jennifer Johnson
-* Lauren Moffat
 * Kimberly Marquette - Gideonglassart
 * Kimberly Marquette - Gideonglassart
 * Daryl Lawrence
@@ -265,14 +265,17 @@ Testifying:
 
 #### 4143 👎 - Con
 Testifying:
+* Errin Reynolds - [Washington Landlord Association](/org/washington_landlord_association/)
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
 * Gordon Haggerty
 * Errin Reynolds - [Washington Landlord Association](/org/washington_landlord_association/)
-* Errin Reynolds - [Washington Landlord Association](/org/washington_landlord_association/)
 * Greg Christiansen
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Steve Horvath
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Janelle Costanti
+* Shep Salusky
 * Mike Morris
 * Ken Tousley - Hamilton Urban Partners
 * Christopher Tanaka
@@ -280,46 +283,49 @@ Testifying:
 * Janelle Costanti
 * Mike Kuhlman - Kuhlman Properties
 * Constance Nelson
-* Jeff Pack - Washington Citizens Against Unfair Taxes
-* Janelle Costanti
 * Tad Sommerville
-* Shep Salusky
+* Michael Gustavson - Kitsap. Alliance of Property Owners
+* Brian Hansen
+* Kristi Tripple - Rowley Properties, Inc.
 * Benine McDonnell
 * Mike Nykreim - Newport West LLC
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Anne Knapp
 * David Juhasz
 * Russell Millard - Park Preservations
-* Michael Gustavson - Kitsap. Alliance of Property Owners
-* Brian Hansen
-* Kristi Tripple - Rowley Properties, Inc.
-* DAVID NAGEL
 * Hailey Irvine
 * Laurie Layne
 * LaDon Linde - Yakima County Commissioner
+* DAVID NAGEL
 * Jay Parker
 * Michael Urquhart
 * Patrick Gilroy - Washington Self Storage Association
 * Lilly Zheng
-* Hongmin Couturier
-* Christa Connelly - West Prairie Village MHP
-* Dan Piantanida - GP Realty Finance
-* Monica Grant
-* Jacob Bond - Collective Communities
 * Dakota Manley - Washington State Young Republicans
 * JIN YANG
-* Cory Brewer - WPM NW Inc.
-* Yoel Kelman - Three Pillar Communities
-* Arden Olson
-* Benedict Tesoro
-* Elsine Armstrong - CCRA
-* Wesley Larson - Sound West Group
 * Martha Schaefer
 * Christopher Gurdjian
 * Rick Glenn - President, Yakima Valley Landlords' Association
 * Jake Hanby
 * Tristen Mikelson
 * TaraLyn Fray
+* Hongmin Couturier
+* Christa Connelly - West Prairie Village MHP
+* Dan Piantanida - GP Realty Finance
+* Monica Grant
+* Jacob Bond - Collective Communities
+* Cory Brewer - WPM NW Inc.
+* Yoel Kelman - Three Pillar Communities
+* Arden Olson
+* Benedict Tesoro
+* Elsine Armstrong - CCRA
+* Wesley Larson - Sound West Group
+* Emilia Furmanczyk
+* Mike Nykreim
+* Susan Watkins
+* Emily Cain
+* Mischa Heide
+* Trina Homan
 * John Shanstrom
 * Jeff Brookes
 * Sean McNealley
@@ -331,15 +337,9 @@ Testifying:
 * Cathy Fox
 * Sandra Mochizuki
 * James Helms
-* Emilia Furmanczyk
-* Mike Nykreim
 * Tim Eyman - Initiative Activist
 * Ben Assa
 * Dakota Manley - Washington State Young Republicans
-* Susan Watkins
-* Emily Cain
-* Mischa Heide
-* Trina Homan
 * Chris Rossman - NAIOP WA State
 * Emily Thompson - GMD Development LLC
 * Morgan Shook - ECOnorthwest
@@ -371,11 +371,9 @@ Testifying:
 ### Mon 02/03 04:00 PM - Appropriations (APP): SHB 1217 Residential tenants
 #### 3607 👍 - Pro
 Testifying:
-* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Vanessa Kritzer - Redmond City Council President
 * Sunshine MARIE Lopez - Sunshine Lopez
 * Samantha Luna-Patterson
-* Terri Anderson - Tenants Union of Washington State
 * Holly Wetzel - Associated Students of UW Tacoma (ASUWT) President
 * Rae Watkins - UW Tacoma Student
 * Regen Langholz - UW Tacoma Student
@@ -390,19 +388,17 @@ Testifying:
 #### 440 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
-* Winnie Fung
 * Constance Nelson
 * Tim Eyman - INITIATIVE ACTIVIST
+* Winnie Fung
+* Kari Koszdin - Self employed
 * Laurie Layne
 * Bruce Becker - Bruce Becker
-* Kari Koszdin - Self employed
+* Christina Mays
 * Dan Piantanida - GP Realty Finance
 * Mischa Heide - Rain Commercial Real Estate Advisors
 * Troy Peterson
-* Christina Mays
-* Patricia Hoendermis
 * Tad Sommerville
-* 💵Kevin Schilling - Mayor of Burien
 * Sam Spiegelman - Citizen Action Defense Fund
 * 💵Andrea Smiley - Building Industry Association of Washington (BIAW)
 * 💵Morgan Irwin - Association of Washington Business (AWB)
@@ -412,6 +408,8 @@ Testifying:
 * Troy Peterson
 * Troy Peterson
 * DOUG STEINBERG
+* Patricia Hoendermis
+* 💵Kevin Schilling - Mayor of Burien
 
 #### 16 ❓ - Other
 Testifying:
@@ -425,6 +423,11 @@ Testifying:
 * 💵Paula Sardinas - FMSGS?WBBA
 * Stacey Valenzuela - Manufactured Homeowner, Member AMHO
 * Denver Mickali
+* Brenda DEEDS
+* Mary margaret Larman - Hunters Walk Community
+* William Booth
+* Kyle Taylor Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
+* Aliene Olsen - Tenants United at Western Plaza Mobile Home Park, Steering Cmt.
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * Pamela Hurst
 * George Hurst
@@ -433,11 +436,10 @@ Testifying:
 * Steven Morehead
 * Sara Eubank - Silverdale Estates 55+ Mobile Home Community
 * Terri Tollie
-* Brenda DEEDS
-* Mary margaret Larman - Hunters Walk Community
-* William Booth
-* Kyle Taylor Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
-* Aliene Olsen - Tenants United at Western Plaza Mobile Home Park, Steering Cmt.
+* LISA STRIEDINGER-HUBBARD - Friends without homes
+* Terri Anderson - Tenants Union of Washington State
+* Janice Baxter
+* Marsha Daniel
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
@@ -449,10 +451,12 @@ Testifying:
 * Scott Nygaard
 * Marilyn Anderson
 * 💵Nancy Sapiro - Puget Sound Advocates for Retirement Action (PSARA)
-* LISA STRIEDINGER-HUBBARD - Friends without homes
-* Terri Anderson - Tenants Union of Washington State
-* Janice Baxter
-* Marsha Daniel
+* Richard sims
+* SANDRA Sims
+* Joseph Price
+* Victoria Loveland
+* Calvin Rabiroff
+* Meredith Slota
 * Karalyn Gibbs
 * William McQuaid
 * 💵Paul Benz - Quaker Voice
@@ -475,13 +479,7 @@ Testifying:
 * Monica Zazueta
 * Robin Zorich
 * Tom Crawford
-* Joseph Price
-* Victoria Loveland
-* Calvin Rabiroff
 * Caroline Hardy
-* Richard sims
-* SANDRA Sims
-* Meredith Slota
 * Glenn Harper - The Elderhood Senior Alliance
 * Robert Brandenburg
 * Mary Vent - POWER (Parents Organizing for Welfare and Economic Rights)
@@ -500,6 +498,28 @@ Testifying:
 * McKenzie Darr - NAIOPWA
 * Eduard Prokhor
 * Jeff Pack - Me
+* Emily Sfeir
+* Jennifer Lekisch
+* Kevin Wallace
+* AURANGZEB AKBAR
+* Michael Morris
+* Roger Campbell
+* Tim Eyman - Initiative activist
+* Greg Christiansen
+* Greg Christiansen
+* Bruce Becker
+* Kristi Tripple - Rowley Properties, Inc.
+* Errin Reynolds - 81-0966505
+* Angela Blevens - WASHINGTON LANDLORD ASSOCIATION
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Shep Salusky
+* Tammie Freeman
+* Tim Steele
+* Tamaraja DeGross
+* Patrick McDonald
+* Grace Obuse
+* Michael Hawkins
+* PETER NELSON - Full Service Property Management
 * Laurie Layne
 * Peter Than - Constellation Management
 * Rick Glenn - President, Yakima Valley Landlords' Association
@@ -512,7 +532,6 @@ Testifying:
 * Levi black
 * Max Stackpole
 * Curtis Garner
-* Jennifer Lekisch
 * Steven Randock
 * Judy Commissaris
 * 💵Andrea Smiley - Building Industry Association of Washington (BIAW)
@@ -525,38 +544,11 @@ Testifying:
 * Maria Gogue
 * Pete Meyers
 * Timothy Glassett
-* Kevin Wallace
-* AURANGZEB AKBAR
 * Elaine Armstrong - CCRA
 * Kelvin Barton
-* Michael Morris
-* Roger Campbell
 * Tom Dipola
-* Tim Eyman - Initiative activist
-* Greg Christiansen
-* Greg Christiansen
-* Bruce Becker
-* Kristi Tripple - Rowley Properties, Inc.
 * Jarrett Labate
-* Errin Reynolds - 81-0966505
-* Angela Blevens - WASHINGTON LANDLORD ASSOCIATION
-* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * Ben Phares
-* Shep Salusky
-* Tammie Freeman
-* Tim Steele
-* Tamaraja DeGross
-* Emily Sfeir
-* Patrick McDonald
-* Grace Obuse
-* Michael Hawkins
-* PETER NELSON - Full Service Property Management
-* Autumn Meadows
-* Merry Field
-* Troy Peterson
-* Jennifer Zehrung - 17024 32nd Ave East
-* Brad Augustine
-* Dianna Ball - 604 whitecap dr nw
 * Jayne Ranae
 * Nam Nguyen
 * David Albers
@@ -567,27 +559,34 @@ Testifying:
 * Joe Levin
 * Todd Monohon - President of South West Washington Chapter, National Association of Residential Property Managers
 * John Templetton
-* John Stiggelbout - Olyopa LLC
-* Frantz Germain
-* Cheryl Jennett
-* Morgan Shook - ECOnorthwest
+* Autumn Meadows
+* Merry Field
+* Troy Peterson
+* Jennifer Zehrung - 17024 32nd Ave East
+* Brad Augustine
+* Dianna Ball - 604 whitecap dr nw
 * Jennifer Lekisch
-* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
-* Sherilyn Olson
 * Clara Ling
 * John Huang
-* MICHAEL YOUNG
 * Keaton Forrest
 * Leslie Boeshart
-* Stephanie Erickson
 * Chi Walsh
 * Anne Knapp
-* Gaylerd Masters
 * MARILYN HUNT
 * Sharon Hsieh
 * Marlow Harris
 * John Wisdom
 * Lizabeth Lyles - - None -
+* John Stiggelbout - Olyopa LLC
+* Frantz Germain
+* Cheryl Jennett
+* Morgan Shook - ECOnorthwest
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Sherilyn Olson
+* MICHAEL YOUNG
+* Stephanie Erickson
+* Gaylerd Masters
+* Russ Millard - PREFERRED PROPERTIES
 * Yoel Kelman - Three Pillar Communities
 * DAN TRACY
 * Paula Cottingham
@@ -614,10 +613,9 @@ Testifying:
 * Mohammad Aminpour - Edgewood Apartments
 * Tad Sommerville
 * Gordon Haggerty
-* Russ Millard - PREFERRED PROPERTIES
 
 #### 53 ❓ - Other
 Testifying:
 * Ben Assa
-* Morgan Capps
 * Cathy Gerhart
+* Morgan Capps

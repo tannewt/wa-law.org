@@ -12,8 +12,8 @@
 #### 160 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Charlie Brown - South Sound Superintendents
 * John Axtell
+* Charlie Brown - South Sound Superintendents
 
 #### 54 👎 - Con
 Testifying:

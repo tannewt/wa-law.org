@@ -13,17 +13,17 @@
 ### Tue 01/21 01:30 PM - Health Care & Wellness (HCW): HB 1062 Biomarker testing coverage
 #### 77 👍 - Pro
 Testifying:
-* Ashlan Chang - Lake Washington High School
-* Risa Wada - Lake Washington High School
 * Katherine Davis - Lake Washington High School
 * Yael Alpert - Lake Washington High School
+* Ashlan Chang - Lake Washington High School
+* Risa Wada - Lake Washington High School
 * Daniel Lin - Washington State Urology Society
+* 💵Brad Forbes - Alzheimer's Association
+* Stephen King - Washington State Urology Society
 * Katie Kolan - Washington State Medical Oncology Society (WSMOS)
 * 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Carrie Nyssen - American Lung Association in Washington
-* 💵Brad Forbes - Alzheimer's Association
-* Stephen King - Washington State Urology Society
 
 #### 30 👎 - Con
 

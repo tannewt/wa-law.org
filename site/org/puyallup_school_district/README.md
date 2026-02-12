@@ -18,7 +18,6 @@
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍2  
-* 👍 Jr, John Polm
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
 

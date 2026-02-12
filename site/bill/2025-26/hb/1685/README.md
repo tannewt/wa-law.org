@@ -24,20 +24,20 @@ Testifying:
 #### 1011 👎 - Con
 Testifying:
 * Kyle Perry
-* Scott Walker
-* Kelsey Ross - Conservation Coalition of Washington
+* Gary MCGREW
 * Ryan Garrett
 * Wesley Johnson
 * Jack Burnham
 * Aaron Smith
 * Dane Czarnecki - --select an item--
+* Scott Walker
+* Kelsey Ross - Conservation Coalition of Washington
 * Cody Coleman
-* Gary MCGREW
+* RON GARNER - Puget Sound Anglers State Board
 * Bruce Vandervort - Washington State Trappers Association
 * Rachel Haymon
 * Cory maxwell
 * Sheila Christy
-* RON GARNER - Puget Sound Anglers State Board
 * TaraLyn Fray
 * Nello Picinich - CCA Washington
 * Anthony Holan
@@ -45,6 +45,7 @@ Testifying:
 #### 46 ❓ - Other
 Testifying:
 * Daniel Wilson - Washington Chapter- Backcountry Hunters & Anglers
+* Jen Syrowitz - [Conservation Northwest](/org/conservation_northwest/)
 * Ronald Reed - Retired
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
 * Ann Prezyna - self
@@ -52,4 +53,3 @@ Testifying:
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 * Lisa Wilson - Lummi Nation Councilmember
 * Heather Nicholson
-* Jen Syrowitz - [Conservation Northwest](/org/conservation_northwest/)

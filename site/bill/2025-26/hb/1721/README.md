@@ -36,14 +36,14 @@ Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Jeffrey Perry - General Motors
 * Nicolina Hernandez - Toyota Motor North America
+* Alyssa Silhi - Ford Motor Company
+* Craig Orlan
+* Matt Erwin - Mazda North American Operations
 * Jen Moran - Carter Motors; Washington State Auto Dealers Association
 * Matthew Phillips - Car Pros Automotive Group; Washington State Auto Dealers Association
 * Susan Daaga - Washington State Auto Dealers Association
 * Jaclyn Midkiff - Harvest Auto Group; Washington State Auto Dealers Association
 * Joel Olsen - CDJR of Walla Walla; Washington State Auto Dealers Association
-* Alyssa Silhi - Ford Motor Company
-* Craig Orlan
-* Matt Erwin - Mazda North American Operations
 * Stephen Kosowski - Kia America
 * TaraLyn Fray
 * TaraLyn Fray

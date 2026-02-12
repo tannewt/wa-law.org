@@ -48,8 +48,8 @@ Testifying:
 #### 95 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
-* 💵Jessica Spiegel - Jessica Spiegel
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Jessica Spiegel - Jessica Spiegel
 
 #### 132 👎 - Con
 

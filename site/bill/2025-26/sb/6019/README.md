@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6019 Home care rates
 #### 46 👍 - Pro
 Testifying:
+* Peter Nazzal - Catholic Communit Services
 * Imelda Salinas-Gomez
 * 💵Brad Banks - Home Care Coalition
 * Demas Nesterenko - SEIU775
-* Peter Nazzal - Catholic Communit Services
 
 #### 57 👎 - Con
 

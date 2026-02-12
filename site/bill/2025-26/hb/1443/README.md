@@ -28,8 +28,8 @@ Testifying:
 
 #### 654 👎 - Con
 Testifying:
-* Kristen Holdsworth - Kent Long Range Planning Manager
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kristen Holdsworth - Kent Long Range Planning Manager
 
 #### 0 ❓ - Other
 
@@ -50,10 +50,10 @@ Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Tim McCormick
 * Marilee Fuller
-* Zachariah Giffin - Operation Tiny Home
-* Todd McKellips - Washington Tiny House Association
 * Todd McKellips - Washington Tiny House Association
 * Joe Wykowski - Community Vision
+* Zachariah Giffin - Operation Tiny Home
+* Todd McKellips - Washington Tiny House Association
 * Frank O'Neill
 * Gwyn Howat - Mt. Baker Ski Area
 * Jessica Graf

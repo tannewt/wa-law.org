@@ -31,10 +31,10 @@ Testifying:
 
 #### 6 👎 - Con
 Testifying:
-* Jeff Gombosky - CTIA - The Wireless Association
 * Amy Bos - NetChoice
 * Dustin Brighton - Repair Done Right Coalition
 * David McGarry - Taxpayers Protection Alliance
+* Jeff Gombosky - CTIA - The Wireless Association
 
 #### 3 ❓ - Other
 Testifying:

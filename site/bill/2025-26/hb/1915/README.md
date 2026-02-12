@@ -14,17 +14,17 @@ Testifying:
 
 #### 513 👎 - Con
 Testifying:
-* GORDON HAGGERTY
-* Mack Mayo
-* Jake Nellis
 * William Pierce
 * William Pierce
 * Jesse Long
 * JULIE BROWN - http://www.personalpropertymgmt.com
+* GORDON HAGGERTY
+* Mack Mayo
+* Jake Nellis
 * Stan Markuson
-* Echo Lin
 * Gary Dukelow
 * Scott Lembke - RAIN PROPERTIES LLKC
+* Echo Lin
 * Jianqiao Huang
 * Rick Baxter
 * Tad Sommerville

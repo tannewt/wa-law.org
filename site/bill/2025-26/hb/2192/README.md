@@ -15,11 +15,11 @@ Testifying:
 * Shelly Baldwin - Washington Traffic Safety Commission
 * David Jones - wtsc  cooper jones atsc
 
-#### 55 👎 - Con
+#### 54 👎 - Con
 Testifying:
-* Andrew Ulmer - Washington State Association for Justice
 * Lisa Hoffman
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Rowland Thompson - Allied Daily Newspaper
+* Andrew Ulmer - Washington State Association for Justice

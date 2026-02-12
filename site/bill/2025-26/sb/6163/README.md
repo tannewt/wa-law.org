@@ -10,9 +10,9 @@
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 6163 DD services waiver/budget
 #### 83 👍 - Pro
 Testifying:
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Tanya English - PEACE NW
 * Michelle O'Dell - Thurston Mason DD Coalition
-* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Darla Helt
 
 #### 0 👎 - Con

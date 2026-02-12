@@ -14,11 +14,11 @@
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 5940 Foster care housing pilot
 #### 295 👍 - Pro
 Testifying:
+* Gisella Gonzales - Team children
 * Corrina Chatterton - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Courtney Hageman - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Dr. Emiko Tajima - University of Washington Partners for Our Children
-* Gisella Gonzales - Team children
 
 #### 65 👎 - Con
 

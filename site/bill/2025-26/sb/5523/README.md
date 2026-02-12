@@ -28,10 +28,10 @@ Testifying:
 * Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 * Daniel Ngoy - Bellevue College
 * Kellen Hoard - Youth on Boards
-* Sky Dowling - Associated Students of Green River College
 * Randy Phillips - Associated Students of Tacoma Community College
 * Tahmina Juraeva - 2013-2014 Bellevue College Student Trustee
 * Yana Chubarov - 2023-2024 Bellevue College Student Trustee
+* Sky Dowling - Associated Students of Green River College
 
 #### 2 👎 - Con
 

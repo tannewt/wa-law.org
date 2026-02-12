@@ -12,9 +12,9 @@
 #### 102 👍 - Pro
 Testifying:
 * 💵Jane Wall - County Road Administration Board
-* Rob Coffman - Lincoln County Commissioner; CRAB Board Chair
 * 💵Axel Swanson - Washington State Association of County Engineers
 * Doug McCormick - Snohomish County Public Works, County Road Administration Board, WA. St. Assoc. County Engineers
+* Rob Coffman - Lincoln County Commissioner; CRAB Board Chair
 * 💵Michael Moran - 1. Chehalis Tribe 2. Coville Tribes
 * Loni Simone
 

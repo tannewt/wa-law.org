@@ -37,9 +37,9 @@ Testifying:
 Testifying:
 * Ken Rice - Pierce County Fire Prevention Bureau
 * KIMBERLY SHAW - Key Peninsula Preschool
+* Tricia Bennon - [Pierce County](/org/pierce_county/)
 * Maria Tobin - South Sound Military and Communities Partnership
 * Kate Landon
-* Tricia Bennon - [Pierce County](/org/pierce_county/)
 * Christine Luna - Key peninsula preschool
 
 #### 4 👎 - Con

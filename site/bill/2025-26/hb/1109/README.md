@@ -11,11 +11,11 @@
 #### 56 👍 - Pro
 Testifying:
 * Betty Erickson - Public Facilities District State Chair
+* Russ Shiplet - Kitsap Public Facilities District
 * Adam Cook - Tacoma PFD
 * Janet Pope - [Lynnwood Public Facilities District](/org/lynnwood_public_facilities_district/)
 * Russ Shiplet - Kitsap County PFD
 * Jim Hedrick - Association of Washigton State Public Facility Districts (AWSPFDs)
-* Russ Shiplet - Kitsap Public Facilities District
 
 #### 3 👎 - Con
 

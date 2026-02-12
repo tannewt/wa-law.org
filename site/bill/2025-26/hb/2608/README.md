@@ -10,9 +10,9 @@
 ### Tue 01/27 08:00 AM - Finance (FIN): HB 2608 Nuclear facilities/tax pref.
 #### 108 👍 - Pro
 Testifying:
+* Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Rael Candelaria - Framatome
 * 💵Josh Weiss - Benton County
-* Joe Schiessl - [City of Richland](/org/city_of_richland/)
 
 #### 309 👎 - Con
 Testifying:

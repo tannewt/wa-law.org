@@ -81,6 +81,7 @@ Testifying:
 
 #### 954 👎 - Con
 Testifying:
+* Laurie Layne
 * Tim Eyman - Initiative activist
 * Jordan  (JD) Brown - HEALTH & WELLNESS MASSAGE
 * Randolph Hardy
@@ -88,7 +89,6 @@ Testifying:
 * Adam Covert
 * Megan Blight
 * Debbie Noonan
-* Laurie Layne
 * Charlie Brown - South Sound Superintendents and Federal Way Schools
 * 💵Melissa Gombosky - Evergreen Public Schools
 * 💵Jeff Snell - Vancouver Public Schools - Vancouver, WA
@@ -110,15 +110,9 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Traci Buxton - Mayor, City of Des Moines & President, Sound Cities Association
 * Hunter George - Washington Recreation and Park Association
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Clifford Traisman - Bellevue, Highline, Northshore and Seattle Public School Districts
 * Megan Dunn - Snohomish County
-* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
-* Adam Aguilera - WEA member
-* Christine Twiss - SEIU 925, Health Room Assistant
-* Emily Willard - SEIU 925 & investigator, King Co DPD
-* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
-* Kim Harless - City of Vancouver, Councilmember
-* James Trefry - General Counsel, Washington State Council of County and City Employees, AFSCME, Council 2
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Kristina Walker - Councilmember, City of Tacoma
 * Michael Lilliquist - City of Bellingham, Representative Ward 6
@@ -127,6 +121,12 @@ Testifying:
 * Benton County Commissione Jerome Delvin - Benton County
 * Pierce County Executive Ryan Mello - Pierce County Executive
 * Whatcom County Executive Satpal Sidhu - Whatcom County Executive
+* Adam Aguilera - WEA member
+* Christine Twiss - SEIU 925, Health Room Assistant
+* Emily Willard - SEIU 925 & investigator, King Co DPD
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* Kim Harless - City of Vancouver, Councilmember
+* James Trefry - General Counsel, Washington State Council of County and City Employees, AFSCME, Council 2
 * 💵Nora Burnes - ESD 105 Schools Coalition
 * Trevor Greene - Yakima School District Superintendent
 
@@ -140,17 +140,35 @@ Testifying:
 * 💵Katie Beeson - WA Food Industry Association
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Anna Burt
-* Kail Erickson - On Point Housing, sub for DOC
-* Mark Navlet
 * Tim Eyman - Initiative Activist
-* Jimmy Ranson
-* Michael Patterson - Washington Association of Mortgage Professionals
-* Dave Larson - Tukwila School Board
 * 💵Julia Gorton - WA Hospitality Association
 * Mary Hull-Drury - Washington Realtors
 * McKenzie Darr - NAIOP
 * Dakota Manley - Washington State Young Republicans
 * Roberto Moll
+* Kail Erickson - On Point Housing, sub for DOC
+* Mark Navlet
+* Jimmy Ranson
+* Michael Patterson - Washington Association of Mortgage Professionals
+* Dave Larson - Tukwila School Board
+* Douglas Patton
+* Cindy Barker-Sego
+* Emerald Clark
+* Beth Lindenman
+* Deirdra Hammer
+* Jennifer Antoine
+* Audrey Bryant
+* Helen Anderson
+* Wayne Anderson
+* Yazhao Qiu
+* Shelley Montgomery
+* Yaping Jiang
+* Hong Li
+* Shari Stevenson
+* QUAN DENG
+* Gordon Hinds
+* Gordon Hinds
+* Brianna Leitz
 * xianghui xue
 * Ashley Hinzpeter
 * Jesse Brawand
@@ -204,7 +222,6 @@ Testifying:
 * Qing yun Liu
 * Allen Chongtai Huang
 * HUI XING
-* Douglas Patton
 * Enming Wu
 * Honghua Zhou
 * Jane Zhang
@@ -213,26 +230,15 @@ Testifying:
 * Li Tian
 * Hong Sodoma
 * Tao Zhu
-* Cindy Barker-Sego
-* Emerald Clark
-* Beth Lindenman
 * Mingzi Yi
-* Deirdra Hammer
 * Lifang Huang
-* Jennifer Antoine
-* Audrey Bryant
-* Helen Anderson
-* Wayne Anderson
 * Brenda Valadez
-* Yazhao Qiu
-* Shelley Montgomery
-* Yaping Jiang
-* Hong Li
-* Shari Stevenson
-* QUAN DENG
-* Gordon Hinds
-* Gordon Hinds
-* Brianna Leitz
+* Helen He
+* Thomas Yuen
+* Natalie Wang
+* Yafen Hu
+* Alan Yuen
+* CONSTANCE VERZANO
 * Lori Williams
 * Lori Williams
 * Lori Williams
@@ -244,16 +250,10 @@ Testifying:
 * Connie Betterley
 * Raymond Suen
 * Matthew King
-* Helen He
-* Thomas Yuen
-* Natalie Wang
-* Yafen Hu
-* Alan Yuen
-* CONSTANCE VERZANO
 
 #### 60 ❓ - Other
 Testifying:
-* Barbara Posthumus
-* Daniel Lunghofer - Washington State School Directors' Association
+* Barbara Posthumus - Lake Washington School District
 * Jennifer Burbidge - Washington Recreation & Park Association
+* Daniel Lunghofer - Washington State School Directors' Association
 * Peihua Sheng

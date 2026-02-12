@@ -40,10 +40,10 @@ Testifying:
 * Khushdip Brar
 * Jason Perrins - Chewelah School District
 * Sandra Mochizuki
-* Sandra Brock
 * John Axtell
-* Khushdip Brar
 * mike johnson
+* Sandra Brock
+* Khushdip Brar
 * Anthony Holan
 * TaraLyn Fray
 * Sharon Hanek
@@ -56,8 +56,8 @@ Testifying:
 Testifying:
 * Amasai Jeke - UTOPIA Washington
 * Aide Villalobos
-* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
 #### 1819 👎 - Con
 Testifying:
@@ -71,21 +71,21 @@ Testifying:
 #### 365 👍 - Pro
 Testifying:
 * Felicia Walker
-* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 * 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Megan Roseman
 * Alexis Janson
 
 #### 1278 👎 - Con
 Testifying:
-* Khushdip Brar - School board director
 * Jennifer Heine-Withee
+* Khushdip Brar - School board director
 * Trish Huddleston - School Board Director
-* Terry Tate - School Board Director
 * Sarah Garriott
-* Hayden Steele
 * Tonya Hickman - Lynden School Board
+* Terry Tate - School Board Director
+* Hayden Steele
 
 #### 2 ❓ - Other
 Testifying:

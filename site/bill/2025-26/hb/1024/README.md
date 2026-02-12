@@ -14,8 +14,8 @@
 ### Thu 02/13 01:30 PM - Capital Budget (CB): SHB 1024 St. Edward state park
 #### 4 👍 - Pro
 Testifying:
-* Nigel Herbig - Mayor - City of Kenmore, WA
 * Brian Considine - State Parks, Policy & Gov't Affairs Director
+* Nigel Herbig - Mayor - City of Kenmore, WA
 * James Daniels - The Lodge
 
 #### 0 👎 - Con

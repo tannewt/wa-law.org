@@ -23,8 +23,8 @@ Testifying:
 * Christina Janis
 * Nicole Bascomb-Green - Bascomb Real Estate Group
 * OB Jacobi - Windermere Real Estate
-* Adria Buchanan - Fair Housing Center of Washington
 * 💵Anna Boone - [Zillow](/org/zillow/)
+* Adria Buchanan - Fair Housing Center of Washington
 * 💵Ken Short - AWB
 
 #### 209 👎 - Con
@@ -35,6 +35,7 @@ Testifying:
 * Joe Bills
 * Carol Wyda - Washington Realtor
 * Michael Beck - Mike Beck
+* Robbie Tradal
 * Kenneth Patton
 * Caitlin Sullivan
 * Erich Bubbel - bubbel Real estate LLC
@@ -43,7 +44,6 @@ Testifying:
 * Alyssa Curran
 * Jennifer Ng
 * Samuel Cunningham
-* Robbie Tradal
 * Ming Zhou
 
 #### 3 ❓ - Other

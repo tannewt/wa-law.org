@@ -8,9 +8,16 @@
 * [Substitute Bill](S/)
 
 ## Meetings
-### Wed 02/11 08:00 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
+### Wed 02/18 10:30 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
 Sign up to testify:
 
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Wed 02/11 08:00 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
 #### 1 👍 - Pro
 
 #### 0 👎 - Con
@@ -30,13 +37,11 @@ Testifying:
 ### Wed 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5240 Anaphylaxis med. in schools
 #### 8 👍 - Pro
 Testifying:
-* Rick Hughes - Ray's Pharmacy, Orcas Island
 * 💵Suzanne Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
 
-#### 1 👎 - Con
-Testifying:
-* Elizabeth Pray
+#### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Elizabeth Pray - School Nurse Organization of Washington

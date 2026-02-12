@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5374/</link>
 		<description>Updates about SB 5374</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -110,20 +110,20 @@
 			<guid isPermaLink="false">2025-03-14/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👎Liza Simmonds - Northwest Health Law Advocates</title>
-			<description>Liza Simmonds signed up to testify Con.</description>
-			<pubDate>Mon, 24 Mar 2025 07:15:06 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Liza/Simmonds/2025-03-24 07:15:06</guid>
-		</item>
-		<item>
 			<title>👎TaraLyn Fray - Northwest Health Law Advocates</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 24 Mar 2025 09:17:31 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-24 09:17:31</guid>
+		</item>
+		<item>
+			<title>👎Liza Simmonds - Northwest Health Law Advocates</title>
+			<description>Liza Simmonds signed up to testify Con.</description>
+			<pubDate>Mon, 24 Mar 2025 19:15:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Liza/Simmonds/2025-03-24 19:15:06</guid>
 		</item>
 		<item>
 			<title>LG - Executive action taken by committee.</title>
@@ -222,6 +222,41 @@
 			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-10/Placed on third reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Returned to second reading for amendment.</title>
+			<description>Returned to second reading for amendment.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Returned to second reading for amendment.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.</title>
+			<description>Rules suspended.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules suspended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 43; nays, 6; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 43; nays, 6; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-11/Third reading, passed; yeas, 43; nays, 6; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

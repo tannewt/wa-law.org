@@ -32,8 +32,8 @@
 Testifying:
 * Barbara,Carmel, Howard Gulley
 * Anthony Pate
-* Loni Simone
 * Donna Alber - Donna Alber
+* Loni Simone
 * John Hudspeth
 
 #### 8 👎 - Con

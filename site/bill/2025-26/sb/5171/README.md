@@ -23,14 +23,14 @@ Testifying:
 #### 519 👍 - Pro
 Testifying:
 * Samee Charriere
-* Loni Simone
 * Donna Alber - Donna Alber
+* Loni Simone
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
 #### 49 👎 - Con
 Testifying:
-* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * David Linn
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 
 #### 2 ❓ - Other
 Testifying:

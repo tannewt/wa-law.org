@@ -16,19 +16,19 @@
 #### 28 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Rachael Myers - Washington Low Income Housing Alliance
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
-* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
-* 💵Nora Selander - Western Washington University
 * Eli Lieberman - Washington State Green Bank
 * William Booth - Bow Lake Association of Manfactured Homeowners
+* 💵Nora Selander - Western Washington University
 * Superintendent Ingrid Colvard - Washington Association of School Administrators (WASA)
-* Kathryn Opina
-* Joan Huston - Cascadia Technical Academy
-* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Michone Preston - Habitat for Humanity of Washington State
 * Phedra Elliott - Housing Resources Bainbridge
 * David Buri - Eastern Washington University
+* Kathryn Opina
+* Joan Huston - Cascadia Technical Academy
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 
 #### 86 👎 - Con
 Testifying:
@@ -38,10 +38,10 @@ Testifying:
 Testifying:
 * Darrell Jennings - State Board for Community and Technical Colleges
 * Dr. Eric Murray - Cascadia College
+* Ruth Clemens - City of Aberdeen, City Administrator
 * Alyssa Torrez - South Sound Housing Affordability Partners
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Ruth Clemens - City of Aberdeen, City Administrator
 * Scott Korthuis - Mayor, City of Lynden
 * 💵Gary Rowe - [Public Works Board](/org/public_works_board/)
 * Bilan Aden - African Community Housing and Development

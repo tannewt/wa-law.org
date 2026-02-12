@@ -13,11 +13,11 @@ Testifying:
 * 💵Amanda Elyse - [Northwest Animal Rights Network](/org/northwest_animal_rights_network/)
 * Amanda Fox - Animal Rights Initiative
 * Wendy Linton
-* Joshua Diamond
-* Annalise Derome
 * Rachel Bjork
 * Katya Shur
 * Sue Hong
+* Joshua Diamond
+* Annalise Derome
 * Aura Baker
 * Emily Lin
 * Leia Dorland

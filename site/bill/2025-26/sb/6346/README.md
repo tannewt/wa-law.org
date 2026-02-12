@@ -33,18 +33,21 @@
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6346 Tax on millionaires
 #### 19169 👍 - Pro
 Testifying:
-* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
-* Darnell Hibbler
 * Kelly Diamond
 * Cheryl Thramer
-* Kay Clemons - Entertainment Resource Alliance
-* 💵Radu Smintina - School's Out Washington
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Darnell Hibbler
 * 💵Rian Watt - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Karen Crowley - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * gisella Gonzales - team child
 * Robert Cruickshank - Washington's Paramount Duty
+* Kay Clemons - Entertainment Resource Alliance
+* 💵Radu Smintina - School's Out Washington
+* ROBERT BORUCHOWITZ - DEFENDER INITIATIVE, SEATTLE U. SCHOOL OF LAW
+* Devon Stewart
+* Ryan Henry
 * Nicholas Schubert
 * Christopher Chaves
 * Suzanne Southerland - Association for Higher Ed of Washington Education Association
@@ -84,10 +87,6 @@ Testifying:
 * Bob Gustin
 * 💵Maggie Humphreys - MomsRising
 * Heather Gutierrez
-* Devon Stewart
-* Ryan Henry
-* ROBERT BORUCHOWITZ - DEFENDER INITIATIVE, SEATTLE U. SCHOOL OF LAW
-* Executive Girmay Zahilay
 * Emily Varley
 * Amy Cole
 * Joe Kendo - Washington State Labor Council, AFL-CIO
@@ -111,23 +110,27 @@ Testifying:
 * Siobhan Ring - Firelands Workers United.
 * Beth Osgood - Camas Education Association
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* Executive Girmay Zahilay
 
 #### 61362 👎 - Con
 Testifying:
+* Tim Eyman - Initiative activist
+* Julie Whitley
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Eric Pratt - America
 * Christopher Elder
-* Tim Eyman - Initiative activist
 * Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Ryan Frost
-* Julie Whitley
 * Julie Whitley
 * Laurie Layne
 * randy berry
 * Raquel Mendoza
 * Rebecca Faust - n/a
 * Anna Burt
+* Ron Arp - Identity Clark County
+* Matthew Mastronardi
+* Ryan Neufeld
 * Joel Gross - Our Big Family Farm LLC
 * Chris Galbraith
 * Ruphina Nord
@@ -139,12 +142,27 @@ Testifying:
 * Rebecca Serrano
 * Xia Currie
 * Ron Arp - Identity Clark County
-* Ron Arp - Identity Clark County
 * Jerome Fox
 * Jun Wang
-* Matthew Mastronardi
 * Anton Poo
-* Ryan Neufeld
+* Josh Johnson
+* Marlene Pelegri
+* Yansheng Fu
+* Corrine Farnham
+* Troy Schmeil - Sapphire Homes, Inc.
+* Ming Qian
+* Nicholas Juan
+* Anu TEWARI
+* Brent Frei - TerraClear
+* Wentao Zhang
+* Jacob Knight
+* Josh Walters - Onward Construction, LLC
+* Ren Zhang
+* Linda Yang
+* Sammy Woo
+* Max Martin - Association of WA Business
+* Kan Qiu - American Coalition for Equality
+* Mariya Atanasova
 * Greg Wan
 * Qiuzi Bi
 * Lois Cook - Phone Guys LLC
@@ -153,7 +171,6 @@ Testifying:
 * Samuel Zeng
 * Earl Hufnagel
 * Ronald Waldbaum - Leibsohn & Company
-* Yansheng Fu
 * Charles Pluckhahn
 * Kellsey Martinez
 * Philip Jacquez
@@ -180,32 +197,15 @@ Testifying:
 * Shengquan Liang
 * Darryl Jones
 * Don Lantz
-* Corrine Farnham
 * Angela Kraemer
 * Jennifer Lekisch
 * Christine Simonitch
 * Bill Forgey
-* Troy Schmeil - Sapphire Homes, Inc.
 * Rodney Robinson
-* Ming Qian
 * Kevin Moen - Stem King llc
-* Nicholas Juan
 * Lenny Chacon - Young republicans
 * Russell Wall - Russ repair
-* Anu TEWARI
-* Brent Frei - TerraClear
 * Deborah Shearer
-* Wentao Zhang
-* Jacob Knight
-* Josh Walters - Onward Construction, LLC
-* Ren Zhang
-* Josh Johnson
-* Linda Yang
-* Sammy Woo
-* Max Martin - Association of WA Business
-* Kan Qiu - American Coalition for Equality
-* Mariya Atanasova
-* Marlene Pelegri
 * Serghei Jacot
 * Anthony Cheng
 * ralph kline - retired
@@ -241,9 +241,9 @@ Testifying:
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Sean Graham - Washington State Medical Association
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Jared Walczak - Tax Foundation
 * Carrie Kennedy
 * Fatema Boxwala - Tech4Taxes

@@ -23,8 +23,8 @@ Testifying:
 
 #### 9 ❓ - Other
 Testifying:
-* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Katherine Hurley - King county Dept of Public Defense
 * 💵Karen Pillar - TeamChild
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * 💵Russell Brown - WA Association of Prosecuting Attorneys

@@ -20,8 +20,8 @@ Testifying:
 Testifying:
 * Teresa (Teri) Galloway - SHAPE Washington
 * Carri Kreider - SHAPE Washington
-* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Kelsey Machado - Society of Health and Physical Educators of WA
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Melissa Boswell
 
 #### 0 ❓ - Other

@@ -18,8 +18,8 @@ Testifying:
 #### 115 👎 - Con
 Testifying:
 * 💵Rose Gundersen - WA Retail Association
-* 💵Alex Wehinger - WA State Medical Association (WSMA)
 * 💵Patrick Connor - NFIB
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 2 ❓ - Other
 Testifying:

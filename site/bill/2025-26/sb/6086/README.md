@@ -12,8 +12,8 @@
 #### 29 👍 - Pro
 Testifying:
 * Catherine Cornwall - King County Superior Court Clerk
-* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
 * Judge Sean O'Donnell - Superior Court Judges' Association
+* J. Lee Schultz - Administrative Office of the Courts, Board for Judicial Administration
 
 #### 195 👎 - Con
 

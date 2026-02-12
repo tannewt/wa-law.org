@@ -24,12 +24,12 @@ Testifying:
 * Arjan Singh
 * Joseph Joshy
 * Yusuf Bodiat
+* Lisa Janicki - Commissioner, Skagit County
+* Sarah Dickmeyer - Plymouth Housing
 * Hannah Stone - [City of Bellingham](/org/city_of_bellingham/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Jonathan Scanlon - Whatcom County
 * Lisa Janicki - Commissioner, Skagit County
-* Lisa Janicki - Commissioner, Skagit County
-* Sarah Dickmeyer - Plymouth Housing
 
 #### 226 👎 - Con
 Testifying:

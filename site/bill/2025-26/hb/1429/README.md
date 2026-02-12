@@ -19,8 +19,8 @@ Testifying:
 * Jonas Rios
 * 💵Roxana Gomez - Legal Council for Youth and Children
 * Esmina James-Secret
-* Jalayna Ruland - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Rocket Garcia
+* Jalayna Ruland - [The Mockingbird Society](/org/the_mockingbird_society/)
 
 #### 1 👎 - Con
 

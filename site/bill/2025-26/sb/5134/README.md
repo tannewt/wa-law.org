@@ -10,11 +10,11 @@
 ### Tue 01/14 08:00 AM - Early Learning & K-12 Education (EDU): SB 5134 Chinese Americans/schools
 #### 20 👍 - Pro
 Testifying:
-* Jani Hitchen
-* Gavin Ripka
 * Gregory Youtz - The Chinese Reconciliation Project Foundation
 * Larry Hosley - The Chinese Reconciliation Project Foundation
 * Theresa Pan Hosley - The Chinese Reconciliation Project Foundation
+* Jani Hitchen
+* Gavin Ripka
 * Yushen Liu
 * Rachel Li
 * Bettina Stanley

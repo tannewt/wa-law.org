@@ -21,17 +21,17 @@ Testifying:
 * Chris Dormaier - Clergy Accountability Coalition
 * Mary Dispenza - Clergy Accountability Coalition
 * Sharon Huling - Clergy Accountability Coalition
-* Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
 * Rev. James Connell
-* Ryan Dudley - FFRF Action Fund
-* Melissa Nevarez
-* Madeline Hoxsey
+* Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
 * Annelise Orozco
 * Carson Suyetsugu
 * Lily Cheung
 * Gavin Callahan
 * Michelle Sung
 * Ryu Hoshino
+* Ryan Dudley - FFRF Action Fund
+* Melissa Nevarez
+* Madeline Hoxsey
 * Kiersten Larson - Clergy Accountability Coalition
 * Rachel Fisher - Clergy Accountability Coalition
 * Andrew Fox - JW (Former Elder)

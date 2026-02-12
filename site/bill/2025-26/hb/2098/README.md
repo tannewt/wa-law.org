@@ -24,9 +24,9 @@ Testifying:
 * Janeen Contractor
 * Sabrina Nangonzi
 * Fatema Boxwala - Tech4Taxes
+* Jackson Feaster - Communities For Our Colleges
 * 💵Rian Watt - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Erica Limon-Trefielo - Communities in Schools of Washington
-* Jackson Feaster - Communities For Our Colleges
 * Bill Lyne - United Faculty of Washington State
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)

@@ -21,17 +21,17 @@ Testifying:
 
 #### 351 👎 - Con
 Testifying:
+* Jay Gordon - Washington State Dairy Federation
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Daniel Himebaugh - [Energy Northwest](/org/energy_northwest/)
 * Chris McCabe - [Northwest Pulp & Paper Association](/org/northwest_pulp_&_paper_association/)
 * 💵Bill Stauffacher - Building Industry Association Washington
 * 💵Joshua Estes - Association of Western Pulp and Paper Workers Union
 * 💵Michael Transue - WA Agggregates and Concrete Association
-* Jay Gordon - Washington State Dairy Federation
-* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Rowland Thompson - [Allied Daily Newspapers of Washington](/org/allied_daily_newspapers_of_washington/)
-* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * 💵Adán Espino - WA Defender Assn/WA Assn of Criminal Defense Lawyers
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 
 #### 0 ❓ - Other
 
@@ -45,12 +45,12 @@ Testifying:
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Jake Mayson - Greater Spokane Incorporated
 * 💵Melissa Gombosky - Inland Empire Paper Company
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
-* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 * w. Jay Gordon - Washington state dairy federation
 
 #### 8 ❓ - Other

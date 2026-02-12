@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=SB%206045)
 * 01/30/2026 [The Urbanist](/org/the_urbanist/) - [Washington State Reacts to Feared ICE Invasion, Constitutional Crisis » The Urbanist](https://www.theurbanist.org/2026/01/30/washington-state-reacts-to-feared-ice-invasion-constitutional-crisis/#:~:text=Senate%20Bill%206045)
 * 01/28/2026 [The Washington Observer](/org/the_washington_observer/) - [Fact-checking the farmworker union debate](https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=SB%206045)
 * 01/22/2026 [The Stranger](/org/the_stranger/) - [State Bills Bring Farmworkers to the Table - The Stranger](https://www.thestranger.com/news/2026/01/22/80432178/state-bills-bring-farmworkers-to-the-table#:~:text=Senate%20Bill%206045)
@@ -40,14 +41,6 @@ Testifying:
 ### Tue 01/20 10:30 AM - Labor & Commerce (LC): SB 6045 Agricultural employees/PERC
 #### 495 👍 - Pro
 Testifying:
-* Iker Ramon
-* Jose Ramirez - FUJ
-* Octavia Santiago Martinez - FUJ
-* Lazaro Matamoros Zamora
-* 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
-* Lucy Madrigal - Community to Community
-* Jose Ochoa
-* April Sims - Washington State Labor Council, AFL-CIO
 * Giselle Ramirez Silva - Familias Unidas por la Justicia
 * Tomas Ramon - FUJ
 * Benito Lopez - Familias Unidas por la Justicia
@@ -56,21 +49,29 @@ Testifying:
 * Paulino Perea
 * Merado Glaya
 * Lydia Zepeda - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
+* Iker Ramon
+* Jose Ramirez - FUJ
+* Octavia Santiago Martinez - FUJ
+* Lazaro Matamoros Zamora
+* 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
+* Lucy Madrigal - Community to Community
+* Jose Ochoa
+* April Sims - Washington State Labor Council, AFL-CIO
 
 #### 608 👎 - Con
 Testifying:
 * Allison Schrader
 * Randy Munn
 * Paul Katovich - HighLine Grain Growers, Inc.
-* Pam Lewison - Ag Research Director, Washington Policy Center
 * Donald Gibson - Mount Adams Fruit
+* Pam Lewison - Ag Research Director, Washington Policy Center
+* Lauren Gonzalez
+* Kellie Sundquist - Orchard & Vineyard Supply Co.
+* Timothy McDonald - Bluewater Legacy Estates
 * Enrique Gastelum - Worker and Farmer Labor Association
 * Ben Tindall - [Save Family Farming](/org/save_family_farming/)
 * Cody Anderson - L&L Ag Production
 * Blaine Smith
-* Lauren Gonzalez
-* Kellie Sundquist - Orchard & Vineyard Supply Co.
-* Timothy McDonald - Bluewater Legacy Estates
 * 💵James Crandall - AWB
 * Charlie Brown - [Washington Asparagus Commission](/org/washington_asparagus_commission/)
 * David Burnett - Burnett Orchards-Owner

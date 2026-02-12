@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [Flood warning for renters passes Senate - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/11/flood-warning-for-renters-passes-senate/#:~:text=SB%206237)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206237)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206237)
 

@@ -18,11 +18,11 @@ Testifying:
 * Liam Doucet
 * Christine Parker-Graham - Wildlife veterinarian (independent)
 * Casey Mclean - SR3 Sealife Response, Rehab and Research
+* Timothy Ragen
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * Teri Wrght
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * Deisy Bach - Salish Sea Science Coaltion
 * Jenna Buffington
-* Timothy Ragen
 
 #### 0 ❓ - Other

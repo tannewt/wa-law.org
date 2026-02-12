@@ -18,8 +18,8 @@ Testifying:
 Testifying:
 * Darlene Schanfald - Olympic Environmental Council
 * Marilyn Showalter - Jefferson Land Trust
-* David Ortman - n.a.
 * John Garner - Environmental Coalition of Pierce County
+* David Ortman - n.a.
 * KIRK KIRKLAND - ENVIRONMENTAL COALITION OF PIERCE COUNTY
 * Joe Breskin - Olympic Environmental Council  501(c)3
 

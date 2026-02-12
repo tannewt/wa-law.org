@@ -30,11 +30,11 @@ Testifying:
 #### 110 👍 - Pro
 Testifying:
 * 💵Nicolas Garcia - WPUDA
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Jason Hudson - IBEW Local 77
 * Darcy Nonemacer - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
-* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
 #### 8 👎 - Con
 Testifying:

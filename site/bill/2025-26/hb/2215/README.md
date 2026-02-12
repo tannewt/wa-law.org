@@ -31,16 +31,16 @@ Testifying:
 ### Tue 01/13 04:00 PM - Environment & Energy (ENVI): HB 2215 Fuels/climate commitment act
 #### 32 👍 - Pro
 Testifying:
-* Julian Santos - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Julian Santos - [Washington Conservation Action](/org/washington_conservation_action/)
 
 #### 789 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Jim Hedrick - Pacific Propane Gas Association (PPGA)
-* Brian Whitley - Whitley Fuel
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Marcus Mosley - CO-ENERGY
+* Brian Whitley - Whitley Fuel
 
 #### 4 ❓ - Other
 Testifying:

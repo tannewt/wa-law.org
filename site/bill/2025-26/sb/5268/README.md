@@ -16,6 +16,17 @@
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205268)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): 2ESSB 5268 Unlawful firearm possession
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/24 01:30 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5268 Unlawful firearm possession
 #### 103 👍 - Pro
 Testifying:

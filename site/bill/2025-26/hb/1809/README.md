@@ -18,11 +18,11 @@ Testifying:
 * James Aguirre
 * Keith Sharp - South Snohomish County Regional Fire Authority
 * Cody Maine - Walla Walla Fire Department
-* Tyler Gage - Port Angeles Fire Department
-* Alexis Orndorf
 * Michael Hilley - Whatcom Co. EMS
 * Michael Hilley - Whatcom Co. EMS
 * Nicole Picknell - South County Fire
+* Tyler Gage - Port Angeles Fire Department
+* Alexis Orndorf
 
 #### 0 👎 - Con
 

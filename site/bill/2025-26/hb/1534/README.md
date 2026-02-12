@@ -23,20 +23,20 @@ Testifying:
 * Jonny Ghim - KAGRO Washington
 * Paul Namkung - Lucky Seven Food
 * Chong Sullivan - KAGRO
-* 💵Crystal Leatherman - WA Retail Association
 * Kerry Schultz - Creekside Market
 * Alex Wardi - OMG Food Mart
+* 💵Crystal Leatherman - WA Retail Association
 
 #### 441 👎 - Con
 Testifying:
-* Kelsie Reynolds
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
-* Cheryl Stowers
-* Cheryl Stowers
+* Kelsie Reynolds
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Doug Ball - Jacksons Food Stores
+* Cheryl Stowers
+* Cheryl Stowers
+* Audrey Miller garcia - ACSCAN
 * 💵Aaron Holmes - Vapor Technology Association
 * 💵Sara Stewart - Washington Smoke-Free Association
-* Audrey Miller garcia - ACSCAN
 
 #### 3 ❓ - Other

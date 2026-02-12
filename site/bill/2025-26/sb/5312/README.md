@@ -19,13 +19,13 @@ Testifying:
 * Bruce Glant
 * Tanner Ness - Cage
 * Jr., Franklin Wilson - Triple F's Investigation
-* James Manley
 * Bryan Glant
 * Bryan Glant - PO BOX 888
 * Matthew Perry - Jewish Prisoner Services International
+* James Manley
+* Jacob Schmitt - Just Us Solutions, LLC
 * Brenda Chapman
 * Emily Gause - WACDL/WDA
-* Jacob Schmitt - Just Us Solutions, LLC
 * Joanne Glant - msn outlook
 
 #### 63 👎 - Con

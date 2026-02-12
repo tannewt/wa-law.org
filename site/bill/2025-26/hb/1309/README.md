@@ -25,9 +25,9 @@ Testifying:
 * John Garner - Environmental Coalition of Pierce County
 * Darlene Schanfald
 * David Ortman
+* Marilyn Showalter
 * Anne Mosness
 * Elaine Packard
-* Marilyn Showalter
 * joe breskin - Olympic Environmental Council
 * ERIC SEIBEL
 

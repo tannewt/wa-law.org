@@ -15,14 +15,14 @@
 #### 398 👍 - Pro
 Testifying:
 * Josh Diamond
-* Isabel Starnes
 * Dan Paul - [Humane World for Animals](/org/humane_world_for_animals/)
+* Isabel Starnes
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 * Kris Cameron
 * Cindy Volyn
-* Alyne Fortgang - Friends of Woodland Park Zoo Elephants
-* Alyne Fortgang - Friends of Woodland Park Zoo Elephants
 * Drew McCormick - Animal Defenders International
+* Alyne Fortgang - Friends of Woodland Park Zoo Elephants
+* Alyne Fortgang - Friends of Woodland Park Zoo Elephants
 * Wendy Linton
 * Amanda Fox - Animal Rights Initiative
 
@@ -52,14 +52,14 @@ Testifying:
 #### 199 👍 - Pro
 Testifying:
 * Anna Faust
-* Robin Vitulle - Free All Captive Elephants, Inc. (FACE)
 * 💵Debora Munguia - Woodland Park Zoo
 * Dan Paul - The Humane Society of the United States
+* Robin Vitulle - Free All Captive Elephants, Inc. (FACE)
+* Vitaliy Kertchen
 * Wes Burdett
 * Amanda Fox - Animal Rights Initiative
-* Vitaliy Kertchen
-* Clou Herd
 * Robert McCormick - Animal Defenders International
+* Clou Herd
 
 #### 4 👎 - Con
 Testifying:

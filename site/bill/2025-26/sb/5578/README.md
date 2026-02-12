@@ -28,8 +28,8 @@ Testifying:
 
 #### 1407 👎 - Con
 Testifying:
-* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Patrick Connor - NFIB
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Dana Neuts - Covington Chamber of Commerce
 * Brandon Cook
 * robert burgess - Beverage Specialists Inc
@@ -40,16 +40,16 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Kerry Lonergan-Dreke - Lombardi's Italian Restaurants
 * Thomas Reinhard - Cascadia Pizza Company
+* Jorge Escalera
+* Cindy Trondsen - MC Interiors LLC
+* MICHAEL MORRIS
+* MICHAEL MORRIS
 * Matt Murphy - Tri-City Regional Chamber of Commerce
 * Miriam Battson - Gig Harbor Chamber of Commerce
 * Zahid Arab - Uber Technologies, Inc
 * 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
-* Jorge Escalera
 * Dakota Manley - Washington State Young Republicans
-* Cindy Trondsen - MC Interiors LLC
 * Jana Weiss - WEOG LLC
-* MICHAEL MORRIS
-* MICHAEL MORRIS
 * Brian Maiden - Maiden Enterprises LLC
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 * Sarah Clark - Seattle Metropolitan Chamber of Commerce

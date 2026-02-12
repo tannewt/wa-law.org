@@ -30,14 +30,6 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_1e4a3bb0-e8c7-11ef-917f-7b4299c57898.html#:~:text=Senate%20Bill%205726</guid>
 		</item>
 		<item>
-			<title>👍Debbie Young - Wash. State Transportation Commission (Chair)</title>
-			<description>Debbie Young signed up to testify Pro. They are signed up to represent Wash. State Transportation Commission (Chair).</description>
-			<pubDate>Wed, 12 Feb 2025 04:42:13 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Debbie/Young/2025-02-12 04:42:13</guid>
-		</item>
-		<item>
 			<title>👍Reema Griffith - Wash. State Transportation Commission</title>
 			<description>Reema Griffith signed up to testify Pro. They are signed up to represent Wash. State Transportation Commission.</description>
 			<pubDate>Wed, 12 Feb 2025 04:42:13 GMT</pubDate>
@@ -46,7 +38,15 @@
 			<guid isPermaLink="false">testifier/Reema/Griffith/2025-02-12 04:42:13</guid>
 		</item>
 		<item>
-			<title>👎Laurie Layne - Front and Centered</title>
+			<title>👍Debbie Young - Wash. State Transportation Commission (Chair)</title>
+			<description>Debbie Young signed up to testify Pro. They are signed up to represent Wash. State Transportation Commission (Chair).</description>
+			<pubDate>Wed, 12 Feb 2025 16:42:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Debbie/Young/2025-02-12 16:42:13</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Washington Roundtable</title>
 			<description>Laurie Layne signed up to testify Con.</description>
 			<pubDate>Thu, 13 Feb 2025 09:31:17 GMT</pubDate>
 			<category>testifier</category>
@@ -68,38 +68,6 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jane/Wall/2025-02-13 10:33:16</guid>
-		</item>
-		<item>
-			<title>👍💵Axel Swanson - Washington State Association of County Engineers</title>
-			<description>Axel Swanson signed up to testify Pro. They are signed up to represent Washington State Association of County Engineers. They are a registered lobbyist.</description>
-			<pubDate>Fri, 14 Feb 2025 02:15:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Axel/Swanson/2025-02-14 02:15:18</guid>
-		</item>
-		<item>
-			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
-			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Fri, 14 Feb 2025 02:15:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-02-14 02:15:18</guid>
-		</item>
-		<item>
-			<title>👍Chris Herman - Washington Public Ports Association</title>
-			<description>Chris Herman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_ports_association/"&gt;Washington Public Ports Association&lt;/a&gt;.</description>
-			<pubDate>Fri, 14 Feb 2025 02:15:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Chris/Herman/2025-02-14 02:15:18</guid>
-		</item>
-		<item>
-			<title>👎Tim Eyman - Initiative Activist</title>
-			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
-			<pubDate>Fri, 14 Feb 2025 04:51:31 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Tim/Eyman/2025-02-14 04:51:31</guid>
 		</item>
 		<item>
 			<title>👍Carolina Mejia - Thurston County (Commissioner)</title>
@@ -126,12 +94,36 @@
 			<guid isPermaLink="false">testifier/Mary Lou/Pauly/2025-02-14 12:38:10</guid>
 		</item>
 		<item>
-			<title>👎Richard Schilling - Initiative Activist</title>
-			<description>Richard Schilling signed up to testify Con.</description>
-			<pubDate>Sat, 15 Feb 2025 03:50:06 GMT</pubDate>
+			<title>👍💵Axel Swanson - Washington State Association of County Engineers</title>
+			<description>Axel Swanson signed up to testify Pro. They are signed up to represent Washington State Association of County Engineers. They are a registered lobbyist.</description>
+			<pubDate>Fri, 14 Feb 2025 14:15:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Axel/Swanson/2025-02-14 14:15:18</guid>
+		</item>
+		<item>
+			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 14 Feb 2025 14:15:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-02-14 14:15:18</guid>
+		</item>
+		<item>
+			<title>👍Chris Herman - Washington Public Ports Association</title>
+			<description>Chris Herman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_ports_association/"&gt;Washington Public Ports Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 14 Feb 2025 14:15:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Herman/2025-02-14 14:15:18</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Fri, 14 Feb 2025 16:51:31 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Richard/Schilling/2025-02-15 03:50:06</guid>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2025-02-14 16:51:31</guid>
 		</item>
 		<item>
 			<title>👍Brandy DeLange - Freight Mobility Strategic Investment Board</title>
@@ -150,36 +142,12 @@
 			<guid isPermaLink="false">testifier/Nathan/Carpenter/2025-02-15 12:25:32</guid>
 		</item>
 		<item>
-			<title>👍💵Kirk Hovenkotter - Transportation Choices Coalition</title>
-			<description>Kirk Hovenkotter signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/transportation_choices_coalition/"&gt;Transportation Choices Coalition&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Sun, 16 Feb 2025 03:40:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Kirk/Hovenkotter/2025-02-16 03:40:18</guid>
-		</item>
-		<item>
-			<title>👎Lance Eggers - Initiative Activist</title>
-			<description>Lance Eggers signed up to testify Con.</description>
-			<pubDate>Sun, 16 Feb 2025 06:10:26 GMT</pubDate>
+			<title>👎Richard Schilling - Initiative Activist</title>
+			<description>Richard Schilling signed up to testify Con.</description>
+			<pubDate>Sat, 15 Feb 2025 15:50:06 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Lance/Eggers/2025-02-16 06:10:26</guid>
-		</item>
-		<item>
-			<title>👍Ben Bakkenta - Puget Sound Regional Council</title>
-			<description>Ben Bakkenta signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/puget_sound_regional_council/"&gt;Puget Sound Regional Council&lt;/a&gt;.</description>
-			<pubDate>Sun, 16 Feb 2025 06:15:24 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Ben/Bakkenta/2025-02-16 06:15:24</guid>
-		</item>
-		<item>
-			<title>👍Mike Ennis - Washington Trucking Associations (WTA), Washington Asphalt Pavement Association (WAPA), and CRH</title>
-			<description>Mike Ennis signed up to testify Pro. They are signed up to represent Washington Trucking Associations (WTA), Washington Asphalt Pavement Association (WAPA), and CRH.</description>
-			<pubDate>Sun, 16 Feb 2025 07:21:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Mike/Ennis/2025-02-16 07:21:57</guid>
+			<guid isPermaLink="false">testifier/Richard/Schilling/2025-02-15 15:50:06</guid>
 		</item>
 		<item>
 			<title>👎Teagan Levine - Initiative Activist</title>
@@ -188,14 +156,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Teagan/Levine/2025-02-16 09:59:53</guid>
-		</item>
-		<item>
-			<title>👎Teagan Levine - Initiative Activist</title>
-			<description>Teagan Levine signed up to testify Con.</description>
-			<pubDate>Sun, 16 Feb 2025 10:00:18 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Teagan/Levine/2025-02-16 10:00:18</guid>
 		</item>
 		<item>
 			<title>👍💵Leah Missik - Climate Solutions</title>
@@ -222,44 +182,52 @@
 			<guid isPermaLink="false">testifier/john/worthington/2025-02-16 12:18:32</guid>
 		</item>
 		<item>
+			<title>👍💵Kirk Hovenkotter - Transportation Choices Coalition</title>
+			<description>Kirk Hovenkotter signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/transportation_choices_coalition/"&gt;Transportation Choices Coalition&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 16 Feb 2025 15:40:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kirk/Hovenkotter/2025-02-16 15:40:18</guid>
+		</item>
+		<item>
+			<title>👎Lance Eggers - Me</title>
+			<description>Lance Eggers signed up to testify Con.</description>
+			<pubDate>Sun, 16 Feb 2025 18:10:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lance/Eggers/2025-02-16 18:10:26</guid>
+		</item>
+		<item>
+			<title>👍Ben Bakkenta - Puget Sound Regional Council</title>
+			<description>Ben Bakkenta signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/puget_sound_regional_council/"&gt;Puget Sound Regional Council&lt;/a&gt;.</description>
+			<pubDate>Sun, 16 Feb 2025 18:15:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Bakkenta/2025-02-16 18:15:24</guid>
+		</item>
+		<item>
+			<title>👍Mike Ennis - Washington Trucking Associations (WTA), Washington Asphalt Pavement Association (WAPA), and CRH</title>
+			<description>Mike Ennis signed up to testify Pro. They are signed up to represent Washington Trucking Associations (WTA), Washington Asphalt Pavement Association (WAPA), and CRH.</description>
+			<pubDate>Sun, 16 Feb 2025 19:21:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Ennis/2025-02-16 19:21:57</guid>
+		</item>
+		<item>
+			<title>👎Teagan Levine - Me</title>
+			<description>Teagan Levine signed up to testify Con.</description>
+			<pubDate>Sun, 16 Feb 2025 22:00:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Teagan/Levine/2025-02-16 22:00:18</guid>
+		</item>
+		<item>
 			<title>👎Eyman Tim - Initiative Activist</title>
 			<description>Eyman Tim signed up to testify Con. They are signed up to represent Initiative Activist.</description>
 			<pubDate>Mon, 17 Feb 2025 02:17:35 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Eyman/Tim/2025-02-17 02:17:35</guid>
-		</item>
-		<item>
-			<title>👎Dawn Hebert - Initiative Activist</title>
-			<description>Dawn Hebert signed up to testify Con.</description>
-			<pubDate>Mon, 17 Feb 2025 04:59:14 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Dawn/Hebert/2025-02-17 04:59:14</guid>
-		</item>
-		<item>
-			<title>👍Jerry VanderWood - AGC of Washington</title>
-			<description>Jerry VanderWood signed up to testify Pro. They are signed up to represent AGC of Washington.</description>
-			<pubDate>Mon, 17 Feb 2025 06:15:03 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Jerry/VanderWood/2025-02-17 06:15:03</guid>
-		</item>
-		<item>
-			<title>👍💵Michael Transue - Tacoma Pierce County Chamber</title>
-			<description>Michael Transue signed up to testify Pro. They are signed up to represent Tacoma Pierce County Chamber. They are a registered lobbyist.</description>
-			<pubDate>Mon, 17 Feb 2025 07:13:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Michael/Transue/2025-02-17 07:13:28</guid>
-		</item>
-		<item>
-			<title>👍💵Neil Strege - Washington Roundtable</title>
-			<description>Neil Strege signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_roundtable/"&gt;Washington Roundtable&lt;/a&gt;. They are a registered lobbyist.</description>
-			<pubDate>Mon, 17 Feb 2025 07:58:14 GMT</pubDate>
-			<category>testifier</category>
-			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Neil/Strege/2025-02-17 07:58:14</guid>
 		</item>
 		<item>
 			<title>👍💵Cory Shaw - Washington Aggregates &amp; Concrete Association</title>
@@ -278,30 +246,6 @@
 			<guid isPermaLink="false">testifier/John/Peeples/2025-02-17 08:34:25</guid>
 		</item>
 		<item>
-			<title>👎Jeremy Ickes - Washington State Young Republicans</title>
-			<description>Jeremy Ickes signed up to testify Con. They are signed up to represent Washington State Young Republicans.</description>
-			<pubDate>Mon, 17 Feb 2025 08:55:29 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jeremy/Ickes/2025-02-17 08:55:29</guid>
-		</item>
-		<item>
-			<title>👎Benjamin Reed - Washington State Young Republicans</title>
-			<description>Benjamin Reed signed up to testify Con.</description>
-			<pubDate>Mon, 17 Feb 2025 09:20:53 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Benjamin/Reed/2025-02-17 09:20:53</guid>
-		</item>
-		<item>
-			<title>👎Jeffrey Miller - Washington State Young Republicans</title>
-			<description>Jeffrey Miller signed up to testify Con.</description>
-			<pubDate>Mon, 17 Feb 2025 09:51:12 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jeffrey/Miller/2025-02-17 09:51:12</guid>
-		</item>
-		<item>
 			<title>👎💵Crystal Leatherman - Washington Retail Association</title>
 			<description>Crystal Leatherman signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_retail_association/"&gt;Washington Retail Association&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 17 Feb 2025 10:27:26 GMT</pubDate>
@@ -316,14 +260,6 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Guillermo/Rogel/2025-02-17 11:46:15</guid>
-		</item>
-		<item>
-			<title>❓Joe Kunzler - Citizens for Votes on Taxation</title>
-			<description>Joe Kunzler signed up to testify Other. They are signed up to represent Citizens for Votes on Taxation.</description>
-			<pubDate>Mon, 17 Feb 2025 11:50:52 GMT</pubDate>
-			<category>testifier</category>
-			<category>Other</category>
-			<guid isPermaLink="false">testifier/Joe/Kunzler/2025-02-17 11:50:52</guid>
 		</item>
 		<item>
 			<title>👎Linda Hadley - Washington Retail Association</title>
@@ -350,6 +286,14 @@
 			<guid isPermaLink="false">testifier/Linda/Hadley/2025-02-17 11:56:40</guid>
 		</item>
 		<item>
+			<title>👎Dawn Hebert - Washington Retail Association</title>
+			<description>Dawn Hebert signed up to testify Con.</description>
+			<pubDate>Mon, 17 Feb 2025 16:59:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dawn/Hebert/2025-02-17 16:59:14</guid>
+		</item>
+		<item>
 			<title>Ramos bill to replace gas tax with road usage charge set for committee hearing  - Sen. Bill Ramos</title>
 			<description>News article "Ramos bill to replace gas tax with road usage charge set for committee hearing  - Sen. Bill Ramos" from Senate Democrats.</description>
 			<pubDate>Mon, 17 Feb 2025 17:07:43 GMT</pubDate>
@@ -357,20 +301,60 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/ramos/2025/02/17/ramos-bill-to-replace-gas-tax-with-road-usage-charge-set-for-committee-hearing/#:~:text=Senate%20Bill%205726</guid>
 		</item>
 		<item>
-			<title>👎Sheri Li - Washington Retail Association</title>
-			<description>Sheri Li signed up to testify Con.</description>
-			<pubDate>Tue, 18 Feb 2025 02:08:57 GMT</pubDate>
+			<title>👍Jerry VanderWood - AGC of Washington</title>
+			<description>Jerry VanderWood signed up to testify Pro. They are signed up to represent AGC of Washington.</description>
+			<pubDate>Mon, 17 Feb 2025 18:15:03 GMT</pubDate>
 			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Sheri/Li/2025-02-18 02:08:57</guid>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jerry/VanderWood/2025-02-17 18:15:03</guid>
 		</item>
 		<item>
-			<title>👎Jesse Hatfield - Washington Retail Association</title>
-			<description>Jesse Hatfield signed up to testify Con.</description>
-			<pubDate>Tue, 18 Feb 2025 02:27:43 GMT</pubDate>
+			<title>👍💵Michael Transue - Tacoma Pierce County Chamber</title>
+			<description>Michael Transue signed up to testify Pro. They are signed up to represent Tacoma Pierce County Chamber. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Feb 2025 19:13:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Transue/2025-02-17 19:13:28</guid>
+		</item>
+		<item>
+			<title>👍💵Neil Strege - Washington Roundtable</title>
+			<description>Neil Strege signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_roundtable/"&gt;Washington Roundtable&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Feb 2025 19:58:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Neil/Strege/2025-02-17 19:58:14</guid>
+		</item>
+		<item>
+			<title>👎Jeremy Ickes - Washington State Young Republicans</title>
+			<description>Jeremy Ickes signed up to testify Con. They are signed up to represent Washington State Young Republicans.</description>
+			<pubDate>Mon, 17 Feb 2025 20:55:29 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
-			<guid isPermaLink="false">testifier/Jesse/Hatfield/2025-02-18 02:27:43</guid>
+			<guid isPermaLink="false">testifier/Jeremy/Ickes/2025-02-17 20:55:29</guid>
+		</item>
+		<item>
+			<title>👎Benjamin Reed - Washington State Young Republicans</title>
+			<description>Benjamin Reed signed up to testify Con.</description>
+			<pubDate>Mon, 17 Feb 2025 21:20:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Benjamin/Reed/2025-02-17 21:20:53</guid>
+		</item>
+		<item>
+			<title>👎Jeffrey Miller - Washington State Young Republicans</title>
+			<description>Jeffrey Miller signed up to testify Con.</description>
+			<pubDate>Mon, 17 Feb 2025 21:51:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeffrey/Miller/2025-02-17 21:51:12</guid>
+		</item>
+		<item>
+			<title>❓Joe Kunzler - Citizens for Votes on Taxation</title>
+			<description>Joe Kunzler signed up to testify Other. They are signed up to represent Citizens for Votes on Taxation.</description>
+			<pubDate>Mon, 17 Feb 2025 23:50:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joe/Kunzler/2025-02-17 23:50:52</guid>
 		</item>
 		<item>
 			<title>❓💵Scott Hazlegrove - WA State Auto Dealers Association</title>
@@ -381,7 +365,7 @@
 			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2025-02-18 06:53:35</guid>
 		</item>
 		<item>
-			<title>👎Horace Gresham - Washington Retail Association</title>
+			<title>👎Horace Gresham - Washington State Young Republicans</title>
 			<description>Horace Gresham signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 07:41:15 GMT</pubDate>
 			<category>testifier</category>
@@ -389,7 +373,7 @@
 			<guid isPermaLink="false">testifier/Horace/Gresham/2025-02-18 07:41:15</guid>
 		</item>
 		<item>
-			<title>👎Anthony Holan - Washington Retail Association</title>
+			<title>👎Anthony Holan - Washington State Young Republicans</title>
 			<description>Anthony Holan signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 08:20:40 GMT</pubDate>
 			<category>testifier</category>
@@ -405,7 +389,7 @@
 			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-02-18 08:38:07</guid>
 		</item>
 		<item>
-			<title>👎Barbara Horsfall - Washington Retail Association</title>
+			<title>👎Barbara Horsfall - Washington State Young Republicans</title>
 			<description>Barbara Horsfall signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 09:47:42 GMT</pubDate>
 			<category>testifier</category>
@@ -413,7 +397,7 @@
 			<guid isPermaLink="false">testifier/Barbara/Horsfall/2025-02-18 09:47:42</guid>
 		</item>
 		<item>
-			<title>👎Crystal Moldenhauer - Washington Retail Association</title>
+			<title>👎Crystal Moldenhauer - Washington State Young Republicans</title>
 			<description>Crystal Moldenhauer signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 10:32:06 GMT</pubDate>
 			<category>testifier</category>
@@ -429,7 +413,7 @@
 			<guid isPermaLink="false">testifier/Fred/Yockers/2025-02-18 10:39:53</guid>
 		</item>
 		<item>
-			<title>👎Terrie Richmond - Washington Retail Association</title>
+			<title>👎Terrie Richmond - Washington State Young Republicans</title>
 			<description>Terrie Richmond signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 10:50:36 GMT</pubDate>
 			<category>testifier</category>
@@ -437,7 +421,7 @@
 			<guid isPermaLink="false">testifier/Terrie/Richmond/2025-02-18 10:50:36</guid>
 		</item>
 		<item>
-			<title>👎Lee Fowble - Washington Retail Association</title>
+			<title>👎Lee Fowble - Washington State Young Republicans</title>
 			<description>Lee Fowble signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 11:44:36 GMT</pubDate>
 			<category>testifier</category>
@@ -445,7 +429,7 @@
 			<guid isPermaLink="false">testifier/Lee/Fowble/2025-02-18 11:44:36</guid>
 		</item>
 		<item>
-			<title>👎Troy Schwab - Washington Retail Association</title>
+			<title>👎Troy Schwab - Washington State Young Republicans</title>
 			<description>Troy Schwab signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 11:46:35 GMT</pubDate>
 			<category>testifier</category>
@@ -453,7 +437,7 @@
 			<guid isPermaLink="false">testifier/Troy/Schwab/2025-02-18 11:46:35</guid>
 		</item>
 		<item>
-			<title>👎Rachel Boyes - Washington Retail Association</title>
+			<title>👎Rachel Boyes - Washington State Young Republicans</title>
 			<description>Rachel Boyes signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 11:55:15 GMT</pubDate>
 			<category>testifier</category>
@@ -461,12 +445,28 @@
 			<guid isPermaLink="false">testifier/Rachel/Boyes/2025-02-18 11:55:15</guid>
 		</item>
 		<item>
-			<title>👎Anthony Stockman - Washington Retail Association</title>
+			<title>👎Anthony Stockman - Washington State Young Republicans</title>
 			<description>Anthony Stockman signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 12:37:53 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Anthony/Stockman/2025-02-18 12:37:53</guid>
+		</item>
+		<item>
+			<title>👎Sheri Li - Washington State Young Republicans</title>
+			<description>Sheri Li signed up to testify Con.</description>
+			<pubDate>Tue, 18 Feb 2025 14:08:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sheri/Li/2025-02-18 14:08:57</guid>
+		</item>
+		<item>
+			<title>👎Jesse Hatfield - Washington State Young Republicans</title>
+			<description>Jesse Hatfield signed up to testify Con.</description>
+			<pubDate>Tue, 18 Feb 2025 14:27:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jesse/Hatfield/2025-02-18 14:27:43</guid>
 		</item>
 		<item>
 			<title>Washington pay-per-mile proposal draws praise, skepticism | Washington | thecentersquare.com</title>

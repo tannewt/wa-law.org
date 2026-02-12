@@ -31,8 +31,8 @@ Testifying:
 #### 33 👍 - Pro
 Testifying:
 * Steve Fenberg - Patient Rights Advocate
-* Kevin Morra - Power to the Patients
 * David Koenig - Retired Public Employees Council of WA
+* Kevin Morra - Power to the Patients
 
 #### 31 👎 - Con
 

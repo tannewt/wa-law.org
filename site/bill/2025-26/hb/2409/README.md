@@ -16,6 +16,10 @@
 ### Tue 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 2409 Agricultural employees/PERC
 #### 408 👍 - Pro
 Testifying:
+* Iker Ramon - Familias Unidas por la Justicia
+* Jose Ramirez - Familias Unidas por la Justicia
+* Octavia Santiago Martinez
+* Lazaro Matamoros Zamora - FUJ
 * Giselle Ramirez Silva
 * Tomas Ramon - FUJ
 * Benito Lopez Torrez - FUJ
@@ -26,24 +30,20 @@ Testifying:
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
 * Lucy Madrigal - Community to Community
 * April Sims - Washington State Labor Council, AFL-CIO
-* Iker Ramon - Familias Unidas por la Justicia
-* Jose Ramirez - Familias Unidas por la Justicia
-* Octavia Santiago Martinez
-* Lazaro Matamoros Zamora - FUJ
 
 #### 556 👎 - Con
 Testifying:
-* michael smith
 * Allison Schrader
 * Randy Munn
 * Paul Katovich - HighLine Grain Growers, Inc.
-* Karen Snyder - 3313 106th Ave E
-* 💵Scott Dilley - WAFLA
-* Jason Matson
+* michael smith
 * Lauren Gonzalez
 * Kellie Sundquist - Orchard & Vineyard Supply Co.
 * Kellie Sundquist - Orchard & Vineyard Supply Co.
 * Timothy McDonald - Bluewater Legacy Estates
+* Karen Snyder - 3313 106th Ave E
+* 💵Scott Dilley - WAFLA
+* Jason Matson
 * Mike Connors - Basin Gold
 * Shawn Gay - J&S Orchards
 * Bre Elsey - WA Farm Bureau

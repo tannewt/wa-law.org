@@ -12,6 +12,15 @@
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to clarify pregnancy accommodation protections heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/16/nobles-bill-to-clarify-pregnancy-accommodation-protections-heard-in-committee/#:~:text=Senate%20Bill%206014)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SSB 6014 Pregnancy accommodations
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:00 AM - Labor & Commerce (LC): SB 6014 Pregnancy accommodations
 #### 35 👍 - Pro
 Testifying:

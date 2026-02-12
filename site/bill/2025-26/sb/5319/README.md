@@ -13,8 +13,8 @@
 ### Sat 04/05 09:00 AM - Appropriations (APP): SB 5319 Surface mine reclamation
 #### 3 👍 - Pro
 Testifying:
-* 💵Michael Transue - WA Aggregates and Concrete Association
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Michael Transue - WA Aggregates and Concrete Association
 
 #### 112 👎 - Con
 
@@ -30,13 +30,13 @@ Testifying:
 #### 644 👎 - Con
 Testifying:
 * Brian winkler
-* Timothy Hemphill - Co-owner of Hemphill Brothers, Inc. and Lane Mountain Company
 * Kory Hedrick - Versatile Industries Inc
 * Jim Derrer - Copenhaver Construction, Inc
-* Liza Simmonds
+* Timothy Hemphill - Co-owner of Hemphill Brothers, Inc. and Lane Mountain Company
 * TaraLyn Fray
-* 💵Axel Swanson - Washington State Association of County Engineers
+* Liza Simmonds
 * Kory Hedrick - Versatile Industries Inc
+* 💵Axel Swanson - Washington State Association of County Engineers
 * Jessica Garza - Port of Pend Oreille
 
 #### 0 ❓ - Other

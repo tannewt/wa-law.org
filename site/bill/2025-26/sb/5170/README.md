@@ -20,14 +20,13 @@ Testifying:
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 ### Thu 01/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5170 Concerning boundary line adjustments on public lands owned or managed by the department of natural resources. (Remote Testimony Available). (If measure is referred to committee.)
-#### 30 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
-* Rick Johnson - Stevens County Assessor's Office
 * Wes McCart
-
-#### 1 👎 - Con
-Testifying:
+* Rick Johnson - Stevens County Assessor's Office
 * GARY FETTER - GARY FETTER LAND & LIVESTOCK llc.
+
+#### 0 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

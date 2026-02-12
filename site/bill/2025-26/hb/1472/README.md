@@ -20,10 +20,10 @@
 ### Sat 04/05 09:00 AM - Appropriations (APP): SHB 1472 Yakima & Rainier schools
 #### 121 👍 - Pro
 Testifying:
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Cathy Murahashi - The Arc of Washington
 * 💵Shawn Latham - Self-Advocates in Leadership
 * Tracy Turner
-* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Krista Milhofer - Program Administrator People First of Washington
 
 #### 421 👎 - Con
@@ -32,6 +32,15 @@ Testifying:
 * Brittany Barber - DEPT OF SOC & HLTH SRVS
 * Brittany Barber - DEPT OF SOC & HLTH SRVS
 * Tazia Duncan
+* Micah Balasbas
+* Mark von Walter - Guardian advocate
+* Jeff Carter - Action DD
+* Ken & Tamra Jennings
+* Anton Grambihler
+* Talia Gustin
+* Paul Woodward
+* Pamlia Tallmadge - WFSE
+* Tara Dupont - morningside
 * Doreen Desimone
 * Gary Desimone
 * Brittany Barber - WFSE
@@ -49,12 +58,10 @@ Testifying:
 * Tazia Duncan
 * Marilee Nelson
 * JULIE GUSTAFSON
-* Micah Balasbas
 * Nick McDowell
 * Brooke Stegmeier
 * Kody Pomerenke
 * Sylena Wagner
-* Mark von Walter - Guardian advocate
 * Shaye Anderson
 * Wendy King
 * Jason Ostrer
@@ -65,13 +72,6 @@ Testifying:
 * Steve King
 * Jennifer Milton
 * Karen Chapman
-* Jeff Carter - Action DD
-* Ken & Tamra Jennings
-* Anton Grambihler
-* Talia Gustin
-* Paul Woodward
-* Pamlia Tallmadge - WFSE
-* Tara Dupont - morningside
 * Steven Yates - Citizen
 * Lisa Sauve
 * Kathleen Steyaert
@@ -82,15 +82,18 @@ Testifying:
 ### Wed 03/19 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1472 Yakima & Rainier schools
 #### 282 👍 - Pro
 Testifying:
-* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * 💵Shawn Latham - Serlf Advocates In Leadership
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Krista Milhofer - People First of Washington
+* Tracy Turner
 * ARZU FOROUGH - Washington Autism Alliance
 * Julie Clark - Washington State Developmental Disabilities Council
-* Tracy Turner
 * 💵Corinna Fale
+* Elizabeth Johnston
+* John Lemus - AtWork!
+* Laura Ivanova Smith - Private citizen
 * Eric Matthes
 * Tanika Aden
 * Robert Wardell
@@ -98,16 +101,13 @@ Testifying:
 * Jeanette Merkey
 * mike raymond - People First of Mason County
 * Jeanette Merkey - People First of Washington state
-* Elizabeth Johnston
-* John Lemus - AtWork!
-* Laura Ivanova Smith - Private citizen
+* Resa Hayes
+* Melanie Baker - self advocate
 * Katrina Boik
 * 💵Darla Helt - PEACE
 * Russell (Rusty) Allphin - Taxpayer in Ellensburg
 * Dennis Smiley
 * Margaret-Lee Thompson - PARENT ADVOCATE
-* Resa Hayes
-* Melanie Baker - self advocate
 
 #### 448 👎 - Con
 Testifying:
@@ -117,6 +117,8 @@ Testifying:
 * Terri Anderson - Action DD
 * Ryan Feamster
 * Steven Yates - Citizen
+* Bryan Marsh - Bonney Lake House
+* Joey Dormady
 * Bethlehem Demissie
 * Nghi Julie Huynh
 * Joseph Thull
@@ -130,28 +132,26 @@ Testifying:
 * Abebe Workineh
 * Camilo V Valencia
 * Marcelo Bartolome
-* Bryan Marsh - Bonney Lake House
-* Joey Dormady
 * Leslie Moon
-* Julianne Moore
-* Gregory Cobb - Union Gap Police Department (Union Gap, WA)
-* Rusty Allphin
-* Sher Kirkpatrick
 * Brittany Barber - WA Federation of State Employees
 * Mike Yestramski - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Nicole Gomez - WA Federation of State Employees/Lobbyist
 * Willis McNabb - citizen
+* Julianne Moore
+* Gregory Cobb - Union Gap Police Department (Union Gap, WA)
+* Rusty Allphin
+* Sher Kirkpatrick
 * Diana Aresu
-* Tazia Duncan
-* Mckenna Reagan
-* Mary Jo Harrison
-* Mark Kirkpatrick
-* Shannon Patton
 * Karina Tharge
 * Micah Balasbas
 * Dustin Soptich - Selah PD
 * Roger Bell - City of Selah
 * Julianne Moore - Friends of Yakima Valley School
+* Tazia Duncan
+* Mckenna Reagan
+* Mary Jo Harrison
+* Mark Kirkpatrick
+* Shannon Patton
 * Tazia Duncan
 * Sher Kirkpatrick
 * Amanda Joslin

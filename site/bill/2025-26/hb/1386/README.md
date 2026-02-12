@@ -38,15 +38,18 @@ Testifying:
 #### 1339 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
+* Michael McKinley
+* Dan Chavre - Chavre
 * Tom Klotz
 * Teodorin Morca
 * Anthony Mixer - Washington State Young Republicans
 * Jane Milhans
-* Michael McKinley
-* Dan Chavre - Chavre
 * Jeremy Ball
 * George Nervik
 * Teodorin Morca
+* Christopher Savage - [Spokane County](/org/spokane_county/)
+* Edward May - [Ducks Unlimited](/org/ducks_unlimited/)
+* Ron Davidson
 * Floyd Payne
 * 💵Aoibheann Cline - NRA
 * Hiedi Mitchell - Minuteman Ammo
@@ -60,12 +63,9 @@ Testifying:
 * Matthew Causey
 * Elizabeth VanSteertegem
 * Brendan Miller
-* Christopher Savage - [Spokane County](/org/spokane_county/)
 * Eric Pratt - America
-* Edward May - [Ducks Unlimited](/org/ducks_unlimited/)
 * Pedro Lopes
 * Anderson Kim
-* Ron Davidson
 * Austin Reed
 * Micheal Picon II
 * Justin Whitaker

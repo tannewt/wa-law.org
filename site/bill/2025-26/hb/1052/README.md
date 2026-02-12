@@ -40,8 +40,8 @@ Testifying:
 Testifying:
 * Laurie Layne
 * Gregor Doerr - Washington State Young Republicans
-* Randy Welch
 * TaraLyn Fray
+* Randy Welch
 * Sandra Mochizuki
 * Sharon Damoff
 

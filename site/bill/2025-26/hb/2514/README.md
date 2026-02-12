@@ -19,8 +19,8 @@ Testifying:
 * Robert Olivarez
 * Brandon Mitalas
 * NATHAN Moran
-* Jane Hughes - Gold Star Families of Washington
 * Kristen Skinner
+* Jane Hughes - Gold Star Families of Washington
 * Jennifer Prewitt
 * Susan Woods - Veterans Legislative Coalition
 

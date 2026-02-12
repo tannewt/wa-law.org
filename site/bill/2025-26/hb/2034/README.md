@@ -25,10 +25,10 @@ Testifying:
 #### 297 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* David Maehren
-* Fran Grant - Retired Public Employees Council of Wa
 * Lisa Won - OSA - available for questions
 * Clair Olivers - Retired Public Employees Council of WA
+* David Maehren
+* Fran Grant - Retired Public Employees Council of Wa
 * 💵Dennis Lawson - Washington State Council of Fire Fighters
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
 * Patrick McElligott - Tacoma Professional Firefighters Local 31

@@ -21,9 +21,9 @@
 ### Tue 02/11 08:00 AM - Finance (FIN): HB 1334 Property tax revenue growth
 #### 138 👍 - Pro
 Testifying:
+* Joe Bushnell - Councilmember, City of Tacoma
 * Angela Birney - Mayor, City of Redmond
 * Drew Nazarian - PROTEC17
-* Joe Bushnell - Councilmember, City of Tacoma
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Jen Burbidge - Washington Recreation & Park Association
@@ -34,15 +34,21 @@ Testifying:
 
 #### 12173 👎 - Con
 Testifying:
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * John Axtell
 * Tad Sommerville
-* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Laurie Layne
 * Amber Craven
 * Stephen McDuffie
 * Dakota Manley - Washington State Young Republicans
 * Anthony Mixer - Washington State Young Republicans
 * Dakota Manley - Washington State Young Republicans
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Sid Mellema
+* Tim Eyman - Initiative Activist
+* Cheldon North.
+* Kristi Peterson
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * Kevin Stich
 * Linda Wojciechowski
@@ -58,9 +64,7 @@ Testifying:
 * Mina Rezaei
 * Ying Wang
 * Marie Chrastina
-* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Shanshan Peng
-* Sid Mellema
 * rui ye
 * Christopher LaValley
 * Nolan Navlet
@@ -68,16 +72,12 @@ Testifying:
 * Yibei Zhou
 * MICHAEL YOUNG
 * Mike Beet
-* Tim Eyman - Initiative Activist
 * Ida Chiu
-* Cheldon North.
 * Fangning He
-* Kristi Peterson
 * Kymberlee Schoonover
 * YingQiang Wang
 * Felicity Chong
 * Felicity Chong
-* Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * Benine McDonnell
 * Teri Perkins
 * Koryee Law
@@ -86,7 +86,7 @@ Testifying:
 
 #### 50 ❓ - Other
 Testifying:
+* Brandon Haimes
 * Min Xiang
 * Shirley Liao
-* Brandon Haimes
 * Bruce Mayton

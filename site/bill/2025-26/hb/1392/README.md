@@ -43,7 +43,6 @@ Testifying:
 #### 255 👍 - Pro
 Testifying:
 * Reilly Dever
-* Douglas Seiler - TRA Medical Imaging
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Sean Graham - Washington State Medical Association
@@ -54,8 +53,8 @@ Testifying:
 
 #### 98 👎 - Con
 Testifying:
-* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Chris Bandoli - National Association of Benefits and Insurance Professionals Washington
 
 #### 3 ❓ - Other

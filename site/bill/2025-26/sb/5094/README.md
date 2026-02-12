@@ -21,10 +21,10 @@ Testifying:
 
 #### 190 👎 - Con
 Testifying:
-* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Joanne Smieja - WA Voices
 * Lisa Trifiletti
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
 #### 4 ❓ - Other
 Testifying:

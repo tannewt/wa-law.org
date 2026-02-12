@@ -16,11 +16,11 @@
 #### 362 👍 - Pro
 Testifying:
 * Defne Yildirim
-* Gabbi Nazari - Pro-Choice Washington
-* Dr. Ying Zhang
 * Caitlin Safford - Office of the Governor
 * Katie Eilers - [Department of Health](/org/department_of_health/)
 * Samantha Grono - Washington State Women's Commission
+* Gabbi Nazari - Pro-Choice Washington
+* Dr. Ying Zhang
 
 #### 385 👎 - Con
 Testifying:

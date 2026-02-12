@@ -16,8 +16,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍2  ❓3
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
-* ❓ Christopher Stanley
 * ❓ Brittany Gregory
+* ❓ Christopher Stanley
 * ❓ Dawn Marie Rubio
 
 ### [HB 1207](/bill/2025-26/hb/1207/) - Superior court clerk fees  👎1 
@@ -46,9 +46,9 @@
 * 👍 Christopher Stanley
 
 ### [SB 5167](/bill/2025-26/sb/5167/) - Operating budget   ❓3
-* ❓ Christopher Stanley
 * ❓ Brittany Gregory
 * ❓ Dawn Marie Rubio
+* ❓ Christopher Stanley
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 Haily Perkins

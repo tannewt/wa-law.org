@@ -18,8 +18,8 @@ Testifying:
 * Meja Handlen - Lewis County Public health & Social Services
 * Andy Oien - Centralia Public Works
 * Madoleen Goddard
-* Sean Swope
 * Chris Stone - Water Operations Manager, City of Centralia
+* Sean Swope
 * Norm Chapman - Mayor, City of Centralia
 * Jeff Landrum - Environmental Health Specialist
 * Joe Wiley - Lewis County Public Health and Social Services

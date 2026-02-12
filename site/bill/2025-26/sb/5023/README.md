@@ -53,6 +53,7 @@ Testifying:
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5023 Domestic workers
 #### 460 👍 - Pro
 Testifying:
+* Rocio Avila - National Domestic Workers Alliance
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * Ingrid Chapman
 * Silvia Gonzalez - [Casa Latina](/org/casa_latina/)
@@ -61,15 +62,19 @@ Testifying:
 * Edilka Dominguez
 * Olga de la Cruz
 * Maria Flores
-* Rocio Avila - National Domestic Workers Alliance
+* Maria Elena Echeverria
+* Maria Elena Echeverria
 * Elvia Cortes
 * Jael Cuellar
 * Jordan Goldwarg
 * Dawn Utzig
 * Doris Hinrich
 * Laura Gonzalez
-* Maria Elena Echeverria
-* Maria Elena Echeverria
+* Guadalupe Paredes
+* Emily Dills
+* Emily Dills
+* Emily Dills
+* Jordan Goldwarg
 * Lilia Salmeron
 * Lisbeth Herrera
 * Maria Suchilt
@@ -77,11 +82,6 @@ Testifying:
 * Veronica Sanchez
 * Guadalupe Parades
 * Veronica Sanchez
-* Guadalupe Paredes
-* Emily Dills
-* Emily Dills
-* Emily Dills
-* Jordan Goldwarg
 
 #### 305 👎 - Con
 Testifying:

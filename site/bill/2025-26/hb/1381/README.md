@@ -11,9 +11,9 @@
 ### Tue 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 1381 Elections/language assist.
 #### 180 👍 - Pro
 Testifying:
-* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * 💵Giovanni Severino
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * Brenda Morgan - OneAmerica
 * Soumyo Lahiri-Gupta - OneAmerica
 

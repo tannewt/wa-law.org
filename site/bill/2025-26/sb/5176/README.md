@@ -39,20 +39,20 @@ Testifying:
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 2 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Fri 01/17 10:30 AM - State Government & Elections (SGE): SB 5176 Implementing prompt pay recommendations from the capital projects advisory review board. (Remote Testimony Available). (If measure is referred to committee.)
 #### 66 👍 - Pro
 Testifying:
-* Jerry VanderWood - Associated General Contractors (AGC)
-* Van Collins - PO Box 65051
 * Linneth Riley-Hall - Capital Projects Advisory Review Board (CPARB)
 * Lekha Fernandes - CPARB (BE/DBI sub committee), OMWBE
+* Jerry VanderWood - Associated General Contractors (AGC)
+* Van Collins - PO Box 65051
 * 💵Paula Sardinas - WBBA/TABOR 100
-* Jimmy Matta - Northwest Minority Builders Alliance (NWMBA)
 * Julius Brooks - Yates Consulting
+* Jimmy Matta - Northwest Minority Builders Alliance (NWMBA)
 * 💵Axel Swanson - Washington State Association of County Engineers
 * 💵Paula Sardinas - WBBA/Tabor 100
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

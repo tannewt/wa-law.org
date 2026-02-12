@@ -17,15 +17,15 @@
 Testifying:
 * Amani Sawari
 * Rachael Ann Snell
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * David Thometz - Self-advocate
 * Heather Kelly - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
 * Raymond Williams - Just Us Solutions
 * 💵Arthur Longworth - TeamChild
-* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* Jordan Landry
 * Derek Jones
 * 💵Kristin Ang - Faith Action Network (FAN)
-* Jordan Landry
 * Tom Sahlberg
 * Katie Welch
 * Larry Jefferson - Washington State Reentry Council and Washington State Office of Public Defense
@@ -45,7 +45,7 @@ Testifying:
 * Danielle Armbruster - Department of Corrections
 * Kellett Sayre - Department of Corrections
 * Sean Murphy - Department of Corrections
+* Kevin Bovenkamp - DSHS Behavioral Health Administration
 * Bryan Glant
 * Rudy Madrigal
-* Kevin Bovenkamp - DSHS Behavioral Health Administration
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

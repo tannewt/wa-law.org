@@ -40,5 +40,5 @@ Testifying:
 * Dana Debel - [Delta Air Lines](/org/delta_air_lines/)
 * Jeremy Horn - Horizon Air
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
-* Josh Dye - Employment Security
 * Alison Eldridge - Employment Security Department
+* Josh Dye - Employment Security

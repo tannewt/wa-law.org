@@ -25,14 +25,14 @@ Testifying:
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * Chris McCabe - Northwest Pulp and Paper Association
 * Josh Estes - Association of Western Pulp & Paper Workers
-* Perry Hanson - Simplot Company
 * 💵Diana Carlen - Food NW
+* Perry Hanson - Simplot Company
 
 #### 7 ❓ - Other
 Testifying:
+* Joel Creswell - Washington Department of Ecology
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Edgar Scott - [Kaiser Aluminum](/org/kaiser_aluminum/)
 * Joe Schwindt - USW Local 338
-* Joel Creswell - Washington Department of Ecology
 * 💵Steve Taylor - Cowlitz PUD
 * Toyin Olowu - Nucor Steel

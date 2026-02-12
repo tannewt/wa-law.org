@@ -22,8 +22,12 @@ Testifying:
 * Councilmember Lindsey Schromen-Wawrin - City of Port Angeles
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Soumyo Lahiri-Gupta - OneAmerica
-* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* 💵Erin Haick - SEIU 925
+* 💵Erin Lee
+* 💵Karen Strickland - American Federation of Teachers, Washington
+* 💵Paul Benz - Quaker Voice
 * Lexi Koren - Invest in Washington Now
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
@@ -61,24 +65,20 @@ Testifying:
 * Lilly Deerwater
 * Abigail Leong
 * 💵Emily Vyhnanek
-* 💵Erin Haick - SEIU 925
-* 💵Erin Lee
-* 💵Karen Strickland - American Federation of Teachers, Washington
-* 💵Paul Benz - Quaker Voice
 
 #### 3161 👎 - Con
 Testifying:
+* Jared Krogh
 * Laurie Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Brandie Bills
-* Jared Krogh
 * Tim Eyman - Initiative Activist
-* George Henson
 * Tim Eyman - Initiative Activist
-* Jimmy Ranson
 * Dakota Manley - Washington State Young Republicans
-* Rebecca Hewlett
+* George Henson
+* Jimmy Ranson
 * Douglas Patton
+* Rebecca Hewlett
 * Julie Dowell
 * David Dowell
 

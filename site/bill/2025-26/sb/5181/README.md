@@ -71,8 +71,8 @@ Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Albert Johnson
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
-* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Sara Betnel
 * LINDEN JORDAN - PFLAG Skagit
 
@@ -89,8 +89,6 @@ Testifying:
 * Bob Runnells - Informed Choice Washington
 * Bobbi Moody
 * Kelly Randall
-* Michelle Dunn - Non
-* Scott Carlyle
 * Antoinette Nepper
 * mike johnson
 * Michael Cantrell
@@ -99,6 +97,11 @@ Testifying:
 * Jennifer Heine-Withee - FPIW Action
 * Chad Alexander
 * Steven Hayes
+* Linda Wow
+* Sandra Mochizuki
+* Eric Lundberg
+* Michelle Dunn - Non
+* Scott Carlyle
 * Terrica Sallee
 * Patrick Harper
 * Andy hilton
@@ -106,19 +109,26 @@ Testifying:
 * Gary Swift
 * Patti Thomas
 * Dannielle Richins
-* Linda Wow
-* Sandra Mochizuki
 * Mark Emmett
 * Will Swoveland
-* Eric Lundberg
+* Gregory Powers
+* Kathleen Backous - KathleenBackous@yahoo.com
+* Kathleen Backous
+* Todd Lytle
+* Seth Stewart
+* Dana Schrader
+* Anthony Mixer - Washington State Young Republicans
+* Amanda Kletke
+* Kelly O’Brien
+* John Axtell
+* mike johnson
+* Ida Bear Robb
 * L Bassett
 * Linda Yang
 * Yu XiA
 * Gang Hua
 * Hailey Irvine
-* Kathleen Backous - KathleenBackous@yahoo.com
 * Mathew Leonard
-* Kathleen Backous
 * Janene Petersen
 * Xiue Jiang
 * Janene Petersen
@@ -160,7 +170,6 @@ Testifying:
 * Shannon Hayes
 * Henry Taylor
 * Stephen Spencer
-* Todd Lytle
 * Ardith Lupton
 * betty barbee - na
 * Bradley Corner
@@ -169,7 +178,6 @@ Testifying:
 * Kari Sabye
 * Duane Lee
 * Jesus Enriquez Enriquez
-* Seth Stewart
 * Anne Chapman
 * Jodi Ausbun
 * Jasmine Deng
@@ -188,18 +196,15 @@ Testifying:
 * Joel Easling
 * Kan Qiu - American Coalition for Equality
 * Elizabeth New - Washington policy center
-* Dana Schrader
 * Anna Hardin
 * Michael Carroll
 * John grey - John Grey
-* Anthony Mixer - Washington State Young Republicans
 * Grace Yan
 * James Fowler
 * Joyce Rong
 * Dan Watt
 * Elizabeth Eckels
 * Elizabeth Eckels
-* Amanda Kletke
 * Evelyne Bishopp
 * GINA NATUCCI
 * Kevin Hauenstein
@@ -207,9 +212,7 @@ Testifying:
 * Heidi Forslund
 * Bryan Hoog
 * Stephen Blai
-* Kelly O’Brien
 * Joshua Rochek
-* John Axtell
 * Gerald Chaney
 * Janice Wheat
 * Wendy Chaney
@@ -224,9 +227,7 @@ Testifying:
 * Tawny Hiett
 * Ping Chen
 * Jessica Trotter
-* Gregory Powers
-* mike johnson
-* Ida Bear Robb
+* John Patterson
 * Michael Lamagna
 * Mary Falk
 * Kathy Nelsen
@@ -430,7 +431,6 @@ Testifying:
 * Rudy Van Ry
 * John. Vitkauskas
 * Patty Hale
-* John Patterson
 * Matthew Curry
 * Casey Andrews
 
@@ -445,48 +445,48 @@ Testifying:
 * Danni Askini - Gender Justice League
 * Devin Owens
 * Felicia Walker
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Amy Cannava - Washington State Association of School Psychologists
+* Taylor Farley - Queer Power Alliance
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Jocelyn Richey
 * Katelyn Abston
-* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 * 💵Rebekah Gardea - QLaw Foundation of Washington
 * Emily Carmichael
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Sarah Hurlburt
-* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Megan Roseman
-* Amy Cannava - Washington State Association of School Psychologists
-* Taylor Farley - Queer Power Alliance
 
 #### 1960 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Jennifer Heine-Withee
-* Khushdip Brar - School Board Director
 * Tim Eyman - Initiative Activist
+* Khushdip Brar - School Board Director
 * Latasha Mae - 14314 Ne 7th pl
 * Theresa Schrempp
-* Christian Nelson
-* Austin Boswell
 * Laurie Layne
 * Tonya Hickman - Lynden School Board
-* Autumn Meadows
+* Christian Nelson
+* Austin Boswell
 * Eyman Tim - initiative Activist
+* Autumn Meadows
 * Dawn Land - Reject 5599 PAC
-* Theresa Schrempp
 * Sarah Garriott
-* Alan Nolan - Mead School District
-* Dakota Manley - Washington State Young Republicans
-* Bob Runnells - Informed Choice Washington
 * 💵Jean Hill - Washington State Catholic Conference
 * Eric Lundberg
 * Ronda Litzenberger - Eatonville School Board
 * Brian Anderson
-* Latasha Mae
+* Theresa Schrempp
+* Alan Nolan - Mead School District
+* Dakota Manley - Washington State Young Republicans
+* Bob Runnells - Informed Choice Washington
 * Darryl Jones
+* Latasha Mae
 
 #### 2 ❓ - Other
 Testifying:

@@ -40,10 +40,10 @@ Testifying:
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
-* Annie Sawyer
 * Frank Harris - Mothers Against Drunk Driving
 * Ashley Bonus
 * Chase Glasser - SAFE: Safety and Advocacy for Empowerment
+* Annie Sawyer
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Shellie Coury
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

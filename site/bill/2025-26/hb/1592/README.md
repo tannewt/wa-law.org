@@ -15,13 +15,13 @@
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 1592 Public defense services
 #### 34 👍 - Pro
 Testifying:
+* 💵Curtis Steinhauer - Washington Association of Counties
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kyle Moore - [City of Kent](/org/city_of_kent/)
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Sarah Hudson - Washington Defender Association & Washington Association of Criminal Defense Lawyers
 * Regan Boli - [City of Covington](/org/city_of_covington/)
 * Albert Tripp - [City of Airway Heights](/org/city_of_airway_heights/)
-* 💵Curtis Steinhauer - Washington Association of Counties
-* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Kyle Moore - [City of Kent](/org/city_of_kent/)
 
 #### 247 👎 - Con
 
@@ -39,8 +39,6 @@ Testifying:
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Larry Jefferson - Director, Washington State Office of Public Defense
-* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
-* Bianca Siegl - [City of Bellevue](/org/city_of_bellevue/)
 * LaDon Linde - Yakima County Commissioner
 * Austin Field - King County DPD
 * Molly Gilbert - KCDPD
@@ -52,6 +50,8 @@ Testifying:
 * 💵Jorge Baron - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Megan Dunn - Snohomish County
 * Ryan Mello
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Bianca Siegl - [City of Bellevue](/org/city_of_bellevue/)
 
 #### 0 👎 - Con
 

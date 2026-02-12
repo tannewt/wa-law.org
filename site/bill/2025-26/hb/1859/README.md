@@ -15,15 +15,15 @@
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1859 Housing dev./religious orgs.
 #### 189 👍 - Pro
 Testifying:
-* Angela Birney - City of Redmond Mayor
 * Victoria OBanion
+* Angela Birney - City of Redmond Mayor
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Carolyn Read - Board President for Associated Ministries
-* Patricia Roundy - Mason United Methodist Church, Tacoma, WA
-* Shalom Agtarap
 * Brian Grow - Proclaim Liberty, affordable housing
 * Michael Blumson - LISC
+* Patricia Roundy - Mason United Methodist Church, Tacoma, WA
+* Shalom Agtarap
 * Saghar Amini - Habitat for Humanity Seattle-King & Kittitas Counties
 * Dave Hamilton - City of Bellevue Deputy Mayor
 * Brianna Dilts - [Faith Action Network](/org/faith_action_network/)

@@ -21,21 +21,21 @@
 #### 679 👍 - Pro
 Testifying:
 * Pyper Hayden
-* Meghin Margel
-* Harper Haroldson-Margel
-* Jenny Choi - Governor Ferguson's Office
 * Karen Brown - WA School Nutrition Association
 * Leeda Beha - WA School Nutrition Association
 * 💵Mitch Denning - Alliance of Educational Associations
+* Meghin Margel
+* Harper Haroldson-Margel
+* Jenny Choi - Governor Ferguson's Office
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Alex Hur - Communities in Schools of Washington
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Cecilia Chavez - Toppenish Community Chest
 * 💵Giovanni Severino - Latino Community Fund of WA State
-* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
-* Ben Atkinson - Washington State Academy of Nutrition and Dietetics
-* Eleanor Lenihan
 * 💵Giovanni Severino
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Ben Atkinson - Washington State Academy of Nutrition and Dietetics
+* Eleanor Lenihan
 * Mike Boland
 * Paul Marquardt - Bethel Schools
 

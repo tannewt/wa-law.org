@@ -17,12 +17,12 @@ Testifying:
 * Charles Longshore - Department of Corrections
 * Carlos Bernardez - Department of Corrections
 * Ralph Dunuan - Department of Corrections
-* Abigail Leong - Washington Voting Justice Coalition
-* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
-* Clinton Charles Branch - I Did the Time
 * Heather Kelly - League of Women Voters of WA
 * Jacob Ivan Schmitt - Just Us Solutions
 * Kurtis Robinson - I Did the Time
+* Abigail Leong - Washington Voting Justice Coalition
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Clinton Charles Branch - I Did the Time
 * Kyle Lucas - Chair, Urban Indians Northwest
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 

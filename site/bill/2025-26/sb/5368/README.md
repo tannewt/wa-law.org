@@ -16,18 +16,18 @@
 #### 146 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
 * 💵Carrie Tellefson - RNDC
 * Charlie Brown - [Diageo](/org/diageo/)
-* 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
 * Jack Morrow - Southern Glazers Wine and Spirits
 * Lisa Cole - Southern Glazers Wine and Spirits
 
 #### 558 👎 - Con
 Testifying:
 * TaraLyn Fray
-* Sandra Mochizuki
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Sandra Mochizuki
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
 #### 0 ❓ - Other
@@ -71,5 +71,5 @@ Testifying:
 #### 4 ❓ - Other
 Testifying:
 * Steve Ewing - Dept. of Revenue
-* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)

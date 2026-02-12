@@ -23,12 +23,12 @@ Testifying:
 * Dan Alsaker - The Broadway Group
 * Don Rhoads - The Convenience Group
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Barry Galen - Collector's Choice Restaurant
 * Clayton Krueger - Farrelli's Wood Fire Pizza
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Samantha Burdman - Glass Bottle Creamery
+* Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 
 #### 60 👎 - Con
 Testifying:

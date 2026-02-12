@@ -10,8 +10,8 @@
 ### Tue 01/21 01:30 PM - Health Care & Wellness (HCW): HB 1034 Nonopioid drugs for pain
 #### 24 👍 - Pro
 Testifying:
-* Allison Fine - Center for Chronic Illness
 * Chris Fox - Voices for Non-Opioid Choices
+* Allison Fine - Center for Chronic Illness
 * 💵Lori Grassi - WA State Chiropractic Association
 
 #### 1 👎 - Con

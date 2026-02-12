@@ -27,7 +27,5 @@ Testifying:
 * 💵Briahna Murray - Lobbyist, City of Tacoma
 
 #### 4 👎 - Con
-Testifying:
-* Steven Drew - Thurston County Assessor & co chair of the legislative committee for The Wa Association of Assessors
 
 #### 0 ❓ - Other

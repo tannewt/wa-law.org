@@ -41,10 +41,10 @@ Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Bill Clarke - Washington REALTORS
+* Ruby Holland
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * 💵Andrea Smiley - Building industry association of Washington
 * 💵Amina Abdalla - City of Redmond and Kent
-* Ruby Holland
 
 #### 18 👎 - Con
 
@@ -57,9 +57,9 @@ Testifying:
 #### 353 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Justin Wood
 * Alex Harrington - NAIOP Washington State
-* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Bill Clarke - WA REALTORS
 * 💵Blake Baldwin - [Hayden Homes](/org/hayden_homes/)
 

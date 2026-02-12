@@ -23,6 +23,9 @@ Testifying:
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Sara Betnel - Shoreline School Board
 * Felicia Walker
+* Asher Robertsonmeyer - Middle School student
+* Amy Cannava - Washington State Association of School Psychologists
+* Taylor Farley - Queer Power Alliance
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Alex [withheld for privacy] - High school student
 * Bebeth Steudel
@@ -32,32 +35,29 @@ Testifying:
 * Emily Carmichael
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
-* Asher Robertsonmeyer - Middle School student
-* Amy Cannava - Washington State Association of School Psychologists
-* Taylor Farley - Queer Power Alliance
 * Alexis Janson
 
 #### 1258 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff
-* Khushdip Brar
-* Trish Huddleston - Citizen Rights
 * Jennifer Heine-Withee
+* Trish Huddleston - Citizen Rights
+* Khushdip Brar
 * Agata Bergstrom
 * Christian Nelson
 * Trish Huddleston - School Board Director
 * Drees Cushman - Middle school student
 * Joy Cushman - High school student
+* Dawn Land
 * Sarah Garriott
 * Abigail Hornshuh
 * Gabriel Jacobs
 * Justine Kreher
-* Dawn Land
 * Diane Dondero - Grandparents
 
 #### 4 ❓ - Other
 Testifying:
+* Lisa Keating - WA State LGBTQ Commission
 * 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
 * Bryanna Jenkins - [Lavender Rights Project](/org/lavender_rights_project/)
-* Lisa Keating - WA State LGBTQ Commission

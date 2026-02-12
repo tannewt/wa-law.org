@@ -31,8 +31,8 @@ Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Natalie Wilkins
 * Rachel Cortez - Washington State Office of Public Defense
-* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Yewobdar Tiezazu
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * LaDon Linde - Yakima County Commissioner
 * Loni Simone

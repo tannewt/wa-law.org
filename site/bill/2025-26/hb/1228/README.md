@@ -24,8 +24,8 @@ Testifying:
 * Bradley Lane - State Traffic Safety Resource Prosecutor
 * Bruce Adsero - Washington Association of  Criminal Defense Lawyers, and Washington Defender Association
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1228 Toxicology testing
 #### 4 👍 - Pro

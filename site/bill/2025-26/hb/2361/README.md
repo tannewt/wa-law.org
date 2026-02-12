@@ -16,12 +16,12 @@ Testifying:
 #### 249 👎 - Con
 Testifying:
 * Cathy MacCaul - AARP Washington
+* Demas Nesterenko - SEIU775
 * Caesar Carter
 * 💵Marcy Bowers - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Yasmin Farahi - [Center for Responsible Lending](/org/center_for_responsible_lending/)
 * 💵Denisse Guerrero - Washington Community Alliance
 * Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
-* Demas Nesterenko - SEIU775
 * Kristina Sawyckyj
 
 #### 1 ❓ - Other

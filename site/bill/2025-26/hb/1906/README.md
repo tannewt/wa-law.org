@@ -23,9 +23,9 @@ Testifying:
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1906 Water system rates
 #### 43 👍 - Pro
 Testifying:
-* Susan Gilman
 * Terri DiMartino
 * Lily Todd - Lily Todd
+* Susan Gilman
 * Rick Smith
 * Vicki Colburn
 * 💵Bill Clarke - WA PUD Association + Pierce Water Cooperative

@@ -32,7 +32,6 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
-* 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Fri 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1070 PTSD/correctional workers
 #### 205 👍 - Pro

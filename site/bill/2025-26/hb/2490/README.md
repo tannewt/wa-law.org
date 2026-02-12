@@ -16,8 +16,8 @@ Testifying:
 * Marc Stern
 * Karen Peacey - League of Women Voters of WA
 * Karen Peacey - League of Women Voters of WA
-* Melody Simle
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* Melody Simle
 * Sarah Leon
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * Heather Kelly - League of Women Voters of WA

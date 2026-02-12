@@ -50,12 +50,12 @@ Testifying:
 * Lynn Mason - Coexisting with Cougars in Klickitat County
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
 * 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
-* Barbara Geiger
 * Melissa Brinks
+* Barbara Geiger
 * Heather Kelly - League of Women Voters
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Ryan Disch-Guzman - Washington Alliance for Gun Responsibility
-* 💵Elizabeth Hendren
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Lyle Quasim - Tacoma Pierce County Black Collective
 * Eliana Machefsky - National Lawyers Guild Police Accountability Project
@@ -65,8 +65,8 @@ Testifying:
 #### 651 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Melanie Brown
 * Donald Brockett
+* Melanie Brown
 * Kevin Lammerding
 * April Langford - Purgatory Apotheca
 * Atina Holan

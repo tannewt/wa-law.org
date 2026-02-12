@@ -23,10 +23,10 @@ Testifying:
 ### Mon 01/26 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6211 Real estate excise taxes/GMA
 #### 180 👍 - Pro
 Testifying:
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)
 * Rick Eskill - [City of Walla Walla](/org/city_of_walla_walla/)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 252 👎 - Con
 Testifying:

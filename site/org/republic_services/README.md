@@ -2,8 +2,8 @@
 ## 2025-26
 
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍5  
-* 👍💵 Natalie Hester
 * 👍 Wendy Weiker
+* 👍💵 Natalie Hester
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1 👎4 
 

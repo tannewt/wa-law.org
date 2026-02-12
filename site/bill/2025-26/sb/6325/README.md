@@ -14,6 +14,7 @@
 ### Thu 01/29 01:30 PM - Higher Education & Workforce Development (HEWD): SB 6325 Higher education procedures
 #### 48 👍 - Pro
 Testifying:
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Chris Mulick - Washington State University
 * 💵Nora Selander - Western Washington University
 * Beth Ebel - University of Washington Faculty Legislative Rep
@@ -21,7 +22,6 @@ Testifying:
 * Sam Ligon - Washington State Council of Faculty; EWU Faculty Legislative Rep.
 * Bidisha Biswas - Faculty Legislative Rep for WWU
 * Stephen Bollens - Washngton State University Faculty Senate
-* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Chemene Crawford - Everett Community College
 * Bill Lyne - United Faculty of Washington State
 * 💵Jacqui Cain - American Federation of Teachers (AFT-WA)

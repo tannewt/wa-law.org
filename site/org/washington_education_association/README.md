@@ -881,6 +881,11 @@
 ### [SB 5969](/bill/2025-26/sb/5969/) - IEP transition plans 👍4  
 * 👍💵 Nasue Nishida
 
+### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍3  
+* 👍 DJ Brimmer
+* 👍💵 Simone Boe
+* 👍 Lauren Dandridge
+
 ### [SB 5978](/bill/2025-26/sb/5978/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  

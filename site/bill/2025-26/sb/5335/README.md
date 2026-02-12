@@ -30,9 +30,9 @@ Testifying:
 #### 158 👍 - Pro
 Testifying:
 * Brenda Senger - Rural Nursing Education Program (RNEP)
+* Theresa Bowden - self
 * Ramona Hicks
 * Ashley Anderson
-* Theresa Bowden - self
 * Brenda Senger - Rural Nurse Education Program (RNEP)
 * Jacqueline Barton True - Washington State Hospital Association
 * Mike Martinoli

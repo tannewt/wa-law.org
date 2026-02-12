@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/16 08:30 AM - State Government & Elections (SGE): HB 2417 Military code/victim rights
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2417 Military code/victim rights
 #### 153 👍 - Pro
 Testifying:

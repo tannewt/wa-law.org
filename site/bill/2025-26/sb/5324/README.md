@@ -12,7 +12,7 @@
 #### 17 👍 - Pro
 Testifying:
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
-* Heidi Kriz
+* Heidi Kriz - Regence
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 1 👎 - Con

@@ -10,6 +10,15 @@
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205581)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Transportation (TR): ESB 5581 Safe system approach strat.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 04/03 01:30 PM - Transportation (TR): SB 5581 Safe system approach strat.
 #### 139 👍 - Pro
 Testifying:

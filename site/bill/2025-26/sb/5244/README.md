@@ -27,11 +27,11 @@ Testifying:
 ### Thu 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 5244 WIC hematological screening
 #### 8 👍 - Pro
 Testifying:
+* Apoorva Mallya - [Hepatitis Education Project](/org/hepatitis_education_project/)
 * Brittany Tybo - Washington State Department of Health
 * Lindsay Irion - Public Health - Seattle & King County
 * Nicole Flateboe - Nutrition First
 * 💵Jaime Bodden - Washington State Association of Local Public Health Officials
-* Apoorva Mallya - [Hepatitis Education Project](/org/hepatitis_education_project/)
 
 #### 0 👎 - Con
 

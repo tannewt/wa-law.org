@@ -24,8 +24,8 @@ Testifying:
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5174 Wood burning devices
 #### 149 👍 - Pro
 Testifying:
-* Kathy Taylor - Washington State Department of Ecology
 * Mark Vossler - Washington Physicians for Social Responsibility
+* Kathy Taylor - Washington State Department of Ecology
 * Rachel Chu
 
 #### 817 👎 - Con
@@ -33,13 +33,13 @@ Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
 * Chris Neufeld - Blaze King Industries, Inc.
 * Ryann Blake
+* Edward Hosack - Travis Industries, Inc
 * Matthew Romanow - Director, Engineering
 * Daniel Hammer - SUTTER HOME & HEARTH, INC.
 * Kenneth Spaeth
-* Edward Hosack - Travis Industries, Inc
+* Paul Scherling - Bell Services, LLC
 * Michael A Moore - A & M striping
 * Johnny Austin
-* Paul Scherling - Bell Services, LLC
 * Teagan Levine - Tonasket City Council Position #1
 * Todd Lee
 * Rian Corne

@@ -48,6 +48,12 @@ Testifying:
 * Jeanette Lunceford
 * PHYLLIS SMITH
 * Kasey Shultz
+* Jaime Krishnamachari - Faith Action Network (FAN)
+* John Skans
+* Evan Wipf
+* Lorraine Hartmann - Please Select
+* Margaret Nelson-Low
+* Jameson Varpness
 * Patsy Reynolds
 * Joanne and Jim Cortese
 * Ethan Bergman
@@ -58,39 +64,28 @@ Testifying:
 * Margaret Snell
 * eleanor van Noppen - United Churches
 * William Engels
-* Jaime Krishnamachari - Faith Action Network (FAN)
-* John Skans
-* Evan Wipf
 * Evan Wipf
 * Catie Light
-* Lorraine Hartmann - Please Select
-* Margaret Nelson-Low
-* Jameson Varpness
+* Pam Beal
+* Darla Austerman
+* Pierrette Wing
+* Linda Moulder
+* Judith Byron
 * Maria Christina Perez
 * Barbara Vining
-* Pam Beal
 * Martha Nichols - FAN
 * Frank Marre
-* Darla Austerman
 * Audrey Pitigliano
 * Rupert Ayton
 * Christine Zarker Primomo
 * Janet C Robertson
-* Pierrette Wing
 * 💵Alice Woldt
 * John Birnel
 * Terry Eaton
-* Linda Moulder
 * Anne Hundley
 * Jennifer Stuber - UW SMART Center
-* Judith Byron
-* Katharine Strange
-* Carey Wallace
 * Drew Goodrich - --None--
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
-* Evian Adams
-* Nikki York
-* Paree Raval
 * Evian Adams
 * Nikki York
 * Ashley Christenson
@@ -103,23 +98,27 @@ Testifying:
 * Lora Rathbone
 * Lora Rathbone
 * Carolyn Stevens
-* Barbara Anderson - Retired
 * Lauren Schubring
 * Frances Goodrow
 * Judy LeBlanc - university gathering UMC
 * Marijke Fakasiieiki
 * Jess Ingman - [Faith Action Network](/org/faith_action_network/)
 * Oneida Arnold
+* Katharine Strange
+* Paree Raval
+* Evian Adams
+* Nikki York
+* Barbara Anderson - Retired
+* Omar Mohamed - Elevate With Purpose Initiative
+* Rosanna Yates-Bailey
 * Kenia Soriano Hernandez
 * 💵Anna Nepomuceno - NAMI Washington
 * Nandika Devarajan - Redmond High School and NAMI WA Youth
-* Rosanna Yates-Bailey
-* Omar Mohamed - Elevate With Purpose Initiative
 
 #### 1795 👎 - Con
 Testifying:
-* Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs
+* Khushdip Brar - Concerned Citizen
 
 #### 8 ❓ - Other
 Testifying:

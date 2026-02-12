@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=well-intended%20bill)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202333)
 * 01/09/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: HB 2333 — A Sweeping Expansion of Secrecy and Special Protections for Government Officials - Conservative Ladies of Washington](https://conservativeladiesofwa.com/hb2333-protections-for-wa-officials/#:~:text=HB%202333%20Washington%20State%20Legislature)
 
@@ -28,21 +29,21 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
+* Kim Bradford - Public Disclosure Commission
 * Dallas Burnett - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
-* Kim Bradford - Public Disclosure Commission
 
 ### Wed 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 2333 Political violence
 #### 37 👍 - Pro
 Testifying:
 * Joe Kunzler - NEVER AGAIN MEANS NEVER AGAIN
-* Aparna Ghosh - Ghosh Innovation Lab
 * Muthoni Wambu Kraal - Women’s Democracy Lab
+* Aparna Ghosh - Ghosh Innovation Lab
 * Caroline Djamalov - King County Prosecuting Attorney's Office
 * Louisa Duggan - Vote Mama Lobby
 * 💵Timothy Grisham - WA Assn of County Officials
-* Alana Persson - RepresentWomen
 * Eveline Dowling - Expand Democracy
+* Alana Persson - RepresentWomen
 * 💵Aquene Freechild - [Public Citizen](/org/public_citizen/)
 * Hanah Stiverson - Human Rights First
 * Valerie Bouffiou

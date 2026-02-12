@@ -11,14 +11,14 @@
 #### 10 👍 - Pro
 Testifying:
 * Tim Hattenburg - Deputy Mayor, City of Spokane Valley
+* Jon Snyder - [City of Spokane](/org/city_of_spokane/)
 * 💵Steven Ellis - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Rob Putaansuu - City of Port Orchard, Mayor
-* Jon Snyder - [City of Spokane](/org/city_of_spokane/)
 
 #### 78 👎 - Con
 Testifying:
-* Tim Eyman - Initiative Activist
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Tim Eyman - Initiative Activist
 
 #### 1 ❓ - Other
 Testifying:

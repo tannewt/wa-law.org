@@ -14,18 +14,17 @@
 #### 454 👍 - Pro
 Testifying:
 * Mia Ayala-Marshall - Duwamish River Community Coalition
+* 💵Jayne Stevenson - [Pacific Environment](/org/pacific_environment/)
 * Kurt Ellison - [Climate Solutions](/org/climate_solutions/)
 * 💵Matthew Hepner - IBEW/ceww
-* 💵Jayne Stevenson - [Pacific Environment](/org/pacific_environment/)
-* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Breck Lebegue MD MPH - WA Physicians for Social Responsibility
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
 #### 21 👎 - Con
 Testifying:
-* Jordan Royer - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
 * Tad Sommerville
 * Peter Schrappen - [American Waterways Operators](/org/american_waterways_operators/)
-* Peter Schrappen - [American Waterways Operators](/org/american_waterways_operators/)
+* Jordan Royer - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
 * DONALD BROWN - Cruise Lines International Association (CLIA)
 * 💵Amber Carter - Columbia River Steamship Operators Assn.
 * 💵Sophia Steele - WSPA
@@ -34,6 +33,7 @@ Testifying:
 * Sean Eagan - NWSA
 * Patrick Gallagher - [Marine Exchange of Puget Sound](/org/marine_exchange_of_puget_sound/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Peter Schrappen - [American Waterways Operators](/org/american_waterways_operators/)
 
 #### 3 ❓ - Other
 Testifying:

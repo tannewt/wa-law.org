@@ -27,8 +27,8 @@ Testifying:
 #### 711 👎 - Con
 Testifying:
 * 💵Brenda Wiest - Teamsters 117
-* Joe Kendo
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Joe Kendo
 
 #### 3 ❓ - Other
 Testifying:

@@ -19,18 +19,18 @@
 Testifying:
 * Angelita Cervantes - Communities for Our College
 * Benjamin Gonzalez - Comunidades por nuestros colegios.
+* Ana Diaz - Communities for Our College
 * Jessica Perez - WA State Board for Community and Technical Colleges
 * Khanh Pham - WA State Board for Community and Technical Colleges
-* Ana Diaz - Communities for Our College
-* Sergio Acuna
 * Dafne Pinon - Communities for Our Colleges
 * Paul Ryan Villanueva - Communities for Our Colleges
 * Sara Ochoa - Communities for Our Colleges
+* Sergio Acuna
+* Daniel Gomez - Latino Community Fund of Washington
 * Karina Cruz - The Purple Group and Communities for Our Colleges
 * Angelique Rodriguez - CAIR-Washington
 * Aylin Díaz Romero - The Purple Group and Communities for Our Colleges
 * Sophia Li - University of Washington --- Seattle & First Generation Leaders in Pre-Law
-* Daniel Gomez - Latino Community Fund of Washington
 * 💵Michelle Carrillo - ASCWU
 
 #### 303 👎 - Con

@@ -13,10 +13,10 @@
 Testifying:
 * 💵Michael Moran - WA Music Therapy Task Force
 * 💵Michael Moran - Washington State Music Therapy Task Force
-* cheryl harrison
 * Jeremiah Nelson - WA St Music Therapy Task Force
 * Megumi Azekawa - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Tanesha Ross - WA State Music Therapy Task Force
+* cheryl harrison
 
 #### 0 👎 - Con
 

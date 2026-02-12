@@ -16,20 +16,20 @@
 #### 69 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
-* Bill Lyne - United Faculty of Washington State
+* Bill Lyne - United Faculty of Washington State/WEA
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Brandon Medina
 * Colleen Hall - Columbia Basin College
 * Isabella Flores - Washington State Board for Community and Technical Colleges
 * Jamie Traugott - Washington's State Board for Community and Technical Colleges
-* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Sam Herriot - WA State Board for Community and Technical Colleges
 * 💵Jayme Shoun - Washington STEM
 * 💵Myle Tang - Stand for Children Washington
-* Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * 💵Sean Behl - Associated Students of the University of the Washington
-* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * 💵Mykhail Lembke
 * 💵Collin Bannister - ASWSU
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 302 👎 - Con
 

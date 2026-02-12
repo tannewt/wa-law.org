@@ -22,13 +22,13 @@ Testifying:
 
 #### 229 👎 - Con
 Testifying:
-* Veneta Kearns
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Veneta Kearns
 
 #### 21 ❓ - Other
 Testifying:
-* Beth Freeman - King County Superior Court Clerk's Office / Department of Judicial Administration
 * Tim Fitzgerald - Washington State Association of County Clerks
+* Beth Freeman - King County Superior Court Clerk's Office / Department of Judicial Administration
 * Kym Foster - Clerk of Superior Court Grays Harbor County
 
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1207 Superior court clerk fees

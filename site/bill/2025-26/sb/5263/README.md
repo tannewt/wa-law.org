@@ -76,26 +76,26 @@ Testifying:
 * Nikki Otero Lockwood - Washington State School Directors' Association, Spokane Public Schools
 * Sandy Hayes - Washington State School Directors' Association, Northshore School District
 * Malorie Larson - Shoreline PTA Council
-* Samantha Fogg - Seattle Council PTSA Co-President
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
-* 💵Mitch Denning - Alliance of Educational Associations
 * Angela Steck - President, Washington State PTA
+* Samantha Fogg - Seattle Council PTSA Co-President
+* 💵Mitch Denning - Alliance of Educational Associations
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * Shaun Carey - WA Association of School Admin President-Elect
 * Paree Raval
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
-* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
-* Renee Schulz
-* Christian Rider
 * Ryan Arnold - East Valley School District
 * Rob Bryant - CFO - Federal Way Public Schools
-* Colleen Fuchs - Early Childhood Development Association of WA
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Renee Schulz
+* Christian Rider
+* Colleen Fuchs - Early Childhood Development Association of WA
 * Julie Shin - [Boyer Children's Clinic](/org/boyer_children's_clinic/)
-* Brooke Wickham
-* Preston Dwoskin
 * Gregory Smith
 * Collete Paulson - Parent
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Brooke Wickham
+* Preston Dwoskin
 
 #### 8 👎 - Con
 Testifying:
@@ -110,29 +110,29 @@ Testifying:
 Testifying:
 * 💵Melissa Gombosky - Spokane, Richland, Evergreen and Vancouver Public Schools
 * Tim Merlino - ESD 112, Superintendent
-* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Brent Jones - Superintendent, Seattle Public Schools
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
-* John Axtell
-* Angela Steck - Washington State PTA
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Lindsey Yocum - Board Director, Lake Washington School District
-* Mary Templeton - Lake Stevens School District
 * Andi Tress - Everett Public Schools
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
-* 💵Clifford Traisman - Highline and Northshore Public School Districts and Seattle and Bellevue Public Schools
+* John Axtell
+* Angela Steck - Washington State PTA
+* Mary Templeton - Lake Stevens School District
 * Dr. Kelly Aramaki - Superintendent, Bellevue School District
-* Kelly Aramaki - Superintendent, Bellevue School District
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Martha Patterson - [Washington Education Association](/org/washington_education_association/)
-* Roman Honeycutt
+* 💵Clifford Traisman - Highline and Northshore Public School Districts and Seattle and Bellevue Public Schools
+* Kelly Aramaki - Superintendent, Bellevue School District
 * Natalie Cui
+* Roman Honeycutt
+* Dominick Ventresco - Pullman School District 267
 * Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
 * Krestin Bahr - Peninsula School District
 * Emma Robinson - Parent
 * Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
 * Meghan Jernigan - Shoreline School Board
 * Maisie Antoniello
-* Dominick Ventresco - Pullman School District 267
 * Sonja Mitchell
 * Kristina Mendieta - [Kindering](/org/kindering/)
 * Missy Bontrager
@@ -151,6 +151,7 @@ Testifying:
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5263 Special education funding
 #### 2704 👍 - Pro
 Testifying:
+* Angela Steck - President, Washington State PTA
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
 * Dr. Ivan Duran - Superintendent, Highline School District
@@ -160,28 +161,27 @@ Testifying:
 * Dr. Shelley Redinger - [Richland School District](/org/richland_school_district/)
 * Michelle Whitney - Pasco School District
 * Traci Pierce - Kennewick School District
-* Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
 * Melissa Stone - Secretary, Washington State PTA
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
-* Samantha Fogg - SCPTSA, Co-President
+* Preston Dwoskin
 * Lindsey Yocum - Lake Washington School District
 * Shane Backlund - ESD 105 Schools Coalition
-* Preston Dwoskin
+* Samantha Fogg - SCPTSA, Co-President
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Jeff Chamberlin - Superintendent, University Place School District
 * Krestin Bahr - Superintendent, Peninsula School District
 * Lance Goodpaster - Superintendent, Franklin Pierce School District
+* Lori Helmy Helmy - Volenteer advocate
 * Sarah Milici - Parent advocate
 * Mary Templeton - Lake Stevens School District
 * Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
 * Ed.S., NCSP, Kathryn Salveson - WSASP
-* Lori Helmy Helmy - Volenteer advocate
-* B Trosper
 * Ben Ferney - Cheney Public Schools
 * Holly Wehner
-* Brianna Rose - Parent of a SpEd student
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* B Trosper
+* Brianna Rose - Parent of a SpEd student
 * Ryan Arnold
 * Rob Bryant - [Federal Way Public Schools](/org/federal_way_public_schools/)
 * Emily Carmichael

@@ -7,6 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1269 Pawnbroker fees, int. rates
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Karen Strickland - Pawn 1 Inc
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1269 Pawnbroker fees, int. rates
 #### 33 👍 - Pro
 Testifying:
@@ -27,10 +38,10 @@ Testifying:
 Testifying:
 * 💵Karen Strickland - Pawn 1 Inc.
 * Carli Karlson - Washington State Pawnbrokers Association
-* 💵Tamara Rancore - WA St Pawnbrokers Association
 * 💵Karen Strickland - Pawn 1 Inc.
 * Andre Jorden - pawn 1
 * Nika Mihailov - Kittitas County Trading Co.
+* 💵Tamara Rancore - WA St Pawnbrokers Association
 * 💵Michael Transue - Cash America Pawn
 * Samuel Lax - Pawn 1, Inc
 

@@ -19,8 +19,8 @@
 ### Mon 03/17 01:30 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5356 Criminal justice trainings
 #### 24 👍 - Pro
 Testifying:
-* Naira Gonzales Aranda
 * Andrea Piper-Wentland - Washington State Criminal Justice Training Commission
+* Naira Gonzales Aranda
 * Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 0 👎 - Con

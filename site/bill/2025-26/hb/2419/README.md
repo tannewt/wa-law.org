@@ -11,9 +11,9 @@
 ### Fri 01/23 08:00 AM - State Government & Tribal Relations (SGOV): HB 2419 Address confid./ALJs & OAH
 #### 32 👍 - Pro
 Testifying:
-* 💵Timothy Grisham - WA Assn of County Officials
 * Micah Larripa - Office of Administrative Hearings
 * Mike Wark - Office of Administrative Hearings
+* 💵Timothy Grisham - WA Assn of County Officials
 * Catherine Cornwall - King County Superior Court Clerk
 
 #### 149 👎 - Con

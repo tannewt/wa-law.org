@@ -35,18 +35,18 @@ Testifying:
 
 #### 35 👎 - Con
 Testifying:
-* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
 #### 0 ❓ - Other
 
 ### Thu 02/13 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1668 Community custody
 #### 82 👍 - Pro
 Testifying:
+* Nicholas Day
 * Doug Chaput - WFSE Member
 * Jim Furchert - WFSE Member
 * Scott Lee - WFSE Member
-* Nicholas Day
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mac Pevey - Department of Corrections
 

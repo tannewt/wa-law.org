@@ -15,9 +15,9 @@
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 2452 Rent increase notice service
 #### 354 👍 - Pro
 Testifying:
-* Joe Levin
 * 💵Brett Waller - Weidner Apartment Homes
 * 💵Nick Streuli - [WA Realtors](/org/washington_association_of_realtors/)
+* Joe Levin
 * 💵Ken Short - AWB
 * 💵Jake Mayson - Washington Multifamily Housing Association
 * 💵Jim Henderson - National Association of Residential Property Managers (NARPM)

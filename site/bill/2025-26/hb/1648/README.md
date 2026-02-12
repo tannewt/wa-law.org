@@ -20,23 +20,23 @@
 Testifying:
 * Karen Hedine - WA Alliance of YMCAs
 * Susan Brown - Kids Co., Washington Child Care Centers Assn, and the Greater Seattle Child Care Business Coalition
+* Mary Curry
 * Wendy Bart - Washington Alliance of YMCAs
 * Johnny Otto
 * Lois Martin
 * Susan Brown
 * Suzie Hanson - [Washington Federation of Independent Schools](/org/washington_federation_of_independent_schools/)
-* Mary Curry
 
 #### 21 👎 - Con
 Testifying:
 * Annie Garrett
-* Samantha Carrillo - CARRILLO
 * Isabella Sebastiani
+* Samantha Carrillo - CARRILLO
+* Donnell Bacus
 * Heather Robison - Bates Technical College
 * Nathanial Helligso - Non-Profit Consultant
 * Adriana Taylor - Preschool Teacher
 * Perla Garcia
-* Donnell Bacus
 
 #### 7 ❓ - Other
 Testifying:

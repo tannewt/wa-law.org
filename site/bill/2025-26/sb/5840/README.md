@@ -11,8 +11,8 @@
 ### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5840 Campaign finance schedule
 #### 37 👍 - Pro
 Testifying:
-* 💵Conner Edwards - Professional Campaign Treasurer, CG Edwards PLLC
 * Kim Bradford - Public Disclosure Commission
+* 💵Conner Edwards - Professional Campaign Treasurer, CG Edwards PLLC
 
 #### 46 👎 - Con
 

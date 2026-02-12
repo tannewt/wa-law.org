@@ -7,13 +7,22 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SB 6136 Industrial insurance rates
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 08:00 AM - Labor & Commerce (LC): SB 6136 Industrial insurance rates
 #### 251 👍 - Pro
 Testifying:
 * 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* 💵James Crandall - AWB
 * 💵Rose Gundersen - WA Retail Association
 * Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵James Crandall - AWB
 
 #### 1 👎 - Con
 

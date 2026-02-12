@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1541/</link>
 		<description>Updates about HB 1541</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 02:16:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Feb 2026 14:16:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -33,18 +33,18 @@
 		<item>
 			<title>👍vincent McDonald - Colville Confederated Tribe</title>
 			<description>vincent McDonald signed up to testify Pro. They are signed up to represent Colville Confederated Tribe.</description>
-			<pubDate>Tue, 28 Jan 2025 01:18:10 GMT</pubDate>
+			<pubDate>Tue, 28 Jan 2025 13:18:10 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/vincent/McDonald/2025-01-28 01:18:10</guid>
+			<guid isPermaLink="false">testifier/vincent/McDonald/2025-01-28 13:18:10</guid>
 		</item>
 		<item>
 			<title>👍Richard Thomas - Washington Veterans Legislative Coalition</title>
 			<description>Richard Thomas signed up to testify Pro. They are signed up to represent Washington Veterans Legislative Coalition.</description>
-			<pubDate>Tue, 28 Jan 2025 03:14:36 GMT</pubDate>
+			<pubDate>Tue, 28 Jan 2025 15:14:36 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Richard/Thomas/2025-01-28 03:14:36</guid>
+			<guid isPermaLink="false">testifier/Richard/Thomas/2025-01-28 15:14:36</guid>
 		</item>
 		<item>
 			<title>Minority; do not pass.</title>
@@ -131,38 +131,6 @@
 			<guid isPermaLink="false">2025-03-13/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
 		</item>
 		<item>
-			<title>👎Candice Baughman - WA State Department of Veterans Affairs</title>
-			<description>Candice Baughman signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 02:45:28 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Candice/Baughman/2025-03-21 02:45:28</guid>
-		</item>
-		<item>
-			<title>👎Louis Ihrig - WA State Department of Veterans Affairs</title>
-			<description>Louis Ihrig signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 03:14:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Louis/Ihrig/2025-03-21 03:14:57</guid>
-		</item>
-		<item>
-			<title>👎Michael Shoemaker - WA State Department of Veterans Affairs</title>
-			<description>Michael Shoemaker signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 03:14:57 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Michael/Shoemaker/2025-03-21 03:14:57</guid>
-		</item>
-		<item>
-			<title>👎Rory Andes - WA State Department of Veterans Affairs</title>
-			<description>Rory Andes signed up to testify Con.</description>
-			<pubDate>Fri, 21 Mar 2025 04:04:02 GMT</pubDate>
-			<category>testifier</category>
-			<category>Con</category>
-			<guid isPermaLink="false">testifier/Rory/Andes/2025-03-21 04:04:02</guid>
-		</item>
-		<item>
 			<title>👎Tuan Quach - Equity in Education Center</title>
 			<description>Tuan Quach signed up to testify Con. They are signed up to represent Equity in Education Center.</description>
 			<pubDate>Fri, 21 Mar 2025 09:07:39 GMT</pubDate>
@@ -171,12 +139,44 @@
 			<guid isPermaLink="false">testifier/Tuan/Quach/2025-03-21 09:07:39</guid>
 		</item>
 		<item>
+			<title>👎Candice Baughman - Equity in Education Center</title>
+			<description>Candice Baughman signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 14:45:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candice/Baughman/2025-03-21 14:45:28</guid>
+		</item>
+		<item>
+			<title>👎Louis Ihrig - Equity in Education Center</title>
+			<description>Louis Ihrig signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 15:14:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Louis/Ihrig/2025-03-21 15:14:57</guid>
+		</item>
+		<item>
+			<title>👎Michael Shoemaker - Equity in Education Center</title>
+			<description>Michael Shoemaker signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 15:14:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Shoemaker/2025-03-21 15:14:57</guid>
+		</item>
+		<item>
+			<title>👎Rory Andes - Equity in Education Center</title>
+			<description>Rory Andes signed up to testify Con.</description>
+			<pubDate>Fri, 21 Mar 2025 16:04:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rory/Andes/2025-03-21 16:04:02</guid>
+		</item>
+		<item>
 			<title>👍Heidi Audette - WA State Department of Veterans Affairs</title>
 			<description>Heidi Audette signed up to testify Pro. They are signed up to represent WA State Department of Veterans Affairs.</description>
-			<pubDate>Mon, 24 Mar 2025 04:58:33 GMT</pubDate>
+			<pubDate>Mon, 24 Mar 2025 16:58:33 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Heidi/Audette/2025-03-24 04:58:33</guid>
+			<guid isPermaLink="false">testifier/Heidi/Audette/2025-03-24 16:58:33</guid>
 		</item>
 		<item>
 			<title>👎Kurtis Robinson - I Did The Time/ Revive Center For Returning Citizens</title>
@@ -289,10 +289,10 @@
 		<item>
 			<title>👍💵Tarra Simmons - House Representative</title>
 			<description>Tarra Simmons signed up to testify Pro. They are signed up to represent House Representative. They are a registered lobbyist.</description>
-			<pubDate>Tue, 03 Feb 2026 02:16:16 GMT</pubDate>
+			<pubDate>Tue, 03 Feb 2026 14:16:16 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
-			<guid isPermaLink="false">testifier/Tarra/Simmons/2026-02-03 02:16:16</guid>
+			<guid isPermaLink="false">testifier/Tarra/Simmons/2026-02-03 14:16:16</guid>
 		</item>
 	</channel>
 </rss>

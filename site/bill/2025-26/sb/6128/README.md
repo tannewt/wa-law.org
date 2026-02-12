@@ -12,8 +12,8 @@
 Testifying:
 * Brett Fink
 * 💵Carolyn Logue - Washington IME Coalition
-* Andy Shelton - Brown & Brown
 * Lanny Snodgrass
+* Andy Shelton - Brown & Brown
 * 💵Rose Gundersen - WA Retail Association
 * Lauren Gubbe - AGC
 * Sarah Cohen

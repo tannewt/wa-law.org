@@ -12,9 +12,9 @@
 #### 122 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Patti Cole-Tindall - King County Sheriff
 * David Ellis - Spokane Valley Police Department
 * JOHN NOWELS - SPOKANE COUNTY SHERIFF'S OFFICE
+* Patti Cole-Tindall - King County Sheriff
 
 #### 1 👎 - Con
 

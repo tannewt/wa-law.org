@@ -10,6 +10,15 @@
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205863)
 
 ## Meetings
+### Wed 02/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5863 State historical records
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5863 State historical records
 #### 57 👍 - Pro
 Testifying:

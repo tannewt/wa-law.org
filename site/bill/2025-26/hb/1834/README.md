@@ -34,15 +34,15 @@ Testifying:
 #### 531 👎 - Con
 Testifying:
 * Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
-* Charlie Brown - Information Technology Industry Council
 * Amy Bos - NetChoice
 * 💵Rose Feliciano - TechNet
-* Sheila Stickel - patient advocate
-* Tee Sannon - ACLU of Washington
-* 💵Amy Harris
+* Charlie Brown - Information Technology Industry Council
 * 💵Amy Harris
 * David McGarry - Taxpayers Protection Alliance
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Sheila Stickel - patient advocate
+* Tee Sannon - ACLU of Washington
+* 💵Amy Harris
 
 #### 168 ❓ - Other
 
@@ -71,13 +71,13 @@ Testifying:
 * Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 * Taj Jensen
-* Trevor Greene - Superintendent, Yakima School District
-* Laura Marquez-Garrett - Social Media Victims Law Center
 * 💵Maggie Humphreys - MomsRising
 * Fatra Hussein - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
 * Mahi Malladi - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
 * Jai Jaisimha - Transparency Coalition.ai
 * MaryAnn Michaelis - MaryAnn Michaelis Counseling Services DBA Addo Recovery, and Coalition Protecting Childhood
+* Trevor Greene - Superintendent, Yakima School District
+* Laura Marquez-Garrett - Social Media Victims Law Center
 * Iain Corby - The Age Verification Providers Association
 
 #### 11 👎 - Con

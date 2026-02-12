@@ -16,9 +16,9 @@
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 6027 Affordable housing funding
 #### 255 👍 - Pro
 Testifying:
-* 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Joe McDermott - State Relations Director | King County
+* 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Annika Vaughn - Snohomish County
 * 💵Teresa Mosqueda - King County Council
@@ -33,9 +33,9 @@ Testifying:
 * 💵Curtis Steinhauer
 * Councilmember Robyn Denson - South Sound Housing Affordability Partners
 * Councilmember Megan Dunn - Snohomish County
+* Sarah Dickmeyer - Plymouth Housing
 * Lauren Fay - [Downtown Emergency Service Center](/org/downtown_emergency_service_center/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* Sarah Dickmeyer - Plymouth Housing
 * David Sackmann - Catholic Charities Eastern Washington
 * Joe McDermott - State Relations Director | King County
 * 💵Paul Berendt - [City of Olympia](/org/city_of_olympia/)

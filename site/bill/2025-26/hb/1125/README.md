@@ -53,11 +53,11 @@ Testifying:
 #### 535 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
+* Aswad Thomas - Crime Survivors for Safety and Justice
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * Kim Gordon - Washington Association of Criminal Defense Lawyers/ Washington Defender Association
 * Annie Nichol - Crime Survivors for Safety and Justice
-* Aswad Thomas - Crime Survivors for Safety and Justice
 * Jacob Schmitt - Just Us Solutions, LLC
 * Katrin Johnson - Washington State Office of Public Defense
 * Anthony Powers - Individual
@@ -89,11 +89,11 @@ Testifying:
 * Jacob Schmitt - Just Us Solutions
 * Aswad Thomas - Crime Survivors for Safety and Justice
 * Veronica Galvan - Minority and Justice Commission
+* PERCY LEVY
 * Amanda Knight - Department of Corrections - WCCW
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Azias Ross
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
-* PERCY LEVY
 * Esther Matthews
 * Anthony Powers
 
@@ -104,10 +104,10 @@ Testifying:
 * Tina Reynolds
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Anthony Mixer - Washington State Young Republicans
+* Gregor Doerr - Washington State Young Republicans
 * Charleen Kriens
 * Krista Stogner
 * Tiffany Attrill
-* Gregor Doerr - Washington State Young Republicans
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 

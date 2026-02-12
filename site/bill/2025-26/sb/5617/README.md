@@ -15,8 +15,8 @@
 ### Mon 02/10 01:30 PM - Human Services (HS): SB 5617 Juvenile detention/CHINS
 #### 19 👍 - Pro
 Testifying:
-* 💵Karen Pillar - TeamChild
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
+* 💵Karen Pillar - TeamChild
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Sara Zier - TeamChild
 

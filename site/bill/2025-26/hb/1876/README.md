@@ -23,9 +23,9 @@ Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * Sharon Quick - Physicians for Compassionate Care Education Foundation
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Anita Cameron - Not Dead Yet
 * Ian McIntosh - Not Dead Yet
 * Theresa Schrempp
-* Anita Cameron - Not Dead Yet
 
 #### 3 ❓ - Other
 Testifying:

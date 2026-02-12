@@ -14,18 +14,18 @@
 #### 369 👍 - Pro
 Testifying:
 * Dara Brooling - Private Citizen
-* McKenna Morrigan - Seattle Public Utilities
+* Linda McCoy - Interfaith Climate Action
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Travis Dutton - Washington State Association of Counties / Policy Coordinator
-* Linda McCoy - Interfaith Climate Action
+* McKenna Morrigan - Seattle Public Utilities
 
 #### 895 👎 - Con
 Testifying:
 * Andrew Pappas - [American Apparel & Footwear Association](/org/american_apparel_&_footwear_association/)
+* 💵Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Andrew Pappas - [American Apparel & Footwear Association](/org/american_apparel_&_footwear_association/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* Andrew Pappas - [American Apparel & Footwear Association](/org/american_apparel_&_footwear_association/)
-* Kerry Dolan - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Jessica Franken - Secondary Materials and Recycled Textiles Association (SMART)
 
 #### 0 ❓ - Other

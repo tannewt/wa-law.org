@@ -13,21 +13,20 @@
 
 ## Meetings
 ### Wed 04/23 01:30 PM - Ways & Means (WM): HB 2050 K-12 savings & efficiencies
-#### 4 👍 - Pro
-Testifying:
-* Danica Noble - Washington State PTA
+#### 3 👍 - Pro
 
-#### 491 👎 - Con
+#### 492 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Mandi Rehn - Valley School District
+* Danica Noble - Washington State PTA
 * Marni Wallace - Online school parent
-* Charlie Brown - South Sound Superintendents and Federal Way School District
 * Mariel Ponce - Learning Coach/Parent
 * Carol Lewis - Moses Lake School District
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Linnette Garcia - Online school parent
 * Jason Harrison
+* Charlie Brown - South Sound Superintendents and Federal Way School District
 
 #### 1 ❓ - Other
 
@@ -36,19 +35,19 @@ Testifying:
 
 #### 774 👎 - Con
 Testifying:
-* Mandi Rehn - Valley School District Superintendent
-* Dana Rosenbach - North Mason School District Number 403
 * Brian Talbott - Superintendent, East Valley School District (Spokane)
 * Carol Lewis - Moses Lake School District
 * Jeff Baerwald - Superintendent of the Nine Mile Falls School District
 * Superintendent Michael Porter - Omak School District
+* Mandi Rehn - Valley School District Superintendent
+* Dana Rosenbach - North Mason School District Number 403
 * Charlie Brown - South Sound Superintendents, Federal Way Public Schools
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Natalya Yudkovsky - Washington State PTA
 * Dave Larson - [Washington State School Directors Association](/org/washington_state_school_directors_association/)
 * Superintendent, Dr. Peter Finch - West Valley School District #208
-* Jim Kowalkowski - Rural Education Center
 * Lance Goodpaster - Franklin Pierce Schools
+* Jim Kowalkowski - Rural Education Center
 * Chad Prewitt - Davenport School District - Superintendent
 
 #### 11 ❓ - Other

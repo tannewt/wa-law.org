@@ -22,6 +22,10 @@ Testifying:
 * Dr. Esther Matthews
 * Stacy Stanaway - Kids are Kids
 * Jessica Levin - Center for Civil Rights and Critical Justice
+* Tatum Pickett
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Grete Schultz - TeamChild
+* Rashida Robbins
 * Elisa Cozad - TeamChild
 * Liz Mustin - Washington State Office of Public Defense
 * Ari McLaren-Simpson
@@ -29,15 +33,11 @@ Testifying:
 * Christen Ativalu-Ford
 * Bryan Hernandez-Rodriguez
 * Caya Lanay
-* Tatum Pickett
 * Amanda Vazquez
 * Faraji Blakeney - Yoga Behind Bars
-* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
-* Grete Schultz - TeamChild
-* Rashida Robbins
-* Amity Bjork - Wacdl/wda
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Alexandra Narvaez - Partnership Council on Juvenile Justice
+* Amity Bjork - Wacdl/wda
 
 #### 95 👎 - Con
 Testifying:
@@ -56,12 +56,12 @@ Testifying:
 * Jessica Levin - Center for Civil Rights and Critical Justice
 * Anthony Powers
 * Jeremiah Bourgeois
-* AMANDA VAZQUEZ
-* Ruth Rivas
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Grete Schultz - TeamChild
 * 💵Arthur Longworth - TeamChild
 * Elisa Cozad - TeamChild
+* AMANDA VAZQUEZ
+* Ruth Rivas
 * Liz Mustin - WA State Office of Public Defense
 * Alexandra Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
