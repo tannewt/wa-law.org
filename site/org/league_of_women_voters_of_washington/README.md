@@ -88,6 +88,9 @@
 
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 
+### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍2  
+* 👍 Alison McCaffree
+
 ### [HB 2117](/bill/2025-26/hb/2117/) - Board of natural resources 👍1  
 
 ### [HB 2129](/bill/2025-26/hb/2129/) - Fortifying agritourism. 👍1  
@@ -220,7 +223,7 @@
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1 👎1 
 * 👍 Dee Anne Finken
 
-### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍3  
 * 👍 Alison McCaffree
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍2  

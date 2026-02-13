@@ -855,7 +855,8 @@
 
 ### [SB 5909](/bill/2025-26/sb/5909/) - Undergraduate programs  👎2 
 
-### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍1  
+### [SB 5915](/bill/2025-26/sb/5915/) - Health technology assessment 👍2  
+* 👍 Jared Mason-Gere
 * 👍 Jared Mason-Gere
 
 ### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  

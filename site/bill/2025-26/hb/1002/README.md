@@ -14,9 +14,11 @@
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 1002 PTSD/coroners & examiners
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Timothy Grisham - WASHINGTON ASSOCIATION OF COUNTY OFFICIALS
+* Annie Pillers - Washington Association of Coroner's and Medical Examiners
+* Michael Rainey - AFSCME Council 2
 
 #### 0 👎 - Con
 

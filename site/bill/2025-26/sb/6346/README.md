@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=Senate%20Bill%206346)
 * 02/10/2026 [KING5](/org/king5/) - [Hundreds rally in Olympia in support of 'Millionaires Tax' | king5.com](https://www.king5.com/article/news/local/rally-olympia-support-millionaires-tax/281-b573e232-9608-4381-90e7-291d1a14a9cd#:~:text=Senate%20Bill%206346)
+* 02/10/2026 [MyNorthwest](/org/mynorthwest/) - ['Millionaire tax' supporters rally at WA capitol](https://mynorthwest.com/mynorthwest-politics/millionaire-tax-supporters-rally-at-state-capitol/4201291#:~:text=SB%206346)
 * 02/10/2026 [Washington State Standard](/org/washington_state_standard/) - [WA income tax on higher earners clears first legislative hurdle • Washington State Standard](https://washingtonstatestandard.com/2026/02/09/wa-income-tax-on-higher-earners-clears-first-legislative-hurdle/#:~:text=Senate%20Bill%206346)
 * 02/09/2026 [The Center Square](/org/the_center_square/) - [WA income tax bill advancing in Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b912a1da-07c7-4818-8c48-49393d236629.html#:~:text=Senate%20Bill%206346)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%206346)

@@ -13,7 +13,9 @@
 ### Wed 02/18 04:00 PM - Transportation (TR): ESB 5581 Safe system approach strat.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Council Member Kitty Klitzke - [City of Spokane](/org/city_of_spokane/)
 
 #### 0 👎 - Con
 

@@ -15,7 +15,10 @@
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5272 School safety/penalties
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Albert Merkel - Spokane Valley city council member, on own behalf
+* Robert West
 
 #### 0 👎 - Con
 

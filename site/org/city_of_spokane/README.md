@@ -54,6 +54,9 @@
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management plans 👍2  
 * 👍💵 Paul Dillon
 
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+* 👍 Council Member Kitty Klitzke
+
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍4  

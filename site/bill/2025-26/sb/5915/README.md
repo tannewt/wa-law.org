@@ -10,9 +10,10 @@
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 5915 Health technology assessment
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Lisa Woodard
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 👎 - Con
 

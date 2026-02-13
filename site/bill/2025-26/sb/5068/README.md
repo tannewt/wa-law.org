@@ -21,7 +21,7 @@ Sign up to testify:
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

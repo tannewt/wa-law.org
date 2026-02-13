@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6291/</link>
 		<description>Updates about SB 6291</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,6 +65,13 @@
 			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-10/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-12/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 	</channel>
 </rss>

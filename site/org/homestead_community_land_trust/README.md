@@ -29,7 +29,7 @@
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 * 👍 Kathleen M Hosfeld
 
-### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍1  
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍2  
 
 ### [SB 6167](/bill/2025-26/sb/6167/) - Down payment assistance  👎1 
 

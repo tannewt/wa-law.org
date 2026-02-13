@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2367/</link>
 		<description>Updates about HB 2367</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 02:37:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -162,6 +162,27 @@
 			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 63; nays, 33; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 63; nays, 33; absent, 0; excused, 2.</description>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-12/Third reading, passed; yeas, 63; nays, 33; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Coal power in WA Legislature’s crosshairs after talk of Centralia plant’s revival • Washington State Standard</title>
+			<description>News article "Coal power in WA Legislature’s crosshairs after talk of Centralia plant’s revival • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 13 Feb 2026 02:37:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2026/02/12/coal-power-in-wa-legislatures-crosshairs-after-talk-of-centralia-plants-revival/#:~:text=fast-moving%20bill</guid>
 		</item>
 	</channel>
 </rss>

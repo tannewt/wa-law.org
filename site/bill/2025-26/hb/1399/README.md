@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/13/2026 [Washington State Standard](/org/washington_state_standard/) - [Stricter standards for WA sheriffs approved in state Senate • Washington State Standard](https://washingtonstatestandard.com/2026/02/12/stricter-standards-for-wa-sheriffs-approved-in-state-senate/#:~:text=legislation%20in%20the%20House%20last%20year)
 * 02/27/2025 [The Center Square](/org/the_center_square/) - [House committee advances bill allowing state agencies to decertify elected sheriffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0117931a-f553-11ef-8758-bfe6a7d196d9.html#:~:text=House%20Bill%201399)
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [Proposed law could allow state agencies to decertify elected sheriffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4ad84ab2-f085-11ef-acb4-8ff6d1416ea4.html#:~:text=House%20Bill%201399)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201399)

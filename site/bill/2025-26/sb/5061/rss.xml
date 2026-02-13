@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5061/</link>
 		<description>Updates about SB 5061</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -532,6 +532,13 @@
 			<pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-21/Placed on third reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-12/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2091/</link>
 		<description>Updates about HB 2091</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Feb 2026 11:04:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,21 @@
 			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-10/Third reading, passed; yeas, 93; nays, 1; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-12/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>❓Elizabeth New - Washington Policy Center</title>
+			<description>Elizabeth New signed up to testify Other. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Thu, 12 Feb 2026 11:04:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Elizabeth/New/2026-02-12 11:04:21</guid>
 		</item>
 	</channel>
 </rss>

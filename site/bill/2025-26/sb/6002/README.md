@@ -40,7 +40,7 @@
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 6002 Driver privacy
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 
 #### 2 👎 - Con
 Testifying:

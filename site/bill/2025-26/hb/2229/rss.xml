@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2229/</link>
 		<description>Updates about HB 2229</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Feb 2026 13:57:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,21 @@
 			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-10/Third reading, passed; yeas, 68; nays, 26; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-12/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Ken Fuller - Director of BRPELS</title>
+			<description>Ken Fuller signed up to testify Pro. They are signed up to represent Director of BRPELS.</description>
+			<pubDate>Thu, 12 Feb 2026 13:57:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ken/Fuller/2026-02-12 13:57:52</guid>
 		</item>
 	</channel>
 </rss>

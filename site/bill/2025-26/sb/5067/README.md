@@ -24,11 +24,17 @@
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5067 Impaired driving
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Tao Sheng Kwan-Gett - Washington Department of Health
+* Amy Freedheim - King County Prosecuting Attorney's Office
+* Linda Thompson - In Memory of Trevor Pierce, 9/16/1982 - 8/16/1986
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Karlie Valdez - Washington Association of Criminal Defense Lawyers and Washington Defender Association
+* Avery Cesarano
 
 #### 0 ❓ - Other
 

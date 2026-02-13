@@ -71,7 +71,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
-### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍2  
+### [SB 5938](/bill/2025-26/sb/5938/) - Foreclosure prevention fee 👍3  
+* 👍💵 Elizabeth Perez
 * 👍💵 Elizabeth Perez
 
 ### [SB 6015](/bill/2025-26/sb/6015/) - Residential building plans 👍2  

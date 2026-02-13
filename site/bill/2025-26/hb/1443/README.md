@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/11/2026 [KUOW](/org/kuow/) - [KUOW - This bill could let you downsize your way to home ownership in Washington](https://www.kuow.org/stories/proposed-law-could-let-you-downsize-your-way-to-homeownership#:~:text=House%20Bill%201443)
 * 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026/01/14/2026-washington-legislature-catches-breath-on-housing/#:~:text=HB%201443)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=HB%201443)
 * 04/17/2025 [Sightline Institute](/org/sightline_institute/) - [WA leaders just passed these major housing bills | Sightline Institute](https://www.sightline.org/release/wa-leaders-just-passed-these-major-housing-bills/#:~:text=HB%201443)

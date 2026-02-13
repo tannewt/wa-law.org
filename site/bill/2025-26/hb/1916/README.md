@@ -17,9 +17,12 @@
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): ESHB 1916 Voter registrations
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)
+* Joseph Lachman - Asian Counseling and Referral Service
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

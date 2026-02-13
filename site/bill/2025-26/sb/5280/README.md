@@ -16,13 +16,16 @@
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Noel Le
+* Tim Schwering - Spokane Police Department
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Marguerite Ro - AARP Washington State
 
 ### Tue 03/25 01:30 PM - Consumer Protection & Business (CPB): SB 5280 Virtual currency kiosks
 #### 9 👍 - Pro

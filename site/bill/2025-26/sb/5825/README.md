@@ -14,7 +14,9 @@
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5825 Leadership board/gifts
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Brian Moreno - [Washington State Leadership Board](/org/washington_state_leadership_board/)
 
 #### 0 👎 - Con
 

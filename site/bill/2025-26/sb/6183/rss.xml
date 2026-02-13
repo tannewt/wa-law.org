@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6183/</link>
 		<description>Updates about SB 6183</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 00:24:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,13 @@
 			<pubDate>Wed, 11 Feb 2026 00:24:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2026/02/10/senate-unanimously-passes-liias-bills-focused-on-housing-fairness-health-care-accessibility/#:~:text=The%20second%20bill</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health Care &amp; Wellness.</title>
+			<description>First reading, referred to Health Care &amp; Wellness.</description>
+			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-12/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 	</channel>
 </rss>

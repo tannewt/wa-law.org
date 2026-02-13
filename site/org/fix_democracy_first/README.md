@@ -30,6 +30,8 @@
 
 ### [HB 1782](/bill/2025-26/hb/1782/) - Campaign reporting timeline  👎1 
 
+### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍1  
+
 ### [HB 2206](/bill/2025-26/hb/2206/) - Uniformed & overseas voting 👍1  
 
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
@@ -64,7 +66,7 @@
 
 ### [SB 5853](/bill/2025-26/sb/5853/) - Public official notification 👍1  
 
-### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍2  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍3  
 * 👍💵 Cindy Black
 
 ### [SB 5973](/bill/2025-26/sb/5973/) - Initiatives and referenda 👍1  

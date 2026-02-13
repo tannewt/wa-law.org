@@ -16,9 +16,9 @@
 ### Wed 02/18 04:00 PM - Appropriations (APP): SB 5109 Mortgage lending fraud acc.
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

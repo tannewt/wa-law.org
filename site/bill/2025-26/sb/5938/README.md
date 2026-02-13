@@ -15,7 +15,9 @@
 ### Thu 02/19 08:00 AM - Housing (HOUS): SSB 5938 Foreclosure prevention fee
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Elizabeth Perez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 
 #### 0 👎 - Con
 

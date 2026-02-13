@@ -13,11 +13,13 @@
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 2091 Bargaining/employee info.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth New - Washington Policy Center
 
 ### Fri 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2091 Bargaining/employee info.
 #### 85 👍 - Pro

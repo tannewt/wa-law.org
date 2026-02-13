@@ -15,7 +15,9 @@
 ### Wed 02/18 10:30 AM - Housing (HOUS): ESSB 5937 Smart access systems/tenants
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Maddie Stoothoff
 
 #### 0 👎 - Con
 

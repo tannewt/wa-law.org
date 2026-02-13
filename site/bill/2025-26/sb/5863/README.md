@@ -13,7 +13,9 @@
 ### Wed 02/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5863 State historical records
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Tasha Le - Disability Advocate - Parent Advocate - UW Bothell Graduate Student
 
 #### 0 👎 - Con
 
