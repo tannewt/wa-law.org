@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Ways & Means (WM): HB 2254 Partnership access line
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2254 Partnership access line
 #### 23 👍 - Pro
 Testifying:

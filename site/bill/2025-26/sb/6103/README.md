@@ -6,11 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SB%206103)
+
 ## Meetings
 ### Thu 02/19 04:00 PM - Appropriations (APP): SB 6103 Rural hospital payments
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
 
 #### 0 👎 - Con
 

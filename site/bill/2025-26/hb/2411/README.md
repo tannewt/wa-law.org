@@ -11,13 +11,16 @@
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): SHB 2411 Shared leave
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * Jonathan Peebles - Union Member SEIU 925
 * Armaan Chandnani - Washington High School Democrats
+* Paula Lukaszek - state employee
+* Mike Yestramski - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Patrick Stickney - WA Office of Equity
 
-#### 0 👎 - Con
+#### 168 👎 - Con
 
 #### 0 ❓ - Other
 

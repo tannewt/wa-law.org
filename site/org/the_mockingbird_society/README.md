@@ -65,7 +65,7 @@
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
 
-### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
@@ -141,7 +141,7 @@
 * 👍 Courtney Hageman
 * 👍💵 Charles Smith
 
-### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
+### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍2  
 
 ### [SB 5963](/bill/2025-26/sb/5963/) - Modifying funding for the passport to careers program and eligibility for the Washington college grant. 👍1  
 

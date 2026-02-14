@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/12/2026 [The Stranger](/org/the_stranger/) - [The Legislature Is Ready to Tax The Rich - The Stranger](https://www.thestranger.com/news/2026/02/12/80472732/the-legislature-is-ready-to-tax-the-rich#:~:text=companion)
 * 02/10/2026 [MyNorthwest](/org/mynorthwest/) - ['Millionaire tax' supporters rally at WA capitol](https://mynorthwest.com/mynorthwest-politics/millionaire-tax-supporters-rally-at-state-capitol/4201291#:~:text=HB%202724)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202724)
 * 02/08/2026 [House Republicans](/org/house_republicans/) - [State income tax bills drop in the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-income-tax-bills-drop-in-the-legislature/#:~:text=House%20Bill%202724)

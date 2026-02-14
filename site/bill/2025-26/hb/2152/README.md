@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2152 Cannabis/health facilities
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2152 Cannabis/health facilities
 #### 19 👍 - Pro
 Testifying:

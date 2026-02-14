@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2199 Derelict vessels
+Sign up to testify:
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2199 Derelict vessels
 #### 35 👍 - Pro
 Testifying:

@@ -16,6 +16,17 @@
 * 01/09/2026 [House Democrats](/org/house_democrats/) - [Berg Introduces Bill to Address Cash Transactions After End of the Penny – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/09/54483/#:~:text=House%20Bill%202334)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 2334 Cash transactions/pennies
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 01:30 PM - Finance (FIN): HB 2334 Cash transactions/pennies
 #### 27 👍 - Pro
 Testifying:

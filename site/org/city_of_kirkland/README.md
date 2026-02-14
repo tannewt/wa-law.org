@@ -143,6 +143,8 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+
 ### [SB 6026](/bill/2025-26/sb/6026/) - Residential dev./zones   ❓1
 
 ### [SB 6262](/bill/2025-26/sb/6262/) - Vehicle fees/maximum weight 👍1  

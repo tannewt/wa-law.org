@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Week Five - Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/13/week-five-halfway-there/#:~:text=Senate Bill 5992)
 * 02/09/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 5992 — Another Expansion of Washington’s Youth‑Control System - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb-5992-expands-washington-youth-system/#:~:text=TRACK%20SB%205992)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%205992)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [Done with week one - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/16/done-with-week-one/#:~:text=SB%205992)

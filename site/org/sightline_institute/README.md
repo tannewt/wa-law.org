@@ -66,6 +66,8 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
+### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍1  
+
 ### [HB 2210](/bill/2025-26/hb/2210/) - Local government elections 👍3  
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
@@ -136,6 +138,8 @@
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  
 
 ### [SB 5885](/bill/2025-26/sb/5885/) - Housing dev./religious orgs. 👍1  
+
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍1  
 
 ### [SB 6001](/bill/2025-26/sb/6001/) - Scissor stairs 👍1  
 * 👍💵 Dan Bertolet

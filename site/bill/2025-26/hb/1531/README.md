@@ -155,14 +155,14 @@ Testifying:
 * Patricia B Cox Cox
 * Erin Rice
 * Angela Mae Anecito
-* Lisa Templeton - Informed Choice Washington
+* Lisa Templeton - [Informed Choice Washington](/org/informed_choice_washington/)
 * Jimmy Ranson
 * Arry Yu
 * Naomi Benton - 13363 202nd Ave SE
 * Stephanie Barile
 * Amanda Bakker
 * Dan Ritchie
-* Bob Runnells - Informed Choice Washington
+* Bob Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 * Trudy Stensland
 * Nathan Smith
 * Michael Olejniczak

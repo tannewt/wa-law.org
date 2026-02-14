@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2034/</link>
 		<description>Updates about HB 2034</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -208,6 +208,13 @@
 			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>2nd substitute bill substituted.</title>
+			<description>2nd substitute bill substituted.</description>
+			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-13/2nd substitute bill substituted.</guid>
 		</item>
 	</channel>
 </rss>

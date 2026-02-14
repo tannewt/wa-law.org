@@ -9,9 +9,22 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=SB%205880)
 * 01/13/2026 [MyNorthwest](/org/mynorthwest/) - [WA bill aims to speed up DUI cases by allowing more labs to perform toxicology tests - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/wa-bill-toxicology-dui/4186993#:~:text=Senate%20Bill%205880)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5880 Toxicology testing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* Bradley Lane - State Traffic Safety Resource Prosecutor
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SSB 5880 Toxicology testing
 #### 55 👍 - Pro
 Testifying:

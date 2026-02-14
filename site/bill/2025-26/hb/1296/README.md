@@ -179,7 +179,7 @@ Testifying:
 * Laurie Layne
 * Sarah Garriott
 * Dawn Land - Reject 5599
-* Robert Runnells - Informed Choice Washington
+* 💵Robert Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 * Tim Eyman - Initiative Activist
 * Diane Kong
 * mike johnson
@@ -278,7 +278,7 @@ Testifying:
 * Eric Lundberg
 * Joseph Romero - [Puyallup School District](/org/puyallup_school_district/)
 * Danielle Black
-* Bob Runnells - Informed Choice Washington
+* Bob Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 * Jaskaran Singh Sarao - AT&T
 * Arry Yu
 * George Nervik

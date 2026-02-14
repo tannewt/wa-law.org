@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 2624 Unsolicited real estate tx.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 2624 Unsolicited real estate tx.
 #### 15 👍 - Pro
 Testifying:

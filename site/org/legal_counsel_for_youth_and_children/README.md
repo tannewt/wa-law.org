@@ -102,7 +102,7 @@
 ### [HB 2511](/bill/2025-26/hb/2511/) - Imminent physical harm/child  👎1 
 * 👎 Annie Chung
 
-### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍1  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
 
 ### [HB 2632](/bill/2025-26/hb/2632/) - Noncitizen terminology 👍1  
 * 👍 Chach Duarte White
@@ -204,7 +204,7 @@
 
 ### [SB 5957](/bill/2025-26/sb/5957/) - Concerning the office of homeless youth prevention and protection programs advisory committee. 👍1  
 
-### [SB 5977](/bill/2025-26/sb/5977/) - Child near fatality reviews 👍1  
+### [SB 5977](/bill/2025-26/sb/5977/) - Child near fatality reviews 👍2  
 
 ### [SB 5979](/bill/2025-26/sb/5979/) - Dependency/substance abuse 👍1  
 * 👍 Annie Chung
@@ -215,7 +215,7 @@
 ### [SB 6062](/bill/2025-26/sb/6062/) - Criminal offenses under 18 👍1  
 * 👍💵 Roxana Gomez
 
-### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍1  
+### [SB 6184](/bill/2025-26/sb/6184/) - Office of homeless youth 👍2  
 
 ### [SB 6224](/bill/2025-26/sb/6224/) - Youth behavioral health 👍1  
 

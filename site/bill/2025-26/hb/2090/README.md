@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Ferguson wants to be a leader in AI. Here are three things he should do | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_2cc9cd01-d8fa-46f0-989c-926f71360818.html#:~:text=House%20Bill%202090)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202090)
 * 12/04/2025 [The Center Square](/org/the_center_square/) - [Washington state faces two-front challenge to meet future energy demand | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_78ec4282-6d08-4a2f-9515-a0ee67568ff4.html#:~:text=House%20Bill%202090)
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESB%205280)
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205280)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205280)
 * 03/18/2025 [Senate Democrats](/org/senate_democrats/) - [Fighting for consumers and connecting with you - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/03/18/fighting-for-consumers-and-connecting-with-you/#:~:text=Senate%20Bill%205280)
@@ -16,10 +17,12 @@
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Noel Le
 * Tim Schwering - Spokane Police Department
+* Gabriel Patterson - Vancouver Police Department
+* Daniel (Dan) Maul - AARP volunteer
 
 #### 0 👎 - Con
 

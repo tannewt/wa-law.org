@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2026 [The Washington Observer](/org/the_washington_observer/) - [The Walmart tax](https://washingtonobserver.substack.com/p/the-walmart-tax#:~:text=SB%206173)
+
 ## Meetings
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 6173 Apple health employer assess
 #### 631 👍 - Pro

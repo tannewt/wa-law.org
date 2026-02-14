@@ -74,7 +74,8 @@
 
 ### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
-### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍2  
+### [SB 5863](/bill/2025-26/sb/5863/) - Concerning the preservation and inspection of state historical records. 👍3  
+* 👍💵 Stacy Dym
 * 👍💵 Stacy Dym
 
 ### [SB 5911](/bill/2025-26/sb/5911/) - DCYF/financial stability 👍2  

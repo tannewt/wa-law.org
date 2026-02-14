@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/06/2026 [PubliCola](/org/publicola/) - [Elevating the Affordable Housing Issue - PubliCola](https://publicola.com/2026/02/06/elevating-the-affordable-housing-issue/#:~:text=Senate%20Bill%205156,)

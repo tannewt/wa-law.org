@@ -11,6 +11,15 @@
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202428)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 2428 Life insurance policy lapses
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 08:00 AM - Consumer Protection & Business (CPB): HB 2428 Life insurance policy lapses
 #### 5 👍 - Pro
 Testifying:

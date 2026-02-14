@@ -7,15 +7,17 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESB%205581)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 31 - April 5, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-31-april-5-2025/#:~:text=SB%205581)
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Transportation (TR): ESB 5581 Safe system approach strat.
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Council Member Kitty Klitzke - [City of Spokane](/org/city_of_spokane/)
+* Larry Leveen - ForeverGreen Trails
 
 #### 0 👎 - Con
 

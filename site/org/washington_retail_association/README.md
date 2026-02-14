@@ -213,6 +213,9 @@
 ### [HB 2332](/bill/2025-26/hb/2332/) - Driver privacy   ❓1
 * ❓💵 Crystal Leatherman
 
+### [HB 2334](/bill/2025-26/hb/2334/) - Cash transactions/pennies 👍1  
+* 👍💵 Amber Carter
+
 ### [HB 2439](/bill/2025-26/hb/2439/) - Tobacco product policy  👎2 
 * 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
@@ -318,7 +321,7 @@
 * 👍💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 
-### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍2  
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍4  
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 * 👎💵 Crystal Leatherman

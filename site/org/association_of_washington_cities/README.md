@@ -206,9 +206,10 @@
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 ❓1
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
+* ❓💵 Derrick Nunnally
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 * 👍💵 Carl Schroeder
@@ -496,6 +497,8 @@
 
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍2  
 
+### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 * 👍 Amy Ockerlander
 * 👍 Amy Ockerlander
@@ -503,6 +506,8 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 * 👍💵 Candice Bock
+
+### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  
 
 ### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
 
@@ -669,7 +674,8 @@
 ### [SB 5998](/bill/2025-26/sb/5998/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
-### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓1
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [SB 6003](/bill/2025-26/sb/6003/) - Capital budget, supplemental   ❓1

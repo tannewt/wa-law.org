@@ -10,7 +10,7 @@
 ### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1269 Pawnbroker fees, int. rates
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * 💵Karen Strickland - Pawn 1 Inc
 

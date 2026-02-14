@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall invitation & mid-session update - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/02/13/town-hall-invitation-mid-session-update/#:~:text=Senate%20Bill%206346)
+* 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Week Five - Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/13/week-five-halfway-there/#:~:text=SB 6346)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=Senate%20Bill%206346)
 * 02/10/2026 [KING5](/org/king5/) - [Hundreds rally in Olympia in support of 'Millionaires Tax' | king5.com](https://www.king5.com/article/news/local/rally-olympia-support-millionaires-tax/281-b573e232-9608-4381-90e7-291d1a14a9cd#:~:text=Senate%20Bill%206346)
 * 02/10/2026 [MyNorthwest](/org/mynorthwest/) - ['Millionaire tax' supporters rally at WA capitol](https://mynorthwest.com/mynorthwest-politics/millionaire-tax-supporters-rally-at-state-capitol/4201291#:~:text=SB%206346)

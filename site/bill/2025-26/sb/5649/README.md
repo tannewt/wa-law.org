@@ -14,7 +14,7 @@
 ### Wed 02/18 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): ESB 5649 Supply chain competitiveness
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
 #### 0 👎 - Con
 

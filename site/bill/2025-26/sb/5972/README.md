@@ -7,11 +7,16 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SSB%205972)
+
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5972 Correctional officers/arb.
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Carl Keller - Teamsters Local 760
 
 #### 0 👎 - Con
 

@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Ways & Means (WM): SB 5808 Health carrier surpluses
+Sign up to testify:
+
+#### 8 👍 - Pro
+Testifying:
+* Consuelo Echeverria
+* MSLS,BSN, RN, Kathryn Lewandowsky
+* Lonnie Johns-Brown - Health Care For All Washington
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

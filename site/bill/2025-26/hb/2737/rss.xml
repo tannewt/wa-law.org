@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2737 - Commercial shellfish fees</title>
+		<link>https://wa-law.org/bill/2025-26/hb/2737/</link>
+		<description>Updates about HB 2737</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 13 Feb 2026 20:19:18 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Agriculture &amp; Natural Resources.</title>
+			<description>First reading, referred to Agriculture &amp; Natural Resources.</description>
+			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-13/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Evie Fagergren - Calm Cove Oyster Company</title>
+			<description>Evie Fagergren signed up to testify Pro. They are signed up to represent Calm Cove Oyster Company.</description>
+			<pubDate>Fri, 13 Feb 2026 14:42:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Evie/Fagergren/2026-02-13 14:42:12</guid>
+		</item>
+		<item>
+			<title>👍Kyle Lentz - Chelsea Farms</title>
+			<description>Kyle Lentz signed up to testify Pro. They are signed up to represent Chelsea Farms.</description>
+			<pubDate>Fri, 13 Feb 2026 16:18:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kyle/Lentz/2026-02-13 16:18:54</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 13 Feb 2026 20:19:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=HB%202737</guid>
+		</item>
+	</channel>
+</rss>

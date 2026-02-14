@@ -7,7 +7,19 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SSB%205982)
+
 ## Meetings
+### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SSB 5982 Consumer-owned utilities
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - Environment, Energy & Technology (ENET): SB 5982 Consumer-owned utilities
 #### 43 👍 - Pro
 Testifying:

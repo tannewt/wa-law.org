@@ -19,9 +19,13 @@
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5993 Medical debt interest
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society
+* Kris Shook
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
-#### 17 👎 - Con
+#### 46 👎 - Con
 
 #### 0 ❓ - Other
 

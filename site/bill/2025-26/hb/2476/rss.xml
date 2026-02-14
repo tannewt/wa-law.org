@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2476/</link>
 		<description>Updates about HB 2476</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 30 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -66,6 +66,13 @@
 			<pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-30/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-13/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -13,6 +13,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202269)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Housing (HSG): SHB 2269 Middle housing/uninc. areas
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/12 02:00 PM - Housing (HOUS): HB 2269 Middle housing/uninc. areas
 #### 183 👍 - Pro
 Testifying:

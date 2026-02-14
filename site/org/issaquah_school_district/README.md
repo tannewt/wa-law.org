@@ -22,7 +22,8 @@
 ### [HB 1709](/bill/2025-26/hb/1709/) - Adrenal insufficiency care 👍4  
 * 👍 Laura Carmichael
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍3  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍4  
+* 👍 Martin Turney
 * 👍 Martin Turney
 * 👍 Martin Turney
 

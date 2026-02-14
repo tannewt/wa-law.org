@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): ESHB 1187 Delayed ambulance bills
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 01:30 PM - Health Care & Wellness (HCW): HB 1187 Delayed ambulance bills
 #### 0 👍 - Pro
 

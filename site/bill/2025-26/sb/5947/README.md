@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=Senate Bill 5947)
 * 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [Health care movement & floor votes - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205947)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Week one in review - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/16/week-one-in-review/#:~:text=SB%205947)
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [The start of session - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/09/the-start-of-session/#:~:text=SB%205947)

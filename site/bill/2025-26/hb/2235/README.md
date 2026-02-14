@@ -12,6 +12,17 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202235)
 
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 2235 PRA firearm exemptions
+Sign up to testify:
+
+#### 7 👍 - Pro
+Testifying:
+* Michael McKinley
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - State Government & Tribal Relations (SGOV): HB 2235 PRA firearm exemptions
 #### 887 👍 - Pro
 Testifying:

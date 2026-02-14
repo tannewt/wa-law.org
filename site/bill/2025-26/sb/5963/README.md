@@ -14,6 +14,15 @@
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205963)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5963 Passport to careers program
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/03 04:00 PM - Ways & Means (WM): SB 5963 Passport to careers program
 #### 45 👍 - Pro
 Testifying:

@@ -48,7 +48,11 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
+### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
+
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
 
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
 

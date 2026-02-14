@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6002/</link>
 		<description>Updates about SB 6002</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 19:18:31 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 20:19:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -634,6 +634,37 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2026-02-11 19:18:31</guid>
+		</item>
+		<item>
+			<title>❓LaDon Linde - Yakima County Commissioner</title>
+			<description>LaDon Linde signed up to testify Other. They are signed up to represent Yakima County Commissioner.</description>
+			<pubDate>Fri, 13 Feb 2026 07:22:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/LaDon/Linde/2026-02-13 07:22:50</guid>
+		</item>
+		<item>
+			<title>❓💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 13 Feb 2026 09:23:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2026-02-13 09:23:34</guid>
+		</item>
+		<item>
+			<title>👎Greg Smith - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Greg Smith signed up to testify Con.</description>
+			<pubDate>Fri, 13 Feb 2026 16:50:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Greg/Smith/2026-02-13 16:50:45</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 13 Feb 2026 20:19:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESSB%206002</guid>
 		</item>
 	</channel>
 </rss>

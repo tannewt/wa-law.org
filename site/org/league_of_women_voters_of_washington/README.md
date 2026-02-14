@@ -86,6 +86,10 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 
 ### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍2  
@@ -223,7 +227,7 @@
 ### [SB 5637](/bill/2025-26/sb/5637/) - Media literacy & civic ed. 👍1 👎1 
 * 👍 Dee Anne Finken
 
-### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍3  
+### [SB 5892](/bill/2025-26/sb/5892/) - Voter registration database 👍4  
 * 👍 Alison McCaffree
 
 ### [SB 5965](/bill/2025-26/sb/5965/) - Retail bags 👍2  

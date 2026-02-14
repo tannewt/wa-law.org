@@ -8,11 +8,21 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Senate bills moving forward - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%205917)
 * 02/12/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA to distribute its store of abortion pills to clinics, possibly nationwide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_048a13b4-728e-491e-aa62-7bb0827d3d3f.html#:~:text=Senate%20Bill%205917)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall recap - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/23/town-hall-recap/#:~:text=SB%205917)
 * 01/09/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session is about to begin! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/09/2026-legislative-session-is-about-to-begin/#:~:text=Senate%20Bill%205917)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SSB 5917 Abortion medications
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Human Services (HS): SB 5917 Abortion medications
 #### 362 👍 - Pro
 Testifying:

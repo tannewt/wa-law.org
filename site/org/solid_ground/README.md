@@ -70,7 +70,7 @@
 
 ### [SB 5940](/bill/2025-26/sb/5940/) - Foster care housing pilot 👍1  
 
-### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍2  
 
 ### [SB 6027](/bill/2025-26/sb/6027/) - Affordable housing funding 👍2  
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Join me for a town hall next Saturday - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/02/13/join-me-for-a-town-hall-next-saturday/#:~:text=SB%205188)
 * 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=SB%205188)
 
 ## Meetings

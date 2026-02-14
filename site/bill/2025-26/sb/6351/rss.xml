@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6351/</link>
 		<description>Updates about SB 6351</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 16:30:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-09/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>❓Milt Harper - Student Orchestras of Greater Olympia</title>
+			<description>Milt Harper signed up to testify Other. They are signed up to represent Student Orchestras of Greater Olympia.</description>
+			<pubDate>Fri, 13 Feb 2026 13:38:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Milt/Harper/2026-02-13 13:38:13</guid>
+		</item>
+		<item>
+			<title>👍💵Grace Yuan - School Alliance</title>
+			<description>Grace Yuan signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/school_alliance/"&gt;School Alliance&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 13 Feb 2026 16:30:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Grace/Yuan/2026-02-13 16:30:46</guid>
 		</item>
 	</channel>
 </rss>

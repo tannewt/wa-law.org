@@ -7,6 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Local Government (LG): SB 5467 Water-sewer district surplus
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/25 10:30 AM - Local Government (LG): SB 5467 Water-sewer district surplus
 #### 1 👍 - Pro
 Testifying:

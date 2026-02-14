@@ -8,11 +8,14 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESSB%205203)
+
 ## Meetings
 ### Wed 02/18 04:00 PM - Transportation (TR): ESSB 5203 Wildlife safe passages
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 14 👍 - Pro
 
 #### 0 👎 - Con
 

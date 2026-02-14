@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6277/</link>
 		<description>Updates about SB 6277</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 02 Feb 2026 20:14:52 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 00:43:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,6 +85,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charles/Wharton/2026-02-02 20:14:52</guid>
+		</item>
+		<item>
+			<title>Week Five - Halfway there - Sen. Deborah Krishnadasan</title>
+			<description>News article "Week Five - Halfway there - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Sat, 14 Feb 2026 00:43:40 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2026/02/13/week-five-halfway-there/#:~:text=Senate%20Bill%206277</guid>
 		</item>
 	</channel>
 </rss>

@@ -69,6 +69,8 @@
 
 ### [HB 2595](/bill/2025-26/hb/2595/) - Collateral attacks/criminal 👍1  
 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 * 👍💵 Anthony Blankenship
 
@@ -88,6 +90,8 @@
 ### [SB 5945](/bill/2025-26/sb/5945/) - Persistent offenders 👍1  
 
 ### [SB 5974](/bill/2025-26/sb/5974/) - Local law enforcement 👍2  
+
+### [SB 6002](/bill/2025-26/sb/6002/) - Driver privacy 👍1  
 
 ### [SB 6074](/bill/2025-26/sb/6074/) - Parole   ❓2
 

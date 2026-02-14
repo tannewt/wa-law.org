@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2088 Dietitian licensure compact
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2088 Dietitian licensure compact
 #### 118 👍 - Pro
 Testifying:

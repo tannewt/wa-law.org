@@ -6,14 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Jobs, floor action winds down and another major deadline arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/13/this-week-in-the-senate-week-6-jobs-floor-action-winds-down-and-another-major-deadline-arrives/#:~:text=House%20Bill%202309)
+
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): HB 2309 Postgrad degree requirements
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 * Jamie Bird
+* Ben Asbury
 
 #### 0 👎 - Con
 

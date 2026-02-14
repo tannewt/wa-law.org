@@ -12,6 +12,18 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201796)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): HB 1796 School construction debt
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* Jon Holmen - Lake Washington School District
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 04/04 01:30 PM - Ways & Means (WM): HB 1796 School construction debt
 #### 11 👍 - Pro
 Testifying:

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESSB%206002)
 * 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%206002)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=SB%206002,)
 * 02/05/2026 [Senate Democrats](/org/senate_democrats/) - [Supporting our communities and working families - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/05/supporting-our-communities-and-working-families/#:~:text=Senate%20Bill%206002)
@@ -40,13 +41,17 @@
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 6002 Driver privacy
 Sign up to testify:
 
-#### 5 👍 - Pro
+#### 20 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Greg Smith
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* LaDon Linde - Yakima County Commissioner
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 6002 Driver privacy
 #### 2149 👍 - Pro

@@ -16,6 +16,15 @@
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [Hansen, Timmons bills would ban nitrous oxide sale in Washington  - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/01/14/hansen-timmons-bill-would-ban-nitrous-oxide-sale-in-washington/#:~:text=House%20bill)
 
 ## Meetings
+### Thu 02/19 10:30 AM - Law & Justice (LAW): ESHB 2532 Nitrous oxide sale
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2532 Nitrous oxide sale
 #### 34 👍 - Pro
 Testifying:

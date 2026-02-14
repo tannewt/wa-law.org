@@ -10,6 +10,17 @@
 * 02/10/2026 [The Center Square](/org/the_center_square/) - [WATCH: Record child deaths fuel fierce debate over WA safety standards | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_14c7fd88-f280-42e1-a48c-d0cbaa03a5eb.html#:~:text=SB%205977)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5977 Child near fatality reviews
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* Sarah Akey - Keeping Kids SAFE
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - Human Services (HS): SB 5977 Child near fatality reviews
 #### 191 👍 - Pro
 

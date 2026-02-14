@@ -24,15 +24,17 @@
 ### [SB 5918](/bill/2025-26/sb/5918/) - School operating costs 👍1  
 * 👍💵 Lacey Stanage
 
-## [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  
+### [SB 6239](/bill/2025-26/sb/6239/) - State tort claims 👍2  
 * 👍💵 Grace Yuan
 * 👍 Charlie Brown
+
+## [SB 6351](/bill/2025-26/sb/6351/) - School sales tax exemptions 👍1  
+* 👍💵 Grace Yuan
 
 ## 2023-24
 
-### [SB 6239](/bill/2023-24/sb/6239/) - State tort claims 👍2  
+### [SB 6351](/bill/2023-24/sb/6351/) - School sales tax exemptions 👍1  
 * 👍💵 Grace Yuan
-* 👍 Charlie Brown
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding   ❓1
 * ❓💵 Lacey Stanage

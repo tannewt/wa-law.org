@@ -42,7 +42,7 @@ Testifying:
 
 #### 1792 👎 - Con
 Testifying:
-* Bob Runnells - Informed Choice Washington
+* Bob Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 * Natalie Chavez
 
 #### 3 ❓ - Other

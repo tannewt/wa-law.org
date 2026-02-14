@@ -13,7 +13,7 @@
 ### Wed 01/14 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2148 Pay it forward program
 #### 134 👍 - Pro
 Testifying:
-* Annika Peterson - UW Graduate & Professional Student Senate
+* 💵Annika Peterson - UW Graduate & Professional Student Senate
 * Ali Maleki
 * 💵Collin Bannister - [Washington Student Association](/org/washington_student_association/)
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union

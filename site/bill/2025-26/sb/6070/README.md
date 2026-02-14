@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [MEDIA ADVISORY: We support survivors in this Washington - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/11/media-advisory-we-support-survivors-in-this-washington/#:~:text=Senate%20Bill%206070)

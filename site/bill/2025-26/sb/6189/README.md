@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Senate bills moving forward - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%206189)
+
 ## Meetings
 ### Thu 01/22 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6189 Aquatics/sports PFD deadline
 #### 3 👍 - Pro

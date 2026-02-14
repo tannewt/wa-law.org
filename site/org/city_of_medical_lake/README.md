@@ -16,9 +16,10 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍2  
+### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍4  
 * 👍 Sonny Weathers
 * 👍 Terri Cooper
+* 👍 Mayor Terri Cooper
 
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners  👎1 
 

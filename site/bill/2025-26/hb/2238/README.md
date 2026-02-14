@@ -15,6 +15,19 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202238)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): ESHB 2238 Statewide food security
+Sign up to testify:
+
+#### 167 👍 - Pro
+Testifying:
+* 💵Michael Moran - 2nd Harvest Inland Northwest
+* Gabriel Navarro
+* Zsofia Pasztor - Fresh Food Coalition
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2238 Statewide food security
 #### 149 👍 - Pro
 Testifying:

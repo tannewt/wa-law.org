@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): ESSB 6210 Health plan certification
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6210 Health plan certification
 #### 159 👍 - Pro
 Testifying:

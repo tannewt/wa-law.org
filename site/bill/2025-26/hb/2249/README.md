@@ -10,11 +10,15 @@
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): HB 2249 Civil service/WaTech
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Ashley Fueston - Washington Federation of State Employees- Vice President
 
-#### 0 👎 - Con
+#### 145 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joshua Johnston - WaTech
 
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2249 Civil service/WaTech
 #### 12 👍 - Pro

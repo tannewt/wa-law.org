@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SSB%205855)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SSB%205855:)
 * 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%205855)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB%205855)
@@ -64,17 +65,19 @@
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5855 Law enf. face coverings
 Sign up to testify:
 
-#### 230 👍 - Pro
+#### 326 👍 - Pro
 Testifying:
 * Rachael Snell
 
-#### 122 👎 - Con
+#### 135 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
+* Laurie Layne
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Cobi Clark
 
 ### Tue 01/13 08:00 AM - Law & Justice (LAW): SB 5855 Law enf. face coverings
 #### 14718 👍 - Pro

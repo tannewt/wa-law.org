@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): SHB 2363 Music therapy exemptions
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2363 Music therapy exemptions
 #### 97 👍 - Pro
 Testifying:

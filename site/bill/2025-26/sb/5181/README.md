@@ -86,7 +86,7 @@ Testifying:
 * Khushdip Brar
 * kathleen Koch
 * Penny Cox
-* Bob Runnells - Informed Choice Washington
+* Bob Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 * Bobbi Moody
 * Kelly Randall
 * Antoinette Nepper
@@ -393,7 +393,7 @@ Testifying:
 * TaraLyn Fray
 * Brenda Milewski
 * Jessica Haselby
-* Lisa Templeton - Informed Choice Washington
+* Lisa Templeton - [Informed Choice Washington](/org/informed_choice_washington/)
 * Hillary Kilby
 * Theresa McCann
 * Kathy price
@@ -484,7 +484,7 @@ Testifying:
 * Theresa Schrempp
 * Alan Nolan - Mead School District
 * Dakota Manley - Washington State Young Republicans
-* Bob Runnells - Informed Choice Washington
+* Bob Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 * Darryl Jones
 * Latasha Mae
 

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/13/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmaker’s plan to keep used clothing out of landfills hits dead end • Washington State Standard](https://washingtonstatestandard.com/2026/02/13/wa-lawmakers-plan-to-keep-used-clothing-out-of-landfills-hits-dead-end/#:~:text=House%20Bill%201420)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201420)
 * 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=House%20Bill%201420)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201420)

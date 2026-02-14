@@ -11,6 +11,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202385)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Ways & Means (WM): HB 2385 Medicaid access program
+Sign up to testify:
+
+#### 3 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 04:00 PM - Appropriations (APP): HB 2385 Medicaid access program
 #### 38 👍 - Pro
 Testifying:

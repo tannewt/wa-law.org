@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Environment & Energy (ENVI): SSB 6269 Definition of motor fuel
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - Environment, Energy & Technology (ENET): SB 6269 Definition of motor fuel
 #### 10 👍 - Pro
 Testifying:

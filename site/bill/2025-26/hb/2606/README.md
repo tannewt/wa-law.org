@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): HB 2606 Office of privacy and data
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2606 Office of privacy and data
 #### 1 👍 - Pro
 Testifying:

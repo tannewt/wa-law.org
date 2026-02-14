@@ -121,7 +121,7 @@
 
 ### [HB 2360](/bill/2025-26/hb/2360/) - Albuterol access in schools 👍1  
 
-### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍1  
+### [HB 2385](/bill/2025-26/hb/2385/) - Medicaid access program 👍2  
 
 ### [HB 2387](/bill/2025-26/hb/2387/) - Elected sheriffs  👎1 
 
@@ -207,7 +207,7 @@
 
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
-### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
 ### [SB 5906](/bill/2025-26/sb/5906/) - Data and personal safety 👍2  
 

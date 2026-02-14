@@ -224,9 +224,10 @@
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎2 
 
-### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎4 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎5 
 * 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
+* 👎💵 Andrea Reay
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍💵 Julia Gorton

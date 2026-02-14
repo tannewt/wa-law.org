@@ -11,6 +11,18 @@
 * 12/15/2025 [The Center Square](/org/the_center_square/) - [WA bill would remove PDC filing requirement concerning foreign nationals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7f94bb25-5652-40f1-974b-ce0102d5aea1.html#:~:text=House%20Bill%202123)
 
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): SHB 2123 Foreign nationals/elections
+Sign up to testify:
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Conner Edwards - Professional Campaign Treasurer / CG Edwards PLLC
+* Jason Michaud
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - State Government & Tribal Relations (SGOV): HB 2123 Foreign nationals/elections
 #### 61 👍 - Pro
 Testifying:

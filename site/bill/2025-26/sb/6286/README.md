@@ -19,6 +19,15 @@
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 Session Updates! - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2026/01/23/2026-session-updates/#:~:text=SB%206286)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Ways & Means (WM): SSB 6286 Detention facility fines/DOH
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 05:45 PM - Human Services (HS): SB 6286 Detention facility fines/DOH
 #### 390 👍 - Pro
 Testifying:

@@ -12,6 +12,17 @@
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%201859)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Housing (HSG): 2SHB 1859 Housing dev./religious orgs.
+Sign up to testify:
+
+#### 4 👍 - Pro
+Testifying:
+* Saghar Amini - Habitat for Humanity Seattle-King & Kittitas Counties
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1859 Housing dev./religious orgs.
 #### 189 👍 - Pro
 Testifying:

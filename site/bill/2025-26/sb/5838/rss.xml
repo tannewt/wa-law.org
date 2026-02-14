@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5838/</link>
 		<description>Updates about SB 5838</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 14:02:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -146,6 +146,14 @@
 			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-11/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>👍💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes</title>
+			<description>Michael Moran signed up to testify Pro. They are signed up to represent 1. Chehalis Tribe. 2. Colville Tribes. They are a registered lobbyist.</description>
+			<pubDate>Fri, 13 Feb 2026 14:02:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Moran/2026-02-13 14:02:05</guid>
 		</item>
 	</channel>
 </rss>

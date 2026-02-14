@@ -12,6 +12,15 @@
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=renters%20and%20homebuyers)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): SSB 6091 Real estate/exclusive market
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6091 Real estate/exclusive market
 #### 40 👍 - Pro
 Testifying:

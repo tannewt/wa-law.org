@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): ESSB 5845 Health carrier payments
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 10:30 AM - Health & Long Term Care (HLTC): SB 5845 Health carrier payments
 #### 69 👍 - Pro
 Testifying:

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5816 Sale of juice grapes
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5816 Sale of juice grapes
 #### 49 👍 - Pro
 Testifying:

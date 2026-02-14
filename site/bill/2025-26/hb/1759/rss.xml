@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1759/</link>
 		<description>Updates about HB 1759</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 16:55:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,7 +131,7 @@
 			<guid isPermaLink="false">2025-02-19/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
 		</item>
 		<item>
-			<title>👍Norbert Caoili - Department of Natural Resources</title>
+			<title>👍Norbert Caoili - Captain SeaHawk V2.0</title>
 			<description>Norbert Caoili signed up to testify Pro.</description>
 			<pubDate>Fri, 07 Mar 2025 11:38:46 GMT</pubDate>
 			<category>testifier</category>
@@ -281,6 +281,21 @@
 			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-11/Third reading, passed; yeas, 93; nays, 2; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government, Tribal Affairs &amp; Elections.</title>
+			<description>First reading, referred to State Government, Tribal Affairs &amp; Elections.</description>
+			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-13/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Captain Seahawk - Captain SeaHawk V2.0</title>
+			<description>Captain Seahawk signed up to testify Pro. They are signed up to represent Captain SeaHawk V2.0.</description>
+			<pubDate>Fri, 13 Feb 2026 16:55:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Captain/Seahawk/2026-02-13 16:55:59</guid>
 		</item>
 	</channel>
 </rss>

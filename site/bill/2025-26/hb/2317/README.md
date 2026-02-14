@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): EHB 2317 Early learning licensing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2317 Early learning licensing
 #### 195 👍 - Pro
 Testifying:

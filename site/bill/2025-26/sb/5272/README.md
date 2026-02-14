@@ -15,10 +15,11 @@
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5272 School safety/penalties
 Sign up to testify:
 
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Albert Merkel - Spokane Valley city council member, on own behalf
 * Robert West
+* Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
 #### 0 👎 - Con
 

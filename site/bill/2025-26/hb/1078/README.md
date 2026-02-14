@@ -13,6 +13,15 @@
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201078)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1078 Pet insurance
+Sign up to testify:
+
+#### 8 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/17 08:00 AM - Consumer Protection & Business (CPB): HB 1078 Pet insurance
 #### 23 👍 - Pro
 Testifying:

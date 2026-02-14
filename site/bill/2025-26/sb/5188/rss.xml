@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5188/</link>
 		<description>Updates about SB 5188</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 03 Feb 2026 15:32:21 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 00:26:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -234,6 +234,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Steven/Ellis/2026-02-03 15:32:21</guid>
+		</item>
+		<item>
+			<title>Join me for a town hall next Saturday - Sen. Lisa Wellman</title>
+			<description>News article "Join me for a town hall next Saturday - Sen. Lisa Wellman" from Senate Democrats.</description>
+			<pubDate>Sat, 14 Feb 2026 00:26:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wellman/2026/02/13/join-me-for-a-town-hall-next-saturday/#:~:text=SB%205188</guid>
 		</item>
 	</channel>
 </rss>

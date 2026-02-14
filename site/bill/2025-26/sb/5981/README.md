@@ -7,11 +7,21 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/09/2026 [The Washington Observer](/org/the_washington_observer/) - [Big Pharma v The Hospitals, cont'd.](https://washingtonobserver.substack.com/p/big-pharma-v-the-hospitals-contd#:~:text=bills)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): 2SSB 5981 340B drug pricing program
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5981 340B drug pricing program
 #### 350 👍 - Pro
 Testifying:

@@ -16,7 +16,7 @@ Testifying:
 * Dr. Cameron Buck
 * Dr. James Nania
 * Dr. Paul Craven
-* Bob Runnells - Informed Choice Washington
+* Bob Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 * Brian Burns - Washington State Emegency Nurses Association
 * Cody Staub - Washington State Emergency Nurses Association
 * Michelle Percopo - Washington State Emergency Nurses Association

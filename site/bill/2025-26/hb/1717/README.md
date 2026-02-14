@@ -13,6 +13,20 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201717)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Ways & Means (WM): ESHB 1717 Affordable housing/sales tax
+Sign up to testify:
+
+#### 8 👍 - Pro
+Testifying:
+* 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners
+* Michone Preston - Habitat for Humanity of Washington State
+* Dustin Johnson - Anacortes Family Center
+* Mayor Ryan Walters - [City of Anacortes](/org/city_of_anacortes/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
 #### 213 👍 - Pro
 Testifying:

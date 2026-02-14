@@ -14,7 +14,7 @@
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5886 Personality rights
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -19,7 +19,7 @@ Testifying:
 
 #### 95 👎 - Con
 Testifying:
-* Bob Runnells - Informed Choice Washington
+* Bob Runnells - [Informed Choice Washington](/org/informed_choice_washington/)
 
 #### 1 ❓ - Other
 Testifying:

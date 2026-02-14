@@ -10,3 +10,11 @@
 * 01/15/2026 [Food Lifeline](/org/food_lifeline/) - [2026 Washington State Legislative Session Update: Statewide Food Security Strategy | Food Lifeline](https://foodlifeline.org/article/2026-washington-state-legislative-session-update-statewide-food-security-strategy#:~:text=SB%206006)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6006 Food banks/sales tax
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

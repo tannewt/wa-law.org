@@ -17,6 +17,15 @@
 * 01/09/2026 [Axios](/org/axios/) - [Washington state lawmakers weigh AI chatbot regulations to protect minors - Axios Seattle](https://www.axios.com/local/seattle/2026/01/09/washington-ai-regulation-chatbots-kids-deepfakes#:~:text=limit%20schools'%20use)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Education (ED): SSB 5956 AI use/student discipline
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 10:30 AM - Early Learning & K-12 Education (EDU): SB 5956 AI use/student discipline
 #### 339 👍 - Pro
 Testifying:

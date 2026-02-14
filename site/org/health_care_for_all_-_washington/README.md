@@ -72,6 +72,8 @@
 
 ### [SB 5798](/bill/2025-26/sb/5798/) - Property tax 👍1  
 
+### [SB 5808](/bill/2025-26/sb/5808/) - Health carrier surpluses 👍1  
+
 ### [SB 5845](/bill/2025-26/sb/5845/) - Health carrier payments 👍1  
 
 ### [SB 5852](/bill/2025-26/sb/5852/) - Immigrant workers 👍1  
@@ -86,9 +88,11 @@
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍1  
 
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+
 ### [SB 6031](/bill/2025-26/sb/6031/) - Insurance crimes 👍1  
 
-### [SB 6103](/bill/2025-26/sb/6103/) - Rural hospital payments 👍1  
+### [SB 6103](/bill/2025-26/sb/6103/) - Rural hospital payments 👍2  
 
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 

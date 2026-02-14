@@ -24,19 +24,29 @@
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5067 Impaired driving
 Sign up to testify:
 
-#### 6 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Tao Sheng Kwan-Gett - Washington Department of Health
 * Amy Freedheim - King County Prosecuting Attorney's Office
 * Linda Thompson - In Memory of Trevor Pierce, 9/16/1982 - 8/16/1986
+* Mark McKechnie - Washington Traffic Safety Commission
+* Leah Walton - National Transportation Safety Board (NTSB)
+* Ashley Bonus - In memory of Stacy Gammons- Ankerfelt
+* Nina Coury - In Memory of Gabriel Coury 2010 - 2023 Killed by an Impaired Driver
+* Shellie Coury - In Memory of Gabriel Coury 2010 - 2023 Killed by an Impaired Driver
+* Coryjo huntley
 
-#### 5 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * Karlie Valdez - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * Avery Cesarano
+* 💵Ethan Martez - 44th Legislattive D Democrats
+* 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Chris Van Vechten - Sound Lawyer
+* Lena Pond
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/30 04:00 PM - Transportation (TRAN): SSB 5067 Impaired driving
 #### 91 👍 - Pro

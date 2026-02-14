@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): SSB 5931 Workforce board admin.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5931 Workforce board admin.
 #### 33 👍 - Pro
 Testifying:

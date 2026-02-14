@@ -152,7 +152,8 @@
 
 ### [SB 5967](/bill/2025-26/sb/5967/) - Preventive health services 👍1  
 
-### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍1  
+### [SB 5993](/bill/2025-26/sb/5993/) - Medical debt interest 👍2  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
 ### [SB 6105](/bill/2025-26/sb/6105/) - Medical debt garnishments 👍1  
@@ -161,7 +162,7 @@
 ### [SB 6173](/bill/2025-26/sb/6173/) - Apple health employer assess 👍1  
 * 👍 Sam Hatzenbeler
 
-### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍1  
+### [SB 6210](/bill/2025-26/sb/6210/) - Health plan certification 👍2  
 
 ### [SB 6229](/bill/2025-26/sb/6229/) - Small business stock gains 👍1  
 

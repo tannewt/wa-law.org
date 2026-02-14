@@ -7,9 +7,19 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall invitation & mid-session update - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/02/13/town-hall-invitation-mid-session-update/#:~:text=SB%206178)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session is in Full Swing! - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/23/the-2026-legislative-session-is-in-full-swing/#:~:text=SB%206178)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): SB 6178 Prop. insurance assignments
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6178 Prop. insurance assignments
 #### 14 👍 - Pro
 Testifying:

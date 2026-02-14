@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6103/</link>
 		<description>Updates about SB 6103</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 20:19:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -72,6 +72,13 @@
 			<pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-06/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 13 Feb 2026 20:19:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SB%206103</guid>
 		</item>
 	</channel>
 </rss>

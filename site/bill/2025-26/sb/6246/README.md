@@ -6,7 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESB%206246)
+
 ## Meetings
+### Wed 02/18 10:00 AM - Environment & Energy (ENVI): ESB 6246 Emissions/trade-exposed
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6246 Emissions/trade-exposed
 #### 18 👍 - Pro
 Testifying:

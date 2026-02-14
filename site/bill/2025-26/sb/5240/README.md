@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Join me for a town hall next Saturday - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2026/02/13/join-me-for-a-town-hall-next-saturday/#:~:text=SB%205240)
+
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
 Sign up to testify:

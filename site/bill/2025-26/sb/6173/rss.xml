@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6173/</link>
 		<description>Updates about SB 6173</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Jan 2026 14:49:37 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Feb 2026 18:24:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -166,6 +166,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andre/Stackhouse/2026-01-20 14:49:37</guid>
+		</item>
+		<item>
+			<title>The Walmart tax</title>
+			<description>News article "The Walmart tax" from The Washington Observer.</description>
+			<pubDate>Fri, 13 Feb 2026 18:24:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonobserver.substack.com/p/the-walmart-tax#:~:text=SB%206173</guid>
 		</item>
 	</channel>
 </rss>

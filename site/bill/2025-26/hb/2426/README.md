@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): HB 2426 Pollution control appeals
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2426 Pollution control appeals
 #### 51 👍 - Pro
 Testifying:

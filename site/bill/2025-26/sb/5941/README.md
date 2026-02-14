@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Local Government (LG): SSB 5941 Schools/renewable energy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 10:30 AM - Environment, Energy & Technology (ENET): SB 5941 Schools/renewable energy
 #### 160 👍 - Pro
 Testifying:

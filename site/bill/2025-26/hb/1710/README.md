@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
+* [Engrossed Third Substitute](S3.E/)
 
 ## 📰 Articles
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%201710)
@@ -16,6 +17,17 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201710)
 
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): E3SHB 1710 Voting rights act compliance
+Sign up to testify:
+
+#### 13 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1710 Voting rights act compliance
 #### 415 👍 - Pro
 Testifying:

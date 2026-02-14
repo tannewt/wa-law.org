@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5984/</link>
 		<description>Updates about SB 5984</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 00:26:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -293,6 +293,13 @@
 			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-12/Third reading, passed; yeas, 38; nays, 11; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Join me for a town hall next Saturday - Sen. Lisa Wellman</title>
+			<description>News article "Join me for a town hall next Saturday - Sen. Lisa Wellman" from Senate Democrats.</description>
+			<pubDate>Sat, 14 Feb 2026 00:26:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wellman/2026/02/13/join-me-for-a-town-hall-next-saturday/#:~:text=SB%205894</guid>
 		</item>
 	</channel>
 </rss>

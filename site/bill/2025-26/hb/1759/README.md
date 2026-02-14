@@ -13,6 +13,17 @@
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201759)
 
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 1759 Day of the 12s
+Sign up to testify:
+
+#### 1 👍 - Pro
+Testifying:
+* Captain Seahawk - Captain SeaHawk V2.0
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/14 10:30 AM - State Government & Elections (SGE): HB 1759 Day of the 12s
 #### 131 👍 - Pro
 Testifying:

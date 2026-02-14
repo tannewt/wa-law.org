@@ -1,6 +1,8 @@
 # Washington Federation of State Employees
 ## 2025-26
 
+### [HB 1002](/bill/2025-26/hb/1002/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
+
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
 * 👍 Kati Durkin
 
@@ -116,7 +118,8 @@
 
 ### [HB 2043](/bill/2025-26/hb/2043/) - Transportation resources 👍2  
 
-### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍1  
+### [HB 2091](/bill/2025-26/hb/2091/) - Requiring public employers under chapter 41.80 RCW to provide employee information to exclusive bargaining representatives. 👍2  
+* 👍 Kati Durkin
 
 ### [HB 2105](/bill/2025-26/hb/2105/) - Immigrant workers 👍1  
 
@@ -151,7 +154,8 @@
 
 ### [HB 2333](/bill/2025-26/hb/2333/) - Political violence 👍1  
 
-### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍2  
+### [HB 2411](/bill/2025-26/hb/2411/) - Shared leave 👍3  
+* 👍 Mike Yestramski
 
 ### [HB 2416](/bill/2025-26/hb/2416/) - Waste to energy facilities 👍1  
 
@@ -275,7 +279,7 @@
 
 ### [SB 5882](/bill/2025-26/sb/5882/) - Correctional workers/stress 👍1  
 
-### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍1  
+### [SB 5904](/bill/2025-26/sb/5904/) - Use of nursing titles 👍2  
 
 ### [SB 5905](/bill/2025-26/sb/5905/) - Port workers PERS membership 👍1  
 

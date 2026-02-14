@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SB 6291 On-site wastewater systems
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/29 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6291 On-site wastewater systems
 #### 55 👍 - Pro
 Testifying:

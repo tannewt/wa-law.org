@@ -13,6 +13,9 @@
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 * 👍 Shawn Merchant
 
+### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations   ❓1
+* ❓ Shawn Merchant
+
 ### [SB 5050](/bill/2025-26/sb/5050/) - Presidential primary privacy   ❓1
 * ❓ Shawn Merchant
 

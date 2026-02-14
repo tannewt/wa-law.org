@@ -13,6 +13,17 @@
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205838)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5838 Board of natural resources
+Sign up to testify:
+
+#### 4 👍 - Pro
+Testifying:
+* 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5838 Board of natural resources
 #### 33 👍 - Pro
 Testifying:

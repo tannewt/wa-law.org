@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 6025 Definition of fetal death
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 6025 Definition of fetal death
 #### 14 👍 - Pro
 Testifying:
