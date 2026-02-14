@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import math
 import shutil
 import subprocess
 import tempfile
@@ -172,6 +173,135 @@ def detect_layer_name(dataset_path: Path) -> str:
     raise ValueError(f"Could not detect layer name from {dataset_path}")
 
 
+def nudge_points_to_avoid_overlap(
+    anchors: list[tuple[float, float]],
+    dot_radius: float,
+    width: int,
+    height: int,
+    padding: int,
+) -> list[tuple[float, float]]:
+    """Nudge points with a simple anchored spring model so circles do not overlap."""
+    points = [[ax, ay] for ax, ay in anchors]
+    min_distance = (dot_radius * 2.0) + 0.8
+    max_offset = max(dot_radius * 14.0, min_distance * 3.0)
+    min_x = padding + dot_radius
+    max_x = width - padding - dot_radius
+    min_y = padding + dot_radius
+    max_y = height - padding - dot_radius
+
+    for _ in range(800):
+        forces = [[0.0, 0.0] for _ in points]
+
+        # Repel overlapping points.
+        for i in range(len(points)):
+            xi, yi = points[i]
+            for j in range(i + 1, len(points)):
+                xj, yj = points[j]
+                dx = xj - xi
+                dy = yj - yi
+                dist = math.hypot(dx, dy)
+                if dist < min_distance:
+                    if dist < 1e-6:
+                        angle = ((i * 37 + j * 17) % 360) * math.pi / 180.0
+                        ux = math.cos(angle)
+                        uy = math.sin(angle)
+                    else:
+                        ux = dx / dist
+                        uy = dy / dist
+                    overlap = min_distance - max(dist, 1e-6)
+                    push = overlap * 0.72
+                    fx = ux * push
+                    fy = uy * push
+                    forces[i][0] -= fx
+                    forces[i][1] -= fy
+                    forces[j][0] += fx
+                    forces[j][1] += fy
+
+        # Pull points back to their district anchor.
+        for i, (ax, ay) in enumerate(anchors):
+            px, py = points[i]
+            forces[i][0] += (ax - px) * 0.08
+            forces[i][1] += (ay - py) * 0.08
+
+        max_move = 0.0
+        for i, (ax, ay) in enumerate(anchors):
+            px, py = points[i]
+            px += forces[i][0] * 0.60
+            py += forces[i][1] * 0.60
+
+            # Keep each point near its district anchor.
+            off_x = px - ax
+            off_y = py - ay
+            off_d = math.hypot(off_x, off_y)
+            if off_d > max_offset:
+                scale = max_offset / off_d
+                px = ax + (off_x * scale)
+                py = ay + (off_y * scale)
+
+            # Keep points inside the drawable area.
+            px = min(max(px, min_x), max_x)
+            py = min(max(py, min_y), max_y)
+
+            move = math.hypot(px - points[i][0], py - points[i][1])
+            if move > max_move:
+                max_move = move
+
+            points[i][0] = px
+            points[i][1] = py
+
+        if max_move < 0.02:
+            break
+
+    # Final hard pass: separate any remaining overlaps deterministically.
+    for _ in range(600):
+        changed = False
+        for i in range(len(points)):
+            for j in range(i + 1, len(points)):
+                xi, yi = points[i]
+                xj, yj = points[j]
+                dx = xj - xi
+                dy = yj - yi
+                dist = math.hypot(dx, dy)
+                if dist + 1e-6 < min_distance:
+                    if dist < 1e-6:
+                        angle = ((i * 53 + j * 29) % 360) * math.pi / 180.0
+                        ux = math.cos(angle)
+                        uy = math.sin(angle)
+                    else:
+                        ux = dx / dist
+                        uy = dy / dist
+                    push = (min_distance - max(dist, 1e-6)) * 0.52
+                    points[i][0] -= ux * push
+                    points[i][1] -= uy * push
+                    points[j][0] += ux * push
+                    points[j][1] += uy * push
+                    changed = True
+
+        for i, (ax, ay) in enumerate(anchors):
+            px, py = points[i]
+            # A tiny anchor pull so points still hug their district.
+            px += (ax - px) * 0.02
+            py += (ay - py) * 0.02
+
+            off_x = px - ax
+            off_y = py - ay
+            off_d = math.hypot(off_x, off_y)
+            if off_d > max_offset:
+                scale = max_offset / off_d
+                px = ax + (off_x * scale)
+                py = ay + (off_y * scale)
+
+            px = min(max(px, min_x), max_x)
+            py = min(max(py, min_y), max_y)
+            points[i][0] = px
+            points[i][1] = py
+
+        if not changed:
+            break
+
+    return [(x, y) for x, y in points]
+
+
 def build_svg(
     state_geometry: dict,
     district_points: list[dict],
@@ -218,8 +348,10 @@ def build_svg(
         outline_parts.append("Z")
     outline_path = " ".join(outline_parts)
 
-    district_groups: list[str] = []
-    for feature in sorted(district_points, key=lambda f: district_number(f["properties"])):
+    sorted_features = sorted(district_points, key=lambda f: district_number(f["properties"]))
+    anchor_positions: list[tuple[float, float]] = []
+    district_numbers: list[int] = []
+    for feature in sorted_features:
         props = feature["properties"]
         number = district_number(props)
         geom = feature["geometry"]
@@ -227,8 +359,31 @@ def build_svg(
             raise ValueError(f"Expected Point geometry for district {number}, got {geom['type']}")
         x, y = geom["coordinates"]
         px, py = project(x, y)
+        district_numbers.append(number)
+        anchor_positions.append((px, py))
+
+    placed_positions = nudge_points_to_avoid_overlap(
+        anchors=anchor_positions,
+        dot_radius=dot_radius,
+        width=width,
+        height=height,
+        padding=padding,
+    )
+
+    district_groups: list[str] = []
+    for idx, number in enumerate(district_numbers):
+        px, py = placed_positions[idx]
+        ax, ay = anchor_positions[idx]
+        moved = math.hypot(px - ax, py - ay) > 0.25
+        link_svg = ""
+        if moved:
+            link_svg = (
+                f'    <line class="district-link" x1="{ax:.2f}" y1="{ay:.2f}" '
+                f'x2="{px:.2f}" y2="{py:.2f}" />\n'
+            )
         district_groups.append(
             f'  <g id="district-{number}" class="district district-{number}">\n'
+            f"{link_svg}"
             f'    <circle class="district-dot" cx="{px:.2f}" cy="{py:.2f}" r="{dot_radius:.2f}" />\n'
             f'    <text class="district-label" x="{px:.2f}" y="{py:.2f}">{number}</text>\n'
             f"  </g>"
@@ -239,6 +394,8 @@ def build_svg(
     --outline-fill: #f3f4f6;
     --outline-stroke: #1f2937;
     --outline-width: 2;
+    --district-link-stroke: #6b7280;
+    --district-link-width: 1;
     --district-dot-fill: #2563eb;
     --district-dot-stroke: #ffffff;
     --district-dot-stroke-width: 1.5;
@@ -257,6 +414,13 @@ def build_svg(
     fill: var(--district-dot-fill);
     stroke: var(--district-dot-stroke);
     stroke-width: var(--district-dot-stroke-width);
+  }
+
+  .district-link {
+    stroke: var(--district-link-stroke);
+    stroke-width: var(--district-link-width);
+    stroke-linecap: round;
+    opacity: 0.8;
   }
 
   .district-label {

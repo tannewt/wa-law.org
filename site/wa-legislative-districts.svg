@@ -8,6 +8,8 @@
     --outline-fill: #f3f4f6;
     --outline-stroke: #1f2937;
     --outline-width: 2;
+    --district-link-stroke: #6b7280;
+    --district-link-width: 1;
     --district-dot-fill: #2563eb;
     --district-dot-stroke: #ffffff;
     --district-dot-stroke-width: 1.5;
@@ -28,6 +30,13 @@
     stroke-width: var(--district-dot-stroke-width);
   }
 
+  .district-link {
+    stroke: var(--district-link-stroke);
+    stroke-width: var(--district-link-width);
+    stroke-linecap: round;
+    opacity: 0.8;
+  }
+
   .district-label {
     fill: var(--district-label-fill);
     font-family: "Noto Sans", "Liberation Sans", sans-serif;
@@ -41,8 +50,9 @@
   <path id="state-outline" class="state-outline" d="M 270.56 563.55 L 257.49 560.46 L 247.95 554.46 L 248.20 538.76 L 244.53 530.94 L 245.67 522.04 L 242.56 507.64 L 232.88 488.65 L 210.13 472.92 L 204.71 472.34 L 192.49 479.19 L 182.69 478.95 L 176.29 473.49 L 176.65 466.08 L 174.51 462.90 L 168.75 459.61 L 148.68 462.85 L 142.95 459.89 L 128.86 465.20 L 122.65 464.61 L 112.51 455.24 L 111.32 460.67 L 98.05 461.14 L 101.16 438.25 L 99.58 397.31 L 94.28 370.09 L 88.69 358.51 L 88.96 336.34 L 85.79 319.54 L 82.28 306.42 L 77.45 301.94 L 70.76 287.31 L 71.52 277.90 L 65.63 246.58 L 59.88 246.78 L 55.48 243.26 L 54.33 237.76 L 57.15 231.99 L 46.25 215.53 L 39.55 209.88 L 29.11 189.94 L 30.85 172.60 L 24.00 157.43 L 26.29 152.21 L 31.35 149.83 L 30.47 143.73 L 33.41 139.00 L 27.34 123.60 L 29.13 118.38 L 35.08 114.75 L 32.24 110.19 L 33.23 105.99 L 113.89 138.84 L 149.65 147.99 L 164.45 150.48 L 195.90 140.88 L 210.22 118.45 L 205.41 113.48 L 199.07 98.05 L 193.81 74.45 L 221.67 62.54 L 221.67 52.09 L 187.97 24.17 L 863.51 24.64 L 863.27 436.76 L 860.24 446.76 L 868.47 455.73 L 871.77 465.82 L 870.70 470.15 L 875.33 475.48 L 871.77 485.85 L 868.86 487.67 L 873.13 492.16 L 876.00 502.33 L 653.55 501.63 L 638.62 512.00 L 624.57 510.90 L 599.76 516.07 L 587.69 514.04 L 580.23 523.70 L 548.46 528.72 L 526.46 538.33 L 522.15 543.88 L 492.95 548.73 L 484.72 541.97 L 476.58 540.84 L 470.73 545.45 L 452.91 552.21 L 448.57 556.64 L 443.40 554.57 L 430.46 555.17 L 421.75 562.01 L 416.28 560.68 L 414.21 552.29 L 401.11 547.12 L 391.85 548.78 L 380.15 543.79 L 361.42 548.66 L 350.26 546.83 L 344.26 548.88 L 339.85 554.85 L 331.81 559.72 L 301.78 571.77 L 294.38 571.17 L 289.14 566.92 L 282.87 568.82 L 270.77 563.62 L 270.56 563.55 Z M 180.62 344.92 L 180.14 345.14 L 180.18 345.12 L 180.62 344.92 Z M 180.79 344.96 L 180.54 345.18 L 180.32 345.38 L 180.79 344.96 Z" />
   <g id="district-points">
   <g id="district-1" class="district district-1">
-    <circle class="district-dot" cx="309.69" cy="222.93" r="8.25" />
-    <text class="district-label" x="309.69" y="222.93">1</text>
+    <line class="district-link" x1="309.69" y1="222.93" x2="313.05" y2="221.87" />
+    <circle class="district-dot" cx="313.05" cy="221.87" r="8.25" />
+    <text class="district-label" x="313.05" y="221.87">1</text>
   </g>
   <g id="district-2" class="district district-2">
     <circle class="district-dot" cx="308.26" cy="357.16" r="8.25" />
@@ -81,8 +91,9 @@
     <text class="district-label" x="279.62" y="161.06">10</text>
   </g>
   <g id="district-11" class="district district-11">
-    <circle class="district-dot" cx="306.49" cy="271.23" r="8.25" />
-    <text class="district-label" x="306.49" y="271.23">11</text>
+    <line class="district-link" x1="306.49" y1="271.23" x2="309.08" y2="272.44" />
+    <circle class="district-dot" cx="309.08" cy="272.44" r="8.25" />
+    <text class="district-label" x="309.08" y="272.44">11</text>
   </g>
   <g id="district-12" class="district district-12">
     <circle class="district-dot" cx="457.95" cy="201.70" r="8.25" />
@@ -109,8 +120,9 @@
     <text class="district-label" x="332.95" y="506.86">17</text>
   </g>
   <g id="district-18" class="district district-18">
-    <circle class="district-dot" cx="266.81" cy="541.39" r="8.25" />
-    <text class="district-label" x="266.81" y="541.39">18</text>
+    <line class="district-link" x1="266.81" y1="541.39" x2="267.83" y2="540.26" />
+    <circle class="district-dot" cx="267.83" cy="540.26" r="8.25" />
+    <text class="district-label" x="267.83" y="540.26">18</text>
   </g>
   <g id="district-19" class="district district-19">
     <circle class="district-dot" cx="166.04" cy="410.83" r="8.25" />
@@ -121,8 +133,9 @@
     <text class="district-label" x="267.89" y="452.57">20</text>
   </g>
   <g id="district-21" class="district district-21">
-    <circle class="district-dot" cx="297.79" cy="206.44" r="8.25" />
-    <text class="district-label" x="297.79" y="206.44">21</text>
+    <line class="district-link" x1="297.79" y1="206.44" x2="298.34" y2="205.88" />
+    <circle class="district-dot" cx="298.34" cy="205.88" r="8.25" />
+    <text class="district-label" x="298.34" y="205.88">21</text>
   </g>
   <g id="district-22" class="district district-22">
     <circle class="district-dot" cx="236.11" cy="335.02" r="8.25" />
@@ -137,56 +150,66 @@
     <text class="district-label" x="151.86" y="234.46">24</text>
   </g>
   <g id="district-25" class="district district-25">
-    <circle class="district-dot" cx="295.35" cy="320.65" r="8.25" />
-    <text class="district-label" x="295.35" y="320.65">25</text>
+    <line class="district-link" x1="295.35" y1="320.65" x2="298.47" y2="320.82" />
+    <circle class="district-dot" cx="298.47" cy="320.82" r="8.25" />
+    <text class="district-label" x="298.47" y="320.82">25</text>
   </g>
   <g id="district-26" class="district district-26">
     <circle class="district-dot" cx="258.38" cy="287.32" r="8.25" />
     <text class="district-label" x="258.38" y="287.32">26</text>
   </g>
   <g id="district-27" class="district district-27">
-    <circle class="district-dot" cx="281.86" cy="302.87" r="8.25" />
-    <text class="district-label" x="281.86" y="302.87">27</text>
+    <line class="district-link" x1="281.86" y1="302.87" x2="279.56" y2="302.70" />
+    <circle class="district-dot" cx="279.56" cy="302.70" r="8.25" />
+    <text class="district-label" x="279.56" y="302.70">27</text>
   </g>
   <g id="district-28" class="district district-28">
-    <circle class="district-dot" cx="268.02" cy="328.55" r="8.25" />
-    <text class="district-label" x="268.02" y="328.55">28</text>
+    <line class="district-link" x1="268.02" y1="328.55" x2="266.82" y2="329.33" />
+    <circle class="district-dot" cx="266.82" cy="329.33" r="8.25" />
+    <text class="district-label" x="266.82" y="329.33">28</text>
   </g>
   <g id="district-29" class="district district-29">
-    <circle class="district-dot" cx="283.17" cy="320.06" r="8.25" />
-    <text class="district-label" x="283.17" y="320.06">29</text>
+    <line class="district-link" x1="283.17" y1="320.06" x2="281.32" y2="319.89" />
+    <circle class="district-dot" cx="281.32" cy="319.89" r="8.25" />
+    <text class="district-label" x="281.32" y="319.89">29</text>
   </g>
   <g id="district-30" class="district district-30">
-    <circle class="district-dot" cx="293.62" cy="296.24" r="8.25" />
-    <text class="district-label" x="293.62" y="296.24">30</text>
+    <line class="district-link" x1="293.62" y1="296.24" x2="296.16" y2="298.16" />
+    <circle class="district-dot" cx="296.16" cy="298.16" r="8.25" />
+    <text class="district-label" x="296.16" y="298.16">30</text>
   </g>
   <g id="district-31" class="district district-31">
     <circle class="district-dot" cx="349.83" cy="325.77" r="8.25" />
     <text class="district-label" x="349.83" y="325.77">31</text>
   </g>
   <g id="district-32" class="district district-32">
-    <circle class="district-dot" cx="291.01" cy="221.99" r="8.25" />
-    <text class="district-label" x="291.01" y="221.99">32</text>
+    <line class="district-link" x1="291.01" y1="221.99" x2="286.34" y2="218.30" />
+    <circle class="district-dot" cx="286.34" cy="218.30" r="8.25" />
+    <text class="district-label" x="286.34" y="218.30">32</text>
   </g>
   <g id="district-33" class="district district-33">
-    <circle class="district-dot" cx="294.69" cy="279.02" r="8.25" />
-    <text class="district-label" x="294.69" y="279.02">33</text>
+    <line class="district-link" x1="294.69" y1="279.02" x2="294.12" y2="281.07" />
+    <circle class="district-dot" cx="294.12" cy="281.07" r="8.25" />
+    <text class="district-label" x="294.12" y="281.07">33</text>
   </g>
   <g id="district-34" class="district district-34">
-    <circle class="district-dot" cx="280.15" cy="272.24" r="8.25" />
-    <text class="district-label" x="280.15" y="272.24">34</text>
+    <line class="district-link" x1="280.15" y1="272.24" x2="279.13" y2="272.38" />
+    <circle class="district-dot" cx="279.13" cy="272.38" r="8.25" />
+    <text class="district-label" x="279.13" y="272.38">34</text>
   </g>
   <g id="district-35" class="district district-35">
     <circle class="district-dot" cx="204.62" cy="307.82" r="8.25" />
     <text class="district-label" x="204.62" y="307.82">35</text>
   </g>
   <g id="district-36" class="district district-36">
-    <circle class="district-dot" cx="286.59" cy="240.39" r="8.25" />
-    <text class="district-label" x="286.59" y="240.39">36</text>
+    <line class="district-link" x1="286.59" y1="240.39" x2="283.79" y2="240.03" />
+    <circle class="district-dot" cx="283.79" cy="240.03" r="8.25" />
+    <text class="district-label" x="283.79" y="240.03">36</text>
   </g>
   <g id="district-37" class="district district-37">
-    <circle class="district-dot" cx="300.08" cy="258.47" r="8.25" />
-    <text class="district-label" x="300.08" y="258.47">37</text>
+    <line class="district-link" x1="300.08" y1="258.47" x2="294.18" y2="263.92" />
+    <circle class="district-dot" cx="294.18" cy="263.92" r="8.25" />
+    <text class="district-label" x="294.18" y="263.92">37</text>
   </g>
   <g id="district-38" class="district district-38">
     <circle class="district-dot" cx="302.93" cy="185.40" r="8.25" />
@@ -201,40 +224,48 @@
     <text class="district-label" x="246.49" y="96.60">40</text>
   </g>
   <g id="district-41" class="district district-41">
-    <circle class="district-dot" cx="315.22" cy="256.27" r="8.25" />
-    <text class="district-label" x="315.22" y="256.27">41</text>
+    <line class="district-link" x1="315.22" y1="256.27" x2="315.80" y2="256.54" />
+    <circle class="district-dot" cx="315.80" cy="256.54" r="8.25" />
+    <text class="district-label" x="315.80" y="256.54">41</text>
   </g>
   <g id="district-42" class="district district-42">
     <circle class="district-dot" cx="346.33" cy="54.87" r="8.25" />
     <text class="district-label" x="346.33" y="54.87">42</text>
   </g>
   <g id="district-43" class="district district-43">
-    <circle class="district-dot" cx="297.83" cy="245.06" r="8.25" />
-    <text class="district-label" x="297.83" y="245.06">43</text>
+    <line class="district-link" x1="297.83" y1="245.06" x2="299.19" y2="247.73" />
+    <circle class="district-dot" cx="299.19" cy="247.73" r="8.25" />
+    <text class="district-label" x="299.19" y="247.73">43</text>
   </g>
   <g id="district-44" class="district district-44">
-    <circle class="district-dot" cx="317.33" cy="206.31" r="8.25" />
-    <text class="district-label" x="317.33" y="206.31">44</text>
+    <line class="district-link" x1="317.33" y1="206.31" x2="317.63" y2="205.23" />
+    <circle class="district-dot" cx="317.63" cy="205.23" r="8.25" />
+    <text class="district-label" x="317.63" y="205.23">44</text>
   </g>
   <g id="district-45" class="district district-45">
-    <circle class="district-dot" cx="329.88" cy="237.26" r="8.25" />
-    <text class="district-label" x="329.88" y="237.26">45</text>
+    <line class="district-link" x1="329.88" y1="237.26" x2="331.38" y2="237.06" />
+    <circle class="district-dot" cx="331.38" cy="237.06" r="8.25" />
+    <text class="district-label" x="331.38" y="237.06">45</text>
   </g>
   <g id="district-46" class="district district-46">
-    <circle class="district-dot" cx="297.52" cy="235.19" r="8.25" />
-    <text class="district-label" x="297.52" y="235.19">46</text>
+    <line class="district-link" x1="297.52" y1="235.19" x2="298.26" y2="230.54" />
+    <circle class="district-dot" cx="298.26" cy="230.54" r="8.25" />
+    <text class="district-label" x="298.26" y="230.54">46</text>
   </g>
   <g id="district-47" class="district district-47">
-    <circle class="district-dot" cx="315.47" cy="287.16" r="8.25" />
-    <text class="district-label" x="315.47" y="287.16">47</text>
+    <line class="district-link" x1="315.47" y1="287.16" x2="315.97" y2="288.33" />
+    <circle class="district-dot" cx="315.97" cy="288.33" r="8.25" />
+    <text class="district-label" x="315.97" y="288.33">47</text>
   </g>
   <g id="district-48" class="district district-48">
-    <circle class="district-dot" cx="311.03" cy="243.22" r="8.25" />
-    <text class="district-label" x="311.03" y="243.22">48</text>
+    <line class="district-link" x1="311.03" y1="243.22" x2="314.19" y2="239.35" />
+    <circle class="district-dot" cx="314.19" cy="239.35" r="8.25" />
+    <text class="district-label" x="314.19" y="239.35">48</text>
   </g>
   <g id="district-49" class="district district-49">
-    <circle class="district-dot" cx="257.26" cy="551.90" r="8.25" />
-    <text class="district-label" x="257.26" y="551.90">49</text>
+    <line class="district-link" x1="257.26" y1="551.90" x2="256.24" y2="553.02" />
+    <circle class="district-dot" cx="256.24" cy="553.02" r="8.25" />
+    <text class="district-label" x="256.24" y="553.02">49</text>
   </g>
   </g>
 </svg>
