@@ -20,6 +20,8 @@
 ### [HB 2523](/bill/2025-26/hb/2523/) - Community reinvestment prg. 👍1  
 * 👍 Evelyne Kalama
 
+### [HB 2532](/bill/2025-26/hb/2532/) - Nitrous oxide sale 👍1  
+
 ### [HB 2554](/bill/2025-26/hb/2554/) - Tribal fishing rights 👍1  
 
 ### [HB 2555](/bill/2025-26/hb/2555/) - Traditional health/medicaid 👍1  
@@ -33,6 +35,8 @@
 ### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 
 ### [SB 5981](/bill/2025-26/sb/5981/) - 340B drug pricing program 👍2  
+
+### [SB 5988](/bill/2025-26/sb/5988/) - Opioid treatment prg. fees 👍1  
 
 ### [SB 6035](/bill/2025-26/sb/6035/) - Voting services 👍1  
 

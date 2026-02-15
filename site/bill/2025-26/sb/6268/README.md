@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Education (ED): SSB 6268 Special ed. complaint record
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 08:00 AM - Early Learning & K-12 Education (EDU): SB 6268 Special ed. complaint record
 #### 79 👍 - Pro
 Testifying:

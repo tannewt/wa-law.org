@@ -41,9 +41,11 @@
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 6002 Driver privacy
 Sign up to testify:
 
-#### 20 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Genevieve Fain
 
-#### 4 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Greg Smith

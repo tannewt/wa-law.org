@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Education (ED): SB 6278 Teacher & principal programs
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 08:00 AM - Early Learning & K-12 Education (EDU): SB 6278 Teacher & principal programs
 #### 7 👍 - Pro
 

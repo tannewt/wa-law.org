@@ -20,7 +20,7 @@
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): ESHB 2165 Peace officer false ident.
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 130 👍 - Pro
 
 #### 0 👎 - Con
 

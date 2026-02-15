@@ -10,9 +10,9 @@
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): HB 2417 Military code/victim rights
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 118 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

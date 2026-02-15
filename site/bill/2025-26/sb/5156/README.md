@@ -19,6 +19,15 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205156)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Housing (HOUS): ESSB 5156 Elevators/smaller apartments
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/17 01:30 PM - Housing (HOUS): SSB 5156 Elevators/smaller apartments
 #### 65 👍 - Pro
 Testifying:

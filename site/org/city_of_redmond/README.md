@@ -50,11 +50,11 @@
 
 ### [HB 2233](/bill/2025-26/hb/2233/) - Reducing environmental impacts associated with bags provided to customers at retail establishments. 👍1  
 
-### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍1  
+### [HB 2238](/bill/2025-26/hb/2238/) - Statewide food security 👍2  
 
 ### [HB 2255](/bill/2025-26/hb/2255/) - Litigation finance 👍1  
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
 
 ### [HB 2418](/bill/2025-26/hb/2418/) - Permit review 👍1  
 
@@ -115,7 +115,7 @@
 
 ### [SB 5812](/bill/2025-26/sb/5812/) - K-12 education funding 👍1  
 
-### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍1  
+### [SB 5855](/bill/2025-26/sb/5855/) - Law enf. face coverings 👍2  
 
 ### [SB 5912](/bill/2025-26/sb/5912/) - Indigent defense task force 👍1  
 

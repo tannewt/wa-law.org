@@ -24,7 +24,7 @@ Testifying:
 * Gabriel Patterson - Vancouver Police Department
 * Daniel (Dan) Maul - AARP volunteer
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

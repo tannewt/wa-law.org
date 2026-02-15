@@ -11,7 +11,7 @@
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): SHB 2472 Fire sprinkler work
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

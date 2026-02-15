@@ -22,7 +22,7 @@ Testifying:
 * Paula Fillmore-Sardinas - FMSGS/WBBA
 * Raelene Schifano - HOA United
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

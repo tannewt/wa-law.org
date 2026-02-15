@@ -15,6 +15,15 @@
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [The 2026 Legislative Session is in Full Swing! - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2026/01/23/the-2026-legislative-session-is-in-full-swing/#:~:text=SB%206222)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Education (ED): SSB 6222 Students/surplus technology
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 10:30 AM - Early Learning & K-12 Education (EDU): SB 6222 Students/surplus technology
 #### 71 👍 - Pro
 Testifying:

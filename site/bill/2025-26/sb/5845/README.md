@@ -12,7 +12,7 @@
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): ESSB 5845 Health carrier payments
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 
 #### 0 👎 - Con
 

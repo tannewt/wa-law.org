@@ -19,7 +19,7 @@
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): ESHB 2532 Nitrous oxide sale
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

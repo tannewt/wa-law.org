@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 10/09/2025 [The Center Square](/org/the_center_square/) - [How WA's public pension system planning could cost taxpayers down the road | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5c7e0578-7b42-4e1d-aa68-a3232d3f6066.html#:~:text=House%20Bill%202034)

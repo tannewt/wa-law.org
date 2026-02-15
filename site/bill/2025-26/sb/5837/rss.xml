@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5837/</link>
 		<description>Updates about SB 5837</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,13 @@
 			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-11/Third reading, passed; yeas, 47; nays, 2; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-14/First reading, referred to Civil Rights &amp; Judiciary.</guid>
 		</item>
 	</channel>
 </rss>

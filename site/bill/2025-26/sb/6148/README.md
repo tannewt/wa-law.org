@@ -12,6 +12,15 @@
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [Liias introduces bill to allow Sound Transit to issue 75-year general obligation bonds - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/14/liias-introduces-bill-to-allow-sound-transit-to-issue-75-year-general-obligation-bonds/#:~:text=The%20bipartisan%20bill)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Transportation (TR): SB 6148 RTA bond issues maximum term
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 04:00 PM - Transportation (TRAN): SB 6148 RTA bond issues maximum term
 #### 237 👍 - Pro
 Testifying:

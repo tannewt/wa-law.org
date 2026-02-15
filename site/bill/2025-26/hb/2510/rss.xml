@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2510/</link>
 		<description>Updates about HB 2510</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 16:47:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,6 +135,22 @@
 			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-13/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Christopher Bonnington - Allied Daily Newspapers and WSABroadcasters</title>
+			<description>Christopher Bonnington signed up to testify Pro.</description>
+			<pubDate>Sat, 14 Feb 2026 16:39:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christopher/Bonnington/2026-02-14 16:39:40</guid>
+		</item>
+		<item>
+			<title>👍Linden Rhoads - Allied Daily Newspapers and WSABroadcasters</title>
+			<description>Linden Rhoads signed up to testify Pro.</description>
+			<pubDate>Sat, 14 Feb 2026 16:47:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Linden/Rhoads/2026-02-14 16:47:06</guid>
 		</item>
 	</channel>
 </rss>

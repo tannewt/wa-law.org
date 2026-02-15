@@ -18,7 +18,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Erica Hallock - School Nurse Organization of Washington
+* Taylor Mason - School Nurse Organization of Washington
 
 ### Wed 02/11 08:00 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
 #### 1 👍 - Pro

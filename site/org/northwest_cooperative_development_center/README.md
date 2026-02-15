@@ -20,7 +20,7 @@
 
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
 
-### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍2  
 * 👍 Victoria OBanion
@@ -46,7 +46,7 @@
 
 ### [HB 2295](/bill/2025-26/hb/2295/) - Capital budget, supplemental   ❓1
 
-### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍1  
+### [HB 2304](/bill/2025-26/hb/2304/) - Increasing the supply of condominiums by expanding the types of condominium buildings that may be subject to an express warranty of quality and express warranty insurance coverage. 👍2  
 
 ### [HB 2313](/bill/2025-26/hb/2313/) - Public grocery stores 👍1  
 

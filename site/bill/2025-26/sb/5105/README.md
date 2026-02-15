@@ -23,11 +23,12 @@
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): 2ESSB 5105 Sexually explicit depictions
 Sign up to testify:
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Stefan Gubarev - Legislative Youth Advisory Council (LYAC)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Lilah Wakefield - Legislative Youth Advisory Board
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 👎 - Con
 

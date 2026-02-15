@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1570/</link>
 		<description>Updates about HB 1570</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -224,6 +224,27 @@
 			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-12/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-14/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-14/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 58; nays, 35; absent, 0; excused, 5.</title>
+			<description>Third reading, passed; yeas, 58; nays, 35; absent, 0; excused, 5.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-14/Third reading, passed; yeas, 58; nays, 35; absent, 0; excused, 5.</guid>
 		</item>
 	</channel>
 </rss>

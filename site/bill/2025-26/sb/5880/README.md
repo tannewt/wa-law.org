@@ -20,10 +20,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Bradley Lane - State Traffic Safety Resource Prosecutor
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Mon 01/26 04:00 PM - Ways & Means (WM): SSB 5880 Toxicology testing
 #### 55 👍 - Pro

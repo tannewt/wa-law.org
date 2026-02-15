@@ -14,7 +14,7 @@
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): SB 6178 Prop. insurance assignments
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 

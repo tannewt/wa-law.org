@@ -15,7 +15,7 @@
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SB 5904 Use of nursing titles
 Sign up to testify:
 
-#### 67 👍 - Pro
+#### 118 👍 - Pro
 
 #### 0 👎 - Con
 

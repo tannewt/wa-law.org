@@ -15,7 +15,7 @@
 ### Wed 02/18 10:30 AM - Housing (HSG): SHB 2452 Rent increase notice service
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

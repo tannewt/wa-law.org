@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Second Engrossed Substitute](S.E2/)
 
 ## Meetings
 ### Tue 03/18 04:00 PM - Ways & Means (WM): ESHB 1210 Urban area tax preferences

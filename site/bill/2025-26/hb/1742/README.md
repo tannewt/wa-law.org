@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1742 Urban design/environment

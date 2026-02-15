@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): SB 5835 Lump sum retirement payments
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5835 Lump sum retirement payments
 #### 5 👍 - Pro
 

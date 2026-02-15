@@ -7,6 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Human Services (HS): HB 2510 Community cust. supervision
+Sign up to testify:
+
+#### 3 👍 - Pro
+Testifying:
+* Christopher Bonnington
+* Linden Rhoads
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2510 Community cust. supervision
 #### 369 👍 - Pro
 Testifying:

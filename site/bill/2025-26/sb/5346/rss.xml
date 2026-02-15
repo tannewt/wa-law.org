@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5346/</link>
 		<description>Updates about SB 5346</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 17:50:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,7 +68,7 @@
 			<guid isPermaLink="false">testifier/MD MPH, Dr. Dimitri/Christakis/2026-01-24 08:36:36</guid>
 		</item>
 		<item>
-			<title>👍Gabriella Barrett-Bowen - NFIB</title>
+			<title>👍Gabriella Barrett-Bowen - Coalition for a Media-Safe Childhood</title>
 			<description>Gabriella Barrett-Bowen signed up to testify Pro.</description>
 			<pubDate>Sun, 25 Jan 2026 20:11:37 GMT</pubDate>
 			<category>testifier</category>
@@ -76,7 +76,7 @@
 			<guid isPermaLink="false">testifier/Gabriella/Barrett-Bowen/2026-01-25 20:11:37</guid>
 		</item>
 		<item>
-			<title>👍Julie Molina - NFIB</title>
+			<title>👍Julie Molina - Coalition for a Media-Safe Childhood</title>
 			<description>Julie Molina signed up to testify Pro.</description>
 			<pubDate>Sun, 25 Jan 2026 20:11:37 GMT</pubDate>
 			<category>testifier</category>
@@ -84,7 +84,7 @@
 			<guid isPermaLink="false">testifier/Julie/Molina/2026-01-25 20:11:37</guid>
 		</item>
 		<item>
-			<title>👍Lillian Fuller - NFIB</title>
+			<title>👍Lillian Fuller - Coalition for a Media-Safe Childhood</title>
 			<description>Lillian Fuller signed up to testify Pro.</description>
 			<pubDate>Sun, 25 Jan 2026 20:11:37 GMT</pubDate>
 			<category>testifier</category>
@@ -92,7 +92,7 @@
 			<guid isPermaLink="false">testifier/Lillian/Fuller/2026-01-25 20:11:37</guid>
 		</item>
 		<item>
-			<title>👍Romy Yoffe - NFIB</title>
+			<title>👍Romy Yoffe - Coalition for a Media-Safe Childhood</title>
 			<description>Romy Yoffe signed up to testify Pro.</description>
 			<pubDate>Sun, 25 Jan 2026 20:11:37 GMT</pubDate>
 			<category>testifier</category>
@@ -100,7 +100,7 @@
 			<guid isPermaLink="false">testifier/Romy/Yoffe/2026-01-25 20:11:37</guid>
 		</item>
 		<item>
-			<title>👍Sidney Shepherd - NFIB</title>
+			<title>👍Sidney Shepherd - Coalition for a Media-Safe Childhood</title>
 			<description>Sidney Shepherd signed up to testify Pro.</description>
 			<pubDate>Sun, 25 Jan 2026 20:11:37 GMT</pubDate>
 			<category>testifier</category>
@@ -188,7 +188,7 @@
 			<guid isPermaLink="false">testifier/Thea/Kaste/2026-01-27 21:03:41</guid>
 		</item>
 		<item>
-			<title>👍Devan Harbani - NFIB</title>
+			<title>👍Devan Harbani - Coalition for a Media-Safe Childhood</title>
 			<description>Devan Harbani signed up to testify Pro.</description>
 			<pubDate>Wed, 28 Jan 2026 03:52:08 GMT</pubDate>
 			<category>testifier</category>
@@ -220,7 +220,7 @@
 			<guid isPermaLink="false">testifier/Mo/Canady/2026-01-28 07:29:28</guid>
 		</item>
 		<item>
-			<title>👍Connor Hui - NFIB</title>
+			<title>👍Connor Hui - Coalition for a Media-Safe Childhood</title>
 			<description>Connor Hui signed up to testify Pro.</description>
 			<pubDate>Wed, 28 Jan 2026 08:16:23 GMT</pubDate>
 			<category>testifier</category>
@@ -307,6 +307,21 @@
 			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-11/Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-14/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>❓Danica Noble - Coalition for a Media-Safe Childhood</title>
+			<description>Danica Noble signed up to testify Other. They are signed up to represent Coalition for a Media-Safe Childhood.</description>
+			<pubDate>Sat, 14 Feb 2026 17:50:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Danica/Noble/2026-02-14 17:50:26</guid>
 		</item>
 	</channel>
 </rss>

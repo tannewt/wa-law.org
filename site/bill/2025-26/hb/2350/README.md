@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Human Services (HS): SHB 2350 DD RHC federal compliance
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/16 08:30 AM - Human Services, Youth, & Early Learning (HSEL): HB 2350 DD RHC federal compliance
 #### 14 👍 - Pro
 Testifying:

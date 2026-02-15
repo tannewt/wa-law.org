@@ -13,7 +13,7 @@
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6006 Food banks/sales tax
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

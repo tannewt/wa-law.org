@@ -9,6 +9,15 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Transportation (TR): 2SSB 5690 Utility relocation
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 04:00 PM - Transportation (TRAN): SSB 5690 Utility relocation
 #### 49 👍 - Pro
 Testifying:

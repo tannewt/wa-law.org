@@ -10,6 +10,15 @@
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%206065)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): SB 6065 School vehicle funds
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 10:30 AM - Early Learning & K-12 Education (EDU): SB 6065 School vehicle funds
 #### 299 👍 - Pro
 Testifying:

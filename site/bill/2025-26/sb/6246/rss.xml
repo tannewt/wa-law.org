@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6246/</link>
 		<description>Updates about SB 6246</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 20:19:18 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -290,6 +290,13 @@
 			<pubDate>Fri, 13 Feb 2026 20:19:18 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESB%206246</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-14/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 	</channel>
 </rss>

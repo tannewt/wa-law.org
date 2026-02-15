@@ -1,8 +1,9 @@
 # School Alliance
 ## 2025-26
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
 * 👍💵 Lacey Stanage
+* 👍💵 Grace Yuan
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts   ❓2
 * ❓ Fred Rundle

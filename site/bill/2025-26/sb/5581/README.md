@@ -14,12 +14,12 @@
 ### Wed 02/18 04:00 PM - Transportation (TR): ESB 5581 Safe system approach strat.
 Sign up to testify:
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Council Member Kitty Klitzke - [City of Spokane](/org/city_of_spokane/)
 * Larry Leveen - ForeverGreen Trails
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -11,6 +11,15 @@
 * [Gorge Radio](/org/gorge_radio/) - [Heritage Apple Preservation Bill Passes Committee – Gorge Radio](https://gorgeradio.com/heritage-apple-preservation-bill-passes-committee/#:~:text=House%20Bill%202525)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Higher Education & Workforce Development (HEWD): SHB 2525 Heritage orchard program
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2525 Heritage orchard program
 #### 52 👍 - Pro
 Testifying:

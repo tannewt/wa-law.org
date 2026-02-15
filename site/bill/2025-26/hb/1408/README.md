@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=House%20Bill 1408)

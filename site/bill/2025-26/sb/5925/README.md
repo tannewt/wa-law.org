@@ -12,6 +12,17 @@
 * 02/04/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The dangers of AG Nick Brown's agency request bills | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_15741b7a-9a99-433d-99dd-912daead2d40.html#:~:text=SB-5925)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5925 AGO investigation powers
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 08:00 AM - Law & Justice (LAW): SB 5925 AGO investigation powers
 #### 600 👍 - Pro
 Testifying:

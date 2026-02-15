@@ -15,7 +15,7 @@
 ### Wed 02/18 10:30 AM - Housing (HSG): HB 2304 Condominium warranties
 Sign up to testify:
 
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 
 #### 0 👎 - Con
 

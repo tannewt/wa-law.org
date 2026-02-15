@@ -12,6 +12,17 @@
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Liias introduces bipartisan bill to limit use of cellphones, other devices in classrooms - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/21/liias-introduces-bipartisan-bill-to-limit-use-of-cellphones-other-devices-in-classrooms/#:~:text=Senate%20Bill%205346)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Education (ED): SSB 5346 Student mobile device use
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Danica Noble - Coalition for a Media-Safe Childhood
+
 ### Thu 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5346 Student mobile device use
 #### 143 👍 - Pro
 Testifying:

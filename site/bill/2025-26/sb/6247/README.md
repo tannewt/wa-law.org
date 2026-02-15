@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Education (ED): ESSB 6247 School financial management
+Sign up to testify:
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6247 School financial management
 #### 13 👍 - Pro
 

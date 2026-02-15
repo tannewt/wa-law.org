@@ -16,7 +16,7 @@
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): SHB 2594 Unhoused children/education
 Sign up to testify:
 
-#### 23 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * Jonas Rios

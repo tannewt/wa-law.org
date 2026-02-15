@@ -19,7 +19,7 @@
 ### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 2334 Cash transactions/pennies
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
 

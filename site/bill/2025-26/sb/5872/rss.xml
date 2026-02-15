@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5872/</link>
 		<description>Updates about SB 5872</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 23:34:47 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -153,6 +153,13 @@
 			<pubDate>Fri, 13 Feb 2026 23:34:47 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%205872</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations.</title>
+			<description>First reading, referred to Appropriations.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-14/First reading, referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

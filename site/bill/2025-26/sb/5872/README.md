@@ -13,6 +13,15 @@
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=SB%205872)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): ESB 5872 PreK promise account
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5872 PreK promise account
 #### 267 👍 - Pro
 Testifying:

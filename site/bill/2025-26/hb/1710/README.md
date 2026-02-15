@@ -20,7 +20,7 @@
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): E3SHB 1710 Voting rights act compliance
 Sign up to testify:
 
-#### 13 👍 - Pro
+#### 141 👍 - Pro
 
 #### 0 👎 - Con
 

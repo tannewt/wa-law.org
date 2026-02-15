@@ -28,7 +28,7 @@
 
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
 
-### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍12  
+### [HB 1916](/bill/2025-26/hb/1916/) - Voter registrations 👍27  
 
 ### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement 👍2  ❓40
 

@@ -14,6 +14,15 @@
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate%20Bill%206237)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Housing (HOUS): SSB 6237 Rental property flood discl.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - Housing (HSG): SB 6237 Rental property flood discl.
 #### 7 👍 - Pro
 Testifying:

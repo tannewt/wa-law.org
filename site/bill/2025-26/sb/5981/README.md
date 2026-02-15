@@ -16,7 +16,7 @@
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): 2SSB 5981 340B drug pricing program
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -41,7 +41,7 @@
 
 ### [HB 2489](/bill/2025-26/hb/2489/) - Public space/local use laws 👍1  
 
-### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍2  
+### [HB 2594](/bill/2025-26/hb/2594/) - Unhoused children/education 👍3  
 * 👍💵 Aaron Yared
 * 👍💵 Aaron Yared
 

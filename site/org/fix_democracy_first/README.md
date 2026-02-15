@@ -22,7 +22,7 @@
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍3  
 * 👍💵 Cindy Black
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍2  
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍3  
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 

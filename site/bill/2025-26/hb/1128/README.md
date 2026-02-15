@@ -16,6 +16,15 @@
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201128)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 1128 Child care workforce board
+Sign up to testify:
+
+#### 26 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 1128 Child care workforce board
 #### 1055 👍 - Pro
 Testifying:

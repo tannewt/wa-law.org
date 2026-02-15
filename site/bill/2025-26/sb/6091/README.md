@@ -15,7 +15,9 @@
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): SSB 6091 Real estate/exclusive market
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Noel Le - MindCast AI
 
 #### 0 👎 - Con
 

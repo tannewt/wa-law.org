@@ -20,7 +20,7 @@
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5169 Testimony of children
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

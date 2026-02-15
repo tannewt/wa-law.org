@@ -22,9 +22,9 @@
 ### Wed 02/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5892 Voter registration database
 Sign up to testify:
 
-#### 236 👍 - Pro
+#### 272 👍 - Pro
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Laurie Layne
 

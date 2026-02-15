@@ -7,8 +7,18 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5847 Workers' comp. medical care
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5847 Workers' comp. medical care
 #### 84 👍 - Pro
 Testifying:

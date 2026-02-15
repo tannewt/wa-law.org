@@ -11,7 +11,7 @@
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2152 Cannabis/health facilities
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 

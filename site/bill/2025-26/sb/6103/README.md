@@ -13,7 +13,7 @@
 ### Thu 02/19 04:00 PM - Appropriations (APP): SB 6103 Rural hospital payments
 Sign up to testify:
 
-#### 9 👍 - Pro
+#### 28 👍 - Pro
 
 #### 0 👎 - Con
 

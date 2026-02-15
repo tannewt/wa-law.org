@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Local Government (LG): SB 5995 Zero emission cargo handling
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5995 Zero emission cargo handling
 #### 910 👍 - Pro
 Testifying:

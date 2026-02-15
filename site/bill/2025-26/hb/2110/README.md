@@ -12,9 +12,12 @@
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2110 Specialty care transports
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Laban Molsee
+* Jerid Hilderbrand
 
 #### 0 ❓ - Other
 

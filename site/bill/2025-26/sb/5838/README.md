@@ -20,7 +20,7 @@ Sign up to testify:
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

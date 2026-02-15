@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): ESSB 6019 Home care rates
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6019 Home care rates
 #### 46 👍 - Pro
 Testifying:

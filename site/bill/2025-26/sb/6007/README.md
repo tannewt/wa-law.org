@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): SSB 6007 DCYF assessment practices
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/02 01:30 PM - Human Services (HS): SB 6007 DCYF assessment practices
 #### 377 👍 - Pro
 

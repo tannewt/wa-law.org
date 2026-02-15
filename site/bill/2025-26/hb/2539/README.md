@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Human Services (HS): SHB 2539 Inmate funds
+Sign up to testify:
+
+#### 8 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2539 Inmate funds
 #### 30 👍 - Pro
 Testifying:

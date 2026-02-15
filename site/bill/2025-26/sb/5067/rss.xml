@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5067/</link>
 		<description>Updates about SB 5067</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 14:44:55 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 14 Feb 2026 11:52:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -711,6 +711,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Coryjo/huntley/2026-02-13 14:44:55</guid>
+		</item>
+		<item>
+			<title>👎Emily Bourne - Server</title>
+			<description>Emily Bourne signed up to testify Con. They are signed up to represent Server.</description>
+			<pubDate>Sat, 14 Feb 2026 11:44:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emily/Bourne/2026-02-14 11:44:15</guid>
+		</item>
+		<item>
+			<title>👎Hudson Holley - Bartender</title>
+			<description>Hudson Holley signed up to testify Con. They are signed up to represent Bartender.</description>
+			<pubDate>Sat, 14 Feb 2026 11:52:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Hudson/Holley/2026-02-14 11:52:54</guid>
 		</item>
 	</channel>
 </rss>

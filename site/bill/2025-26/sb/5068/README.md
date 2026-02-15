@@ -17,7 +17,7 @@
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5068 Public employ. eligibility
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

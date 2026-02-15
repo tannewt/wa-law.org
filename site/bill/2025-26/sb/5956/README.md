@@ -20,9 +20,18 @@
 ### Thu 02/19 08:00 AM - Education (ED): SSB 5956 AI use/student discipline
 Sign up to testify:
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
+
+#### 0 ❓ - Other
+
+### Wed 02/18 10:30 AM - Education (ED): SSB 5956 AI use/student discipline
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
 
 #### 0 ❓ - Other
 

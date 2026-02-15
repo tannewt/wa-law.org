@@ -11,6 +11,15 @@
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201390)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Human Services (HS): SHB 1390 Community protection program
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 04/05 12:00 PM - Ways & Means (WM): SHB 1390 Community protection program
 #### 28 👍 - Pro
 Testifying:

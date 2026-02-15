@@ -65,11 +65,11 @@
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5855 Law enf. face coverings
 Sign up to testify:
 
-#### 326 👍 - Pro
+#### 360 👍 - Pro
 Testifying:
 * Rachael Snell
 
-#### 135 👎 - Con
+#### 138 👎 - Con
 Testifying:
 * Anthony Mixer - Citizen Volunteer Lobbyist
 * Laurie Layne

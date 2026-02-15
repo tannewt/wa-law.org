@@ -18,7 +18,7 @@
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): E2SSB 5395 Prior authorization/health
 Sign up to testify:
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 

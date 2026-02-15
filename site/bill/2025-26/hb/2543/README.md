@@ -10,7 +10,7 @@
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): HB 2543 County clerk fees
 Sign up to testify:
 
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Timothy Grisham - WASHINGTON ASSOCIATION OF COUNTY OFFICIALS
 

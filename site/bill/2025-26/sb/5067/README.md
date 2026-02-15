@@ -24,7 +24,7 @@
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5067 Impaired driving
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Tao Sheng Kwan-Gett - Washington Department of Health
@@ -37,7 +37,7 @@ Testifying:
 * Shellie Coury - In Memory of Gabriel Coury 2010 - 2023 Killed by an Impaired Driver
 * Coryjo huntley
 
-#### 50 👎 - Con
+#### 100 👎 - Con
 Testifying:
 * Karlie Valdez - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * Avery Cesarano
@@ -45,6 +45,8 @@ Testifying:
 * 💵Andrea Reay - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Chris Van Vechten - Sound Lawyer
 * Lena Pond
+* Emily Bourne - Server
+* Hudson Holley - Bartender
 
 #### 1 ❓ - Other
 

@@ -19,7 +19,7 @@
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): E2SHB 1750 Voting rights act claims
 Sign up to testify:
 
-#### 19 👍 - Pro
+#### 148 👍 - Pro
 
 #### 0 👎 - Con
 

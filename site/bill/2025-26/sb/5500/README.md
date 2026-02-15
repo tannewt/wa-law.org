@@ -19,9 +19,9 @@
 ### Wed 02/18 04:00 PM - Appropriations (APP): ESSB 5500 Child care rate model
 Sign up to testify:
 
-#### 52 👍 - Pro
+#### 73 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

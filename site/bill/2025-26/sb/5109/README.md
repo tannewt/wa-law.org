@@ -16,7 +16,9 @@
 ### Wed 02/18 04:00 PM - Appropriations (APP): SB 5109 Mortgage lending fraud acc.
 Sign up to testify:
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 2 👎 - Con
 

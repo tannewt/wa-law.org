@@ -13,6 +13,15 @@
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205841)
 
 ## Meetings
+### Wed 02/18 10:30 AM - Education (ED): SSB 5841 Financial aid applications
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 08:00 AM - Early Learning & K-12 Education (EDU): SB 5841 Financial aid applications
 #### 12 👍 - Pro
 Testifying:

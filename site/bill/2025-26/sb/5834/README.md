@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/18 04:00 PM - Appropriations (APP): SSB 5834 Retirement funds/expenses
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 5834 Retirement funds/expenses
 #### 0 👍 - Pro
 
