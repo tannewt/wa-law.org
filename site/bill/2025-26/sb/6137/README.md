@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SB 6137 Regulated sports wagering
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6137 Regulated sports wagering
 #### 113 👍 - Pro
 Testifying:

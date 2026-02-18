@@ -6,12 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202548)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202548)
 
 ## Meetings
+### Fri 02/20 02:00 PM - Law & Justice (LAW): ESHB 2548 Health care market standards
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2548 Health care market standards
 #### 99 👍 - Pro
 Testifying:

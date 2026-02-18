@@ -11,6 +11,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202156)
 
 ## Meetings
+### Fri 02/20 02:00 PM - Law & Justice (LAW): EHB 2156 AGO investigator authority
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/12 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2156 AGO investigator authority
 #### 16 👍 - Pro
 Testifying:

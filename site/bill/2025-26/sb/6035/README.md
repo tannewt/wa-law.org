@@ -9,10 +9,20 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%206035)
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Housing, affordability and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/16/this-week-in-the-senate-week-2-housing-affordability-and-mlk-day/#:~:text=Senate%20Bill%206035)
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%206035)
 
 ## Meetings
+### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): 2SSB 6035 Voting services
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6035 Voting services
 #### 24 👍 - Pro
 Testifying:

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/11/2026 [House Democrats](/org/house_democrats/) - [House passes Obras’ bill protecting nursing titles from AI technology – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/house-passes-obras-bill-protecting-nursing-titles-from-ai-technology/#:~:text=HB%202155)
+
 ## Meetings
 ### Tue 01/20 01:30 PM - Health Care & Wellness (HCW): HB 2155 Use of nursing titles
 #### 398 👍 - Pro

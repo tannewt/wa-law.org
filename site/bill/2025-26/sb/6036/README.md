@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%206036)
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%206036)
 
 ## Meetings

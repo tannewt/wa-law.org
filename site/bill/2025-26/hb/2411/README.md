@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): SHB 2411 Shared leave
-Sign up to testify:
-
 #### 184 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management

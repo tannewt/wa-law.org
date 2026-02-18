@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 02/16/2026 [House Democrats](/org/house_democrats/) - [House passes bill requiring transparency at private detention facilities / Cámara aprueba proyecto exigiendo transparencia en centros de detención privados – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/16/house-passes-bill-requiring-transparency-at-private-detention-facilities-camara-aprueba-proyecto-exigiendo-transparencia-en-centros-de-detencion-privados/#:~:text=HB%201232)
 * 08/08/2025 [KUOW](/org/kuow/) - [KUOW - Suspected tuberculosis cases reported at Tacoma immigrant detention center](https://www.kuow.org/stories/suspected-tuberculosis-cases-reported-at-tacoma-immigrant-detention-center#:~:text=new%20state%20law)
 * 08/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Suspected tuberculosis cases reported at Tacoma immigrant detention center • Washington State Standard](https://washingtonstatestandard.com/2025/08/06/suspected-tuberculosis-cases-reported-at-tacoma-immigrant-detention-center/#:~:text=new%20state%20law)
 * 06/13/2025 [Senate Democrats](/org/senate_democrats/) - [WA Lawmakers to Trump: We Will Not Be Intimidated - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/06/13/wa-lawmakers-to-trump-we-will-not-be-intimidated/#:~:text=HB%201232)

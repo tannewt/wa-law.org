@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%206289)
+
 ## Meetings
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6289 Economic dev. strategic plan
 #### 17 👍 - Pro

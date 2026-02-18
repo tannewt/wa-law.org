@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2034/</link>
 		<description>Updates about HB 2034</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 13:27:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -236,6 +236,27 @@
 			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-13/Third reading, passed; yeas, 55; nays, 39; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA</title>
+			<description>News article "Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 16 Feb 2026 00:24:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=E2SHB%202034</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>WA House bill raids billions from pension plan while lawmakers also pass record tax hikes | Washington | thecentersquare.com</title>
+			<description>News article "WA House bill raids billions from pension plan while lawmakers also pass record tax hikes | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 17 Feb 2026 13:27:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_a8e0cc09-4853-4274-995b-bbdeae278a3d.html#:~:text=House%20Bill%202034</guid>
 		</item>
 	</channel>
 </rss>

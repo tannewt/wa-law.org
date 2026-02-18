@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6031 Insurance crimes

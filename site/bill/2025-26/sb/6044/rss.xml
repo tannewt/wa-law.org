@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6044/</link>
 		<description>Updates about SB 6044</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 22:19:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -104,6 +104,27 @@
 			<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-10/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate passes bill recognizing Diwali, Bandi Chhor Divas   - Sen. Manka Dhingra</title>
+			<description>News article "Senate passes bill recognizing Diwali, Bandi Chhor Divas   - Sen. Manka Dhingra" from Senate Democrats.</description>
+			<pubDate>Tue, 17 Feb 2026 22:19:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/dhingra/2026/02/17/senate-passes-bill-recognizing-diwali-bandi-chhor-divas/#:~:text=Senate%20Bill%206044</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=House%20Bill%202416)

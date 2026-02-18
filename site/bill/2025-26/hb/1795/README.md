@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SHB%201795)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SHB%201795)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SHB%201795)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%201795)
@@ -21,6 +22,15 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201795)
 
 ## Meetings
+### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1795 Student restraint, isolation
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/12 01:30 PM - Education (ED): HB 1795 Student restraint, isolation
 #### 193 👍 - Pro
 Testifying:

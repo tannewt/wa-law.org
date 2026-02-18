@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5947/</link>
 		<description>Updates about SB 5947</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 22:32:26 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,6 +203,27 @@
 			<pubDate>Fri, 13 Feb 2026 22:32:26 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=Senate Bill 5947</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

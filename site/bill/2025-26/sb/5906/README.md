@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%205906)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Senate bills moving forward - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%205906)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=SB%205906)
 * 02/13/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers want to restrict ICE access to schools, health facilities • Washington State Standard](https://washingtonstatestandard.com/2026/02/13/wa-lawmakers-want-to-restrict-ice-access-to-schools-health-facilities/#:~:text=Senate%20Bill%205906)
@@ -35,6 +36,15 @@
 * 12/18/2025 [Senate Democrats](/org/senate_democrats/) - [Hansen files bill protecting students, childcare workers, and patients against ICE raids - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/12/17/hansen-files-bill-protecting-students-childcare-workers-and-patients-against-ice-raids/#:~:text=SB%205906)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5906 Data and personal safety
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5906 Data and personal safety
 #### 1233 👍 - Pro
 Testifying:

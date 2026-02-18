@@ -12,7 +12,7 @@
 Testifying:
 * 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Kellen Hoard - Youth on Boards
-* Heba Qatrani - Legislative liaison, South Seattle College
+* 💵Heba Qatrani - Legislative liaison, South Seattle College
 * Tahmina Juraeva - 2013-2024 Bellevue College Student Trustee
 * Tasnim Tayiba - 2024-2025 Edmonds College Student Trustee
 * Yana Chubarov - 2023-2024 Bellevue College Student Trustee

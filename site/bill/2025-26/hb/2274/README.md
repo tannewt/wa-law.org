@@ -6,8 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 2274 Commercial electronic mail
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 2274 Commercial electronic mail
 #### 196 👍 - Pro
 Testifying:

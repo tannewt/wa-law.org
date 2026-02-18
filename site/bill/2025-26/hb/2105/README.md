@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/14/2026 [House Democrats](/org/house_democrats/) - [Cámara aprueba proyecto para proteger a trabajadores inmigrantes / House passes bill to protect immigrant workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/camara-aprueba-proyecto-para-proteger-a-trabajadores-inmigrantes-house-passes-bill-to-protect-immigrant-workers/#:~:text=Proyecto%20de%20Ley%20HB%202105)
+* 02/14/2026 [House Democrats](/org/house_democrats/) - [House passes bill to protect immigrant workers, businesses, and Washington’s economy – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-bill-to-protect-immigrant-workers-businesses-and-washingtons-economy/#:~:text=House%20Bill%202105)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SHB%202105)
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202105)
 * 01/30/2026 [The Urbanist](/org/the_urbanist/) - [Washington State Reacts to Feared ICE Invasion, Constitutional Crisis » The Urbanist](https://www.theurbanist.org/2026/01/30/washington-state-reacts-to-feared-ice-invasion-constitutional-crisis/#:~:text=House%20Bill%202105)
@@ -29,7 +31,7 @@
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * 💵Alexandra Johnson - Duwamish River Community Coalition
-* Mahmood Alkhazraji - ASCWU Liaison
+* 💵Mahmood Alkhazraji - ASCWU Liaison
 * Lisa Ellis
 * Delaney Hewitt - Attorney General's Office of Washington
 

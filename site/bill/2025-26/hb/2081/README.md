@@ -125,7 +125,7 @@ Testifying:
 * Corey Rigney
 * 💵Sienna Jarrard - Associated Students of UW Bothell
 * 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
-* 💵Michelle Carrillo - Associated Students of Central Washington University
+* 💵Michelle Carrillo - [Associated Students of Central Washington University](/org/associated_students_of_central_washington_university/)
 * 💵Mykhail Lembke - UW Graduate & Professional Student Senate
 * 💵Nathan Tippmann - Geoduck Student Union
 * 💵Sienna Jarrard - Associated Students of UW Bothell

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SSB%205956)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [The top issue I’ve heard from you - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/30/the-top-issue-ive-heard-from-you/#:~:text=SB%205956)
 * 01/27/2026 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2026/01/27/january-session-recap-3/#:~:text=SB%205956)
 * 01/27/2026 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist](https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/#:~:text=Senate%20Bill%205956)

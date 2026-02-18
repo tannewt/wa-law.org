@@ -5,7 +5,7 @@
 * ❓💵 Isela Bonilla
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
-* 👍 Heba Qatrani
+* 👍💵 Heba Qatrani
 
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍💵 Sean Behl
@@ -24,7 +24,7 @@
 
 ### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍2  
 * 👍 Fernanda Armas
-* 👍 Heba Qatrani
+* 👍💵 Heba Qatrani
 
 ### [HB 2081](/bill/2025-26/hb/2081/) - Business and occupation tax 👍1  
 * 👍💵 Isela Bonilla
@@ -52,13 +52,13 @@
 
 ### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍6  
 * 👍💵 Sean Behl
-* 👍 Heba Qatrani
+* 👍💵 Heba Qatrani
 * 👍💵 Sean Behl
-* 👍 Heba Qatrani
+* 👍💵 Heba Qatrani
 
 ### [SB 5785](/bill/2025-26/sb/5785/) - Higher education costs 👍1 👎2 
 * 👎💵 Isela Bonilla
-* 👎 Heba Qatrani
+* 👎💵 Heba Qatrani
 * 👍💵 Isela Bonilla
 
 ### [SB 5841](/bill/2025-26/sb/5841/) - Financial aid applications 👍3  

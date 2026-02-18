@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202266)
@@ -18,6 +19,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202266)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Housing (HSG): ESHB 2266 Supportive & emerg. housing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2266 Supportive & emerg. housing
 #### 665 👍 - Pro
 Testifying:

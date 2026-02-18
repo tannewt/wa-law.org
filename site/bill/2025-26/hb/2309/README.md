@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): HB 2309 Postgrad degree requirements
-Sign up to testify:
-
 #### 123 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management

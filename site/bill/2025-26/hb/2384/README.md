@@ -9,6 +9,15 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): 2SHB 2384 Continuing care retirement
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2384 Continuing care retirement
 #### 195 👍 - Pro
 Testifying:

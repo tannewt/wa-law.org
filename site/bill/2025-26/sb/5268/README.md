@@ -10,6 +10,7 @@
 * [Second Engrossed Substitute](S.E2/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=2ESSB%205268)
 * 03/25/2025 [The Center Square](/org/the_center_square/) - [Republican-backed bill addresses ‘vexing problem’ of unlawful gun possession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_57f547c1-66c8-47a9-b0b5-88dcae2194d4.html#:~:text=Senate%20Bill%205268)
 * 03/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-24-28-2025/#:~:text=SB%205268)
 * 03/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Controversial permit-to-purchase gun bill clears Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/03/08/controversial-permit-to-purchase-gun-bill-clears-washington-senate/#:~:text=a%20year%20of%20community%20custody)

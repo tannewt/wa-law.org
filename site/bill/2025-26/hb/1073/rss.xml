@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1073/</link>
 		<description>Updates about HB 1073</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,27 @@
 			<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-09/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

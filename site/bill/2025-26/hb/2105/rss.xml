@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2105/</link>
 		<description>Updates about HB 2105</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -590,8 +590,8 @@
 			<guid isPermaLink="false">testifier/Carolyn/Logue/2026-02-02 20:19:35</guid>
 		</item>
 		<item>
-			<title>👍Mahmood Alkhazraji - ASCWU Liaison</title>
-			<description>Mahmood Alkhazraji signed up to testify Pro. They are signed up to represent ASCWU Liaison.</description>
+			<title>👍💵Mahmood Alkhazraji - ASCWU Liaison</title>
+			<description>Mahmood Alkhazraji signed up to testify Pro. They are signed up to represent ASCWU Liaison. They are a registered lobbyist.</description>
 			<pubDate>Tue, 03 Feb 2026 10:18:17 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -699,6 +699,27 @@
 			<pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-13/Third reading, passed; yeas, 56; nays, 38; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>Cámara aprueba proyecto para proteger a trabajadores inmigrantes / House passes bill to protect immigrant workers – Washington State House Democrats</title>
+			<description>News article "Cámara aprueba proyecto para proteger a trabajadores inmigrantes / House passes bill to protect immigrant workers – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/02/14/camara-aprueba-proyecto-para-proteger-a-trabajadores-inmigrantes-house-passes-bill-to-protect-immigrant-workers/#:~:text=Proyecto%20de%20Ley%20HB%202105</guid>
+		</item>
+		<item>
+			<title>House passes bill to protect immigrant workers, businesses, and Washington’s economy – Washington State House Democrats</title>
+			<description>News article "House passes bill to protect immigrant workers, businesses, and Washington’s economy – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-bill-to-protect-immigrant-workers-businesses-and-washingtons-economy/#:~:text=House%20Bill%202105</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 	</channel>
 </rss>

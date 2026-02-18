@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/15/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: Washington legislation would target parked cars to pay for light rail cost overruns | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_5f229acc-b73d-48ac-844a-a407bd1eac44.html#:~:text=Another%20bill)
 * 02/12/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA lawmakers move Sound Transit closer to issuing 75-year debt to cover costs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_31145d74-2e84-4e38-8661-2a9c0f9f3ce4.html#:~:text=Senate%20bill%206148)
 * 01/21/2026 [The Urbanist](/org/the_urbanist/) - [Sound Transit Seeks Hail Mary Financial Tool to Complete ST3 Buildout » The Urbanist](https://www.theurbanist.org/2026/01/21/sound-transit-seeks-hail-mary-financial-tool-to-complete-st3-buildout/#:~:text=Senate%20Bill%206148)
 * 01/14/2026 [Senate Democrats](/org/senate_democrats/) - [Liias introduces bill to allow Sound Transit to issue 75-year general obligation bonds - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/14/liias-introduces-bill-to-allow-sound-transit-to-issue-75-year-general-obligation-bonds/#:~:text=The%20bipartisan%20bill)

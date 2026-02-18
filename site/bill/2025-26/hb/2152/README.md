@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/12/2026 [House Democrats](/org/house_democrats/) - [House Passes “Ryan’s Law,” Restoring Compassion and Dignity to End-of-Life Care – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/12/house-passes-ryans-law-restoring-compassion-and-dignity-to-end-of-life-care/#:~:text=House%20B)
+
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2152 Cannabis/health facilities
 Sign up to testify:

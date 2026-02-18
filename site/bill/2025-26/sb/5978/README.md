@@ -21,7 +21,7 @@ Testifying:
 * Bill Lyne - United Faculty of Washington State
 * Omkar Page
 * 💵Christopher Rosenquist - Associated Students of Western Washington University
-* Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
+* 💵Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
 * Jonathan Lin
 * Kaushal Rao
 * Hugo Huang

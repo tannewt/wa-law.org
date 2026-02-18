@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SSB%206222)
 * 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall invitation & mid-session update - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/02/13/town-hall-invitation-mid-session-update/#:~:text=SB%206222)
 * 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [Hunt bill expanding access to technology for public school students passes Senate  - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/02/11/hunt-bill-expanding-access-to-technology-for-public-school-students-passes-senate/#:~:text=Senate%20Bill%206222)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%206222.)

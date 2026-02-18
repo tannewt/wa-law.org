@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): HB 2540 EMT recertification
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2540 EMT recertification
 #### 9 👍 - Pro
 Testifying:

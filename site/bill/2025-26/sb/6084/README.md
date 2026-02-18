@@ -13,6 +13,15 @@
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%206084)
 
 ## Meetings
+### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SB 6084 Voting more than once
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6084 Voting more than once
 #### 55 👍 - Pro
 Testifying:

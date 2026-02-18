@@ -66,7 +66,7 @@ Testifying:
 * Muhammad Nasim
 * Ziyad Ali
 * Dhudi Dahir
-* Heba Qatrani - President of South Seattle College Muslim Student Association
+* 💵Heba Qatrani - President of South Seattle College Muslim Student Association
 * Rachida Hill - Uplift Dawah
 * Waseem Munir - Dawah Coordinator, Bellevue College Muslim Student Association
 * Muhammad Atif Nazir

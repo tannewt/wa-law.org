@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/22 10:30 AM - Law & Justice (LAW): SJM 8014 Aysenur Ezgi Eygi killing
@@ -29,7 +30,7 @@ Testifying:
 * Craig Corrie
 * Hon. Brian Baird Ph.D.
 * Brandon Elliott - Associated Students of University of Washington
-* Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
+* 💵Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
 * Hiro Hirano-Holcumb - Associated Students of University of Washington Bothell
 * Nathan Tipmann - Evergreen Geoduck Student Union
 * Racquel West

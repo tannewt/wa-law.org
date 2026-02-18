@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2515/</link>
 		<description>Updates about HB 2515</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -623,6 +623,13 @@
 			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-14/Third reading, passed; yeas, 51; nays, 41; absent, 0; excused, 6.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment, Energy &amp; Technology.</title>
+			<description>First reading, referred to Environment, Energy &amp; Technology.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-17/First reading, referred to Environment, Energy &amp; Technology.</guid>
 		</item>
 	</channel>
 </rss>

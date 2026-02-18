@@ -12,6 +12,15 @@
 * 12/29/2025 [Gorge News Center](/org/gorge_news_center/) - [Dent seeks to make temporary early wildfire air support program permanent](https://gorgenewscenter.com/2025/12/29/dent-seeks-to-make-temporary-early-wildfire-air-support-program-permanent/#:~:text=House%20Bill%202104)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 2104 Aviation assurance funding
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2104 Aviation assurance funding
 #### 218 👍 - Pro
 Testifying:

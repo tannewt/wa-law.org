@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2026 [House Democrats](/org/house_democrats/) - [Mena’s “Day of the 12s” advances following Seahawks Super Bowl victory – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/menas-day-of-the-12s-advances-following-seahawks-super-bowl-victory/#:~:text=House%20Bill%201759)
 * 02/17/2025 [House Democrats](/org/house_democrats/) - [12’s Just Scored – House Declares an Official 12s Day! – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/12s-just-scored-house-declares-an-official-12s-day/#:~:text=House%20Bill%201759)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201759)
 * 02/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Seahawks fans may get a state-recognized day • Washington State Standard](https://washingtonstatestandard.com/2025/02/07/seahawks-fans-may-get-a-state-recognized-day/#:~:text=House%20Bill%201759)

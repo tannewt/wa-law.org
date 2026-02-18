@@ -4,16 +4,16 @@
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
 ### [HB 2688](/bill/2025-26/hb/2688/) - Infants and toddlers program  👎9 
-* 👎 Kristina Mendieta
+* 👎💵 Kristina Mendieta
 
 ## [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍6  
-* 👍 Kristina Mendieta
+* 👍💵 Kristina Mendieta
 * 👍 Mustapha Kebbeh
 
 ## 2023-24
 
 ### [SB 5263](/bill/2023-24/sb/5263/) - Special education funding 👍6  
-* 👍 Kristina Mendieta
+* 👍💵 Kristina Mendieta
 * 👍 Mustapha Kebbeh
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2

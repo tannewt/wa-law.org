@@ -71,7 +71,7 @@ Testifying:
 * Jenny Veltri - Career Connect NW/NWESD 189
 * Vickei Hrdina
 * 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
-* Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
+* 💵Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 
 #### 0 👎 - Con
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/11/2026 [Washington State Standard](/org/washington_state_standard/) - [How WA lawmakers are trying to regulate data centers • Washington State Standard](https://washingtonstatestandard.com/2026/02/11/how-wa-lawmakers-are-trying-to-regulate-data-centers/#:~:text=House%20Bill%202515)
@@ -20,6 +21,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202515)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2515 Large energy use facilities
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2515 Large energy use facilities
 #### 618 👍 - Pro
 Testifying:

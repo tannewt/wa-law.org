@@ -7,8 +7,18 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): E2SHB 2637 PRA/personal information
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2637 PRA/personal information
 #### 55 👍 - Pro
 Testifying:

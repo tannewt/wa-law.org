@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=Senate%20Bill%206343)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Week 4 update: Bill progress, holding ICE accountable, and resources for immigrant communities - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2026/02/06/week-4-update-bill-progress-holding-ice-accountable-and-resources-for-immigrant-communities/#:~:text=SB%206343)
 
 ## Meetings

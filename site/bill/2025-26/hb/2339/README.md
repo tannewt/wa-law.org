@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): SHB 2339 Nursing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2339 Nursing
 #### 63 👍 - Pro
 Testifying:

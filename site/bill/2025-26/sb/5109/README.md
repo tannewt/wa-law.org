@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%205109)
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205109)
 * 04/15/2025 [Senate Democrats](/org/senate_democrats/) - [In the home stretch - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/04/15/in-the-home-stretch/#:~:text=SB%205109)
 * 03/18/2025 [Senate Democrats](/org/senate_democrats/) - [Fighting for consumers and connecting with you - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/03/18/fighting-for-consumers-and-connecting-with-you/#:~:text=Senate%20Bill%205109)

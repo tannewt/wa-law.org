@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2239/</link>
 		<description>Updates about HB 2239</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -100,6 +100,13 @@
 			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-12/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-16/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 	</channel>
 </rss>

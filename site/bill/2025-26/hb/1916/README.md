@@ -16,8 +16,6 @@
 
 ## Meetings
 ### Mon 02/16 08:30 AM - State Government & Elections (SGE): ESHB 1916 Voter registrations
-Sign up to testify:
-
 #### 537 👍 - Pro
 Testifying:
 * Alison McCaffree - [League of Women Voters of Washington](/org/league_of_women_voters_of_washington/)

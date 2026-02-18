@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Housing (HSG): SHB 2354 Common interest communities
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2354 Common interest communities
 #### 4 👍 - Pro
 Testifying:

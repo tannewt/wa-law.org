@@ -11,6 +11,15 @@
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206260)
 
 ## Meetings
+### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6260 Public education funding
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 08:00 AM - Early Learning & K-12 Education (EDU): SB 6260 Public education funding
 #### 12 👍 - Pro
 Testifying:

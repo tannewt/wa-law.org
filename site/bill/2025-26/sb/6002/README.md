@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=ESSB%206002)
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESSB%206002)
 * 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%206002)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Making our tax code fairer + protecting communities from federal overreach - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/05/making-our-tax-code-fairer-protecting-communities-from-federal-overreach/#:~:text=SB%206002,)
@@ -84,7 +85,7 @@ Testifying:
 * 💵Rebekah Gardea - QLaw Foundation of Washington
 * Anusha Nasrulai
 * 💵Nathan Tippmann - Evergreen Geoduck Student Union
-* Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
+* 💵Heba Qatrani - [Associated Students of University of Washington Tacoma](/org/associated_students_of_university_of_washington_tacoma/)
 
 #### 315 👎 - Con
 Testifying:

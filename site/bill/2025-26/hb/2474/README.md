@@ -13,7 +13,7 @@
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Christopher Madaio - The Institute for College Access and Success
-* Mahmood Alkhazraji - ASCWU
+* 💵Mahmood Alkhazraji - ASCWU
 * 💵Sienna Jarrard - [Washington Student Association](/org/washington_student_association/)
 
 #### 1 👎 - Con

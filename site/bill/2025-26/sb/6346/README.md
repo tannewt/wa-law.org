@@ -6,8 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/17/2026 [The Center Square](/org/the_center_square/) - [Ferguson: Income tax bill needs 'significantly more' relief for families, small businesses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b686d615-d4ff-411d-9826-fc2da4338476.html#:~:text=SB%206346)
+* 02/17/2026 [The Center Square](/org/the_center_square/) - [Former WA AG argues in legal memo proposed income tax is illegal | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cd6c970a-6501-4f75-9c75-7bcd93b7a39f.html#:~:text=Senate%20Bill%206346)
+* 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington state Senate approves tax on personal income over $1M • Washington State Standard](https://washingtonstatestandard.com/2026/02/16/washington-state-senate-approves-tax-on-personal-income-over-1m/#:~:text=Senate%20Bill%206346)
+* 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/16/millionaires-tax-passes-the-senate/#:~:text=Senate%20Bill%206346)
+* 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes Millionaires Tax - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/02/16/senate-passes-millionaires-tax/#:~:text=SB%206346)
+* 02/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Income tax bill passes WA Senate after hours of heated debate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5a644fbd-ed58-4e5b-9e33-595e2340b811.html#:~:text=Senate%20Bill%206346)
+* 02/16/2026 [Senate Republicans](/org/senate_republicans/) - [STATEMENT: Republican leaders on state income tax: unconstitutional, undemocratic, and coming for everyone in Washington - Senate Republican Caucus](https://src.wastateleg.org/blog/statement-republican-leaders-state-income-tax-unconstitutional-undemocratic-coming-everyone-washington/#:~:text=legislation)
+* 02/16/2026 [The Center Square](/org/the_center_square/) - [Democrats quietly pushing rollback of estate tax increase | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b91daec9-7f13-4d7a-bdd1-ebe7a8bff4e0.html#:~:text=Senate%20Bill%206346,)
+* 02/16/2026 [KING5](/org/king5/) - [Washington Senate passes 'Millionaires Tax,' heads to House next | king5.com](https://www.king5.com/article/news/politics/state-politics/millionaire-tax-senate-vote-washington-state-legislature/281-99db0fc7-b307-4e47-913a-f2e17056d99b#:~:text=Senate%20Bill%206346)
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%206346)
 * 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall invitation & mid-session update - Sen. Victoria Hunt](https://senatedemocrats.wa.gov/hunt/2026/02/13/town-hall-invitation-mid-session-update/#:~:text=Senate%20Bill%206346)
 * 02/14/2026 [Senate Democrats](/org/senate_democrats/) - [Week Five - Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/02/13/week-five-halfway-there/#:~:text=SB 6346)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=Senate%20Bill%206346)

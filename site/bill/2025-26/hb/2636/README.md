@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/14/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: A new framework for reviewing Washington’s K–12 education mandates | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_7e888669-38c2-4f96-bda1-ec23f887d1fa.html#:~:text=House%20Bill%202636)
@@ -15,6 +16,15 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202636)
 
 ## Meetings
+### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 2636 Public education reviews
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/29 08:00 AM - Education (ED): HB 2636 Public education reviews
 #### 75 👍 - Pro
 Testifying:

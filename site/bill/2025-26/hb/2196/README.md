@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/09/2026 [House Democrats](/org/house_democrats/) - [House committee to hear Rep. Simmons bill requiring coverage for treatment of PANDAS/PANS pediatric disorders – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/09/house-committee-to-hear-rep-simmons-bill-requiring-coverage-for-treatment-of-pandas-pans-pediatric-disorders/#:~:text=House%20Bill%202196)

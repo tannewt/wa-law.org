@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes bill recognizing Diwali, Bandi Chhor Divas   - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/17/senate-passes-bill-recognizing-diwali-bandi-chhor-divas/#:~:text=Senate%20Bill%206044)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [My prime sponsored bills advancing - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/06/my-prime-sponsored-bills-advancing/#:~:text=Senate%20Bill%206044)
 
 ## Meetings

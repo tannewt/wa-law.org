@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=HB 2489)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB 2489)
 * 02/05/2026 [Washington State Standard](/org/washington_state_standard/) - [State bill would prohibit local bans on encampments in Washington • Washington State Standard](https://washingtonstatestandard.com/2026/02/05/state-bill-would-prohibit-local-bans-on-encampments-in-washington/#:~:text=House%20Bill%202489)
 * 02/03/2026 [The Center Square](/org/the_center_square/) - [WA Democrats advance bills that could gut local camping bans with unfunded mandates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_05bacfdb-8875-4524-96b1-ace1d2068df0.html#:~:text=House%20Bill%202489)

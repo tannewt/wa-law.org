@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 02/14/2026 [House Democrats](/org/house_democrats/) - [House approves Fosse’s Wage Recovery Act to strengthen enforcement and protect workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-approves-fosses-wage-recovery-act-to-strengthen-enforcement-and-protect-workers/#:~:text=House%20Bill%202479)
+
 ## Meetings
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2479 Unpaid wage recovery
 #### 84 👍 - Pro

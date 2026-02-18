@@ -134,7 +134,7 @@ Testifying:
 * Meghan Jernigan - Shoreline School Board
 * Maisie Antoniello
 * Sonja Mitchell
-* Kristina Mendieta - [Kindering](/org/kindering/)
+* 💵Kristina Mendieta - [Kindering](/org/kindering/)
 * Missy Bontrager
 * Mustapha Kebbeh - [Kindering](/org/kindering/)
 * Elizabeth Sadak - Home

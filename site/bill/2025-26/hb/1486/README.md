@@ -16,7 +16,7 @@
 ### Thu 03/20 01:30 PM - Higher Education & Workforce Development (HEWD): SHB 1486 Student member on SBCTC
 #### 22 👍 - Pro
 Testifying:
-* Heba Qatrani - South Seattle College Student and the Washington Student Association
+* 💵Heba Qatrani - South Seattle College Student and the Washington Student Association
 * 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Terrell Stalworth - Associated Students of Tacoma Community College
 * Aniya Clark - Student Government of Olympic College
@@ -37,7 +37,7 @@ Testifying:
 Testifying:
 * Daniel Ngoy - Associated Student Government of Bellevue College
 * 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
-* Heba Qatrani - Washington Student Association, South Seattle College Student
+* 💵Heba Qatrani - Washington Student Association, South Seattle College Student
 * Love Adu - Student Representative, California Community College Board of Governors
 * Sam Baneth - Student Chair of Legislative Affairs, North Seattle College
 

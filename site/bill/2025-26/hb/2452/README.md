@@ -21,6 +21,15 @@ Sign up to testify:
 
 #### 0 ❓ - Other
 
+### Wed 02/18 10:30 AM - Housing (HSG): SHB 2452 Rent increase notice service
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Housing (HOUS): HB 2452 Rent increase notice service
 #### 354 👍 - Pro
 Testifying:

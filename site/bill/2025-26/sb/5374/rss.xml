@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5374/</link>
 		<description>Updates about SB 5374</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Feb 2026 18:07:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -264,6 +264,13 @@
 			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-14/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>Building policy through partnership - Sen. Claudia Kauffman</title>
+			<description>News article "Building policy through partnership - Sen. Claudia Kauffman" from Senate Democrats.</description>
+			<pubDate>Mon, 16 Feb 2026 18:07:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%205374</guid>
 		</item>
 	</channel>
 </rss>

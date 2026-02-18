@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/11/2026 [House Democrats](/org/house_democrats/) - [House passes Simmons’ bill supporting nursing assistants’ recovery efforts – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/house-passes-simmons-bill-supporting-nursing-assistants-recovery-efforts/#:~:text=HB%202340)
+
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): HB 2340 Nursing assistants/SUD prg.
 Sign up to testify:

@@ -10,6 +10,15 @@
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Lekanoff’s agenda to strengthen government-to-government partnership and protect future generations – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/lekanoffs-to-strengthen-government-to-government-partnership-and-protect-future-generations/#:~:text=HB%202554)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 2554 Tribal fishing rights
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2554 Tribal fishing rights
 #### 24 👍 - Pro
 Testifying:

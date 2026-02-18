@@ -10,6 +10,15 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1742 Urban design/environment
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1742 Urban design/environment
 #### 21 👍 - Pro
 Testifying:

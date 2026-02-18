@@ -16,7 +16,7 @@ Testifying:
 Testifying:
 * Beth Ebel - UW Faculty Leg Rep, Council of Faculty
 * Matt Altman - CWU Faculty Legislative Rep, Council of Faculty
-* Mahmood Alkhazraji - ASCWU
+* 💵Mahmood Alkhazraji - ASCWU
 
 #### 0 ❓ - Other
 
@@ -30,6 +30,6 @@ Testifying:
 * Beth Ebel - Faculty Legislative Rep, University of Washington
 * Michael Craw - Council of Faculty Representative, The Evergreen State College
 * Matthew Altman - Faculty Legislative Representative, Central Washington University
-* Mahmood Alkhazraji - ASCWU
+* 💵Mahmood Alkhazraji - ASCWU
 
 #### 3 ❓ - Other

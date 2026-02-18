@@ -15,7 +15,7 @@ Testifying:
 * Walter Lumpkin
 * Terrell stalworth - Tacoma community college student
 * 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
-* Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
+* 💵Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 
 #### 0 👎 - Con
 
@@ -25,7 +25,7 @@ Testifying:
 #### 63 👍 - Pro
 Testifying:
 * 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
-* Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
+* 💵Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 * Daniel Ngoy - Bellevue College
 * Kellen Hoard - Youth on Boards
 * Randy Phillips - Associated Students of Tacoma Community College

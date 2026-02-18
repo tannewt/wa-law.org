@@ -10,9 +10,19 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/14/2026 [House Democrats](/org/house_democrats/) - [House passes Mena bill to lower energy costs for working families – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-passes-mena-bill-to-lower-energy-costs-for-working-families/#:~:text=House%20Bill%201903)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201903)
 
 ## Meetings
+### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1903 Low-income energy assistance
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 1903 Low-income energy assistance
 #### 1034 👍 - Pro
 Testifying:

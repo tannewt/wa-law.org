@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 6087 Donations for children
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 6087 Donations of baby items
 #### 325 👍 - Pro
 

@@ -10,6 +10,15 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2418 Permit review
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2418 Permit review
 #### 156 👍 - Pro
 Testifying:

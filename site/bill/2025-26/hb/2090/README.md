@@ -28,7 +28,7 @@ Testifying:
 * Amanda McKinney - Yakima County Commissioner
 * Fereshteh Bunk - Mothers for Nuclear
 * Scott Aldridge
-* Chris Green - General Matter, LLC
+* 💵Chris Green - General Matter, LLC
 
 #### 344 👎 - Con
 Testifying:

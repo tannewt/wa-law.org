@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2026 [House Democrats](/org/house_democrats/) - [Reed bill cuts red tape for building social housing – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/10/reed-bill-cuts-red-tape-for-building-social-housing/#:~:text=HB%201687)
 * 02/28/2025 [Cascade PBS](/org/cascade_pbs/) - [What's next for Seattle’s social housing after big tax win? | Cascade PBS](https://crosscut.com/politics/2025/02/whats-next-seattles-social-housing-after-big-tax-win#:~:text=in%20support%20of%20a%20bill)
 
 ## Meetings

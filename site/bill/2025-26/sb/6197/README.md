@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6197 Plumbing contractors

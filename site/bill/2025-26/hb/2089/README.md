@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/09/2026 [House Democrats](/org/house_democrats/) - [Scott’s Bill to Restore Wildfire Mitigation Funding Advances – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/09/scotts-bill-to-restore-wildfire-mitigation-funding-advances/#:~:text=HB%202089)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202089)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202089)
 * 12/02/2025 [House Democrats](/org/house_democrats/) - [A New Vision for Washington: Scott introduces the Well Washington Fund payroll tax to protect state from Trump’s austerity budget. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/12/02/a-new-vision-for-washington-scott-introduces-the-well-washington-fund-payroll-tax-to-protect-state-from-trumps-austerity-budget/#:~:text=HB%202089)

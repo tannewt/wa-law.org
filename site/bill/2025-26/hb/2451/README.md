@@ -10,6 +10,15 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2451 Local tax increment fin.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 08:00 AM - Finance (FIN): SHB 2451 Local tax increment fin.
 #### 73 👍 - Pro
 Testifying:

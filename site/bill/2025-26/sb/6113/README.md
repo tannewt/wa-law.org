@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SSB%206113)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%206113)
 
 ## Meetings

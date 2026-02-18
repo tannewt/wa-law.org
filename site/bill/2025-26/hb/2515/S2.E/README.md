@@ -1,0 +1,477 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2515](/bill/2025-26/hb/2515/) > [Engrossed Second Substitute](/bill/2025-26/hb/2515/S2.E/)
+
+# HB 2515 - Large energy use facilities
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2515-S2.E.pdf)
+
+## Section 1
+The legislature finds that data centers are emerging large energy use facilities that have the potential to significantly affect Washington's energy affordability and reliability, local communities, jobs, environment, and economy.
+
+Data centers are projected to grow rapidly over the next several years, making up the largest source of expected electricity load growth in the Pacific Northwest. The legislature established tax incentives for data centers in 2010 and updated these incentives in 2022. However, since that time, the data center industry has undergone major changes. Data centers are growing larger to support artificial intelligence, and there is high uncertainty about many aspects of the future of this rapidly evolving, emerging industry.
+
+The development of data centers has brought benefits including construction jobs and significant new tax revenues to Washington, especially to rural communities. Data centers are also major users of electricity, water, and refrigerant chemicals.
+
+The legislature intends to enact policies governing these emerging large energy use facilities. For these emerging large energy use facilities, the legislature's policy priorities are affordability, grid reliability, transparency, and environmental protection. The legislature intends to protect energy affordability for consumers; ensure that data center energy demands do not harm the reliability of the electric grid; require transparency about energy, water, and refrigerant use; and require the use of 100 percent clean energy over time.
+
+The technology industry plays an important role in Washingtonians' lives and in the state's economy. The legislature intends to require data centers to meet a high standard for performance, building on the industry's ability to innovate and lead, while protecting and delivering benefits to Washington consumers, workers, communities, and environment.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Biomass generation" has the same meaning as "biomass energy" defined in RCW 19.285.030.
+
+2. "Bonneville power administration system mix" means a generation mix sold by the Bonneville power administration that is net of any resource specific sales.
+
+3. "Commission" means the utilities and transportation commission.
+
+4. "Conservation" means an increase in efficiency in the use of energy use that yields a decrease in energy consumption while providing the same or higher levels of service. Conservation includes low-income weatherization programs.
+
+5. "Consumer-owned utility" means a municipal electric utility formed under Title 35 RCW, a public utility district formed under Title 54 RCW, an irrigation district formed under chapter 87.03 RCW, a cooperative formed under chapter 23.86 RCW,  a mutual corporation or association formed under chapter 24.06 RCW, or a port district formed under Title 53 RCW, that is engaged in the business of distributing electricity to at least one retail electric customer in the state.
+
+6. "Declared resource" means an electricity source specifically identified by a retail supplier to serve retail electric customers. A declared resource includes a stated quantity of electricity tied directly to a specified generation facility or set of facilities either through ownership or contract purchase, or a contractual right to a stated quantity of electricity from a specified generation facility or set of facilities.
+
+7. "Demand response" has the same meaning as in RCW 19.405.020.
+
+8. "Department" means the department of commerce.
+
+9. "Electric meters in service" means those meters that record in at least nine of twelve calendar months in any calendar year not less than two hundred fifty kilowatt-hours per month.
+
+10. "Electric utility" means a consumer-owned or investor-owned utility as defined in this section.
+
+11. "Electricity" means electric energy measured in kilowatt-hours, or electric capacity measured in kilowatts, or both.
+
+12. "Electricity product" means the electrical energy produced by a generating facility or facilities that a retail supplier sells or offers to sell to retail electric customers in the state of Washington, provided that nothing in this title shall be construed to mean that electricity is a good or product for the purposes of Title 62A RCW, or any other purpose. It does not include electrical energy generated on-site at a retail electric customer's premises.
+
+13. "Electricity product content label" means information presented in a uniform format by a retail supplier to its retail customers and disclosing the information required in RCW 19.29A.060 about the characteristics of an electricity product.
+
+14. "Emerging large energy use facility" means a facility that has a maximum aggregate contract demand of 20 megawatts or more and is primarily engaged in providing a service described under code 518210 of the 2022 North American industry classification system.
+
+15. "Emerging large energy use facility tariff or policy" means the rates, terms, and conditions set by an electric utility for providing electricity service to an emerging large energy use facility electric customer.
+
+16. "Energy emergency" means a situation in which the unavailability or disruption of the supply of energy poses a clear and foreseeable danger to the public health, safety, and general welfare as determined by relevant local, state, regional, or federal entities.
+
+17. "Facility" means any physical property, plant, building, structure, source, or stationary equipment located on one or more contiguous or adjacent properties in actual physical contact or separated solely by a public roadway or other public right-of-way and under common ownership or common control.
+
+18. "Fuel attribute" means the characteristic of electricity determined by the fuel used in the generation of that electricity. For a renewable resource, the fuel attribute is included in its nonpower attributes.
+
+19. "Fuel mix" means the sources of electricity sold to retail electric customers, expressed in terms of percentage contribution by resource category. The total fuel mix included in each disclosure shall total one hundred percent.
+
+20. "Governing body" means the council of a city or town, the commissioners of an irrigation district, municipal electric utility, or public utility district, or the board of directors of an electric cooperative or mutual association that has the authority to set and approve rates.
+
+21. "Investor-owned utility" means a company owned by investors that meets the definition of RCW 80.04.010 and is engaged in distributing electricity to one or more retail electric customers in the state.
+
+22. "Marginal load" means at least two percent of an emerging large energy use facility's maximum aggregate contract demand amount.
+
+23. "Nonpower attributes" has the same meaning as defined in RCW 19.285.030.
+
+24. "Private customer information" includes a retail electric customer's name, address, telephone number, and other personally identifying information.
+
+25. "Proprietary customer information" means: (a) Information that relates to the source, technical configuration, destination, and amount of electricity used by a retail electric customer, a retail electric customer's payment history, and household data that is made available by the customer solely by virtue of the utility-customer relationship; and (b) information contained in a retail electric customer's bill.
+
+26. "Renewable energy certificate" means a tradable certificate of proof of one megawatt-hour of electricity from a renewable resource. The certificate includes all of the nonpower attributes associated with that one megawatt-hour of electricity, and the certificate is verified by a renewable energy certificate tracking system specified by the department.
+
+27. "Renewable resource" has the same meaning as defined in RCW 19.285.030.
+
+28. "Resale" means the purchase and subsequent sale of electricity for profit, but does not include the purchase and the subsequent sale of electricity at the same rate at which the electricity was purchased.
+
+29. "Retail electric customer" means a person or entity that purchases electricity for ultimate consumption and not for resale.
+
+30. "Retail supplier" means an electric utility that offers an electricity product for sale to retail electric customers in the state.
+
+31. "Small utility" means any consumer-owned utility with twenty-five thousand or fewer electric meters in service, or that has an average of seven or fewer customers per mile of distribution line.
+
+32. "Source and disposition report" means the report required in RCW 19.29A.140.
+
+33. "State" means the state of Washington.
+
+34. "Unspecified source" means an electricity source for which the fuel attribute is unknown or has been separated from the energy.
+
+## Section 3
+1. [Empty]
+
+    a. By October 1, 2026, each investor-owned utility with an emerging large energy use facility in its service territory must submit to the commission and make publicly available an emerging large energy use facility tariff or policy for emerging large energy use facilities in the utility's service area.
+
+    b. Within 10 months of submission by an investor-owned utility, the commission, under the authority granted by RCW 80.04.130(1), must review an emerging large energy use facility tariff or policy and approve, disapprove, or approve with modifications the tariff or policy. The commission may approve an emerging large energy use facility tariff or policy only if it meets the standards outlined in subsections (4) and (5) of this section.
+
+2. [Empty]
+
+    a. By October 1, 2026, each consumer-owned utility with an emerging large energy use facility in its service territory must submit an emerging large energy use facility tariff or policy to its governing board for review and approval.
+
+    b. Within 10 months of submission, the governing body of a consumer-owned utility must approve an emerging large energy use facility tariff or policy that meets the standards outlined in subsections (4) and (5) of this section.
+
+    c. The governing body of a consumer-owned utility may approve an existing tariff or policy that meets the standards outlined in subsections (4) and (5) of this section.
+
+3. [Empty]
+
+    a. An electric utility without an emerging large energy use facility in its service territory is not required to develop an emerging large energy use facility tariff or policy until the utility plans to serve a new emerging large energy use facility.
+
+    b. An electric utility must have adopted an emerging large energy use facility tariff or policy prior to providing electricity service to a new emerging large energy use facility.
+
+4. All electric utility emerging large energy use facility tariff or policy submissions must be designed to avoid immediate and long-term risks to electric customers including, but not limited to, shifts of costs from emerging large energy use facilities to other electric customers, stranded utility assets, and any other increased costs for customers resulting from serving an emerging large energy use facility.
+
+5. In developing the tariffs or policies, electric utilities must include each of the elements outlined in this subsection, except if a utility can explain that an element does not further the purposes described in subsection (4) of this section. A utility must explain a decision to exclude an element in part or in whole, in writing to the commission in the case of an investor-owned utility, or to its governing body in the case of a consumer-owned utility:
+
+    a. A minimum contract length of 10 years with contractual commitments that include:
+
+        i. Collateral requirements;
+
+        ii. Charges designed to, at a minimum, recover infrastructure costs incurred to serve the facility, regardless of the facility's actual usage;
+
+        iii. Exit fees sufficient to cover power, infrastructure, and administrative and any other utility costs associated with the facility that remain in the event of an early contract exit, default, or permanent closure; and
+
+        iv. Other provisions to hold the electric utility and ratepayers harmless if the facility were to substantially change its operations;
+
+    b. Charges that, at a minimum, cover the full costs of serving the facility, which may include, but are not limited to:
+
+        i. The direct costs for the utility to interconnect the facility to the utility's grid, including the costs of studies and infrastructure improvements;
+
+        ii. The costs of providing electricity service to the facility, including, as applicable, energy generation, transmission, distribution, capacity, and ancillary electricity services; and
+
+        iii. All compliance costs, including any associated administrative or programmatic expenses, associated with providing service to the emerging large energy use facility under: (A) Chapter 70A.65 RCW, including allowance costs; (B) chapter 19.405 RCW, including renewable and nonemitting resource procurement costs; and (C) resource adequacy requirements.
+
+    c. A requirement that the facility provide, upon request by the electric utility, timely, complete, and verifiable information related to power supply arrangements, load forecasts, operational flexibility, and other system-relevant characteristics, as necessary for the utility to assess system impacts, cost recovery, and how to condition service;
+
+    d. Pricing structures that reflect cost causation and system conditions, which may include real-time pricing or other dynamic pricing mechanisms; and
+
+    e. Provisions demonstrating that the facility's marginal load is served under a contract between the electric utility and the facility where:
+
+        i. The marginal load participates in a demand response or interruptible load program of the interconnected electric utility; or
+
+        ii. The facility funds the costs, including proportional administrative costs and any applicable start-up costs, of providing peak demand reductions at least equal to the facility's marginal load, for a utility's demand response program that serves other retail electric customers; and
+
+        iii. Diesel generator use by permitted and unpermitted sources is not increased as a result of the actions in (e)(i) or (ii) of this subsection.
+
+6. Any contract between an electric utility and an emerging large energy use facility must conform to the requirements in subsections (4) and (5) of this section consistent with the approved tariff or policy.
+
+7. [Empty]
+
+    a. An emerging large energy use facility that commences operation on or after August 1, 2027, must agree to the terms of an electric utility's approved emerging large energy use facility tariff or policy before receiving electricity service, if seeking service, or to maintain electricity service, if already receiving service from the electric utility.
+
+    b. An emerging large energy use facility that commenced operation prior to August 1, 2027, is subject to the terms of an approved emerging large energy use facility tariff or policy of its servicing electric utility by January 1, 2028, if it is not already operating under a contract with the electric utility.
+
+    c. An emerging large energy use facility operating under a contract with an electric utility prior to August 1, 2027, may continue operating under such a contract until the later of January 1, 2028, or the renegotiation or expiration of such contract.
+
+    d. A utility may require renegotiation or updating of a contract that an emerging large energy use facility is operating under prior to the deadlines in (c) of this subsection if the utility determines that it is not recovering the full costs of serving the emerging large energy use facility.
+
+9. The powers and authority granted in this section shall be construed as in addition and supplemental to any powers or authority conferred by any other law, and nothing in this section shall be construed as limiting any other powers or authority granted to a utility of such governmental agencies.
+
+## Section 4
+The owner of each emerging large energy use facility in the state must:
+
+1. Publish a sustainability report demonstrating how the emerging large energy use facility will address and balance energy, water, and computing performance to maximize energy efficiency, water efficiency, and overall sustainability of the facility's operations. The report must include projected annual energy and water consumption for three years and the source of the energy and water. The report must also provide evidence that the facility has access to an adequate water supply for the intended use of the facility through an existing or third-party water system or through a state-issued water right, as applicable;
+
+    a. For proposed emerging large energy use facilities, the owner must publish such a report prior to, or at the same time as, filing an application for any state or local permit;
+
+    b. For emerging large energy use facilities in operation prior to enactment of this act, the owner must publish such a report by January 1, 2027;
+
+    c. For emerging large energy use facilities in operation, the owner must update the report and publish the update every three years;
+
+    d. The owner must make these reports publicly available electronically. Upon posting electronically, the owner must also submit a copy to the department, the department of ecology, and the local jurisdiction or jurisdictions it is proposing to locate in, or is located in;
+
+2. Annually report the following information in one report to the department of ecology by March 31st each year for the previous year:
+
+    a. The facility's annual water consumption and water quality permit information, and water use effectiveness in accordance with ISO/IEC 30134-9:2022 or other internationally recognized standards. The report must include daily water quantities, total and peak uses, and any effluents that are discharged outside the emerging large energy use facility. The report may provide context by comparing the facility's water use to other users. The report must also include any water quality permits, including existing permits and new applications through federal, state, or local jurisdictions;
+
+    b. The facility's server cooling technology and any associated use of regulated refrigerants and substitutes as defined in RCW 70A.60.010. The report must include refrigerant type, full charge size, monthly and annual quantities used, any quantities leaked, and any quantities recovered for disposal outside the facility, including the entity who receives the material;
+
+    c. The facility's annual energy consumption. The report must include the source of the energy, and annual and monthly energy use, including peak demands. The report may provide context by comparing the facility's energy use to other users;
+
+    d. The facility's annual emissions of criteria air pollutants and toxic air pollutants regulated under the Washington clean air act, chapter 70A.15 RCW, or the federal clean air act. The report must also include any air permits, including existing permits and new applications;
+
+3. Upon submitting the report to the department of ecology, make this report publicly available electronically.
+
+4. For the purposes of this section, the owner of an emerging large energy use facility may report at the campus level.
+
+## Section 5
+1. The commission and the department must collaborate to improve resource forecasting of emerging large energy use facility loads. Collaboration must include facilitating a work group of electric utilities, emerging large energy use facilities, and other interested stakeholders to establish best practices across electric utilities for emerging large energy use facilities to: (a) Demonstrate commercial readiness for entering interconnection queues; and (b) disclose to the interconnecting utility and to the department substantially similar requests for electric service in the same or another balancing authority when requesting interconnection with an electric utility, the approval of which would result in the customer materially changing, delaying, or withdrawing the interconnection request. The commission and the department must electronically post these best practices established by the work group by January 1, 2027.
+
+2. Beginning January 1, 2027, emerging large energy use facilities seeking interconnection with an electric utility must follow the best practices for interconnection established in subsection (1) of this section.
+
+## Section 6
+1. The owner of an emerging large energy use facility that commences operation after July 1, 2026, or an expanded emerging large energy use facility must:
+
+    a. Beginning in 2031 and every year thereafter, certify to the department that for the prior year it used electricity from renewable resources or nonemitting electric generation as defined in RCW 19.405.020, where the electricity generation facility commenced operation on or after January 1, 2026, to serve the load of the emerging large energy use facility in an amount that meets or exceeds 80 percent of its annual energy and capacity requirements; and
+
+    b. Beginning in 2046 and every year thereafter, certify to the department by January 1st each year that for the prior year it used electricity from renewable resources or nonemitting electric generation as defined in RCW 19.405.020, to serve the load of the emerging large energy use facility in an amount that meets 100 percent of its annual energy and capacity requirements.
+
+2. Meeting the requirements in subsection (1) of this section requires coordination and planning with the utility serving the geographic area where the facility is located. Electricity used to meet the requirements in subsection (1) of this section may be:
+
+    a. Behind the meter generation at the location of the emerging large energy use facility;
+
+    b. Delivered to an emerging large energy use facility under a contract with an electric utility serving the geographic area where the facility is located; or
+
+    c. Delivered to an emerging large energy use facility under contract with a third-party supplier and using an electric utility's distribution system under the terms and conditions set by an electric utility, if the electric utility serving the geographic area where the facility is located allows such an arrangement.
+
+3. As part of demonstrating compliance with the requirements in subsection (1) of this section:
+
+    a. The emerging large energy use facility must acquire the electricity with the renewable energy credit as defined in RCW 19.405.020 in a single transaction through ownership or control of the generating facility or through a contract for purchase or exchange; and
+
+    b. The emerging large energy use facility must not use the associated electricity for any purpose other than supplying its new emerging large energy use facility.
+
+4. Each emerging large energy use facility using a renewable energy credit under this chapter must document the following: (a) The renewable energy credit represents the output of a renewable resource; (b) the vintage of the renewable energy credit is the compliance year; and (c) that the emerging large energy use facility has retired the renewable energy credit to a retirement subaccount within the western renewable energy information system designated by the department.
+
+5. There may not be any double counting of renewable electricity credits by a utility or by an emerging large energy use facility.
+
+6. An electric utility that provides retail electric service to an emerging large energy use facility is not responsible for the facility owner's failure to comply with this section. Compliance with this section is the sole responsibility of the facility owner.
+
+7. The requirements in this section are in addition to any requirements the emerging large energy use facility may have as an affected market customer under chapter 19.405 RCW.
+
+8. For the purposes of this section, "expanded emerging large energy use facility" means an emerging large energy use facility with an increase of 20,000 square feet or more dedicated for housing working servers or an increase of 20 megawatts or more in the facility's maximum aggregate contract demand, where the increase occurred on or after July 1, 2026.
+
+## Section 7
+1. The legislature intends by this section to allow all consumer-owned electric utilities and investor-owned electric utilities subject to the requirements of chapter 19.405 RCW, the Washington clean energy transformation act, to be eligible for allowance allocation as provided in this section in order to mitigate the cost burden of the program on electricity customers, other than, starting January 1, 2028, those customers that are emerging large energy use facilities as defined in section 2 of this act. For no-cost allowances distributed starting in calendar year 2028 for emissions year 2029, the department may not provide allowance allocation to mitigate the cost burden of the program on electricity customers that are emerging large energy use facilities as defined in section 2 of this act.
+
+2. [Empty]
+
+    a. By October 1, 2022, the department shall adopt rules, in consultation with the department of commerce and the utilities and transportation commission, establishing the methods and procedures for allocating allowances for consumer-owned and investor-owned electric utilities. The rules must take into account the cost burden of the program on electricity customers.
+
+    b. By October 1, 2022, the department shall adopt an allocation schedule by rule, in consultation with the department of commerce and the utilities and transportation commission, for the first compliance period for the provision of allowances at no cost to consumer-owned and investor-owned electric utilities. This allocation must be consistent with a forecast, that is approved by the appropriate governing board or the utilities and transportation commission, of each utility's supply and demand, and the cost burden resulting from the inclusion of the covered entities in the first compliance period.
+
+    c. By October 1, 2026, the department shall adopt an allocation schedule by rule, in consultation with the department of commerce and the utilities and transportation commission, for the provision of allowances for the second compliance period at no cost to consumer-owned and investor-owned electric utilities. This allocation must be consistent with a forecast, that is approved by the appropriate governing board or the utilities and transportation commission, of each utility's supply and demand, and the cost burden resulting from the inclusion of covered entities in the second compliance period. The allowances included in this schedule must reflect the increased scope of coverage in the electricity sector relative to the program budget of allowances established in 2022.
+
+    d. By October 1, 2030, the department shall adopt an allocation schedule by rule, in consultation with the department of commerce and the utilities and transportation commission, for the provision of allowances at no cost to consumer-owned and investor-owned electric utilities for the compliance periods contained within calendar years 2031 through 2045 consistent with subsection (1) of this section. This allocation must be consistent with a forecast, that is approved by the appropriate governing board or the utilities and transportation commission, of each utility's supply and demand, and the cost burden resulting from the inclusion of the covered entities in the compliance periods. The rule developed under this subsection (2)(d) may prescribe an amount of allowances allocated at no cost that must be consigned to auction by consumer-owned and investor-owned electric utilities. However, utilities may use allowances for compliance equal to their covered emissions in any calendar year they were not subject to potential penalty under RCW 19.405.090. Under no circumstances may utilities receive any free allowances after 2045.
+
+3. [Empty]
+
+    a. During the first compliance period, allowances allocated at no cost to consumer-owned and investor-owned electric utilities may be consigned to auction for the benefit of ratepayers, deposited for compliance, or a combination of both. The rules adopted by the department under subsection (2) of this section must include provisions for directing revenues generated under this subsection to the applicable utilities.
+
+    b. By October 1, 2026, the department, in consultation with the department of commerce and the utilities and transportation commission, must adopt rules governing the amount of allowances allocated at no cost under subsection (2)(c) of this section that must be consigned to auction. For calendar year 2030, electric utilities may use allowances for compliance equal to their covered emissions if not subject to potential penalty under RCW 19.405.090.
+
+4. The benefits of all allowances consigned to auction under this section must be used by consumer-owned and investor-owned electric utilities for the benefit of ratepayers, with the first priority the mitigation of any rate impacts to low-income customers. Starting for no-cost allowances provided for emissions year 2029, the benefits of allowances consigned to auction under this section may not be used by consumer-owned and investor-owned electric utilities for the primary benefit of emerging large energy use facilities.
+
+5. If an entity is identified by the department as an emissions-intensive, trade-exposed industry under RCW 70A.65.110, unless allowances have been otherwise allocated for electricity-related emissions to the entity under RCW 70A.65.110 or to a consumer-owned utility under this section, the department shall allocate allowances at no cost to the electric utility or power marketing administration that is providing electricity to the entity in an amount equal to the forecasted emissions for electricity consumption for the entity for the compliance period.
+
+6. The department shall allow for allowances to be transferred between a power marketing administration and electric utilities and used for direct compliance.
+
+7. Rules establishing the allocation of allowances to consumer-owned utilities and investor-owned utilities must consider, in a manner consistent with subsection (1) of this section, the impact of electrification of buildings, transportation, and industry on the electricity sector.
+
+8. Nothing in this section affects the requirements of chapter 19.405 RCW.
+
+9. A consumer-owned utility that is party to a contract that meets the following conditions must be issued allowances under this section for emissions associated with imported electricity, in order to prevent impairment of the value of the contract to either party:
+
+    a. The contract does not address compliance costs imposed upon the consumer-owned utility by the program created in this chapter; and
+
+    b. The contract was in effect as of July 25, 2021, and expires no later than the end of the first compliance period.
+
+10. By July 31st each year, starting in calendar year 2026, each utility must provide to the department a list of existing and forecast retail customers that are emerging large energy use facilities to enable the department to provide allowance allocation consistent with subsection (1) of this section. For each facility the utility must indicate the forecast maximum delivery of power to the facility for the following four years, forecast annual retail load in megawatt-hours for the following four years, customer name, and facility type. The department may update these reporting requirements by rule.
+
+## Section 8
+1. For any behind the meter energy system project, owned by an emerging large energy use facility, the facility receiving power from the system must ensure that any work associated with such a project will be performed by a prime contractor and its subcontractors in a way that includes community workforce agreements or project labor agreements, and the payment of area standard prevailing wages and apprenticeship utilization requirements.
+
+2. Community workforce agreements and project labor agreements are self-contained, stand-alone agreements, and that by virtue of having become bound to such an agreement or agreements, neither the prime contractor nor the subcontractors are obligated to sign any other local, area, or national agreement.
+
+3. Nothing in this section supersedes RCW 19.28.091 or 19.28.261.
+
+4. For the purposes of this section:
+
+    a. "Project labor agreement" and "community workforce agreement" means a prehire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project and is an agreement described in 29 U.S.C. Sec. 158(f).
+
+    b. "Terms and conditions of employment for a specific construction project" means the project labor agreement or community workforce agreement is a single agreement covering all labor organizations representing the building and construction employees involved in the project and covering all contractors and subcontractors working on the project.
+
+## Section 9
+1. [Empty]
+
+    a. An exemption from the tax imposed by RCW 82.08.020 is provided for sales to qualifying businesses and to qualifying tenants of eligible server equipment to be installed, without intervening use, in an eligible computer data center to which a valid exemption certificate applies, and to charges made for labor and services rendered in respect to installing eligible server equipment.
+
+    b. This exemption also applies to sales to qualifying businesses and to qualifying tenants of eligible power infrastructure, including labor and services rendered in respect to constructing, installing, repairing, altering, or improving eligible power infrastructure at an eligible computer data center for which an exemption certificate has been issued.
+
+    c. Each calendar year, the department may issue no more than one certificate for an exemption under this section.
+
+    d. No new exemption certificates may be issued on or after July 1, 2030.
+
+2. [Empty]
+
+    a. In order to obtain an exemption certificate under this section, a qualifying business or a qualifying tenant must submit an application to the department for an exemption certificate. The application must include the information necessary, as required by the department, to determine that a business or tenant qualifies for the exemption under this section. The department must issue exemption certificates to qualifying businesses and qualifying tenants. The department may assign a unique identification number to each exemption certificate issued under this section.
+
+    b. A qualifying business or a qualifying tenant claiming the exemption under this section must present the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.
+
+    c. The exemption certificate is effective on the date the application is received by the department, which is deemed to be the date of issuance. Only purchases on or after the date of issuance qualify for the exemption under this section. No tax refunds are authorized for purchases made before the effective date of the exemption certificate.
+
+    d. Exemption certificates expire one year after the date of issuance, unless construction has been commenced.
+
+3. [Empty]
+
+    a. [Empty]
+
+        i. Within six years of the date that the department issued an exemption certificate under this section to a qualifying business or a qualifying tenant with respect to an eligible computer data center, the qualifying business or qualifying tenant must establish that net employment assigned to an eligible computer data center has increased by a minimum of:
+
+(A) Thirty-five family wage employment positions; or, if lower
+
+(B) Three family wage employment positions for each 20,000 square feet of space or less that is newly dedicated to housing working servers at the eligible computer data center. For qualifying tenants, the number of family wage employment positions that must be increased under this subsection (3)(a)(i)(B) is based only on the space occupied by the qualifying tenant in the eligible computer data center.
+
+        ii. After the minimum number of family wage employment positions as required under (a)(i) of this subsection (3) is established, a qualifying business or a qualifying tenant must maintain the minimum family wage employment positions required under (a)(i) of this subsection (3) while the exemption certificate is valid.
+
+    b. In calculating the net increase in family wage employment positions:
+
+        i. The owner of an eligible computer data center, in addition to its own net increase in family wage employment positions, may include:
+
+(A) The net increase, since the date of issuance of the qualifying business's exemption certificate, in family wage employment positions employed by qualifying tenants; and
+
+(B) The net increase in family wage employment positions described in (c) of this subsection (3).
+
+        ii.(A) Qualifying tenants, in addition to their own net increase in family wage employment positions, may include:
+
+(I) A portion of the net increase in family wage employment positions employed by the owner; and
+
+(II) A portion of the net increase in family wage employment positions described in (c) of this subsection (3).
+
+(B) The portion of the net increase in family wage employment positions to be counted under (b)(ii) of this subsection (3) by each qualifying tenant is equal to the net increase in family wage employment positions assigned to an eligible computer data center as described in (b)(ii)(A)(I) and (II) of this subsection (3), multiplied by the percentage of total space within the eligible computer data center occupied by the qualifying tenant. Any combination of qualifying business and qualifying tenant family wage employment positions may meet this requirement.
+
+(C) In the instance of an existing data center facility that was ineligible, regardless of the date of commencement of construction, that later obtains an exemption certificate under this section, the data center may count the existing employment positions that are dedicated to the data center toward the new family wage employment position requirements if the employment positions meet the requirements of a family wage employment position, as described in (c)(i)(A) of this subsection (3), other than the requirement that the position did not exist or had not previously been filled as of the date that the department issued an exemption certificate.
+
+    c. [Empty]
+
+        i. For purposes of this subsection:
+
+(A)(I) "Family wage employment positions" are new permanent employment positions requiring 40 hours of weekly work, or their equivalent, on a full-time basis assigned to an eligible computer data center and receiving a wage equivalent to or greater than 125 percent of the per capita personal income of the county in which the qualified project is located as published by the employment security department. The per capita personal income to be used to determine qualification for any year is the amount that was established for the immediate prior year.
+
+(II) An employment position may not be counted as a family wage employment position unless the employment position is entitled to health insurance coverage provided by the employer of the employment position.
+
+(B) "New permanent employment position" means an employment position that did not exist or that had not previously been filled as of the date that the department issued an exemption certificate to the qualifying business or qualifying tenant of an eligible computer data center, as the case may be, except as provided in (b)(ii)(C) of this subsection (3).
+
+        ii.(A) Family wage employment positions include positions filled by employees of the qualifying business and by employees of qualifying tenants.
+
+(B) Family wage employment positions also include individuals performing work at an eligible computer data center as an independent contractor hired by the owner of the eligible computer data center or as an employee of an independent contractor hired by the owner of the eligible computer data center, if the work is necessary for the operation of the computer data center, such as security and building maintenance, and provided that all of the applicable requirements in (c) of this subsection (3) are met.
+
+    d. [Empty]
+
+        i. For a qualifying business or qualifying tenant that does not meet the requirements of this subsection (3), previously exempted sales and use taxes are immediately due and payable and any exemption certificate issued to that qualifying business or qualifying tenant under this section is canceled, except as described in (d)(iii) of this subsection (3).
+
+        ii. The department of labor and industries must, at the request of the department, assist in determining whether the requirements of this subsection (3) have been met.
+
+        iii. If the department, with the assistance of the department of labor and industries, finds that a failure to meet the requirements of this subsection (3) is due to circumstances beyond the control of the qualifying business or qualifying tenant including, but not limited to, a declaration of an economic recession, pandemic, or natural disaster affecting data center operations, the department may provide exceptions or extensions to the requirements of this subsection (3).
+
+        iv. Any repayment of taxes triggered by the failure of a qualifying business or qualifying tenant to meet the requirements of this subsection (3) must be calculated in proportion to the duration of time for which any applicable requirement was not met.
+
+    v. If the department is notified that a qualifying business or qualifying tenant fails to meet the requirements of this subsection (3), the department may require a qualifying business or qualifying tenant to submit records necessary to determine whether the requirements have been met.
+
+4. For exemption certificates issued:
+
+    a. Within three years after being placed in service, the qualifying business operating a newly constructed data center must certify to the department that it has attained certification under one or more of the following sustainable design or green building standards:
+
+        i. BREEAM for new construction or BREEAM in-use;
+
+        ii. Energy star;
+
+        iii. Envision;
+
+        iv. ISO 50001-energy management;
+
+    v. LEED for building design and construction or LEED for operations and maintenance;
+
+    vi. Green globes for new construction or green globes for existing buildings;
+
+    vii. UL 3223; or
+
+    viii. Other reasonable standards approved by the department.
+
+    b. The department may require qualifying businesses and qualifying tenants to submit records necessary to verify the requirements under (a) of this subsection have been met.
+
+    c. [Empty]
+
+        i. For a qualifying business or qualifying tenant that does not meet the requirements of (a) of this subsection (4), all previously exempted sales and use taxes may be immediately due and payable, any exemption certificate issued to that qualifying business or qualifying tenant under this section is canceled, and an additional 10 percent penalty is assessed, except as described in (c)(ii) of this subsection (4).
+
+        ii. If the department finds that a failure to meet the requirements of this subsection (4) is due to circumstances beyond the control of the qualifying business or qualifying tenant including, but not limited to, a declaration of an economic recession, pandemic, or natural disaster affecting data center operations, the department may, at its discretion, provide exceptions or extensions to the requirements of this subsection (4). The department may, at its discretion, coordinate with agencies with relevant expertise to assist in determining whether the requirements have been met.
+
+5. A qualifying business or a qualifying tenant claiming the exemption under this section is encouraged to take direct steps to adopt practices to mitigate negative environmental impacts resulting from expanded use of data centers, including through:
+
+    a. Coordinating with the industrial waste coordination program established under RCW 43.31.625 to identify and provide technical assistance in implementing industrial symbiosis projects;
+
+    b. To the extent possible, procuring or contracting for power from renewable sources;
+
+    c. Adopting practices to improve the energy efficiency of existing data centers, including through upgrading and consolidating technology, managing data center airflow, and adjusting and improving heating, ventilation, and air conditioning systems; and
+
+    d. Taking actions to conserve, reuse, and replace water. This includes using water efficient fixtures and practices; treating, infiltrating, and harvesting rainwater; recycling water before discharging; partnering with local water utilities to use discharged water for irrigation and other water conservation purposes; using reclaimed water where possible for data center operations; and supporting water restoration in local watersheds.
+
+6. A qualifying business or a qualifying tenant claiming an exemption under this section or section 10 of this act must complete an annual tax performance report with the department as required under RCW 82.32.534. The report must identify construction firm names and employment levels used for constructing, renovating, or remodeling the data centers.
+
+7. [Empty]
+
+    a. The certificate holder may not at any time assign or transfer a certificate without the prior written consent of the department. The department must allow certificate transfers if the certificate holder meets the following requirements:
+
+        i. The certificate assignee or transferee is qualified to do business in the state;
+
+        ii. The assignee or transferee acknowledges the transfer of the certificate in writing;
+
+        iii. The assignee or transferee agrees to keep and perform all the terms of the certificates; and
+
+        iv. An assignment or transfer of the certificate is to an entity that:
+
+(A) Controls, is controlled by, or under common control with, the certificate holder;
+
+(B) Acquires all or substantially all of the stock or assets of the certificate holder; or
+
+(C) Is the resulting entity of a merger or consolidation with the certificate holder.
+
+    b. In the event the assignee or transferee acquires eligible server equipment in a qualifying asset sale under (a)(iv)(B) of this subsection, the purchaser shall be deemed to purchase the eligible server equipment pursuant to the transferred certificate.
+
+8. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Affiliated" means that one person has a direct or indirect ownership interest of at least 20 percent in another person.
+
+    b. "Building" means a fully enclosed structure with a weather resistant exterior wall envelope or concrete or masonry walls designed in accordance with the requirements for structures under chapter 19.27 RCW.
+
+    c. "Certificate of occupancy" means the certificate of occupancy issued by a local governing authority for the structure or structures which comprise the newly constructed eligible computer data center.
+
+    d. [Empty]
+
+        i. "Computer data center" means a facility comprised of one or more buildings, which may be comprised of multiple businesses, constructed specifically, and used primarily, to house working servers, where the facility has the following characteristics: (A) Uninterruptible power supplies, generator backup power, or both; (B) sophisticated fire suppression and prevention systems; and (C) enhanced physical security, such as: Restricted access to the facility to selected personnel; permanent security guards; video camera surveillance; an electronic system requiring passcodes, keycards, or biometric scans, such as hand scans and retinal or fingerprint recognition; or similar security features.
+
+        ii. For a computer data center comprised of multiple buildings, each separate building constructed specifically, and used primarily, to house working servers is considered a computer data center if it has all of the characteristics listed in (d)(i)(A) through (C) of this subsection (8).
+
+        iii. A facility comprised of one building or more than one building must have a combined square footage of at least 100,000 square feet.
+
+    e. "Electronic data storage and data management services" include, but are not limited to: Providing data storage and backup services, providing computer processing power, hosting enterprise software applications, and hosting websites. The term also includes providing services such as email, web browsing and searching, media applications, and other online services, regardless of whether a charge is made for such services.
+
+    f. [Empty]
+
+        i. "Eligible computer data center" means a computer data center:
+
+(A) Located in a county east of the Cascades that borders another state and has a population of at least 500,000 persons;
+
+(B) Having at least 20,000 square feet dedicated to housing working servers; and
+
+(C) For which the commencement of construction occurs after June 30, 2026, and before July 1, 2029.
+
+        ii. For purposes of this section, "commencement of construction" means the date that a building permit is issued under the building code adopted under RCW 19.27.031 for construction of the computer data center. "Commencement of construction" does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of a computer data center.
+
+    g. "Eligible power infrastructure" means all fixtures and equipment owned by a qualifying business or qualifying tenant and necessary for the transformation, distribution, or management of electricity that is required to operate eligible server equipment within an eligible computer data center. The term includes wiring; cogeneration equipment; and associated fixtures and equipment, such as electrical switches, batteries, and distribution, testing, and monitoring equipment. "Eligible power infrastructure" does not include substations or backup generators that use diesel fuel.
+
+    h. "Eligible server equipment" means:
+
+        i. For a qualifying business whose computer data center qualifies as an eligible computer data center, "eligible server equipment" means the original server equipment installed in a building within an eligible computer data center on or after July 1, 2026. Server equipment installed in movable or fixed stand-alone, prefabricated, or modular units, including intermodal shipping containers, is not "directly installed in a building."
+
+        ii. For a qualifying tenant who leases space within an eligible computer data center, "eligible server equipment" means the original server equipment installed within the space it leases from an eligible computer data center with an exemption certificate on or after July 1, 2026.
+
+        i. "Qualifying business" means a business entity that exists for the primary purpose of engaging in commercial activity for profit and that is the owner of an eligible computer data center. "Qualifying business" does not include the state or federal government or any of their departments, agencies, and institutions; tribal governments; political subdivisions of this state; or any municipal, quasi-municipal, public, or other corporation created by the state or federal government, tribal government, municipality, or political subdivision of the state.
+
+    j. "Qualifying tenant" means a business entity that exists for the primary purpose of engaging in commercial activity for profit and that leases space from a qualifying business within an eligible computer data center. "Qualifying tenant" does not include the state or federal government or any of their departments, agencies, and institutions; tribal governments; political subdivisions of this state; or any municipal, quasi-municipal, public, or other corporation created by the state or federal government, tribal government, municipality, or political subdivision of the state. The term also does not include a lessee of space in an eligible computer data center if the lessee and lessor are affiliated and that space will be used by the lessee to house server equipment that replaces server equipment previously installed and operated in that eligible computer data center by the lessor or another person affiliated with the lessee.
+
+    k. "Server equipment" means the computer hardware located in an eligible computer data center and used exclusively to provide electronic data storage and data management services, including cloud services, for internal use by the owner or lessee of the computer data center, for clients of the owner or lessee of the computer data center, or both. "Server equipment" also includes computer software necessary to operate the computer hardware. "Server equipment" does not include personal computers, the racks upon which the server equipment is installed, and computer peripherals such as keyboards, monitors, printers, and mice.
+
+## Section 10
+1. [Empty]
+
+    a. An exemption from the tax imposed by RCW 82.12.020 is provided for the use by qualifying businesses or qualifying tenants of eligible server equipment to be installed, without intervening use, in an eligible computer data center for which an exemption certificate under section 9 of this act has been issued, and to the use of labor and services rendered in respect to installing such server equipment.
+
+    b. This exemption also applies to the use by a qualifying business or qualifying tenant of eligible power infrastructure, including labor and services rendered in respect to installing, repairing, altering, or improving such infrastructure at an eligible computer data center for which an exemption certificate under section 9 of this act has been issued.
+
+2. A qualifying business or a qualifying tenant is not eligible for the exemption under this section unless the department issued an exemption certificate to the qualifying business or a qualifying tenant for the exemption provided in section 9 of this act.
+
+3. The definitions and requirements in section 9 of this act apply to this section.
+
+## Section 11
+From June 9, 2022, in order to obtain the exemption provided in RCW 82.08.986 , 82.08.9861, or section 9 of this act, a qualifying business or qualifying tenant must certify to the department that, for new construction work to be performed on the site of the computer data center, the computer data center receiving an exemption under RCW 82.08.986 , 82.08.9861, or section 9 of this act will be constructed by the prime contractor and its subcontractors in a way that includes community workforce agreements or project labor agreements and the payment of area standard prevailing wages and apprenticeship utilization requirements, provided the following apply:
+
+1. The owner and the prime contractor and all of its subcontractors regardless of tier have the absolute right to select any qualified and responsible bidder for the award of contracts on a specified project without reference to the existence or nonexistence of any agreements between such bidder and any party to such project labor agreement, and only when such bidder is willing, ready, and able to become a party to, signs a letter of assent, and complies with such agreement or agreements, should it be designated the successful bidder; and
+
+2. It is understood that this is a self-contained, stand-alone agreement, and that by virtue of having become bound to such agreement or agreements, neither the project contractor nor the subcontractors are obligated to sign any other local, area, or national agreement.
+
+## Section 12
+1. This section is the tax preference performance statement for the tax preferences contained in sections 9 and 10, chapter . . ., Laws of 2026 (sections 9 and 10 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes these sales and use tax exemptions on eligible server equipment and eligible power infrastructure equipment at eligible computer data centers as ones intended to: Induce certain designated behavior by taxpayers, improve industry competitiveness, create or retain jobs, and reduce structural inefficiencies in the tax structure, as indicated in RCW 82.32.808(2) (a), (b), (c), and (d).
+
+3. It is the legislature's specific public policy objective to improve industry competitiveness and to increase, create, or retain jobs in computer data centers in counties located east of the Cascades and bordering another state with a population over 500,000, as determined by the April 1, 2025, office of financial management population estimates, thereby increasing family wage jobs.
+
+4. The joint legislative audit and review committee shall conduct a review of the tax preference by July 1, 2029, and determine if the tax preference is: (a) Generating capital investment in new computer data centers; (b) generating state and local tax collections from data center investment and operations; and (c) generating or maintaining construction and trade jobs in the state. The audit shall also compare the tax preference to the tax preferences of other businesses to provide context for the effectiveness of the tax preference. The audit must include comparison of the number of jobs created; the duration of the jobs, short term and permanent; tax revenue foregone per job; and direct and indirect economic development impacts. To the extent practicable, the audit shall also assess impacts on utility ratepayers and other relevant impacts to consumers.

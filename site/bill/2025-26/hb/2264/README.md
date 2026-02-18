@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2026 [House Democrats](/org/house_democrats/) - [Say NAY to Noncompetes: House bans noncompete agreements to support Washington workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/say-nay-to-noncompetes-house-bans-noncompete-agreements-to-support-washington-workers/#:~:text=HB%202264)
 * 01/12/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/12/the-house-hot-sheet-for-week-1-of-the-2026-legislative-session/#:~:text=HB%202264)
 
 ## Meetings

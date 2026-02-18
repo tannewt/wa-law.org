@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2247 Veterinarian relationship
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 01:30 PM - Health Care & Wellness (HCW): HB 2247 Veterinarian relationship
 #### 1303 👍 - Pro
 Testifying:

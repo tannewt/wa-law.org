@@ -11,7 +11,7 @@
 #### 67 👍 - Pro
 Testifying:
 * Al French - Spokane County Board of Commissioners
-* Chris Green - Pacific NW Hydrogen Association
+* 💵Chris Green - Pacific NW Hydrogen Association
 * 💵Matthew Hepner - IBEW/CEWW
 
 #### 8 👎 - Con

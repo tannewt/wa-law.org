@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1710/</link>
 		<description>Updates about HB 1710</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 16:09:34 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -338,6 +338,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Derrick/Nunnally/2026-02-13 16:09:34</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government, Tribal Affairs &amp; Elections.</title>
+			<description>First reading, referred to State Government, Tribal Affairs &amp; Elections.</description>
+			<pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-16/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
 		</item>
 	</channel>
 </rss>

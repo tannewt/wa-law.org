@@ -11,6 +11,15 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202420)
 
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): SHB 2420 Small works roster limits
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/29 01:30 PM - Capital Budget (CB): HB 2420 Small works roster limits
 #### 54 👍 - Pro
 Testifying:

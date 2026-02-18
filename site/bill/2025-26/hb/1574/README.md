@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 02:00 PM - Law & Justice (LAW): EHB 1574 Substance use/care, services
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/24 10:30 AM - Law & Justice (LAW): EHB 1574 Substance use/care, services
 #### 12 👍 - Pro
 Testifying:

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/11/2026 [House Democrats](/org/house_democrats/) - [Say NAY to Noncompetes: House bans noncompete agreements to support Washington workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/11/say-nay-to-noncompetes-house-bans-noncompete-agreements-to-support-washington-workers/#:~:text=HB%201155)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201155)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201155)
 * 01/16/2025 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201155)

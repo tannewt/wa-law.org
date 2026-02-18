@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington is being left behind as other states pass phone-free schools laws • Washington State Standard](https://washingtonstatestandard.com/2026/02/17/washington-is-being-left-behind-as-other-states-pass-phone-free-schools-laws/#:~:text=Senate%20Bill%205346)
 * 01/24/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting local journalism and student success - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/24/3559/#:~:text=Senate%20Bill%205346)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Liias introduces bipartisan bill to limit use of cellphones, other devices in classrooms - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/21/liias-introduces-bipartisan-bill-to-limit-use-of-cellphones-other-devices-in-classrooms/#:~:text=Senate%20Bill%205346)
 

@@ -7,7 +7,19 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/16/2026 [House Democrats](/org/house_democrats/) - [House Passes Ortiz-Self bill expanding multilingual access / Cámara aprueba proyecto de Ortiz-Self que amplía el acceso multilingüe – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/16/house-passes-ortiz-self-bill-expanding-multilingual-access-camara-aprueba-proyecto-de-ortiz-self-que-amplia-el-acceso-multilingue/#:~:text=House%20Bill%202475)
+
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): SHB 2475 Language access
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 01:30 PM - State Government & Tribal Relations (SGOV): HB 2475 Language access
 #### 11 👍 - Pro
 Testifying:

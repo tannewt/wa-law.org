@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 2632 Noncitizen terminology
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 08:00 AM - State Government & Tribal Relations (SGOV): HB 2632 Noncitizen terminology
 #### 487 👍 - Pro
 Testifying:

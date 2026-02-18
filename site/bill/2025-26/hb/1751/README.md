@@ -22,7 +22,7 @@ Testifying:
 * Peter Shen
 * Rachel Friend
 * Riley Gee
-* Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
+* 💵Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 
 #### 16 👎 - Con
 

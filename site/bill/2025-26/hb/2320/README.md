@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=HB%202320)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202320)
 * 02/03/2026 [FOX13](/org/fox13/) - [WA ghost gun bill sparks backlash from 3D printing community | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-ghost-gun-3d-printing#:~:text=executive%20session)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=HB%202320)
@@ -18,6 +20,15 @@
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202320)
 
 ## Meetings
+### Fri 02/20 02:00 PM - Law & Justice (LAW): ESHB 2320 Firearm manufacturing
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2320 Firearm manufacturing
 #### 912 👍 - Pro
 Testifying:

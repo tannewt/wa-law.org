@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/17/2026 [The Center Square](/org/the_center_square/) - [WA House bill raids billions from pension plan while lawmakers also pass record tax hikes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a8e0cc09-4853-4274-995b-bbdeae278a3d.html#:~:text=House%20Bill%202034)
+* 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=E2SHB%202034)
 * 10/09/2025 [The Center Square](/org/the_center_square/) - [How WA's public pension system planning could cost taxpayers down the road | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5c7e0578-7b42-4e1d-aa68-a3232d3f6066.html#:~:text=House%20Bill%202034)
 
 ## Meetings

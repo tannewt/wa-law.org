@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6148/</link>
 		<description>Updates about SB 6148</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 15 Feb 2026 10:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,6 +131,13 @@
 			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-14/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>Op-Ed: Washington legislation would target parked cars to pay for light rail cost overruns | Opinion | thecentersquare.com</title>
+			<description>News article "Op-Ed: Washington legislation would target parked cars to pay for light rail cost overruns | Opinion | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Sun, 15 Feb 2026 10:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/opinion/article_5f229acc-b73d-48ac-844a-a407bd1eac44.html#:~:text=Another%20bill</guid>
 		</item>
 	</channel>
 </rss>

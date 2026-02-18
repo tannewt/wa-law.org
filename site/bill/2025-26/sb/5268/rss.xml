@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5268/</link>
 		<description>Updates about SB 5268</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 16:11:13 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Feb 2026 00:24:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -276,6 +276,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Russell/Brown/2026-02-14 16:11:13</guid>
+		</item>
+		<item>
+			<title>Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA</title>
+			<description>News article "Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 16 Feb 2026 00:24:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=2ESSB%205268</guid>
 		</item>
 	</channel>
 </rss>

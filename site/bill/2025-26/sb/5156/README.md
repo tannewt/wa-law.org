@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/17/2026 [The Urbanist](/org/the_urbanist/) - [Washington’s Elevator Reform Bill Rises Again » The Urbanist](https://www.theurbanist.org/2026/02/17/washington-elevator-reform-bill-rises-again/#:~:text=SB%205156)
 * 02/06/2026 [PubliCola](/org/publicola/) - [Elevating the Affordable Housing Issue - PubliCola](https://publicola.com/2026/02/06/elevating-the-affordable-housing-issue/#:~:text=Senate%20Bill%205156,)
 * 01/14/2026 [The Urbanist](/org/the_urbanist/) - [2026: The Year the Washington Legislature Catches Its Breath on Housing » The Urbanist](https://www.theurbanist.org/2026/01/14/2026-washington-legislature-catches-breath-on-housing/#:~:text=SB%205156)
 * 05/15/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Takes Statewide Zoning Reform to the Next Level | Sightline Institute](https://www.sightline.org/2025/05/15/washington-takes-statewide-zoning-reform-to-the-next-level/#:~:text=SB%205156)

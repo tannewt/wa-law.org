@@ -16,7 +16,7 @@ Testifying:
 #### 846 👎 - Con
 Testifying:
 * Jessica Laughery - Joya Child & Family Development
-* Kristina Mendieta - [Kindering](/org/kindering/)
+* 💵Kristina Mendieta - [Kindering](/org/kindering/)
 * Stephanie Walsh
 * Magan Cromar - King County Developmental Disabilities and Early Childhood Supports Division
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
