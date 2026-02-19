@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205906)
+* 02/17/2026 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers want to restrict ICE access to schools, health facilities](https://www.kuow.org/stories/washington-lawmakers-want-to-restrict-ice-access-to-schools-health-facilities#:~:text=Senate%20Bill%205906)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%205906)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Senate bills moving forward - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%205906)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=SB%205906)

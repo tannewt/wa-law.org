@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): SB 6134 Striking workers/UI overpay
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 10:30 AM - Labor & Commerce (LC): SB 6134 Striking workers/UI overpay
 #### 361 👍 - Pro
 Testifying:

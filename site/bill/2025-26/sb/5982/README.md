@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SSB 5982 Consumer-owned utilities
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): ESSJM 8014 Aysenur Ezgi Eygi death
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 10:30 AM - Law & Justice (LAW): SJM 8014 Aysenur Ezgi Eygi killing
 #### 1238 👍 - Pro
 Testifying:

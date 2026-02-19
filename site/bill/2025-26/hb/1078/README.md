@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1078 Pet insurance
-Sign up to testify:
-
 #### 10 👍 - Pro
 
 #### 0 👎 - Con

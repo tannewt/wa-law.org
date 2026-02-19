@@ -17,8 +17,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 2557 Sp. ed. evaluation reports
-Sign up to testify:
-
 #### 3 👍 - Pro
 
 #### 0 👎 - Con

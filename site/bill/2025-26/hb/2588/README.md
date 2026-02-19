@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Transportation (TRAN): EHB 2588 County ferry districts
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - Local Government (LG): HB 2588 County ferry districts
 #### 53 👍 - Pro
 Testifying:

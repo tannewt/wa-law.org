@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): ESB 6246 Emissions/trade-exposed
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

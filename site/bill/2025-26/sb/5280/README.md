@@ -16,8 +16,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
-Sign up to testify:
-
 #### 8 👍 - Pro
 Testifying:
 * Noel Le

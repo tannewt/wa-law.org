@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 2215 Fuels/climate commitment act
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 6 👎 - Con

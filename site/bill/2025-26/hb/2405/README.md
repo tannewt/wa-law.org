@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Labor & Commerce (LC): SHB 2405 PTSD treatment and research
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 10:30 AM - Appropriations (APP): SHB 2405 PTSD treatment and research
 #### 87 👍 - Pro
 

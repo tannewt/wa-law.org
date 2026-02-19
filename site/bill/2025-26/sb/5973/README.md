@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=Senate%20Bill%205973)
+* 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=Senate%20Bill%205973)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [Foes called it the ‘initiative killer.’ Now it’s dead in the WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/17/foes-called-it-the-initiative-killer-now-its-dead-in-the-wa-legislature/#:~:text=Senate%20Bill%205973)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SB%205973:)
 * 02/09/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: ‘Initiative Killer’ on the loose: Bill squelches a cherished right | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_d12ae93c-b265-417d-b15e-70ee1b169ff0.html#:~:text=Senate%20Bill%205973)

@@ -17,8 +17,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5993 Medical debt interest
-Sign up to testify:
-
 #### 118 👍 - Pro
 Testifying:
 * 💵Adam Zarrin - Blood Cancer United, formerly the Leukemia & Lymphoma Society

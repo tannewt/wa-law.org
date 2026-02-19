@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5061 Public works wages
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

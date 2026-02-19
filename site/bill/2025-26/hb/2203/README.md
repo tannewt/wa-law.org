@@ -11,6 +11,15 @@
 * 01/08/2026 [FOX13](/org/fox13/) - [New laws proposed for WA's 2026 legislative session | FOX 13 Seattle](https://www.fox13seattle.com/news/taxes-spending-2026-legislative-session#:~:text=HB%202203)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Law & Justice (LAW): SHB 2203 Interference with emergency
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2203 Interference with emergency
 #### 52 👍 - Pro
 Testifying:

@@ -13,6 +13,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202289)
 
 ## Meetings
+### Mon 02/23 04:00 PM - Appropriations (APP): PSHB 2289 - Making 2025-2027 fiscal biennium supplemental operating appropriations. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 04:00 PM - Appropriations (APP): HB 2289 Operating budget, supp.
 #### 99 👍 - Pro
 Testifying:

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/26 08:00 AM - Finance (FIN): SB 6114 Excise tax/fixture defined
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6114 Excise tax/fixture defined
 #### 2 👍 - Pro
 Testifying:

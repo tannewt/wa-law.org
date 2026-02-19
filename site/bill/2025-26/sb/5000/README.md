@@ -10,6 +10,15 @@
 * 02/12/2025 [Cascade PBS](/org/cascade_pbs/) - [What’s in a name? WA wants to officially be ‘The Evergreen State’ | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/whats-name-wa-wants-officially-be-evergreen-state/#:~:text=Senate%20Bill%205000)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 5000 State nickname
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/14 08:00 AM - State Government & Tribal Relations (SGOV): SB 5000 State nickname
 #### 2 👍 - Pro
 

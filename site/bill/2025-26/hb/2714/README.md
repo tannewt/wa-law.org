@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 04:00 PM - Ways & Means (WM): SHB 2714 Food assistance caseload
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 10:30 AM - Appropriations (APP): HB 2714 Food assistance caseload
 #### 6 👍 - Pro
 Testifying:

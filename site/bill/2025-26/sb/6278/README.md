@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SB 6278 Teacher & principal programs
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

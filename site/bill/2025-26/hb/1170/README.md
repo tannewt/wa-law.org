@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=AI%20detection%20tool%20available)
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%201170)
 * 01/26/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/26/the-house-hot-sheet-for-week-3-of-the-2026-legislative-session/#:~:text=HB%201170)
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%201170)
@@ -20,6 +21,15 @@
 * 02/05/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington lawmakers weigh new artificial intelligence regulations | Cascade PBS](https://www.cascadepbs.org/politics/2025/02/washington-lawmakers-weigh-new-artificial-intelligence-regulations/#:~:text=House%20Bill%201170)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 1170 AI content notices
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 04:00 PM - Appropriations (APP): HB 1170 AI content notices
 #### 297 👍 - Pro
 

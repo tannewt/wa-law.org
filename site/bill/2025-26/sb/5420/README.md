@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SB 5420 Veteran benefits access
-Sign up to testify:
-
 #### 2 👍 - Pro
 Testifying:
 * Jerry Fugich - Veterans Legislative Coalition

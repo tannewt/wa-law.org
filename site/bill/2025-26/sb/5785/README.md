@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [Bill to boost financial aid for students at WA's private colleges moves out of Senate • Washington State Standard](https://washingtonstatestandard.com/briefs/bill-to-boost-financial-aid-for-students-at-washingtons-private-colleges-moves-out-of-senate/#:~:text=Senate%20Bill%205785)
 * 05/31/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Democrats Acted Irresponsibly, Failed to Trump-Proof Washington State in 2025 Session » The Urbanist](https://www.theurbanist.org/2025/05/31/op-ed-democrats-acted-irresponsibly-failed-to-trump-proof-wa/#:~:text=with%20no%20Republicans%20supporting)
 * 03/28/2025 [House Republicans](/org/house_republicans/) - [How Democrats want to tax you | Washington State House Republicans](http://houserepublicans.wa.gov/how-democrats-want-to-tax-you/#:~:text=Senate%20Bill%205785)
 * 03/24/2025 [Washington St Pta](/org/washington_st_pta/) - [Bring On the Budgets (and the Revenue Ideas!) - WSPTA](https://www.wastatepta.org/bring-on-the-budgets-and-the-revenue-ideas/#:~:text=SB%205785)

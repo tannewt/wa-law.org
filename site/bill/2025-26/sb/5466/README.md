@@ -11,6 +11,8 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 02/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Demand for 39-page bill to be read aloud derails legislation in WA Senate • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/gop-demand-for-39-page-bill-to-be-read-aloud-derails-democratic-legislation-in-wa-senate/#:~:text=Senate%20Bill%205466)
+* 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=transmission%20bill)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%205466)
 * 12/18/2025 [Sightline Institute](/org/sightline_institute/) - [How the 2026 Washington Legislature Can Right-Size the Power Grid | Sightline Institute](https://www.sightline.org/2025/12/18/how-the-2026-washington-legislature-can-right-size-the-power-grid/#:~:text=state%20transmission%20authority%20in%202025)
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205466)

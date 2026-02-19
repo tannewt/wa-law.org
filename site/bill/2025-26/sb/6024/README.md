@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESB 6024 DD res. service providers
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

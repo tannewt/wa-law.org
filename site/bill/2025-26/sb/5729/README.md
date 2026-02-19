@@ -12,6 +12,15 @@
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205729)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Local Government (LG): SSB 5729 Housing permitting
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 10:30 AM - Housing (HSG): ESB 5729 Housing permitting
 #### 421 👍 - Pro
 Testifying:

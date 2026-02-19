@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/23 04:00 PM - Transportation (TRAN): SHB 1823 Transp. improvement board
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 1823 Transp. improvement board
 #### 3 👍 - Pro
 Testifying:

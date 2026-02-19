@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2574/</link>
 		<description>Updates about HB 2574</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,13 @@
 			<pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-16/Third reading, passed; yeas, 94; nays, 2; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government, Tribal Affairs &amp; Elections.</title>
+			<description>First reading, referred to State Government, Tribal Affairs &amp; Elections.</description>
+			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-18/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
 		</item>
 	</channel>
 </rss>

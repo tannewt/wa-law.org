@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SB 5944 Language access providers
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=House%20Bill%202191)
 * 01/14/2026 [The Washington Observer](/org/the_washington_observer/) - [A different sort of speech entirely](https://washingtonobserver.substack.com/p/a-different-sort-of-speech-entirely#:~:text=House%20Bill%202191)
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202191)
 

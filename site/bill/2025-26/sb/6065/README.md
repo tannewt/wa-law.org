@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): SB 6065 School vehicle funds
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

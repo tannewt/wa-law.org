@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): ESB 6106 Laid-off employees
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 10:30 AM - Labor & Commerce (LC): SB 6106 Laid-off employees
 #### 10 👍 - Pro
 Testifying:

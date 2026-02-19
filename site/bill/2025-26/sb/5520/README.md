@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5520 Wrongly convicted persons
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/26 10:30 AM - Law & Justice (LAW): SB 5520 Wrongly convicted persons
 #### 39 👍 - Pro
 Testifying:

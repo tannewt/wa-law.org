@@ -10,6 +10,51 @@
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%206003)
 
 ## Meetings
+### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: All other. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: Higher education. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: Housing and Human services. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: K-12 public schools. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 02/24 04:00 PM - Ways & Means (WM): SB 6003: Natural resources. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/12 04:00 PM - Ways & Means (WM): SB 6003: All other. (Remote Testimony Available).
 #### 1 👍 - Pro
 Testifying:

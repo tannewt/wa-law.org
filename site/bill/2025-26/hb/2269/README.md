@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HSG): SHB 2269 Middle housing/uninc. areas
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

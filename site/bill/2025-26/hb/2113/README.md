@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): HB 2113 Radiologic technologists
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - Health Care & Wellness (HCW): HB 2113 Radiologic technologists
 #### 232 👍 - Pro
 Testifying:

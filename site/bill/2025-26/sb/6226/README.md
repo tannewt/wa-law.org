@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Health Care & Wellness (HCW): SSB 6226 Audiologist autonomy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 6226 Audiologist autonomy
 #### 54 👍 - Pro
 Testifying:

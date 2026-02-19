@@ -12,6 +12,15 @@
 * 02/14/2026 [House Democrats](/org/house_democrats/) - [House approves Fosse’s Wage Recovery Act to strengthen enforcement and protect workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/14/house-approves-fosses-wage-recovery-act-to-strengthen-enforcement-and-protect-workers/#:~:text=House%20Bill%202479)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Labor & Commerce (LC): 2SHB 2479 Unpaid wage recovery
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2479 Unpaid wage recovery
 #### 84 👍 - Pro
 Testifying:

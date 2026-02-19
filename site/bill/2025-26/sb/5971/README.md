@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5971 Green fertilizer incentives
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5971 Green fertilizer incentives
 #### 58 👍 - Pro
 Testifying:

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205500)
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESSB%205500)
 * 01/14/2026 [The Center Square](/org/the_center_square/) - [WA DCYF child care reimbursement rates could increase by 30% from 2021 levels | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0c79cfe6-7b01-4960-b901-599f84df051c.html#:~:text=Senate%20Bill%205500)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5500)
@@ -17,8 +18,6 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): ESSB 5500 Child care rate model
-Sign up to testify:
-
 #### 73 👍 - Pro
 
 #### 2 👎 - Con

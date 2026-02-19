@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/18/2026 [Washington St Pta](/org/washington_st_pta/) - [A Letter to PTA Members: Our Position on the Proposed Millionaires Tax - WSPTA](https://www.wastatepta.org/a-letter-to-pta-members-our-position-on-the-proposed-millionaires-tax/#:~:text=SB%206346)
+* 02/18/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The rule of law takes a hit in Washington state with unconstitutional income tax vote | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_4b629ed3-5303-468d-89f6-6b4a791686cc.html#:~:text=Senate%20Bill%206346)
 * 02/17/2026 [The Center Square](/org/the_center_square/) - [Ferguson: Income tax bill needs 'significantly more' relief for families, small businesses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b686d615-d4ff-411d-9826-fc2da4338476.html#:~:text=SB%206346)
 * 02/17/2026 [The Center Square](/org/the_center_square/) - [Former WA AG argues in legal memo proposed income tax is illegal | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cd6c970a-6501-4f75-9c75-7bcd93b7a39f.html#:~:text=Senate%20Bill%206346)
 * 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington state Senate approves tax on personal income over $1M • Washington State Standard](https://washingtonstatestandard.com/2026/02/16/washington-state-senate-approves-tax-on-personal-income-over-1m/#:~:text=Senate%20Bill%206346)
@@ -42,8 +44,18 @@
 * 02/04/2026 [Senate Republicans](/org/senate_republicans/) - [Oppose the income tax: Sign in "CON" for Friday's hearing on Senate Bill 6346 - Senate Republican Caucus](https://src.wastateleg.org/blog/oppose-income-tax-sign-con-fridays-hearing-senate-bill-6346/#:~:text=(Senate%20Bill%206346))
 * 02/03/2026 [Axios](/org/axios/) - [Lawmakers, governor clash over Washington state millionaire tax plan - Axios Seattle](https://www.axios.com/local/seattle/2026/02/03/washington-state-millionaire-tax-governor-ferguson-spending-tax-relief#:~:text=Senate%20version)
 * 02/03/2026 [KUOW](/org/kuow/) - [KUOW - WA Democrats’ ‘millionaires tax’ is here, but Ferguson doesn’t support it yet](https://www.kuow.org/stories/wa-democrats-millionaires-tax-is-here-but-ferguson-doesn-t-support-it-yet#:~:text=income%20tax%20on%20“high%20earners.”)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [22 Days to Go: Budget Decisions, New Revenue Forecast, and Key Policy Shifts - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02182026#:~:text=the%20measure%20passed)
 
 ## Meetings
+### Tue 02/24 08:00 AM - Finance (FIN): ESSB 6346 Tax on millionaires
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SB 6346 Tax on millionaires
 #### 19169 👍 - Pro
 Testifying:

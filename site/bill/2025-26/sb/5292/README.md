@@ -16,6 +16,15 @@
 * 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205292)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): 2SSB 5292 Family & medical leave rates
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/02 04:00 PM - Ways & Means (WM): 2SSB 5292 Family & medical leave rates
 #### 96 👍 - Pro
 Testifying:

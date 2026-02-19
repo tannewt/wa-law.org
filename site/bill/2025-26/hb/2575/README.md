@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): EHB 2575 Environmental reporting
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

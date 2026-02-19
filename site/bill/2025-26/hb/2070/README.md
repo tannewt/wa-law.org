@@ -10,3 +10,11 @@
 * 04/04/2025 [House Democrats](/org/house_democrats/) - [Timmons requests $21 million in state dollars to fix funding disparity for Western Washington University – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/04/04/timmons-requests-21-million-in-state-dollars-to-fix-funding-disparity-for-western-washington-university/#:~:text=budget%20request)
 
 ## Meetings
+### Wed 02/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2070 WWU state funding parity
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

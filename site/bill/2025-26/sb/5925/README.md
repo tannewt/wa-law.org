@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5925 AGO investigation powers
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 3 👎 - Con

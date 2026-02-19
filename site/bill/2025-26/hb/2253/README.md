@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Mon 02/23 01:30 PM - Human Services (HS): ESHB 2253 DCYF licensing division
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2253 DCYF licensing division
 #### 9 👍 - Pro
 Testifying:

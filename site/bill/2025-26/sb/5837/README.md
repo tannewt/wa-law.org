@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5837 Guardianship, etc.
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -16,6 +16,15 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202636)
 
 ## Meetings
+### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): E2SHB 2636 Public education reviews
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 2636 Public education reviews
 Sign up to testify:
 

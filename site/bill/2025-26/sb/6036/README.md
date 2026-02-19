@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SSB 6036 Adult family home licensure
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

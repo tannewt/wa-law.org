@@ -10,6 +10,15 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201526)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Labor & Commerce (LC): HB 1526 Snack bar liquor licenses
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 01:30 PM - Consumer Protection & Business (CPB): HB 1526 Snack bar liquor licenses
 #### 0 👍 - Pro
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/10/2026 [The Center Square](/org/the_center_square/) - [WA bill would limit tort claim options for child victims against state, local governments | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1c4acec7-291d-4d8d-95e7-e83d18d2f44c.html#:~:text=Senate%20Bill%206239)
@@ -16,6 +17,15 @@
 * 01/28/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers attempt to rein in runaway lawsuit costs • Washington State Standard](https://washingtonstatestandard.com/2026/01/27/wa-lawmakers-attempt-to-rein-in-runaway-lawsuit-costs/#:~:text=Senate%20Bill%206239)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): 2SSB 6239 State tort claims
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6239 State tort claims
 #### 9 👍 - Pro
 Testifying:

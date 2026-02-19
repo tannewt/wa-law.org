@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Labor & Commerce (LC): ESHB 2476 Theater licenses/alcohol
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 01:30 PM - Consumer Protection & Business (CPB): HB 2476 Theater licenses/alcohol
 #### 45 👍 - Pro
 Testifying:

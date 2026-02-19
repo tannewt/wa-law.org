@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2737 Commercial shellfish fees
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * Evie Fagergren - Calm Cove Oyster Company

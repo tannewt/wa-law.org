@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Transportation (TR): ESSB 6262 Vehicle fees/maximum weight
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SB 6262 Vehicle fees/maximum weight
 #### 14 👍 - Pro
 Testifying:

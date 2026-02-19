@@ -8,10 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205845)
+
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): ESSB 5845 Health carrier payments
-Sign up to testify:
-
 #### 8 👍 - Pro
 
 #### 0 👎 - Con

@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/18/2026 [FOX13](/org/fox13/) - [Lynnwood considers ending contract with Flock cameras | FOX 13 Seattle](https://www.fox13seattle.com/news/lynnwood-ending-contract-flock-cameras#:~:text=Senate%20Bill%206002)
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%206002)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=ESSB%206002)
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=ESSB%206002)
 * 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%206002)
@@ -40,8 +42,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 6002 Driver privacy
-Sign up to testify:
-
 #### 32 👍 - Pro
 Testifying:
 * Genevieve Fain

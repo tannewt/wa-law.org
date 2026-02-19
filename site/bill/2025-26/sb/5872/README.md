@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESB%205872)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=ESB%205872)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Senate bills moving forward - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%205872)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Session update - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2026/02/06/session-update/#:~:text=Senate%20Bill%205872)
@@ -15,8 +16,6 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): ESB 5872 PreK promise account
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 1 👎 - Con

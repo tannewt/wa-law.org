@@ -9,6 +9,15 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Law & Justice (LAW): 2SHB 1909 Court unification task force
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1909 Court unification task force
 #### 14 👍 - Pro
 

@@ -11,6 +11,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202114)
 
 ## Meetings
+### Mon 02/23 04:00 PM - Transportation (TRAN): SHB 2114 Defective license plates
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 2114 Defective license plates
 #### 139 👍 - Pro
 Testifying:

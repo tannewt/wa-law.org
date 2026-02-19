@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5240 Anaphylaxis med. in schools
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

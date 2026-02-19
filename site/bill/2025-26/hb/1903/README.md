@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1903 Low-income energy assistance
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

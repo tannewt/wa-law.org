@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 6268 Special ed. complaint record
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

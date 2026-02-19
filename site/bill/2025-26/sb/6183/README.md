@@ -11,6 +11,15 @@
 * 02/11/2026 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously passes Liias bills focused on housing fairness, health care accessibility - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/02/10/senate-unanimously-passes-liias-bills-focused-on-housing-fairness-health-care-accessibility/#:~:text=The%20second%20bill)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Health Care & Wellness (HCW): SSB 6183 HIV antiviral drug coverage
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6183 HIV antiviral drug coverage
 #### 53 👍 - Pro
 Testifying:

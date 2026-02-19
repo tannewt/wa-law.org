@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=House%20Bill%202134)
+
 ## Meetings
 ### Mon 01/19 04:00 PM - Transportation (TR): HB 2134 Regional transp. plans
 #### 117 👍 - Pro

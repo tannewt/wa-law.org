@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/23 04:00 PM - Transportation (TR): PSHB 2711 - Concerning transportation resources. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2711 Transportation resources
 #### 0 👍 - Pro
 

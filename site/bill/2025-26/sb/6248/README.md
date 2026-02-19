@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): SSB 6248 Travel insurance
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/28 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6248 Travel insurance
 #### 77 👍 - Pro
 Testifying:

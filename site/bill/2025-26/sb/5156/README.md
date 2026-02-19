@@ -21,8 +21,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HOUS): ESSB 5156 Elevators/smaller apartments
-Sign up to testify:
-
 #### 2 👍 - Pro
 
 #### 0 👎 - Con

@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5840 Campaign finance schedule
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 01:30 PM - State Government & Elections (SGE): SB 5840 Campaign finance schedule
 #### 37 👍 - Pro
 Testifying:

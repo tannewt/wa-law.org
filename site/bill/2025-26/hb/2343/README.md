@@ -12,6 +12,15 @@
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202343)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2343 Game farm/water quality
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 08:00 AM - Environment & Energy (ENVI): HB 2343 Game farm/water quality
 #### 441 👍 - Pro
 Testifying:

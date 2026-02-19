@@ -11,6 +11,78 @@
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=SB%205988%20here)
 
 ## Meetings
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: All other. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: Early learning. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: Employee compensation. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: Higher education. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: Human services. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: K-12 public schools. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: Mental health. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/23 04:00 PM - Ways & Means (WM): SB 5998: Natural resources. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 04:00 PM - Ways & Means (WM): SB 5998: All other. (Remote Testimony Available).
 #### 12 👍 - Pro
 Testifying:

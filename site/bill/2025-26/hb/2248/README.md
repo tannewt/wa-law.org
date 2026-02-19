@@ -9,6 +9,15 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Law & Justice (LAW): SHB 2248 Corporate filings
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2248 Corporate filings
 #### 1 👍 - Pro
 Testifying:

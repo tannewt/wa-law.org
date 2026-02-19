@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5536 Property distrib./divorce
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 10:30 AM - Law & Justice (LAW): SB 5536 Property distrib./divorce
 #### 62 👍 - Pro
 Testifying:

@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 5915 Health technology assessment
-Sign up to testify:
-
 #### 30 👍 - Pro
 Testifying:
 * Lisa Woodard

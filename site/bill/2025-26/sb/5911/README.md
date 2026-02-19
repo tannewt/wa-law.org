@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5911 DCYF/financial stability
-Sign up to testify:
-
 #### 2 👍 - Pro
 
 #### 1 👎 - Con

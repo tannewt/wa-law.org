@@ -11,6 +11,15 @@
 * 01/11/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: The 2026 session is here - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/01/11/this-week-in-the-senate-week-1-the-2026-session-is-here/#:~:text=Senate%20Bill%206005%20here)
 
 ## Meetings
+### Tue 02/24 04:00 PM - Transportation (TRAN): SB 6005 Transportation budget, supp.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/13 04:00 PM - Transportation (TRAN): SB 6005 Transportation budget, supp.
 #### 12 👍 - Pro
 Testifying:

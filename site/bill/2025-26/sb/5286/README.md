@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5286 State hospitals/police costs
-Sign up to testify:
-
 #### 5 👍 - Pro
 Testifying:
 * Mayor Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)

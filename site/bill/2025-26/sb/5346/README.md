@@ -8,14 +8,13 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205346)
 * 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington is being left behind as other states pass phone-free schools laws • Washington State Standard](https://washingtonstatestandard.com/2026/02/17/washington-is-being-left-behind-as-other-states-pass-phone-free-schools-laws/#:~:text=Senate%20Bill%205346)
 * 01/24/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting local journalism and student success - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/24/3559/#:~:text=Senate%20Bill%205346)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Liias introduces bipartisan bill to limit use of cellphones, other devices in classrooms - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/21/liias-introduces-bipartisan-bill-to-limit-use-of-cellphones-other-devices-in-classrooms/#:~:text=Senate%20Bill%205346)
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5346 Student mobile device use
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

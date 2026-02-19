@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SB%205892)
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SB%205892)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SB%205892:)
 * 02/07/2026 [Senate Democrats](/org/senate_democrats/) - [Banning the retail sale of dangerous nitrous oxide - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/06/banning-the-retail-sale-of-dangerous-nitrous-oxide/#:~:text=SB%205892)
@@ -20,8 +21,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5892 Voter registration database
-Sign up to testify:
-
 #### 272 👍 - Pro
 
 #### 6 👎 - Con

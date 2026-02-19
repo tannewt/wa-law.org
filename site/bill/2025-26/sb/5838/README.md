@@ -9,14 +9,13 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=ESSB%205838)
 * 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%205838)
 * 02/06/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington tribes could get more say in management of state logging lands • Washington State Standard](https://washingtonstatestandard.com/2026/02/06/washington-tribes-could-get-more-say-in-management-of-state-logging-land/#:~:text=Senate%20Bill%205838)
 * 01/15/2026 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2026 session - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/01/14/kicking-off-the-2026-session/#:~:text=SB%205838)
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5838 Board of natural resources
-Sign up to testify:
-
 #### 4 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes

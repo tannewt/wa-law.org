@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Human Services (HS): HB 2510 Community cust. supervision
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * Christopher Bonnington

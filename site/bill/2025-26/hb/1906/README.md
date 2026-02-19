@@ -9,6 +9,15 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): 2SHB 1906 Water system rates
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 1906 Water system rates
 #### 2 👍 - Pro
 Testifying:

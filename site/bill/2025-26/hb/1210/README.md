@@ -10,6 +10,15 @@
 * [Second Engrossed Substitute](S.E2/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): 2ESHB 1210 Urban area tax preferences
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/18 04:00 PM - Ways & Means (WM): ESHB 1210 Urban area tax preferences
 #### 114 👍 - Pro
 Testifying:

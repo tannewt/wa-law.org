@@ -10,6 +10,15 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202619)
 
 ## Meetings
+### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 2619 Agriculture regulations
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2619 Agriculture regulations
 #### 431 👍 - Pro
 Testifying:

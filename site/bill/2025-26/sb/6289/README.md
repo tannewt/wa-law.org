@@ -11,6 +11,15 @@
 * 02/16/2026 [Senate Democrats](/org/senate_democrats/) - [Building policy through partnership - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/16/building-policy-through-partnership/#:~:text=SB%206289)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 6289 Economic dev. strategic plan
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6289 Economic dev. strategic plan
 #### 17 👍 - Pro
 Testifying:

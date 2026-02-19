@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=Senate%20Bill%206190)
+
 ## Meetings
 ### Tue 01/27 08:00 AM - Law & Justice (LAW): SB 6190 Critical infrastructure
 #### 89 👍 - Pro

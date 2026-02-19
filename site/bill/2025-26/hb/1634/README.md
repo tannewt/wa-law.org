@@ -22,6 +22,15 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201634)
 
 ## Meetings
+### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): E3SHB 1634 Behavioral health/schools
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): E3SHB 1634 Behavioral health/schools
 Sign up to testify:
 

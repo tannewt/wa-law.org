@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SB 6013 Ski areas and winter sports
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

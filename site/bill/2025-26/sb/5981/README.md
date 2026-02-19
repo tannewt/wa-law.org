@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=2SSB%205981)
 * 02/09/2026 [The Washington Observer](/org/the_washington_observer/) - [Big Pharma v The Hospitals, cont'd.](https://washingtonobserver.substack.com/p/big-pharma-v-the-hospitals-contd#:~:text=bills)
 
 ## Meetings

@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 6086 Judicial security
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 10:30 AM - Law & Justice (LAW): SB 6086 Judicial security
 #### 29 👍 - Pro
 Testifying:

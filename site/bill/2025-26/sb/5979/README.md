@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/18/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA child welfare policy stalls as parties clash over parental drug abuse | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f24e0c8f-9eef-437b-8ae4-b7ed4b337a22.html#:~:text=SB%205979)
 * 02/02/2026 [Washington State Standard](/org/washington_state_standard/) - [Record deaths in WA child welfare system have Legislature’s attention • Washington State Standard](https://washingtonstatestandard.com/2026/02/02/record-deaths-in-wa-child-welfare-system-have-legislatures-attention/#:~:text=Senate%20Bill%205979)
 
 ## Meetings

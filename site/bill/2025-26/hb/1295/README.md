@@ -13,6 +13,15 @@
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%201295)
 
 ## Meetings
+### Tue 02/24 08:00 AM - Early Learning & K-12 Education (EDU): ESHB 1295 Reading and writing literacy
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1295 Reading and writing literacy
 Sign up to testify:
 

@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): SSB 6007 DCYF assessment practices
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HSG): HB 2664 Unlawful detainer notices
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con
@@ -17,8 +15,6 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Wed 02/18 10:30 AM - Housing (HSG): HB 2664 Unlawful detainer notices
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

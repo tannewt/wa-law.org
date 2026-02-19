@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/24 04:00 PM - Ways & Means (WM): HB 2431 Nonprofit halls/fundraising
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 08:00 AM - Finance (FIN): HB 2431 Nonprofit halls/fundraising
 #### 51 👍 - Pro
 Testifying:

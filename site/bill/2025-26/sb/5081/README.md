@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Transportation (TR): ESB 5081 Unattended motor vehicles
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

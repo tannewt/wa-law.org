@@ -12,6 +12,15 @@
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=SB%206049)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6049 PRA/students & employees
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6049 PRA/students & employees
 #### 40 👍 - Pro
 Testifying:

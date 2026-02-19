@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 6184 Office of homeless youth
-Sign up to testify:
-
 #### 2 👍 - Pro
 
 #### 0 👎 - Con

@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Agriculture and Natural Resources (AGNR): SB 5919 Fire best practices
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe. 2. Colville Tribes

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=Senate%20Bill%206045)
 * 02/16/2026 [The Washington Observer](/org/the_washington_observer/) - [Farm worker unionization faces headwinds](https://washingtonobserver.substack.com/p/farm-worker-unionization-faces-headwinds#:~:text=SB%206045,)
 * 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=SB%206045)
 * 01/30/2026 [The Urbanist](/org/the_urbanist/) - [Washington State Reacts to Feared ICE Invasion, Constitutional Crisis » The Urbanist](https://www.theurbanist.org/2026/01/30/washington-state-reacts-to-feared-ice-invasion-constitutional-crisis/#:~:text=Senate%20Bill%206045)

@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Education (ED): SSB 5841 Financial aid applications
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 1 👎 - Con

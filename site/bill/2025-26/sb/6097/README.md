@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 6097 Conservation futures/tribes
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6097 Conservation futures/tribes
 #### 27 👍 - Pro
 Testifying:

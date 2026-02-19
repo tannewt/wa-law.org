@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Health Care & Wellness (HCW): SB 6025 Definition of fetal death
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 1 👎 - Con

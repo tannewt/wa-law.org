@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HOUS): SSB 6237 Rental property flood discl.
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 1 👎 - Con

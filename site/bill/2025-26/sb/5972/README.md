@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5972 Correctional officers/arb.
-Sign up to testify:
-
 #### 3 👍 - Pro
 Testifying:
 * Carl Keller - Teamsters Local 760

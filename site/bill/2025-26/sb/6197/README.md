@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 6197 Plumbing contractors
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 08:00 AM - Labor & Commerce (LC): SB 6197 Plumbing contractors
 #### 23 👍 - Pro
 Testifying:

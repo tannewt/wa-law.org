@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Transportation (TR): SSB 5824 Fifth-wheel travel trailers
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 04:00 PM - Transportation (TRAN): SB 5824 Fifth-wheel travel trailers
 #### 154 👍 - Pro
 Testifying:

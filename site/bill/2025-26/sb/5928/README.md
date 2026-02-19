@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESSB 5928 Wildfire risk models
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5928 Wildfire risk models
 #### 175 👍 - Pro
 Testifying:

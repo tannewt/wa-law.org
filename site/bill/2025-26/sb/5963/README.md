@@ -16,8 +16,6 @@
 
 ## Meetings
 ### Wed 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5963 Passport to careers program
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 1 👎 - Con

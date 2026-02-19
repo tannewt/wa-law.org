@@ -13,6 +13,15 @@
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [Done with week one - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/16/done-with-week-one/#:~:text=SB%206160)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6160 Reports by state agencies
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6160 Reports by state agencies
 #### 10 👍 - Pro
 Testifying:

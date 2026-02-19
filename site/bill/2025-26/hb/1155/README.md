@@ -16,6 +16,15 @@
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201155)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Labor & Commerce (LC): ESHB 1155 Noncompetition agreements
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1155 Noncompetition agreements
 #### 54 👍 - Pro
 Testifying:

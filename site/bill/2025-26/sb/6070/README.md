@@ -15,6 +15,15 @@
 * 01/20/2026 [FOX13](/org/fox13/) - [What is a Purple Alert? Proposed WA legislation | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-law-purple-alert#:~:text=Senate%20Bill%206070)
 
 ## Meetings
+### Mon 02/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): E2SSB 6070 Recovery of missing persons
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6070 Recovery of missing persons
 #### 157 👍 - Pro
 Testifying:

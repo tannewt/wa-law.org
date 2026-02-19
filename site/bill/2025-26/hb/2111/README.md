@@ -10,6 +10,15 @@
 * 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [Washington state Senate approves tax on personal income over $1M • Washington State Standard](https://washingtonstatestandard.com/2026/02/16/washington-state-senate-approves-tax-on-personal-income-over-1m/#:~:text=It%20passed)
 
 ## Meetings
+### Mon 02/23 04:00 PM - Transportation (TRAN): HB 2111 I-5 bridge account earnings
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 04:00 PM - Transportation (TR): HB 2111 I-5 bridge account earnings
 #### 12 👍 - Pro
 Testifying:

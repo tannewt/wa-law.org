@@ -12,6 +12,15 @@
 * 01/10/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 12-16, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-12-16-2025/#:~:text=HB%202295)
 
 ## Meetings
+### Tue 02/24 08:00 AM - Capital Budget (CB): PSHB 2295 - Concerning the capital budget. (Remote Testimony Available).
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 01:30 PM - Capital Budget (CB): HB 2295 Capital budget, supplemental
 #### 28 👍 - Pro
 Testifying:

@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Housing (HSG): EHB 1687 Social housing authorities
-Sign up to testify:
-
 #### 3 👍 - Pro
 
 #### 0 👎 - Con

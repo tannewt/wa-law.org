@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 2428 Life insurance policy lapses
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

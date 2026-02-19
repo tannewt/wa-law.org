@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Transportation (TRAN): ESHB 2172 Road jurisdiction transfer
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:00 PM - Transportation (TR): HB 2172 Road jurisdiction transfer
 #### 12 👍 - Pro
 Testifying:

@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/18/2026 [KING5](/org/king5/) - [Bill banning masked law enforcement gets public hearing in Olympia | king5.com](https://www.king5.com/article/news/politics/masked-law-enforcement-bill-public-hearing-house/281-b902a2e9-5d46-4107-9b24-02bd8973595e#:~:text=Senate%20Bill%205855)
+* 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205855)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SSB%205855)
 * 02/13/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 16 – 20, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-16-20-2026/#:~:text=SSB%205855)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SSB%205855:)
@@ -64,8 +66,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5855 Law enf. face coverings
-Sign up to testify:
-
 #### 360 👍 - Pro
 Testifying:
 * Rachael Snell

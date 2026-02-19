@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Law & Justice (LAW): ESHB 2508 Office of independent inves.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2508 Office of independent inves.
 #### 8 👍 - Pro
 Testifying:

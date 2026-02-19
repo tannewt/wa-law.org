@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Wed 02/18 04:00 PM - Appropriations (APP): ESSB 6019 Home care rates
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

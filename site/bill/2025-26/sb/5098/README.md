@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=ban%20carrying%20guns%20at%20parks%20and%20other%20locations)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=E2SSB%205098:)
 * 02/02/2026 [Washington St Pta](/org/washington_st_pta/) - [February 4 Policy Cutoff Looms | One Third of 2026 Session Complete - WSPTA](https://www.wastatepta.org/february-4-policy-cutoff-looms-one-third-of-2026-session-complete/#:~:text=SB%205098)
 * 01/28/2026 [Senate Democrats](/org/senate_democrats/) - [Defending our values and our communities - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/01/27/defending-our-values-and-our-communities/#:~:text=SB%205098)

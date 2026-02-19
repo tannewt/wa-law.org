@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/18/2026 [Washington St Pta](/org/washington_st_pta/) - [A Letter to PTA Members: Our Position on the Proposed Millionaires Tax - WSPTA](https://www.wastatepta.org/a-letter-to-pta-members-our-position-on-the-proposed-millionaires-tax/#:~:text=HB%202724)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=HB%202724)
 * 02/12/2026 [The Stranger](/org/the_stranger/) - [The Legislature Is Ready to Tax The Rich - The Stranger](https://www.thestranger.com/news/2026/02/12/80472732/the-legislature-is-ready-to-tax-the-rich#:~:text=companion)
 * 02/10/2026 [MyNorthwest](/org/mynorthwest/) - ['Millionaire tax' supporters rally at WA capitol](https://mynorthwest.com/mynorthwest-politics/millionaire-tax-supporters-rally-at-state-capitol/4201291#:~:text=HB%202724)

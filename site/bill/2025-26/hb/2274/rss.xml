@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2274/</link>
 		<description>Updates about HB 2274</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,13 @@
 			<pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-16/Third reading, passed; yeas, 86; nays, 11; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Business, Trade &amp; Economic Development.</title>
+			<description>First reading, referred to Business, Trade &amp; Economic Development.</description>
+			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-18/First reading, referred to Business, Trade &amp; Economic Development.</guid>
 		</item>
 	</channel>
 </rss>

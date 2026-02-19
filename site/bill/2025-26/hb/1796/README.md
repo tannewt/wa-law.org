@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Wed 02/18 10:30 AM - Early Learning & K-12 Education (EDU): HB 1796 School construction debt
-Sign up to testify:
-
 #### 89 👍 - Pro
 Testifying:
 * Jon Holmen - Lake Washington School District

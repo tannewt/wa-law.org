@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 08:00 AM - Environment, Energy & Technology (ENET): HB 2606 Office of privacy and data
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

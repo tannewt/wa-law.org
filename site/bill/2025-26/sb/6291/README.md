@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Wed 02/18 10:00 AM - Environment & Energy (ENVI): SB 6291 On-site wastewater systems
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

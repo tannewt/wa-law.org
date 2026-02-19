@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2219/</link>
 		<description>Updates about HB 2219</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,6 +132,20 @@
 			<pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-16/Third reading, passed; yeas, 95; nays, 1; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>House passes child care bill focused on flexibility, safety, and access – Washington State House Democrats</title>
+			<description>News article "House passes child care bill focused on flexibility, safety, and access – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/02/17/house-passes-child-care-bill-focused-on-flexibility-safety-and-access/#:~:text=House%20Bill%202219</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; K-12 Education.</title>
+			<description>First reading, referred to Early Learning &amp; K-12 Education.</description>
+			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-18/First reading, referred to Early Learning &amp; K-12 Education.</guid>
 		</item>
 	</channel>
 </rss>

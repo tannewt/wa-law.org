@@ -14,6 +14,15 @@
 * 01/13/2026 [The Center Square](/org/the_center_square/) - [Spokane proposes 'glide path' to stop $8M in climate fees from hitting taxpayers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_acce3f6d-2290-4574-b98b-c83fc4790cea.html#:~:text=House%20Bill%202416)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2416 Waste to energy facilities
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 04:00 PM - Environment & Energy (ENVI): HB 2416 Waste to energy facilities
 #### 278 👍 - Pro
 Testifying:
