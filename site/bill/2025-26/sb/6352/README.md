@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Transportation (TRAN): SB 6352 Transportation resources
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

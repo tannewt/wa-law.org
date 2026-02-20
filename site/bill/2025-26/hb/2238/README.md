@@ -16,8 +16,6 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): ESHB 2238 Statewide food security
-Sign up to testify:
-
 #### 365 👍 - Pro
 Testifying:
 * 💵Michael Moran - 2nd Harvest Inland Northwest

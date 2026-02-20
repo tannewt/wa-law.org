@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/19/2026 [Washington State Standard](/org/washington_state_standard/) - [WA farmworker union bill doesn't make it through Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/19/wa-farmworker-union-bill-doesnt-make-it-through-legislature/#:~:text=bill%20introduced)
 * 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=Senate%20Bill%206045)
 * 02/16/2026 [The Washington Observer](/org/the_washington_observer/) - [Farm worker unionization faces headwinds](https://washingtonobserver.substack.com/p/farm-worker-unionization-faces-headwinds#:~:text=SB%206045,)
 * 02/11/2026 [The Washington Observer](/org/the_washington_observer/) - [The legislative deadpool](https://washingtonobserver.substack.com/p/the-legislative-deadpool#:~:text=SB%206045)

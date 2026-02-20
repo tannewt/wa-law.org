@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): SHB 2650 Excise tax administration
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/03 08:00 AM - Finance (FIN): HB 2650 Excise tax administration
 #### 1 👍 - Pro
 Testifying:

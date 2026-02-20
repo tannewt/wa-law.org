@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Finance (FIN): SB 5994 Timber tax distributions
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

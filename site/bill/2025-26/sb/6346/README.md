@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=Millionaires%20Tax)
+* 02/19/2026 [Senate Democrats](/org/senate_democrats/) - [Where things stand in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/19/where-things-stand-in-olympia/#:~:text=Senate%20Bill%206346)
+* 02/19/2026 [The Center Square](/org/the_center_square/) - [WATCH: Could a WA income tax sink chances of Sonics return to Seattle? | National | thecentersquare.com](https://www.thecentersquare.com/national/article_faf025f3-cf18-4cb7-aa19-907760238841.html#:~:text=millionaire’s%20tax)
 * 02/18/2026 [Washington St Pta](/org/washington_st_pta/) - [A Letter to PTA Members: Our Position on the Proposed Millionaires Tax - WSPTA](https://www.wastatepta.org/a-letter-to-pta-members-our-position-on-the-proposed-millionaires-tax/#:~:text=SB%206346)
 * 02/18/2026 [The Center Square](/org/the_center_square/) - [Op-Ed: The rule of law takes a hit in Washington state with unconstitutional income tax vote | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_4b629ed3-5303-468d-89f6-6b4a791686cc.html#:~:text=Senate%20Bill%206346)
 * 02/17/2026 [The Center Square](/org/the_center_square/) - [Ferguson: Income tax bill needs 'significantly more' relief for families, small businesses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b686d615-d4ff-411d-9826-fc2da4338476.html#:~:text=SB%206346)
@@ -18,6 +21,7 @@
 * 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes Millionaires Tax - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2026/02/16/senate-passes-millionaires-tax/#:~:text=SB%206346)
 * 02/16/2026 [The Center Square](/org/the_center_square/) - [WATCH: Income tax bill passes WA Senate after hours of heated debate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5a644fbd-ed58-4e5b-9e33-595e2340b811.html#:~:text=Senate%20Bill%206346)
 * 02/16/2026 [Senate Republicans](/org/senate_republicans/) - [STATEMENT: Republican leaders on state income tax: unconstitutional, undemocratic, and coming for everyone in Washington - Senate Republican Caucus](https://src.wastateleg.org/blog/statement-republican-leaders-state-income-tax-unconstitutional-undemocratic-coming-everyone-washington/#:~:text=legislation)
+* 02/16/2026 [MyNorthwest](/org/mynorthwest/) - [Controversial 'millionaire tax' passes Washington Senate - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/millionaire-tax-senate/4204189#:~:text=Senate%20Bill%206346)
 * 02/16/2026 [The Center Square](/org/the_center_square/) - [Democrats quietly pushing rollback of estate tax increase | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b91daec9-7f13-4d7a-bdd1-ebe7a8bff4e0.html#:~:text=Senate%20Bill%206346,)
 * 02/16/2026 [KING5](/org/king5/) - [Washington Senate passes 'Millionaires Tax,' heads to House next | king5.com](https://www.king5.com/article/news/politics/state-politics/millionaire-tax-senate-vote-washington-state-legislature/281-99db0fc7-b307-4e47-913a-f2e17056d99b#:~:text=Senate%20Bill%206346)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SB%206346)

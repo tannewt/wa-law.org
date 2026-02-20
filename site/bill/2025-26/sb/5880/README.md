@@ -9,13 +9,12 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/19/2026 [MyNorthwest](/org/mynorthwest/) - [Senate-passed bill to expand DUI testing clears first hurdle in House - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/bill-dui-testing/4205188#:~:text=Senate%20Bill%205880)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=SB%205880)
 * 01/13/2026 [MyNorthwest](/org/mynorthwest/) - [WA bill aims to speed up DUI cases by allowing more labs to perform toxicology tests - MyNorthwest.com](https://mynorthwest.com/mynorthwest-politics/wa-bill-toxicology-dui/4186993#:~:text=Senate%20Bill%205880)
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5880 Toxicology testing
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

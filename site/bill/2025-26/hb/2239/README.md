@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): SHB 2239 Family burial grounds
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

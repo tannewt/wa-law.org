@@ -22,6 +22,15 @@
 * 01/10/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Six Bills, One Direction: What Governor Ferguson’s 2026 Agenda Reveals About Power in Washington State - Conservative Ladies of Washington](https://conservativeladiesofwa.com/ferguson-2026-bills-centralized-power/#:~:text=SB%206026)
 
 ## Meetings
+### Fri 02/20 10:30 AM - Local Government (LG): E2SSB 6026 Residential dev./zones
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 6026 Residential dev./zones
 #### 215 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5982/</link>
 		<description>Updates about SB 5982</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -172,6 +172,13 @@
 			<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-14/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

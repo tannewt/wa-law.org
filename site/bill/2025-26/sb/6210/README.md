@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=6210)
+
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): ESSB 6210 Health plan certification
 Sign up to testify:

@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): HB 2340 Nursing assistants/SUD prg.
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

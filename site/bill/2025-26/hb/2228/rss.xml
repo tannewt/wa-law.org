@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2228/</link>
 		<description>Updates about HB 2228</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,20 @@
 			<pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-12/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>HSG - Majority; do pass.</title>
+			<description>HSG - Majority; do pass.</description>
+			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-18/HSG - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

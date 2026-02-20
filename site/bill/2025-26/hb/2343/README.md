@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2343 Game farm/water quality
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

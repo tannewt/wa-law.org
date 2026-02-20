@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6304/</link>
 		<description>Updates about SB 6304</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 22:41:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 14:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -166,6 +166,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ron/Smith/2026-01-28 22:41:30</guid>
+		</item>
+		<item>
+			<title>ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist</title>
+			<description>News article "ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist" from The Urbanist.</description>
+			<pubDate>Wed, 18 Feb 2026 14:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2026/02/18/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=SB%206304</guid>
 		</item>
 	</channel>
 </rss>

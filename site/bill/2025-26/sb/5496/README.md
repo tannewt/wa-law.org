@@ -23,6 +23,15 @@
 * 02/05/2025 [The Center Square](/org/the_center_square/) - [Backers, critics debate bill to stop major investors from buying up single-family homes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3a790074-e407-11ef-b124-ebd66a88bbb6.html#:~:text=Senate%20Bill%205496)
 
 ## Meetings
+### Mon 02/23 01:30 PM - Housing (HOUS): E2SSB 5496 Home buying by entities
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5496 Home buying by entities
 #### 329 👍 - Pro
 Testifying:

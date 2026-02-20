@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2199 Derelict vessels
-Sign up to testify:
-
 #### 5 👍 - Pro
 
 #### 0 👎 - Con

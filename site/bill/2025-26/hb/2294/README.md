@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=restrictions%20on%20where%20grocery%20stores%20or%20pharmacies%20can%20be%20located)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=restrictions%20on%20where%20grocery%20stores%20or%20pharmacies%20can%20be%20located)
 * 02/17/2026 [House Democrats](/org/house_democrats/) - [House Passes Rep. Farivar’s Bills to Expand Food Access, Update Disability Facility Names, & Strengthen Transparency in RHC’s – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/17/house-passes-rep-farivars-bills-to-expand-food-access-update-disability-facility-names-strengthen-transparency-in-rhcs/#:~:text=HB%202294)
 * 02/05/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [The bills that didn’t survive the WA Legislature’s first major deadline | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/05/the-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=restrictions%20on%20where%20grocery%20stores%20or%20pharmacies%20can%20be%20located)
@@ -17,8 +18,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): EHB 2294 Use restrictions/food, med. 
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

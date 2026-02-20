@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 5436 Worship/access interference
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

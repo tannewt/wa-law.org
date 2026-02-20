@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2360/</link>
 		<description>Updates about HB 2360</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Feb 2026 00:24:13 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -162,6 +162,27 @@
 			<pubDate>Mon, 16 Feb 2026 00:24:13 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SHB%202360</guid>
+		</item>
+		<item>
+			<title>EDU - Majority; do pass.</title>
+			<description>EDU - Majority; do pass.</description>
+			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-18/EDU - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-18/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

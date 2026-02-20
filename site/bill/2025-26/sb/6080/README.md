@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=6080)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Bill to clarify the law on ICE detainees brought across state lines to Washington jails heard in Senate. - Sen. Annette Cleveland](https://senatedemocrats.wa.gov/cleveland/2026/01/30/bill-to-clarify-the-law-on-ice-detainees-brought-across-state-lines-to-washington-jails-heard-in-senate/#:~:text=Senate%20Bill%206080)
 * 01/20/2026 [The Center Square](/org/the_center_square/) - [Thousands of Washingtonians sign-in for public hearings on ICE-related proposals | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5262a2b9-2542-4334-afe5-50381c2feb8f.html#:~:text=Senate%20Bill%206080)
 

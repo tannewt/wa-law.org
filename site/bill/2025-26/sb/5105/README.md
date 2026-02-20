@@ -21,8 +21,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): 2ESSB 5105 Sexually explicit depictions
-Sign up to testify:
-
 #### 4 👍 - Pro
 Testifying:
 * Stefan Gubarev - Legislative Youth Advisory Council (LYAC)

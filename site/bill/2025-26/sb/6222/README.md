@@ -18,8 +18,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Education (ED): SSB 6222 Students/surplus technology
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

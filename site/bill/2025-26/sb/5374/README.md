@@ -15,6 +15,15 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205374)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Local Government (LG): ESSB 5374 Transportation/tribal rep.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/26 08:00 AM - Local Government (LG): SSB 5374 Transportation/tribal rep.
 #### 36 👍 - Pro
 

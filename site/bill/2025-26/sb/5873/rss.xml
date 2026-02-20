@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5873/</link>
 		<description>Updates about SB 5873</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,13 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/Third reading, passed; yeas, 31; nays, 17; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety.</title>
+			<description>First reading, referred to Community Safety.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/First reading, referred to Community Safety.</guid>
 		</item>
 	</channel>
 </rss>

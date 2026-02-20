@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=6161)
+
 ## Meetings
 ### Thu 01/22 08:00 AM - Health & Long Term Care (HLTC): SB 6161 Dementia information
 #### 61 👍 - Pro

@@ -22,8 +22,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5067 Impaired driving
-Sign up to testify:
-
 #### 25 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

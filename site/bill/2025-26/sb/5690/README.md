@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Transportation (TR): 2SSB 5690 Utility relocation
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

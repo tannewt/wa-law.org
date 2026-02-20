@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 5808 Health carrier surpluses
-Sign up to testify:
-
 #### 9 👍 - Pro
 Testifying:
 * Consuelo Echeverria

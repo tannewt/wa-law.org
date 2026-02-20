@@ -11,6 +11,15 @@
 * 01/22/2026 [Senate Democrats](/org/senate_democrats/) - [WATCH: Creating more affordable housing in Spokane - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2026/01/21/watch-creating-more-affordable-housing-in-spokane/#:~:text=SB%206079)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): SSB 6079 Wildfire risk
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 6079 Wildfire mitigation grants
 #### 81 👍 - Pro
 Testifying:

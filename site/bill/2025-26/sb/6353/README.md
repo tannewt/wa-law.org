@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6353 Working conn. child care
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

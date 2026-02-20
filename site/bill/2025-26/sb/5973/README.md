@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=Senate%20Bill%205973)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=Senate%20Bill%205973)
 * 02/18/2026 [The Washington Observer](/org/the_washington_observer/) - [Giving the income tax back before its enacted](https://washingtonobserver.substack.com/p/giving-the-income-tax-back-before#:~:text=Senate%20Bill%205973)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [Foes called it the ‘initiative killer.’ Now it’s dead in the WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/17/foes-called-it-the-initiative-killer-now-its-dead-in-the-wa-legislature/#:~:text=Senate%20Bill%205973)

@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Mon 02/23 01:30 PM - Housing (HOUS): ESSB 6200 Tenant cooling devices
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/23 10:30 AM - Housing (HSG): SB 6200 Tenant cooling devices
 #### 321 👍 - Pro
 Testifying:

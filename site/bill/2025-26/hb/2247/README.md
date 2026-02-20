@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2247 Veterinarian relationship
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

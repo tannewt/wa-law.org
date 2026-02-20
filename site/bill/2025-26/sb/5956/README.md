@@ -20,8 +20,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Education (ED): SSB 5956 AI use/student discipline
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 1 👎 - Con

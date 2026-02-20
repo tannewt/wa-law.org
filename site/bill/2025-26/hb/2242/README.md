@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2242 Preventive health services
-Sign up to testify:
-
 #### 5 👍 - Pro
 
 #### 2 👎 - Con

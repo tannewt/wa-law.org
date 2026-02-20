@@ -14,6 +14,15 @@
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%205901)
 
 ## Meetings
+### Thu 02/26 08:00 AM - Capital Budget (CB): SSB 5901 On-base school construction
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SSB 5901 On-base school construction
 #### 7 👍 - Pro
 Testifying:

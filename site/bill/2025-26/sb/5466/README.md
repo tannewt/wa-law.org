@@ -11,6 +11,7 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 02/19/2026 [Cascadia Daily News](/org/cascadia_daily_news/) - [More bills falter as time dwindles for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2026/feb/19/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=transmission%20bill)
 * 02/19/2026 [Washington State Standard](/org/washington_state_standard/) - [Demand for 39-page bill to be read aloud derails legislation in WA Senate • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/gop-demand-for-39-page-bill-to-be-read-aloud-derails-democratic-legislation-in-wa-senate/#:~:text=Senate%20Bill%205466)
 * 02/18/2026 [Washington State Standard](/org/washington_state_standard/) - [More bills falter as time dwindles for Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2026/02/18/more-bills-falter-as-time-dwindles-for-washington-legislature/#:~:text=transmission%20bill)
 * 01/22/2026 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2026 Quaker Voice Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2026-quaker-voice-priority-bills/#:~:text=SB%205466)

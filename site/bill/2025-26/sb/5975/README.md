@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Mon 02/23 01:30 PM - Environment & Energy (ENVI): ESSB 5975 Safe cookware
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 01:30 PM - Ways & Means (WM): SSB 5975 Safe cookware
 #### 16 👍 - Pro
 Testifying:

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): EHB 2179 Port workers PERS membership
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/15 04:00 PM - Appropriations (APP): HB 2179 Port workers PERS membership
 #### 21 👍 - Pro
 Testifying:

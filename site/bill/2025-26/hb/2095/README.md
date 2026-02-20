@@ -12,6 +12,15 @@
 * 01/30/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 2-7, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-2-7-2026/#:~:text=HB%202095)
 
 ## Meetings
+### Mon 02/23 10:30 AM - Law & Justice (LAW): ESHB 2095 Public way vulnerable users 
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/14 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2095 Public way vulnerable users 
 #### 386 👍 - Pro
 Testifying:

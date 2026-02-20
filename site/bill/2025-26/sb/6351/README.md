@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6351 School sales tax exemptions
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)

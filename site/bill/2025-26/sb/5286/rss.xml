@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5286/</link>
 		<description>Updates about SB 5286</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 15:43:26 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 16:48:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -211,6 +211,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mayor Terri/Cooper/2026-02-13 15:43:26</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CS - Majority; do pass.</title>
+			<description>CS - Majority; do pass.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/CS - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>WA House advances proposal to codify state-funded policing near psych hospitals | Washington | thecentersquare.com</title>
+			<description>News article "WA House advances proposal to codify state-funded policing near psych hospitals | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 19 Feb 2026 16:48:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ef972eb3-9306-498d-8506-9fcdbcc99c73.html#:~:text=Senate%20Bill%205286</guid>
 		</item>
 	</channel>
 </rss>

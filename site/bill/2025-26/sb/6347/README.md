@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2026 [The Stranger](/org/the_stranger/) - [Guest Rant: The Millionaires’ Tax Gives Corporations a (Tax) Break - The Stranger](https://www.thestranger.com/guest-editorial/2026/02/19/80485013/guest-rant-the-millionaires-tax-gives-corporations-a-tax-break#:~:text=SB%206347)
 * 02/17/2026 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Washington Legislature, Don’t Reverse the Estate Tax » The Urbanist](https://www.theurbanist.org/2026/02/17/op-ed-washington-legislature-dont-reverse-the-estate-tax/#:~:text=Senate%20Bill%206347)
 * 02/17/2026 [Senate Democrats](/org/senate_democrats/) - [Senate passes Kauffman bill to restore balance to Washington’s estate tax - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2026/02/17/senate-passes-kauffman-bill-to-restore-balance-to-washingtons-estate-tax/#:~:text=Senate%20Bill%206347)
 * 02/17/2026 [Washington State Standard](/org/washington_state_standard/) - [‘Absolutely good news’: WA financial outlook brightens as budget talks heat up • Washington State Standard](https://washingtonstatestandard.com/2026/02/16/absolutely-good-news-wa-financial-outlook-brightens-as-budget-talks-heat-up/#:~:text=drop%20estate%20tax%20hikes%20approved%20last%20year)

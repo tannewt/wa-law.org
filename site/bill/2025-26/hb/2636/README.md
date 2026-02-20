@@ -26,8 +26,6 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 2636 Public education reviews
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

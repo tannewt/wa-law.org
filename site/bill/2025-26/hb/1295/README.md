@@ -23,8 +23,6 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1295 Reading and writing literacy
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

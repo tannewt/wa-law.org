@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6239/</link>
 		<description>Updates about SB 6239</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -500,6 +500,13 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/Third reading, passed; yeas, 33; nays, 16; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/First reading, referred to Civil Rights &amp; Judiciary.</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Postsecondary Education & Workforce (PEW): SB 6258 Medical license relinquish.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/29 08:00 AM - Health & Long Term Care (HLTC): SB 6258 Medical license relinquish.
 #### 9 👍 - Pro
 Testifying:

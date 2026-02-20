@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Local Government (LG): SSB 6076 Utility procurement
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 01:30 PM - Environment, Energy & Technology (ENET): SB 6076 Utility procurement
 #### 63 👍 - Pro
 Testifying:

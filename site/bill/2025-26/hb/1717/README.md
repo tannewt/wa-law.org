@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): ESHB 1717 Affordable housing/sales tax
-Sign up to testify:
-
 #### 10 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - Pierce County and the South Sound Housing Affordability Partners

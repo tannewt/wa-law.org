@@ -14,6 +14,15 @@
 * 01/26/2026 [Washington St Pta](/org/washington_st_pta/) - [Write your Legislators during Focus on Advocacy Week - WSPTA](https://www.wastatepta.org/write-your-legislators-during-focus-on-advocacy-week/#:~:text=HB%202251)
 
 ## Meetings
+### Tue 02/24 04:00 PM - Ways & Means (WM): E2SHB 2251 Climate commit. act accounts
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/06 10:30 AM - Transportation (TR): SHB 2251 Climate commit. act accounts
 #### 31 👍 - Pro
 Testifying:

@@ -1,0 +1,374 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 6354](/bill/2025-26/sb/6354/) > [Original Bill](/bill/2025-26/sb/6354/1/)
+
+# SB 6354 - Electric vehicles
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6354.pdf)
+
+## Section 1
+The legislature finds and declares that the distribution and sale of motor vehicles in this state vitally affect the general economy of the state and the public interest and public welfare, that provision for warranty service to motor vehicles is of substantial concern to the people of this state, that the maintenance of fair competition among dealers and others is in the public interest, and that the maintenance of strong and sound dealerships is essential to provide continuing and necessary reliable services to the consuming public in this state and to provide stable employment to the citizens of this state. The legislature further finds that there is a substantial disparity in bargaining power between automobile manufacturers and  dealers, and that in order to promote the public interest and the public welfare, and in the exercise of its police power, it is necessary to regulate the relationship between motor vehicle dealers and motor vehicle manufacturers, importers, distributors, and their representatives doing business in this state, not only for the protection of dealers but also for the protection of consumers in assuring the continued availability and servicing of automobiles sold to the public.
+
+The legislature recognizes it is in the best interest for manufacturers and dealers of motor vehicles to conduct business with each other in a fair, efficient, and competitive manner. The legislature declares the public interest is best served by dealers being assured of the ability to manage their business enterprises under a contractual obligation with manufacturers where dealers do not experience unreasonable interference and are assured of the ability to transfer ownership of their business without undue constraints. If the legislature authorizes a manufacturer to own or operate a motor vehicle dealership, the legislature intends that such authorization be applied narrowly to prevent erosion of the motor vehicle dealer franchise system and the benefits it provides to communities around the state. It is the intent of the legislature to impose a regulatory scheme and to regulate competition in the motor vehicle industry to the extent necessary to balance fairness and efficiency. These actions will protect consumers, strengthen enforcement, and permit motor vehicle dealers to better serve the public.
+
+## Section 2
+1. Notwithstanding the terms of a franchise agreement, a manufacturer, distributor, factory branch, or factory representative, or an agent, officer, parent company, wholly or partially owned subsidiary, affiliated entity, or other person controlled by or under common control with a manufacturer, distributor, factory branch, or factory representative, shall not:
+
+    a. Discriminate between new motor vehicle dealers by selling or offering to sell a like vehicle to one dealer at a lower actual price than the actual price offered to another dealer for the same model similarly equipped;
+
+    b. Discriminate between new motor vehicle dealers by selling or offering to sell parts or accessories to one dealer at a lower actual price than the actual price offered to another dealer;
+
+    c. Discriminate between new motor vehicle dealers by using a promotion plan, marketing plan, or other similar device that results in a lower actual price on vehicles, parts, or accessories being charged to one dealer over another dealer;
+
+    d. Discriminate between new motor vehicle dealers by adopting a method, or changing an existing method, for the allocation, scheduling, or delivery of new motor vehicles, parts, or accessories to its dealers that is not fair, reasonable, and equitable. Upon the request of a dealer, a manufacturer, distributor, factory branch, or factory representative shall disclose in writing to the dealer the method by which new motor vehicles, parts, and accessories are allocated, scheduled, or delivered to its dealers handling the same line or make of vehicles;
+
+    e. Discriminate against a new motor vehicle dealer by preventing, offsetting, or otherwise impairing the dealer's right to request a documentary service fee on affinity or similar program purchases. This prohibition applies to, but is not limited to, any promotion plan, marketing plan, manufacturer or dealer employee or employee friends or family purchase programs, or similar plans or programs;
+
+    f. Give preferential treatment to some new motor vehicle dealers over others by refusing or failing to deliver, in reasonable quantities and within a reasonable time after receipt of an order, to a dealer holding a franchise for a line or make of motor vehicles sold or distributed by the manufacturer, distributor, factory branch, or factory representative, a new vehicle, parts, or accessories, if the vehicle, parts, or accessories are being delivered to other dealers, or require a dealer to purchase unreasonable advertising displays or other materials, or unreasonably require a dealer to remodel or renovate existing facilities as a prerequisite to receiving a model or series of vehicles;
+
+    g. Compete with a new motor vehicle dealer of any make or line by acting in the capacity of a new motor vehicle dealer, or by owning, operating, or controlling, whether directly or indirectly, a motor vehicle dealership in this state. It is not, however, a violation of this subsection for:
+
+        i. A manufacturer, distributor, factory branch, or factory representative to own or operate a dealership for a temporary period, not to exceed two years, during the transition from one owner of the dealership to another where the dealership was previously owned by a franchised dealer and is currently for sale to any qualified independent person at a fair and reasonable price. The temporary operation may be extended for one 12-month period on petition of the temporary operator to the department. The matter will be handled as an adjudicative proceeding under chapter 34.05 RCW. A dealer who is a franchisee of the petitioning manufacturer or distributor may intervene and participate in a proceeding under this subsection (1)(g)(i). The temporary operator has the burden of proof to show justification for the extension and a good faith effort to sell the dealership to an independent person at a fair and reasonable price;
+
+        ii. A manufacturer, distributor, factory branch, or factory representative to own or operate a dealership in conjunction with an independent person in a bona fide business relationship for the purpose of broadening the diversity of its dealer body and enhancing opportunities for qualified persons who are part of a group who have historically been underrepresented in its dealer body, or other qualified persons who lack the resources to purchase a dealership outright, and where the independent person: (A) Has made, or within a period of two years from the date of commencement of operation will have made, a significant, bona fide capital investment in the dealership that is subject to loss; (B) has an ownership interest in the dealership; and (C) operates the dealership under a bona fide written agreement with the manufacturer, distributor, factory branch, or factory representative under which he or she will acquire all of the ownership interest in the dealership within a reasonable period of time and under reasonable terms and conditions. The manufacturer, distributor, factory branch, or factory representative has the burden of proof of establishing that the acquisition of the dealership by the independent person was made within a reasonable period of time and under reasonable terms and conditions. Nothing in this subsection (1)(g)(ii) relieves a manufacturer, distributor, factory branch, or factory representative from complying with (a) through (f) of this subsection;
+
+        iii. A manufacturer, distributor, factory branch, or factory representative to own or operate a dealership in conjunction with an independent person in a bona fide business relationship where the independent person: (A) Has made, or within a period of two years from the date of commencement of operation will have made, a significant, bona fide capital investment in the dealership that is subject to loss; (B) has an ownership interest in the dealership; and (C) operates the dealership under a bona fide written agreement with the manufacturer, distributor, factory branch, or factory representative under which he or she will acquire all of the ownership interest in the dealership within a reasonable period of time and under reasonable terms and conditions. The manufacturer, distributor, factory branch, or factory representative has the burden of proof of establishing that the acquisition of the dealership by the independent person was made within a reasonable period of time and under reasonable terms and conditions. The number of dealerships operated under this subsection (1)(g)(iii) may not exceed four percent rounded up to the nearest whole number of a manufacturer's total of new motor vehicle dealer franchises in this state. Nothing in this subsection (1)(g)(iii) relieves a manufacturer, distributor, factory branch, or factory representative from complying with (a) through (f) of this subsection;
+
+        iv. A truck manufacturer to own, operate, or control a new motor vehicle dealership that sells only trucks of that manufacturer's line make with a gross vehicle weight rating of 12,500 pounds or more, and the truck manufacturer has been continuously engaged in the retail sale of the trucks at least since January 1, 1993;
+
+    v. A manufacturer to own, operate, or control a new motor vehicle dealership trading exclusively in a single line make of the manufacturer if (A) the manufacturer does not own, directly or indirectly, in the aggregate, in excess of 45 percent of the total ownership interest in the dealership, (B) at the time the manufacturer first acquires ownership or assumes operation or control of any such dealership, the distance between any dealership thus owned, operated, or controlled and the nearest new motor vehicle dealership trading in the same line make of vehicle and in which the manufacturer has no ownership or control is not less than 15 miles and complies with the applicable provisions in the relevant market area sections of this chapter, (C) all of the manufacturer's franchise agreements confer rights on the dealer of that line make to develop and operate within a defined geographic territory or area, as many dealership facilities as the dealer and the manufacturer agree are appropriate, and (D) as of January 1, 2000, the manufacturer had no more than four new motor vehicle dealers of that manufacturer's line make in this state, and at least half of those dealers owned and operated two or more dealership facilities in the geographic territory or area covered by their franchise agreements with the manufacturer;
+
+    vi. A final-stage manufacturer to own, operate, or control a new motor vehicle dealership; or
+
+    vii. A manufacturer that is incorporated in the United States, has never entered into a franchise agreement with a motor vehicle dealer, has operated at least one service facility in this state as of January 1, 2026, and exclusively produces battery electric vehicles of which at least 300 were registered to Washington state residents before January 1, 2026, to own, operate, or control a new motor vehicle dealership that sells new vehicles that are only of that manufacturer's makes or lines and that are not sold new by a licensed independent franchise dealer, or to own, operate, or control or contract with companies that provide finance, leasing, or service for vehicles that are of that manufacturer's makes or lines, so long as the manufacturer or its subsidiaries do not, after the effective date of this section, distribute vehicles on behalf of a manufacturer prohibited by law from acting in the capacity of a motor vehicle dealer or become subject to the majority ownership or control of a manufacturer prohibited by law from acting in the capacity of a motor vehicle dealer. Regardless of ownership interest, a manufacturer prohibited by law from acting in the capacity of a motor vehicle dealer shall not use its ownership interest in a manufacturer exempted under this subsection (1)(g)(vii) to violate any provisions under (g) of this subsection. Private parties may initiate an action pursuant to RCW 46.96.260 to obtain relief and enjoin further violations of this subsection (1)(g)(vii). For purposes of this subsection (1)(g)(vii):
+
+(A) "Battery electric vehicle" means any vehicle that operates solely by use of a battery or battery pack, or that is powered primarily through the use of an electric battery or battery pack but uses a flywheel or capacitor that stores energy produced by the electric motor or through regenerative braking to assist in vehicle operation, so long as none of these components rely on power generated by fossil fuels or hydrogen;
+
+(B) "Manufacturer prohibited by law from acting in the capacity of a motor vehicle dealer" includes the manufacturer as well as its distributor, factory branch, factory representative, agent, officer, parent company, wholly or partially owned subsidiary, affiliated entity, or other person controlled by or under common control thereof;
+
+    h. Compete with a new motor vehicle dealer by owning, operating, or controlling, whether directly or indirectly, a service facility in this state for the repair or maintenance of motor vehicles under the manufacturer's new car warranty and extended warranty. Nothing in this subsection (1)(h), however, prohibits a manufacturer, distributor, factory branch, or factory representative from owning or operating a service facility for the purpose of providing or performing maintenance, repair, or service work on motor vehicles that are owned by the manufacturer, distributor, factory branch, or factory representative;
+
+        i. Use confidential or proprietary information obtained from a new motor vehicle dealer to unfairly compete with the dealer. For purposes of this subsection (1)(i), "confidential or proprietary information" means trade secrets as defined in RCW 19.108.010, business plans, marketing plans or strategies, customer lists, contracts, sales data, revenues, or other financial information;
+
+    j. [Empty]
+
+        i. Terminate, cancel, or fail to renew a franchise with a new motor vehicle dealer based upon any of the following events, which do not constitute good cause for termination, cancellation, or nonrenewal under RCW 46.96.060: (A) The fact that the new motor vehicle dealer owns, has an investment in, participates in the management of, or holds a franchise agreement for the sale or service of another make or line of new motor vehicles; (B) the fact that the new motor vehicle dealer has established another make or line of new motor vehicles or service in the same dealership facilities as those of the manufacturer or distributor; (C) that the new motor vehicle dealer has or intends to relocate the manufacturer or distributor's make or line of new motor vehicles or service to an existing dealership facility that is within the relevant market area, as defined in RCW 46.96.140, of the make or line to be relocated, except that, in any nonemergency circumstance, the dealer must give the manufacturer or distributor at least 60 days' notice of his or her intent to relocate and the relocation must comply with RCW 46.96.140 and 46.96.150 for any same make or line facility; or (D) the failure of a franchisee to change the location of the dealership or to make substantial alterations to the use or number of franchises on the dealership premises or facilities.
+
+        ii. Notwithstanding the limitations of this section, a manufacturer may, for separate consideration, enter into a written contract with a dealer to exclusively sell and service a single make or line of new motor vehicles at a specific facility for a defined period of time. The penalty for breach of the contract must not exceed the amount of consideration paid by the manufacturer plus a reasonable rate of interest;
+
+    k. Coerce or attempt to coerce a motor vehicle dealer to refrain from, or prohibit or attempt to prohibit a new motor vehicle dealer from acquiring, owning, having an investment in, participating in the management of, or holding a franchise agreement for the sale or service of another make or line of new motor vehicles or related products, or establishing another make or line of new motor vehicles or service in the same dealership facilities, if the prohibition against acquiring, owning, investing, managing, or holding a franchise for such additional make or line of vehicles or products, or establishing another make or line of new motor vehicles or service in the same dealership facilities, is not supported by reasonable business considerations. The burden of proving that reasonable business considerations support or justify the prohibition against the additional make or line of new motor vehicles or products or nonexclusive facilities is on the manufacturer;
+
+    l. Require, by contract or otherwise, a new motor vehicle dealer to make a material alteration, expansion, or addition to any dealership facility, unless the required alteration, expansion, or addition is uniformly required of other similarly situated new motor vehicle dealers of the same make or line of vehicles and is reasonable in light of all existing circumstances, including economic conditions. In any proceeding in which a required facility alteration, expansion, or addition is an issue, the manufacturer or distributor has the burden of proof. Except for a program or any renewal or modification of a program that is in effect with one or more new motor vehicle dealers in this state on June 12, 2014, a manufacturer shall not require, coerce, or attempt to coerce any new motor vehicle dealer by program, policy, standard, or otherwise to change the location of the dealership or construct, replace, renovate, or make any substantial changes, alterations, or remodeling to a new motor vehicle dealer's sales or service facilities, except as necessary to comply with health or safety laws or to comply with technology requirements without which a dealer would be unable to service a vehicle the dealer has elected to sell, before the 10th anniversary of the date of issuance of the certificate of occupancy or the manufacturer's approval, whichever is later, from:
+
+        i. The date construction of the dealership at that location was completed if the construction was in substantial compliance with standards or plans provided by a manufacturer, distributor, or representative or through a subsidiary or agent of the manufacturer, distributor, or representative; or
+
+        ii. The date a prior change, alteration, or remodel of the dealership at that location was completed if the construction was in substantial compliance with standards or plans provided by a manufacturer, distributor, or representative or through a subsidiary or agent of the manufacturer, distributor, or representative;
+
+    m. Prevent or attempt to prevent by contract or otherwise any new motor vehicle dealer from changing the executive management of a new motor vehicle dealer unless the manufacturer or distributor, having the burden of proof, can show that a proposed change of executive management will result in executive management by a person or persons who are not of good moral character or who do not meet reasonable, preexisting, and equitably applied standards of the manufacturer or distributor. If a manufacturer or distributor rejects a proposed change in the executive management, the manufacturer or distributor shall give written notice of its reasons to the dealer within 60 days after receiving written notice from the dealer of the proposed change and all related information reasonably requested by the manufacturer or distributor, or the change in executive management must be considered approved;
+
+    n. Condition the sale, transfer, relocation, or renewal of a franchise agreement or condition manufacturer, distributor, factory branch, or factory representative sales, services, or parts incentives upon the manufacturer obtaining site control, including rights to purchase or lease the dealer's facility, or an agreement to make improvements or substantial renovations to a facility. For purposes of this section, a substantial renovation has a gross cost to the dealer in excess of $5,000;
+
+    o. Fail to provide to a new motor vehicle dealer purchasing or leasing building materials or other facility improvements the right to purchase or lease franchisor image elements of like kind and quality from an alternative vendor selected by the dealer if the goods or services are to be supplied by a vendor selected, identified, or designated by the manufacturer or distributor. If the vendor selected by the manufacturer or distributor is the only available vendor of like kind and quality materials, the new motor vehicle dealer must be given the opportunity to purchase the franchisor image elements at a price substantially similar to the capitalized lease costs of the elements. This subsection (1)(o) must not be construed to allow a new motor vehicle dealer or vendor to gain additional intellectual property rights they are not otherwise entitled to or to impair or eliminate the intellectual property rights of the manufacturer or distributor or to permit a new motor vehicle dealer to erect or maintain signs that do not conform to the reasonable intellectual property usage guidelines of the manufacturer or distributor;
+
+    p. Take any adverse action against a new motor vehicle dealer including, but not limited to, charge backs or reducing vehicle allocations, for sales and service performance within a designated area of primary responsibility unless that area is reasonable in light of proximity to relevant census tracts to the dealership and competing dealerships, highways and road networks, any natural or man-made barriers, demographics, including economic factors, buyer behavior information, and contains only areas inside the state of Washington unless specifically approved by the new motor vehicle dealer;
+
+    q. Require, coerce, or attempt to coerce any new motor vehicle dealer by program, policy, facility guide, standard, or otherwise to order or accept delivery of any service or repair appliances, equipment, parts, or accessories, or any other commodity not required by law, which the dealer has not voluntarily ordered or which the dealer does not have the right to return unused for a full refund within 90 days or a longer period as mutually agreed upon by the dealer and manufacturer; or
+
+    r. Modify the franchise agreement for any new motor vehicle dealer unless the manufacturer notifies the dealer in writing of its intention to modify the agreement at least 90 days before the effective date thereof, stating the specific grounds for the modification, and undertakes the modification in good faith, for good cause, and in a manner that would not adversely and substantially alter the rights, obligations, investment, or return on investment of the franchised new motor vehicle dealer under the existing agreement.
+
+2. Subsection (1)(a), (b), and (c) of this section do not apply to sales to a motor vehicle dealer: (a) For resale to a federal, state, or local government agency; (b) where the vehicles will be sold or donated for use in a program of driver's education; (c) where the sale is made under a manufacturer's bona fide promotional program offering sales incentives or rebates; (d) where the sale of parts or accessories is under a manufacturer's bona fide quantity discount program; or (e) where the sale is made under a manufacturer's bona fide fleet vehicle discount program. For purposes of this subsection, "fleet" means a group of 15 or more new motor vehicles purchased or leased by a dealer at one time under a single purchase or lease agreement for use as part of a fleet, and where the dealer has been assigned a fleet identifier code by the department of licensing.
+
+3. The following definitions apply to this section:
+
+    a. "Actual price" means the price to be paid by the dealer less any incentive paid by the manufacturer, distributor, factory branch, or factory representative, whether paid to the dealer or the ultimate purchaser of the vehicle.
+
+    b. "Control" or "controlling" means (i) the possession of, title to, or control of 10 percent or more of the voting equity interest in a person, whether directly or indirectly through a fiduciary, agent, or other intermediary, or (ii) the possession, direct or indirect, of the power to direct or cause the direction of the management or policies of a person, whether through the ownership of voting securities, through director control, by contract, or otherwise, except as expressly provided under the franchise agreement.
+
+    c. "Motor vehicles" does not include trucks that are 14,001 pounds gross vehicle weight and above or recreational vehicles as defined in RCW 43.22.335.
+
+    d. "Operate" means to manage a dealership, whether directly or indirectly.
+
+    e. "Own" or "ownership" means to hold the beneficial ownership of one percent or more of any class of equity interest in a dealership, whether the interest is that of a shareholder, partner, limited liability company member, or otherwise. To hold an ownership interest means to have possession of, title to, or control of the ownership interest, whether directly or indirectly through a fiduciary, agent, or other intermediary.
+
+4. A violation of this section is deemed to affect the public interest and constitutes an unlawful and unfair practice under chapter 19.86 RCW. A person aggrieved by an alleged violation of this section may petition the department to have the matter handled as an adjudicative proceeding under chapter 34.05 RCW.
+
+## Section 3
+1. Every application for a vehicle dealer license shall contain the following information to the extent it applies to the applicant:
+
+    a. Proof as the department may require concerning the applicant's identity, including but not limited to his or her fingerprints, the honesty, truthfulness, and good reputation of the applicant for the license, or of the officers of a corporation making the application;
+
+    b. The applicant's form and place of organization including if the applicant is a corporation, proof that the corporation is licensed to do business in this state;
+
+    c. The qualification and business history of the applicant and any partner, officer, or director;
+
+    d. The applicant's financial condition or history including a bank reference and whether the applicant or any partner, officer, or director has ever been adjudged bankrupt or has any unsatisfied judgment in any federal or state court;
+
+    e. Whether the applicant has been adjudged guilty of a crime which directly relates to the business for which the license is sought and the time elapsed since the conviction is less than ten years, or has suffered any judgment within the preceding five years in any civil action involving fraud, misrepresentation, or conversion and in the case of a corporation or partnership, all directors, officers, or partners;
+
+    f. A business telephone with a listing in the local directory;
+
+    g. The name or names of new vehicles the vehicle dealer wishes to sell;
+
+    h. The names and addresses of each manufacturer from whom the applicant has received a franchise;
+
+        i. A certificate by a representative of the department, that the applicant's principal place of business and each subagency business location in the state of Washington meets the location requirements as required by this chapter. The certificate shall include proof of the applicant's ownership or lease of the real property where the applicant's principal place of business is established;
+
+    j. A copy of a current service agreement with a manufacturer, or distributor for a foreign manufacturer, requiring the applicant, upon demand of any customer receiving a new vehicle warranty to perform or arrange for, within a reasonable distance of his or her established place of business, the service repair and replacement work required of the manufacturer or distributor by such vehicle warranty. This requirement applies only to applicants seeking to sell, to exchange, to offer, to auction, to solicit, to advertise, or to broker new or current-model vehicles with factory or distributor warranties;
+
+    k. The class of vehicles the vehicle dealer will be buying, selling, listing, exchanging, offering, brokering, leasing, auctioning, soliciting, or advertising, and which classification or classifications the dealer wishes to be designated as;
+
+    l. Effective July 1, 2002, a certificate from the provider of each education program or test showing that the applicant has completed the education programs and passed the test required under RCW 46.70.079 if the applicant is a dealer subject to the education and test requirements;
+
+    m. Any other information the department may reasonably require.
+
+2. If the applicant is a manufacturer the application shall contain the following information to the extent it is applicable to the applicant:
+
+    a. The name and address of the principal place of business of the applicant and, if different, the name and address of the Washington state representative of the applicant;
+
+    b. The name or names under which the applicant will do business in the state of Washington;
+
+    c. Evidence that the applicant is authorized to do business in the state of Washington;
+
+    d. The name or names of the vehicles that the licensee manufactures;
+
+    e. The name or names and address or addresses of each and every distributor, factory branch, and factory representative;
+
+    f. The name or names and address or addresses of resident employees or agents to provide service or repairs to vehicles located in the state of Washington only under the terms of any warranty attached to new or unused vehicles manufactured, unless such manufacturer requires warranty service to be performed by all of its dealers pursuant to a current service agreement on file with the department;
+
+    g. Any other information the department may reasonably require.
+
+3. To own, operate, or control a motor vehicle dealership as authorized under RCW 46.96.185(1)(g)(vii), a qualifying manufacturer must apply for and maintain a vehicle dealer license issued under this chapter and subject to chapter 19.86 RCW and applicable governing rules adopted by the department, not inconsistent with the provisions under RCW 46.96.185(1)(g). When applying for or renewing a vehicle dealer license under this chapter, such a qualifying manufacturer shall submit to the department a sworn affidavit by the manufacturer's authorized agent attesting to the manufacturer's satisfaction of all eligibility criteria set forth in RCW 46.96.185(1)(g)(vii).
+
+## Section 4
+1. The director may deny a license under this chapter when the application is a subterfuge that conceals the real person in interest whose license has been denied, suspended, or revoked for cause under this chapter and the terms have not been fulfilled or a civil penalty has not been paid, the director finds that the application was not filed in good faith, or the issuance of a new license or subagency would cause a manufacturer, distributor, factory branch, or factory representative, or an agent, officer, parent company, wholly or partially owned subsidiary, affiliated entity, or other person controlled by or under common control with a manufacturer, distributor, factory branch, or factory representative, to be in violation of chapter 46.96 RCW.
+
+2. The director must deny a license issued under RCW 46.70.041(3) when the application is found to have met one of the conditions described under subsection (1) of this section.
+
+3. This section does not preclude the department from taking an action against a current licensee.
+
+## Section 5
+The director may by order deny, suspend, or revoke the license of any vehicle dealer or vehicle manufacturer or, in lieu thereof or in addition thereto, may by order assess monetary penalties of a civil nature not to exceed one thousand dollars per violation, if the director finds that the order is in the public interest and that the applicant or licensee:
+
+1. In the case of a vehicle dealer:
+
+    a. The applicant or licensee, or any partner, officer, director, owner of ten percent or more of the assets of the firm, or managing employee:
+
+        i. Was the holder of a license issued pursuant to this chapter, which was revoked for cause and never reissued by the department, or which license was suspended for cause and the terms of the suspension have not been fulfilled or which license was assessed a civil penalty and the assessed amount has not been paid;
+
+        ii. Has been adjudged guilty of a crime which directly relates to the business of a vehicle dealer and the time elapsed since the adjudication is less than ten years, or suffering any judgment within the preceding five years in any civil action involving fraud, misrepresentation, or conversion. For the purposes of this section, "adjudged guilty" means in addition to a final conviction in either a state or municipal court, an unvacated forfeiture of bail or collateral deposited to secure a defendant's appearance in court, the payment of a fine, a plea of guilty, or a finding of guilt regardless of whether the sentence is deferred or the penalty is suspended;
+
+        iii. Has knowingly or with reason to know made a false statement of a material fact in his or her application for license or any data attached thereto, or in any matter under investigation by the department;
+
+        iv. Has knowingly, or with reason to know, provided the department with false information relating to the number of vehicle sales transacted during the past one year in order to obtain a vehicle dealer license plate;
+
+    v. Does not have an established place of business as required in this chapter;
+
+    vi. Refuses to allow representatives or agents of the department to inspect during normal business hours all books, records, and files maintained within this state;
+
+    vii. Sells, exchanges, offers, brokers, auctions, solicits, or advertises a new or current model vehicle to which a factory new vehicle warranty attaches and fails to have a valid, written service agreement as required by this chapter, or having such agreement refuses to honor the terms of such agreement within a reasonable time or repudiates the same, except for sales by wholesale motor vehicle auction dealers to franchise motor vehicle dealers of the same make licensed under this title or franchise motor vehicle dealers of the same make licensed by any other state;
+
+    viii. Is insolvent, either in the sense that their liabilities exceed their assets, or in the sense that they cannot meet their obligations as they mature;
+
+        ix. Fails to pay any civil monetary penalty assessed by the director pursuant to this section within ten days after such assessment becomes final;
+
+    x. Fails to notify the department of bankruptcy proceedings in the manner required by RCW 46.70.183;
+
+    xi. Knowingly, or with reason to know, allows a salesperson employed by the dealer, or acting as their agent, to commit any of the prohibited practices set forth in subsection (1)(a) of this section and RCW 46.70.180;
+
+    xii. Fails to have a current certificate or registration with the department of revenue.
+
+    b. The applicant or licensee, or any partner, officer, director, owner of ten percent of the assets of the firm, or any employee or agent:
+
+        i. Has failed to comply with the applicable provisions of chapter 46.12 or 46.16A RCW or this chapter or any rules and regulations adopted thereunder;
+
+        ii. Has defrauded or attempted to defraud the state, or a political subdivision thereof of any taxes or fees in connection with the sale, lease, or transfer of a vehicle;
+
+        iii. Has forged the signature of the registered or legal owner on a certificate of title;
+
+        iv. Has purchased, sold, disposed of, or has in his or her possession any vehicle which he or she knows or has reason to know has been stolen or appropriated without the consent of the owner;
+
+    v. Has willfully failed to deliver to a purchaser or owner a certificate of title to a vehicle which he or she has sold or leased;
+
+    vi. Has committed any act in violation of RCW 46.70.090 relating to vehicle dealer license plates or manufacturer license plates;
+
+    vii. Has committed any act in violation of RCW 46.70.180 relating to unlawful acts and practices;
+
+    viii. Has engaged in practices inimical to the health or safety of the citizens of the state of Washington including but not limited to failure to comply with standards set by the state of Washington or the federal government pertaining to the construction or safety of vehicles, except for sales by wholesale motor vehicle auction dealers to motor vehicle dealers and vehicle wreckers licensed under this title or motor vehicle dealers licensed by any other state;
+
+        ix. Has aided or assisted an unlicensed dealer or salesperson in unlawful activity through active or passive participation in sales, allowing use of facilities, dealer license number, or by any other means;
+
+    x. Converts or appropriates, whether temporarily or permanently, property or funds belonging to a customer, dealer, or manufacturer, without the consent of the owner of the property or funds; or
+
+    xi. Has sold any vehicle with actual knowledge that:
+
+(A) It has any of the following brands on the title: "SALVAGE/REBUILT," "JUNK," or "DESTROYED"; or
+
+(B) It has been declared totaled out by an insurance carrier and then rebuilt; or
+
+(C) The vehicle title contains the specific comment that the vehicle is "rebuilt";
+
+without clearly disclosing that brand or comment in writing.
+
+    c. The licensee or any partner, officer, director, or owner of ten percent or more of the assets of the firm holds or has held any such position in any other vehicle dealership licensed pursuant to this chapter which is subject to final proceedings under this section.
+
+2. In the case of a manufacturer, or any partner, officer, director, or majority shareholder:
+
+    a. Was or is the holder of a license issued pursuant to this chapter which was revoked for cause and never reissued by the department, or which license was suspended for cause and the terms of the suspension have not been fulfilled, or which license was assessed a civil penalty and the assessed amount has not been paid;
+
+    b. Has knowingly or with reason to know, made a false statement of a material fact in his or her application for license, or any data attached thereto, or in any matter under investigation by the department;
+
+    c. Has failed to comply with the applicable provisions of chapter 46.12 or 46.16A RCW or this chapter or any rules and regulations adopted thereunder;
+
+    d. Has defrauded or attempted to defraud the state or a political subdivision thereof, of any taxes or fees in connection with the sale, lease, or transfer of a vehicle;
+
+    e. Has purchased, sold, leased, disposed of, or has in his or her possession, any vehicle which he or she knows or has reason to know has been stolen or appropriated without the consent of the owner;
+
+    f. Has committed any act in violation of RCW 46.70.090 relating to vehicle dealer license plates and manufacturer license plates;
+
+    g. Has committed any act in violation of RCW 46.70.180 relating to unlawful acts and practices;
+
+    h. Sells or distributes in this state or transfers into this state for resale or for lease, any new or unused vehicle to which a warranty attaches or has attached and refuses to honor the terms of such warranty within a reasonable time or repudiates the same;
+
+        i. Fails to maintain one or more resident employees or agents to provide service or repairs to vehicles located within the state of Washington only under the terms of any warranty attached to new or unused vehicles manufactured and which are or have been sold or distributed in this state or transferred into this state for resale or for lease unless such manufacturer requires warranty service to be performed by all of its dealers pursuant to a current service agreement on file with the department;
+
+    j. Fails to reimburse within a reasonable time any vehicle dealer within the state of Washington who in good faith incurs reasonable obligations in giving effect to warranties that attach or have attached to any new or unused vehicle sold, leased, or distributed in this state or transferred into this state for resale or for lease by any such manufacturer;
+
+    k. Engaged in practices inimical to the health and safety of the citizens of the state of Washington including, but not limited to, failure to comply with standards set by the state of Washington or the federal government pertaining to the construction and safety of vehicles;
+
+    l. Is insolvent either in the sense that his or her liabilities exceed his or her assets or in the sense that he or she cannot meet his or her obligations as they mature;
+
+    m. Fails to notify the department of bankruptcy proceedings in the manner required by RCW 46.70.183.
+
+3. In the case of a manufacturer issued a vehicle dealer license pursuant to RCW 46.70.041(3) and 46.96.185(1)(g)(vii), and in addition to the grounds enumerated in subsections (1) and (2) of this section, ceases to satisfy all eligibility criteria under RCW 46.96.185(1)(g)(vii). The department must revoke such a vehicle dealer license within 30 days. This subsection must be enforced by the department and the office of the attorney general consistent with RCW 46.70.102, 46.70.111, and 46.70.220.
+
+## Section 6
+1. It is a misdemeanor for any person to violate any of the provisions of this chapter, except where expressly provided otherwise, and the rules adopted as provided under this chapter.
+
+2. A penalty of $10,000 must be assessed for each retail sale or lease transaction consummated in this state after the effective date of this section by a manufacturer that is prohibited by law from acting in the capacity of a motor vehicle dealer and is ineligible for exemption under RCW 46.96.185(1)(g). The department and the office of the attorney general must enforce this subsection consistent with RCW 46.70.102, 46.70.111, and 46.70.220.
+
+## Section 7
+Each of the following acts or practices is unlawful:
+
+1. To cause or permit to be advertised, printed, displayed, published, distributed, broadcasted, televised, or disseminated in any manner whatsoever, any statement or representation with regard to the sale, lease, or financing of a vehicle which is false, deceptive, or misleading including, but not limited to, the following:
+
+    a. That no down payment is required in connection with the sale of a vehicle when a down payment is in fact required, or that a vehicle may be purchased for a smaller down payment than is actually required;
+
+    b. That a certain percentage of the sale price of a vehicle may be financed when such financing is not offered in a single document evidencing the entire security transaction;
+
+    c. That a certain percentage is the amount of the service charge to be charged for financing, without stating whether this percentage charge is a monthly amount or an amount to be charged per year;
+
+    d. That a new vehicle will be sold for a certain amount above or below cost without computing cost as the exact amount of the factory invoice on the specific vehicle to be sold;
+
+    e. That a vehicle will be sold upon a monthly payment of a certain amount, without including in the statement the number of payments of that same amount which are required to liquidate the unpaid purchase price.
+
+2. [Empty]
+
+    a. [Empty]
+
+        i. To incorporate within the terms of any purchase and sale or lease agreement any statement or representation with regard to the sale, lease, or financing of a vehicle which is false, deceptive, or misleading including, but not limited to, terms that include as an added cost to the selling price or capitalized cost of a vehicle an amount for licensing or transfer of title of that vehicle which is not actually due to the state, unless such amount has in fact been paid by the dealer prior to such sale.
+
+        ii. However, an amount not to exceed $250, from the effective date of this section until December 31, 2036, and $225, beginning January 1, 2037, per vehicle sale or lease may be charged by a dealer to recover administrative costs for collecting motor vehicle excise taxes, licensing and registration fees and other agency fees, verifying and clearing titles, transferring titles, perfecting, releasing, or satisfying liens or other security interests, and other administrative and documentary services rendered by a dealer in connection with the sale or lease of a vehicle and in carrying out the requirements of this chapter or any other provisions of state law.
+
+    b. A dealer may charge the documentary service fee in (a) of this subsection under the following conditions:
+
+        i. The documentary service fee is disclosed in writing to a prospective purchaser or lessee before the execution of a purchase and sale or lease agreement;
+
+        ii. The dealer discloses to the purchaser or lessee in writing that the documentary service fee is a negotiable fee. The disclosure must be written in a typeface that is at least as large as the typeface used in the standard text of the document that contains the disclosure and that is boldfaced, capitalized, underlined, or otherwise set out from the surrounding material so as to be conspicuous. The dealer shall not represent to the purchaser or lessee that the fee or charge is required by the state to be paid by either the dealer or prospective purchaser or lessee;
+
+        iii. The documentary service fee is separately designated from the selling price or capitalized cost of the vehicle and from any other taxes, fees, or charges;
+
+        iv. Dealers disclose in any advertisement that a documentary service fee in an amount up to $250, from the effective date of this section until December 31, 2036, and $225, beginning January 1, 2037, may be added to the sale price or the capitalized cost; and
+
+    v. Until December 31, 2036, the dealer transfers 50 percent of any documentary service fee collected in excess of $200 to the department of licensing to be distributed as follows:
+
+(A) Twenty-five percent to the electric vehicle account created in RCW 82.44.200 for instant rebates for the purchase of used electric vehicles for persons with household incomes at or below 300 percent of the federal poverty level; and
+
+(B) Seventy-five percent to the multimodal transportation account.
+
+For the purposes of this subsection (2), the term "documentary service fee" means the optional amount charged by a dealer to provide the services specified in (a) of this subsection.
+
+3. To set up, promote, or aid in the promotion of a plan by which vehicles are to be sold or leased to a person for a consideration and upon further consideration that the purchaser or lessee agrees to secure one or more persons to participate in the plan by respectively making a similar purchase and in turn agreeing to secure one or more persons likewise to join in said plan, each purchaser or lessee being given the right to secure money, credits, goods, or something of value, depending upon the number of persons joining the plan.
+
+4. To commit, allow, or ratify any act of "bushing" which is defined as follows: Entering into a written contract, written purchase order or agreement, retail installment sales agreement, note and security agreement, or written lease agreement, hereinafter collectively referred to as contract or lease, signed by the prospective buyer or lessee of a vehicle, which:
+
+    a. Is subject to any conditions or the dealer's or his or her authorized representative's future acceptance, and the dealer fails or refuses within the "bushing" period, which is four calendar days, exclusive of Saturday, Sunday, or legal holiday, and prior to any further negotiations with said buyer or lessee to inform the buyer or lessee either: (i) That the dealer unconditionally accepts the contract or lease, having satisfied, removed, or waived all conditions to acceptance or performance, including, but not limited to, financing, assignment, or lease approval; or (ii) that the dealer rejects the contract or lease, thereby automatically voiding the contract or lease, as long as such voiding does not negate commercially reasonable contract or lease provisions pertaining to the return of the subject vehicle and any physical damage, excessive mileage after the demand for return of the vehicle, and attorneys' fees authorized by law, and tenders the refund of any initial payment or security made or given by the buyer or lessee, including, but not limited to, any down payment, and tenders return of the trade-in vehicle, key, other trade-in, or certificate of title to a trade-in. Tender may be conditioned on return of the subject vehicle if previously delivered to the buyer or lessee.
+
+The provisions of this subsection (4)(a) do not impair, prejudice, or abrogate the rights of a dealer to assert a claim against the buyer or lessee for misrepresentation or breach of contract and to exercise all remedies available at law or in equity, including those under chapter 62A.9A RCW, if the dealer, bank, or other lender or leasing company discovers that approval of the contract or financing or approval of the lease was based upon material misrepresentations made by the buyer or lessee, including, but not limited to, misrepresentations regarding income, employment, or debt of the buyer or lessee, as long as the dealer, or his or her staff, has not, with knowledge of the material misrepresentation, aided, assisted, encouraged, or participated, directly or indirectly, in the misrepresentation. A dealer shall not be in violation of this subsection (4)(a) if the buyer or lessee made a material misrepresentation to the dealer, as long as the dealer, or his or her staff, has not, with knowledge of the material misrepresentation, aided, assisted, encouraged, or participated, directly or indirectly, in the misrepresentation.
+
+A dealer may inform a buyer or lessee under this subsection (4)(a) regarding the unconditional acceptance or rejection of the contract, lease, or financing by sending an email message to the buyer's or lessee's supplied email address, by phone call, by leaving a voice message or sending a text message to a phone number provided by the buyer or lessee, by in-person oral communication, by mailing a letter by first-class mail if the buyer or lessee expresses a preference for a letter or declines to provide an email address and a phone number capable of receiving a free text message, or by another means agreed to by the buyer or lessee or approved by the department, effective upon the execution, mailing, or sending of the communication and before expiration of the "bushing" period;
+
+    b. Permits the dealer to renegotiate a dollar amount specified as trade-in allowance on a vehicle delivered or to be delivered by the buyer or lessee as part of the purchase price or lease, for any reason except:
+
+        i. Failure to disclose that the vehicle's certificate of title has been branded for any reason, including, but not limited to, status as a rebuilt vehicle as provided in RCW 46.12.540 and 46.12.560; or
+
+        ii. Substantial physical damage or latent mechanical defect occurring before the dealer took possession of the vehicle and which could not have been reasonably discoverable at the time of the taking of the order, offer, or contract; or
+
+        iii. Excessive additional miles or a discrepancy in the mileage. "Excessive additional miles" means the addition of 500 miles or more, as reflected on the vehicle's odometer, between the time the vehicle was first valued by the dealer for purposes of determining its trade-in value and the time of actual delivery of the vehicle to the dealer. "A discrepancy in the mileage" means (A) a discrepancy between the mileage reflected on the vehicle's odometer and the stated mileage on the signed odometer statement; or (B) a discrepancy between the mileage stated on the signed odometer statement and the actual mileage on the vehicle; or
+
+    c. Fails to comply with the obligation of any written warranty or guarantee given by the dealer requiring the furnishing of services or repairs within a reasonable time.
+
+5. To commit any offense relating to odometers, as such offenses are defined in RCW 46.37.540, 46.37.550, 46.37.560, and 46.37.570. A violation of this subsection is a class C felony punishable under chapter 9A.20 RCW.
+
+6. For any vehicle dealer or vehicle salesperson to refuse to furnish, upon request of a prospective purchaser or lessee, for vehicles previously registered to a business or governmental entity, the name and address of the business or governmental entity.
+
+7. To commit any other offense under RCW 46.37.423, 46.37.424, or 46.37.425.
+
+8. To commit any offense relating to a dealer's temporary license permit including, but not limited to, failure to properly complete each such permit, or the issuance of more than one such permit on any one vehicle. However, a dealer may issue a second temporary permit on a vehicle if the following conditions are met:
+
+    a. The lienholder fails to deliver the vehicle title to the dealer within the required time period;
+
+    b. The dealer has satisfied the lien; and
+
+    c. The dealer has proof that payment of the lien was made within two calendar days, exclusive of Saturday, Sunday, or a legal holiday, after the sales contract has been executed by all parties and all conditions and contingencies in the sales contract have been met or otherwise satisfied.
+
+9. For a dealer, salesperson, or mobile home manufacturer, having taken an instrument or cash "on deposit" from a purchaser or lessee prior to the delivery of the bargained-for vehicle, to commingle the "on deposit" funds with assets of the dealer, salesperson, or mobile home manufacturer instead of holding the "on deposit" funds as trustee in a separate trust account until the purchaser or lessee has taken delivery of the bargained-for vehicle. Delivery of a manufactured home shall be deemed to occur in accordance with RCW 46.70.135(5). Failure, immediately upon receipt, to endorse "on deposit" instruments to such a trust account, or to set aside "on deposit" cash for deposit in such trust account, and failure to deposit such instruments or cash in such trust account by the close of banking hours on the day following receipt thereof, shall be evidence of intent to commit this unlawful practice: PROVIDED, HOWEVER, That a motor vehicle dealer may keep a separate trust account which equals his or her customary total customer deposits for vehicles for future delivery. For purposes of this section, "on deposit" funds received from a purchaser of a manufactured home means those funds that a seller requires a purchaser to advance before ordering the manufactured home, but does not include any loan proceeds or moneys that might have been paid on an installment contract.
+
+10. For a dealer or manufacturer to fail to comply with the obligations of any written warranty or guarantee given by the dealer or manufacturer requiring the furnishing of goods and services or repairs within a reasonable period of time, or to fail to furnish to a purchaser or lessee, all parts which attach to the manufactured unit including, but not limited to, the undercarriage, and all items specified in the terms of a sales or lease agreement signed by the seller and buyer or lessee.
+
+11. For a vehicle dealer to pay to or receive from any person, firm, partnership, association, or corporation acting, either directly or through a subsidiary, as a buyer's agent for consumers, any compensation, fee, purchase moneys or funds that have been deposited into or withdrawn out of any account controlled or used by any buyer's agent, gratuity, or reward in connection with the purchase, sale, or lease of a new motor vehicle.
+
+12. For a buyer's agent, acting directly or through a subsidiary, to pay to or to receive from any motor vehicle dealer any compensation, fee, gratuity, or reward in connection with the purchase, sale, or lease of a new motor vehicle. In addition, it is unlawful for any buyer's agent to engage in any of the following acts on behalf of or in the name of the consumer:
+
+    a. Receiving or paying any purchase moneys or funds into or out of any account controlled or used by any buyer's agent;
+
+    b. Signing any vehicle purchase orders, sales contracts, leases, odometer statements, or title documents, or having the name of the buyer's agent appear on the vehicle purchase order, sales contract, lease, or title; or
+
+    c. Signing any other documentation relating to the purchase, sale, lease, or transfer of any new motor vehicle.
+
+It is unlawful for a buyer's agent to use a power of attorney obtained from the consumer to accomplish or effect the purchase, sale, lease, or transfer of ownership documents of any new motor vehicle by any means which would otherwise be prohibited under (a) through (c) of this subsection. However, the buyer's agent may use a power of attorney for physical delivery of motor vehicle license plates to the consumer.
+
+Further, it is unlawful for a buyer's agent to engage in any false, deceptive, or misleading advertising, disseminated in any manner whatsoever, including but not limited to making any claim or statement that the buyer's agent offers, obtains, or guarantees the lowest price on any motor vehicle or words to similar effect.
+
+13. For a buyer's agent to arrange for or to negotiate the purchase, or both, of a new motor vehicle through an out-of-state dealer without disclosing in writing to the customer that the new vehicle would not be subject to chapter 19.118 RCW. This subsection also applies to leased vehicles. In addition, it is unlawful for any buyer's agent to fail to have a written agreement with the customer that: (a) Sets forth the terms of the parties' agreement; (b) discloses to the customer the total amount of any fees or other compensation being paid by the customer to the buyer's agent for the agent's services; and (c) further discloses whether the fee or any portion of the fee is refundable.
+
+14. Being a manufacturer, other than a motorcycle manufacturer governed by chapter 46.93 RCW, to:
+
+    a. Coerce or attempt to coerce any vehicle dealer to order or accept delivery of any vehicle or vehicles, parts or accessories, or any other commodities which have not been voluntarily ordered by the vehicle dealer: PROVIDED, That recommendation, endorsement, exposition, persuasion, urging, or argument are not deemed to constitute coercion;
+
+    b. Cancel or fail to renew the franchise or selling agreement of any vehicle dealer doing business in this state without fairly compensating the dealer at a fair going business value for his or her capital investment which shall include, but not be limited to, tools, equipment, and parts inventory possessed by the dealer on the day he or she is notified of such cancellation or termination and which are still within the dealer's possession on the day the cancellation or termination is effective, if: (i) The capital investment has been entered into with reasonable and prudent business judgment for the purpose of fulfilling the franchise; and (ii) the cancellation or nonrenewal was not done in good faith. Good faith is defined as the duty of each party to any franchise to act in a fair and equitable manner towards each other, so as to guarantee one party freedom from coercion, intimidation, or threats of coercion or intimidation from the other party: PROVIDED, That recommendation, endorsement, exposition, persuasion, urging, or argument are not deemed to constitute a lack of good faith;
+
+    c. Encourage, aid, abet, or teach a vehicle dealer to sell or lease vehicles through any false, deceptive, or misleading sales or financing practices including but not limited to those practices declared unlawful in this section;
+
+    d. Coerce or attempt to coerce a vehicle dealer to engage in any practice forbidden in this section by either threats of actual cancellation or failure to renew the dealer's franchise agreement;
+
+    e. Refuse to deliver any vehicle publicly advertised for immediate delivery to any duly licensed vehicle dealer having a franchise or contractual agreement for the retail sale or lease of new and unused vehicles sold or distributed by such manufacturer within 60 days after such dealer's order has been received in writing unless caused by inability to deliver because of shortage or curtailment of material, labor, transportation, or utility services, or by any labor or production difficulty, or by any cause beyond the reasonable control of the manufacturer;
+
+    f. To provide under the terms of any warranty that a purchaser or lessee of any new or unused vehicle that has been sold or leased, distributed for sale or lease, or transferred into this state for resale or lease by the vehicle manufacturer may only make any warranty claim on any item included as an integral part of the vehicle against the manufacturer of that item.
+
+Nothing in this section may be construed to impair the obligations of a contract or to prevent a manufacturer, distributor, representative, or any other person, whether or not licensed under this chapter, from requiring performance of a written contract entered into with any licensee hereunder, nor does the requirement of such performance constitute a violation of any of the provisions of this section if any such contract or the terms thereof requiring performance, have been freely entered into and executed between the contracting parties. This paragraph and subsection (14)(b) of this section do not apply to new motor vehicle manufacturers governed by chapter 46.96 RCW.
+
+15. Unlawful transfer of an ownership interest in a motor vehicle as defined in RCW 19.116.050.
+
+16. To knowingly and intentionally engage in collusion with a registered owner of a vehicle to repossess and return or resell the vehicle to the registered owner in an attempt to avoid a suspended license impound under chapter 46.55 RCW. However, compliance with chapter 62A.9A RCW in repossessing, selling, leasing, or otherwise disposing of the vehicle, including providing redemption rights to the debtor, is not a violation of this section.
+
+17. [Empty]
+
+    a. For a dealer to enter into a new motor vehicle sales contract without disclosing in writing to a buyer of the new motor vehicle, or to a dealer in the case of an unregistered motor vehicle, any known damage and repair to the new motor vehicle if the damage exceeds five percent of the manufacturer's suggested retail price as calculated at the dealer's authorized warranty rate for labor and parts, or $1,000, whichever amount is greater. A manufacturer or new motor vehicle dealer is not required to disclose to a dealer or buyer that glass, tires, bumpers, or cosmetic parts of a new motor vehicle were damaged at any time if the damaged item has been replaced with original or comparable equipment. A replaced part is not part of the cumulative damage required to be disclosed under this subsection.
+
+    b. A manufacturer is required to provide the same disclosure to a dealer of any known damage or repair as required in (a) of this subsection.
+
+    c. If disclosure of any known damage or repair is not required under this section, a buyer may not revoke or rescind a sales contract due to the fact that the new motor vehicle was damaged and repaired before completion of the sale.
+
+    d. As used in this section:
+
+        i. "Cosmetic parts" means parts that are attached by and can be replaced in total through the use of screws, bolts, or other fasteners without the use of welding or thermal cutting, and includes windshields, bumpers, hoods, or trim panels.
+
+        ii. "Manufacturer's suggested retail price" means the retail price of the new motor vehicle suggested by the manufacturer, and includes the retail delivered price suggested by the manufacturer for each accessory or item of optional equipment physically attached to the new motor vehicle at the time of delivery to the new motor vehicle dealer that is not included within the retail price suggested by the manufacturer for the new motor vehicle.

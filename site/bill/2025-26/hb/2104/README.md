@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 2104 Aviation assurance funding
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

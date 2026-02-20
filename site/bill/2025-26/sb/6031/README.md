@@ -9,6 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESSB 6031 Insurance crimes
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6031 Insurance crimes
 #### 22 👍 - Pro
 Testifying:

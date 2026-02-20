@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5901/</link>
 		<description>Updates about SB 5901</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,6 +159,13 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Capital Budget.</title>
+			<description>First reading, referred to Capital Budget.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/First reading, referred to Capital Budget.</guid>
 		</item>
 	</channel>
 </rss>

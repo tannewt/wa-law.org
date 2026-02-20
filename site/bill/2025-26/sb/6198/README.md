@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Ways & Means (WM): SB 6198 Accounts
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management

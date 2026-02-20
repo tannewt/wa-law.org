@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): SHB 2088 Dietitian licensure compact
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Breck Lebegue

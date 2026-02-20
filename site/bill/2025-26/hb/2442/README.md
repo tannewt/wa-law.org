@@ -13,6 +13,15 @@
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202442)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): ESHB 2442 Local government fund use
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 10:30 AM - Appropriations (APP): SHB 2442 Local government fund use
 #### 193 👍 - Pro
 Testifying:

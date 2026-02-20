@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Health & Long Term Care (HLTC): ESHB 2110 Specialty care transports
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 2 👎 - Con

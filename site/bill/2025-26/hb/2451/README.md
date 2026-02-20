@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2451 Local tax increment fin.
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

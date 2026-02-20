@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/24 10:30 AM - Local Government (LG): SB 6132 Inland port district debt
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6132 Inland port district debt
 #### 11 👍 - Pro
 Testifying:

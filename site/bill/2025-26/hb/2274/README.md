@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 2274 Commercial electronic mail
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

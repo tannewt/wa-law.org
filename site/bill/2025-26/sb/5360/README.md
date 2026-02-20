@@ -16,6 +16,15 @@
 * 03/05/2025 [The Center Square](/org/the_center_square/) - [WA bill seeks to use criminal prosecution as an environmental protection tool | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_08bedeac-fa0d-11ef-8645-c7b5a4846ae4.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205360)
 
 ## Meetings
+### Mon 02/23 01:30 PM - Environment & Energy (ENVI): 2ESSB 5360 Environmental crimes
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 04/05 09:00 AM - Appropriations (APP): ESSB 5360 Environmental crimes
 #### 7 👍 - Pro
 Testifying:

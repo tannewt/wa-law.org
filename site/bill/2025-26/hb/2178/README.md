@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Law & Justice (LAW): SHB 2178 Court rules and procedures
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Education (ED): ESSB 6247 School financial management
-Sign up to testify:
-
 #### 2 👍 - Pro
 
 #### 0 👎 - Con

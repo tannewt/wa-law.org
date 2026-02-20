@@ -23,8 +23,6 @@
 
 ## Meetings
 ### Thu 02/19 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1795 Student restraint, isolation
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

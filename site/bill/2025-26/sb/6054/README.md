@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Thu 02/19 08:00 AM - Housing (HOUS): SSB 6054 Wildfire home hardening/CICs
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

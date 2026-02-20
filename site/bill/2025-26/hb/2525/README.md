@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Thu 02/19 01:30 PM - Higher Education & Workforce Development (HEWD): SHB 2525 Heritage orchard program
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

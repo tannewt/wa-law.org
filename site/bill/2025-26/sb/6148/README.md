@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Thu 02/19 04:00 PM - Transportation (TR): SB 6148 RTA bond issues maximum term
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 1 👎 - Con

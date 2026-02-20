@@ -14,6 +14,15 @@
 * 01/23/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 26-30, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-26-30-2026/#:~:text=HB%202523)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Ways & Means (WM): E2SHB 2523 Community reinvestment prg.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/07 09:00 AM - Appropriations (APP): SHB 2523 Community reinvestment prg.
 #### 87 👍 - Pro
 Testifying:
