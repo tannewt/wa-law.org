@@ -146,7 +146,7 @@ async def main():
                     first_name = first_name.strip()
                     organization = cols[2].strip()
                     position = cols[3]
-                    sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %H:%M:%S %p")
+                    sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %I:%M:%S %p")
                     if position not in position_cache:
                         cur.execute("INSERT OR IGNORE INTO positions VALUES (?)", (position,))
                         cur.execute("SELECT rowid FROM positions WHERE position = ?;", (position,))

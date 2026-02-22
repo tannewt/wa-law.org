@@ -229,9 +229,9 @@ async def main():
         url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year}"
         legislationOdd = await requests.get(url, fetch_again=FORCE_FETCH)
         legislationOdd = BeautifulSoup(legislationOdd.decode("utf-8"), "xml")
-        # url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year+1}"
-        # legislationEven = await requests.get(url, fetch_again=FORCE_FETCH)
-        # legislationEven = BeautifulSoup(legislationEven.decode("utf-8"), "xml")
+        url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year+1}"
+        legislationEven = await requests.get(url, fetch_again=FORCE_FETCH)
+        legislationEven = BeautifulSoup(legislationEven.decode("utf-8"), "xml")
         url = api_root_url + f"/LegislationService.asmx/GetPreFiledLegislationInfo?"
         legislationPrefiled = await requests.get(url, fetch_again=FORCE_FETCH)
         legislationPrefiled = BeautifulSoup(legislationPrefiled.decode("utf-8"), "xml")
@@ -239,7 +239,7 @@ async def main():
         bills_by_sponsor = {}
         bills_by_number = {}
         sponsor_by_bill_number = {}
-        for info in legislationOdd.find_all("LegislationInfo")+ legislationPrefiled.find_all("LegislationInfo"): # + legislationEven.find_all("LegislationInfo") :
+        for info in legislationOdd.find_all("LegislationInfo") + legislationEven.find_all("LegislationInfo") + legislationPrefiled.find_all("LegislationInfo"):
             bill_number = info.BillNumber.text
             bill_id = info.BillId.text
 
@@ -374,7 +374,7 @@ async def main():
                     bill_status_rowid = cur.fetchone()[0]
 
                     cur.execute("INSERT OR IGNORE INTO bill_status (bill_rowid, bill_status_rowid, action_date) VALUES (?, ?, ?)", (bill_rowid, bill_status_rowid, action_date))
-                    
+
                     if history_line:
                         history_line = history_line.text
                         cur.execute("INSERT OR IGNORE INTO bill_history (bill_rowid, action_date, history_line) VALUES (?, ?, ?)", (bill_rowid, action_date, history_line))
@@ -418,7 +418,7 @@ async def main():
                         if "-" in doc.Name.text:
                             revision = doc.Name.text.split("-")[1]
                         print(doc.Name.text, revision, commit_date, url)
-                        
+
                         try:
                             cur.execute("INSERT INTO revisions(bill_rowid, version, description, source_url, modified_time) VALUES (?, ?, ?, ?, ?)", (bill_rowid, revision, short_description, pdf_url, commit_date))
                         except sqlite3.IntegrityError:
@@ -515,8 +515,10 @@ async def main():
                                             if child.name != "TextRun":
                                                 if child.name == "SectionCite":
                                                     line.append(child.text)
-                                                elif child.name == "Hyphen" and child["type"] == "nobreak":
-                                                    line.append("‑")
+                                                elif child.name == "Hyphen":
+                                                    print("Hyphen found:", child)
+                                                    if child["type"] == "nobreak":
+                                                        line.append("‑")
                                                 elif child.name not in ("Leader",):
                                                     # print(paragraph, child)
                                                     raise RuntimeError()
