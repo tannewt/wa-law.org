@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206239)
 * 02/10/2026 [The Center Square](/org/the_center_square/) - [WA bill would limit tort claim options for child victims against state, local governments | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1c4acec7-291d-4d8d-95e7-e83d18d2f44c.html#:~:text=Senate%20Bill%206239)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SSB%206239)
 * 01/28/2026 [The Washington Observer](/org/the_washington_observer/) - [Fact-checking the farmworker union debate](https://washingtonobserver.substack.com/p/fact-checking-the-farmworker-union#:~:text=Sen.%20Manka%20Dhingra’s%20bill)

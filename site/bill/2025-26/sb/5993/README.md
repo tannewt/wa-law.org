@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%205993)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [We're halfway there - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2026/02/10/were-halfway-there/#:~:text=SB%205993:)
 * 02/10/2026 [Senate Democrats](/org/senate_democrats/) - [What’s happening at the Capitol - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/10/3156/#:~:text=Senate%20Bill%205993)
 * 01/23/2026 [Senate Democrats](/org/senate_democrats/) - [What does affordability mean to you? - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2026/01/23/what-does-affordability-mean-to-you/#:~:text=interest%20charges)

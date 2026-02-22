@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Budgets revealed, another cutoff arrives as session hits its stretch run - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/20/this-week-in-the-senate-week-7-budgets-revealed-another-cutoff-arrives-as-session-hits-its-stretch-run/#:~:text=House%20Bill%202464)
 * 02/18/2026 [The Urbanist](/org/the_urbanist/) - [ICE’s Tacoma Detention Center Targeted in New Lawsuit Alleging Abuses » The Urbanist](https://www.theurbanist.org/2026/02/18/ice-tacoma-detention-center-targeted-in-lawsuit/#:~:text=HB%202464)
 * 02/16/2026 [House Democrats](/org/house_democrats/) - [House passes bill requiring transparency at private detention facilities / Cámara aprueba proyecto exigiendo transparencia en centros de detención privados – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/16/house-passes-bill-requiring-transparency-at-private-detention-facilities-camara-aprueba-proyecto-exigiendo-transparencia-en-centros-de-detencion-privados/#:~:text=House%20Bill%202464)
 * 01/19/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/19/the-house-hot-sheet-for-week-2-of-the-2026-legislative-session/#:~:text=HB%202464)

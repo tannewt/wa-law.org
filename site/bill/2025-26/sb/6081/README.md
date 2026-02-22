@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 6081 Government record privacy
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

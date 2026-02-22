@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 2345 Paid leave contributions
-Sign up to testify:
-
 #### 2 👍 - Pro
 
 #### 0 👎 - Con

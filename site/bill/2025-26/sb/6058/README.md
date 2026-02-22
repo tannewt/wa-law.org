@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): ESB 6058 Wage enforcement discretion
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

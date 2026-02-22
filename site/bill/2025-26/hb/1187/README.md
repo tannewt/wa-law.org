@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): ESHB 1187 Delayed ambulance bills
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): SHB 2577 Hospital inspections
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

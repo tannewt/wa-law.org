@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 2091 Bargaining/employee info.
-Sign up to testify:
-
 #### 8 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

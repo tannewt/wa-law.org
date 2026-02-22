@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2531/</link>
 		<description>Updates about HB 2531</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 16 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -71,6 +71,20 @@
 			<pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-16/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/HLTC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-20/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 1759 Day of the 12s
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Captain Seahawk - Captain SeaHawk V2.0

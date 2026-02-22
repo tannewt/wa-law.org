@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): 2SHB 2333 Political violence
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

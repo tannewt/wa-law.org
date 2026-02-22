@@ -17,8 +17,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 1128 Child care workforce board
-Sign up to testify:
-
 #### 26 👍 - Pro
 
 #### 0 👎 - Con

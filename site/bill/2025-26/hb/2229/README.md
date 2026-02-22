@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): ESHB 2229 Professional engineers
-Sign up to testify:
-
 #### 1 👍 - Pro
 Testifying:
 * Ken Fuller - Director of BRPELS

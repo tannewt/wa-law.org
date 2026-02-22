@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Housing (HSG): 2SHB 2590 Limited equity cooperatives
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

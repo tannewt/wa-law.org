@@ -22,8 +22,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): ESSB 5984 AI companion chatbots
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

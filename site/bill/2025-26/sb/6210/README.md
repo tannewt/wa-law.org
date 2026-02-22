@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): ESSB 6210 Health plan certification
-Sign up to testify:
-
 #### 6 👍 - Pro
 
 #### 0 👎 - Con

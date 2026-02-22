@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5467/</link>
 		<description>Updates about SB 5467</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 15:48:50 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -172,6 +172,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Devin/Gombosky/2026-02-13 15:48:50</guid>
+		</item>
+		<item>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-20/LG - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

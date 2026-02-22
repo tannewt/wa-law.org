@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5827 Veterans/discharge def.
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/02 04:00 PM - Ways & Means (WM): SSB 5827 Veterans/discharge def.
 #### 53 👍 - Pro
 

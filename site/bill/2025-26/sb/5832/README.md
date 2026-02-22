@@ -13,6 +13,15 @@
 * 12/06/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills begin streaming in ahead of WA’s 2026 legislative session • Washington State Standard](https://washingtonstatestandard.com/2025/12/06/bills-begin-streaming-in-ahead-of-was-2026-legislative-session/#:~:text=the%20first%20fee%20increase)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): SB 5832 Motor vehicle arb. fee
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/19 04:00 PM - Ways & Means (WM): SB 5832 Motor vehicle arb. fee
 #### 179 👍 - Pro
 Testifying:

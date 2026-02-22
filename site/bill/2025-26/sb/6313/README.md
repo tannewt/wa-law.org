@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 6313 Capitol centennial account
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/30 10:30 AM - State Government & Elections (SGE): SB 6313 Capitol centennial account
 #### 1 👍 - Pro
 

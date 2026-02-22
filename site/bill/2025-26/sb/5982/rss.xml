@@ -180,5 +180,26 @@
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-19/ENVI - Executive action taken by committee.</guid>
 		</item>
+		<item>
+			<title>ENVI - Majority; do pass with amendment(s).</title>
+			<description>ENVI - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/ENVI - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-19/Minority; without recommendation.</guid>
+		</item>
 	</channel>
 </rss>

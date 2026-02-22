@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SSB 6034 Office of Indian affairs
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

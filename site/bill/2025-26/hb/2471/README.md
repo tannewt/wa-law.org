@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2026 [The Center Square](/org/the_center_square/) - [WA Senate advances 'trigger' bill shifting private labor disputes from feds to state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_101656c8-cec7-4b06-909f-c55d89c41be4.html#:~:text=House%20Bill%202471)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2026/#:~:text=HB%202471)
 * 01/16/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: January 19-23, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-january-19-23-2025/#:~:text=HB%202471)
 

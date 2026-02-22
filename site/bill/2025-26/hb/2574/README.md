@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 2574 Deceased candidates
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

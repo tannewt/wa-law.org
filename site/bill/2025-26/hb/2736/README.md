@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 02/20 01:30 PM - Finance (FIN): HB 2736 Estate tax rates
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

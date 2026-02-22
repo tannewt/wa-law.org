@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): SHB 2123 Foreign nationals/elections
-Sign up to testify:
-
 #### 2 👍 - Pro
 Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer / CG Edwards PLLC

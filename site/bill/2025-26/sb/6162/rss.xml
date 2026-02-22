@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6162/</link>
 		<description>Updates about SB 6162</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 22:12:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -174,6 +174,20 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Talk Monday? - Sen. Derek Stanford</title>
+			<description>News article "Talk Monday? - Sen. Derek Stanford" from Senate Democrats.</description>
+			<pubDate>Fri, 20 Feb 2026 19:09:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2026/02/20/talk-monday/#:~:text=Senate%20Bill%206162</guid>
+		</item>
+		<item>
+			<title>What we’re doing on affordability - Sen. Drew Hansen</title>
+			<description>News article "What we’re doing on affordability - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Fri, 20 Feb 2026 22:12:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%206162</guid>
 		</item>
 	</channel>
 </rss>

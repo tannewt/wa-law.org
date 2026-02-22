@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 6009 Administrative appeals
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

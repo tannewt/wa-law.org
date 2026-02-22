@@ -18,8 +18,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): 2SSB 5968 Permitting and licensing
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

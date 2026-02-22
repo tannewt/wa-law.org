@@ -11,6 +11,15 @@
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [My prime sponsored bills advancing - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2026/02/06/my-prime-sponsored-bills-advancing/#:~:text=Senate%20Bill%206044)
 
 ## Meetings
+### Tue 02/24 01:30 PM - State Government & Tribal Relations (SGOV): SB 6044 Diwali and Bandi Chhor Divas
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/27 01:30 PM - State Government & Elections (SGE): SB 6044 Diwali and Bandi Chhor Divas
 #### 31 👍 - Pro
 Testifying:

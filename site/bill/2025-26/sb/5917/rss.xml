@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5917/</link>
 		<description>Updates about SB 5917</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 18 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 21 Feb 2026 00:07:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -208,6 +208,27 @@
 			<pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205917</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-20/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado</title>
+			<description>News article "Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado" from Senate Democrats.</description>
+			<pubDate>Fri, 20 Feb 2026 20:10:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB 5917</guid>
+		</item>
+		<item>
+			<title>Millionaires Tax passes the Senate! - Sen. Jessica Bateman</title>
+			<description>News article "Millionaires Tax passes the Senate! - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Sat, 21 Feb 2026 00:07:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=SB%205917</guid>
 		</item>
 	</channel>
 </rss>

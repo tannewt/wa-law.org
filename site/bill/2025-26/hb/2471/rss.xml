@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2471/</link>
 		<description>Updates about HB 2471</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 14:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -250,6 +250,27 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-20/LC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-20/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>WA Senate advances 'trigger' bill shifting private labor disputes from feds to state | Washington | thecentersquare.com</title>
+			<description>News article "WA Senate advances 'trigger' bill shifting private labor disputes from feds to state | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Fri, 20 Feb 2026 14:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_101656c8-cec7-4b06-909f-c55d89c41be4.html#:~:text=House%20Bill%202471</guid>
 		</item>
 	</channel>
 </rss>

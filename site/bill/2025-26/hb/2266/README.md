@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=HB%202266)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=HB%202266)
 * 02/03/2026 [The Center Square](/org/the_center_square/) - [WA Democrats advance bills that could gut local camping bans with unfunded mandates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_05bacfdb-8875-4524-96b1-ace1d2068df0.html#:~:text=House%20Bill%202266)
 * 02/02/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/02/the-house-hot-sheet-for-week-4-of-the-2026-legislative-session/#:~:text=HB%202266)
@@ -20,8 +21,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Housing (HSG): ESHB 2266 Supportive & emerg. housing
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=SB%206182)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall recap - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/01/23/town-hall-recap/#:~:text=SB%206182)
 * 01/16/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [BILL ALERT: SB 6182 — New Tax on Health Carriers to Fund Abortion Access - Conservative Ladies of Washington](https://conservativeladiesofwa.com/sb6182-abortion-tax-health-carriers/#:~:text=SB%206182)
 

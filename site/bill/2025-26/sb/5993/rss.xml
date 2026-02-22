@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5993/</link>
 		<description>Updates about SB 5993</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 13 Feb 2026 13:24:37 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 22:12:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -270,6 +270,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sam/Hatzenbeler/2026-02-13 13:24:37</guid>
+		</item>
+		<item>
+			<title>What we’re doing on affordability - Sen. Drew Hansen</title>
+			<description>News article "What we’re doing on affordability - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Fri, 20 Feb 2026 22:12:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%205993</guid>
 		</item>
 	</channel>
 </rss>

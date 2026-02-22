@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=HB%202418)
+
 ## Meetings
 ### Thu 02/19 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2418 Permit review
 #### 0 👍 - Pro

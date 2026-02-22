@@ -23,8 +23,6 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): ESHB 2320 Firearm manufacturing
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

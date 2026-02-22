@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): HB 2540 EMT recertification
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

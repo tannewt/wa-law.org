@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%205974)
 * 01/27/2026 [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/) - [Washington Sheriffs Targeted Again: Is HB 2387 Really Better Than SB 5974? - Conservative Ladies of Washington](https://conservativeladiesofwa.com/washington-sheriffs-hb-2387-vs-sb-5974/#:~:text=SB%205974)
 * 01/22/2026 [MyNorthwest](/org/mynorthwest/) - [Taking aim at ICE: State bill would ban former agents from being hired as police officers - MyNorthwest.com](https://mynorthwest.com/local/ice-bill-police-officers/4191755#:~:text=Senate%20Bill%205974)
 * 01/20/2026 [MyNorthwest](/org/mynorthwest/) - [Sheriff Swank slams law enforcement oversight panel: 'They don't understand what's at stake here' - MyNorthwest.com](https://mynorthwest.com/john-curley/sheriff-swank-law-enforcement/4190758#:~:text=SB%205974)

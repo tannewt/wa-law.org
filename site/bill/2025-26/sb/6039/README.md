@@ -9,8 +9,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SSB 6039 LNI communication methods
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

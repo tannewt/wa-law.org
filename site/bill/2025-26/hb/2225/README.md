@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/19/2026 [House Democrats](/org/house_democrats/) - [Callan bill establishes protections and guidelines for AI chatbots – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/19/callan-bill-establishes-protections-and-guidelines-for-ai-chatbots/#:~:text=HB%202225)
 * 02/16/2026 [Washington St Pta](/org/washington_st_pta/) - [Fiscal Cutoff Passes, Tuesday Marks Major Deadline - WSPTA](https://www.wastatepta.org/fiscal-cutoff-passes-tuesday-marks-major-deadline/#:~:text=SHB%202225)
 * 01/27/2026 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Grapples with Slew of Bills Regulating AI » The Urbanist](https://www.theurbanist.org/2026/01/27/washington-legislature-grapples-with-slew-of-bills-regulating-ai/#:~:text=House%20Bill%202225)
 * 01/19/2026 [Washington St Pta](/org/washington_st_pta/) - [See you at Focus Day! - WSPTA](https://www.wastatepta.org/see-you-at-focus-day/#:~:text=HB%202225)

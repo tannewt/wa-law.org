@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 02/20 01:30 PM - Finance (FIN): HB 2730 Aerospace tax preferences
-Sign up to testify:
-
 #### 2 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%206026)
 * 02/06/2026 [Senate Democrats](/org/senate_democrats/) - [Funding schools by taxing millionaires - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/06/funding-schools-by-taxing-millionaires/#:~:text=SB%206026)
 * 02/02/2026 [The Urbanist](/org/the_urbanist/) - [Bill Curbing Mandates for Ground-Floor Retail Spaces Advances at Legislature » The Urbanist](https://www.theurbanist.org/2026/02/02/bill-curbing-mandates-for-ground-floor-retail-spaces-advances-at-legislature/#:~:text=Senate%20Bill%206026)
 * 01/29/2026 [Senate Democrats](/org/senate_democrats/) - [What’s moving in Olympia right now - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/01/29/whats-moving-in-olympia-right-now/#:~:text=Senate Bill 6026)
@@ -23,8 +24,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Local Government (LG): E2SSB 6026 Residential dev./zones
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

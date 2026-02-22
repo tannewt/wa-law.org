@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): HB 2632 Noncitizen terminology
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

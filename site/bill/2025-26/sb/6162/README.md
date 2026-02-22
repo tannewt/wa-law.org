@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [What we’re doing on affordability - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2026/02/20/what-were-doing-on-affordability/#:~:text=Senate%20Bill%206162)
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Talk Monday? - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/20/talk-monday/#:~:text=Senate%20Bill%206162)
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%206162)
 * 01/30/2026 [Senate Democrats](/org/senate_democrats/) - [Week Three: Property tax relief and bills are moving!  - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/30/week-three-property-tax-relief-and-bills-are-moving/#:~:text=SB%206162)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%206162)
@@ -18,6 +20,15 @@
 * 01/17/2026 [Senate Democrats](/org/senate_democrats/) - [Done with week one - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2026/01/16/done-with-week-one/#:~:text=SB%206162)
 
 ## Meetings
+### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6162 Property tax
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6162 Property tax
 #### 310 👍 - Pro
 Testifying:

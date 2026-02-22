@@ -22,8 +22,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2515 Large energy use facilities
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

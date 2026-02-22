@@ -19,6 +19,15 @@
 * 02/14/2025 [KUOW](/org/kuow/) - [KUOW - 'Mosquito Fleet Act' could bring small ferries to more Puget Sound communities](https://www.kuow.org/stories/mosquito-fleet-act-could-bring-small-ferries-to-puget-sound-communities#:~:text=House%20Bill%201923)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Transportation (TRAN): 2SHB 1923 Passenger-only ferries
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/17 04:00 PM - Transportation (TRAN): ESHB 1923 Passenger-only ferries
 #### 428 👍 - Pro
 Testifying:

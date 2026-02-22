@@ -15,6 +15,15 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205280)
 
 ## Meetings
+### Tue 02/24 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/18 01:30 PM - Consumer Protection & Business (CPB): ESB 5280 Virtual currency kiosks
 #### 8 👍 - Pro
 Testifying:

@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaires Tax passes the Senate! - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/20/millionaires-tax-passes-the-senate/#:~:text=SB%205917)
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB 5917)
 * 02/18/2026 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2026 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/02/18/the-house-hot-sheet-for-week-6-of-the-2026-legislative-session/#:~:text=SSB%205917)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Senate bills moving forward - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2026/02/13/senate-bills-moving-forward/#:~:text=SB%205917)
 * 02/12/2026 [The Center Square](/org/the_center_square/) - [WATCH: WA to distribute its store of abortion pills to clinics, possibly nationwide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_048a13b4-728e-491e-aa62-7bb0827d3d3f.html#:~:text=Senate%20Bill%205917)

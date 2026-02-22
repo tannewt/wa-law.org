@@ -11,8 +11,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 1347 Cannabis testing labs
-Sign up to testify:
-
 #### 3 👍 - Pro
 
 #### 0 👎 - Con

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Budgets revealed, another cutoff arrives as session hits its stretch run - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/20/this-week-in-the-senate-week-7-budgets-revealed-another-cutoff-arrives-as-session-hits-its-stretch-run/#:~:text=Senate%20Bill%206003)
 * 01/12/2026 [Washington St Pta](/org/washington_st_pta/) - [And … We’re Off! - WSPTA](https://www.wastatepta.org/and-were-off/#:~:text=SB%206003)
 
 ## Meetings

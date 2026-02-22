@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SB 6136 Industrial insurance rates
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): HB 1002 PTSD/coroners & examiners
-Sign up to testify:
-
 #### 21 👍 - Pro
 Testifying:
 * 💵Timothy Grisham - WASHINGTON ASSOCIATION OF COUNTY OFFICIALS

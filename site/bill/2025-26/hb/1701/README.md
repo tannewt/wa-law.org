@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Labor & Commerce (LC): 2SHB 1701 Liquor licensee premises
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

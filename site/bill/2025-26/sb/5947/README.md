@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=SB%205947)
 * 02/13/2026 [Senate Democrats](/org/senate_democrats/) - [Town hall - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/13/town-hall/#:~:text=Senate Bill 5947)
 * 02/03/2026 [Senate Democrats](/org/senate_democrats/) - [Health care movement & floor votes - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/02/03/health-care-movement-floor-votes/#:~:text=SB%205947)
 * 01/16/2026 [Senate Democrats](/org/senate_democrats/) - [Week one in review - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2026/01/16/week-one-in-review/#:~:text=SB%205947)

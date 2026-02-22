@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2689/</link>
 		<description>Updates about HB 2689</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 22:33:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-01-28/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 20 Feb 2026 22:33:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=HB%202689</guid>
 		</item>
 	</channel>
 </rss>

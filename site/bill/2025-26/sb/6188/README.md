@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SB 6188 Asbestos training rules
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

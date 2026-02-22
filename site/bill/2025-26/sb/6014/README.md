@@ -14,8 +14,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SSB 6014 Pregnancy accommodations
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

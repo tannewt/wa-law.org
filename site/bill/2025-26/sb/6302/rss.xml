@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/6302/</link>
 		<description>Updates about SB 6302</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 17 Feb 2026 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Feb 2026 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,13 @@
 			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2026-02-17/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2026-02-20/LAWS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

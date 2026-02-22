@@ -10,8 +10,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health & Long Term Care (HLTC): 2SHB 2384 Continuing care retirement
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

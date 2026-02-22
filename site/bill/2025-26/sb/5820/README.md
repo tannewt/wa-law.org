@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February update from Olympia - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%205820)
 * 01/24/2026 [Senate Democrats](/org/senate_democrats/) - [2026 legislative session update - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/01/23/2026-legislative-session-update/#:~:text=Senate%20Bill%205820)
 
 ## Meetings

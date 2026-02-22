@@ -10,6 +10,15 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Transportation (TR): E2SSB 6066 Crash prevention zones
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/02 04:00 PM - Transportation (TRAN): SSB 6066 Crash prevention zones
 #### 285 👍 - Pro
 Testifying:

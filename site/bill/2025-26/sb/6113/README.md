@@ -13,6 +13,15 @@
 * 02/09/2026 [Washington St Pta](/org/washington_st_pta/) - [House Finance Committee Exempts K-12 Schools from Sales Tax Extension  - WSPTA](https://www.wastatepta.org/house-finance-committee-exempts-k-12-schools-from-sales-tax-extension/#:~:text=SB%206113)
 
 ## Meetings
+### Fri 02/27 08:00 AM - Finance (FIN): ESSB 6113 Tax administration
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/22 04:00 PM - Ways & Means (WM): SB 6113 Tax administration
 #### 7 👍 - Pro
 Testifying:

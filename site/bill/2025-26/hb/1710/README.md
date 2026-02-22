@@ -11,6 +11,7 @@
 * [Engrossed Third Substitute](S3.E/)
 
 ## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Millionaire’s Tax, Bill Updates, and Town Hall on Monday - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2026/02/20/session-update-and-monday-town-hall/#:~:text=HB%201710)
 * 01/28/2026 [House Democrats](/org/house_democrats/) - [Members of Color Caucus Announce 2026 Legislative Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2026/01/28/members-of-color-caucus-announce-2026-legislative-priorities/#:~:text=HB%201710)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201710)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201710)
@@ -18,8 +19,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - State Government & Elections (SGE): E3SHB 1710 Voting rights act compliance
-Sign up to testify:
-
 #### 141 👍 - Pro
 
 #### 0 👎 - Con

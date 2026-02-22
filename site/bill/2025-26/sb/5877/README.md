@@ -8,8 +8,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SB 5877 Anesth. assistant surcharges
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

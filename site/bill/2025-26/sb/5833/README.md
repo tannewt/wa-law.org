@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%205833)
 * 01/26/2026 [Axios](/org/axios/) - [Washington state bill would allow leaving cars running to protect pets - Axios Seattle](https://www.axios.com/local/seattle/2026/01/26/washington-state-pet-safety-idling-law-bill-2026#:~:text=Senate%20Bill%205833)
 
 ## Meetings

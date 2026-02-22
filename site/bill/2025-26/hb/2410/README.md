@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/27 01:30 PM - Transportation (TRAN): SHB 2410 Commercial truck council
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/26 01:30 PM - Transportation (TRAN): SHB 2410 Commercial truck council
 Sign up to testify:
 

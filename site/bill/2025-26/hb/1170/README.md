@@ -23,8 +23,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 1170 AI content notices
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

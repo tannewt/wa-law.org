@@ -12,8 +12,6 @@
 
 ## Meetings
 ### Fri 02/20 02:00 PM - Law & Justice (LAW): EHB 2156 AGO investigator authority
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

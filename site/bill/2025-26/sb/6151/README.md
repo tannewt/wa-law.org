@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): SB 6151 Env. programs/fee accounts
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/20 04:00 PM - Ways & Means (WM): SB 6151 Env. programs/fee accounts
 #### 6 👍 - Pro
 Testifying:

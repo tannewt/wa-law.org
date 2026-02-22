@@ -15,8 +15,6 @@
 
 ## Meetings
 ### Fri 02/20 10:30 AM - Environment, Energy & Technology (ENET): E2SHB 2416 Waste to energy facilities
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

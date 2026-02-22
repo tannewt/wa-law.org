@@ -13,8 +13,6 @@
 
 ## Meetings
 ### Fri 02/20 08:00 AM - Health Care & Wellness (HCW): SSB 5185 International med. pathways
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 1 👎 - Con

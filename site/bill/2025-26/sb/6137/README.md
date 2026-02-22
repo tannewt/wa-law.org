@@ -6,10 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February update from Olympia - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2026/02/20/february-update/#:~:text=Senate%20Bill%206137)
+
 ## Meetings
 ### Fri 02/20 08:00 AM - State Government & Tribal Relations (SGOV): SB 6137 Regulated sports wagering
-Sign up to testify:
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

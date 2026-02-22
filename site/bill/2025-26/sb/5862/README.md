@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/26 01:30 PM - Appropriations (APP): SSB 5862 TRS & PERS plan 1 COLA
+Sign up to testify:
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/05 01:30 PM - Ways & Means (WM): SB 5862 TRS & PERS plan 1 COLA
 #### 1432 👍 - Pro
 Testifying:

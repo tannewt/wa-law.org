@@ -9,6 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2026 [House Republicans](/org/house_republicans/) - [The Week Ahead: February 23 – 27, 2026 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-23-27-2026/#:~:text=SB%206346)
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Budgets revealed, another cutoff arrives as session hits its stretch run - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2026/02/20/this-week-in-the-senate-week-7-budgets-revealed-another-cutoff-arrives-as-session-hits-its-stretch-run/#:~:text=Senate%20Bill%206346)
+* 02/20/2026 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers work to keep bipartisan public defense proposals alive • Washington State Standard](https://washingtonstatestandard.com/2026/02/20/wa-lawmakers-work-to-keep-bipartisan-public-defense-proposals-alive/#:~:text=proposed%20income%20tax)
+* 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [Talk Monday? - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2026/02/20/talk-monday/#:~:text=Senate%20Bill 6346)
 * 02/20/2026 [Senate Democrats](/org/senate_democrats/) - [February legislative update - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2026/02/19/february-legislative-update/#:~:text=Millionaires%20Tax)
 * 02/19/2026 [Senate Democrats](/org/senate_democrats/) - [Where things stand in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2026/02/19/where-things-stand-in-olympia/#:~:text=Senate%20Bill%206346)
 * 02/19/2026 [The Center Square](/org/the_center_square/) - [WATCH: Could a WA income tax sink chances of Sonics return to Seattle? | National | thecentersquare.com](https://www.thecentersquare.com/national/article_faf025f3-cf18-4cb7-aa19-907760238841.html#:~:text=millionaire’s%20tax)
